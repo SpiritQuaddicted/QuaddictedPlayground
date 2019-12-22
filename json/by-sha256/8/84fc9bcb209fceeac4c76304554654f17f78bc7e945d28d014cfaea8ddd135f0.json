@@ -1,0 +1,66 @@
+{
+ "version": "20191222-0",
+ "sha256": "84fc9bcb209fceeac4c76304554654f17f78bc7e945d28d014cfaea8ddd135f0",
+ "filename": [
+  "sm164_pack.zip"
+ ],
+ "size": 2197,
+ "releasedate": "2011-06-06",
+ "tags": [
+  "title:Speedmapping pack 164 - Unthemed",
+  "author:digs",
+  "author:necros",
+  "author:negke",
+  "author:ZealousQuakeFan",
+  "dependency:quoth",
+  "startmap:sm164_digs",
+  "startmap:sm164_necros",
+  "startmap:sm164_negke",
+  "startmap:sm164_zqf1"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "files": {
+  "sm164_digs.bsp": {
+   "size": 554644,
+   "timestamp": "2011-06-03"
+  },
+  "sm164_digs.map": {
+   "size": 271546,
+   "timestamp": "2011-06-03"
+  },
+  "sm164_necros.bsp": {
+   "size": 1692432,
+   "timestamp": "2011-06-05"
+  },
+  "sm164_necros.lit": {
+   "size": 558368,
+   "timestamp": "2011-06-05"
+  },
+  "sm164_negke.bsp": {
+   "size": 1523148,
+   "timestamp": "2011-06-05"
+  },
+  "sm164_pack.txt": {
+   "size": 1579,
+   "timestamp": "2011-06-06"
+  },
+  "sm164_zqf1.bsp": {
+   "size": 511912,
+   "timestamp": "2011-06-06"
+  },
+  "sm164_zqf2.bsp": {
+   "size": 665440,
+   "timestamp": "2011-06-06"
+  },
+  "sm164_zqf3.bsp": {
+   "size": 1396708,
+   "timestamp": "2011-06-06"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm164_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/84fc9bcb209fceeac4c76304554654f17f78bc7e945d28d014cfaea8ddd135f0/sm164_pack.zip"
+ ]
+}

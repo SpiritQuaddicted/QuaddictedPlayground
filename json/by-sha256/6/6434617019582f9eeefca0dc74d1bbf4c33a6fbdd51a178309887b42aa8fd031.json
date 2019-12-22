@@ -1,0 +1,281 @@
+{
+ "version": "20191222-0",
+ "sha256": "6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031",
+ "filename": [
+  "func_mapjam1.zip"
+ ],
+ "size": 22609,
+ "releasedate": "2014-07-06",
+ "tags": [
+  "title:Func Map Jam 1 - Honey Theme",
+  "author:ArrrCee",
+  "author:digs",
+  "author:DOOMer",
+  "author:ericw",
+  "author:FifthElephant",
+  "author:ionous/mfx",
+  "author:mechtech",
+  "author:onetruepurple",
+  "author:RickyT23",
+  "author:Scampie",
+  "author:skacky",
+  "author:sock",
+  "tag:large",
+  "tag:medium",
+  "tag:small",
+  "tag:medieval",
+  "tag:cistern",
+  "tag:bricks",
+  "tag:fog",
+  "tag:source",
+  "tag:honey",
+  "tag:jam",
+  "tag:mfx",
+  "tag:chains",
+  "startmap:jam1_arrrcee",
+  "startmap:jam1_digs",
+  "startmap:jam1_doomer",
+  "startmap:jam1_ericw",
+  "startmap:jam1_fifth",
+  "startmap:jam1_ionous",
+  "startmap:jam1_mechtech",
+  "startmap:jam1_otp",
+  "startmap:jam1_rickyt23",
+  "startmap:jam1_scampie",
+  "startmap:jam1_skacky",
+  "startmap:jam1_sock"
+ ],
+ "install": {
+  "extract": "{quake}/func_mapjam1/"
+ },
+ "files": {
+  "docs/jam1_arrrcee.txt": {
+   "size": 1309,
+   "timestamp": "2014-07-01"
+  },
+  "docs/jam1_doomer.txt": {
+   "size": 1893,
+   "timestamp": "2014-07-03"
+  },
+  "docs/jam1_fifth.txt": {
+   "size": 2643,
+   "timestamp": "2014-06-30"
+  },
+  "docs/jam1_ionous.txt": {
+   "size": 3442,
+   "timestamp": "2014-07-03"
+  },
+  "docs/jam1_ionous_d.txt": {
+   "size": 3700,
+   "timestamp": "2014-07-06"
+  },
+  "docs/jam1_skacky.txt": {
+   "size": 1390,
+   "timestamp": "2014-06-25"
+  },
+  "docs/jam1_sock.txt": {
+   "size": 2464,
+   "timestamp": "2014-07-06"
+  },
+  "func_mapjam1_readme.txt": {
+   "size": 2802,
+   "timestamp": "2014-07-06"
+  },
+  "maps/jam1_arrrcee.bsp": {
+   "size": 3508548,
+   "timestamp": "2014-07-01"
+  },
+  "maps/jam1_arrrcee.lit": {
+   "size": 1162925,
+   "timestamp": "2014-07-01"
+  },
+  "maps/jam1_digs.bsp": {
+   "size": 4201204,
+   "timestamp": "2014-07-02"
+  },
+  "maps/jam1_doomer.bsp": {
+   "size": 2662200,
+   "timestamp": "2014-07-03"
+  },
+  "maps/jam1_ericw.bsp": {
+   "size": 2086400,
+   "timestamp": "2014-06-30"
+  },
+  "maps/jam1_fifth.bsp": {
+   "size": 2774387,
+   "timestamp": "2014-06-30"
+  },
+  "maps/jam1_ionous.bsp": {
+   "size": 4600720,
+   "timestamp": "2014-07-05"
+  },
+  "maps/jam1_ionous.lit": {
+   "size": 1266206,
+   "timestamp": "2014-07-05"
+  },
+  "maps/jam1_mechtech.bsp": {
+   "size": 2223443,
+   "timestamp": "2014-07-02"
+  },
+  "maps/jam1_mechtech.lit": {
+   "size": 526499,
+   "timestamp": "2014-07-02"
+  },
+  "maps/jam1_otp.bsp": {
+   "size": 3385076,
+   "timestamp": "2014-07-01"
+  },
+  "maps/jam1_rickyt23.bsp": {
+   "size": 2275656,
+   "timestamp": "2014-07-02"
+  },
+  "maps/jam1_scampie.bsp": {
+   "size": 5698828,
+   "timestamp": "2014-06-30"
+  },
+  "maps/jam1_scampie.lit": {
+   "size": 3838970,
+   "timestamp": "2014-06-30"
+  },
+  "maps/jam1_skacky.bsp": {
+   "size": 8878138,
+   "timestamp": "2014-06-25"
+  },
+  "maps/jam1_sock.bsp": {
+   "size": 4797160,
+   "timestamp": "2014-07-06"
+  },
+  "maps/jam1_sock.lit": {
+   "size": 1464473,
+   "timestamp": "2014-07-06"
+  },
+  "progs/backpack.mdl": {
+   "size": 25812,
+   "timestamp": "2014-07-05"
+  },
+  "progs/end3.mdl": {
+   "size": 19700,
+   "timestamp": "2014-07-05"
+  },
+  "progs/end4.mdl": {
+   "size": 19220,
+   "timestamp": "2014-07-05"
+  },
+  "progs/flame2.mdl": {
+   "size": 74548,
+   "timestamp": "2014-01-09"
+  },
+  "progs/grenade.mdl": {
+   "size": 3860,
+   "timestamp": "2014-07-05"
+  },
+  "progs/invulner.mdl": {
+   "size": 21412,
+   "timestamp": "2014-07-05"
+  },
+  "progs/k_spike.mdl": {
+   "size": 5492,
+   "timestamp": "2014-07-05"
+  },
+  "progs/missile.mdl": {
+   "size": 8372,
+   "timestamp": "2014-07-05"
+  },
+  "progs/quaddama.mdl": {
+   "size": 22052,
+   "timestamp": "2014-07-05"
+  },
+  "progs/s_spike.mdl": {
+   "size": 1396,
+   "timestamp": "2014-07-05"
+  },
+  "progs/spike.mdl": {
+   "size": 1396,
+   "timestamp": "2014-07-05"
+  },
+  "progs/v_spike.mdl": {
+   "size": 9012,
+   "timestamp": "2014-07-05"
+  },
+  "progs/w_g_key.mdl": {
+   "size": 10196,
+   "timestamp": "2014-07-05"
+  },
+  "progs/w_s_key.mdl": {
+   "size": 10132,
+   "timestamp": "2014-07-05"
+  },
+  "progs/w_spike.mdl": {
+   "size": 6356,
+   "timestamp": "2014-07-05"
+  },
+  "progs/zom_gib.mdl": {
+   "size": 19768,
+   "timestamp": "2014-07-05"
+  },
+  "quake.rc": {
+   "size": 1193,
+   "timestamp": "2014-07-06"
+  },
+  "source/jam1_arrrcee.map": {
+   "size": 341211,
+   "timestamp": "2014-07-01"
+  },
+  "source/jam1_digs.map": {
+   "size": 1515617,
+   "timestamp": "2014-07-02"
+  },
+  "source/jam1_doomer.map": {
+   "size": 873180,
+   "timestamp": "2014-07-03"
+  },
+  "source/jam1_ericw.map": {
+   "size": 2219924,
+   "timestamp": "2014-06-30"
+  },
+  "source/jam1_fifth.map": {
+   "size": 1171553,
+   "timestamp": "2014-06-30"
+  },
+  "source/jam1_ionous.map": {
+   "size": 2578613,
+   "timestamp": "2014-07-05"
+  },
+  "source/jam1_mechtech.map": {
+   "size": 1215127,
+   "timestamp": "2014-07-02"
+  },
+  "source/jam1_mechtech.rmf": {
+   "size": 5070053,
+   "timestamp": "2014-07-02"
+  },
+  "source/jam1_otp.map": {
+   "size": 688695,
+   "timestamp": "2014-07-01"
+  },
+  "source/jam1_rickyt23.map": {
+   "size": 869731,
+   "timestamp": "2014-07-01"
+  },
+  "source/jam1_rickyt23.rmf": {
+   "size": 3240874,
+   "timestamp": "2014-07-01"
+  },
+  "source/jam1_scampie.map": {
+   "size": 1869546,
+   "timestamp": "2014-06-30"
+  },
+  "source/jam1_skacky.map": {
+   "size": 5816456,
+   "timestamp": "2014-06-25"
+  },
+  "source/jam1_sock.map": {
+   "size": 3000570,
+   "timestamp": "2014-07-06"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam1.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031/func_mapjam1.zip"
+ ]
+}

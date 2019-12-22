@@ -1,0 +1,47 @@
+{
+ "version": "20191222-0",
+ "sha256": "5326aa8cf15b97b66882f9c4a9114fcc5f103ecf1e19281451fba42f1bceb366",
+ "filename": [
+  "sm135_pack.zip"
+ ],
+ "size": 903,
+ "releasedate": "2007-09-17",
+ "tags": [
+  "title:Speedmapping pack 135 - Unthemed",
+  "author:Ankh",
+  "author:generic",
+  "author:lurker",
+  "startmap:sm135_generic",
+  "startmap:sm135_ankh",
+  "startmap:sm135_lurker"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm135_generic.bsp": {
+   "size": 821636,
+   "timestamp": "2007-09-15"
+  },
+  "sm135_lurker.bsp": {
+   "size": 521764,
+   "timestamp": "2007-09-16"
+  },
+  "sm135_generic.map": {
+   "size": 373172,
+   "timestamp": "2007-09-15"
+  },
+  "sm135_ankh.bsp": {
+   "size": 840784,
+   "timestamp": "2007-09-14"
+  },
+  "sm135_pack.txt": {
+   "size": 1293,
+   "timestamp": "2007-09-17"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm135_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5326aa8cf15b97b66882f9c4a9114fcc5f103ecf1e19281451fba42f1bceb366/sm135_pack.zip"
+ ]
+}

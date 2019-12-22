@@ -1,0 +1,46 @@
+{
+ "version": "20191222-0",
+ "sha256": "d284ae2ca353090e9ebef4825a145c7e094742a6de8aa3133f4670bd1a255fed",
+ "filename": [
+  "sm171_pack.zip"
+ ],
+ "size": 804,
+ "releasedate": "2013-06-03",
+ "tags": [
+  "title:Speedmapping pack 171 - Bricks",
+  "author:Cocerello",
+  "author:digs",
+  "author:Scampie",
+  "tag:quoth",
+  "tag:big",
+  "dependency:quoth",
+  "startmap:sm171_cocerello",
+  "startmap:sm171_digs",
+  "startmap:sm171_scampie"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "files": {
+  "sm171_cocerello.bsp": {
+   "size": 841996,
+   "timestamp": "2013-06-03"
+  },
+  "sm171_cocerello.txt": {
+   "size": 3979,
+   "timestamp": "2013-06-03"
+  },
+  "sm171_digs.bsp": {
+   "size": 958464,
+   "timestamp": "2013-06-02"
+  },
+  "sm171_scampie.bsp": {
+   "size": 464311,
+   "timestamp": "2013-06-03"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm171_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d284ae2ca353090e9ebef4825a145c7e094742a6de8aa3133f4670bd1a255fed/sm171_pack.zip"
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "version": "20191222-0",
+ "sha256": "0e59751801a4d3ed1153c56f393081c2e25ff2ada94fb2ba9ed905027ead8676",
+ "filename": [
+  "demonslair.zip"
+ ],
+ "size": 406,
+ "releasedate": "1999-09-02",
+ "tags": [
+  "title:The Demons Lair",
+  "author:Peter Bisseker (tiddles)",
+  "tag:metal",
+  "tag:hard",
+  "tag:coop",
+  "tag:medium",
+  "startmap:demons"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "demons.bsp": {
+   "size": 1023984,
+   "timestamp": "1999-09-02"
+  },
+  "demons-lair.txt": {
+   "size": 2270,
+   "timestamp": "1999-09-02"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/demonslair.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0e59751801a4d3ed1153c56f393081c2e25ff2ada94fb2ba9ed905027ead8676/demonslair.zip"
+ ]
+}

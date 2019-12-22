@@ -1,0 +1,39 @@
+{
+ "version": "20191222-0",
+ "sha256": "dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49",
+ "filename": [
+  "prison2.zip"
+ ],
+ "size": 451,
+ "releasedate": "1997-01-21",
+ "tags": [
+  "title:Prison",
+  "author:Anders Gustavsson",
+  "tag:small",
+  "tag:wizard",
+  "tag:source",
+  "tag:explorative",
+  "startmap:prison"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "prison.txt": {
+   "size": 1173,
+   "timestamp": "1997-01-21"
+  },
+  "prison.map": {
+   "size": 275531,
+   "timestamp": "1997-01-21"
+  },
+  "prison.bsp": {
+   "size": 1013916,
+   "timestamp": "1997-01-21"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/prison2.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49/prison2.zip"
+ ]
+}

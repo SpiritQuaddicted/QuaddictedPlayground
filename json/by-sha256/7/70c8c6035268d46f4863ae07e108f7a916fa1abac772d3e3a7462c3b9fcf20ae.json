@@ -1,0 +1,44 @@
+{
+ "version": "20191222-0",
+ "sha256": "70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae",
+ "filename": [
+  "golgotha.zip"
+ ],
+ "size": 1556,
+ "releasedate": "1999-08-13",
+ "tags": [
+  "title:Castle Golgotha",
+  "author:Tim Elek",
+  "tag:medieval",
+  "tag:wizard",
+  "tag:medium",
+  "tag:start",
+  "tag:planetquake-map-of-the-week",
+  "startmap:gol_st"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "GOL_ST.bsp": {
+   "size": 621316,
+   "timestamp": "1999-08-12"
+  },
+  "golgotha.txt": {
+   "size": 2865,
+   "timestamp": "1999-08-13"
+  },
+  "C_GOL.bsp": {
+   "size": 1511208,
+   "timestamp": "1999-08-13"
+  },
+  "M_GOL.bsp": {
+   "size": 1547804,
+   "timestamp": "1999-08-13"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/golgotha.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae/golgotha.zip"
+ ]
+}

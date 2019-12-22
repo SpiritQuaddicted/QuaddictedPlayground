@@ -1,0 +1,65 @@
+{
+ "version": "20191222-0",
+ "sha256": "4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686",
+ "filename": [
+  "sm15_pack.zip"
+ ],
+ "size": 1270,
+ "releasedate": "2001-05-20",
+ "tags": [
+  "title:Speedmapping pack 15 - Unthemed",
+  "author:Apollo",
+  "author:Cybear",
+  "author:NotoriousRay",
+  "author:Blitz",
+  "author:XeNoN",
+  "tag:rubicon",
+  "startmap:sm15_blitz",
+  "startmap:sm15_ray",
+  "startmap:sm15_bear",
+  "startmap:sm15_ap",
+  "startmap:sm15_xenon2",
+  "startmap:sm15_xenon1"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm15_bear.bsp": {
+   "size": 1021132,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_xenon1.bsp": {
+   "size": 548878,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_ap.bsp": {
+   "size": 356496,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_xenon2.bsp": {
+   "size": 1330270,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_bear.txt": {
+   "size": 818,
+   "timestamp": "2001-05-19"
+  },
+  "sm15_ray.bsp": {
+   "size": 576616,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_blitz.bsp": {
+   "size": 325624,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_pack.txt": {
+   "size": 2368,
+   "timestamp": "2001-05-20"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm15_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686/sm15_pack.zip"
+ ]
+}

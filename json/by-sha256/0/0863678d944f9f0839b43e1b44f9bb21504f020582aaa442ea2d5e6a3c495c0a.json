@@ -1,0 +1,63 @@
+{
+ "version": "20191222-0",
+ "sha256": "0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a",
+ "filename": [
+  "retro_mfx_fix.zip"
+ ],
+ "size": 2584,
+ "releasedate": "2014-11-29",
+ "tags": [
+  "title:Arlyeh Center for Heart Diseases",
+  "author:mfx",
+  "tag:medieval",
+  "tag:traps",
+  "tag:retro jam",
+  "tag:retrojam",
+  "dependency:retrojam1"
+ ],
+ "install": {
+  "extract": "{quake}/retrojam1/"
+ },
+ "files": {
+  "gfx/env/red_bk.tga": {
+   "size": 619027,
+   "timestamp": "2014-11-29"
+  },
+  "gfx/env/red_dn.tga": {
+   "size": 672467,
+   "timestamp": "2014-11-29"
+  },
+  "gfx/env/red_ft.tga": {
+   "size": 664453,
+   "timestamp": "2014-11-29"
+  },
+  "gfx/env/red_lf.tga": {
+   "size": 634654,
+   "timestamp": "2014-11-29"
+  },
+  "gfx/env/red_rt.tga": {
+   "size": 630646,
+   "timestamp": "2014-11-29"
+  },
+  "gfx/env/red_up.tga": {
+   "size": 446254,
+   "timestamp": "2014-11-29"
+  },
+  "maps/retro_mfx.bsp": {
+   "size": 2676823,
+   "timestamp": "2014-11-24"
+  },
+  "maps/retro_mfx.lit": {
+   "size": 1182323,
+   "timestamp": "2014-11-24"
+  },
+  "retro_mfx.txt": {
+   "size": 150,
+   "timestamp": "2014-11-29"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/retro_mfx_fix.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a/retro_mfx_fix.zip"
+ ]
+}

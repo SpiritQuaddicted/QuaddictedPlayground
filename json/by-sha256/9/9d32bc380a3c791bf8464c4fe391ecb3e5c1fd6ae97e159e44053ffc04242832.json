@@ -1,0 +1,71 @@
+{
+ "version": "20191222-0",
+ "sha256": "9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832",
+ "filename": [
+  "arcextra.zip"
+ ],
+ "size": 24925,
+ "releasedate": "2012-11-06",
+ "tags": [
+  "title:Arcanum Bonus Maps",
+  "author:Tronyn",
+  "tag:fantasy",
+  "tag:medieval",
+  "tag:drake",
+  "tag:wizard",
+  "tag:heretic",
+  "tag:small",
+  "tag:medium",
+  "tag:industrial",
+  "tag:textures",
+  "tag:monsters",
+  "tag:music",
+  "startmap:arcextra1",
+  "startmap:arcextra2"
+ ],
+ "install": {
+  "extract": "{quake}/arcextra/"
+ },
+ "files": {
+  "arcextra_readme.txt": {
+   "size": 1918,
+   "timestamp": "2012-11-06"
+  },
+  "maps/arcextra1.bsp": {
+   "size": 3960860,
+   "timestamp": "2012-11-06"
+  },
+  "maps/arcextra2.bsp": {
+   "size": 5390304,
+   "timestamp": "2012-11-06"
+  },
+  "pak0.pak": {
+   "size": 25051624,
+   "timestamp": "2011-06-12"
+  },
+  "pak1.pak": {
+   "size": 11698993,
+   "timestamp": "2011-06-12"
+  },
+  "pak2.pak": {
+   "size": 4748118,
+   "timestamp": "2011-10-24"
+  },
+  "progs.dat": {
+   "size": 1719704,
+   "timestamp": "2011-10-24"
+  },
+  "sound/music/heretic.wav": {
+   "size": 1233528,
+   "timestamp": "2012-11-06"
+  },
+  "sound/music/rogue.wav": {
+   "size": 2116536,
+   "timestamp": "2012-11-06"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/arcextra.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832/arcextra.zip"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "version": "20191222-0",
+ "sha256": "c5371643c56e4f6f13a38ebad05c6210bdb17dbf5840e1dfce482f70a40d2634",
+ "filename": [
+  "sm115_pack.zip"
+ ],
+ "size": 571,
+ "releasedate": "2005-12-20",
+ "tags": [
+  "title:Speedmapping pack 115 - Ziggurat",
+  "author:bambuz",
+  "author:generic",
+  "author:negke",
+  "startmap:sm115_bam",
+  "startmap:sm115_neg!ke",
+  "startmap:sm115_generic"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm115_bam.bsp": {
+   "size": 218944,
+   "timestamp": "2005-12-17"
+  },
+  "sm115_neg!ke.bsp": {
+   "size": 1055960,
+   "timestamp": "2005-12-18"
+  },
+  "sm115_pack.txt": {
+   "size": 1351,
+   "timestamp": "2005-12-20"
+  },
+  "sm115_generic.bsp": {
+   "size": 525996,
+   "timestamp": "2005-12-20"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm115_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c5371643c56e4f6f13a38ebad05c6210bdb17dbf5840e1dfce482f70a40d2634/sm115_pack.zip"
+ ]
+}

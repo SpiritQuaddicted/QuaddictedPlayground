@@ -1,0 +1,47 @@
+{
+ "version": "20191222-0",
+ "sha256": "7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b",
+ "filename": [
+  "sm106_pack.zip"
+ ],
+ "size": 884,
+ "releasedate": "2005-10-02",
+ "tags": [
+  "title:Speedmapping pack 106 - Partially submerged",
+  "author:generic",
+  "author:Pulsar",
+  "author:TextFish",
+  "startmap:SM106_TextFish",
+  "startmap:sm106_pulsar",
+  "startmap:sm106_generic"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm106_generic.bsp": {
+   "size": 529944,
+   "timestamp": "2004-03-07"
+  },
+  "sm106_pulsar.bsp": {
+   "size": 1016264,
+   "timestamp": "2005-10-01"
+  },
+  "SM106_TextFish.bsp": {
+   "size": 521040,
+   "timestamp": "2005-10-02"
+  },
+  "sm106_textfish.txt": {
+   "size": 304,
+   "timestamp": "2005-10-02"
+  },
+  "sm106_pack.txt": {
+   "size": 1380,
+   "timestamp": "2004-03-08"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm106_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b/sm106_pack.zip"
+ ]
+}

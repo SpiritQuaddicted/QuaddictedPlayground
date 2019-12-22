@@ -1,0 +1,34 @@
+{
+ "version": "20191222-0",
+ "sha256": "724acc0a88f1718f9613dca4e78fa9710eb49a3d3b0360b3eec8d5d016821f73",
+ "filename": [
+  "mountbase.zip"
+ ],
+ "size": 481,
+ "releasedate": "1997-10-11",
+ "tags": [
+  "title:Mountain Base",
+  "author:Jarkko Heilio",
+  "tag:small",
+  "tag:plain",
+  "tag:medium",
+  "tag:base"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "mountbase.txt": {
+   "size": 2850,
+   "timestamp": "1997-10-11"
+  },
+  "mountbase.bsp": {
+   "size": 1129072,
+   "timestamp": "1997-10-10"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/mountbase.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/724acc0a88f1718f9613dca4e78fa9710eb49a3d3b0360b3eec8d5d016821f73/mountbase.zip"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "version": "20191222-0",
+ "sha256": "fbcd19b85e2c1942f326c58b7c2496c88cce174a7643a430ae20b6746b5b78e6",
+ "filename": [
+  "warpspasm.zip"
+ ],
+ "size": 42296,
+ "releasedate": "2007-05-10",
+ "tags": [
+  "title:Warp Spasm",
+  "author:ijed",
+  "tag:huge",
+  "tag:difficult",
+  "tag:epic",
+  "tag:episode",
+  "tag:evil",
+  "tag:industrial",
+  "tag:base",
+  "tag:medieval",
+  "tag:music",
+  "tag:quoth",
+  "tag:horror",
+  "tag:exhausting",
+  "tag:mustplay",
+  "dependency:quoth",
+  "startmap:start"
+ ],
+ "install": {
+  "extract": "{quake}/"
+ },
+ "files": {
+  "winwarp.exe": {
+   "size": 530432,
+   "timestamp": "2007-04-14"
+  },
+  "warp/org8.jpg": {
+   "size": 20822,
+   "timestamp": "2007-05-11"
+  },
+  "warp/pak1.pak": {
+   "size": 20950651,
+   "timestamp": "2007-05-11"
+  },
+  "warp/pak2.pak": {
+   "size": 19266,
+   "timestamp": "2007-04-20"
+  },
+  "warp/readme.html": {
+   "size": 97417,
+   "timestamp": "2007-05-11"
+  },
+  "warp/pak0.pak": {
+   "size": 64411560,
+   "timestamp": "2007-05-11"
+  },
+  "warp/autoexec.cfg": {
+   "size": 135,
+   "timestamp": "2007-04-30"
+  },
+  "nehwarp.exe": {
+   "size": 500736,
+   "timestamp": "2007-04-20"
+  },
+  "FMOD.DLL": {
+   "size": 117760,
+   "timestamp": "2001-02-19"
+  },
+  "glwarp.exe": {
+   "size": 425984,
+   "timestamp": "2007-04-14"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/warpspasm.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fbcd19b85e2c1942f326c58b7c2496c88cce174a7643a430ae20b6746b5b78e6/warpspasm.zip"
+ ]
+}

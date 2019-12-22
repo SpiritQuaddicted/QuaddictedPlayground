@@ -1,0 +1,33 @@
+{
+ "version": "20191222-0",
+ "sha256": "79455694ef4e247f0d56785e0b2e2864ca1022c686c203078ccaaed2a20ca330",
+ "filename": [
+  "thecrypt.zip"
+ ],
+ "size": 402,
+ "releasedate": "1998-03-21",
+ "tags": [
+  "title:The Crypt",
+  "author:Repo",
+  "tag:small",
+  "tag:metal",
+  "tag:traps"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "thecrypt.txt": {
+   "size": 1328,
+   "timestamp": "1998-03-21"
+  },
+  "thecrypt.bsp": {
+   "size": 882312,
+   "timestamp": "1998-03-19"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/thecrypt.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/79455694ef4e247f0d56785e0b2e2864ca1022c686c203078ccaaed2a20ca330/thecrypt.zip"
+ ]
+}

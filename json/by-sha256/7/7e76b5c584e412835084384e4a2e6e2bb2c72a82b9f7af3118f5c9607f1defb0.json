@@ -1,0 +1,78 @@
+{
+ "version": "20191222-0",
+ "sha256": "7e76b5c584e412835084384e4a2e6e2bb2c72a82b9f7af3118f5c9607f1defb0",
+ "filename": [
+  "wishwell.zip"
+ ],
+ "size": 556,
+ "releasedate": "1997-03-22",
+ "tags": [
+  "title:The Wishing Well",
+  "author:Tom Cleghorn aka Murgatroyd",
+  "tag:small",
+  "tag:wizard",
+  "tag:rectangular",
+  "tag:mixtex",
+  "tag:textures",
+  "tag:monsters",
+  "tag:dm",
+  "startmap:ff"
+ ],
+ "install": {
+  "extract": "{quake}/wishwell/"
+ },
+ "files": {
+  "PROGS.DAT": {
+   "size": 419132,
+   "timestamp": "1997-03-22"
+  },
+  "SPIDER.TXT": {
+   "size": 2668,
+   "timestamp": "1997-03-21"
+  },
+  "sound/spider/idle2.wav": {
+   "size": 15492,
+   "timestamp": "1997-03-21"
+  },
+  "sound/spider/idle.wav": {
+   "size": 40134,
+   "timestamp": "1997-03-21"
+  },
+  "sound/spider/death.wav": {
+   "size": 13306,
+   "timestamp": "1997-03-21"
+  },
+  "sound/spider/sight.wav": {
+   "size": 17400,
+   "timestamp": "1997-03-21"
+  },
+  "sound/spider/pain.wav": {
+   "size": 3894,
+   "timestamp": "1997-03-21"
+  },
+  "sound/spider/attack2.wav": {
+   "size": 15930,
+   "timestamp": "1997-03-21"
+  },
+  "sound/spider/attack.wav": {
+   "size": 19224,
+   "timestamp": "1997-03-21"
+  },
+  "PROGS/SPIDER.MDL": {
+   "size": 94492,
+   "timestamp": "1996-10-09"
+  },
+  "MAPS/ff.bsp": {
+   "size": 741120,
+   "timestamp": "1997-03-21"
+  },
+  "FF.TXT": {
+   "size": 7673,
+   "timestamp": "1997-03-22"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/wishwell.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7e76b5c584e412835084384e4a2e6e2bb2c72a82b9f7af3118f5c9607f1defb0/wishwell.zip"
+ ]
+}

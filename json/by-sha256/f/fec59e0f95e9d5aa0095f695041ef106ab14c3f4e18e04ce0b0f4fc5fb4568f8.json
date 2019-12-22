@@ -1,0 +1,50 @@
+{
+ "version": "20191222-0",
+ "sha256": "fec59e0f95e9d5aa0095f695041ef106ab14c3f4e18e04ce0b0f4fc5fb4568f8",
+ "filename": [
+  "sm4_pack.zip"
+ ],
+ "size": 312,
+ "releasedate": "2001-04-01",
+ "tags": [
+  "title:Speedmapping pack 4 - Unthemed",
+  "author:Vondur",
+  "author:Cybear",
+  "author:Aru",
+  "author:XeNoN",
+  "tag:nomonsters",
+  "startmap:sm4_xenon",
+  "startmap:sm4_vondur",
+  "startmap:Sm4_aru",
+  "startmap:sm4_bear"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm4_xenon.bsp": {
+   "size": 177045,
+   "timestamp": "2001-03-25"
+  },
+  "sm4_bear.bsp": {
+   "size": 192160,
+   "timestamp": "2001-03-30"
+  },
+  "sm4_pack.txt": {
+   "size": 2144,
+   "timestamp": "2001-04-01"
+  },
+  "Sm4_aru.bsp": {
+   "size": 294624,
+   "timestamp": "2001-03-30"
+  },
+  "sm4_vondur.bsp": {
+   "size": 159296,
+   "timestamp": "2001-03-31"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm4_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fec59e0f95e9d5aa0095f695041ef106ab14c3f4e18e04ce0b0f4fc5fb4568f8/sm4_pack.zip"
+ ]
+}

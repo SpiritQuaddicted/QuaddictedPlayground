@@ -1,0 +1,39 @@
+{
+ "version": "20191222-0",
+ "sha256": "2744dd87be0416e164e4d73bcd9f99401c36dd058ef1c2f0a14ac76f707bd567",
+ "filename": [
+  "oldones.zip"
+ ],
+ "size": 1170,
+ "releasedate": "2003-04-24",
+ "tags": [
+  "title:Old ones",
+  "author:necros",
+  "tag:base",
+  "tag:idbase",
+  "tag:oldschool",
+  "startmap:alana",
+  "startmap:mitsu"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "alana.bsp": {
+   "size": 1195420,
+   "timestamp": "2003-04-22"
+  },
+  "mitsu.bsp": {
+   "size": 1542976,
+   "timestamp": "2003-04-22"
+  },
+  "necros oldones.txt": {
+   "size": 3708,
+   "timestamp": "2003-04-24"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/oldones.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2744dd87be0416e164e4d73bcd9f99401c36dd058ef1c2f0a14ac76f707bd567/oldones.zip"
+ ]
+}

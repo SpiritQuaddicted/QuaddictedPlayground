@@ -1,0 +1,43 @@
+{
+ "version": "20191222-0",
+ "sha256": "0b11b16034346e2a932150fd0a19c9fde891863346924224a604000e0d4bad12",
+ "filename": [
+  "sm75_pack.zip"
+ ],
+ "size": 511,
+ "releasedate": "2004-04-17",
+ "tags": [
+  "title:Speedmapping pack 75 - Doom maps (no room over room/no slopes)",
+  "author:nane",
+  "author:necros",
+  "author:Zwiffle",
+  "startmap:sm75_zwiffle",
+  "startmap:sm75_nane",
+  "startmap:sm75_scampie"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm75_zwiffle.bsp": {
+   "size": 666356,
+   "timestamp": "2004-04-17"
+  },
+  "sm75_nane.bsp": {
+   "size": 124808,
+   "timestamp": "2004-04-17"
+  },
+  "sm75_pack.txt": {
+   "size": 1366,
+   "timestamp": "2004-03-09"
+  },
+  "sm75_scampie.bsp": {
+   "size": 462568,
+   "timestamp": "2004-03-09"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm75_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0b11b16034346e2a932150fd0a19c9fde891863346924224a604000e0d4bad12/sm75_pack.zip"
+ ]
+}

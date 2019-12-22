@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "sha256": "3628ad8aa18573fb8421d34dbf075bce606585796d0f63e06f9eb08bcb549fb2",
+ "filename": [
+  "sm132_pack.zip"
+ ],
+ "size": 299,
+ "releasedate": "2007-01-29",
+ "tags": [
+  "title:Speedmapping pack 132 - Inverted Castle",
+  "author:generic",
+  "author:Omus",
+  "startmap:sm132_generic",
+  "startmap:sm132_omus"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm132_omus.bsp": {
+   "size": 783446,
+   "timestamp": "2007-01-26"
+  },
+  "sm132_generic.bsp": {
+   "size": 256016,
+   "timestamp": "2007-01-28"
+  },
+  "sm132_pack.txt": {
+   "size": 1222,
+   "timestamp": "2007-01-29"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm132_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3628ad8aa18573fb8421d34dbf075bce606585796d0f63e06f9eb08bcb549fb2/sm132_pack.zip"
+ ]
+}

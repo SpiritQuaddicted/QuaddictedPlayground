@@ -1,0 +1,587 @@
+{
+ "version": "20191222-0",
+ "sha256": "008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6",
+ "filename": [
+  "rotcs.zip"
+ ],
+ "size": 70183,
+ "releasedate": "2011-06-20",
+ "tags": [
+  "title:Retribution of the ConeScript",
+  "author:vIE888",
+  "tag:episode",
+  "tag:small",
+  "tag:hub",
+  "tag:quests",
+  "tag:nehahra",
+  "tag:village",
+  "tag:medieval",
+  "dependency:nehahra",
+  "startmap:prelude"
+ ],
+ "install": {
+  "extract": "{quake}//rotcs"
+ },
+ "files": {
+  "Quaddicted_repack.txt": {
+   "size": 43,
+   "timestamp": "2011-12-03"
+  },
+  "Retribution of the ConeScript NIGHTMARE SKILL.BAT": {
+   "size": 654,
+   "timestamp": "2007-05-13"
+  },
+  "Retribution of the ConeScript NORMAL SKILL.BAT": {
+   "size": 646,
+   "timestamp": "2007-05-13"
+  },
+  "RotCS_mapsrc.zip": {
+   "size": 2425413,
+   "timestamp": "2011-12-03"
+  },
+  "info/RotCS_screens.html": {
+   "size": 1099,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS1.jpg": {
+   "size": 41631,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS10.jpg": {
+   "size": 74838,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS11.jpg": {
+   "size": 39864,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS2.jpg": {
+   "size": 44655,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS3.jpg": {
+   "size": 39953,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS4.jpg": {
+   "size": 38000,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS5.jpg": {
+   "size": 46436,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS6.jpg": {
+   "size": 38259,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS7.jpg": {
+   "size": 65601,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS8.jpg": {
+   "size": 43598,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/RotCS9.jpg": {
+   "size": 76229,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/Splash.jpg": {
+   "size": 8688,
+   "timestamp": "2007-05-08"
+  },
+  "info/gfx/skull.jpg": {
+   "size": 2432,
+   "timestamp": "2007-05-08"
+  },
+  "info/index.html": {
+   "size": 9776,
+   "timestamp": "2007-05-13"
+  },
+  "info/style.css": {
+   "size": 1030,
+   "timestamp": "2007-05-08"
+  },
+  "maps/forest1.bsp": {
+   "size": 244224,
+   "timestamp": "2007-05-07"
+  },
+  "maps/forest2.bsp": {
+   "size": 261472,
+   "timestamp": "2007-05-07"
+  },
+  "maps/forest3.bsp": {
+   "size": 239308,
+   "timestamp": "2007-05-07"
+  },
+  "maps/prelude.bsp": {
+   "size": 85024,
+   "timestamp": "2007-05-07"
+  },
+  "maps/puzzle.bsp": {
+   "size": 451564,
+   "timestamp": "2007-05-07"
+  },
+  "maps/rod.bsp": {
+   "size": 837524,
+   "timestamp": "2007-05-07"
+  },
+  "maps/rol1.bsp": {
+   "size": 559504,
+   "timestamp": "2007-05-07"
+  },
+  "maps/rol2.bsp": {
+   "size": 664596,
+   "timestamp": "2007-05-07"
+  },
+  "maps/rol3.bsp": {
+   "size": 546752,
+   "timestamp": "2007-05-07"
+  },
+  "maps/rom.bsp": {
+   "size": 1170396,
+   "timestamp": "2007-05-07"
+  },
+  "maps/rot1.bsp": {
+   "size": 1466612,
+   "timestamp": "2007-05-07"
+  },
+  "maps/rot2.bsp": {
+   "size": 1113416,
+   "timestamp": "2007-05-07"
+  },
+  "maps/rot3.bsp": {
+   "size": 478900,
+   "timestamp": "2007-05-07"
+  },
+  "maps/ttown1.bsp": {
+   "size": 3689360,
+   "timestamp": "2007-05-13"
+  },
+  "maps/ttown2.bsp": {
+   "size": 3687348,
+   "timestamp": "2007-05-07"
+  },
+  "maps/ttowns.bsp": {
+   "size": 3697116,
+   "timestamp": "2007-05-13"
+  },
+  "quake.rc": {
+   "size": 331,
+   "timestamp": "2007-05-07"
+  },
+  "sound/ambience/fire1.wav": {
+   "size": 82476,
+   "timestamp": "2007-05-06"
+  },
+  "sound/ambience2/Forest.wav": {
+   "size": 1209700,
+   "timestamp": "2004-07-18"
+  },
+  "sound/ambience2/HeavyWind.wav": {
+   "size": 2013826,
+   "timestamp": "2007-05-04"
+  },
+  "sound/ambience2/Lava.wav": {
+   "size": 108458,
+   "timestamp": "2003-01-13"
+  },
+  "sound/ambience2/LightWind.wav": {
+   "size": 2824936,
+   "timestamp": "2007-05-04"
+  },
+  "sound/ambience2/Sea.wav": {
+   "size": 91588,
+   "timestamp": "2007-05-04"
+  },
+  "sound/baron/sight.wav": {
+   "size": 285740,
+   "timestamp": "2004-09-23"
+  },
+  "sound/blob/sight1.wav": {
+   "size": 45704,
+   "timestamp": "2006-07-31"
+  },
+  "sound/buttons/switch02.wav": {
+   "size": 26500,
+   "timestamp": "2007-05-06"
+  },
+  "sound/buttons/switch21.wav": {
+   "size": 16330,
+   "timestamp": "2007-05-06"
+  },
+  "sound/demon/ddeath.wav": {
+   "size": 64130,
+   "timestamp": "2007-05-06"
+  },
+  "sound/demon/idle1.wav": {
+   "size": 47858,
+   "timestamp": "2007-05-06"
+  },
+  "sound/demon/sight2.wav": {
+   "size": 62096,
+   "timestamp": "2007-05-06"
+  },
+  "sound/dog/ddeath.wav": {
+   "size": 61332,
+   "timestamp": "2007-05-06"
+  },
+  "sound/doors/ddoor1.wav": {
+   "size": 46840,
+   "timestamp": "2007-05-06"
+  },
+  "sound/doors/ddoor2.wav": {
+   "size": 35654,
+   "timestamp": "2007-05-06"
+  },
+  "sound/doors/doormv1.wav": {
+   "size": 91588,
+   "timestamp": "2007-05-06"
+  },
+  "sound/knight/ksight.wav": {
+   "size": 43468,
+   "timestamp": "2007-05-06"
+  },
+  "sound/misc/h2ohit1.wav": {
+   "size": 54976,
+   "timestamp": "2007-05-06"
+  },
+  "sound/misc/r_tele1.wav": {
+   "size": 1440324,
+   "timestamp": "2007-05-06"
+  },
+  "sound/misc/r_tele2.wav": {
+   "size": 1440324,
+   "timestamp": "2007-05-06"
+  },
+  "sound/misc/r_tele3.wav": {
+   "size": 1440324,
+   "timestamp": "2007-05-06"
+  },
+  "sound/misc/r_tele4.wav": {
+   "size": 1440324,
+   "timestamp": "2007-05-06"
+  },
+  "sound/misc/r_tele5.wav": {
+   "size": 1440324,
+   "timestamp": "2007-05-06"
+  },
+  "sound/misc/talk.wav": {
+   "size": 161336,
+   "timestamp": "2007-05-06"
+  },
+  "sound/moments/Beat1.wav": {
+   "size": 74600,
+   "timestamp": "2004-03-19"
+  },
+  "sound/moments/Beat2.wav": {
+   "size": 87530,
+   "timestamp": "2004-03-19"
+  },
+  "sound/moments/Bell.wav": {
+   "size": 635948,
+   "timestamp": "2004-10-08"
+  },
+  "sound/moments/Demon1.wav": {
+   "size": 69214,
+   "timestamp": "2007-05-04"
+  },
+  "sound/moments/Demon2.wav": {
+   "size": 133286,
+   "timestamp": "2007-05-04"
+  },
+  "sound/moments/Demon3.wav": {
+   "size": 133286,
+   "timestamp": "2007-05-04"
+  },
+  "sound/moments/Eerie1.wav": {
+   "size": 69214,
+   "timestamp": "2007-05-04"
+  },
+  "sound/moments/Healing.wav": {
+   "size": 142928,
+   "timestamp": "2007-05-07"
+  },
+  "sound/moments/Howling.wav": {
+   "size": 125020,
+   "timestamp": "2003-01-13"
+  },
+  "sound/moments/LightOn.wav": {
+   "size": 152608,
+   "timestamp": "2007-05-04"
+  },
+  "sound/moments/MagicWall.wav": {
+   "size": 604900,
+   "timestamp": "2004-07-18"
+  },
+  "sound/moments/Thunder.wav": {
+   "size": 1183838,
+   "timestamp": "2007-05-04"
+  },
+  "sound/music/Forest.ogg": {
+   "size": 1344274,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/Prelude.ogg": {
+   "size": 805082,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/Puzzle.ogg": {
+   "size": 4449288,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/RoD.ogg": {
+   "size": 612122,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/RoL.ogg": {
+   "size": 5701906,
+   "timestamp": "2007-05-04"
+  },
+  "sound/music/RoM.ogg": {
+   "size": 5362286,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/RoT1.ogg": {
+   "size": 7264998,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/RoT2.ogg": {
+   "size": 1688886,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/RoT3.ogg": {
+   "size": 701609,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/TTown.ogg": {
+   "size": 6292496,
+   "timestamp": "2007-05-03"
+  },
+  "sound/music/credits.ogg": {
+   "size": 635226,
+   "timestamp": "2007-05-03"
+  },
+  "sound/plats/medplat1.wav": {
+   "size": 82436,
+   "timestamp": "2007-05-06"
+  },
+  "sound/player/axhit2.wav": {
+   "size": 24550,
+   "timestamp": "2007-05-06"
+  },
+  "sound/player/h2ojump.wav": {
+   "size": 54976,
+   "timestamp": "2007-05-06"
+  },
+  "sound/player/land.wav": {
+   "size": 9388,
+   "timestamp": "2006-07-31"
+  },
+  "sound/player/land2.wav": {
+   "size": 8300,
+   "timestamp": "2006-07-31"
+  },
+  "sound/player/pain1.wav": {
+   "size": 4480,
+   "timestamp": "2006-07-31"
+  },
+  "sound/player/pain2.wav": {
+   "size": 6788,
+   "timestamp": "2006-07-31"
+  },
+  "sound/player/pain3.wav": {
+   "size": 7454,
+   "timestamp": "2006-07-31"
+  },
+  "sound/player/pain4.wav": {
+   "size": 7298,
+   "timestamp": "2006-07-31"
+  },
+  "sound/player/pain5.wav": {
+   "size": 11530,
+   "timestamp": "2006-07-31"
+  },
+  "sound/player/pain6.wav": {
+   "size": 13850,
+   "timestamp": "2006-07-31"
+  },
+  "sound/player/plyrjmp8.wav": {
+   "size": 5174,
+   "timestamp": "2006-07-31"
+  },
+  "sound/shalrath/sight.wav": {
+   "size": 38704,
+   "timestamp": "2007-05-06"
+  },
+  "sound/shambler/melee1.wav": {
+   "size": 51128,
+   "timestamp": "2007-05-06"
+  },
+  "sound/shambler/melee2.wav": {
+   "size": 61332,
+   "timestamp": "2007-05-06"
+  },
+  "sound/shambler/sdeath.wav": {
+   "size": 85824,
+   "timestamp": "2007-05-06"
+  },
+  "sound/shambler/shurt2.wav": {
+   "size": 26592,
+   "timestamp": "2007-05-06"
+  },
+  "sound/shambler/ssight.wav": {
+   "size": 45004,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/def1.wav": {
+   "size": 877204,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/def2.wav": {
+   "size": 402076,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/def3.wav": {
+   "size": 505624,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/gol1.wav": {
+   "size": 665784,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/gol2.wav": {
+   "size": 430112,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/gol3.wav": {
+   "size": 789040,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/innb1.wav": {
+   "size": 862820,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/innb2.wav": {
+   "size": 590744,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/innb3.wav": {
+   "size": 969552,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngd1.wav": {
+   "size": 541480,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngd2.wav": {
+   "size": 616644,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngd3.wav": {
+   "size": 758584,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngl1.wav": {
+   "size": 317312,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngl2.wav": {
+   "size": 291804,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngl3.wav": {
+   "size": 369420,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngr1.wav": {
+   "size": 699704,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngr2.wav": {
+   "size": 854652,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/inngr3.wav": {
+   "size": 652484,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/mag1.wav": {
+   "size": 816732,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/mag23.wav": {
+   "size": 829720,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/mwall.wav": {
+   "size": 558116,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/puz.wav": {
+   "size": 1172120,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/wea1.wav": {
+   "size": 833220,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/wea2.wav": {
+   "size": 807172,
+   "timestamp": "2007-05-06"
+  },
+  "sound/talks/wea3.wav": {
+   "size": 435048,
+   "timestamp": "2007-05-06"
+  },
+  "sound/wall/glassbrk.wav": {
+   "size": 30568,
+   "timestamp": "2007-05-06"
+  },
+  "sound/weapons/autos.wav": {
+   "size": 46508,
+   "timestamp": "2006-07-31"
+  },
+  "sound/weapons/guncock.wav": {
+   "size": 43436,
+   "timestamp": "2006-07-31"
+  },
+  "sound/weapons/lhit.wav": {
+   "size": 67200,
+   "timestamp": "2007-05-06"
+  },
+  "sound/weapons/lock4.wav": {
+   "size": 20278,
+   "timestamp": "2006-07-31"
+  },
+  "sound/weapons/lstart.wav": {
+   "size": 113354,
+   "timestamp": "2007-05-06"
+  },
+  "sound/weapons/lstart1.wav": {
+   "size": 248158,
+   "timestamp": "2005-08-22"
+  },
+  "sound/weapons/nailgun.wav": {
+   "size": 12262,
+   "timestamp": "2007-05-07"
+  },
+  "sound/weapons/pkup.wav": {
+   "size": 11790,
+   "timestamp": "2006-07-31"
+  },
+  "sound/weapons/shotgn2.wav": {
+   "size": 45512,
+   "timestamp": "2006-07-31"
+  },
+  "sound/weapons/spike2.wav": {
+   "size": 126322,
+   "timestamp": "2007-05-06"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rotcs.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6/rotcs.zip"
+ ]
+}

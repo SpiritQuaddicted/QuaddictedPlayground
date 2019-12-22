@@ -1,0 +1,36 @@
+{
+ "version": "20191222-0",
+ "sha256": "91fa4470a8d24e95ccfe62ef427d36a3b5604c8b2d885dc456b7a9be9a3d4b23",
+ "filename": [
+  "bioforge.zip"
+ ],
+ "size": 727,
+ "releasedate": "1998-01-22",
+ "tags": [
+  "title:The Biogenetic Forge",
+  "author:Cullen Wheeler",
+  "tag:puzzles",
+  "tag:small",
+  "tag:metal",
+  "tag:soa",
+  "tag:hipnotic",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "files": {
+  "bioforge.txt": {
+   "size": 2904,
+   "timestamp": "1998-01-22"
+  },
+  "bioforge.bsp": {
+   "size": 1816444,
+   "timestamp": "1997-10-25"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bioforge.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/91fa4470a8d24e95ccfe62ef427d36a3b5604c8b2d885dc456b7a9be9a3d4b23/bioforge.zip"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "version": "20191222-0",
+ "sha256": "62558d4fd803121732d74203840fe4d6b7105991415a16cf7cde942fbaf2f5f8",
+ "filename": [
+  "map01.zip"
+ ],
+ "size": 253,
+ "releasedate": "1996-11-09",
+ "tags": [
+  "title:DooM II Map01",
+  "author:Matthias Worch",
+  "tag:small",
+  "tag:base",
+  "tag:doom2",
+  "tag:source",
+  "tag:remake"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "FILE_ID.DIZ": {
+   "size": 320,
+   "timestamp": "1996-11-09"
+  },
+  "MAP01.BSP": {
+   "size": 561656,
+   "timestamp": "1996-11-09"
+  },
+  "MAP01.MAP": {
+   "size": 20897,
+   "timestamp": "1996-11-09"
+  },
+  "MAP01.TXT": {
+   "size": 5705,
+   "timestamp": "1996-11-09"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/map01.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/62558d4fd803121732d74203840fe4d6b7105991415a16cf7cde942fbaf2f5f8/map01.zip"
+ ]
+}

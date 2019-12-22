@@ -1,0 +1,65 @@
+{
+ "version": "20191222-0",
+ "sha256": "7f553f2265a07bf8e8b8fb16d879529adc8b524a21a245f5b3f6afce92cef47c",
+ "filename": [
+  "ion02.zip"
+ ],
+ "size": 2337,
+ "releasedate": "2018-05-03",
+ "tags": [
+  "title:Luna in Silver Shards",
+  "author:ionous",
+  "tag:small",
+  "tag:hexen",
+  "tag:100b",
+  "tag:quoth",
+  "tag:canyon",
+  "tag:heretic2",
+  "dependency:quoth2pt2full_2"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "files": {
+  "gfx/env/dragonmoon_bk.tga": {
+   "size": 771048,
+   "timestamp": "2004-09-06"
+  },
+  "gfx/env/dragonmoon_dn.tga": {
+   "size": 782821,
+   "timestamp": "2004-09-06"
+  },
+  "gfx/env/dragonmoon_ft.tga": {
+   "size": 753111,
+   "timestamp": "2004-09-06"
+  },
+  "gfx/env/dragonmoon_lf.tga": {
+   "size": 770364,
+   "timestamp": "2004-09-06"
+  },
+  "gfx/env/dragonmoon_rt.tga": {
+   "size": 771749,
+   "timestamp": "2004-09-06"
+  },
+  "gfx/env/dragonmoon_up.tga": {
+   "size": 745257,
+   "timestamp": "2004-09-06"
+  },
+  "ion02.txt": {
+   "size": 2034,
+   "timestamp": "2018-05-03"
+  },
+  "maps/ion02.bsp": {
+   "size": 848695,
+   "timestamp": "2018-05-03"
+  },
+  "maps/ion02.lit": {
+   "size": 397859,
+   "timestamp": "2018-05-03"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ion02.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7f553f2265a07bf8e8b8fb16d879529adc8b524a21a245f5b3f6afce92cef47c/ion02.zip"
+ ]
+}

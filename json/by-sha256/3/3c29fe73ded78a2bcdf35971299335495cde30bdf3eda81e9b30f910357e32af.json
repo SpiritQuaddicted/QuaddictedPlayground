@@ -1,0 +1,44 @@
+{
+ "version": "20191222-0",
+ "sha256": "3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af",
+ "filename": [
+  "sm1_pack.zip"
+ ],
+ "size": 229,
+ "releasedate": "2001-03-23",
+ "tags": [
+  "title:Speedmapping pack 1",
+  "author:Scampie",
+  "author:bear",
+  "author:RPG",
+  "tag:nomonsters",
+  "startmap:sm1_scampie",
+  "startmap:sm1_rpg",
+  "startmap:sm1_bear"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm1_pack.txt": {
+   "size": 1993,
+   "timestamp": "2001-03-23"
+  },
+  "sm1_scampie.bsp": {
+   "size": 168936,
+   "timestamp": "2001-03-19"
+  },
+  "sm1_rpg.bsp": {
+   "size": 303328,
+   "timestamp": "2001-03-18"
+  },
+  "sm1_bear.bsp": {
+   "size": 153912,
+   "timestamp": "2001-03-19"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm1_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af/sm1_pack.zip"
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "version": "20191222-0",
+ "sha256": "375be3a774579023f0f231ec79fe391a6fe369758318b9f28ca30b1b04ae277d",
+ "filename": [
+  "keyquest.zip"
+ ],
+ "size": 733,
+ "releasedate": "1997-02-19",
+ "tags": [
+  "title:KeyQuest",
+  "author:Yvon Lariviere",
+  "tag:small",
+  "tag:wizard",
+  "tag:source",
+  "tag:dm",
+  "startmap:yvon5"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "SHRAKLIC.TXT": {
+   "size": 8527,
+   "timestamp": "1997-02-19"
+  },
+  "YVON5.BSP": {
+   "size": 1618684,
+   "timestamp": "1996-10-21"
+  },
+  "KEYQUEST.TXT": {
+   "size": 1226,
+   "timestamp": "1996-10-21"
+  },
+  "KEYQUEST.MAP": {
+   "size": 713506,
+   "timestamp": "1996-10-20"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/keyquest.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/375be3a774579023f0f231ec79fe391a6fe369758318b9f28ca30b1b04ae277d/keyquest.zip"
+ ]
+}

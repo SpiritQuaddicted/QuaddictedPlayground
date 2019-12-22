@@ -1,0 +1,65 @@
+{
+ "version": "20191222-0",
+ "sha256": "dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2",
+ "filename": [
+  "starkmon.zip"
+ ],
+ "size": 5539,
+ "releasedate": "2009-01-21",
+ "tags": [
+  "title:Stark Monstrosity",
+  "author:RickyT23",
+  "tag:quoth",
+  "tag:base",
+  "tag:huge",
+  "tag:idbase",
+  "tag:large",
+  "tag:limits",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "files": {
+  "starkmon.txt": {
+   "size": 6376,
+   "timestamp": "2009-01-21"
+  },
+  "maps/starkmon.lit": {
+   "size": 2998079,
+   "timestamp": "2009-01-21"
+  },
+  "maps/starkmon.bsp": {
+   "size": 6402508,
+   "timestamp": "2009-01-21"
+  },
+  "gfx/env/duskedn.tga": {
+   "size": 787184,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskeft.tga": {
+   "size": 594909,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskelf.tga": {
+   "size": 585541,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskeup.tga": {
+   "size": 470425,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskert.tga": {
+   "size": 688109,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskebk.tga": {
+   "size": 606420,
+   "timestamp": "2004-07-15"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/starkmon.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2/starkmon.zip"
+ ]
+}

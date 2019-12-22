@@ -1,0 +1,264 @@
+{
+ "version": "20191222-0",
+ "sha256": "0dfb8510f20f85556362c04f5a731781bbae92e3a0c736b3df765c51dd3e508f",
+ "filename": [
+  "dm4jam_dlc_patch.zip"
+ ],
+ "size": 27225,
+ "releasedate": "2018-10-17",
+ "tags": [
+  "title:DM4 Jam DLC Update",
+  "author:adib",
+  "author:Breezeep",
+  "author:Giftmacher",
+  "author:JCR",
+  "author:mariteaux",
+  "author:negke",
+  "author:prengle",
+  "author:scar3crow",
+  "tag:small",
+  "tag:medium",
+  "tag:metal",
+  "tag:blue",
+  "tag:dm4",
+  "tag:dm",
+  "tag:skybox",
+  "tag:start",
+  "tag:limits",
+  "tag:source",
+  "tag:patch",
+  "tag:update",
+  "dependency:dm4jam",
+  "startmap:dm4jam_artistical",
+  "startmap:dm4jam_artistical2",
+  "startmap:dm4jam_bloodshot",
+  "startmap:dm4jam_breezeep",
+  "startmap:dm4jam_danzadan",
+  "startmap:dm4jam_digs",
+  "startmap:dm4jam_draqu_promeus",
+  "startmap:dm4jam_giftmacher",
+  "startmap:dm4jam_ionous",
+  "startmap:dm4jam_mariteaux",
+  "startmap:dm4jam_mukor",
+  "startmap:dm4jam_nait",
+  "startmap:dm4jam_otp",
+  "startmap:dm4jam_prengle",
+  "startmap:dm4jam_queenjazz",
+  "startmap:dm4jam_rj",
+  "startmap:dm4jam_scar3crow",
+  "startmap:dm4jam_shades",
+  "startmap:dm4jam_skacky",
+  "startmap:dm4jam_themusic",
+  "startmap:dm4jam_wedge_one",
+  "startmap:dm4jam_ww",
+  "startmap:start",
+  "startmap:dm4dlc_adib",
+  "startmap:dm4dlc_jcr",
+  "startmap:dm4dlc_negke"
+ ],
+ "install": {
+  "extract": "{quake}/dm4jam/"
+ },
+ "files": {
+  "dm4jam_dlc_readme.txt": {
+   "size": 5572,
+   "timestamp": "2018-10-17"
+  },
+  "docs/dm4dlc_adib.txt": {
+   "size": 2357,
+   "timestamp": "2018-09-28"
+  },
+  "docs/dm4dlc_jcr.txt": {
+   "size": 1707,
+   "timestamp": "2018-10-17"
+  },
+  "docs/dm4dlc_negke.txt": {
+   "size": 2168,
+   "timestamp": "2018-04-15"
+  },
+  "docs/dm4jam_breezeep.txt": {
+   "size": 1336,
+   "timestamp": "2018-03-18"
+  },
+  "docs/dm4jam_giftmacher.txt": {
+   "size": 722,
+   "timestamp": "2018-03-18"
+  },
+  "docs/dm4jam_mariteaux.txt": {
+   "size": 3519,
+   "timestamp": "2018-04-05"
+  },
+  "docs/dm4jam_prengle.txt": {
+   "size": 6520,
+   "timestamp": "2018-09-18"
+  },
+  "docs/dm4jam_scar3crow.txt": {
+   "size": 859,
+   "timestamp": "2018-03-18"
+  },
+  "gfx/env/ame_flatrock/ame_flatrock.shader": {
+   "size": 235,
+   "timestamp": "2009-01-15"
+  },
+  "gfx/env/ame_flatrock/flatrock_bk.tga": {
+   "size": 786450,
+   "timestamp": "2002-03-12"
+  },
+  "gfx/env/ame_flatrock/flatrock_dn.tga": {
+   "size": 786450,
+   "timestamp": "2002-03-12"
+  },
+  "gfx/env/ame_flatrock/flatrock_ft.tga": {
+   "size": 786450,
+   "timestamp": "2002-03-12"
+  },
+  "gfx/env/ame_flatrock/flatrock_lf.tga": {
+   "size": 786450,
+   "timestamp": "2002-03-12"
+  },
+  "gfx/env/ame_flatrock/flatrock_rt.tga": {
+   "size": 786450,
+   "timestamp": "2002-03-12"
+  },
+  "gfx/env/ame_flatrock/flatrock_up.tga": {
+   "size": 786450,
+   "timestamp": "2002-03-12"
+  },
+  "gfx/env/ame_flatrock/readme": {
+   "size": 187,
+   "timestamp": "2009-01-14"
+  },
+  "gfx/env/flatrock_bk.tga": {
+   "size": 786476,
+   "timestamp": "2015-07-11"
+  },
+  "gfx/env/flatrock_dn.tga": {
+   "size": 786476,
+   "timestamp": "2015-07-11"
+  },
+  "gfx/env/flatrock_ft.tga": {
+   "size": 786476,
+   "timestamp": "2015-07-11"
+  },
+  "gfx/env/flatrock_lf.tga": {
+   "size": 786476,
+   "timestamp": "2015-07-11"
+  },
+  "gfx/env/flatrock_rt.tga": {
+   "size": 786476,
+   "timestamp": "2015-07-11"
+  },
+  "gfx/env/flatrock_up.tga": {
+   "size": 786476,
+   "timestamp": "2015-07-11"
+  },
+  "maps/dm4dlc_adib.bsp": {
+   "size": 5199000,
+   "timestamp": "2018-09-28"
+  },
+  "maps/dm4dlc_adib.lit": {
+   "size": 1446170,
+   "timestamp": "2018-09-28"
+  },
+  "maps/dm4dlc_jcr.bsp": {
+   "size": 4933368,
+   "timestamp": "2018-10-17"
+  },
+  "maps/dm4dlc_jcr.lit": {
+   "size": 1878722,
+   "timestamp": "2018-10-17"
+  },
+  "maps/dm4dlc_negke.bsp": {
+   "size": 1632104,
+   "timestamp": "2018-04-15"
+  },
+  "maps/dm4jam_breezeep.bsp": {
+   "size": 7293668,
+   "timestamp": "2018-04-04"
+  },
+  "maps/dm4jam_breezeep.lit": {
+   "size": 2739413,
+   "timestamp": "2018-04-04"
+  },
+  "maps/dm4jam_giftmacher.bsp": {
+   "size": 2684512,
+   "timestamp": "2018-03-29"
+  },
+  "maps/dm4jam_giftmacher.lit": {
+   "size": 1300775,
+   "timestamp": "2018-03-29"
+  },
+  "maps/dm4jam_mariteaux.bsp": {
+   "size": 1889272,
+   "timestamp": "2018-05-04"
+  },
+  "maps/dm4jam_mariteaux.lit": {
+   "size": 970316,
+   "timestamp": "2018-05-04"
+  },
+  "maps/dm4jam_prengle.bsp": {
+   "size": 2030480,
+   "timestamp": "2018-09-18"
+  },
+  "maps/dm4jam_prengle.lit": {
+   "size": 806363,
+   "timestamp": "2018-09-18"
+  },
+  "maps/dm4jam_scar3crow.bsp": {
+   "size": 865964,
+   "timestamp": "2018-08-16"
+  },
+  "maps/start.bsp": {
+   "size": 6773856,
+   "timestamp": "2018-10-17"
+  },
+  "maps/start.lit": {
+   "size": 1603028,
+   "timestamp": "2018-10-17"
+  },
+  "source/dm4dlc_adib.jmf": {
+   "size": 12055572,
+   "timestamp": "2018-09-28"
+  },
+  "source/dm4dlc_adib.map": {
+   "size": 4715837,
+   "timestamp": "2018-09-28"
+  },
+  "source/dm4dlc_jcr.map": {
+   "size": 3021658,
+   "timestamp": "2018-10-17"
+  },
+  "source/dm4dlc_negke.map": {
+   "size": 1197691,
+   "timestamp": "2018-10-13"
+  },
+  "source/dm4jam_breezeep.map": {
+   "size": 8713146,
+   "timestamp": "2018-04-04"
+  },
+  "source/dm4jam_giftmacher.map": {
+   "size": 2358082,
+   "timestamp": "2018-03-29"
+  },
+  "source/dm4jam_mariteaux.map": {
+   "size": 1482805,
+   "timestamp": "2018-05-04"
+  },
+  "source/dm4jam_prengle.map": {
+   "size": 2803429,
+   "timestamp": "2018-09-18"
+  },
+  "source/dm4jam_scar3crow.map": {
+   "size": 334495,
+   "timestamp": "2018-08-16"
+  },
+  "source/start.map": {
+   "size": 3258135,
+   "timestamp": "2018-10-17"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dm4jam_dlc_patch.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0dfb8510f20f85556362c04f5a731781bbae92e3a0c736b3df765c51dd3e508f/dm4jam_dlc_patch.zip"
+ ]
+}

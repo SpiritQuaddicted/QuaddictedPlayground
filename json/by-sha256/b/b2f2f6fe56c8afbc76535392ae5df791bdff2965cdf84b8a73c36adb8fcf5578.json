@@ -1,0 +1,243 @@
+{
+ "version": "20191222-0",
+ "sha256": "b2f2f6fe56c8afbc76535392ae5df791bdff2965cdf84b8a73c36adb8fcf5578",
+ "filename": [
+  "100brush.zip"
+ ],
+ "size": 4160,
+ "releasedate": "2001-01-16",
+ "tags": [
+  "title:100 Brush Competition #1",
+  "author:DaMaul",
+  "author:Edgecrusher",
+  "author:Fat Controller",
+  "author:Fern",
+  "author:Gilt",
+  "author:Grahf",
+  "author:Iikka \"Fingers\" Ker\u00e4nen",
+  "author:JAJ",
+  "author:Killazontherun",
+  "author:Palldjon",
+  "author:Scragbait",
+  "author:XeNoN",
+  "author:Zibbie",
+  "tag:contest",
+  "tag:100b",
+  "startmap:start",
+  "startmap:abab",
+  "startmap:dam100",
+  "startmap:dropin",
+  "startmap:edge1a",
+  "startmap:fat100",
+  "startmap:fern100a",
+  "startmap:grahf100",
+  "startmap:ik100b",
+  "startmap:jaj100br",
+  "startmap:klz100b",
+  "startmap:klz100b2",
+  "startmap:ouver",
+  "startmap:xnq1001",
+  "startmap:zippie"
+ ],
+ "install": {
+  "extract": "{quake}/100brush/"
+ },
+ "files": {
+  "sources/FERN100A.MAP": {
+   "size": 60855,
+   "timestamp": "2000-11-26"
+  },
+  "sources/1start.map": {
+   "size": 447274,
+   "timestamp": "2001-01-13"
+  },
+  "sources/zippie.map": {
+   "size": 75143,
+   "timestamp": "2001-01-08"
+  },
+  "sources/ABAB.map": {
+   "size": 76598,
+   "timestamp": "2000-12-28"
+  },
+  "sources/Dam100.map": {
+   "size": 78453,
+   "timestamp": "2001-01-08"
+  },
+  "sources/klz100b.map": {
+   "size": 44841,
+   "timestamp": "2001-01-08"
+  },
+  "sources/DropIn.map": {
+   "size": 89080,
+   "timestamp": "2001-01-08"
+  },
+  "sources/edge1a.map": {
+   "size": 73213,
+   "timestamp": "2000-12-28"
+  },
+  "sources/ouver.map": {
+   "size": 91122,
+   "timestamp": "2000-12-29"
+  },
+  "sources/grahf100.map": {
+   "size": 71503,
+   "timestamp": "2001-01-08"
+  },
+  "sources/fat100.map": {
+   "size": 57907,
+   "timestamp": "2001-01-08"
+  },
+  "sources/klz100b2.map": {
+   "size": 61614,
+   "timestamp": "2001-01-08"
+  },
+  "sources/jaj100br.map": {
+   "size": 100189,
+   "timestamp": "2000-12-29"
+  },
+  "sources/xnq1001.map": {
+   "size": 76912,
+   "timestamp": "2000-12-05"
+  },
+  "sources/ik100b.map": {
+   "size": 75633,
+   "timestamp": "2000-11-28"
+  },
+  "maps/grahf100.bsp": {
+   "size": 459752,
+   "timestamp": "2001-01-08"
+  },
+  "maps/zippie.bsp": {
+   "size": 958560,
+   "timestamp": "2001-01-08"
+  },
+  "maps/FAT100.bsp": {
+   "size": 579684,
+   "timestamp": "2001-01-08"
+  },
+  "maps/DaM100.bsp": {
+   "size": 737416,
+   "timestamp": "2001-01-09"
+  },
+  "maps/ik100b.bsp": {
+   "size": 569544,
+   "timestamp": "2000-11-28"
+  },
+  "maps/ouver.bsp": {
+   "size": 659708,
+   "timestamp": "2000-12-29"
+  },
+  "maps/EDGE1A.bsp": {
+   "size": 446912,
+   "timestamp": "2000-12-28"
+  },
+  "maps/FERN100A.BSP": {
+   "size": 692604,
+   "timestamp": "2000-11-26"
+  },
+  "maps/dropin.bsp": {
+   "size": 671948,
+   "timestamp": "2001-01-09"
+  },
+  "maps/ABAB.bsp": {
+   "size": 527340,
+   "timestamp": "2000-12-28"
+  },
+  "maps/klz100b.bsp": {
+   "size": 454472,
+   "timestamp": "2001-01-08"
+  },
+  "maps/start.bsp": {
+   "size": 924216,
+   "timestamp": "2001-01-13"
+  },
+  "maps/xnq1001.bsp": {
+   "size": 575008,
+   "timestamp": "2000-12-05"
+  },
+  "maps/klz100b2.bsp": {
+   "size": 455492,
+   "timestamp": "2001-01-08"
+  },
+  "maps/JAJ100BR.bsp": {
+   "size": 980284,
+   "timestamp": "2000-12-29"
+  },
+  "readme.txt": {
+   "size": 14744,
+   "timestamp": "2001-01-16"
+  },
+  "progs.dat": {
+   "size": 413076,
+   "timestamp": "2001-01-16"
+  },
+  "readmes/start.txt": {
+   "size": 2114,
+   "timestamp": "2001-01-13"
+  },
+  "readmes/abab.txt": {
+   "size": 2261,
+   "timestamp": "2000-12-28"
+  },
+  "readmes/ouver.txt": {
+   "size": 1470,
+   "timestamp": "2000-12-29"
+  },
+  "readmes/IKBASE.TXT": {
+   "size": 3692,
+   "timestamp": "1999-03-30"
+  },
+  "readmes/edge1a.txt": {
+   "size": 3257,
+   "timestamp": "2000-12-28"
+  },
+  "readmes/zippie.txt": {
+   "size": 2060,
+   "timestamp": "2001-01-09"
+  },
+  "readmes/FERN100A.TXT": {
+   "size": 3797,
+   "timestamp": "2000-11-26"
+  },
+  "readmes/ik100b.txt": {
+   "size": 2994,
+   "timestamp": "2000-12-16"
+  },
+  "readmes/DaM100.txt": {
+   "size": 794,
+   "timestamp": "2000-12-22"
+  },
+  "readmes/fat100.txt": {
+   "size": 2004,
+   "timestamp": "2000-11-28"
+  },
+  "readmes/DropIn.txt": {
+   "size": 7154,
+   "timestamp": "2000-12-29"
+  },
+  "readmes/grahf100.txt": {
+   "size": 4668,
+   "timestamp": "2001-01-01"
+  },
+  "readmes/klz100b.txt": {
+   "size": 215,
+   "timestamp": "2000-11-26"
+  },
+  "readmes/jaj100br.txt": {
+   "size": 2664,
+   "timestamp": "2000-12-30"
+  },
+  "readmes/klz100b2.txt": {
+   "size": 205,
+   "timestamp": "2000-12-01"
+  },
+  "readmes/xnq1001.txt": {
+   "size": 4289,
+   "timestamp": "2000-12-06"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/100brush.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b2f2f6fe56c8afbc76535392ae5df791bdff2965cdf84b8a73c36adb8fcf5578/100brush.zip"
+ ]
+}

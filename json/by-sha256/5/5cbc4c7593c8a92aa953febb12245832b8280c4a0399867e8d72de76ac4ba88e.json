@@ -1,0 +1,514 @@
+{
+ "version": "20191222-0",
+ "sha256": "5cbc4c7593c8a92aa953febb12245832b8280c4a0399867e8d72de76ac4ba88e",
+ "filename": [
+  "quck_demo.zip"
+ ],
+ "size": 18201,
+ "releasedate": "2017-12-30",
+ "tags": [
+  "title:Quenching Urges of Constant Killing [DEMO]",
+  "author:skacky",
+  "tag:episode",
+  "tag:small",
+  "tag:base",
+  "tag:quoth",
+  "tag:slaughter",
+  "tag:limits",
+  "tag:music",
+  "tag:external textures",
+  "dependency:quoth2pt2full_2",
+  "startmap:start",
+  "startmap:map01",
+  "startmap:map02"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "files": {
+  "gfx/conback.lmp": {
+   "size": 362408,
+   "timestamp": "2017-08-18"
+  },
+  "gfx/env/purplebk.tga": {
+   "size": 786476,
+   "timestamp": "2017-08-15"
+  },
+  "gfx/env/purpledn.tga": {
+   "size": 925604,
+   "timestamp": "2017-08-15"
+  },
+  "gfx/env/purpleft.tga": {
+   "size": 786476,
+   "timestamp": "2017-08-15"
+  },
+  "gfx/env/purplelf.tga": {
+   "size": 786476,
+   "timestamp": "2017-08-15"
+  },
+  "gfx/env/purplert.tga": {
+   "size": 786476,
+   "timestamp": "2017-08-15"
+  },
+  "gfx/env/purpleup.tga": {
+   "size": 772189,
+   "timestamp": "2017-08-15"
+  },
+  "maps/map01.bsp": {
+   "size": 4022940,
+   "timestamp": "2017-08-19"
+  },
+  "maps/map01.lit": {
+   "size": 1354268,
+   "timestamp": "2017-08-19"
+  },
+  "maps/map02.bsp": {
+   "size": 4412868,
+   "timestamp": "2017-12-30"
+  },
+  "maps/start.bsp": {
+   "size": 595840,
+   "timestamp": "2017-12-30"
+  },
+  "music/track03.ogg": {
+   "size": 5395130,
+   "timestamp": "2017-08-15"
+  },
+  "music/track15.ogg": {
+   "size": 2239909,
+   "timestamp": "2017-08-17"
+  },
+  "music/track16.ogg": {
+   "size": 2720920,
+   "timestamp": "2017-08-24"
+  },
+  "music/track19.ogg": {
+   "size": 2248693,
+   "timestamp": "2017-12-30"
+  },
+  "readme.txt": {
+   "size": 1392,
+   "timestamp": "2017-12-30"
+  },
+  "sound/misc/menu1.wav": {
+   "size": 36246,
+   "timestamp": "2017-08-18"
+  },
+  "sound/misc/menu2.wav": {
+   "size": 242988,
+   "timestamp": "2017-08-18"
+  },
+  "sound/misc/menu3.wav": {
+   "size": 33892,
+   "timestamp": "2017-08-18"
+  },
+  "textures/#teleportpurp.tga": {
+   "size": 11534,
+   "timestamp": "2017-08-28"
+  },
+  "textures/#waterpurp.tga": {
+   "size": 6951,
+   "timestamp": "2017-08-26"
+  },
+  "textures/+0di_lipurp.tga": {
+   "size": 12208,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+0ffield.tga": {
+   "size": 11901,
+   "timestamp": "2017-08-25"
+  },
+  "textures/+0fieldyel.tga": {
+   "size": 22882,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+0lun_weppurp.tga": {
+   "size": 10427,
+   "timestamp": "2017-08-31"
+  },
+  "textures/+0run_weppurp.tga": {
+   "size": 13571,
+   "timestamp": "2017-08-22"
+  },
+  "textures/+0runeyel.tga": {
+   "size": 3407,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+0tyr_weppurp.tga": {
+   "size": 13179,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+1di_lipurp.tga": {
+   "size": 12150,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+1ffield.tga": {
+   "size": 11961,
+   "timestamp": "2017-08-25"
+  },
+  "textures/+1fieldyel.tga": {
+   "size": 24824,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+1lun_weppurp.tga": {
+   "size": 10486,
+   "timestamp": "2017-08-31"
+  },
+  "textures/+1run_weppurp.tga": {
+   "size": 13647,
+   "timestamp": "2017-08-22"
+  },
+  "textures/+1runeyel.tga": {
+   "size": 3407,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+1tyr_weppurp.tga": {
+   "size": 13255,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+2di_lipurp.tga": {
+   "size": 12134,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+2ffield.tga": {
+   "size": 12173,
+   "timestamp": "2017-08-25"
+  },
+  "textures/+2fieldyel.tga": {
+   "size": 22677,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+2lun_weppurp.tga": {
+   "size": 10503,
+   "timestamp": "2017-08-31"
+  },
+  "textures/+2run_weppurp.tga": {
+   "size": 13663,
+   "timestamp": "2017-08-22"
+  },
+  "textures/+2tyr_weppurp.tga": {
+   "size": 13273,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+3di_lipurp.tga": {
+   "size": 12204,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+3ffield.tga": {
+   "size": 12026,
+   "timestamp": "2017-08-25"
+  },
+  "textures/+3fieldyel.tga": {
+   "size": 16136,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+3lun_weppurp.tga": {
+   "size": 10501,
+   "timestamp": "2017-08-31"
+  },
+  "textures/+3run_weppurp.tga": {
+   "size": 13663,
+   "timestamp": "2017-08-22"
+  },
+  "textures/+3tyr_weppurp.tga": {
+   "size": 13273,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+4ffield.tga": {
+   "size": 12002,
+   "timestamp": "2017-08-25"
+  },
+  "textures/+4fieldyel.tga": {
+   "size": 17758,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+4lun_weppurp.tga": {
+   "size": 10471,
+   "timestamp": "2017-08-31"
+  },
+  "textures/+4run_weppurp.tga": {
+   "size": 13607,
+   "timestamp": "2017-08-22"
+  },
+  "textures/+4tyr_weppurp.tga": {
+   "size": 13215,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+5ffield.tga": {
+   "size": 11876,
+   "timestamp": "2017-08-25"
+  },
+  "textures/+5fieldyel.tga": {
+   "size": 24824,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+5lun_weppurp.tga": {
+   "size": 10443,
+   "timestamp": "2017-08-31"
+  },
+  "textures/+5run_weppurp.tga": {
+   "size": 13571,
+   "timestamp": "2017-08-22"
+  },
+  "textures/+5tyr_weppurp.tga": {
+   "size": 13179,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+6ffield.tga": {
+   "size": 12108,
+   "timestamp": "2017-08-25"
+  },
+  "textures/+6fieldyel.tga": {
+   "size": 22677,
+   "timestamp": "2017-08-14"
+  },
+  "textures/+7ffield.tga": {
+   "size": 12103,
+   "timestamp": "2017-08-25"
+  },
+  "textures/+7fieldyel.tga": {
+   "size": 17758,
+   "timestamp": "2017-08-14"
+  },
+  "textures/alite_1purp.tga": {
+   "size": 14233,
+   "timestamp": "2017-08-14"
+  },
+  "textures/alite_3purp.tga": {
+   "size": 6725,
+   "timestamp": "2017-08-14"
+  },
+  "textures/alite_b1purp.tga": {
+   "size": 14495,
+   "timestamp": "2017-08-14"
+  },
+  "textures/baslt3_1purp.tga": {
+   "size": 14921,
+   "timestamp": "2017-08-14"
+  },
+  "textures/baslt3_8purp.tga": {
+   "size": 15659,
+   "timestamp": "2017-08-14"
+  },
+  "textures/blight1purp.tga": {
+   "size": 892,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl01bpurp.tga": {
+   "size": 27552,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl01purp.tga": {
+   "size": 27486,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl02purp.tga": {
+   "size": 22533,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl03b_purp.tga": {
+   "size": 26801,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl03purp.tga": {
+   "size": 27616,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl04b_purp.tga": {
+   "size": 23104,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl04purp.tga": {
+   "size": 23041,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl06purp.tga": {
+   "size": 1888,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl08_purp.tga": {
+   "size": 24649,
+   "timestamp": "2017-08-22"
+  },
+  "textures/brl08bpurp.tga": {
+   "size": 26182,
+   "timestamp": "2017-08-22"
+  },
+  "textures/bw_techpanel4purp.tga": {
+   "size": 13188,
+   "timestamp": "2017-08-14"
+  },
+  "textures/comp1_6apurp.tga": {
+   "size": 15673,
+   "timestamp": "2017-08-14"
+  },
+  "textures/comp1_6purp.tga": {
+   "size": 11349,
+   "timestamp": "2017-08-14"
+  },
+  "textures/e3u1purp.tga": {
+   "size": 23229,
+   "timestamp": "2017-08-14"
+  },
+  "textures/jf2lite16purp.tga": {
+   "size": 614,
+   "timestamp": "2017-08-14"
+  },
+  "textures/jf2lite23purp.tga": {
+   "size": 14312,
+   "timestamp": "2017-08-14"
+  },
+  "textures/jf2slip08purp.tga": {
+   "size": 13178,
+   "timestamp": "2017-08-14"
+  },
+  "textures/light1_1purp.tga": {
+   "size": 14285,
+   "timestamp": "2017-08-22"
+  },
+  "textures/light1_5purp.tga": {
+   "size": 12940,
+   "timestamp": "2017-08-22"
+  },
+  "textures/light1_8tpurp.tga": {
+   "size": 14662,
+   "timestamp": "2017-08-22"
+  },
+  "textures/light3_6apurp.tga": {
+   "size": 12687,
+   "timestamp": "2017-08-22"
+  },
+  "textures/light3_6purp.tga": {
+   "size": 6397,
+   "timestamp": "2017-08-22"
+  },
+  "textures/light3_7purp.tga": {
+   "size": 3253,
+   "timestamp": "2017-08-22"
+  },
+  "textures/light3_8purp.tga": {
+   "size": 3347,
+   "timestamp": "2017-08-22"
+  },
+  "textures/light_rail01pur.tga": {
+   "size": 22650,
+   "timestamp": "2017-08-14"
+  },
+  "textures/light_rail01purp.tga": {
+   "size": 22650,
+   "timestamp": "2017-08-14"
+  },
+  "textures/lite_fart2purp.tga": {
+   "size": 1102,
+   "timestamp": "2017-08-14"
+  },
+  "textures/lite_fart4purp.tga": {
+   "size": 98,
+   "timestamp": "2017-08-14"
+  },
+  "textures/lite_fartpurp.tga": {
+   "size": 478,
+   "timestamp": "2017-08-14"
+  },
+  "textures/lite_trimpurp.tga": {
+   "size": 1026,
+   "timestamp": "2017-08-14"
+  },
+  "textures/litepurp.tga": {
+   "size": 6232,
+   "timestamp": "2017-08-14"
+  },
+  "textures/lunlt1purp.tga": {
+   "size": 750,
+   "timestamp": "2017-08-14"
+  },
+  "textures/lunlt2purp.tga": {
+   "size": 2352,
+   "timestamp": "2017-08-14"
+  },
+  "textures/metal9_2purp.tga": {
+   "size": 11185,
+   "timestamp": "2017-08-14"
+  },
+  "textures/metrgw_purp.tga": {
+   "size": 13747,
+   "timestamp": "2017-08-22"
+  },
+  "textures/mfxli1purp.tga": {
+   "size": 7071,
+   "timestamp": "2017-08-14"
+  },
+  "textures/mfxli2purp.tga": {
+   "size": 1977,
+   "timestamp": "2017-08-14"
+  },
+  "textures/ogrolight4purp.tga": {
+   "size": 2494,
+   "timestamp": "2017-08-22"
+  },
+  "textures/ogrolight6purp.tga": {
+   "size": 1798,
+   "timestamp": "2017-08-22"
+  },
+  "textures/ogrolight7purp.tga": {
+   "size": 4654,
+   "timestamp": "2017-08-22"
+  },
+  "textures/ogrolight8purp.tga": {
+   "size": 1556,
+   "timestamp": "2017-08-22"
+  },
+  "textures/ogrune128purp.tga": {
+   "size": 55964,
+   "timestamp": "2017-08-22"
+  },
+  "textures/rune1purp.tga": {
+   "size": 5330,
+   "timestamp": "2017-08-22"
+  },
+  "textures/rune1rpurp.tga": {
+   "size": 52062,
+   "timestamp": "2017-08-22"
+  },
+  "textures/rune2purp.tga": {
+   "size": 13121,
+   "timestamp": "2017-08-22"
+  },
+  "textures/rune3purp.tga": {
+   "size": 3305,
+   "timestamp": "2017-08-22"
+  },
+  "textures/rune4purp.tga": {
+   "size": 6458,
+   "timestamp": "2017-08-22"
+  },
+  "textures/sym07_2purp.tga": {
+   "size": 9925,
+   "timestamp": "2017-08-14"
+  },
+  "textures/tech03_2purp.tga": {
+   "size": 47990,
+   "timestamp": "2017-08-23"
+  },
+  "textures/tech10_5purp.tga": {
+   "size": 28930,
+   "timestamp": "2017-08-14"
+  },
+  "textures/tech10purp.tga": {
+   "size": 14542,
+   "timestamp": "2017-08-14"
+  },
+  "textures/than_sqlitepurp.tga": {
+   "size": 3297,
+   "timestamp": "2017-08-14"
+  },
+  "textures/x_baslt1purp.tga": {
+   "size": 7599,
+   "timestamp": "2017-08-14"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/quck_demo.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5cbc4c7593c8a92aa953febb12245832b8280c4a0399867e8d72de76ac4ba88e/quck_demo.zip"
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "version": "20191222-0",
+ "sha256": "d1fd80b5f6a94c99a51b8c082e3417948fa5c20071b37a5b5f3580be246b8ec9",
+ "filename": [
+  "nyarlathotep.zip"
+ ],
+ "size": 5639,
+ "releasedate": "2013-12-11",
+ "tags": [
+  "title:Nyarlathotep",
+  "author:Dustin \"Tronyn\" Geeraert",
+  "tag:experimental",
+  "tag:vertical",
+  "tag:blood",
+  "tag:gravity",
+  "tag:egyptian",
+  "tag:knave",
+  "tag:medium",
+  "tag:flesh",
+  "tag:drake",
+  "tag:hard",
+  "tag:temple",
+  "tag:limits",
+  "tag:bsp2",
+  "tag:unique",
+  "dependency:something_wicked",
+  "startmap:nyar",
+  "startmap:nyar2"
+ ],
+ "install": {
+  "extract": "{quake}/wicked/"
+ },
+ "files": {
+  "nyarlathotep.txt": {
+   "size": 1134,
+   "timestamp": "2013-12-08"
+  },
+  "pak4.pak": {
+   "size": 15716108,
+   "timestamp": "2013-12-08"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/nyarlathotep.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d1fd80b5f6a94c99a51b8c082e3417948fa5c20071b37a5b5f3580be246b8ec9/nyarlathotep.zip"
+ ]
+}

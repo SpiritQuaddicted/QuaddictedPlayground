@@ -1,0 +1,35 @@
+{
+ "version": "20191222-0",
+ "sha256": "d8959d3f3d3dd3043b0a784884549213e8dbe3f7626a586b21964883eb3b1581",
+ "filename": [
+  "sewer12.zip"
+ ],
+ "size": 752,
+ "releasedate": "1997-07-23",
+ "tags": [
+  "title:Seweage Playground",
+  "author:Brian Kline (Larry)",
+  "tag:base",
+  "tag:sewer",
+  "tag:soa",
+  "tag:hipnotic",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "files": {
+  "author.txt": {
+   "size": 2185,
+   "timestamp": "1997-07-23"
+  },
+  "sewer12.bsp": {
+   "size": 1788536,
+   "timestamp": "1997-06-24"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sewer12.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d8959d3f3d3dd3043b0a784884549213e8dbe3f7626a586b21964883eb3b1581/sewer12.zip"
+ ]
+}

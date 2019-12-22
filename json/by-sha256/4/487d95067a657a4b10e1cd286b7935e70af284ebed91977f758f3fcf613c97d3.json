@@ -1,0 +1,44 @@
+{
+ "version": "20191222-0",
+ "sha256": "487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3",
+ "filename": [
+  "lpqsp2.zip"
+ ],
+ "size": 1456,
+ "releasedate": "2017-08-13",
+ "tags": [
+  "title:Threat Assessment",
+  "author:Lane Powell",
+  "tag:small",
+  "tag:metal",
+  "tag:base",
+  "tag:ad space",
+  "tag:void",
+  "tag:limits",
+  "tag:arcanedimensions",
+  "tag:coagula",
+  "tag:rubicon",
+  "dependency:ad_v1_50final"
+ ],
+ "install": {
+  "extract": "{quake}/ad/maps/"
+ },
+ "files": {
+  "lpqsp2.bsp": {
+   "size": 2854172,
+   "timestamp": "2017-08-13"
+  },
+  "lpqsp2.lit": {
+   "size": 1154072,
+   "timestamp": "2017-08-13"
+  },
+  "lpqsp2.txt": {
+   "size": 2028,
+   "timestamp": "2017-08-13"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/lpqsp2.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3/lpqsp2.zip"
+ ]
+}

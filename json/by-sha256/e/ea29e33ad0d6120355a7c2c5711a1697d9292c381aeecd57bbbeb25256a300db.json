@@ -1,0 +1,49 @@
+{
+ "version": "20191222-0",
+ "sha256": "ea29e33ad0d6120355a7c2c5711a1697d9292c381aeecd57bbbeb25256a300db",
+ "filename": [
+  "sm114_pack.zip"
+ ],
+ "size": 318,
+ "releasedate": "2005-12-12",
+ "tags": [
+  "title:Speedmapping pack 114 - Only one texture",
+  "author:bambuz",
+  "author:negke",
+  "author:Spirit",
+  "author:Trinca",
+  "startmap:sm114_trinca",
+  "startmap:sm114_spirit",
+  "startmap:sm114_neg!ke",
+  "startmap:sm114_bam"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm114_neg!ke.bsp": {
+   "size": 193168,
+   "timestamp": "2005-12-10"
+  },
+  "sm114_spirit.bsp": {
+   "size": 248800,
+   "timestamp": "2005-12-10"
+  },
+  "sm114_pack.txt": {
+   "size": 1446,
+   "timestamp": "2005-12-12"
+  },
+  "sm114_trinca.bsp": {
+   "size": 153148,
+   "timestamp": "2005-12-11"
+  },
+  "sm114_bam.bsp": {
+   "size": 184796,
+   "timestamp": "2005-12-10"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm114_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ea29e33ad0d6120355a7c2c5711a1697d9292c381aeecd57bbbeb25256a300db/sm114_pack.zip"
+ ]
+}

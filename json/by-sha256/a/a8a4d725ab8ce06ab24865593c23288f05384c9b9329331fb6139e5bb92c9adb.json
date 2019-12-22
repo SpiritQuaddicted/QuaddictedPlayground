@@ -1,0 +1,49 @@
+{
+ "version": "20191222-0",
+ "sha256": "a8a4d725ab8ce06ab24865593c23288f05384c9b9329331fb6139e5bb92c9adb",
+ "filename": [
+  "sm16_pack.zip"
+ ],
+ "size": 988,
+ "releasedate": "2001-05-20",
+ "tags": [
+  "title:Speedmapping pack 16 - Unthemed",
+  "author:Aardappel",
+  "author:Gibbie",
+  "author:Misyu",
+  "author:NaNe",
+  "startmap:sm16_nane",
+  "startmap:sm16_misyu",
+  "startmap:sm16_aard",
+  "startmap:sm16_gibbie"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm16_nane.bsp": {
+   "size": 456524,
+   "timestamp": "2001-05-20"
+  },
+  "sm16_pack.txt": {
+   "size": 2113,
+   "timestamp": "2001-05-20"
+  },
+  "sm16_misyu.bsp": {
+   "size": 678784,
+   "timestamp": "2001-05-19"
+  },
+  "sm16_gibbie.bsp": {
+   "size": 756448,
+   "timestamp": "2001-05-19"
+  },
+  "sm16_aard.bsp": {
+   "size": 860012,
+   "timestamp": "2001-05-19"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm16_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a8a4d725ab8ce06ab24865593c23288f05384c9b9329331fb6139e5bb92c9adb/sm16_pack.zip"
+ ]
+}

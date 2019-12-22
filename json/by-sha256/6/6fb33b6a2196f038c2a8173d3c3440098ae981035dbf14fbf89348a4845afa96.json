@@ -1,0 +1,339 @@
+{
+ "version": "20191222-0",
+ "sha256": "6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96",
+ "filename": [
+  "sm193_pack.zip"
+ ],
+ "size": 42957,
+ "releasedate": "2019-03-07",
+ "tags": [
+  "title:Speedmapping pack 193 - Quakeguy Goes to White Castle",
+  "author:Bal",
+  "author:Danzadan",
+  "author:Fairweather",
+  "author:Ing-ing",
+  "author:ionous",
+  "author:ish",
+  "author:JCR",
+  "author:kamp",
+  "author:Marandal",
+  "author:Naitelveni",
+  "author:Newhouse",
+  "author:onetruepurple",
+  "author:Pinchy",
+  "author:Shambler",
+  "author:Ukko",
+  "startmap:sm193_bal",
+  "startmap:sm193_danz",
+  "startmap:sm193_fairweather",
+  "startmap:sm193_ing",
+  "startmap:sm193_ionous",
+  "startmap:sm193_ish",
+  "startmap:sm193_jcr",
+  "startmap:sm193_kamp",
+  "startmap:sm193_marandal",
+  "startmap:sm193_naitelveni",
+  "startmap:sm193_newhouse",
+  "startmap:sm193_otp",
+  "startmap:sm193_pinchy",
+  "startmap:sm193_sham",
+  "startmap:sm193_ukko"
+ ],
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "files": {
+  "docs/sm193_bal.txt": {
+   "size": 3345,
+   "timestamp": "2019-03-06"
+  },
+  "docs/sm193_ish_readme.txt": {
+   "size": 3683,
+   "timestamp": "2019-03-05"
+  },
+  "docs/sm193_jcr.txt": {
+   "size": 1344,
+   "timestamp": "2019-03-05"
+  },
+  "docs/sm193_pinchy.txt": {
+   "size": 2729,
+   "timestamp": "2019-03-06"
+  },
+  "docs/sm193_sham.txt": {
+   "size": 674,
+   "timestamp": "2019-03-05"
+  },
+  "docs/sm193_ukko.txt": {
+   "size": 2536,
+   "timestamp": "2019-03-07"
+  },
+  "gfx/env/ely_hills/hills_bk.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-07"
+  },
+  "gfx/env/ely_hills/hills_dn.tga": {
+   "size": 10779,
+   "timestamp": "2008-12-07"
+  },
+  "gfx/env/ely_hills/hills_ft.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-07"
+  },
+  "gfx/env/ely_hills/hills_lf.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-07"
+  },
+  "gfx/env/ely_hills/hills_rt.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-07"
+  },
+  "gfx/env/ely_hills/hills_up.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-07"
+  },
+  "gfx/env/ely_hills/readme.txt": {
+   "size": 722,
+   "timestamp": "2008-12-07"
+  },
+  "gfx/env/grimmnight_bk.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-25"
+  },
+  "gfx/env/grimmnight_dn.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-25"
+  },
+  "gfx/env/grimmnight_ft.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-25"
+  },
+  "gfx/env/grimmnight_lf.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-25"
+  },
+  "gfx/env/grimmnight_rt.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-25"
+  },
+  "gfx/env/grimmnight_up.tga": {
+   "size": 786971,
+   "timestamp": "2008-12-25"
+  },
+  "gfx/env/moonhigh_bk.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_dn.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_ft.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_lf.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_rt.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_up.tga": {
+   "size": 1048620,
+   "timestamp": "2015-10-28"
+  },
+  "gfx/env/shadowpeak_bk.tga": {
+   "size": 786450,
+   "timestamp": "2019-03-02"
+  },
+  "gfx/env/shadowpeak_dn.tga": {
+   "size": 786450,
+   "timestamp": "2019-03-02"
+  },
+  "gfx/env/shadowpeak_ft.tga": {
+   "size": 786450,
+   "timestamp": "2019-03-02"
+  },
+  "gfx/env/shadowpeak_lf.tga": {
+   "size": 786450,
+   "timestamp": "2019-03-02"
+  },
+  "gfx/env/shadowpeak_rt.tga": {
+   "size": 786450,
+   "timestamp": "2019-03-02"
+  },
+  "gfx/env/shadowpeak_up.tga": {
+   "size": 786450,
+   "timestamp": "2019-03-02"
+  },
+  "gfx/env/sm193_bal_bk.tga": {
+   "size": 3145772,
+   "timestamp": "2019-03-04"
+  },
+  "gfx/env/sm193_bal_dn.tga": {
+   "size": 3145772,
+   "timestamp": "2019-03-04"
+  },
+  "gfx/env/sm193_bal_ft.tga": {
+   "size": 3145772,
+   "timestamp": "2019-03-04"
+  },
+  "gfx/env/sm193_bal_lf.tga": {
+   "size": 3145772,
+   "timestamp": "2019-03-04"
+  },
+  "gfx/env/sm193_bal_rt.tga": {
+   "size": 3145772,
+   "timestamp": "2019-03-04"
+  },
+  "gfx/env/sm193_bal_up.tga": {
+   "size": 3145772,
+   "timestamp": "2019-03-04"
+  },
+  "maps/sm193_bal.bsp": {
+   "size": 13683732,
+   "timestamp": "2019-03-06"
+  },
+  "maps/sm193_bal.lit": {
+   "size": 4425821,
+   "timestamp": "2019-03-06"
+  },
+  "maps/sm193_danz.bsp": {
+   "size": 1708488,
+   "timestamp": "2019-03-07"
+  },
+  "maps/sm193_danz.lit": {
+   "size": 266795,
+   "timestamp": "2019-03-07"
+  },
+  "maps/sm193_fairweather.bsp": {
+   "size": 5110812,
+   "timestamp": "2019-03-07"
+  },
+  "maps/sm193_fairweather.lit": {
+   "size": 1736783,
+   "timestamp": "2019-03-07"
+  },
+  "maps/sm193_ing.bsp": {
+   "size": 8282320,
+   "timestamp": "2019-03-05"
+  },
+  "maps/sm193_ionous.bsp": {
+   "size": 2033644,
+   "timestamp": "2019-03-05"
+  },
+  "maps/sm193_ish.bsp": {
+   "size": 5571188,
+   "timestamp": "2019-03-05"
+  },
+  "maps/sm193_ish.lit": {
+   "size": 2256410,
+   "timestamp": "2019-03-05"
+  },
+  "maps/sm193_jcr.bsp": {
+   "size": 3099200,
+   "timestamp": "2019-03-05"
+  },
+  "maps/sm193_kamp.bsp": {
+   "size": 2218236,
+   "timestamp": "2019-03-06"
+  },
+  "maps/sm193_kamp.lit": {
+   "size": 1519676,
+   "timestamp": "2019-03-06"
+  },
+  "maps/sm193_marandal.bsp": {
+   "size": 678716,
+   "timestamp": "2019-03-04"
+  },
+  "maps/sm193_naitelveni.bsp": {
+   "size": 6020840,
+   "timestamp": "2019-03-04"
+  },
+  "maps/sm193_naitelveni.lit": {
+   "size": 816404,
+   "timestamp": "2019-03-04"
+  },
+  "maps/sm193_newhouse.bsp": {
+   "size": 1929696,
+   "timestamp": "2019-03-06"
+  },
+  "maps/sm193_newhouse.lit": {
+   "size": 654776,
+   "timestamp": "2019-03-06"
+  },
+  "maps/sm193_otp.bsp": {
+   "size": 2373608,
+   "timestamp": "2019-03-06"
+  },
+  "maps/sm193_pinchy.bsp": {
+   "size": 2777780,
+   "timestamp": "2019-03-06"
+  },
+  "maps/sm193_sham.bsp": {
+   "size": 3386676,
+   "timestamp": "2019-03-05"
+  },
+  "maps/sm193_sham.lit": {
+   "size": 3980408,
+   "timestamp": "2019-03-05"
+  },
+  "maps/sm193_ukko.bsp": {
+   "size": 7699908,
+   "timestamp": "2019-03-07"
+  },
+  "maps/sm193_ukko.lit": {
+   "size": 1316306,
+   "timestamp": "2019-03-07"
+  },
+  "music/track98.ogg": {
+   "size": 2961682,
+   "timestamp": "2019-03-03"
+  },
+  "sm193_pack.txt": {
+   "size": 1285,
+   "timestamp": "2019-03-07"
+  },
+  "source/sm193_bal.map": {
+   "size": 8746626,
+   "timestamp": "2019-03-06"
+  },
+  "source/sm193_danz.map": {
+   "size": 187157,
+   "timestamp": "2019-03-07"
+  },
+  "source/sm193_ing.map": {
+   "size": 3752822,
+   "timestamp": "2019-03-05"
+  },
+  "source/sm193_ionous.map": {
+   "size": 1513406,
+   "timestamp": "2019-03-04"
+  },
+  "source/sm193_ish.map": {
+   "size": 2697894,
+   "timestamp": "2019-03-05"
+  },
+  "source/sm193_jcr.map": {
+   "size": 1564104,
+   "timestamp": "2019-03-05"
+  },
+  "source/sm193_kamp.map": {
+   "size": 797213,
+   "timestamp": "2019-03-06"
+  },
+  "source/sm193_otp.map": {
+   "size": 607881,
+   "timestamp": "2019-03-06"
+  },
+  "source/sm193_pinchy.map": {
+   "size": 2027517,
+   "timestamp": "2019-03-06"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm193_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96/sm193_pack.zip"
+ ]
+}

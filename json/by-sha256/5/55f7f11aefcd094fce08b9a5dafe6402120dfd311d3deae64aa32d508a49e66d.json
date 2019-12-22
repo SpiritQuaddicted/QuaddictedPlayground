@@ -1,0 +1,809 @@
+{
+ "version": "20191222-0",
+ "sha256": "55f7f11aefcd094fce08b9a5dafe6402120dfd311d3deae64aa32d508a49e66d",
+ "filename": [
+  "100b4.zip"
+ ],
+ "size": 46606,
+ "releasedate": "2018-06-10",
+ "tags": [
+  "title:100 Brush Competition #4",
+  "author:Artistical",
+  "author:DelusionalBear",
+  "author:Digs",
+  "author:dumptruck_ds",
+  "author:ionous",
+  "author:JCR",
+  "author:Newhouse",
+  "author:Redfield",
+  "author:Roman",
+  "author:Shamblernaut",
+  "author:Shotro",
+  "author:Spipper",
+  "author:Spud",
+  "author:ww",
+  "tag:small",
+  "tag:100b",
+  "tag:contest",
+  "tag:episode",
+  "tag:quoth",
+  "tag:base",
+  "tag:medieval",
+  "tag:metal",
+  "tag:temple",
+  "tag:terrain",
+  "tag:abstract",
+  "tag:alice",
+  "tag:trickjump",
+  "tag:snow",
+  "tag:canyon",
+  "tag:industrial",
+  "tag:models",
+  "tag:sounds",
+  "tag:skybox",
+  "tag:limits",
+  "tag:source",
+  "tag:rubicon",
+  "dependency:quoth2pt2full_2",
+  "startmap:start",
+  "startmap:100b4_artistical01",
+  "startmap:100b4_artistical_02",
+  "startmap:100b4_artistical_03",
+  "startmap:100b4_delusionalbear",
+  "startmap:100b4_digs",
+  "startmap:100b4_dumptruck",
+  "startmap:100b4_ionfrost",
+  "startmap:100b4_ionio",
+  "startmap:100b4_jcr",
+  "startmap:100b4_jcr2",
+  "startmap:100b4_newhouse",
+  "startmap:100b4_newhouse2",
+  "startmap:100b4_redfield",
+  "startmap:100b4_shamblernaut",
+  "startmap:100b4_shotro",
+  "startmap:100b4_spipper",
+  "startmap:100b4_spud",
+  "startmap:100b4_ww"
+ ],
+ "install": {
+  "extract": "{quake}/100b4/"
+ },
+ "files": {
+  "100b4_readme.txt": {
+   "size": 1483,
+   "timestamp": "2018-06-09"
+  },
+  "100b4_results.txt": {
+   "size": 24653,
+   "timestamp": "2018-06-09"
+  },
+  "dmptrk/progs/fixture1.mdl": {
+   "size": 5988,
+   "timestamp": "2018-05-10"
+  },
+  "dmptrk/progs/gen2.mdl": {
+   "size": 74708,
+   "timestamp": "2018-05-12"
+  },
+  "dmptrk/progs/hunter.mdl": {
+   "size": 755320,
+   "timestamp": "2018-05-10"
+  },
+  "dmptrk/progs/light6redf.mdl": {
+   "size": 81780,
+   "timestamp": "2018-05-25"
+  },
+  "docs/100b4_Artistical_01_Readme.txt": {
+   "size": 1850,
+   "timestamp": "2018-05-27"
+  },
+  "docs/100b4_Artistical_02_Readme.txt": {
+   "size": 1922,
+   "timestamp": "2018-05-27"
+  },
+  "docs/100b4_Artistical_03_Readme.txt": {
+   "size": 1970,
+   "timestamp": "2018-05-27"
+  },
+  "docs/100b4_DelusionalBear_readme.txt": {
+   "size": 2428,
+   "timestamp": "2018-05-27"
+  },
+  "docs/100b4_dumptruck_readme.txt": {
+   "size": 4970,
+   "timestamp": "2018-05-27"
+  },
+  "docs/100b4_ionio.txt": {
+   "size": 2667,
+   "timestamp": "2018-05-26"
+  },
+  "docs/100b4_redfieldREADME.txt": {
+   "size": 5515,
+   "timestamp": "2018-05-29"
+  },
+  "docs/100b4_roman_readme.txt": {
+   "size": 1300,
+   "timestamp": "2018-05-26"
+  },
+  "docs/100b4_shamblernaut.txt": {
+   "size": 2413,
+   "timestamp": "2018-05-18"
+  },
+  "docs/100b4_shotro.txt": {
+   "size": 2077,
+   "timestamp": "2018-05-29"
+  },
+  "docs/100b4_spipper.txt": {
+   "size": 1226,
+   "timestamp": "2018-05-28"
+  },
+  "docs/100b4_spud.txt": {
+   "size": 3676,
+   "timestamp": "2018-05-28"
+  },
+  "docs/100b4_ww.txt": {
+   "size": 454,
+   "timestamp": "2018-06-01"
+  },
+  "gfx/env/alps_bk.tga": {
+   "size": 687378,
+   "timestamp": "2018-04-30"
+  },
+  "gfx/env/alps_dn.tga": {
+   "size": 788615,
+   "timestamp": "2018-04-30"
+  },
+  "gfx/env/alps_ft.tga": {
+   "size": 754690,
+   "timestamp": "2018-04-30"
+  },
+  "gfx/env/alps_lf.tga": {
+   "size": 695633,
+   "timestamp": "2018-04-30"
+  },
+  "gfx/env/alps_rt.tga": {
+   "size": 741760,
+   "timestamp": "2018-04-30"
+  },
+  "gfx/env/alps_up.tga": {
+   "size": 611963,
+   "timestamp": "2018-04-30"
+  },
+  "gfx/env/cloudtop2bk.tga": {
+   "size": 786476,
+   "timestamp": "2018-05-23"
+  },
+  "gfx/env/cloudtop2dn.tga": {
+   "size": 786476,
+   "timestamp": "2018-05-23"
+  },
+  "gfx/env/cloudtop2ft.tga": {
+   "size": 786476,
+   "timestamp": "2018-05-23"
+  },
+  "gfx/env/cloudtop2lf.tga": {
+   "size": 786476,
+   "timestamp": "2018-05-23"
+  },
+  "gfx/env/cloudtop2rt.tga": {
+   "size": 786476,
+   "timestamp": "2018-05-23"
+  },
+  "gfx/env/cloudtop2up.tga": {
+   "size": 786450,
+   "timestamp": "2018-05-23"
+  },
+  "gfx/env/l_swampn_bk.tga": {
+   "size": 3145772,
+   "timestamp": "2018-03-18"
+  },
+  "gfx/env/l_swampn_dn.tga": {
+   "size": 3146268,
+   "timestamp": "2018-03-18"
+  },
+  "gfx/env/l_swampn_ft.tga": {
+   "size": 3145772,
+   "timestamp": "2018-03-18"
+  },
+  "gfx/env/l_swampn_lf.tga": {
+   "size": 3145772,
+   "timestamp": "2018-03-18"
+  },
+  "gfx/env/l_swampn_rt.tga": {
+   "size": 3145772,
+   "timestamp": "2018-03-18"
+  },
+  "gfx/env/l_swampn_up.tga": {
+   "size": 3146269,
+   "timestamp": "2018-03-18"
+  },
+  "gfx/env/labyrinthus_bk.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-04"
+  },
+  "gfx/env/labyrinthus_dn.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-04"
+  },
+  "gfx/env/labyrinthus_ft.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-04"
+  },
+  "gfx/env/labyrinthus_lf.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-04"
+  },
+  "gfx/env/labyrinthus_rt.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-04"
+  },
+  "gfx/env/labyrinthus_up.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-04"
+  },
+  "gfx/env/mensae_bk.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-02"
+  },
+  "gfx/env/mensae_dn.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-02"
+  },
+  "gfx/env/mensae_ft.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-02"
+  },
+  "gfx/env/mensae_lf.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-02"
+  },
+  "gfx/env/mensae_rt.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-02"
+  },
+  "gfx/env/mensae_up.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-02"
+  },
+  "gfx/env/moonhigh_bk.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_dn.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_ft.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_lf.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_rt.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_up.tga": {
+   "size": 1048620,
+   "timestamp": "2015-10-28"
+  },
+  "gfx/env/snowmoon_bk.tga": {
+   "size": 707878,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_dn.tga": {
+   "size": 754863,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_ft.tga": {
+   "size": 630095,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_lf.tga": {
+   "size": 671066,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_rt.tga": {
+   "size": 636559,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_up.tga": {
+   "size": 410341,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/starfrost_bk.tga": {
+   "size": 417249,
+   "timestamp": "2003-08-20"
+  },
+  "gfx/env/starfrost_dn.tga": {
+   "size": 653548,
+   "timestamp": "2003-08-20"
+  },
+  "gfx/env/starfrost_ft.tga": {
+   "size": 598764,
+   "timestamp": "2003-08-20"
+  },
+  "gfx/env/starfrost_lf.tga": {
+   "size": 414555,
+   "timestamp": "2003-08-20"
+  },
+  "gfx/env/starfrost_rt.tga": {
+   "size": 432734,
+   "timestamp": "2003-08-20"
+  },
+  "gfx/env/starfrost_up.tga": {
+   "size": 187234,
+   "timestamp": "2003-08-20"
+  },
+  "gfx/env/stormydays_bk.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_dn.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_ft.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_lf.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_rt.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_up.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "maps/100b4_Artistical01.bsp": {
+   "size": 358588,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_Artistical01.lit": {
+   "size": 165488,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_Artistical_02.bsp": {
+   "size": 1104368,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_Artistical_03.bsp": {
+   "size": 1250996,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_Artistical_03.lit": {
+   "size": 793736,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_DelusionalBear.bsp": {
+   "size": 637404,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_DelusionalBear.lit": {
+   "size": 223721,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_digs.bsp": {
+   "size": 892736,
+   "timestamp": "2018-05-24"
+  },
+  "maps/100b4_dumptruck.bsp": {
+   "size": 887372,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_dumptruck.lit": {
+   "size": 223658,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_ionfrost.bsp": {
+   "size": 2746437,
+   "timestamp": "2018-05-24"
+  },
+  "maps/100b4_ionfrost.lit": {
+   "size": 1852172,
+   "timestamp": "2018-05-24"
+  },
+  "maps/100b4_ionio.bsp": {
+   "size": 2353563,
+   "timestamp": "2018-05-26"
+  },
+  "maps/100b4_ionio.lit": {
+   "size": 1648640,
+   "timestamp": "2018-05-26"
+  },
+  "maps/100b4_jcr.bsp": {
+   "size": 870736,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_jcr.lit": {
+   "size": 276068,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_jcr2.bsp": {
+   "size": 1283236,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_jcr2.lit": {
+   "size": 465350,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_newhouse.bsp": {
+   "size": 766776,
+   "timestamp": "2018-05-26"
+  },
+  "maps/100b4_newhouse.lit": {
+   "size": 372344,
+   "timestamp": "2018-05-26"
+  },
+  "maps/100b4_newhouse2.bsp": {
+   "size": 645044,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_newhouse2.lit": {
+   "size": 141920,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_redfield.bsp": {
+   "size": 2188072,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_redfield.lit": {
+   "size": 130379,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_roman.bsp": {
+   "size": 4163852,
+   "timestamp": "2018-05-25"
+  },
+  "maps/100b4_roman.lit": {
+   "size": 985880,
+   "timestamp": "2018-05-25"
+  },
+  "maps/100b4_shamblernaut.bsp": {
+   "size": 1371588,
+   "timestamp": "2018-05-18"
+  },
+  "maps/100b4_shotro.bsp": {
+   "size": 1525340,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_shotro.lit": {
+   "size": 734267,
+   "timestamp": "2018-05-27"
+  },
+  "maps/100b4_spipper.bsp": {
+   "size": 1518600,
+   "timestamp": "2018-05-28"
+  },
+  "maps/100b4_spipper.lit": {
+   "size": 785246,
+   "timestamp": "2018-05-28"
+  },
+  "maps/100b4_spud.bsp": {
+   "size": 2006076,
+   "timestamp": "2018-05-29"
+  },
+  "maps/100b4_spud.lit": {
+   "size": 778139,
+   "timestamp": "2018-05-29"
+  },
+  "maps/100b4_ww.bsp": {
+   "size": 3844872,
+   "timestamp": "2018-06-01"
+  },
+  "maps/100b4_ww.lit": {
+   "size": 3169766,
+   "timestamp": "2018-06-01"
+  },
+  "maps/start.bsp": {
+   "size": 1646784,
+   "timestamp": "2018-06-09"
+  },
+  "maps/start.lit": {
+   "size": 1146536,
+   "timestamp": "2018-06-09"
+  },
+  "music/track26.mp3": {
+   "size": 4804556,
+   "timestamp": "2018-05-26"
+  },
+  "music/track99.mp3": {
+   "size": 5097147,
+   "timestamp": "2018-05-16"
+  },
+  "music/track99.ogg": {
+   "size": 2970985,
+   "timestamp": "2018-05-16"
+  },
+  "progs/alice.mdl": {
+   "size": 261300,
+   "timestamp": "2018-04-30"
+  },
+  "progs/autumntree.mdl": {
+   "size": 271688,
+   "timestamp": "2018-05-22"
+  },
+  "progs/bubble.mdl": {
+   "size": 9844,
+   "timestamp": "2018-05-21"
+  },
+  "progs/butterfly.mdl": {
+   "size": 11508,
+   "timestamp": "2018-05-11"
+  },
+  "progs/cable.mdl": {
+   "size": 57780,
+   "timestamp": "2013-09-29"
+  },
+  "progs/flowers.mdl": {
+   "size": 137224,
+   "timestamp": "2018-05-20"
+  },
+  "progs/gear.mdl": {
+   "size": 142456,
+   "timestamp": "2018-05-20"
+  },
+  "progs/highheel.mdl": {
+   "size": 69284,
+   "timestamp": "2018-05-21"
+  },
+  "progs/king.mdl": {
+   "size": 99572,
+   "timestamp": "2018-05-05"
+  },
+  "progs/plate.mdl": {
+   "size": 221140,
+   "timestamp": "2018-05-15"
+  },
+  "progs/queen.mdl": {
+   "size": 101620,
+   "timestamp": "2018-05-05"
+  },
+  "progs/raven.mdl": {
+   "size": 368708,
+   "timestamp": "2018-05-26"
+  },
+  "progs/redshrooms.mdl": {
+   "size": 12344,
+   "timestamp": "2018-05-20"
+  },
+  "progs/smoke.mdl": {
+   "size": 31808,
+   "timestamp": "2013-09-15"
+  },
+  "progs/teacup.mdl": {
+   "size": 24836,
+   "timestamp": "2018-05-08"
+  },
+  "progs/teapot.mdl": {
+   "size": 249316,
+   "timestamp": "2018-05-08"
+  },
+  "progs/vine.mdl": {
+   "size": 20736,
+   "timestamp": "2018-05-26"
+  },
+  "progs/vine.txt": {
+   "size": 1256,
+   "timestamp": "2018-05-26"
+  },
+  "progs/watch.mdl": {
+   "size": 245284,
+   "timestamp": "2018-05-13"
+  },
+  "sound/100b4/alice_quote.wav": {
+   "size": 163962,
+   "timestamp": "2018-05-16"
+  },
+  "sound/100b4/card.wav": {
+   "size": 22114,
+   "timestamp": "2018-05-15"
+  },
+  "sound/100b4/ravencall.wav": {
+   "size": 43502,
+   "timestamp": "2018-05-26"
+  },
+  "sound/100b4/waterfall_loop.wav": {
+   "size": 396978,
+   "timestamp": "2017-05-19"
+  },
+  "sound/ambient/growl1.wav": {
+   "size": 166266,
+   "timestamp": "2018-05-25"
+  },
+  "sound/dmptrk/06_01.wav": {
+   "size": 14462,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/comp1.wav": {
+   "size": 62734,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/dial10.wav": {
+   "size": 66018,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/dial11.wav": {
+   "size": 74778,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/dial12.wav": {
+   "size": 79512,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/dial13.wav": {
+   "size": 224694,
+   "timestamp": "2018-05-17"
+  },
+  "sound/dmptrk/dial14.wav": {
+   "size": 80038,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/dial15.wav": {
+   "size": 94242,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/dial16.wav": {
+   "size": 43616,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/dial17.wav": {
+   "size": 123612,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/dial18.wav": {
+   "size": 123762,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/dial19.wav": {
+   "size": 71154,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/dial1short.wav": {
+   "size": 104782,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/dial2.wav": {
+   "size": 226740,
+   "timestamp": "2018-05-17"
+  },
+  "sound/dmptrk/dial3.wav": {
+   "size": 153598,
+   "timestamp": "2018-05-17"
+  },
+  "sound/dmptrk/dial4.wav": {
+   "size": 218958,
+   "timestamp": "2018-05-17"
+  },
+  "sound/dmptrk/dial5.wav": {
+   "size": 160526,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/dial6.wav": {
+   "size": 154578,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/dial7.wav": {
+   "size": 114986,
+   "timestamp": "2018-05-17"
+  },
+  "sound/dmptrk/dial8.wav": {
+   "size": 119422,
+   "timestamp": "2018-05-17"
+  },
+  "sound/dmptrk/dial9.wav": {
+   "size": 79888,
+   "timestamp": "2018-05-24"
+  },
+  "sound/dmptrk/door4.wav": {
+   "size": 87358,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/itembk2.wav": {
+   "size": 15072,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/slipoff.wav": {
+   "size": 43042,
+   "timestamp": "2018-05-26"
+  },
+  "sound/dmptrk/slipon.wav": {
+   "size": 43936,
+   "timestamp": "2018-05-26"
+  },
+  "source/100b4_Artistical01.map": {
+   "size": 70352,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_Artistical_02.map": {
+   "size": 158269,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_Artistical_03.map": {
+   "size": 100307,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_digs.map": {
+   "size": 169924,
+   "timestamp": "2018-05-24"
+  },
+  "source/100b4_digs.wad": {
+   "size": 43892,
+   "timestamp": "2018-05-14"
+  },
+  "source/100b4_dumptruck.map": {
+   "size": 107113,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_ionfrost.map": {
+   "size": 303938,
+   "timestamp": "2018-05-24"
+  },
+  "source/100b4_ionio.map": {
+   "size": 242883,
+   "timestamp": "2018-05-26"
+  },
+  "source/100b4_jcr.map": {
+   "size": 135217,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_jcr2.map": {
+   "size": 164454,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_newhouse.map": {
+   "size": 91189,
+   "timestamp": "2018-05-26"
+  },
+  "source/100b4_newhouse2.map": {
+   "size": 96327,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_redfield.map": {
+   "size": 134713,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_roman.map": {
+   "size": 91412,
+   "timestamp": "2018-05-25"
+  },
+  "source/100b4_shamblernaut.map": {
+   "size": 319345,
+   "timestamp": "2018-05-18"
+  },
+  "source/100b4_shotro.map": {
+   "size": 111833,
+   "timestamp": "2018-05-27"
+  },
+  "source/100b4_spipper.map": {
+   "size": 204073,
+   "timestamp": "2018-06-08"
+  },
+  "source/100b4_spud.map": {
+   "size": 837689,
+   "timestamp": "2018-05-29"
+  },
+  "source/100b4_start.map": {
+   "size": 291370,
+   "timestamp": "2018-06-09"
+  },
+  "source/100b4_ww.map": {
+   "size": 487761,
+   "timestamp": "2018-06-01"
+  },
+  "source/db100b4_DelusionalBear.map": {
+   "size": 96234,
+   "timestamp": "2018-05-27"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/100b4.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/55f7f11aefcd094fce08b9a5dafe6402120dfd311d3deae64aa32d508a49e66d/100b4.zip"
+ ]
+}

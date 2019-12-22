@@ -1,0 +1,40 @@
+{
+ "version": "20191222-0",
+ "sha256": "7a540ebbff81b681eb334a61f805d2ab29fc8943585a384343078fe82af98b4a",
+ "filename": [
+  "purgator.zip"
+ ],
+ "size": 730,
+ "releasedate": "1997-05-06",
+ "tags": [
+  "title:Enter Purgatory",
+  "author:Bryan Pillow",
+  "tag:medium",
+  "tag:wizard",
+  "tag:medieval",
+  "tag:start",
+  "tag:traps",
+  "startmap:skillset"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "purg.txt": {
+   "size": 1452,
+   "timestamp": "1997-05-06"
+  },
+  "purgator.bsp": {
+   "size": 1515272,
+   "timestamp": "1997-05-06"
+  },
+  "skillset.bsp": {
+   "size": 175056,
+   "timestamp": "1997-04-26"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/purgator.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7a540ebbff81b681eb334a61f805d2ab29fc8943585a384343078fe82af98b4a/purgator.zip"
+ ]
+}

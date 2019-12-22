@@ -1,0 +1,877 @@
+{
+ "version": "20191222-0",
+ "sha256": "21d33c8a494b6c569696e156f36ce43485c3ed1db4ae38f2f7722e71db83404b",
+ "filename": [
+  "func_mapjam9_2.zip"
+ ],
+ "size": 138772,
+ "releasedate": "2017-08-01",
+ "tags": [
+  "title:Func Map Jam 9 - Contract Revoked / Knave theme",
+  "author:Bloughsburgh",
+  "author:Breezeep",
+  "author:DelusionalBear",
+  "author:dumptruck_ds",
+  "author:G1ftmacher",
+  "author:              Haunter",
+  "author:Ionous",
+  "author:Kell",
+  "author:Mukor",
+  "author:Naitelveni",
+  "author:NewHouse",
+  "author:onetruepurple",
+  "author:Pulsar",
+  "author:ShoTro",
+  "author:skacky",
+  "tag:large",
+  "tag:medium",
+  "tag:small",
+  "tag:quoth",
+  "tag:knave",
+  "tag:castle",
+  "tag:spacemap",
+  "tag:fog",
+  "tag:skybox",
+  "tag:limits",
+  "tag:bsp2",
+  "tag:sounds",
+  "tag:models",
+  "tag:music",
+  "tag:source",
+  "tag:quake_awards_2018_winner",
+  "dependency:quoth2pt2full_2",
+  "startmap:start",
+  "startmap:jam9_breezeep",
+  "startmap:jam9_dbear",
+  "startmap:jam9_dumptruck",
+  "startmap:jam9_giftmacher",
+  "startmap:jam9_haunter",
+  "startmap:jam9_ionous",
+  "startmap:jam9_kell",
+  "startmap:jam9_mjb",
+  "startmap:jam9_mukor",
+  "startmap:jam9_naitelveni",
+  "startmap:jam9_newhouse",
+  "startmap:jam9_otp",
+  "startmap:jam9_pulsar",
+  "startmap:jam9_shotro",
+  "startmap:jam9_skacky"
+ ],
+ "install": {
+  "extract": "{quake}/jam9"
+ },
+ "files": {
+  "docs/jam9_dbear.txt": {
+   "size": 2141,
+   "timestamp": "2017-07-26"
+  },
+  "docs/jam9_dumptruck_ds.txt": {
+   "size": 3424,
+   "timestamp": "2017-08-05"
+  },
+  "docs/jam9_ionous.txt": {
+   "size": 2173,
+   "timestamp": "2017-07-29"
+  },
+  "docs/jam9_mjb.txt": {
+   "size": 17376,
+   "timestamp": "2017-07-28"
+  },
+  "docs/jam9_mukor.txt": {
+   "size": 804,
+   "timestamp": "2017-07-27"
+  },
+  "docs/jam9_naitelveni.txt": {
+   "size": 473,
+   "timestamp": "2017-07-30"
+  },
+  "docs/jam9_newhouse.txt": {
+   "size": 1893,
+   "timestamp": "2017-08-04"
+  },
+  "docs/jam9_otp.txt": {
+   "size": 1278,
+   "timestamp": "2017-08-05"
+  },
+  "docs/jam9_shotro.txt": {
+   "size": 3461,
+   "timestamp": "2017-08-05"
+  },
+  "docs/jam9_skacky.txt": {
+   "size": 3787,
+   "timestamp": "2017-07-28"
+  },
+  "gfx/conback.lmp": {
+   "size": 362408,
+   "timestamp": "2017-08-01"
+  },
+  "gfx/env/July5bk.tga": {
+   "size": 3145772,
+   "timestamp": "2017-07-05"
+  },
+  "gfx/env/July5dn.tga": {
+   "size": 3145772,
+   "timestamp": "2017-07-05"
+  },
+  "gfx/env/July5ft.tga": {
+   "size": 3145772,
+   "timestamp": "2017-07-05"
+  },
+  "gfx/env/July5lf.tga": {
+   "size": 3145772,
+   "timestamp": "2017-07-05"
+  },
+  "gfx/env/July5rt.tga": {
+   "size": 3145772,
+   "timestamp": "2017-07-05"
+  },
+  "gfx/env/July5up.tga": {
+   "size": 3145772,
+   "timestamp": "2017-07-05"
+  },
+  "gfx/env/gehennabk.tga": {
+   "size": 673919,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennadn.tga": {
+   "size": 785761,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennaft.tga": {
+   "size": 710441,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennalf.tga": {
+   "size": 664379,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennart.tga": {
+   "size": 697661,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennaup.tga": {
+   "size": 509867,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/moonrise_bk.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-13"
+  },
+  "gfx/env/moonrise_dn.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-13"
+  },
+  "gfx/env/moonrise_ft.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-13"
+  },
+  "gfx/env/moonrise_lf.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-13"
+  },
+  "gfx/env/moonrise_rt.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-13"
+  },
+  "gfx/env/moonrise_up.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-13"
+  },
+  "gfx/env/nebulabk.tga": {
+   "size": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebuladn.tga": {
+   "size": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebulaft.tga": {
+   "size": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebulalf.tga": {
+   "size": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebulart.tga": {
+   "size": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebulaup.tga": {
+   "size": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/violent180_bk.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/violent180_dn.tga": {
+   "size": 3145772,
+   "timestamp": "2015-11-05"
+  },
+  "gfx/env/violent180_ft.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/violent180_lf.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/violent180_rt.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/violent180_up.tga": {
+   "size": 3145772,
+   "timestamp": "2015-11-05"
+  },
+  "jam9_readme.txt": {
+   "size": 6203,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_breezeep.bsp": {
+   "size": 7340168,
+   "timestamp": "2017-08-02"
+  },
+  "maps/jam9_breezeep.lit": {
+   "size": 1702199,
+   "timestamp": "2017-08-02"
+  },
+  "maps/jam9_dbear.bsp": {
+   "size": 4243558,
+   "timestamp": "2017-07-26"
+  },
+  "maps/jam9_dbear.lit": {
+   "size": 997931,
+   "timestamp": "2017-07-26"
+  },
+  "maps/jam9_dumptruck.bsp": {
+   "size": 7823988,
+   "timestamp": "2017-07-28"
+  },
+  "maps/jam9_dumptruck.lit": {
+   "size": 2014232,
+   "timestamp": "2017-07-28"
+  },
+  "maps/jam9_giftmacher.bsp": {
+   "size": 10812432,
+   "timestamp": "2017-07-27"
+  },
+  "maps/jam9_giftmacher.lit": {
+   "size": 2679254,
+   "timestamp": "2017-07-27"
+  },
+  "maps/jam9_haunter.bsp": {
+   "size": 3947080,
+   "timestamp": "2017-07-28"
+  },
+  "maps/jam9_ionous.bsp": {
+   "size": 2882338,
+   "timestamp": "2017-07-29"
+  },
+  "maps/jam9_ionous.lit": {
+   "size": 858398,
+   "timestamp": "2017-07-29"
+  },
+  "maps/jam9_kell.bsp": {
+   "size": 6271004,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_kell.lit": {
+   "size": 1597667,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_kell_bit1.bsp": {
+   "size": 58676,
+   "timestamp": "2017-07-19"
+  },
+  "maps/jam9_kell_bit2.bsp": {
+   "size": 85384,
+   "timestamp": "2017-07-19"
+  },
+  "maps/jam9_kell_bit3.bsp": {
+   "size": 144352,
+   "timestamp": "2017-07-21"
+  },
+  "maps/jam9_kell_bit4.bsp": {
+   "size": 69844,
+   "timestamp": "2017-07-19"
+  },
+  "maps/jam9_kell_bit5.bsp": {
+   "size": 134088,
+   "timestamp": "2017-07-19"
+  },
+  "maps/jam9_kell_power.bsp": {
+   "size": 165944,
+   "timestamp": "2017-07-23"
+  },
+  "maps/jam9_kell_starcube.bsp": {
+   "size": 90604,
+   "timestamp": "2017-07-28"
+  },
+  "maps/jam9_kell_tower.bsp": {
+   "size": 122452,
+   "timestamp": "2017-07-23"
+  },
+  "maps/jam9_mjb.bsp": {
+   "size": 8583948,
+   "timestamp": "2017-07-28"
+  },
+  "maps/jam9_mjb.lit": {
+   "size": 3226604,
+   "timestamp": "2017-07-28"
+  },
+  "maps/jam9_mukor.bsp": {
+   "size": 5560004,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_mukor.lit": {
+   "size": 1455167,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_naitelveni.bsp": {
+   "size": 25720012,
+   "timestamp": "2017-07-30"
+  },
+  "maps/jam9_naitelveni.lit": {
+   "size": 4998260,
+   "timestamp": "2017-07-28"
+  },
+  "maps/jam9_newhouse.bsp": {
+   "size": 10652412,
+   "timestamp": "2017-08-04"
+  },
+  "maps/jam9_newhouse.lit": {
+   "size": 5077226,
+   "timestamp": "2017-08-04"
+  },
+  "maps/jam9_otp.bsp": {
+   "size": 6695376,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_otp.lit": {
+   "size": 1858775,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_pulsar.bsp": {
+   "size": 10005280,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_pulsar.lit": {
+   "size": 2636687,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_secret.bsp": {
+   "size": 7327960,
+   "timestamp": "2017-08-04"
+  },
+  "maps/jam9_secret.lit": {
+   "size": 2394179,
+   "timestamp": "2017-08-04"
+  },
+  "maps/jam9_shotro.bsp": {
+   "size": 19265924,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_shotro.lit": {
+   "size": 4497056,
+   "timestamp": "2017-08-05"
+  },
+  "maps/jam9_skacky.bsp": {
+   "size": 23524168,
+   "timestamp": "2017-08-04"
+  },
+  "maps/jam9_skacky.lit": {
+   "size": 8146748,
+   "timestamp": "2017-08-04"
+  },
+  "maps/lgbgear.bsp": {
+   "size": 32472,
+   "timestamp": "2017-07-21"
+  },
+  "maps/smbgear.bsp": {
+   "size": 31564,
+   "timestamp": "2017-07-21"
+  },
+  "maps/source/jam9_breezeep.map": {
+   "size": 3037748,
+   "timestamp": "2017-08-02"
+  },
+  "maps/source/jam9_dbear.map": {
+   "size": 1725624,
+   "timestamp": "2017-07-27"
+  },
+  "maps/source/jam9_dumptruck.map": {
+   "size": 2559204,
+   "timestamp": "2017-07-28"
+  },
+  "maps/source/jam9_giftmacher.map": {
+   "size": 7098929,
+   "timestamp": "2017-07-27"
+  },
+  "maps/source/jam9_haunter.map": {
+   "size": 2593287,
+   "timestamp": "2017-07-28"
+  },
+  "maps/source/jam9_ionous.jmf": {
+   "size": 4742514,
+   "timestamp": "2017-07-29"
+  },
+  "maps/source/jam9_ionous.map": {
+   "size": 1856869,
+   "timestamp": "2017-07-29"
+  },
+  "maps/source/jam9_kell.map": {
+   "size": 2808663,
+   "timestamp": "2017-08-05"
+  },
+  "maps/source/jam9_mjb.map": {
+   "size": 8191448,
+   "timestamp": "2017-07-28"
+  },
+  "maps/source/jam9_mukor.map": {
+   "size": 3232491,
+   "timestamp": "2017-07-28"
+  },
+  "maps/source/jam9_naitelveni.map": {
+   "size": 7796621,
+   "timestamp": "2017-07-30"
+  },
+  "maps/source/jam9_newhouse.map": {
+   "size": 4074735,
+   "timestamp": "2017-08-04"
+  },
+  "maps/source/jam9_otp.map": {
+   "size": 2019696,
+   "timestamp": "2017-07-30"
+  },
+  "maps/source/jam9_pulsar.map": {
+   "size": 4221884,
+   "timestamp": "2017-08-05"
+  },
+  "maps/source/jam9_secret.map": {
+   "size": 3173440,
+   "timestamp": "2017-08-04"
+  },
+  "maps/source/jam9_shotro.map": {
+   "size": 6602643,
+   "timestamp": "2017-08-04"
+  },
+  "maps/source/jam9_skacky.map": {
+   "size": 12980064,
+   "timestamp": "2017-08-04"
+  },
+  "maps/source/start.map": {
+   "size": 4850106,
+   "timestamp": "2017-07-31"
+  },
+  "maps/start.bsp": {
+   "size": 9021344,
+   "timestamp": "2017-07-31"
+  },
+  "maps/start.lit": {
+   "size": 2748395,
+   "timestamp": "2017-07-31"
+  },
+  "music/track128.mp3": {
+   "size": 18371630,
+   "timestamp": "2017-07-24"
+  },
+  "music/track13.ogg": {
+   "size": 10035486,
+   "timestamp": "2017-07-22"
+  },
+  "pak0.pak": {
+   "size": 376996,
+   "timestamp": "2017-07-31"
+  },
+  "pak1.pak": {
+   "size": 28792,
+   "timestamp": "2017-07-30"
+  },
+  "progs/ad/gib_1.mdl": {
+   "size": 7712,
+   "timestamp": "2016-01-09"
+  },
+  "progs/ad/misc_book1c.mdl": {
+   "size": 40096,
+   "timestamp": "2017-02-17"
+  },
+  "progs/ad/misc_candle1.mdl": {
+   "size": 19700,
+   "timestamp": "2016-01-10"
+  },
+  "progs/ad/misc_candle2.mdl": {
+   "size": 19700,
+   "timestamp": "2016-01-10"
+  },
+  "progs/ad/misc_candle3.mdl": {
+   "size": 19700,
+   "timestamp": "2016-01-10"
+  },
+  "progs/ad/misc_tree.mdl": {
+   "size": 120248,
+   "timestamp": "2016-01-10"
+  },
+  "progs/ad/misc_tree2.mdl": {
+   "size": 404432,
+   "timestamp": "2016-11-13"
+  },
+  "progs/ad/w_dfurysword2.mdl": {
+   "size": 8916,
+   "timestamp": "2016-01-10"
+  },
+  "progs/ad/w_dguardsword.mdl": {
+   "size": 8404,
+   "timestamp": "2016-01-10"
+  },
+  "progs/ad/w_dknightsword.mdl": {
+   "size": 8404,
+   "timestamp": "2016-07-04"
+  },
+  "progs/ad/w_skullbook.mdl": {
+   "size": 25580,
+   "timestamp": "2016-01-10"
+  },
+  "progs/field.mdl": {
+   "size": 34376,
+   "timestamp": "2012-08-28"
+  },
+  "progs/jam9_otp/green-whole.bsp": {
+   "size": 10504,
+   "timestamp": "2016-11-21"
+  },
+  "progs/jam9_otp/pepe.mdl": {
+   "size": 966880,
+   "timestamp": "2017-07-30"
+  },
+  "progs/jam9_otp/redorange-whole.bsp": {
+   "size": 11324,
+   "timestamp": "2016-11-21"
+  },
+  "progs/jam9_skacky/statue_venus.mdl": {
+   "size": 285060,
+   "timestamp": "2017-07-22"
+  },
+  "progs/misc_bonepile.mdl": {
+   "size": 110796,
+   "timestamp": "2016-01-10"
+  },
+  "progs/misc_skull.mdl": {
+   "size": 59892,
+   "timestamp": "2016-07-08"
+  },
+  "progs/misc_stickskull1.mdl": {
+   "size": 87900,
+   "timestamp": "2016-01-10"
+  },
+  "progs/misc_stickskull2.mdl": {
+   "size": 116364,
+   "timestamp": "2016-01-10"
+  },
+  "progs/mushroom.mdl": {
+   "size": 10804,
+   "timestamp": "2013-08-20"
+  },
+  "progs/rapids.mdl": {
+   "size": 28296,
+   "timestamp": "2013-09-19"
+  },
+  "progs/smoke.mdl": {
+   "size": 31808,
+   "timestamp": "2013-09-15"
+  },
+  "progs/vine.mdl": {
+   "size": 20736,
+   "timestamp": "2013-09-17"
+  },
+  "progs/vortex.mdl": {
+   "size": 40372,
+   "timestamp": "2015-12-30"
+  },
+  "sound/ambience/darkchoir.wav": {
+   "size": 504086,
+   "timestamp": "2015-04-02"
+  },
+  "sound/ambience/rumble1.wav": {
+   "size": 403620,
+   "timestamp": "2012-11-04"
+  },
+  "sound/ambience/rumble2.wav": {
+   "size": 99104,
+   "timestamp": "2012-11-04"
+  },
+  "sound/ambience/rumble3.wav": {
+   "size": 209242,
+   "timestamp": "2012-11-04"
+  },
+  "sound/ambience/windgust1.wav": {
+   "size": 110288,
+   "timestamp": "2016-10-10"
+  },
+  "sound/ambience/windgust2.wav": {
+   "size": 110284,
+   "timestamp": "2016-10-10"
+  },
+  "sound/ambience/windgust3.wav": {
+   "size": 110030,
+   "timestamp": "2012-11-05"
+  },
+  "sound/ambience/windgust4.wav": {
+   "size": 198502,
+   "timestamp": "2016-10-10"
+  },
+  "sound/ambience/windgust5.wav": {
+   "size": 198494,
+   "timestamp": "2016-10-10"
+  },
+  "sound/ambience/windgust6.wav": {
+   "size": 396944,
+   "timestamp": "2016-10-10"
+  },
+  "sound/ambient/pulsar/buzz1.wav": {
+   "size": 273352,
+   "timestamp": "2017-07-13"
+  },
+  "sound/dmptrk/dgug1.wav": {
+   "size": 812540,
+   "timestamp": "2017-07-18"
+  },
+  "sound/dmptrk/dpoly1.wav": {
+   "size": 708670,
+   "timestamp": "2017-07-18"
+  },
+  "sound/dmptrk/dsham1.wav": {
+   "size": 1076926,
+   "timestamp": "2017-07-18"
+  },
+  "sound/dmptrk/dvore1.wav": {
+   "size": 1097320,
+   "timestamp": "2017-07-18"
+  },
+  "sound/dmptrk/gug_afar.wav": {
+   "size": 1215162,
+   "timestamp": "2017-07-26"
+  },
+  "sound/dmptrk/vorl_amb2.wav": {
+   "size": 1422198,
+   "timestamp": "2017-07-17"
+  },
+  "sound/fart1.wav": {
+   "size": 154300,
+   "timestamp": "2016-08-18"
+  },
+  "sound/giftmacher/belltoll.wav": {
+   "size": 222952,
+   "timestamp": "2015-04-02"
+  },
+  "sound/giftmacher/cavedrone.wav": {
+   "size": 91552,
+   "timestamp": "2015-05-13"
+  },
+  "sound/giftmacher/chimes.wav": {
+   "size": 250476,
+   "timestamp": "2012-11-03"
+  },
+  "sound/giftmacher/darkchoir.wav": {
+   "size": 504086,
+   "timestamp": "2015-04-02"
+  },
+  "sound/giftmacher/demonspir1.wav": {
+   "size": 27328,
+   "timestamp": "2015-04-02"
+  },
+  "sound/giftmacher/demonspir2.wav": {
+   "size": 65146,
+   "timestamp": "2015-04-02"
+  },
+  "sound/giftmacher/dias.wav": {
+   "size": 412204,
+   "timestamp": "2017-07-19"
+  },
+  "sound/giftmacher/drivshft.wav": {
+   "size": 385808,
+   "timestamp": "2017-07-19"
+  },
+  "sound/giftmacher/holy.wav": {
+   "size": 377344,
+   "timestamp": "2015-04-02"
+  },
+  "sound/giftmacher/machine1.wav": {
+   "size": 88438,
+   "timestamp": "2017-04-29"
+  },
+  "sound/giftmacher/machine2.wav": {
+   "size": 160412,
+   "timestamp": "2017-04-29"
+  },
+  "sound/giftmacher/metal1.wav": {
+   "size": 33672,
+   "timestamp": "2015-05-13"
+  },
+  "sound/giftmacher/metal2.wav": {
+   "size": 39816,
+   "timestamp": "2015-05-13"
+  },
+  "sound/giftmacher/nightmare.wav": {
+   "size": 34284,
+   "timestamp": "2017-07-05"
+  },
+  "sound/giftmacher/rumbledrone.wav": {
+   "size": 201028,
+   "timestamp": "2015-05-19"
+  },
+  "sound/giftmacher/softdrone.wav": {
+   "size": 282014,
+   "timestamp": "2015-03-31"
+  },
+  "sound/giftmacher/steam1.wav": {
+   "size": 76880,
+   "timestamp": "2016-04-14"
+  },
+  "sound/giftmacher/steam2.wav": {
+   "size": 115296,
+   "timestamp": "2016-04-14"
+  },
+  "sound/giftmacher/steam3.wav": {
+   "size": 112042,
+   "timestamp": "2016-04-14"
+  },
+  "sound/giftmacher/telehum.wav": {
+   "size": 40166,
+   "timestamp": "2011-09-10"
+  },
+  "sound/giftmacher/tld_stop.wav": {
+   "size": 72304,
+   "timestamp": "2017-07-19"
+  },
+  "sound/giftmacher/train1.wav": {
+   "size": 78614,
+   "timestamp": "2017-04-29"
+  },
+  "sound/giftmacher/tunneldrone.wav": {
+   "size": 322140,
+   "timestamp": "2015-05-19"
+  },
+  "sound/giftmacher/turbine.wav": {
+   "size": 92048,
+   "timestamp": "2017-04-29"
+  },
+  "sound/giftmacher/water1.wav": {
+   "size": 163252,
+   "timestamp": "2017-04-29"
+  },
+  "sound/giftmacher/water2.wav": {
+   "size": 183368,
+   "timestamp": "2016-04-14"
+  },
+  "sound/giftmacher/wind1.wav": {
+   "size": 204176,
+   "timestamp": "2015-04-17"
+  },
+  "sound/giftmacher/wind2.wav": {
+   "size": 357434,
+   "timestamp": "2015-04-17"
+  },
+  "sound/giftmacher/wind3.wav": {
+   "size": 158882,
+   "timestamp": "2017-07-05"
+  },
+  "sound/giftmacher/wind4.wav": {
+   "size": 158882,
+   "timestamp": "2017-07-19"
+  },
+  "sound/giftmacher/wood1.wav": {
+   "size": 352834,
+   "timestamp": "2015-10-01"
+  },
+  "sound/giftmacher/wood2.wav": {
+   "size": 352838,
+   "timestamp": "2015-10-01"
+  },
+  "sound/jam9_otp/idle_w2.wav": {
+   "size": 33212,
+   "timestamp": "2017-07-16"
+  },
+  "sound/jam9_otp/monsterguts.wav": {
+   "size": 15130,
+   "timestamp": "2011-01-31"
+  },
+  "sound/jam9_otp/notnull.wav": {
+   "size": 28716,
+   "timestamp": "2012-11-20"
+  },
+  "sound/jam9_otp/sewage.wav": {
+   "size": 240964,
+   "timestamp": "2017-07-29"
+  },
+  "sound/jam9_otp/spider3.wav": {
+   "size": 18892,
+   "timestamp": "2011-01-31"
+  },
+  "sound/jam9_skacky/laura.wav": {
+   "size": 573330,
+   "timestamp": "2017-07-21"
+  },
+  "sound/rumble3.wav": {
+   "size": 209242,
+   "timestamp": "2012-11-04"
+  },
+  "sound/rumbleloop.wav": {
+   "size": 106060,
+   "timestamp": "2017-08-05"
+  },
+  "sound/rumbleoff.wav": {
+   "size": 105990,
+   "timestamp": "2017-08-05"
+  },
+  "sound/windgust1.wav": {
+   "size": 110288,
+   "timestamp": "2016-10-10"
+  },
+  "sound/windgust2.wav": {
+   "size": 110284,
+   "timestamp": "2016-10-10"
+  },
+  "sound/windgust3.wav": {
+   "size": 110030,
+   "timestamp": "2012-11-04"
+  },
+  "sound/windgust4.wav": {
+   "size": 198502,
+   "timestamp": "2016-10-10"
+  },
+  "sound/windgust5.wav": {
+   "size": 198494,
+   "timestamp": "2016-10-10"
+  },
+  "sound/windgust6.wav": {
+   "size": 396944,
+   "timestamp": "2016-10-10"
+  },
+  "sound/woodcreak2a.wav": {
+   "size": 352834,
+   "timestamp": "2015-10-01"
+  },
+  "sound/woodcreak2b.wav": {
+   "size": 352838,
+   "timestamp": "2015-10-01"
+  },
+  "sound/woodcreak2c.wav": {
+   "size": 308746,
+   "timestamp": "2015-10-01"
+  },
+  "sound/woodcreak2d.wav": {
+   "size": 352856,
+   "timestamp": "2015-10-01"
+  },
+  "sound/woodcreak2e.wav": {
+   "size": 308766,
+   "timestamp": "2015-10-01"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam9_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/21d33c8a494b6c569696e156f36ce43485c3ed1db4ae38f2f7722e71db83404b/func_mapjam9_2.zip"
+ ]
+}

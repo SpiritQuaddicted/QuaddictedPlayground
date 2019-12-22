@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "sha256": "15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615",
+ "filename": [
+  "e1m5quoth.zip"
+ ],
+ "size": 982,
+ "releasedate": "2009-04-28",
+ "tags": [
+  "title:Back To Gloom Keep",
+  "author:Ankh",
+  "tag:quoth",
+  "tag:remake",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "e1m5quoth.txt": {
+   "size": 1331,
+   "timestamp": "2009-04-28"
+  },
+  "e1m5quoth.map": {
+   "size": 1226556,
+   "timestamp": "2009-04-28"
+  },
+  "e1m5quoth.bsp": {
+   "size": 1967268,
+   "timestamp": "2009-04-28"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/e1m5quoth.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615/e1m5quoth.zip"
+ ]
+}

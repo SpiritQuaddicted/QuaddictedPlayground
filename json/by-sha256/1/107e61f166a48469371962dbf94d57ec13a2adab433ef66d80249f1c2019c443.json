@@ -1,0 +1,41 @@
+{
+ "version": "20191222-0",
+ "sha256": "107e61f166a48469371962dbf94d57ec13a2adab433ef66d80249f1c2019c443",
+ "filename": [
+  "cat1.zip"
+ ],
+ "size": 604,
+ "releasedate": "2004-05-10",
+ "tags": [
+  "title:no title",
+  "author:unknown",
+  "tag:church",
+  "tag:small",
+  "tag:limits"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "cat1.bsp": {
+   "size": 1618208,
+   "timestamp": "2004-05-10"
+  },
+  "cat1.rtlights": {
+   "size": 223,
+   "timestamp": "2004-04-30"
+  },
+  "cat1.lit": {
+   "size": 911576,
+   "timestamp": "2004-05-10"
+  },
+  "cat1.lights": {
+   "size": 473,
+   "timestamp": "2004-05-10"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cat1.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/107e61f166a48469371962dbf94d57ec13a2adab433ef66d80249f1c2019c443/cat1.zip"
+ ]
+}

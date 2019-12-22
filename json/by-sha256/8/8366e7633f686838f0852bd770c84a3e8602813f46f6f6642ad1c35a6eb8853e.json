@@ -1,0 +1,293 @@
+{
+ "version": "20191222-0",
+ "sha256": "8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e",
+ "filename": [
+  "sm190_pack.zip"
+ ],
+ "size": 29836,
+ "releasedate": "2019-01-01",
+ "tags": [
+  "title:SM190 - Six textures",
+  "author:Digs",
+  "author:Dumptruck",
+  "author:Ing",
+  "author:Ish",
+  "author:JCR",
+  "author:Naitelveni",
+  "author:Newhouse",
+  "author:Nyo",
+  "author:onetruepurple",
+  "author:Pinchy",
+  "author:Scrama",
+  "author:Skacky",
+  "author:Ukko",
+  "startmap:sm190_digs",
+  "startmap:sm190_dumptruck",
+  "startmap:sm190_ing",
+  "startmap:sm190_ish",
+  "startmap:sm190_jcr",
+  "startmap:sm190_naitelveni",
+  "startmap:sm190_newhouse",
+  "startmap:sm190_newhouse2",
+  "startmap:sm190_nyo",
+  "startmap:sm190_otp",
+  "startmap:sm190_pinchy",
+  "startmap:sm190_scrama",
+  "startmap:sm190_skacky",
+  "startmap:sm190_skacky2",
+  "startmap:sm190_ukko"
+ ],
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "files": {
+  "gfx/env/moonhigh_bk.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_dn.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_ft.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_lf.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_rt.tga": {
+   "size": 1048620,
+   "timestamp": "2014-03-19"
+  },
+  "gfx/env/moonhigh_up.tga": {
+   "size": 1048620,
+   "timestamp": "2015-10-28"
+  },
+  "gfx/env/voidsmoke_bk.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-06"
+  },
+  "gfx/env/voidsmoke_dn.tga": {
+   "size": 3139628,
+   "timestamp": "2015-05-06"
+  },
+  "gfx/env/voidsmoke_ft.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-06"
+  },
+  "gfx/env/voidsmoke_lf.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-06"
+  },
+  "gfx/env/voidsmoke_rt.tga": {
+   "size": 3145772,
+   "timestamp": "2015-05-06"
+  },
+  "gfx/env/voidsmoke_up.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "maps/sm190_digs.bsp": {
+   "size": 2575580,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_digs.lit": {
+   "size": 1178183,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_digs.map": {
+   "size": 1519970,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_dumptruck.bsp": {
+   "size": 671012,
+   "timestamp": "2019-01-01"
+  },
+  "maps/sm190_dumptruck.lit": {
+   "size": 496430,
+   "timestamp": "2019-01-01"
+  },
+  "maps/sm190_dumptruck.map": {
+   "size": 594740,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_dumptruck_ds_readme.txt": {
+   "size": 2559,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_ing.bsp": {
+   "size": 930764,
+   "timestamp": "2019-01-01"
+  },
+  "maps/sm190_ing.map": {
+   "size": 405142,
+   "timestamp": "2019-01-01"
+  },
+  "maps/sm190_ish.bsp": {
+   "size": 1889728,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_ish.lit": {
+   "size": 1184747,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_ish.map": {
+   "size": 1284038,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_ish.sh": {
+   "size": 5656,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_jcr.bsp": {
+   "size": 1905848,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_jcr.lit": {
+   "size": 970388,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_jcr.map": {
+   "size": 2949745,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_jcr.txt": {
+   "size": 1337,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_nait.map": {
+   "size": 9153129,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_naitelveni.bsp": {
+   "size": 19454436,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_naitelveni.lit": {
+   "size": 3740720,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_newhouse.bsp": {
+   "size": 2858004,
+   "timestamp": "2019-01-01"
+  },
+  "maps/sm190_newhouse.lit": {
+   "size": 1904228,
+   "timestamp": "2019-01-01"
+  },
+  "maps/sm190_newhouse2.bsp": {
+   "size": 1152212,
+   "timestamp": "2019-01-01"
+  },
+  "maps/sm190_nyo.bsp": {
+   "size": 969576,
+   "timestamp": "2018-12-30"
+  },
+  "maps/sm190_nyo.lit": {
+   "size": 706538,
+   "timestamp": "2018-12-30"
+  },
+  "maps/sm190_nyo.map": {
+   "size": 898933,
+   "timestamp": "2018-12-30"
+  },
+  "maps/sm190_otp.bsp": {
+   "size": 2275360,
+   "timestamp": "2018-12-29"
+  },
+  "maps/sm190_otp.lit": {
+   "size": 1332851,
+   "timestamp": "2018-12-29"
+  },
+  "maps/sm190_otp.map": {
+   "size": 1006075,
+   "timestamp": "2018-12-29"
+  },
+  "maps/sm190_otp.txt": {
+   "size": 2744,
+   "timestamp": "2018-12-29"
+  },
+  "maps/sm190_pinchy.bsp": {
+   "size": 3705128,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_pinchy.lit": {
+   "size": 1740554,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_pinchy.map": {
+   "size": 3570495,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_pinchy.txt": {
+   "size": 2610,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_scrama.bsp": {
+   "size": 1378016,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_scrama.lit": {
+   "size": 365360,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_scrama.map": {
+   "size": 780017,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_scrama.txt": {
+   "size": 550,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_skacky.bsp": {
+   "size": 3051912,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_skacky.map": {
+   "size": 2426062,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_skacky.txt": {
+   "size": 1181,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_skacky2.bsp": {
+   "size": 3861560,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_skacky2.map": {
+   "size": 4109546,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_skacky2.txt": {
+   "size": 1092,
+   "timestamp": "2018-12-31"
+  },
+  "maps/sm190_ukko.bsp": {
+   "size": 1912928,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_ukko.lit": {
+   "size": 647372,
+   "timestamp": "2018-12-27"
+  },
+  "maps/sm190_ukko.txt": {
+   "size": 2256,
+   "timestamp": "2018-12-27"
+  },
+  "music/track66.ogg": {
+   "size": 2148853,
+   "timestamp": "2018-12-17"
+  },
+  "sm190.txt": {
+   "size": 1712,
+   "timestamp": "2019-01-01"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm190_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e/sm190_pack.zip"
+ ]
+}

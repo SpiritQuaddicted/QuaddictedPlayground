@@ -1,0 +1,54 @@
+{
+ "version": "20191222-0",
+ "sha256": "def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082",
+ "filename": [
+  "sm24_pack.zip"
+ ],
+ "size": 738,
+ "releasedate": "2001-07-15",
+ "tags": [
+  "title:Speedmapping pack 24 - Metal at night",
+  "author:Aardappel",
+  "author:NaNe",
+  "author:than",
+  "author:XeNoN",
+  "tag:horde",
+  "startmap:sm24_than",
+  "startmap:sm24_xenon",
+  "startmap:sm24_nane",
+  "startmap:sm24_aard"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm24_nane.bsp": {
+   "size": 395316,
+   "timestamp": "2001-07-14"
+  },
+  "sm24_than.map": {
+   "size": 132531,
+   "timestamp": "2001-07-14"
+  },
+  "sm24_aard.bsp": {
+   "size": 918360,
+   "timestamp": "2001-07-14"
+  },
+  "sm24_pack.txt": {
+   "size": 2156,
+   "timestamp": "2001-07-15"
+  },
+  "sm24_xenon.bsp": {
+   "size": 600512,
+   "timestamp": "2001-07-14"
+  },
+  "sm24_than.bsp": {
+   "size": 518592,
+   "timestamp": "2001-07-14"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm24_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082/sm24_pack.zip"
+ ]
+}

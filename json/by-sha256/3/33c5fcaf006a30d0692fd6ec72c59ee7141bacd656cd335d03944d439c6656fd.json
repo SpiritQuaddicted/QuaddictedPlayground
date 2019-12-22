@@ -1,0 +1,42 @@
+{
+ "version": "20191222-0",
+ "sha256": "33c5fcaf006a30d0692fd6ec72c59ee7141bacd656cd335d03944d439c6656fd",
+ "filename": [
+  "quoth2pt2patch_2.zip"
+ ],
+ "size": 2779,
+ "releasedate": "2014-05-04",
+ "tags": [
+  "title:Quoth 2.2 Patch [PROPER]",
+  "author:Preach",
+  "author:necros",
+  "author:Kell",
+  "dependency:quoth",
+  "startmap:start"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "files": {
+  "launch.bat": {
+   "size": 6927,
+   "timestamp": "2014-05-03"
+  },
+  "pak2.pak": {
+   "size": 8035385,
+   "timestamp": "2015-03-21"
+  },
+  "quoth.cfg": {
+   "size": 321,
+   "timestamp": "2013-11-11"
+  },
+  "quoth2_2.txt": {
+   "size": 2417,
+   "timestamp": "2014-05-04"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/quoth2pt2patch_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/33c5fcaf006a30d0692fd6ec72c59ee7141bacd656cd335d03944d439c6656fd/quoth2pt2patch_2.zip"
+ ]
+}

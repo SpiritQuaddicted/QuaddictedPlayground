@@ -1,0 +1,49 @@
+{
+ "version": "20191222-0",
+ "sha256": "16f7a4c953643e20da73c94d007050b6d64c07f1c6e994c0c4162e034420b368",
+ "filename": [
+  "sm17_pack.zip"
+ ],
+ "size": 413,
+ "releasedate": "2001-05-28",
+ "tags": [
+  "title:Speedmapping pack 17 - Unthemed",
+  "author:Apollo",
+  "author:Cybear",
+  "author:NororiousRay",
+  "author:XeNoN",
+  "startmap:sm17_ray",
+  "startmap:sm17_bear",
+  "startmap:sm17_xenon",
+  "startmap:sm17_ap"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm17_bear.bsp": {
+   "size": 405012,
+   "timestamp": "2001-05-25"
+  },
+  "sm17_xenon.bsp": {
+   "size": 190456,
+   "timestamp": "2001-05-25"
+  },
+  "sm17_ap.bsp": {
+   "size": 251796,
+   "timestamp": "2001-05-25"
+  },
+  "sm17_pack.txt": {
+   "size": 2167,
+   "timestamp": "2001-05-28"
+  },
+  "sm17_ray.bsp": {
+   "size": 322288,
+   "timestamp": "2001-05-25"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm17_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/16f7a4c953643e20da73c94d007050b6d64c07f1c6e994c0c4162e034420b368/sm17_pack.zip"
+ ]
+}

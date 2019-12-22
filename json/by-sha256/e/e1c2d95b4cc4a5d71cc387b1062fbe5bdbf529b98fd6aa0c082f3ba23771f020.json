@@ -1,0 +1,41 @@
+{
+ "version": "20191222-0",
+ "sha256": "e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020",
+ "filename": [
+  "utah.zip"
+ ],
+ "size": 750,
+ "releasedate": "1997-04-01",
+ "tags": [
+  "title:Death's Taste",
+  "author:Utah",
+  "tag:classic",
+  "tag:oldschool",
+  "tag:small",
+  "tag:wizard",
+  "tag:castle",
+  "tag:secrets",
+  "tag:medieval",
+  "tag:super secret",
+  "tag:qtwid",
+  "tag:planetquake-map-of-the-week",
+  "startmap:death"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "death.txt": {
+   "size": 1076,
+   "timestamp": "1997-04-01"
+  },
+  "death.bsp": {
+   "size": 1791152,
+   "timestamp": "1997-04-01"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/utah.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020/utah.zip"
+ ]
+}

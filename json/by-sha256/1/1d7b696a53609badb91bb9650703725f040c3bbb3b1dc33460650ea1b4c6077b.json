@@ -1,0 +1,51 @@
+{
+ "version": "20191222-0",
+ "sha256": "1d7b696a53609badb91bb9650703725f040c3bbb3b1dc33460650ea1b4c6077b",
+ "filename": [
+  "tofquake_v2.zip"
+ ],
+ "size": 3106,
+ "releasedate": "2017-05-20",
+ "tags": [
+  "title:Temple of Quake",
+  "author:Esrael",
+  "tag:small",
+  "tag:medium",
+  "tag:runic",
+  "tag:metal",
+  "tag:temple",
+  "tag:graveyard",
+  "tag:traps",
+  "tag:secrets",
+  "tag:exploration",
+  "tag:cave",
+  "tag:cavern",
+  "tag:source",
+  "startmap:TofQuake_v2"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "TofQuake_v2.bsp": {
+   "size": 5274192,
+   "timestamp": "2017-06-02"
+  },
+  "TofQuake_v2.lit": {
+   "size": 2793278,
+   "timestamp": "2017-06-02"
+  },
+  "TofQuake_v2.map": {
+   "size": 4038178,
+   "timestamp": "2017-06-02"
+  },
+  "TofQuake_v2.txt": {
+   "size": 27852,
+   "timestamp": "2017-06-02"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tofquake_v2.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1d7b696a53609badb91bb9650703725f040c3bbb3b1dc33460650ea1b4c6077b/tofquake_v2.zip"
+ ]
+}

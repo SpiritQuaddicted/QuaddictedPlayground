@@ -1,0 +1,40 @@
+{
+ "version": "20191222-0",
+ "sha256": "a31d443c4ea247a467f816301270eee11d3c9223122673e27621eb8bd32dba5e",
+ "filename": [
+  "menk.zip"
+ ],
+ "size": 3536,
+ "releasedate": "2004-07-15",
+ "tags": [
+  "title:Menkalinan",
+  "author:PuLSaR",
+  "tag:egypt",
+  "tag:large",
+  "tag:temple",
+  "tag:multiple exits",
+  "tag:planetquake-map-of-the-week",
+  "startmap:menkstart"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "menk.bsp": {
+   "size": 6331068,
+   "timestamp": "2004-07-15"
+  },
+  "menk.txt": {
+   "size": 4364,
+   "timestamp": "1997-12-03"
+  },
+  "menkstart.bsp": {
+   "size": 1802908,
+   "timestamp": "1997-12-03"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/menk.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a31d443c4ea247a467f816301270eee11d3c9223122673e27621eb8bd32dba5e/menk.zip"
+ ]
+}

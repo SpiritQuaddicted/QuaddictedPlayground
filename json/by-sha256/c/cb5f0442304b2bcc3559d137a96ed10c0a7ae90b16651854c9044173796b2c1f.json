@@ -1,0 +1,48 @@
+{
+ "version": "20191222-0",
+ "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
+ "filename": [
+  "cursed.zip"
+ ],
+ "size": 2021,
+ "releasedate": "1999-10-18",
+ "tags": [
+  "title:The Occursed",
+  "author:Tim Elek",
+  "tag:medieval",
+  "tag:hexen",
+  "tag:village",
+  "tag:temple",
+  "tag:tomb",
+  "tag:small",
+  "tag:story",
+  "tag:dark",
+  "tag:planetquake-map-of-the-week",
+  "startmap:curse_st"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "CURSE2.bsp": {
+   "size": 2125700,
+   "timestamp": "1999-10-17"
+  },
+  "CURSE1.bsp": {
+   "size": 2201920,
+   "timestamp": "1999-10-17"
+  },
+  "occursed.txt": {
+   "size": 2881,
+   "timestamp": "1999-10-17"
+  },
+  "CURSE_ST.bsp": {
+   "size": 648220,
+   "timestamp": "1999-10-18"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cursed.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f/cursed.zip"
+ ]
+}

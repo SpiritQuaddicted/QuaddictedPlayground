@@ -1,0 +1,332 @@
+{
+ "version": "20191222-0",
+ "sha256": "165d960f3188b502263fdcbbb87ca110b9ae0cafbfd05755b03dee62e9103416",
+ "filename": [
+  "sm186.zip"
+ ],
+ "size": 19319,
+ "releasedate": "2018-08-27",
+ "tags": [
+  "title:Speedmapping pack 186 - Terracotta",
+  "author:Danzadan",
+  "author:Ing-ing",
+  "author:ionous",
+  "author:ish",
+  "author:JCR",
+  "author:muk0r",
+  "author:Newhouse",
+  "author:PinchySkree",
+  "author:prengle",
+  "author:Shambler",
+  "author:vaf",
+  "author:Andrew Yoder",
+  "tag:speedmap",
+  "tag:medieval",
+  "tag:terracotta",
+  "startmap:sm186_danzadan",
+  "startmap:sm186_ing",
+  "startmap:sm186_ionous",
+  "startmap:sm186_ish",
+  "startmap:sm186_jcr",
+  "startmap:sm186_muk",
+  "startmap:sm186_newhouse",
+  "startmap:sm186_pinchy",
+  "startmap:sm186_prengle",
+  "startmap:sm186_sham",
+  "startmap:sm186_vaf",
+  "startmap:sm186_yoder"
+ ],
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "files": {
+  "_sm186_ing_sbathreadme.txt": {
+   "size": 2091,
+   "timestamp": "2018-08-25"
+  },
+  "gfx/env/amour_bk.tga": {
+   "size": 412137,
+   "timestamp": "2003-02-24"
+  },
+  "gfx/env/amour_dn.tga": {
+   "size": 760650,
+   "timestamp": "2003-02-24"
+  },
+  "gfx/env/amour_ft.tga": {
+   "size": 611028,
+   "timestamp": "2003-02-24"
+  },
+  "gfx/env/amour_lf.tga": {
+   "size": 504464,
+   "timestamp": "2003-02-24"
+  },
+  "gfx/env/amour_rt.tga": {
+   "size": 617215,
+   "timestamp": "2003-02-24"
+  },
+  "gfx/env/amour_up.tga": {
+   "size": 88481,
+   "timestamp": "2003-02-24"
+  },
+  "gfx/env/dragonfire.shader": {
+   "size": 348,
+   "timestamp": "2018-08-25"
+  },
+  "gfx/env/dragonfire_bk.tga": {
+   "size": 584018,
+   "timestamp": "2018-08-23"
+  },
+  "gfx/env/dragonfire_dn.tga": {
+   "size": 786742,
+   "timestamp": "2018-08-23"
+  },
+  "gfx/env/dragonfire_ft.tga": {
+   "size": 653462,
+   "timestamp": "2018-08-23"
+  },
+  "gfx/env/dragonfire_lf.tga": {
+   "size": 577608,
+   "timestamp": "2018-08-23"
+  },
+  "gfx/env/dragonfire_rt.tga": {
+   "size": 741280,
+   "timestamp": "2018-08-23"
+  },
+  "gfx/env/dragonfire_up.tga": {
+   "size": 255111,
+   "timestamp": "2018-08-23"
+  },
+  "gfx/env/labyrinthus_bk.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-05"
+  },
+  "gfx/env/labyrinthus_dn.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-05"
+  },
+  "gfx/env/labyrinthus_ft.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-05"
+  },
+  "gfx/env/labyrinthus_lf.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-05"
+  },
+  "gfx/env/labyrinthus_rt.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-05"
+  },
+  "gfx/env/labyrinthus_up.tga": {
+   "size": 786971,
+   "timestamp": "2002-11-05"
+  },
+  "gfx/env/predator_bk.tga": {
+   "size": 219174,
+   "timestamp": "2018-08-24"
+  },
+  "gfx/env/predator_dn.tga": {
+   "size": 90314,
+   "timestamp": "2018-08-24"
+  },
+  "gfx/env/predator_ft.tga": {
+   "size": 237864,
+   "timestamp": "2018-08-24"
+  },
+  "gfx/env/predator_lf.tga": {
+   "size": 293718,
+   "timestamp": "2018-08-24"
+  },
+  "gfx/env/predator_rt.tga": {
+   "size": 293406,
+   "timestamp": "2018-08-24"
+  },
+  "gfx/env/predator_up.tga": {
+   "size": 463649,
+   "timestamp": "2018-08-24"
+  },
+  "gfx/env/sgod_bk.tga": {
+   "size": 786476,
+   "timestamp": "2018-08-21"
+  },
+  "gfx/env/sgod_dn.tga": {
+   "size": 786476,
+   "timestamp": "2018-08-21"
+  },
+  "gfx/env/sgod_ft.tga": {
+   "size": 786476,
+   "timestamp": "2018-08-21"
+  },
+  "gfx/env/sgod_lf.tga": {
+   "size": 786476,
+   "timestamp": "2018-08-21"
+  },
+  "gfx/env/sgod_rt.tga": {
+   "size": 786476,
+   "timestamp": "2018-08-21"
+  },
+  "gfx/env/sgod_up.tga": {
+   "size": 786476,
+   "timestamp": "2018-08-21"
+  },
+  "maps/sm186_danzadan.bsp": {
+   "size": 2053952,
+   "timestamp": "2018-08-27"
+  },
+  "maps/sm186_danzadan.lit": {
+   "size": 428474,
+   "timestamp": "2018-08-27"
+  },
+  "maps/sm186_ing.bsp": {
+   "size": 1676388,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_ionous.bsp": {
+   "size": 899268,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_ionous.lit": {
+   "size": 201383,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_ish.bsp": {
+   "size": 1800716,
+   "timestamp": "2018-08-25"
+  },
+  "maps/sm186_ish.lit": {
+   "size": 739031,
+   "timestamp": "2018-08-25"
+  },
+  "maps/sm186_jcr.bsp": {
+   "size": 2236908,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_muk.bsp": {
+   "size": 2848444,
+   "timestamp": "2018-08-27"
+  },
+  "maps/sm186_muk.lit": {
+   "size": 789032,
+   "timestamp": "2018-08-27"
+  },
+  "maps/sm186_newhouse.bsp": {
+   "size": 1743232,
+   "timestamp": "2018-08-27"
+  },
+  "maps/sm186_newhouse.lit": {
+   "size": 742244,
+   "timestamp": "2018-08-27"
+  },
+  "maps/sm186_pinchy.bsp": {
+   "size": 2210964,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_pinchy.lit": {
+   "size": 1044002,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_prengle.bsp": {
+   "size": 2109836,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_prengle.lit": {
+   "size": 913934,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_sham.bsp": {
+   "size": 1808512,
+   "timestamp": "2018-08-24"
+  },
+  "maps/sm186_sham.lit": {
+   "size": 1510838,
+   "timestamp": "2018-08-24"
+  },
+  "maps/sm186_vaf.bsp": {
+   "size": 1978360,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_yoder.bsp": {
+   "size": 2164960,
+   "timestamp": "2018-08-26"
+  },
+  "maps/sm186_yoder.lit": {
+   "size": 769826,
+   "timestamp": "2018-08-26"
+  },
+  "sm186_Readme.txt": {
+   "size": 709,
+   "timestamp": "2018-08-27"
+  },
+  "sm186_danzadan.txt": {
+   "size": 1578,
+   "timestamp": "2018-08-27"
+  },
+  "sm186_ish_readme.txt": {
+   "size": 3781,
+   "timestamp": "2018-08-25"
+  },
+  "sm186_jcr.txt": {
+   "size": 1260,
+   "timestamp": "2018-08-26"
+  },
+  "sm186_pinchy_terracotta_readme.txt": {
+   "size": 2544,
+   "timestamp": "2018-08-26"
+  },
+  "sm186_prengle.txt": {
+   "size": 1761,
+   "timestamp": "2018-08-26"
+  },
+  "sm186_sham.txt": {
+   "size": 655,
+   "timestamp": "2018-08-24"
+  },
+  "sm186_yoder_readme.txt": {
+   "size": 2149,
+   "timestamp": "2018-08-26"
+  },
+  "source/pinchycr.map": {
+   "size": 1665751,
+   "timestamp": "2018-08-26"
+  },
+  "source/sbath.map": {
+   "size": 749983,
+   "timestamp": "2018-08-26"
+  },
+  "source/sm186_danzadan.jmf": {
+   "size": 2421739,
+   "timestamp": "2018-08-27"
+  },
+  "source/sm186_danzadan.map": {
+   "size": 982091,
+   "timestamp": "2018-08-27"
+  },
+  "source/sm186_ish.map": {
+   "size": 575992,
+   "timestamp": "2018-08-25"
+  },
+  "source/sm186_jcr.map": {
+   "size": 915682,
+   "timestamp": "2018-08-26"
+  },
+  "source/sm186_newhouse.map": {
+   "size": 767003,
+   "timestamp": "2018-08-27"
+  },
+  "source/sm186_prengle.map": {
+   "size": 1149467,
+   "timestamp": "2018-08-26"
+  },
+  "source/sm186_vaf.map": {
+   "size": 559139,
+   "timestamp": "2018-08-26"
+  },
+  "source/sm186_yoder.map": {
+   "size": 1110310,
+   "timestamp": "2018-08-26"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm186.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/165d960f3188b502263fdcbbb87ca110b9ae0cafbfd05755b03dee62e9103416/sm186.zip"
+ ]
+}

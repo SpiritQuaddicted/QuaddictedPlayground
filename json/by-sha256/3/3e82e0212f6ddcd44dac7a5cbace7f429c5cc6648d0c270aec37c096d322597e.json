@@ -1,0 +1,43 @@
+{
+ "version": "20191222-0",
+ "sha256": "3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e",
+ "filename": [
+  "sm33_pack.zip"
+ ],
+ "size": 571,
+ "releasedate": "2001-09-18",
+ "tags": [
+  "title:Speedmapping pack 33 - Unthemed",
+  "author:Apollo",
+  "author:Starbuck",
+  "author:than",
+  "startmap:sm33_ap",
+  "startmap:sm33_sb",
+  "startmap:sm33_than"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm33_than.bsp": {
+   "size": 508592,
+   "timestamp": "2001-09-09"
+  },
+  "sm33_pack.txt": {
+   "size": 1820,
+   "timestamp": "2001-09-18"
+  },
+  "sm33_ap.bsp": {
+   "size": 170084,
+   "timestamp": "2001-09-09"
+  },
+  "sm33_sb.bsp": {
+   "size": 1046020,
+   "timestamp": "2001-09-08"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm33_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e/sm33_pack.zip"
+ ]
+}

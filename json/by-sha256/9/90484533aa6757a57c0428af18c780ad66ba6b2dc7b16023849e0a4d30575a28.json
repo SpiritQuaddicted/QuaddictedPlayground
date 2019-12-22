@@ -1,0 +1,48 @@
+{
+ "version": "20191222-0",
+ "sha256": "90484533aa6757a57c0428af18c780ad66ba6b2dc7b16023849e0a4d30575a28",
+ "filename": [
+  "sludgefactory.zip"
+ ],
+ "size": 5352,
+ "releasedate": "2011-03-18",
+ "tags": [
+  "title:Sludge Factory",
+  "author:Dustin \"Tronyn\" Geeraert",
+  "tag:medium",
+  "tag:industrial",
+  "tag:base",
+  "tag:slime",
+  "tag:factory",
+  "tag:oil rig",
+  "tag:textures",
+  "tag:drake",
+  "tag:open",
+  "tag:hard",
+  "tag:hordes",
+  "dependency:drake",
+  "startmap:sludge1",
+  "startmap:sludge2"
+ ],
+ "install": {
+  "extract": "{quake}/drake/maps/"
+ },
+ "files": {
+  "sludge factory.txt": {
+   "size": 1150,
+   "timestamp": "2011-03-18"
+  },
+  "sludge1.bsp": {
+   "size": 6884176,
+   "timestamp": "2011-03-18"
+  },
+  "sludge2.bsp": {
+   "size": 7796380,
+   "timestamp": "2011-03-17"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sludgefactory.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/90484533aa6757a57c0428af18c780ad66ba6b2dc7b16023849e0a4d30575a28/sludgefactory.zip"
+ ]
+}

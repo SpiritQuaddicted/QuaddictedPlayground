@@ -1,0 +1,44 @@
+{
+ "version": "20191222-0",
+ "sha256": "eb3ccabc6c3cb4036b61d4f630cf7a2dbc8857be1c8305145f280e1365b79eca",
+ "filename": [
+  "limbo2.zip"
+ ],
+ "size": 1301,
+ "releasedate": "2017-07-16",
+ "tags": [
+  "title:Return to Limbo - I",
+  "author:Qmaster",
+  "tag:medium",
+  "tag:soa",
+  "tag:hipnotic",
+  "tag:metal",
+  "tag:source",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "files": {
+  "limbo2.bsp": {
+   "size": 1849592,
+   "timestamp": "2017-07-16"
+  },
+  "limbo2.jmf": {
+   "size": 3702900,
+   "timestamp": "2017-07-16"
+  },
+  "limbo2.map": {
+   "size": 1407484,
+   "timestamp": "2017-07-16"
+  },
+  "limbo2.txt": {
+   "size": 2508,
+   "timestamp": "2017-07-16"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/limbo2.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/eb3ccabc6c3cb4036b61d4f630cf7a2dbc8857be1c8305145f280e1365b79eca/limbo2.zip"
+ ]
+}

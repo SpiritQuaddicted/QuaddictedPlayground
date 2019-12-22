@@ -1,0 +1,66 @@
+{
+ "version": "20191222-0",
+ "sha256": "ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40",
+ "filename": [
+  "digs09.zip"
+ ],
+ "size": 5858,
+ "releasedate": "2018-10-27",
+ "tags": [
+  "title:The Zombie's House",
+  "author:digs",
+  "tag:large",
+  "tag:village",
+  "tag:house",
+  "tag:realism",
+  "tag:canyon",
+  "tag:valley",
+  "tag:mill",
+  "tag:quoth",
+  "tag:textures",
+  "tag:limits",
+  "tag:bsp2",
+  "dependency:quoth2pt2full_2"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "files": {
+  "digs09.txt": {
+   "size": 1974,
+   "timestamp": "2018-10-27"
+  },
+  "maps/digs09.bsp": {
+   "size": 13560424,
+   "timestamp": "2018-10-27"
+  },
+  "maps/digs09.lit": {
+   "size": 3779648,
+   "timestamp": "2018-10-26"
+  },
+  "progs/mushroom3.mdl": {
+   "size": 10804,
+   "timestamp": "2018-07-20"
+  },
+  "progs/smoke.mdl": {
+   "size": 31808,
+   "timestamp": "2013-09-15"
+  },
+  "sound/drip.wav": {
+   "size": 43770,
+   "timestamp": "2018-07-28"
+  },
+  "sound/mill.wav": {
+   "size": 1222494,
+   "timestamp": "2018-10-06"
+  },
+  "sound/scream.wav": {
+   "size": 35696,
+   "timestamp": "2018-06-22"
+  }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/digs09.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40/digs09.zip"
+ ]
+}
