@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d605ef6ea1d7e06f28307d960be5f893",
+ "sha256": "bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b",
  "filename": [
   "strom.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:episode",
   "tag:dm",
   "tag:skins",
-  "tag:traps"
+  "tag:traps",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -30,5 +31,9 @@
    "size": 8455713,
    "timestamp": "1997-04-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/strom.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b/strom.zip"
+ ]
 }

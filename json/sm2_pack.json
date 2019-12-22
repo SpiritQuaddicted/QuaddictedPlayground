@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "980a9079861637c5f1c119dd99135c38",
+ "sha256": "68dc17eaa7a5d63b3a13304c1d54070dd359fa0e45ef363a1c91180f65e683ac",
  "filename": [
   "sm2_pack.zip"
  ],
@@ -18,7 +18,16 @@
   "author:Goetz",
   "author:iNane",
   "tag:spd",
-  "tag:nomonsters"
+  "tag:nomonsters",
+  "startmap:sm2_inane",
+  "startmap:sm2_aard",
+  "startmap:sm2_blade",
+  "startmap:sm2_speed",
+  "startmap:sm2_daz",
+  "startmap:sm2_bear",
+  "startmap:sm2_rpg",
+  "startmap:sm2_vigil",
+  "startmap:sm2_goetz"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -64,5 +73,9 @@
    "size": 2807,
    "timestamp": "2001-03-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm2_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/68dc17eaa7a5d63b3a13304c1d54070dd359fa0e45ef363a1c91180f65e683ac/sm2_pack.zip"
+ ]
 }

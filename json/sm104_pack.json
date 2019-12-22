@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e2d2d3229b0dbfe55e395517beec0543",
+ "sha256": "5edb997e880e48973ca21dec098d7cfa72fd3b7fee219e95f049749958b767f3",
  "filename": [
   "sm104_pack.zip"
  ],
@@ -16,7 +16,13 @@
   "author:Tron",
   "tag:secrets",
   "tag:hard",
-  "tag:puzzles"
+  "tag:puzzles",
+  "startmap:sm104_chop",
+  "startmap:sm104_drew",
+  "startmap:sm104_tron",
+  "startmap:sm104_neg!ke",
+  "startmap:sm104_hrim",
+  "startmap:sm104_generic"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -54,5 +60,9 @@
    "size": 632920,
    "timestamp": "2004-03-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm104_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5edb997e880e48973ca21dec098d7cfa72fd3b7fee219e95f049749958b767f3/sm104_pack.zip"
+ ]
 }

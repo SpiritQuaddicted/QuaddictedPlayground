@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "407f4e0d57a00823991d58d6ddfb05ba",
+ "sha256": "c42c5dc26e774e59ea9dfcbc628d0477a6357ef6fa4d6e06f7cc3e405f0f6ca5",
  "filename": [
   "distractions.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Mikko Sandt",
   "tag:ikbase",
   "tag:base",
-  "tag:medium"
+  "tag:medium",
+  "startmap:distract"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 10572,
    "timestamp": "2007-09-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/distractions.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c42c5dc26e774e59ea9dfcbc628d0477a6357ef6fa4d6e06f7cc3e405f0f6ca5/distractions.zip"
+ ]
 }

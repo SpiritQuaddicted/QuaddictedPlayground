@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5c66609025b7de7d1cbcfac69a92551d",
+ "sha256": "323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9",
  "filename": [
   "honey.zip"
  ],
@@ -20,7 +20,10 @@
   "tag:bricks",
   "tag:source",
   "tag:bad qc",
-  "tag:cutscenes"
+  "tag:cutscenes",
+  "startmap:start",
+  "startmap:saint",
+  "startmap:honey"
  ],
  "install": {
   "extract": "{quake}/"
@@ -130,5 +133,9 @@
    "size": 3489846,
    "timestamp": "2012-03-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/honey.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9/honey.zip"
+ ]
 }

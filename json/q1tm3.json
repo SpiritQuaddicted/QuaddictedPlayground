@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "139524f36a06126f6c617eaa1a2e464c",
+ "sha256": "dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d",
  "filename": [
   "q1tm3.zip"
  ],
@@ -16,7 +16,11 @@
   "tag:cave",
   "tag:tech",
   "tag:base",
-  "tag:classic"
+  "tag:classic",
+  "startmap:q1tm3_hrimfaxi",
+  "startmap:q1tm3_hrimfaxi2",
+  "startmap:q1tm3_lev",
+  "startmap:q1tm3_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -50,5 +54,9 @@
    "size": 1542,
    "timestamp": "2004-01-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/q1tm3.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d/q1tm3.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e50a94a4b62cf05e20d171fad1da2d2a",
+ "sha256": "5fbb5cae02a3616932c61f17351f886d345039822ff75e0f4a14d506ba48eb16",
  "filename": [
   "aopfm_v2.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:commercial turned freeware",
   "tag:update",
   "tag:weapons",
-  "tag:boss"
+  "tag:boss",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -53,5 +54,9 @@
    "size": 10027992,
    "timestamp": "2008-08-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/aopfm_v2.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5fbb5cae02a3616932c61f17351f886d345039822ff75e0f4a14d506ba48eb16/aopfm_v2.zip"
+ ]
 }

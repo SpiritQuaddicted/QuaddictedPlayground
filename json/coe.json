@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7bb7a3cde74deffbb8735e733f8a276e",
+ "sha256": "ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d",
  "filename": [
   "coe.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:medieval",
   "tag:episode",
   "tag:hard",
-  "tag:monsters"
+  "tag:monsters",
+  "startmap:coestart"
  ],
  "install": {
   "extract": "{quake}/coe/"
@@ -26,5 +27,9 @@
    "size": 9660259,
    "timestamp": "2000-12-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/coe.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d/coe.zip"
+ ]
 }

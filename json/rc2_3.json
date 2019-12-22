@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "baba47080b191e2d1001a0c8c9aacb66",
+ "sha256": "35cceef1e7ba5931e264f613815b00df777eb92d306ec9f7a89bd5a7b874cc4c",
  "filename": [
   "rc2_3.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Swamp &amp; Towne",
   "author:Robert \"Fat Controller\" Cruickshank",
   "tag:medieval",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:rc2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -36,5 +37,9 @@
    "size": 2926804,
    "timestamp": "2001-01-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rc2_3.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/35cceef1e7ba5931e264f613815b00df777eb92d306ec9f7a89bd5a7b874cc4c/rc2_3.zip"
+ ]
 }

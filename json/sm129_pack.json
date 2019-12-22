@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "972de67b4264e60a6875719c2680f010",
+ "sha256": "746780034e9aebfe8adaed8bed6dd1a9ace1f40e80ca66685d596d3f6a3ba005",
  "filename": [
   "sm129_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 129 - Traps",
   "author:efdat",
   "author:negke",
-  "author:Omus"
+  "author:Omus",
+  "startmap:sm129_efdat",
+  "startmap:sm129_omus",
+  "startmap:sm129_neg!ke"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +35,9 @@
    "size": 1227268,
    "timestamp": "2006-11-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm129_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/746780034e9aebfe8adaed8bed6dd1a9ace1f40e80ca66685d596d3f6a3ba005/sm129_pack.zip"
+ ]
 }

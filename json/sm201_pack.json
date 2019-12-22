@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "40dbf9ef87134e7c9874faa78f4dd406",
+ "sha256": "4f477e3e2710bdd49313cc06a033bb88a347ed1f9b3226279b4c3afad9fecf91",
  "filename": [
   "sm201_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 201 - Quake The Way Id Did 2: Id-lectric Boogaloo",
   "author:Greenwood",
   "author:nolcoz",
-  "author:Pinchy"
+  "author:Pinchy",
+  "startmap:sm201_greenwood",
+  "startmap:sm201_nolcoz",
+  "startmap:sm201_pinchy"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -68,5 +71,9 @@
    "size": 261645,
    "timestamp": "2019-09-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm201_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4f477e3e2710bdd49313cc06a033bb88a347ed1f9b3226279b4c3afad9fecf91/sm201_pack.zip"
+ ]
 }

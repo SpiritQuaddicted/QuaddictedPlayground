@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d038c4e4ccccc9d75369a5d85077f75b",
+ "sha256": "78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870",
  "filename": [
   "dmc1.zip"
  ],
@@ -22,7 +22,14 @@
   "tag:base",
   "tag:medieval",
   "tag:metal",
-  "tag:sda"
+  "tag:sda",
+  "startmap:dmc1m1",
+  "startmap:dmc1m2",
+  "startmap:dmc1m3",
+  "startmap:dmc1m4",
+  "startmap:dmc1m5",
+  "startmap:dmc1m6",
+  "startmap:dmc1m7"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -60,5 +67,9 @@
    "size": 1589936,
    "timestamp": "2003-12-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dmc1.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870/dmc1.zip"
+ ]
 }

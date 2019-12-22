@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2495680a497b55bb29b1e097743b1949",
+ "sha256": "dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49",
  "filename": [
   "prison2.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:wizard",
   "tag:source",
-  "tag:explorative"
+  "tag:explorative",
+  "startmap:prison"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 1013916,
    "timestamp": "1997-01-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/prison2.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49/prison2.zip"
+ ]
 }

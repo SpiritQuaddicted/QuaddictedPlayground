@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6b95af96c307fd6e711a2b6359780e2e",
+ "sha256": "4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc",
  "filename": [
   "q1tm2.zip"
  ],
@@ -18,7 +18,12 @@
   "tag:small",
   "tag:medium",
   "tag:base",
-  "tag:dm"
+  "tag:dm",
+  "startmap:q1tm2_czg",
+  "startmap:q1tm2_hrimfaxi",
+  "startmap:q1tm2_lev",
+  "startmap:q1tm2_pushplay",
+  "startmap:q1tm2_remnent"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -68,5 +73,9 @@
    "size": 1041,
    "timestamp": "2002-12-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/q1tm2.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc/q1tm2.zip"
+ ]
 }

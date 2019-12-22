@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "51d5b80bd19ffef15beed5e401a681e0",
+ "sha256": "805ff038ac747b3fb47471f176ba6ace3bd712291954ebf0c2f5678f5490d11a",
  "filename": [
   "dejavu10.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:episode",
   "tag:small",
   "tag:orlms",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:dvstart"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -100,5 +101,9 @@
    "size": 697661,
    "timestamp": "2009-04-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dejavu10.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/805ff038ac747b3fb47471f176ba6ace3bd712291954ebf0c2f5678f5490d11a/dejavu10.zip"
+ ]
 }

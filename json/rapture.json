@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0b6c533df0166ad5c18dcf14dde78b99",
+ "sha256": "4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902",
  "filename": [
   "rapture.zip"
  ],
@@ -18,7 +18,8 @@
   "tag:nehahra",
   "tag:soa",
   "tag:coven",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -52,5 +53,9 @@
    "size": 18510187,
    "timestamp": "2001-09-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rapture.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902/rapture.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "57162be004b0834b4914b28d2ec6c9d1",
+ "sha256": "3c25be9f1c63463e65ca89a5db82d9443456648a9f926124436b28cf28929504",
  "filename": [
   "sm140_pack.zip"
  ],
@@ -9,7 +9,9 @@
  "tags": [
   "title:Speedmapping pack 140 - Unthemed",
   "author:efdat",
-  "author:ijed"
+  "author:ijed",
+  "startmap:sm140_efdat",
+  "startmap:sm140_ijed"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -35,5 +37,9 @@
    "size": 391,
    "timestamp": "2007-11-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm140_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3c25be9f1c63463e65ca89a5db82d9443456648a9f926124436b28cf28929504/sm140_pack.zip"
+ ]
 }

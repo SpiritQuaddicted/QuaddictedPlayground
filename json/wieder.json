@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "10db51753e10799f904f35cea97440f5",
+ "sha256": "eab7baf0f3e92bddf7543cf7737d9bae0422abb26bfc9e5deeec3ec7cf13f7e0",
  "filename": [
   "wieder.zip"
  ],
@@ -15,7 +15,9 @@
   "tag:grim",
   "tag:evil",
   "tag:hipnotic",
-  "tag:small"
+  "tag:small",
+  "startmap:salv",
+  "startmap:timebomb"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -45,5 +47,9 @@
    "size": 1355,
    "timestamp": "1997-11-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/wieder.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/eab7baf0f3e92bddf7543cf7737d9bae0422abb26bfc9e5deeec3ec7cf13f7e0/wieder.zip"
+ ]
 }

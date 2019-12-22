@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0452bf3609a642d4ad160b74514fe819",
+ "sha256": "6c3a8c6c4c5dc4ce9c7f5bf2b39bbc5b0eb5dd006f3d193524dd680ff6f94832",
  "filename": [
   "sm25_pack.zip"
  ],
@@ -17,7 +17,16 @@
   "author:Speedy",
   "author:than",
   "author:E-werd",
-  "tag:spd"
+  "tag:spd",
+  "startmap:sm25_speedy",
+  "startmap:sm25_than",
+  "startmap:sm25_grahf",
+  "startmap:sm25_scamp",
+  "startmap:sm25_necros",
+  "startmap:sm25_bear",
+  "startmap:sm25_werd",
+  "startmap:sm25_riot",
+  "startmap:sm25_banaan"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -67,5 +76,9 @@
    "size": 732516,
    "timestamp": "2001-07-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm25_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6c3a8c6c4c5dc4ce9c7f5bf2b39bbc5b0eb5dd006f3d193524dd680ff6f94832/sm25_pack.zip"
+ ]
 }

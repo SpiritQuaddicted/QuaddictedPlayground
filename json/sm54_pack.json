@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "046cb96e2ba7b51a59bf2f8eaf873dc5",
+ "sha256": "6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83",
  "filename": [
   "sm54_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:inertia",
   "author:Moz",
   "author:necros",
-  "author:Starbuck"
+  "author:Starbuck",
+  "startmap:sm54_inertia",
+  "startmap:sm54_necros",
+  "startmap:sm54_starbuck",
+  "startmap:sm54_czg",
+  "startmap:sm54_grahf",
+  "startmap:sm54_moz"
  ],
  "install": {
   "extract": "{quake}/"
@@ -47,5 +53,9 @@
    "size": 624944,
    "timestamp": "2003-10-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm54_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83/sm54_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "631507be59fc7e87c0dbc950f67a88ae",
+ "sha256": "62a4d436e2198d0c9f956c82f5732ab955ad7444b88436f342e61dbd03628352",
  "filename": [
   "terra.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:mustplay",
   "tag:qtwid",
   "tag:metal",
-  "tag:doom"
+  "tag:doom",
+  "startmap:terra1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -54,5 +55,9 @@
    "size": 1174432,
    "timestamp": "2004-11-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/terra.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/62a4d436e2198d0c9f956c82f5732ab955ad7444b88436f342e61dbd03628352/terra.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "546a97f9bb04803a3e0191de065caed5",
+ "sha256": "c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076",
  "filename": [
   "travail.zip"
  ],
@@ -32,7 +32,22 @@
   "tag:lava",
   "tag:space",
   "tag:design",
-  "tag:mustplay"
+  "tag:mustplay",
+  "startmap:qte1m1",
+  "startmap:qte1m2",
+  "startmap:qte1m3",
+  "startmap:qte1m4",
+  "startmap:qte1m5",
+  "startmap:qte2m1",
+  "startmap:qte2m2",
+  "startmap:qte2m3",
+  "startmap:qte2m4",
+  "startmap:qte2m5",
+  "startmap:qte2m6",
+  "startmap:qtfin1",
+  "startmap:qtfin2",
+  "startmap:qtfin3",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/travail/"
@@ -46,5 +61,9 @@
    "size": 100036539,
    "timestamp": "2007-07-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/travail.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076/travail.zip"
+ ]
 }

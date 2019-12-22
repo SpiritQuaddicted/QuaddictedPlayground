@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a033b04b200f92b96d3ef71fedf94b70",
+ "sha256": "dcf64b764af7fff565b15b44fe22e7c0b7ee55c781a16e06243b3596494cb2db",
  "filename": [
   "cave.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:castle",
   "tag:cave",
   "tag:exploration",
-  "tag:traps"
+  "tag:traps",
+  "startmap:cave351"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +28,9 @@
    "size": 3051836,
    "timestamp": "2004-08-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cave.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dcf64b764af7fff565b15b44fe22e7c0b7ee55c781a16e06243b3596494cb2db/cave.zip"
+ ]
 }

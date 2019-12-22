@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9a27b645463231e9dad9efb06a95ecb5",
+ "sha256": "785162f91e2470ffab89d945c82388b9fceab10e1bacf422bf1cb816e0ffacfb",
  "filename": [
   "gravelpitfinal2.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:tf2",
   "tag:remix",
   "tag:remake",
-  "dependency:quoth2pt2full_2"
+  "dependency:quoth2pt2full_2",
+  "startmap:gravelpit"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -63,5 +64,9 @@
    "size": 193561,
    "timestamp": "2014-08-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/gravelpitfinal2.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/785162f91e2470ffab89d945c82388b9fceab10e1bacf422bf1cb816e0ffacfb/gravelpitfinal2.zip"
+ ]
 }

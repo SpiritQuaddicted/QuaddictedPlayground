@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2d3d7fa077f6135b97641abd5f8193c2",
+ "sha256": "417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa",
  "filename": [
   "sm21_pack.zip"
  ],
@@ -12,7 +12,12 @@
   "author:Misyu",
   "author:NaNe",
   "author:Tron",
-  "author:Vigil"
+  "author:Vigil",
+  "startmap:sm21_vig",
+  "startmap:sm21_gibbie",
+  "startmap:sm21_misyu",
+  "startmap:sm21_nane",
+  "startmap:sm21_tron"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -42,5 +47,9 @@
    "size": 470424,
    "timestamp": "2001-06-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm21_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa/sm21_pack.zip"
+ ]
 }

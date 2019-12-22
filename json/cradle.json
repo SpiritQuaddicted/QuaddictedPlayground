@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "fa7d5abb2a0150c633425e7d5a70e442",
+ "sha256": "7bbf4ec8c6c2599bfbc22e8b88636781bb3e8c095ff23b8e5e509d88558c2a25",
  "filename": [
   "cradle.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Cradle to the Grave",
   "author:Ruin",
   "tag:blood",
-  "tag:remake"
+  "tag:remake",
+  "startmap:cradle"
  ],
  "install": {
   "extract": "{quake}/"
@@ -60,5 +61,9 @@
    "size": 441409,
    "timestamp": "2015-08-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cradle.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7bbf4ec8c6c2599bfbc22e8b88636781bb3e8c095ff23b8e5e509d88558c2a25/cradle.zip"
+ ]
 }

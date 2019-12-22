@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "23e06e80d97e8a73e23cbed2dfd1c7d7",
+ "sha256": "92a7419dfa9b90fcf197d42efc5a0d9c248dd6d3dbdc14b73eac2ec65d0f5033",
  "filename": [
   "quoffee.zip"
  ],
@@ -26,7 +26,8 @@
   "author:Ukko",
   "author:ww",
   "author:Yoder",
-  "author:ZungryWare"
+  "author:ZungryWare",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}//"
@@ -864,5 +865,9 @@
    "size": 4983652,
    "timestamp": "2019-05-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/quoffee.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/92a7419dfa9b90fcf197d42efc5a0d9c248dd6d3dbdc14b73eac2ec65d0f5033/quoffee.zip"
+ ]
 }

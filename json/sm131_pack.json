@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "30d90f47aa7c1c6ae22bba1de97eb235",
+ "sha256": "f253c4eb1d377da1091a395b016f2c022f0b304e7922cc3bd93274c1903d0706",
  "filename": [
   "sm131_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:efdat",
   "author:negke",
   "author:Spirit",
-  "author:Trinca"
+  "author:Trinca",
+  "startmap:sm131_neg!ke",
+  "startmap:sm131_efdat",
+  "startmap:sm131_trinca",
+  "startmap:sm131_spirit"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 701124,
    "timestamp": "2007-01-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm131_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f253c4eb1d377da1091a395b016f2c022f0b304e7922cc3bd93274c1903d0706/sm131_pack.zip"
+ ]
 }

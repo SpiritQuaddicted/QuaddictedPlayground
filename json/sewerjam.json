@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "834495976588b4baffc24a5aad425458",
+ "sha256": "b63646b8170b58ff5e08855408b6c6e4938e73b78bfe3137dd13304939d4bc3c",
  "filename": [
   "sewerjam.zip"
  ],
@@ -18,7 +18,18 @@
   "author:Nolcoz",
   "author:Pinchy",
   "author:Ryan Trawick",
-  "author:Ubiquitous"
+  "author:Ubiquitous",
+  "startmap:start",
+  "startmap:swjam_arma",
+  "startmap:swjam_artistical",
+  "startmap:swjam_axebeard",
+  "startmap:swjam_burnham",
+  "startmap:swjam_greenwood",
+  "startmap:swjam_maxx",
+  "startmap:swjam_nolcoz",
+  "startmap:swjam_pinchy",
+  "startmap:swjam_ubiquitous",
+  "startmap:swjam_yoder"
  ],
  "install": {
   "extract": "{quake}/swjam/"
@@ -564,5 +575,9 @@
    "size": 1716,
    "timestamp": "2019-07-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sewerjam.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b63646b8170b58ff5e08855408b6c6e4938e73b78bfe3137dd13304939d4bc3c/sewerjam.zip"
+ ]
 }

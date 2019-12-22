@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ddf484bfe989cb93885caefd1f9b47bf",
+ "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
  "filename": [
   "ad_scastle1d.zip"
  ],
@@ -22,7 +22,8 @@
   "tag:source",
   "tag:tomb",
   "tag:arcanedimensions",
-  "dependency:ad_v1_50final"
+  "dependency:ad_v1_50final",
+  "startmap:ad_scastle"
  ],
  "install": {
   "extract": "{quake}/ad/"
@@ -44,5 +45,9 @@
    "size": 3049357,
    "timestamp": "2017-01-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_scastle1d.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b/ad_scastle1d.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0d1651bb3b3880afd36abd28fc97495e",
+ "sha256": "2c6d3232fb4c3733868b42b50f38ef040da21e4d9b5e121018486469664c15fd",
  "filename": [
   "mayhem2.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:wizard",
   "tag:brick",
   "tag:puzzles",
-  "tag:buttons"
+  "tag:buttons",
+  "startmap:mayhem"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +28,9 @@
    "size": 714176,
    "timestamp": "1997-03-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/mayhem2.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2c6d3232fb4c3733868b42b50f38ef040da21e4d9b5e121018486469664c15fd/mayhem2.zip"
+ ]
 }

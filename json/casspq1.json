@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "835619f34239b3435da14123670c6cd1",
+ "sha256": "6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be",
  "filename": [
   "casspq1.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:changing environment",
   "tag:horror",
   "tag:unique",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/casspq1/"
@@ -46,5 +47,9 @@
    "size": 42,
    "timestamp": "1998-06-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/casspq1.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be/casspq1.zip"
+ ]
 }

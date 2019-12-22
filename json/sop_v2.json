@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7d80ce73960881f1ebee8bd067714ffc",
+ "sha256": "96e97692f6aa27a642bfbb8301c4fb35c5037e1664ba1989ed5e615ccf1bda9c",
  "filename": [
   "sop_v2.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:canyon",
   "tag:monsters",
   "tag:custents",
-  "tag:start"
+  "tag:start",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/sop/"
@@ -99,5 +100,9 @@
    "size": 18049945,
    "timestamp": "2003-05-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sop_v2.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/96e97692f6aa27a642bfbb8301c4fb35c5037e1664ba1989ed5e615ccf1bda9c/sop_v2.zip"
+ ]
 }

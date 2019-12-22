@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "41ae10dfe2b60a4f2820a2b4d5ea915a",
+ "sha256": "6a494eaf1d1d2d153bb79a94cd4069a5011ce4c601fa31929f1a6aedbd85c734",
  "filename": [
   "simmer2.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Qubix",
   "tag:industrial",
   "tag:base",
-  "tag:skins"
+  "tag:skins",
+  "startmap:simmer2"
  ],
  "install": {
   "extract": "{quake}/"
@@ -45,5 +46,9 @@
    "size": 713888,
    "timestamp": "2002-07-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/simmer2.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6a494eaf1d1d2d153bb79a94cd4069a5011ce4c601fa31929f1a6aedbd85c734/simmer2.zip"
+ ]
 }

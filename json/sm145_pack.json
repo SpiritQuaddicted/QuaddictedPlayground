@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "20fadde9b2a5c005f2a8d94c49808cf4",
+ "sha256": "a781f0c714bb64c42ae2ea0a89ef42ceaceffda1c39825a4fac0b22e037ee85b",
  "filename": [
   "sm145_pack.zip"
  ],
@@ -12,7 +12,9 @@
   "author:Zwiffle",
   "tag:outdoor",
   "tag:trees",
-  "tag:beach"
+  "tag:beach",
+  "startmap:sm145_negke",
+  "startmap:sm145_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +32,9 @@
    "size": 1228,
    "timestamp": "2008-10-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm145_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a781f0c714bb64c42ae2ea0a89ef42ceaceffda1c39825a4fac0b22e037ee85b/sm145_pack.zip"
+ ]
 }

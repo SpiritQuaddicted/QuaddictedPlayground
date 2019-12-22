@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3af58160f1b9b6f849ce293c0b438e0a",
+ "sha256": "a31d9553e171f07b006e714d2f988c9202d60e500728dd6dbe0b2ef6409a36af",
  "filename": [
   "fmb1.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:medium",
   "tag:wizard",
   "tag:metal",
-  "tag:traps"
+  "tag:traps",
+  "startmap:fmb"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 2596,
    "timestamp": "1997-08-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/fmb1.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a31d9553e171f07b006e714d2f988c9202d60e500728dd6dbe0b2ef6409a36af/fmb1.zip"
+ ]
 }

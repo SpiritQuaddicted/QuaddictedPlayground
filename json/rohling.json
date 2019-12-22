@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2da7b27682e4fa0a354ea1d8152280c2",
+ "sha256": "4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9",
  "filename": [
   "rohling.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:mixtex",
   "tag:lava",
   "tag:source",
-  "tag:dark"
+  "tag:dark",
+  "startmap:level"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -43,5 +44,9 @@
    "size": 2681,
    "timestamp": "1996-08-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rohling.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9/rohling.zip"
+ ]
 }

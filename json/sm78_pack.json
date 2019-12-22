@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0738fa8a4c550ed01244d3f6daf06171",
+ "sha256": "1a5708e0311d297a47d6f35c3698f7a8a477dc9f62152615182ec6b441e8c4f7",
  "filename": [
   "sm78_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 78 - Arena",
   "author:Scampie",
   "author:Windlash",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm78_evan",
+  "startmap:sm78_zwiffle",
+  "startmap:sm78_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +35,9 @@
    "size": 349152,
    "timestamp": "2004-05-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm78_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1a5708e0311d297a47d6f35c3698f7a8a477dc9f62152615182ec6b441e8c4f7/sm78_pack.zip"
+ ]
 }

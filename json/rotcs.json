@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "82d660a5267ed26176de1fe74892d011",
+ "sha256": "008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6",
  "filename": [
   "rotcs.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:nehahra",
   "tag:village",
   "tag:medieval",
-  "dependency:nehahra"
+  "dependency:nehahra",
+  "startmap:prelude"
  ],
  "install": {
   "extract": "{quake}//rotcs"
@@ -578,5 +579,9 @@
    "size": 126322,
    "timestamp": "2007-05-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rotcs.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6/rotcs.zip"
+ ]
 }

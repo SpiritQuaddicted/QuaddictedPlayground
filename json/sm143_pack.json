@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "4993d7e9bb0322d9a869d9e2cca5365f",
+ "sha256": "27c371fe7d4304df46b2d79ddf885d5601e698ad7ad5d3ad4210b708f4b7e411",
  "filename": [
   "sm143_pack.zip"
  ],
@@ -10,7 +10,11 @@
   "title:Speedmapping pack 143 - Carnage/Quake lake",
   "author:negke",
   "author:Spirit",
-  "author:Trinca"
+  "author:Trinca",
+  "startmap:sm143_negke",
+  "startmap:sm143_negke2",
+  "startmap:sm143_spirit",
+  "startmap:sm143_trinca"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -44,5 +48,9 @@
    "size": 1355,
    "timestamp": "2008-07-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm143_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/27c371fe7d4304df46b2d79ddf885d5601e698ad7ad5d3ad4210b708f4b7e411/sm143_pack.zip"
+ ]
 }

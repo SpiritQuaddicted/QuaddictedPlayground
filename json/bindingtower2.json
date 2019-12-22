@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8eda55daefc92a31e39872a7ed1cf314",
+ "sha256": "2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305",
  "filename": [
   "bindingtower2.zip"
  ],
@@ -20,7 +20,8 @@
   "tag:limits",
   "tag:bsp2",
   "tag:wizard",
-  "tag:outdoor"
+  "tag:outdoor",
+  "startmap:bindingtower"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -62,5 +63,9 @@
    "size": 5134865,
    "timestamp": "2019-06-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bindingtower2.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305/bindingtower2.zip"
+ ]
 }

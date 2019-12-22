@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "497c09fbe9fd9c0805ae23284b8e2f51",
+ "sha256": "d1fd80b5f6a94c99a51b8c082e3417948fa5c20071b37a5b5f3580be246b8ec9",
  "filename": [
   "nyarlathotep.zip"
  ],
@@ -23,7 +23,9 @@
   "tag:limits",
   "tag:bsp2",
   "tag:unique",
-  "dependency:something_wicked"
+  "dependency:something_wicked",
+  "startmap:nyar",
+  "startmap:nyar2"
  ],
  "install": {
   "extract": "{quake}/wicked/"
@@ -37,5 +39,9 @@
    "size": 15716108,
    "timestamp": "2013-12-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/nyarlathotep.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d1fd80b5f6a94c99a51b8c082e3417948fa5c20071b37a5b5f3580be246b8ec9/nyarlathotep.zip"
+ ]
 }

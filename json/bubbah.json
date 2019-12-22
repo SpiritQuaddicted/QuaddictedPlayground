@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "56d7300c42cf214ff809380a4c7bb158",
+ "sha256": "b5d4645b32a90562cee9fbc45c3871be2df9896107e7b408b26b5d0c733bf5ac",
  "filename": [
   "bubbah.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:wizard",
   "tag:source",
-  "tag:experimental"
+  "tag:experimental",
+  "startmap:bub1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -34,5 +35,9 @@
    "size": 516131,
    "timestamp": "1996-10-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bubbah.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b5d4645b32a90562cee9fbc45c3871be2df9896107e7b408b26b5d0c733bf5ac/bubbah.zip"
+ ]
 }

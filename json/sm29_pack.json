@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "cf97da6c262a6588649ae88dbf98f1cf",
+ "sha256": "6e000129efacdebdb748b362dc25d99760707456ec1a99aab41584b50e52f0c8",
  "filename": [
   "sm29_pack.zip"
  ],
@@ -14,7 +14,14 @@
   "author:necros",
   "author:Scampie",
   "author:than",
-  "author:Xenon"
+  "author:Xenon",
+  "startmap:sm29_xenon",
+  "startmap:sm29_bear",
+  "startmap:sm29_scampie",
+  "startmap:sm29_necros",
+  "startmap:SM29_Gib",
+  "startmap:sm29_czg",
+  "startmap:sm29_than"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -60,5 +67,9 @@
    "size": 838640,
    "timestamp": "2001-08-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm29_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6e000129efacdebdb748b362dc25d99760707456ec1a99aab41584b50e52f0c8/sm29_pack.zip"
+ ]
 }

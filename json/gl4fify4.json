@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "213ce545e9d4dabd0c95edada70d61be",
+ "sha256": "9a0dd8be8490c66a78826a0ca708bbfdaf213342791b6012a50765d80031e41d",
  "filename": [
   "gl4fify4.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:medium",
   "tag:wizard",
   "tag:traps",
-  "tag:chthon"
+  "tag:chthon",
+  "startmap:fiffy4"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -38,5 +39,9 @@
    "size": 761,
    "timestamp": "1997-06-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/gl4fify4.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9a0dd8be8490c66a78826a0ca708bbfdaf213342791b6012a50765d80031e41d/gl4fify4.zip"
+ ]
 }

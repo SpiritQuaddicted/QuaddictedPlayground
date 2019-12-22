@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3b6053e5eb5aff2bbbbaefadaa601f09",
+ "sha256": "c8e87ffe97c414e61c1513fcb1a94d76b22d614c35f1267b2bd3d9969cf51429",
  "filename": [
   "sm187_pack.zip"
  ],
@@ -15,7 +15,15 @@
   "author:JCR",
   "author:Naitelveni",
   "author:Newhouse",
-  "author:prengle"
+  "author:prengle",
+  "startmap:sm187_dante",
+  "startmap:sm187_danzadan",
+  "startmap:sm187_dumptruck",
+  "startmap:sm187_ing",
+  "startmap:sm187_jcr",
+  "startmap:sm187_naitelveni",
+  "startmap:sm187_newhouse",
+  "startmap:sm187_prengle"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -113,5 +121,9 @@
    "size": 275432,
    "timestamp": "2018-09-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm187_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c8e87ffe97c414e61c1513fcb1a94d76b22d614c35f1267b2bd3d9969cf51429/sm187_pack.zip"
+ ]
 }

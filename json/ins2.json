@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "57e2f4b1f9bc44808c5f89013fdf2718",
+ "sha256": "d532310709e2bc1b948572f842196429ee970c59782f6ce0351e6fcf9e7f72b6",
  "filename": [
   "ins2.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Chris Mayers",
   "tag:mediu",
   "tag:medieval",
-  "tag:medium"
+  "tag:medium",
+  "startmap:opus"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 3247,
    "timestamp": "1997-04-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ins2.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d532310709e2bc1b948572f842196429ee970c59782f6ce0351e6fcf9e7f72b6/ins2.zip"
+ ]
 }

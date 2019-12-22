@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f20b79b72bdfcbc0e5e47fb13b274b1f",
+ "sha256": "987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c",
  "filename": [
   "sm65_pack.zip"
  ],
@@ -11,7 +11,12 @@
   "author:czg",
   "author:Scampie",
   "author:Starbuck",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm65_czg2",
+  "startmap:sm65_zwiffle",
+  "startmap:sm65_starbuck",
+  "startmap:sm65_czg",
+  "startmap:sm65_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -41,5 +46,9 @@
    "size": 399968,
    "timestamp": "2004-01-31"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm65_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c/sm65_pack.zip"
+ ]
 }

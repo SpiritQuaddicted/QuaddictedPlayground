@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f25a2f43b5af133b890957a3d74abf87",
+ "sha256": "1bad880d38e254035edef6f56ace1dabf33c913f15b9e3839b9ebcfd69cdb97e",
  "filename": [
   "curseofthegoldenskullkey_repack.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:large",
   "tag:wizard",
   "tag:limits",
-  "tag:bsp2"
+  "tag:bsp2",
+  "startmap:goldenskull"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -38,5 +39,9 @@
    "size": 51,
    "timestamp": "2018-03-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/curseofthegoldenskullkey_repack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1bad880d38e254035edef6f56ace1dabf33c913f15b9e3839b9ebcfd69cdb97e/curseofthegoldenskullkey_repack.zip"
+ ]
 }

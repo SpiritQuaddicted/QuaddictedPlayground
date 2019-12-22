@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8c90c8386ad610658348da47d90bcd2c",
+ "sha256": "eddb1f25c3efa7d51e0a49e4466fd96d040bed30e2fdafc6b9e2f647997d8bae",
  "filename": [
   "e-5.zip"
  ],
@@ -9,7 +9,8 @@
  "tags": [
   "title:Pak 5",
   "author:AxeMan &amp; Dust",
-  "tag:plagiarism"
+  "tag:plagiarism",
+  "startmap:start1"
  ],
  "install": {
   "extract": "{quake}/e-5/"
@@ -23,5 +24,9 @@
    "size": 2832,
    "timestamp": "1998-08-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/e-5.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/eddb1f25c3efa7d51e0a49e4466fd96d040bed30e2fdafc6b9e2f647997d8bae/e-5.zip"
+ ]
 }

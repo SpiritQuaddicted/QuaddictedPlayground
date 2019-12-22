@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "87814f0c3b307f3ce52a55ba9c8d6aff",
+ "sha256": "0f96b2aa29d420ea6076aa03947c0ec6e9be7e82ec562cc2fbbb6de0c6814a91",
  "filename": [
   "strange.zip"
  ],
@@ -13,7 +13,9 @@
   "tag:mixtex",
   "tag:ruins",
   "tag:demo",
-  "tag:source"
+  "tag:source",
+  "startmap:strange",
+  "startmap:strange_basiclight"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +49,9 @@
    "size": 1753286,
    "timestamp": "2017-11-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/strange.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0f96b2aa29d420ea6076aa03947c0ec6e9be7e82ec562cc2fbbb6de0c6814a91/strange.zip"
+ ]
 }

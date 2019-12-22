@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "57e8ca6b88eaded5243d43f55d21e0ad",
+ "sha256": "793f55b177e6d97835a56e008f4b1a42a01cace24566501bfc80b7e494e7ea04",
  "filename": [
   "sm28_pack.zip"
  ],
@@ -12,7 +12,8 @@
   "author:than",
   "author:Lunaran",
   "author:Xenon",
-  "tag:chainmap"
+  "tag:chainmap",
+  "startmap:sm28"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 2895,
    "timestamp": "2001-08-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm28_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/793f55b177e6d97835a56e008f4b1a42a01cace24566501bfc80b7e494e7ea04/sm28_pack.zip"
+ ]
 }

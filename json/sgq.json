@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "eb47cd45f4761fb7e069c66af3240d95",
+ "sha256": "9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e",
  "filename": [
   "sgq.zip"
  ],
@@ -11,7 +11,9 @@
   "author:Ben Horsley",
   "tag:sounds",
   "tag:halflife",
-  "tag:small"
+  "tag:small",
+  "startmap:intro",
+  "startmap:sg0503"
  ],
  "install": {
   "extract": "{quake}/"
@@ -77,5 +79,9 @@
    "size": 32,
    "timestamp": "2004-05-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sgq.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e/sgq.zip"
+ ]
 }

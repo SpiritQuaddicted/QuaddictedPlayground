@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ea3b74fa8bfad7f9ceec253c9e6de5e3",
+ "sha256": "ea64b42de4b133d8d1fc2a63a4cadc7b8c61708a678e3f2c7fbea8d37c9a789f",
  "filename": [
   "asylum_2.zip"
  ],
@@ -9,7 +9,8 @@
  "tags": [
   "title:The Asylum",
   "author:Charles Daniel",
-  "tag:medium"
+  "tag:medium",
+  "startmap:asylum"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +28,9 @@
    "size": 197,
    "timestamp": "2012-04-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/asylum_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ea64b42de4b133d8d1fc2a63a4cadc7b8c61708a678e3f2c7fbea8d37c9a789f/asylum_2.zip"
+ ]
 }

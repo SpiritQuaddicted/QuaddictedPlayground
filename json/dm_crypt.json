@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "838b51bf10110166cb3db085dc1a03b1",
+ "sha256": "29a2a2251970aaacb7ea0fdbe5ec68e1795334c012952740fcf5568b99021d31",
  "filename": [
   "dm_crypt.zip"
  ],
@@ -11,7 +11,8 @@
   "author:David Minor",
   "tag:medium",
   "tag:wizard",
-  "tag:blue"
+  "tag:blue",
+  "startmap:intro"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +34,9 @@
    "size": 386368,
    "timestamp": "1997-12-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dm_crypt.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/29a2a2251970aaacb7ea0fdbe5ec68e1795334c012952740fcf5568b99021d31/dm_crypt.zip"
+ ]
 }

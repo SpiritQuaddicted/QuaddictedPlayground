@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e4d5fab7b7ac74ca7cccdd2c93f9ab34",
+ "sha256": "8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e",
  "filename": [
   "ins3.zip"
  ],
@@ -10,7 +10,8 @@
   "title:The Insurrection, part III - The Sanctuary",
   "author:Chris Mayers",
   "tag:medium",
-  "tag:wizard"
+  "tag:wizard",
+  "startmap:sanct"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -24,5 +25,9 @@
    "size": 1974948,
    "timestamp": "1997-02-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ins3.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e/ins3.zip"
+ ]
 }

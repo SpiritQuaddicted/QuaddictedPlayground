@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "31673c3d77f047def7a21a1b2ad52e96",
+ "sha256": "523f76950ed71444d879504d47dfa97c8f92d07a9906176d314a1241bbaf7e4d",
  "filename": [
   "hrim_sp4.zip"
  ],
@@ -18,7 +18,11 @@
   "tag:turtlemaps",
   "tag:large",
   "tag:traps",
-  "tag:start"
+  "tag:start",
+  "startmap:start",
+  "startmap:brownie",
+  "startmap:loveevil",
+  "startmap:void"
  ],
  "install": {
   "extract": "{quake}/"
@@ -44,5 +48,9 @@
    "size": 3993,
    "timestamp": "2010-01-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/hrim_sp4.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/523f76950ed71444d879504d47dfa97c8f92d07a9906176d314a1241bbaf7e4d/hrim_sp4.zip"
+ ]
 }

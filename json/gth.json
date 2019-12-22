@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ab528fdd5b4ff327b690ff8bc7c7a739",
+ "sha256": "504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa",
  "filename": [
   "gth.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:limits",
   "tag:skybox",
   "tag:sounds",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:gatetohell"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -98,5 +99,9 @@
    "size": 1060910,
    "timestamp": "2009-03-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/gth.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa/gth.zip"
+ ]
 }

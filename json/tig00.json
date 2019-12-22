@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9d82a1ec034ed8835512f952b612a431",
+ "sha256": "239ecbc64dd9eb116c2022ef8384cddc440abc28123d605bc3b777050ffbec9f",
  "filename": [
   "tig00.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:doom",
   "tag:quake2",
   "tag:medium",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:tig00"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -43,5 +44,9 @@
    "size": 722834,
    "timestamp": "1997-12-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tig00.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/239ecbc64dd9eb116c2022ef8384cddc440abc28123d605bc3b777050ffbec9f/tig00.zip"
+ ]
 }

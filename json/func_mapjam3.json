@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e89ba76f95e70b33e6dcad129e7fb058",
+ "sha256": "5d3c46d81f79d079ec6bde27aeb2b0f0dc5412dd64735e831c530c57eaa65b66",
  "filename": [
   "func_mapjam3.zip"
  ],
@@ -32,7 +32,13 @@
   "tag:skybox",
   "tag:jam",
   "tag:zerstorer",
-  "tag:halloween"
+  "tag:halloween",
+  "startmap:jam3_daz",
+  "startmap:jam3_ericw",
+  "startmap:jam3_ionous",
+  "startmap:jam3_mfx",
+  "startmap:jam3_tronyn",
+  "startmap:jam3_scar3crow"
  ],
  "install": {
   "extract": "{quake}/jam3/"
@@ -218,5 +224,9 @@
    "size": 6766136,
    "timestamp": "2014-10-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam3.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5d3c46d81f79d079ec6bde27aeb2b0f0dc5412dd64735e831c530c57eaa65b66/func_mapjam3.zip"
+ ]
 }

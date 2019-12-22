@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "22b0057f252380b3008c835e40cedd9b",
+ "sha256": "def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082",
  "filename": [
   "sm24_pack.zip"
  ],
@@ -12,7 +12,11 @@
   "author:NaNe",
   "author:than",
   "author:XeNoN",
-  "tag:horde"
+  "tag:horde",
+  "startmap:sm24_than",
+  "startmap:sm24_xenon",
+  "startmap:sm24_nane",
+  "startmap:sm24_aard"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -42,5 +46,9 @@
    "size": 518592,
    "timestamp": "2001-07-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm24_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082/sm24_pack.zip"
+ ]
 }

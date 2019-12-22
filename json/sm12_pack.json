@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d7a88733a6227f77e7567512b8e193d6",
+ "sha256": "1f9c672005d74851c7f78791c11b97d50003bf63a593855cba0a8b79c6ad9979",
  "filename": [
   "sm12_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Aardappel",
   "author:Cybear",
   "author:NotoriousRay",
-  "author:Scampie"
+  "author:Scampie",
+  "startmap:sm12_ray",
+  "startmap:sm12_scampie",
+  "startmap:sm12_aard",
+  "startmap:sm12_bear"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 252944,
    "timestamp": "2001-05-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm12_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1f9c672005d74851c7f78791c11b97d50003bf63a593855cba0a8b79c6ad9979/sm12_pack.zip"
+ ]
 }

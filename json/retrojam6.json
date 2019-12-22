@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "451b9f6e1430fd06a69af00ede30d7db",
+ "sha256": "d270bdc48ee9db7f2bc79d7c4b9c433df7cc6f64ee3d90a32c0b393c6f4d1dc7",
  "filename": [
   "retrojam6.zip"
  ],
@@ -35,7 +35,24 @@
   "tag:tomb",
   "tag:skybox",
   "tag:water",
-  "tag:sand"
+  "tag:sand",
+  "startmap:retrojam6_bloodshot",
+  "startmap:retrojam6_breezeep",
+  "startmap:retrojam6_danzadan",
+  "startmap:retrojam6_doomer",
+  "startmap:retrojam6_dumptruck",
+  "startmap:retrojam6_fifth",
+  "startmap:retrojam6_ionous",
+  "startmap:retrojam6_khreathor",
+  "startmap:retrojam6_lp",
+  "startmap:retrojam6_mjb",
+  "startmap:retrojam6_mukor",
+  "startmap:retrojam6_nait",
+  "startmap:retrojam6_newhouse",
+  "startmap:retrojam6_oasis",
+  "startmap:retrojam6_otp",
+  "startmap:retrojam6_pulsar",
+  "startmap:retrojam6_skacky"
  ],
  "install": {
   "extract": "{quake}//"
@@ -457,5 +474,9 @@
    "size": 3245,
    "timestamp": "2017-01-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/retrojam6.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d270bdc48ee9db7f2bc79d7c4b9c433df7cc6f64ee3d90a32c0b393c6f4d1dc7/retrojam6.zip"
+ ]
 }

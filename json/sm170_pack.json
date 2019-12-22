@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a588cccdda03f63b887e8b8662d75cbf",
+ "sha256": "2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9",
  "filename": [
   "sm170_pack.zip"
  ],
@@ -10,7 +10,9 @@
   "title:Speedmapping pack 170 - Islands",
   "author:digs",
   "author:scampie",
-  "tag:rubicon"
+  "tag:rubicon",
+  "startmap:sm170_scampie",
+  "startmap:sm170_digs"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -28,5 +30,9 @@
    "size": 39180,
    "timestamp": "2013-05-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm170_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2337e4c9fe023d771c53a607cf502f6aa0ea0f275a3b235b30f4512c3eef76e9/sm170_pack.zip"
+ ]
 }

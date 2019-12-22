@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "39425cf2b53ea93dd8105b4b88b3df37",
+ "sha256": "38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2",
  "filename": [
   "its_demo_v1_1.zip"
  ],
@@ -22,7 +22,10 @@
   "tag:remake",
   "tag:castle",
   "tag:unique",
-  "tag:remix"
+  "tag:remix",
+  "startmap:start",
+  "startmap:s1m1",
+  "startmap:s1m2"
  ],
  "install": {
   "extract": "{quake}/shadows/"
@@ -36,5 +39,9 @@
    "size": 38287270,
    "timestamp": "2012-12-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/its_demo_v1_1.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2/its_demo_v1_1.zip"
+ ]
 }

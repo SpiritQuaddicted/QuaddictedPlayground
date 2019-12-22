@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "11b139e33362551ad0b0484e09f459ae",
+ "sha256": "03f9bb1a6b323bfca17ff2e889ed73f71c872e82df642d9040ff7525ccf1280b",
  "filename": [
   "bc2.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:wizard",
   "tag:cavern",
   "tag:castle",
-  "tag:water"
+  "tag:water",
+  "startmap:bc"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +32,9 @@
    "size": 1083980,
    "timestamp": "1997-05-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bc2.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/03f9bb1a6b323bfca17ff2e889ed73f71c872e82df642d9040ff7525ccf1280b/bc2.zip"
+ ]
 }

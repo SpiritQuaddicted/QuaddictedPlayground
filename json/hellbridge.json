@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "10349c8e80855f076c38156333e532b2",
+ "sha256": "ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc",
  "filename": [
   "hellbridge.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:blue",
   "tag:metal",
   "tag:large",
-  "tag:brick"
+  "tag:brick",
+  "startmap:hellbrid"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 2325756,
    "timestamp": "1992-02-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/hellbridge.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc/hellbridge.zip"
+ ]
 }

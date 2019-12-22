@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a194d3ceb165f730b3a67c05ce88a21c",
+ "sha256": "de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf",
  "filename": [
   "flee.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:start",
   "tag:monsters",
   "tag:traps",
-  "tag:hub"
+  "tag:hub",
+  "startmap:flee0"
  ],
  "install": {
   "extract": "{quake}/"
@@ -50,5 +51,9 @@
    "size": 416068,
    "timestamp": "1997-12-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/flee.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf/flee.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "597bb353cbac9edeab717334586736df",
+ "sha256": "6c638b2573042ccbad603c88cdfcd6bbe1c331df0ecc3db72bedd70dc04b1b54",
  "filename": [
   "rmx-pack.zip"
  ],
@@ -25,7 +25,13 @@
   "tag:e4m7",
   "tag:mustplay",
   "tag:wind tunnels",
-  "tag:speedbaze"
+  "tag:speedbaze",
+  "startmap:start",
+  "startmap:e2m1rmx",
+  "startmap:e3m4rmx",
+  "startmap:e3m5rmx",
+  "startmap:e4m1rmx",
+  "startmap:e4m7rmx"
  ],
  "install": {
   "extract": "{quake}/"
@@ -147,5 +153,9 @@
    "size": 3017,
    "timestamp": "2008-06-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rmx-pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6c638b2573042ccbad603c88cdfcd6bbe1c331df0ecc3db72bedd70dc04b1b54/rmx-pack.zip"
+ ]
 }

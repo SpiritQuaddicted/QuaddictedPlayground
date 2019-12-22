@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e68cc8c40e6dd3f652ab35be5cd60b90",
+ "sha256": "54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95",
  "filename": [
   "sm169_pack.zip"
  ],
@@ -18,7 +18,16 @@
   "author:Scampie",
   "tag:quoth",
   "tag:bsp2",
-  "tag:rubicon"
+  "tag:rubicon",
+  "startmap:sm169_drew",
+  "startmap:sm169_fifthelephant",
+  "startmap:sm169_ijed2",
+  "startmap:sm169_jackfapoff",
+  "startmap:sm169_negke",
+  "startmap:sm169_orbs1",
+  "startmap:sm169_orbs2",
+  "startmap:sm169_rickyt23",
+  "startmap:sm169_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -92,5 +101,9 @@
    "size": 226518,
    "timestamp": "2013-04-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm169_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95/sm169_pack.zip"
+ ]
 }

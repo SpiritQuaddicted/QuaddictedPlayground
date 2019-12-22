@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c20f52eeb5b819c023c542ff954b0962",
+ "sha256": "657a821187708ab5252fdee681f330f6bcfe5fe540f21608976f8a8f87a1e678",
  "filename": [
   "atf.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:tc",
   "tag:base",
   "tag:episode",
-  "tag:realism"
+  "tag:realism",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/atf/"
@@ -30,5 +31,9 @@
    "size": 6180,
    "timestamp": "1997-12-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/atf.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/657a821187708ab5252fdee681f330f6bcfe5fe540f21608976f8a8f87a1e678/atf.zip"
+ ]
 }

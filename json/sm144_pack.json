@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a84dfad640eed1acebe1e419ada16fe5",
+ "sha256": "191c4409c5db57a7d99ab13145e2366738ab441171cb61b8c35e5d3d7eb30298",
  "filename": [
   "sm144_pack.zip"
  ],
@@ -12,7 +12,12 @@
   "author:lurker",
   "author:negke",
   "author:Spirit",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm144_bambuz",
+  "startmap:sm144_lurker",
+  "startmap:sm144_negke",
+  "startmap:sm144_spirit",
+  "startmap:sm144_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -46,5 +51,9 @@
    "size": 94603,
    "timestamp": "2008-10-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm144_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/191c4409c5db57a7d99ab13145e2366738ab441171cb61b8c35e5d3d7eb30298/sm144_pack.zip"
+ ]
 }

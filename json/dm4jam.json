@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c5f55aef396c6f02720825e0c8abdb00",
+ "sha256": "ed67bde135d884b0c161f4e78dc1c68f1796a6b047b535a20f568a9698904ec3",
  "filename": [
   "dm4jam.zip"
  ],
@@ -43,7 +43,30 @@
   "tag:bsp2",
   "tag:source",
   "tag:dm4",
-  "tag:coop"
+  "tag:coop",
+  "startmap:start",
+  "startmap:dm4jam_artistical",
+  "startmap:dm4jam_artistical2",
+  "startmap:dm4jam_bloodshot",
+  "startmap:dm4jam_breezeep",
+  "startmap:dm4jam_danzadan",
+  "startmap:dm4jam_digs",
+  "startmap:dm4jam_draqu_promeus",
+  "startmap:dm4jam_giftmacher",
+  "startmap:dm4jam_ionous",
+  "startmap:dm4jam_mariteaux",
+  "startmap:dm4jam_mukor",
+  "startmap:dm4jam_nait",
+  "startmap:dm4jam_otp",
+  "startmap:dm4jam_prengle",
+  "startmap:dm4jam_queenjazz",
+  "startmap:dm4jam_rj",
+  "startmap:dm4jam_scar3crow",
+  "startmap:dm4jam_shades",
+  "startmap:dm4jam_skacky",
+  "startmap:dm4jam_themusic",
+  "startmap:dm4jam_wedge_one",
+  "startmap:dm4jam_ww"
  ],
  "install": {
   "extract": "{quake}/dm4jam/"
@@ -505,5 +528,9 @@
    "size": 2694061,
    "timestamp": "2018-03-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dm4jam.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ed67bde135d884b0c161f4e78dc1c68f1796a6b047b535a20f568a9698904ec3/dm4jam.zip"
+ ]
 }

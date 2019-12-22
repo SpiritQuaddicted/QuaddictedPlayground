@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f6d32e59ba82d4c68647d815544d8c89",
+ "sha256": "70e18cf8cfb8636ea92f4ed9791b839ab4e70b853ca72fd2f58fa79e49ae8531",
  "filename": [
   "cha-gh.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:metal",
   "tag:puzzle",
   "tag:traps",
-  "tag:dm"
+  "tag:dm",
+  "startmap:cgstart"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -35,5 +36,9 @@
    "size": 1981,
    "timestamp": "1997-05-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cha-gh.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/70e18cf8cfb8636ea92f4ed9791b839ab4e70b853ca72fd2f58fa79e49ae8531/cha-gh.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8a1584233f6c18f7d6fff3c3b23467c5",
+ "sha256": "35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b",
  "filename": [
   "grim_rezipped.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:castle",
   "tag:limits",
   "tag:bsp2",
-  "tag:id1"
+  "tag:id1",
+  "startmap:grim"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +34,9 @@
    "size": 2444,
    "timestamp": "2018-02-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/grim_rezipped.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b/grim_rezipped.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ede8ffa309bcf03595b232b110deef5a",
+ "sha256": "d4d8dc8792dcbed5b31aab9b50a9ab3cae48c09b92876fcc328e5a5b2c526726",
  "filename": [
   "fort_driant-fullvis.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:base",
   "tag:large",
   "dependency:quoth",
-  "dependency:fort_driant"
+  "dependency:fort_driant",
+  "startmap:fort_driant-fullvis"
  ],
  "install": {
   "extract": "{quake}/quoth/maps/"
@@ -27,5 +28,9 @@
    "size": 12392900,
    "timestamp": "2009-03-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/fort_driant-fullvis.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d4d8dc8792dcbed5b31aab9b50a9ab3cae48c09b92876fcc328e5a5b2c526726/fort_driant-fullvis.zip"
+ ]
 }

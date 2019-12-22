@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "57e255997d3152d060e077f58e71d5e2",
+ "sha256": "f58f060bf8c1fb27912fba10dcd348c65d940f52d2898ed26b091170029aa56a",
  "filename": [
   "tefdbl.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:brick",
   "tag:mod",
   "tag:weird monsters",
-  "tag:medium"
+  "tag:medium",
+  "startmap:tef_sc"
  ],
  "install": {
   "extract": "{quake}/tefdbl/"
@@ -39,5 +40,9 @@
    "size": 4744,
    "timestamp": "1996-10-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tefdbl.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f58f060bf8c1fb27912fba10dcd348c65d940f52d2898ed26b091170029aa56a/tefdbl.zip"
+ ]
 }

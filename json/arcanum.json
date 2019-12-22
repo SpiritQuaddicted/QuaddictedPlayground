@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5751e9bb2cb07b3560c344ea026f3dfe",
+ "sha256": "3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7",
  "filename": [
   "arcanum.zip"
  ],
@@ -21,7 +21,13 @@
   "tag:weapons",
   "tag:drake",
   "tag:knave",
-  "dependency:something_wicked"
+  "dependency:something_wicked",
+  "startmap:arcstart",
+  "startmap:arcanum1",
+  "startmap:arcanum2",
+  "startmap:arcanum3",
+  "startmap:arcanum4",
+  "startmap:arcanum5"
  ],
  "install": {
   "extract": "{quake}/drake/"
@@ -103,5 +109,9 @@
    "size": 200,
    "timestamp": "2011-05-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/arcanum.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7/arcanum.zip"
+ ]
 }

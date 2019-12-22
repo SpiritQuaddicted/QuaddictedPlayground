@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f135785d0df93d4ed90c28df8da5a825",
+ "sha256": "cd37e3abf9d5b97ae1f217f389a5a85e704e2c526e10d706cdeceb94d822b6c9",
  "filename": [
   "virtus.zip"
  ],
@@ -24,7 +24,17 @@
   "tag:weird",
   "tag:texture mess",
   "tag:plain",
-  "tag:city"
+  "tag:city",
+  "startmap:vstart",
+  "startmap:ve1m1",
+  "startmap:ve1m2",
+  "startmap:ve1m3",
+  "startmap:ve1m4",
+  "startmap:ve1m5",
+  "startmap:ve2m1",
+  "startmap:ve2m2",
+  "startmap:ve2m3",
+  "startmap:vfinal"
  ],
  "install": {
   "extract": "{quake}/"
@@ -98,5 +108,9 @@
    "size": 10833,
    "timestamp": "1997-04-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/virtus.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cd37e3abf9d5b97ae1f217f389a5a85e704e2c526e10d706cdeceb94d822b6c9/virtus.zip"
+ ]
 }

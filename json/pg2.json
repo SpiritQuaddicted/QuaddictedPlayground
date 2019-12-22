@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9087f976729b33bd49f329cdfe8a9be4",
+ "sha256": "1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a",
  "filename": [
   "pg2.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:episode",
   "tag:medieval",
   "tag:wizard",
-  "tag:monsters"
+  "tag:monsters",
+  "startmap:pgstart"
  ],
  "install": {
   "extract": "{quake}/pg2/"
@@ -26,5 +27,9 @@
    "size": 8388180,
    "timestamp": "2000-05-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/pg2.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a/pg2.zip"
+ ]
 }

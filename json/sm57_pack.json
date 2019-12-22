@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "cd1ad5f3ce6a739db25d13e243b0aece",
+ "sha256": "3fda864f5fb6d9609175b9dba767f90b54c9097fc9de0971ade1e1a9f0f1a634",
  "filename": [
   "sm57_pack.zip"
  ],
@@ -17,7 +17,15 @@
   "author:RPG",
   "author:Scampie",
   "author:Xenon",
-  "tag:qtwid"
+  "tag:qtwid",
+  "startmap:sm57_pulsar",
+  "startmap:sm57_czg",
+  "startmap:sm57_distrans",
+  "startmap:sm57_lev",
+  "startmap:sm57_moz",
+  "startmap:sm57_rpg",
+  "startmap:sm57_scampie",
+  "startmap:sm57_hrim"
  ],
  "install": {
   "extract": "{quake}/"
@@ -67,5 +75,9 @@
    "size": 258064,
    "timestamp": "2003-11-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm57_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3fda864f5fb6d9609175b9dba767f90b54c9097fc9de0971ade1e1a9f0f1a634/sm57_pack.zip"
+ ]
 }

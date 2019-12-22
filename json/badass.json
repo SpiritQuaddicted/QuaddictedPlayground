@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1fbce41574b04ade032c5350369caa66",
+ "sha256": "55549e114699c8d40d864e86689045104e176ee8457768fc6fbe0bdfeaa4ced7",
  "filename": [
   "badass.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:medium",
   "tag:mixtex",
   "tag:blue",
-  "tag:cyberdemon"
+  "tag:cyberdemon",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/badass/"
@@ -26,5 +27,9 @@
    "size": 2678541,
    "timestamp": "1996-06-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/badass.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/55549e114699c8d40d864e86689045104e176ee8457768fc6fbe0bdfeaa4ced7/badass.zip"
+ ]
 }

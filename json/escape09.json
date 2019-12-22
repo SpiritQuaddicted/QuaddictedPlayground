@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d7f949379510f194f33b8ade82bda7ab",
+ "sha256": "31bcc2aedc2e5e435c3afcdcebe078b81e27df6aeb941d0a334afdd200d2912e",
  "filename": [
   "escape09.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:realism",
   "tag:prison",
-  "tag:textures"
+  "tag:textures",
+  "startmap:escape"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 2624,
    "timestamp": "1997-01-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/escape09.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/31bcc2aedc2e5e435c3afcdcebe078b81e27df6aeb941d0a334afdd200d2912e/escape09.zip"
+ ]
 }

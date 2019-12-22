@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5192d715d4dee5b8c1ece57219a0976b",
+ "sha256": "6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381",
  "filename": [
   "dopa.zip"
  ],
@@ -19,7 +19,18 @@
   "tag:traps",
   "tag:demo",
   "tag:official",
-  "tag:start"
+  "tag:start",
+  "startmap:start",
+  "startmap:e5m1",
+  "startmap:e5m2",
+  "startmap:e5m3",
+  "startmap:e5m4",
+  "startmap:e5m5",
+  "startmap:e5m6",
+  "startmap:e5m7",
+  "startmap:e5m8",
+  "startmap:e5end",
+  "startmap:e5dm"
  ],
  "install": {
   "extract": "{quake}/dopa/"
@@ -41,5 +52,9 @@
    "size": 298,
    "timestamp": "2016-06-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dopa.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381/dopa.zip"
+ ]
 }

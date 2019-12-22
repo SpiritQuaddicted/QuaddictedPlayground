@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "850e3419f76453f6f69d678035462bcc",
+ "sha256": "3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93",
  "filename": [
   "sm35_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Apollo",
   "author:Cybear",
   "author:necros",
-  "author:nekroe"
+  "author:nekroe",
+  "startmap:sm35_bear",
+  "startmap:sm35_ap",
+  "startmap:sm35_necros",
+  "startmap:sm35_nekroe"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 2270,
    "timestamp": "2001-09-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm35_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93/sm35_pack.zip"
+ ]
 }

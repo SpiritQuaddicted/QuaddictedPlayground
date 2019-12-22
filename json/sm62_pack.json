@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "37ec07ad598b9c18aa685f421651b58b",
+ "sha256": "74a1c71e170eb072d74c5ea77586baee0eb53d5988636527db2a6d03dc7570fc",
  "filename": [
   "sm62_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Leviathan",
   "author:RPG",
   "author:Than",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm62_than",
+  "startmap:sm62_rpg",
+  "startmap:sm62_zwiffle",
+  "startmap:sm62_lev"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 810028,
    "timestamp": "2003-12-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm62_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/74a1c71e170eb072d74c5ea77586baee0eb53d5988636527db2a6d03dc7570fc/sm62_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "789929257c8a7a441522bfdbe786a461",
+ "sha256": "b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3",
  "filename": [
   "sm93_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 93 - Unthemed",
   "author:Headthump",
   "author:Hrimfaxi",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm93_zwiffle",
+  "startmap:sm93_headthump",
+  "startmap:sm93_hrimfaxi"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +35,9 @@
    "size": 310372,
    "timestamp": "2005-05-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm93_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3/sm93_pack.zip"
+ ]
 }

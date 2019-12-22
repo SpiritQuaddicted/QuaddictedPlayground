@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d743648c6b245859adde93c0c24af4d9",
+ "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "filename": [
   "koohoo.zip"
  ],
@@ -18,7 +18,8 @@
   "tag:mustplay",
   "tag:boss",
   "tag:green",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -32,5 +33,9 @@
    "size": 5243430,
    "timestamp": "2001-03-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/koohoo.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391/koohoo.zip"
+ ]
 }

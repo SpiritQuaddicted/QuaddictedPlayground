@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0e74ef53d3705b46b5e492e68aca888e",
+ "sha256": "8e0b77e275cc033f0a9f263cec0250fd9d94a0c3721d239b9746b696d52b371f",
  "filename": [
   "sm27_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:intertia",
   "author:Notorious Ray",
   "author:than",
-  "author:Xenon"
+  "author:Xenon",
+  "startmap:sm27_xenon",
+  "startmap:sm27_than",
+  "startmap:sm27_ap",
+  "startmap:sm27_ray",
+  "startmap:sm27_inertia",
+  "startmap:sm27_bear"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +53,9 @@
    "size": 2246,
    "timestamp": "2001-08-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm27_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8e0b77e275cc033f0a9f263cec0250fd9d94a0c3721d239b9746b696d52b371f/sm27_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b2dab14aca7e76835d98f156124785a8",
+ "sha256": "d9acdf17dc59b8450e68c5ab0d0e7956576cf33e52f49eaf36e42920113741af",
  "filename": [
   "sm45.zip"
  ],
@@ -12,7 +12,12 @@
   "author:Raptore",
   "author:NotoriousRay",
   "author:Scampie",
-  "author:Starbuck"
+  "author:Starbuck",
+  "startmap:sm45_daz",
+  "startmap:sm45_raptore",
+  "startmap:sm45_ray",
+  "startmap:sm45_sb",
+  "startmap:sm45_scampie"
  ],
  "install": {
   "extract": "{quake}/"
@@ -42,5 +47,9 @@
    "size": 1824,
    "timestamp": "2003-08-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm45.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d9acdf17dc59b8450e68c5ab0d0e7956576cf33e52f49eaf36e42920113741af/sm45.zip"
+ ]
 }

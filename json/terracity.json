@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "780b0e3015797aec5b8ce2d9b0549c64",
+ "sha256": "abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6",
  "filename": [
   "terracity.zip"
  ],
@@ -19,7 +19,8 @@
   "tag:source",
   "tag:coop",
   "tag:horde",
-  "tag:limits"
+  "tag:limits",
+  "startmap:terracity"
  ],
  "install": {
   "extract": "{quake}/"
@@ -41,5 +42,9 @@
    "size": 4182,
    "timestamp": "2013-05-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/terracity.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6/terracity.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "608180b324ca20d08ec09188cd6c9eec",
+ "sha256": "ec7c4142ffc306cf9958409fc4a5ce9e0731368b4df187c0dae5484fe5652495",
  "filename": [
   "sm70_pack.zip"
  ],
@@ -12,7 +12,12 @@
   "author:Jacek",
   "author:Preach",
   "author:Scampie",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm70_jacek",
+  "startmap:sm70_scampie",
+  "startmap:sm70_preach",
+  "startmap:sm70_czg",
+  "startmap:sm70_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -46,5 +51,9 @@
    "size": 418328,
    "timestamp": "2004-02-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm70_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ec7c4142ffc306cf9958409fc4a5ce9e0731368b4df187c0dae5484fe5652495/sm70_pack.zip"
+ ]
 }

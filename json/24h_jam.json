@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "fb034f051e9f9f3a7c82362c6c2c3bcc",
+ "sha256": "8769d2a9785f2ec4e9232ce0b3bd595b1243cdb5a6bf47e697eb71698252ff6a",
  "filename": [
   "24h_jam.zip"
  ],
@@ -17,7 +17,10 @@
   "tag:source",
   "tag:speedmap",
   "tag:sm178",
-  "tag:wrongly named"
+  "tag:wrongly named",
+  "startmap:24hrs_mukor",
+  "startmap:24h_naitelveni",
+  "startmap:24h_newhouse"
  ],
  "install": {
   "extract": "{quake}/"
@@ -91,5 +94,9 @@
    "size": 1048620,
    "timestamp": "2016-11-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/24h_jam.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8769d2a9785f2ec4e9232ce0b3bd595b1243cdb5a6bf47e697eb71698252ff6a/24h_jam.zip"
+ ]
 }

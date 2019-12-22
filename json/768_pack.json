@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "315509719358aeb98e2cdef1c530bcc7",
+ "sha256": "d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f",
  "filename": [
   "768_pack.zip"
  ],
@@ -20,7 +20,11 @@
   "tag:egypt",
   "tag:medieval",
   "tag:base",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:768_lurker",
+  "startmap:768_rudl",
+  "startmap:768_spirit",
+  "startmap:768_trinca"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -90,5 +94,9 @@
    "size": 1648,
    "timestamp": "2007-07-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/768_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f/768_pack.zip"
+ ]
 }

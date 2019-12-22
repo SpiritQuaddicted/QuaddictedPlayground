@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5cb7eaa64b85df345c7354cc50e6a237",
+ "sha256": "0aad744aa4e4bf8871c35a8c613543df09310997203c4c961e08d16097b6ba14",
  "filename": [
   "smqe2_pack.zip"
  ],
@@ -12,7 +12,11 @@
   "author:generic",
   "author:negke",
   "author:Zwiffle",
-  "tag:test"
+  "tag:test",
+  "startmap:smqe2_drew",
+  "startmap:smqe2_zwiffle",
+  "startmap:smqe2_neg!ke",
+  "startmap:smqe2_generic"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -34,5 +38,9 @@
    "size": 1028592,
    "timestamp": "2005-08-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/smqe2_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0aad744aa4e4bf8871c35a8c613543df09310997203c4c961e08d16097b6ba14/smqe2_pack.zip"
+ ]
 }

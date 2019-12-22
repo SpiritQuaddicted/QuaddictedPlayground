@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c1939b1b07d8e2d35b784102e7a4a363",
+ "sha256": "9e36f588f2e02ce9da5d0aada8ab279e1664e6bb433c4450b5b25136fdef7716",
  "filename": [
   "necrobrood.zip"
  ],
@@ -9,7 +9,8 @@
  "tags": [
   "title:Necrobrood",
   "author:Shaun [Kona] Ross",
-  "tag:metal"
+  "tag:metal",
+  "startmap:necro"
  ],
  "install": {
   "extract": "{quake}/"
@@ -27,5 +28,9 @@
    "size": 6822,
    "timestamp": "2001-12-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/necrobrood.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9e36f588f2e02ce9da5d0aada8ab279e1664e6bb433c4450b5b25136fdef7716/necrobrood.zip"
+ ]
 }

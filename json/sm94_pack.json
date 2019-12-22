@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e87a6d3fa767f52b9845b98835f4e280",
+ "sha256": "87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74",
  "filename": [
   "sm94_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 94 - The Rabbit Hole",
   "author:bambuz",
   "author:Tr0n",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm94_bam",
+  "startmap:sm94_zwiffle",
+  "startmap:SM94_Tron"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -36,5 +39,9 @@
    "size": 249,
    "timestamp": "2005-06-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm94_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74/sm94_pack.zip"
+ ]
 }

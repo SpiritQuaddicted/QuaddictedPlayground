@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b505a8983fb9c1bc4d26c821d787fe0e",
+ "sha256": "6fdf0c6635bebe38a6aa57d51aa4724b59887844aca5926be8fc440d8a3b8074",
  "filename": [
   "qump.zip"
  ],
@@ -38,7 +38,18 @@
   "tag:arena",
   "tag:skybox",
   "tag:limits",
-  "tag:source"
+  "tag:source",
+  "startmap:start",
+  "startmap:qump_brassbite",
+  "startmap:qump_danzadan",
+  "startmap:qump_daya",
+  "startmap:qump_hexenmapper",
+  "startmap:qump_kres",
+  "startmap:qump_naitelveni",
+  "startmap:qump_pritchard",
+  "startmap:qump_spud",
+  "startmap:qump_topher",
+  "startmap:qump_vingal"
  ],
  "install": {
   "extract": "{quake}/"
@@ -272,5 +283,9 @@
    "size": 4955573,
    "timestamp": "2017-10-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/qump.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6fdf0c6635bebe38a6aa57d51aa4724b59887844aca5926be8fc440d8a3b8074/qump.zip"
+ ]
 }

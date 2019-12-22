@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "49a40e3f271c25d3fc56582073a6972d",
+ "sha256": "8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4",
  "filename": [
   "zjam2.zip"
  ],
@@ -16,7 +16,12 @@
   "tag:small",
   "tag:speedmap",
   "tag:base",
-  "tag:egyptian"
+  "tag:egyptian",
+  "startmap:zjam2_giftmacher",
+  "startmap:zjam2_muk",
+  "startmap:zjam2_scar3crow",
+  "startmap:zjam2_sock",
+  "startmap:zjam2_zombie"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -78,5 +83,9 @@
    "size": 2408,
    "timestamp": "2018-06-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/zjam2.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4/zjam2.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "4437d58b3759bbcba30b9a18c03951b4",
+ "sha256": "e8be72bafc18e02b453bd2d4a07f00dfb24b88eb410d93d5616f959a735e8bb6",
  "filename": [
   "smqx11_pack.zip"
  ],
@@ -14,7 +14,12 @@
   "author:Trinca",
   "author:ZealousQuakeFan",
   "tag:rubicon",
-  "tag:base"
+  "tag:base",
+  "startmap:smqx11_digs",
+  "startmap:smqx11_drew",
+  "startmap:smqx11_textfish",
+  "startmap:smqx11_trinca",
+  "startmap:smqx11_zqf"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -48,5 +53,9 @@
    "size": 1228560,
    "timestamp": "2011-06-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/smqx11_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e8be72bafc18e02b453bd2d4a07f00dfb24b88eb410d93d5616f959a735e8bb6/smqx11_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0e66ad2f8945f008dfe22b4dd2cd6859",
+ "sha256": "74e3873bda0fb53855488b9278e925af3f8f753cff80a34a2d0dafaad279d7a9",
  "filename": [
   "anevilnew.zip"
  ],
@@ -15,7 +15,13 @@
   "tag:monsters",
   "tag:alpha",
   "tag:hard",
-  "tag:medieval"
+  "tag:medieval",
+  "startmap:prison",
+  "startmap:lagtown1",
+  "startmap:station2",
+  "startmap:ep2m2",
+  "startmap:coven1",
+  "startmap:cavern1"
  ],
  "install": {
   "extract": "{quake}/"
@@ -1001,5 +1007,9 @@
    "size": 13484,
    "timestamp": "1996-11-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/anevilnew.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/74e3873bda0fb53855488b9278e925af3f8f753cff80a34a2d0dafaad279d7a9/anevilnew.zip"
+ ]
 }

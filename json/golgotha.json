@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "366fc5762737e8a83b6a84a8fd806e92",
+ "sha256": "70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae",
  "filename": [
   "golgotha.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:wizard",
   "tag:medium",
   "tag:start",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:gol_st"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -35,5 +36,9 @@
    "size": 1547804,
    "timestamp": "1999-08-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/golgotha.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/70c8c6035268d46f4863ae07e108f7a916fa1abac772d3e3a7462c3b9fcf20ae/golgotha.zip"
+ ]
 }

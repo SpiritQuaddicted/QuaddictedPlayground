@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "310097940ce10d5c694c35612ab3a5ae",
+ "sha256": "e4aff8e2e0250d2926ee02eb593f961490ed2c5d8a6c7b2d3849cf5abf31f014",
  "filename": [
   "func_mapjam5.zip"
  ],
@@ -20,7 +20,8 @@
   "tag:source",
   "tag:start map",
   "tag:arena",
-  "tag:jam"
+  "tag:jam",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/func_mapjam5/"
@@ -482,5 +483,9 @@
    "size": 937692,
    "timestamp": "2015-04-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam5.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e4aff8e2e0250d2926ee02eb593f961490ed2c5d8a6c7b2d3849cf5abf31f014/func_mapjam5.zip"
+ ]
 }

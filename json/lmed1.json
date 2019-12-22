@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "dd3fffc697c4015b266768f62655eaab",
+ "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
  "filename": [
   "lmed1.zip"
  ],
@@ -13,7 +13,9 @@
   "tag:wizard",
   "tag:castle",
   "tag:textures",
-  "tag:start map"
+  "tag:start map",
+  "startmap:start",
+  "startmap:med1"
  ],
  "install": {
   "extract": "{quake}/lmed1/"
@@ -27,5 +29,9 @@
    "size": 1644,
    "timestamp": "1996-05-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/lmed1.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080/lmed1.zip"
+ ]
 }

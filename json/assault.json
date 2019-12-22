@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b26528b49e99c6ba0e0753f0614ef545",
+ "sha256": "ffe75d839c6ca980ab9b348ac1ed1e4351c8c1f219c9939edaced99a594a2e47",
  "filename": [
   "assault.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:episode",
   "tag:textures",
   "tag:monsters",
-  "tag:campaign"
+  "tag:campaign",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -168,5 +169,9 @@
    "size": 2014436,
    "timestamp": "2003-07-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/assault.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/ffe75d839c6ca980ab9b348ac1ed1e4351c8c1f219c9939edaced99a594a2e47/assault.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "cf2a27b480022257e330a6bf8b0dbfcc",
+ "sha256": "6c653860e28cb90fd54c3df0011ae01055fdf12e0e76bfce8eb8954b0438b3e0",
  "filename": [
   "sm8_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:Damaul",
   "author:Frib",
   "author:Misyu",
-  "author:Scampie"
+  "author:Scampie",
+  "startmap:sm8_damaul",
+  "startmap:sm8_bear",
+  "startmap:sm8_aard",
+  "startmap:sm8_scampie",
+  "startmap:sm8_frib",
+  "startmap:sm8_misyu"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +53,9 @@
    "size": 2380,
    "timestamp": "2001-04-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm8_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6c653860e28cb90fd54c3df0011ae01055fdf12e0e76bfce8eb8954b0438b3e0/sm8_pack.zip"
+ ]
 }

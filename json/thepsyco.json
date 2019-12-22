@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e57da59a2bc0a8c3e75b04ad1cf06aae",
+ "sha256": "42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87",
  "filename": [
   "thepsyco.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Gunnar Saethre",
   "tag:small",
   "tag:wizard",
-  "tag:dm"
+  "tag:dm",
+  "startmap:psycho"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 1174,
    "timestamp": "1996-10-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/thepsyco.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87/thepsyco.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f2e9b4f7f3c31aa9e75cb71ddd67a5c9",
+ "sha256": "e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af",
  "filename": [
   "sop123.zip"
  ],
@@ -10,7 +10,8 @@
   "title:The Source of Power",
   "author:Graham Davis (OrbItaL)",
   "tag:mini episode",
-  "tag:monsters"
+  "tag:monsters",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -144,5 +145,9 @@
    "size": 303486,
    "timestamp": "1999-08-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sop123.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af/sop123.zip"
+ ]
 }

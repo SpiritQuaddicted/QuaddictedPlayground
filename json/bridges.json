@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "775ea6463301922aab3e87ca9fc77b33",
+ "sha256": "e0d88aad3262da77f4cecfaa548dc7aaf3cbd78f820d33f004d48de1a459ab21",
  "filename": [
   "bridges.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:mini episode",
   "tag:dark",
   "tag:low ammo",
-  "tag:tricks"
+  "tag:tricks",
+  "startmap:brstart"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -44,5 +45,9 @@
    "size": 325604,
    "timestamp": "1996-10-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bridges.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e0d88aad3262da77f4cecfaa548dc7aaf3cbd78f820d33f004d48de1a459ab21/bridges.zip"
+ ]
 }

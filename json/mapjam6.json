@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "02849317216a5c5765f63423ebc0ee78",
+ "sha256": "da3f79951fc4333645d11ddef82820b1aa1eefaecb4b9a42952cf19e05f9b9dd",
  "filename": [
   "mapjam6.zip"
  ],
@@ -35,7 +35,21 @@
   "tag:source",
   "tag:knave",
   "tag:weird",
-  "tag:base"
+  "tag:base",
+  "startmap:start",
+  "startmap:jam6_adib",
+  "startmap:jam6_breezeep",
+  "startmap:jam6_daz",
+  "startmap:jam6_ericwtronyn",
+  "startmap:jam6_exhelzar",
+  "startmap:jam6_ionous",
+  "startmap:jam6_matecha",
+  "startmap:jam6_necros",
+  "startmap:jam6_rick",
+  "startmap:jam6_scampie",
+  "startmap:jam6_shotro",
+  "startmap:jam6_tens",
+  "startmap:jam6_warrenm"
  ],
  "install": {
   "extract": "{quake}/mapjam6"
@@ -489,5 +503,9 @@
    "size": 611714,
    "timestamp": "2015-08-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/mapjam6.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/da3f79951fc4333645d11ddef82820b1aa1eefaecb4b9a42952cf19e05f9b9dd/mapjam6.zip"
+ ]
 }

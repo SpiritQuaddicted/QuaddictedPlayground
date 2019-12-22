@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "89f09e6926c05f1a005e958022538a14",
+ "sha256": "d46ea4a316b3b6744aeed2c2a70bea73237e9ddb2836fcf9019f5c96ce1b4d5d",
  "filename": [
   "sm79_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:necros",
   "author:RPG",
   "author:Scampie",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm79_necros",
+  "startmap:sm79_fmb",
+  "startmap:sm79_drew",
+  "startmap:sm79_zwiffle",
+  "startmap:sm79_scampie",
+  "startmap:sm79_rpg"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +53,9 @@
    "size": 705936,
    "timestamp": "2004-03-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm79_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d46ea4a316b3b6744aeed2c2a70bea73237e9ddb2836fcf9019f5c96ce1b4d5d/sm79_pack.zip"
+ ]
 }

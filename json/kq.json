@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "48f361075d371ae66d883fcd4b17a57a",
+ "sha256": "584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee",
  "filename": [
   "kq.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:monsters",
   "tag:traps",
   "tag:unfinished",
-  "tag:base"
+  "tag:base",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -29,5 +30,9 @@
    "size": 2527,
    "timestamp": "2010-01-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/kq.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee/kq.zip"
+ ]
 }

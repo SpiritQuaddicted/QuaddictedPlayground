@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c30c8b4baf39a60c7bf3d5dc1ab6381e",
+ "sha256": "3327e2ef997037d22c548dd239239b9533e04461282c0056a0becf7720507306",
  "filename": [
   "purgtor2.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Life After Death",
   "author:Bryan Pillow",
   "tag:medium",
-  "tag:wizard"
+  "tag:wizard",
+  "startmap:purg2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -24,5 +25,9 @@
    "size": 2259,
    "timestamp": "1997-06-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/purgtor2.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3327e2ef997037d22c548dd239239b9533e04461282c0056a0becf7720507306/purgtor2.zip"
+ ]
 }

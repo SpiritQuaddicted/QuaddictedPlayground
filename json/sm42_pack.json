@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b20db7afe8b91ed0442d86e77c604be4",
+ "sha256": "baf08e299f34007cc037b3c9f50a3a2ded62300c0ebad062a86404a05d65196d",
  "filename": [
   "sm42_pack.zip"
  ],
@@ -15,7 +15,14 @@
   "author:Starbuck",
   "author:inertia",
   "author:DaZ",
-  "tag:spd"
+  "tag:spd",
+  "startmap:sm42_daz",
+  "startmap:sm42_gibbie",
+  "startmap:sm42_intertia",
+  "startmap:sm42_ray",
+  "startmap:sm42_speedy",
+  "startmap:sm42_starbuck",
+  "startmap:sm42_xen"
  ],
  "install": {
   "extract": "{quake}/"
@@ -53,5 +60,9 @@
    "size": 424028,
    "timestamp": "2003-07-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm42_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/baf08e299f34007cc037b3c9f50a3a2ded62300c0ebad062a86404a05d65196d/sm42_pack.zip"
+ ]
 }

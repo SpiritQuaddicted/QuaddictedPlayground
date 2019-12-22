@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ace51b15e7a0cc1e49d6977873536955",
+ "sha256": "9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb",
  "filename": [
   "smlevel.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:monsters",
   "tag:skins",
   "tag:sounds",
-  "tag:dm"
+  "tag:dm",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/smlevel/"
@@ -112,5 +113,9 @@
    "size": 15831,
    "timestamp": "1997-11-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/smlevel.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb/smlevel.zip"
+ ]
 }

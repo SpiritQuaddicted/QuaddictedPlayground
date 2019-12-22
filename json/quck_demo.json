@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1d4028fe0b553ad797145c6053d19428",
+ "sha256": "5cbc4c7593c8a92aa953febb12245832b8280c4a0399867e8d72de76ac4ba88e",
  "filename": [
   "quck_demo.zip"
  ],
@@ -17,7 +17,10 @@
   "tag:limits",
   "tag:music",
   "tag:external textures",
-  "dependency:quoth2pt2full_2"
+  "dependency:quoth2pt2full_2",
+  "startmap:start",
+  "startmap:map01",
+  "startmap:map02"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -503,5 +506,9 @@
    "size": 7599,
    "timestamp": "2017-08-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/quck_demo.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5cbc4c7593c8a92aa953febb12245832b8280c4a0399867e8d72de76ac4ba88e/quck_demo.zip"
+ ]
 }

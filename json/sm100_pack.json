@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2021803b2786fc93638bc40f1367f349",
+ "sha256": "287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190",
  "filename": [
   "sm100_pack.zip"
  ],
@@ -12,7 +12,10 @@
   "author:Pulsar",
   "author:Zwiffle",
   "tag:generic",
-  "tag:simple"
+  "tag:simple",
+  "startmap:sm100_zwiffle",
+  "startmap:sm100_pulsar",
+  "startmap:sm100_generic"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +33,9 @@
    "size": 498776,
    "timestamp": "2005-07-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm100_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190/sm100_pack.zip"
+ ]
 }

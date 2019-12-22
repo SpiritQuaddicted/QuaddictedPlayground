@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9a5198cc46284f2b920dc7ef67cdfef2",
+ "sha256": "691f84b4d1f1d311cb2162f732487649d6ceb11cf13c8d517e42b457ccd29181",
  "filename": [
   "hrimspeed.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:idbase",
   "tag:small",
   "tag:metal",
-  "tag:computer"
+  "tag:computer",
+  "startmap:speedbase"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +28,9 @@
    "size": 659,
    "timestamp": "2004-09-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/hrimspeed.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/691f84b4d1f1d311cb2162f732487649d6ceb11cf13c8d517e42b457ccd29181/hrimspeed.zip"
+ ]
 }

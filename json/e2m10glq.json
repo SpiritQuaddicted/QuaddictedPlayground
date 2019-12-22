@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9b58a29855c0d9f56df2d191979e2583",
+ "sha256": "f19af7b3fd83817d3b4262d733fc9e460c104852bbeb5535489383103a7b5385",
  "filename": [
   "e2m10glq.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:id",
   "tag:small",
   "tag:wizard",
-  "tag:source"
+  "tag:source",
+  "startmap:e2m10"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 574952,
    "timestamp": "2001-09-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/e2m10glq.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f19af7b3fd83817d3b4262d733fc9e460c104852bbeb5535489383103a7b5385/e2m10glq.zip"
+ ]
 }

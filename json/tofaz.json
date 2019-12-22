@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2b91d155dff8aab1af8a473ae2074586",
+ "sha256": "85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc",
  "filename": [
   "tofaz.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:red",
   "tag:fog",
   "tag:lit",
-  "tag:limits"
+  "tag:limits",
+  "startmap:tofaz\\tofaz"
  ],
  "install": {
   "extract": "{quake}/id1\\maps\\"
@@ -34,5 +35,9 @@
    "size": 3738,
    "timestamp": "2017-10-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tofaz.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc/tofaz.zip"
+ ]
 }

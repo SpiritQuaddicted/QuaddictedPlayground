@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "93664d698942615455fe692f8d33f3a7",
+ "sha256": "550475db8b20cbb3d55b3ad0c7b3a17bd53148e510d56ac3517290c6375848ec",
  "filename": [
   "sm41_pack.zip"
  ],
@@ -18,7 +18,10 @@
   "author:Speedy",
   "author:Starbuck",
   "author:Xen",
-  "tag:spd"
+  "tag:spd",
+  "startmap:sm41_asaki",
+  "startmap:sm41_necros",
+  "startmap:sm41_rpg"
  ],
  "install": {
   "extract": "{quake}/"
@@ -80,5 +83,9 @@
    "size": 594460,
    "timestamp": "2003-07-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm41_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/550475db8b20cbb3d55b3ad0c7b3a17bd53148e510d56ac3517290c6375848ec/sm41_pack.zip"
+ ]
 }

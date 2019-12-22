@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "df5d40f64bde325cb4477bd7a9bf39e9",
+ "sha256": "44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b",
  "filename": [
   "sm161_pack.zip"
  ],
@@ -15,7 +15,15 @@
   "author:Trinca",
   "author:ZealousQuakeFan",
   "author:Zwiffle",
-  "tag:quoth"
+  "tag:quoth",
+  "startmap:sm161_ericw",
+  "startmap:sm161_ijed",
+  "startmap:sm161_ricky",
+  "startmap:sm161_spirit",
+  "startmap:sm161_trinca",
+  "startmap:sm161_zqf",
+  "startmap:sm161_zqf2",
+  "startmap:sm161_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -89,5 +97,9 @@
    "size": 40016,
    "timestamp": "2010-09-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm161_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b/sm161_pack.zip"
+ ]
 }

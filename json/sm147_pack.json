@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ccdceddea2e9f08d0ce43f7868ec29a6",
+ "sha256": "6860f5a603a2fd84026ec1dead9bb7c058943c3885402f26b1f191c37c27e6fa",
  "filename": [
   "sm147_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Drew",
   "author:lurker",
   "author:st3ady",
-  "author:Trinca"
+  "author:Trinca",
+  "startmap:sm147_drew",
+  "startmap:sm147_lurker",
+  "startmap:sm147_st3ady",
+  "startmap:sm147_trinca"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -41,5 +45,9 @@
    "size": 563481,
    "timestamp": "2008-11-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm147_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6860f5a603a2fd84026ec1dead9bb7c058943c3885402f26b1f191c37c27e6fa/sm147_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d688e8dafe5440c8b421ed3bd3606852",
+ "sha256": "fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759",
  "filename": [
   "contract_2.zip"
  ],
@@ -17,7 +17,9 @@
   "tag:tomb",
   "tag:spacemap",
   "tag:skybox",
-  "tag:limits"
+  "tag:limits",
+  "startmap:intro",
+  "startmap:contract"
  ],
  "install": {
   "extract": "{quake}//"
@@ -71,5 +73,9 @@
    "size": 2405,
    "timestamp": "2017-07-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/contract_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759/contract_2.zip"
+ ]
 }

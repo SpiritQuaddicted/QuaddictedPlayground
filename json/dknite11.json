@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "46a41de2da12d1cf37ab4b36e27c2735",
+ "sha256": "2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56",
  "filename": [
   "dknite11.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:medieval",
   "tag:castle",
   "tag:textures",
-  "tag:skins"
+  "tag:skins",
+  "startmap:dknight"
  ],
  "install": {
   "extract": "{quake}//"
@@ -35,5 +36,9 @@
    "size": 218680,
    "timestamp": "1997-09-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dknite11.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56/dknite11.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c023b6683089a851b1777523cd632d15",
+ "sha256": "57a98c2ecff4ce8230824ff39c858212580443d15ac41e3ff8e8a865d0c2c98c",
  "filename": [
   "explorejam1.zip"
  ],
@@ -14,7 +14,9 @@
   "tag:puzzles",
   "tag:skybox",
   "tag:parkour",
-  "tag:no monsters"
+  "tag:no monsters",
+  "startmap:explorejam1_pulsar.bsp",
+  "startmap:explorejam1_sock.bsp"
  ],
  "install": {
   "extract": "{quake}/explorejam1/"
@@ -144,5 +146,9 @@
    "size": 221114,
    "timestamp": "2016-03-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/explorejam1.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/57a98c2ecff4ce8230824ff39c858212580443d15ac41e3ff8e8a865d0c2c98c/explorejam1.zip"
+ ]
 }

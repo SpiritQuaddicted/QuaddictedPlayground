@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2c277d69a1727a2c2e6608badf5c0563",
+ "sha256": "2bb8322fd205839983ef64098ccbf91bd2900536b9d2db46c14baa0a3a263c35",
  "filename": [
   "sm110_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Drew",
   "author:generic",
   "author:HeadThump",
-  "author:negke"
+  "author:negke",
+  "startmap:sm110_neg!ke",
+  "startmap:sm110_ht",
+  "startmap:sm110_generic",
+  "startmap:sm110_drew"
  ],
  "install": {
   "extract": "{quake}/"
@@ -33,5 +37,9 @@
    "size": 608864,
    "timestamp": "2005-11-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm110_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2bb8322fd205839983ef64098ccbf91bd2900536b9d2db46c14baa0a3a263c35/sm110_pack.zip"
+ ]
 }

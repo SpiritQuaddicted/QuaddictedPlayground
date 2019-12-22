@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a7cdc38c3d891af3e4cdf775f1bb8d47",
+ "sha256": "064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1",
  "filename": [
   "runekeep.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:chthon",
   "tag:large",
   "tag:lava",
-  "tag:swimming"
+  "tag:swimming",
+  "startmap:rrsp1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +28,9 @@
    "size": 2685424,
    "timestamp": "2002-03-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/runekeep.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1/runekeep.zip"
+ ]
 }

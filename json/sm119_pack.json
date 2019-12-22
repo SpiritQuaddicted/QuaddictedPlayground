@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a4ff748761c1a676f0025c734d684d59",
+ "sha256": "9ae4dcab0c26af19e12bb48ff0ecfe8f8cc5ddcf6fb4524da0cfd784857b22a1",
  "filename": [
   "sm119_pack.zip"
  ],
@@ -9,7 +9,9 @@
  "tags": [
   "title:Speedmapping pack 119 - Unthemed",
   "author:negke",
-  "author:Trinca"
+  "author:Trinca",
+  "startmap:sm119_trinca",
+  "startmap:sm119_neg!ke"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +29,9 @@
    "size": 1337700,
    "timestamp": "2006-02-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm119_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9ae4dcab0c26af19e12bb48ff0ecfe8f8cc5ddcf6fb4524da0cfd784857b22a1/sm119_pack.zip"
+ ]
 }

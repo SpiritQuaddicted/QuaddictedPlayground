@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "706b341a49549cc4311f90fc1eff7cee",
+ "sha256": "19f47d229df571e473a33c6d33e27d9702bf34d1983d7dc523773ca0028f022a",
  "filename": [
   "arwop.zip"
  ],
@@ -21,7 +21,8 @@
   "tag:insane ending",
   "tag:cyberdemon",
   "tag:mustplay",
-  "tag:episode"
+  "tag:episode",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/arwop/"
@@ -51,5 +52,9 @@
    "size": 22728286,
    "timestamp": "2009-12-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/arwop.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/19f47d229df571e473a33c6d33e27d9702bf34d1983d7dc523773ca0028f022a/arwop.zip"
+ ]
 }

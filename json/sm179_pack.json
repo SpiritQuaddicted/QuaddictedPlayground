@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "bd65b274a582bb72ec0aaa5816f6c29a",
+ "sha256": "0b013b55711ba1d0973acc130c18dea8268ed976de641bc5d17abb0268becc44",
  "filename": [
   "sm179_pack.zip"
  ],
@@ -16,7 +16,12 @@
   "tag:speedmap",
   "tag:wizard",
   "tag:hacks",
-  "tag:external textures"
+  "tag:external textures",
+  "startmap:sm179_danzadan",
+  "startmap:sm179_dumptruck_ds",
+  "startmap:sm179_mukor",
+  "startmap:sm179_naitelveni",
+  "startmap:sm179_otp"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -86,5 +91,9 @@
    "size": 12608,
    "timestamp": "2017-08-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm179_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0b013b55711ba1d0973acc130c18dea8268ed976de641bc5d17abb0268becc44/sm179_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1b7333e73ef1c0eca06fe5f9112a4590",
+ "sha256": "d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816",
  "filename": [
   "3oc.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:monsters",
   "tag:non linear",
   "tag:dm",
-  "tag:idbase"
+  "tag:idbase",
+  "startmap:3oc"
  ],
  "install": {
   "extract": "{quake}/3oc/"
@@ -28,5 +29,9 @@
    "size": 1888562,
    "timestamp": "1997-06-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/3oc.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816/3oc.zip"
+ ]
 }

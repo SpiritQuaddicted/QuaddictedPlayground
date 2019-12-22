@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "376897f8b0b7c55dc5cc9e1da4082f96",
+ "sha256": "54576b1fb6adfac936c014ff471afefbac3cd9ecb362089234b960741223ac9c",
  "filename": [
   "sm173_pack.zip"
  ],
@@ -18,7 +18,11 @@
   "tag:skacky",
   "tag:qtwid",
   "tag:quoth",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:sm173_coce",
+  "startmap:sm173_digs",
+  "startmap:sm173_doomer",
+  "startmap:sm173_skacky"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -56,5 +60,9 @@
    "size": 1434305,
    "timestamp": "2013-12-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm173_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/54576b1fb6adfac936c014ff471afefbac3cd9ecb362089234b960741223ac9c/sm173_pack.zip"
+ ]
 }

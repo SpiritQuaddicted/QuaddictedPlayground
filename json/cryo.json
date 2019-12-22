@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "da70fefcf54d738b03ac6c1d9517674a",
+ "sha256": "47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd",
  "filename": [
   "cryo.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:wizard",
   "tag:soa",
   "tag:hipnotic",
-  "dependency:hipnotic"
+  "dependency:hipnotic",
+  "startmap:cryo1"
  ],
  "install": {
   "extract": "{quake}/hipnotic/maps/"
@@ -32,5 +33,9 @@
    "size": 1791464,
    "timestamp": "1997-05-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cryo.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd/cryo.zip"
+ ]
 }

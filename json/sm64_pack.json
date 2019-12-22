@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a75f4f1d497aa05ef623d68c80f9b836",
+ "sha256": "268fa9c0e31e7065e46afc988469cece15bc403462d3d2c06356274742ee75de",
  "filename": [
   "sm64_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 64 - Skyward maps",
   "author:Moz",
   "author:Scampie",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm64_zwiffle",
+  "startmap:sm64_moz",
+  "startmap:sm64_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +35,9 @@
    "size": 401296,
    "timestamp": "2001-09-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm64_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/268fa9c0e31e7065e46afc988469cece15bc403462d3d2c06356274742ee75de/sm64_pack.zip"
+ ]
 }

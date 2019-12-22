@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8a8437a602f310b62fb136743235fe5c",
+ "sha256": "16eb0535906162df08b0e8549283e365a89cdbb98cf45ebc1e0b99489f9deafb",
  "filename": [
   "outpost2.zip"
  ],
@@ -10,7 +10,8 @@
   "title:The Keldjoran Outpost",
   "author:Benson \"El-Magoo\" Russell",
   "tag:medieval",
-  "tag:castle"
+  "tag:castle",
+  "startmap:outpost"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -24,5 +25,9 @@
    "size": 1972296,
    "timestamp": "1997-03-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/outpost2.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/16eb0535906162df08b0e8549283e365a89cdbb98cf45ebc1e0b99489f9deafb/outpost2.zip"
+ ]
 }

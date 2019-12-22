@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "af84988330bf84a3cd32712b5eb375a1",
+ "sha256": "9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832",
  "filename": [
   "arcextra.zip"
  ],
@@ -19,7 +19,9 @@
   "tag:industrial",
   "tag:textures",
   "tag:monsters",
-  "tag:music"
+  "tag:music",
+  "startmap:arcextra1",
+  "startmap:arcextra2"
  ],
  "install": {
   "extract": "{quake}/arcextra/"
@@ -61,5 +63,9 @@
    "size": 2116536,
    "timestamp": "2012-11-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/arcextra.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832/arcextra.zip"
+ ]
 }

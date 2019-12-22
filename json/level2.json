@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "75902ce735887d026e14106851f9080c",
+ "sha256": "a3d9b9d10ed52d0817a2ebfda7a4fecb87dd8894290e81cfd352574a811b0e66",
  "filename": [
   "level2.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:base",
   "tag:start",
   "tag:traps",
-  "tag:quake2"
+  "tag:quake2",
+  "startmap:level0"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -41,5 +42,9 @@
    "size": 1528556,
    "timestamp": "1998-07-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/level2.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a3d9b9d10ed52d0817a2ebfda7a4fecb87dd8894290e81cfd352574a811b0e66/level2.zip"
+ ]
 }

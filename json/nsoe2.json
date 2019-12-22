@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9818cdc675859e97f2f5e3ce9a369e17",
+ "sha256": "081bb3b575a674fd844ea571957260e68eb795631f87474b8bae2bec981418c3",
  "filename": [
   "nsoe2.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:episode",
   "tag:epic",
   "tag:soul of evil",
-  "tag:mustplay"
+  "tag:mustplay",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/nsoe2/"
@@ -43,5 +44,9 @@
    "size": 13096879,
    "timestamp": "2008-12-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/nsoe2.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/081bb3b575a674fd844ea571957260e68eb795631f87474b8bae2bec981418c3/nsoe2.zip"
+ ]
 }

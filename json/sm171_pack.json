@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d6fd2725106d99bc68ca2e2a057e373b",
+ "sha256": "d284ae2ca353090e9ebef4825a145c7e094742a6de8aa3133f4670bd1a255fed",
  "filename": [
   "sm171_pack.zip"
  ],
@@ -13,7 +13,10 @@
   "author:Scampie",
   "tag:quoth",
   "tag:big",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:sm171_cocerello",
+  "startmap:sm171_digs",
+  "startmap:sm171_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps"
@@ -35,5 +38,9 @@
    "size": 464311,
    "timestamp": "2013-06-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm171_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d284ae2ca353090e9ebef4825a145c7e094742a6de8aa3133f4670bd1a255fed/sm171_pack.zip"
+ ]
 }

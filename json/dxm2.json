@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d05535cf77b18d295718e3e8f8857ffc",
+ "sha256": "cee0057a0a1a183080be6ad7b023d7016de607794db916674a8eddf4d6040766",
  "filename": [
   "dxm2.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:medium",
   "tag:base",
   "tag:small",
-  "tag:idbase"
+  "tag:idbase",
+  "startmap:dxm"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 3885,
    "timestamp": "1997-06-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dxm2.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cee0057a0a1a183080be6ad7b023d7016de607794db916674a8eddf4d6040766/dxm2.zip"
+ ]
 }

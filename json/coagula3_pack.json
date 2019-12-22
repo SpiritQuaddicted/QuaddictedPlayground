@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7934c200b13214b7b1d7a419859604e9",
+ "sha256": "483a57cabadc8c9c4686177dddf698bb2d4a95bf778dfd015151b2269d6dbfe4",
  "filename": [
   "coagula3_pack.zip"
  ],
@@ -20,7 +20,14 @@
   "tag:coagula",
   "tag:void",
   "tag:small",
-  "tag:unreal"
+  "tag:unreal",
+  "startmap:coag3_start",
+  "startmap:coag3_ericw",
+  "startmap:coag3_gb",
+  "startmap:coag3_rickyt23",
+  "startmap:coag3_spy",
+  "startmap:coag3_trinca",
+  "startmap:coag3_willem"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -150,5 +157,9 @@
    "size": 4038,
    "timestamp": "2009-04-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/coagula3_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/483a57cabadc8c9c4686177dddf698bb2d4a95bf778dfd015151b2269d6dbfe4/coagula3_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "032b9c11132df58a5a887e2bdd4e6312",
+ "sha256": "a7b63ce7d956a3bdf3d9fc2a1179d9338bff18833ae1c74dcce8c08ab1abf0fa",
  "filename": [
   "bridges_2.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Bridges",
   "author:George Grotans",
   "tag:small",
-  "tag:lava"
+  "tag:lava",
+  "startmap:bridges"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -28,5 +29,9 @@
    "size": 319,
    "timestamp": "2009-04-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bridges_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a7b63ce7d956a3bdf3d9fc2a1179d9338bff18833ae1c74dcce8c08ab1abf0fa/bridges_2.zip"
+ ]
 }

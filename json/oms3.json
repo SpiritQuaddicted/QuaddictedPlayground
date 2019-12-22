@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c8300a2234ff0e160230f877934fa072",
+ "sha256": "31d7d0a692bae955d28578cfdcb1fd4d51cdf9b892bcaed0eddb1e8969b3e52d",
  "filename": [
   "oms3.zip"
  ],
@@ -16,7 +16,9 @@
   "tag:limits",
   "tag:source",
   "tag:giger",
-  "tag:unique"
+  "tag:unique",
+  "startmap:oms3",
+  "startmap:oms3_2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -50,5 +52,9 @@
    "size": 1447,
    "timestamp": "2016-01-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/oms3.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/31d7d0a692bae955d28578cfdcb1fd4d51cdf9b892bcaed0eddb1e8969b3e52d/oms3.zip"
+ ]
 }

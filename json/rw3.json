@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "482c5c1fa2b36dd06710c799013f51e3",
+ "sha256": "ca747e4b17b58be0688f91037b8a949825bddbc31ab6c1cbc866d37e16555565",
  "filename": [
   "rw3.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Miss Bubbles",
   "tag:medium",
   "tag:runic",
-  "tag:metal"
+  "tag:metal",
+  "startmap:rw3"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 2278921,
    "timestamp": "2017-02-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rw3.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/ca747e4b17b58be0688f91037b8a949825bddbc31ab6c1cbc866d37e16555565/rw3.zip"
+ ]
 }

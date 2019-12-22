@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9971d16cb6b7ff0d97615e4920c26597",
+ "sha256": "6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa",
  "filename": [
   "pagan3.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Mike Melzer",
   "tag:small",
   "tag:metal",
-  "tag:source"
+  "tag:source",
+  "startmap:pagan"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -29,5 +30,9 @@
    "size": 4360,
    "timestamp": "1996-09-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/pagan3.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa/pagan3.zip"
+ ]
 }

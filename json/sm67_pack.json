@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "79cacfbac193ca3c1b3fe30f49106b32",
+ "sha256": "a9b689a85614f06e64fb42ffdeb65ecf33dea8d61db70d0fc32de2565e03d316",
  "filename": [
   "sm67_pack.zip"
  ],
@@ -12,7 +12,13 @@
   "author:HeadThump",
   "author:Xenon",
   "author:Zwiffle",
-  "tag:speedrunning"
+  "tag:speedrunning",
+  "startmap:sm67_zwiffle2",
+  "startmap:sm67_headthump",
+  "startmap:sm67_xen",
+  "startmap:sm67_jacek2",
+  "startmap:sm67_jacek",
+  "startmap:sm67_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -50,5 +56,9 @@
    "size": 1622,
    "timestamp": "2001-09-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm67_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a9b689a85614f06e64fb42ffdeb65ecf33dea8d61db70d0fc32de2565e03d316/sm67_pack.zip"
+ ]
 }

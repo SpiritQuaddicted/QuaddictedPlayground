@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d395cff9f74665e1b9dd8640ba562341",
+ "sha256": "26dcaa57f0e96d9d8f7325218ed6c8bef02be593711e85e42a3da01070ddbce3",
  "filename": [
   "smqe08b_pack.zip"
  ],
@@ -13,7 +13,12 @@
   "author:Omus",
   "author:Text_Fish",
   "author:Zwiffle",
-  "tag:trees"
+  "tag:trees",
+  "startmap:smqe08b_lurker",
+  "startmap:smqe08b_negke",
+  "startmap:smqe08b_omus",
+  "startmap:smqe08b_textfish",
+  "startmap:smqe08b_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -43,5 +48,9 @@
    "size": 817608,
    "timestamp": "2008-08-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/smqe08b_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/26dcaa57f0e96d9d8f7325218ed6c8bef02be593711e85e42a3da01070ddbce3/smqe08b_pack.zip"
+ ]
 }

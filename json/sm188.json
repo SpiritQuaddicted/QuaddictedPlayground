@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a5830c48635b3d5b8f2e30bb122e0ca8",
+ "sha256": "3c1ebb15dd49ef84f0b5a88b0289061a6bc73b1d559b88efc3e9ac659d42a1bc",
  "filename": [
   "sm188.zip"
  ],
@@ -15,7 +15,16 @@
   "author:JCR",
   "author:Nostalgick",
   "author:QueenJazz",
-  "author:Andrew Yoder"
+  "author:Andrew Yoder",
+  "startmap:sm188_breezeep",
+  "startmap:sm188_dumptruck",
+  "startmap:sm188_ing",
+  "startmap:sm188_ionous",
+  "startmap:sm188_jcr",
+  "startmap:sm188_nostalgick",
+  "startmap:sm188_queenjazz",
+  "startmap:sm188_yoder",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/sm188/"
@@ -221,5 +230,9 @@
    "size": 526791,
    "timestamp": "2018-10-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm188.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3c1ebb15dd49ef84f0b5a88b0289061a6bc73b1d559b88efc3e9ac659d42a1bc/sm188.zip"
+ ]
 }

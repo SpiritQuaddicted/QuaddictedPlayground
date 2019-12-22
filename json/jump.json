@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "42d8ad2109078e58aa69d22fce404917",
+ "sha256": "5b56ee699a556c23d6dd5dd3c9423e54ae1abde2c97a220b74e2a3c4f4182cb5",
  "filename": [
   "jump.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:honey",
   "tag:fog",
   "tag:source",
-  "tag:limits"
+  "tag:limits",
+  "startmap:petes1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +34,9 @@
    "size": 4347,
    "timestamp": "2016-11-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/jump.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5b56ee699a556c23d6dd5dd3c9423e54ae1abde2c97a220b74e2a3c4f4182cb5/jump.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9a620fdc0f688e3d8898f96b659bbbf9",
+ "sha256": "016c9d9a70761470534d0ae5294b4d2bce69a4ea5983e8df008714ffe06ef572",
  "filename": [
   "dmc3.zip"
  ],
@@ -24,7 +24,16 @@
   "tag:source",
   "tag:start",
   "tag:boss",
-  "tag:cr8"
+  "tag:cr8",
+  "startmap:dmc3",
+  "startmap:dmc3m1",
+  "startmap:dmc3m2",
+  "startmap:dmc3m3",
+  "startmap:dmc3m4",
+  "startmap:dmc3m5",
+  "startmap:dmc3m6",
+  "startmap:dmc3m7",
+  "startmap:dmc3m8"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -106,5 +115,9 @@
    "size": 968183,
    "timestamp": "2011-06-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dmc3.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/016c9d9a70761470534d0ae5294b4d2bce69a4ea5983e8df008714ffe06ef572/dmc3.zip"
+ ]
 }

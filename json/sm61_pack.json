@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2f5f14c8a31602ad894ad1f698eb10f1",
+ "sha256": "74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc",
  "filename": [
   "sm61_pack.zip"
  ],
@@ -13,7 +13,12 @@
   "author:PuLSaR",
   "author:Scampie",
   "author:Zwiffle",
-  "tag:rubicon"
+  "tag:rubicon",
+  "startmap:sm61_PuLSaR",
+  "startmap:sm61_lev",
+  "startmap:sm61_drew",
+  "startmap:sm61_scampie",
+  "startmap:sm61_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -43,5 +48,9 @@
    "size": 1241556,
    "timestamp": "2003-12-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm61_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc/sm61_pack.zip"
+ ]
 }

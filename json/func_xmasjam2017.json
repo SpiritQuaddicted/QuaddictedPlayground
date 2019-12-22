@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c935efbc2b027e032439b8d6b0b40e8f",
+ "sha256": "464c657a16bb121e90944acc6ce616111c31d766cf515293f0076daefd0d70ef",
  "filename": [
   "func_xmasjam2017.zip"
  ],
@@ -38,7 +38,16 @@
   "tag:source",
   "tag:arcanedimensions",
   "tag:quake_awards_2018_winner",
-  "dependency:ad_v1_70final"
+  "dependency:ad_v1_70final",
+  "startmap:xmasjam_bal",
+  "startmap:xmasjam_breezeep",
+  "startmap:xmasjam_dumptruck",
+  "startmap:xmasjam_5th",
+  "startmap:xmasjam_mukor",
+  "startmap:xmasjam_naitelveni",
+  "startmap:xmasjam_negke",
+  "startmap:xmasjam_pritchard",
+  "startmap:xmasjam_icequeen"
  ],
  "install": {
   "extract": "{quake}/ad/"
@@ -496,5 +505,9 @@
    "size": 1366,
    "timestamp": "2017-12-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_xmasjam2017.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/464c657a16bb121e90944acc6ce616111c31d766cf515293f0076daefd0d70ef/func_xmasjam2017.zip"
+ ]
 }

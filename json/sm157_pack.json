@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "fdc96605b88ea2101a8e9e3a158c9cd6",
+ "sha256": "11fac89da3bc5d98f3b4fa2150fb2a18c476fe1d582360777426c9d62cc075e8",
  "filename": [
   "sm157_pack.zip"
  ],
@@ -8,7 +8,8 @@
  "releasedate": "2009-10-26",
  "tags": [
   "title:Speedmapping pack 157 - Unthemed",
-  "author:spy"
+  "author:spy",
+  "startmap:sm157_spy"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -22,5 +23,9 @@
    "size": 99,
    "timestamp": "2009-10-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm157_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/11fac89da3bc5d98f3b4fa2150fb2a18c476fe1d582360777426c9d62cc075e8/sm157_pack.zip"
+ ]
 }

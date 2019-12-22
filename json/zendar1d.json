@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "88b158259721e8975aa14d4c3ce04b70",
+ "sha256": "12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6",
  "filename": [
   "zendar1d.zip"
  ],
@@ -23,7 +23,8 @@
   "tag:oldschool",
   "tag:brown",
   "tag:huge",
-  "tag:classic"
+  "tag:classic",
+  "startmap:zendar"
  ],
  "install": {
   "extract": "{quake}/zendar/"
@@ -45,5 +46,9 @@
    "size": 12564,
    "timestamp": "2013-12-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/zendar1d.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6/zendar1d.zip"
+ ]
 }

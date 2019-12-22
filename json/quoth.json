@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "35930fef5eadd8bbbdaefe75898df82b",
+ "sha256": "8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1",
  "filename": [
   "quoth.zip"
  ],
@@ -14,7 +14,17 @@
   "tag:weapons",
   "tag:items",
   "tag:toolbox",
-  "tag:remix"
+  "tag:remix",
+  "startmap:start",
+  "startmap:e1m1quoth",
+  "startmap:e1m2quoth",
+  "startmap:kelltest1",
+  "startmap:kelltest2",
+  "startmap:kelltest3",
+  "startmap:kelltest4",
+  "startmap:ne_basetest",
+  "startmap:kellbase1",
+  "startmap:kelltest5"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -44,5 +54,9 @@
    "size": 48226771,
    "timestamp": "2008-02-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/quoth.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1/quoth.zip"
+ ]
 }

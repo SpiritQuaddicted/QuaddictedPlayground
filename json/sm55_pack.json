@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "87ae4183954254252d83ff5afe3ebaf5",
+ "sha256": "88e4e8f70839d4b59143b0a10fcc34940bedcba430ecfd7a724eb024f7ed86bd",
  "filename": [
   "sm55_pack.zip"
  ],
@@ -13,7 +13,12 @@
   "author:Metlslime",
   "author:Scampie",
   "author:Starbuck",
-  "tag:qtwid"
+  "tag:qtwid",
+  "startmap:sm55_asaki",
+  "startmap:sm55_czg",
+  "startmap:sm55_metl",
+  "startmap:sm55_scampie",
+  "startmap:sm55_starbuck"
  ],
  "install": {
   "extract": "{quake}/"
@@ -43,5 +48,9 @@
    "size": 1629,
    "timestamp": "2001-09-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm55_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/88e4e8f70839d4b59143b0a10fcc34940bedcba430ecfd7a724eb024f7ed86bd/sm55_pack.zip"
+ ]
 }

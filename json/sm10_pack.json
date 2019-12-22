@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a135ab9bcb0db8e04dc0a6afc1ce52ec",
+ "sha256": "f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177",
  "filename": [
   "sm10_pack.zip"
  ],
@@ -12,7 +12,12 @@
   "author:Apollo",
   "author:Cybear",
   "author:Damaul",
-  "author:Misyu"
+  "author:Misyu",
+  "startmap:sm10_misyu",
+  "startmap:sm10_ap",
+  "startmap:sm10_aard",
+  "startmap:sm10_dam",
+  "startmap:sm10_bear"
  ],
  "install": {
   "extract": "{quake}/"
@@ -42,5 +47,9 @@
    "size": 453796,
    "timestamp": "2001-04-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm10_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177/sm10_pack.zip"
+ ]
 }

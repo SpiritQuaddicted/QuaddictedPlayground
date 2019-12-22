@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "80cc9a8f21947423ca14e39884c0af01",
+ "sha256": "f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48",
  "filename": [
   "backstein1e.zip"
  ],
@@ -19,7 +19,8 @@
   "tag:wind tunnels",
   "tag:e3m5",
   "tag:mustplay",
-  "tag:start map"
+  "tag:start map",
+  "startmap:backstein"
  ],
  "install": {
   "extract": "{quake}/backstein/"
@@ -37,5 +38,9 @@
    "size": 169495,
    "timestamp": "2013-07-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/backstein1e.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48/backstein1e.zip"
+ ]
 }

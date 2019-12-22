@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1baaebca571924c50846f3710d6e69f5",
+ "sha256": "50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c",
  "filename": [
   "vigil.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:medieval",
   "tag:arena",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/vigil/"
@@ -26,5 +27,9 @@
    "size": 4004,
    "timestamp": "1997-05-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/vigil.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c/vigil.zip"
+ ]
 }

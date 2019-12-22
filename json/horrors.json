@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3f00f76e5bd64767a9d6f608a5c97c81",
+ "sha256": "cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d",
  "filename": [
   "horrors.zip"
  ],
@@ -12,7 +12,9 @@
   "tag:small",
   "tag:medieval",
   "tag:castle",
-  "tag:graveyard"
+  "tag:graveyard",
+  "startmap:horrors",
+  "startmap:setskill"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -38,5 +40,9 @@
    "size": 66266,
    "timestamp": "1997-07-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/horrors.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d/horrors.zip"
+ ]
 }

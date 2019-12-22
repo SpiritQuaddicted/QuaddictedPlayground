@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9cebf536d4b5c7549cf83e29a20b34c9",
+ "sha256": "7cec99d6ad5c664bc3f672af44339fee09608ec42f6caa88a2ffa90646cbb7c5",
  "filename": [
   "sm66_pack.zip"
  ],
@@ -12,7 +12,12 @@
   "author:Megazoid",
   "author:NotoriousRay",
   "author:RPG",
-  "author:Starbuck"
+  "author:Starbuck",
+  "startmap:sm66_starbuck",
+  "startmap:sm66_gleeb",
+  "startmap:sm66_ray",
+  "startmap:sm66_megazoid",
+  "startmap:sm66_rpg"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -50,5 +55,9 @@
    "size": 445992,
    "timestamp": "2004-02-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm66_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7cec99d6ad5c664bc3f672af44339fee09608ec42f6caa88a2ffa90646cbb7c5/sm66_pack.zip"
+ ]
 }

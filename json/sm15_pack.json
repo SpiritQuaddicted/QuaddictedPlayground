@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "4e17ee194f28aaa45c9a90e260f1c9c2",
+ "sha256": "4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686",
  "filename": [
   "sm15_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:NotoriousRay",
   "author:Blitz",
   "author:XeNoN",
-  "tag:rubicon"
+  "tag:rubicon",
+  "startmap:sm15_blitz",
+  "startmap:sm15_ray",
+  "startmap:sm15_bear",
+  "startmap:sm15_ap",
+  "startmap:sm15_xenon2",
+  "startmap:sm15_xenon1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -51,5 +57,9 @@
    "size": 2368,
    "timestamp": "2001-05-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm15_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686/sm15_pack.zip"
+ ]
 }

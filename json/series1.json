@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c50137f64c29633848e7cc787e722a49",
+ "sha256": "1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4",
  "filename": [
   "series1.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:non linear",
   "tag:vertical",
   "tag:tricks",
-  "tag:traps"
+  "tag:traps",
+  "startmap:s1l1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -49,5 +50,9 @@
    "size": 467148,
    "timestamp": "1996-12-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/series1.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4/series1.zip"
+ ]
 }

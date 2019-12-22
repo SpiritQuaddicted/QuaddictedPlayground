@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c67e711e75055844bb57eb8de78c55d0",
+ "sha256": "a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd",
  "filename": [
   "shadowgl.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:pyramid",
   "tag:skins",
   "tag:town",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:shadow"
  ],
  "install": {
   "extract": "{quake}/shadowgl/"
@@ -34,5 +35,9 @@
    "size": 4064,
    "timestamp": "1997-03-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/shadowgl.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd/shadowgl.zip"
+ ]
 }

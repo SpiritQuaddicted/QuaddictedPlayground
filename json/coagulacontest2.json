@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e4ac1fe38e3427a35908f506a8564e2f",
+ "sha256": "6421a96be778c36418fabe065f49d11adbd8661f8d7b82e2bf5a7bed09f95137",
  "filename": [
   "coagulacontest2.zip"
  ],
@@ -18,7 +18,14 @@
   "tag:contest",
   "tag:small",
   "tag:void",
-  "tag:coagula"
+  "tag:coagula",
+  "startmap:start",
+  "startmap:chain3",
+  "startmap:discoag02",
+  "startmap:jesus",
+  "startmap:nesp10",
+  "startmap:pushcoag",
+  "startmap:tyrcoag"
  ],
  "install": {
   "extract": "{quake}/coagulacontest2/"
@@ -60,5 +67,9 @@
    "size": 424,
    "timestamp": "2003-08-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/coagulacontest2.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6421a96be778c36418fabe065f49d11adbd8661f8d7b82e2bf5a7bed09f95137/coagulacontest2.zip"
+ ]
 }

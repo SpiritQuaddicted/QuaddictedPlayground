@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "597dc591a035d177239bd97989e718ff",
+ "sha256": "e39965cb31b69e35e79b8cf809aedd39711ce60530f21333e9876f6e362651dd",
  "filename": [
   "sm50_pack.zip"
  ],
@@ -12,7 +12,13 @@
   "author:Moz",
   "author:Scampie",
   "author:Starbuck",
-  "author:Xen"
+  "author:Xen",
+  "startmap:sm50_asaki",
+  "startmap:sm50_moz",
+  "startmap:sm50_scampie",
+  "startmap:sm50_starbuck",
+  "startmap:sm50_xen",
+  "startmap:sm51_xen"
  ],
  "install": {
   "extract": "{quake}/"
@@ -50,5 +56,9 @@
    "size": 509744,
    "timestamp": "2001-09-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm50_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e39965cb31b69e35e79b8cf809aedd39711ce60530f21333e9876f6e362651dd/sm50_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1a7af50d6f65b11974cc925616c33967",
+ "sha256": "b7fcd229cb05e4bda5e2cbffbedb02a6bad43684cbc8596d596cde2342d96697",
  "filename": [
   "jzspq3.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:ikblue",
   "tag:episode",
   "tag:chthon",
-  "tag:small"
+  "tag:small",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -58,5 +59,9 @@
    "size": 967,
    "timestamp": "1998-05-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/jzspq3.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b7fcd229cb05e4bda5e2cbffbedb02a6bad43684cbc8596d596cde2342d96697/jzspq3.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e648d6d23e418b25c3738f46f4937416",
+ "sha256": "1ea411fbcaa02315d5c1ac1ed6cf2c65c989a89e36663b4075cbbe3edd885d6a",
  "filename": [
   "hwjam2.zip"
  ],
@@ -31,7 +31,22 @@
   "tag:pirate",
   "tag:runic",
   "tag:zer",
-  "tag:textures"
+  "tag:textures",
+  "startmap:start",
+  "startmap:hwjam2_artistical",
+  "startmap:hwjam2_burnham",
+  "startmap:hwjam2_captaincam",
+  "startmap:hwjam2_chedap",
+  "startmap:hwjam2_chrisholden",
+  "startmap:hwjam2_comradebeep",
+  "startmap:hwjam2_greenwood",
+  "startmap:hwjam2_here",
+  "startmap:hwjam2_jcr",
+  "startmap:hwjam2_kayne",
+  "startmap:hwjam2_maxx",
+  "startmap:hwjam2_pinchy",
+  "startmap:hwjam2_thulsa",
+  "startmap:hwjam2_yoder"
  ],
  "install": {
   "extract": "{quake}/hwjam2/"
@@ -6253,5 +6268,9 @@
    "size": 26916,
    "timestamp": "2016-05-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/hwjam2.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1ea411fbcaa02315d5c1ac1ed6cf2c65c989a89e36663b4075cbbe3edd885d6a/hwjam2.zip"
+ ]
 }

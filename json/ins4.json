@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d3579794a374a7439dbf107be18a6626",
+ "sha256": "7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f",
  "filename": [
   "ins4.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:wizard",
   "tag:mixtex",
   "tag:traps",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:res"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -24,5 +25,9 @@
    "size": 1850092,
    "timestamp": "1997-03-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ins4.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7be975cef6a2dc758c387e55c2dfb5f34555477ad47024afac8f4e6ff590cf2f/ins4.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1333ccba32a227ffa0b05ca5e8b0ea45",
+ "sha256": "28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb",
  "filename": [
   "middle.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:evasion",
   "tag:stealth",
   "tag:textures",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:med"
  ],
  "install": {
   "extract": "{quake}/middle/"
@@ -31,5 +32,9 @@
    "size": 1771,
    "timestamp": "1997-11-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/middle.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb/middle.zip"
+ ]
 }

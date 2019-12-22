@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "481f92f4ed1f9bab6a98cd961d82791c",
+ "sha256": "8a3d7582afe6d33bceb5592a9812cbd43da76d6871f864f7c23d1ab9863245fa",
  "filename": [
   "gotshun-never-released_levels.zip"
  ],
@@ -20,7 +20,8 @@
   "tag:base",
   "tag:runic",
   "tag:oldschool",
-  "dependency:hipnotic"
+  "dependency:hipnotic",
+  "startmap:q1map1"
  ],
  "install": {
   "extract": "{quake}/hipnotic\\maps\\"
@@ -94,5 +95,9 @@
    "size": 2315,
    "timestamp": "2016-11-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/gotshun-never-released_levels.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8a3d7582afe6d33bceb5592a9812cbd43da76d6871f864f7c23d1ab9863245fa/gotshun-never-released_levels.zip"
+ ]
 }

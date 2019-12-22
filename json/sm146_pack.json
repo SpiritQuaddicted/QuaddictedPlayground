@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d1d343c07a2f3bcee950f7644f034c5c",
+ "sha256": "a0c3626775726d51a655dc2222baf825ec1efdbfe7ed321c7a6f1abd1999c2c8",
  "filename": [
   "sm146_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 146 - Vondur's Iceberg",
   "author:lurker",
   "author:Spirit",
-  "author:st3ady"
+  "author:st3ady",
+  "startmap:sm146_lurker",
+  "startmap:sm146_spirit",
+  "startmap:sm146_st3ady"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +35,9 @@
    "size": 1275,
    "timestamp": "2008-11-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm146_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a0c3626775726d51a655dc2222baf825ec1efdbfe7ed321c7a6f1abd1999c2c8/sm146_pack.zip"
+ ]
 }

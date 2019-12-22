@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "605cbdb0703fcd68d11f377e5f0aa320",
+ "sha256": "7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b",
  "filename": [
   "xl2.zip"
  ],
@@ -16,7 +16,9 @@
   "tag:fortress",
   "tag:citadel",
   "tag:start",
-  "tag:limits"
+  "tag:limits",
+  "startmap:xl2",
+  "startmap:xl2m1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -46,5 +48,9 @@
    "size": 3708812,
    "timestamp": "2017-12-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/xl2.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b/xl2.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "98c16aa7cac4d04b57dd33b2dd974099",
+ "sha256": "51c39a4723c82c53a8386fde62781526a8b94ab1d4aee0bcdf757dcc9cc5fc51",
  "filename": [
   "nightjourney_v2.zip"
  ],
@@ -19,7 +19,8 @@
   "tag:doe",
   "tag:start",
   "tag:unfinished",
-  "dependency:rogue"
+  "dependency:rogue",
+  "startmap:njstart"
  ],
  "install": {
   "extract": "{quake}/"
@@ -41,5 +42,9 @@
    "size": 17063,
    "timestamp": "2002-04-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/nightjourney_v2.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/51c39a4723c82c53a8386fde62781526a8b94ab1d4aee0bcdf757dcc9cc5fc51/nightjourney_v2.zip"
+ ]
 }

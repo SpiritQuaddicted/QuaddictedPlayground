@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "126c866a88d3a6130c553ef52fc3bcfd",
+ "sha256": "8e5c3633a1fe3607503673a49c2b57469f5d00c61f6909d830d8c73b3bf1bf33",
  "filename": [
   "sm195_pack.zip"
  ],
@@ -14,7 +14,14 @@
   "author:Pinchy",
   "author:Sankyou",
   "author:Yoder",
-  "author:Zungryware"
+  "author:Zungryware",
+  "startmap:sm195_artistical",
+  "startmap:sm195_fairweather",
+  "startmap:sm195_ing",
+  "startmap:sm195_pinchy",
+  "startmap:sm195_sankyou",
+  "startmap:sm195_yoder",
+  "startmap:sm195_zungryware"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -132,5 +139,9 @@
    "size": 553853,
    "timestamp": "2019-05-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm195_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8e5c3633a1fe3607503673a49c2b57469f5d00c61f6909d830d8c73b3bf1bf33/sm195_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c4e4686cc29e176cb4ca17c139794509",
+ "sha256": "5eaa0422c6d0caf5b7f8ccfc8967513db5088a3f3ca7f9a6b1148532c4596b2c",
  "filename": [
   "coagula2_flesh.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:metal",
   "tag:space map",
   "tag:small",
-  "tag:void"
+  "tag:void",
+  "startmap:coagula2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 319,
    "timestamp": "2009-04-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/coagula2_flesh.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5eaa0422c6d0caf5b7f8ccfc8967513db5088a3f3ca7f9a6b1148532c4596b2c/coagula2_flesh.zip"
+ ]
 }

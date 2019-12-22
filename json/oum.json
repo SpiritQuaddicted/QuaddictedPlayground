@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "93c8591e4f53e34aa867ef11eaeaf6ca",
+ "sha256": "7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f",
  "filename": [
   "oum.zip"
  ],
@@ -18,7 +18,8 @@
   "tag:obtex",
   "tag:temple",
   "tag:mustplay",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/oum/"
@@ -32,5 +33,9 @@
    "size": 25844961,
    "timestamp": "2001-07-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/oum.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f/oum.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "165d33b1dcb9d77c9c8d8d92c8b145dd",
+ "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "filename": [
   "anaconda.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:boss",
   "tag:wizard",
   "tag:underground",
-  "tag:cave"
+  "tag:cave",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/anaconda/"
@@ -31,5 +32,9 @@
    "size": 1784012,
    "timestamp": "1997-04-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/anaconda.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42/anaconda.zip"
+ ]
 }

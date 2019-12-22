@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1e287db19bb62d2c601e8db3a53fba7f",
+ "sha256": "c53a92180f58d643cc4cdb06d81f2006575e92891fde19a3bfcf8f1f6d570777",
  "filename": [
   "tdk11.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:fantasy",
   "tag:puzzles",
   "tag:episode",
-  "tag:hub"
+  "tag:hub",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/tdk/"
@@ -43,5 +44,9 @@
    "size": 2147,
    "timestamp": "1997-09-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tdk11.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c53a92180f58d643cc4cdb06d81f2006575e92891fde19a3bfcf8f1f6d570777/tdk11.zip"
+ ]
 }

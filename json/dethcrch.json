@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "613de757740ab5ad2b847cb3210ed66a",
+ "sha256": "14272f4ef5bf9cd0e769ba30d9d1c280434711509908f9040fe63256886d51de",
  "filename": [
   "dethcrch.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:small",
   "tag:church",
   "tag:start",
-  "tag:tricks"
+  "tag:tricks",
+  "startmap:setskill"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -36,5 +37,9 @@
    "size": 253636,
    "timestamp": "1997-02-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dethcrch.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/14272f4ef5bf9cd0e769ba30d9d1c280434711509908f9040fe63256886d51de/dethcrch.zip"
+ ]
 }

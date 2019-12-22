@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "09b2efabcf13cc53337046544311795d",
+ "sha256": "43a5498a8d34091a29d56bd4d75dbf9f477900b1c2ffd3db8332ea642d558c51",
  "filename": [
   "gl4fify2.zip"
  ],
@@ -10,7 +10,8 @@
   "title:REoL TOUGH: Fortress! (watervised)",
   "author:George J. Fiffy II",
   "tag:small",
-  "tag:wizard"
+  "tag:wizard",
+  "startmap:fiffy2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -36,5 +37,9 @@
    "size": 896,
    "timestamp": "1997-02-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/gl4fify2.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/43a5498a8d34091a29d56bd4d75dbf9f477900b1c2ffd3db8332ea642d558c51/gl4fify2.zip"
+ ]
 }

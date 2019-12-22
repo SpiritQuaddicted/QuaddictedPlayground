@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8e03d6c9202136c89d99707ab97a1020",
+ "sha256": "292e2c2f8ecbc58c0cd3ba24192e6cea93cda099331a38eda2aa18a15482ca28",
  "filename": [
   "1000cuts1a.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:nonlinear",
   "tag:super secret",
   "tag:skybox",
-  "tag:fs"
+  "tag:fs",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/1000cuts/"
@@ -32,5 +33,9 @@
    "size": 389691,
    "timestamp": "2014-08-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/1000cuts1a.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/292e2c2f8ecbc58c0cd3ba24192e6cea93cda099331a38eda2aa18a15482ca28/1000cuts1a.zip"
+ ]
 }

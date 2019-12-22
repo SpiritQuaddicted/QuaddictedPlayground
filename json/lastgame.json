@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f0ec37d3b4c7f0d40c6362b23d66b61c",
+ "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "filename": [
   "lastgame.zip"
  ],
@@ -10,7 +10,8 @@
   "title:The last game",
   "author:J.F.Gustafsson",
   "tag:traps",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/lastgame/"
@@ -32,5 +33,9 @@
    "size": 3202093,
    "timestamp": "1998-01-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/lastgame.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f/lastgame.zip"
+ ]
 }

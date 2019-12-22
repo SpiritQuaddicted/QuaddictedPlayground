@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "656495fc99aacc660565548ddc452325",
+ "sha256": "7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c",
  "filename": [
   "ivory1b.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:mines",
   "tag:source",
   "tag:rocks",
-  "tag:limits"
+  "tag:limits",
+  "startmap:ivory"
  ],
  "install": {
   "extract": "{quake}/ivory/"
@@ -34,5 +35,9 @@
    "size": 194557,
    "timestamp": "2013-09-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ivory1b.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c/ivory1b.zip"
+ ]
 }

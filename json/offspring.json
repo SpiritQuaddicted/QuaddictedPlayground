@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "758bdf51b415f6ff9ec4aede6f651850",
+ "sha256": "487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074",
  "filename": [
   "offspring.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:traps",
   "tag:textures",
   "tag:boss",
-  "tag:armagon"
+  "tag:armagon",
+  "startmap:off"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -29,5 +30,9 @@
    "size": 1268888,
    "timestamp": "1997-04-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/offspring.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074/offspring.zip"
+ ]
 }

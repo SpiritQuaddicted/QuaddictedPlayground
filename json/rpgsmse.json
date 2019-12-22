@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "60382c3c5f8a415881d4484d8b1f1245",
+ "sha256": "b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69",
  "filename": [
   "rpgsmse.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:episode",
   "tag:small",
   "tag:speedmapping",
-  "tag:qtwid"
+  "tag:qtwid",
+  "startmap:rpgsmse1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -42,5 +43,9 @@
    "size": 734312,
    "timestamp": "2004-01-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rpgsmse.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69/rpgsmse.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f81707f716288a2cc90b63e7e25692d2",
+ "sha256": "cf31cf7a06a49e6c41712cbc55c87d37da5997833b8a66cf820c3ce215c30b29",
  "filename": [
   "sm20_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:FrikaC",
   "author:Gibbie",
   "author:Mystery8",
-  "author:Vigil"
+  "author:Vigil",
+  "startmap:sm20_frik",
+  "startmap:sm20_gib",
+  "startmap:sm20_vig",
+  "startmap:sm20_mystery8",
+  "startmap:sm20_ap",
+  "startmap:sm20_amrik"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +53,9 @@
    "size": 341452,
    "timestamp": "2001-06-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm20_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cf31cf7a06a49e6c41712cbc55c87d37da5997833b8a66cf820c3ce215c30b29/sm20_pack.zip"
+ ]
 }

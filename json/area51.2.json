@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "33edb26fa234b0014f2da1cfe9129012",
+ "sha256": "c300e8a65a54fe2c58ec00537a1a66793c0097c229735ce683601e0c8ec371b9",
  "filename": [
   "area51.2.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:textures",
   "tag:alien",
   "tag:grey",
-  "tag:exploration"
+  "tag:exploration",
+  "startmap:level_1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +38,9 @@
    "size": 1261564,
    "timestamp": "1997-11-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/area51.2.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c300e8a65a54fe2c58ec00537a1a66793c0097c229735ce683601e0c8ec371b9/area51.2.zip"
+ ]
 }

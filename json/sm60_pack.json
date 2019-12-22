@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ea0d484fbec701f8f62f8dc4384f7fed",
+ "sha256": "f1f0e87357cff56975d175bdcf3a08b0e25f6d4e8cbdafa40ea1a46283227e0b",
  "filename": [
   "sm60_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Gleeb",
   "author:metlslime",
   "author:Xen",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm60_metl",
+  "startmap:sm60_xen",
+  "startmap:sm60_zwiffle",
+  "startmap:sm60_gleeb"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 432528,
    "timestamp": "2003-12-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm60_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f1f0e87357cff56975d175bdcf3a08b0e25f6d4e8cbdafa40ea1a46283227e0b/sm60_pack.zip"
+ ]
 }

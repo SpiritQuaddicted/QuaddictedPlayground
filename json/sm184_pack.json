@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "14df28f0e54d3d119ed83f05bc308a4c",
+ "sha256": "4484b2ac29b485dbf6b3444702a7b02dc6795c09a6297ae16e53fa9f71c5475d",
  "filename": [
   "sm184_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Artistical",
   "author:Breezeep",
   "author:JCR",
-  "author:negke"
+  "author:negke",
+  "startmap:sm184_artistical",
+  "startmap:sm184_breezeep",
+  "startmap:sm184_jcr",
+  "startmap:sm184_shambler"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -137,5 +141,9 @@
    "size": 1711,
    "timestamp": "2018-07-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm184_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4484b2ac29b485dbf6b3444702a7b02dc6795c09a6297ae16e53fa9f71c5475d/sm184_pack.zip"
+ ]
 }

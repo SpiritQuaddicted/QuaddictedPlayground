@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0f60361eee2826de56f975c9dec87330",
+ "sha256": "2f079c551e48159d147b8f06f9d88c32675fa028a9537d69c00aaaf96a63c91d",
  "filename": [
   "kill.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:city",
   "tag:realism",
-  "tag:duke nukem"
+  "tag:duke nukem",
+  "startmap:kill"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 2715,
    "timestamp": "2001-07-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/kill.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2f079c551e48159d147b8f06f9d88c32675fa028a9537d69c00aaaf96a63c91d/kill.zip"
+ ]
 }

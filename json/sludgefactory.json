@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "20f84624ba3517d88bd3a491ca0ffde4",
+ "sha256": "90484533aa6757a57c0428af18c780ad66ba6b2dc7b16023849e0a4d30575a28",
  "filename": [
   "sludgefactory.zip"
  ],
@@ -20,7 +20,9 @@
   "tag:open",
   "tag:hard",
   "tag:hordes",
-  "dependency:drake"
+  "dependency:drake",
+  "startmap:sludge1",
+  "startmap:sludge2"
  ],
  "install": {
   "extract": "{quake}/drake/maps/"
@@ -38,5 +40,9 @@
    "size": 7796380,
    "timestamp": "2011-03-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sludgefactory.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/90484533aa6757a57c0428af18c780ad66ba6b2dc7b16023849e0a4d30575a28/sludgefactory.zip"
+ ]
 }

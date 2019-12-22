@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1291e9813f0760dc28eea9676851480a",
+ "sha256": "c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6",
  "filename": [
   "fv.zip"
  ],
@@ -17,7 +17,9 @@
   "tag:turok",
   "tag:textures",
   "tag:music",
-  "dependency:quoth2pt2full_2"
+  "dependency:quoth2pt2full_2",
+  "startmap:fv",
+  "startmap:lostv"
  ],
  "install": {
   "extract": "{quake}/quoth/maps/"
@@ -55,5 +57,9 @@
    "size": 14004025,
    "timestamp": "2017-12-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/fv.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6/fv.zip"
+ ]
 }

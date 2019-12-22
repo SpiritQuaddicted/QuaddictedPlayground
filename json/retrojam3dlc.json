@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ed84698334fffb212d2ba5dded6aacfa",
+ "sha256": "b307355d76d077c6fc19b3c17129800cd976c370f80e27591ea40afd0f8008dc",
  "filename": [
   "retrojam3dlc.zip"
  ],
@@ -19,7 +19,10 @@
   "tag:medium",
   "tag:limits",
   "tag:source",
-  "tag:maze"
+  "tag:maze",
+  "startmap:retrojam3dlc_ionous",
+  "startmap:retrojam3dlc_negke",
+  "startmap:retrojam3dlc_skacky"
  ],
  "install": {
   "extract": "{quake}/retrojam3dlc"
@@ -97,5 +100,9 @@
    "size": 3519789,
    "timestamp": "2015-05-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/retrojam3dlc.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b307355d76d077c6fc19b3c17129800cd976c370f80e27591ea40afd0f8008dc/retrojam3dlc.zip"
+ ]
 }

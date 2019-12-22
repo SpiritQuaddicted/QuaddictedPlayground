@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e77da6bbfcca5a2e079c1ea137eb2fa6",
+ "sha256": "c7d37c19b532a211eb973565133e6fcdcb41ee283119cd7e8100340dc175a7cc",
  "filename": [
   "guncotton.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Shaun [Kona] Ross",
   "tag:base",
   "tag:custom",
-  "tag:quake2"
+  "tag:quake2",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -25,5 +26,9 @@
    "size": 2274,
    "timestamp": "2003-06-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/guncotton.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c7d37c19b532a211eb973565133e6fcdcb41ee283119cd7e8100340dc175a7cc/guncotton.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "fca4d1696692940f532ecd7c0e96646b",
+ "sha256": "d49063a85260aa32b8bc541942e0f80410413ae33d71a91f8d5f70aa413c079d",
  "filename": [
   "thtc.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:medium",
   "tag:castle",
   "tag:cave",
-  "tag:monsters"
+  "tag:monsters",
+  "startmap:TheHellThatsComing"
  ],
  "install": {
   "extract": "{quake}/thtc/"
@@ -64,5 +65,9 @@
    "size": 197,
    "timestamp": "2014-11-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/thtc.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d49063a85260aa32b8bc541942e0f80410413ae33d71a91f8d5f70aa413c079d/thtc.zip"
+ ]
 }

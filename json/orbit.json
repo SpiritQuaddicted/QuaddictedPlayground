@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0aeb2b24a6783b9ec79da91d75e7d134",
+ "sha256": "4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6",
  "filename": [
   "orbit.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:base",
   "tag:base1",
   "tag:outer base",
-  "tag:strogg"
+  "tag:strogg",
+  "startmap:test195"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -36,5 +37,9 @@
    "size": 1649,
    "timestamp": "2006-07-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/orbit.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6/orbit.zip"
+ ]
 }

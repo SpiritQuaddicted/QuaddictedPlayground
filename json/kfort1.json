@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "bf9cb1294bf8832d5d32dbf998f14b77",
+ "sha256": "fe8aa9b396cd454f698a627303233d7f5154bed4080742dc90461b38ff44b08a",
  "filename": [
   "kfort1.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:canyon",
   "tag:metal",
   "tag:wizard",
-  "tag:broken_injector"
+  "tag:broken_injector",
+  "startmap:fort2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 1188804,
    "timestamp": "1997-10-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/kfort1.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fe8aa9b396cd454f698a627303233d7f5154bed4080742dc90461b38ff44b08a/kfort1.zip"
+ ]
 }

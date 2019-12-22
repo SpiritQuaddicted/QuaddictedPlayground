@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7f412ba7d2958ade8d9f7c679ccd9830",
+ "sha256": "c9b7c8c78b0808972a2ca7055df3ba1898f8004d1cc34f09ae1f0f9042889a4e",
  "filename": [
   "dmc2.zip"
  ],
@@ -18,7 +18,12 @@
   "tag:metal",
   "tag:rubicon",
   "tag:sda",
-  "tag:dm"
+  "tag:dm",
+  "startmap:dmc2m1",
+  "startmap:dmc2m2",
+  "startmap:dmc2m3",
+  "startmap:dmc2m4",
+  "startmap:dmc2m5"
  ],
  "install": {
   "extract": "{quake}/id1/maps"
@@ -48,5 +53,9 @@
    "size": 1484876,
    "timestamp": "2011-05-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dmc2.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c9b7c8c78b0808972a2ca7055df3ba1898f8004d1cc34f09ae1f0f9042889a4e/dmc2.zip"
+ ]
 }

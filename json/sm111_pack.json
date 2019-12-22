@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ea987c4476ba0c8bd8651bb40ddd16ad",
+ "sha256": "b2ef6bc02bfca87bf6035f505ef9570da4cab8437f74259e2d4115176fdaa82e",
  "filename": [
   "sm111_pack.zip"
  ],
@@ -12,7 +12,13 @@
   "author:Hrimfaxi",
   "author:negke",
   "author:Trinca",
-  "author:Spirit"
+  "author:Spirit",
+  "startmap:sm111_drew",
+  "startmap:sm110_trinca",
+  "startmap:sm111_trinca",
+  "startmap:sm111_spirit",
+  "startmap:sm111_neg!ke",
+  "startmap:sm111_hrim"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -46,5 +52,9 @@
    "size": 455768,
    "timestamp": "2005-11-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm111_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b2ef6bc02bfca87bf6035f505ef9570da4cab8437f74259e2d4115176fdaa82e/sm111_pack.zip"
+ ]
 }

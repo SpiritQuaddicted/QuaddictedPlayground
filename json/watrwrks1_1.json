@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6e4e6c7f1ac7b22d00fca87fd980a6b0",
+ "sha256": "6472a73662e1c5a651e23cf5df589f02b2a6df28ea2349ed2c16752c3e3bef0c",
  "filename": [
   "watrwrks1_1.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:blue",
   "tag:medieval",
   "tag:bricks",
-  "tag:cistern"
+  "tag:cistern",
+  "startmap:watrwrks"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +28,9 @@
    "size": 2909,
    "timestamp": "1997-09-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/watrwrks1_1.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6472a73662e1c5a651e23cf5df589f02b2a6df28ea2349ed2c16752c3e3bef0c/watrwrks1_1.zip"
+ ]
 }

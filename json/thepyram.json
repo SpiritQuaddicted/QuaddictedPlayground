@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "cf308c34e37f2138bb73aecab2403985",
+ "sha256": "c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c",
  "filename": [
   "thepyram.zip"
  ],
@@ -10,7 +10,8 @@
   "title:The Pyramid",
   "author:Dann Thombs",
   "tag:pyramid",
-  "tag:small"
+  "tag:small",
+  "startmap:pyramid"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -32,5 +33,9 @@
    "size": 319,
    "timestamp": "2009-04-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/thepyram.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c/thepyram.zip"
+ ]
 }

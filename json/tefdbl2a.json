@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "52eff619ef8458abcd58b4256caf3306",
+ "sha256": "b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5",
  "filename": [
   "tefdbl2a.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:hipnotic",
   "tag:monsters",
   "tag:dinosaurs",
-  "dependency:hipnotic"
+  "dependency:hipnotic",
+  "startmap:tef_io"
  ],
  "install": {
   "extract": "{quake}/tefdb2a/"
@@ -33,5 +34,9 @@
    "size": 10646,
    "timestamp": "1997-05-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tefdbl2a.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5/tefdbl2a.zip"
+ ]
 }

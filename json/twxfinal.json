@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e09e610f0af4f0f264b9129903053010",
+ "sha256": "327e411d4ad66fcf98e47f1496f42a7b4b5daec828f98b4ef03b636b5cdc9b6e",
  "filename": [
   "twxfinal.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:monsters",
   "tag:christmas",
   "tag:unique",
-  "tag:winter"
+  "tag:winter",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/xmas/"
@@ -33,5 +34,9 @@
    "size": 5626,
    "timestamp": "1998-01-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/twxfinal.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/327e411d4ad66fcf98e47f1496f42a7b4b5daec828f98b4ef03b636b5cdc9b6e/twxfinal.zip"
+ ]
 }

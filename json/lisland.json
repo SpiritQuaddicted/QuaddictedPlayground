@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a0477086fce499ae11fca1e45075945e",
+ "sha256": "38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b",
  "filename": [
   "lisland.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:temple",
   "tag:start",
   "tag:boss",
-  "tag:dragon"
+  "tag:dragon",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/lisland/"
@@ -28,5 +29,9 @@
    "size": 1487,
    "timestamp": "1998-01-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/lisland.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b/lisland.zip"
+ ]
 }

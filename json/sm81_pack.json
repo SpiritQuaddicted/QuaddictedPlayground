@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6d8e1ee6110fc40684c9dd561cfd5091",
+ "sha256": "e97055b7df1972ee417c36a66a63dac3d143bd4073329d88bf46a3566a85d4e7",
  "filename": [
   "sm81_pack.zip"
  ],
@@ -12,7 +12,11 @@
   "author:Speedy",
   "author:Starbuck",
   "author:Zwiffle",
-  "tag:spd"
+  "tag:spd",
+  "startmap:sm81_starbuck",
+  "startmap:sm81_speedy",
+  "startmap:sm81_paintyj",
+  "startmap:sm81_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -38,5 +42,9 @@
    "size": 1570048,
    "timestamp": "2004-06-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm81_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e97055b7df1972ee417c36a66a63dac3d143bd4073329d88bf46a3566a85d4e7/sm81_pack.zip"
+ ]
 }

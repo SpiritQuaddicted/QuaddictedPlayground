@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "da654d07584b25236a59e984bfdb3cf3",
+ "sha256": "636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f",
  "filename": [
   "trincasp3.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:start",
   "tag:boss",
   "tag:armagon",
-  "tag:source"
+  "tag:source",
+  "startmap:trsp3st"
  ],
  "install": {
   "extract": "{quake}/trsp3/"
@@ -41,5 +42,9 @@
    "size": 11298992,
    "timestamp": "2006-07-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/trincasp3.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f/trincasp3.zip"
+ ]
 }

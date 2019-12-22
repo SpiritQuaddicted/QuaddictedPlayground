@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a38fd732d3dcc9ebd9d737a6c019f388",
+ "sha256": "549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b",
  "filename": [
   "prodigy_se.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:medium",
   "tag:metal",
   "tag:textures",
-  "tag:music"
+  "tag:music",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/pse/"
@@ -31,5 +32,9 @@
    "size": 10527680,
    "timestamp": "1997-05-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/prodigy_se.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b/prodigy_se.zip"
+ ]
 }

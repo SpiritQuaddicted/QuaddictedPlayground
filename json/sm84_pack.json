@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a07f02c96e490dc5ba45178bef89d3d1",
+ "sha256": "40166dcbaa431b9d9360201a4ab1f64b3e9b7d964234b922724ea4fc7db4ec37",
  "filename": [
   "sm84_pack.zip"
  ],
@@ -12,7 +12,13 @@
   "author:Jacek",
   "author:Moz",
   "author:BlackPope",
-  "author:Scampie"
+  "author:Scampie",
+  "startmap:sm84_jacek",
+  "startmap:sm84_jacek2",
+  "startmap:sm84_frik",
+  "startmap:sm84_scampie",
+  "startmap:sm84_pope",
+  "startmap:sm84_moz"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -46,5 +52,9 @@
    "size": 410248,
    "timestamp": "2004-03-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm84_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/40166dcbaa431b9d9360201a4ab1f64b3e9b7d964234b922724ea4fc7db4ec37/sm84_pack.zip"
+ ]
 }

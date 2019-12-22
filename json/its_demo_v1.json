@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "55a673210593e05f88bcc93565f275de",
+ "sha256": "831806d2a176f4e2d48769c5e07859ad0059cd5d15c12c12e5e84e902357983e",
  "filename": [
   "its_demo_v1.zip"
  ],
@@ -20,7 +20,10 @@
   "tag:story",
   "tag:medieval",
   "tag:remake",
-  "tag:unique"
+  "tag:unique",
+  "startmap:start",
+  "startmap:s1m1",
+  "startmap:s1m2"
  ],
  "install": {
   "extract": "{quake}/shadows/"
@@ -34,5 +37,9 @@
    "size": 30400821,
    "timestamp": "2012-12-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/its_demo_v1.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/831806d2a176f4e2d48769c5e07859ad0059cd5d15c12c12e5e84e902357983e/its_demo_v1.zip"
+ ]
 }

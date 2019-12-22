@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d8e16ac5058823d80ff7b56352783d55",
+ "sha256": "62d64eccd0ca92bc58b2bbecbf46d3045322669a4b28eb60815c40d9e8a3ef75",
  "filename": [
   "sm196_pack.zip"
  ],
@@ -15,7 +15,15 @@
   "author:Ing-Ing",
   "author:Muk",
   "author:Pinchy",
-  "author:Yoder"
+  "author:Yoder",
+  "startmap:sm196_artistical",
+  "startmap:sm196_danz",
+  "startmap:sm196_fairweather",
+  "startmap:sm196_hcm",
+  "startmap:sm196_ing",
+  "startmap:sm196_muk",
+  "startmap:sm196_pinchy",
+  "startmap:sm196_yoder"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -113,5 +121,9 @@
    "size": 1882,
    "timestamp": "2019-05-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm196_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/62d64eccd0ca92bc58b2bbecbf46d3045322669a4b28eb60815c40d9e8a3ef75/sm196_pack.zip"
+ ]
 }

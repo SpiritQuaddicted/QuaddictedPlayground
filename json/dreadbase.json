@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c53ae5d3b015c30519c607d2e182f0f7",
+ "sha256": "4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766",
  "filename": [
   "dreadbase.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:base",
   "tag:doom",
   "tag:source",
-  "tag:textures"
+  "tag:textures",
+  "startmap:dreadbase_fix1"
  ],
  "install": {
   "extract": "{quake}//"
@@ -39,5 +40,9 @@
    "size": 1609557,
    "timestamp": "2018-04-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dreadbase.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766/dreadbase.zip"
+ ]
 }

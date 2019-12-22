@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b4e0ac689d27bf1f9151662ea26eacdc",
+ "sha256": "cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174",
  "filename": [
   "kinn_marcher.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:classic",
   "tag:mustplay",
   "tag:hordes",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:marcher"
  ],
  "install": {
   "extract": "{quake}/"
@@ -46,5 +47,9 @@
    "size": 452608,
    "timestamp": "2005-01-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/kinn_marcher.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174/kinn_marcher.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8d2d5794a683a8c5a171f954ce09020c",
+ "sha256": "263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d",
  "filename": [
   "mymap.zip"
  ],
@@ -11,7 +11,9 @@
   "author:Peter Bisseker (tiddles)",
   "tag:traps",
   "tag:medium",
-  "tag:metal"
+  "tag:metal",
+  "startmap:garrison",
+  "startmap:mymap"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -29,5 +31,9 @@
    "size": 902660,
    "timestamp": "1998-02-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/mymap.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d/mymap.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0c6726bf89d5c2bc01dbcfde29132113",
+ "sha256": "e26956cc75801591ce788eff603de82263e618b0c73e2a9c8fb2f87d3732561f",
  "filename": [
   "dm1-6sp.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:dm3",
   "tag:dm4",
   "tag:dm5",
-  "tag:dm6"
+  "tag:dm6",
+  "startmap:dm1sp"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -51,5 +52,9 @@
    "size": 1216232,
    "timestamp": "2003-08-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dm1-6sp.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e26956cc75801591ce788eff603de82263e618b0c73e2a9c8fb2f87d3732561f/dm1-6sp.zip"
+ ]
 }

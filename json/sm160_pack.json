@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d1bb4ec82ea8bf6eb8b61746e5e83a62",
+ "sha256": "285ff8506561117de0de4773edd7d04a339b7c24df1cc8e593cb9fbd51f6325f",
  "filename": [
   "sm160_pack.zip"
  ],
@@ -14,7 +14,15 @@
   "author:negke",
   "author:rj",
   "author:Shambler",
-  "tag:rubicon"
+  "tag:rubicon",
+  "startmap:sm160_alan",
+  "startmap:sm160_drew",
+  "startmap:sm160_drew2",
+  "startmap:sm160_hrim",
+  "startmap:sm160_negke",
+  "startmap:sm160_negke2",
+  "startmap:sm160_rj",
+  "startmap:sm160_shambler"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -56,5 +64,9 @@
    "size": 257328,
    "timestamp": "2010-03-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm160_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/285ff8506561117de0de4773edd7d04a339b7c24df1cc8e593cb9fbd51f6325f/sm160_pack.zip"
+ ]
 }

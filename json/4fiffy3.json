@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5ffe2a5f93f7f05c5a81c5b53348dafa",
+ "sha256": "716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9",
  "filename": [
   "4fiffy3.zip"
  ],
@@ -11,7 +11,8 @@
   "author:George J. Fiffy II",
   "tag:small",
   "tag:wizard",
-  "tag:traps"
+  "tag:traps",
+  "startmap:fiffy3"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +34,9 @@
    "size": 761,
    "timestamp": "1997-04-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/4fiffy3.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9/4fiffy3.zip"
+ ]
 }

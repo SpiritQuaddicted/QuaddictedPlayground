@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b0111e768a5164dbaccaf3463b31f2e4",
+ "sha256": "375be3a774579023f0f231ec79fe391a6fe369758318b9f28ca30b1b04ae277d",
  "filename": [
   "keyquest.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:wizard",
   "tag:source",
-  "tag:dm"
+  "tag:dm",
+  "startmap:yvon5"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -34,5 +35,9 @@
    "size": 713506,
    "timestamp": "1996-10-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/keyquest.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/375be3a774579023f0f231ec79fe391a6fe369758318b9f28ca30b1b04ae277d/keyquest.zip"
+ ]
 }

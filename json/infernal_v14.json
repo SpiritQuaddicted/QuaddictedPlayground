@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "53eb059efee7db59103c8a8ed1d4abf8",
+ "sha256": "904950f790f5cc997850e1e1e7bb9f4d1aa818906bd8bbf048a3b0ef5c0b88f5",
  "filename": [
   "infernal_v14.zip"
  ],
@@ -11,7 +11,8 @@
   "author:ubiquitous",
   "tag:mixtex",
   "tag:vertical",
-  "tag:small"
+  "tag:small",
+  "startmap:infernal"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -29,5 +30,9 @@
    "size": 2237,
    "timestamp": "2016-09-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/infernal_v14.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/904950f790f5cc997850e1e1e7bb9f4d1aa818906bd8bbf048a3b0ef5c0b88f5/infernal_v14.zip"
+ ]
 }

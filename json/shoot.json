@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "63f85727109c9a6997e02134c66a9fa3",
+ "sha256": "d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1",
  "filename": [
   "shoot.zip"
  ],
@@ -11,7 +11,8 @@
   "author:\u00c9tienne (Blood Man) B\u00e9gin",
   "tag:medieval",
   "tag:source",
-  "tag:tiny"
+  "tag:tiny",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/"
@@ -37,5 +38,9 @@
    "size": 34,
    "timestamp": "1997-12-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/shoot.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1/shoot.zip"
+ ]
 }

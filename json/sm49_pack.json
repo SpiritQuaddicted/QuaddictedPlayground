@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "eb7e52734f36fab61ca87ea6fb150bbf",
+ "sha256": "c6dad4ec20712c4348631d56f3b6ac97b90a365025782007f67b56036d153c2b",
  "filename": [
   "sm49_pack.zip"
  ],
@@ -18,7 +18,14 @@
   "tag:funny-bad",
   "tag:parody",
   "tag:hotdoh",
-  "tag:hotdog"
+  "tag:hotdog",
+  "startmap:sm49_daz",
+  "startmap:sm49_ewerd",
+  "startmap:sm49_harb",
+  "startmap:sm49_metl",
+  "startmap:sm49_ray",
+  "startmap:sm49_scampie",
+  "startmap:sm49_starbuck"
  ],
  "install": {
   "extract": "{quake}/"
@@ -56,5 +63,9 @@
    "size": 832660,
    "timestamp": "2003-09-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm49_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c6dad4ec20712c4348631d56f3b6ac97b90a365025782007f67b56036d153c2b/sm49_pack.zip"
+ ]
 }

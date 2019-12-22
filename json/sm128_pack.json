@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "83c254dc0471a86c270a42389a0fbff1",
+ "sha256": "ccfb69f809b2eb5d6baa74acd31327419384352b9e111d95ebc5f008611986d9",
  "filename": [
   "sm128_pack.zip"
  ],
@@ -9,7 +9,9 @@
  "tags": [
   "title:Speedmapping pack 128 - Building on a strange animal",
   "author:bambuz",
-  "author:negke"
+  "author:negke",
+  "startmap:sm128_generic",
+  "startmap:sm128_neg!ke"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +29,9 @@
    "size": 1243,
    "timestamp": "2006-10-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm128_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/ccfb69f809b2eb5d6baa74acd31327419384352b9e111d95ebc5f008611986d9/sm128_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "42722c04e747c91a7ae908626cc60478",
+ "sha256": "cfa0c3acc33713ef7ff1de0e81909cd02d3357d2a0e9a7d7c244f16e058901e1",
  "filename": [
   "frbdbase.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Juha Koiste",
   "tag:small",
   "tag:base",
-  "tag:dm"
+  "tag:dm",
+  "startmap:base"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 928016,
    "timestamp": "1997-02-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/frbdbase.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cfa0c3acc33713ef7ff1de0e81909cd02d3357d2a0e9a7d7c244f16e058901e1/frbdbase.zip"
+ ]
 }

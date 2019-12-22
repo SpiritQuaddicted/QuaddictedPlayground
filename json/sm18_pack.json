@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "de9eb6f29852de30ab56ceb4e7c16184",
+ "sha256": "da7e896136a37881bb06be3cddfa60a31affaa0270aebbd61c9bb754e5ac7d01",
  "filename": [
   "sm18_pack.zip"
  ],
@@ -12,7 +12,12 @@
   "author:Blitz",
   "author:Miikka",
   "author:Misyu",
-  "author:NaNe"
+  "author:NaNe",
+  "startmap:sm18_nane",
+  "startmap:sm18_blitz",
+  "startmap:sm18_bear",
+  "startmap:sm18_misyu",
+  "startmap:sm18_miikka"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -42,5 +47,9 @@
    "size": 448136,
    "timestamp": "2001-05-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm18_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/da7e896136a37881bb06be3cddfa60a31affaa0270aebbd61c9bb754e5ac7d01/sm18_pack.zip"
+ ]
 }

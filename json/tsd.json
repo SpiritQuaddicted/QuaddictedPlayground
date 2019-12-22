@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "bfa87b45e64d060fe6ecbe4401feb9b9",
+ "sha256": "a1b5066e8e570d4758606ab1a84a21c770808d4fbbaaf526f48ceeb7d127becb",
  "filename": [
   "tsd.zip"
  ],
@@ -18,7 +18,8 @@
   "tag:spacemap",
   "tag:void",
   "tag:textures",
-  "dependency:nehahra"
+  "dependency:nehahra",
+  "startmap:vxmas1"
  ],
  "install": {
   "extract": "{quake}/"
@@ -60,5 +61,9 @@
    "size": 896,
    "timestamp": "2010-05-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tsd.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a1b5066e8e570d4758606ab1a84a21c770808d4fbbaaf526f48ceeb7d127becb/tsd.zip"
+ ]
 }

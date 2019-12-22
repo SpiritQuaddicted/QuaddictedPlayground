@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "14df0d3ff8c535d87b1838c47532c891",
+ "sha256": "32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85",
  "filename": [
   "houstrps.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:wizard",
   "tag:traps",
   "tag:start",
-  "tag:old version"
+  "tag:old version",
+  "startmap:enterhot"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +32,9 @@
    "size": 5804,
    "timestamp": "1996-10-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/houstrps.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85/houstrps.zip"
+ ]
 }

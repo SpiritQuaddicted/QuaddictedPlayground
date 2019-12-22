@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "902c6fd964df355727680cd89d609f58",
+ "sha256": "0449672d5a04bca60bfd1d619eb49bdf7b02e64fe05acc9b5f3778f1cd800818",
  "filename": [
   "smqe08d_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:Lunaran",
   "author:Omus",
   "author:Spirit",
-  "author:sielwolf"
+  "author:sielwolf",
+  "startmap:smqe08d_adamllis",
+  "startmap:smqe08d_ht",
+  "startmap:smqe08d_lun",
+  "startmap:smqe08d_omus",
+  "startmap:smqe08d_spirit",
+  "startmap:smqe08d_sw"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -55,5 +61,9 @@
    "size": 91848,
    "timestamp": "2008-09-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/smqe08d_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0449672d5a04bca60bfd1d619eb49bdf7b02e64fe05acc9b5f3778f1cd800818/smqe08d_pack.zip"
+ ]
 }

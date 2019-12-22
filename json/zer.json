@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ec3f04be4994751d71b3574519be992d",
+ "sha256": "e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797",
  "filename": [
   "zer.zip"
  ],
@@ -21,7 +21,8 @@
   "tag:dark",
   "tag:cutscenes",
   "tag:base",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/zer/"
@@ -59,5 +60,9 @@
    "size": 11251,
    "timestamp": "1997-09-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/zer.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797/zer.zip"
+ ]
 }

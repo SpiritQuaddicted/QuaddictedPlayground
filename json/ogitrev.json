@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3f80ed3e8a821de03fac2ee339d28b2d",
+ "sha256": "849aeb90455a10199d9475c02651f1a6757821edddb0e9bec7078e13bf16ac50",
  "filename": [
   "ogitrev.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:gravity",
   "tag:sda",
   "tag:source",
-  "tag:speedrunning"
+  "tag:speedrunning",
+  "startmap:e1m8"
  ],
  "install": {
   "extract": "{quake}/ogitrev/"
@@ -33,5 +34,9 @@
    "size": 1408456,
    "timestamp": "2006-11-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ogitrev.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/849aeb90455a10199d9475c02651f1a6757821edddb0e9bec7078e13bf16ac50/ogitrev.zip"
+ ]
 }

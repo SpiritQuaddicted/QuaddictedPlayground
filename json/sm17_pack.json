@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "13d6a76a1f703c4f22508df585d8b946",
+ "sha256": "16f7a4c953643e20da73c94d007050b6d64c07f1c6e994c0c4162e034420b368",
  "filename": [
   "sm17_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Apollo",
   "author:Cybear",
   "author:NororiousRay",
-  "author:XeNoN"
+  "author:XeNoN",
+  "startmap:sm17_ray",
+  "startmap:sm17_bear",
+  "startmap:sm17_xenon",
+  "startmap:sm17_ap"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 322288,
    "timestamp": "2001-05-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm17_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/16f7a4c953643e20da73c94d007050b6d64c07f1c6e994c0c4162e034420b368/sm17_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d34893552d569098877820b456c162b1",
+ "sha256": "3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005",
  "filename": [
   "sm112_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:generic",
   "author:negke",
   "author:Trinca",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm112_trinca",
+  "startmap:sm112_neg!ke",
+  "startmap:sm111_generic",
+  "startmap:sm112_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 1389884,
    "timestamp": "2005-11-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm112_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005/sm112_pack.zip"
+ ]
 }

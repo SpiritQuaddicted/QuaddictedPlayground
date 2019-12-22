@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2cafb619b92ed5de2933e3a645df11e6",
+ "sha256": "859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51",
  "filename": [
   "prison.zip"
  ],
@@ -13,7 +13,9 @@
   "tag:metal",
   "tag:wizard",
   "tag:textures",
-  "tag:realism"
+  "tag:realism",
+  "startmap:swen",
+  "startmap:swen1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -35,5 +37,9 @@
    "size": 1725,
    "timestamp": "1996-11-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/prison.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51/prison.zip"
+ ]
 }

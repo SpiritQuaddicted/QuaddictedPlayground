@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "79cbc932f0eb7708180adfa932f40e27",
+ "sha256": "0774cb018b86b71728a94af18c41dd69dba0dfc371eec4cf73f25110117d1087",
  "filename": [
   "sm124_pack.zip"
  ],
@@ -9,7 +9,10 @@
  "tags": [
   "title:Speedmapping pack 124 - Spaceship",
   "author:bambuz",
-  "author:negke"
+  "author:negke",
+  "startmap:sm124_bam",
+  "startmap:sm124_neg!ke",
+  "startmap:sm124_neg!ke2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +34,9 @@
    "size": 428676,
    "timestamp": "2006-04-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm124_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0774cb018b86b71728a94af18c41dd69dba0dfc371eec4cf73f25110117d1087/sm124_pack.zip"
+ ]
 }

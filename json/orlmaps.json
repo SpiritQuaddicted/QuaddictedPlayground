@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "71b1354ef311c91d70096b4447b67178",
+ "sha256": "18bcb3fcd545b0f5c35c759572640733e3852f7137efb124061d8fc772a08740",
  "filename": [
   "orlmaps.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Orlmap episode",
   "author:ORL",
   "tag:medieval",
-  "tag:terracotta"
+  "tag:terracotta",
+  "startmap:orlmap4"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -60,5 +61,9 @@
    "size": 1931792,
    "timestamp": "2006-07-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/orlmaps.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/18bcb3fcd545b0f5c35c759572640733e3852f7137efb124061d8fc772a08740/orlmaps.zip"
+ ]
 }

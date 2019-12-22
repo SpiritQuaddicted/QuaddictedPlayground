@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e804791ad24dfb95ac5428f0eff64492",
+ "sha256": "45aa1dba3ccf1bcaa2de2840fac600f7195f9ba226d54c370f0e473cf02ec290",
  "filename": [
   "woa_kayne.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:large",
   "tag:vanilla",
   "tag:tomb",
-  "tag:sand"
+  "tag:sand",
+  "startmap:wrath_of_ahnki"
  ],
  "install": {
   "extract": "{quake}//"
@@ -67,5 +68,9 @@
    "size": 7277174,
    "timestamp": "2019-07-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/woa_kayne.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/45aa1dba3ccf1bcaa2de2840fac600f7195f9ba226d54c370f0e473cf02ec290/woa_kayne.zip"
+ ]
 }

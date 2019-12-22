@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9971b51daa5591f2daab8d56132208a7",
+ "sha256": "ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55",
  "filename": [
   "retrojam5.zip"
  ],
@@ -23,7 +23,14 @@
   "tag:e3m5",
   "tag:jam",
   "tag:source",
-  "tag:vertical"
+  "tag:vertical",
+  "startmap:retrojam5_breezeep",
+  "startmap:retrojam5_mjb",
+  "startmap:retrojam5_newhouse",
+  "startmap:retrojam5_qmaster",
+  "startmap:retrojam5_shambler",
+  "startmap:retrojam5_shamblernaut",
+  "startmap:retrojam5_tens"
  ],
  "install": {
   "extract": "{quake}/retrojam5/"
@@ -125,5 +132,9 @@
    "size": 902624,
    "timestamp": "2016-11-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/retrojam5.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55/retrojam5.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "4b3613ae6e94bcbdb84e10b211c7a102",
+ "sha256": "4a663d6c7d704732afc075d53ab33911e30c4edd0c4a64f965e087ec28d19b0c",
  "filename": [
   "sm133_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 133 - Machinery",
   "author:efdat",
   "author:negke",
-  "author:Spirit"
+  "author:Spirit",
+  "startmap:sm133_efdat",
+  "startmap:sm133_spirit",
+  "startmap:sm133_neg!ke"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +35,9 @@
    "size": 1305,
    "timestamp": "2007-04-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm133_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4a663d6c7d704732afc075d53ab33911e30c4edd0c4a64f965e087ec28d19b0c/sm133_pack.zip"
+ ]
 }

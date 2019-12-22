@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "cc84e0cdde0b369b0a321f9bd9bf22e0",
+ "sha256": "64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a",
  "filename": [
   "temple_e1.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:medium",
   "tag:temple",
   "tag:maya",
-  "tag:hexen2"
+  "tag:hexen2",
+  "startmap:e1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 1117,
    "timestamp": "1999-01-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/temple_e1.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a/temple_e1.zip"
+ ]
 }

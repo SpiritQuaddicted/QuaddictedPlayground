@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8c2b5b915c6aa1180f0793fb094d6ae3",
+ "sha256": "ff2094af44f1921ce38532ad2c682caf9c789fe8d510a8937feb7cd94d52377f",
  "filename": [
   "mayard.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:medium",
   "tag:medieval",
   "tag:tricks",
-  "tag:traps"
+  "tag:traps",
+  "startmap:mayard"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -34,5 +35,9 @@
    "size": 5193,
    "timestamp": "1997-04-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/mayard.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/ff2094af44f1921ce38532ad2c682caf9c789fe8d510a8937feb7cd94d52377f/mayard.zip"
+ ]
 }

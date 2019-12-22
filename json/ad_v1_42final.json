@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6df800287a28324fce340e609700a8c4",
+ "sha256": "ae6b5ba831defd39a69f8929a0dee629a622d66435f929d74fda0e2d07cff4f6",
  "filename": [
   "ad_v1_42final.zip"
  ],
@@ -29,7 +29,30 @@
   "tag:episode",
   "tag:skybox",
   "tag:bsp2",
-  "tag:arcanedimensions"
+  "tag:arcanedimensions",
+  "startmap:start",
+  "startmap:ad_crucial",
+  "startmap:ad_dm1",
+  "startmap:ad_lavatomb",
+  "startmap:ad_mountain",
+  "startmap:ad_necrokeep",
+  "startmap:ad_obd",
+  "startmap:ad_swampy",
+  "startmap:ad_end",
+  "startmap:ad_dm5",
+  "startmap:ad_e2m7",
+  "startmap:start_test",
+  "startmap:ad_test1",
+  "startmap:ad_test2",
+  "startmap:ad_test3",
+  "startmap:ad_test4",
+  "startmap:ad_test5",
+  "startmap:ad_test6",
+  "startmap:ad_test7",
+  "startmap:ad_test8",
+  "startmap:ad_test9",
+  "startmap:ad_test10",
+  "startmap:ad_test11"
  ],
  "install": {
   "extract": "{quake}/ad/"
@@ -5299,5 +5322,9 @@
    "size": 34390,
    "timestamp": "2015-06-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_v1_42final.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/ae6b5ba831defd39a69f8929a0dee629a622d66435f929d74fda0e2d07cff4f6/ad_v1_42final.zip"
+ ]
 }

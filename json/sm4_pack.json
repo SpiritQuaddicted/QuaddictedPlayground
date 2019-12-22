@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e5bd5e1d073a3228e66d15acc099d840",
+ "sha256": "fec59e0f95e9d5aa0095f695041ef106ab14c3f4e18e04ce0b0f4fc5fb4568f8",
  "filename": [
   "sm4_pack.zip"
  ],
@@ -12,7 +12,11 @@
   "author:Cybear",
   "author:Aru",
   "author:XeNoN",
-  "tag:nomonsters"
+  "tag:nomonsters",
+  "startmap:sm4_xenon",
+  "startmap:sm4_vondur",
+  "startmap:Sm4_aru",
+  "startmap:sm4_bear"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -38,5 +42,9 @@
    "size": 159296,
    "timestamp": "2001-03-31"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm4_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fec59e0f95e9d5aa0095f695041ef106ab14c3f4e18e04ce0b0f4fc5fb4568f8/sm4_pack.zip"
+ ]
 }

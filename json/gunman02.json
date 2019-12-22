@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f25b25835ffa0b6b35c6e09df80d3888",
+ "sha256": "17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d",
  "filename": [
   "gunman02.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:brick",
   "tag:wizard",
   "tag:start",
-  "tag:puzzle"
+  "tag:puzzle",
+  "startmap:graveset"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -34,5 +35,9 @@
    "size": 1844028,
    "timestamp": "1998-11-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/gunman02.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d/gunman02.zip"
+ ]
 }

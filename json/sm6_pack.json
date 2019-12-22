@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "584a62ac61cd14063fb8ebf9d5516f2c",
+ "sha256": "e8665c2014cb5e018c8fc3b5028bcb83036f998e9b417533692052e90004c17a",
  "filename": [
   "sm6_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:Aardappel",
   "author:Vigil",
   "author:NorotiousRay",
-  "author:DaZ"
+  "author:DaZ",
+  "startmap:sm6_vondur",
+  "startmap:sm6_aard",
+  "startmap:sm6_ray",
+  "startmap:sm6_fern",
+  "startmap:sm6_daz",
+  "startmap:sm6_vigil"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +53,9 @@
    "size": 160180,
    "timestamp": "2001-04-07"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm6_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e8665c2014cb5e018c8fc3b5028bcb83036f998e9b417533692052e90004c17a/sm6_pack.zip"
+ ]
 }

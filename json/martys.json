@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "07c8d91ff6ed73a9b09c19234c0322b2",
+ "sha256": "d084d752d4bce81c6553d353765255a16902a07bf67f9f73b3e0028b415ecfaf",
  "filename": [
   "martys.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:hipnotic",
   "tag:episode",
   "tag:base",
-  "dependency:hipnotic"
+  "dependency:hipnotic",
+  "startmap:marty1"
  ],
  "install": {
   "extract": "{quake}/hipnotic/maps/"
@@ -48,5 +49,9 @@
    "size": 2123368,
    "timestamp": "1998-01-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/martys.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d084d752d4bce81c6553d353765255a16902a07bf67f9f73b3e0028b415ecfaf/martys.zip"
+ ]
 }

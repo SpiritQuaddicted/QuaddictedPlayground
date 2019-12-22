@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1bbd79309a4004c23d4018171a6099ec",
+ "sha256": "0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721",
  "filename": [
   "bbelief.zip"
  ],
@@ -20,7 +20,8 @@
   "tag:progs",
   "tag:boss",
   "tag:chthon",
-  "tag:dm"
+  "tag:dm",
+  "startmap:bbstart"
  ],
  "install": {
   "extract": "{quake}/bbelief/"
@@ -46,5 +47,9 @@
    "size": 16167,
    "timestamp": "1997-05-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bbelief.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721/bbelief.zip"
+ ]
 }

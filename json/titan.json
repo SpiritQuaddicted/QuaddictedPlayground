@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5325f0a8da37afde82827328b7236252",
+ "sha256": "be0ed43ebae518240ce70addaa00dd732bee82da312e1434b2f1d8aa9c19738e",
  "filename": [
   "titan.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:base",
   "tag:traps",
-  "tag:puzzles"
+  "tag:puzzles",
+  "startmap:ID_1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -22,5 +23,9 @@
    "size": 740724,
    "timestamp": "2000-04-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/titan.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/be0ed43ebae518240ce70addaa00dd732bee82da312e1434b2f1d8aa9c19738e/titan.zip"
+ ]
 }

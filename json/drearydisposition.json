@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "943a4585809a12cf159258697307476d",
+ "sha256": "775858e466e53fa141881f18ca333aac21cf6d0c70406bf506af41aae53c52ce",
  "filename": [
   "drearydisposition.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Dreary Disposition",
   "author:Albert van Zyl",
   "tag:large",
-  "tag:wizard"
+  "tag:wizard",
+  "startmap:drearydisposition_albert"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -28,5 +29,9 @@
    "size": 2310249,
    "timestamp": "2019-01-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/drearydisposition.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/775858e466e53fa141881f18ca333aac21cf6d0c70406bf506af41aae53c52ce/drearydisposition.zip"
+ ]
 }

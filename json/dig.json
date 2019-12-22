@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a931a53e96386e5826c96bca8885096b",
+ "sha256": "a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9",
  "filename": [
   "dig.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:small",
   "tag:base",
   "tag:mine",
-  "tag:monsters"
+  "tag:monsters",
+  "startmap:dig"
  ],
  "install": {
   "extract": "{quake}/dig/"
@@ -216,5 +217,9 @@
    "size": 303080,
    "timestamp": "2000-07-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dig.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9/dig.zip"
+ ]
 }

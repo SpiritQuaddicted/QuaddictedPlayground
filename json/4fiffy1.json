@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ae885af982b9697ed6b4b5b3c7527579",
+ "sha256": "4e5972612e5019228d594f5c56f3192b9b1a5e4b2ff298f7a53c5861ded49cab",
  "filename": [
   "4fiffy1.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:metal",
   "tag:runic",
-  "tag:dm"
+  "tag:dm",
+  "startmap:fiffy"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 851,
    "timestamp": "1996-12-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/4fiffy1.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4e5972612e5019228d594f5c56f3192b9b1a5e4b2ff298f7a53c5861ded49cab/4fiffy1.zip"
+ ]
 }

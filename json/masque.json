@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f06935126a98b09c21370ac8e305946a",
+ "sha256": "6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff",
  "filename": [
   "masque.zip"
  ],
@@ -16,7 +16,9 @@
   "tag:canyon",
   "tag:hipnotic",
   "tag:old version",
-  "dependency:hipnotic"
+  "dependency:hipnotic",
+  "startmap:masquestart",
+  "startmap:masque"
  ],
  "install": {
   "extract": "{quake}/masque/"
@@ -30,5 +32,9 @@
    "size": 4263,
    "timestamp": "2005-10-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/masque.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff/masque.zip"
+ ]
 }

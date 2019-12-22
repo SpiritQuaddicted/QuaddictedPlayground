@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6354dad49756727f3a1091e65e1d8d94",
+ "sha256": "0346be6c490ddd6f3cddaa1443557b2c9415ec97e4173a4d9755122092328839",
  "filename": [
   "abandon.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:abstract",
   "tag:huge",
   "tag:monsters",
-  "tag:exploration"
+  "tag:exploration",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/abandon/"
@@ -40,5 +41,9 @@
    "size": 8165,
    "timestamp": "2007-01-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/abandon.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0346be6c490ddd6f3cddaa1443557b2c9415ec97e4173a4d9755122092328839/abandon.zip"
+ ]
 }

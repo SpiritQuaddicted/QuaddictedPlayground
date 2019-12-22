@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "67deb51b6f9b4fa302dc630d9b4146f6",
+ "sha256": "78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591",
  "filename": [
   "rdefull.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:speedrunning",
   "tag:dinosaurs",
   "tag:chthon",
-  "tag:decon"
+  "tag:decon",
+  "startmap:rdstart"
  ],
  "install": {
   "extract": "{quake}/rde/"
@@ -31,5 +32,9 @@
    "size": 17567387,
    "timestamp": "1999-08-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rdefull.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/78a3ad271171a9e87784db1759e1b0f58278fce360d0adad7cec9dc1b1f19591/rdefull.zip"
+ ]
 }

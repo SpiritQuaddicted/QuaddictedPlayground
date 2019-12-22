@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7c83b3d1850eee34d8ec0666003a1352",
+ "sha256": "e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020",
  "filename": [
   "utah.zip"
  ],
@@ -18,7 +18,8 @@
   "tag:medieval",
   "tag:super secret",
   "tag:qtwid",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:death"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +33,9 @@
    "size": 1791152,
    "timestamp": "1997-04-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/utah.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020/utah.zip"
+ ]
 }

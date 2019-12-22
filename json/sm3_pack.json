@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "66cd1b4196788edd5943d976dfb37940",
+ "sha256": "eebcabef156c539b572b4f1fb9cd54d453b7f18c2365d38b20e7e87c577e7846",
  "filename": [
   "sm3_pack.zip"
  ],
@@ -14,7 +14,13 @@
   "author:Scampie",
   "author:Cybear",
   "author:Misyu",
-  "tag:nomonsters"
+  "tag:nomonsters",
+  "startmap:sm3_vigil",
+  "startmap:sm3_inane",
+  "startmap:sm3_ray",
+  "startmap:sm3_bear",
+  "startmap:sm3_scampie",
+  "startmap:sm3_misyu"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -48,5 +54,9 @@
    "size": 203672,
    "timestamp": "2001-03-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm3_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/eebcabef156c539b572b4f1fb9cd54d453b7f18c2365d38b20e7e87c577e7846/sm3_pack.zip"
+ ]
 }

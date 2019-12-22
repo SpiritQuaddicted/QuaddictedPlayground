@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8e167c4346d21a08eb02335e168e97ea",
+ "sha256": "06fac556f9eed6eeaef312c2979a4e54a219470bc7da771a5cbf15ef2a14b24c",
  "filename": [
   "grunt.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:huge",
   "tag:large",
   "tag:mixtex",
-  "tag:orange"
+  "tag:orange",
+  "startmap:grent368"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +33,9 @@
    "size": 4654536,
    "timestamp": "2006-07-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/grunt.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/06fac556f9eed6eeaef312c2979a4e54a219470bc7da771a5cbf15ef2a14b24c/grunt.zip"
+ ]
 }

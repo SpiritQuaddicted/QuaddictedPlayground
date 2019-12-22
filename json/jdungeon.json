@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "79bc740c1dbe9aa7c92dc74fea6099f5",
+ "sha256": "756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12",
  "filename": [
   "jdungeon.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:wizard",
   "tag:dm",
-  "tag:tiny"
+  "tag:tiny",
+  "startmap:dungeon"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 450464,
    "timestamp": "1997-02-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/jdungeon.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12/jdungeon.zip"
+ ]
 }

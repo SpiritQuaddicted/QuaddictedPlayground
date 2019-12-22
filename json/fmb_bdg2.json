@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "44a5eb59df64454bfabe53010ac006fe",
+ "sha256": "0746adb5822b5219b243727b33bb5aaa4c52840ea5893f8dd062b5bb3e82afa9",
  "filename": [
   "fmb_bdg2.zip"
  ],
@@ -21,7 +21,10 @@
   "tag:medieval",
   "tag:monsters",
   "tag:textures",
-  "tag:limits"
+  "tag:limits",
+  "startmap:start_____",
+  "startmap:middle_____",
+  "startmap:end_________"
  ],
  "install": {
   "extract": "{quake}/"
@@ -643,5 +646,9 @@
    "size": 1716,
    "timestamp": "1999-07-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/fmb_bdg2.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0746adb5822b5219b243727b33bb5aaa4c52840ea5893f8dd062b5bb3e82afa9/fmb_bdg2.zip"
+ ]
 }

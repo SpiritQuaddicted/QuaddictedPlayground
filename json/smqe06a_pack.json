@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2a4fefd6c6ff16c36cf462c3419f9fb8",
+ "sha256": "fd82a9e8d60f42c78183fbc8a2fc16c8368303ec2e102128a672fb03ac45c3ad",
  "filename": [
   "smqe06a_pack.zip"
  ],
@@ -9,7 +9,9 @@
  "tags": [
   "title:Speedmapping pack QExpo 2006 #1 - Ten years later",
   "author:negke",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:smqe06a_neg!ke",
+  "startmap:smqe06a_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +29,9 @@
    "size": 261616,
    "timestamp": "2006-07-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/smqe06a_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fd82a9e8d60f42c78183fbc8a2fc16c8368303ec2e102128a672fb03ac45c3ad/smqe06a_pack.zip"
+ ]
 }

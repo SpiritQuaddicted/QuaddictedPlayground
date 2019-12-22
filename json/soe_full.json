@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b3cd782d448fca891901db2b41d61045",
+ "sha256": "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673",
  "filename": [
   "soe_full.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:classic",
   "tag:dragon",
   "tag:highly recommend",
-  "tag:difficult"
+  "tag:difficult",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/soe/"
@@ -47,5 +48,9 @@
    "size": 8314988,
    "timestamp": "2002-03-31"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/soe_full.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673/soe_full.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "fdbfd0dcb0b248c25f8ba7a63498a626",
+ "sha256": "ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c",
  "filename": [
   "retrojam2.zip"
  ],
@@ -21,7 +21,10 @@
   "tag:wind tunnels",
   "tag:void",
   "tag:yellow",
-  "tag:mapjam"
+  "tag:mapjam",
+  "startmap:retrojam2_rickyt23",
+  "startmap:retrojam2_skacky",
+  "startmap:retrojam2_sock"
  ],
  "install": {
   "extract": "{quake}//retrojam2"
@@ -51,5 +54,9 @@
    "size": 2733,
    "timestamp": "2014-12-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/retrojam2.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c/retrojam2.zip"
+ ]
 }

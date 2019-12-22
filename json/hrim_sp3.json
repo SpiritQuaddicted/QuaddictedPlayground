@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "718b3991197e8a2771e8d6d3b0c097be",
+ "sha256": "ee1b19b4948e4294d09ff3da6d93a693bbf2e7e35174651f436ae36f5002b1a1",
  "filename": [
   "hrim_sp3.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:castle",
   "tag:needstoberatedexcellent",
   "tag:mustplay",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:breakstart"
  ],
  "install": {
   "extract": "{quake}/quoth/maps/"
@@ -35,5 +36,9 @@
    "size": 3676560,
    "timestamp": "2007-09-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/hrim_sp3.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ee1b19b4948e4294d09ff3da6d93a693bbf2e7e35174651f436ae36f5002b1a1/hrim_sp3.zip"
+ ]
 }

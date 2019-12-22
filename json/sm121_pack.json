@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "dcbb3f4167c6be3f9c3d614a6dc36f27",
+ "sha256": "0ba9d8c05f1b2e18828621c33293b6194e308389b5504d6fc6efc0048bbb7ee2",
  "filename": [
   "sm121_pack.zip"
  ],
@@ -10,7 +10,11 @@
   "title:Speedmapping pack 121 - Destruction",
   "author:generic",
   "author:negke",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm121_generic",
+  "startmap:sm121_zwiffle",
+  "startmap:sm120_neg!ke",
+  "startmap:sm121_neg!ke"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -36,5 +40,9 @@
    "size": 401596,
    "timestamp": "2006-03-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm121_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0ba9d8c05f1b2e18828621c33293b6194e308389b5504d6fc6efc0048bbb7ee2/sm121_pack.zip"
+ ]
 }

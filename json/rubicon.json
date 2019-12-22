@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0b3c964f782dd305ff7f5c9f2804dc7a",
+ "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "filename": [
   "rubicon.zip"
  ],
@@ -14,7 +14,10 @@
   "tag:rubicon",
   "tag:large",
   "tag:zelda secret",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:start",
+  "startmap:rubicon",
+  "startmap:eagle"
  ],
  "install": {
   "extract": "{quake}/rubicon/"
@@ -28,5 +31,9 @@
    "size": 6127401,
    "timestamp": "1998-02-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rubicon.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54/rubicon.zip"
+ ]
 }

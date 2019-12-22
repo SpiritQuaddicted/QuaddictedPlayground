@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e95f79d57cd673deb226e2e8203f0086",
+ "sha256": "cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a",
  "filename": [
   "sm44_pack.zip"
  ],
@@ -12,7 +12,10 @@
   "author:E-werd",
   "author:NotoriousRay",
   "author:Scampie",
-  "author:Starbuck"
+  "author:Starbuck",
+  "startmap:sm44_ewerd",
+  "startmap:sm44_ray",
+  "startmap:sm44_sb"
  ],
  "install": {
   "extract": "{quake}/"
@@ -42,5 +45,9 @@
    "size": 322588,
    "timestamp": "2003-08-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm44_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a/sm44_pack.zip"
+ ]
 }

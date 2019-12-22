@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a8d42ecfb939a1740ed1c0a33c64bbd5",
+ "sha256": "56d5b2bdbcf40b5cf13a74c117d34a5f563ad608287db8a52f0612832a42917d",
  "filename": [
   "pdq1sp1_c.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:base",
   "tag:linear",
-  "tag:crates"
+  "tag:crates",
+  "startmap:pdq1sp1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 150901,
    "timestamp": "2003-08-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/pdq1sp1_c.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/56d5b2bdbcf40b5cf13a74c117d34a5f563ad608287db8a52f0612832a42917d/pdq1sp1_c.zip"
+ ]
 }

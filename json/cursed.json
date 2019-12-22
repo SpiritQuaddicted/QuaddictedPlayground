@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b223ee1ed50a4728bb912c8d39ec304c",
+ "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
  "filename": [
   "cursed.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:small",
   "tag:story",
   "tag:dark",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:curse_st"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -39,5 +40,9 @@
    "size": 648220,
    "timestamp": "1999-10-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cursed.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f/cursed.zip"
+ ]
 }

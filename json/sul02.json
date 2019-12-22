@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ff43575e8d2ea40a473aabd4ca09f77e",
+ "sha256": "c3f8f50c4c7764214128a1cb2a12d838f10f9ae09639b5a277fc7077bdf84636",
  "filename": [
   "sul02.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:medium",
   "tag:wizard",
   "tag:exploration",
-  "tag:tricks"
+  "tag:tricks",
+  "startmap:sul2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 1216940,
    "timestamp": "2038-01-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sul02.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c3f8f50c4c7764214128a1cb2a12d838f10f9ae09639b5a277fc7077bdf84636/sul02.zip"
+ ]
 }

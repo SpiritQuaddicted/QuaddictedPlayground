@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "047c8e5b1a7893ca6710ab2b1e321b46",
+ "sha256": "eab69fe77b54bb7bad71d575986426671f1452496d08cb5f19e1eb221c8bc7a9",
  "filename": [
   "sm142_pack.zip"
  ],
@@ -13,7 +13,14 @@
   "author:Speedy",
   "author:Spirit",
   "author:Zwiffle",
-  "tag:spd"
+  "tag:spd",
+  "startmap:sm142_bam",
+  "startmap:sm142_bam2",
+  "startmap:sm142_negke",
+  "startmap:sm142_spd",
+  "startmap:sm142_spd2",
+  "startmap:sm142_spirit",
+  "startmap:sm142_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -67,5 +74,9 @@
    "size": 171376,
    "timestamp": "2008-05-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm142_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/eab69fe77b54bb7bad71d575986426671f1452496d08cb5f19e1eb221c8bc7a9/sm142_pack.zip"
+ ]
 }

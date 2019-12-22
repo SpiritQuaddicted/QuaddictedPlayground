@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e2b479b944d6dd97f6c459cae4cdaddc",
+ "sha256": "c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7",
  "filename": [
   "descent.zip"
  ],
@@ -21,7 +21,8 @@
   "tag:monsters",
   "tag:qwtid",
   "tag:qtwid",
-  "tag:recommend"
+  "tag:recommend",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/descent/"
@@ -43,5 +44,9 @@
    "size": 2615,
    "timestamp": "2000-03-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/descent.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7/descent.zip"
+ ]
 }

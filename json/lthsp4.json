@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "4a57d21a4aa88f119a5abe445ad4c80e",
+ "sha256": "36cce1bbc1aba6f645c8ce97f4b9b66362eb053b9d70e71926c04b61e81d3e6b",
  "filename": [
   "lthsp4.zip"
  ],
@@ -9,7 +9,8 @@
  "tags": [
   "title:Dark Days",
   "author:The Lieutenant",
-  "tag:series"
+  "tag:series",
+  "startmap:lthstart"
  ],
  "install": {
   "extract": "{quake}/lthsp4/"
@@ -67,5 +68,9 @@
    "size": 437472,
    "timestamp": "2001-02-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/lthsp4.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/36cce1bbc1aba6f645c8ce97f4b9b66362eb053b9d70e71926c04b61e81d3e6b/lthsp4.zip"
+ ]
 }

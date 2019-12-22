@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9fbd9b30c9b98d3eb53394c19b866f66",
+ "sha256": "21d33c8a494b6c569696e156f36ce43485c3ed1db4ae38f2f7722e71db83404b",
  "filename": [
   "func_mapjam9_2.zip"
  ],
@@ -39,7 +39,23 @@
   "tag:music",
   "tag:source",
   "tag:quake_awards_2018_winner",
-  "dependency:quoth2pt2full_2"
+  "dependency:quoth2pt2full_2",
+  "startmap:start",
+  "startmap:jam9_breezeep",
+  "startmap:jam9_dbear",
+  "startmap:jam9_dumptruck",
+  "startmap:jam9_giftmacher",
+  "startmap:jam9_haunter",
+  "startmap:jam9_ionous",
+  "startmap:jam9_kell",
+  "startmap:jam9_mjb",
+  "startmap:jam9_mukor",
+  "startmap:jam9_naitelveni",
+  "startmap:jam9_newhouse",
+  "startmap:jam9_otp",
+  "startmap:jam9_pulsar",
+  "startmap:jam9_shotro",
+  "startmap:jam9_skacky"
  ],
  "install": {
   "extract": "{quake}/jam9"
@@ -853,5 +869,9 @@
    "size": 308766,
    "timestamp": "2015-10-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam9_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/21d33c8a494b6c569696e156f36ce43485c3ed1db4ae38f2f7722e71db83404b/func_mapjam9_2.zip"
+ ]
 }

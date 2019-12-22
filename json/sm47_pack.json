@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8ec5086283ea8ff4f25b693d45b634e2",
+ "sha256": "63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a",
  "filename": [
   "sm47_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 47 - Unthemed",
   "author:Scampie",
   "author:Necros",
-  "author:Starbuck"
+  "author:Starbuck",
+  "startmap:sm47_scampie",
+  "startmap:sm47_starbuck",
+  "startmap:sm47_necros"
  ],
  "install": {
   "extract": "{quake}/"
@@ -36,5 +39,9 @@
    "size": 1026960,
    "timestamp": "2003-08-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm47_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a/sm47_pack.zip"
+ ]
 }

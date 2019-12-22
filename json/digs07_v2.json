@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "97ed941a4589804b8e46babc47e39aa4",
+ "sha256": "52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f",
  "filename": [
   "digs07_v2.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:idbase",
   "tag:large",
   "tag:boss",
-  "tag:unique"
+  "tag:unique",
+  "startmap:digs07"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +32,9 @@
    "size": 2023,
    "timestamp": "2014-02-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/digs07_v2.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f/digs07_v2.zip"
+ ]
 }

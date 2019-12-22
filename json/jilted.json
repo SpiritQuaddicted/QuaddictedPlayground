@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5f71c93fccaebc496935788b5e008a9b",
+ "sha256": "f7c86506271681044457414f7500157ca68023702a48d61c19225bc6b2c85364",
  "filename": [
   "jilted.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Bario",
   "tag:medium",
   "tag:wizard",
-  "tag:skins"
+  "tag:skins",
+  "startmap:bario2"
  ],
  "install": {
   "extract": "{quake}/bario/"
@@ -129,5 +130,9 @@
    "size": 28036,
    "timestamp": "1997-02-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/jilted.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f7c86506271681044457414f7500157ca68023702a48d61c19225bc6b2c85364/jilted.zip"
+ ]
 }

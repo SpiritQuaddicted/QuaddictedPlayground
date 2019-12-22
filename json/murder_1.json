@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f9cf17e5a9bddfa7cf4e4c91bb885899",
+ "sha256": "1ee2d0d4e2cc37fbf98fb250c17e9a1ce34bda24d088422f72daac0e9a7694df",
  "filename": [
   "murder_1.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:chapel",
   "tag:arena",
   "tag:tricks",
-  "tag:traps"
+  "tag:traps",
+  "startmap:murder1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +34,9 @@
    "size": 92,
    "timestamp": "1997-01-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/murder_1.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1ee2d0d4e2cc37fbf98fb250c17e9a1ce34bda24d088422f72daac0e9a7694df/murder_1.zip"
+ ]
 }

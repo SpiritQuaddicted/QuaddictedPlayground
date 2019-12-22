@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "31ffe42f13bd659a95c89edb0aefdd22",
+ "sha256": "c61e3b1a55e9e0d4e58224e23021a637a6833a2e63a4d3b9f7ce24819c63237e",
  "filename": [
   "lthsp2.zip"
  ],
@@ -11,7 +11,8 @@
   "author:The Lieutenant",
   "tag:series",
   "tag:rubicon",
-  "tag:ikbase"
+  "tag:ikbase",
+  "startmap:lthsp1"
  ],
  "install": {
   "extract": "{quake}/lthsp2/"
@@ -61,5 +62,9 @@
    "size": 2363,
    "timestamp": "2001-01-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/lthsp2.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c61e3b1a55e9e0d4e58224e23021a637a6833a2e63a4d3b9f7ce24819c63237e/lthsp2.zip"
+ ]
 }

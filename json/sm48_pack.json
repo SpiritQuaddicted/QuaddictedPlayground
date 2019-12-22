@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9a99e590a1f732b02dacad5242d1eb8f",
+ "sha256": "170d1f78fa5f6d17bf91a761c5a89659a4d75273cd8a87f4dc90c1e2f721258a",
  "filename": [
   "sm48_pack.zip"
  ],
@@ -17,7 +17,15 @@
   "author:Starbuck",
   "author:Xen",
   "tag:dm",
-  "tag:hotdog"
+  "tag:hotdog",
+  "startmap:sm48_crap",
+  "startmap:sm48_czg",
+  "startmap:sm48_daz",
+  "startmap:sm48_push",
+  "startmap:sm48_ray",
+  "startmap:sm48_scampie",
+  "startmap:sm48_starbuck",
+  "startmap:sm48_xen"
  ],
  "install": {
   "extract": "{quake}/"
@@ -59,5 +67,9 @@
    "size": 541356,
    "timestamp": "2003-09-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm48_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/170d1f78fa5f6d17bf91a761c5a89659a4d75273cd8a87f4dc90c1e2f721258a/sm48_pack.zip"
+ ]
 }

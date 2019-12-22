@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "78f78ba1485012b69aabfc8436af43e1",
+ "sha256": "f216d2b8320420712d6f7ce4da0e166942804aeff0220f8440b7e79a6d4b4ccd",
  "filename": [
   "deepness.zip"
  ],
@@ -19,7 +19,9 @@
   "tag:limits",
   "tag:disney",
   "tag:little mermaid",
-  "tag:start"
+  "tag:start",
+  "startmap:start",
+  "startmap:deepness"
  ],
  "install": {
   "extract": "{quake}//"
@@ -505,5 +507,9 @@
    "size": 112570,
    "timestamp": "2018-09-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/deepness.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f216d2b8320420712d6f7ce4da0e166942804aeff0220f8440b7e79a6d4b4ccd/deepness.zip"
+ ]
 }

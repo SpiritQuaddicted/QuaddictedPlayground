@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "386f11cbd39ea477fc2ae767f87e832d",
+ "sha256": "0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30",
  "filename": [
   "sul01.zip"
  ],
@@ -17,7 +17,9 @@
   "tag:puzzle",
   "tag:non linear",
   "tag:exploration",
-  "tag:traps"
+  "tag:traps",
+  "startmap:sul0",
+  "startmap:sul1"
  ],
  "install": {
   "extract": "{quake}/"
@@ -47,5 +49,9 @@
    "size": 319,
    "timestamp": "2009-04-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sul01.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30/sul01.zip"
+ ]
 }

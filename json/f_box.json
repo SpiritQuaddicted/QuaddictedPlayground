@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "34140a7870a9e295209430857a9e1fbc",
+ "sha256": "78a53eb035e7807c6eb59db7ee0fa44c5edb808f46a7294d4adab498044262c0",
  "filename": [
   "f_box.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Lukasxd",
   "tag:small",
   "tag:base",
-  "tag:outdoor"
+  "tag:outdoor",
+  "startmap:F_Box"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 2351,
    "timestamp": "2014-11-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/f_box.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/78a53eb035e7807c6eb59db7ee0fa44c5edb808f46a7294d4adab498044262c0/f_box.zip"
+ ]
 }

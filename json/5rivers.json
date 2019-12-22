@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "945f1df492331aa10e60b9404edcf611",
+ "sha256": "b074451982d1c8f860fcde4b2371af387fe237fec287681849087a3af602ff99",
  "filename": [
   "5rivers.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:dark",
   "tag:scary",
   "tag:unique",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:5rivers_e1"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -122,5 +123,9 @@
    "size": 786476,
    "timestamp": "2004-06-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/5rivers.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b074451982d1c8f860fcde4b2371af387fe237fec287681849087a3af602ff99/5rivers.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "4da9f2fbf0b44388c47919d1beac5e3c",
+ "sha256": "5cff8b7b6c59f7fec6480b31a02bb8c931fad40324e0203efb3946e44de90ee7",
  "filename": [
   "doom2_08.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:doom2",
   "tag:textures",
-  "tag:conversion"
+  "tag:conversion",
+  "startmap:08"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 1896536,
    "timestamp": "1997-04-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/doom2_08.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5cff8b7b6c59f7fec6480b31a02bb8c931fad40324e0203efb3946e44de90ee7/doom2_08.zip"
+ ]
 }

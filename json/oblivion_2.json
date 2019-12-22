@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0ea4a27f426e35b2d18c0f0bb846dbce",
+ "sha256": "60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a",
  "filename": [
   "oblivion_2.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Rich Carlson",
   "tag:void",
   "tag:space",
-  "tag:small"
+  "tag:small",
+  "startmap:oblivion"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 2886,
    "timestamp": "2004-11-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/oblivion_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a/oblivion_2.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ba7436c6e8e3c1fa3b5696939e9fb8e2",
+ "sha256": "76681a0219346bdeaba3810c0503c3ee48f85e09a39897412aa1ae93d783b6a6",
  "filename": [
   "jhhub6.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:traps",
   "tag:base",
   "tag:brick",
-  "tag:wizard"
+  "tag:wizard",
+  "startmap:mvroom6"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +34,9 @@
    "size": 642072,
    "timestamp": "1997-11-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/jhhub6.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/76681a0219346bdeaba3810c0503c3ee48f85e09a39897412aa1ae93d783b6a6/jhhub6.zip"
+ ]
 }

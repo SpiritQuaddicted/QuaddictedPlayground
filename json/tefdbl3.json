@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f13aeaf71126a1b5018a8bf57135f09f",
+ "sha256": "09cdcfffe130229d77f339c31557747411509218e9e16c478216f47ad46a7c28",
  "filename": [
   "tefdbl3.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:bosses",
   "tag:medium",
   "tag:monsters",
-  "tag:doe"
+  "tag:doe",
+  "startmap:tefhoa"
  ],
  "install": {
   "extract": "{quake}/tefdbl3/"
@@ -29,5 +30,9 @@
    "size": 5596480,
    "timestamp": "1997-10-31"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tefdbl3.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/09cdcfffe130229d77f339c31557747411509218e9e16c478216f47ad46a7c28/tefdbl3.zip"
+ ]
 }

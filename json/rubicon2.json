@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d385d88fbd95fe08df8501d6aa5e66fa",
+ "sha256": "349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c",
  "filename": [
   "rubicon2.zip"
  ],
@@ -16,7 +16,11 @@
   "tag:monsters",
   "tag:textures",
   "tag:industrial",
-  "tag:mustplay"
+  "tag:mustplay",
+  "startmap:start",
+  "startmap:rub2m1",
+  "startmap:rub2m2",
+  "startmap:rub2m3"
  ],
  "install": {
   "extract": "{quake}/rubicon2/"
@@ -30,5 +34,9 @@
    "size": 4241,
    "timestamp": "2011-02-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rubicon2.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c/rubicon2.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "98ea25d12016b69b7d37d927d5491776",
+ "sha256": "06ac059db0e9f479a521370cc4917b11db21affc859fc60075584c82b5d18680",
  "filename": [
   "hrim_sp2.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:quoth",
   "tag:space sky",
   "tag:medium",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:tris"
  ],
  "install": {
   "extract": "{quake}/quoth/maps/"
@@ -28,5 +29,9 @@
    "size": 5345,
    "timestamp": "2005-08-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/hrim_sp2.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/06ac059db0e9f479a521370cc4917b11db21affc859fc60075584c82b5d18680/hrim_sp2.zip"
+ ]
 }

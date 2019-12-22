@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1bd3ef97112dd46e03fa4381bc92c12a",
+ "sha256": "dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6",
  "filename": [
   "sm202.zip"
  ],
@@ -11,7 +11,16 @@
   "author:Cocerello",
   "author:ionous",
   "author:Greenwood",
-  "tag:dm"
+  "tag:dm",
+  "startmap:sm202_coce1v1",
+  "startmap:sm202_coce1v2",
+  "startmap:sm202_coce2v1",
+  "startmap:sm202_coce2v2",
+  "startmap:sm202_coce3v2",
+  "startmap:sm202_ionous",
+  "startmap:sm202_ionous_og",
+  "startmap:sm202_greenwood",
+  "startmap:Upright"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -117,5 +126,9 @@
    "size": 1469,
    "timestamp": "2019-09-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm202.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6/sm202.zip"
+ ]
 }

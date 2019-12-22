@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ee16f1e9989d16ece744bad93be4fa5e",
+ "sha256": "d0c7c70d846a83e3ede93cd6dd26b0f9103d7e6780d7099e389fe71157721333",
  "filename": [
   "ins1.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:traps",
   "tag:start map",
   "tag:episode",
-  "tag:non linear"
+  "tag:non linear",
+  "startmap:gate"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +33,9 @@
    "size": 1151448,
    "timestamp": "1996-11-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ins1.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d0c7c70d846a83e3ede93cd6dd26b0f9103d7e6780d7099e389fe71157721333/ins1.zip"
+ ]
 }

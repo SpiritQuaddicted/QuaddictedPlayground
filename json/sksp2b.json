@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "48277603b7f6c97d5ebaf814eaaa04ee",
+ "sha256": "e25311172222e0a7e5a4af26aaa0b96e219f566387f71201de70b62846521a8d",
  "filename": [
   "sksp2b.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:city",
   "tag:quoth",
   "tag:limits",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:sksp2"
  ],
  "install": {
   "extract": "{quake}/quoth/maps/"
@@ -38,5 +39,9 @@
    "size": 2973,
    "timestamp": "2014-01-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sksp2b.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e25311172222e0a7e5a4af26aaa0b96e219f566387f71201de70b62846521a8d/sksp2b.zip"
+ ]
 }

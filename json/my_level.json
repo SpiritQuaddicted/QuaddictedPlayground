@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "79fd2a59a6b30c0f1af0c62905d5b5a8",
+ "sha256": "2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff",
  "filename": [
   "my_level.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:realism",
   "tag:crates",
   "tag:mech",
-  "tag:submarine"
+  "tag:submarine",
+  "startmap:base"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -28,5 +29,9 @@
    "size": 3714648,
    "timestamp": "1998-03-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/my_level.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff/my_level.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7f85232a59c952cd49019bd1d1ba0180",
+ "sha256": "130c218720c374cd2fd0838431e7aef8341ff19a8bb41078a6215554c61e3983",
  "filename": [
   "sm23_pack.zip"
  ],
@@ -9,7 +9,11 @@
  "tags": [
   "title:Speedmapping pack 23",
   "author:Drew",
-  "tag:doom"
+  "tag:doom",
+  "startmap:sm23_jay1",
+  "startmap:sm23_jay2",
+  "startmap:sm23_jay3",
+  "startmap:sm23_jay4"
  ],
  "install": {
   "extract": "{quake}/"
@@ -35,5 +39,9 @@
    "size": 401320,
    "timestamp": "2001-06-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm23_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/130c218720c374cd2fd0838431e7aef8341ff19a8bb41078a6215554c61e3983/sm23_pack.zip"
+ ]
 }

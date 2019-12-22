@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ae324ba1687aea31a1cd366a6a977397",
+ "sha256": "dcbd88a01283b66b83b1449cb7463708a460b75bc7b04119ee8172cf230194e8",
  "filename": [
   "sm19_pack.zip"
  ],
@@ -14,7 +14,14 @@
   "author:Lunaran",
   "author:Miikka",
   "author:Misyu",
-  "author:XeNoN"
+  "author:XeNoN",
+  "startmap:sm19_misyu",
+  "startmap:sm19_xenon",
+  "startmap:sm19_lun",
+  "startmap:sm19_blitz",
+  "startmap:sm19_ap",
+  "startmap:sm19_miikka",
+  "startmap:sm19_daz"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -52,5 +59,9 @@
    "size": 727570,
    "timestamp": "2001-05-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm19_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dcbd88a01283b66b83b1449cb7463708a460b75bc7b04119ee8172cf230194e8/sm19_pack.zip"
+ ]
 }

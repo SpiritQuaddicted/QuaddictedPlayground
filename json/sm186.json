@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0af3385dde07c8a3db97950d9e29646e",
+ "sha256": "165d960f3188b502263fdcbbb87ca110b9ae0cafbfd05755b03dee62e9103416",
  "filename": [
   "sm186.zip"
  ],
@@ -22,7 +22,19 @@
   "author:Andrew Yoder",
   "tag:speedmap",
   "tag:medieval",
-  "tag:terracotta"
+  "tag:terracotta",
+  "startmap:sm186_danzadan",
+  "startmap:sm186_ing",
+  "startmap:sm186_ionous",
+  "startmap:sm186_ish",
+  "startmap:sm186_jcr",
+  "startmap:sm186_muk",
+  "startmap:sm186_newhouse",
+  "startmap:sm186_pinchy",
+  "startmap:sm186_prengle",
+  "startmap:sm186_sham",
+  "startmap:sm186_vaf",
+  "startmap:sm186_yoder"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -312,5 +324,9 @@
    "size": 1110310,
    "timestamp": "2018-08-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm186.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/165d960f3188b502263fdcbbb87ca110b9ae0cafbfd05755b03dee62e9103416/sm186.zip"
+ ]
 }

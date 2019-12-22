@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "21d692cc85fc8b3dc5968a0ca37d5ad4",
+ "sha256": "2643a299ea199e1030ae9039bbcb11eafced38c0560db5273a384af37fb9ac1f",
  "filename": [
   "in_ovo.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Jaromir Bergmann",
   "tag:metal",
   "tag:large",
-  "tag:base"
+  "tag:base",
+  "startmap:sg13"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -41,5 +42,9 @@
    "size": 1846360,
    "timestamp": "2004-09-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/in_ovo.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2643a299ea199e1030ae9039bbcb11eafced38c0560db5273a384af37fb9ac1f/in_ovo.zip"
+ ]
 }

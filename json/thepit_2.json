@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d904ef4a0959954296d2a103e54baef2",
+ "sha256": "98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b",
  "filename": [
   "thepit_2.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:half life",
   "tag:base",
   "tag:speedrunning",
-  "tag:dkt"
+  "tag:dkt",
+  "startmap:thepit"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 2464464,
    "timestamp": "2001-03-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/thepit_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b/thepit_2.zip"
+ ]
 }

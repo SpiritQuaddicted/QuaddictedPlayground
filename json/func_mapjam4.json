@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "beb0f78936fed87042c6988283af5eaf",
+ "sha256": "b16460addc43911788f7add9db2ce6d11e3947310daceafa9821472046567719",
  "filename": [
   "func_mapjam4.zip"
  ],
@@ -13,7 +13,9 @@
   "tag:gravity",
   "tag:runic",
   "tag:mapjam",
-  "tag:jam"
+  "tag:jam",
+  "startmap:jam4_fifth",
+  "startmap:jam4_rapowke"
  ],
  "install": {
   "extract": "{quake}/func_mapjam4/"
@@ -83,5 +85,9 @@
    "size": 1317536,
    "timestamp": "2015-02-01"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam4.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b16460addc43911788f7add9db2ce6d11e3947310daceafa9821472046567719/func_mapjam4.zip"
+ ]
 }

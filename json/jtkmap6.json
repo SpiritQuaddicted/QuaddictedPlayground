@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8cae887cb1c76f5860d3f7967d9083e9",
+ "sha256": "b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c",
  "filename": [
   "jtkmap6.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:temple",
   "tag:base",
   "tag:mix",
-  "tag:canyon"
+  "tag:canyon",
+  "startmap:area51"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +28,9 @@
    "size": 2626312,
    "timestamp": "1997-08-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/jtkmap6.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c/jtkmap6.zip"
+ ]
 }

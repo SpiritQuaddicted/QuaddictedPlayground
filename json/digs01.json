@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "17d3ba3d093bfe8f9a5a4d005bfc8a95",
+ "sha256": "ebafdee1e030a86e52d07b951b58c2a0bc01416415f6d738cad6032abddfd276",
  "filename": [
   "digs01.zip"
  ],
@@ -14,7 +14,16 @@
   "tag:episode",
   "tag:small",
   "tag:medium",
-  "tag:oldschool"
+  "tag:oldschool",
+  "startmap:start",
+  "startmap:d1",
+  "startmap:d2",
+  "startmap:d3",
+  "startmap:d4",
+  "startmap:d5",
+  "startmap:d6",
+  "startmap:d7",
+  "startmap:ds"
  ],
  "install": {
   "extract": "{quake}/digs01/"
@@ -32,5 +41,9 @@
    "size": 535,
    "timestamp": "2006-05-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/digs01.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ebafdee1e030a86e52d07b951b58c2a0bc01416415f6d738cad6032abddfd276/digs01.zip"
+ ]
 }

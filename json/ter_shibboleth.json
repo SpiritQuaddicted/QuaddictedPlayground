@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "26d1d968b202c572c6b647479b323642",
+ "sha256": "0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859",
  "filename": [
   "ter_shibboleth.zip"
  ],
@@ -28,7 +28,12 @@
   "tag:experimental",
   "tag:textures",
   "tag:source",
-  "tag:quake_awards_2018_winner"
+  "tag:quake_awards_2018_winner",
+  "startmap:shib1",
+  "startmap:shib2",
+  "startmap:shib3",
+  "startmap:shib4",
+  "startmap:shib5"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -102,5 +107,9 @@
    "size": 27783364,
    "timestamp": "2017-08-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ter_shibboleth.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0bbd5d63f08afbc5375526bd8407ba57a98ba49e00d388bbadea758843d20859/ter_shibboleth.zip"
+ ]
 }

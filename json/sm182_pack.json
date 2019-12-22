@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f30918826a3b1d608141ab2958620499",
+ "sha256": "b86d8b329666dd2fd825a5e9ee6d11751659ccacf3efb16496429d00b35df4ea",
  "filename": [
   "sm182_pack.zip"
  ],
@@ -12,7 +12,12 @@
   "author:dumptruck_ds",
   "author:ionous",
   "author:Newhouse",
-  "author:onetruepurple"
+  "author:onetruepurple",
+  "startmap:sm182_artistical",
+  "startmap:sm182_dumptruck",
+  "startmap:sm182_ionous",
+  "startmap:sm182_newhouse",
+  "startmap:sm182_otp"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -86,5 +91,9 @@
    "size": 1250,
    "timestamp": "2018-04-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm182_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b86d8b329666dd2fd825a5e9ee6d11751659ccacf3efb16496429d00b35df4ea/sm182_pack.zip"
+ ]
 }

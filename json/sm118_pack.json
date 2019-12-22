@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "097ac6ba679864390658d6b17fa3c3a5",
+ "sha256": "84e6a5698c6f0d54afe8bc1c4f84a71aa446a9254323dd3495a173c5da73ad13",
  "filename": [
   "sm118_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 118 - Darkness",
   "author:adamllis",
   "author:generic",
-  "author:negke"
+  "author:negke",
+  "startmap:sm118_adamllis",
+  "startmap:sm118_neg!ke",
+  "startmap:sm118_generic"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -36,5 +39,9 @@
    "size": 1357,
    "timestamp": "2006-01-31"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm118_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/84e6a5698c6f0d54afe8bc1c4f84a71aa446a9254323dd3495a173c5da73ad13/sm118_pack.zip"
+ ]
 }

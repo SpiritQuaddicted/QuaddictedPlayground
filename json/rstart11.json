@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0e8be1dab14f7bd49dd5d9002a841e30",
+ "sha256": "4f667c04c4d9ce68c191ec340d405171685f950c11b36caa9b558669a8ba4032",
  "filename": [
   "rstart11.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:idbase",
   "tag:medium",
   "tag:traps",
-  "tag:non linear"
+  "tag:non linear",
+  "startmap:rstart"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -48,5 +49,9 @@
    "size": 1693028,
    "timestamp": "1997-09-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rstart11.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4f667c04c4d9ce68c191ec340d405171685f950c11b36caa9b558669a8ba4032/rstart11.zip"
+ ]
 }

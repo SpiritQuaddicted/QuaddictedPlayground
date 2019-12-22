@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ed7776a203e094164b1f20be38f77e5f",
+ "sha256": "ba1865cb8401ff0bfbec2933ec981dfc3c3090747b6d03a1daabb368afddd98c",
  "filename": [
   "kinn_bastion.zip"
  ],
@@ -17,7 +17,8 @@
   "tag:mustplay",
   "tag:hordes",
   "tag:monsters",
-  "tag:q3"
+  "tag:q3",
+  "startmap:bastion"
  ],
  "install": {
   "extract": "{quake}/"
@@ -35,5 +36,9 @@
    "size": 190,
    "timestamp": "2004-05-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/kinn_bastion.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/ba1865cb8401ff0bfbec2933ec981dfc3c3090747b6d03a1daabb368afddd98c/kinn_bastion.zip"
+ ]
 }

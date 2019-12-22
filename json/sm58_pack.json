@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9b2ac0ded9b16d3651228dc743064f8c",
+ "sha256": "2fb0cea8815c364a7832799cf283ae39b5af1c19d421d0bd621712cf3fd162bd",
  "filename": [
   "sm58_pack.zip"
  ],
@@ -13,7 +13,12 @@
   "author:Starbuck",
   "author:Xenon",
   "tag:qtwid",
-  "tag:e4"
+  "tag:e4",
+  "startmap:sm58_scampie",
+  "startmap:sm58_starbuck",
+  "startmap:sm58_rpg1",
+  "startmap:sm58_rpg2",
+  "startmap:sm58_xen"
  ],
  "install": {
   "extract": "{quake}/"
@@ -43,5 +48,9 @@
    "size": 1720,
    "timestamp": "2001-09-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm58_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2fb0cea8815c364a7832799cf283ae39b5af1c19d421d0bd621712cf3fd162bd/sm58_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "07f649321d7a39bb0c56f0ff179ae0df",
+ "sha256": "610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363",
  "filename": [
   "sm43_pack.zip"
  ],
@@ -12,7 +12,11 @@
   "author:Preach",
   "author:NotoriousRay",
   "author:Scampie",
-  "author:Starbuck"
+  "author:Starbuck",
+  "startmap:sm43_necros",
+  "startmap:sm43_preach",
+  "startmap:sm43_ray",
+  "startmap:sm43_starbuck"
  ],
  "install": {
   "extract": "{quake}/"
@@ -46,5 +50,9 @@
    "size": 437272,
    "timestamp": "2003-08-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm43_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363/sm43_pack.zip"
+ ]
 }

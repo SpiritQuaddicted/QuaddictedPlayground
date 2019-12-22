@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ba2a243cc8655d402995fc3b769e0e6a",
+ "sha256": "2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580",
  "filename": [
   "lomgoat.zip"
  ],
@@ -14,7 +14,9 @@
   "tag:base",
   "tag:medieval",
   "tag:textures",
-  "tag:cavern"
+  "tag:cavern",
+  "startmap:start",
+  "startmap:db_tech"
  ],
  "install": {
   "extract": "{quake}/lomgoat/"
@@ -28,5 +30,9 @@
    "size": 1865,
    "timestamp": "1998-02-14"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/lomgoat.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580/lomgoat.zip"
+ ]
 }

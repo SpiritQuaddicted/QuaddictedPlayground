@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a5433ec36971581f2e474b1999c06129",
+ "sha256": "a31d443c4ea247a467f816301270eee11d3c9223122673e27621eb8bd32dba5e",
  "filename": [
   "menk.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:large",
   "tag:temple",
   "tag:multiple exits",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:menkstart"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +32,9 @@
    "size": 1802908,
    "timestamp": "1997-12-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/menk.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a31d443c4ea247a467f816301270eee11d3c9223122673e27621eb8bd32dba5e/menk.zip"
+ ]
 }

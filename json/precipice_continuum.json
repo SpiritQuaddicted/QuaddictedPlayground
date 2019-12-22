@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c16854321b083ffeebdf6bd2ae433183",
+ "sha256": "f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9",
  "filename": [
   "precipice_continuum.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:temple",
   "tag:canyon",
   "tag:ruin",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:precon"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 2480556,
    "timestamp": "2001-07-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/precipice_continuum.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9/precipice_continuum.zip"
+ ]
 }

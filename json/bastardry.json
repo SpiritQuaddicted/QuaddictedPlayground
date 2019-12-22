@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e03876d0d478a612ed345d9702bdc934",
+ "sha256": "1aa0c5ea6daeb397dfd4efec5d51f5bf7ba0157ece416d3b8bbb02bfc4ad69c1",
  "filename": [
   "bastardry.zip"
  ],
@@ -13,7 +13,9 @@
   "tag:base",
   "tag:wizard",
   "tag:castle",
-  "tag:puzzles"
+  "tag:puzzles",
+  "startmap:bast",
+  "startmap:mbb7"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +33,9 @@
    "size": 1149180,
    "timestamp": "1997-01-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bastardry.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1aa0c5ea6daeb397dfd4efec5d51f5bf7ba0157ece416d3b8bbb02bfc4ad69c1/bastardry.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8737bf761de917516632ed92ce9ce31d",
+ "sha256": "6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96",
  "filename": [
   "sm193_pack.zip"
  ],
@@ -22,7 +22,22 @@
   "author:onetruepurple",
   "author:Pinchy",
   "author:Shambler",
-  "author:Ukko"
+  "author:Ukko",
+  "startmap:sm193_bal",
+  "startmap:sm193_danz",
+  "startmap:sm193_fairweather",
+  "startmap:sm193_ing",
+  "startmap:sm193_ionous",
+  "startmap:sm193_ish",
+  "startmap:sm193_jcr",
+  "startmap:sm193_kamp",
+  "startmap:sm193_marandal",
+  "startmap:sm193_naitelveni",
+  "startmap:sm193_newhouse",
+  "startmap:sm193_otp",
+  "startmap:sm193_pinchy",
+  "startmap:sm193_sham",
+  "startmap:sm193_ukko"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -316,5 +331,9 @@
    "size": 2027517,
    "timestamp": "2019-03-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm193_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96/sm193_pack.zip"
+ ]
 }

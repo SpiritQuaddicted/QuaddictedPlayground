@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3e71f67ccf7836de380668766fc33696",
+ "sha256": "50ea7f12d1b1c322b32e9ca3a2c6f140b42355c43007a9bbd67bc0740b768253",
  "filename": [
   "sm175_pack.zip"
  ],
@@ -18,7 +18,13 @@
   "tag:rogue",
   "tag:doe",
   "tag:heretic2",
-  "tag:koohoo"
+  "tag:koohoo",
+  "startmap:sm175_coceaa",
+  "startmap:sm175_coceb",
+  "startmap:sm175_digs",
+  "startmap:sm175_doomer",
+  "startmap:sm175_5th",
+  "startmap:sm175_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -100,5 +106,9 @@
    "size": 2081792,
    "timestamp": "2014-06-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm175_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/50ea7f12d1b1c322b32e9ca3a2c6f140b42355c43007a9bbd67bc0740b768253/sm175_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b147c3c48fd0abb6cf63d94da3cf8833",
+ "sha256": "e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1",
  "filename": [
   "kpcn2014.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:unfinished",
   "tag:large",
   "tag:corridors",
-  "tag:limits"
+  "tag:limits",
+  "startmap:kpcn"
  ],
  "install": {
   "extract": "{quake}/"
@@ -33,5 +34,9 @@
    "size": 3074630,
    "timestamp": "2014-07-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/kpcn2014.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1/kpcn2014.zip"
+ ]
 }

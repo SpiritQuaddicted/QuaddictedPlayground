@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6f3dfe49fc85c208a356c73fde8bf307",
+ "sha256": "27f56ed726d08c700362de6c08bdb47851970d5de12e10c8397713c912d01a72",
  "filename": [
   "sm189_pack.zip"
  ],
@@ -18,7 +18,16 @@
   "author:TBA143",
   "author:ww",
   "tag:doom",
-  "tag:external textures"
+  "tag:external textures",
+  "startmap:sm189_ing",
+  "startmap:sm189_ish",
+  "startmap:sm189_nyo",
+  "startmap:sm189_otp",
+  "startmap:sm189_pinchy",
+  "startmap:sm189_rhoq",
+  "startmap:sm189_shamb",
+  "startmap:sm189_tba143",
+  "startmap:sm189_ww"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -280,5 +289,9 @@
    "size": 196652,
    "timestamp": "2018-08-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm189_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/27f56ed726d08c700362de6c08bdb47851970d5de12e10c8397713c912d01a72/sm189_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "82e776ec9c6d004fd78c859356a97101",
+ "sha256": "8e6051215a3136be781755622558c8df973d9902b3602737fd226024401be68e",
  "filename": [
   "sm100turtle.zip"
  ],
@@ -18,7 +18,10 @@
   "tag:turtle",
   "tag:base",
   "tag:realism",
-  "tag:dam"
+  "tag:dam",
+  "startmap:bamvoo_tur100",
+  "startmap:sm100t_neg!ke",
+  "startmap:zweiturtlemap"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -48,5 +51,9 @@
    "size": 296,
    "timestamp": "2005-07-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm100turtle.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8e6051215a3136be781755622558c8df973d9902b3602737fd226024401be68e/sm100turtle.zip"
+ ]
 }

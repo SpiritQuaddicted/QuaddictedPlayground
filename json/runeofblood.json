@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "39e3963f06076b671df386476bb2d016",
+ "sha256": "13cda686a44f1321859aafe2f2a822be776ddd260cb73b7768ae582f76c31f27",
  "filename": [
   "runeofblood.zip"
  ],
@@ -14,7 +14,11 @@
   "tag:quoth",
   "tag:base",
   "tag:wizard",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:mjb2hub",
+  "startmap:mjb2m1",
+  "startmap:mjb2b2",
+  "startmap:mjb2m3"
  ],
  "install": {
   "extract": "{quake}/quoth/maps/"
@@ -48,5 +52,9 @@
    "size": 164450,
    "timestamp": "2016-02-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/runeofblood.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/13cda686a44f1321859aafe2f2a822be776ddd260cb73b7768ae582f76c31f27/runeofblood.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "fa6b779345270b401b070113b499bfb8",
+ "sha256": "7f9f8f109326cdfb0fc53def68debbb8ab37a28deac53bcf206f452445dd9349",
  "filename": [
   "smqe08c_pack.zip"
  ],
@@ -8,7 +8,8 @@
  "releasedate": "2008-09-02",
  "tags": [
   "title:Speedmapping pack QExpo2008 #3 - Tilted",
-  "author:negke"
+  "author:negke",
+  "startmap:smqe08c_negke"
  ],
  "install": {
   "extract": "{quake}/"
@@ -22,5 +23,9 @@
    "size": 1119,
    "timestamp": "2008-09-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/smqe08c_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7f9f8f109326cdfb0fc53def68debbb8ab37a28deac53bcf206f452445dd9349/smqe08c_pack.zip"
+ ]
 }

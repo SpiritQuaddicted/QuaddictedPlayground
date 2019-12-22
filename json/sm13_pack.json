@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "53eff35d9f93cd670e04f63e77b5f91f",
+ "sha256": "9f3c5a3cfc9156719d7c3b5951b098b1a20c123138fd8ab5aaa299d390941738",
  "filename": [
   "sm13_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:Aardappel",
   "author:Amrik",
   "author:Cybear",
-  "author:malevola"
+  "author:malevola",
+  "startmap:sm13_aard",
+  "startmap:sm13_amrik",
+  "startmap:sm13_mal",
+  "startmap:sm13_bear"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 376348,
    "timestamp": "2001-05-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm13_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9f3c5a3cfc9156719d7c3b5951b098b1a20c123138fd8ab5aaa299d390941738/sm13_pack.zip"
+ ]
 }

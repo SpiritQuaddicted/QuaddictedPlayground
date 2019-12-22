@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d2a0aae128fef8baced8ebc0e0181171",
+ "sha256": "fb2abc5e90de8d4ef2a6cf645bd8ba02a28fcdb23c5cd4013e45ffedf5304537",
  "filename": [
   "rcoldmaps.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Fat Controller's Old Maps",
   "author:Robert \"Fat Controller\" Cruickshank",
   "tag:dm",
-  "tag:1998"
+  "tag:1998",
+  "startmap:rc0"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -72,5 +73,9 @@
    "size": 4483,
    "timestamp": "1998-10-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rcoldmaps.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fb2abc5e90de8d4ef2a6cf645bd8ba02a28fcdb23c5cd4013e45ffedf5304537/rcoldmaps.zip"
+ ]
 }

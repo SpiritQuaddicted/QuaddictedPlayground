@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3cd37368e3c700a4527be6a1cf44cc37",
+ "sha256": "041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7",
  "filename": [
   "lighthse1.zip"
  ],
@@ -14,7 +14,11 @@
   "tag:plain",
   "tag:mod",
   "tag:medium",
-  "tag:monsters"
+  "tag:monsters",
+  "startmap:lighthse",
+  "startmap:_mapfort",
+  "startmap:_maplhse",
+  "startmap:_mapstge"
  ],
  "install": {
   "extract": "{quake}/lighthse/"
@@ -36,5 +40,9 @@
    "size": 2752,
    "timestamp": "1997-09-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/lighthse1.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7/lighthse1.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b10f68c8f31cbf558752b49a4cb533f9",
+ "sha256": "94440ef2ff6871df9b6976eab2f4220a52489f9b0eaa6bb5c32c8195e25c8f34",
  "filename": [
   "n3sp02_extd.zip"
  ],
@@ -9,7 +9,8 @@
  "tags": [
   "title:Castle Necrosis (Extended Files)",
   "author:necros",
-  "dependency:n3sp02_13"
+  "dependency:n3sp02_13",
+  "startmap:n3sp02_13"
  ],
  "install": {
   "extract": "{quake}/n3sp02/"
@@ -119,5 +120,9 @@
    "size": 2114,
    "timestamp": "2001-07-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/n3sp02_extd.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/94440ef2ff6871df9b6976eab2f4220a52489f9b0eaa6bb5c32c8195e25c8f34/n3sp02_extd.zip"
+ ]
 }

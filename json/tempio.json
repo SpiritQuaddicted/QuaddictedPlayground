@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e913969b69e15a25c1f585cc532bdc99",
+ "sha256": "d396c9e07f3b5face33db5ac3474850df99f900a32a6e3bd6ad91c960280ad34",
  "filename": [
   "tempio.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:temple",
   "tag:start map",
   "tag:small",
-  "tag:wizard"
+  "tag:wizard",
+  "startmap:tempio"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 1141,
    "timestamp": "1998-01-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tempio.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d396c9e07f3b5face33db5ac3474850df99f900a32a6e3bd6ad91c960280ad34/tempio.zip"
+ ]
 }

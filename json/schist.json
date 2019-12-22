@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1b54a30ab8ca3737403f58a11a4c8179",
+ "sha256": "1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa",
  "filename": [
   "schist.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Schist",
   "author:Noel Weer",
   "tag:episode",
-  "tag:ice"
+  "tag:ice",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/schist/"
@@ -56,5 +57,9 @@
    "size": 1988,
    "timestamp": "1997-11-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/schist.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa/schist.zip"
+ ]
 }

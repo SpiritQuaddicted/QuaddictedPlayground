@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ff84f17fdc7fc36b7b9f38307040e2d1",
+ "sha256": "ea29e33ad0d6120355a7c2c5711a1697d9292c381aeecd57bbbeb25256a300db",
  "filename": [
   "sm114_pack.zip"
  ],
@@ -11,7 +11,11 @@
   "author:bambuz",
   "author:negke",
   "author:Spirit",
-  "author:Trinca"
+  "author:Trinca",
+  "startmap:sm114_trinca",
+  "startmap:sm114_spirit",
+  "startmap:sm114_neg!ke",
+  "startmap:sm114_bam"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +41,9 @@
    "size": 184796,
    "timestamp": "2005-12-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm114_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ea29e33ad0d6120355a7c2c5711a1697d9292c381aeecd57bbbeb25256a300db/sm114_pack.zip"
+ ]
 }

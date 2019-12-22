@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "28cbffa27799bbe7931f8d6deab11a44",
+ "sha256": "1f734adf8cf290a8260216ef4d49df4aef4b6159a977eef9c90bd5cfc433aa23",
  "filename": [
   "quothescape.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:base",
   "tag:prison",
   "tag:quoth",
-  "dependency:quoth2pt2full_2"
+  "dependency:quoth2pt2full_2",
+  "startmap:escape"
  ],
  "install": {
   "extract": "{quake}/quoth/maps"
@@ -35,5 +36,9 @@
    "size": 1401322,
    "timestamp": "2015-07-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/quothescape.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1f734adf8cf290a8260216ef4d49df4aef4b6159a977eef9c90bd5cfc433aa23/quothescape.zip"
+ ]
 }

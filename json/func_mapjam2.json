@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "25a043947a16a0a42038e070dfa3508f",
+ "sha256": "4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac",
  "filename": [
   "func_mapjam2.zip"
  ],
@@ -29,7 +29,15 @@
   "tag:asd",
   "tag:skybox",
   "tag:jam",
-  "tag:snow"
+  "tag:snow",
+  "startmap:jam2_cocerello",
+  "startmap:jam2_fifth",
+  "startmap:jam2_lunaran",
+  "startmap:jam2_mfx",
+  "startmap:jam2_scampie",
+  "startmap:jam2_skacky",
+  "startmap:jam2_sock",
+  "startmap:jam2_tronyn"
  ],
  "install": {
   "extract": "{quake}/func_mapjam2/"
@@ -359,5 +367,9 @@
    "size": 17927392,
    "timestamp": "2014-07-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam2.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac/func_mapjam2.zip"
+ ]
 }

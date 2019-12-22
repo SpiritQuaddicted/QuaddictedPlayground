@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5678237da46df932c40041a92154691c",
+ "sha256": "99c59ce449f17a00dc3b1b05c9ba561cbff38a7c9969bfdd43d51c12fb485deb",
  "filename": [
   "ad_grendel1h.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:metal",
   "tag:vertical",
   "dependency:ad_v1_70final",
-  "dependency:ad_v1_70patch1"
+  "dependency:ad_v1_70patch1",
+  "startmap:ad_grendel"
  ],
  "install": {
   "extract": "{quake}/ad/"
@@ -41,5 +42,9 @@
    "size": 175400,
    "timestamp": "2018-05-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_grendel1h.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/99c59ce449f17a00dc3b1b05c9ba561cbff38a7c9969bfdd43d51c12fb485deb/ad_grendel1h.zip"
+ ]
 }

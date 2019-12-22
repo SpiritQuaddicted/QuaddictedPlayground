@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b262190ed5fcdace3b887717d52cf2a1",
+ "sha256": "02c1cff9b78677ee42e04f79b46d1bff994e15525b826baae46d6c7b0a82f83f",
  "filename": [
   "sm76_pack.zip"
  ],
@@ -12,7 +12,12 @@
   "author:Drew",
   "author:HeadThump",
   "author:Scampie",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm76_headthump",
+  "startmap:sm76_drew",
+  "startmap:sm76_czg",
+  "startmap:sm76_zwiffle",
+  "startmap:sm76_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -42,5 +47,9 @@
    "size": 286584,
    "timestamp": "2004-03-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm76_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/02c1cff9b78677ee42e04f79b46d1bff994e15525b826baae46d6c7b0a82f83f/sm76_pack.zip"
+ ]
 }

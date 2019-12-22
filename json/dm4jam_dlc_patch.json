@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6441fabab2bbe5f67fbc1b2a73839b9f",
+ "sha256": "0dfb8510f20f85556362c04f5a731781bbae92e3a0c736b3df765c51dd3e508f",
  "filename": [
   "dm4jam_dlc_patch.zip"
  ],
@@ -28,7 +28,33 @@
   "tag:source",
   "tag:patch",
   "tag:update",
-  "dependency:dm4jam"
+  "dependency:dm4jam",
+  "startmap:dm4jam_artistical",
+  "startmap:dm4jam_artistical2",
+  "startmap:dm4jam_bloodshot",
+  "startmap:dm4jam_breezeep",
+  "startmap:dm4jam_danzadan",
+  "startmap:dm4jam_digs",
+  "startmap:dm4jam_draqu_promeus",
+  "startmap:dm4jam_giftmacher",
+  "startmap:dm4jam_ionous",
+  "startmap:dm4jam_mariteaux",
+  "startmap:dm4jam_mukor",
+  "startmap:dm4jam_nait",
+  "startmap:dm4jam_otp",
+  "startmap:dm4jam_prengle",
+  "startmap:dm4jam_queenjazz",
+  "startmap:dm4jam_rj",
+  "startmap:dm4jam_scar3crow",
+  "startmap:dm4jam_shades",
+  "startmap:dm4jam_skacky",
+  "startmap:dm4jam_themusic",
+  "startmap:dm4jam_wedge_one",
+  "startmap:dm4jam_ww",
+  "startmap:start",
+  "startmap:dm4dlc_adib",
+  "startmap:dm4dlc_jcr",
+  "startmap:dm4dlc_negke"
  ],
  "install": {
   "extract": "{quake}/dm4jam/"
@@ -230,5 +256,9 @@
    "size": 3258135,
    "timestamp": "2018-10-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dm4jam_dlc_patch.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0dfb8510f20f85556362c04f5a731781bbae92e3a0c736b3df765c51dd3e508f/dm4jam_dlc_patch.zip"
+ ]
 }

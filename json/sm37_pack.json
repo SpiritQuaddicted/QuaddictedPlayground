@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "adacfe4fbdabdeee280fe8839c16acd4",
+ "sha256": "147f17076b0a06d7904662a72dfd8264d9f07205ad47175565394e6b3dcbfbca",
  "filename": [
   "sm37_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:XeNoN",
   "author:metlslime",
   "author:Asaki",
-  "tag:rubicon"
+  "tag:rubicon",
+  "startmap:sm37_asaki",
+  "startmap:sm37_sb",
+  "startmap:sm37_metl",
+  "startmap:sm37_fr3n",
+  "startmap:sm37_than",
+  "startmap:sm37_xenon"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +53,9 @@
    "size": 789340,
    "timestamp": "2001-10-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm37_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/147f17076b0a06d7904662a72dfd8264d9f07205ad47175565394e6b3dcbfbca/sm37_pack.zip"
+ ]
 }

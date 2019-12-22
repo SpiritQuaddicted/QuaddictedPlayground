@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "611303dbbb33b3eb0620c290785e4140",
+ "sha256": "dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449",
  "filename": [
   "sm59_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:MadFox",
   "author:Scampie",
   "author:Starbuck",
-  "tag:dm"
+  "tag:dm",
+  "startmap:sm59_starbuck",
+  "startmap:sm59_scampie",
+  "startmap:sm59_madfox",
+  "startmap:sm59_lev",
+  "startmap:sm59_lev2",
+  "startmap:sm59_hrim"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +53,9 @@
    "size": 1235228,
    "timestamp": "2003-11-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm59_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449/sm59_pack.zip"
+ ]
 }

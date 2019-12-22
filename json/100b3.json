@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "060583ff49164b4d3acef3672ef3f0fe",
+ "sha256": "6d11eba874d42d1e7480b86d265daeca25465d46e515acbdfa41ec63d68d59f8",
  "filename": [
   "100b3.zip"
  ],
@@ -18,7 +18,11 @@
   "tag:weird",
   "tag:swamp",
   "tag:tech",
-  "tag:medieval"
+  "tag:medieval",
+  "startmap:dis_cr8z",
+  "startmap:firedice",
+  "startmap:ne_100b3",
+  "startmap:rpg100b1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -116,5 +120,9 @@
    "size": 1731064,
    "timestamp": "2002-04-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/100b3.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6d11eba874d42d1e7480b86d265daeca25465d46e515acbdfa41ec63d68d59f8/100b3.zip"
+ ]
 }

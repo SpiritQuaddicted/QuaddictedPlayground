@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0c0f950cc0af12ea058ba94456f43e7e",
+ "sha256": "bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441",
  "filename": [
   "oms2_2.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:hard",
   "tag:medieval",
   "tag:temple",
-  "tag:ruins"
+  "tag:ruins",
+  "startmap:oms2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +32,9 @@
    "size": 1309844,
    "timestamp": "2010-08-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/oms2_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441/oms2_2.zip"
+ ]
 }

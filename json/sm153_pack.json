@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a13a4d23ba185d6a75be0de4abbba987",
+ "sha256": "05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51",
  "filename": [
   "sm153_pack.zip"
  ],
@@ -13,7 +13,9 @@
   "tag:quoth",
   "tag:coagula",
   "tag:void",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:sm153_zwiffle",
+  "startmap:sm153_drew"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +29,9 @@
    "size": 644532,
    "timestamp": "2009-06-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm153_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51/sm153_pack.zip"
+ ]
 }

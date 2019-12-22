@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5d905230c098808a8307905e70870924",
+ "sha256": "e91324ce7ceadf1e64c51394096708e5f5b13f25b2bb125fe6082d0fa049ae8d",
  "filename": [
   "sm5_pack.zip"
  ],
@@ -17,7 +17,15 @@
   "author:Speedy",
   "author:Scampi",
   "tag:spd",
-  "tag:nomonsters"
+  "tag:nomonsters",
+  "startmap:sm5_speed",
+  "startmap:sm5_aard",
+  "startmap:sm5_grahf",
+  "startmap:sm5_bear",
+  "startmap:sm5_gibbie",
+  "startmap:sm5_scampie",
+  "startmap:sm5_inane",
+  "startmap:sm5_aru"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -59,5 +67,9 @@
    "size": 244672,
    "timestamp": "2001-03-31"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm5_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e91324ce7ceadf1e64c51394096708e5f5b13f25b2bb125fe6082d0fa049ae8d/sm5_pack.zip"
+ ]
 }

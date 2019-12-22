@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "c44cca5ca29d3121b9d63a921a06bbe2",
+ "sha256": "fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5",
  "filename": [
   "eltemple.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:large",
   "tag:skins",
   "tag:chthon",
-  "tag:boss"
+  "tag:boss",
+  "startmap:temple"
  ],
  "install": {
   "extract": "{quake}/eltemple/"
@@ -34,5 +35,9 @@
    "size": 26,
    "timestamp": "1997-10-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/eltemple.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5/eltemple.zip"
+ ]
 }

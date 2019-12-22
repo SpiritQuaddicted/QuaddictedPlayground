@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e6011bb2a660f96ee551f71cb97b0077",
+ "sha256": "562304a70002aca68727488400c57b2e975b5525cce90596c414a368d5b90950",
  "filename": [
   "sm172_pack.zip"
  ],
@@ -12,7 +12,10 @@
   "author:Orbs",
   "author:Scampie",
   "tag:quoth",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:sm172_digs",
+  "startmap:sm172_orbs",
+  "startmap:sm172_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps"
@@ -34,5 +37,9 @@
    "size": 111896,
    "timestamp": "2013-06-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm172_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/562304a70002aca68727488400c57b2e975b5525cce90596c414a368d5b90950/sm172_pack.zip"
+ ]
 }

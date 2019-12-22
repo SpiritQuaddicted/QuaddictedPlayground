@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "da67c9905dd5b2bf3f2d23267c532ba4",
+ "sha256": "8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2",
  "filename": [
   "sofsp1.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Neil Manke",
   "tag:sof",
   "tag:mission",
-  "tag:story"
+  "tag:story",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/soldier/"
@@ -25,5 +26,9 @@
    "size": 4970646,
    "timestamp": "1997-10-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sofsp1.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2/sofsp1.zip"
+ ]
 }

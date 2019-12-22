@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "767a8b19ce5338d8ceea1c8e4fe274a6",
+ "sha256": "53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7",
  "filename": [
   "ac.zip"
  ],
@@ -20,7 +20,8 @@
   "tag:bricks",
   "tag:hard",
   "tag:multi-theme",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:acstart"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -38,5 +39,9 @@
    "size": 4066412,
    "timestamp": "2004-03-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ac.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7/ac.zip"
+ ]
 }

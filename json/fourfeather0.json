@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f587cedcf912901a43bd9c1090ab5115",
+ "sha256": "0fc6729bd92eee7a2a93834a2f96ff891fb625455b93c680917bd0e2e22007ad",
  "filename": [
   "fourfeather0.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:monsters",
   "tag:mixtex",
   "tag:castle",
-  "tag:skybox"
+  "tag:skybox",
+  "startmap:fourfeather.bsp"
  ],
  "install": {
   "extract": "{quake}/fourfeather0/"
@@ -30,5 +31,9 @@
    "size": 804080,
    "timestamp": "2016-03-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/fourfeather0.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0fc6729bd92eee7a2a93834a2f96ff891fb625455b93c680917bd0e2e22007ad/fourfeather0.zip"
+ ]
 }

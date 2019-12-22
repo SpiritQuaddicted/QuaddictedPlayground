@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "117b97b2b3f6a33c2f44cec35f2079e1",
+ "sha256": "6b8a5c25084d307a8b21cab2a2a003d920ad26cc2a5d304f2aef13a03e04b5f2",
  "filename": [
   "mapjam7.zip"
  ],
@@ -23,7 +23,13 @@
   "tag:start",
   "tag:quoth2-2",
   "tag:water",
-  "dependency:quoth2pt2full_2"
+  "dependency:quoth2pt2full_2",
+  "startmap:jam7_start",
+  "startmap:jam7_ionous",
+  "startmap:jam7_khreathor",
+  "startmap:jam7_mjb",
+  "startmap:jam7_newhouse",
+  "startmap:jam7_tens"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -141,5 +147,9 @@
    "size": 2011,
    "timestamp": "2016-08-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/mapjam7.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6b8a5c25084d307a8b21cab2a2a003d920ad26cc2a5d304f2aef13a03e04b5f2/mapjam7.zip"
+ ]
 }

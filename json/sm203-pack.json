@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5c4a831e5b2640dd97e49baf923474d7",
+ "sha256": "4306525071e2661793c9259ce2c9ce8b4a4c10a7e0e9d63e3968c413e045e8a1",
  "filename": [
   "sm203-pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:Fairweather",
   "author:Greenwood",
   "author:MortalMaxx",
-  "dependency:copper"
+  "dependency:copper",
+  "startmap:sm203_artistical",
+  "startmap:sm203_elithium",
+  "startmap:sm203_fw",
+  "startmap:sm203_greenwood1",
+  "startmap:sm203_greenwood2",
+  "startmap:sm203_maxx"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -115,5 +121,9 @@
    "size": 98385,
    "timestamp": "2019-10-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm203-pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4306525071e2661793c9259ce2c9ce8b4a4c10a7e0e9d63e3968c413e045e8a1/sm203-pack.zip"
+ ]
 }

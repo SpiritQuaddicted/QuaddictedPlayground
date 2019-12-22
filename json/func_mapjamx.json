@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "aa42f754c04b16bf579f83aecc58fc9a",
+ "sha256": "f5e40a5998e8671c89598cb14d04e2a4f6b032d480c9de47e76875466651a675",
  "filename": [
   "func_mapjamx.zip"
  ],
@@ -21,7 +21,22 @@
   "author:Pinchy Skree",
   "author:Strangework",
   "author:Ukko",
-  "author:Yoder"
+  "author:Yoder",
+  "startmap:start",
+  "startmap:jamx_artistical",
+  "startmap:jamx_bloodshot",
+  "startmap:jamx_fairweather",
+  "startmap:jamx_ionous",
+  "startmap:jamx_kalebclark",
+  "startmap:jamx_jcr",
+  "startmap:jamx_mafon",
+  "startmap:jamx_hcm",
+  "startmap:jamx_naitelveni",
+  "startmap:jamx_newhouse",
+  "startmap:jamx_pinchy",
+  "startmap:jamx_strangework",
+  "startmap:jamx_ukko",
+  "startmap:jamx_yoder"
  ],
  "install": {
   "extract": "{quake}//"
@@ -655,5 +670,9 @@
    "size": 2677982,
    "timestamp": "2019-04-17"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjamx.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f5e40a5998e8671c89598cb14d04e2a4f6b032d480c9de47e76875466651a675/func_mapjamx.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ec2c7bcba57678ecd77410bdeef0ae0b",
+ "sha256": "6b8fdbc0885c4985414cd7c56b3a4d517157c8836ce239ec547f7be17665c440",
  "filename": [
   "sm149_pack.zip"
  ],
@@ -11,7 +11,9 @@
   "author:Drew",
   "author:Hrimfaxi",
   "tag:quoth",
-  "tag:quake2"
+  "tag:quake2",
+  "startmap:sm149_drew",
+  "startmap:sm149_hrim"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -29,5 +31,9 @@
    "size": 1696308,
    "timestamp": "2008-12-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm149_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/6b8fdbc0885c4985414cd7c56b3a4d517157c8836ce239ec547f7be17665c440/sm149_pack.zip"
+ ]
 }

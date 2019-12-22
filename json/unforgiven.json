@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d4be320e87eddcab9da5276452d88f9f",
+ "sha256": "a1137e6e1faec22f1ddbc584cbfd77357e79d63ae14241b6fbb9ccfe997d6a2e",
  "filename": [
   "unforgiven.zip"
  ],
@@ -27,7 +27,8 @@
   "tag:tower",
   "tag:mountain",
   "tag:skybox",
-  "tag:hexen 2"
+  "tag:hexen 2",
+  "startmap:unfstart"
  ],
  "install": {
   "extract": "{quake}/unforgiven/"
@@ -153,5 +154,9 @@
    "size": 3460,
    "timestamp": "2011-06-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/unforgiven.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a1137e6e1faec22f1ddbc584cbfd77357e79d63ae14241b6fbb9ccfe997d6a2e/unforgiven.zip"
+ ]
 }

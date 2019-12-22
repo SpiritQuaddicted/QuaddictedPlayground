@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "491fa4b42a931e272e429e98bec564b9",
+ "sha256": "a00b23175cbafdd6cdf3672bfa62271eb6c4b58337a47c08d5e12854d44b224d",
  "filename": [
   "sm197_pack_final.zip"
  ],
@@ -16,7 +16,16 @@
   "author:JCR",
   "author:Pinchy",
   "author:Saila",
-  "author:ww"
+  "author:ww",
+  "startmap:sm197_artistical",
+  "startmap:sm197_coce",
+  "startmap:sm197_fairweather",
+  "startmap:sm197_greenshot",
+  "startmap:sm197_ionous",
+  "startmap:sm197_jcr",
+  "startmap:sm197_pinchy",
+  "startmap:sm197_saila",
+  "startmap:sm197_ww"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -138,5 +147,9 @@
    "size": 143,
    "timestamp": "2019-06-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm197_pack_final.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a00b23175cbafdd6cdf3672bfa62271eb6c4b58337a47c08d5e12854d44b224d/sm197_pack_final.zip"
+ ]
 }

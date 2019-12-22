@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "4341d645291d16bf458f35e11fd9d3c1",
+ "sha256": "2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491",
  "filename": [
   "torment.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:machines",
   "tag:models",
   "tag:pipes",
-  "tag:sewer"
+  "tag:sewer",
+  "startmap:tormentarium"
  ],
  "install": {
   "extract": "{quake}//"
@@ -37,5 +38,9 @@
    "size": 322679,
    "timestamp": "2012-07-16"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/torment.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491/torment.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "2f4efb56bc1278977353a05bea803f53",
+ "sha256": "a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016",
  "filename": [
   "sgodrune.zip"
  ],
@@ -18,7 +18,8 @@
   "tag:surprises",
   "tag:story",
   "tag:unique",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:sgodrune"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -40,5 +41,9 @@
    "size": 2007656,
    "timestamp": "1998-02-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sgodrune.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016/sgodrune.zip"
+ ]
 }

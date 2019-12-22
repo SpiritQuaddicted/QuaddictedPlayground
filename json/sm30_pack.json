@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ec363319c3380eb1c52841acaa33cda9",
+ "sha256": "ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776",
  "filename": [
   "sm30_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:Scampie",
   "author:Speedy",
   "author:than",
-  "tag:spd"
+  "tag:spd",
+  "startmap:sm30_than",
+  "startmap:sm30_speedy",
+  "startmap:sm30_sb2",
+  "startmap:sm30_sb1",
+  "startmap:sm30_ray",
+  "startmap:sm30_scampie"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -47,5 +53,9 @@
    "size": 737496,
    "timestamp": "2001-08-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm30_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776/sm30_pack.zip"
+ ]
 }

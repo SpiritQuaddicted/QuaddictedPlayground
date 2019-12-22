@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5081c0d692e669b9d68944a26194089c",
+ "sha256": "33661a2855a26848860319ab6af00ba6c6972bcf31dff09094c31bbe338fbdf2",
  "filename": [
   "sm9_pack.zip"
  ],
@@ -14,7 +14,14 @@
   "author:iNaNe",
   "author:BlackPope",
   "author:Scampie",
-  "author:XeNoN"
+  "author:XeNoN",
+  "startmap:sm9_bear",
+  "startmap:sm9_damaul",
+  "startmap:sm9_aard",
+  "startmap:sm9_inane",
+  "startmap:sm9_scampie",
+  "startmap:sm9_pope",
+  "startmap:sm9_xenon"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -52,5 +59,9 @@
    "size": 444104,
    "timestamp": "2001-04-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm9_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/33661a2855a26848860319ab6af00ba6c6972bcf31dff09094c31bbe338fbdf2/sm9_pack.zip"
+ ]
 }

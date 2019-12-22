@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3150a74864ea63283beab445d97e5e6a",
+ "sha256": "1c4b5b5cedc1d89704da7fa2c1c0b1fe36b185adf33a3932b3840dc88f46d4c0",
  "filename": [
   "beach1.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:fullbright",
   "tag:source",
   "tag:trap",
-  "tag:dire"
+  "tag:dire",
+  "startmap:beach"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +34,9 @@
    "size": 34259,
    "timestamp": "1997-07-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/beach1.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1c4b5b5cedc1d89704da7fa2c1c0b1fe36b185adf33a3932b3840dc88f46d4c0/beach1.zip"
+ ]
 }

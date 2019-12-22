@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d5f1bed9a2c7089c1be7984276f21a56",
+ "sha256": "5ece38f3c650f7cb91852d8378d1dd7b31dab47dc7a98d56f47cf1ce7f13b532",
  "filename": [
   "snaut-acidtrip_rezipped.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:industrial",
   "tag:sewer",
   "tag:slime",
-  "tag:limits"
+  "tag:limits",
+  "startmap:snaut-acidtrip"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +33,9 @@
    "size": 3498,
    "timestamp": "2017-12-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/snaut-acidtrip_rezipped.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5ece38f3c650f7cb91852d8378d1dd7b31dab47dc7a98d56f47cf1ce7f13b532/snaut-acidtrip_rezipped.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e261f824318a9c5faf594744bc3d05eb",
+ "sha256": "a91f89e8313776ab94e17ee107eccf9894e44fe8232d2a43d1ff3a56d0d14e5d",
  "filename": [
   "w_temple.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:wizard",
   "tag:outdoor",
-  "tag:non linear"
+  "tag:non linear",
+  "startmap:w_temple"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 2059,
    "timestamp": "2014-09-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/w_temple.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a91f89e8313776ab94e17ee107eccf9894e44fe8232d2a43d1ff3a56d0d14e5d/w_temple.zip"
+ ]
 }

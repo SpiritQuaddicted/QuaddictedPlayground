@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "85a74d4c2369dd0e188d5bc370f63625",
+ "sha256": "d53864f3718755ce2f077ecf028e34175be2a8778d2e141d81aec3ba1586ef09",
  "filename": [
   "hwjam.zip"
  ],
@@ -32,7 +32,14 @@
   "tag:weapons",
   "tag:limits",
   "tag:source",
-  "tag:arcanedimensions"
+  "tag:arcanedimensions",
+  "startmap:start",
+  "startmap:hwjam_ing",
+  "startmap:hwjam_jcr",
+  "startmap:hwjam_nyo",
+  "startmap:hwjam_pinchy",
+  "startmap:hwjam_qmaster",
+  "startmap:hwjam_xlarve"
  ],
  "install": {
   "extract": "{quake}/hwjam/"
@@ -6666,5 +6673,9 @@
    "size": 1061400,
    "timestamp": "2018-11-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/hwjam.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d53864f3718755ce2f077ecf028e34175be2a8778d2e141d81aec3ba1586ef09/hwjam.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "33164969f200c7ec2c3aab9b209a40ab",
+ "sha256": "7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818",
  "filename": [
   "retrojam3.zip"
  ],
@@ -17,7 +17,9 @@
   "tag:vertical",
   "tag:skybox",
   "tag:source",
-  "tag:mapjam"
+  "tag:mapjam",
+  "startmap:retrojam3_fifth",
+  "startmap:retrojam3_skacky"
  ],
  "install": {
   "extract": "{quake}/retrojam3"
@@ -35,5 +37,9 @@
    "size": 2306,
    "timestamp": "2015-04-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/retrojam3.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818/retrojam3.zip"
+ ]
 }

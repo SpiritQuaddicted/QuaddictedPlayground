@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e575b336d36e7a058c810a28fc1542e0",
+ "sha256": "74be1e7c0faabd99536907fd9c63d9b6fa5009e86fd23007e977b4dbeb5ccf62",
  "filename": [
   "udob.zip"
  ],
@@ -26,7 +26,16 @@
   "tag:q3dm6",
   "tag:source",
   "tag:limits",
-  "dependency:copper"
+  "dependency:copper",
+  "startmap:start",
+  "startmap:end",
+  "startmap:udob1",
+  "startmap:udob2",
+  "startmap:udob3",
+  "startmap:udob4",
+  "startmap:udob5",
+  "startmap:udob6",
+  "startmap:udob7"
  ],
  "install": {
   "extract": "{quake}/copper/maps/"
@@ -272,5 +281,9 @@
    "size": 4984,
    "timestamp": "2019-06-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/udob.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/74be1e7c0faabd99536907fd9c63d9b6fa5009e86fd23007e977b4dbeb5ccf62/udob.zip"
+ ]
 }

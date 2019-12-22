@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a65fdfa807526b551e9d48bc516e4547",
+ "sha256": "5a12802996352ee9bdf2bb919d29ea460cdfa12d4bc005eeb21b8d8dbfe15d0c",
  "filename": [
   "sm183.zip"
  ],
@@ -12,7 +12,12 @@
   "author:dumptruck_ds",
   "author:Mariteaux",
   "author:Prengle",
-  "author:Newhouse"
+  "author:Newhouse",
+  "startmap:sm183_artistical",
+  "startmap:sm183_dumptruck",
+  "startmap:sm183_mariteaux",
+  "startmap:sm183_prengle",
+  "startmap:sm183_newhouse"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -138,5 +143,9 @@
    "size": 410779,
    "timestamp": "2018-06-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm183.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5a12802996352ee9bdf2bb919d29ea460cdfa12d4bc005eeb21b8d8dbfe15d0c/sm183.zip"
+ ]
 }

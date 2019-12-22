@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7c36da32eb2e7c4fef9c4faebc1ca5f9",
+ "sha256": "923511c74ae299916c15fc2cff068ebc73fb90fca2753b3564b65a5cbf3787ee",
  "filename": [
   "jam8_rezipped.zip"
  ],
@@ -21,7 +21,12 @@
   "tag:ad",
   "tag:source",
   "tag:limits",
-  "tag:arcanedimensions"
+  "tag:arcanedimensions",
+  "startmap:jam8_start",
+  "startmap:jam8_ionous",
+  "startmap:jam8_newhouse",
+  "startmap:jam8_pritchard",
+  "startmap:jam8_shamblernaut"
  ],
  "install": {
   "extract": "{quake}//"
@@ -4975,5 +4980,9 @@
    "size": 34390,
    "timestamp": "2015-06-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/jam8_rezipped.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/923511c74ae299916c15fc2cff068ebc73fb90fca2753b3564b65a5cbf3787ee/jam8_rezipped.zip"
+ ]
 }

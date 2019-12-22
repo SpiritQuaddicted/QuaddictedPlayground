@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "29cb9959dcbec7dc3d67fcdd8721a5b6",
+ "sha256": "aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369",
  "filename": [
   "fmb_bdg.zip"
  ],
@@ -21,7 +21,8 @@
   "tag:monsters",
   "tag:music",
   "tag:obsolete",
-  "tag:not"
+  "tag:not",
+  "startmap:fmb_bgd1"
  ],
  "install": {
   "extract": "{quake}/"
@@ -487,5 +488,9 @@
    "size": 20355,
    "timestamp": "2006-02-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/fmb_bdg.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369/fmb_bdg.zip"
+ ]
 }

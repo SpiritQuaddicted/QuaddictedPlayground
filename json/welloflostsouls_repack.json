@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a5997af365e17480fadb0c32e4d25912",
+ "sha256": "73fd1878cf1c6096e01402ed894e6bdc68c99e5cf1ca09f7ba8266ccfc285dc5",
  "filename": [
   "welloflostsouls_repack.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:medium",
   "tag:bricks",
   "tag:tricks",
-  "tag:traps"
+  "tag:traps",
+  "startmap:ew2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 51,
    "timestamp": "2018-03-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/welloflostsouls_repack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/73fd1878cf1c6096e01402ed894e6bdc68c99e5cf1ca09f7ba8266ccfc285dc5/welloflostsouls_repack.zip"
+ ]
 }

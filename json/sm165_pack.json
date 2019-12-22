@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "afc22765225a0d6e727aba798ca0d08e",
+ "sha256": "b419fa0ac3f4603463cafd3bcae3078bf8aaa3addfb1ec00dc149d5e1e965eaa",
  "filename": [
   "sm165_pack.zip"
  ],
@@ -11,7 +11,8 @@
   "author:digs",
   "tag:egyptian",
   "tag:sock",
-  "tag:traps"
+  "tag:traps",
+  "startmap:sm165_digs"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 1141,
    "timestamp": "2011-08-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm165_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b419fa0ac3f4603463cafd3bcae3078bf8aaa3addfb1ec00dc149d5e1e965eaa/sm165_pack.zip"
+ ]
 }

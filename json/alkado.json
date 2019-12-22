@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1e95a7093b38d8edcdb18311ad2d1396",
+ "sha256": "89bc2d086a3a79388a91f8a62abfb77532ba599b81b8c34e5968d438848a934b",
  "filename": [
   "alkado.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:small",
   "tag:custom textures",
   "tag:weapons",
-  "tag:skins"
+  "tag:skins",
+  "startmap:spider"
  ],
  "install": {
   "extract": "{quake}/"
@@ -512,5 +513,9 @@
    "size": 47,
    "timestamp": "1998-08-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/alkado.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/89bc2d086a3a79388a91f8a62abfb77532ba599b81b8c34e5968d438848a934b/alkado.zip"
+ ]
 }

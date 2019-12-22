@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ac7fa61220a40b83b715c9070d23ac60",
+ "sha256": "0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd",
  "filename": [
   "etworld.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:wizard",
   "tag:traps",
-  "tag:tricks"
+  "tag:tricks",
+  "startmap:hall"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 1619,
    "timestamp": "1996-10-22"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/etworld.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd/etworld.zip"
+ ]
 }

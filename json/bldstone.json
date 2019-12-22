@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d105278382f55c24b7e8ae9b17dba00c",
+ "sha256": "bc9b18bda3739f0900edcfef40630600d026aee06fd10ee9b01d6af91d96a28d",
  "filename": [
   "bldstone.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Bloodstone",
   "author:Drakkon (C.D. Roberts)",
   "tag:medium",
-  "tag:mixtex"
+  "tag:mixtex",
+  "startmap:bldston"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -24,5 +25,9 @@
    "size": 1671,
    "timestamp": "1997-02-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/bldstone.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/bc9b18bda3739f0900edcfef40630600d026aee06fd10ee9b01d6af91d96a28d/bldstone.zip"
+ ]
 }

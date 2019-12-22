@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "77ba3d23f105ad21bf48c64cb830480e",
+ "sha256": "b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848",
  "filename": [
   "themyths.zip"
  ],
@@ -22,7 +22,8 @@
   "tag:dragon",
   "tag:armagon",
   "tag:boss",
-  "tag:realism"
+  "tag:realism",
+  "startmap:myth1"
  ],
  "install": {
   "extract": "{quake}//"
@@ -60,5 +61,9 @@
    "size": 585,
    "timestamp": "2006-08-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/themyths.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848/themyths.zip"
+ ]
 }

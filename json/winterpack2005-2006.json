@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "aedefba0ec2703c18164f61d4909d119",
+ "sha256": "7b136e7d576149fca7ae2b0a2abe828104614dcd9bcbdab35635e39876ac38da",
  "filename": [
   "winterpack2005-2006.zip"
  ],
@@ -17,7 +17,9 @@
   "tag:hard",
   "tag:quoth",
   "tag:skybox",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:egypt",
+  "startmap:teacups"
  ],
  "install": {
   "extract": "{quake}/quoth/maps/"
@@ -39,5 +41,9 @@
    "size": 1045260,
    "timestamp": "2006-03-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/winterpack2005-2006.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7b136e7d576149fca7ae2b0a2abe828104614dcd9bcbdab35635e39876ac38da/winterpack2005-2006.zip"
+ ]
 }

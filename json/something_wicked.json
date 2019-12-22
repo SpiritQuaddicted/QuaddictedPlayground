@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0b03d26eca1549eafdc30f385138c070",
+ "sha256": "1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d",
  "filename": [
   "something_wicked.zip"
  ],
@@ -31,7 +31,10 @@
   "tag:secrets",
   "tag:castle",
   "tag:limits",
-  "tag:coop"
+  "tag:coop",
+  "startmap:wickedstart",
+  "startmap:wicked",
+  "startmap:wickedend"
  ],
  "install": {
   "extract": "{quake}/wicked/"
@@ -109,5 +112,9 @@
    "size": 1015224,
    "timestamp": "2012-12-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/something_wicked.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d/something_wicked.zip"
+ ]
 }

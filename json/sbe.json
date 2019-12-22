@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0c598d18e92cfba4809603022eda85a2",
+ "sha256": "ce1123c1009f5596f0e998b46a4dd263d33cd3ef5d601ad0fb8ef37a5be3e639",
  "filename": [
   "sbe.zip"
  ],
@@ -9,7 +9,8 @@
  "tags": [
   "title:Scragbait's Estate",
   "author:Scragbait",
-  "tag:maze"
+  "tag:maze",
+  "startmap:sbe_strt"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +32,9 @@
    "size": 11060,
    "timestamp": "2000-05-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sbe.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/ce1123c1009f5596f0e998b46a4dd263d33cd3ef5d601ad0fb8ef37a5be3e639/sbe.zip"
+ ]
 }

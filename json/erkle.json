@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "38eb2c780fa591736a8279f5b7b59d35",
+ "sha256": "ef21dc274f716095842d74a919b2e446ad4f7cce894e569818b584ea5a36c7f6",
  "filename": [
   "erkle.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Erkle's Domain",
   "author:Matt Joiner",
   "tag:small",
-  "tag:wizard"
+  "tag:wizard",
+  "startmap:erkle9"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -24,5 +25,9 @@
    "size": 3783,
    "timestamp": "1996-08-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/erkle.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ef21dc274f716095842d74a919b2e446ad4f7cce894e569818b584ea5a36c7f6/erkle.zip"
+ ]
 }

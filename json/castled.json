@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "16c1c664c479de9ff7feaac9c8b44751",
+ "sha256": "b40cabc6d0ac413eacb39321d1f11f21f6a88c46afe4f5ce60aa82574a7cf8ac",
  "filename": [
   "castled.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:medieval",
   "tag:castle",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:castled!"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 1919,
    "timestamp": "1997-03-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/castled.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b40cabc6d0ac413eacb39321d1f11f21f6a88c46afe4f5ce60aa82574a7cf8ac/castled.zip"
+ ]
 }

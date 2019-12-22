@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "dcfcca22ad6f583980229ffabc1c15d2",
+ "sha256": "afcfebba72a79ebb38aba27520489a36a73b1cacc8c6d9c3d25a233c241c6feb",
  "filename": [
   "sm180.zip"
  ],
@@ -11,7 +11,9 @@
   "author:mukor",
   "author:Naitelveni",
   "tag:castle",
-  "tag:speedmap"
+  "tag:speedmap",
+  "startmap:sm180_mukor",
+  "startmap:sm180_nait"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +35,9 @@
    "size": 1037597,
    "timestamp": "2017-12-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm180.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/afcfebba72a79ebb38aba27520489a36a73b1cacc8c6d9c3d25a233c241c6feb/sm180.zip"
+ ]
 }

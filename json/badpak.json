@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "9ee332614735ee20e65133e3daba7620",
+ "sha256": "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5",
  "filename": [
   "badpak.zip"
  ],
@@ -15,7 +15,11 @@
   "tag:metal",
   "tag:wizard",
   "tag:monsters",
-  "tag:hard"
+  "tag:hard",
+  "startmap:ih1m1",
+  "startmap:ih1m2",
+  "startmap:ih1m3",
+  "startmap:ih1m4"
  ],
  "install": {
   "extract": "{quake}/"
@@ -341,5 +345,9 @@
    "size": 4608,
    "timestamp": "2000-07-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/badpak.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5/badpak.zip"
+ ]
 }

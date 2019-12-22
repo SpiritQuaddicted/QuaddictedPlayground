@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5688252d5281a0d69e231e33367fcb44",
+ "sha256": "7e53ff3adc9a783189837de10eb98010a930c7481a4b1f1ddb16d1891bc942c3",
  "filename": [
   "flsmap.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:mixtex",
   "tag:school",
-  "tag:realism"
+  "tag:realism",
+  "startmap:flsmap"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 4027,
    "timestamp": "1997-10-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/flsmap.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7e53ff3adc9a783189837de10eb98010a930c7481a4b1f1ddb16d1891bc942c3/flsmap.zip"
+ ]
 }

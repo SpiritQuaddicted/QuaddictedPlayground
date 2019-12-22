@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "551ac9223478a4d70b23a9f89f159a65",
+ "sha256": "5e012b3d8026aaf88951b0cd2c5b2d1cfe396f9d22dc1e9dc153d1ddbe70f228",
  "filename": [
   "sm123_pack.zip"
  ],
@@ -9,7 +9,9 @@
  "tags": [
   "title:Speedmapping pack 123 - A tribute to the Dopefish",
   "author:negke",
-  "author:Trinca"
+  "author:Trinca",
+  "startmap:sm123_trinca",
+  "startmap:sm123_neg!ke"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +29,9 @@
    "size": 1285,
    "timestamp": "2006-04-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm123_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5e012b3d8026aaf88951b0cd2c5b2d1cfe396f9d22dc1e9dc153d1ddbe70f228/sm123_pack.zip"
+ ]
 }

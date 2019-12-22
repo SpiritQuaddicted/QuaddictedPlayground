@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "b44ef594c4067cd962dbae9eef94f0d4",
+ "sha256": "96c7449792b8cc90f50173b6baf58b96a21f42690c5dde6ec169a86c6c098059",
  "filename": [
   "phantom.zip"
  ],
@@ -8,7 +8,8 @@
  "releasedate": "2007-06-18",
  "tags": [
   "title:Phantom Pholly",
-  "author:MadFox"
+  "author:MadFox",
+  "startmap:ph7583"
  ],
  "install": {
   "extract": "{quake}/"
@@ -170,5 +171,9 @@
    "size": 60,
    "timestamp": "1999-07-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/phantom.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/96c7449792b8cc90f50173b6baf58b96a21f42690c5dde6ec169a86c6c098059/phantom.zip"
+ ]
 }

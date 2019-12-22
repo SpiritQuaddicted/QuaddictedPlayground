@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "80081edbd0be3e372ad1886bb1e6fc11",
+ "sha256": "d84b020d14068cd67ddc48f9632b541fa5b1d30758d5837eb0ec00235417fc7d",
  "filename": [
   "sm204.zip"
  ],
@@ -18,7 +18,14 @@
   "tag:dm",
   "tag:quake 3",
   "tag:deathmatch",
-  "tag:q3"
+  "tag:q3",
+  "startmap:sm204_chrisholden",
+  "startmap:sm204_coce",
+  "startmap:sm204_dumptruck",
+  "startmap:sm204_greenwood",
+  "startmap:sm204_ionous",
+  "startmap:sm204_ish",
+  "startmap:sm204_zungryware"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -208,5 +215,9 @@
    "size": 473133,
    "timestamp": "2019-11-26"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm204.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d84b020d14068cd67ddc48f9632b541fa5b1d30758d5837eb0ec00235417fc7d/sm204.zip"
+ ]
 }

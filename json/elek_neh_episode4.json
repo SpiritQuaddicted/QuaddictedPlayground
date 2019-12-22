@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6d8cffc8554b45fa995db9caa675e701",
+ "sha256": "038a48fd95fb3b128d4afd64336054110d537cca849e428ec1faf31d05a630a4",
  "filename": [
   "elek_neh_episode4.zip"
  ],
@@ -12,7 +12,12 @@
   "tag:episode",
   "tag:nehahra",
   "tag:planetquake-map-of-the-week",
-  "dependency:nehahra"
+  "dependency:nehahra",
+  "startmap:neh3st",
+  "startmap:neh3m1",
+  "startmap:neh3m2",
+  "startmap:neh3m3",
+  "startmap:neh3m4"
  ],
  "install": {
   "extract": "{quake}/"
@@ -70,5 +75,9 @@
    "size": 319,
    "timestamp": "2009-04-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/elek_neh_episode4.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/038a48fd95fb3b128d4afd64336054110d537cca849e428ec1faf31d05a630a4/elek_neh_episode4.zip"
+ ]
 }

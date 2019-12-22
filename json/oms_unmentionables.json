@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3f4b4b86ba4989558a45c29ee955ccf5",
+ "sha256": "56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920",
  "filename": [
   "oms_unmentionables.zip"
  ],
@@ -16,7 +16,9 @@
   "tag:textures",
   "tag:canyon",
   "tag:hard",
-  "tag:outdoor"
+  "tag:outdoor",
+  "startmap:oms24",
+  "startmap:oms25"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -34,5 +36,9 @@
    "size": 1708,
    "timestamp": "2012-10-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/oms_unmentionables.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920/oms_unmentionables.zip"
+ ]
 }

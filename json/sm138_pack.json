@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6794b3d549e17e43ce4b7d756fb92322",
+ "sha256": "9f465846c824e1c7fdb8f6dd86da3a8265bb6c87839d834aceaa4903f268e355",
  "filename": [
   "sm138_pack.zip"
  ],
@@ -9,7 +9,9 @@
  "tags": [
   "title:Speedmapping pack 138 - Tanks",
   "author:negke",
-  "author:Trinca"
+  "author:Trinca",
+  "startmap:sm138_neg!ke",
+  "startmap:sm138_trinca"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -31,5 +33,9 @@
    "size": 1214,
    "timestamp": "2007-10-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm138_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9f465846c824e1c7fdb8f6dd86da3a8265bb6c87839d834aceaa4903f268e355/sm138_pack.zip"
+ ]
 }

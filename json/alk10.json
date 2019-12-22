@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "af3af3607c3c02642395d5a8071b4edc",
+ "sha256": "5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f",
  "filename": [
   "alk10.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:episode",
   "tag:nehahra",
   "tag:planetquake-map-of-the-week",
-  "dependency:nehahra"
+  "dependency:nehahra",
+  "startmap:alk10a"
  ],
  "install": {
   "extract": "{quake}/"
@@ -37,5 +38,9 @@
    "size": 7092014,
    "timestamp": "2001-08-05"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/alk10.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f/alk10.zip"
+ ]
 }

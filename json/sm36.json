@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "606c39dbf865c9141c7dbd2b57e26b64",
+ "sha256": "1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23",
  "filename": [
   "sm36.zip"
  ],
@@ -14,7 +14,8 @@
   "author:Xen",
   "tag:base",
   "tag:chainmap",
-  "tag:large"
+  "tag:large",
+  "startmap:sm36"
  ],
  "install": {
   "extract": "{quake}/sm36/"
@@ -32,5 +33,9 @@
    "size": 4746020,
    "timestamp": "2002-10-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm36.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23/sm36.zip"
+ ]
 }

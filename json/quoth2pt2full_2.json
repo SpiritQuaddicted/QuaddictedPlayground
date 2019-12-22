@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "1a79993d51f52f75353ea70fb39f2599",
+ "sha256": "9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139",
  "filename": [
   "quoth2pt2full_2.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Preach",
   "author:necros",
   "author:Kell",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -41,5 +42,9 @@
    "size": 2221,
    "timestamp": "2014-05-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/quoth2pt2full_2.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9fce1af35ef7f635990be949d75f7faa18cc198bc19d9adc7d0575e234ab1139/quoth2pt2full_2.zip"
+ ]
 }

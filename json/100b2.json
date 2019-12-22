@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "160cd1708855587b3aedda75c7915fbc",
+ "sha256": "c67b3623f1aa362d5da8fe39c134b0a66ea84a54168cde5508c72aa6cabb8a79",
  "filename": [
   "100b2.zip"
  ],
@@ -17,7 +17,18 @@
   "author:Rcktrob",
   "author:Scragbait",
   "tag:100b",
-  "tag:contest"
+  "tag:contest",
+  "startmap:aard100",
+  "startmap:bz100b",
+  "startmap:czgtoxic",
+  "startmap:czg_moon",
+  "startmap:ftfs100b",
+  "startmap:n3_100b",
+  "startmap:r100br",
+  "startmap:school",
+  "startmap:spring",
+  "startmap:start",
+  "startmap:titanic"
  ],
  "install": {
   "extract": "{quake}/100b2/"
@@ -163,5 +174,9 @@
    "size": 120,
    "timestamp": "2001-05-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/100b2.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c67b3623f1aa362d5da8fe39c134b0a66ea84a54168cde5508c72aa6cabb8a79/100b2.zip"
+ ]
 }

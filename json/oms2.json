@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "e995b03695c5ea7e854988fd8f087283",
+ "sha256": "491ed917cc73172b24e949153868b91bd5671c2f140bbeeb3539df95af777151",
  "filename": [
   "oms2.zip"
  ],
@@ -8,7 +8,8 @@
  "releasedate": "2007-02-02",
  "tags": [
   "title:Orlmap Series 2: The first half",
-  "author:ORL"
+  "author:ORL",
+  "startmap:oms21"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -34,5 +35,9 @@
    "size": 4561824,
    "timestamp": "2007-02-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/oms2.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/491ed917cc73172b24e949153868b91bd5671c2f140bbeeb3539df95af777151/oms2.zip"
+ ]
 }

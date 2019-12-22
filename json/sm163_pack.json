@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ac3a89292079172d4b3e7d2985821990",
+ "sha256": "149ba04887edb01a3c4ff801b17d5a4fddca18fdf90e433ca7f3f5d80a462aca",
  "filename": [
   "sm163_pack.zip"
  ],
@@ -9,7 +9,9 @@
  "tags": [
   "title:Speedmapping pack 163 - Unthemed",
   "author:negke",
-  "author:Zwiffle"
+  "author:Zwiffle",
+  "startmap:sm163_negke",
+  "startmap:sm163_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -27,5 +29,9 @@
    "size": 443536,
    "timestamp": "2011-04-10"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm163_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/149ba04887edb01a3c4ff801b17d5a4fddca18fdf90e433ca7f3f5d80a462aca/sm163_pack.zip"
+ ]
 }

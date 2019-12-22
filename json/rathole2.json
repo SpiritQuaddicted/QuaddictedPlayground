@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "88ea0ab7f5b3a7b0ebe298f41d56c9d3",
+ "sha256": "5caad189a0b1a1e78fb014aa47c8130f1a6b7cf90dc18fd77a2dd69d4a66d924",
  "filename": [
   "rathole2.zip"
  ],
@@ -13,7 +13,8 @@
   "tag:metal",
   "tag:tiny",
   "tag:vertical",
-  "tag:dm"
+  "tag:dm",
+  "startmap:rathole2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -35,5 +36,9 @@
    "size": 4166,
    "timestamp": "1997-03-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rathole2.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5caad189a0b1a1e78fb014aa47c8130f1a6b7cf90dc18fd77a2dd69d4a66d924/rathole2.zip"
+ ]
 }

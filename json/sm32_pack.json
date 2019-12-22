@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "80f8058a0b46097c780d9f840eb2a401",
+ "sha256": "396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02",
  "filename": [
   "sm32_pack.zip"
  ],
@@ -18,7 +18,8 @@
   "tag:hexen2",
   "tag:chainmap",
   "tag:koohoo",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:sm32"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +33,9 @@
    "size": 2127304,
    "timestamp": "2001-09-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm32_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02/sm32_pack.zip"
+ ]
 }

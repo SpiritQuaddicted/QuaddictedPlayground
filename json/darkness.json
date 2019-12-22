@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "443ec48d2a6896667875c83e87a9e7dd",
+ "sha256": "3a7c7e849cd175363d2d274f1af872e511eec612107cba1a2c5684645122d449",
  "filename": [
   "darkness.zip"
  ],
@@ -11,7 +11,8 @@
   "author:Tim Elek",
   "tag:medieval",
   "tag:medium",
-  "tag:planetquake-map-of-the-week"
+  "tag:planetquake-map-of-the-week",
+  "startmap:q1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -29,5 +30,9 @@
    "size": 1378,
    "timestamp": "1999-03-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/darkness.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3a7c7e849cd175363d2d274f1af872e511eec612107cba1a2c5684645122d449/darkness.zip"
+ ]
 }

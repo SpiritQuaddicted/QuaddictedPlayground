@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "016f6acf32e4613b25be5ead25adc6af",
+ "sha256": "2a85b1dc2f2451817756fd3b286b3cd63b136bc4479377cc67e8713d5dd54f16",
  "filename": [
   "sm168_pack.zip"
  ],
@@ -11,7 +11,9 @@
   "author:digs",
   "tag:rubicon",
   "tag:maze",
-  "tag:cr8"
+  "tag:cr8",
+  "startmap:sm168_digs",
+  "startmap:sm168_digs2"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -37,5 +39,9 @@
    "size": 1177,
    "timestamp": "2012-07-25"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm168_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2a85b1dc2f2451817756fd3b286b3cd63b136bc4479377cc67e8713d5dd54f16/sm168_pack.zip"
+ ]
 }

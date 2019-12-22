@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "56f95509bb5cb0fc4ed1e0a8b57e2826",
+ "sha256": "e31bcd4a9f0fd910481263cd92e8f5612124cc015bd7319ecce695c6188bfe04",
  "filename": [
   "sm139_pack.zip"
  ],
@@ -11,7 +11,10 @@
   "author:negke",
   "author:Spirit",
   "author:Speedy",
-  "tag:spd"
+  "tag:spd",
+  "startmap:sm139_neg!ke",
+  "startmap:sm139_spirit",
+  "startmap:sm139_spd"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +36,9 @@
    "size": 1306,
    "timestamp": "2007-11-04"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm139_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e31bcd4a9f0fd910481263cd92e8f5612124cc015bd7319ecce695c6188bfe04/sm139_pack.zip"
+ ]
 }

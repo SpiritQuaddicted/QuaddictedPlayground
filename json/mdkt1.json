@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "662b8184e25bac79d55f6b34f3440f68",
+ "sha256": "216b1c48f9f64a515dcb2d70f95194f3def2b3fafc46228c6eefaa551ce4e3a2",
  "filename": [
   "mdkt1.zip"
  ],
@@ -11,7 +11,8 @@
   "author:JAR",
   "tag:small",
   "tag:base",
-  "tag:canyon"
+  "tag:canyon",
+  "startmap:mdkt"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -25,5 +26,9 @@
    "size": 1324440,
    "timestamp": "1997-07-02"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/mdkt1.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/216b1c48f9f64a515dcb2d70f95194f3def2b3fafc46228c6eefaa551ce4e3a2/mdkt1.zip"
+ ]
 }

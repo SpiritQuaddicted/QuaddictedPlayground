@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5c97f9b81e13524f90fc72a8fd1450fc",
+ "sha256": "d8c7465315cc91c3059299d577352a0ef28c3b4d60c9b649e9d11259e81479b3",
  "filename": [
   "4fiffy6.zip"
  ],
@@ -10,7 +10,8 @@
   "title:REoL TOUGH: O-Negative!",
   "author:George J. Fiffy II",
   "tag:medium",
-  "tag:base"
+  "tag:base",
+  "startmap:fiffy6"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -32,5 +33,9 @@
    "size": 481831,
    "timestamp": "1997-11-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/4fiffy6.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d8c7465315cc91c3059299d577352a0ef28c3b4d60c9b649e9d11259e81479b3/4fiffy6.zip"
+ ]
 }

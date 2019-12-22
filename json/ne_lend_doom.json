@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "172889b0f642c63849090a7d011d1c82",
+ "sha256": "39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3",
  "filename": [
   "ne_lend_doom.zip"
  ],
@@ -22,7 +22,9 @@
   "tag:unreal",
   "tag:doom",
   "tag:rtgnosis",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:ne_lend",
+  "startmap:ne_doom"
  ],
  "install": {
   "extract": "{quake}/quoth/"
@@ -132,5 +134,9 @@
    "size": 1022,
    "timestamp": "2008-08-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ne_lend_doom.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3/ne_lend_doom.zip"
+ ]
 }

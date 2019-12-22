@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "a154a423ff3d2cc76586d7fa9d649c80",
+ "sha256": "c38af7e50ee791b94accbfe97285499571b6b212ad09142fff44ea9c9c18349e",
  "filename": [
   "masque_final.zip"
  ],
@@ -13,7 +13,9 @@
   "tag:medieval",
   "tag:soa",
   "tag:limits",
-  "tag:canyon"
+  "tag:canyon",
+  "startmap:masquestart",
+  "startmap:masque"
  ],
  "install": {
   "extract": "{quake}/masque_final/"
@@ -27,5 +29,9 @@
    "size": 9295949,
    "timestamp": "2006-10-13"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/masque_final.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c38af7e50ee791b94accbfe97285499571b6b212ad09142fff44ea9c9c18349e/masque_final.zip"
+ ]
 }

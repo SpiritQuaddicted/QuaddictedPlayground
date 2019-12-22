@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f5a04f7d938eef9be22dc322d7169e37",
+ "sha256": "ef1cff59d970ef6418aa998dfb25d744558fc533accac7bc8467da4d5d42a846",
  "filename": [
   "c2000.zip"
  ],
@@ -12,7 +12,10 @@
   "tag:realism",
   "tag:city",
   "tag:episode",
-  "tag:small"
+  "tag:small",
+  "startmap:c2000a",
+  "startmap:c2000b",
+  "startmap:c2000c"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -38,5 +41,9 @@
    "size": 150,
    "timestamp": "2014-11-30"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/c2000.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ef1cff59d970ef6418aa998dfb25d744558fc533accac7bc8467da4d5d42a846/c2000.zip"
+ ]
 }

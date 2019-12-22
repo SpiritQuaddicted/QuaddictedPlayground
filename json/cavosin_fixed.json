@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "64055853e9198419ce796c9b818667ab",
+ "sha256": "0477a5f71c95d7be258647ed0d2d993a954f5d0839e9215571a00a68b6aef38f",
  "filename": [
   "cavosin_fixed.zip"
  ],
@@ -15,7 +15,8 @@
   "tag:dark",
   "tag:tricks",
   "tag:traps",
-  "tag:low ammo"
+  "tag:low ammo",
+  "startmap:cavosin"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +34,9 @@
    "size": 824,
    "timestamp": "2008-08-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cavosin_fixed.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/0477a5f71c95d7be258647ed0d2d993a954f5d0839e9215571a00a68b6aef38f/cavosin_fixed.zip"
+ ]
 }

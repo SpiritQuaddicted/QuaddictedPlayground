@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7136f21ff40122ca962d24982053a371",
+ "sha256": "d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d",
  "filename": [
   "ad_v1_50final.zip"
  ],
@@ -45,7 +45,38 @@
   "tag:shrimp",
   "tag:start",
   "tag:particles",
-  "tag:arcanedimensions"
+  "tag:arcanedimensions",
+  "startmap:start",
+  "startmap:ad_chapters",
+  "startmap:start_test",
+  "startmap:ad_crucial",
+  "startmap:ad_dm1",
+  "startmap:ad_dm5",
+  "startmap:ad_e2m7",
+  "startmap:ad_end",
+  "startmap:ad_lavatomb",
+  "startmap:ad_mountain",
+  "startmap:ad_necrokeep",
+  "startmap:ad_obd",
+  "startmap:ad_swampy",
+  "startmap:ad_test1",
+  "startmap:ad_test10",
+  "startmap:ad_test11",
+  "startmap:ad_test2",
+  "startmap:ad_test3",
+  "startmap:ad_test4",
+  "startmap:ad_test5",
+  "startmap:ad_test6",
+  "startmap:ad_test7",
+  "startmap:ad_test8",
+  "startmap:ad_test9",
+  "startmap:ad_azad",
+  "startmap:az_zendar",
+  "startmap:ad_tfuma",
+  "startmap:ad_e1m1",
+  "startmap:ad_e2m2",
+  "startmap:ad_magna",
+  "startmap:ad_metmon"
  ],
  "install": {
   "extract": "{quake}/ad/"
@@ -7191,5 +7222,9 @@
    "size": 49170,
    "timestamp": "2015-12-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_v1_50final.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d78fa2e7f022d011b364ba3c686806264f1c1bf838469f2dfed53fc0697eb20d/ad_v1_50final.zip"
+ ]
 }

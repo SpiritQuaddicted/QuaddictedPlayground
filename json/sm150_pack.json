@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "aeb2b9a678516a265cdfbf96aaf552e2",
+ "sha256": "3fc40f3839f732f419127991a79a1f4a9670447f6c85b9c2de80b75558c41c18",
  "filename": [
   "sm150_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 150 - 150",
   "author:ericw",
   "author:NahkahiiR",
-  "author:Spirit"
+  "author:Spirit",
+  "startmap:sm150_ericw",
+  "startmap:sm150_nahk",
+  "startmap:sm150_spirit"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -44,5 +47,9 @@
    "size": 380188,
    "timestamp": "2008-12-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm150_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3fc40f3839f732f419127991a79a1f4a9670447f6c85b9c2de80b75558c41c18/sm150_pack.zip"
+ ]
 }

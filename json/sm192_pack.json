@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "f881b6d98dd6afbe3af55598f2af4e10",
+ "sha256": "5aa3cf52ac4603a2d311ad1ba48c44a2c00971386b9eab80e3abcd41dcb7d01a",
  "filename": [
   "sm192_pack.zip"
  ],
@@ -13,7 +13,13 @@
   "author:ionous",
   "author:ish",
   "author:Naitelveni",
-  "author:Pinchy"
+  "author:Pinchy",
+  "startmap:sm192_digs",
+  "startmap:sm192_ing",
+  "startmap:sm192_ionous",
+  "startmap:sm192_ish",
+  "startmap:sm192_naitelveni",
+  "startmap:sm192_pinchy"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -139,5 +145,9 @@
    "size": 1221,
    "timestamp": "2019-02-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm192_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5aa3cf52ac4603a2d311ad1ba48c44a2c00971386b9eab80e3abcd41dcb7d01a/sm192_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "8b0b8909b61bca9f6865f5197372de33",
+ "sha256": "3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af",
  "filename": [
   "sm1_pack.zip"
  ],
@@ -11,7 +11,10 @@
   "author:Scampie",
   "author:bear",
   "author:RPG",
-  "tag:nomonsters"
+  "tag:nomonsters",
+  "startmap:sm1_scampie",
+  "startmap:sm1_rpg",
+  "startmap:sm1_bear"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -33,5 +36,9 @@
    "size": 153912,
    "timestamp": "2001-03-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm1_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af/sm1_pack.zip"
+ ]
 }

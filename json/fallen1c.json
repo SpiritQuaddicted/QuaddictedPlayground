@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "faace038ff5b545a5587c34b574e5731",
+ "sha256": "21298b607b18a815273ffa93d010d31ca1ea71bf62d66ab7c888bdd38d2d845b",
  "filename": [
   "fallen1c.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:traps",
   "tag:skybox",
   "tag:retro jam",
-  "tag:retrojam"
+  "tag:retrojam",
+  "startmap:fallen"
  ],
  "install": {
   "extract": "{quake}//fallen1c"
@@ -32,5 +33,9 @@
    "size": 733727,
    "timestamp": "2014-11-29"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/fallen1c.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/21298b607b18a815273ffa93d010d31ca1ea71bf62d66ab7c888bdd38d2d845b/fallen1c.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d155df165365a26f64682eaa0031d394",
+ "sha256": "81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468",
  "filename": [
   "hub.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:wizard",
   "tag:source",
   "tag:medium",
-  "tag:start"
+  "tag:start",
+  "startmap:hubskill"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -40,5 +41,9 @@
    "size": 2348,
    "timestamp": "1997-07-31"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/hub.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468/hub.zip"
+ ]
 }

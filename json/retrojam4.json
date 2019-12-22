@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "371ebed5cc069729b49dcefdbc824b93",
+ "sha256": "da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255",
  "filename": [
   "retrojam4.zip"
  ],
@@ -30,7 +30,15 @@
   "tag:medium",
   "tag:green",
   "tag:mapjam",
-  "tag:halloween"
+  "tag:halloween",
+  "startmap:retrojam4_ericw",
+  "startmap:retrojam4_fifth",
+  "startmap:retrojam4_pulsar",
+  "startmap:retrojam4_tens",
+  "startmap:retrojam4_textfish",
+  "startmap:retrojam4_scampie",
+  "startmap:retrojam4_skacky",
+  "startmap:retrojam4_zwiffle"
  ],
  "install": {
   "extract": "{quake}/retrojam4"
@@ -144,5 +152,9 @@
    "size": 515406,
    "timestamp": "2015-10-31"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/retrojam4.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255/retrojam4.zip"
+ ]
 }

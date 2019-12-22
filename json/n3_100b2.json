@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "577422ea05c051a1c482b993afeea01e",
+ "sha256": "39ffc75c1ba398c3219184ed7e493a8e27539a05b595e3afd759764743c2766b",
  "filename": [
   "n3_100b2.zip"
  ],
@@ -8,7 +8,8 @@
  "releasedate": "2001-04-23",
  "tags": [
   "title:oH gOd!",
-  "author:necros"
+  "author:necros",
+  "startmap:n3_100b"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -22,5 +23,9 @@
    "size": 516656,
    "timestamp": "2001-04-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/n3_100b2.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/39ffc75c1ba398c3219184ed7e493a8e27539a05b595e3afd759764743c2766b/n3_100b2.zip"
+ ]
 }

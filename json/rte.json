@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "656dc686c8d8bad7c05ac2ebac1c6614",
+ "sha256": "04fb25c74b074552d5b6d9ce077adeed67dc66e0919f11cd61111dcb2943d9b3",
  "filename": [
   "rte.zip"
  ],
@@ -14,7 +14,11 @@
   "tag:temple",
   "tag:mixtex",
   "tag:nonlinear",
-  "tag:maze"
+  "tag:maze",
+  "startmap:blood",
+  "startmap:fate",
+  "startmap:temple",
+  "startmap:ware1"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -40,5 +44,9 @@
    "size": 8092,
    "timestamp": "2001-07-24"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/rte.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/04fb25c74b074552d5b6d9ce077adeed67dc66e0919f11cd61111dcb2943d9b3/rte.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ea1dea44bdc16149e3f412b5cd923cf6",
+ "sha256": "9724bff7f8e23d2a49cab2b95118595b8b897c3a31075b30a46e33c04b142698",
  "filename": [
   "sm200_pack.zip"
  ],
@@ -18,7 +18,11 @@
   "author:Pinchy Skree",
   "author:Ukko",
   "author:Vurkka",
-  "author:Zungryware"
+  "author:Zungryware",
+  "startmap:sm200a",
+  "startmap:sm200b",
+  "startmap:sm200c",
+  "startmap:sm200d"
  ],
  "install": {
   "extract": "{quake}/id1/"
@@ -76,5 +80,9 @@
    "size": 1883,
    "timestamp": "2019-08-18"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm200_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9724bff7f8e23d2a49cab2b95118595b8b897c3a31075b30a46e33c04b142698/sm200_pack.zip"
+ ]
 }

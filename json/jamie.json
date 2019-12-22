@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "af1325dc8df14f61ed674da47f4b76e0",
+ "sha256": "a094648f10bb284cdbc2a3b5acdd40b48c23055e363a8d317680c5945e58d178",
  "filename": [
   "jamie.zip"
  ],
@@ -10,7 +10,8 @@
   "title:welcome fuckhead(there is a story.too long)",
   "author:marilyn",
   "tag:wizard",
-  "tag:source"
+  "tag:source",
+  "startmap:jamie1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -28,5 +29,9 @@
    "size": 255759,
    "timestamp": "1997-09-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/jamie.zip",
+  "https://www.quaddicted.com/files/by-sha256/a/a094648f10bb284cdbc2a3b5acdd40b48c23055e363a8d317680c5945e58d178/jamie.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ff2093d0ac53cc211f9a896dc39c94a6",
+ "sha256": "2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a",
  "filename": [
   "polybase.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Polygon Base",
   "author:Rick Lipsey",
   "tag:base",
-  "tag:doom port"
+  "tag:doom port",
+  "startmap:polygon"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -24,5 +25,9 @@
    "size": 2060300,
    "timestamp": "1998-03-15"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/polybase.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a/polybase.zip"
+ ]
 }

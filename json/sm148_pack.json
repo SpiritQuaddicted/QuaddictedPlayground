@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "7a51ed34f4f24ee2611bb45791cb0417",
+ "sha256": "ec56481bba2babd4d22bea655844ef461f917ad5667dee3127a637fb3725ce48",
  "filename": [
   "sm148_pack.zip"
  ],
@@ -10,7 +10,10 @@
   "title:Speedmapping pack 148 - Don't touch that!",
   "author:ericw",
   "author:Spirit",
-  "author:Willem"
+  "author:Willem",
+  "startmap:sm148_ericw",
+  "startmap:sm148_spirit",
+  "startmap:sm148_willem"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -36,5 +39,9 @@
    "size": 116332,
    "timestamp": "2008-11-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm148_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ec56481bba2babd4d22bea655844ef461f917ad5667dee3127a637fb3725ce48/sm148_pack.zip"
+ ]
 }

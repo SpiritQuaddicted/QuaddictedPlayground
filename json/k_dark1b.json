@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "d1372538f19e2b4289aae02fae2a56f1",
+ "sha256": "747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8",
  "filename": [
   "k_dark1b.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Keep it dark!",
   "author:Ludovic Texier",
   "tag:small",
-  "tag:dm"
+  "tag:dm",
+  "startmap:k_dark1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -24,5 +25,9 @@
    "size": 2135,
    "timestamp": "1996-08-12"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/k_dark1b.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8/k_dark1b.zip"
+ ]
 }

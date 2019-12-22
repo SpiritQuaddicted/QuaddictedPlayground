@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "74a743b4c5e95febc6dd590fd0030c4f",
+ "sha256": "783343eeaea49226e16af2abe7563ef64e4f25cf955f2f942a8d8f7f6e4f3997",
  "filename": [
   "explorejam2.zip"
  ],
@@ -29,7 +29,12 @@
   "tag:source",
   "tag:skybox",
   "tag:swamp",
-  "tag:no monsters"
+  "tag:no monsters",
+  "startmap:explorejam2_bloughsburgh",
+  "startmap:explorejam2_naitelveni",
+  "startmap:explorejam2_newhouse",
+  "startmap:explorejam2_pulsar",
+  "startmap:explorejam2_topher"
  ],
  "install": {
   "extract": "{quake}/explorejam2"
@@ -211,5 +216,9 @@
    "size": 373347,
    "timestamp": "2017-01-08"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/explorejam2.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/783343eeaea49226e16af2abe7563ef64e4f25cf955f2f942a8d8f7f6e4f3997/explorejam2.zip"
+ ]
 }

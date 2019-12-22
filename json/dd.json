@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "6ffa563502ae0cc43478ed28c3eeb424",
+ "sha256": "8d7ede6e224d4e4d194cd89202a2fd648bf7a51be16411e659a4a4ec78ce2fe6",
  "filename": [
   "dd.zip"
  ],
@@ -20,7 +20,8 @@
   "tag:hipnotic",
   "tag:soa",
   "tag:traps",
-  "dependency:hipnotic"
+  "dependency:hipnotic",
+  "startmap:start"
  ],
  "install": {
   "extract": "{quake}/dd/"
@@ -46,5 +47,9 @@
    "size": 3520,
    "timestamp": "1997-10-19"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/dd.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8d7ede6e224d4e4d194cd89202a2fd648bf7a51be16411e659a4a4ec78ce2fe6/dd.zip"
+ ]
 }

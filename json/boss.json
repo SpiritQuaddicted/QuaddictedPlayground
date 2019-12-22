@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "45a16465a437097338c55bfa9e459ea6",
+ "sha256": "61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934",
  "filename": [
   "boss.zip"
  ],
@@ -14,7 +14,8 @@
   "tag:chthon",
   "tag:crap",
   "tag:progs",
-  "tag:boss"
+  "tag:boss",
+  "startmap:boss"
  ],
  "install": {
   "extract": "{quake}/"
@@ -44,5 +45,9 @@
    "size": 61060,
    "timestamp": "1996-08-03"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/boss.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934/boss.zip"
+ ]
 }

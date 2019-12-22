@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ab98bba3db724ed6a14aaa183de7a9f6",
+ "sha256": "d0d01d2e9349d89fdcc7892d57ac418b2c5ed6aff703ffd96722a0590d289aea",
  "filename": [
   "tmqe06_pack.zip"
  ],
@@ -15,7 +15,11 @@
   "tag:medium",
   "tag:medieval",
   "tag:metal",
-  "tag:bricks"
+  "tag:bricks",
+  "startmap:tmqe06_headthump",
+  "startmap:tmqe06_popacabra",
+  "startmap:tmqe06_trinca",
+  "startmap:tmqe06_zwiffle"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -41,5 +45,9 @@
    "size": 1183916,
    "timestamp": "2006-07-28"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/tmqe06_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d0d01d2e9349d89fdcc7892d57ac418b2c5ed6aff703ffd96722a0590d289aea/tmqe06_pack.zip"
+ ]
 }

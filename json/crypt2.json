@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "ff9eac572acdcc4bef149bb7a1526cc2",
+ "sha256": "253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb",
  "filename": [
   "crypt2.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:metal",
   "tag:source",
-  "tag:tiny"
+  "tag:tiny",
+  "startmap:crypt"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 481748,
    "timestamp": "1997-03-11"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/crypt2.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb/crypt2.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3e01d1284757b6155bf7bbfd2815d66d",
+ "sha256": "27326b467fdcd1c4db69326b42fc0748b4190943f1a492e052d48f4e4041cb7e",
  "filename": [
   "thisistx.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:small",
   "tag:base",
   "tag:source",
-  "tag:dm"
+  "tag:dm",
+  "startmap:thisiste"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -30,5 +31,9 @@
    "size": 1328,
    "timestamp": "1996-08-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/thisistx.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/27326b467fdcd1c4db69326b42fc0748b4190943f1a492e052d48f4e4041cb7e/thisistx.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "4fd7b3b82fd9eaad9f9ad4bc6a508703",
+ "sha256": "84fc9bcb209fceeac4c76304554654f17f78bc7e945d28d014cfaea8ddd135f0",
  "filename": [
   "sm164_pack.zip"
  ],
@@ -12,7 +12,11 @@
   "author:necros",
   "author:negke",
   "author:ZealousQuakeFan",
-  "dependency:quoth"
+  "dependency:quoth",
+  "startmap:sm164_digs",
+  "startmap:sm164_necros",
+  "startmap:sm164_negke",
+  "startmap:sm164_zqf1"
  ],
  "install": {
   "extract": "{quake}/id1/maps"
@@ -54,5 +58,9 @@
    "size": 1396708,
    "timestamp": "2011-06-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm164_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/84fc9bcb209fceeac4c76304554654f17f78bc7e945d28d014cfaea8ddd135f0/sm164_pack.zip"
+ ]
 }

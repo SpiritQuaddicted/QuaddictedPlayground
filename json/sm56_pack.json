@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "fc4b461a3472a47a05ce2ad678e9891c",
+ "sha256": "7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974",
  "filename": [
   "sm56_pack.zip"
  ],
@@ -16,7 +16,16 @@
   "author:RPG",
   "author:Scampie",
   "author:Xenon",
-  "tag:qtwid"
+  "tag:qtwid",
+  "startmap:sm56_pulsar",
+  "startmap:sm56_czg",
+  "startmap:sm56_hrim",
+  "startmap:sm56_lev",
+  "startmap:sm56_moz1",
+  "startmap:sm56_moz2",
+  "startmap:sm56_rpg",
+  "startmap:sm56_scampie",
+  "startmap:sm56_xen"
  ],
  "install": {
   "extract": "{quake}/"
@@ -66,5 +75,9 @@
    "size": 630488,
    "timestamp": "2003-11-06"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm56_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974/sm56_pack.zip"
+ ]
 }

@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "3912eec5a308e51f05efb03aecb60ccf",
+ "sha256": "b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46",
  "filename": [
   "cyberelic1.zip"
  ],
@@ -13,7 +13,9 @@
   "tag:episode",
   "tag:medieval",
   "tag:dm",
-  "tag:broken_injector"
+  "tag:broken_injector",
+  "startmap:cr1",
+  "startmap:crdm1"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -51,5 +53,9 @@
    "size": 960054,
    "timestamp": "1998-07-21"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/cyberelic1.zip",
+  "https://www.quaddicted.com/files/by-sha256/b/b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46/cyberelic1.zip"
+ ]
 }

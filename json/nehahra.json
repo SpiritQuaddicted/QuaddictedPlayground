@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "878693eadf73d5fffcaf6715e1b058bb",
+ "sha256": "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c",
  "filename": [
   "nehahra.zip"
  ],
@@ -20,7 +20,8 @@
   "tag:decon",
   "tag:rubicon",
   "tag:mustplay",
-  "tag:cutscenes"
+  "tag:cutscenes",
+  "startmap:nehstart"
  ],
  "install": {
   "extract": "{quake}/"
@@ -170,5 +171,9 @@
    "size": 577024,
    "timestamp": "2000-08-27"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/nehahra.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c/nehahra.zip"
+ ]
 }

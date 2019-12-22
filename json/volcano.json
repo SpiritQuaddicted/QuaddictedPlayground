@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5de2b74a13d729b877adcaab5a6c3e2b",
+ "sha256": "9fbd1a7a9ca74616ed4a56785cb0fbb347e58ce2550c79ade8a5c95ff5059942",
  "filename": [
   "volcano.zip"
  ],
@@ -10,7 +10,8 @@
   "title:Eruption is immanent!",
   "author:Trace Stuart",
   "tag:small",
-  "tag:medieval"
+  "tag:medieval",
+  "startmap:volcano2"
  ],
  "install": {
   "extract": "{quake}/id1/maps"
@@ -24,5 +25,9 @@
    "size": 3407,
    "timestamp": "1998-05-20"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/volcano.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9fbd1a7a9ca74616ed4a56785cb0fbb347e58ce2550c79ade8a5c95ff5059942/volcano.zip"
+ ]
 }

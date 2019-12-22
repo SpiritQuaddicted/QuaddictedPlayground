@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "5cbf0ddf0dbe32899abfded842a4b0d1",
+ "sha256": "8eb8aac8822723d303523f6001a428a1070d659d7769c5bf3b9efc0085e7ead5",
  "filename": [
   "escape.zip"
  ],
@@ -16,7 +16,8 @@
   "tag:boss",
   "tag:prison",
   "tag:rats",
-  "tag:fish"
+  "tag:fish",
+  "startmap:harbstar"
  ],
  "install": {
   "extract": "{quake}/escape/"
@@ -66,5 +67,9 @@
    "size": 137841,
    "timestamp": "1999-04-09"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/escape.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8eb8aac8822723d303523f6001a428a1070d659d7769c5bf3b9efc0085e7ead5/escape.zip"
+ ]
 }

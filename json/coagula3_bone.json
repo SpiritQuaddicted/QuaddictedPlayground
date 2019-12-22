@@ -1,6 +1,6 @@
 {
  "version": "20191222-0",
- "md5": "0b94ff8f2e5fbed17a9e84f006464227",
+ "sha256": "ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b",
  "filename": [
   "coagula3_bone.zip"
  ],
@@ -12,7 +12,8 @@
   "tag:space map",
   "tag:blue",
   "tag:dkt",
-  "tag:small"
+  "tag:small",
+  "startmap:coagula3"
  ],
  "install": {
   "extract": "{quake}/id1/maps/"
@@ -26,5 +27,9 @@
    "size": 3005,
    "timestamp": "2001-07-23"
   }
- }
+ },
+ "urls": [
+  "https://www.quaddicted.com/filebase/coagula3_bone.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b/coagula3_bone.zip"
+ ]
 }
