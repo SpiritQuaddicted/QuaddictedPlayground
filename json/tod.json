@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "1b72fb1c1ebd564c05d2367448ff8495",
+ "filename": [
+  "tod.zip"
+ ],
+ "size": 130,
+ "releasedate": "1996-10-23",
+ "tags": [
+  "title:Tower of Death",
+  "author:Scott McNutt",
+  "tag:small",
+  "tag:wizard"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "TOD.TXT": {
+   "size": 4330,
+   "timestamp": "1996-10-23"
+  },
+  "TOD.BSP": {
+   "size": 308148,
+   "timestamp": "1996-07-30"
+  }
+ }
+}

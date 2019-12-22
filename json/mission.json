@@ -1,0 +1,31 @@
+{
+ "version": "20191222-0",
+ "md5": "04a33fc9144836c4bf2cae32dfda19ad",
+ "filename": [
+  "mission.zip"
+ ],
+ "size": 589,
+ "releasedate": "1996-12-20",
+ "tags": [
+  "title:MiSsIoN: ImPosSiBlE",
+  "author:Jamis Eichenauer",
+  "tag:small",
+  "tag:mixtex",
+  "tag:base",
+  "tag:cave",
+  "tag:dm"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "mission.txt": {
+   "size": 4314,
+   "timestamp": "1996-12-20"
+  },
+  "mission.bsp": {
+   "size": 1383320,
+   "timestamp": "1996-12-20"
+  }
+ }
+}

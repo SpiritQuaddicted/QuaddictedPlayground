@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "e57da59a2bc0a8c3e75b04ad1cf06aae",
+ "filename": [
+  "thepsyco.zip"
+ ],
+ "size": 428,
+ "releasedate": "1996-10-06",
+ "tags": [
+  "title:The Psychotic Installation",
+  "author:Gunnar Saethre",
+  "tag:small",
+  "tag:wizard",
+  "tag:dm"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Psycho.bsp": {
+   "size": 900596,
+   "timestamp": "1996-10-01"
+  },
+  "psycho.txt": {
+   "size": 1174,
+   "timestamp": "1996-10-06"
+  }
+ }
+}

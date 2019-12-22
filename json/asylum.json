@@ -1,0 +1,33 @@
+{
+ "version": "20191222-0",
+ "md5": "73c9371a045c2d77ed6bbe8d34604a99",
+ "filename": [
+  "asylum.zip"
+ ],
+ "size": 3257,
+ "releasedate": "1997-10-25",
+ "tags": [
+  "title:Trinity Asylum",
+  "author:Phil Daniels",
+  "tag:medium",
+  "tag:textures",
+  "tag:monsters"
+ ],
+ "install": {
+  "extract": "{quake}/asylum/"
+ },
+ "files": {
+  "Config.cfg": {
+   "size": 6443,
+   "timestamp": "1997-11-02"
+  },
+  "pak0.pak": {
+   "size": 6739129,
+   "timestamp": "1997-11-03"
+  },
+  "Asylum.txt": {
+   "size": 2486,
+   "timestamp": "1997-10-28"
+  }
+ }
+}

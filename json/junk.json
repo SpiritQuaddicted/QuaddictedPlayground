@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "80abe490befa2cf44f2cf70971c3eb7e",
+ "filename": [
+  "junk.zip"
+ ],
+ "size": 905,
+ "releasedate": "1997-11-02",
+ "tags": [
+  "title:Junk",
+  "author:Rodney Johnstone",
+  "tag:base",
+  "tag:dark",
+  "tag:reactor"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "junk.txt": {
+   "size": 2326,
+   "timestamp": "1997-11-02"
+  },
+  "junk.bsp": {
+   "size": 2281728,
+   "timestamp": "1997-11-02"
+  }
+ }
+}

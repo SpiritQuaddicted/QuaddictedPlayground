@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "8535293e67cb4958d8b4baaa3fff5d0d",
+ "filename": [
+  "mayhem.zip"
+ ],
+ "size": 223,
+ "releasedate": "1996-10-29",
+ "tags": [
+  "title:Mayhem",
+  "author:Oskar Resler",
+  "tag:small",
+  "tag:wizard"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "MAYHEM.TXT": {
+   "size": 2503,
+   "timestamp": "1996-10-29"
+  },
+  "MAYHEM.BSP": {
+   "size": 580424,
+   "timestamp": "1996-10-28"
+  }
+ }
+}

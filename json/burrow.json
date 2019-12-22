@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "a8db37bb6d77242e47b3886cad7d00e3",
+ "filename": [
+  "burrow.zip"
+ ],
+ "size": 396,
+ "releasedate": "1997-09-01",
+ "tags": [
+  "title:Burrow",
+  "author:Jean-Pierre Raumer",
+  "tag:medium",
+  "tag:wizard",
+  "tag:caverns"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Burrow.bsp": {
+   "size": 889228,
+   "timestamp": "1997-01-10"
+  },
+  "burrow.txt": {
+   "size": 1650,
+   "timestamp": "1997-01-10"
+  }
+ }
+}

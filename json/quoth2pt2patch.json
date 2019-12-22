@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "md5": "853742c8101176beb08199e105ba8eef",
+ "filename": [
+  "quoth2pt2patch.zip"
+ ],
+ "size": 2777,
+ "releasedate": "2014-05-04",
+ "tags": [
+  "title:[NUKED]",
+  "author:Preach",
+  "author:necros",
+  "author:Kell",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "files": {
+  "launch.bat": {
+   "size": 6927,
+   "timestamp": "2014-05-03"
+  },
+  "pak2.pak": {
+   "size": 8021749,
+   "timestamp": "2014-05-03"
+  },
+  "quoth.cfg": {
+   "size": 321,
+   "timestamp": "2013-11-11"
+  },
+  "quoth2_2.txt": {
+   "size": 2417,
+   "timestamp": "2014-05-04"
+  }
+ }
+}

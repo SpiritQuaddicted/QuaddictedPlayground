@@ -1,0 +1,35 @@
+{
+ "version": "20191222-0",
+ "md5": "492307b6900f6b4714e9d746435f4156",
+ "filename": [
+  "src2.zip"
+ ],
+ "size": 2695,
+ "releasedate": "2008-03-10",
+ "tags": [
+  "title:SRC2: Slime Refinery Complex - Quoth2 Version",
+  "author:JPL",
+  "tag:base",
+  "tag:doom3",
+  "tag:quoth",
+  "tag:large",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "src2.bsp": {
+   "size": 6975304,
+   "timestamp": "2006-12-12"
+  },
+  "src2.lit": {
+   "size": 1607147,
+   "timestamp": "2006-12-12"
+  },
+  "src2.txt": {
+   "size": 4385,
+   "timestamp": "2008-03-10"
+  }
+ }
+}

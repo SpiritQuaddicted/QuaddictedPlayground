@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "087bc6e8c8987958e37f4ef4ec1918ed",
+ "filename": [
+  "tomb_2.zip"
+ ],
+ "size": 263,
+ "releasedate": "1998-09-29",
+ "tags": [
+  "title:Tomb",
+  "author:Peter Bisseker (tiddles)",
+  "tag:rogue",
+  "tag:egyptian",
+  "tag:maya"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "tomb.txt": {
+   "size": 2117,
+   "timestamp": "1989-10-15"
+  },
+  "tomb.bsp": {
+   "size": 651844,
+   "timestamp": "1998-09-29"
+  }
+ }
+}

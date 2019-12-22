@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "d63703b1a07c7ac405a30ad253bc653c",
+ "filename": [
+  "outpost.zip"
+ ],
+ "size": 553,
+ "releasedate": "1997-08-09",
+ "tags": [
+  "title:Outpost",
+  "author:Creed",
+  "tag:base",
+  "tag:small",
+  "tag:short"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "outpost.txt": {
+   "size": 1601,
+   "timestamp": "1997-08-09"
+  },
+  "outpost.bsp": {
+   "size": 1442940,
+   "timestamp": "1997-08-09"
+  }
+ }
+}

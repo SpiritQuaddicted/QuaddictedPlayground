@@ -1,0 +1,34 @@
+{
+ "version": "20191222-0",
+ "md5": "dd18681b12bfb0094621eeb34f5607e5",
+ "filename": [
+  "wca.zip"
+ ],
+ "size": 560,
+ "releasedate": "1998-07-17",
+ "tags": [
+  "title:Weird comic art Quake",
+  "author:K.S.",
+  "tag:medium",
+  "tag:brick",
+  "tag:traps",
+  "tag:boss"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "WCA.bsp": {
+   "size": 1409968,
+   "timestamp": "1998-07-17"
+  },
+  "wca_jp.txt": {
+   "size": 1361,
+   "timestamp": "1998-06-17"
+  },
+  "WCA.TXT": {
+   "size": 1142,
+   "timestamp": "1998-07-17"
+  }
+ }
+}

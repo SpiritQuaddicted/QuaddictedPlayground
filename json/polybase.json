@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "ff2093d0ac53cc211f9a896dc39c94a6",
+ "filename": [
+  "polybase.zip"
+ ],
+ "size": 857,
+ "releasedate": "1998-04-25",
+ "tags": [
+  "title:Polygon Base",
+  "author:Rick Lipsey",
+  "tag:base",
+  "tag:doom port"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "polygon.txt": {
+   "size": 3725,
+   "timestamp": "1998-04-25"
+  },
+  "polygon.bsp": {
+   "size": 2060300,
+   "timestamp": "1998-03-15"
+  }
+ }
+}

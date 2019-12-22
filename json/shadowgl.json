@@ -1,0 +1,38 @@
+{
+ "version": "20191222-0",
+ "md5": "c67e711e75055844bb57eb8de78c55d0",
+ "filename": [
+  "shadowgl.zip"
+ ],
+ "size": 1020,
+ "releasedate": "1997-02-16",
+ "tags": [
+  "title:Shadow over Innsmouth (GL)",
+  "author:Steve Rescoe",
+  "tag:classic",
+  "tag:medieval",
+  "tag:large",
+  "tag:village",
+  "tag:pyramid",
+  "tag:skins",
+  "tag:town",
+  "tag:planetquake-map-of-the-week"
+ ],
+ "install": {
+  "extract": "{quake}/shadowgl/"
+ },
+ "files": {
+  "config.cfg": {
+   "size": 2202,
+   "timestamp": "2001-09-02"
+  },
+  "Pak0.pak": {
+   "size": 2265080,
+   "timestamp": "2001-09-02"
+  },
+  "Shadow1.txt": {
+   "size": 4064,
+   "timestamp": "1997-03-06"
+  }
+ }
+}

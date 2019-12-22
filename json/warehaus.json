@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "c3930063a25ec32fbc56de78351cf788",
+ "filename": [
+  "warehaus.zip"
+ ],
+ "size": 813,
+ "releasedate": "1997-06-11",
+ "tags": [
+  "title:The Warehouse",
+  "author:Taskmaster (Warren Marshall)",
+  "tag:medium",
+  "tag:base"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "warehaus.txt": {
+   "size": 2006,
+   "timestamp": "1997-07-11"
+  },
+  "warehaus.bsp": {
+   "size": 1840684,
+   "timestamp": "1997-07-05"
+  }
+ }
+}

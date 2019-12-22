@@ -1,0 +1,34 @@
+{
+ "version": "20191222-0",
+ "md5": "3db487e071edc2e4fb00be43d971e870",
+ "filename": [
+  "red777.zip"
+ ],
+ "size": 1845,
+ "releasedate": "2005-11-05",
+ "tags": [
+  "title:Red 777",
+  "author:Kell",
+  "tag:quoth",
+  "tag:knave",
+  "tag:huge",
+  "tag:secrets",
+  "tag:medium",
+  "tag:mustplay",
+  "tag:planetquake-map-of-the-week",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "red777.txt": {
+   "size": 1400,
+   "timestamp": "2005-11-05"
+  },
+  "red777.bsp": {
+   "size": 4802476,
+   "timestamp": "2005-10-19"
+  }
+ }
+}

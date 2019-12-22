@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "67dff0ce8d6a1c84f49cd351e4c707de",
+ "filename": [
+  "shining.zip"
+ ],
+ "size": 79,
+ "releasedate": "1998-12-24",
+ "tags": [
+  "title:The Shining",
+  "author:Jordan Barington",
+  "tag:small",
+  "tag:no exit"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "shining.txt": {
+   "size": 1065,
+   "timestamp": "1998-12-24"
+  },
+  "shining.bsp": {
+   "size": 219300,
+   "timestamp": "1998-12-24"
+  }
+ }
+}

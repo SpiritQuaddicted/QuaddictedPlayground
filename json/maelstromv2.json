@@ -1,0 +1,50 @@
+{
+ "version": "20191222-0",
+ "md5": "2e931fa17d8fe729de3cf15db269f911",
+ "filename": [
+  "maelstromv2.zip"
+ ],
+ "size": 2036,
+ "releasedate": "2005-12-31",
+ "tags": [
+  "title:A Descent into Maelstrom",
+  "author:ijed",
+  "tag:temple",
+  "tag:blue",
+  "tag:nehahra",
+  "dependency:nehahra"
+ ],
+ "install": {
+  "extract": "{quake}/"
+ },
+ "files": {
+  "nehahra/maps/mael.bsp": {
+   "size": 1825824,
+   "timestamp": "2005-12-31"
+  },
+  "nehahra/maps/oval.bsp": {
+   "size": 2454504,
+   "timestamp": "2005-12-31"
+  },
+  "nehahra/maps/agony.bsp": {
+   "size": 2208936,
+   "timestamp": "2005-12-31"
+  },
+  "nehahra/gfx/mael.wad": {
+   "size": 12,
+   "timestamp": "2005-12-25"
+  },
+  "nehahra/MaelstromV2.txt": {
+   "size": 4386,
+   "timestamp": "2005-12-31"
+  },
+  "nehahra/mael.wad": {
+   "size": 12,
+   "timestamp": "2005-12-25"
+  },
+  "maelstromv2_quaddictedrepack.txt": {
+   "size": 319,
+   "timestamp": "2009-04-28"
+  }
+ }
+}

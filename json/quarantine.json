@@ -1,0 +1,31 @@
+{
+ "version": "20191222-0",
+ "md5": "3479c8493be57991255badccb7fb4325",
+ "filename": [
+  "quarantine.zip"
+ ],
+ "size": 1391,
+ "releasedate": "2013-04-08",
+ "tags": [
+  "title:Quarantine",
+  "author:RickyT23",
+  "tag:medium",
+  "tag:base",
+  "tag:quoth",
+  "tag:glass",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "quarantine.bsp": {
+   "size": 3554240,
+   "timestamp": "2013-04-08"
+  },
+  "quarantine.txt": {
+   "size": 2213,
+   "timestamp": "2013-04-08"
+  }
+ }
+}

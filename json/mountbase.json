@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "e31184ae4b87b12c7c7c373a059679d8",
+ "filename": [
+  "mountbase.zip"
+ ],
+ "size": 481,
+ "releasedate": "1997-10-11",
+ "tags": [
+  "title:Mountain Base",
+  "author:Jarkko Heilio",
+  "tag:small",
+  "tag:plain",
+  "tag:medium",
+  "tag:base"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "mountbase.txt": {
+   "size": 2850,
+   "timestamp": "1997-10-11"
+  },
+  "mountbase.bsp": {
+   "size": 1129072,
+   "timestamp": "1997-10-10"
+  }
+ }
+}

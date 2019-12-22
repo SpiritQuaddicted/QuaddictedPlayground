@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "ff9eac572acdcc4bef149bb7a1526cc2",
+ "filename": [
+  "crypt2.zip"
+ ],
+ "size": 226,
+ "releasedate": "1997-03-11",
+ "tags": [
+  "title:Crypt",
+  "author:Dan Edwards",
+  "tag:small",
+  "tag:metal",
+  "tag:source",
+  "tag:tiny"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "crypt.map": {
+   "size": 241513,
+   "timestamp": "1997-03-11"
+  },
+  "crypt.bsp": {
+   "size": 481748,
+   "timestamp": "1997-03-11"
+  }
+ }
+}

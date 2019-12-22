@@ -1,0 +1,35 @@
+{
+ "version": "20191222-0",
+ "md5": "cf22718ddd7027f4a1924ca293de72f7",
+ "filename": [
+  "cmc.zip"
+ ],
+ "size": 1970,
+ "releasedate": "2004-11-20",
+ "tags": [
+  "title:Cheyenne Mountain Complex",
+  "author:JPL",
+  "tag:base",
+  "tag:large",
+  "tag:underground",
+  "tag:textures",
+  "tag:industrial"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "CMC.bsp": {
+   "size": 4401960,
+   "timestamp": "2004-11-22"
+  },
+  "CMC.txt": {
+   "size": 2700,
+   "timestamp": "2004-11-21"
+  },
+  "CMC.lit": {
+   "size": 1801073,
+   "timestamp": "2004-11-22"
+  }
+ }
+}

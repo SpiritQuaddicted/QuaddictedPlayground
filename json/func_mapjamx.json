@@ -1,0 +1,659 @@
+{
+ "version": "20191222-0",
+ "md5": "aa42f754c04b16bf579f83aecc58fc9a",
+ "filename": [
+  "func_mapjamx.zip"
+ ],
+ "size": 112883,
+ "releasedate": "2019-05-07",
+ "tags": [
+  "title:Func Map Jam X - Insomnia Theme",
+  "author:Artistical",
+  "author:Bloodshot",
+  "author:Fairweather",
+  "author:ionous",
+  "author:KalebClark",
+  "author:JCR",
+  "author:Mafon",
+  "author:Mazu",
+  "author:Naitelveni",
+  "author:NewHouse",
+  "author:Pinchy Skree",
+  "author:Strangework",
+  "author:Ukko",
+  "author:Yoder"
+ ],
+ "install": {
+  "extract": "{quake}//"
+ },
+ "files": {
+  "func_mapjamx/docs/JamX_Artistical.txt": {
+   "size": 2022,
+   "timestamp": "2019-05-03"
+  },
+  "func_mapjamx/docs/JamX_ukko.txt": {
+   "size": 2182,
+   "timestamp": "2019-04-30"
+  },
+  "func_mapjamx/docs/jamx_hcm.txt": {
+   "size": 1917,
+   "timestamp": "2019-04-30"
+  },
+  "func_mapjamx/docs/jamx_ionous.txt": {
+   "size": 1591,
+   "timestamp": "2019-05-06"
+  },
+  "func_mapjamx/docs/jamx_jcr.txt": {
+   "size": 2208,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/docs/jamx_kalebclark.txt": {
+   "size": 1727,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/docs/jamx_newhouse_credits.txt": {
+   "size": 151,
+   "timestamp": "2019-05-06"
+  },
+  "func_mapjamx/docs/jamx_pinchy.txt": {
+   "size": 3275,
+   "timestamp": "2019-04-29"
+  },
+  "func_mapjamx/docs/jamx_yoder_readme.txt": {
+   "size": 2216,
+   "timestamp": "2019-04-17"
+  },
+  "func_mapjamx/gfx/env/dejavu_bk.tga": {
+   "size": 786476,
+   "timestamp": "2000-06-20"
+  },
+  "func_mapjamx/gfx/env/dejavu_dn.tga": {
+   "size": 786476,
+   "timestamp": "2000-06-20"
+  },
+  "func_mapjamx/gfx/env/dejavu_ft.tga": {
+   "size": 786476,
+   "timestamp": "2000-06-20"
+  },
+  "func_mapjamx/gfx/env/dejavu_lf.tga": {
+   "size": 786476,
+   "timestamp": "2000-06-20"
+  },
+  "func_mapjamx/gfx/env/dejavu_rt.tga": {
+   "size": 786476,
+   "timestamp": "2000-06-20"
+  },
+  "func_mapjamx/gfx/env/dejavu_up.tga": {
+   "size": 786476,
+   "timestamp": "2000-06-20"
+  },
+  "func_mapjamx/gfx/env/dragonfire_bk.tga": {
+   "size": 584018,
+   "timestamp": "2019-03-29"
+  },
+  "func_mapjamx/gfx/env/dragonfire_dn.tga": {
+   "size": 786742,
+   "timestamp": "2019-03-29"
+  },
+  "func_mapjamx/gfx/env/dragonfire_ft.tga": {
+   "size": 653462,
+   "timestamp": "2019-03-29"
+  },
+  "func_mapjamx/gfx/env/dragonfire_lf.tga": {
+   "size": 577608,
+   "timestamp": "2019-03-29"
+  },
+  "func_mapjamx/gfx/env/dragonfire_rt.tga": {
+   "size": 741280,
+   "timestamp": "2019-03-29"
+  },
+  "func_mapjamx/gfx/env/dragonfire_up.tga": {
+   "size": 255111,
+   "timestamp": "2019-03-29"
+  },
+  "func_mapjamx/gfx/env/dragonheart_bk.tga": {
+   "size": 637657,
+   "timestamp": "2002-11-16"
+  },
+  "func_mapjamx/gfx/env/dragonheart_dn.tga": {
+   "size": 788950,
+   "timestamp": "2002-11-16"
+  },
+  "func_mapjamx/gfx/env/dragonheart_ft.tga": {
+   "size": 734137,
+   "timestamp": "2002-11-15"
+  },
+  "func_mapjamx/gfx/env/dragonheart_lf.tga": {
+   "size": 642705,
+   "timestamp": "2002-11-16"
+  },
+  "func_mapjamx/gfx/env/dragonheart_rt.tga": {
+   "size": 677781,
+   "timestamp": "2002-11-16"
+  },
+  "func_mapjamx/gfx/env/dragonheart_up.tga": {
+   "size": 349636,
+   "timestamp": "2002-11-16"
+  },
+  "func_mapjamx/gfx/env/shol_bk.tga": {
+   "size": 286426,
+   "timestamp": "2003-01-22"
+  },
+  "func_mapjamx/gfx/env/shol_dn.tga": {
+   "size": 139320,
+   "timestamp": "2003-02-20"
+  },
+  "func_mapjamx/gfx/env/shol_ft.tga": {
+   "size": 280100,
+   "timestamp": "2003-01-22"
+  },
+  "func_mapjamx/gfx/env/shol_lf.tga": {
+   "size": 305263,
+   "timestamp": "2003-01-22"
+  },
+  "func_mapjamx/gfx/env/shol_rt.tga": {
+   "size": 303582,
+   "timestamp": "2003-01-22"
+  },
+  "func_mapjamx/gfx/env/shol_up.tga": {
+   "size": 344881,
+   "timestamp": "2004-02-05"
+  },
+  "func_mapjamx/gfx/env/sor_lake1/lake1_bk.tga": {
+   "size": 656073,
+   "timestamp": "2019-04-05"
+  },
+  "func_mapjamx/gfx/env/sor_lake1/lake1_dn.tga": {
+   "size": 644170,
+   "timestamp": "2019-04-05"
+  },
+  "func_mapjamx/gfx/env/sor_lake1/lake1_ft.tga": {
+   "size": 628366,
+   "timestamp": "2019-04-05"
+  },
+  "func_mapjamx/gfx/env/sor_lake1/lake1_lf.tga": {
+   "size": 644504,
+   "timestamp": "2019-04-05"
+  },
+  "func_mapjamx/gfx/env/sor_lake1/lake1_rt.tga": {
+   "size": 633689,
+   "timestamp": "2019-04-05"
+  },
+  "func_mapjamx/gfx/env/sor_lake1/lake1_up.tga": {
+   "size": 520494,
+   "timestamp": "2019-04-05"
+  },
+  "func_mapjamx/gfx/env/sor_lake1/readme.txt": {
+   "size": 1269,
+   "timestamp": "2007-11-27"
+  },
+  "func_mapjamx/gfx/env/sor_lake1/sor_lake1.shader": {
+   "size": 339,
+   "timestamp": "2008-12-16"
+  },
+  "func_mapjamx/jamx_readme.txt": {
+   "size": 2468,
+   "timestamp": "2019-05-06"
+  },
+  "func_mapjamx/maps/debris/wood1.bsp": {
+   "size": 7584,
+   "timestamp": "2019-03-11"
+  },
+  "func_mapjamx/maps/jamx_artistical.bsp": {
+   "size": 27068736,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/maps/jamx_artistical.lit": {
+   "size": 9223172,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/maps/jamx_bloodshot.bsp": {
+   "size": 10182828,
+   "timestamp": "2019-05-02"
+  },
+  "func_mapjamx/maps/jamx_bloodshot.lit": {
+   "size": 5876819,
+   "timestamp": "2019-05-02"
+  },
+  "func_mapjamx/maps/jamx_fw.bsp": {
+   "size": 3678836,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/maps/jamx_fw.lit": {
+   "size": 737324,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/maps/jamx_hcm.bsp": {
+   "size": 13554744,
+   "timestamp": "2019-04-30"
+  },
+  "func_mapjamx/maps/jamx_hcm.lit": {
+   "size": 3601904,
+   "timestamp": "2019-04-30"
+  },
+  "func_mapjamx/maps/jamx_ionous.bsp": {
+   "size": 2806920,
+   "timestamp": "2019-05-05"
+  },
+  "func_mapjamx/maps/jamx_jcr.bsp": {
+   "size": 12258412,
+   "timestamp": "2019-05-05"
+  },
+  "func_mapjamx/maps/jamx_jcr.lit": {
+   "size": 3849584,
+   "timestamp": "2019-05-05"
+  },
+  "func_mapjamx/maps/jamx_kalebclark.bsp": {
+   "size": 11086080,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/maps/jamx_mafon.bsp": {
+   "size": 4842196,
+   "timestamp": "2019-04-29"
+  },
+  "func_mapjamx/maps/jamx_mafon.lit": {
+   "size": 1043228,
+   "timestamp": "2019-04-29"
+  },
+  "func_mapjamx/maps/jamx_mugwump.bsp": {
+   "size": 225632,
+   "timestamp": "2019-05-06"
+  },
+  "func_mapjamx/maps/jamx_naitelveni.bsp": {
+   "size": 29486552,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/maps/jamx_naitelveni.lit": {
+   "size": 6806447,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/maps/jamx_newhouse.bsp": {
+   "size": 3364372,
+   "timestamp": "2019-05-06"
+  },
+  "func_mapjamx/maps/jamx_newhouse.lit": {
+   "size": 1567400,
+   "timestamp": "2019-05-06"
+  },
+  "func_mapjamx/maps/jamx_pinchy.bsp": {
+   "size": 9254752,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/maps/jamx_pinchy.lit": {
+   "size": 3523724,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/maps/jamx_strwrk.bsp": {
+   "size": 4561000,
+   "timestamp": "2019-05-03"
+  },
+  "func_mapjamx/maps/jamx_strwrk.lit": {
+   "size": 3573362,
+   "timestamp": "2019-05-03"
+  },
+  "func_mapjamx/maps/jamx_ukko.bsp": {
+   "size": 6502656,
+   "timestamp": "2019-04-30"
+  },
+  "func_mapjamx/maps/jamx_ukko.lit": {
+   "size": 2508134,
+   "timestamp": "2019-04-30"
+  },
+  "func_mapjamx/maps/jamx_yoder.bsp": {
+   "size": 2993908,
+   "timestamp": "2019-04-17"
+  },
+  "func_mapjamx/maps/jamx_yoder.lit": {
+   "size": 1772792,
+   "timestamp": "2019-04-17"
+  },
+  "func_mapjamx/maps/start.bsp": {
+   "size": 5588056,
+   "timestamp": "2019-05-07"
+  },
+  "func_mapjamx/maps/start.lit": {
+   "size": 1683752,
+   "timestamp": "2019-05-07"
+  },
+  "func_mapjamx/music/Track84.ogg": {
+   "size": 3649433,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/music/track121.mp3": {
+   "size": 7344774,
+   "timestamp": "2019-04-29"
+  },
+  "func_mapjamx/music/track12A.mp3": {
+   "size": 9400656,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/music/track223.mp3": {
+   "size": 7382142,
+   "timestamp": "2019-04-19"
+  },
+  "func_mapjamx/music/track67.ogg": {
+   "size": 5486101,
+   "timestamp": "2019-01-08"
+  },
+  "func_mapjamx/progs.dat": {
+   "size": 466930,
+   "timestamp": "2019-03-20"
+  },
+  "func_mapjamx/progs/bloodshot/g_shot1.mdl": {
+   "size": 24796,
+   "timestamp": "2019-04-23"
+  },
+  "func_mapjamx/progs/bloodshot/gib_head.mdl": {
+   "size": 14708,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/progs/bloodshot/gib_player_legs.mdl": {
+   "size": 76918,
+   "timestamp": "2016-03-25"
+  },
+  "func_mapjamx/progs/bloodshot/s_bubble_red1.spr": {
+   "size": 1140,
+   "timestamp": "2015-10-07"
+  },
+  "func_mapjamx/progs/bloodshot/s_dripsplred.spr": {
+   "size": 828,
+   "timestamp": "2016-07-15"
+  },
+  "func_mapjamx/progs/candle.mdl": {
+   "size": 24135,
+   "timestamp": "2018-10-10"
+  },
+  "func_mapjamx/progs/debris.mdl": {
+   "size": 26470,
+   "timestamp": "2018-12-24"
+  },
+  "func_mapjamx/progs/s_flame.spr": {
+   "size": 29224,
+   "timestamp": "2018-10-01"
+  },
+  "func_mapjamx/sound/bloodshot/Bump.WAV": {
+   "size": 21496,
+   "timestamp": "2013-11-16"
+  },
+  "func_mapjamx/sound/bloodshot/DistantRumble.WAV": {
+   "size": 36370,
+   "timestamp": "2013-11-16"
+  },
+  "func_mapjamx/sound/bloodshot/alarm2.wav": {
+   "size": 15436,
+   "timestamp": "2016-08-21"
+  },
+  "func_mapjamx/sound/bloodshot/bustglass2.wav": {
+   "size": 10698,
+   "timestamp": "2017-09-25"
+  },
+  "func_mapjamx/sound/bloodshot/crash.wav": {
+   "size": 18206,
+   "timestamp": "2019-04-17"
+  },
+  "func_mapjamx/sound/bloodshot/dr1_strt.wav": {
+   "size": 26356,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/sound/bloodshot/drip2.wav": {
+   "size": 15596,
+   "timestamp": "2015-01-30"
+  },
+  "func_mapjamx/sound/bloodshot/fakedoor.wav": {
+   "size": 29566,
+   "timestamp": "2019-04-22"
+  },
+  "func_mapjamx/sound/bloodshot/falling1.wav": {
+   "size": 253158,
+   "timestamp": "2019-04-18"
+  },
+  "func_mapjamx/sound/bloodshot/gibsplit.wav": {
+   "size": 65828,
+   "timestamp": "2019-03-23"
+  },
+  "func_mapjamx/sound/bloodshot/heal_station.wav": {
+   "size": 58888,
+   "timestamp": "2019-04-24"
+  },
+  "func_mapjamx/sound/bloodshot/heal_stationA.wav": {
+   "size": 76604,
+   "timestamp": "2019-04-20"
+  },
+  "func_mapjamx/sound/bloodshot/heartbeat.wav": {
+   "size": 61706,
+   "timestamp": "2019-04-21"
+  },
+  "func_mapjamx/sound/bloodshot/heartbeat_fast.wav": {
+   "size": 43490,
+   "timestamp": "2019-04-21"
+  },
+  "func_mapjamx/sound/bloodshot/laugh.wav": {
+   "size": 289836,
+   "timestamp": "2019-04-22"
+  },
+  "func_mapjamx/sound/bloodshot/laugh_b.wav": {
+   "size": 294344,
+   "timestamp": "2019-04-26"
+  },
+  "func_mapjamx/sound/bloodshot/light.wav": {
+   "size": 63844,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/sound/bloodshot/machine_loop2.wav": {
+   "size": 70696,
+   "timestamp": "2013-11-09"
+  },
+  "func_mapjamx/sound/bloodshot/metal3.wav": {
+   "size": 6158,
+   "timestamp": "2017-09-25"
+  },
+  "func_mapjamx/sound/bloodshot/power_off.wav": {
+   "size": 88310,
+   "timestamp": "2015-05-02"
+  },
+  "func_mapjamx/sound/bloodshot/power_switch.wav": {
+   "size": 66382,
+   "timestamp": "2016-03-29"
+  },
+  "func_mapjamx/sound/bloodshot/scream22b.wav": {
+   "size": 64842,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/sound/bloodshot/scream_q3.wav": {
+   "size": 349178,
+   "timestamp": "2019-04-18"
+  },
+  "func_mapjamx/sound/bloodshot/scream_sh.wav": {
+   "size": 77928,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/sound/bloodshot/spider_walk1.wav": {
+   "size": 8894,
+   "timestamp": "2010-12-14"
+  },
+  "func_mapjamx/sound/bloodshot/spook_run1.wav": {
+   "size": 83580,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/sound/bloodshot/step1.wav": {
+   "size": 8140,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/sound/bloodshot/vore_scurry.wav": {
+   "size": 135948,
+   "timestamp": "2019-04-16"
+  },
+  "func_mapjamx/sound/break/pd_bricks1.wav": {
+   "size": 61786,
+   "timestamp": "2019-03-27"
+  },
+  "func_mapjamx/sound/break/pd_metal1.wav": {
+   "size": 44146,
+   "timestamp": "2019-03-27"
+  },
+  "func_mapjamx/sound/break/pd_metal2.wav": {
+   "size": 70722,
+   "timestamp": "2019-03-27"
+  },
+  "func_mapjamx/sound/break/pd_stones1.wav": {
+   "size": 75150,
+   "timestamp": "2019-03-27"
+  },
+  "func_mapjamx/sound/break/pd_wood1.wav": {
+   "size": 34526,
+   "timestamp": "2019-03-27"
+  },
+  "func_mapjamx/sound/break/pd_wood2.wav": {
+   "size": 33342,
+   "timestamp": "2019-03-27"
+  },
+  "func_mapjamx/sound/dump/water_59_02.wav": {
+   "size": 47588,
+   "timestamp": "2018-10-01"
+  },
+  "func_mapjamx/sound/jcrsound/bigmonsterpain.wav": {
+   "size": 105964,
+   "timestamp": "2019-04-07"
+  },
+  "func_mapjamx/sound/jcrsound/bigmonsterpain2.wav": {
+   "size": 91570,
+   "timestamp": "2019-04-13"
+  },
+  "func_mapjamx/sound/jcrsound/breath1.wav": {
+   "size": 222136,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/sound/jcrsound/combined.wav": {
+   "size": 105964,
+   "timestamp": "2019-04-19"
+  },
+  "func_mapjamx/sound/jcrsound/finalscream.wav": {
+   "size": 135674,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/sound/jcrsound/flow1.wav": {
+   "size": 53120,
+   "timestamp": "2018-07-16"
+  },
+  "func_mapjamx/sound/jcrsound/heartbeat.wav": {
+   "size": 70872,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/sound/jcrsound/poop.wav": {
+   "size": 22098,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/sound/jcrsound/rock_impact.wav": {
+   "size": 92140,
+   "timestamp": "2018-01-01"
+  },
+  "func_mapjamx/sound/jcrsound/rumble.wav": {
+   "size": 105990,
+   "timestamp": "2018-08-12"
+  },
+  "func_mapjamx/sound/pinchy/generator-power-down.wav": {
+   "size": 19650,
+   "timestamp": "2019-04-25"
+  },
+  "func_mapjamx/sound/pinchy/generator-power-up.wav": {
+   "size": 19650,
+   "timestamp": "2019-04-25"
+  },
+  "func_mapjamx/sound/pinchy/generator-running.wav": {
+   "size": 37606,
+   "timestamp": "2019-04-25"
+  },
+  "func_mapjamx/sound/pinchy/ship-taking-off.wav": {
+   "size": 112414,
+   "timestamp": "2019-04-29"
+  },
+  "func_mapjamx/sound/pinchy/waterfall-large.wav": {
+   "size": 29452,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/sound/pinchy/waterfall-small.wav": {
+   "size": 137846,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/sound/pinchy/waterfall.wav": {
+   "size": 137846,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/sound/pinchy/window-break.wav": {
+   "size": 22064,
+   "timestamp": "2019-04-20"
+  },
+  "func_mapjamx/sound/strwrk/beep-old1.wav": {
+   "size": 116188,
+   "timestamp": "2019-04-21"
+  },
+  "func_mapjamx/sound/strwrk/beep.wav": {
+   "size": 45306,
+   "timestamp": "2019-04-21"
+  },
+  "func_mapjamx/sound/yoder/quake.wav": {
+   "size": 34286,
+   "timestamp": "2019-04-06"
+  },
+  "func_mapjamx/sound/yoder/quakeend.wav": {
+   "size": 8160,
+   "timestamp": "2019-04-06"
+  },
+  "func_mapjamx/source/jamx_artistical.map": {
+   "size": 19450935,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/source/jamx_bloodshot.map": {
+   "size": 5157448,
+   "timestamp": "2019-05-02"
+  },
+  "func_mapjamx/source/jamx_fw.map": {
+   "size": 1602744,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/source/jamx_hcm.map": {
+   "size": 7434915,
+   "timestamp": "2019-04-30"
+  },
+  "func_mapjamx/source/jamx_ionous.map": {
+   "size": 2180469,
+   "timestamp": "2019-05-05"
+  },
+  "func_mapjamx/source/jamx_jcr.map": {
+   "size": 7717745,
+   "timestamp": "2019-05-05"
+  },
+  "func_mapjamx/source/jamx_kalebclark.map": {
+   "size": 4208887,
+   "timestamp": "2019-04-28"
+  },
+  "func_mapjamx/source/jamx_mafon.jmf": {
+   "size": 4118856,
+   "timestamp": "2019-04-29"
+  },
+  "func_mapjamx/source/jamx_naitelveni.map": {
+   "size": 18564779,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/source/jamx_newhouse.map": {
+   "size": 1712855,
+   "timestamp": "2019-05-06"
+  },
+  "func_mapjamx/source/jamx_pinchy.map": {
+   "size": 6808528,
+   "timestamp": "2019-05-04"
+  },
+  "func_mapjamx/source/jamx_strwrk.map": {
+   "size": 1405863,
+   "timestamp": "2019-05-03"
+  },
+  "func_mapjamx/source/jamx_ukko.map": {
+   "size": 2501737,
+   "timestamp": "2019-04-30"
+  },
+  "func_mapjamx/source/jamx_yoder.map": {
+   "size": 2677982,
+   "timestamp": "2019-04-17"
+  }
+ }
+}

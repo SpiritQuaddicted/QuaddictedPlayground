@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "4009bd6f41650e4e86dcb176710b339b",
+ "filename": [
+  "tspe.zip"
+ ],
+ "size": 278,
+ "releasedate": "1999-05-23",
+ "tags": [
+  "title:The Grinding of Teeth",
+  "author:Rudolf Kremers",
+  "tag:small",
+  "tag:metal"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Story.txt": {
+   "size": 2756,
+   "timestamp": "1999-05-23"
+  },
+  "Tspe.txt": {
+   "size": 2128,
+   "timestamp": "1999-05-23"
+  },
+  "tspe.bsp": {
+   "size": 704996,
+   "timestamp": "1999-05-21"
+  }
+ }
+}

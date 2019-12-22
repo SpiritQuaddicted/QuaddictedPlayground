@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "b47c867b0bae8edb7b0eada0dcf8983b",
+ "filename": [
+  "qshift.zip"
+ ],
+ "size": 1169,
+ "releasedate": "2007-02-23",
+ "tags": [
+  "title:Quakeshift",
+  "author:Anders Elvstr\u00f6m \"Elvis\"",
+  "tag:medieval",
+  "tag:castle",
+  "tag:temple"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "qshift.txt": {
+   "size": 1506,
+   "timestamp": "2007-02-23"
+  },
+  "qshift.bsp": {
+   "size": 3050464,
+   "timestamp": "2007-02-22"
+  }
+ }
+}

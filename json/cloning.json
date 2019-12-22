@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "8bbcd2a12f65401e6c48757731e16e09",
+ "filename": [
+  "cloning.zip"
+ ],
+ "size": 1310,
+ "releasedate": "1997-10-10",
+ "tags": [
+  "title:The Cloning Facility",
+  "author:John Watson (Shoggoth)",
+  "tag:large",
+  "tag:base",
+  "tag:hipnotic",
+  "tag:nonlinear",
+  "tag:soa",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "files": {
+  "cloning.txt": {
+   "size": 1435,
+   "timestamp": "1997-11-02"
+  },
+  "cloning.bsp": {
+   "size": 3306264,
+   "timestamp": "1997-10-10"
+  }
+ }
+}

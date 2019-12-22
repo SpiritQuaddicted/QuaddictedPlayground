@@ -1,0 +1,43 @@
+{
+ "version": "20191222-0",
+ "md5": "aedefba0ec2703c18164f61d4909d119",
+ "filename": [
+  "winterpack2005-2006.zip"
+ ],
+ "size": 3371,
+ "releasedate": "2006-03-08",
+ "tags": [
+  "title:winterpack2005-2006",
+  "author:Hrimfaxi (Drew)",
+  "author:Zwiffle (czg)",
+  "tag:ikblue",
+  "tag:egyptian",
+  "tag:built from scraps",
+  "tag:huge",
+  "tag:hard",
+  "tag:quoth",
+  "tag:skybox",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "egypt.txt": {
+   "size": 5186,
+   "timestamp": "2006-02-04"
+  },
+  "teacups.txt": {
+   "size": 3804,
+   "timestamp": "2006-03-08"
+  },
+  "egypt.bsp": {
+   "size": 7533444,
+   "timestamp": "2006-02-04"
+  },
+  "teacups.bsp": {
+   "size": 1045260,
+   "timestamp": "2006-03-08"
+  }
+ }
+}

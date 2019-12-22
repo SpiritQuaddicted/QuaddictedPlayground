@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "42722c04e747c91a7ae908626cc60478",
+ "filename": [
+  "frbdbase.zip"
+ ],
+ "size": 395,
+ "releasedate": "1997-02-07",
+ "tags": [
+  "title:The Forbidden Base",
+  "author:Juha Koiste",
+  "tag:small",
+  "tag:base",
+  "tag:dm"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "BASE.TXT": {
+   "size": 5706,
+   "timestamp": "1997-02-07"
+  },
+  "BASE.BSP": {
+   "size": 928016,
+   "timestamp": "1997-02-04"
+  }
+ }
+}

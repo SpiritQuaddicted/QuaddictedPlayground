@@ -1,0 +1,35 @@
+{
+ "version": "20191222-0",
+ "md5": "1c099cf70cae405ba0690eca8bfec777",
+ "filename": [
+  "purgator.zip"
+ ],
+ "size": 730,
+ "releasedate": "1997-05-06",
+ "tags": [
+  "title:Enter Purgatory",
+  "author:Bryan Pillow",
+  "tag:medium",
+  "tag:wizard",
+  "tag:medieval",
+  "tag:start",
+  "tag:traps"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "purg.txt": {
+   "size": 1452,
+   "timestamp": "1997-05-06"
+  },
+  "purgator.bsp": {
+   "size": 1515272,
+   "timestamp": "1997-05-06"
+  },
+  "skillset.bsp": {
+   "size": 175056,
+   "timestamp": "1997-04-26"
+  }
+ }
+}

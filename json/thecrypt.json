@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "3487a028df7057a682048ced37684542",
+ "filename": [
+  "thecrypt.zip"
+ ],
+ "size": 402,
+ "releasedate": "1998-03-21",
+ "tags": [
+  "title:The Crypt",
+  "author:Repo",
+  "tag:small",
+  "tag:metal",
+  "tag:traps"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "thecrypt.txt": {
+   "size": 1328,
+   "timestamp": "1998-03-21"
+  },
+  "thecrypt.bsp": {
+   "size": 882312,
+   "timestamp": "1998-03-19"
+  }
+ }
+}

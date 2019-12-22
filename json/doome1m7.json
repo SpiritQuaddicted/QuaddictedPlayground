@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "799db4ba2b119ea11bdc093065ae7044",
+ "filename": [
+  "doome1m7.zip"
+ ],
+ "size": 869,
+ "releasedate": "1997-12-19",
+ "tags": [
+  "title:Return to Phobos",
+  "author:Ben Glover",
+  "tag:medium",
+  "tag:base",
+  "tag:doom",
+  "tag:hipnotic",
+  "tag:soa",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "DoomE1M7.txt": {
+   "size": 2090,
+   "timestamp": "1997-12-19"
+  },
+  "doome1m7.bsp": {
+   "size": 2138920,
+   "timestamp": "1997-12-19"
+  }
+ }
+}

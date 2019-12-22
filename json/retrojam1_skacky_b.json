@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "4a8ce945f16b0097a0a76a566f3c98ce",
+ "filename": [
+  "retrojam1_skacky_b.zip"
+ ],
+ "size": 1058,
+ "releasedate": "2014-11-25",
+ "tags": [
+  "title:Dysnystaxis (...A Chance Meeting With Somnus)",
+  "author:Skacky",
+  "tag:small",
+  "tag:medieval",
+  "tag:retrojam",
+  "dependency:retrojam1"
+ ],
+ "install": {
+  "extract": "{quake}/retrojam1/"
+ },
+ "files": {
+  "maps/retrojam1_skacky_b.bsp": {
+   "size": 2137588,
+   "timestamp": "2014-11-25"
+  },
+  "maps/retrojam1_skacky_b.lit": {
+   "size": 615875,
+   "timestamp": "2014-11-25"
+  }
+ }
+}

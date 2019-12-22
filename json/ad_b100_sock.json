@@ -1,0 +1,44 @@
+{
+ "version": "20191222-0",
+ "md5": "76da5707c7d0eddd29c45f9e6ddb45fc",
+ "filename": [
+  "ad_b100_sock.zip"
+ ],
+ "size": 894,
+ "releasedate": "2018-02-10",
+ "tags": [
+  "title:The Tenacious Tentacle",
+  "author:sock",
+  "tag:small",
+  "tag:ad",
+  "tag:100b",
+  "tag:metal",
+  "tag:canyon",
+  "tag:lava",
+  "tag:source",
+  "tag:arcanedimensions",
+  "dependency:ad_v1_70final",
+  "dependency:ad_v1_70patch1"
+ ],
+ "install": {
+  "extract": "{quake}/ad/"
+ },
+ "files": {
+  "ad_b100_sock.txt": {
+   "size": 3076,
+   "timestamp": "2018-02-10"
+  },
+  "maps/ad_b100_sock.bsp": {
+   "size": 1497596,
+   "timestamp": "2018-02-10"
+  },
+  "maps/ad_b100_sock.lit": {
+   "size": 293390,
+   "timestamp": "2018-02-10"
+  },
+  "maps/ad_b100_sock.map": {
+   "size": 128811,
+   "timestamp": "2018-02-10"
+  }
+ }
+}

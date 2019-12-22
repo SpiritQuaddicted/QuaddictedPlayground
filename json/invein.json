@@ -1,0 +1,36 @@
+{
+ "version": "20191222-0",
+ "md5": "ce5a6833564448b1ebaff4acdd654675",
+ "filename": [
+  "invein.zip"
+ ],
+ "size": 1789,
+ "releasedate": "2001-07-24",
+ "tags": [
+  "title:Invein",
+  "author:Iain Bruce",
+  "tag:large",
+  "tag:base",
+  "tag:nehahra",
+  "tag:original",
+  "tag:planetquake-map-of-the-week",
+  "dependency:nehahra"
+ ],
+ "install": {
+  "extract": "{quake}/nehahra/maps/"
+ },
+ "files": {
+  "readme.txt": {
+   "size": 3102,
+   "timestamp": "2001-07-24"
+  },
+  "INVEIN.bsp": {
+   "size": 3676892,
+   "timestamp": "2001-07-24"
+  },
+  "invein.lit": {
+   "size": 3135701,
+   "timestamp": "2001-07-24"
+  }
+ }
+}

@@ -1,0 +1,222 @@
+{
+ "version": "20191222-0",
+ "md5": "e89ba76f95e70b33e6dcad129e7fb058",
+ "filename": [
+  "func_mapjam3.zip"
+ ],
+ "size": 33733,
+ "releasedate": "2014-10-31",
+ "tags": [
+  "title:Func Map Jam 3 - Zerst\u00f6rer theme",
+  "author:DaZ",
+  "author:ericw",
+  "author:ionous",
+  "author:mfx",
+  "author:Tronyn",
+  "author:scar3crow",
+  "tag:small",
+  "tag:medium",
+  "tag:large",
+  "tag:zer",
+  "tag:metal",
+  "tag:wizard",
+  "tag:blood",
+  "tag:rock",
+  "tag:terrain",
+  "tag:fog",
+  "tag:monsters",
+  "tag:traps",
+  "tag:spacemap",
+  "tag:temple",
+  "tag:source",
+  "tag:skybox",
+  "tag:jam",
+  "tag:zerstorer",
+  "tag:halloween"
+ ],
+ "install": {
+  "extract": "{quake}/jam3/"
+ },
+ "files": {
+  "PAK0.PAK": {
+   "size": 25138967,
+   "timestamp": "2012-04-07"
+  },
+  "PROGS.DAT": {
+   "size": 588288,
+   "timestamp": "1997-09-27"
+  },
+  "docs/jam3_daz.txt": {
+   "size": 2176,
+   "timestamp": "2014-10-30"
+  },
+  "docs/jam3_mfx.txt": {
+   "size": 2201,
+   "timestamp": "2014-10-31"
+  },
+  "docs/jam3_scar3crow.txt": {
+   "size": 1909,
+   "timestamp": "2014-10-29"
+  },
+  "docs/jam3_tronyn.txt": {
+   "size": 1234,
+   "timestamp": "2014-10-30"
+  },
+  "func_mapjam3_readme.txt": {
+   "size": 2663,
+   "timestamp": "2014-10-30"
+  },
+  "gfx/env/.DS_Store": {
+   "size": 6148,
+   "timestamp": "2014-10-30"
+  },
+  "gfx/env/hellsky5bk.tga": {
+   "size": 786450,
+   "timestamp": "2008-06-08"
+  },
+  "gfx/env/hellsky5dn.tga": {
+   "size": 786450,
+   "timestamp": "2008-06-08"
+  },
+  "gfx/env/hellsky5ft.tga": {
+   "size": 786450,
+   "timestamp": "2008-06-08"
+  },
+  "gfx/env/hellsky5lf.tga": {
+   "size": 786450,
+   "timestamp": "2008-06-08"
+  },
+  "gfx/env/hellsky5rt.tga": {
+   "size": 786450,
+   "timestamp": "2008-06-08"
+  },
+  "gfx/env/hellsky5up.tga": {
+   "size": 786450,
+   "timestamp": "2008-06-08"
+  },
+  "gfx/env/snowmoon_bk.tga": {
+   "size": 707878,
+   "timestamp": "2014-08-02"
+  },
+  "gfx/env/snowmoon_dn.tga": {
+   "size": 754863,
+   "timestamp": "2014-08-02"
+  },
+  "gfx/env/snowmoon_ft.tga": {
+   "size": 630095,
+   "timestamp": "2014-08-02"
+  },
+  "gfx/env/snowmoon_lf.tga": {
+   "size": 671066,
+   "timestamp": "2014-08-02"
+  },
+  "gfx/env/snowmoon_rt.tga": {
+   "size": 636559,
+   "timestamp": "2014-08-02"
+  },
+  "gfx/env/snowmoon_up.tga": {
+   "size": 410341,
+   "timestamp": "2014-08-02"
+  },
+  "gfx/env/stars2bk.tga": {
+   "size": 63008,
+   "timestamp": "2012-04-15"
+  },
+  "gfx/env/stars2dn.tga": {
+   "size": 61258,
+   "timestamp": "2012-04-15"
+  },
+  "gfx/env/stars2ft.tga": {
+   "size": 63249,
+   "timestamp": "2012-04-15"
+  },
+  "gfx/env/stars2lf.tga": {
+   "size": 63645,
+   "timestamp": "2012-04-15"
+  },
+  "gfx/env/stars2rt.tga": {
+   "size": 62560,
+   "timestamp": "2012-04-15"
+  },
+  "gfx/env/stars2up.tga": {
+   "size": 63786,
+   "timestamp": "2012-04-15"
+  },
+  "maps/jam3_daz.bsp": {
+   "size": 4043561,
+   "timestamp": "2014-10-30"
+  },
+  "maps/jam3_daz.lit": {
+   "size": 1728140,
+   "timestamp": "2014-10-30"
+  },
+  "maps/jam3_ericw.bsp": {
+   "size": 3212958,
+   "timestamp": "2014-10-30"
+  },
+  "maps/jam3_ericw.lit": {
+   "size": 1615415,
+   "timestamp": "2014-10-30"
+  },
+  "maps/jam3_ionous.bsp": {
+   "size": 2837495,
+   "timestamp": "2014-10-30"
+  },
+  "maps/jam3_mfx.bsp": {
+   "size": 8530953,
+   "timestamp": "2014-10-31"
+  },
+  "maps/jam3_mfx.lit": {
+   "size": 3707219,
+   "timestamp": "2014-10-31"
+  },
+  "maps/jam3_scar3crow.bsp": {
+   "size": 1704928,
+   "timestamp": "2014-10-29"
+  },
+  "maps/jam3_tronyn.bsp": {
+   "size": 20304584,
+   "timestamp": "2014-10-30"
+  },
+  "maps/jam3_tronyn.lit": {
+   "size": 4500200,
+   "timestamp": "2014-10-30"
+  },
+  "quake.rc": {
+   "size": 1196,
+   "timestamp": "2014-10-31"
+  },
+  "sound/ambience/blood.wav": {
+   "size": 240964,
+   "timestamp": "2014-05-11"
+  },
+  "source/jam3_daz.map": {
+   "size": 2999796,
+   "timestamp": "2014-10-30"
+  },
+  "source/jam3_ericw.map": {
+   "size": 855616,
+   "timestamp": "2014-10-30"
+  },
+  "source/jam3_ionous.map": {
+   "size": 4385444,
+   "timestamp": "2014-10-30"
+  },
+  "source/jam3_mfx.map": {
+   "size": 3873262,
+   "timestamp": "2014-10-31"
+  },
+  "source/jam3_otp.map": {
+   "size": 463812,
+   "timestamp": "2014-10-30"
+  },
+  "source/jam3_scar3crow.map": {
+   "size": 398127,
+   "timestamp": "2014-10-29"
+  },
+  "source/jam3_tronyn.map": {
+   "size": 6766136,
+   "timestamp": "2014-10-30"
+  }
+ }
+}

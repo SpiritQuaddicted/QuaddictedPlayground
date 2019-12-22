@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "201d149adb5ebee0fb72f13016ae04d6",
+ "filename": [
+  "core3.zip"
+ ],
+ "size": 255,
+ "releasedate": "1998-01-12",
+ "tags": [
+  "title:The Core",
+  "author:Miko",
+  "tag:small",
+  "tag:base"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "core.txt": {
+   "size": 2179,
+   "timestamp": "1998-01-12"
+  },
+  "core3.bsp": {
+   "size": 555700,
+   "timestamp": "1998-01-12"
+  },
+  "info.txt": {
+   "size": 1554,
+   "timestamp": "1998-01-12"
+  }
+ }
+}

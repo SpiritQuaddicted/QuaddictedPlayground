@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "79fd2a59a6b30c0f1af0c62905d5b5a8",
+ "filename": [
+  "my_level.zip"
+ ],
+ "size": 1879,
+ "releasedate": "1998-05-21",
+ "tags": [
+  "title:Lost Underground Base",
+  "author:Denis Gusakov",
+  "tag:large",
+  "tag:base",
+  "tag:realism",
+  "tag:crates",
+  "tag:mech",
+  "tag:submarine"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "BASE1.dem": {
+   "size": 2382350,
+   "timestamp": "1998-03-06"
+  },
+  "base.bsp": {
+   "size": 3714648,
+   "timestamp": "1998-03-04"
+  }
+ }
+}

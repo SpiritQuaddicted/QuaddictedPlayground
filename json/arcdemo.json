@@ -1,0 +1,72 @@
+{
+ "version": "20191222-0",
+ "md5": "f88ca95cdecfdb643789378e61b099bb",
+ "filename": [
+  "arcdemo.zip"
+ ],
+ "size": 18795,
+ "releasedate": "2009-10-31",
+ "tags": [
+  "title:Arcanum Demo",
+  "author:Tronyn &amp; PM",
+  "tag:fantasy",
+  "tag:medieval"
+ ],
+ "install": {
+  "extract": "{quake}/arcdemo/"
+ },
+ "files": {
+  "arcdemo.txt": {
+   "size": 853,
+   "timestamp": "2009-10-31"
+  },
+  "maps/arcanum1.bsp": {
+   "size": 6343952,
+   "timestamp": "2009-03-16"
+  },
+  "sound/music/earth.wav": {
+   "size": 794056,
+   "timestamp": "2009-10-31"
+  },
+  "pak1.pak": {
+   "size": 11029957,
+   "timestamp": "2009-09-05"
+  },
+  "progs.dat": {
+   "size": 1081880,
+   "timestamp": "2009-10-31"
+  },
+  "progs_dp.dat": {
+   "size": 1095776,
+   "timestamp": "2009-10-31"
+  },
+  "gfx/env/floodland_rt.tga": {
+   "size": 105680,
+   "timestamp": "2002-06-30"
+  },
+  "gfx/env/floodland_dn.tga": {
+   "size": 162355,
+   "timestamp": "2002-10-30"
+  },
+  "gfx/env/floodland_bk.tga": {
+   "size": 103354,
+   "timestamp": "2002-06-30"
+  },
+  "gfx/env/floodland_ft.tga": {
+   "size": 402531,
+   "timestamp": "2002-06-29"
+  },
+  "gfx/env/floodland_up.tga": {
+   "size": 182104,
+   "timestamp": "2002-10-30"
+  },
+  "gfx/env/floodland_lf.tga": {
+   "size": 132172,
+   "timestamp": "2002-06-29"
+  },
+  "pak0.pak": {
+   "size": 21411654,
+   "timestamp": "2009-09-05"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "md5": "57493f33eb8389eeae023afe139c699d",
+ "filename": [
+  "themix.zip"
+ ],
+ "size": 321,
+ "releasedate": "1997-01-19",
+ "tags": [
+  "title:Themix",
+  "author:Daniel Svensson",
+  "tag:wizard",
+  "tag:small",
+  "tag:dm"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "MIX1.pcx": {
+   "size": 56362,
+   "timestamp": "1997-01-19"
+  },
+  "MIX2.pcx": {
+   "size": 51628,
+   "timestamp": "1997-01-19"
+  },
+  "themix.bsp": {
+   "size": 560320,
+   "timestamp": "1997-01-19"
+  },
+  "TheMix.txt": {
+   "size": 3210,
+   "timestamp": "1997-01-19"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "c5fe5c2e95fa1dabe1cc8eb80aa94f3f",
+ "filename": [
+  "flo.zip"
+ ],
+ "size": 350,
+ "releasedate": "1997-08-23",
+ "tags": [
+  "title:Flo's 1st Map",
+  "author:Florian Gleixner",
+  "tag:small",
+  "tag:medieval"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "flo.txt": {
+   "size": 917,
+   "timestamp": "1997-08-23"
+  },
+  "flo.bsp": {
+   "size": 840640,
+   "timestamp": "1997-08-21"
+  }
+ }
+}

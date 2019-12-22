@@ -1,0 +1,363 @@
+{
+ "version": "20191222-0",
+ "md5": "25a043947a16a0a42038e070dfa3508f",
+ "filename": [
+  "func_mapjam2.zip"
+ ],
+ "size": 44204,
+ "releasedate": "2014-08-01",
+ "tags": [
+  "title:Func Map Jam 2 - IKblue/IKwhite Theme",
+  "author:Cocerello",
+  "author:ericw / FifthElephant",
+  "author:Lunaran",
+  "author:mfx",
+  "author:Scampie",
+  "author:skacky",
+  "author:sock",
+  "author:Tronyn",
+  "tag:medium",
+  "tag:large",
+  "tag:ikblue",
+  "tag:ikwhite",
+  "tag:temple",
+  "tag:outdoor",
+  "tag:arabian",
+  "tag:limits",
+  "tag:source",
+  "tag:exploration",
+  "tag:asd",
+  "tag:skybox",
+  "tag:jam",
+  "tag:snow"
+ ],
+ "install": {
+  "extract": "{quake}/func_mapjam2/"
+ },
+ "files": {
+  "docs/jam2_cocerello.txt": {
+   "size": 4543,
+   "timestamp": "2014-08-01"
+  },
+  "docs/jam2_fifth.txt": {
+   "size": 3289,
+   "timestamp": "2014-07-30"
+  },
+  "docs/jam2_mfx.txt": {
+   "size": 2669,
+   "timestamp": "2014-08-01"
+  },
+  "docs/jam2_scampie.txt": {
+   "size": 4684,
+   "timestamp": "2014-07-30"
+  },
+  "docs/jam2_skacky.txt": {
+   "size": 1736,
+   "timestamp": "2014-07-16"
+  },
+  "docs/jam2_sock.txt": {
+   "size": 2579,
+   "timestamp": "2014-08-01"
+  },
+  "docs/jam2_tronyn.txt": {
+   "size": 863,
+   "timestamp": "2014-08-01"
+  },
+  "func_mapjam2_readme.txt": {
+   "size": 2701,
+   "timestamp": "2014-07-30"
+  },
+  "gfx/env/bluedays_bk.tga": {
+   "size": 3145772,
+   "timestamp": "2014-07-16"
+  },
+  "gfx/env/bluedays_dn.tga": {
+   "size": 3145772,
+   "timestamp": "2014-07-29"
+  },
+  "gfx/env/bluedays_ft.tga": {
+   "size": 3145772,
+   "timestamp": "2014-07-16"
+  },
+  "gfx/env/bluedays_lf.tga": {
+   "size": 3145772,
+   "timestamp": "2014-07-16"
+  },
+  "gfx/env/bluedays_rt.tga": {
+   "size": 3145772,
+   "timestamp": "2014-07-16"
+  },
+  "gfx/env/bluedays_up.tga": {
+   "size": 3145772,
+   "timestamp": "2014-07-29"
+  },
+  "gfx/env/duskebk.tga": {
+   "size": 606420,
+   "timestamp": "2014-02-24"
+  },
+  "gfx/env/duskedn.tga": {
+   "size": 787184,
+   "timestamp": "2014-02-24"
+  },
+  "gfx/env/duskeft.tga": {
+   "size": 594909,
+   "timestamp": "2014-02-24"
+  },
+  "gfx/env/duskelf.tga": {
+   "size": 585541,
+   "timestamp": "2014-02-24"
+  },
+  "gfx/env/duskert.tga": {
+   "size": 688109,
+   "timestamp": "2014-02-24"
+  },
+  "gfx/env/duskeup.tga": {
+   "size": 470425,
+   "timestamp": "2014-02-24"
+  },
+  "gfx/env/graynightbk.tga": {
+   "size": 786971,
+   "timestamp": "2013-09-07"
+  },
+  "gfx/env/graynightdn.tga": {
+   "size": 786971,
+   "timestamp": "2013-09-07"
+  },
+  "gfx/env/graynightft.tga": {
+   "size": 786971,
+   "timestamp": "2013-09-07"
+  },
+  "gfx/env/graynightlf.tga": {
+   "size": 786971,
+   "timestamp": "2013-09-07"
+  },
+  "gfx/env/graynightrt.tga": {
+   "size": 786971,
+   "timestamp": "2013-09-07"
+  },
+  "gfx/env/graynightup.tga": {
+   "size": 786971,
+   "timestamp": "2013-09-07"
+  },
+  "gfx/env/snowmoon_bk.tga": {
+   "size": 707878,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_dn.tga": {
+   "size": 754863,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_ft.tga": {
+   "size": 630095,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_lf.tga": {
+   "size": 671066,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_rt.tga": {
+   "size": 636559,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/snowmoon_up.tga": {
+   "size": 410341,
+   "timestamp": "2002-12-17"
+  },
+  "gfx/env/stormydays_bk.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_dn.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_ft.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_lf.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_rt.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "gfx/env/stormydays_up.tga": {
+   "size": 3145746,
+   "timestamp": "2005-08-26"
+  },
+  "maps/jam2_cocerello.bsp": {
+   "size": 6266540,
+   "timestamp": "2014-08-01"
+  },
+  "maps/jam2_cocerello.lit": {
+   "size": 5073053,
+   "timestamp": "2014-08-01"
+  },
+  "maps/jam2_fifth.bsp": {
+   "size": 5385129,
+   "timestamp": "2014-07-31"
+  },
+  "maps/jam2_fifth.lit": {
+   "size": 1865984,
+   "timestamp": "2014-07-31"
+  },
+  "maps/jam2_lunaran.bsp": {
+   "size": 2627573,
+   "timestamp": "2014-07-31"
+  },
+  "maps/jam2_lunaran.lit": {
+   "size": 712844,
+   "timestamp": "2014-07-31"
+  },
+  "maps/jam2_mfx.bsp": {
+   "size": 11398312,
+   "timestamp": "2014-08-01"
+  },
+  "maps/jam2_mfx.lit": {
+   "size": 3186566,
+   "timestamp": "2014-08-01"
+  },
+  "maps/jam2_scampie.bsp": {
+   "size": 2703054,
+   "timestamp": "2014-07-30"
+  },
+  "maps/jam2_scampie.lit": {
+   "size": 1323386,
+   "timestamp": "2014-07-30"
+  },
+  "maps/jam2_skacky.bsp": {
+   "size": 7461992,
+   "timestamp": "2014-07-16"
+  },
+  "maps/jam2_skacky.lit": {
+   "size": 2159303,
+   "timestamp": "2014-07-16"
+  },
+  "maps/jam2_sock.bsp": {
+   "size": 5750104,
+   "timestamp": "2014-08-01"
+  },
+  "maps/jam2_sock.lit": {
+   "size": 1416521,
+   "timestamp": "2014-08-01"
+  },
+  "maps/jam2_tronyn.bsp": {
+   "size": 22014869,
+   "timestamp": "2014-08-01"
+  },
+  "maps/jam2_tronyn.lit": {
+   "size": 4127612,
+   "timestamp": "2014-08-01"
+  },
+  "maps/jam2_tronyn.prt": {
+   "size": 1958698,
+   "timestamp": "2014-07-29"
+  },
+  "progs/backpack.mdl": {
+   "size": 25812,
+   "timestamp": "2014-07-05"
+  },
+  "progs/flame2.mdl": {
+   "size": 74548,
+   "timestamp": "2014-01-09"
+  },
+  "progs/grenade.mdl": {
+   "size": 3860,
+   "timestamp": "2014-07-05"
+  },
+  "progs/invulner.mdl": {
+   "size": 21412,
+   "timestamp": "2014-07-05"
+  },
+  "progs/k_spike.mdl": {
+   "size": 5492,
+   "timestamp": "2014-07-05"
+  },
+  "progs/missile.mdl": {
+   "size": 8372,
+   "timestamp": "2014-07-05"
+  },
+  "progs/quaddama.mdl": {
+   "size": 22052,
+   "timestamp": "2014-07-05"
+  },
+  "progs/s_spike.mdl": {
+   "size": 1396,
+   "timestamp": "2014-07-05"
+  },
+  "progs/spike.mdl": {
+   "size": 1396,
+   "timestamp": "2014-07-05"
+  },
+  "progs/v_spike.mdl": {
+   "size": 9012,
+   "timestamp": "2014-07-05"
+  },
+  "progs/w_g_key.mdl": {
+   "size": 10196,
+   "timestamp": "2014-07-05"
+  },
+  "progs/w_s_key.mdl": {
+   "size": 10132,
+   "timestamp": "2014-07-05"
+  },
+  "progs/w_spike.mdl": {
+   "size": 6356,
+   "timestamp": "2014-07-05"
+  },
+  "progs/zom_gib.mdl": {
+   "size": 19768,
+   "timestamp": "2014-07-05"
+  },
+  "quake.rc": {
+   "size": 1180,
+   "timestamp": "2014-08-01"
+  },
+  "source/jam2_cocerello.map": {
+   "size": 3252024,
+   "timestamp": "2014-08-01"
+  },
+  "source/jam2_ericw.map": {
+   "size": 280834,
+   "timestamp": "2014-07-27"
+  },
+  "source/jam2_fifth.map": {
+   "size": 2598616,
+   "timestamp": "2014-07-31"
+  },
+  "source/jam2_lunaran.map": {
+   "size": 923580,
+   "timestamp": "2014-07-31"
+  },
+  "source/jam2_mfx.map": {
+   "size": 5230454,
+   "timestamp": "2014-08-01"
+  },
+  "source/jam2_otp.map": {
+   "size": 263619,
+   "timestamp": "2014-07-22"
+  },
+  "source/jam2_scampie.map": {
+   "size": 2387057,
+   "timestamp": "2014-07-30"
+  },
+  "source/jam2_skacky.map": {
+   "size": 8109436,
+   "timestamp": "2014-07-16"
+  },
+  "source/jam2_sock.map": {
+   "size": 4136166,
+   "timestamp": "2014-08-01"
+  },
+  "source/jam2_tronyn.map": {
+   "size": 5170059,
+   "timestamp": "2014-07-31"
+  },
+  "source/jam2_tronyn.rmf": {
+   "size": 17927392,
+   "timestamp": "2014-07-29"
+  }
+ }
+}

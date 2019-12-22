@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "md5": "cf2c0852cf6355f0f1ed7f648a0876ec",
+ "filename": [
+  "sleepgate.zip"
+ ],
+ "size": 3734,
+ "releasedate": "2017-10-01",
+ "tags": [
+  "title:Enter Sleepgate",
+  "author:SgtStabStabs",
+  "tag:medium",
+  "tag:base",
+  "tag:quoth",
+  "tag:realism",
+  "tag:quake2",
+  "tag:textures",
+  "dependency:quoth2pt2full_2"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "SLEEPGATE.txt": {
+   "size": 1647,
+   "timestamp": "2017-10-01"
+  },
+  "sleepgate.bsp": {
+   "size": 7095732,
+   "timestamp": "2017-10-01"
+  },
+  "sleepgate.lit": {
+   "size": 1809860,
+   "timestamp": "2017-10-01"
+  }
+ }
+}

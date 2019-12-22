@@ -1,0 +1,31 @@
+{
+ "version": "20191222-0",
+ "md5": "f6245537a07b67ffdf5d4e282cd17030",
+ "filename": [
+  "ne_deadcity.zip"
+ ],
+ "size": 596,
+ "releasedate": "2005-11-05",
+ "tags": [
+  "title:The Rats in the Walls",
+  "author:necros",
+  "tag:quoth",
+  "tag:medieval",
+  "tag:zombies",
+  "tag:doom",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "ne_deadcity.bsp": {
+   "size": 1693676,
+   "timestamp": "2005-10-08"
+  },
+  "ne_deadcity.txt": {
+   "size": 4637,
+   "timestamp": "2005-11-05"
+  }
+ }
+}

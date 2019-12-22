@@ -1,0 +1,34 @@
+{
+ "version": "20191222-0",
+ "md5": "768355d1b0eb8fcc3bbee3e43df7f129",
+ "filename": [
+  "src.zip"
+ ],
+ "size": 2788,
+ "releasedate": "2007-07-01",
+ "tags": [
+  "title:SRC: The Slime Refinery Complex",
+  "author:JPL",
+  "tag:base",
+  "tag:doom3",
+  "tag:quoth",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "src.bsp": {
+   "size": 7174580,
+   "timestamp": "2007-07-01"
+  },
+  "src.lit": {
+   "size": 1619327,
+   "timestamp": "2007-07-01"
+  },
+  "src.txt": {
+   "size": 4567,
+   "timestamp": "2007-06-22"
+  }
+ }
+}

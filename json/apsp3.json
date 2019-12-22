@@ -1,0 +1,52 @@
+{
+ "version": "20191222-0",
+ "md5": "12bb52e65a951dfda84d970ec8bca391",
+ "filename": [
+  "apsp3.zip"
+ ],
+ "size": 4606,
+ "releasedate": "2012-10-30",
+ "tags": [
+  "title:Subterranean Library",
+  "author:Andrew 'than' Palmer",
+  "tag:large",
+  "tag:medieval",
+  "tag:knave",
+  "tag:library",
+  "tag:blood",
+  "tag:cave",
+  "tag:quoth",
+  "tag:ruins",
+  "tag:source",
+  "tag:secrets",
+  "tag:runes",
+  "tag:underground",
+  "tag:interconnectivity",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/"
+ },
+ "files": {
+  "apsp3/apsp3.map": {
+   "size": 6749335,
+   "timestamp": "2012-10-31"
+  },
+  "apsp3/apsp3.rmf": {
+   "size": 28245814,
+   "timestamp": "2012-10-31"
+  },
+  "apsp3/apsp3.txt": {
+   "size": 9867,
+   "timestamp": "2012-10-31"
+  },
+  "apsp3/maps/apsp3.bsp": {
+   "size": 6819616,
+   "timestamp": "2012-10-31"
+  },
+  "apsp3/sound/ambience/blood.wav": {
+   "size": 240964,
+   "timestamp": "2012-03-17"
+  }
+ }
+}

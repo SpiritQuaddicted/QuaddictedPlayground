@@ -1,0 +1,31 @@
+{
+ "version": "20191222-0",
+ "md5": "ede8ffa309bcf03595b232b110deef5a",
+ "filename": [
+  "fort_driant-fullvis.zip"
+ ],
+ "size": 5505,
+ "releasedate": "2009-03-06",
+ "tags": [
+  "title:Fort Driant",
+  "author:JPL",
+  "tag:quoth",
+  "tag:base",
+  "tag:large",
+  "dependency:quoth",
+  "dependency:fort_driant"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "fort_driant-fullvis.lit": {
+   "size": 2998721,
+   "timestamp": "2009-03-05"
+  },
+  "fort_driant-fullvis.bsp": {
+   "size": 12392900,
+   "timestamp": "2009-03-05"
+  }
+ }
+}

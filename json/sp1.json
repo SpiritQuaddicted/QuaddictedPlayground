@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "5ff8feefe458ee958c3fe4216c073507",
+ "filename": [
+  "sp1.zip"
+ ],
+ "size": 607,
+ "releasedate": "1997-11-10",
+ "tags": [
+  "title:Staging Point",
+  "author:Tony 'Frogger' Boyer",
+  "tag:base",
+  "tag:medium"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sp.txt": {
+   "size": 7500,
+   "timestamp": "1997-11-19"
+  },
+  "sp.bsp": {
+   "size": 1589840,
+   "timestamp": "1997-09-14"
+  }
+ }
+}

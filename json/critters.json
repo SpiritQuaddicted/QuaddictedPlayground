@@ -1,0 +1,33 @@
+{
+ "version": "20191222-0",
+ "md5": "0e12fefd303213097c97d20c668640d0",
+ "filename": [
+  "critters.zip"
+ ],
+ "size": 492,
+ "releasedate": "1996-11-17",
+ "tags": [
+  "title:Critters",
+  "author:Jim Lowell",
+  "tag:metal",
+  "tag:medium",
+  "tag:source"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "CRITTERS.3DT": {
+   "size": 867902,
+   "timestamp": "1996-11-17"
+  },
+  "CRITTERS.BSP": {
+   "size": 1066124,
+   "timestamp": "1996-11-17"
+  },
+  "CRITTERS.TXT": {
+   "size": 2535,
+   "timestamp": "1996-11-17"
+  }
+ }
+}

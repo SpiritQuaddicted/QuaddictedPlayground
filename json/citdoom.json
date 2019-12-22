@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "aef7085420c1a7e8ce533e8b8808db33",
+ "filename": [
+  "citdoom.zip"
+ ],
+ "size": 729,
+ "releasedate": "1998-04-10",
+ "tags": [
+  "title:Citadel Of Doom",
+  "author:Michael Reed",
+  "tag:medium",
+  "tag:medieval",
+  "tag:terracotta"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "citdoom.txt": {
+   "size": 4088,
+   "timestamp": "1998-04-10"
+  },
+  "citdoom.bsp": {
+   "size": 1713416,
+   "timestamp": "1998-04-10"
+  }
+ }
+}

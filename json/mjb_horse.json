@@ -1,0 +1,50 @@
+{
+ "version": "20191222-0",
+ "md5": "97fb58f86af5019f3511906aeb90c4ae",
+ "filename": [
+  "mjb_horse.zip"
+ ],
+ "size": 1586,
+ "releasedate": "2016-03-27",
+ "tags": [
+  "title:A Horse Named Quake",
+  "author:Bloughsburgh",
+  "tag:small",
+  "tag:medieval",
+  "tag:bricks",
+  "tag:courtyard",
+  "tag:vertical",
+  "tag:ad",
+  "tag:source",
+  "tag:night",
+  "tag:arcanedimensions",
+  "tag:skybox",
+  "tag:jumping",
+  "dependency:ad_v1_42final"
+ ],
+ "install": {
+  "extract": "{quake}/ad\\maps\\"
+ },
+ "files": {
+  "ad_v1_42P2_readme.txt": {
+   "size": 142037,
+   "timestamp": "2016-02-17"
+  },
+  "mjb_horse.bsp": {
+   "size": 2589944,
+   "timestamp": "2016-03-27"
+  },
+  "mjb_horse.lit": {
+   "size": 1335080,
+   "timestamp": "2016-03-27"
+  },
+  "mjb_horse.map": {
+   "size": 1036936,
+   "timestamp": "2016-03-24"
+  },
+  "mjb_horse.txt": {
+   "size": 14756,
+   "timestamp": "2016-03-27"
+  }
+ }
+}

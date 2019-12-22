@@ -1,0 +1,220 @@
+{
+ "version": "20191222-0",
+ "md5": "a931a53e96386e5826c96bca8885096b",
+ "filename": [
+  "dig.zip"
+ ],
+ "size": 2504,
+ "releasedate": "2000-07-28",
+ "tags": [
+  "title:The Dig",
+  "author:Iain Bruce",
+  "tag:q3 gothic",
+  "tag:epic",
+  "tag:small",
+  "tag:base",
+  "tag:mine",
+  "tag:monsters"
+ ],
+ "install": {
+  "extract": "{quake}/dig/"
+ },
+ "files": {
+  "dig29 readme.txt": {
+   "size": 3254,
+   "timestamp": "2000-07-10"
+  },
+  "maps/dig1.bsp": {
+   "size": 1702920,
+   "timestamp": "2000-05-11"
+  },
+  "maps/dig3.bsp": {
+   "size": 498632,
+   "timestamp": "2000-07-07"
+  },
+  "maps/dig2.bsp": {
+   "size": 1228300,
+   "timestamp": "2000-07-03"
+  },
+  "maps/dig.bsp": {
+   "size": 309112,
+   "timestamp": "2000-07-10"
+  },
+  "CONFIG.CFG": {
+   "size": 2211,
+   "timestamp": "2000-07-28"
+  },
+  "glquake/v_beam.ms2": {
+   "size": 6756,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/beam.ms2": {
+   "size": 728,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/frame.ms2": {
+   "size": 1260,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/rubble2.ms2": {
+   "size": 1780,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/rubble3.ms2": {
+   "size": 420,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/rubble1.ms2": {
+   "size": 600,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/v_beam2.ms2": {
+   "size": 6756,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/camera.ms2": {
+   "size": 948,
+   "timestamp": "2000-07-21"
+  },
+  "sound/hipweap/mjolhit.wav": {
+   "size": 33914,
+   "timestamp": "1998-05-08"
+  },
+  "sound/ambient/fan1.wav": {
+   "size": 10230,
+   "timestamp": "1998-05-08"
+  },
+  "sound/ambient/lava1.wav": {
+   "size": 136842,
+   "timestamp": "1998-05-08"
+  },
+  "sound/turret/beamchrg.wav": {
+   "size": 3962,
+   "timestamp": "1996-01-01"
+  },
+  "sound/turret/beamhit.wav": {
+   "size": 8644,
+   "timestamp": "1996-01-01"
+  },
+  "sound/zombie/raised.wav": {
+   "size": 18860,
+   "timestamp": "1996-01-01"
+  },
+  "sound/misc/moan2.wav": {
+   "size": 33598,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/moan1.wav": {
+   "size": 37224,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/pound_1.wav": {
+   "size": 9755,
+   "timestamp": "1999-07-12"
+  },
+  "sound/misc/rublexp.wav": {
+   "size": 26008,
+   "timestamp": "1997-12-04"
+  },
+  "sound/misc/quakeend.wav": {
+   "size": 8160,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/rumble.wav": {
+   "size": 53068,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/raven.wav": {
+   "size": 4410,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/shortexp.wav": {
+   "size": 27562,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/quake.wav": {
+   "size": 34286,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/longexpl.wav": {
+   "size": 42430,
+   "timestamp": "1998-05-08"
+  },
+  "sound/doors/creak1.wav": {
+   "size": 54650,
+   "timestamp": "1998-05-08"
+  },
+  "progs.dat": {
+   "size": 748392,
+   "timestamp": "1998-03-23"
+  },
+  "progs/beam.mdl": {
+   "size": 10608,
+   "timestamp": "1998-05-08"
+  },
+  "progs/s_null.spr": {
+   "size": 1080,
+   "timestamp": "1996-01-01"
+  },
+  "progs/beamhit.spr": {
+   "size": 5320,
+   "timestamp": "1998-05-08"
+  },
+  "progs/g_beam.mdl": {
+   "size": 68996,
+   "timestamp": "1998-05-08"
+  },
+  "progs/v_beam.mdl": {
+   "size": 75588,
+   "timestamp": "1998-05-08"
+  },
+  "progs/dring.spr": {
+   "size": 387832,
+   "timestamp": "1998-05-08"
+  },
+  "progs/camera.mdl": {
+   "size": 33528,
+   "timestamp": "1998-05-08"
+  },
+  "progs/expl.spr": {
+   "size": 127672,
+   "timestamp": "1998-05-08"
+  },
+  "progs/frame.mdl": {
+   "size": 24293,
+   "timestamp": "1998-05-08"
+  },
+  "progs/v_beam2.mdl": {
+   "size": 75588,
+   "timestamp": "1998-05-08"
+  },
+  "progs/rubble1.mdl": {
+   "size": 69416,
+   "timestamp": "2000-06-29"
+  },
+  "progs/soldier.mdl": {
+   "size": 320900,
+   "timestamp": "2000-03-22"
+  },
+  "progs/bs_light.mdl": {
+   "size": 28707,
+   "timestamp": "1998-05-08"
+  },
+  "progs/rubble2.mdl": {
+   "size": 199736,
+   "timestamp": "2000-07-03"
+  },
+  "progs/csm_cpit.mdl": {
+   "size": 4424,
+   "timestamp": "1998-05-08"
+  },
+  "progs/bolt.mdl": {
+   "size": 1364,
+   "timestamp": "1998-05-08"
+  },
+  "progs/rubble3.mdl": {
+   "size": 303080,
+   "timestamp": "2000-07-03"
+  }
+ }
+}

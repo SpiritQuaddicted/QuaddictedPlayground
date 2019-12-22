@@ -1,0 +1,63 @@
+{
+ "version": "20191222-0",
+ "md5": "549cac565ea87c2147bb03197efd561c",
+ "filename": [
+  "lunsp1.zip"
+ ],
+ "size": 3253,
+ "releasedate": "2005-06-27",
+ "tags": [
+  "title:Concentric Devastation",
+  "author:Matt \"Lunaran\"  Breit",
+  "tag:base",
+  "tag:quake2",
+  "tag:large",
+  "tag:textures",
+  "tag:monsters",
+  "tag:boss",
+  "tag:mustplay",
+  "tag:strogg",
+  "tag:q2"
+ ],
+ "install": {
+  "extract": "{quake}/lunsp1/"
+ },
+ "files": {
+  "src/combat.qc": {
+   "size": 6780,
+   "timestamp": "2005-06-14"
+  },
+  "src/boss.qc": {
+   "size": 14935,
+   "timestamp": "2005-06-26"
+  },
+  "src/axegrunt.qc": {
+   "size": 8693,
+   "timestamp": "2005-06-24"
+  },
+  "src/items.qc": {
+   "size": 30451,
+   "timestamp": "2005-06-24"
+  },
+  "src/client.qc": {
+   "size": 32664,
+   "timestamp": "2005-06-23"
+  },
+  "src/ai.qc": {
+   "size": 15265,
+   "timestamp": "2005-06-26"
+  },
+  "src/enforcer.qc": {
+   "size": 25196,
+   "timestamp": "2005-06-26"
+  },
+  "lunsp1.txt": {
+   "size": 5768,
+   "timestamp": "2005-06-27"
+  },
+  "pak0.pak": {
+   "size": 6957786,
+   "timestamp": "2005-06-27"
+  }
+ }
+}

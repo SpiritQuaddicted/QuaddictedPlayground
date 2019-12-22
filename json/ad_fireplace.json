@@ -1,0 +1,39 @@
+{
+ "version": "20191222-0",
+ "md5": "760705b4694f718cbc5ca8636f4a157b",
+ "filename": [
+  "ad_fireplace.zip"
+ ],
+ "size": 385,
+ "releasedate": "2019-04-17",
+ "tags": [
+  "title:Fireplace",
+  "author:Cthulhu",
+  "tag:small",
+  "tag:wizard",
+  "tag:castle",
+  "tag:arcane dimensions",
+  "dependency:ad_v1_70final"
+ ],
+ "install": {
+  "extract": "{quake}/ad/maps/"
+ },
+ "files": {
+  "ad_fireplace.bsp": {
+   "size": 711144,
+   "timestamp": "2019-04-03"
+  },
+  "ad_fireplace.lit": {
+   "size": 279674,
+   "timestamp": "2019-04-03"
+  },
+  "ad_fireplace.map": {
+   "size": 207836,
+   "timestamp": "2019-04-03"
+  },
+  "ad_fireplace.txt": {
+   "size": 2137,
+   "timestamp": "2019-04-04"
+  }
+ }
+}

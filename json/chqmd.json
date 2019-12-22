@@ -1,0 +1,39 @@
+{
+ "version": "20191222-0",
+ "md5": "5c91fa4a1c5337d10194f47d06147557",
+ "filename": [
+  "chqmd.zip"
+ ],
+ "size": 595,
+ "releasedate": "1999-12-19",
+ "tags": [
+  "title:Hospital Center Quake Map Designer",
+  "author:Quake Map Designer",
+  "tag:realism",
+  "tag:hospital",
+  "tag:textures",
+  "tag:crap",
+  "tag:horrible"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "janitor.pcx": {
+   "size": 29937,
+   "timestamp": "1999-12-19"
+  },
+  "cook.pcx": {
+   "size": 32220,
+   "timestamp": "1999-12-15"
+  },
+  "chqmd.bsp": {
+   "size": 1784532,
+   "timestamp": "1999-12-10"
+  },
+  "chqmd.txt": {
+   "size": 9233,
+   "timestamp": "1999-12-18"
+  }
+ }
+}

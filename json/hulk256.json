@@ -1,0 +1,44 @@
+{
+ "version": "20191222-0",
+ "md5": "f22fcd01a8c8d0ab1f4b19800f9b0f67",
+ "filename": [
+  "hulk256.zip"
+ ],
+ "size": 550,
+ "releasedate": "2008-06-29",
+ "tags": [
+  "title:Data Download",
+  "author:ijed",
+  "tag:dark",
+  "tag:fast",
+  "tag:scary",
+  "tag:contest",
+  "tag:ikbase",
+  "tag:small",
+  "tag:256b",
+  "tag:horror",
+  "tag:quoth",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "hulk256.bsp": {
+   "size": 1368216,
+   "timestamp": "2008-06-29"
+  },
+  "readme.txt": {
+   "size": 422,
+   "timestamp": "2008-06-29"
+  },
+  "hulk256.map": {
+   "size": 224546,
+   "timestamp": "2008-06-29"
+  },
+  "quoth2.fgd": {
+   "size": 74434,
+   "timestamp": "2008-06-08"
+  }
+ }
+}

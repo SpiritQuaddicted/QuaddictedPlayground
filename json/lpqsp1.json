@@ -1,0 +1,39 @@
+{
+ "version": "20191222-0",
+ "md5": "aa4e5c1ac5c6be2048a8d61d83d9494b",
+ "filename": [
+  "lpqsp1.zip"
+ ],
+ "size": 2820,
+ "releasedate": "2016-09-19",
+ "tags": [
+  "title:The Bonehoard",
+  "author:Lane Powell",
+  "tag:large",
+  "tag:metal",
+  "tag:blue",
+  "tag:blood",
+  "tag:quoth",
+  "tag:void",
+  "tag:secrets",
+  "tag:limits",
+  "dependency:quoth2pt2full_2"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "lpqsp1.bsp": {
+   "size": 5185760,
+   "timestamp": "2016-09-20"
+  },
+  "lpqsp1.lit": {
+   "size": 4289102,
+   "timestamp": "2016-09-20"
+  },
+  "lpqsp1.txt": {
+   "size": 1546,
+   "timestamp": "2016-09-19"
+  }
+ }
+}

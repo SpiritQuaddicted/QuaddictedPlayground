@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "md5": "8b0b8909b61bca9f6865f5197372de33",
+ "filename": [
+  "sm1_pack.zip"
+ ],
+ "size": 229,
+ "releasedate": "2001-03-23",
+ "tags": [
+  "title:Speedmapping pack 1",
+  "author:Scampie",
+  "author:bear",
+  "author:RPG",
+  "tag:nomonsters"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm1_pack.txt": {
+   "size": 1993,
+   "timestamp": "2001-03-23"
+  },
+  "sm1_scampie.bsp": {
+   "size": 168936,
+   "timestamp": "2001-03-19"
+  },
+  "sm1_rpg.bsp": {
+   "size": 303328,
+   "timestamp": "2001-03-18"
+  },
+  "sm1_bear.bsp": {
+   "size": 153912,
+   "timestamp": "2001-03-19"
+  }
+ }
+}

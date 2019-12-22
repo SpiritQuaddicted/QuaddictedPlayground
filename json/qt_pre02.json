@@ -1,0 +1,55 @@
+{
+ "version": "20191222-0",
+ "md5": "a16bca26a7ff4c0fefb8eee2d67de70b",
+ "filename": [
+  "qt_pre02.zip"
+ ],
+ "size": 2928,
+ "releasedate": "2010-04-12",
+ "tags": [
+  "title:Grendel's Keep",
+  "author:distrans",
+  "tag:metal",
+  "tag:medium",
+  "tag:travail",
+  "tag:base",
+  "dependency:travail"
+ ],
+ "install": {
+  "extract": "{quake}/travail/"
+ },
+ "files": {
+  "gfx/env/moonbk.tga": {
+   "size": 440145,
+   "timestamp": "2008-12-17"
+  },
+  "gfx/env/moondn.tga": {
+   "size": 32812,
+   "timestamp": "2010-04-11"
+  },
+  "gfx/env/moonft.tga": {
+   "size": 410588,
+   "timestamp": "2008-12-17"
+  },
+  "gfx/env/moonlf.tga": {
+   "size": 421955,
+   "timestamp": "2008-12-17"
+  },
+  "gfx/env/moonrt.tga": {
+   "size": 453367,
+   "timestamp": "2008-12-17"
+  },
+  "gfx/env/moonup.tga": {
+   "size": 1335652,
+   "timestamp": "2008-12-17"
+  },
+  "maps/qt_pre02.bsp": {
+   "size": 5117596,
+   "timestamp": "2010-04-11"
+  },
+  "qt_pre02.txt": {
+   "size": 5727,
+   "timestamp": "2010-04-11"
+  }
+ }
+}

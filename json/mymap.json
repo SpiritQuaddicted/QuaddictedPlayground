@@ -1,0 +1,33 @@
+{
+ "version": "20191222-0",
+ "md5": "8d2d5794a683a8c5a171f954ce09020c",
+ "filename": [
+  "mymap.zip"
+ ],
+ "size": 840,
+ "releasedate": "1998-04-19",
+ "tags": [
+  "title:Mymap &amp; Garrison",
+  "author:Peter Bisseker (tiddles)",
+  "tag:traps",
+  "tag:medium",
+  "tag:metal"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "mymap.bsp": {
+   "size": 1227348,
+   "timestamp": "1998-03-01"
+  },
+  "mymap.txt": {
+   "size": 1915,
+   "timestamp": "1998-04-19"
+  },
+  "garrison.bsp": {
+   "size": 902660,
+   "timestamp": "1998-02-24"
+  }
+ }
+}

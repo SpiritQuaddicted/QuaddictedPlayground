@@ -1,0 +1,36 @@
+{
+ "version": "20191222-0",
+ "md5": "bb84b0f605eda2fa5bbd7061aff28e04",
+ "filename": [
+  "ad_shadesrefinery.zip"
+ ],
+ "size": 1389,
+ "releasedate": "2019-02-13",
+ "tags": [
+  "title:The Refinery",
+  "author:Shadesmaster",
+  "tag:arcanedimensions",
+  "tag:base",
+  "tag:large",
+  "tag:idbase",
+  "tag:outdoor",
+  "dependency:ad_v1_70final"
+ ],
+ "install": {
+  "extract": "{quake}/ad/maps/"
+ },
+ "files": {
+  "ad_shadesRefinery.bsp": {
+   "size": 2255116,
+   "timestamp": "2019-02-13"
+  },
+  "ad_shadesRefinery.lit": {
+   "size": 860099,
+   "timestamp": "2019-02-13"
+  },
+  "ad_shadesRefinery_readme.txt": {
+   "size": 3037,
+   "timestamp": "2019-02-13"
+  }
+ }
+}

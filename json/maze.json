@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "294afc04c782f8d40b500022cc9d200a",
+ "filename": [
+  "maze.zip"
+ ],
+ "size": 82,
+ "releasedate": "1997-03-14",
+ "tags": [
+  "title:Maze 1",
+  "author:George Grotans",
+  "tag:small",
+  "tag:wiard",
+  "tag:maze",
+  "tag:wizard"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "maze.txt": {
+   "size": 1478,
+   "timestamp": "1997-03-14"
+  },
+  "MAZE.bsp": {
+   "size": 207324,
+   "timestamp": "1997-03-14"
+  }
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "faade12c34196d4691313d24df2e4b64",
+ "filename": [
+  "flyer.zip"
+ ],
+ "size": 160,
+ "releasedate": "1996-11-18",
+ "tags": [
+  "title:Flyer",
+  "author:Phil Hammond",
+  "tag:small",
+  "tag:base",
+  "tag:dark"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Flyer.txt": {
+   "size": 431,
+   "timestamp": "1996-11-18"
+  },
+  "flyer.bsp": {
+   "size": 386032,
+   "timestamp": "1996-11-18"
+  }
+ }
+}

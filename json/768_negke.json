@@ -1,0 +1,36 @@
+{
+ "version": "20191222-0",
+ "md5": "533c760075b0e20786f3fdbb48211df0",
+ "filename": [
+  "768_negke.zip"
+ ],
+ "size": 2872,
+ "releasedate": "2008-08-01",
+ "tags": [
+  "title:Skinny Norris",
+  "author:negke",
+  "tag:vertical",
+  "tag:traps",
+  "tag:quoth",
+  "tag:crash",
+  "tag:puzzles",
+  "tag:abstract",
+  "tag:maze",
+  "tag:two options",
+  "tag:hard",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "768_negke.txt": {
+   "size": 4357,
+   "timestamp": "2008-08-01"
+  },
+  "768_negke.bsp": {
+   "size": 7802764,
+   "timestamp": "2008-08-01"
+  }
+ }
+}

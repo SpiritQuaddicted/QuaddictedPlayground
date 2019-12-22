@@ -1,0 +1,31 @@
+{
+ "version": "20191222-0",
+ "md5": "0d1651bb3b3880afd36abd28fc97495e",
+ "filename": [
+  "mayhem2.zip"
+ ],
+ "size": 296,
+ "releasedate": "1997-03-02",
+ "tags": [
+  "title:Mayhem",
+  "author:Mark Murray",
+  "tag:small",
+  "tag:wizard",
+  "tag:brick",
+  "tag:puzzles",
+  "tag:buttons"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "MAYHEM.TXT": {
+   "size": 1856,
+   "timestamp": "1997-03-02"
+  },
+  "MAYHEM.BSP": {
+   "size": 714176,
+   "timestamp": "1997-03-02"
+  }
+ }
+}

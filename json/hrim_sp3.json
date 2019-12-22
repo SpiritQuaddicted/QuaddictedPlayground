@@ -1,0 +1,39 @@
+{
+ "version": "20191222-0",
+ "md5": "718b3991197e8a2771e8d6d3b0c097be",
+ "filename": [
+  "hrim_sp3.zip"
+ ],
+ "size": 4855,
+ "releasedate": "2007-09-13",
+ "tags": [
+  "title:Breakfast at twilight",
+  "author:Hrimfaxi",
+  "tag:quoth",
+  "tag:knave",
+  "tag:huge",
+  "tag:epic",
+  "tag:large",
+  "tag:castle",
+  "tag:needstoberatedexcellent",
+  "tag:mustplay",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "breakfast.bsp": {
+   "size": 8923000,
+   "timestamp": "2007-09-06"
+  },
+  "Hrim_sp3.txt": {
+   "size": 4813,
+   "timestamp": "2007-09-13"
+  },
+  "breakstart.bsp": {
+   "size": 3676560,
+   "timestamp": "2007-09-12"
+  }
+ }
+}

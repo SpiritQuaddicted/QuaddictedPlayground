@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "032b9c11132df58a5a887e2bdd4e6312",
+ "filename": [
+  "bridges_2.zip"
+ ],
+ "size": 318,
+ "releasedate": "1999-12-05",
+ "tags": [
+  "title:Bridges",
+  "author:George Grotans",
+  "tag:small",
+  "tag:lava"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "bridges.txt": {
+   "size": 615,
+   "timestamp": "1999-12-06"
+  },
+  "bridges.bsp": {
+   "size": 756576,
+   "timestamp": "1998-06-24"
+  },
+  "bridges_2_quaddictedrepack.txt": {
+   "size": 319,
+   "timestamp": "2009-04-28"
+  }
+ }
+}

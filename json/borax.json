@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "1d1485af9d0fce7848cd109710ad3f36",
+ "filename": [
+  "borax.zip"
+ ],
+ "size": 771,
+ "releasedate": "1998-02-07",
+ "tags": [
+  "title:The Borax Factor",
+  "author:Dennis Katsonis",
+  "tag:large",
+  "tag:base"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Borax.txt": {
+   "size": 6564,
+   "timestamp": "1998-02-07"
+  },
+  "borax.bsp": {
+   "size": 1910028,
+   "timestamp": "1998-02-07"
+  }
+ }
+}

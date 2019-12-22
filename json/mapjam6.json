@@ -1,0 +1,493 @@
+{
+ "version": "20191222-0",
+ "md5": "02849317216a5c5765f63423ebc0ee78",
+ "filename": [
+  "mapjam6.zip"
+ ],
+ "size": 78077,
+ "releasedate": "2015-08-19",
+ "tags": [
+  "title:Func Map Jam 6 - Fire and Brimstone",
+  "author:Adib Murad",
+  "author:Breezeep",
+  "author:Daz",
+  "author:EricW &amp; Tronyn",
+  "author:Exhelzar",
+  "author:ionous",
+  "author:Matecha",
+  "author:necros",
+  "author:Rick",
+  "author:Scampie",
+  "author:ShoTro",
+  "author:ItEndsWithTens",
+  "author:WarrenM",
+  "tag:medium",
+  "tag:large",
+  "tag:dkt",
+  "tag:rubicon",
+  "tag:lava",
+  "tag:cave",
+  "tag:castle",
+  "tag:bsp2",
+  "tag:skybox",
+  "tag:fog",
+  "tag:chthon",
+  "tag:source",
+  "tag:knave",
+  "tag:weird",
+  "tag:base"
+ ],
+ "install": {
+  "extract": "{quake}/mapjam6"
+ },
+ "files": {
+  "demo1.dem": {
+   "size": 4773169,
+   "timestamp": "2015-08-19"
+  },
+  "docs/jam6_Exhelzar.txt": {
+   "size": 353,
+   "timestamp": "2015-08-18"
+  },
+  "docs/jam6_adib.txt": {
+   "size": 2991,
+   "timestamp": "2015-08-19"
+  },
+  "docs/jam6_breezeep.txt": {
+   "size": 150,
+   "timestamp": "2015-08-18"
+  },
+  "docs/jam6_daz.txt": {
+   "size": 2155,
+   "timestamp": "2015-08-18"
+  },
+  "docs/jam6_ericwtronyn.txt": {
+   "size": 807,
+   "timestamp": "2015-08-19"
+  },
+  "docs/jam6_ionous.txt": {
+   "size": 2243,
+   "timestamp": "2015-08-18"
+  },
+  "docs/jam6_itendswithtens.txt": {
+   "size": 1784,
+   "timestamp": "2015-08-18"
+  },
+  "docs/jam6_matecha.txt": {
+   "size": 763,
+   "timestamp": "2015-08-18"
+  },
+  "docs/jam6_rick.txt": {
+   "size": 2906,
+   "timestamp": "2015-08-18"
+  },
+  "docs/jam6_scampie.txt": {
+   "size": 1908,
+   "timestamp": "2015-08-18"
+  },
+  "docs/jam6_shotro.txt": {
+   "size": 2569,
+   "timestamp": "2015-08-19"
+  },
+  "func_mapjam6_readme.txt": {
+   "size": 3664,
+   "timestamp": "2015-08-19"
+  },
+  "gfx/env/desktop.ini": {
+   "size": 47,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/devpun_bk.tga": {
+   "size": 616542,
+   "timestamp": "2015-08-19"
+  },
+  "gfx/env/devpun_dn.tga": {
+   "size": 685386,
+   "timestamp": "2015-08-19"
+  },
+  "gfx/env/devpun_ft.tga": {
+   "size": 533032,
+   "timestamp": "2015-08-19"
+  },
+  "gfx/env/devpun_lf.tga": {
+   "size": 636276,
+   "timestamp": "2015-08-19"
+  },
+  "gfx/env/devpun_rt.tga": {
+   "size": 549569,
+   "timestamp": "2015-08-19"
+  },
+  "gfx/env/devpun_up.tga": {
+   "size": 409899,
+   "timestamp": "2015-08-19"
+  },
+  "gfx/env/flatrock_bk.tga": {
+   "size": 786476,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/flatrock_dn.tga": {
+   "size": 786476,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/flatrock_ft.tga": {
+   "size": 786476,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/flatrock_lf.tga": {
+   "size": 786476,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/flatrock_readme.txt": {
+   "size": 316,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/flatrock_rt.tga": {
+   "size": 786476,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/flatrock_up.tga": {
+   "size": 786476,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/fodrianbk.tga": {
+   "size": 1218431,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/fodriandn.tga": {
+   "size": 752376,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/fodrianft.tga": {
+   "size": 996781,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/fodrianlf.tga": {
+   "size": 1052142,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/fodrianrt.tga": {
+   "size": 1011425,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/fodrianup.tga": {
+   "size": 783041,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/gehenna_bk.tga": {
+   "size": 673919,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/gehenna_dn.tga": {
+   "size": 785761,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/gehenna_ft.tga": {
+   "size": 710441,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/gehenna_lf.tga": {
+   "size": 664379,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/gehenna_rt.tga": {
+   "size": 697661,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/gehenna_up.tga": {
+   "size": 509867,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/iewt_sky1_bk.tga": {
+   "size": 786450,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/iewt_sky1_dn.tga": {
+   "size": 786450,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/iewt_sky1_ft.tga": {
+   "size": 786450,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/iewt_sky1_lf.tga": {
+   "size": 786450,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/iewt_sky1_rt.tga": {
+   "size": 786450,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/iewt_sky1_up.tga": {
+   "size": 786450,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/jam6scampbk.tga": {
+   "size": 3145772,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/jam6scampdn.tga": {
+   "size": 3145772,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/jam6scampft.tga": {
+   "size": 3145772,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/jam6scamplf.tga": {
+   "size": 3145772,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/jam6scamprt.tga": {
+   "size": 3145772,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/jam6scampup.tga": {
+   "size": 3145772,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/violentdays_bk.tga": {
+   "size": 1768538,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/violentdays_dn.tga": {
+   "size": 2764533,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/violentdays_ft.tga": {
+   "size": 2013496,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/violentdays_lf.tga": {
+   "size": 1673108,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/violentdays_rt.tga": {
+   "size": 1976342,
+   "timestamp": "2015-08-18"
+  },
+  "gfx/env/violentdays_up.tga": {
+   "size": 531881,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_adib.bsp": {
+   "size": 2559766,
+   "timestamp": "2015-08-19"
+  },
+  "maps/jam6_adib.lit": {
+   "size": 658100,
+   "timestamp": "2015-08-19"
+  },
+  "maps/jam6_breezeep.bsp": {
+   "size": 2885594,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_breezeep.lit": {
+   "size": 684197,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_daz.bsp": {
+   "size": 15573522,
+   "timestamp": "2015-08-17"
+  },
+  "maps/jam6_daz.lit": {
+   "size": 4337672,
+   "timestamp": "2015-08-17"
+  },
+  "maps/jam6_ericwtronyn.bsp": {
+   "size": 18105864,
+   "timestamp": "2015-08-19"
+  },
+  "maps/jam6_ericwtronyn.lit": {
+   "size": 6899990,
+   "timestamp": "2015-08-19"
+  },
+  "maps/jam6_exhelzar.bsp": {
+   "size": 1168393,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_exhelzar.lit": {
+   "size": 601241,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_ionous.bsp": {
+   "size": 7791646,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_ionous.lit": {
+   "size": 3715934,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_matecha.bsp": {
+   "size": 5448966,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_matecha.lit": {
+   "size": 1488080,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_necros.bsp": {
+   "size": 14494072,
+   "timestamp": "2015-08-19"
+  },
+  "maps/jam6_necros.lit": {
+   "size": 4900154,
+   "timestamp": "2015-08-19"
+  },
+  "maps/jam6_rick.bsp": {
+   "size": 2783868,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_rick.lit": {
+   "size": 1595240,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_scampie.bsp": {
+   "size": 7409131,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_scampie.lit": {
+   "size": 2895095,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_shotro.bsp": {
+   "size": 9062400,
+   "timestamp": "2015-08-19"
+  },
+  "maps/jam6_shotro.lit": {
+   "size": 3591704,
+   "timestamp": "2015-08-19"
+  },
+  "maps/jam6_tens.bsp": {
+   "size": 13538395,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_tens.lit": {
+   "size": 3095294,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_warrenm.bsp": {
+   "size": 3894271,
+   "timestamp": "2015-08-18"
+  },
+  "maps/jam6_warrenm.lit": {
+   "size": 1699442,
+   "timestamp": "2015-08-18"
+  },
+  "maps/start.bsp": {
+   "size": 2259520,
+   "timestamp": "2015-08-19"
+  },
+  "maps/start.lit": {
+   "size": 792215,
+   "timestamp": "2015-08-19"
+  },
+  "quake.rc": {
+   "size": 1144,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam666_daz.jmf": {
+   "size": 7624161,
+   "timestamp": "2015-08-17"
+  },
+  "source/jam666_daz.map": {
+   "size": 3208044,
+   "timestamp": "2015-08-17"
+  },
+  "source/jam6_Breezeep.map": {
+   "size": 1500796,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_adib.map": {
+   "size": 1119658,
+   "timestamp": "2015-08-19"
+  },
+  "source/jam6_breezeep.jmf": {
+   "size": 3891138,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_ericwtronyn.map": {
+   "size": 6756064,
+   "timestamp": "2015-08-19"
+  },
+  "source/jam6_exhelzar.map": {
+   "size": 769025,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_ionous.map": {
+   "size": 6744714,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_matecha.map": {
+   "size": 858056,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/curvingTunnel.obj": {
+   "size": 35457,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/curvingTunnel_stairs.obj": {
+   "size": 29529,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/curvingTunnel_stairsSupport.obj": {
+   "size": 7099,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/jam6_necros_v2.map": {
+   "size": 5597283,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/terrainTest10.max": {
+   "size": 475136,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/terrain_world.obj": {
+   "size": 416411,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/tunnel02.max": {
+   "size": 569344,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/wire.max": {
+   "size": 217088,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_necros src/wire.obj": {
+   "size": 6722,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_rick.map": {
+   "size": 682633,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_scampie.map": {
+   "size": 2234756,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_shotro.map": {
+   "size": 1788577,
+   "timestamp": "2015-08-19"
+  },
+  "source/jam6_tens.map": {
+   "size": 2235807,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_warrenm.jmf": {
+   "size": 2040413,
+   "timestamp": "2015-08-18"
+  },
+  "source/jam6_warrenm.map": {
+   "size": 871107,
+   "timestamp": "2015-08-18"
+  },
+  "source/start.jmf": {
+   "size": 1605513,
+   "timestamp": "2015-08-19"
+  },
+  "source/start.map": {
+   "size": 611714,
+   "timestamp": "2015-08-19"
+  }
+ }
+}

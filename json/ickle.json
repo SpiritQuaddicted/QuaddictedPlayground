@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "b7dabde7258d4ffd56d0e6f19e328a61",
+ "filename": [
+  "ickle.zip"
+ ],
+ "size": 251,
+ "releasedate": "1998-02-09",
+ "tags": [
+  "title:Ickle",
+  "author:Alex Moore",
+  "tag:small",
+  "tag:wizard",
+  "tag:cave"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "ickle.txt": {
+   "size": 2425,
+   "timestamp": "1998-02-09"
+  },
+  "ickle.bsp": {
+   "size": 622036,
+   "timestamp": "1998-02-07"
+  }
+ }
+}

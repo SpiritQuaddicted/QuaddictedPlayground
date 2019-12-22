@@ -1,0 +1,28 @@
+{
+ "version": "20191222-0",
+ "md5": "09d665735368d5bd8c04735c44024e33",
+ "filename": [
+  "evilpool.zip"
+ ],
+ "size": 159,
+ "releasedate": "1996-09-01",
+ "tags": [
+  "title:The EvilPool",
+  "author:Glenn Ancheta",
+  "tag:small",
+  "tag:wizard"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "EVILPOOL.TXT": {
+   "size": 2738,
+   "timestamp": "1996-09-01"
+  },
+  "EVILPOOL.BSP": {
+   "size": 366652,
+   "timestamp": "1996-08-29"
+  }
+ }
+}

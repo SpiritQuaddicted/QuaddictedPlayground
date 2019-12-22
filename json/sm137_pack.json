@@ -1,0 +1,36 @@
+{
+ "version": "20191222-0",
+ "md5": "0dace1c7b68d3cdb679228ad90076efb",
+ "filename": [
+  "sm137_pack.zip"
+ ],
+ "size": 1147,
+ "releasedate": "2007-10-23",
+ "tags": [
+  "title:Speedmapping pack 137 - Unthemed",
+  "author:Drew",
+  "author:Trinca",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm137_trinca.bsp": {
+   "size": 1299756,
+   "timestamp": "2007-10-20"
+  },
+  "sm137_drew.bsp": {
+   "size": 1637504,
+   "timestamp": "2007-10-19"
+  },
+  "sm137_trinca.map": {
+   "size": 913664,
+   "timestamp": "2007-10-18"
+  },
+  "sm137_pack.txt": {
+   "size": 1214,
+   "timestamp": "2007-10-23"
+  }
+ }
+}

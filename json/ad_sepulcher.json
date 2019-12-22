@@ -1,0 +1,843 @@
+{
+ "version": "20191222-0",
+ "md5": "285a9752d80bda8da7dda9fc05460cdb",
+ "filename": [
+  "ad_sepulcher.zip"
+ ],
+ "size": 30238,
+ "releasedate": "2017-06-17",
+ "tags": [
+  "title:The Forgotten Sepulcher",
+  "author:Giftmacher",
+  "author:Sock",
+  "tag:large",
+  "tag:limits",
+  "tag:monsters",
+  "tag:arcane dimensions",
+  "tag:source",
+  "tag:medieval",
+  "tag:swamp",
+  "tag:remix",
+  "tag:e1m3",
+  "tag:necropolis",
+  "tag:exploration",
+  "tag:quake_awards_2018_winner"
+ ],
+ "install": {
+  "extract": "{quake}/ad/"
+ },
+ "files": {
+  "ad_quake.def": {
+   "size": 290898,
+   "timestamp": "2017-06-15"
+  },
+  "ad_sepulcher_readme.txt": {
+   "size": 23413,
+   "timestamp": "2017-06-17"
+  },
+  "effectinfo.txt": {
+   "size": 143565,
+   "timestamp": "2017-06-14"
+  },
+  "gfx/conchars.tga": {
+   "size": 65580,
+   "timestamp": "2017-06-08"
+  },
+  "gfx/mainmenu2.lmp": {
+   "size": 30728,
+   "timestamp": "2017-04-22"
+  },
+  "gfx/p_mod.lmp": {
+   "size": 6920,
+   "timestamp": "2017-06-08"
+  },
+  "maps/ad_chapters.bsp": {
+   "size": 6487328,
+   "timestamp": "2017-06-17"
+  },
+  "maps/ad_chapters.lit": {
+   "size": 803117,
+   "timestamp": "2017-06-17"
+  },
+  "maps/ad_chapters.map": {
+   "size": 2673776,
+   "timestamp": "2017-06-17"
+  },
+  "maps/ad_sep.wad": {
+   "size": 4573556,
+   "timestamp": "2017-06-10"
+  },
+  "maps/ad_sepulcher.bsp": {
+   "size": 42445856,
+   "timestamp": "2017-06-17"
+  },
+  "maps/ad_sepulcher.lit": {
+   "size": 8391902,
+   "timestamp": "2017-06-17"
+  },
+  "maps/ad_sepulcher.map": {
+   "size": 31618895,
+   "timestamp": "2017-06-17"
+  },
+  "maps/bmodels/sep_chain2.map": {
+   "size": 80569,
+   "timestamp": "2016-08-29"
+  },
+  "maps/bmodels/sep_chain3.map": {
+   "size": 41124,
+   "timestamp": "2016-08-29"
+  },
+  "my_progs/ai_ammoresist.qc": {
+   "size": 6432,
+   "timestamp": "2016-10-31"
+  },
+  "my_progs/ai_checkattack.qc": {
+   "size": 76183,
+   "timestamp": "2017-05-19"
+  },
+  "my_progs/ai_combat.qc": {
+   "size": 19422,
+   "timestamp": "2017-05-25"
+  },
+  "my_progs/ai_enemytarget.qc": {
+   "size": 7373,
+   "timestamp": "2017-05-04"
+  },
+  "my_progs/ai_explosion.qc": {
+   "size": 11144,
+   "timestamp": "2016-11-18"
+  },
+  "my_progs/ai_gibs.qc": {
+   "size": 26891,
+   "timestamp": "2017-06-14"
+  },
+  "my_progs/ai_minions.qc": {
+   "size": 10236,
+   "timestamp": "2016-07-12"
+  },
+  "my_progs/ai_pathcorner.qc": {
+   "size": 18071,
+   "timestamp": "2017-05-01"
+  },
+  "my_progs/ai_states.qc": {
+   "size": 6408,
+   "timestamp": "2017-05-12"
+  },
+  "my_progs/ai_subs.qc": {
+   "size": 41674,
+   "timestamp": "2017-05-12"
+  },
+  "my_progs/ai_tether.qc": {
+   "size": 4955,
+   "timestamp": "2017-04-04"
+  },
+  "my_progs/breakable.qc": {
+   "size": 61585,
+   "timestamp": "2017-06-14"
+  },
+  "my_progs/client.qc": {
+   "size": 49292,
+   "timestamp": "2017-06-15"
+  },
+  "my_progs/client_camera.qc": {
+   "size": 12792,
+   "timestamp": "2017-04-30"
+  },
+  "my_progs/client_debuff.qc": {
+   "size": 12834,
+   "timestamp": "2016-07-16"
+  },
+  "my_progs/client_info.qc": {
+   "size": 5737,
+   "timestamp": "2016-11-30"
+  },
+  "my_progs/client_power.qc": {
+   "size": 10609,
+   "timestamp": "2017-04-05"
+  },
+  "my_progs/defs.qc": {
+   "size": 27851,
+   "timestamp": "2017-04-19"
+  },
+  "my_progs/defscustom.qc": {
+   "size": 79390,
+   "timestamp": "2017-06-14"
+  },
+  "my_progs/dpextensions.qc": {
+   "size": 121928,
+   "timestamp": "2014-04-28"
+  },
+  "my_progs/estate.qc": {
+   "size": 6432,
+   "timestamp": "2016-11-30"
+  },
+  "my_progs/func.qc": {
+   "size": 30652,
+   "timestamp": "2017-04-09"
+  },
+  "my_progs/func_buttons.qc": {
+   "size": 9186,
+   "timestamp": "2016-11-30"
+  },
+  "my_progs/func_doors.qc": {
+   "size": 24524,
+   "timestamp": "2017-05-01"
+  },
+  "my_progs/func_doorsecret.qc": {
+   "size": 13488,
+   "timestamp": "2016-11-28"
+  },
+  "my_progs/func_plats.qc": {
+   "size": 11074,
+   "timestamp": "2016-11-30"
+  },
+  "my_progs/func_trains.qc": {
+   "size": 21065,
+   "timestamp": "2016-11-28"
+  },
+  "my_progs/globalfog.qc": {
+   "size": 12693,
+   "timestamp": "2017-06-06"
+  },
+  "my_progs/hiprot.qc": {
+   "size": 31854,
+   "timestamp": "2016-10-25"
+  },
+  "my_progs/items.qc": {
+   "size": 127813,
+   "timestamp": "2017-05-12"
+  },
+  "my_progs/lights.qc": {
+   "size": 20794,
+   "timestamp": "2017-03-31"
+  },
+  "my_progs/mathlib.qc": {
+   "size": 15327,
+   "timestamp": "2015-07-19"
+  },
+  "my_progs/misc.qc": {
+   "size": 57934,
+   "timestamp": "2017-06-03"
+  },
+  "my_progs/misc_targetdummy.qc": {
+   "size": 14053,
+   "timestamp": "2016-08-22"
+  },
+  "my_progs/misc_textbook.qc": {
+   "size": 26258,
+   "timestamp": "2017-03-26"
+  },
+  "my_progs/mon_boil.qc": {
+   "size": 18657,
+   "timestamp": "2017-06-14"
+  },
+  "my_progs/mon_bossboglord.qc": {
+   "size": 22588,
+   "timestamp": "2017-04-30"
+  },
+  "my_progs/mon_bosseidolon.qc": {
+   "size": 38718,
+   "timestamp": "2016-11-13"
+  },
+  "my_progs/mon_bossfiretop.qc": {
+   "size": 16361,
+   "timestamp": "2016-11-12"
+  },
+  "my_progs/mon_bossicegolem.qc": {
+   "size": 46197,
+   "timestamp": "2016-12-08"
+  },
+  "my_progs/mon_bossidchthon.qc": {
+   "size": 19503,
+   "timestamp": "2016-11-02"
+  },
+  "my_progs/mon_bossidshub.qc": {
+   "size": 11431,
+   "timestamp": "2016-11-02"
+  },
+  "my_progs/mon_bossnour.qc": {
+   "size": 40684,
+   "timestamp": "2016-11-13"
+  },
+  "my_progs/mon_bossxxchthon.qc": {
+   "size": 20349,
+   "timestamp": "2016-11-13"
+  },
+  "my_progs/mon_bossxxshub.qc": {
+   "size": 18537,
+   "timestamp": "2016-11-13"
+  },
+  "my_progs/mon_centurion.qc": {
+   "size": 13375,
+   "timestamp": "2017-04-28"
+  },
+  "my_progs/mon_dcrossbow.qc": {
+   "size": 37661,
+   "timestamp": "2017-05-01"
+  },
+  "my_progs/mon_demon.qc": {
+   "size": 13937,
+   "timestamp": "2016-08-21"
+  },
+  "my_progs/mon_dfury.qc": {
+   "size": 39146,
+   "timestamp": "2017-05-11"
+  },
+  "my_progs/mon_dguard.qc": {
+   "size": 28155,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_dknight.qc": {
+   "size": 36371,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_dog.qc": {
+   "size": 17519,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_drole.qc": {
+   "size": 24297,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_dsergeant.qc": {
+   "size": 33124,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_eel.qc": {
+   "size": 7903,
+   "timestamp": "2017-05-15"
+  },
+  "my_progs/mon_enforcer.qc": {
+   "size": 18815,
+   "timestamp": "2017-04-28"
+  },
+  "my_progs/mon_fish.qc": {
+   "size": 8969,
+   "timestamp": "2016-07-28"
+  },
+  "my_progs/mon_freddie.qc": {
+   "size": 24832,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_gargoyle.qc": {
+   "size": 23457,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_gaunt.qc": {
+   "size": 19230,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_golem.qc": {
+   "size": 35089,
+   "timestamp": "2016-12-20"
+  },
+  "my_progs/mon_hknight.qc": {
+   "size": 36833,
+   "timestamp": "2016-10-29"
+  },
+  "my_progs/mon_hogre.qc": {
+   "size": 23451,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_hogreham.qc": {
+   "size": 22561,
+   "timestamp": "2016-12-13"
+  },
+  "my_progs/mon_hogremac.qc": {
+   "size": 23284,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_jim.qc": {
+   "size": 21021,
+   "timestamp": "2017-04-08"
+  },
+  "my_progs/mon_knight.qc": {
+   "size": 22135,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_lostsoul.qc": {
+   "size": 22419,
+   "timestamp": "2016-11-09"
+  },
+  "my_progs/mon_minotaur.qc": {
+   "size": 33574,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_ogre.qc": {
+   "size": 27608,
+   "timestamp": "2017-03-07"
+  },
+  "my_progs/mon_pyro.qc": {
+   "size": 17940,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_scorpion.qc": {
+   "size": 21614,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_seeker.qc": {
+   "size": 29142,
+   "timestamp": "2016-12-12"
+  },
+  "my_progs/mon_shalrath.qc": {
+   "size": 15223,
+   "timestamp": "2016-12-18"
+  },
+  "my_progs/mon_shambler.qc": {
+   "size": 21074,
+   "timestamp": "2017-05-14"
+  },
+  "my_progs/mon_skullwiz.qc": {
+   "size": 35997,
+   "timestamp": "2017-02-19"
+  },
+  "my_progs/mon_soldier.qc": {
+   "size": 21220,
+   "timestamp": "2017-05-19"
+  },
+  "my_progs/mon_spider.qc": {
+   "size": 29895,
+   "timestamp": "2017-05-12"
+  },
+  "my_progs/mon_swampling.qc": {
+   "size": 24923,
+   "timestamp": "2017-05-12"
+  },
+  "my_progs/mon_tarbaby.qc": {
+   "size": 10677,
+   "timestamp": "2017-05-04"
+  },
+  "my_progs/mon_voreling.qc": {
+   "size": 26902,
+   "timestamp": "2017-05-12"
+  },
+  "my_progs/mon_wizard.qc": {
+   "size": 13754,
+   "timestamp": "2017-05-01"
+  },
+  "my_progs/mon_wraith.qc": {
+   "size": 35376,
+   "timestamp": "2017-02-19"
+  },
+  "my_progs/mon_zombie.qc": {
+   "size": 32107,
+   "timestamp": "2017-03-06"
+  },
+  "my_progs/mon_zombiek.qc": {
+   "size": 40010,
+   "timestamp": "2017-03-06"
+  },
+  "my_progs/monsters.qc": {
+   "size": 45965,
+   "timestamp": "2017-06-08"
+  },
+  "my_progs/part_emitter.qc": {
+   "size": 68053,
+   "timestamp": "2017-05-09"
+  },
+  "my_progs/part_generate.qc": {
+   "size": 37076,
+   "timestamp": "2017-04-21"
+  },
+  "my_progs/part_manage.qc": {
+   "size": 24113,
+   "timestamp": "2017-05-09"
+  },
+  "my_progs/player.qc": {
+   "size": 23970,
+   "timestamp": "2016-11-08"
+  },
+  "my_progs/progs.src": {
+   "size": 1671,
+   "timestamp": "2017-06-14"
+  },
+  "my_progs/projectiles.qc": {
+   "size": 54222,
+   "timestamp": "2017-06-14"
+  },
+  "my_progs/qc_highlight.xml": {
+   "size": 6348,
+   "timestamp": "2015-09-16"
+  },
+  "my_progs/settings.qc": {
+   "size": 30447,
+   "timestamp": "2017-06-13"
+  },
+  "my_progs/sounds.qc": {
+   "size": 15780,
+   "timestamp": "2017-04-21"
+  },
+  "my_progs/sprites.qc": {
+   "size": 476,
+   "timestamp": "2009-05-28"
+  },
+  "my_progs/subs.qc": {
+   "size": 29595,
+   "timestamp": "2017-05-25"
+  },
+  "my_progs/subs_soc.qc": {
+   "size": 13630,
+   "timestamp": "2017-06-14"
+  },
+  "my_progs/targets.qc": {
+   "size": 28588,
+   "timestamp": "2017-06-11"
+  },
+  "my_progs/traps.qc": {
+   "size": 24383,
+   "timestamp": "2017-03-21"
+  },
+  "my_progs/traps_pendulum.qc": {
+   "size": 17047,
+   "timestamp": "2016-04-04"
+  },
+  "my_progs/traps_sawblade.qc": {
+   "size": 9783,
+   "timestamp": "2016-08-21"
+  },
+  "my_progs/triggers.qc": {
+   "size": 73569,
+   "timestamp": "2017-06-06"
+  },
+  "my_progs/triggers_states.qc": {
+   "size": 12939,
+   "timestamp": "2017-04-22"
+  },
+  "my_progs/weapons.qc": {
+   "size": 36705,
+   "timestamp": "2017-05-11"
+  },
+  "my_progs/world.qc": {
+   "size": 30998,
+   "timestamp": "2017-06-14"
+  },
+  "particles/fte_weather.cfg": {
+   "size": 2222,
+   "timestamp": "2017-06-14"
+  },
+  "progs.dat": {
+   "size": 1604704,
+   "timestamp": "2017-06-16"
+  },
+  "progs/artifact_sharp.mdl": {
+   "size": 49248,
+   "timestamp": "2017-05-03"
+  },
+  "progs/gib_blclaw1.mdl": {
+   "size": 32860,
+   "timestamp": "2017-04-30"
+  },
+  "progs/gib_blclaw1b.mdl": {
+   "size": 32860,
+   "timestamp": "2017-04-30"
+  },
+  "progs/gib_blclaw2.mdl": {
+   "size": 32860,
+   "timestamp": "2017-04-30"
+  },
+  "progs/gib_blclaw2b.mdl": {
+   "size": 32860,
+   "timestamp": "2017-04-30"
+  },
+  "progs/gib_blfoot1.mdl": {
+   "size": 32860,
+   "timestamp": "2017-04-30"
+  },
+  "progs/gib_blfoot1b.mdl": {
+   "size": 32860,
+   "timestamp": "2017-04-30"
+  },
+  "progs/gib_blfoot2.mdl": {
+   "size": 32860,
+   "timestamp": "2017-04-30"
+  },
+  "progs/gib_blfoot2b.mdl": {
+   "size": 32860,
+   "timestamp": "2017-04-30"
+  },
+  "progs/gib_swampleg.mdl": {
+   "size": 4820,
+   "timestamp": "2017-02-28"
+  },
+  "progs/gib_swamplegp.mdl": {
+   "size": 4820,
+   "timestamp": "2017-02-28"
+  },
+  "progs/h_boglord.mdl": {
+   "size": 98400,
+   "timestamp": "2017-04-30"
+  },
+  "progs/h_boglordb.mdl": {
+   "size": 98400,
+   "timestamp": "2017-04-30"
+  },
+  "progs/misc_book1c.mdl": {
+   "size": 40096,
+   "timestamp": "2017-02-16"
+  },
+  "progs/misc_player.mdl": {
+   "size": 562960,
+   "timestamp": "2017-05-06"
+  },
+  "progs/mon_boil.mdl": {
+   "size": 307068,
+   "timestamp": "2016-07-09"
+  },
+  "progs/mon_bossboglord.mdl": {
+   "size": 401092,
+   "timestamp": "2017-04-29"
+  },
+  "progs/mon_swampling.mdl": {
+   "size": 45332,
+   "timestamp": "2017-02-22"
+  },
+  "progs/mon_swamplingp.mdl": {
+   "size": 45332,
+   "timestamp": "2017-02-22"
+  },
+  "progs/proj_blord1b.mdl": {
+   "size": 11472,
+   "timestamp": "2017-04-29"
+  },
+  "progs/proj_blord1s.mdl": {
+   "size": 8284,
+   "timestamp": "2017-04-29"
+  },
+  "progs/proj_blord2b.mdl": {
+   "size": 11472,
+   "timestamp": "2017-04-29"
+  },
+  "progs/proj_blord2s.mdl": {
+   "size": 8284,
+   "timestamp": "2017-04-29"
+  },
+  "progs/proj_blordbeam1.mdl": {
+   "size": 12244,
+   "timestamp": "2016-07-21"
+  },
+  "progs/proj_blordbeam2.mdl": {
+   "size": 12244,
+   "timestamp": "2017-04-29"
+  },
+  "progs/proj_blordbolt1.mdl": {
+   "size": 7868,
+   "timestamp": "2016-10-12"
+  },
+  "progs/proj_blordbolt2.mdl": {
+   "size": 7868,
+   "timestamp": "2017-04-29"
+  },
+  "progs/proj_swampling.mdl": {
+   "size": 7468,
+   "timestamp": "2017-02-22"
+  },
+  "quake.rc": {
+   "size": 5744,
+   "timestamp": "2017-06-13"
+  },
+  "sound/ambience/rain1_nl.wav": {
+   "size": 154394,
+   "timestamp": "2017-03-29"
+  },
+  "sound/ambience/rain2_fade.wav": {
+   "size": 198550,
+   "timestamp": "2017-03-30"
+  },
+  "sound/ambience/rain2_nl.wav": {
+   "size": 66250,
+   "timestamp": "2017-03-30"
+  },
+  "sound/boglord/attack2.wav": {
+   "size": 8036,
+   "timestamp": "2015-06-23"
+  },
+  "sound/boglord/bangdoor1.wav": {
+   "size": 30968,
+   "timestamp": "2016-07-20"
+  },
+  "sound/boglord/bangdoor2.wav": {
+   "size": 39828,
+   "timestamp": "2016-07-20"
+  },
+  "sound/boglord/bolt_fire.wav": {
+   "size": 114694,
+   "timestamp": "2015-10-26"
+  },
+  "sound/boglord/death1.wav": {
+   "size": 39758,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/idle1.wav": {
+   "size": 15532,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/idle2.wav": {
+   "size": 18586,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/melee1.wav": {
+   "size": 9326,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/melee2.wav": {
+   "size": 11746,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/melee3.wav": {
+   "size": 18776,
+   "timestamp": "2016-07-21"
+  },
+  "sound/boglord/pain1.wav": {
+   "size": 11094,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/pain2.wav": {
+   "size": 11094,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/sboom.wav": {
+   "size": 22172,
+   "timestamp": "2016-10-12"
+  },
+  "sound/boglord/sight.wav": {
+   "size": 28734,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/slime_explode.wav": {
+   "size": 38026,
+   "timestamp": "2015-06-30"
+  },
+  "sound/boglord/slime_miss.wav": {
+   "size": 14582,
+   "timestamp": "2015-06-26"
+  },
+  "sound/boglord/thud.wav": {
+   "size": 22140,
+   "timestamp": "2016-07-18"
+  },
+  "sound/boglord/thud2.wav": {
+   "size": 105882,
+   "timestamp": "2016-07-20"
+  },
+  "sound/gibs/stonedeath.wav": {
+   "size": 76750,
+   "timestamp": "2016-12-13"
+  },
+  "sound/items/backpack_ammo.wav": {
+   "size": 17740,
+   "timestamp": "2017-05-02"
+  },
+  "sound/items/backpack_armour.wav": {
+   "size": 19934,
+   "timestamp": "2017-05-02"
+  },
+  "sound/swampling/attackmunch.wav": {
+   "size": 17798,
+   "timestamp": "2015-07-01"
+  },
+  "sound/swampling/attacktear.wav": {
+   "size": 8918,
+   "timestamp": "2015-07-01"
+  },
+  "sound/swampling/death.wav": {
+   "size": 17694,
+   "timestamp": "2015-07-01"
+  },
+  "sound/swampling/idle1.wav": {
+   "size": 132044,
+   "timestamp": "2017-02-23"
+  },
+  "sound/swampling/idle2.wav": {
+   "size": 70444,
+   "timestamp": "2017-02-23"
+  },
+  "sound/swampling/idle3.wav": {
+   "size": 171644,
+   "timestamp": "2017-02-23"
+  },
+  "sound/swampling/jumpland.wav": {
+   "size": 4518,
+   "timestamp": "2015-07-01"
+  },
+  "sound/swampling/miss.wav": {
+   "size": 14582,
+   "timestamp": "2015-06-26"
+  },
+  "sound/swampling/pain3.wav": {
+   "size": 67244,
+   "timestamp": "2017-02-22"
+  },
+  "sound/swampling/sight2.wav": {
+   "size": 88044,
+   "timestamp": "2017-02-22"
+  },
+  "sound/swampling/spit4.wav": {
+   "size": 76848,
+   "timestamp": "2017-02-23"
+  },
+  "sound/zombie/boil_explode.wav": {
+   "size": 38012,
+   "timestamp": "2016-07-09"
+  },
+  "sound/zombie/boil_idle1.wav": {
+   "size": 33204,
+   "timestamp": "2016-07-09"
+  },
+  "sound/zombie/boil_idle2.wav": {
+   "size": 33206,
+   "timestamp": "2016-07-09"
+  },
+  "sound/zombie/boil_sight.wav": {
+   "size": 33192,
+   "timestamp": "2016-07-09"
+  },
+  "sound/zombie/boil_squirt.wav": {
+   "size": 14582,
+   "timestamp": "2015-06-26"
+  },
+  "sound/zombie/boil_windup.wav": {
+   "size": 22094,
+   "timestamp": "2016-07-09"
+  },
+  "sound/zombie/zk_sight.wav": {
+   "size": 26916,
+   "timestamp": "2016-05-11"
+  },
+  "textures/{dutcweb1.tga": {
+   "size": 131090,
+   "timestamp": "2017-06-08"
+  },
+  "textures/{dutcweb2.tga": {
+   "size": 131090,
+   "timestamp": "2017-06-08"
+  },
+  "textures/{dutcweb3.tga": {
+   "size": 131090,
+   "timestamp": "2017-06-08"
+  },
+  "textures/{dutcweb5.tga": {
+   "size": 131090,
+   "timestamp": "2017-06-08"
+  },
+  "textures/{dweb1b.tga": {
+   "size": 65554,
+   "timestamp": "2017-06-08"
+  },
+  "textures/{dweb2b.tga": {
+   "size": 65554,
+   "timestamp": "2017-06-08"
+  },
+  "textures/{dweb3b.tga": {
+   "size": 65554,
+   "timestamp": "2017-06-08"
+  },
+  "textures/{dweb5b.tga": {
+   "size": 65554,
+   "timestamp": "2017-06-08"
+  },
+  "textures/{vinehang2b.tga": {
+   "size": 262162,
+   "timestamp": "2017-06-08"
+  }
+ }
+}

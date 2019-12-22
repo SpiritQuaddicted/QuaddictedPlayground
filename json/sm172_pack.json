@@ -1,0 +1,38 @@
+{
+ "version": "20191222-0",
+ "md5": "e6011bb2a660f96ee551f71cb97b0077",
+ "filename": [
+  "sm172_pack.zip"
+ ],
+ "size": 311,
+ "releasedate": "2013-06-10",
+ "tags": [
+  "title:Speedmapping pack 172 - Explosions",
+  "author:digs",
+  "author:Orbs",
+  "author:Scampie",
+  "tag:quoth",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "files": {
+  "sm172_digs.bsp": {
+   "size": 579840,
+   "timestamp": "2013-06-10"
+  },
+  "sm172_orbs.bsp": {
+   "size": 152328,
+   "timestamp": "2013-06-10"
+  },
+  "sm172_pack.txt": {
+   "size": 1309,
+   "timestamp": "2013-06-10"
+  },
+  "sm172_scampie.bsp": {
+   "size": 111896,
+   "timestamp": "2013-06-10"
+  }
+ }
+}

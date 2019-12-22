@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "ccce42d6659c581f92650fc3e5851839",
+ "filename": [
+  "mekbase.zip"
+ ],
+ "size": 378,
+ "releasedate": "1997-02-09",
+ "tags": [
+  "title:MekBase",
+  "author:Paul Roberts",
+  "tag:small",
+  "tag:wizard",
+  "tag:metal",
+  "tag:traps",
+  "tag:coop",
+  "tag:dm"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "MekBase.txt": {
+   "size": 1378,
+   "timestamp": "1997-02-09"
+  },
+  "mekbase.bsp": {
+   "size": 868908,
+   "timestamp": "1997-02-06"
+  }
+ }
+}

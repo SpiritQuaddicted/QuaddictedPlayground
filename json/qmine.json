@@ -1,0 +1,38 @@
+{
+ "version": "20191222-0",
+ "md5": "e44cb4c436676ed1e361002d3b003cab",
+ "filename": [
+  "qmine.zip"
+ ],
+ "size": 894,
+ "releasedate": "1997-09-07",
+ "tags": [
+  "title:Qmine",
+  "author:DD",
+  "tag:small",
+  "tag:blue",
+  "tag:mine",
+  "tag:hourse",
+  "tag:soa",
+  "tag:source",
+  "tag:hipnotic",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "files": {
+  "qmine.bsp": {
+   "size": 2217820,
+   "timestamp": "1997-09-06"
+  },
+  "Qmine.txt": {
+   "size": 1783,
+   "timestamp": "1997-09-07"
+  },
+  "qmine.map": {
+   "size": 548288,
+   "timestamp": "1997-09-06"
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "version": "20191222-0",
+ "md5": "315509719358aeb98e2cdef1c530bcc7",
+ "filename": [
+  "768_pack.zip"
+ ],
+ "size": 3281,
+ "releasedate": "2007-07-15",
+ "tags": [
+  "title:Vertical Map Pack",
+  "author:Lurker",
+  "author:rudl",
+  "author:Spirit",
+  "author:Trinca",
+  "tag:space map",
+  "tag:vertical",
+  "tag:contest",
+  "tag:quoth",
+  "tag:experimental",
+  "tag:egypt",
+  "tag:medieval",
+  "tag:base",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "files": {
+  "maps/768_rudl.qkm": {
+   "size": 411284,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_spirit.txt": {
+   "size": 1830,
+   "timestamp": "2007-07-15"
+  },
+  "maps/768_lurker.txt": {
+   "size": 696,
+   "timestamp": "2007-07-15"
+  },
+  "maps/768_spirit.map": {
+   "size": 284235,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_rudl.txt": {
+   "size": 2077,
+   "timestamp": "2007-07-15"
+  },
+  "maps/768_trinca.qkm": {
+   "size": 1144605,
+   "timestamp": "2007-07-02"
+  },
+  "maps/768_trinca.txt": {
+   "size": 5273,
+   "timestamp": "2007-07-15"
+  },
+  "maps/768_trinca.bsp": {
+   "size": 3001092,
+   "timestamp": "2007-07-02"
+  },
+  "maps/768_spirit.bsp": {
+   "size": 1035096,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_trinca.map": {
+   "size": 2154279,
+   "timestamp": "2007-07-02"
+  },
+  "maps/768_lurker.bsp": {
+   "size": 1898909,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_rudl.bsp": {
+   "size": 1175320,
+   "timestamp": "2007-07-14"
+  },
+  "textures/fl_st_m2a.tga": {
+   "size": 49170,
+   "timestamp": "2007-06-06"
+  },
+  "textures/rtex160.tga": {
+   "size": 49170,
+   "timestamp": "2007-04-27"
+  },
+  "textures/rtex018x.tga": {
+   "size": 49196,
+   "timestamp": "2007-06-26"
+  },
+  "768_pack.txt": {
+   "size": 1648,
+   "timestamp": "2007-07-15"
+  }
+ }
+}

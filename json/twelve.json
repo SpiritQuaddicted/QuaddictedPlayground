@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "9d6dd44cfefaba9c8383858ad28b3600",
+ "filename": [
+  "twelve.zip"
+ ],
+ "size": 723,
+ "releasedate": "1998-04-17",
+ "tags": [
+  "title:Twelve Minutes",
+  "author:Pingu",
+  "tag:medium",
+  "tag:wizard",
+  "tag:castle",
+  "tag:base"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "twelve.txt": {
+   "size": 3291,
+   "timestamp": "1998-04-17"
+  },
+  "twelve.bsp": {
+   "size": 1767284,
+   "timestamp": "1998-04-15"
+  }
+ }
+}

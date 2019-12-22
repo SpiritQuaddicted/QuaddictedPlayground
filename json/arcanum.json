@@ -1,0 +1,107 @@
+{
+ "version": "20191222-0",
+ "md5": "5751e9bb2cb07b3560c344ea026f3dfe",
+ "filename": [
+  "arcanum.zip"
+ ],
+ "size": 18975,
+ "releasedate": "2011-05-06",
+ "tags": [
+  "title:Arcanum",
+  "author:Tronyn",
+  "author:PulSaR",
+  "author:PM",
+  "tag:large",
+  "tag:episode",
+  "tag:medieval",
+  "tag:ikblue",
+  "tag:epic",
+  "tag:hard",
+  "tag:monsters",
+  "tag:weapons",
+  "tag:drake",
+  "tag:knave",
+  "dependency:something_wicked"
+ ],
+ "install": {
+  "extract": "{quake}/drake/"
+ },
+ "files": {
+  "arcanumreadme.txt": {
+   "size": 3698,
+   "timestamp": "2011-05-04"
+  },
+  "gfx/env/floodland_bk.tga": {
+   "size": 103354,
+   "timestamp": "2002-06-30"
+  },
+  "gfx/env/floodland_dn.tga": {
+   "size": 162355,
+   "timestamp": "2002-10-30"
+  },
+  "gfx/env/floodland_ft.tga": {
+   "size": 402531,
+   "timestamp": "2002-06-29"
+  },
+  "gfx/env/floodland_lf.tga": {
+   "size": 132172,
+   "timestamp": "2002-06-29"
+  },
+  "gfx/env/floodland_rt.tga": {
+   "size": 105680,
+   "timestamp": "2002-06-30"
+  },
+  "gfx/env/floodland_up.tga": {
+   "size": 182104,
+   "timestamp": "2002-10-30"
+  },
+  "maps/arcanum1.bsp": {
+   "size": 6296820,
+   "timestamp": "2011-05-07"
+  },
+  "maps/arcanum2.bsp": {
+   "size": 6642760,
+   "timestamp": "2011-05-07"
+  },
+  "maps/arcanum3.bsp": {
+   "size": 7501212,
+   "timestamp": "2011-05-07"
+  },
+  "maps/arcanum4.bsp": {
+   "size": 9295920,
+   "timestamp": "2011-05-07"
+  },
+  "maps/arcanum5.bsp": {
+   "size": 7646224,
+   "timestamp": "2011-05-07"
+  },
+  "maps/arcstart.bsp": {
+   "size": 1956861,
+   "timestamp": "2010-01-22"
+  },
+  "maps/arcstart.lit": {
+   "size": 462668,
+   "timestamp": "2010-01-22"
+  },
+  "sound/music/earth.wav": {
+   "size": 794056,
+   "timestamp": "2009-10-31"
+  },
+  "sound/music/warp.wav": {
+   "size": 1400940,
+   "timestamp": "2008-11-30"
+  },
+  "sound/music/warpb.wav": {
+   "size": 2518936,
+   "timestamp": "2011-04-29"
+  },
+  "sound/music/warpc.wav": {
+   "size": 1783948,
+   "timestamp": "2008-11-30"
+  },
+  "arcanum_v11.txt": {
+   "size": 200,
+   "timestamp": "2011-05-08"
+  }
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "version": "20191222-0",
+ "md5": "10ab0df49240bfd8453107a68fd01fdc",
+ "filename": [
+  "mykd1.zip"
+ ],
+ "size": 932,
+ "releasedate": "1997-02-22",
+ "tags": [
+  "title:Mykd1",
+  "author:Mike Drummond",
+  "tag:ctf",
+  "tag:dm",
+  "tag:medium",
+  "tag:wizard",
+  "tag:metal",
+  "tag:water",
+  "tag:cavern",
+  "tag:mandatory secret"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "mykd1.txt": {
+   "size": 2119,
+   "timestamp": "1997-02-22"
+  },
+  "mykd1.bsp": {
+   "size": 2105632,
+   "timestamp": "1997-02-22"
+  }
+ }
+}

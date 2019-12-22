@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "4cc3b709c4609b3f32512106e7cb7cad",
+ "filename": [
+  "fc.zip"
+ ],
+ "size": 654,
+ "releasedate": "1996-08-10",
+ "tags": [
+  "title:The Forsaken Citadel",
+  "author:Darren Stabler",
+  "tag:medium",
+  "tag:ebon",
+  "tag:green",
+  "tag:outdoor"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "fc.txt": {
+   "size": 2873,
+   "timestamp": "1996-08-10"
+  },
+  "fc.bsp": {
+   "size": 1462130,
+   "timestamp": "1996-08-10"
+  }
+ }
+}

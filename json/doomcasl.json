@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "md5": "3138c0f7f4311adc8ef5e72cc84592a0",
+ "filename": [
+  "doomcasl.zip"
+ ],
+ "size": 603,
+ "releasedate": "1997-02-22",
+ "tags": [
+  "title:Doom Castle",
+  "author:Jacob Fike",
+  "tag:small",
+  "tag:wizard",
+  "tag:castle",
+  "tag:textures",
+  "tag:realism",
+  "tag:jail",
+  "tag:traps"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "doomcasl.txt": {
+   "size": 2643,
+   "timestamp": "1997-02-22"
+  },
+  "rain.zip": {
+   "size": 225358,
+   "timestamp": "1997-02-20"
+  },
+  "doomcasl.bsp": {
+   "size": 928376,
+   "timestamp": "1997-02-21"
+  }
+ }
+}

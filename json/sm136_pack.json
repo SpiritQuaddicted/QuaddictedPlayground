@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "2211166af190b5b4a534951ef6f89aed",
+ "filename": [
+  "sm136_pack.zip"
+ ],
+ "size": 1055,
+ "releasedate": "2007-10-15",
+ "tags": [
+  "title:Speedmapping pack 136 - Unthemed",
+  "author:Ankh",
+  "author:Drew",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm136_ankh.bsp": {
+   "size": 897104,
+   "timestamp": "2007-10-14"
+  },
+  "sm136_pack.txt": {
+   "size": 1210,
+   "timestamp": "2007-10-15"
+  },
+  "sm136_drew.bsp": {
+   "size": 1517388,
+   "timestamp": "2007-09-13"
+  }
+ }
+}

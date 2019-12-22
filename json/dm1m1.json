@@ -1,0 +1,26 @@
+{
+ "version": "20191222-0",
+ "md5": "456e67bf1c8c580cfebb00f2c2de505c",
+ "filename": [
+  "dm1m1.zip"
+ ],
+ "size": 490,
+ "releasedate": "1998-10-26",
+ "tags": [
+  "title:Installation of Disavowed",
+  "author:Alex Andreu (Deathmonger)",
+  "tag:small",
+  "tag:base",
+  "tag:badpak",
+  "dependency:badpak"
+ ],
+ "install": {
+  "extract": "{quake}/bad/maps/"
+ },
+ "files": {
+  "DM1M1.bsp": {
+   "size": 1209644,
+   "timestamp": "1998-10-26"
+  }
+ }
+}

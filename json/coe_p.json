@@ -1,0 +1,33 @@
+{
+ "version": "20191222-0",
+ "md5": "a45cef2ad1de8d5e56b041a3aa64a372",
+ "filename": [
+  "coe_p.zip"
+ ],
+ "size": 404,
+ "releasedate": "2001-01-08",
+ "tags": [
+  "title:Coven of Ebony PATCH",
+  "author:Robert \"Fat Controller\" Cruickshank",
+  "tag:patch",
+  "tag:azure",
+  "tag:medieval",
+  "tag:action",
+  "tag:hard",
+  "tag:monsters",
+  "dependency:coe"
+ ],
+ "install": {
+  "extract": "{quake}/coe/"
+ },
+ "files": {
+  "coe_p_readme.txt": {
+   "size": 1857,
+   "timestamp": "2001-01-08"
+  },
+  "PAK1.PAK": {
+   "size": 959980,
+   "timestamp": "2001-01-08"
+  }
+ }
+}

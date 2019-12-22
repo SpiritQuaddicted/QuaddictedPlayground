@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "md5": "52eff619ef8458abcd58b4256caf3306",
+ "filename": [
+  "tefdbl2a.zip"
+ ],
+ "size": 2798,
+ "releasedate": "1997-07-01",
+ "tags": [
+  "title:Into Oblivion/Nostalgia",
+  "author:T.H. Johansen (TJ)",
+  "tag:mini episode",
+  "tag:medium",
+  "tag:soa",
+  "tag:hipnotic",
+  "tag:monsters",
+  "tag:dinosaurs",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/tefdb2a/"
+ },
+ "files": {
+  "pak1.pak": {
+   "size": 6228196,
+   "timestamp": "1997-07-01"
+  },
+  "monsters.zip": {
+   "size": 12882,
+   "timestamp": "1997-05-15"
+  },
+  "tefdbl2.txt": {
+   "size": 10646,
+   "timestamp": "1997-05-20"
+  }
+ }
+}

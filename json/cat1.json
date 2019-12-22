@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "md5": "471e52094a02a9b94b2e7245c2b34951",
+ "filename": [
+  "cat1.zip"
+ ],
+ "size": 604,
+ "releasedate": "2004-05-10",
+ "tags": [
+  "title:no title",
+  "author:unknown",
+  "tag:church",
+  "tag:small",
+  "tag:limits"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "cat1.bsp": {
+   "size": 1618208,
+   "timestamp": "2004-05-10"
+  },
+  "cat1.rtlights": {
+   "size": 223,
+   "timestamp": "2004-04-30"
+  },
+  "cat1.lit": {
+   "size": 911576,
+   "timestamp": "2004-05-10"
+  },
+  "cat1.lights": {
+   "size": 473,
+   "timestamp": "2004-05-10"
+  }
+ }
+}

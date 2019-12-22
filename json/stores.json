@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "a69b2223b3eea5a1d556ec323b47a20e",
+ "filename": [
+  "stores.zip"
+ ],
+ "size": 669,
+ "releasedate": "1998-04-25",
+ "tags": [
+  "title:The Stores",
+  "author:Tony Newton",
+  "tag:medium",
+  "tag:base",
+  "tag:crates",
+  "tag:mandatory secret"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "stores.bsp": {
+   "size": 1595352,
+   "timestamp": "1997-09-29"
+  },
+  "stores.txt": {
+   "size": 761,
+   "timestamp": "1998-04-25"
+  }
+ }
+}

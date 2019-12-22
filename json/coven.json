@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "141519304a0bf885cdca91235f0dcf65",
+ "filename": [
+  "coven.zip"
+ ],
+ "size": 2386,
+ "releasedate": "2006-10-13",
+ "tags": [
+  "title:Coven",
+  "author:Dustin \"Tronyn\" Geeraert",
+  "tag:large",
+  "tag:medieval",
+  "tag:cavern",
+  "tag:soe",
+  "tag:limits",
+  "dependency:soe_full"
+ ],
+ "install": {
+  "extract": "{quake}/soe/maps/"
+ },
+ "files": {
+  "coven.bsp": {
+   "size": 5738616,
+   "timestamp": "2006-10-12"
+  },
+  "coven.txt": {
+   "size": 1235,
+   "timestamp": "2006-10-13"
+  }
+ }
+}

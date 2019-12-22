@@ -1,0 +1,41 @@
+{
+ "version": "20191222-0",
+ "md5": "497c09fbe9fd9c0805ae23284b8e2f51",
+ "filename": [
+  "nyarlathotep.zip"
+ ],
+ "size": 5639,
+ "releasedate": "2013-12-11",
+ "tags": [
+  "title:Nyarlathotep",
+  "author:Dustin \"Tronyn\" Geeraert",
+  "tag:experimental",
+  "tag:vertical",
+  "tag:blood",
+  "tag:gravity",
+  "tag:egyptian",
+  "tag:knave",
+  "tag:medium",
+  "tag:flesh",
+  "tag:drake",
+  "tag:hard",
+  "tag:temple",
+  "tag:limits",
+  "tag:bsp2",
+  "tag:unique",
+  "dependency:something_wicked"
+ ],
+ "install": {
+  "extract": "{quake}/wicked/"
+ },
+ "files": {
+  "nyarlathotep.txt": {
+   "size": 1134,
+   "timestamp": "2013-12-08"
+  },
+  "pak4.pak": {
+   "size": 15716108,
+   "timestamp": "2013-12-08"
+  }
+ }
+}

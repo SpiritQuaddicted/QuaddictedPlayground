@@ -1,0 +1,276 @@
+{
+ "version": "20191222-0",
+ "md5": "b505a8983fb9c1bc4d26c821d787fe0e",
+ "filename": [
+  "qump.zip"
+ ],
+ "size": 39419,
+ "releasedate": "2017-10-26",
+ "tags": [
+  "title:Quake Upstart Mapping Project 2017",
+  "author:brassbite",
+  "author:Danzadan",
+  "author:Daya",
+  "author:HexenMapper",
+  "author:Kres",
+  "author:Naitelveni",
+  "author:NewHouse",
+  "author:Pritchard",
+  "author:Spud",
+  "author:Topher",
+  "author:Vingal",
+  "tag:episode",
+  "tag:small",
+  "tag:medium",
+  "tag:large",
+  "tag:metal",
+  "tag:runic",
+  "tag:medieval",
+  "tag:base",
+  "tag:city",
+  "tag:space",
+  "tag:castle",
+  "tag:start",
+  "tag:hub",
+  "tag:fog",
+  "tag:lit",
+  "tag:music",
+  "tag:arena",
+  "tag:skybox",
+  "tag:limits",
+  "tag:source"
+ ],
+ "install": {
+  "extract": "{quake}/"
+ },
+ "files": {
+  "qump/QUMP READ ME.txt": {
+   "size": 4108,
+   "timestamp": "2017-10-26"
+  },
+  "qump/gfx/env/moonhigh_bk.tga": {
+   "size": 1048620,
+   "timestamp": "2017-10-15"
+  },
+  "qump/gfx/env/moonhigh_dn.tga": {
+   "size": 1048620,
+   "timestamp": "2017-10-15"
+  },
+  "qump/gfx/env/moonhigh_ft.tga": {
+   "size": 1048620,
+   "timestamp": "2017-10-15"
+  },
+  "qump/gfx/env/moonhigh_lf.tga": {
+   "size": 1048620,
+   "timestamp": "2017-10-15"
+  },
+  "qump/gfx/env/moonhigh_rt.tga": {
+   "size": 1048620,
+   "timestamp": "2017-10-15"
+  },
+  "qump/gfx/env/moonhigh_up.tga": {
+   "size": 1048620,
+   "timestamp": "2017-10-15"
+  },
+  "qump/gfx/env/stormydays_bk.tga": {
+   "size": 3145746,
+   "timestamp": "2017-07-27"
+  },
+  "qump/gfx/env/stormydays_dn.tga": {
+   "size": 3145746,
+   "timestamp": "2017-07-27"
+  },
+  "qump/gfx/env/stormydays_ft.tga": {
+   "size": 3145746,
+   "timestamp": "2017-07-27"
+  },
+  "qump/gfx/env/stormydays_lf.tga": {
+   "size": 3145746,
+   "timestamp": "2017-07-27"
+  },
+  "qump/gfx/env/stormydays_rt.tga": {
+   "size": 3145746,
+   "timestamp": "2017-07-27"
+  },
+  "qump/gfx/env/stormydays_up.tga": {
+   "size": 3145746,
+   "timestamp": "2017-07-27"
+  },
+  "qump/gfx/env/voidsmoke_bk.tga": {
+   "size": 3145772,
+   "timestamp": "2016-12-10"
+  },
+  "qump/gfx/env/voidsmoke_dn.tga": {
+   "size": 3145772,
+   "timestamp": "2016-12-10"
+  },
+  "qump/gfx/env/voidsmoke_ft.tga": {
+   "size": 3145772,
+   "timestamp": "2016-12-10"
+  },
+  "qump/gfx/env/voidsmoke_lf.tga": {
+   "size": 3145772,
+   "timestamp": "2016-12-10"
+  },
+  "qump/gfx/env/voidsmoke_rt.tga": {
+   "size": 3145772,
+   "timestamp": "2016-12-10"
+  },
+  "qump/gfx/env/voidsmoke_up.tga": {
+   "size": 3145772,
+   "timestamp": "2016-12-10"
+  },
+  "qump/maps/qump_brassbite.bsp": {
+   "size": 3660304,
+   "timestamp": "2017-10-21"
+  },
+  "qump/maps/qump_brassbite.lit": {
+   "size": 1854860,
+   "timestamp": "2017-10-21"
+  },
+  "qump/maps/qump_danzadan.bsp": {
+   "size": 4216388,
+   "timestamp": "2017-10-23"
+  },
+  "qump/maps/qump_danzadan.lit": {
+   "size": 2753576,
+   "timestamp": "2017-10-23"
+  },
+  "qump/maps/qump_daya.bsp": {
+   "size": 9285992,
+   "timestamp": "2017-10-20"
+  },
+  "qump/maps/qump_daya.lit": {
+   "size": 2550776,
+   "timestamp": "2017-10-20"
+  },
+  "qump/maps/qump_hexenmapper.bsp": {
+   "size": 4056284,
+   "timestamp": "2017-10-22"
+  },
+  "qump/maps/qump_hexenmapper.lit": {
+   "size": 1345076,
+   "timestamp": "2017-10-22"
+  },
+  "qump/maps/qump_kres.bsp": {
+   "size": 5277408,
+   "timestamp": "2017-10-19"
+  },
+  "qump/maps/qump_kres.lit": {
+   "size": 1405754,
+   "timestamp": "2017-10-19"
+  },
+  "qump/maps/qump_naitelveni.bsp": {
+   "size": 3969496,
+   "timestamp": "2017-10-15"
+  },
+  "qump/maps/qump_pritchard.bsp": {
+   "size": 965984,
+   "timestamp": "2017-10-10"
+  },
+  "qump/maps/qump_spud.bsp": {
+   "size": 704400,
+   "timestamp": "2017-10-22"
+  },
+  "qump/maps/qump_spud.lit": {
+   "size": 65510,
+   "timestamp": "2017-10-22"
+  },
+  "qump/maps/qump_start.bsp": {
+   "size": 478944,
+   "timestamp": "2017-10-17"
+  },
+  "qump/maps/qump_topher.bsp": {
+   "size": 2556144,
+   "timestamp": "2017-10-17"
+  },
+  "qump/maps/qump_topher.lit": {
+   "size": 1071875,
+   "timestamp": "2017-10-17"
+  },
+  "qump/maps/qump_vingal.bsp": {
+   "size": 5509764,
+   "timestamp": "2017-09-16"
+  },
+  "qump/maps/source/qump_brassbite.map": {
+   "size": 1384303,
+   "timestamp": "2017-10-21"
+  },
+  "qump/maps/source/qump_brassbite.txt": {
+   "size": 1515,
+   "timestamp": "2017-10-15"
+  },
+  "qump/maps/source/qump_danzadan.jmf": {
+   "size": 7233443,
+   "timestamp": "2017-10-23"
+  },
+  "qump/maps/source/qump_danzadan.map": {
+   "size": 2377465,
+   "timestamp": "2017-10-23"
+  },
+  "qump/maps/source/qump_danzadan.txt": {
+   "size": 2703,
+   "timestamp": "2017-10-23"
+  },
+  "qump/maps/source/qump_hexenmapper.log": {
+   "size": 1305,
+   "timestamp": "2017-09-16"
+  },
+  "qump/maps/source/qump_hexenmapper.map": {
+   "size": 1884050,
+   "timestamp": "2017-10-20"
+  },
+  "qump/maps/source/qump_kres.map": {
+   "size": 3421314,
+   "timestamp": "2017-10-19"
+  },
+  "qump/maps/source/qump_kres.txt": {
+   "size": 1062,
+   "timestamp": "2017-04-16"
+  },
+  "qump/maps/source/qump_pritchard.map": {
+   "size": 361640,
+   "timestamp": "2017-10-10"
+  },
+  "qump/maps/source/qump_pritchard.txt": {
+   "size": 2477,
+   "timestamp": "2016-12-21"
+  },
+  "qump/maps/source/qump_spud.map": {
+   "size": 195468,
+   "timestamp": "2017-10-22"
+  },
+  "qump/maps/source/qump_spud.txt": {
+   "size": 873,
+   "timestamp": "2017-07-08"
+  },
+  "qump/maps/source/qump_start.map": {
+   "size": 150065,
+   "timestamp": "2017-10-17"
+  },
+  "qump/maps/source/qump_topher.map": {
+   "size": 738958,
+   "timestamp": "2017-10-17"
+  },
+  "qump/maps/source/qump_topher.txt": {
+   "size": 982,
+   "timestamp": "2017-10-17"
+  },
+  "qump/maps/source/start.map": {
+   "size": 1879569,
+   "timestamp": "2017-10-23"
+  },
+  "qump/maps/start.bsp": {
+   "size": 5366668,
+   "timestamp": "2017-10-23"
+  },
+  "qump/maps/start.lit": {
+   "size": 1887869,
+   "timestamp": "2017-10-23"
+  },
+  "qump/music/track12.ogg": {
+   "size": 4955573,
+   "timestamp": "2017-10-09"
+  }
+ }
+}

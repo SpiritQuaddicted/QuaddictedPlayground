@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "6c6cf2c67c6b9dab7a519370e84bd4b6",
+ "filename": [
+  "wolf3d.zip"
+ ],
+ "size": 839,
+ "releasedate": "1997-10-12",
+ "tags": [
+  "title:Wolf3D",
+  "author:Daryl Deep",
+  "tag:small",
+  "tag:wolfenstein",
+  "tag:soa",
+  "tag:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "WOLF3D.bsp": {
+   "size": 2232048,
+   "timestamp": "1997-10-12"
+  },
+  "wolf.txt": {
+   "size": 2131,
+   "timestamp": "1997-10-12"
+  }
+ }
+}

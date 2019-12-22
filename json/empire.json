@@ -1,0 +1,31 @@
+{
+ "version": "20191222-0",
+ "md5": "c20268eeff000d02b9909996a92a7fe4",
+ "filename": [
+  "empire.zip"
+ ],
+ "size": 405,
+ "releasedate": "1996-12-20",
+ "tags": [
+  "title:Empire",
+  "author:Jim Strider",
+  "tag:large",
+  "tag:orange",
+  "tag:maze",
+  "tag:dm",
+  "tag:bricks"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Empire.txt": {
+   "size": 1425,
+   "timestamp": "1996-12-20"
+  },
+  "Empire.bsp": {
+   "size": 1016768,
+   "timestamp": "1996-12-20"
+  }
+ }
+}

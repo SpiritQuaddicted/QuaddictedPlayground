@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "cc7ee790a2e0dfb23fae7be529bd222c",
+ "filename": [
+  "wtot.zip"
+ ],
+ "size": 279,
+ "releasedate": "1997-10-27",
+ "tags": [
+  "title:Welcome to Ogre tower",
+  "author:Dick Nelson",
+  "tag:small",
+  "tag:metal",
+  "tag:runic",
+  "tag:traps"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "wtot.txt": {
+   "size": 2918,
+   "timestamp": "1997-10-27"
+  },
+  "wtot.bsp": {
+   "size": 632112,
+   "timestamp": "1997-05-03"
+  }
+ }
+}

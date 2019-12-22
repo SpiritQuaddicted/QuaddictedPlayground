@@ -1,0 +1,27 @@
+{
+ "version": "20191222-0",
+ "md5": "5c4205cbc23c0b7e5686d36f78db4c5e",
+ "filename": [
+  "opcondor.zip"
+ ],
+ "size": 582,
+ "releasedate": "1997-08-10",
+ "tags": [
+  "title:Operation Condor",
+  "author:Scott McNutt",
+  "tag:hard"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "opcondor.txt": {
+   "size": 5824,
+   "timestamp": "1997-08-10"
+  },
+  "opcondor.bsp": {
+   "size": 1496280,
+   "timestamp": "1997-08-10"
+  }
+ }
+}

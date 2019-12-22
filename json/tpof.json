@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "6aee5c7e5b25d28b588544a1b9fa50e4",
+ "filename": [
+  "tpof.zip"
+ ],
+ "size": 775,
+ "releasedate": "2007-03-10",
+ "tags": [
+  "title:The Palace of Fear",
+  "author:ijed",
+  "tag:remake",
+  "tag:terracotta",
+  "tag:medium",
+  "tag:quoth",
+  "tag:e4m4",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "tpof.bsp": {
+   "size": 2383488,
+   "timestamp": "2007-03-10"
+  },
+  "tpof_readme.txt": {
+   "size": 214,
+   "timestamp": "2007-03-10"
+  }
+ }
+}

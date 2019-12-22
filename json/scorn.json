@@ -1,0 +1,31 @@
+{
+ "version": "20191222-0",
+ "md5": "401d7cf032c7f957ebc8360ca5b9b42f",
+ "filename": [
+  "scorn.zip"
+ ],
+ "size": 393,
+ "releasedate": "1997-01-16",
+ "tags": [
+  "title:Scorn Quake Level",
+  "author:Michael Reed",
+  "tag:blue",
+  "tag:metal",
+  "tag:medium",
+  "tag:traps",
+  "tag:dm"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "SCORN.TXT": {
+   "size": 3752,
+   "timestamp": "1997-01-16"
+  },
+  "SCORN.BSP": {
+   "size": 925232,
+   "timestamp": "1997-01-16"
+  }
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "8d07dd7794cedad4ba579d820a2bba1b",
+ "filename": [
+  "scoop.zip"
+ ],
+ "size": 710,
+ "releasedate": "1997-07-29",
+ "tags": [
+  "title:Scoop of chaos",
+  "author:J.F.Gustafsson",
+  "tag:small",
+  "tag:base",
+  "tag:outdoor",
+  "tag:tank"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Scoop.bsp": {
+   "size": 1652036,
+   "timestamp": "1997-07-29"
+  },
+  "scoop.txt": {
+   "size": 1225,
+   "timestamp": "1997-07-29"
+  }
+ }
+}

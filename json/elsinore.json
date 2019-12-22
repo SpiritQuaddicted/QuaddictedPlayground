@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "ab38729311d3b5659452a71045d41303",
+ "filename": [
+  "elsinore.zip"
+ ],
+ "size": 969,
+ "releasedate": "1997-10-16",
+ "tags": [
+  "title:Elsinore",
+  "author:Roger Staines",
+  "tag:large",
+  "tag:wizard",
+  "tag:castle",
+  "tag:planetquake-map-of-the-week"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "elsinore.txt": {
+   "size": 2778,
+   "timestamp": "1997-10-16"
+  },
+  "elsinore.bsp": {
+   "size": 2175824,
+   "timestamp": "1997-10-16"
+  }
+ }
+}

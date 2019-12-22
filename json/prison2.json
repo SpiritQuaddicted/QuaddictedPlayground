@@ -1,0 +1,34 @@
+{
+ "version": "20191222-0",
+ "md5": "2495680a497b55bb29b1e097743b1949",
+ "filename": [
+  "prison2.zip"
+ ],
+ "size": 451,
+ "releasedate": "1997-01-21",
+ "tags": [
+  "title:Prison",
+  "author:Anders Gustavsson",
+  "tag:small",
+  "tag:wizard",
+  "tag:source",
+  "tag:explorative"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "prison.txt": {
+   "size": 1173,
+   "timestamp": "1997-01-21"
+  },
+  "prison.map": {
+   "size": 275531,
+   "timestamp": "1997-01-21"
+  },
+  "prison.bsp": {
+   "size": 1013916,
+   "timestamp": "1997-01-21"
+  }
+ }
+}

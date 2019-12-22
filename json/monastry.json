@@ -1,0 +1,35 @@
+{
+ "version": "20191222-0",
+ "md5": "42c7256e8f844f6daf87b8229e25c0b5",
+ "filename": [
+  "monastry.zip"
+ ],
+ "size": 637,
+ "releasedate": "1997-08-27",
+ "tags": [
+  "title:Monastry",
+  "author:Neil Manke",
+  "tag:medium",
+  "tag:town",
+  "tag:medieval",
+  "tag:traps",
+  "tag:nonlinear"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Monhints.txt": {
+   "size": 5020,
+   "timestamp": "1997-03-30"
+  },
+  "Monastry.txt": {
+   "size": 4042,
+   "timestamp": "1997-08-27"
+  },
+  "Monastry.bsp": {
+   "size": 1534608,
+   "timestamp": "1997-03-28"
+  }
+ }
+}

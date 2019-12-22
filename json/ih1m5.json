@@ -1,0 +1,26 @@
+{
+ "version": "20191222-0",
+ "md5": "99426288554d3a23dfe51f759e3b7f2e",
+ "filename": [
+  "ih1m5.zip"
+ ],
+ "size": 481,
+ "releasedate": "1999-07-23",
+ "tags": [
+  "title:Ih1m5",
+  "author:Ironhammer",
+  "tag:small",
+  "tag:base",
+  "tag:badpak",
+  "dependency:badpak"
+ ],
+ "install": {
+  "extract": "{quake}/badpak/maps/"
+ },
+ "files": {
+  "IH1M5.BSP": {
+   "size": 1184936,
+   "timestamp": "1999-07-23"
+  }
+ }
+}

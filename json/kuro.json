@@ -1,0 +1,34 @@
+{
+ "version": "20191222-0",
+ "md5": "60659235a33ad0941bb98eb5c8d41c74",
+ "filename": [
+  "kuro.zip"
+ ],
+ "size": 97,
+ "releasedate": "1996-12-22",
+ "tags": [
+  "title:Kuro",
+  "author:Chris",
+  "tag:small",
+  "tag:wizard",
+  "tag:source",
+  "tag:metal"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "KURO.MAP": {
+   "size": 83141,
+   "timestamp": "1995-12-22"
+  },
+  "KURO.TXT": {
+   "size": 2312,
+   "timestamp": "1995-12-22"
+  },
+  "KURO.BSP": {
+   "size": 200396,
+   "timestamp": "1995-12-22"
+  }
+ }
+}

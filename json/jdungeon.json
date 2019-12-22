@@ -1,0 +1,34 @@
+{
+ "version": "20191222-0",
+ "md5": "79bc740c1dbe9aa7c92dc74fea6099f5",
+ "filename": [
+  "jdungeon.zip"
+ ],
+ "size": 188,
+ "releasedate": "1997-02-16",
+ "tags": [
+  "title:Jim's Dungeon",
+  "author:James Garrett",
+  "tag:small",
+  "tag:wizard",
+  "tag:dm",
+  "tag:tiny"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "JDungeon.txt": {
+   "size": 939,
+   "timestamp": "1997-02-16"
+  },
+  "jdungeon_quaddictedrepack.txt": {
+   "size": 319,
+   "timestamp": "2009-04-28"
+  },
+  "Dungeon.bsp": {
+   "size": 450464,
+   "timestamp": "1997-02-16"
+  }
+ }
+}

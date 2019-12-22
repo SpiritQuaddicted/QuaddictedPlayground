@@ -1,0 +1,33 @@
+{
+ "version": "20191222-0",
+ "md5": "0fafe5055fc7d8d4fae469aeededa765",
+ "filename": [
+  "qfract-beta1.zip"
+ ],
+ "size": 1064,
+ "releasedate": "2001-05-29",
+ "tags": [
+  "title:Fracture",
+  "author:Adam Foster",
+  "tag:small",
+  "tag:idbase",
+  "tag:start map"
+ ],
+ "install": {
+  "extract": "{quake}/"
+ },
+ "files": {
+  "install.txt": {
+   "size": 344,
+   "timestamp": "2001-05-29"
+  },
+  "readme.txt": {
+   "size": 474,
+   "timestamp": "2001-05-29"
+  },
+  "fracture/pak0.pak": {
+   "size": 2616544,
+   "timestamp": "1999-05-13"
+  }
+ }
+}

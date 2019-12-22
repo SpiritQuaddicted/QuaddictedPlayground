@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "ea0d969981dd036911c6f6fbf49ec833",
+ "filename": [
+  "area51.zip"
+ ],
+ "size": 747,
+ "releasedate": "1996-12-02",
+ "tags": [
+  "title:Area 51",
+  "author:Murat Deligonul",
+  "tag:base",
+  "tag:medium",
+  "tag:traps"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "area51.txt": {
+   "size": 2868,
+   "timestamp": "1996-12-02"
+  },
+  "area51.bsp": {
+   "size": 1722800,
+   "timestamp": "1996-12-01"
+  }
+ }
+}

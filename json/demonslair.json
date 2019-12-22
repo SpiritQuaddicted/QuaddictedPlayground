@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "f63486a5675455a9e1b1191bfded6023",
+ "filename": [
+  "demonslair.zip"
+ ],
+ "size": 406,
+ "releasedate": "1999-09-02",
+ "tags": [
+  "title:The Demons Lair",
+  "author:Peter Bisseker (tiddles)",
+  "tag:metal",
+  "tag:hard",
+  "tag:coop",
+  "tag:medium"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "demons.bsp": {
+   "size": 1023984,
+   "timestamp": "1999-09-02"
+  },
+  "demons-lair.txt": {
+   "size": 2270,
+   "timestamp": "1999-09-02"
+  }
+ }
+}

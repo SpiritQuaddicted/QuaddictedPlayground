@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "d37465bb467c63dccfea4a8738ecf0c7",
+ "filename": [
+  "hellbase.zip"
+ ],
+ "size": 558,
+ "releasedate": "1996-12-17",
+ "tags": [
+  "title:Hellbase",
+  "author:Roger Staines",
+  "tag:medium",
+  "tag:base",
+  "tag:wizard"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Hellbase.txt": {
+   "size": 1533,
+   "timestamp": "1996-12-17"
+  },
+  "hellbase.bsp": {
+   "size": 1295244,
+   "timestamp": "1996-11-24"
+  }
+ }
+}

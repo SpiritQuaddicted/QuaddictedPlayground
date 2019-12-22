@@ -1,0 +1,568 @@
+{
+ "version": "20191222-0",
+ "md5": "834495976588b4baffc24a5aad425458",
+ "filename": [
+  "sewerjam.zip"
+ ],
+ "size": 89522,
+ "releasedate": "2019-09-02",
+ "tags": [
+  "title:Quake Sewer Jam",
+  "author:Andrew Yoder",
+  "author:Artistical",
+  "author:Axebeard",
+  "author:Burnham",
+  "author:Greenwood",
+  "author:khreathor",
+  "author:MortalMaxx",
+  "author:Nolcoz",
+  "author:Pinchy",
+  "author:Ryan Trawick",
+  "author:Ubiquitous"
+ ],
+ "install": {
+  "extract": "{quake}/swjam/"
+ },
+ "files": {
+  "docs/swjam_axebeard.txt": {
+   "size": 2855,
+   "timestamp": "2019-08-31"
+  },
+  "docs/swjam_burnham_readme.txt": {
+   "size": 2094,
+   "timestamp": "2019-08-31"
+  },
+  "docs/swjam_greenwood.txt": {
+   "size": 1318,
+   "timestamp": "2019-08-31"
+  },
+  "docs/swjam_maxx.txt": {
+   "size": 1150,
+   "timestamp": "2019-08-31"
+  },
+  "docs/swjam_nolcoz.txt": {
+   "size": 191,
+   "timestamp": "2019-08-31"
+  },
+  "docs/swjam_pinchy.txt": {
+   "size": 2698,
+   "timestamp": "2019-08-31"
+  },
+  "docs/swjam_ubiquitous.txt": {
+   "size": 1197,
+   "timestamp": "2019-08-31"
+  },
+  "docs/swjam_yoder.txt": {
+   "size": 1558,
+   "timestamp": "2019-09-01"
+  },
+  "gfx/env/epiphany_bk.tga": {
+   "size": 643439,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/epiphany_dn.tga": {
+   "size": 679147,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/epiphany_ft.tga": {
+   "size": 701157,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/epiphany_lf.tga": {
+   "size": 684622,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/epiphany_rt.tga": {
+   "size": 726991,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/epiphany_up.tga": {
+   "size": 642771,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/moonrise_bk.tga": {
+   "size": 3145772,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/moonrise_dn.tga": {
+   "size": 3145772,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/moonrise_ft.tga": {
+   "size": 3145772,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/moonrise_lf.tga": {
+   "size": 3145772,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/moonrise_rt.tga": {
+   "size": 3145772,
+   "timestamp": "2019-08-31"
+  },
+  "gfx/env/moonrise_up.tga": {
+   "size": 3145772,
+   "timestamp": "2019-08-31"
+  },
+  "maps/models/debris_toilet_ubi.bsp": {
+   "size": 13128,
+   "timestamp": "2019-08-31"
+  },
+  "maps/models/rubble1.bsp": {
+   "size": 14252,
+   "timestamp": "2019-07-28"
+  },
+  "maps/models/rubble2.bsp": {
+   "size": 13260,
+   "timestamp": "2019-07-28"
+  },
+  "maps/models/rubblemaxx.bsp": {
+   "size": 11760,
+   "timestamp": "2019-08-06"
+  },
+  "maps/start.bsp": {
+   "size": 1249164,
+   "timestamp": "2019-09-01"
+  },
+  "maps/start.lit": {
+   "size": 711155,
+   "timestamp": "2019-09-01"
+  },
+  "maps/swjam_arma.bsp": {
+   "size": 1220628,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_arma.lit": {
+   "size": 1120505,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_artistical.bsp": {
+   "size": 2303672,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_artistical.lit": {
+   "size": 934583,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_axebeard.bsp": {
+   "size": 11495264,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_axebeard.lit": {
+   "size": 2983388,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_burnham.bsp": {
+   "size": 1493268,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_elithium.bsp": {
+   "size": 1756720,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_elithium.lit": {
+   "size": 562373,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_greenwood.bsp": {
+   "size": 4183260,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_maxx.bsp": {
+   "size": 5150384,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_maxx.lit": {
+   "size": 1508627,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_nolcoz.bsp": {
+   "size": 6712636,
+   "timestamp": "2019-09-01"
+  },
+  "maps/swjam_nolcoz.lit": {
+   "size": 1712600,
+   "timestamp": "2019-09-01"
+  },
+  "maps/swjam_pinchy.bsp": {
+   "size": 4987060,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_pinchy.lit": {
+   "size": 1886141,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_ubiquitous.bsp": {
+   "size": 34884728,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_ubiquitous.lit": {
+   "size": 4923608,
+   "timestamp": "2019-08-31"
+  },
+  "maps/swjam_yoder.bsp": {
+   "size": 3257060,
+   "timestamp": "2019-09-02"
+  },
+  "maps/swjam_yoder.lit": {
+   "size": 1260254,
+   "timestamp": "2019-09-02"
+  },
+  "mapsrc/rubblemaxx.map": {
+   "size": 1980,
+   "timestamp": "2019-08-06"
+  },
+  "mapsrc/start.map": {
+   "size": 1798999,
+   "timestamp": "2019-09-01"
+  },
+  "mapsrc/swjam_arma.map": {
+   "size": 631747,
+   "timestamp": "2019-08-31"
+  },
+  "mapsrc/swjam_axebeard.map": {
+   "size": 2793184,
+   "timestamp": "2019-08-31"
+  },
+  "mapsrc/swjam_burnham.map": {
+   "size": 450731,
+   "timestamp": "2019-08-31"
+  },
+  "mapsrc/swjam_elithium.map": {
+   "size": 985244,
+   "timestamp": "2019-08-31"
+  },
+  "mapsrc/swjam_maxx.map": {
+   "size": 3883500,
+   "timestamp": "2019-08-31"
+  },
+  "mapsrc/swjam_nolcoz.map": {
+   "size": 3186516,
+   "timestamp": "2019-09-01"
+  },
+  "mapsrc/swjam_pinchy.map": {
+   "size": 4518638,
+   "timestamp": "2019-08-31"
+  },
+  "mapsrc/swjam_ubiquitous.map": {
+   "size": 10322156,
+   "timestamp": "2019-08-31"
+  },
+  "mapsrc/swjam_ubiquitous.wad": {
+   "size": 3014484,
+   "timestamp": "2019-08-31"
+  },
+  "mapsrc/swjam_yoder.map": {
+   "size": 3457888,
+   "timestamp": "2019-08-31"
+  },
+  "music/track48.mp3": {
+   "size": 2252481,
+   "timestamp": "2019-08-31"
+  },
+  "music/track48.ogg": {
+   "size": 3410148,
+   "timestamp": "2019-08-31"
+  },
+  "music/track55.ogg": {
+   "size": 7318298,
+   "timestamp": "2019-08-31"
+  },
+  "music/track77.mp3": {
+   "size": 15052898,
+   "timestamp": "2019-09-02"
+  },
+  "music/track77.ogg": {
+   "size": 17802810,
+   "timestamp": "2019-09-02"
+  },
+  "progs.dat": {
+   "size": 543506,
+   "timestamp": "2019-08-31"
+  },
+  "progs/beam.mdl": {
+   "size": 8500,
+   "timestamp": "2019-07-28"
+  },
+  "progs/drip.spr": {
+   "size": 60,
+   "timestamp": "2019-07-28"
+  },
+  "progs/dripBr.spr": {
+   "size": 60,
+   "timestamp": "2019-08-31"
+  },
+  "progs/dripmaxx.spr": {
+   "size": 60,
+   "timestamp": "2019-07-29"
+  },
+  "progs/eel2.mdl": {
+   "size": 177368,
+   "timestamp": "2019-07-28"
+  },
+  "progs/eelgib.mdl": {
+   "size": 28844,
+   "timestamp": "2019-07-28"
+  },
+  "progs/eelhead.mdl": {
+   "size": 51348,
+   "timestamp": "2019-07-28"
+  },
+  "progs/explod2.spr": {
+   "size": 93204,
+   "timestamp": "2019-07-28"
+  },
+  "progs/fireball1.spr": {
+   "size": 62484,
+   "timestamp": "2019-07-28"
+  },
+  "progs/hydra.mdl": {
+   "size": 280660,
+   "timestamp": "2019-07-28"
+  },
+  "progs/hydragib.mdl": {
+   "size": 85248,
+   "timestamp": "2019-07-28"
+  },
+  "progs/misc_player.mdl": {
+   "size": 562960,
+   "timestamp": "2018-01-05"
+  },
+  "progs/shell.mdl": {
+   "size": 5509,
+   "timestamp": "2019-07-28"
+  },
+  "progs/smoke1.spr": {
+   "size": 45312,
+   "timestamp": "2019-07-28"
+  },
+  "progs/spark.spr": {
+   "size": 60,
+   "timestamp": "2019-07-28"
+  },
+  "progs/sparkle1.spr": {
+   "size": 11520,
+   "timestamp": "2019-07-28"
+  },
+  "progs/splash.spr": {
+   "size": 870,
+   "timestamp": "2019-07-28"
+  },
+  "progs/splashBr.spr": {
+   "size": 870,
+   "timestamp": "2019-08-31"
+  },
+  "progs/splashmaxx.spr": {
+   "size": 870,
+   "timestamp": "2019-07-29"
+  },
+  "progs/v_axe.mdl": {
+   "size": 123668,
+   "timestamp": "2019-08-31"
+  },
+  "readme.txt": {
+   "size": 2509,
+   "timestamp": "2019-09-01"
+  },
+  "sound/eel/004epan.wav": {
+   "size": 3932,
+   "timestamp": "2019-07-28"
+  },
+  "sound/eel/005epan.wav": {
+   "size": 5218,
+   "timestamp": "2019-07-28"
+  },
+  "sound/eel/eactive1.wav": {
+   "size": 26302,
+   "timestamp": "2019-07-28"
+  },
+  "sound/eel/eatt1.wav": {
+   "size": 13940,
+   "timestamp": "2019-07-28"
+  },
+  "sound/eel/edie3r.wav": {
+   "size": 17272,
+   "timestamp": "2019-07-28"
+  },
+  "sound/eel/eelc5.wav": {
+   "size": 16192,
+   "timestamp": "2019-07-28"
+  },
+  "sound/eel/epain3.wav": {
+   "size": 7044,
+   "timestamp": "2019-07-28"
+  },
+  "sound/greenwood/waterfall_loop.wav": {
+   "size": 396978,
+   "timestamp": "2019-08-31"
+  },
+  "sound/hydra/hydra_death.wav": {
+   "size": 14964,
+   "timestamp": "2019-07-28"
+  },
+  "sound/hydra/hydra_idle.wav": {
+   "size": 15144,
+   "timestamp": "2019-07-28"
+  },
+  "sound/hydra/hydra_idle2.wav": {
+   "size": 25306,
+   "timestamp": "2019-07-28"
+  },
+  "sound/hydra/hydra_pain.wav": {
+   "size": 19326,
+   "timestamp": "2019-07-28"
+  },
+  "sound/hydra/hydra_spit.wav": {
+   "size": 7112,
+   "timestamp": "2019-07-28"
+  },
+  "sound/hydra/hydra_tent.wav": {
+   "size": 6004,
+   "timestamp": "2019-07-28"
+  },
+  "sound/hydra/spit_impact_player.wav": {
+   "size": 12730,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/bigmachine_loop_02.wav": {
+   "size": 92760,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/break01.wav": {
+   "size": 16686,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/creak.wav": {
+   "size": 77398,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/drip1.wav": {
+   "size": 12172,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/drip2.wav": {
+   "size": 15596,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/drip3.wav": {
+   "size": 15164,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/dronemachine2.wav": {
+   "size": 29872,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/flow1.wav": {
+   "size": 53120,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/flush.wav": {
+   "size": 343530,
+   "timestamp": "2019-08-22"
+  },
+  "sound/misc/foot1.wav": {
+   "size": 2474,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/foot2.wav": {
+   "size": 2050,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/foot3.wav": {
+   "size": 1764,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/foot4.wav": {
+   "size": 2858,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/generator_gas.wav": {
+   "size": 529314,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/industrial2.wav": {
+   "size": 52740,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/industrial4.wav": {
+   "size": 32130,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/inh2ob.wav": {
+   "size": 9322,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/metal_i1.wav": {
+   "size": 47864,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/metal_i2.wav": {
+   "size": 36848,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/outwater.wav": {
+   "size": 6912,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/owater2.wav": {
+   "size": 7308,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/pd_wood2.wav": {
+   "size": 33342,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/rain.wav": {
+   "size": 40960,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/rumbleoff.wav": {
+   "size": 105990,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/siren.wav": {
+   "size": 62412,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/spark1.wav": {
+   "size": 3764,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/spark2.wav": {
+   "size": 2268,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/spark3.wav": {
+   "size": 3704,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/spark4.wav": {
+   "size": 2644,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/switch_6on.wav": {
+   "size": 176192,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/uwater.wav": {
+   "size": 39438,
+   "timestamp": "2019-07-28"
+  },
+  "sound/misc/water_pump.wav": {
+   "size": 16014,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/waterfall.wav": {
+   "size": 137846,
+   "timestamp": "2019-08-31"
+  },
+  "sound/misc/wood_impact.wav": {
+   "size": 84742,
+   "timestamp": "2019-08-31"
+  },
+  "sound/weapons/tink2.wav": {
+   "size": 1716,
+   "timestamp": "2019-07-28"
+  }
+ }
+}

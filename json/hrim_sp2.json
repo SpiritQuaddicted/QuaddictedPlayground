@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "98ea25d12016b69b7d37d927d5491776",
+ "filename": [
+  "hrim_sp2.zip"
+ ],
+ "size": 3259,
+ "releasedate": "2005-08-18",
+ "tags": [
+  "title:The Rest Is Silence",
+  "author:Hrimfaxi",
+  "tag:knave",
+  "tag:chapters",
+  "tag:quoth",
+  "tag:space sky",
+  "tag:medium",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "tris.bsp": {
+   "size": 8495848,
+   "timestamp": "2005-08-17"
+  },
+  "Hrim_sp2.txt": {
+   "size": 5345,
+   "timestamp": "2005-08-18"
+  }
+ }
+}

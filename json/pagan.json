@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "39598119254eeeb7a2dc2bd59472c206",
+ "filename": [
+  "pagan.zip"
+ ],
+ "size": 159,
+ "releasedate": "1997-09-07",
+ "tags": [
+  "title:Pagan",
+  "author:Fredrik Martinsson",
+  "tag:small",
+  "tag:medieval",
+  "tag:wizard"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "PAGAN.TXT": {
+   "size": 1301,
+   "timestamp": "1997-09-07"
+  },
+  "PAGAN.BSP": {
+   "size": 361396,
+   "timestamp": "1997-03-04"
+  }
+ }
+}

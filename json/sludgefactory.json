@@ -1,0 +1,42 @@
+{
+ "version": "20191222-0",
+ "md5": "20f84624ba3517d88bd3a491ca0ffde4",
+ "filename": [
+  "sludgefactory.zip"
+ ],
+ "size": 5352,
+ "releasedate": "2011-03-18",
+ "tags": [
+  "title:Sludge Factory",
+  "author:Dustin \"Tronyn\" Geeraert",
+  "tag:medium",
+  "tag:industrial",
+  "tag:base",
+  "tag:slime",
+  "tag:factory",
+  "tag:oil rig",
+  "tag:textures",
+  "tag:drake",
+  "tag:open",
+  "tag:hard",
+  "tag:hordes",
+  "dependency:drake"
+ ],
+ "install": {
+  "extract": "{quake}/drake/maps/"
+ },
+ "files": {
+  "sludge factory.txt": {
+   "size": 1150,
+   "timestamp": "2011-03-18"
+  },
+  "sludge1.bsp": {
+   "size": 6884176,
+   "timestamp": "2011-03-18"
+  },
+  "sludge2.bsp": {
+   "size": 7796380,
+   "timestamp": "2011-03-17"
+  }
+ }
+}

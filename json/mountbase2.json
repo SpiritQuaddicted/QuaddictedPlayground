@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "03bdf9dd1769293a199d7783edb3cc0a",
+ "filename": [
+  "mountbase2.zip"
+ ],
+ "size": 535,
+ "releasedate": "1997-11-10",
+ "tags": [
+  "title:Mountain Base 2",
+  "author:Jarkko Heilio",
+  "tag:small",
+  "tag:base",
+  "tag:plain"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "mountbase2.bsp": {
+   "size": 1260444,
+   "timestamp": "1997-11-09"
+  },
+  "mountbase2.txt": {
+   "size": 3015,
+   "timestamp": "1997-11-10"
+  }
+ }
+}

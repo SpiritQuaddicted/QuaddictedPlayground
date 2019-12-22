@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "662b8184e25bac79d55f6b34f3440f68",
+ "filename": [
+  "mdkt1.zip"
+ ],
+ "size": 529,
+ "releasedate": "1997-07-08",
+ "tags": [
+  "title:MidKnight1",
+  "author:JAR",
+  "tag:small",
+  "tag:base",
+  "tag:canyon"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "mdkt.txt": {
+   "size": 243,
+   "timestamp": "1997-07-08"
+  },
+  "MDKT.BSP": {
+   "size": 1324440,
+   "timestamp": "1997-07-02"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "version": "20191222-0",
+ "md5": "28bb90d5b4be2e642d0f6b0264281620",
+ "filename": [
+  "mungo.zip"
+ ],
+ "size": 1321,
+ "releasedate": "1997-08-23",
+ "tags": [
+  "title:Power Plant",
+  "author:Bryan L. aka Mungo",
+  "tag:base",
+  "tag:mp1",
+  "tag:medium",
+  "tag:soa",
+  "tag:hipnotic",
+  "tag:demo",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "files": {
+  "MUNGO.BSP": {
+   "size": 2529420,
+   "timestamp": "1997-08-23"
+  },
+  "MUNGO.DEM": {
+   "size": 2225672,
+   "timestamp": "1997-08-23"
+  },
+  "MUNGO.TXT": {
+   "size": 1505,
+   "timestamp": "1997-08-23"
+  }
+ }
+}

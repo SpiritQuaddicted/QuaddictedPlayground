@@ -1,0 +1,36 @@
+{
+ "version": "20191222-0",
+ "md5": "5e18aac89e9af816254c6ffe49bab420",
+ "filename": [
+  "housp.zip"
+ ],
+ "size": 672,
+ "releasedate": "1996-11-20",
+ "tags": [
+  "title:House of Traps (Spider)",
+  "author:Scott McNutt",
+  "tag:small",
+  "tag:wizard",
+  "tag:traps",
+  "tag:start",
+  "tag:monsters",
+  "tag:custom"
+ ],
+ "install": {
+  "extract": "{quake}/housep/"
+ },
+ "files": {
+  "PAK0.PAK": {
+   "size": 1659132,
+   "timestamp": "1996-11-20"
+  },
+  "SPIDER.TXT": {
+   "size": 2615,
+   "timestamp": "1996-10-09"
+  },
+  "HOUSP.TXT": {
+   "size": 6376,
+   "timestamp": "1996-11-20"
+  }
+ }
+}

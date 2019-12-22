@@ -1,0 +1,30 @@
+{
+ "version": "20191222-0",
+ "md5": "06110e8c08f3a3ace71da128f6aa7758",
+ "filename": [
+  "outpost-alpha.zip"
+ ],
+ "size": 239,
+ "releasedate": "1999-07-13",
+ "tags": [
+  "title:Outpost alpha",
+  "author:Peter Bisseker (tiddles)",
+  "tag:base rust",
+  "tag:small",
+  "tag:quake2",
+  "tag:planetquake-map-of-the-week"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "outpost-alpha.txt": {
+   "size": 2254,
+   "timestamp": "1999-07-13"
+  },
+  "outpost-alpha.bsp": {
+   "size": 626952,
+   "timestamp": "1999-07-13"
+  }
+ }
+}

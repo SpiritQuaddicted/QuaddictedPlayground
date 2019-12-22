@@ -1,0 +1,47 @@
+{
+ "version": "20191222-0",
+ "md5": "2da7b27682e4fa0a354ea1d8152280c2",
+ "filename": [
+  "rohling.zip"
+ ],
+ "size": 457,
+ "releasedate": "1996-10-10",
+ "tags": [
+  "title:Hello",
+  "author:Kevin Rohling",
+  "tag:small",
+  "tag:mixtex",
+  "tag:lava",
+  "tag:source",
+  "tag:dark"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "QVER.EXE": {
+   "size": 8946,
+   "timestamp": "1996-07-27"
+  },
+  "QVER.TXT": {
+   "size": 252,
+   "timestamp": "1996-07-27"
+  },
+  "level.bsp": {
+   "size": 1600560,
+   "timestamp": "1996-08-30"
+  },
+  "level.map": {
+   "size": 101193,
+   "timestamp": "1996-08-30"
+  },
+  "level.tnk": {
+   "size": 61335,
+   "timestamp": "1996-08-29"
+  },
+  "level.txt": {
+   "size": 2681,
+   "timestamp": "1996-08-30"
+  }
+ }
+}

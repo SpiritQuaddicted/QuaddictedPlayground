@@ -1,0 +1,29 @@
+{
+ "version": "20191222-0",
+ "md5": "73a27ac9ca0cf33604c7174b68460c94",
+ "filename": [
+  "azurette.zip"
+ ],
+ "size": 537,
+ "releasedate": "1997-08-02",
+ "tags": [
+  "title:Azurette",
+  "author:Noel Weer",
+  "tag:medium",
+  "tag:blue",
+  "tag:azure"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "azurette.txt": {
+   "size": 3048,
+   "timestamp": "1997-08-02"
+  },
+  "azurette.bsp": {
+   "size": 1418072,
+   "timestamp": "1997-08-02"
+  }
+ }
+}

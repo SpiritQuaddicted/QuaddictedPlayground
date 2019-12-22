@@ -1,0 +1,276 @@
+{
+ "version": "20191222-0",
+ "md5": "e575b336d36e7a058c810a28fc1542e0",
+ "filename": [
+  "udob.zip"
+ ],
+ "size": 21488,
+ "releasedate": "2019-06-21",
+ "tags": [
+  "title:Underdark Overbright",
+  "author:Lunaran",
+  "author:Scampie",
+  "tag:medium",
+  "tag:episode",
+  "tag:wizard",
+  "tag:medieval",
+  "tag:metal",
+  "tag:runic",
+  "tag:remix",
+  "tag:remake",
+  "tag:copper",
+  "tag:start",
+  "tag:end",
+  "tag:q3",
+  "tag:q3dm3",
+  "tag:q3dm6",
+  "tag:source",
+  "tag:limits",
+  "dependency:copper"
+ ],
+ "install": {
+  "extract": "{quake}/copper/maps/"
+ },
+ "files": {
+  "maps/end.bsp": {
+   "size": 3537844,
+   "timestamp": "2019-06-20"
+  },
+  "maps/end.lit": {
+   "size": 1174925,
+   "timestamp": "2019-06-20"
+  },
+  "maps/end.map": {
+   "size": 1402964,
+   "timestamp": "2019-06-17"
+  },
+  "maps/start.bsp": {
+   "size": 3952700,
+   "timestamp": "2019-06-20"
+  },
+  "maps/start.lit": {
+   "size": 1071053,
+   "timestamp": "2019-06-20"
+  },
+  "maps/start.map": {
+   "size": 2319990,
+   "timestamp": "2019-06-17"
+  },
+  "maps/udob1.bsp": {
+   "size": 1882228,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob1.lit": {
+   "size": 488702,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob1.map": {
+   "size": 1135919,
+   "timestamp": "2019-06-18"
+  },
+  "maps/udob2.bsp": {
+   "size": 3248204,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob2.lit": {
+   "size": 1152860,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob2.map": {
+   "size": 2406985,
+   "timestamp": "2019-06-19"
+  },
+  "maps/udob3.bsp": {
+   "size": 3594624,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob3.lit": {
+   "size": 1053284,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob3.map": {
+   "size": 1945825,
+   "timestamp": "2019-06-18"
+  },
+  "maps/udob4.bsp": {
+   "size": 3347472,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob4.lit": {
+   "size": 1051298,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob4.map": {
+   "size": 2162223,
+   "timestamp": "2019-06-18"
+  },
+  "maps/udob5.bsp": {
+   "size": 5230864,
+   "timestamp": "2019-06-17"
+  },
+  "maps/udob5.lit": {
+   "size": 2774351,
+   "timestamp": "2019-06-17"
+  },
+  "maps/udob5.map": {
+   "size": 2418346,
+   "timestamp": "2019-06-17"
+  },
+  "maps/udob6.bsp": {
+   "size": 2059716,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob6.lit": {
+   "size": 979115,
+   "timestamp": "2019-06-20"
+  },
+  "maps/udob6.map": {
+   "size": 1208364,
+   "timestamp": "2019-06-18"
+  },
+  "maps/udob7.bsp": {
+   "size": 4863684,
+   "timestamp": "2019-06-18"
+  },
+  "maps/udob7.lit": {
+   "size": 2099594,
+   "timestamp": "2019-06-18"
+  },
+  "maps/udob7.map": {
+   "size": 2282040,
+   "timestamp": "2019-06-18"
+  },
+  "progs/misc_smoke.mdl": {
+   "size": 32052,
+   "timestamp": "2018-12-06"
+  },
+  "sound/ambience/guts.wav": {
+   "size": 1631820,
+   "timestamp": "2019-06-15"
+  },
+  "textures/{bird.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{cweb1.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{cweb1d.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{cweb2.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{cweb2d.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{cweb3.tga": {
+   "size": 131116,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{cweb3d.tga": {
+   "size": 131116,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{cweb5.tga": {
+   "size": 131116,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{cweb5d.tga": {
+   "size": 131116,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{foliage2.tga": {
+   "size": 131116,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{framebits.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{lweb1.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{lweb1d.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{lweb2.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{lweb2d.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{rwflags.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{rwflags2.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{utcweb3.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{utcweb3d.tga": {
+   "size": 262188,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{vines3.tga": {
+   "size": 25644,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web1b.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web1bd.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web2b.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web2bd.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web3b.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web3bd.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web4b.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web4bd.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web5b.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "textures/{web5bd.tga": {
+   "size": 65580,
+   "timestamp": "2019-06-13"
+  },
+  "udob.txt": {
+   "size": 4984,
+   "timestamp": "2019-06-20"
+  }
+ }
+}

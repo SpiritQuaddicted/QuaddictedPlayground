@@ -1,0 +1,33 @@
+{
+ "version": "20191222-0",
+ "md5": "cea62daf8fe27edc9479385238f03482",
+ "filename": [
+  "ne_tower.zip"
+ ],
+ "size": 5780,
+ "releasedate": "2009-07-01",
+ "tags": [
+  "title:Moldy Tower",
+  "author:necros",
+  "tag:quoth",
+  "tag:cogs",
+  "tag:ladders",
+  "tag:vertical",
+  "tag:epic end battle",
+  "tag:medium",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/ne_tower/"
+ },
+ "files": {
+  "pak0.pak": {
+   "size": 9990682,
+   "timestamp": "2009-07-01"
+  },
+  "ne_tower.txt": {
+   "size": 5970,
+   "timestamp": "2009-07-01"
+  }
+ }
+}

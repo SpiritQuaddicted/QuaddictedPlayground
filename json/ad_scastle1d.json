@@ -1,0 +1,48 @@
+{
+ "version": "20191222-0",
+ "md5": "ddf484bfe989cb93885caefd1f9b47bf",
+ "filename": [
+  "ad_scastle1d.zip"
+ ],
+ "size": 2553,
+ "releasedate": "2017-01-11",
+ "tags": [
+  "title:Nyarlathotep's Sand Castle",
+  "author:sock",
+  "tag:large",
+  "tag:egyptian",
+  "tag:temple",
+  "tag:sand",
+  "tag:waterfall",
+  "tag:bricks",
+  "tag:fog",
+  "tag:secrets",
+  "tag:ad",
+  "tag:limits",
+  "tag:source",
+  "tag:tomb",
+  "tag:arcanedimensions",
+  "dependency:ad_v1_50final"
+ ],
+ "install": {
+  "extract": "{quake}/ad/"
+ },
+ "files": {
+  "ad_scastle1d_readme.txt": {
+   "size": 3427,
+   "timestamp": "2017-01-11"
+  },
+  "maps/ad_scastle.bsp": {
+   "size": 3789328,
+   "timestamp": "2017-01-11"
+  },
+  "maps/ad_scastle.lit": {
+   "size": 1478615,
+   "timestamp": "2017-01-11"
+  },
+  "maps/ad_scastle.map": {
+   "size": 3049357,
+   "timestamp": "2017-01-11"
+  }
+ }
+}

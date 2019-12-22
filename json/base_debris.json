@@ -1,0 +1,33 @@
+{
+ "version": "20191222-0",
+ "md5": "fc2cdda76587aff53eed1e701f15ddb9",
+ "filename": [
+  "base_debris.zip"
+ ],
+ "size": 1717,
+ "releasedate": "2008-03-17",
+ "tags": [
+  "title:Fort Ratsack",
+  "author:Biff Debris",
+  "tag:quoth",
+  "tag:idbase",
+  "tag:action",
+  "tag:medium",
+  "tag:base",
+  "tag:secrets",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "files": {
+  "base_debris.bsp": {
+   "size": 4721408,
+   "timestamp": "2008-03-17"
+  },
+  "base_debris.txt": {
+   "size": 2283,
+   "timestamp": "2008-03-17"
+  }
+ }
+}

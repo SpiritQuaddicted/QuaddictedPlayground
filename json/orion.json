@@ -1,0 +1,32 @@
+{
+ "version": "20191222-0",
+ "md5": "9df079ef4eff40ffbf1cf2f508c5fe27",
+ "filename": [
+  "orion.zip"
+ ],
+ "size": 805,
+ "releasedate": "1997-08-05",
+ "tags": [
+  "title:Orion",
+  "author:Jason Fink",
+  "tag:hard",
+  "tag:mandatory secret",
+  "tag:traps",
+  "tag:weird",
+  "tag:crampy",
+  "tag:medium"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "Orion.doc": {
+   "size": 11264,
+   "timestamp": "1997-07-30"
+  },
+  "orion.bsp": {
+   "size": 1934092,
+   "timestamp": "1997-08-05"
+  }
+ }
+}

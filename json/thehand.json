@@ -1,0 +1,60 @@
+{
+ "version": "20191222-0",
+ "md5": "86872f01a6a910036440f7bebfc4b927",
+ "filename": [
+  "thehand.zip"
+ ],
+ "size": 5524,
+ "releasedate": "2007-12-16",
+ "tags": [
+  "title:The Hand That Feeds You",
+  "author:RickyT23",
+  "tag:quoth",
+  "tag:base",
+  "tag:huge",
+  "tag:idbase",
+  "tag:mustplay",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "files": {
+  "thehand.txt": {
+   "size": 5403,
+   "timestamp": "2007-12-16"
+  },
+  "maps/thehand.bsp": {
+   "size": 7333140,
+   "timestamp": "2007-12-16"
+  },
+  "maps/thehand.lit": {
+   "size": 2896496,
+   "timestamp": "2007-12-16"
+  },
+  "gfx/env/tramontolf.tga": {
+   "size": 701996,
+   "timestamp": "2003-02-13"
+  },
+  "gfx/env/tramontoup.tga": {
+   "size": 649528,
+   "timestamp": "2003-02-13"
+  },
+  "gfx/env/tramontoft.tga": {
+   "size": 710845,
+   "timestamp": "2003-02-12"
+  },
+  "gfx/env/tramontodn.tga": {
+   "size": 783088,
+   "timestamp": "2003-02-13"
+  },
+  "gfx/env/tramontobk.tga": {
+   "size": 640140,
+   "timestamp": "2003-02-13"
+  },
+  "gfx/env/tramontort.tga": {
+   "size": 721740,
+   "timestamp": "2003-02-13"
+  }
+ }
+}

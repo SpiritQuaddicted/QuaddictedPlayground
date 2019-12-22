@@ -1,0 +1,36 @@
+{
+ "version": "20191222-0",
+ "md5": "dbd08595aafea2b5c5e7935f4ba18fe9",
+ "filename": [
+  "mars1.zip"
+ ],
+ "size": 1089,
+ "releasedate": "1997-07-20",
+ "tags": [
+  "title:Mars 1",
+  "author:Jean-Marc Gruninger",
+  "tag:base",
+  "tag:spaceship",
+  "tag:rocket",
+  "tag:launch",
+  "tag:medium",
+  "tag:hipnotic",
+  "tag:hangar",
+  "tag:shuttle",
+  "tag:soa",
+  "dependency:hipnotic"
+ ],
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "files": {
+  "mars1.bsp": {
+   "size": 2592004,
+   "timestamp": "1997-07-01"
+  },
+  "mars1.txt": {
+   "size": 871,
+   "timestamp": "1997-07-20"
+  }
+ }
+}

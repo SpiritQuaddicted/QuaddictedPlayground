@@ -1,0 +1,31 @@
+{
+ "version": "20191222-0",
+ "md5": "a13a4d23ba185d6a75be0de4abbba987",
+ "filename": [
+  "sm153_pack.zip"
+ ],
+ "size": 805,
+ "releasedate": "2009-06-22",
+ "tags": [
+  "title:Speedmapping pack 153 - Caught between slipgates",
+  "author:Drew",
+  "author:Zwiffle",
+  "tag:quoth",
+  "tag:coagula",
+  "tag:void",
+  "dependency:quoth"
+ ],
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "files": {
+  "sm153_drew.bsp": {
+   "size": 1689696,
+   "timestamp": "2009-06-22"
+  },
+  "sm153_zwiffle.bsp": {
+   "size": 644532,
+   "timestamp": "2009-06-22"
+  }
+ }
+}
