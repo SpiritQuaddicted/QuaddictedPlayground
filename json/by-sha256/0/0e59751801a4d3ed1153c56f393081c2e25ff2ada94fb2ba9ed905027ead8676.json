@@ -4,10 +4,11 @@
  "filename": [
   "demonslair.zip"
  ],
- "size": 406,
- "releasedate": "1999-09-02",
+ "filesize": 406,
  "tags": [
   "title:The Demons Lair",
+  "releasedate:1999-09-02",
+  "game:quake",
   "author:Peter Bisseker (tiddles)",
   "tag:metal",
   "tag:hard",
@@ -20,11 +21,11 @@
  },
  "files": {
   "demons.bsp": {
-   "size": 1023984,
+   "filesize": 1023984,
    "timestamp": "1999-09-02"
   },
   "demons-lair.txt": {
-   "size": 2270,
+   "filesize": 2270,
    "timestamp": "1999-09-02"
   }
  },

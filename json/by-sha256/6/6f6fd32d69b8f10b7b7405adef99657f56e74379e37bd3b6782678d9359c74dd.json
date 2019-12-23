@@ -4,10 +4,11 @@
  "filename": [
   "flo.zip"
  ],
- "size": 350,
- "releasedate": "1997-08-23",
+ "filesize": 350,
  "tags": [
   "title:Flo's 1st Map",
+  "releasedate:1997-08-23",
+  "game:quake",
   "author:Florian Gleixner",
   "tag:small",
   "tag:medieval"
@@ -17,11 +18,11 @@
  },
  "files": {
   "flo.txt": {
-   "size": 917,
+   "filesize": 917,
    "timestamp": "1997-08-23"
   },
   "flo.bsp": {
-   "size": 840640,
+   "filesize": 840640,
    "timestamp": "1997-08-21"
   }
  },

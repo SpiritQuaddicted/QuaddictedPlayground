@@ -4,10 +4,11 @@
  "filename": [
   "ins1.zip"
  ],
- "size": 930,
- "releasedate": "1997-04-01",
+ "filesize": 930,
  "tags": [
   "title:The Insurrection, part I - The Overlord's Legacy",
+  "releasedate:1997-04-01",
+  "game:quake",
   "author:Chris Mayers",
   "tag:wizard",
   "tag:small",
@@ -22,15 +23,15 @@
  },
  "files": {
   "GATE.TXT": {
-   "size": 3800,
+   "filesize": 3800,
    "timestamp": "1997-04-01"
   },
   "LEGACY.BSP": {
-   "size": 973864,
+   "filesize": 973864,
    "timestamp": "1996-11-08"
   },
   "GATE.BSP": {
-   "size": 1151448,
+   "filesize": 1151448,
    "timestamp": "1996-11-14"
   }
  },

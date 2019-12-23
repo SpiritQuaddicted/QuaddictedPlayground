@@ -4,10 +4,11 @@
  "filename": [
   "shining.zip"
  ],
- "size": 79,
- "releasedate": "1998-12-24",
+ "filesize": 79,
  "tags": [
   "title:The Shining",
+  "releasedate:1998-12-24",
+  "game:quake",
   "author:Jordan Barington",
   "tag:small",
   "tag:no exit"
@@ -17,11 +18,11 @@
  },
  "files": {
   "shining.txt": {
-   "size": 1065,
+   "filesize": 1065,
    "timestamp": "1998-12-24"
   },
   "shining.bsp": {
-   "size": 219300,
+   "filesize": 219300,
    "timestamp": "1998-12-24"
   }
  },

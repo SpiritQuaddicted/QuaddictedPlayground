@@ -4,10 +4,11 @@
  "filename": [
   "junk.zip"
  ],
- "size": 905,
- "releasedate": "1997-11-02",
+ "filesize": 905,
  "tags": [
   "title:Junk",
+  "releasedate:1997-11-02",
+  "game:quake",
   "author:Rodney Johnstone",
   "tag:base",
   "tag:dark",
@@ -18,11 +19,11 @@
  },
  "files": {
   "junk.txt": {
-   "size": 2326,
+   "filesize": 2326,
    "timestamp": "1997-11-02"
   },
   "junk.bsp": {
-   "size": 2281728,
+   "filesize": 2281728,
    "timestamp": "1997-11-02"
   }
  },

@@ -4,10 +4,11 @@
  "filename": [
   "old_city.zip"
  ],
- "size": 527,
- "releasedate": "1997-11-05",
+ "filesize": 527,
  "tags": [
   "title:The Old City",
+  "releasedate:1997-11-05",
+  "game:quake",
   "author:Michael Cullum",
   "tag:medium",
   "tag:city",
@@ -21,11 +22,11 @@
  },
  "files": {
   "OLD_CITY.BSP": {
-   "size": 1258608,
+   "filesize": 1258608,
    "timestamp": "1997-11-01"
   },
   "OLD_CITY.TXT": {
-   "size": 2773,
+   "filesize": 2773,
    "timestamp": "1997-11-05"
   }
  },

@@ -4,10 +4,11 @@
  "filename": [
   "mountbase.zip"
  ],
- "size": 481,
- "releasedate": "1997-10-11",
+ "filesize": 481,
  "tags": [
   "title:Mountain Base",
+  "releasedate:1997-10-11",
+  "game:quake",
   "author:Jarkko Heilio",
   "tag:small",
   "tag:plain",
@@ -19,11 +20,11 @@
  },
  "files": {
   "mountbase.txt": {
-   "size": 2850,
+   "filesize": 2850,
    "timestamp": "1997-10-11"
   },
   "mountbase.bsp": {
-   "size": 1129072,
+   "filesize": 1129072,
    "timestamp": "1997-10-10"
   }
  },

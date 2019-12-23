@@ -4,10 +4,11 @@
  "filename": [
   "city.zip"
  ],
- "size": 185,
- "releasedate": "1999-12-05",
+ "filesize": 185,
  "tags": [
   "title:City",
+  "releasedate:1999-12-05",
+  "game:quake",
   "author:George Grotans",
   "tag:small",
   "tag:realism",
@@ -19,15 +20,15 @@
  },
  "files": {
   "city.bsp": {
-   "size": 511620,
+   "filesize": 511620,
    "timestamp": "1998-08-06"
   },
   "city.txt": {
-   "size": 609,
+   "filesize": 609,
    "timestamp": "1999-12-05"
   },
   "city_quaddictedrepack.txt": {
-   "size": 319,
+   "filesize": 319,
    "timestamp": "2009-04-28"
   }
  },

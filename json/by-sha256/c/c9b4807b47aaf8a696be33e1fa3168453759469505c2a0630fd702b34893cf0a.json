@@ -4,10 +4,11 @@
  "filename": [
   "etown.zip"
  ],
- "size": 448,
- "releasedate": "1997-11-01",
+ "filesize": 448,
  "tags": [
   "title:The Evil Town",
+  "releasedate:1997-11-01",
+  "game:quake",
   "author:Anders Gustavsson",
   "tag:medium",
   "tag:realism",
@@ -19,11 +20,11 @@
  },
  "files": {
   "etown.bsp": {
-   "size": 1026024,
+   "filesize": 1026024,
    "timestamp": "1997-11-01"
   },
   "etown.txt": {
-   "size": 2303,
+   "filesize": 2303,
    "timestamp": "1997-11-01"
   }
  },

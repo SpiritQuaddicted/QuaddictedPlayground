@@ -4,10 +4,11 @@
  "filename": [
   "mars1.zip"
  ],
- "size": 1089,
- "releasedate": "1997-07-20",
+ "filesize": 1089,
  "tags": [
   "title:Mars 1",
+  "releasedate:1997-07-20",
+  "game:quake",
   "author:Jean-Marc Gruninger",
   "tag:base",
   "tag:spaceship",
@@ -25,11 +26,11 @@
  },
  "files": {
   "mars1.bsp": {
-   "size": 2592004,
+   "filesize": 2592004,
    "timestamp": "1997-07-01"
   },
   "mars1.txt": {
-   "size": 871,
+   "filesize": 871,
    "timestamp": "1997-07-20"
   }
  },

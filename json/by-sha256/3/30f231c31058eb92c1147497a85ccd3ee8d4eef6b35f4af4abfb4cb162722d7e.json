@@ -4,10 +4,11 @@
  "filename": [
   "lfstart.zip"
  ],
- "size": 195,
- "releasedate": "2000-01-01",
+ "filesize": 195,
  "tags": [
   "title:LFSP Start",
+  "releasedate:2000-01-01",
+  "game:quake",
   "author:Leafface",
   "tag:small",
   "tag:start map",
@@ -20,11 +21,11 @@
  },
  "files": {
   "lfstart.txt": {
-   "size": 1135,
+   "filesize": 1135,
    "timestamp": "2000-01-01"
   },
   "lfstart.bsp": {
-   "size": 471436,
+   "filesize": 471436,
    "timestamp": "1999-07-16"
   }
  },

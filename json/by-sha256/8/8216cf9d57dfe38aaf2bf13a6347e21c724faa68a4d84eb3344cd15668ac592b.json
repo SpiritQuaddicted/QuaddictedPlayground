@@ -4,10 +4,11 @@
  "filename": [
   "village.zip"
  ],
- "size": 555,
- "releasedate": "1996-12-30",
+ "filesize": 555,
  "tags": [
   "title:Village of Dread",
+  "releasedate:1996-12-30",
+  "game:quake",
   "author:Steve Rescoe",
   "tag:medium",
   "tag:village",
@@ -23,19 +24,19 @@
  },
  "files": {
   "village_quaddictedrepack.txt": {
-   "size": 319,
+   "filesize": 319,
    "timestamp": "2009-04-28"
   },
   "Pak0.pak": {
-   "size": 17496,
+   "filesize": 17496,
    "timestamp": "1996-12-29"
   },
   "Village.txt": {
-   "size": 3710,
+   "filesize": 3710,
    "timestamp": "1996-12-30"
   },
   "VILLAGE.bsp": {
-   "size": 1274776,
+   "filesize": 1274776,
    "timestamp": "1996-12-29"
   }
  },

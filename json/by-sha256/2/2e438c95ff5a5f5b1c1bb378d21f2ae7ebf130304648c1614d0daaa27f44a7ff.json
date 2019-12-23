@@ -4,10 +4,11 @@
  "filename": [
   "my_level.zip"
  ],
- "size": 1879,
- "releasedate": "1998-05-21",
+ "filesize": 1879,
  "tags": [
   "title:Lost Underground Base",
+  "releasedate:1998-05-21",
+  "game:quake",
   "author:Denis Gusakov",
   "tag:large",
   "tag:base",
@@ -22,11 +23,11 @@
  },
  "files": {
   "BASE1.dem": {
-   "size": 2382350,
+   "filesize": 2382350,
    "timestamp": "1998-03-06"
   },
   "base.bsp": {
-   "size": 3714648,
+   "filesize": 3714648,
    "timestamp": "1998-03-04"
   }
  },

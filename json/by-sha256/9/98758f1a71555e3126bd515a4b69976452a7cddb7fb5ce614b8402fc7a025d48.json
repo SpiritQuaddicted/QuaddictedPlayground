@@ -4,10 +4,11 @@
  "filename": [
   "area51.zip"
  ],
- "size": 747,
- "releasedate": "1996-12-02",
+ "filesize": 747,
  "tags": [
   "title:Area 51",
+  "releasedate:1996-12-02",
+  "game:quake",
   "author:Murat Deligonul",
   "tag:base",
   "tag:medium",
@@ -18,11 +19,11 @@
  },
  "files": {
   "area51.txt": {
-   "size": 2868,
+   "filesize": 2868,
    "timestamp": "1996-12-02"
   },
   "area51.bsp": {
-   "size": 1722800,
+   "filesize": 1722800,
    "timestamp": "1996-12-01"
   }
  },

@@ -4,10 +4,11 @@
  "filename": [
   "stupid.zip"
  ],
- "size": 83,
- "releasedate": "2000-01-01",
+ "filesize": 83,
  "tags": [
   "title:Dis&apos;z stupid!",
+  "releasedate:2000-01-01",
+  "game:quake",
   "author:Brainstorm",
   "tag:small",
   "tag:metal",
@@ -18,11 +19,11 @@
  },
  "files": {
   "STUPID.BSP": {
-   "size": 241316,
+   "filesize": 241316,
    "timestamp": "2000-01-01"
   },
   "stupid.txt": {
-   "size": 1247,
+   "filesize": 1247,
    "timestamp": "2000-01-01"
   }
  },

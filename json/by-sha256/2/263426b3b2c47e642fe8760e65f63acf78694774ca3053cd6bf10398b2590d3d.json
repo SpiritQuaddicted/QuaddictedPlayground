@@ -4,10 +4,11 @@
  "filename": [
   "mymap.zip"
  ],
- "size": 840,
- "releasedate": "1998-04-19",
+ "filesize": 840,
  "tags": [
   "title:Mymap &amp; Garrison",
+  "releasedate:1998-04-19",
+  "game:quake",
   "author:Peter Bisseker (tiddles)",
   "tag:traps",
   "tag:medium",
@@ -20,15 +21,15 @@
  },
  "files": {
   "mymap.bsp": {
-   "size": 1227348,
+   "filesize": 1227348,
    "timestamp": "1998-03-01"
   },
   "mymap.txt": {
-   "size": 1915,
+   "filesize": 1915,
    "timestamp": "1998-04-19"
   },
   "garrison.bsp": {
-   "size": 902660,
+   "filesize": 902660,
    "timestamp": "1998-02-24"
   }
  },

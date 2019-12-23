@@ -4,10 +4,11 @@
  "filename": [
   "hellhole.zip"
  ],
- "size": 1024,
- "releasedate": "2015-12-10",
+ "filesize": 1024,
  "tags": [
   "title:Hellhole",
+  "releasedate:2015-12-10",
+  "game:quake",
   "author:kukkye",
   "tag:small",
   "tag:base",
@@ -20,11 +21,11 @@
  },
  "files": {
   "hellhole.bsp": {
-   "size": 2698540,
+   "filesize": 2698540,
    "timestamp": "2015-12-10"
   },
   "hellhole.txt": {
-   "size": 492,
+   "filesize": 492,
    "timestamp": "2015-12-10"
   }
  },

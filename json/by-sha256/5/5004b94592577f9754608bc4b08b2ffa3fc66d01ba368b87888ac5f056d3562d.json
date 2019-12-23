@@ -4,10 +4,11 @@
  "filename": [
   "cool1.zip"
  ],
- "size": 406,
- "releasedate": "1997-03-26",
+ "filesize": 406,
  "tags": [
   "title:Level by Tony Hillman",
+  "releasedate:1997-03-26",
+  "game:quake",
   "author:Anthony Hillman",
   "tag:small",
   "tag:medieval",
@@ -22,11 +23,11 @@
  },
  "files": {
   "cool1.txt": {
-   "size": 503,
+   "filesize": 503,
    "timestamp": "1997-03-26"
   },
   "cool1.bsp": {
-   "size": 1285116,
+   "filesize": 1285116,
    "timestamp": "1997-03-26"
   }
  },

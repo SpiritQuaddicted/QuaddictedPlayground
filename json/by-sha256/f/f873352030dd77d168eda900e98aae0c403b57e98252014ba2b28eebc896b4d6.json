@@ -4,10 +4,11 @@
  "filename": [
   "museum.zip"
  ],
- "size": 608,
- "releasedate": "1996-11-17",
+ "filesize": 608,
  "tags": [
   "title:Museum",
+  "releasedate:1996-11-17",
+  "game:quake",
   "author:Steve Rescoe",
   "tag:small",
   "tag:museum",
@@ -23,11 +24,11 @@
  },
  "files": {
   "MUSEUM.bsp": {
-   "size": 1472408,
+   "filesize": 1472408,
    "timestamp": "1996-11-17"
   },
   "Museum.txt": {
-   "size": 3407,
+   "filesize": 3407,
    "timestamp": "1996-11-17"
   }
  },

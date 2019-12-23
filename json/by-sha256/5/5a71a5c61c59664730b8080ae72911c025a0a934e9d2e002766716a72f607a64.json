@@ -4,10 +4,11 @@
  "filename": [
   "sewer.zip"
  ],
- "size": 231,
- "releasedate": "1997-09-28",
+ "filesize": 231,
  "tags": [
   "title:The Sewer",
+  "releasedate:1997-09-28",
+  "game:quake",
   "author:Francis Fearon",
   "tag:small",
   "tag:metal"
@@ -17,11 +18,11 @@
  },
  "files": {
   "sewer.bsp": {
-   "size": 531188,
+   "filesize": 531188,
    "timestamp": "1997-09-28"
   },
   "sewer.txt": {
-   "size": 3615,
+   "filesize": 3615,
    "timestamp": "1997-09-28"
   }
  },

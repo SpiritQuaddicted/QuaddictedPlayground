@@ -4,10 +4,11 @@
  "filename": [
   "eltemple.zip"
  ],
- "size": 1010,
- "releasedate": "1997-11-07",
+ "filesize": 1010,
  "tags": [
   "title:El temple del sol",
+  "releasedate:1997-11-07",
+  "game:quake",
   "author:Rob Marton (nn6)",
   "tag:plain",
   "tag:weird",
@@ -24,15 +25,15 @@
  },
  "files": {
   "temple.txt": {
-   "size": 2082,
+   "filesize": 2082,
    "timestamp": "1997-11-07"
   },
   "Pak0.pak": {
-   "size": 2580068,
+   "filesize": 2580068,
    "timestamp": "1997-11-06"
   },
   "temple.bat": {
-   "size": 26,
+   "filesize": 26,
    "timestamp": "1997-10-30"
   }
  },

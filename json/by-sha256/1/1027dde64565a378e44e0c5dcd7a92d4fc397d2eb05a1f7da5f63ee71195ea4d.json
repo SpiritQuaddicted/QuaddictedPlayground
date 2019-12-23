@@ -4,10 +4,11 @@
  "filename": [
   "sp1.zip"
  ],
- "size": 607,
- "releasedate": "1997-11-10",
+ "filesize": 607,
  "tags": [
   "title:Staging Point",
+  "releasedate:1997-11-10",
+  "game:quake",
   "author:Tony 'Frogger' Boyer",
   "tag:base",
   "tag:medium",
@@ -18,11 +19,11 @@
  },
  "files": {
   "sp.txt": {
-   "size": 7500,
+   "filesize": 7500,
    "timestamp": "1997-11-19"
   },
   "sp.bsp": {
-   "size": 1589840,
+   "filesize": 1589840,
    "timestamp": "1997-09-14"
   }
  },

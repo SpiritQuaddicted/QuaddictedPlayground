@@ -4,10 +4,11 @@
  "filename": [
   "evildead.zip"
  ],
- "size": 489,
- "releasedate": "1997-10-20",
+ "filesize": 489,
  "tags": [
   "title:EvilDead cabin",
+  "releasedate:1997-10-20",
+  "game:quake",
   "author:Steve Rescoe",
   "tag:small",
   "tag:wood",
@@ -21,15 +22,15 @@
  },
  "files": {
   "Evildead.map": {
-   "size": 362504,
+   "filesize": 362504,
    "timestamp": "1997-10-19"
   },
   "evildead.txt": {
-   "size": 2528,
+   "filesize": 2528,
    "timestamp": "1997-10-20"
   },
   "evildead.bsp": {
-   "size": 1159392,
+   "filesize": 1159392,
    "timestamp": "1997-10-20"
   }
  },

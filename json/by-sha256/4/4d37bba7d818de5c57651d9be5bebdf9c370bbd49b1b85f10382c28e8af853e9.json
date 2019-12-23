@@ -4,10 +4,11 @@
  "filename": [
   "rohling.zip"
  ],
- "size": 457,
- "releasedate": "1996-10-10",
+ "filesize": 457,
  "tags": [
   "title:Hello",
+  "releasedate:1996-10-10",
+  "game:quake",
   "author:Kevin Rohling",
   "tag:small",
   "tag:mixtex",
@@ -21,27 +22,27 @@
  },
  "files": {
   "QVER.EXE": {
-   "size": 8946,
+   "filesize": 8946,
    "timestamp": "1996-07-27"
   },
   "QVER.TXT": {
-   "size": 252,
+   "filesize": 252,
    "timestamp": "1996-07-27"
   },
   "level.bsp": {
-   "size": 1600560,
+   "filesize": 1600560,
    "timestamp": "1996-08-30"
   },
   "level.map": {
-   "size": 101193,
+   "filesize": 101193,
    "timestamp": "1996-08-30"
   },
   "level.tnk": {
-   "size": 61335,
+   "filesize": 61335,
    "timestamp": "1996-08-29"
   },
   "level.txt": {
-   "size": 2681,
+   "filesize": 2681,
    "timestamp": "1996-08-30"
   }
  },

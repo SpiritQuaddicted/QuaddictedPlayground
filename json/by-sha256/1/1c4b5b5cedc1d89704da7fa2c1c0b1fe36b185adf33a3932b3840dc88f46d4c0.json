@@ -4,10 +4,11 @@
  "filename": [
   "beach1.zip"
  ],
- "size": 220,
- "releasedate": "1997-07-28",
+ "filesize": 220,
  "tags": [
   "title:The Beaches Of Hell",
+  "releasedate:1997-07-28",
+  "game:quake",
   "author:Kid",
   "tag:small",
   "tag:wizard",
@@ -23,15 +24,15 @@
  },
  "files": {
   "beach.txt": {
-   "size": 3434,
+   "filesize": 3434,
    "timestamp": "1997-07-28"
   },
   "beach.bsp": {
-   "size": 539128,
+   "filesize": 539128,
    "timestamp": "1997-07-28"
   },
   "beach.map": {
-   "size": 34259,
+   "filesize": 34259,
    "timestamp": "1997-07-28"
   }
  },

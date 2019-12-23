@@ -4,10 +4,11 @@
  "filename": [
   "prison2.zip"
  ],
- "size": 451,
- "releasedate": "1997-01-21",
+ "filesize": 451,
  "tags": [
   "title:Prison",
+  "releasedate:1997-01-21",
+  "game:quake",
   "author:Anders Gustavsson",
   "tag:small",
   "tag:wizard",
@@ -20,15 +21,15 @@
  },
  "files": {
   "prison.txt": {
-   "size": 1173,
+   "filesize": 1173,
    "timestamp": "1997-01-21"
   },
   "prison.map": {
-   "size": 275531,
+   "filesize": 275531,
    "timestamp": "1997-01-21"
   },
   "prison.bsp": {
-   "size": 1013916,
+   "filesize": 1013916,
    "timestamp": "1997-01-21"
   }
  },

@@ -4,10 +4,11 @@
  "filename": [
   "cat1.zip"
  ],
- "size": 604,
- "releasedate": "2004-05-10",
+ "filesize": 604,
  "tags": [
   "title:no title",
+  "releasedate:2004-05-10",
+  "game:quake",
   "author:unknown",
   "tag:church",
   "tag:small",
@@ -18,19 +19,19 @@
  },
  "files": {
   "cat1.bsp": {
-   "size": 1618208,
+   "filesize": 1618208,
    "timestamp": "2004-05-10"
   },
   "cat1.rtlights": {
-   "size": 223,
+   "filesize": 223,
    "timestamp": "2004-04-30"
   },
   "cat1.lit": {
-   "size": 911576,
+   "filesize": 911576,
    "timestamp": "2004-05-10"
   },
   "cat1.lights": {
-   "size": 473,
+   "filesize": 473,
    "timestamp": "2004-05-10"
   }
  },

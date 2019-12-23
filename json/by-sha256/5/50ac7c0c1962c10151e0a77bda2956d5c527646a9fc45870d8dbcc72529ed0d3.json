@@ -4,10 +4,11 @@
  "filename": [
   "skeet.zip"
  ],
- "size": 120,
- "releasedate": "2007-12-04",
+ "filesize": 120,
  "tags": [
   "title:The Turkey Shoot",
+  "releasedate:2007-12-04",
+  "game:quake",
   "author:Sid",
   "tag:silly",
   "tag:plain",
@@ -20,11 +21,11 @@
  },
  "files": {
   "skeet.txt": {
-   "size": 2311,
+   "filesize": 2311,
    "timestamp": "2007-12-04"
   },
   "skeet.bsp": {
-   "size": 276436,
+   "filesize": 276436,
    "timestamp": "2007-08-18"
   }
  },

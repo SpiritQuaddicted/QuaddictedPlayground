@@ -4,10 +4,11 @@
  "filename": [
   "core3.zip"
  ],
- "size": 255,
- "releasedate": "1998-01-12",
+ "filesize": 255,
  "tags": [
   "title:The Core",
+  "releasedate:1998-01-12",
+  "game:quake",
   "author:Miko",
   "tag:small",
   "tag:base"
@@ -17,15 +18,15 @@
  },
  "files": {
   "core.txt": {
-   "size": 2179,
+   "filesize": 2179,
    "timestamp": "1998-01-12"
   },
   "core3.bsp": {
-   "size": 555700,
+   "filesize": 555700,
    "timestamp": "1998-01-12"
   },
   "info.txt": {
-   "size": 1554,
+   "filesize": 1554,
    "timestamp": "1998-01-12"
   }
  },

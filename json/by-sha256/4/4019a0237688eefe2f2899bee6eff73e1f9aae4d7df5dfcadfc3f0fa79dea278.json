@@ -4,10 +4,11 @@
  "filename": [
   "asylum.zip"
  ],
- "size": 3257,
- "releasedate": "1997-10-25",
+ "filesize": 3257,
  "tags": [
   "title:Trinity Asylum",
+  "releasedate:1997-10-25",
+  "game:quake",
   "author:Phil Daniels",
   "tag:medium",
   "tag:textures",
@@ -18,15 +19,15 @@
  },
  "files": {
   "Config.cfg": {
-   "size": 6443,
+   "filesize": 6443,
    "timestamp": "1997-11-02"
   },
   "pak0.pak": {
-   "size": 6739129,
+   "filesize": 6739129,
    "timestamp": "1997-11-03"
   },
   "Asylum.txt": {
-   "size": 2486,
+   "filesize": 2486,
    "timestamp": "1997-10-28"
   }
  },
