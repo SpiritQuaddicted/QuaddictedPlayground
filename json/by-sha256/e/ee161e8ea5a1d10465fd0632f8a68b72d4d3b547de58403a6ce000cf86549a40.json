@@ -40,26 +40,16 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40",
  "tags": [
-  "title=The Zombie's House",
-  "releasedate=2018-10-27",
-  "game=quake",
-  "commandline=-game quoth -quoth",
   "author=digs",
-  "tag=large",
-  "tag=village",
-  "tag=house",
-  "tag=realism",
-  "tag=canyon",
-  "tag=valley",
-  "tag=mill",
-  "tag=quoth",
-  "tag=textures",
-  "tag=limits",
-  "tag=bsp2",
-  "dependency=quoth2pt2full_2"
+  "commandline=-game quoth -quoth",
+  "dependency=quoth2pt2full_2",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61645)",
+  "releasedate=2018-10-27",
+  "title=The Zombie's House"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs09.zip",

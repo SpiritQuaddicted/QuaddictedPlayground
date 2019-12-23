@@ -24,25 +24,20 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "7b136e7d576149fca7ae2b0a2abe828104614dcd9bcbdab35635e39876ac38da",
  "tags": [
-  "title=winterpack2005-2006",
-  "releasedate=2006-03-08",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=Hrimfaxi (Drew)",
   "author=Zwiffle (czg)",
-  "tag=ikblue",
-  "tag=egyptian",
-  "tag=built from scraps",
-  "tag=huge",
-  "tag=hard",
-  "tag=quoth",
-  "tag=skybox",
+  "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "game=quake",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev060406.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=2006-03-08",
   "startmap=egypt",
-  "startmap=teacups"
+  "startmap=teacups",
+  "title=winterpack2005-2006"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/winterpack2005-2006.zip",

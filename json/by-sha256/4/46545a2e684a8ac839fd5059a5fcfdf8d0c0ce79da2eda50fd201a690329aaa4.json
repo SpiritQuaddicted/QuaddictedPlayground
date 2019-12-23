@@ -16,17 +16,15 @@
  "install": {
   "extract": "{quake}/zer/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "46545a2e684a8ac839fd5059a5fcfdf8d0c0ce79da2eda50fd201a690329aaa4",
  "tags": [
-  "title=Zerst\u00f6rer v1.1",
-  "releasedate=1997-10-23",
-  "game=quake",
-  "commandline=-game zer",
   "author=Nihilism Unlimited",
-  "tag=zerstorer",
-  "tag=patch",
-  "startmap=start"
+  "commandline=-game zer",
+  "game=quake",
+  "releasedate=1997-10-23",
+  "startmap=start",
+  "title=Zerst\u00f6rer v1.1"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zer11.zip",

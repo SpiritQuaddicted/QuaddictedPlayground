@@ -104,13 +104,9 @@
  "install": {
   "extract": "{quake}/retrojam5/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55",
  "tags": [
-  "title=Retro Jam 5 - The Wind Tunnels theme",
-  "releasedate=2016-11-22",
-  "game=quake",
-  "commandline=-game retrojam5",
   "author=Bloughsburgh",
   "author=Breezeep",
   "author=ItEndsWithTens",
@@ -118,22 +114,18 @@
   "author=QMaster",
   "author=Shamblernaut",
   "author=skacky",
-  "tag=small",
-  "tag=medium",
-  "tag=metal",
-  "tag=medieval",
-  "tag=windtunnel",
-  "tag=e3m5",
-  "tag=jam",
-  "tag=source",
-  "tag=vertical",
+  "commandline=-game retrojam5",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61377)",
+  "releasedate=2016-11-22",
   "startmap=retrojam5_breezeep",
   "startmap=retrojam5_mjb",
   "startmap=retrojam5_newhouse",
   "startmap=retrojam5_qmaster",
   "startmap=retrojam5_shambler",
   "startmap=retrojam5_shamblernaut",
-  "startmap=retrojam5_tens"
+  "startmap=retrojam5_tens",
+  "title=Retro Jam 5 - The Wind Tunnels theme"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam5.zip",

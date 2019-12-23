@@ -32,23 +32,15 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "daef96e5934881f34e6a10899d30eb2c61f0cda2bdcb076a46a0a7a176389d0f",
  "tags": [
-  "title=Gloomier Keep",
-  "releasedate=2012-06-16",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=Kell",
-  "tag=knave",
-  "tag=remix",
-  "tag=remake",
-  "tag=e1m5",
-  "tag=quoth",
-  "tag=secrets",
-  "tag=medium",
-  "tag=super secret",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "releasedate=2012-06-16",
+  "title=Gloomier Keep"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quotha.zip",

@@ -16,26 +16,18 @@
  "install": {
   "extract": "{quake}/rubicon2/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "349f5abb27c5497a5cc822b810b20525f28c232fc9b39a974c37ab7865b0875c",
  "tags": [
-  "title=Rubicon 2",
-  "releasedate=2011-02-11",
-  "game=quake",
-  "commandline=-game rubicon2",
   "author=metlslime &amp; czg",
-  "tag=base",
-  "tag=rubicon",
-  "tag=large",
-  "tag=episode",
-  "tag=monsters",
-  "tag=textures",
-  "tag=industrial",
-  "tag=mustplay",
-  "startmap=start",
+  "commandline=-game rubicon2",
+  "game=quake",
+  "releasedate=2011-02-11",
   "startmap=rub2m1",
   "startmap=rub2m2",
-  "startmap=rub2m3"
+  "startmap=rub2m3",
+  "startmap=start",
+  "title=Rubicon 2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rubicon2.zip",

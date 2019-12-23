@@ -40,26 +40,26 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "33661a2855a26848860319ab6af00ba6c6972bcf31dff09094c31bbe338fbdf2",
  "tags": [
-  "title=Speedmapping pack 9 - Unthemed",
-  "releasedate=2001-04-22",
-  "game=quake",
   "author=Aardappel",
+  "author=BlackPope",
   "author=Cybear",
   "author=Damaul",
-  "author=iNaNe",
-  "author=BlackPope",
   "author=Scampie",
   "author=XeNoN",
+  "author=iNaNe",
+  "game=quake",
+  "releasedate=2001-04-22",
+  "startmap=sm9_aard",
   "startmap=sm9_bear",
   "startmap=sm9_damaul",
-  "startmap=sm9_aard",
   "startmap=sm9_inane",
-  "startmap=sm9_scampie",
   "startmap=sm9_pope",
-  "startmap=sm9_xenon"
+  "startmap=sm9_scampie",
+  "startmap=sm9_xenon",
+  "title=Speedmapping pack 9 - Unthemed"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm9_pack.zip",

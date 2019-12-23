@@ -40,23 +40,15 @@
  "install": {
   "extract": "{quake}/e1m1red/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65",
  "tags": [
-  "title=Bloody Slipgates",
-  "releasedate=2008-09-12",
-  "game=quake",
-  "commandline=-game e1m1red",
   "author=Lardarse (czg",
   "author=Vondur)",
-  "tag=base",
-  "tag=exploration",
-  "tag=nonlinear",
-  "tag=puzzles",
-  "tag=remake",
-  "tag=source",
-  "tag=medium",
-  "tag=unique"
+  "commandline=-game e1m1red",
+  "game=quake",
+  "releasedate=2008-09-12",
+  "title=Bloody Slipgates"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1red.zip",

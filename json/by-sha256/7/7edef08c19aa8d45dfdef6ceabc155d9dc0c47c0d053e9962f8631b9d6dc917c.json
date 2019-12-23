@@ -20,23 +20,15 @@
  "install": {
   "extract": "{quake}/ivory/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c",
  "tags": [
-  "title=The Ivory Tower",
-  "releasedate=2013-09-28",
-  "game=quake",
-  "commandline=-game ivory",
   "author=sock",
-  "tag=medium",
-  "tag=medieval",
-  "tag=castle",
-  "tag=tower",
-  "tag=mines",
-  "tag=source",
-  "tag=rocks",
-  "tag=limits",
-  "startmap=ivory"
+  "commandline=-game ivory",
+  "game=quake",
+  "releasedate=2013-09-28",
+  "startmap=ivory",
+  "title=The Ivory Tower"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ivory1b.zip",

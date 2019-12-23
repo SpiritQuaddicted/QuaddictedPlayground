@@ -40,19 +40,15 @@
  "install": {
   "extract": "{quake}/travail/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "49c2c0b9c13b8ffad7581414cfadd033c5d7591e14ce206c6163b5bb12114ea6",
  "tags": [
-  "title=Grendel's Keep",
-  "releasedate=2010-04-12",
-  "game=quake",
-  "commandline=-game travail",
   "author=distrans",
-  "tag=metal",
-  "tag=medium",
-  "tag=travail",
-  "tag=base",
-  "dependency=travail"
+  "commandline=-game travail",
+  "dependency=travail",
+  "game=quake",
+  "releasedate=2010-04-12",
+  "title=Grendel's Keep"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qt_pre02.zip",

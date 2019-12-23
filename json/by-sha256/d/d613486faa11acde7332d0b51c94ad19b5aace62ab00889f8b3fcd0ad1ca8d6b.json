@@ -24,29 +24,17 @@
  "install": {
   "extract": "{quake}/ad/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
  "tags": [
-  "title=Nyarlathotep's Sand Castle",
-  "releasedate=2017-01-11",
-  "game=quake",
-  "commandline=-heapsize 128000 -game ad",
   "author=sock",
-  "tag=large",
-  "tag=egyptian",
-  "tag=temple",
-  "tag=sand",
-  "tag=waterfall",
-  "tag=bricks",
-  "tag=fog",
-  "tag=secrets",
-  "tag=ad",
-  "tag=limits",
-  "tag=source",
-  "tag=tomb",
-  "tag=arcanedimensions",
+  "commandline=-heapsize 128000 -game ad",
   "dependency=ad_v1_50final",
-  "startmap=ad_scastle"
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61398)",
+  "releasedate=2017-01-11",
+  "startmap=ad_scastle",
+  "title=Nyarlathotep's Sand Castle"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_scastle1d.zip",

@@ -16,21 +16,18 @@
  "install": {
   "extract": "{quake}/lmed1/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
  "tags": [
-  "title=The Ancient Fortress",
-  "releasedate=1996-09-05",
-  "game=quake",
-  "commandline=-game lmed1",
   "author=Derek 'Lombard' Barr",
-  "tag=medium",
-  "tag=wizard",
-  "tag=castle",
-  "tag=textures",
-  "tag=start map",
+  "commandline=-game lmed1",
+  "game=quake",
+  "link=[Crash's review](http://www.quake2.com/crash/levelsl.htm)",
+  "link=[[Kona]'s rating](http://www.electricescape.com/etherealhell/index.php/10-ratings?limitstart=0)",
+  "releasedate=1996-09-05",
+  "startmap=med1",
   "startmap=start",
-  "startmap=med1"
+  "title=The Ancient Fortress"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lmed1.zip",

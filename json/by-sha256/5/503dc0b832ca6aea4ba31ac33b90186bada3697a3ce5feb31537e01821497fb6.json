@@ -56,25 +56,18 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "503dc0b832ca6aea4ba31ac33b90186bada3697a3ce5feb31537e01821497fb6",
  "tags": [
-  "title=Fantasy Quake - Rise of the Phoenix",
-  "releasedate=1997-12-21",
-  "game=quake",
-  "commandline=-game fq",
   "author=Team Phoenix",
-  "tag=total conversion",
-  "tag=large",
-  "tag=episode",
-  "tag=tc",
-  "tag=monsters",
-  "tag=weapons",
-  "tag=medieval",
-  "tag=wizard",
-  "tag=fantasy",
-  "tag=castle",
-  "startmap=fqrotpst"
+  "commandline=-game fq",
+  "game=quake",
+  "link=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=1997-12-21",
+  "startmap=fqrotpst",
+  "title=Fantasy Quake - Rise of the Phoenix"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fantasy.zip",

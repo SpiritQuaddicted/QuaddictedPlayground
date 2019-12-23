@@ -168,12 +168,9 @@
  "install": {
   "extract": "{quake}/id1/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "eb7e1d6da9a8ee4c199aea1ef0cba5a9b5c24ee7827b67b7f87953c434e3e3a2",
  "tags": [
-  "title=SM191 - Origins",
-  "releasedate=2019-01-21",
-  "game=quake",
   "author=Breezeep",
   "author=Danzadan",
   "author=Digs",
@@ -189,6 +186,8 @@
   "author=Ukko",
   "author=WW",
   "author=Yoder",
+  "game=quake",
+  "releasedate=2019-01-21",
   "startmap=sm191_breezeep",
   "startmap=sm191_danz",
   "startmap=sm191_danz2",
@@ -204,7 +203,8 @@
   "startmap=sm191_scrama",
   "startmap=sm191_ukko",
   "startmap=sm191_ww",
-  "startmap=sm191_yoder"
+  "startmap=sm191_yoder",
+  "title=SM191 - Origins"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm191_pack.zip",

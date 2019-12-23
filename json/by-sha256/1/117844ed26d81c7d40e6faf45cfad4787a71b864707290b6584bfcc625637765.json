@@ -16,19 +16,15 @@
  "install": {
   "extract": "{quake}/temple/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "117844ed26d81c7d40e6faf45cfad4787a71b864707290b6584bfcc625637765",
  "tags": [
-  "title=Temple of Tourment",
-  "releasedate=1997-10-21",
-  "game=quake",
-  "commandline=-game temple",
   "author=Fredrik 'PeyloW' Olsson",
-  "tag=small",
-  "tag=wizard",
-  "tag=traps",
-  "tag=dungeon",
-  "startmap=start"
+  "commandline=-game temple",
+  "game=quake",
+  "releasedate=1997-10-21",
+  "startmap=start",
+  "title=Temple of Tourment"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/temple2.zip",

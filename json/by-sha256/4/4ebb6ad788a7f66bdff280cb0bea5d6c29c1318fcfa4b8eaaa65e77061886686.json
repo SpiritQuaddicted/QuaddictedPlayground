@@ -40,24 +40,23 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686",
  "tags": [
-  "title=Speedmapping pack 15 - Unthemed",
-  "releasedate=2001-05-20",
-  "game=quake",
   "author=Apollo",
+  "author=Blitz",
   "author=Cybear",
   "author=NotoriousRay",
-  "author=Blitz",
   "author=XeNoN",
-  "tag=rubicon",
+  "game=quake",
+  "releasedate=2001-05-20",
+  "startmap=sm15_ap",
+  "startmap=sm15_bear",
   "startmap=sm15_blitz",
   "startmap=sm15_ray",
-  "startmap=sm15_bear",
-  "startmap=sm15_ap",
+  "startmap=sm15_xenon1",
   "startmap=sm15_xenon2",
-  "startmap=sm15_xenon1"
+  "title=Speedmapping pack 15 - Unthemed"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm15_pack.zip",

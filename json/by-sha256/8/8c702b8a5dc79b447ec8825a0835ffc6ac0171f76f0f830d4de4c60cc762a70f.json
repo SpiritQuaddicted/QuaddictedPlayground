@@ -284,14 +284,16 @@
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f",
  "tags": [
-  "title=Copper Quake",
-  "releasedate=2019-06-21",
-  "game=quake",
+  "author=Lunaran",
   "commandline=-game copper",
-  "author=Lunaran"
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61746)",
+  "link=[List of changes](http://lunaran.com/copper/changes.html)",
+  "releasedate=2019-06-21",
+  "title=Copper Quake"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/copper.zip",

@@ -48,24 +48,17 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "785162f91e2470ffab89d945c82388b9fceab10e1bacf422bf1cb816e0ffacfb",
  "tags": [
-  "title=GravelPit",
-  "releasedate=2014-08-30",
-  "game=quake",
-  "commandline=-game quoth -quoth",
   "author=Daya",
-  "tag=quoth",
-  "tag=base",
-  "tag=textures",
-  "tag=quake2",
-  "tag=medium",
-  "tag=tf2",
-  "tag=remix",
-  "tag=remake",
+  "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
-  "startmap=gravelpit"
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61072)",
+  "releasedate=2014-08-30",
+  "startmap=gravelpit",
+  "title=GravelPit"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gravelpitfinal2.zip",

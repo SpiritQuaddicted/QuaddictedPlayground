@@ -40,18 +40,14 @@
  "install": {
   "extract": "{quake}/fdtd/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "f0ee456ed8d0fa9a68fbdbe5c1d8f027dfd4a59267e7c3aafcae9a774b470c2e",
  "tags": [
-  "title=From Dark to Dune",
-  "releasedate=1997-03-17",
-  "game=quake",
-  "commandline=-game fdtd",
   "author=Iceman",
-  "tag=small",
-  "tag=wood",
-  "tag=experimental",
-  "tag=tiny"
+  "commandline=-game fdtd",
+  "game=quake",
+  "releasedate=1997-03-17",
+  "title=From Dark to Dune"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fdtd.zip",

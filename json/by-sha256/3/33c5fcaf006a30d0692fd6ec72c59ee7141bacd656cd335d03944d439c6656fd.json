@@ -24,18 +24,19 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "33c5fcaf006a30d0692fd6ec72c59ee7141bacd656cd335d03944d439c6656fd",
  "tags": [
-  "title=Quoth 2.2 Patch [PROPER]",
-  "releasedate=2014-05-04",
-  "game=quake",
-  "commandline=-game quoth -quoth",
+  "author=Kell",
   "author=Preach",
   "author=necros",
-  "author=Kell",
+  "commandline=-game quoth -quoth",
   "dependency=quoth",
-  "startmap=start"
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61017)",
+  "releasedate=2014-05-04",
+  "startmap=start",
+  "title=Quoth 2.2 Patch [PROPER]"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2patch_2.zip",

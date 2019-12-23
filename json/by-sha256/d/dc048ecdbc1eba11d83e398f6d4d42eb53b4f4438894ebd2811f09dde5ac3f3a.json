@@ -16,21 +16,16 @@
  "install": {
   "extract": "{quake}/ne_tower/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "dc048ecdbc1eba11d83e398f6d4d42eb53b4f4438894ebd2811f09dde5ac3f3a",
  "tags": [
-  "title=Moldy Tower",
-  "releasedate=2009-07-01",
-  "game=quake",
-  "commandline=-quoth -game ne_tower",
   "author=necros",
-  "tag=quoth",
-  "tag=cogs",
-  "tag=ladders",
-  "tag=vertical",
-  "tag=epic end battle",
-  "tag=medium",
-  "dependency=quoth"
+  "commandline=-quoth -game ne_tower",
+  "dependency=quoth",
+  "game=quake",
+  "link=[The Abandoned Workshop](http://taw.duke4.net/2009/07/quake/moldy-tower/)",
+  "releasedate=2009-07-01",
+  "title=Moldy Tower"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_tower.zip",

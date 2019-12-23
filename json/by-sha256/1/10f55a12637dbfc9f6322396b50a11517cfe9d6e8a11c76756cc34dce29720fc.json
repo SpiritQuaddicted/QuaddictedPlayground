@@ -28,28 +28,15 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc",
  "tags": [
-  "title=Subterranean Library",
-  "releasedate=2012-10-30",
-  "game=quake",
-  "commandline=-quoth -game apsp3",
   "author=Andrew 'than' Palmer",
-  "tag=large",
-  "tag=medieval",
-  "tag=knave",
-  "tag=library",
-  "tag=blood",
-  "tag=cave",
-  "tag=quoth",
-  "tag=ruins",
-  "tag=source",
-  "tag=secrets",
-  "tag=runes",
-  "tag=underground",
-  "tag=interconnectivity",
-  "dependency=quoth"
+  "commandline=-quoth -game apsp3",
+  "dependency=quoth",
+  "game=quake",
+  "releasedate=2012-10-30",
+  "title=Subterranean Library"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/apsp3.zip",

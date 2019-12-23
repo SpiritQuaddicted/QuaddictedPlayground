@@ -24,20 +24,20 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "6e56d1040d329fa6a7c966040c8a307e044c1943056cd9e76ed80a10ff14288a",
  "tags": [
-  "title=Speedmapping pack 102 - Geocomp",
-  "releasedate=2005-08-28",
-  "game=quake",
   "author=Drew",
   "author=HeadThump",
-  "author=negke",
   "author=Zwiffle",
-  "startmap=sm102_zwiffle",
-  "startmap=sm102_neg!ke",
+  "author=negke",
+  "game=quake",
+  "releasedate=2005-08-28",
+  "startmap=sm102_drew",
   "startmap=sm102_ht",
-  "startmap=sm102_drew"
+  "startmap=sm102_neg!ke",
+  "startmap=sm102_zwiffle",
+  "title=Speedmapping pack 102 - Geocomp"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm102_pack.zip",

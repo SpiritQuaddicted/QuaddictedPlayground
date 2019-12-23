@@ -20,23 +20,21 @@
  "install": {
   "extract": "{quake}/shadowgl/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd",
  "tags": [
-  "title=Shadow over Innsmouth (GL)",
-  "releasedate=1997-02-16",
-  "game=quake",
-  "commandline=-game shadowgl",
   "author=Steve Rescoe",
-  "tag=classic",
-  "tag=medieval",
-  "tag=large",
-  "tag=village",
-  "tag=pyramid",
-  "tag=skins",
-  "tag=town",
-  "tag=planetquake-map-of-the-week",
-  "startmap=shadow"
+  "commandline=-game shadowgl",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelss.htm#shadow)",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=130)",
+  "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/s_u.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[Tronyn's Top 10: Medieval](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a2.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
+  "releasedate=1997-02-16",
+  "startmap=shadow",
+  "title=Shadow over Innsmouth (GL)"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shadowgl.zip",

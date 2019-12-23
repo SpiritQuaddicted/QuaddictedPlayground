@@ -16,16 +16,14 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8",
  "tags": [
-  "title=Keep it dark!",
-  "releasedate=1996-08-12",
-  "game=quake",
   "author=Ludovic Texier",
-  "tag=small",
-  "tag=dm",
-  "startmap=k_dark1"
+  "game=quake",
+  "releasedate=1996-08-12",
+  "startmap=k_dark1",
+  "title=Keep it dark!"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/k_dark1b.zip",

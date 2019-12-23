@@ -40,27 +40,16 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2",
  "tags": [
-  "title=Termination Mental",
-  "releasedate=2013-05-23",
-  "game=quake",
-  "commandline=-game quoth -hipnotic +r_novis 1 +r_wateralpha 0.3",
   "author=mfx",
-  "tag=hard",
-  "tag=base",
-  "tag=water",
-  "tag=fog",
-  "tag=quoth",
-  "tag=medium",
-  "tag=sym",
-  "tag=slime",
-  "tag=remix",
-  "tag=remake",
-  "tag=e3m1",
-  "tag=skybox",
-  "dependency=quoth"
+  "commandline=-game quoth -hipnotic +r_novis 1 +r_wateralpha 0.3",
+  "dependency=quoth",
+  "game=quake",
+  "link=[Func](http://www.celephais.net/board/view_thread.php?id=60937)",
+  "releasedate=2013-05-23",
+  "title=Termination Mental"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp6.zip",

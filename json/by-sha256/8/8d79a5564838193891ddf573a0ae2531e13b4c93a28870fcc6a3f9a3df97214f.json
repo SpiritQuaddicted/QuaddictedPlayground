@@ -16,20 +16,18 @@
  "install": {
   "extract": "{quake}/hipnotic/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8d79a5564838193891ddf573a0ae2531e13b4c93a28870fcc6a3f9a3df97214f",
  "tags": [
-  "title=The Cloning Facility",
-  "releasedate=1997-10-10",
-  "game=quake",
-  "commandline=-hipnotic",
   "author=John Watson (Shoggoth)",
-  "tag=large",
-  "tag=base",
-  "tag=hipnotic",
-  "tag=nonlinear",
-  "tag=soa",
-  "dependency=hipnotic"
+  "commandline=-hipnotic",
+  "dependency=hipnotic",
+  "game=quake",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990512.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
+  "releasedate=1997-10-10",
+  "title=The Cloning Facility"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cloning.zip",

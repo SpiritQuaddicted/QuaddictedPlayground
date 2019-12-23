@@ -80,28 +80,20 @@
  "install": {
   "extract": "{quake}/retrojam3dlc"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "b307355d76d077c6fc19b3c17129800cd976c370f80e27591ea40afd0f8008dc",
  "tags": [
-  "title=Retro Jam 3 DLC",
-  "releasedate=2015-07-26",
-  "game=quake",
-  "commandline=-heapsize 64000 -game retrojam3dlc",
   "author=ionous",
   "author=negke",
   "author=skacky",
-  "tag=runic",
-  "tag=metal",
-  "tag=vertical",
-  "tag=bsp2",
-  "tag=mapjam",
-  "tag=medium",
-  "tag=limits",
-  "tag=source",
-  "tag=maze",
+  "commandline=-heapsize 64000 -game retrojam3dlc",
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61216)",
+  "releasedate=2015-07-26",
   "startmap=retrojam3dlc_ionous",
   "startmap=retrojam3dlc_negke",
-  "startmap=retrojam3dlc_skacky"
+  "startmap=retrojam3dlc_skacky",
+  "title=Retro Jam 3 DLC"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam3dlc.zip",

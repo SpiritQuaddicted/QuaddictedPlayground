@@ -16,20 +16,18 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "96d9160af819e9efc90b10a59c7e0e5dc0b63a2734413c6a371aacb5fd1884d0",
  "tags": [
-  "title=The Palace of Fear",
-  "releasedate=2007-03-10",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=ijed",
-  "tag=remake",
-  "tag=terracotta",
-  "tag=medium",
-  "tag=quoth",
-  "tag=e4m4",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "link=[Tronyn's Top 10: Elder World](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a4.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev070420b.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=2007-03-10",
+  "title=The Palace of Fear"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tpof.zip",

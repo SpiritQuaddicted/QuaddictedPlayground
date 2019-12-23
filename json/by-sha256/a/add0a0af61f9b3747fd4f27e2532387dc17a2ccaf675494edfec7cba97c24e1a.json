@@ -24,17 +24,17 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "add0a0af61f9b3747fd4f27e2532387dc17a2ccaf675494edfec7cba97c24e1a",
  "tags": [
-  "title=Speedmapping pack 116 - Tricking maps",
-  "releasedate=2006-01-10",
-  "game=quake",
   "author=adamllis",
   "author=negke",
-  "startmap=sm116_neg!ke",
+  "game=quake",
+  "releasedate=2006-01-10",
   "startmap=sm116_adamllis",
-  "startmap=sm116_adamllis2"
+  "startmap=sm116_adamllis2",
+  "startmap=sm116_neg!ke",
+  "title=Speedmapping pack 116 - Tricking maps"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm116_pack.zip",

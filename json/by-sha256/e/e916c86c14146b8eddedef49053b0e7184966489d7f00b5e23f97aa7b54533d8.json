@@ -140,15 +140,11 @@
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "e916c86c14146b8eddedef49053b0e7184966489d7f00b5e23f97aa7b54533d8",
  "tags": [
-  "title=HUH: A /vr/ mapping project",
-  "releasedate=2019-09-23",
-  "game=quake",
-  "commandline=-game huh",
-  "author=Anon/Ranger",
   "author=ASO3000",
+  "author=Anon/Ranger",
   "author=David",
   "author=DiamondBlack",
   "author=DocDuodenum",
@@ -157,7 +153,9 @@
   "author=Sockstah",
   "author=Streaky",
   "author=ZungryWare",
-  "startmap=start",
+  "commandline=-game huh",
+  "game=quake",
+  "releasedate=2019-09-23",
   "startmap=huh_655321",
   "startmap=huh_babby",
   "startmap=huh_blacast",
@@ -168,7 +166,9 @@
   "startmap=huh_technotomb",
   "startmap=huh_tombandtower",
   "startmap=huh_tower",
-  "startmap=huh_waydown"
+  "startmap=huh_waydown",
+  "startmap=start",
+  "title=HUH: A /vr/ mapping project"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/huh_final.zip",

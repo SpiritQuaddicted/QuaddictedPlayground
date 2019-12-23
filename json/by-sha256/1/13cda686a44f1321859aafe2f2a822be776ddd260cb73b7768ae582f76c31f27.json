@@ -36,24 +36,20 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "13cda686a44f1321859aafe2f2a822be776ddd260cb73b7768ae582f76c31f27",
  "tags": [
-  "title=Rune of Blood",
-  "releasedate=2016-02-07",
-  "game=quake",
-  "commandline=-quoth -game quoth",
   "author=Bloughsburgh",
-  "tag=episode",
-  "tag=small",
-  "tag=quoth",
-  "tag=base",
-  "tag=wizard",
+  "commandline=-quoth -game quoth",
   "dependency=quoth",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61444)",
+  "releasedate=2016-02-07",
+  "startmap=mjb2b2",
   "startmap=mjb2hub",
   "startmap=mjb2m1",
-  "startmap=mjb2b2",
-  "startmap=mjb2m3"
+  "startmap=mjb2m3",
+  "title=Rune of Blood"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/runeofblood.zip",

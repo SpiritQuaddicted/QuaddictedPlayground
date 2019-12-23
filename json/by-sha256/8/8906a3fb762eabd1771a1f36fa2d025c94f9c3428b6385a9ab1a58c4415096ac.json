@@ -16,21 +16,15 @@
  "install": {
   "extract": "{quake}/coe/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8906a3fb762eabd1771a1f36fa2d025c94f9c3428b6385a9ab1a58c4415096ac",
  "tags": [
-  "title=Coven of Ebony PATCH",
-  "releasedate=2001-01-08",
-  "game=quake",
-  "commandline=-game coe",
   "author=Robert \"Fat Controller\" Cruickshank",
-  "tag=patch",
-  "tag=azure",
-  "tag=medieval",
-  "tag=action",
-  "tag=hard",
-  "tag=monsters",
-  "dependency=coe"
+  "commandline=-game coe",
+  "dependency=coe",
+  "game=quake",
+  "releasedate=2001-01-08",
+  "title=Coven of Ebony PATCH"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/coe_p.zip",

@@ -36,25 +36,20 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d",
  "tags": [
-  "title=Quake Turtlemap 3",
-  "releasedate=2004-01-13",
-  "game=quake",
   "author=Hrimfaxi",
   "author=Leviathan",
   "author=Zwiffle",
-  "tag=turtlemap",
-  "tag=contest",
-  "tag=cave",
-  "tag=tech",
-  "tag=base",
-  "tag=classic",
+  "game=quake",
+  "link=[erc's SM Pick](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=278)",
+  "releasedate=2004-01-13",
   "startmap=q1tm3_hrimfaxi",
   "startmap=q1tm3_hrimfaxi2",
   "startmap=q1tm3_lev",
-  "startmap=q1tm3_zwiffle"
+  "startmap=q1tm3_zwiffle",
+  "title=Quake Turtlemap 3"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm3.zip",

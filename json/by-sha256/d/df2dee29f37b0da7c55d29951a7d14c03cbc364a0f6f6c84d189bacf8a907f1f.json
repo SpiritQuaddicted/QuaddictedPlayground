@@ -16,27 +16,15 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "df2dee29f37b0da7c55d29951a7d14c03cbc364a0f6f6c84d189bacf8a907f1f",
  "tags": [
-  "title=The Anomaly 2: Water",
-  "releasedate=2011-07-01",
-  "game=quake",
-  "commandline=-heapsize 64000 +max_edicts 2048 +r_wateralpha 0.3",
   "author=Digs",
-  "tag=large",
-  "tag=wizard",
-  "tag=metal",
-  "tag=bricks",
-  "tag=nonlinear",
-  "tag=puzzles",
-  "tag=chthon",
-  "tag=limits",
-  "tag=boss",
-  "tag=exploration",
-  "tag=water",
-  "tag=abstract",
-  "tag=experimental"
+  "commandline=-heapsize 64000 +max_edicts 2048 +r_wateralpha 0.3",
+  "game=quake",
+  "link=[The Abandoned Workshop](http://taw.duke4.net/2011/07/quake/the-anomaly-2-water/)",
+  "releasedate=2011-07-01",
+  "title=The Anomaly 2: Water"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs06.zip",

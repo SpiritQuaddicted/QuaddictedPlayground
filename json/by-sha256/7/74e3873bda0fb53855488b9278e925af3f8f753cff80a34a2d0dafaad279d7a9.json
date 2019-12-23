@@ -988,27 +988,20 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "74e3873bda0fb53855488b9278e925af3f8f753cff80a34a2d0dafaad279d7a9",
  "tags": [
-  "title=An Old, Old Evil",
-  "releasedate=2006-10-10",
-  "game=quake",
-  "commandline=-game anevil",
   "author=Dustin \"Tronyn\" Geeraert &amp; Murderous Martin",
-  "tag=small",
-  "tag=episode",
-  "tag=weapons",
-  "tag=monsters",
-  "tag=alpha",
-  "tag=hard",
-  "tag=medieval",
-  "startmap=prison",
-  "startmap=lagtown1",
-  "startmap=station2",
-  "startmap=ep2m2",
+  "commandline=-game anevil",
+  "game=quake",
+  "releasedate=2006-10-10",
+  "startmap=cavern1",
   "startmap=coven1",
-  "startmap=cavern1"
+  "startmap=ep2m2",
+  "startmap=lagtown1",
+  "startmap=prison",
+  "startmap=station2",
+  "title=An Old, Old Evil"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/anevilnew.zip",

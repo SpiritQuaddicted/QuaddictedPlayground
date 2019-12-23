@@ -28,27 +28,18 @@
  "install": {
   "extract": "{quake}/dd/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8d7ede6e224d4e4d194cd89202a2fd648bf7a51be16411e659a4a4ec78ce2fe6",
  "tags": [
-  "title=Death's Dominion",
-  "releasedate=1998-07-14",
-  "game=quake",
-  "commandline=-game dd",
   "author=Lethargy Software",
-  "tag=episode",
-  "tag=small",
-  "tag=medium",
-  "tag=base",
-  "tag=wizard",
-  "tag=medieval",
-  "tag=metal",
-  "tag=vastle",
-  "tag=hipnotic",
-  "tag=soa",
-  "tag=traps",
+  "commandline=-game dd",
   "dependency=hipnotic",
-  "startmap=start"
+  "game=quake",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=1998-07-14",
+  "startmap=start",
+  "title=Death's Dominion"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dd.zip",

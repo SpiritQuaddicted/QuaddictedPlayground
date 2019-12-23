@@ -20,20 +20,19 @@
  "install": {
   "extract": "{quake}/nehahra/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "5b22bfd52594ab3df4cb85aa6324c40d9f74cf46bf71eef477a142f466aa3345",
  "tags": [
-  "title=Invein",
-  "releasedate=2001-07-24",
-  "game=quake",
-  "commandline=-nehahra",
   "author=Iain Bruce",
-  "tag=large",
-  "tag=base",
-  "tag=nehahra",
-  "tag=original",
-  "tag=planetquake-map-of-the-week",
-  "dependency=nehahra"
+  "commandline=-nehahra",
+  "dependency=nehahra",
+  "game=quake",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=101)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev010724.html)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=invein)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=2001-07-24",
+  "title=Invein"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/invein.zip",

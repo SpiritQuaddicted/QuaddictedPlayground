@@ -32,22 +32,22 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177",
  "tags": [
-  "title=Speedmapping pack 10 - Unthemed",
-  "releasedate=2001-04-29",
-  "game=quake",
   "author=Aardappel",
   "author=Apollo",
   "author=Cybear",
   "author=Damaul",
   "author=Misyu",
-  "startmap=sm10_misyu",
-  "startmap=sm10_ap",
+  "game=quake",
+  "releasedate=2001-04-29",
   "startmap=sm10_aard",
+  "startmap=sm10_ap",
+  "startmap=sm10_bear",
   "startmap=sm10_dam",
-  "startmap=sm10_bear"
+  "startmap=sm10_misyu",
+  "title=Speedmapping pack 10 - Unthemed"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm10_pack.zip",

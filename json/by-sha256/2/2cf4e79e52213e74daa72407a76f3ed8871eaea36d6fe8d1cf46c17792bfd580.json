@@ -16,22 +16,16 @@
  "install": {
   "extract": "{quake}/lomgoat/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580",
  "tags": [
-  "title=Lomgoat",
-  "releasedate=1998-02-14",
-  "game=quake",
-  "commandline=-game lomgoat",
   "author=Lombard &amp; Goatlord",
-  "tag=small",
-  "tag=episode",
-  "tag=base",
-  "tag=medieval",
-  "tag=textures",
-  "tag=cavern",
+  "commandline=-game lomgoat",
+  "game=quake",
+  "releasedate=1998-02-14",
+  "startmap=db_tech",
   "startmap=start",
-  "startmap=db_tech"
+  "title=Lomgoat"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lomgoat.zip",

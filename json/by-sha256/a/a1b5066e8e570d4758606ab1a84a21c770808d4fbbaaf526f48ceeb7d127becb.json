@@ -44,25 +44,16 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "a1b5066e8e570d4758606ab1a84a21c770808d4fbbaaf526f48ceeb7d127becb",
  "tags": [
-  "title=The Snowy Dream",
-  "releasedate=2010-05-08",
-  "game=quake",
-  "commandline=-nehahra -game tsd",
   "author=vIE888",
-  "tag=medium",
-  "tag=episode",
-  "tag=nehahra",
-  "tag=base",
-  "tag=caverns",
-  "tag=snow",
-  "tag=spacemap",
-  "tag=void",
-  "tag=textures",
+  "commandline=-nehahra -game tsd",
   "dependency=nehahra",
-  "startmap=vxmas1"
+  "game=quake",
+  "releasedate=2010-05-08",
+  "startmap=vxmas1",
+  "title=The Snowy Dream"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tsd.zip",

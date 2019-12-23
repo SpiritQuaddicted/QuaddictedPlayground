@@ -44,21 +44,14 @@
  "install": {
   "extract": "{quake}/infectn/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "2a9f127cb005a5c0845a6169dfcc7c59527dcfbbc88e0619650d3393e0eaf59a",
  "tags": [
-  "title=Infection",
-  "releasedate=1997-12-18",
-  "game=quake",
-  "commandline=-game infectn",
   "author=Dia Westerteicher",
-  "tag=small",
-  "tag=base",
-  "tag=textures",
-  "tag=monsters",
-  "tag=dhell",
-  "tag=source",
-  "tag=skins"
+  "commandline=-game infectn",
+  "game=quake",
+  "releasedate=1997-12-18",
+  "title=Infection"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/infectn.zip",

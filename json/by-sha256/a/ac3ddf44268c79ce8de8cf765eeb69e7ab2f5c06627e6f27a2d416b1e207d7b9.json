@@ -16,17 +16,14 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "ac3ddf44268c79ce8de8cf765eeb69e7ab2f5c06627e6f27a2d416b1e207d7b9",
  "tags": [
-  "title=Crossfire",
-  "releasedate=1998-05-01",
-  "game=quake",
   "author=Peter Bisseker (tiddles)",
-  "tag=small",
-  "tag=wizard",
-  "tag=dm",
-  "startmap=cross"
+  "game=quake",
+  "releasedate=1998-05-01",
+  "startmap=cross",
+  "title=Crossfire"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cross_2.zip",

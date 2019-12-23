@@ -44,19 +44,17 @@
  "install": {
   "extract": "{quake}/retrojam1/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a",
  "tags": [
-  "title=Arlyeh Center for Heart Diseases",
-  "releasedate=2014-11-29",
-  "game=quake",
-  "commandline=-game retrojam1",
   "author=mfx",
-  "tag=medieval",
-  "tag=traps",
-  "tag=retro jam",
-  "tag=retrojam",
-  "dependency=retrojam1"
+  "commandline=-game retrojam1",
+  "dependency=retrojam1",
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61125)",
+  "link=[QuakeOne](http://quakeone.com/news/site-news/11263-map-jam-4-retro-jam-1-a.html)",
+  "releasedate=2014-11-29",
+  "title=Arlyeh Center for Heart Diseases"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retro_mfx_fix.zip",

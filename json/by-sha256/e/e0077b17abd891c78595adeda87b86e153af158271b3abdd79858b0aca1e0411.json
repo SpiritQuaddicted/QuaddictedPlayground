@@ -20,21 +20,17 @@
  "install": {
   "extract": "{quake}/housep/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "e0077b17abd891c78595adeda87b86e153af158271b3abdd79858b0aca1e0411",
  "tags": [
-  "title=House of Traps (Spider)",
-  "releasedate=1996-11-20",
-  "game=quake",
-  "commandline=-game housep",
   "author=Scott McNutt",
-  "tag=small",
-  "tag=wizard",
-  "tag=traps",
-  "tag=start",
-  "tag=monsters",
-  "tag=custom",
-  "startmap=enterhos"
+  "commandline=-game housep",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsh.htm#houstraps)",
+  "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
+  "releasedate=1996-11-20",
+  "startmap=enterhos",
+  "title=House of Traps (Spider)"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/housp.zip",

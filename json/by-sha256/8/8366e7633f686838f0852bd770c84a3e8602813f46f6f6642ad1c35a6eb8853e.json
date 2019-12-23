@@ -252,12 +252,9 @@
  "install": {
   "extract": "{quake}/id1/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e",
  "tags": [
-  "title=SM190 - Six textures",
-  "releasedate=2019-01-01",
-  "game=quake",
   "author=Digs",
   "author=Dumptruck",
   "author=Ing",
@@ -266,11 +263,13 @@
   "author=Naitelveni",
   "author=Newhouse",
   "author=Nyo",
-  "author=onetruepurple",
   "author=Pinchy",
   "author=Scrama",
   "author=Skacky",
   "author=Ukko",
+  "author=onetruepurple",
+  "game=quake",
+  "releasedate=2019-01-01",
   "startmap=sm190_digs",
   "startmap=sm190_dumptruck",
   "startmap=sm190_ing",
@@ -285,7 +284,8 @@
   "startmap=sm190_scrama",
   "startmap=sm190_skacky",
   "startmap=sm190_skacky2",
-  "startmap=sm190_ukko"
+  "startmap=sm190_ukko",
+  "title=SM190 - Six textures"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm190_pack.zip",

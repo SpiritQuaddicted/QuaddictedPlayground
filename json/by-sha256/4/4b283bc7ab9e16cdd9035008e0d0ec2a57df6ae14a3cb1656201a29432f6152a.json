@@ -32,21 +32,15 @@
  "install": {
   "extract": "{quake}/drastic/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "4b283bc7ab9e16cdd9035008e0d0ec2a57df6ae14a3cb1656201a29432f6152a",
  "tags": [
-  "title=Drastic Lodge",
-  "releasedate=1997-03-09",
-  "game=quake",
-  "commandline=-game drastic",
   "author=Mark Wheeler",
-  "tag=small",
-  "tag=mansion",
-  "tag=forest",
-  "tag=textures",
-  "tag=monsters",
-  "tag=weapons",
-  "tag=no exit"
+  "commandline=-game drastic",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsd2.htm#drasticv)",
+  "releasedate=1997-03-09",
+  "title=Drastic Lodge"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/drasticl.zip",

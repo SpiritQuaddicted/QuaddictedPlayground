@@ -204,21 +204,19 @@
  "install": {
   "extract": "{quake}/dig/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9",
  "tags": [
-  "title=The Dig",
-  "releasedate=2000-07-28",
-  "game=quake",
-  "commandline=-game dig",
   "author=Iain Bruce",
-  "tag=q3 gothic",
-  "tag=epic",
-  "tag=small",
-  "tag=base",
-  "tag=mine",
-  "tag=monsters",
-  "startmap=dig"
+  "commandline=-game dig",
+  "game=quake",
+  "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/10-aug-2000/thedig.php)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev000807.html)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=dig)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
+  "releasedate=2000-07-28",
+  "startmap=dig",
+  "title=The Dig"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dig.zip",

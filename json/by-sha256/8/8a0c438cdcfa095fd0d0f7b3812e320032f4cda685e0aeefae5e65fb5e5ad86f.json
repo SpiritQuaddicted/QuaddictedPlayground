@@ -256,20 +256,14 @@
  "install": {
   "extract": "{quake}/sm198/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8a0c438cdcfa095fd0d0f7b3812e320032f4cda685e0aeefae5e65fb5e5ad86f",
  "tags": [
-  "title=Speedmapping pack 198: 768^2",
-  "releasedate=2019-06-30",
-  "game=quake",
-  "commandline=-game sm198",
   "author=Artistical",
   "author=Elithium",
-  "author=fairweather",
   "author=Giftmacher",
   "author=Greenwood",
   "author=Ing-ing",
-  "author=ionous",
   "author=MortalMaxx",
   "author=Mugwump",
   "author=Nolcoz",
@@ -278,7 +272,12 @@
   "author=The Solipsist",
   "author=Zerosignal",
   "author=Zungryware",
-  "startmap=start",
+  "author=fairweather",
+  "author=ionous",
+  "commandline=-game sm198",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61748)",
+  "releasedate=2019-06-30",
   "startmap=sm198_artistical",
   "startmap=sm198_elithium",
   "startmap=sm198_fairweather",
@@ -293,7 +292,9 @@
   "startmap=sm198_qmaster",
   "startmap=sm198_solipsist",
   "startmap=sm198_zero",
-  "startmap=sm198_zungryware"
+  "startmap=sm198_zungryware",
+  "startmap=start",
+  "title=Speedmapping pack 198: 768^2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm198.zip",

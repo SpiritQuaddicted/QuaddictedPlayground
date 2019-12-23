@@ -76,23 +76,19 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95",
  "tags": [
-  "title=Speedmapping Pack 169 - Rubicon2 with a Quad",
-  "releasedate=2013-04-22",
-  "game=quake",
   "author=Drew",
   "author=FifthElephant",
-  "author=ijed",
   "author=Jackfapoff",
-  "author=negke",
   "author=Orbs",
   "author=RickyT23",
   "author=Scampie",
-  "tag=quoth",
-  "tag=bsp2",
-  "tag=rubicon",
+  "author=ijed",
+  "author=negke",
+  "game=quake",
+  "releasedate=2013-04-22",
   "startmap=sm169_drew",
   "startmap=sm169_fifthelephant",
   "startmap=sm169_ijed2",
@@ -101,7 +97,8 @@
   "startmap=sm169_orbs1",
   "startmap=sm169_orbs2",
   "startmap=sm169_rickyt23",
-  "startmap=sm169_scampie"
+  "startmap=sm169_scampie",
+  "title=Speedmapping Pack 169 - Rubicon2 with a Quad"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm169_pack.zip",

@@ -16,20 +16,17 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51",
  "tags": [
-  "title=Speedmapping pack 153 - Caught between slipgates",
-  "releasedate=2009-06-22",
-  "game=quake",
   "author=Drew",
   "author=Zwiffle",
-  "tag=quoth",
-  "tag=coagula",
-  "tag=void",
   "dependency=quoth",
+  "game=quake",
+  "releasedate=2009-06-22",
+  "startmap=sm153_drew",
   "startmap=sm153_zwiffle",
-  "startmap=sm153_drew"
+  "title=Speedmapping pack 153 - Caught between slipgates"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm153_pack.zip",

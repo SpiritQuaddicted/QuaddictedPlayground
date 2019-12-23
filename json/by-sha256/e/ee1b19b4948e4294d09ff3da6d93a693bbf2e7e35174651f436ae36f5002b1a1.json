@@ -20,24 +20,19 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "ee1b19b4948e4294d09ff3da6d93a693bbf2e7e35174651f436ae36f5002b1a1",
  "tags": [
-  "title=Breakfast at twilight",
-  "releasedate=2007-09-13",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=Hrimfaxi",
-  "tag=quoth",
-  "tag=knave",
-  "tag=huge",
-  "tag=epic",
-  "tag=large",
-  "tag=castle",
-  "tag=needstoberatedexcellent",
-  "tag=mustplay",
+  "commandline=-hipnotic -game quoth",
   "dependency=quoth",
-  "startmap=breakstart"
+  "game=quake",
+  "link=[Tronyn's Top 10: Elder World](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a4.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev071103.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "releasedate=2007-09-13",
+  "startmap=breakstart",
+  "title=Breakfast at twilight"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp3.zip",

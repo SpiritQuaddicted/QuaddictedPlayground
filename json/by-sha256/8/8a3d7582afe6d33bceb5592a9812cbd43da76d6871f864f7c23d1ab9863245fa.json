@@ -76,27 +76,17 @@
  "install": {
   "extract": "{quake}/hipnotic\\maps\\"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8a3d7582afe6d33bceb5592a9812cbd43da76d6871f864f7c23d1ab9863245fa",
  "tags": [
-  "title=The &quot;lost&quot; levels",
-  "releasedate=2016-11-13",
-  "game=quake",
-  "commandline=-hipnotic",
   "author=Gotshun",
-  "tag=episode",
-  "tag=small",
-  "tag=medium",
-  "tag=hipnotic",
-  "tag=soa",
-  "tag=armagon",
-  "tag=metal",
-  "tag=medieval",
-  "tag=base",
-  "tag=runic",
-  "tag=oldschool",
+  "commandline=-hipnotic",
   "dependency=hipnotic",
-  "startmap=q1map1"
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61373)",
+  "releasedate=2016-11-13",
+  "startmap=q1map1",
+  "title=The &quot;lost&quot; levels"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gotshun-never-released_levels.zip",

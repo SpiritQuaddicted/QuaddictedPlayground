@@ -40,20 +40,15 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46",
  "tags": [
-  "title=Cyberelic",
-  "releasedate=1999-02-14",
-  "game=quake",
   "author=Cyberelic (Ben Johns)",
-  "tag=small",
-  "tag=episode",
-  "tag=medieval",
-  "tag=dm",
-  "tag=broken_injector",
+  "game=quake",
+  "releasedate=1999-02-14",
   "startmap=cr1",
-  "startmap=crdm1"
+  "startmap=crdm1",
+  "title=Cyberelic"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cyberelic1.zip",

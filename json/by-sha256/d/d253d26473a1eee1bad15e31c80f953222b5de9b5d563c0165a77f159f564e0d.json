@@ -16,18 +16,15 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "d253d26473a1eee1bad15e31c80f953222b5de9b5d563c0165a77f159f564e0d",
  "tags": [
-  "title=Are you yet Living?",
-  "releasedate=2008-09-24",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=necros",
-  "tag=quoth",
-  "tag=knave",
-  "tag=medium",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "releasedate=2008-09-24",
+  "title=Are you yet Living?"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/chapter_necros2.zip",

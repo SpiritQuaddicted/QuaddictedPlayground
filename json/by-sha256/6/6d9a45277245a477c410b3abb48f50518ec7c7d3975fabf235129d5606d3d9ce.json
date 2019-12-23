@@ -12,18 +12,15 @@
  "install": {
   "extract": "{quake}/bad/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "6d9a45277245a477c410b3abb48f50518ec7c7d3975fabf235129d5606d3d9ce",
  "tags": [
-  "title=Installation of Disavowed",
-  "releasedate=1998-10-26",
-  "game=quake",
-  "commandline=-game bad",
   "author=Alex Andreu (Deathmonger)",
-  "tag=small",
-  "tag=base",
-  "tag=badpak",
-  "dependency=badpak"
+  "commandline=-game bad",
+  "dependency=badpak",
+  "game=quake",
+  "releasedate=1998-10-26",
+  "title=Installation of Disavowed"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm1m1.zip",

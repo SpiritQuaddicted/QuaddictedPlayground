@@ -68,22 +68,15 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "84a262cd840e957add537853551d4fdf565ebba7584cc23a94634f2616cafea9",
  "tags": [
-  "title=The Sword of Ares",
-  "releasedate=1998-06-04",
-  "game=quake",
-  "commandline=-game tsoa",
   "author=Simitar",
-  "tag=episode",
-  "tag=tc",
-  "tag=robots",
-  "tag=textures",
-  "tag=monsters",
-  "tag=small",
-  "tag=medium",
-  "startmap=start"
+  "commandline=-game tsoa",
+  "game=quake",
+  "releasedate=1998-06-04",
+  "startmap=start",
+  "title=The Sword of Ares"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tsoa.zip",

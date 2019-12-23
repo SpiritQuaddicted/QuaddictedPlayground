@@ -20,22 +20,16 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1",
  "tags": [
-  "title=Cartographer's Nightmare",
-  "releasedate=2014-07-03",
-  "game=quake",
-  "commandline=-game kpcn2014",
   "author=KillPixel",
-  "tag=horror",
-  "tag=base",
-  "tag=source",
-  "tag=unfinished",
-  "tag=large",
-  "tag=corridors",
-  "tag=limits",
-  "startmap=kpcn"
+  "commandline=-game kpcn2014",
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61047&start=29)",
+  "releasedate=2014-07-03",
+  "startmap=kpcn",
+  "title=Cartographer's Nightmare"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kpcn2014.zip",

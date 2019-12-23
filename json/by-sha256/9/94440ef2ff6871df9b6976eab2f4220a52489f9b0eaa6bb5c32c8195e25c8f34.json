@@ -112,16 +112,16 @@
  "install": {
   "extract": "{quake}/n3sp02/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "94440ef2ff6871df9b6976eab2f4220a52489f9b0eaa6bb5c32c8195e25c8f34",
  "tags": [
-  "title=Castle Necrosis (Extended Files)",
-  "releasedate=2001-07-24",
-  "game=quake",
-  "commandline=-game n3sp02",
   "author=necros",
+  "commandline=-game n3sp02",
   "dependency=n3sp02_13",
-  "startmap=n3sp02_13"
+  "game=quake",
+  "releasedate=2001-07-24",
+  "startmap=n3sp02_13",
+  "title=Castle Necrosis (Extended Files)"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/n3sp02_extd.zip",

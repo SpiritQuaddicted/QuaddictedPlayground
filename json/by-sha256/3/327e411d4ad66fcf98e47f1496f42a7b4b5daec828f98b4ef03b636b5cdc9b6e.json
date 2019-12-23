@@ -20,22 +20,17 @@
  "install": {
   "extract": "{quake}/xmas/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "327e411d4ad66fcf98e47f1496f42a7b4b5daec828f98b4ef03b636b5cdc9b6e",
  "tags": [
-  "title=Twisted Christmas",
-  "releasedate=1998-01-02",
-  "game=quake",
-  "commandline=-game xmas",
   "author=Twisted Matrix",
-  "tag=medium",
-  "tag=realism",
-  "tag=textures",
-  "tag=monsters",
-  "tag=christmas",
-  "tag=unique",
-  "tag=winter",
-  "startmap=start"
+  "commandline=-game xmas",
+  "game=quake",
+  "link=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=twx)",
+  "releasedate=1998-01-02",
+  "startmap=start",
+  "title=Twisted Christmas"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/twxfinal.zip",

@@ -20,17 +20,15 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615",
  "tags": [
-  "title=Back To Gloom Keep",
-  "releasedate=2009-04-28",
-  "game=quake",
-  "commandline=-quoth",
   "author=Ankh",
-  "tag=quoth",
-  "tag=remake",
-  "dependency=quoth"
+  "commandline=-quoth",
+  "dependency=quoth",
+  "game=quake",
+  "releasedate=2009-04-28",
+  "title=Back To Gloom Keep"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quoth.zip",

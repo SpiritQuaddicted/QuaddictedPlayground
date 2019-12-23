@@ -28,20 +28,20 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1f9c672005d74851c7f78791c11b97d50003bf63a593855cba0a8b79c6ad9979",
  "tags": [
-  "title=Speedmapping pack 12 - Unthemed",
-  "releasedate=2001-05-06",
-  "game=quake",
   "author=Aardappel",
   "author=Cybear",
   "author=NotoriousRay",
   "author=Scampie",
+  "game=quake",
+  "releasedate=2001-05-06",
+  "startmap=sm12_aard",
+  "startmap=sm12_bear",
   "startmap=sm12_ray",
   "startmap=sm12_scampie",
-  "startmap=sm12_aard",
-  "startmap=sm12_bear"
+  "title=Speedmapping pack 12 - Unthemed"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm12_pack.zip",

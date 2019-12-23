@@ -16,22 +16,16 @@
  "install": {
   "extract": "{quake}/mstalk/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "528f833feeeb15d559ffd8662e7f541bfc3ca27fd328d8ae5852f87474a5a393",
  "tags": [
-  "title=Midnight Stalker",
-  "releasedate=2013-05-11",
-  "game=quake",
-  "commandline=-game mstalk",
   "author=sock",
-  "tag=medium",
-  "tag=metal",
-  "tag=runic",
-  "tag=items",
-  "tag=source",
-  "tag=limits",
-  "tag=backst",
-  "startmap=mstalk"
+  "commandline=-game mstalk",
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=60931)",
+  "releasedate=2013-05-11",
+  "startmap=mstalk",
+  "title=Midnight Stalker"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mstalk1c.zip",

@@ -12,18 +12,15 @@
  "install": {
   "extract": "{quake}/badpak/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "892de7ab3497cb93096a76dbba15c9dbb753d2a687cf52a76e1bd9a8f48100d4",
  "tags": [
-  "title=Ih1m5",
-  "releasedate=1999-07-23",
-  "game=quake",
-  "commandline=-game badpak",
   "author=Ironhammer",
-  "tag=small",
-  "tag=base",
-  "tag=badpak",
-  "dependency=badpak"
+  "commandline=-game badpak",
+  "dependency=badpak",
+  "game=quake",
+  "releasedate=1999-07-23",
+  "title=Ih1m5"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ih1m5.zip",

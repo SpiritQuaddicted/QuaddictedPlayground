@@ -20,17 +20,17 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "4aba55f4f1e87f3fb030770aa12df349c6bcd9134ffa8242e51a6a2f6227d1fa",
  "tags": [
-  "title=Speedmapping pack 136 - Unthemed",
-  "releasedate=2007-10-15",
-  "game=quake",
   "author=Ankh",
   "author=Drew",
   "dependency=quoth",
+  "game=quake",
+  "releasedate=2007-10-15",
+  "startmap=sm136_ankh",
   "startmap=sm136_drew",
-  "startmap=sm136_ankh"
+  "title=Speedmapping pack 136 - Unthemed"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm136_pack.zip",

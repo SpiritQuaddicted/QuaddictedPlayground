@@ -20,20 +20,16 @@
  "install": {
   "extract": "{quake}/kaahoo/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5",
  "tags": [
-  "title=Castle Kaahoo (SM175)",
-  "releasedate=2014-06-10",
-  "game=quake",
-  "commandline=-game kaahoo +r_wateralpha 0.65",
   "author=sock",
-  "tag=medium",
-  "tag=heretic",
-  "tag=green",
-  "tag=koohoo",
-  "tag=speedmap",
-  "startmap=kaahoo"
+  "commandline=-game kaahoo +r_wateralpha 0.65",
+  "game=quake",
+  "link=[Author's writeup](http://www.simonoc.com/pages/design/sp/kaahoo.htm)",
+  "releasedate=2014-06-10",
+  "startmap=kaahoo",
+  "title=Castle Kaahoo (SM175)"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kaahoo1a.zip",

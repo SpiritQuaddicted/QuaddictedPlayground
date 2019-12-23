@@ -40,20 +40,15 @@
  "install": {
   "extract": "{quake}/drake/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "20c6a05f7c63a15f063f05a65ffbea62e4d194d5a54a0924264fe61c98bcf181",
  "tags": [
-  "title=Dry Sorrow",
-  "releasedate=2011-01-29",
-  "game=quake",
-  "commandline=-game drake",
   "author=Dustin \"Tronyn\" Geeraert",
-  "tag=small",
-  "tag=medieval",
-  "tag=mixtex",
-  "tag=egypt",
-  "tag=drake",
-  "dependency=drake"
+  "commandline=-game drake",
+  "dependency=drake",
+  "game=quake",
+  "releasedate=2011-01-29",
+  "title=Dry Sorrow"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/drysorrow.zip",

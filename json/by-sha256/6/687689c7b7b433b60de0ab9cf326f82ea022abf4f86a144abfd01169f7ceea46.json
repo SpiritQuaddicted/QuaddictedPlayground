@@ -44,24 +44,16 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "687689c7b7b433b60de0ab9cf326f82ea022abf4f86a144abfd01169f7ceea46",
  "tags": [
-  "title=The Gib Factory",
-  "releasedate=1997-02-01",
-  "game=quake",
-  "commandline=-game gibfact",
   "author=Ed Cope",
-  "tag=base",
-  "tag=ugly",
-  "tag=weird",
-  "tag=plain",
-  "tag=textures",
-  "tag=monsters",
-  "tag=medium",
-  "tag=factory",
-  "tag=weapons",
-  "tag=dm"
+  "commandline=-game gibfact",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsg.htm#gibfact)",
+  "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/g_i.htm)",
+  "releasedate=1997-02-01",
+  "title=The Gib Factory"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gibfact.zip",

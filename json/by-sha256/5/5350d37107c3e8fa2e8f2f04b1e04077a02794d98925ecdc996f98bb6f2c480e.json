@@ -32,18 +32,19 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "5350d37107c3e8fa2e8f2f04b1e04077a02794d98925ecdc996f98bb6f2c480e",
  "tags": [
-  "title=Speedmapping pack 46 - Swamp",
-  "releasedate=2003-08-23",
-  "game=quake",
   "author=Harb",
   "author=Scampie",
   "author=Starbuck",
-  "startmap=sm46_scampie",
+  "game=quake",
+  "link=[Func_msgboard](http://www.celephais.net/board/view_thread.php?id=6651)",
+  "releasedate=2003-08-23",
+  "startmap=Sm46_starbuck",
   "startmap=sm46_harb",
-  "startmap=Sm46_starbuck"
+  "startmap=sm46_scampie",
+  "title=Speedmapping pack 46 - Swamp"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm46.zip",

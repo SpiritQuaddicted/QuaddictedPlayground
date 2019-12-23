@@ -16,22 +16,15 @@
  "install": {
   "extract": "{quake}/hipnotic/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "6308785a00050879ca77a0146a88677e4ff51caa0113a2e36c8f5cb20c88789d",
  "tags": [
-  "title=brt08hip",
-  "releasedate=2002-01-22",
-  "game=quake",
-  "commandline=-hipnotic",
   "author=QBrt",
-  "tag=small",
-  "tag=medieval",
-  "tag=hipnotic",
-  "tag=bricks",
-  "tag=blue",
-  "tag=red",
-  "tag=soa",
-  "dependency=hipnotic"
+  "commandline=-hipnotic",
+  "dependency=hipnotic",
+  "game=quake",
+  "releasedate=2002-01-22",
+  "title=brt08hip"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/brt08hip.zip",

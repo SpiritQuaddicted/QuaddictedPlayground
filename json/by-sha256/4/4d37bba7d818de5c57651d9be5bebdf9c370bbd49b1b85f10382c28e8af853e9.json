@@ -32,19 +32,14 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9",
  "tags": [
-  "title=Hello",
-  "releasedate=1996-10-10",
-  "game=quake",
   "author=Kevin Rohling",
-  "tag=small",
-  "tag=mixtex",
-  "tag=lava",
-  "tag=source",
-  "tag=dark",
-  "startmap=level"
+  "game=quake",
+  "releasedate=1996-10-10",
+  "startmap=level",
+  "title=Hello"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rohling.zip",

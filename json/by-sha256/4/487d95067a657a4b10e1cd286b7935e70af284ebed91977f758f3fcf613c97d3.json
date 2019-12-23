@@ -20,24 +20,16 @@
  "install": {
   "extract": "{quake}/ad/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3",
  "tags": [
-  "title=Threat Assessment",
-  "releasedate=2017-08-13",
-  "game=quake",
-  "commandline=-game ad",
   "author=Lane Powell",
-  "tag=small",
-  "tag=metal",
-  "tag=base",
-  "tag=ad space",
-  "tag=void",
-  "tag=limits",
-  "tag=arcanedimensions",
-  "tag=coagula",
-  "tag=rubicon",
-  "dependency=ad_v1_50final"
+  "commandline=-game ad",
+  "dependency=ad_v1_50final",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61499)",
+  "releasedate=2017-08-13",
+  "title=Threat Assessment"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lpqsp2.zip",

@@ -32,20 +32,20 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "d89e7edaee633547ef5fc824e2e22cc5bdde6022191dec2b01ac1cb486ee22ef",
  "tags": [
-  "title=Speedmapping pack 105 - What if two maps mated",
-  "releasedate=2005-09-26",
-  "game=quake",
   "author=Drew",
+  "author=Tron",
   "author=generic",
   "author=negke",
-  "author=Tron",
-  "startmap=sm105_generic",
+  "game=quake",
+  "releasedate=2005-09-26",
   "startmap=sm105_drew",
+  "startmap=sm105_generic",
+  "startmap=sm105_neg!ke",
   "startmap=sm105_tron",
-  "startmap=sm105_neg!ke"
+  "title=Speedmapping pack 105 - What if two maps mated"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm105_pack.zip",

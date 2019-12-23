@@ -16,18 +16,17 @@
  "install": {
   "extract": "{quake}/retrojam1/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1c0e7ef2a335f6654e8a227209e4e8bbcedfba123da209850072f197c837f20a",
  "tags": [
-  "title=Dysnystaxis (...A Chance Meeting With Somnus)",
-  "releasedate=2014-11-25",
-  "game=quake",
-  "commandline=-game retrojam1",
   "author=Skacky",
-  "tag=small",
-  "tag=medieval",
-  "tag=retrojam",
-  "dependency=retrojam1"
+  "commandline=-game retrojam1",
+  "dependency=retrojam1",
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61125)",
+  "link=[QuakeOne](http://quakeone.com/news/site-news/11263-map-jam-4-retro-jam-1-a.html)",
+  "releasedate=2014-11-25",
+  "title=Dysnystaxis (...A Chance Meeting With Somnus)"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam1_skacky_b.zip",

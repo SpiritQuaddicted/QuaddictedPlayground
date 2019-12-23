@@ -24,22 +24,15 @@
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491",
  "tags": [
-  "title=Tormentarium",
-  "releasedate=2012-09-02",
-  "game=quake",
-  "commandline=-game torro",
   "author=Madfox",
-  "tag=large",
-  "tag=metal",
-  "tag=industrial",
-  "tag=machines",
-  "tag=models",
-  "tag=pipes",
-  "tag=sewer",
-  "startmap=tormentarium"
+  "commandline=-game torro",
+  "game=quake",
+  "releasedate=2012-09-02",
+  "startmap=tormentarium",
+  "title=Tormentarium"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/torment.zip",

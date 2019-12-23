@@ -24,24 +24,16 @@
  "install": {
   "extract": "{quake}/ad/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "ee613d06baf148ba8ac15571950e0740a49e2a9557d06928baee051721783b91",
  "tags": [
-  "title=The Tenacious Tentacle",
-  "releasedate=2018-02-10",
-  "game=quake",
-  "commandline=-game ad",
   "author=sock",
-  "tag=small",
-  "tag=ad",
-  "tag=100b",
-  "tag=metal",
-  "tag=canyon",
-  "tag=lava",
-  "tag=source",
-  "tag=arcanedimensions",
+  "commandline=-game ad",
   "dependency=ad_v1_70final",
-  "dependency=ad_v1_70patch1"
+  "dependency=ad_v1_70patch1",
+  "game=quake",
+  "releasedate=2018-02-10",
+  "title=The Tenacious Tentacle"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_b100_sock.zip",

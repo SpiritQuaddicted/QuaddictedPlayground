@@ -20,21 +20,18 @@
  "install": {
   "extract": "{quake}/hipnotic/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "cf3072498ee371b48b2c3ebf088e998fe2341a2c58d87a1d8a6c0a208afb8d70",
  "tags": [
-  "title=Power Plant",
-  "releasedate=1997-08-23",
-  "game=quake",
-  "commandline=-hipnotic",
   "author=Bryan L. aka Mungo",
-  "tag=base",
-  "tag=mp1",
-  "tag=medium",
-  "tag=soa",
-  "tag=hipnotic",
-  "tag=demo",
-  "dependency=hipnotic"
+  "commandline=-hipnotic",
+  "dependency=hipnotic",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsm2.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "releasedate=1997-08-23",
+  "title=Power Plant"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mungo.zip",

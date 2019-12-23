@@ -112,30 +112,19 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3",
  "tags": [
-  "title=The Living End &amp; Elder World Waystation",
-  "releasedate=2008-08-18",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=necros",
-  "tag=quoth",
-  "tag=doom 2 map29",
-  "tag=base",
-  "tag=space",
-  "tag=ikbase",
-  "tag=m",
-  "tag=mustplay",
-  "tag=mini pack",
-  "tag=underground",
-  "tag=lava cava",
-  "tag=unreal",
-  "tag=doom",
-  "tag=rtgnosis",
+  "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "game=quake",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080904.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
+  "releasedate=2008-08-18",
+  "startmap=ne_doom",
   "startmap=ne_lend",
-  "startmap=ne_doom"
+  "title=The Living End &amp; Elder World Waystation"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_lend_doom.zip",

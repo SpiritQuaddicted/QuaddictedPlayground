@@ -32,25 +32,16 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30",
  "tags": [
-  "title=Sul's Dark Tower &amp; Pit of Damnation",
-  "releasedate=1996-11-30",
-  "game=quake",
-  "commandline=-game sul01",
   "author=Sul",
-  "tag=medium",
-  "tag=pyramid",
-  "tag=stone",
-  "tag=egyptian",
-  "tag=start map",
-  "tag=puzzle",
-  "tag=non linear",
-  "tag=exploration",
-  "tag=traps",
+  "commandline=-game sul01",
+  "game=quake",
+  "releasedate=1996-11-30",
   "startmap=sul0",
-  "startmap=sul1"
+  "startmap=sul1",
+  "title=Sul's Dark Tower &amp; Pit of Damnation"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sul01.zip",

@@ -16,22 +16,20 @@
  "install": {
   "extract": "{quake}/guard/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1dc0b1728cf819b9a9361d4e24136699ed259bb5ba8d09ada0e41d8d36d3d798",
  "tags": [
-  "title=The Guardhouse",
-  "releasedate=1996-11-17",
-  "game=quake",
-  "commandline=-game guard",
   "author=Andrew Smith",
-  "tag=medium",
-  "tag=runic",
-  "tag=start",
-  "tag=metal",
-  "tag=cave",
-  "tag=cavern",
-  "tag=traps",
-  "startmap=epoch"
+  "commandline=-game guard",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsg.htm#guard)",
+  "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
+  "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/g_i.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "releasedate=1996-11-17",
+  "startmap=epoch",
+  "title=The Guardhouse"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/guard.zip",

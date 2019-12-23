@@ -28,20 +28,17 @@
  "install": {
   "extract": "{quake}/raptors/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9",
  "tags": [
-  "title=Raptors!",
-  "releasedate=2001-05-06",
-  "game=quake",
-  "commandline=-game raptors",
   "author=Andy \"ajay\" Simpson",
-  "tag=episode",
-  "tag=realism",
-  "tag=dinosaurs",
-  "tag=weapons",
-  "tag=monsters",
-  "startmap=start"
+  "commandline=-game raptors",
+  "game=quake",
+  "link=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=raptors)",
+  "releasedate=2001-05-06",
+  "startmap=start",
+  "title=Raptors!"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rapv20.zip",

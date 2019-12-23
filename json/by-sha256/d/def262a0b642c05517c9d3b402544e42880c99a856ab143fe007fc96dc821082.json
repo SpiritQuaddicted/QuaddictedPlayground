@@ -32,21 +32,20 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082",
  "tags": [
-  "title=Speedmapping pack 24 - Metal at night",
-  "releasedate=2001-07-15",
-  "game=quake",
   "author=Aardappel",
   "author=NaNe",
-  "author=than",
   "author=XeNoN",
-  "tag=horde",
+  "author=than",
+  "game=quake",
+  "releasedate=2001-07-15",
+  "startmap=sm24_aard",
+  "startmap=sm24_nane",
   "startmap=sm24_than",
   "startmap=sm24_xenon",
-  "startmap=sm24_nane",
-  "startmap=sm24_aard"
+  "title=Speedmapping pack 24 - Metal at night"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm24_pack.zip",

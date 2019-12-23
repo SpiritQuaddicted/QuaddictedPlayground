@@ -16,19 +16,16 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef",
  "tags": [
-  "title=Quarantine",
-  "releasedate=2013-04-09",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=RickyT23",
-  "tag=medium",
-  "tag=base",
-  "tag=glass",
-  "tag=quoth",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "link=[func](http://www.celephais.net/board/view_thread.php?id=60921)",
+  "releasedate=2013-04-09",
+  "title=Quarantine"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quarantine02.zip",

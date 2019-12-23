@@ -64,26 +64,22 @@
  "install": {
   "extract": "{quake}/id1/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4",
  "tags": [
-  "title=Zombie Jam 2",
-  "releasedate=2018-06-10",
-  "game=quake",
   "author=Giftmacher",
+  "author=Zombie",
   "author=mukor",
   "author=scar3crow",
   "author=sock",
-  "author=Zombie",
-  "tag=small",
-  "tag=speedmap",
-  "tag=base",
-  "tag=egyptian",
+  "game=quake",
+  "releasedate=2018-06-10",
   "startmap=zjam2_giftmacher",
   "startmap=zjam2_muk",
   "startmap=zjam2_scar3crow",
   "startmap=zjam2_sock",
-  "startmap=zjam2_zombie"
+  "startmap=zjam2_zombie",
+  "title=Zombie Jam 2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zjam2.zip",

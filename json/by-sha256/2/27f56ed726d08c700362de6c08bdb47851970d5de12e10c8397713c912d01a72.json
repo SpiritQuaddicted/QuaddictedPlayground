@@ -264,23 +264,20 @@
  "install": {
   "extract": "{quake}/id1/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "27f56ed726d08c700362de6c08bdb47851970d5de12e10c8397713c912d01a72",
  "tags": [
-  "title=SM189 - DOOM / Satanic Mechanisms",
-  "releasedate=2018-12-10",
-  "game=quake",
   "author=Ing-ing",
-  "author=ish",
-  "author=nyoeieoyn",
-  "author=onetruepurple",
   "author=Pinchy",
   "author=Rhoq",
   "author=Shambler",
   "author=TBA143",
+  "author=ish",
+  "author=nyoeieoyn",
+  "author=onetruepurple",
   "author=ww",
-  "tag=doom",
-  "tag=external textures",
+  "game=quake",
+  "releasedate=2018-12-10",
   "startmap=sm189_ing",
   "startmap=sm189_ish",
   "startmap=sm189_nyo",
@@ -289,7 +286,8 @@
   "startmap=sm189_rhoq",
   "startmap=sm189_shamb",
   "startmap=sm189_tba143",
-  "startmap=sm189_ww"
+  "startmap=sm189_ww",
+  "title=SM189 - DOOM / Satanic Mechanisms"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm189_pack.zip",

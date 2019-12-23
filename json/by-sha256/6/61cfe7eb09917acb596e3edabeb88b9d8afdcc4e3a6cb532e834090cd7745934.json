@@ -32,21 +32,15 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934",
  "tags": [
-  "title=The Boss",
-  "releasedate=1997-01-29",
-  "game=quake",
-  "commandline=-game chthon",
   "author=Tekno Tom",
-  "tag=small",
-  "tag=mixtex",
-  "tag=chthon",
-  "tag=crap",
-  "tag=progs",
-  "tag=boss",
-  "startmap=boss"
+  "commandline=-game chthon",
+  "game=quake",
+  "releasedate=1997-01-29",
+  "startmap=boss",
+  "title=The Boss"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/boss.zip",

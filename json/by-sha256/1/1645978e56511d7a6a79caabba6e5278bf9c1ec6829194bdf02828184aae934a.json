@@ -60,23 +60,15 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1645978e56511d7a6a79caabba6e5278bf9c1ec6829194bdf02828184aae934a",
  "tags": [
-  "title=10,000 Feet Below",
-  "releasedate=2012-11-23",
-  "game=quake",
-  "commandline=-quoth -game quoth",
   "author=Fern (aka Fr3n)",
-  "tag=quoth",
-  "tag=underground",
-  "tag=temple",
-  "tag=medium",
-  "tag=textures",
-  "tag=persian",
-  "tag=caverns",
-  "tag=limits",
-  "dependency=quoth"
+  "commandline=-quoth -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "releasedate=2012-11-23",
+  "title=10,000 Feet Below"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dom3m1.zip",

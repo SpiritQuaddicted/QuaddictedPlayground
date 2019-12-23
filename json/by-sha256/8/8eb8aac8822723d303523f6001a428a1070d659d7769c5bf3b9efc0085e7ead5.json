@@ -52,23 +52,15 @@
  "install": {
   "extract": "{quake}/escape/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "8eb8aac8822723d303523f6001a428a1070d659d7769c5bf3b9efc0085e7ead5",
  "tags": [
-  "title=Escape",
-  "releasedate=1999-10-17",
-  "game=quake",
-  "commandline=-game escape",
   "author=The Harb!ngeR of Fish",
-  "tag=small",
-  "tag=base",
-  "tag=ikbase",
-  "tag=episode",
-  "tag=boss",
-  "tag=prison",
-  "tag=rats",
-  "tag=fish",
-  "startmap=harbstar"
+  "commandline=-game escape",
+  "game=quake",
+  "releasedate=1999-10-17",
+  "startmap=harbstar",
+  "title=Escape"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/escape.zip",

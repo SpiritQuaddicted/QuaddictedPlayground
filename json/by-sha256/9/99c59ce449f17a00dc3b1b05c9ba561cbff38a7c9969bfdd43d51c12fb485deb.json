@@ -28,22 +28,18 @@
  "install": {
   "extract": "{quake}/ad/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "99c59ce449f17a00dc3b1b05c9ba561cbff38a7c9969bfdd43d51c12fb485deb",
  "tags": [
-  "title=Grendel's Blade",
-  "releasedate=2018-05-28",
-  "game=quake",
-  "commandline=-game ad",
   "author=sock",
-  "tag=dm4",
-  "tag=arcanedimensions",
-  "tag=runic",
-  "tag=metal",
-  "tag=vertical",
+  "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
-  "startmap=ad_grendel"
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61595)",
+  "releasedate=2018-05-28",
+  "startmap=ad_grendel",
+  "title=Grendel's Blade"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_grendel1h.zip",

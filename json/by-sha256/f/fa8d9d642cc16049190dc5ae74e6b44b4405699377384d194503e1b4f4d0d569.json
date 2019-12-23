@@ -20,20 +20,16 @@
  "install": {
   "extract": "{quake}/babel/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "fa8d9d642cc16049190dc5ae74e6b44b4405699377384d194503e1b4f4d0d569",
  "tags": [
-  "title=Tower of Babel",
-  "releasedate=1996-10-27",
-  "game=quake",
-  "commandline=-game babel",
   "author=Marc Fontaine",
-  "tag=small",
-  "tag=doom",
-  "tag=cyberdemon",
-  "tag=boss",
-  "tag=arena",
-  "tag=remake"
+  "commandline=-game babel",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
+  "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
+  "releasedate=1996-10-27",
+  "title=Tower of Babel"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/babel.zip",

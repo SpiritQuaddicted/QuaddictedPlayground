@@ -16,31 +16,17 @@
  "install": {
   "extract": "{quake}/wicked/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "d1fd80b5f6a94c99a51b8c082e3417948fa5c20071b37a5b5f3580be246b8ec9",
  "tags": [
-  "title=Nyarlathotep",
-  "releasedate=2013-12-11",
-  "game=quake",
-  "commandline=-game wicked",
   "author=Dustin \"Tronyn\" Geeraert",
-  "tag=experimental",
-  "tag=vertical",
-  "tag=blood",
-  "tag=gravity",
-  "tag=egyptian",
-  "tag=knave",
-  "tag=medium",
-  "tag=flesh",
-  "tag=drake",
-  "tag=hard",
-  "tag=temple",
-  "tag=limits",
-  "tag=bsp2",
-  "tag=unique",
+  "commandline=-game wicked",
   "dependency=something_wicked",
+  "game=quake",
+  "releasedate=2013-12-11",
   "startmap=nyar",
-  "startmap=nyar2"
+  "startmap=nyar2",
+  "title=Nyarlathotep"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/nyarlathotep.zip",

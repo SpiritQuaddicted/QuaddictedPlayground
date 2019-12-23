@@ -500,21 +500,15 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "89bc2d086a3a79388a91f8a62abfb77532ba599b81b8c34e5968d438848a934b",
  "tags": [
-  "title=The Alkado Adventure",
-  "releasedate=1998-09-05",
-  "game=quake",
-  "commandline=-game Alkado",
   "author=Alkado",
-  "tag=base",
-  "tag=episode",
-  "tag=small",
-  "tag=custom textures",
-  "tag=weapons",
-  "tag=skins",
-  "startmap=spider"
+  "commandline=-game Alkado",
+  "game=quake",
+  "releasedate=1998-09-05",
+  "startmap=spider",
+  "title=The Alkado Adventure"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alkado.zip",

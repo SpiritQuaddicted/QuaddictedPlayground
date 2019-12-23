@@ -52,21 +52,16 @@
  "install": {
   "extract": "{quake}/thtc/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "d49063a85260aa32b8bc541942e0f80410413ae33d71a91f8d5f70aa413c079d",
  "tags": [
-  "title=The Hell That's Coming",
-  "releasedate=2014-11-14",
-  "game=quake",
-  "commandline=-game thtc",
   "author=WarrenM",
-  "tag=medieval",
-  "tag=limits",
-  "tag=medium",
-  "tag=castle",
-  "tag=cave",
-  "tag=monsters",
-  "startmap=TheHellThatsComing"
+  "commandline=-game thtc",
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61104)",
+  "releasedate=2014-11-14",
+  "startmap=TheHellThatsComing",
+  "title=The Hell That's Coming"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/thtc.zip",

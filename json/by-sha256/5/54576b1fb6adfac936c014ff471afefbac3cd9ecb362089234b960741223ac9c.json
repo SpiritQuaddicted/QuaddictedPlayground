@@ -40,27 +40,22 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "54576b1fb6adfac936c014ff471afefbac3cd9ecb362089234b960741223ac9c",
  "tags": [
-  "title=Speedmapping pack 173 - Quake The Way Id Did",
-  "releasedate=2013-12-19",
-  "game=quake",
   "author=Cocerello",
   "author=digs",
   "author=doomer",
   "author=skacky",
-  "tag=cocerello",
-  "tag=digs",
-  "tag=doomer",
-  "tag=skacky",
-  "tag=qtwid",
-  "tag=quoth",
   "dependency=quoth",
+  "game=quake",
+  "link=[func](http://www.celephais.net/board/view_thread.php?id=60984)",
+  "releasedate=2013-12-19",
   "startmap=sm173_coce",
   "startmap=sm173_digs",
   "startmap=sm173_doomer",
-  "startmap=sm173_skacky"
+  "startmap=sm173_skacky",
+  "title=Speedmapping pack 173 - Quake The Way Id Did"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm173_pack.zip",

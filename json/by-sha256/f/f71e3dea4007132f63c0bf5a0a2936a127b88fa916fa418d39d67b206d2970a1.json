@@ -44,21 +44,17 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "f71e3dea4007132f63c0bf5a0a2936a127b88fa916fa418d39d67b206d2970a1",
  "tags": [
-  "title=Call a Plumber",
-  "releasedate=1996-11-14",
-  "game=quake",
-  "commandline=-game plumber",
   "author=Gyro Gearloose",
-  "tag=small",
-  "tag=wizard",
-  "tag=green",
-  "tag=swamp",
-  "tag=monsters",
-  "tag=cave",
-  "tag=cavern"
+  "commandline=-game plumber",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsp1.htm#plumber)",
+  "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
+  "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
+  "releasedate=1996-11-14",
+  "title=Call a Plumber"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/plumber.zip",

@@ -20,20 +20,16 @@
  "install": {
   "extract": "{quake}/ad/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "e9b3856f29d5a76f6c185de1d16e8d2e183ddf556913a1ba952d52db52b3ce4c",
  "tags": [
-  "title=Trench Foot",
-  "releasedate=2018-09-08",
-  "game=quake",
-  "commandline=-game ad",
   "author=muk0r",
-  "tag=small",
-  "tag=maya",
-  "tag=koohoo",
-  "tag=limits",
-  "tag=arcanedimensions",
-  "dependency=ad_v1_70final"
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61627)",
+  "releasedate=2018-09-08",
+  "title=Trench Foot"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_muksp1.zip",

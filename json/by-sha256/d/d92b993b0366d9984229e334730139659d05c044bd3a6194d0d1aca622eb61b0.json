@@ -16,23 +16,18 @@
  "install": {
   "extract": "{quake}/contract/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0",
  "tags": [
-  "title=Contract Revoked",
-  "releasedate=2002-06-15",
-  "game=quake",
-  "commandline=-game contract",
   "author=Kell",
-  "tag=knave",
-  "tag=episode",
-  "tag=kell",
-  "tag=chthon",
-  "tag=classic",
-  "tag=medium",
-  "tag=mustplay",
-  "tag=planetquake-map-of-the-week",
-  "startmap=start"
+  "commandline=-game contract",
+  "game=quake",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=revok)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/hofcontractrevoked.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "releasedate=2002-06-15",
+  "startmap=start",
+  "title=Contract Revoked"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/contract.zip",

@@ -20,24 +20,18 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "ba1865cb8401ff0bfbec2933ec981dfc3c3090747b6d03a1daabb368afddd98c",
  "tags": [
-  "title=Bastion of the Underworld",
-  "releasedate=2004-05-20",
-  "game=quake",
-  "commandline=-game bastion",
   "author=Kinn",
-  "tag=quake3",
-  "tag=huge",
-  "tag=epic",
-  "tag=classic",
-  "tag=castle",
-  "tag=mustplay",
-  "tag=hordes",
-  "tag=monsters",
-  "tag=q3",
-  "startmap=bastion"
+  "commandline=-game bastion",
+  "game=quake",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=50)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev040522.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "releasedate=2004-05-20",
+  "startmap=bastion",
+  "title=Bastion of the Underworld"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kinn_bastion.zip",

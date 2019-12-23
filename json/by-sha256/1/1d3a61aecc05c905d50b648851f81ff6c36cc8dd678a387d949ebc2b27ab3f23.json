@@ -20,21 +20,18 @@
  "install": {
   "extract": "{quake}/sm36/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23",
  "tags": [
-  "title=Subterranean Siege",
-  "releasedate=2002-10-08",
-  "game=quake",
-  "commandline=-game sm36",
   "author=Misyu",
-  "author=necros",
   "author=Vigil",
   "author=Xen",
-  "tag=base",
-  "tag=chainmap",
-  "tag=large",
-  "startmap=sm36"
+  "author=necros",
+  "commandline=-game sm36",
+  "game=quake",
+  "releasedate=2002-10-08",
+  "startmap=sm36",
+  "title=Subterranean Siege"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm36.zip",

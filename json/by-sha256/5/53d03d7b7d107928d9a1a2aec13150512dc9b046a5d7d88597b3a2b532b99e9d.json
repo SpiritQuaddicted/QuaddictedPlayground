@@ -16,18 +16,18 @@
  "install": {
   "extract": "{quake}/hipnotic/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "53d03d7b7d107928d9a1a2aec13150512dc9b046a5d7d88597b3a2b532b99e9d",
  "tags": [
-  "title=Horripalatia",
-  "releasedate=1997-09-09",
-  "game=quake",
-  "commandline=-hipnotic",
   "author=Noel Weer",
-  "tag=medium",
-  "tag=metal",
-  "tag=hipnotic",
-  "dependency=hipnotic"
+  "commandline=-hipnotic",
+  "dependency=hipnotic",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsh.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "releasedate=1997-09-09",
+  "title=Horripalatia"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/horrid.zip",

@@ -36,23 +36,23 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "b2ef6bc02bfca87bf6035f505ef9570da4cab8437f74259e2d4115176fdaa82e",
  "tags": [
-  "title=Speedmapping pack 111 - Unthemed",
-  "releasedate=2005-11-21",
-  "game=quake",
   "author=Drew",
   "author=Hrimfaxi",
-  "author=negke",
-  "author=Trinca",
   "author=Spirit",
-  "startmap=sm111_drew",
+  "author=Trinca",
+  "author=negke",
+  "game=quake",
+  "releasedate=2005-11-21",
   "startmap=sm110_trinca",
-  "startmap=sm111_trinca",
-  "startmap=sm111_spirit",
+  "startmap=sm111_drew",
+  "startmap=sm111_hrim",
   "startmap=sm111_neg!ke",
-  "startmap=sm111_hrim"
+  "startmap=sm111_spirit",
+  "startmap=sm111_trinca",
+  "title=Speedmapping pack 111 - Unthemed"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm111_pack.zip",

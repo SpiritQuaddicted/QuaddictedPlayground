@@ -20,21 +20,16 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "e020114cc0d7b089f68695fd5f2be9cd26207e4d68699ceafa9639a422bc5f31",
  "tags": [
-  "title=Enter Sleepgate",
-  "releasedate=2017-10-01",
-  "game=quake",
-  "commandline=-game quoth -quoth",
   "author=SgtStabStabs",
-  "tag=medium",
-  "tag=base",
-  "tag=quoth",
-  "tag=realism",
-  "tag=quake2",
-  "tag=textures",
-  "dependency=quoth2pt2full_2"
+  "commandline=-game quoth -quoth",
+  "dependency=quoth2pt2full_2",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61515)",
+  "releasedate=2017-10-01",
+  "title=Enter Sleepgate"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sleepgate.zip",

@@ -28,28 +28,18 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "523f76950ed71444d879504d47dfa97c8f92d07a9906176d314a1241bbaf7e4d",
  "tags": [
-  "title=For Love of Evil",
-  "releasedate=2010-01-01",
-  "game=quake",
-  "commandline=-game hrim_sp4",
   "author=Hrimfaxi",
-  "tag=keep",
-  "tag=stronghold",
-  "tag=medieval",
-  "tag=fortress",
-  "tag=infernal",
-  "tag=space",
-  "tag=turtlemaps",
-  "tag=large",
-  "tag=traps",
-  "tag=start",
-  "startmap=start",
+  "commandline=-game hrim_sp4",
+  "game=quake",
+  "releasedate=2010-01-01",
   "startmap=brownie",
   "startmap=loveevil",
-  "startmap=void"
+  "startmap=start",
+  "startmap=void",
+  "title=For Love of Evil"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp4.zip",

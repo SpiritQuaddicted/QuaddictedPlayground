@@ -16,29 +16,19 @@
  "install": {
   "extract": "{quake}/shadows/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "831806d2a176f4e2d48769c5e07859ad0059cd5d15c12c12e5e84e902357983e",
  "tags": [
-  "title=In The Shadows [Demo v1.0]",
-  "releasedate=2012-12-10",
-  "game=quake",
-  "commandline=-game shadows",
   "author=sock",
-  "tag=stealth",
-  "tag=small",
-  "tag=medium",
-  "tag=textures",
-  "tag=monsters",
-  "tag=items",
-  "tag=secrets",
-  "tag=limits",
-  "tag=story",
-  "tag=medieval",
-  "tag=remake",
-  "tag=unique",
-  "startmap=start",
+  "commandline=-game shadows",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=60875)",
+  "link=[ModDB](http://www.moddb.com/mods/its)",
+  "releasedate=2012-12-10",
   "startmap=s1m1",
-  "startmap=s1m2"
+  "startmap=s1m2",
+  "startmap=start",
+  "title=In The Shadows [Demo v1.0]"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/its_demo_v1.zip",

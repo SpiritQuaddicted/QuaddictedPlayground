@@ -20,21 +20,15 @@
  "install": {
   "extract": "{quake}/digs01/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "ebafdee1e030a86e52d07b951b58c2a0bc01416415f6d738cad6032abddfd276",
  "tags": [
-  "title=Digs01",
-  "releasedate=2006-05-22",
-  "game=quake",
-  "commandline=-game digs01",
   "author=Digs",
-  "tag=medieval",
-  "tag=castle",
-  "tag=episode",
-  "tag=small",
-  "tag=medium",
-  "tag=oldschool",
-  "startmap=start",
+  "commandline=-game digs01",
+  "game=quake",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev070804b.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=2006-05-22",
   "startmap=d1",
   "startmap=d2",
   "startmap=d3",
@@ -42,7 +36,9 @@
   "startmap=d5",
   "startmap=d6",
   "startmap=d7",
-  "startmap=ds"
+  "startmap=ds",
+  "startmap=start",
+  "title=Digs01"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs01.zip",

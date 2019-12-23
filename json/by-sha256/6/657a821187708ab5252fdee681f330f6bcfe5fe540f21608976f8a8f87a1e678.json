@@ -20,19 +20,17 @@
  "install": {
   "extract": "{quake}/atf/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "657a821187708ab5252fdee681f330f6bcfe5fe540f21608976f8a8f87a1e678",
  "tags": [
-  "title=After The Fall",
-  "releasedate=1997-12-10",
-  "game=quake",
-  "commandline=-game atf",
   "author=ATF Team",
-  "tag=tc",
-  "tag=base",
-  "tag=episode",
-  "tag=realism",
-  "startmap=start"
+  "commandline=-game atf",
+  "game=quake",
+  "link=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=atf)",
+  "releasedate=1997-12-10",
+  "startmap=start",
+  "title=After The Fall"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/atf.zip",

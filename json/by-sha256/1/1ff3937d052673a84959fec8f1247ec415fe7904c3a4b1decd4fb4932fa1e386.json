@@ -36,27 +36,23 @@
  "install": {
   "extract": "{quake}/zer/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1ff3937d052673a84959fec8f1247ec415fe7904c3a4b1decd4fb4932fa1e386",
  "tags": [
-  "title=Zerst\u00f6rer Turtlemap Pack",
-  "releasedate=2008-02-09",
-  "game=quake",
-  "commandline=-game zer",
-  "author=efdat",
   "author=HeadThump",
+  "author=efdat",
   "author=negke",
-  "tag=zer",
-  "tag=base",
-  "tag=epic",
-  "tag=medium",
-  "tag=turtle",
-  "tag=cutscenes",
+  "commandline=-game zer",
   "dependency=zer",
+  "game=quake",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080224b.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=2008-02-09",
   "startmap=ZerTM_ht",
   "startmap=adrlass",
   "startmap=adrlass2",
-  "startmap=zerTM_efdat"
+  "startmap=zerTM_efdat",
+  "title=Zerst\u00f6rer Turtlemap Pack"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zertm_pack.zip",

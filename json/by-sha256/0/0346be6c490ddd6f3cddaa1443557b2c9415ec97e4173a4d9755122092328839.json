@@ -28,21 +28,15 @@
  "install": {
   "extract": "{quake}/abandon/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "0346be6c490ddd6f3cddaa1443557b2c9415ec97e4173a4d9755122092328839",
  "tags": [
-  "title=Abandon",
-  "releasedate=2007-01-11",
-  "game=quake",
-  "commandline=-game abandon",
   "author=MadFox",
-  "tag=episode",
-  "tag=weird",
-  "tag=abstract",
-  "tag=huge",
-  "tag=monsters",
-  "tag=exploration",
-  "startmap=start"
+  "commandline=-game abandon",
+  "game=quake",
+  "releasedate=2007-01-11",
+  "startmap=start",
+  "title=Abandon"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/abandon.zip",

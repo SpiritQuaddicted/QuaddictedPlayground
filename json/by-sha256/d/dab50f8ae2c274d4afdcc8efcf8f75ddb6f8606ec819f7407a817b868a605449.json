@@ -36,24 +36,23 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449",
  "tags": [
-  "title=Speedmapping pack 59 - Unthemed",
-  "releasedate=2003-12-07",
-  "game=quake",
   "author=Hrimfaxi",
   "author=Leviathan",
   "author=MadFox",
   "author=Scampie",
   "author=Starbuck",
-  "tag=dm",
-  "startmap=sm59_starbuck",
-  "startmap=sm59_scampie",
-  "startmap=sm59_madfox",
+  "game=quake",
+  "releasedate=2003-12-07",
+  "startmap=sm59_hrim",
   "startmap=sm59_lev",
   "startmap=sm59_lev2",
-  "startmap=sm59_hrim"
+  "startmap=sm59_madfox",
+  "startmap=sm59_scampie",
+  "startmap=sm59_starbuck",
+  "title=Speedmapping pack 59 - Unthemed"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm59_pack.zip",

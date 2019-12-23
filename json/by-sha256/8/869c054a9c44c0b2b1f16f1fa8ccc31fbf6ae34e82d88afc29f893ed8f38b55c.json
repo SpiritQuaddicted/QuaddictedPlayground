@@ -24,27 +24,16 @@
  "install": {
   "extract": "{quake}/ad/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "869c054a9c44c0b2b1f16f1fa8ccc31fbf6ae34e82d88afc29f893ed8f38b55c",
  "tags": [
-  "title=Disjointed Realms",
-  "releasedate=2018-07-29",
-  "game=quake",
-  "commandline=-game ad",
   "author=reslario",
-  "tag=large",
-  "tag=space",
-  "tag=medieval",
-  "tag=castle",
-  "tag=bricks",
-  "tag=ad",
-  "tag=limits",
-  "tag=source",
-  "tag=textures",
-  "tag=fog",
-  "tag=arcanedimensions",
-  "tag=hard",
-  "startmap=disjointedrealms/disjointedrealms"
+  "commandline=-game ad",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61605)",
+  "releasedate=2018-07-29",
+  "startmap=disjointedrealms/disjointedrealms",
+  "title=Disjointed Realms"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/disjointedrealms.zip",

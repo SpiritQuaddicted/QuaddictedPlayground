@@ -48,17 +48,16 @@
  "install": {
   "extract": "{quake}/schist/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa",
  "tags": [
-  "title=Schist",
-  "releasedate=1997-11-10",
-  "game=quake",
-  "commandline=-game schist",
   "author=Noel Weer",
-  "tag=episode",
-  "tag=ice",
-  "startmap=start"
+  "commandline=-game schist",
+  "game=quake",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981225.html)",
+  "releasedate=1997-11-10",
+  "startmap=start",
+  "title=Schist"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/schist.zip",

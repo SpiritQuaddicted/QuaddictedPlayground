@@ -16,22 +16,18 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e",
  "tags": [
-  "title=Red 777",
-  "releasedate=2005-11-05",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=Kell",
-  "tag=quoth",
-  "tag=knave",
-  "tag=huge",
-  "tag=secrets",
-  "tag=medium",
-  "tag=mustplay",
-  "tag=planetquake-map-of-the-week",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "link=[Tronyn's Top 10: Elder World](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a4.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev051216.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "releasedate=2005-11-05",
+  "title=Red 777"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/red777.zip",

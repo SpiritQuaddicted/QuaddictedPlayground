@@ -40,29 +40,15 @@
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848",
  "tags": [
-  "title=The Myths",
-  "releasedate=2011-06-12",
-  "game=quake",
-  "commandline=-game TheMyths",
   "author=vIE888",
-  "tag=episode",
-  "tag=small",
-  "tag=monsters",
-  "tag=base",
-  "tag=medieval",
-  "tag=metal",
-  "tag=wizard",
-  "tag=hipnotic",
-  "tag=traps",
-  "tag=puzzles",
-  "tag=dragon",
-  "tag=armagon",
-  "tag=boss",
-  "tag=realism",
-  "startmap=myth1"
+  "commandline=-game TheMyths",
+  "game=quake",
+  "releasedate=2011-06-12",
+  "startmap=myth1",
+  "title=The Myths"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/themyths.zip",

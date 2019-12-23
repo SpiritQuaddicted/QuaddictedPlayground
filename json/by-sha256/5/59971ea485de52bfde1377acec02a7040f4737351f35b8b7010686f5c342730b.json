@@ -16,27 +16,18 @@
  "install": {
   "extract": "{quake}/metmon"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "59971ea485de52bfde1377acec02a7040f4737351f35b8b7010686f5c342730b",
  "tags": [
-  "title=Metal Monstrosity",
-  "releasedate=2014-05-27",
-  "game=quake",
-  "commandline=-quoth -game metmon",
   "author=sock",
-  "tag=medium",
-  "tag=metal",
-  "tag=runic",
-  "tag=base",
-  "tag=industrial",
-  "tag=quoth",
-  "tag=spacemap",
-  "tag=limits",
-  "tag=source",
-  "tag=coagula",
-  "tag=bsp2",
+  "commandline=-quoth -game metmon",
   "dependency=quoth2pt2full_2",
-  "startmap=metmon"
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61033)",
+  "link=[ModDB](http://www.moddb.com/members/simonoc/addons/metal-monstrosity)",
+  "releasedate=2014-05-27",
+  "startmap=metmon",
+  "title=Metal Monstrosity"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/metmon1d.zip",

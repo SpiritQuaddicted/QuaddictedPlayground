@@ -144,27 +144,17 @@
  "install": {
   "extract": "{quake}/ad/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "594edcc26317612e44f476dce99ca3c10a50a2501514ee9ecc90b7ce375739a0",
  "tags": [
-  "title=Paradise Sickness",
-  "releasedate=2017-09-23",
-  "game=quake",
-  "commandline=-game ad",
   "author=Redfield",
-  "tag=large",
-  "tag=egyptian",
-  "tag=pyramid",
-  "tag=tomb",
-  "tag=sphynx",
-  "tag=desert",
-  "tag=base",
-  "tag=ad",
-  "tag=sounds",
-  "tag=source",
-  "tag=arcanedimensions",
+  "commandline=-game ad",
+  "dependency=ad_sepulcher",
   "dependency=ad_v1_50final",
-  "dependency=ad_sepulcher"
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61512)",
+  "releasedate=2017-09-23",
+  "title=Paradise Sickness"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_paradise.zip",

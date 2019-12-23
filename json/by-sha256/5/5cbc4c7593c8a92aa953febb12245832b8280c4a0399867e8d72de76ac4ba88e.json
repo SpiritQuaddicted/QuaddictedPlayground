@@ -488,26 +488,19 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "5cbc4c7593c8a92aa953febb12245832b8280c4a0399867e8d72de76ac4ba88e",
  "tags": [
-  "title=Quenching Urges of Constant Killing [DEMO]",
-  "releasedate=2017-12-30",
-  "game=quake",
-  "commandline=-quoth -game quoth",
   "author=skacky",
-  "tag=episode",
-  "tag=small",
-  "tag=base",
-  "tag=quoth",
-  "tag=slaughter",
-  "tag=limits",
-  "tag=music",
-  "tag=external textures",
+  "commandline=-quoth -game quoth",
   "dependency=quoth2pt2full_2",
-  "startmap=start",
+  "game=quake",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61541)",
+  "releasedate=2017-12-30",
   "startmap=map01",
-  "startmap=map02"
+  "startmap=map02",
+  "startmap=start",
+  "title=Quenching Urges of Constant Killing [DEMO]"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quck_demo.zip",

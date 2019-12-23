@@ -24,24 +24,17 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "c9776ea55f33ed4580106d7bb5ffc7ec001692c5bc114c420f30ef381e4c4c7c",
  "tags": [
-  "title=Data Download",
-  "releasedate=2008-06-29",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=ijed",
-  "tag=dark",
-  "tag=fast",
-  "tag=scary",
-  "tag=contest",
-  "tag=ikbase",
-  "tag=small",
-  "tag=256b",
-  "tag=horror",
-  "tag=quoth",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080906.html#2ndreview)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=2008-06-29",
+  "title=Data Download"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hulk256.zip",

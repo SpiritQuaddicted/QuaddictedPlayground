@@ -32,18 +32,18 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "64ecf6fd7fe340cad9a20da4e05e8ca8fea729146d3368239aa6c7bc5c825d94",
  "tags": [
-  "title=Speedmapping pack 63 - No monsters (optional theme)",
-  "releasedate=2004-01-18",
-  "game=quake",
   "author=Fat Controller",
-  "author=necros",
   "author=Zwiffle",
-  "startmap=sm63_zwiffle",
+  "author=necros",
+  "game=quake",
+  "releasedate=2004-01-18",
+  "startmap=SM63_FAT",
   "startmap=sm63_necros",
-  "startmap=SM63_FAT"
+  "startmap=sm63_zwiffle",
+  "title=Speedmapping pack 63 - No monsters (optional theme)"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm63_pack.zip",

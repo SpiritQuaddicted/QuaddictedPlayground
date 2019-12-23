@@ -16,19 +16,16 @@
  "install": {
   "extract": "{quake}/hipnotic/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb",
  "tags": [
-  "title=Temple of Lightning",
-  "releasedate=1997-06-03",
-  "game=quake",
-  "commandline=-hipnotic",
   "author=John Parr",
-  "tag=small",
-  "tag=stone",
-  "tag=soa",
-  "tag=hipnotic",
-  "dependency=hipnotic"
+  "commandline=-hipnotic",
+  "dependency=hipnotic",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelst.htm)",
+  "releasedate=1997-06-03",
+  "title=Temple of Lightning"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tol.zip",

@@ -6224,13 +6224,9 @@
  "install": {
   "extract": "{quake}/hwjam2/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "1ea411fbcaa02315d5c1ac1ed6cf2c65c989a89e36663b4075cbbe3edd885d6a",
  "tags": [
-  "title=Halloween Jam 2",
-  "releasedate=2019-10-31",
-  "game=quake",
-  "commandline=-game hwjam2",
   "author=Artistical",
   "author=Burnham",
   "author=CaptainCam",
@@ -6246,16 +6242,10 @@
   "author=Pinchy",
   "author=Thulsa",
   "author=Yoder",
-  "tag=arcanedimensions",
-  "tag=halloween",
-  "tag=horror",
-  "tag=spooky",
-  "tag=medieval",
-  "tag=pirate",
-  "tag=runic",
-  "tag=zer",
-  "tag=textures",
-  "startmap=start",
+  "commandline=-game hwjam2",
+  "game=quake",
+  "link=[Func_Msgboars](http://celephais.net/board/view_thread.php?id=61786)",
+  "releasedate=2019-10-31",
   "startmap=hwjam2_artistical",
   "startmap=hwjam2_burnham",
   "startmap=hwjam2_captaincam",
@@ -6269,7 +6259,9 @@
   "startmap=hwjam2_maxx",
   "startmap=hwjam2_pinchy",
   "startmap=hwjam2_thulsa",
-  "startmap=hwjam2_yoder"
+  "startmap=hwjam2_yoder",
+  "startmap=start",
+  "title=Halloween Jam 2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hwjam2.zip",

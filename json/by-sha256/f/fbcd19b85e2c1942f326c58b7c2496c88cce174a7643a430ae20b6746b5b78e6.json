@@ -48,29 +48,19 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "fbcd19b85e2c1942f326c58b7c2496c88cce174a7643a430ae20b6746b5b78e6",
  "tags": [
-  "title=Warp Spasm",
-  "releasedate=2007-05-10",
-  "game=quake",
-  "commandline=-heapsize 64000 -quoth -game warp +max_edicts 2048",
   "author=ijed",
-  "tag=huge",
-  "tag=difficult",
-  "tag=epic",
-  "tag=episode",
-  "tag=evil",
-  "tag=industrial",
-  "tag=base",
-  "tag=medieval",
-  "tag=music",
-  "tag=quoth",
-  "tag=horror",
-  "tag=exhausting",
-  "tag=mustplay",
+  "commandline=-heapsize 64000 -quoth -game warp +max_edicts 2048",
   "dependency=quoth",
-  "startmap=start"
+  "game=quake",
+  "link=[Tronyn's Top 10: Elder World](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a4.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev071023.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
+  "releasedate=2007-05-10",
+  "startmap=start",
+  "title=Warp Spasm"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/warpspasm.zip",

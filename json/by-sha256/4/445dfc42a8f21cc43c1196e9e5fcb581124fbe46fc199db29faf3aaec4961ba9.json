@@ -20,26 +20,15 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "445dfc42a8f21cc43c1196e9e5fcb581124fbe46fc199db29faf3aaec4961ba9",
  "tags": [
-  "title=Pain in the Arch",
-  "releasedate=2013-04-23",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=mfx",
-  "tag=medium",
-  "tag=knave",
-  "tag=underground",
-  "tag=caverns",
-  "tag=ruins",
-  "tag=quoth",
-  "tag=source",
-  "tag=than",
-  "tag=large",
-  "tag=interconnectivity",
-  "tag=boss",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "releasedate=2013-04-23",
+  "title=Pain in the Arch"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp10.zip",

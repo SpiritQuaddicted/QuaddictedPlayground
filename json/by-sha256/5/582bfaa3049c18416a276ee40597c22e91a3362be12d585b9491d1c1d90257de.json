@@ -20,30 +20,16 @@
  "install": {
   "extract": "{quake}/ne_ruins/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "582bfaa3049c18416a276ee40597c22e91a3362be12d585b9491d1c1d90257de",
  "tags": [
-  "title=The Altar of Storms",
-  "releasedate=2011-06-22",
-  "game=quake",
-  "commandline=-zone 2048 -heapsize 192000 +max_edicts 8192 -game ne_ruins",
   "author=necros",
-  "tag=large",
-  "tag=temple",
-  "tag=textures",
-  "tag=monsters",
-  "tag=snow",
-  "tag=boss",
-  "tag=ayleid",
-  "tag=weapons",
-  "tag=hexen 2",
-  "tag=cold",
-  "tag=epic",
-  "tag=mustplay",
-  "tag=episode",
-  "tag=unique",
-  "tag=absolute masterpiece",
-  "startmap=start"
+  "commandline=-zone 2048 -heapsize 192000 +max_edicts 8192 -game ne_ruins",
+  "game=quake",
+  "link=[SP Map Corner](http://spmapcorner.blogspot.com/2012/02/altar-of-storms-for-quake-1.html)",
+  "releasedate=2011-06-22",
+  "startmap=start",
+  "title=The Altar of Storms"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_ruins.zip",

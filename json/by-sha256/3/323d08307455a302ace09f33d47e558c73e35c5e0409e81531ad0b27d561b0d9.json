@@ -112,29 +112,19 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9",
  "tags": [
-  "title=Honey",
-  "releasedate=2012-03-31",
-  "game=quake",
-  "commandline=-game honey",
   "author=czg",
-  "tag=fog",
-  "tag=medieval",
-  "tag=victorian",
-  "tag=cistern",
-  "tag=epic",
-  "tag=huge scale",
-  "tag=manass",
-  "tag=large",
-  "tag=bricks",
-  "tag=source",
-  "tag=bad qc",
-  "tag=cutscenes",
-  "startmap=start",
+  "commandline=-game honey",
+  "game=quake",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=60712)",
+  "link=[The Abandoned Workshops](http://taw.duke4.net/2012/04/quake/honey/)",
+  "releasedate=2012-03-31",
+  "startmap=honey",
   "startmap=saint",
-  "startmap=honey"
+  "startmap=start",
+  "title=Honey"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/honey.zip",

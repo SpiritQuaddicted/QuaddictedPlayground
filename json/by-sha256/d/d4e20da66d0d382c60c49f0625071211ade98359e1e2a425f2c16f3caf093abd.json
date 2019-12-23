@@ -16,21 +16,17 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "d4e20da66d0d382c60c49f0625071211ade98359e1e2a425f2c16f3caf093abd",
  "tags": [
-  "title=Fort Ratsack",
-  "releasedate=2008-03-17",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=Biff Debris",
-  "tag=quoth",
-  "tag=idbase",
-  "tag=action",
-  "tag=medium",
-  "tag=base",
-  "tag=secrets",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080511.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=2008-03-17",
+  "title=Fort Ratsack"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/base_debris.zip",

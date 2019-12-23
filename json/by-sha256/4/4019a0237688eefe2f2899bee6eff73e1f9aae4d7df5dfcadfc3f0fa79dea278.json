@@ -20,17 +20,14 @@
  "install": {
   "extract": "{quake}/asylum/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "4019a0237688eefe2f2899bee6eff73e1f9aae4d7df5dfcadfc3f0fa79dea278",
  "tags": [
-  "title=Trinity Asylum",
-  "releasedate=1997-10-25",
-  "game=quake",
-  "commandline=-game asylum",
   "author=Phil Daniels",
-  "tag=medium",
-  "tag=textures",
-  "tag=monsters"
+  "commandline=-game asylum",
+  "game=quake",
+  "releasedate=1997-10-25",
+  "title=Trinity Asylum"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/asylum.zip",

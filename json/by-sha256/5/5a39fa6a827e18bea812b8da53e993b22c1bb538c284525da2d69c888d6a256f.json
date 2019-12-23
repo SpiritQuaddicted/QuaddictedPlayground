@@ -20,23 +20,18 @@
  "install": {
   "extract": "{quake}/corporal/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "5a39fa6a827e18bea812b8da53e993b22c1bb538c284525da2d69c888d6a256f",
  "tags": [
-  "title=Corporal Punishment",
-  "releasedate=1997-04-06",
-  "game=quake",
-  "commandline=-game corporal",
   "author=Gyro Gearloose",
-  "tag=small",
-  "tag=base",
-  "tag=monsters",
-  "tag=metal",
-  "tag=textures",
-  "tag=start",
-  "tag=dm",
-  "tag=buttons",
-  "startmap=gstart"
+  "commandline=-game corporal",
+  "game=quake",
+  "link=[Crash's](http://www.quake2.com/crash/levelsc.htm#corporal)",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=69)",
+  "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
+  "releasedate=1997-04-06",
+  "startmap=gstart",
+  "title=Corporal Punishment"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/corporal.zip",

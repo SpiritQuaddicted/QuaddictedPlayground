@@ -44,23 +44,18 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "bc3bc5fb29e2337da9d83282276c274b08904b9db6fe85e2b80b340281f132db",
  "tags": [
-  "title=Slave to a Machine",
-  "releasedate=2008-03-28",
-  "game=quake",
-  "commandline=-hipnotic -game quoth",
   "author=RickyT23",
-  "tag=quoth",
-  "tag=base",
-  "tag=huge",
-  "tag=halflife",
-  "tag=doom3",
-  "tag=dkt",
-  "tag=mustplay",
-  "tag=quake2",
-  "dependency=quoth"
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "game=quake",
+  "link=[Tronyn's Top 10: Base](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a1.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080511.html#2ndreview)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "releasedate=2008-03-28",
+  "title=Slave to a Machine"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/slave.zip",

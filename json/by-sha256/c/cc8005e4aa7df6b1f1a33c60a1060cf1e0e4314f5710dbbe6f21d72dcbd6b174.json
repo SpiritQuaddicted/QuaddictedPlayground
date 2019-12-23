@@ -32,23 +32,19 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174",
  "tags": [
-  "title=The Marcher Fortress",
-  "releasedate=2005-01-09",
-  "game=quake",
-  "commandline=-game marcher",
   "author=Kinn",
-  "tag=q3 gothic",
-  "tag=epic",
-  "tag=huge",
-  "tag=castle",
-  "tag=classic",
-  "tag=mustplay",
-  "tag=hordes",
-  "tag=planetquake-map-of-the-week",
-  "startmap=marcher"
+  "commandline=-game marcher",
+  "game=quake",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=270)",
+  "link=[Tronyn's Top 10: Elder World](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a4.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev050114d.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "releasedate=2005-01-09",
+  "startmap=marcher",
+  "title=The Marcher Fortress"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kinn_marcher.zip",

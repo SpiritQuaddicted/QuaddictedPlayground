@@ -20,22 +20,15 @@
  "install": {
   "extract": "{quake}/hipnotic/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "671f23a3317e75415e6efd4411155f76096fb6f0f38a6e1f4883fe3661b46988",
  "tags": [
-  "title=Qmine",
-  "releasedate=1997-09-07",
-  "game=quake",
-  "commandline=-hipnotic",
   "author=DD",
-  "tag=small",
-  "tag=blue",
-  "tag=mine",
-  "tag=hourse",
-  "tag=soa",
-  "tag=source",
-  "tag=hipnotic",
-  "dependency=hipnotic"
+  "commandline=-hipnotic",
+  "dependency=hipnotic",
+  "game=quake",
+  "releasedate=1997-09-07",
+  "title=Qmine"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qmine.zip",

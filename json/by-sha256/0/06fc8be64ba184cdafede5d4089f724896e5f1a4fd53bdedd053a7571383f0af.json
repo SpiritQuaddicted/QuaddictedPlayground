@@ -28,20 +28,20 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "06fc8be64ba184cdafede5d4089f724896e5f1a4fd53bdedd053a7571383f0af",
  "tags": [
-  "title=Speedmapping pack 34 - Use the decon textures created by Stecki",
-  "releasedate=2001-09-18",
-  "game=quake",
   "author=Cybear",
   "author=Fren",
   "author=gibbie",
   "author=than",
-  "startmap=sm34_than",
-  "startmap=sm34_bear",
+  "game=quake",
+  "releasedate=2001-09-18",
   "startmap=SM34_FR3N",
-  "startmap=sm34_gibbie"
+  "startmap=sm34_bear",
+  "startmap=sm34_gibbie",
+  "startmap=sm34_than",
+  "title=Speedmapping pack 34 - Use the decon textures created by Stecki"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm34_pack.zip",

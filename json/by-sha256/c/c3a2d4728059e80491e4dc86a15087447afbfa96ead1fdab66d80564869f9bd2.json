@@ -32,21 +32,21 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "c3a2d4728059e80491e4dc86a15087447afbfa96ead1fdab66d80564869f9bd2",
  "tags": [
-  "title=Speedmapping pack 72 - Spine map textures (A Tribute to Headshot #3)",
-  "releasedate=2004-03-13",
-  "game=quake",
   "author=CardO",
-  "author=Scampie",
   "author=RPG",
+  "author=Scampie",
   "author=Zwiffle",
-  "startmap=sm72_rpg",
+  "game=quake",
+  "releasedate=2004-03-13",
   "startmap=sm72_cardo",
-  "startmap=sm72_zwiffle2",
+  "startmap=sm72_rpg",
+  "startmap=sm72_scampie",
   "startmap=sm72_zwiffle",
-  "startmap=sm72_scampie"
+  "startmap=sm72_zwiffle2",
+  "title=Speedmapping pack 72 - Spine map textures (A Tribute to Headshot #3)"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm72_pack.zip",

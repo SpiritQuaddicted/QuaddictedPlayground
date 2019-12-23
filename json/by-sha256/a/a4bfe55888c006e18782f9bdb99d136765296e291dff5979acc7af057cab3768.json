@@ -60,17 +60,15 @@
  "install": {
   "extract": "{quake}/arcdemo/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "a4bfe55888c006e18782f9bdb99d136765296e291dff5979acc7af057cab3768",
  "tags": [
-  "title=Arcanum Demo",
-  "releasedate=2009-10-31",
-  "game=quake",
-  "commandline=-game arcdemo",
   "author=Tronyn &amp; PM",
-  "tag=fantasy",
-  "tag=medieval",
-  "startmap=arcanum1"
+  "commandline=-game arcdemo",
+  "game=quake",
+  "releasedate=2009-10-31",
+  "startmap=arcanum1",
+  "title=Arcanum Demo"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/arcdemo.zip",

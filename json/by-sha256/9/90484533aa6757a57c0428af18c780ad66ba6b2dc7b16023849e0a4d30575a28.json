@@ -20,28 +20,17 @@
  "install": {
   "extract": "{quake}/drake/maps/"
  },
- "json_version": "2019.12.23-20.57",
+ "json_version": "2019.12.23-21.29",
  "sha256": "90484533aa6757a57c0428af18c780ad66ba6b2dc7b16023849e0a4d30575a28",
  "tags": [
-  "title=Sludge Factory",
-  "releasedate=2011-03-18",
-  "game=quake",
-  "commandline=-game drake",
   "author=Dustin \"Tronyn\" Geeraert",
-  "tag=medium",
-  "tag=industrial",
-  "tag=base",
-  "tag=slime",
-  "tag=factory",
-  "tag=oil rig",
-  "tag=textures",
-  "tag=drake",
-  "tag=open",
-  "tag=hard",
-  "tag=hordes",
+  "commandline=-game drake",
   "dependency=drake",
+  "game=quake",
+  "releasedate=2011-03-18",
   "startmap=sludge1",
-  "startmap=sludge2"
+  "startmap=sludge2",
+  "title=Sludge Factory"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sludgefactory.zip",
