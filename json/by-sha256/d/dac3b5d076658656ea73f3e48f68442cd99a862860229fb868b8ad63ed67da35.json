@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "dac3b5d076658656ea73f3e48f68442cd99a862860229fb868b8ad63ed67da35",
  "filename": [
   "ghost.zip"
  ],
+ "files": {
+  "ghost.bsp": {
+   "filesize": 1310492,
+   "timestamp": "1997-08-18"
+  },
+  "ghost.txt": {
+   "filesize": 4006,
+   "timestamp": "1997-08-18"
+  }
+ },
  "filesize": 561,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dac3b5d076658656ea73f3e48f68442cd99a862860229fb868b8ad63ed67da35",
  "tags": [
   "title:Ghost Town",
   "releasedate:1997-08-18",
@@ -16,21 +28,9 @@
   "tag:medium",
   "tag:modes"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ghost.txt": {
-   "filesize": 4006,
-   "timestamp": "1997-08-18"
-  },
-  "ghost.bsp": {
-   "filesize": 1310492,
-   "timestamp": "1997-08-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ghost.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dac3b5d076658656ea73f3e48f68442cd99a862860229fb868b8ad63ed67da35/ghost.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

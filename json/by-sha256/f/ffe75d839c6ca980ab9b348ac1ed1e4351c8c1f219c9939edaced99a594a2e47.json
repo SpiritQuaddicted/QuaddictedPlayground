@@ -1,10 +1,162 @@
 {
- "version": "20191222-0",
- "sha256": "ffe75d839c6ca980ab9b348ac1ed1e4351c8c1f219c9939edaced99a594a2e47",
  "filename": [
   "assault.zip"
  ],
+ "files": {
+  "Assault/Maps/as1.bsp": {
+   "filesize": 1037892,
+   "timestamp": "2000-02-16"
+  },
+  "Assault/Maps/as2.bsp": {
+   "filesize": 2080452,
+   "timestamp": "1999-12-11"
+  },
+  "Assault/Maps/as3.bsp": {
+   "filesize": 2014436,
+   "timestamp": "2003-07-05"
+  },
+  "Assault/Maps/as4.bsp": {
+   "filesize": 1081288,
+   "timestamp": "2003-07-05"
+  },
+  "Assault/Maps/as5.bsp": {
+   "filesize": 1605416,
+   "timestamp": "2001-07-24"
+  },
+  "Assault/Maps/start.bsp": {
+   "filesize": 433712,
+   "timestamp": "2003-07-05"
+  },
+  "Assault/PROGS.DAT": {
+   "filesize": 464988,
+   "timestamp": "2003-07-05"
+  },
+  "Assault/Progs/RAT.MDL": {
+   "filesize": 137841,
+   "timestamp": "1999-04-09"
+  },
+  "Assault/Progs/SPIDER.MDL": {
+   "filesize": 94492,
+   "timestamp": "1999-03-05"
+  },
+  "Assault/Progs/S_RAIN.SPR": {
+   "filesize": 37196,
+   "timestamp": "1999-11-24"
+  },
+  "Assault/Progs/aagba.mdl": {
+   "filesize": 47520,
+   "timestamp": "1999-12-10"
+  },
+  "Assault/Progs/aagtb.mdl": {
+   "filesize": 65764,
+   "timestamp": "1999-12-10"
+  },
+  "Assault/Progs/fan1.bsp": {
+   "filesize": 30568,
+   "timestamp": "1999-12-07"
+  },
+  "Assault/Progs/fan2.bsp": {
+   "filesize": 44756,
+   "timestamp": "1999-12-07"
+  },
+  "Assault/Progs/fan3.bsp": {
+   "filesize": 40028,
+   "timestamp": "1999-12-11"
+  },
+  "Assault/Progs/rain.mdl": {
+   "filesize": 6472,
+   "timestamp": "1999-12-11"
+  },
+  "Assault/Progs/rotor.mdl": {
+   "filesize": 60815,
+   "timestamp": "2000-08-15"
+  },
+  "Assault/Progs/s_rain.mdl": {
+   "filesize": 6472,
+   "timestamp": "1999-12-11"
+  },
+  "Assault/Progs/spaz.mdl": {
+   "filesize": 87933,
+   "timestamp": "1997-10-11"
+  },
+  "Assault/Progs/whl.mdl": {
+   "filesize": 23051,
+   "timestamp": "1999-12-09"
+  },
+  "Assault/Sound/activate.wav": {
+   "filesize": 53246,
+   "timestamp": "1999-11-25"
+  },
+  "Assault/Sound/danger1.wav": {
+   "filesize": 71460,
+   "timestamp": "1999-11-23"
+  },
+  "Assault/Sound/deactive.wav": {
+   "filesize": 92566,
+   "timestamp": "1999-12-09"
+  },
+  "Assault/Sound/drone.wav": {
+   "filesize": 122712,
+   "timestamp": "1999-12-07"
+  },
+  "Assault/Sound/elevator.wav": {
+   "filesize": 63670,
+   "timestamp": "1999-12-07"
+  },
+  "Assault/Sound/epower.wav": {
+   "filesize": 81618,
+   "timestamp": "1999-12-10"
+  },
+  "Assault/Sound/fan1.wav": {
+   "filesize": 53404,
+   "timestamp": "1999-12-07"
+  },
+  "Assault/Sound/fan2.wav": {
+   "filesize": 19504,
+   "timestamp": "1999-12-09"
+  },
+  "Assault/Sound/fan3.wav": {
+   "filesize": 174188,
+   "timestamp": "1999-12-07"
+  },
+  "Assault/Sound/intake.wav": {
+   "filesize": 101828,
+   "timestamp": "1999-12-07"
+  },
+  "Assault/Sound/pop2.wav": {
+   "filesize": 53760,
+   "timestamp": "1999-02-12"
+  },
+  "Assault/Sound/siren.wav": {
+   "filesize": 26562,
+   "timestamp": "1999-12-13"
+  },
+  "Assault/Sound/starting.wav": {
+   "filesize": 323982,
+   "timestamp": "2003-07-05"
+  },
+  "Assault/Sound/throb.wav": {
+   "filesize": 19504,
+   "timestamp": "1999-12-09"
+  },
+  "Assault/Sound/thunder1.wav": {
+   "filesize": 108388,
+   "timestamp": "1999-10-29"
+  },
+  "Assault/Sound/warning2.wav": {
+   "filesize": 248276,
+   "timestamp": "1999-11-23"
+  },
+  "Assault/assault.txt": {
+   "filesize": 4566,
+   "timestamp": "2003-07-05"
+  }
+ },
  "filesize": 4696,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "ffe75d839c6ca980ab9b348ac1ed1e4351c8c1f219c9939edaced99a594a2e47",
  "tags": [
   "title:Assault",
   "releasedate:2003-07-06",
@@ -19,161 +171,9 @@
   "tag:campaign",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "Assault/assault.txt": {
-   "filesize": 4566,
-   "timestamp": "2003-07-05"
-  },
-  "Assault/PROGS.DAT": {
-   "filesize": 464988,
-   "timestamp": "2003-07-05"
-  },
-  "Assault/Sound/activate.wav": {
-   "filesize": 53246,
-   "timestamp": "1999-11-25"
-  },
-  "Assault/Sound/throb.wav": {
-   "filesize": 19504,
-   "timestamp": "1999-12-09"
-  },
-  "Assault/Sound/intake.wav": {
-   "filesize": 101828,
-   "timestamp": "1999-12-07"
-  },
-  "Assault/Sound/deactive.wav": {
-   "filesize": 92566,
-   "timestamp": "1999-12-09"
-  },
-  "Assault/Sound/siren.wav": {
-   "filesize": 26562,
-   "timestamp": "1999-12-13"
-  },
-  "Assault/Sound/danger1.wav": {
-   "filesize": 71460,
-   "timestamp": "1999-11-23"
-  },
-  "Assault/Sound/thunder1.wav": {
-   "filesize": 108388,
-   "timestamp": "1999-10-29"
-  },
-  "Assault/Sound/warning2.wav": {
-   "filesize": 248276,
-   "timestamp": "1999-11-23"
-  },
-  "Assault/Sound/fan1.wav": {
-   "filesize": 53404,
-   "timestamp": "1999-12-07"
-  },
-  "Assault/Sound/pop2.wav": {
-   "filesize": 53760,
-   "timestamp": "1999-02-12"
-  },
-  "Assault/Sound/fan3.wav": {
-   "filesize": 174188,
-   "timestamp": "1999-12-07"
-  },
-  "Assault/Sound/elevator.wav": {
-   "filesize": 63670,
-   "timestamp": "1999-12-07"
-  },
-  "Assault/Sound/fan2.wav": {
-   "filesize": 19504,
-   "timestamp": "1999-12-09"
-  },
-  "Assault/Sound/starting.wav": {
-   "filesize": 323982,
-   "timestamp": "2003-07-05"
-  },
-  "Assault/Sound/epower.wav": {
-   "filesize": 81618,
-   "timestamp": "1999-12-10"
-  },
-  "Assault/Sound/drone.wav": {
-   "filesize": 122712,
-   "timestamp": "1999-12-07"
-  },
-  "Assault/Progs/whl.mdl": {
-   "filesize": 23051,
-   "timestamp": "1999-12-09"
-  },
-  "Assault/Progs/RAT.MDL": {
-   "filesize": 137841,
-   "timestamp": "1999-04-09"
-  },
-  "Assault/Progs/fan1.bsp": {
-   "filesize": 30568,
-   "timestamp": "1999-12-07"
-  },
-  "Assault/Progs/s_rain.mdl": {
-   "filesize": 6472,
-   "timestamp": "1999-12-11"
-  },
-  "Assault/Progs/rotor.mdl": {
-   "filesize": 60815,
-   "timestamp": "2000-08-15"
-  },
-  "Assault/Progs/S_RAIN.SPR": {
-   "filesize": 37196,
-   "timestamp": "1999-11-24"
-  },
-  "Assault/Progs/spaz.mdl": {
-   "filesize": 87933,
-   "timestamp": "1997-10-11"
-  },
-  "Assault/Progs/fan3.bsp": {
-   "filesize": 40028,
-   "timestamp": "1999-12-11"
-  },
-  "Assault/Progs/fan2.bsp": {
-   "filesize": 44756,
-   "timestamp": "1999-12-07"
-  },
-  "Assault/Progs/rain.mdl": {
-   "filesize": 6472,
-   "timestamp": "1999-12-11"
-  },
-  "Assault/Progs/aagtb.mdl": {
-   "filesize": 65764,
-   "timestamp": "1999-12-10"
-  },
-  "Assault/Progs/SPIDER.MDL": {
-   "filesize": 94492,
-   "timestamp": "1999-03-05"
-  },
-  "Assault/Progs/aagba.mdl": {
-   "filesize": 47520,
-   "timestamp": "1999-12-10"
-  },
-  "Assault/Maps/as4.bsp": {
-   "filesize": 1081288,
-   "timestamp": "2003-07-05"
-  },
-  "Assault/Maps/start.bsp": {
-   "filesize": 433712,
-   "timestamp": "2003-07-05"
-  },
-  "Assault/Maps/as5.bsp": {
-   "filesize": 1605416,
-   "timestamp": "2001-07-24"
-  },
-  "Assault/Maps/as2.bsp": {
-   "filesize": 2080452,
-   "timestamp": "1999-12-11"
-  },
-  "Assault/Maps/as1.bsp": {
-   "filesize": 1037892,
-   "timestamp": "2000-02-16"
-  },
-  "Assault/Maps/as3.bsp": {
-   "filesize": 2014436,
-   "timestamp": "2003-07-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/assault.zip",
   "https://www.quaddicted.com/files/by-sha256/f/ffe75d839c6ca980ab9b348ac1ed1e4351c8c1f219c9939edaced99a594a2e47/assault.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

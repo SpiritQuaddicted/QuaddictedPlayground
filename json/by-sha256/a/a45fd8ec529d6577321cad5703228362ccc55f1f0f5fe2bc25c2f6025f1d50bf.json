@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "a45fd8ec529d6577321cad5703228362ccc55f1f0f5fe2bc25c2f6025f1d50bf",
  "filename": [
   "tms1.zip"
  ],
- "filesize": 679,
- "tags": [
-  "title:The First Attempt",
-  "releasedate:1997-10-31",
-  "game:quake",
-  "author:Jon Seigel",
-  "tag:metal",
-  "tag:lava",
-  "tag:hard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "tms1.bsp": {
    "filesize": 1610752,
@@ -27,8 +12,23 @@
    "timestamp": "1997-10-31"
   }
  },
+ "filesize": 679,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a45fd8ec529d6577321cad5703228362ccc55f1f0f5fe2bc25c2f6025f1d50bf",
+ "tags": [
+  "title:The First Attempt",
+  "releasedate:1997-10-31",
+  "game:quake",
+  "author:Jon Seigel",
+  "tag:metal",
+  "tag:lava",
+  "tag:hard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/tms1.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a45fd8ec529d6577321cad5703228362ccc55f1f0f5fe2bc25c2f6025f1d50bf/tms1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

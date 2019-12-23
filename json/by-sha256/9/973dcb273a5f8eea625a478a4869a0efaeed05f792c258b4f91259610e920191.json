@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "973dcb273a5f8eea625a478a4869a0efaeed05f792c258b4f91259610e920191",
  "filename": [
   "symphony_v101.zip"
  ],
- "filesize": 2586,
- "tags": [
-  "title:Symphony of Science",
-  "releasedate:2016-10-09",
-  "game:quake",
-  "author:Ubiquitous",
-  "tag:medium",
-  "tag:medieval",
-  "tag:bricks",
-  "tag:underground"
- ],
- "install": {
-  "extract": "{quake}/id1\\maps\\"
- },
  "files": {
   "symphony_v101.bsp": {
    "filesize": 5273976,
@@ -32,8 +16,24 @@
    "timestamp": "2016-10-09"
   }
  },
+ "filesize": 2586,
+ "install": {
+  "extract": "{quake}/id1\\maps\\"
+ },
+ "sha256": "973dcb273a5f8eea625a478a4869a0efaeed05f792c258b4f91259610e920191",
+ "tags": [
+  "title:Symphony of Science",
+  "releasedate:2016-10-09",
+  "game:quake",
+  "author:Ubiquitous",
+  "tag:medium",
+  "tag:medieval",
+  "tag:bricks",
+  "tag:underground"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/symphony_v101.zip",
   "https://www.quaddicted.com/files/by-sha256/9/973dcb273a5f8eea625a478a4869a0efaeed05f792c258b4f91259610e920191/symphony_v101.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

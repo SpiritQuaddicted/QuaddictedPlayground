@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "3327e2ef997037d22c548dd239239b9533e04461282c0056a0becf7720507306",
  "filename": [
   "purgtor2.zip"
  ],
- "filesize": 863,
- "tags": [
-  "title:Life After Death",
-  "releasedate:1997-06-24",
-  "game:quake",
-  "author:Bryan Pillow",
-  "tag:medium",
-  "tag:wizard",
-  "startmap:purg2"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "purg2.bsp": {
    "filesize": 2032408,
@@ -27,8 +12,23 @@
    "timestamp": "1997-06-24"
   }
  },
+ "filesize": 863,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3327e2ef997037d22c548dd239239b9533e04461282c0056a0becf7720507306",
+ "tags": [
+  "title:Life After Death",
+  "releasedate:1997-06-24",
+  "game:quake",
+  "author:Bryan Pillow",
+  "tag:medium",
+  "tag:wizard",
+  "startmap:purg2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/purgtor2.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3327e2ef997037d22c548dd239239b9533e04461282c0056a0becf7720507306/purgtor2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

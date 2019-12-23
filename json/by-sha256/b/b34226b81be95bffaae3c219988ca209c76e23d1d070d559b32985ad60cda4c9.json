@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "b34226b81be95bffaae3c219988ca209c76e23d1d070d559b32985ad60cda4c9",
  "filename": [
   "bod.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 20687895,
+   "timestamp": "2008-05-02"
+  },
+  "bod.txt": {
+   "filesize": 4026,
+   "timestamp": "2008-05-02"
+  }
+ },
  "filesize": 10033,
+ "install": {
+  "extract": "{quake}/bod/"
+ },
+ "sha256": "b34226b81be95bffaae3c219988ca209c76e23d1d070d559b32985ad60cda4c9",
  "tags": [
   "title:Tower Of Dal Gurak",
   "releasedate:2008-05-02",
@@ -19,21 +31,9 @@
   "tag:hordes",
   "tag:horde"
  ],
- "install": {
-  "extract": "{quake}/bod/"
- },
- "files": {
-  "Pak0.pak": {
-   "filesize": 20687895,
-   "timestamp": "2008-05-02"
-  },
-  "bod.txt": {
-   "filesize": 4026,
-   "timestamp": "2008-05-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/bod.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b34226b81be95bffaae3c219988ca209c76e23d1d070d559b32985ad60cda4c9/bod.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

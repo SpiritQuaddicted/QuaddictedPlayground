@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "892de7ab3497cb93096a76dbba15c9dbb753d2a687cf52a76e1bd9a8f48100d4",
  "filename": [
   "ih1m5.zip"
  ],
+ "files": {
+  "IH1M5.BSP": {
+   "filesize": 1184936,
+   "timestamp": "1999-07-23"
+  }
+ },
  "filesize": 481,
+ "install": {
+  "extract": "{quake}/badpak/maps/"
+ },
+ "sha256": "892de7ab3497cb93096a76dbba15c9dbb753d2a687cf52a76e1bd9a8f48100d4",
  "tags": [
   "title:Ih1m5",
   "releasedate:1999-07-23",
@@ -16,17 +24,9 @@
   "tag:badpak",
   "dependency:badpak"
  ],
- "install": {
-  "extract": "{quake}/badpak/maps/"
- },
- "files": {
-  "IH1M5.BSP": {
-   "filesize": 1184936,
-   "timestamp": "1999-07-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ih1m5.zip",
   "https://www.quaddicted.com/files/by-sha256/8/892de7ab3497cb93096a76dbba15c9dbb753d2a687cf52a76e1bd9a8f48100d4/ih1m5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

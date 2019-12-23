@@ -1,33 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "54576b1fb6adfac936c014ff471afefbac3cd9ecb362089234b960741223ac9c",
  "filename": [
   "sm173_pack.zip"
  ],
- "filesize": 1994,
- "tags": [
-  "title:Speedmapping pack 173 - Quake The Way Id Did",
-  "releasedate:2013-12-19",
-  "game:quake",
-  "author:Cocerello",
-  "author:digs",
-  "author:doomer",
-  "author:skacky",
-  "tag:cocerello",
-  "tag:digs",
-  "tag:doomer",
-  "tag:skacky",
-  "tag:qtwid",
-  "tag:quoth",
-  "dependency:quoth",
-  "startmap:sm173_coce",
-  "startmap:sm173_digs",
-  "startmap:sm173_doomer",
-  "startmap:sm173_skacky"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm173_Cocerello.txt": {
    "filesize": 2266,
@@ -62,8 +36,34 @@
    "timestamp": "2013-12-17"
   }
  },
+ "filesize": 1994,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "54576b1fb6adfac936c014ff471afefbac3cd9ecb362089234b960741223ac9c",
+ "tags": [
+  "title:Speedmapping pack 173 - Quake The Way Id Did",
+  "releasedate:2013-12-19",
+  "game:quake",
+  "author:Cocerello",
+  "author:digs",
+  "author:doomer",
+  "author:skacky",
+  "tag:cocerello",
+  "tag:digs",
+  "tag:doomer",
+  "tag:skacky",
+  "tag:qtwid",
+  "tag:quoth",
+  "dependency:quoth",
+  "startmap:sm173_coce",
+  "startmap:sm173_digs",
+  "startmap:sm173_doomer",
+  "startmap:sm173_skacky"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm173_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5/54576b1fb6adfac936c014ff471afefbac3cd9ecb362089234b960741223ac9c/sm173_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

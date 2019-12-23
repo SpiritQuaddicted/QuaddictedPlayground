@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a",
  "filename": [
   "polybase.zip"
  ],
+ "files": {
+  "polygon.bsp": {
+   "filesize": 2060300,
+   "timestamp": "1998-03-15"
+  },
+  "polygon.txt": {
+   "filesize": 3725,
+   "timestamp": "1998-04-25"
+  }
+ },
  "filesize": 857,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a",
  "tags": [
   "title:Polygon Base",
   "releasedate:1998-04-25",
@@ -14,21 +26,9 @@
   "tag:doom port",
   "startmap:polygon"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "polygon.txt": {
-   "filesize": 3725,
-   "timestamp": "1998-04-25"
-  },
-  "polygon.bsp": {
-   "filesize": 2060300,
-   "timestamp": "1998-03-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/polybase.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2d1ae2c4c489cc5c4d86d82adb53b2c6ec3dca9a4d3bba78833bfadbcd3ab33a/polybase.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

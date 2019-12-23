@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "5004b94592577f9754608bc4b08b2ffa3fc66d01ba368b87888ac5f056d3562d",
  "filename": [
   "cool1.zip"
  ],
+ "files": {
+  "cool1.bsp": {
+   "filesize": 1285116,
+   "timestamp": "1997-03-26"
+  },
+  "cool1.txt": {
+   "filesize": 503,
+   "timestamp": "1997-03-26"
+  }
+ },
  "filesize": 406,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5004b94592577f9754608bc4b08b2ffa3fc66d01ba368b87888ac5f056d3562d",
  "tags": [
   "title:Level by Tony Hillman",
   "releasedate:1997-03-26",
@@ -18,21 +30,9 @@
   "tag:textures",
   "tag:no exit"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "cool1.txt": {
-   "filesize": 503,
-   "timestamp": "1997-03-26"
-  },
-  "cool1.bsp": {
-   "filesize": 1285116,
-   "timestamp": "1997-03-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cool1.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5004b94592577f9754608bc4b08b2ffa3fc66d01ba368b87888ac5f056d3562d/cool1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

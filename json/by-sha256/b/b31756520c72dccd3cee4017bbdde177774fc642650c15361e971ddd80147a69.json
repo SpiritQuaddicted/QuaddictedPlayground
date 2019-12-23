@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69",
  "filename": [
   "rpgsmse.zip"
  ],
+ "files": {
+  "rpgsmse.txt": {
+   "filesize": 5276,
+   "timestamp": "2004-01-02"
+  },
+  "rpgsmse1.bsp": {
+   "filesize": 761688,
+   "timestamp": "2004-01-02"
+  },
+  "rpgsmse2.bsp": {
+   "filesize": 734312,
+   "timestamp": "2004-01-02"
+  },
+  "rpgsmse3.bsp": {
+   "filesize": 706520,
+   "timestamp": "2004-01-02"
+  },
+  "rpgsmse4.bsp": {
+   "filesize": 582728,
+   "timestamp": "2004-01-02"
+  },
+  "rpgsmse5.bsp": {
+   "filesize": 617388,
+   "timestamp": "2004-01-01"
+  }
+ },
  "filesize": 1324,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69",
  "tags": [
   "title:Quake Condensed",
   "releasedate:2004-01-02",
@@ -16,37 +44,9 @@
   "tag:qtwid",
   "startmap:rpgsmse1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "rpgsmse.txt": {
-   "filesize": 5276,
-   "timestamp": "2004-01-02"
-  },
-  "rpgsmse3.bsp": {
-   "filesize": 706520,
-   "timestamp": "2004-01-02"
-  },
-  "rpgsmse5.bsp": {
-   "filesize": 617388,
-   "timestamp": "2004-01-01"
-  },
-  "rpgsmse4.bsp": {
-   "filesize": 582728,
-   "timestamp": "2004-01-02"
-  },
-  "rpgsmse1.bsp": {
-   "filesize": 761688,
-   "timestamp": "2004-01-02"
-  },
-  "rpgsmse2.bsp": {
-   "filesize": 734312,
-   "timestamp": "2004-01-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rpgsmse.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69/rpgsmse.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

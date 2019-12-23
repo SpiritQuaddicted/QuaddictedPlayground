@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "e476db6de5a18fedae16b1582fb854523c6adc215f639cd38252aeef90026e48",
  "filename": [
   "sm126_pack.zip"
  ],
- "filesize": 1594,
- "tags": [
-  "title:Speedmapping pack 126 - Mini-Marcher",
-  "releasedate:2006-08-13",
-  "game:quake",
-  "author:generic",
-  "author:negke",
-  "startmap:sm126_generic",
-  "startmap:sm126_neg!ke"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm126_generic.bsp": {
    "filesize": 2068944,
@@ -31,8 +16,23 @@
    "timestamp": "2006-08-13"
   }
  },
+ "filesize": 1594,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e476db6de5a18fedae16b1582fb854523c6adc215f639cd38252aeef90026e48",
+ "tags": [
+  "title:Speedmapping pack 126 - Mini-Marcher",
+  "releasedate:2006-08-13",
+  "game:quake",
+  "author:generic",
+  "author:negke",
+  "startmap:sm126_generic",
+  "startmap:sm126_neg!ke"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm126_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e476db6de5a18fedae16b1582fb854523c6adc215f639cd38252aeef90026e48/sm126_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

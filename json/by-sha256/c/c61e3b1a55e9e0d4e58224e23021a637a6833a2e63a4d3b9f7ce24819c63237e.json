@@ -1,10 +1,58 @@
 {
- "version": "20191222-0",
- "sha256": "c61e3b1a55e9e0d4e58224e23021a637a6833a2e63a4d3b9f7ce24819c63237e",
  "filename": [
   "lthsp2.zip"
  ],
+ "files": {
+  "lthsp1a.txt": {
+   "filesize": 2363,
+   "timestamp": "2001-01-09"
+  },
+  "lthsp2.txt": {
+   "filesize": 2509,
+   "timestamp": "2001-01-09"
+  },
+  "maps/lthsp1.bsp": {
+   "filesize": 1104892,
+   "timestamp": "2001-01-10"
+  },
+  "maps/lthsp2.bsp": {
+   "filesize": 1226052,
+   "timestamp": "2001-01-09"
+  },
+  "progs.dat": {
+   "filesize": 416856,
+   "timestamp": "2001-01-10"
+  },
+  "progs/arrow.mdl": {
+   "filesize": 21739,
+   "timestamp": "2000-08-26"
+  },
+  "progs/enforce2.mdl": {
+   "filesize": 629301,
+   "timestamp": "2000-12-21"
+  },
+  "progs/enforcer.mdl": {
+   "filesize": 649023,
+   "timestamp": "2000-12-21"
+  },
+  "progs/hknight2.mdl": {
+   "filesize": 909361,
+   "timestamp": "2000-12-05"
+  },
+  "progs/k2_spk.mdl": {
+   "filesize": 17584,
+   "timestamp": "2000-12-06"
+  },
+  "quake.rc": {
+   "filesize": 245,
+   "timestamp": "2000-12-06"
+  }
+ },
  "filesize": 1892,
+ "install": {
+  "extract": "{quake}/lthsp2/"
+ },
+ "sha256": "c61e3b1a55e9e0d4e58224e23021a637a6833a2e63a4d3b9f7ce24819c63237e",
  "tags": [
   "title:Backwards Compatible",
   "releasedate:2001-01-10",
@@ -16,57 +64,9 @@
   "tag:ikbase",
   "startmap:lthsp1"
  ],
- "install": {
-  "extract": "{quake}/lthsp2/"
- },
- "files": {
-  "maps/lthsp1.bsp": {
-   "filesize": 1104892,
-   "timestamp": "2001-01-10"
-  },
-  "maps/lthsp2.bsp": {
-   "filesize": 1226052,
-   "timestamp": "2001-01-09"
-  },
-  "lthsp2.txt": {
-   "filesize": 2509,
-   "timestamp": "2001-01-09"
-  },
-  "quake.rc": {
-   "filesize": 245,
-   "timestamp": "2000-12-06"
-  },
-  "progs.dat": {
-   "filesize": 416856,
-   "timestamp": "2001-01-10"
-  },
-  "progs/arrow.mdl": {
-   "filesize": 21739,
-   "timestamp": "2000-08-26"
-  },
-  "progs/hknight2.mdl": {
-   "filesize": 909361,
-   "timestamp": "2000-12-05"
-  },
-  "progs/enforce2.mdl": {
-   "filesize": 629301,
-   "timestamp": "2000-12-21"
-  },
-  "progs/enforcer.mdl": {
-   "filesize": 649023,
-   "timestamp": "2000-12-21"
-  },
-  "progs/k2_spk.mdl": {
-   "filesize": 17584,
-   "timestamp": "2000-12-06"
-  },
-  "lthsp1a.txt": {
-   "filesize": 2363,
-   "timestamp": "2001-01-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c61e3b1a55e9e0d4e58224e23021a637a6833a2e63a4d3b9f7ce24819c63237e/lthsp2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

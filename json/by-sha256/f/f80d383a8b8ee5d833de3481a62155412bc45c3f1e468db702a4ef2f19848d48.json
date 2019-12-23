@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f80d383a8b8ee5d833de3481a62155412bc45c3f1e468db702a4ef2f19848d48",
  "filename": [
   "grc4beta.zip"
  ],
+ "files": {
+  "GRC4BETA.BSP": {
+   "filesize": 2168840,
+   "timestamp": "1997-05-07"
+  },
+  "GRC4BETA.TXT": {
+   "filesize": 3491,
+   "timestamp": "1997-05-07"
+  }
+ },
  "filesize": 892,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f80d383a8b8ee5d833de3481a62155412bc45c3f1e468db702a4ef2f19848d48",
  "tags": [
   "title:Rust in Peace",
   "releasedate:1997-05-07",
@@ -18,21 +30,9 @@
   "tag:traps",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "GRC4BETA.BSP": {
-   "filesize": 2168840,
-   "timestamp": "1997-05-07"
-  },
-  "GRC4BETA.TXT": {
-   "filesize": 3491,
-   "timestamp": "1997-05-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/grc4beta.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f80d383a8b8ee5d833de3481a62155412bc45c3f1e468db702a4ef2f19848d48/grc4beta.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

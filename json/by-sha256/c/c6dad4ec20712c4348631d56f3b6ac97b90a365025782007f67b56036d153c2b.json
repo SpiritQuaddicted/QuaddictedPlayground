@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "c6dad4ec20712c4348631d56f3b6ac97b90a365025782007f67b56036d153c2b",
  "filename": [
   "sm49_pack.zip"
  ],
+ "files": {
+  "sm49_daz.bsp": {
+   "filesize": 987728,
+   "timestamp": "2003-09-13"
+  },
+  "sm49_ewerd.bsp": {
+   "filesize": 192520,
+   "timestamp": "2003-09-13"
+  },
+  "sm49_harb.bsp": {
+   "filesize": 762412,
+   "timestamp": "2003-09-14"
+  },
+  "sm49_metl.bsp": {
+   "filesize": 628696,
+   "timestamp": "2003-09-13"
+  },
+  "sm49_pack.txt": {
+   "filesize": 2108,
+   "timestamp": "2001-09-13"
+  },
+  "sm49_ray.bsp": {
+   "filesize": 832660,
+   "timestamp": "2003-09-13"
+  },
+  "sm49_scampie.bsp": {
+   "filesize": 292116,
+   "timestamp": "2001-09-13"
+  },
+  "sm49_starbuck.bsp": {
+   "filesize": 1138848,
+   "timestamp": "2003-09-14"
+  }
+ },
  "filesize": 1819,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "c6dad4ec20712c4348631d56f3b6ac97b90a365025782007f67b56036d153c2b",
  "tags": [
   "title:Speedmapping pack 49 - Crappy maps",
   "releasedate:2003-09-14",
@@ -28,45 +64,9 @@
   "startmap:sm49_scampie",
   "startmap:sm49_starbuck"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm49_harb.bsp": {
-   "filesize": 762412,
-   "timestamp": "2003-09-14"
-  },
-  "sm49_scampie.bsp": {
-   "filesize": 292116,
-   "timestamp": "2001-09-13"
-  },
-  "sm49_ewerd.bsp": {
-   "filesize": 192520,
-   "timestamp": "2003-09-13"
-  },
-  "sm49_daz.bsp": {
-   "filesize": 987728,
-   "timestamp": "2003-09-13"
-  },
-  "sm49_pack.txt": {
-   "filesize": 2108,
-   "timestamp": "2001-09-13"
-  },
-  "sm49_starbuck.bsp": {
-   "filesize": 1138848,
-   "timestamp": "2003-09-14"
-  },
-  "sm49_metl.bsp": {
-   "filesize": 628696,
-   "timestamp": "2003-09-13"
-  },
-  "sm49_ray.bsp": {
-   "filesize": 832660,
-   "timestamp": "2003-09-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm49_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c6dad4ec20712c4348631d56f3b6ac97b90a365025782007f67b56036d153c2b/sm49_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

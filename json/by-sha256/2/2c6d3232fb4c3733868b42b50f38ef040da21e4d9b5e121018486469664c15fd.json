@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2c6d3232fb4c3733868b42b50f38ef040da21e4d9b5e121018486469664c15fd",
  "filename": [
   "mayhem2.zip"
  ],
+ "files": {
+  "MAYHEM.BSP": {
+   "filesize": 714176,
+   "timestamp": "1997-03-02"
+  },
+  "MAYHEM.TXT": {
+   "filesize": 1856,
+   "timestamp": "1997-03-02"
+  }
+ },
  "filesize": 296,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2c6d3232fb4c3733868b42b50f38ef040da21e4d9b5e121018486469664c15fd",
  "tags": [
   "title:Mayhem",
   "releasedate:1997-03-02",
@@ -17,21 +29,9 @@
   "tag:buttons",
   "startmap:mayhem"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MAYHEM.TXT": {
-   "filesize": 1856,
-   "timestamp": "1997-03-02"
-  },
-  "MAYHEM.BSP": {
-   "filesize": 714176,
-   "timestamp": "1997-03-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mayhem2.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2c6d3232fb4c3733868b42b50f38ef040da21e4d9b5e121018486469664c15fd/mayhem2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

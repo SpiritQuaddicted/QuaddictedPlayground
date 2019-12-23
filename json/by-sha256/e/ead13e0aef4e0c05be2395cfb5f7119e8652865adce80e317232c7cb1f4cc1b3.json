@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ead13e0aef4e0c05be2395cfb5f7119e8652865adce80e317232c7cb1f4cc1b3",
  "filename": [
   "hostile.zip"
  ],
+ "files": {
+  "Hostile.bsp": {
+   "filesize": 1188688,
+   "timestamp": "1997-10-19"
+  },
+  "Hostile.txt": {
+   "filesize": 1849,
+   "timestamp": "1997-10-19"
+  }
+ },
  "filesize": 521,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ead13e0aef4e0c05be2395cfb5f7119e8652865adce80e317232c7cb1f4cc1b3",
  "tags": [
   "title:F**king hostile",
   "releasedate:1997-10-19",
@@ -14,21 +26,9 @@
   "tag:wizard",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Hostile.txt": {
-   "filesize": 1849,
-   "timestamp": "1997-10-19"
-  },
-  "Hostile.bsp": {
-   "filesize": 1188688,
-   "timestamp": "1997-10-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hostile.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ead13e0aef4e0c05be2395cfb5f7119e8652865adce80e317232c7cb1f4cc1b3/hostile.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

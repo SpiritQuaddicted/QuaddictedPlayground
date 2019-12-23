@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc",
  "filename": [
   "cda.zip"
  ],
+ "files": {
+  "CDA.txt": {
+   "filesize": 4712,
+   "timestamp": "2005-10-22"
+  },
+  "PAK0.pak": {
+   "filesize": 10131152,
+   "timestamp": "2005-10-22"
+  }
+ },
  "filesize": 3341,
+ "install": {
+  "extract": "{quake}/cda/"
+ },
+ "sha256": "7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc",
  "tags": [
   "title:Castle of The Dark Ages",
   "releasedate:2005-10-22",
@@ -17,21 +29,9 @@
   "tag:castle",
   "tag:dark"
  ],
- "install": {
-  "extract": "{quake}/cda/"
- },
- "files": {
-  "PAK0.pak": {
-   "filesize": 10131152,
-   "timestamp": "2005-10-22"
-  },
-  "CDA.txt": {
-   "filesize": 4712,
-   "timestamp": "2005-10-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cda.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc/cda.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

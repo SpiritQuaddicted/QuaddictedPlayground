@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b",
  "filename": [
   "thepit_2.zip"
  ],
+ "files": {
+  "thepit.bsp": {
+   "filesize": 2464464,
+   "timestamp": "2001-03-26"
+  },
+  "thepit.txt": {
+   "filesize": 2513,
+   "timestamp": "2001-03-26"
+  }
+ },
  "filesize": 885,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b",
  "tags": [
   "title:The Pit",
   "releasedate:2001-03-26",
@@ -16,21 +28,9 @@
   "tag:dkt",
   "startmap:thepit"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "thepit.txt": {
-   "filesize": 2513,
-   "timestamp": "2001-03-26"
-  },
-  "thepit.bsp": {
-   "filesize": 2464464,
-   "timestamp": "2001-03-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/thepit_2.zip",
   "https://www.quaddicted.com/files/by-sha256/9/98351b73687264e102524bf0ced0e616a84508e84e30a97e17ddf1fd140add6b/thepit_2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

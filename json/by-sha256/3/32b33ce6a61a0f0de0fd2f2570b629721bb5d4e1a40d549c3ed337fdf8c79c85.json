@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85",
  "filename": [
   "houstrps.zip"
  ],
- "filesize": 513,
- "tags": [
-  "title:House of Traps",
-  "releasedate:1996-10-22",
-  "game:quake",
-  "author:Scott McNutt",
-  "tag:small",
-  "tag:wizard",
-  "tag:traps",
-  "tag:start",
-  "tag:old version",
-  "startmap:enterhot"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "ENTERHOT.BSP": {
    "filesize": 559972,
@@ -34,8 +16,26 @@
    "timestamp": "1996-10-22"
   }
  },
+ "filesize": 513,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85",
+ "tags": [
+  "title:House of Traps",
+  "releasedate:1996-10-22",
+  "game:quake",
+  "author:Scott McNutt",
+  "tag:small",
+  "tag:wizard",
+  "tag:traps",
+  "tag:start",
+  "tag:old version",
+  "startmap:enterhot"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/houstrps.zip",
   "https://www.quaddicted.com/files/by-sha256/3/32b33ce6a61a0f0de0fd2f2570b629721bb5d4e1a40d549c3ed337fdf8c79c85/houstrps.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

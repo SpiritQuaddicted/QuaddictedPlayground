@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "74a1c71e170eb072d74c5ea77586baee0eb53d5988636527db2a6d03dc7570fc",
  "filename": [
   "sm62_pack.zip"
  ],
+ "files": {
+  "sm62_lev.bsp": {
+   "filesize": 677884,
+   "timestamp": "2003-12-27"
+  },
+  "sm62_pack.txt": {
+   "filesize": 1550,
+   "timestamp": "2001-09-10"
+  },
+  "sm62_rpg.bsp": {
+   "filesize": 595624,
+   "timestamp": "2001-09-10"
+  },
+  "sm62_than.bsp": {
+   "filesize": 810028,
+   "timestamp": "2003-12-28"
+  },
+  "sm62_zwiffle.bsp": {
+   "filesize": 515216,
+   "timestamp": "2003-12-27"
+  }
+ },
  "filesize": 939,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "74a1c71e170eb072d74c5ea77586baee0eb53d5988636527db2a6d03dc7570fc",
  "tags": [
   "title:Speedmapping pack 62 - Hybrid maps",
   "releasedate:2003-12-28",
@@ -18,33 +42,9 @@
   "startmap:sm62_zwiffle",
   "startmap:sm62_lev"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm62_pack.txt": {
-   "filesize": 1550,
-   "timestamp": "2001-09-10"
-  },
-  "sm62_zwiffle.bsp": {
-   "filesize": 515216,
-   "timestamp": "2003-12-27"
-  },
-  "sm62_lev.bsp": {
-   "filesize": 677884,
-   "timestamp": "2003-12-27"
-  },
-  "sm62_rpg.bsp": {
-   "filesize": 595624,
-   "timestamp": "2001-09-10"
-  },
-  "sm62_than.bsp": {
-   "filesize": 810028,
-   "timestamp": "2003-12-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm62_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7/74a1c71e170eb072d74c5ea77586baee0eb53d5988636527db2a6d03dc7570fc/sm62_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "a69d7f5239df0b9695636b9ada4433944e4598413ebfb28627f847170b647a9a",
  "filename": [
   "undrwrld.zip"
  ],
+ "files": {
+  "undrwrld.bsp": {
+   "filesize": 1330788,
+   "timestamp": "1997-01-11"
+  },
+  "undrwrld.txt": {
+   "filesize": 4032,
+   "timestamp": "1997-01-11"
+  }
+ },
  "filesize": 552,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a69d7f5239df0b9695636b9ada4433944e4598413ebfb28627f847170b647a9a",
  "tags": [
   "title:The Underworld",
   "releasedate:1997-01-11",
@@ -16,21 +28,9 @@
   "tag:traps",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "undrwrld.txt": {
-   "filesize": 4032,
-   "timestamp": "1997-01-11"
-  },
-  "undrwrld.bsp": {
-   "filesize": 1330788,
-   "timestamp": "1997-01-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/undrwrld.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a69d7f5239df0b9695636b9ada4433944e4598413ebfb28627f847170b647a9a/undrwrld.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

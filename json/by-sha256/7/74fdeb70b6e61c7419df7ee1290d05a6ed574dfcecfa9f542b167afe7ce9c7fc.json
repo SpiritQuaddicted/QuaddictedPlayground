@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc",
  "filename": [
   "sm61_pack.zip"
  ],
+ "files": {
+  "sm61_PuLSaR.bsp": {
+   "filesize": 1308340,
+   "timestamp": "1997-06-27"
+  },
+  "sm61_drew.bsp": {
+   "filesize": 655968,
+   "timestamp": "2003-12-12"
+  },
+  "sm61_lev.bsp": {
+   "filesize": 202880,
+   "timestamp": "2003-12-20"
+  },
+  "sm61_pack.txt": {
+   "filesize": 1449,
+   "timestamp": "2003-12-21"
+  },
+  "sm61_scampie.bsp": {
+   "filesize": 588408,
+   "timestamp": "2001-09-03"
+  },
+  "sm61_zwiffle.bsp": {
+   "filesize": 1241556,
+   "timestamp": "2003-12-17"
+  }
+ },
  "filesize": 1401,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc",
  "tags": [
   "title:Speedmapping pack 61 - Unthemed",
   "releasedate:2003-12-21",
@@ -21,37 +49,9 @@
   "startmap:sm61_scampie",
   "startmap:sm61_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm61_lev.bsp": {
-   "filesize": 202880,
-   "timestamp": "2003-12-20"
-  },
-  "sm61_scampie.bsp": {
-   "filesize": 588408,
-   "timestamp": "2001-09-03"
-  },
-  "sm61_pack.txt": {
-   "filesize": 1449,
-   "timestamp": "2003-12-21"
-  },
-  "sm61_drew.bsp": {
-   "filesize": 655968,
-   "timestamp": "2003-12-12"
-  },
-  "sm61_PuLSaR.bsp": {
-   "filesize": 1308340,
-   "timestamp": "1997-06-27"
-  },
-  "sm61_zwiffle.bsp": {
-   "filesize": 1241556,
-   "timestamp": "2003-12-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm61_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7/74fdeb70b6e61c7419df7ee1290d05a6ed574dfcecfa9f542b167afe7ce9c7fc/sm61_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

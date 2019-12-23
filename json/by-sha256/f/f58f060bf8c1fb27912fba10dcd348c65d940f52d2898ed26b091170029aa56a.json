@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "f58f060bf8c1fb27912fba10dcd348c65d940f52d2898ed26b091170029aa56a",
  "filename": [
   "tefdbl.zip"
  ],
+ "files": {
+  "PAK0.PAK": {
+   "filesize": 3269870,
+   "timestamp": "1996-12-02"
+  },
+  "SNAKEMAN.TXT": {
+   "filesize": 4744,
+   "timestamp": "1996-10-24"
+  },
+  "manga.txt": {
+   "filesize": 2019,
+   "timestamp": "1996-11-03"
+  },
+  "spider.txt": {
+   "filesize": 2615,
+   "timestamp": "1996-10-09"
+  },
+  "tefdbl1.txt": {
+   "filesize": 8042,
+   "timestamp": "1996-12-02"
+  }
+ },
  "filesize": 1454,
+ "install": {
+  "extract": "{quake}/tefdbl/"
+ },
+ "sha256": "f58f060bf8c1fb27912fba10dcd348c65d940f52d2898ed26b091170029aa56a",
  "tags": [
   "title:Spawn City / Water World",
   "releasedate:1996-12-02",
@@ -18,33 +42,9 @@
   "tag:medium",
   "startmap:tef_sc"
  ],
- "install": {
-  "extract": "{quake}/tefdbl/"
- },
- "files": {
-  "PAK0.PAK": {
-   "filesize": 3269870,
-   "timestamp": "1996-12-02"
-  },
-  "spider.txt": {
-   "filesize": 2615,
-   "timestamp": "1996-10-09"
-  },
-  "tefdbl1.txt": {
-   "filesize": 8042,
-   "timestamp": "1996-12-02"
-  },
-  "manga.txt": {
-   "filesize": 2019,
-   "timestamp": "1996-11-03"
-  },
-  "SNAKEMAN.TXT": {
-   "filesize": 4744,
-   "timestamp": "1996-10-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tefdbl.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f58f060bf8c1fb27912fba10dcd348c65d940f52d2898ed26b091170029aa56a/tefdbl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

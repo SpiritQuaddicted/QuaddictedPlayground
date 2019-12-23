@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0",
  "filename": [
   "contract.zip"
  ],
+ "files": {
+  "contract.html": {
+   "filesize": 13665,
+   "timestamp": "2004-08-31"
+  },
+  "pak0.pak": {
+   "filesize": 19416397,
+   "timestamp": "2002-06-15"
+  }
+ },
  "filesize": 7073,
+ "install": {
+  "extract": "{quake}/contract/"
+ },
+ "sha256": "d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0",
  "tags": [
   "title:Contract Revoked",
   "releasedate:2002-06-15",
@@ -21,21 +33,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/contract/"
- },
- "files": {
-  "contract.html": {
-   "filesize": 13665,
-   "timestamp": "2004-08-31"
-  },
-  "pak0.pak": {
-   "filesize": 19416397,
-   "timestamp": "2002-06-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/contract.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0/contract.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

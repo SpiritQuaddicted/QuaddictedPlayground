@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae",
  "filename": [
   "terror.zip"
  ],
+ "files": {
+  "terror.bsp": {
+   "filesize": 2009572,
+   "timestamp": "2003-03-30"
+  },
+  "terror.txt": {
+   "filesize": 888,
+   "timestamp": "2003-05-07"
+  }
+ },
  "filesize": 619,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae",
  "tags": [
   "title:The Terracotta Terror",
   "releasedate:2003-05-07",
@@ -17,21 +29,9 @@
   "tag:coagula",
   "tag:castle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "terror.bsp": {
-   "filesize": 2009572,
-   "timestamp": "2003-03-30"
-  },
-  "terror.txt": {
-   "filesize": 888,
-   "timestamp": "2003-05-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/terror.zip",
   "https://www.quaddicted.com/files/by-sha256/9/915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae/terror.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "ea74be3d25b98ac0d4b838490b9e025bfcf895ba9857f7723284dcf778771a4b",
  "filename": [
   "core3.zip"
  ],
- "filesize": 255,
- "tags": [
-  "title:The Core",
-  "releasedate:1998-01-12",
-  "game:quake",
-  "author:Miko",
-  "tag:small",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "core.txt": {
    "filesize": 2179,
@@ -30,8 +16,22 @@
    "timestamp": "1998-01-12"
   }
  },
+ "filesize": 255,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ea74be3d25b98ac0d4b838490b9e025bfcf895ba9857f7723284dcf778771a4b",
+ "tags": [
+  "title:The Core",
+  "releasedate:1998-01-12",
+  "game:quake",
+  "author:Miko",
+  "tag:small",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/core3.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ea74be3d25b98ac0d4b838490b9e025bfcf895ba9857f7723284dcf778771a4b/core3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

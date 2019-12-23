@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db",
  "filename": [
   "bellesh.zip"
  ],
- "filesize": 502,
- "tags": [
-  "title:The Bellesh Base",
-  "releasedate:2007-02-16",
-  "game:quake",
-  "author:Cristian Martinez",
-  "tag:small",
-  "tag:base",
-  "startmap:bellesh",
-  "startmap:ebellesh"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "bellesh.bsp": {
    "filesize": 582732,
@@ -36,8 +20,24 @@
    "timestamp": "2007-01-30"
   }
  },
+ "filesize": 502,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db",
+ "tags": [
+  "title:The Bellesh Base",
+  "releasedate:2007-02-16",
+  "game:quake",
+  "author:Cristian Martinez",
+  "tag:small",
+  "tag:base",
+  "startmap:bellesh",
+  "startmap:ebellesh"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/bellesh.zip",
   "https://www.quaddicted.com/files/by-sha256/2/29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db/bellesh.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

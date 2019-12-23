@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "1351061ead4aa9805ce84a4d428ac8df53dadd411e74a52238fa30e9d6d7a3c6",
  "filename": [
   "tcoa.zip"
  ],
+ "files": {
+  "tcoa.bsp": {
+   "filesize": 2993420,
+   "timestamp": "2007-02-06"
+  },
+  "tcoa.map": {
+   "filesize": 2863323,
+   "timestamp": "2007-02-06"
+  },
+  "tcoa.txt": {
+   "filesize": 4559,
+   "timestamp": "2007-02-06"
+  }
+ },
  "filesize": 1283,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1351061ead4aa9805ce84a4d428ac8df53dadd411e74a52238fa30e9d6d7a3c6",
  "tags": [
   "title:The City of Angels",
   "releasedate:2007-02-06",
@@ -15,25 +31,9 @@
   "tag:castle",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "tcoa.txt": {
-   "filesize": 4559,
-   "timestamp": "2007-02-06"
-  },
-  "tcoa.bsp": {
-   "filesize": 2993420,
-   "timestamp": "2007-02-06"
-  },
-  "tcoa.map": {
-   "filesize": 2863323,
-   "timestamp": "2007-02-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tcoa.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1351061ead4aa9805ce84a4d428ac8df53dadd411e74a52238fa30e9d6d7a3c6/tcoa.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

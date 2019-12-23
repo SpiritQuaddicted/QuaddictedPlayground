@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "5a8d904469726032d92aa3cd9560dac51ec81c9150f84e2624fe1f0623d893ae",
  "filename": [
   "ssm.zip"
  ],
+ "files": {
+  "ssm.bsp": {
+   "filesize": 1404776,
+   "timestamp": "2007-04-16"
+  },
+  "ssm.map": {
+   "filesize": 1009018,
+   "timestamp": "2007-04-16"
+  },
+  "ssm.txt": {
+   "filesize": 600,
+   "timestamp": "2007-04-16"
+  }
+ },
  "filesize": 694,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5a8d904469726032d92aa3cd9560dac51ec81c9150f84e2624fe1f0623d893ae",
  "tags": [
   "title:The Sewage System Massacre",
   "releasedate:2007-04-16",
@@ -18,25 +34,9 @@
   "tag:e4m1",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ssm.map": {
-   "filesize": 1009018,
-   "timestamp": "2007-04-16"
-  },
-  "ssm.bsp": {
-   "filesize": 1404776,
-   "timestamp": "2007-04-16"
-  },
-  "ssm.txt": {
-   "filesize": 600,
-   "timestamp": "2007-04-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ssm.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5a8d904469726032d92aa3cd9560dac51ec81c9150f84e2624fe1f0623d893ae/ssm.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

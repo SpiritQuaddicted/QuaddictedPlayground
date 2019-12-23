@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8c6d056aff2617e900845711630c5a016a9f3db11bda59925142dfe33fb8bde0",
  "filename": [
   "haunting.zip"
  ],
- "filesize": 6585,
- "tags": [
-  "title:Autumn Haunting",
-  "releasedate:2003-12-28",
-  "game:quake",
-  "commandline:-game haunting",
-  "author:Shaun [Kona] Ross",
-  "tag:medieval",
-  "tag:castle"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "haunting/haunting.txt": {
    "filesize": 5277,
@@ -27,8 +12,23 @@
    "timestamp": "2003-07-09"
   }
  },
+ "filesize": 6585,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "8c6d056aff2617e900845711630c5a016a9f3db11bda59925142dfe33fb8bde0",
+ "tags": [
+  "title:Autumn Haunting",
+  "releasedate:2003-12-28",
+  "game:quake",
+  "commandline:-game haunting",
+  "author:Shaun [Kona] Ross",
+  "tag:medieval",
+  "tag:castle"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/haunting.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8c6d056aff2617e900845711630c5a016a9f3db11bda59925142dfe33fb8bde0/haunting.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

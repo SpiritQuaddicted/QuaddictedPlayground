@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d",
  "filename": [
   "q1tm3.zip"
  ],
+ "files": {
+  "q1tm3.txt": {
+   "filesize": 1138,
+   "timestamp": "2001-09-03"
+  },
+  "q1tm3_hrimfaxi.bsp": {
+   "filesize": 4932856,
+   "timestamp": "2004-01-13"
+  },
+  "q1tm3_hrimfaxi.txt": {
+   "filesize": 2691,
+   "timestamp": "2004-01-12"
+  },
+  "q1tm3_hrimfaxi2.bsp": {
+   "filesize": 3563208,
+   "timestamp": "2004-01-12"
+  },
+  "q1tm3_lev.bsp": {
+   "filesize": 960588,
+   "timestamp": "2004-01-09"
+  },
+  "q1tm3_lev.txt": {
+   "filesize": 1542,
+   "timestamp": "2004-01-09"
+  },
+  "q1tm3_zwiffle.bsp": {
+   "filesize": 4011108,
+   "timestamp": "2004-01-08"
+  }
+ },
  "filesize": 4630,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d",
  "tags": [
   "title:Quake Turtlemap 3",
   "releasedate:2004-01-13",
@@ -23,41 +55,9 @@
   "startmap:q1tm3_lev",
   "startmap:q1tm3_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "q1tm3_hrimfaxi.txt": {
-   "filesize": 2691,
-   "timestamp": "2004-01-12"
-  },
-  "q1tm3_zwiffle.bsp": {
-   "filesize": 4011108,
-   "timestamp": "2004-01-08"
-  },
-  "q1tm3_hrimfaxi.bsp": {
-   "filesize": 4932856,
-   "timestamp": "2004-01-13"
-  },
-  "q1tm3.txt": {
-   "filesize": 1138,
-   "timestamp": "2001-09-03"
-  },
-  "q1tm3_hrimfaxi2.bsp": {
-   "filesize": 3563208,
-   "timestamp": "2004-01-12"
-  },
-  "q1tm3_lev.bsp": {
-   "filesize": 960588,
-   "timestamp": "2004-01-09"
-  },
-  "q1tm3_lev.txt": {
-   "filesize": 1542,
-   "timestamp": "2004-01-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm3.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dc6761d96e42e5ec69a88a2b3df93fd5c01fa4986b846d77b72a64f8f936971d/q1tm3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

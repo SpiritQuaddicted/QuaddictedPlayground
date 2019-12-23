@@ -1,10 +1,58 @@
 {
- "version": "20191222-0",
- "sha256": "8eb8aac8822723d303523f6001a428a1070d659d7769c5bf3b9efc0085e7ead5",
  "filename": [
   "escape.zip"
  ],
+ "files": {
+  "Escape.txt": {
+   "filesize": 6927,
+   "timestamp": "1999-10-17"
+  },
+  "PROGS.DAT": {
+   "filesize": 419672,
+   "timestamp": "1999-04-09"
+  },
+  "maps/escape.bsp": {
+   "filesize": 509468,
+   "timestamp": "1999-04-09"
+  },
+  "maps/escape2.bsp": {
+   "filesize": 1087188,
+   "timestamp": "1999-04-09"
+  },
+  "maps/escape3.bsp": {
+   "filesize": 980068,
+   "timestamp": "1999-05-02"
+  },
+  "maps/escape4.bsp": {
+   "filesize": 767052,
+   "timestamp": "1999-05-02"
+  },
+  "maps/escape5.bsp": {
+   "filesize": 743484,
+   "timestamp": "1999-08-22"
+  },
+  "maps/harbstar.bsp": {
+   "filesize": 348072,
+   "timestamp": "1999-04-09"
+  },
+  "progs/boss.mdl": {
+   "filesize": 211836,
+   "timestamp": "1999-07-29"
+  },
+  "progs/lavaball.mdl": {
+   "filesize": 81900,
+   "timestamp": "1999-07-29"
+  },
+  "progs/rat.mdl": {
+   "filesize": 137841,
+   "timestamp": "1999-04-09"
+  }
+ },
  "filesize": 2135,
+ "install": {
+  "extract": "{quake}/escape/"
+ },
+ "sha256": "8eb8aac8822723d303523f6001a428a1070d659d7769c5bf3b9efc0085e7ead5",
  "tags": [
   "title:Escape",
   "releasedate:1999-10-17",
@@ -21,57 +69,9 @@
   "tag:fish",
   "startmap:harbstar"
  ],
- "install": {
-  "extract": "{quake}/escape/"
- },
- "files": {
-  "maps/escape.bsp": {
-   "filesize": 509468,
-   "timestamp": "1999-04-09"
-  },
-  "maps/escape3.bsp": {
-   "filesize": 980068,
-   "timestamp": "1999-05-02"
-  },
-  "maps/escape4.bsp": {
-   "filesize": 767052,
-   "timestamp": "1999-05-02"
-  },
-  "maps/escape2.bsp": {
-   "filesize": 1087188,
-   "timestamp": "1999-04-09"
-  },
-  "maps/harbstar.bsp": {
-   "filesize": 348072,
-   "timestamp": "1999-04-09"
-  },
-  "maps/escape5.bsp": {
-   "filesize": 743484,
-   "timestamp": "1999-08-22"
-  },
-  "PROGS.DAT": {
-   "filesize": 419672,
-   "timestamp": "1999-04-09"
-  },
-  "Escape.txt": {
-   "filesize": 6927,
-   "timestamp": "1999-10-17"
-  },
-  "progs/boss.mdl": {
-   "filesize": 211836,
-   "timestamp": "1999-07-29"
-  },
-  "progs/lavaball.mdl": {
-   "filesize": 81900,
-   "timestamp": "1999-07-29"
-  },
-  "progs/rat.mdl": {
-   "filesize": 137841,
-   "timestamp": "1999-04-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/escape.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8eb8aac8822723d303523f6001a428a1070d659d7769c5bf3b9efc0085e7ead5/escape.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

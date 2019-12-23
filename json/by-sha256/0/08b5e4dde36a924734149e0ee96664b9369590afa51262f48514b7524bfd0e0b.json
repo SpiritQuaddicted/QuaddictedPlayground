@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "08b5e4dde36a924734149e0ee96664b9369590afa51262f48514b7524bfd0e0b",
  "filename": [
   "qfract-beta1.zip"
  ],
+ "files": {
+  "fracture/pak0.pak": {
+   "filesize": 2616544,
+   "timestamp": "1999-05-13"
+  },
+  "install.txt": {
+   "filesize": 344,
+   "timestamp": "2001-05-29"
+  },
+  "readme.txt": {
+   "filesize": 474,
+   "timestamp": "2001-05-29"
+  }
+ },
  "filesize": 1064,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "08b5e4dde36a924734149e0ee96664b9369590afa51262f48514b7524bfd0e0b",
  "tags": [
   "title:Fracture",
   "releasedate:2001-05-29",
@@ -16,25 +32,9 @@
   "tag:start map",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "install.txt": {
-   "filesize": 344,
-   "timestamp": "2001-05-29"
-  },
-  "readme.txt": {
-   "filesize": 474,
-   "timestamp": "2001-05-29"
-  },
-  "fracture/pak0.pak": {
-   "filesize": 2616544,
-   "timestamp": "1999-05-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/qfract-beta1.zip",
   "https://www.quaddicted.com/files/by-sha256/0/08b5e4dde36a924734149e0ee96664b9369590afa51262f48514b7524bfd0e0b/qfract-beta1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "10485659a6511916fc75ed52258b45dada1dd28e17163f4c1d1130d9b675d471",
  "filename": [
   "sm122_pack.zip"
  ],
+ "files": {
+  "sm122_bambuz.bsp": {
+   "filesize": 414080,
+   "timestamp": "2006-04-04"
+  },
+  "sm122_generic.bsp": {
+   "filesize": 951380,
+   "timestamp": "2006-04-04"
+  },
+  "sm122_pack.txt": {
+   "filesize": 1324,
+   "timestamp": "2006-04-05"
+  }
+ },
  "filesize": 517,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "10485659a6511916fc75ed52258b45dada1dd28e17163f4c1d1130d9b675d471",
  "tags": [
   "title:Speedmapping pack 122 - EVIL DEAD PRISON RAPE BREAK OUT MASTURBATORY HAPPY TIME!",
   "releasedate:2006-04-05",
@@ -14,25 +30,9 @@
   "startmap:sm122_generic",
   "startmap:sm122_bambuz"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm122_pack.txt": {
-   "filesize": 1324,
-   "timestamp": "2006-04-05"
-  },
-  "sm122_bambuz.bsp": {
-   "filesize": 414080,
-   "timestamp": "2006-04-04"
-  },
-  "sm122_generic.bsp": {
-   "filesize": 951380,
-   "timestamp": "2006-04-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm122_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/10485659a6511916fc75ed52258b45dada1dd28e17163f4c1d1130d9b675d471/sm122_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

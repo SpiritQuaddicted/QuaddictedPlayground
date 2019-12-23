@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "999ab680666d099ea91fd1c77e5df0aac475855c31e07b1f498999b569308dce",
  "filename": [
   "sadlark8.zip"
  ],
+ "files": {
+  "sadlark8.bsp": {
+   "filesize": 1939384,
+   "timestamp": "1997-11-14"
+  },
+  "sadlark8.txt": {
+   "filesize": 2687,
+   "timestamp": "1997-11-16"
+  }
+ },
  "filesize": 794,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "999ab680666d099ea91fd1c77e5df0aac475855c31e07b1f498999b569308dce",
  "tags": [
   "title:Temple of Amon-Sadlark",
   "releasedate:1997-11-16",
@@ -17,21 +29,9 @@
   "tag:traps",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sadlark8.txt": {
-   "filesize": 2687,
-   "timestamp": "1997-11-16"
-  },
-  "sadlark8.bsp": {
-   "filesize": 1939384,
-   "timestamp": "1997-11-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark8.zip",
   "https://www.quaddicted.com/files/by-sha256/9/999ab680666d099ea91fd1c77e5df0aac475855c31e07b1f498999b569308dce/sadlark8.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

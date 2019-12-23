@@ -1,55 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031",
  "filename": [
   "func_mapjam1.zip"
  ],
- "filesize": 22609,
- "tags": [
-  "title:Func Map Jam 1 - Honey Theme",
-  "releasedate:2014-07-06",
-  "game:quake",
-  "commandline:-game func_mapjam1",
-  "author:ArrrCee",
-  "author:digs",
-  "author:DOOMer",
-  "author:ericw",
-  "author:FifthElephant",
-  "author:ionous/mfx",
-  "author:mechtech",
-  "author:onetruepurple",
-  "author:RickyT23",
-  "author:Scampie",
-  "author:skacky",
-  "author:sock",
-  "tag:large",
-  "tag:medium",
-  "tag:small",
-  "tag:medieval",
-  "tag:cistern",
-  "tag:bricks",
-  "tag:fog",
-  "tag:source",
-  "tag:honey",
-  "tag:jam",
-  "tag:mfx",
-  "tag:chains",
-  "startmap:jam1_arrrcee",
-  "startmap:jam1_digs",
-  "startmap:jam1_doomer",
-  "startmap:jam1_ericw",
-  "startmap:jam1_fifth",
-  "startmap:jam1_ionous",
-  "startmap:jam1_mechtech",
-  "startmap:jam1_otp",
-  "startmap:jam1_rickyt23",
-  "startmap:jam1_scampie",
-  "startmap:jam1_skacky",
-  "startmap:jam1_sock"
- ],
- "install": {
-  "extract": "{quake}/func_mapjam1/"
- },
  "files": {
   "docs/jam1_arrrcee.txt": {
    "filesize": 1309,
@@ -276,8 +228,56 @@
    "timestamp": "2014-07-06"
   }
  },
+ "filesize": 22609,
+ "install": {
+  "extract": "{quake}/func_mapjam1/"
+ },
+ "sha256": "6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031",
+ "tags": [
+  "title:Func Map Jam 1 - Honey Theme",
+  "releasedate:2014-07-06",
+  "game:quake",
+  "commandline:-game func_mapjam1",
+  "author:ArrrCee",
+  "author:digs",
+  "author:DOOMer",
+  "author:ericw",
+  "author:FifthElephant",
+  "author:ionous/mfx",
+  "author:mechtech",
+  "author:onetruepurple",
+  "author:RickyT23",
+  "author:Scampie",
+  "author:skacky",
+  "author:sock",
+  "tag:large",
+  "tag:medium",
+  "tag:small",
+  "tag:medieval",
+  "tag:cistern",
+  "tag:bricks",
+  "tag:fog",
+  "tag:source",
+  "tag:honey",
+  "tag:jam",
+  "tag:mfx",
+  "tag:chains",
+  "startmap:jam1_arrrcee",
+  "startmap:jam1_digs",
+  "startmap:jam1_doomer",
+  "startmap:jam1_ericw",
+  "startmap:jam1_fifth",
+  "startmap:jam1_ionous",
+  "startmap:jam1_mechtech",
+  "startmap:jam1_otp",
+  "startmap:jam1_rickyt23",
+  "startmap:jam1_scampie",
+  "startmap:jam1_skacky",
+  "startmap:jam1_sock"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjam1.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031/func_mapjam1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

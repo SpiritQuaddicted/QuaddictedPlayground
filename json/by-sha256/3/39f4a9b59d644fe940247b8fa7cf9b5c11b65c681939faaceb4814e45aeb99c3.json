@@ -1,10 +1,118 @@
 {
- "version": "20191222-0",
- "sha256": "39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3",
  "filename": [
   "ne_lend_doom.zip"
  ],
+ "files": {
+  "gfx/env/nebulabk.tga": {
+   "filesize": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebuladn.tga": {
+   "filesize": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebulaft.tga": {
+   "filesize": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebulalf.tga": {
+   "filesize": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebulart.tga": {
+   "filesize": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "gfx/env/nebulaup.tga": {
+   "filesize": 786476,
+   "timestamp": "2005-10-17"
+  },
+  "maps/ne_doom.bsp": {
+   "filesize": 4281120,
+   "timestamp": "2008-08-18"
+  },
+  "maps/ne_lend.bsp": {
+   "filesize": 6948196,
+   "timestamp": "2008-08-18"
+  },
+  "ne_doom.txt": {
+   "filesize": 5311,
+   "timestamp": "2008-08-18"
+  },
+  "ne_lend.txt": {
+   "filesize": 4957,
+   "timestamp": "2008-08-18"
+  },
+  "skybox_nebula.txt": {
+   "filesize": 1022,
+   "timestamp": "2008-08-18"
+  },
+  "sound/ambience/grinder.wav": {
+   "filesize": 264572,
+   "timestamp": "2004-08-11"
+  },
+  "sound/ambience/suspense.wav": {
+   "filesize": 397868,
+   "timestamp": "2004-02-21"
+  },
+  "sound/ambience/teeth.wav": {
+   "filesize": 51600,
+   "timestamp": "2004-08-11"
+  },
+  "sound/necros/cavern.wav": {
+   "filesize": 286264,
+   "timestamp": "2008-08-16"
+  },
+  "sound/necros/cavern2.wav": {
+   "filesize": 1855624,
+   "timestamp": "2008-08-16"
+  },
+  "sound/necros/drivshft.wav": {
+   "filesize": 385808,
+   "timestamp": "2008-08-18"
+  },
+  "sound/necros/gate.wav": {
+   "filesize": 157958,
+   "timestamp": "2005-08-09"
+  },
+  "sound/necros/gateuse.wav": {
+   "filesize": 113574,
+   "timestamp": "2008-08-15"
+  },
+  "sound/necros/gen_loop.wav": {
+   "filesize": 44230,
+   "timestamp": "2004-08-11"
+  },
+  "sound/necros/gen_on.wav": {
+   "filesize": 95256,
+   "timestamp": "2004-07-16"
+  },
+  "sound/necros/lock.wav": {
+   "filesize": 29320,
+   "timestamp": "2004-07-16"
+  },
+  "sound/necros/ne_lava.wav": {
+   "filesize": 688210,
+   "timestamp": "2008-08-16"
+  },
+  "sound/necros/spikelp.wav": {
+   "filesize": 33644,
+   "timestamp": "2004-07-17"
+  },
+  "sound/necros/spikeoff.wav": {
+   "filesize": 147608,
+   "timestamp": "2004-07-18"
+  },
+  "sound/necros/wat_cave.wav": {
+   "filesize": 117614,
+   "timestamp": "2008-08-16"
+  }
+ },
  "filesize": 10953,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3",
  "tags": [
   "title:The Living End &amp; Elder World Waystation",
   "releasedate:2008-08-18",
@@ -28,117 +136,9 @@
   "startmap:ne_lend",
   "startmap:ne_doom"
  ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
- "files": {
-  "ne_lend.txt": {
-   "filesize": 4957,
-   "timestamp": "2008-08-18"
-  },
-  "maps/ne_doom.bsp": {
-   "filesize": 4281120,
-   "timestamp": "2008-08-18"
-  },
-  "maps/ne_lend.bsp": {
-   "filesize": 6948196,
-   "timestamp": "2008-08-18"
-  },
-  "ne_doom.txt": {
-   "filesize": 5311,
-   "timestamp": "2008-08-18"
-  },
-  "sound/ambience/grinder.wav": {
-   "filesize": 264572,
-   "timestamp": "2004-08-11"
-  },
-  "sound/ambience/teeth.wav": {
-   "filesize": 51600,
-   "timestamp": "2004-08-11"
-  },
-  "sound/ambience/suspense.wav": {
-   "filesize": 397868,
-   "timestamp": "2004-02-21"
-  },
-  "sound/necros/lock.wav": {
-   "filesize": 29320,
-   "timestamp": "2004-07-16"
-  },
-  "sound/necros/drivshft.wav": {
-   "filesize": 385808,
-   "timestamp": "2008-08-18"
-  },
-  "sound/necros/cavern.wav": {
-   "filesize": 286264,
-   "timestamp": "2008-08-16"
-  },
-  "sound/necros/gen_loop.wav": {
-   "filesize": 44230,
-   "timestamp": "2004-08-11"
-  },
-  "sound/necros/wat_cave.wav": {
-   "filesize": 117614,
-   "timestamp": "2008-08-16"
-  },
-  "sound/necros/gen_on.wav": {
-   "filesize": 95256,
-   "timestamp": "2004-07-16"
-  },
-  "sound/necros/spikeoff.wav": {
-   "filesize": 147608,
-   "timestamp": "2004-07-18"
-  },
-  "sound/necros/gate.wav": {
-   "filesize": 157958,
-   "timestamp": "2005-08-09"
-  },
-  "sound/necros/cavern2.wav": {
-   "filesize": 1855624,
-   "timestamp": "2008-08-16"
-  },
-  "sound/necros/ne_lava.wav": {
-   "filesize": 688210,
-   "timestamp": "2008-08-16"
-  },
-  "sound/necros/spikelp.wav": {
-   "filesize": 33644,
-   "timestamp": "2004-07-17"
-  },
-  "sound/necros/gateuse.wav": {
-   "filesize": 113574,
-   "timestamp": "2008-08-15"
-  },
-  "gfx/env/nebuladn.tga": {
-   "filesize": 786476,
-   "timestamp": "2005-10-17"
-  },
-  "gfx/env/nebulaft.tga": {
-   "filesize": 786476,
-   "timestamp": "2005-10-17"
-  },
-  "gfx/env/nebulart.tga": {
-   "filesize": 786476,
-   "timestamp": "2005-10-17"
-  },
-  "gfx/env/nebulabk.tga": {
-   "filesize": 786476,
-   "timestamp": "2005-10-17"
-  },
-  "gfx/env/nebulalf.tga": {
-   "filesize": 786476,
-   "timestamp": "2005-10-17"
-  },
-  "gfx/env/nebulaup.tga": {
-   "filesize": 786476,
-   "timestamp": "2005-10-17"
-  },
-  "skybox_nebula.txt": {
-   "filesize": 1022,
-   "timestamp": "2008-08-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ne_lend_doom.zip",
   "https://www.quaddicted.com/files/by-sha256/3/39f4a9b59d644fe940247b8fa7cf9b5c11b65c681939faaceb4814e45aeb99c3/ne_lend_doom.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

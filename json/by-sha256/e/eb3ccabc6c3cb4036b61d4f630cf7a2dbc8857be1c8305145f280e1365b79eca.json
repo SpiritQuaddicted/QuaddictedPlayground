@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "eb3ccabc6c3cb4036b61d4f630cf7a2dbc8857be1c8305145f280e1365b79eca",
  "filename": [
   "limbo2.zip"
  ],
- "filesize": 1301,
- "tags": [
-  "title:Return to Limbo - I",
-  "releasedate:2017-07-16",
-  "game:quake",
-  "commandline:-hipnotic",
-  "author:Qmaster",
-  "tag:medium",
-  "tag:soa",
-  "tag:hipnotic",
-  "tag:metal",
-  "tag:source",
-  "dependency:hipnotic"
- ],
- "install": {
-  "extract": "{quake}/hipnotic/maps/"
- },
  "files": {
   "limbo2.bsp": {
    "filesize": 1849592,
@@ -39,8 +20,27 @@
    "timestamp": "2017-07-16"
   }
  },
+ "filesize": 1301,
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "sha256": "eb3ccabc6c3cb4036b61d4f630cf7a2dbc8857be1c8305145f280e1365b79eca",
+ "tags": [
+  "title:Return to Limbo - I",
+  "releasedate:2017-07-16",
+  "game:quake",
+  "commandline:-hipnotic",
+  "author:Qmaster",
+  "tag:medium",
+  "tag:soa",
+  "tag:hipnotic",
+  "tag:metal",
+  "tag:source",
+  "dependency:hipnotic"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/limbo2.zip",
   "https://www.quaddicted.com/files/by-sha256/e/eb3ccabc6c3cb4036b61d4f630cf7a2dbc8857be1c8305145f280e1365b79eca/limbo2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

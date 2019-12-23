@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1",
  "filename": [
   "shoot.zip"
  ],
+ "files": {
+  "shoot/pak0.pak": {
+   "filesize": 2560581,
+   "timestamp": "1997-12-28"
+  },
+  "shoot/shoot.bat": {
+   "filesize": 34,
+   "timestamp": "1997-12-27"
+  },
+  "shoot/shoot.txt": {
+   "filesize": 1632,
+   "timestamp": "1998-01-05"
+  },
+  "shoot/source.zip": {
+   "filesize": 253248,
+   "timestamp": "1998-01-05"
+  },
+  "shoot/winshoot.bat": {
+   "filesize": 37,
+   "timestamp": "1997-12-27"
+  }
+ },
  "filesize": 957,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1",
  "tags": [
   "title:Shoot",
   "releasedate:1998-01-05",
@@ -16,33 +40,9 @@
   "tag:tiny",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "shoot/winshoot.bat": {
-   "filesize": 37,
-   "timestamp": "1997-12-27"
-  },
-  "shoot/shoot.txt": {
-   "filesize": 1632,
-   "timestamp": "1998-01-05"
-  },
-  "shoot/source.zip": {
-   "filesize": 253248,
-   "timestamp": "1998-01-05"
-  },
-  "shoot/pak0.pak": {
-   "filesize": 2560581,
-   "timestamp": "1997-12-28"
-  },
-  "shoot/shoot.bat": {
-   "filesize": 34,
-   "timestamp": "1997-12-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/shoot.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1/shoot.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

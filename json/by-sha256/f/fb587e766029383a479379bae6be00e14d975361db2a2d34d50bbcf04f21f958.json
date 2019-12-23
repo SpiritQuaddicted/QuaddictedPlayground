@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "fb587e766029383a479379bae6be00e14d975361db2a2d34d50bbcf04f21f958",
  "filename": [
   "add2.zip"
  ],
+ "files": {
+  "Pak0.PAK": {
+   "filesize": 9362153,
+   "timestamp": "2003-05-07"
+  },
+  "add2.txt": {
+   "filesize": 873,
+   "timestamp": "2003-05-07"
+  }
+ },
  "filesize": 4137,
+ "install": {
+  "extract": "{quake}/add2/"
+ },
+ "sha256": "fb587e766029383a479379bae6be00e14d975361db2a2d34d50bbcf04f21f958",
  "tags": [
   "title:ADD2: Scorpion Garrison",
   "releasedate:2003-05-07",
@@ -17,21 +29,9 @@
   "tag:soa",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/add2/"
- },
- "files": {
-  "add2.txt": {
-   "filesize": 873,
-   "timestamp": "2003-05-07"
-  },
-  "Pak0.PAK": {
-   "filesize": 9362153,
-   "timestamp": "2003-05-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/add2.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fb587e766029383a479379bae6be00e14d975361db2a2d34d50bbcf04f21f958/add2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

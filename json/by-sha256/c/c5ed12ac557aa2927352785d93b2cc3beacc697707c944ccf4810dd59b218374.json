@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c5ed12ac557aa2927352785d93b2cc3beacc697707c944ccf4810dd59b218374",
  "filename": [
   "chaos.zip"
  ],
+ "files": {
+  "chaos.bsp": {
+   "filesize": 1508316,
+   "timestamp": "1997-12-03"
+  },
+  "chaos.txt": {
+   "filesize": 4553,
+   "timestamp": "1998-02-19"
+  }
+ },
  "filesize": 622,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c5ed12ac557aa2927352785d93b2cc3beacc697707c944ccf4810dd59b218374",
  "tags": [
   "title:The Crawling Chaos",
   "releasedate:1998-02-19",
@@ -16,21 +28,9 @@
   "tag:medium",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "chaos.bsp": {
-   "filesize": 1508316,
-   "timestamp": "1997-12-03"
-  },
-  "chaos.txt": {
-   "filesize": 4553,
-   "timestamp": "1998-02-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/chaos.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c5ed12ac557aa2927352785d93b2cc3beacc697707c944ccf4810dd59b218374/chaos.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

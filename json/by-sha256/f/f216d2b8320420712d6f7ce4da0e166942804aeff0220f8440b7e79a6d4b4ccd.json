@@ -1,33 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f216d2b8320420712d6f7ce4da0e166942804aeff0220f8440b7e79a6d4b4ccd",
  "filename": [
   "deepness.zip"
  ],
- "filesize": 10336,
- "tags": [
-  "title:The Deepness Below",
-  "releasedate:2018-10-01",
-  "game:quake",
-  "commandline:-game deepness",
-  "author:Redfield",
-  "tag:small",
-  "tag:underwater",
-  "tag:sea",
-  "tag:ocean",
-  "tag:textures",
-  "tag:monsters",
-  "tag:weapons",
-  "tag:limits",
-  "tag:disney",
-  "tag:little mermaid",
-  "tag:start",
-  "startmap:start",
-  "startmap:deepness"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "deepness/Quake_deep.fgd": {
    "filesize": 20649,
@@ -510,8 +484,34 @@
    "timestamp": "2018-09-10"
   }
  },
+ "filesize": 10336,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "f216d2b8320420712d6f7ce4da0e166942804aeff0220f8440b7e79a6d4b4ccd",
+ "tags": [
+  "title:The Deepness Below",
+  "releasedate:2018-10-01",
+  "game:quake",
+  "commandline:-game deepness",
+  "author:Redfield",
+  "tag:small",
+  "tag:underwater",
+  "tag:sea",
+  "tag:ocean",
+  "tag:textures",
+  "tag:monsters",
+  "tag:weapons",
+  "tag:limits",
+  "tag:disney",
+  "tag:little mermaid",
+  "tag:start",
+  "startmap:start",
+  "startmap:deepness"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/deepness.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f216d2b8320420712d6f7ce4da0e166942804aeff0220f8440b7e79a6d4b4ccd/deepness.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

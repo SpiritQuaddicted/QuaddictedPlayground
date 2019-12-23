@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934",
  "filename": [
   "boss.zip"
  ],
+ "files": {
+  "boss_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  },
+  "chthon/boss.txt": {
+   "filesize": 2854,
+   "timestamp": "1997-01-29"
+  },
+  "chthon/chthon!.txt": {
+   "filesize": 5753,
+   "timestamp": "1996-11-26"
+  },
+  "chthon/maps/boss.bsp": {
+   "filesize": 344864,
+   "timestamp": "1997-01-29"
+  },
+  "chthon/progs.dat": {
+   "filesize": 418064,
+   "timestamp": "1996-11-25"
+  },
+  "chthon/progs/h_boss.mdl": {
+   "filesize": 61060,
+   "timestamp": "1996-08-03"
+  }
+ },
  "filesize": 288,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934",
  "tags": [
   "title:The Boss",
   "releasedate:1997-01-29",
@@ -19,37 +47,9 @@
   "tag:boss",
   "startmap:boss"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "boss_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "chthon/boss.txt": {
-   "filesize": 2854,
-   "timestamp": "1997-01-29"
-  },
-  "chthon/maps/boss.bsp": {
-   "filesize": 344864,
-   "timestamp": "1997-01-29"
-  },
-  "chthon/progs.dat": {
-   "filesize": 418064,
-   "timestamp": "1996-11-25"
-  },
-  "chthon/chthon!.txt": {
-   "filesize": 5753,
-   "timestamp": "1996-11-26"
-  },
-  "chthon/progs/h_boss.mdl": {
-   "filesize": 61060,
-   "timestamp": "1996-08-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/boss.zip",
   "https://www.quaddicted.com/files/by-sha256/6/61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934/boss.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

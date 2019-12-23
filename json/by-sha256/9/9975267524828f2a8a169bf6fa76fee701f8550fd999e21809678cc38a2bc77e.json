@@ -1,10 +1,74 @@
 {
- "version": "20191222-0",
- "sha256": "9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e",
  "filename": [
   "sgq.zip"
  ],
+ "files": {
+  "sgq.bat": {
+   "filesize": 32,
+   "timestamp": "2004-05-20"
+  },
+  "sgq/Maps/intro.bsp": {
+   "filesize": 322456,
+   "timestamp": "2004-04-30"
+  },
+  "sgq/Maps/sg0503.bsp": {
+   "filesize": 1325652,
+   "timestamp": "2004-06-06"
+  },
+  "sgq/Sound/ambience/buzz1.wav": {
+   "filesize": 14018,
+   "timestamp": "2000-10-31"
+  },
+  "sgq/Sound/ambience/deadsignal2.wav": {
+   "filesize": 18332,
+   "timestamp": "2000-10-31"
+  },
+  "sgq/Sound/ambience/fl_hum1.wav": {
+   "filesize": 61792,
+   "timestamp": "2000-10-31"
+  },
+  "sgq/Sound/doors/hydro1.wav": {
+   "filesize": 20332,
+   "timestamp": "2000-10-31"
+  },
+  "sgq/Sound/doors/hydro2.wav": {
+   "filesize": 15216,
+   "timestamp": "2000-10-31"
+  },
+  "sgq/Sound/doors/stndr1.wav": {
+   "filesize": 10762,
+   "timestamp": "2000-10-31"
+  },
+  "sgq/Sound/weapons/guncock.wav": {
+   "filesize": 23030,
+   "timestamp": "2004-05-01"
+  },
+  "sgq/Sound/weapons/rocket1i.wav": {
+   "filesize": 6382,
+   "timestamp": "2004-05-01"
+  },
+  "sgq/Sound/weapons/shotgn2.wav": {
+   "filesize": 30426,
+   "timestamp": "2004-05-01"
+  },
+  "sgq/Sound/weapons/spike2.wav": {
+   "filesize": 27900,
+   "timestamp": "2004-05-01"
+  },
+  "sgq/config.cfg": {
+   "filesize": 2378,
+   "timestamp": "2004-05-03"
+  },
+  "sgq/readme1.txt": {
+   "filesize": 1639,
+   "timestamp": "2004-06-05"
+  }
+ },
  "filesize": 814,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e",
  "tags": [
   "title:Star Gate Quest",
   "releasedate:2004-06-06",
@@ -17,73 +81,9 @@
   "startmap:intro",
   "startmap:sg0503"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sgq/Sound/ambience/fl_hum1.wav": {
-   "filesize": 61792,
-   "timestamp": "2000-10-31"
-  },
-  "sgq/Sound/ambience/buzz1.wav": {
-   "filesize": 14018,
-   "timestamp": "2000-10-31"
-  },
-  "sgq/Sound/ambience/deadsignal2.wav": {
-   "filesize": 18332,
-   "timestamp": "2000-10-31"
-  },
-  "sgq/Sound/weapons/rocket1i.wav": {
-   "filesize": 6382,
-   "timestamp": "2004-05-01"
-  },
-  "sgq/Sound/weapons/guncock.wav": {
-   "filesize": 23030,
-   "timestamp": "2004-05-01"
-  },
-  "sgq/Sound/weapons/spike2.wav": {
-   "filesize": 27900,
-   "timestamp": "2004-05-01"
-  },
-  "sgq/Sound/weapons/shotgn2.wav": {
-   "filesize": 30426,
-   "timestamp": "2004-05-01"
-  },
-  "sgq/Sound/doors/hydro2.wav": {
-   "filesize": 15216,
-   "timestamp": "2000-10-31"
-  },
-  "sgq/Sound/doors/stndr1.wav": {
-   "filesize": 10762,
-   "timestamp": "2000-10-31"
-  },
-  "sgq/Sound/doors/hydro1.wav": {
-   "filesize": 20332,
-   "timestamp": "2000-10-31"
-  },
-  "sgq/readme1.txt": {
-   "filesize": 1639,
-   "timestamp": "2004-06-05"
-  },
-  "sgq/config.cfg": {
-   "filesize": 2378,
-   "timestamp": "2004-05-03"
-  },
-  "sgq/Maps/intro.bsp": {
-   "filesize": 322456,
-   "timestamp": "2004-04-30"
-  },
-  "sgq/Maps/sg0503.bsp": {
-   "filesize": 1325652,
-   "timestamp": "2004-06-06"
-  },
-  "sgq.bat": {
-   "filesize": 32,
-   "timestamp": "2004-05-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sgq.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e/sgq.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

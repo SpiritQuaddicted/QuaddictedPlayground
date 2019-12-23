@@ -1,31 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "e857424986e03e4031b60f27963a63ee5417880bf2ba1220756ddd9915e2e239",
  "filename": [
   "mjb_horse.zip"
  ],
- "filesize": 1586,
- "tags": [
-  "title:A Horse Named Quake",
-  "releasedate:2016-03-27",
-  "game:quake",
-  "author:Bloughsburgh",
-  "tag:small",
-  "tag:medieval",
-  "tag:bricks",
-  "tag:courtyard",
-  "tag:vertical",
-  "tag:ad",
-  "tag:source",
-  "tag:night",
-  "tag:arcanedimensions",
-  "tag:skybox",
-  "tag:jumping",
-  "dependency:ad_v1_42final"
- ],
- "install": {
-  "extract": "{quake}/ad\\maps\\"
- },
  "files": {
   "ad_v1_42P2_readme.txt": {
    "filesize": 142037,
@@ -48,8 +24,32 @@
    "timestamp": "2016-03-27"
   }
  },
+ "filesize": 1586,
+ "install": {
+  "extract": "{quake}/ad\\maps\\"
+ },
+ "sha256": "e857424986e03e4031b60f27963a63ee5417880bf2ba1220756ddd9915e2e239",
+ "tags": [
+  "title:A Horse Named Quake",
+  "releasedate:2016-03-27",
+  "game:quake",
+  "author:Bloughsburgh",
+  "tag:small",
+  "tag:medieval",
+  "tag:bricks",
+  "tag:courtyard",
+  "tag:vertical",
+  "tag:ad",
+  "tag:source",
+  "tag:night",
+  "tag:arcanedimensions",
+  "tag:skybox",
+  "tag:jumping",
+  "dependency:ad_v1_42final"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mjb_horse.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e857424986e03e4031b60f27963a63ee5417880bf2ba1220756ddd9915e2e239/mjb_horse.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

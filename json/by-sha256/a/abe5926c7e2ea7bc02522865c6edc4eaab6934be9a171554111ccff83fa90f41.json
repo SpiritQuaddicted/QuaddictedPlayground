@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "abe5926c7e2ea7bc02522865c6edc4eaab6934be9a171554111ccff83fa90f41",
  "filename": [
   "genetix.zip"
  ],
+ "files": {
+  "GENETIX.TXT": {
+   "filesize": 3963,
+   "timestamp": "1997-12-31"
+  },
+  "Genetix.DMM": {
+   "filesize": 265514,
+   "timestamp": "1997-12-31"
+  },
+  "genetix.bsp": {
+   "filesize": 1789136,
+   "timestamp": "1997-12-31"
+  }
+ },
  "filesize": 951,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "abe5926c7e2ea7bc02522865c6edc4eaab6934be9a171554111ccff83fa90f41",
  "tags": [
   "title:Genetix Facility",
   "releasedate:1997-12-31",
@@ -15,25 +31,9 @@
   "tag:nonlinear",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Genetix.DMM": {
-   "filesize": 265514,
-   "timestamp": "1997-12-31"
-  },
-  "GENETIX.TXT": {
-   "filesize": 3963,
-   "timestamp": "1997-12-31"
-  },
-  "genetix.bsp": {
-   "filesize": 1789136,
-   "timestamp": "1997-12-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/genetix.zip",
   "https://www.quaddicted.com/files/by-sha256/a/abe5926c7e2ea7bc02522865c6edc4eaab6934be9a171554111ccff83fa90f41/genetix.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

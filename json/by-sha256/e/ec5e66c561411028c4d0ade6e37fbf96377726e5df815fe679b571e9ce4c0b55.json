@@ -1,42 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55",
  "filename": [
   "retrojam5.zip"
  ],
- "filesize": 6108,
- "tags": [
-  "title:Retro Jam 5 - The Wind Tunnels theme",
-  "releasedate:2016-11-22",
-  "game:quake",
-  "commandline:-game retrojam5",
-  "author:Bloughsburgh",
-  "author:Breezeep",
-  "author:ItEndsWithTens",
-  "author:NewHouse",
-  "author:QMaster",
-  "author:Shamblernaut",
-  "author:skacky",
-  "tag:small",
-  "tag:medium",
-  "tag:metal",
-  "tag:medieval",
-  "tag:windtunnel",
-  "tag:e3m5",
-  "tag:jam",
-  "tag:source",
-  "tag:vertical",
-  "startmap:retrojam5_breezeep",
-  "startmap:retrojam5_mjb",
-  "startmap:retrojam5_newhouse",
-  "startmap:retrojam5_qmaster",
-  "startmap:retrojam5_shambler",
-  "startmap:retrojam5_shamblernaut",
-  "startmap:retrojam5_tens"
- ],
- "install": {
-  "extract": "{quake}/retrojam5/"
- },
  "files": {
   "docs/retrojam5_mjb.txt": {
    "filesize": 10555,
@@ -135,8 +100,43 @@
    "timestamp": "2016-11-20"
   }
  },
+ "filesize": 6108,
+ "install": {
+  "extract": "{quake}/retrojam5/"
+ },
+ "sha256": "ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55",
+ "tags": [
+  "title:Retro Jam 5 - The Wind Tunnels theme",
+  "releasedate:2016-11-22",
+  "game:quake",
+  "commandline:-game retrojam5",
+  "author:Bloughsburgh",
+  "author:Breezeep",
+  "author:ItEndsWithTens",
+  "author:NewHouse",
+  "author:QMaster",
+  "author:Shamblernaut",
+  "author:skacky",
+  "tag:small",
+  "tag:medium",
+  "tag:metal",
+  "tag:medieval",
+  "tag:windtunnel",
+  "tag:e3m5",
+  "tag:jam",
+  "tag:source",
+  "tag:vertical",
+  "startmap:retrojam5_breezeep",
+  "startmap:retrojam5_mjb",
+  "startmap:retrojam5_newhouse",
+  "startmap:retrojam5_qmaster",
+  "startmap:retrojam5_shambler",
+  "startmap:retrojam5_shamblernaut",
+  "startmap:retrojam5_tens"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam5.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ec5e66c561411028c4d0ade6e37fbf96377726e5df815fe679b571e9ce4c0b55/retrojam5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

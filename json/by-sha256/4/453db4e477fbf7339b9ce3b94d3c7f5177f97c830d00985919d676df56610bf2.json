@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "453db4e477fbf7339b9ce3b94d3c7f5177f97c830d00985919d676df56610bf2",
  "filename": [
   "fatalstp.zip"
  ],
- "filesize": 224,
- "tags": [
-  "title:Fatal Steps",
-  "releasedate:2018-01-14",
-  "game:quake",
-  "author:super",
-  "tag:small",
-  "tag:metal",
-  "tag:runic"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "fatalstp.bsp": {
    "filesize": 554348,
@@ -27,8 +12,23 @@
    "timestamp": "2018-01-14"
   }
  },
+ "filesize": 224,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "453db4e477fbf7339b9ce3b94d3c7f5177f97c830d00985919d676df56610bf2",
+ "tags": [
+  "title:Fatal Steps",
+  "releasedate:2018-01-14",
+  "game:quake",
+  "author:super",
+  "tag:small",
+  "tag:metal",
+  "tag:runic"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/fatalstp.zip",
   "https://www.quaddicted.com/files/by-sha256/4/453db4e477fbf7339b9ce3b94d3c7f5177f97c830d00985919d676df56610bf2/fatalstp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

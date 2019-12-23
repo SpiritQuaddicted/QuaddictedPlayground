@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "02c7c702516c04acf14574414a9165d2132849e428accbde8c1f863207d8e93e",
  "filename": [
   "qakula4.zip"
  ],
+ "files": {
+  "qakula4.bsp": {
+   "filesize": 1362420,
+   "timestamp": "1997-04-05"
+  },
+  "qakula4.txt": {
+   "filesize": 3223,
+   "timestamp": "1997-04-05"
+  }
+ },
  "filesize": 605,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "02c7c702516c04acf14574414a9165d2132849e428accbde8c1f863207d8e93e",
  "tags": [
   "title:The Ruins of Athelstan",
   "releasedate:1997-04-05",
@@ -19,21 +31,9 @@
   "tag:dungeon",
   "tag:exploration"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "qakula4.txt": {
-   "filesize": 3223,
-   "timestamp": "1997-04-05"
-  },
-  "qakula4.bsp": {
-   "filesize": 1362420,
-   "timestamp": "1997-04-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/qakula4.zip",
   "https://www.quaddicted.com/files/by-sha256/0/02c7c702516c04acf14574414a9165d2132849e428accbde8c1f863207d8e93e/qakula4.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

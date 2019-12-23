@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3",
  "filename": [
   "colony2.zip"
  ],
- "filesize": 632,
- "tags": [
-  "title:The Culling Station",
-  "releasedate:1997-10-10",
-  "game:quake",
-  "author:Mark Turner",
-  "tag:medium",
-  "tag:base",
-  "tag:planetquake-map-of-the-week"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Colony2.bsp": {
    "filesize": 1491200,
@@ -27,8 +12,23 @@
    "timestamp": "1997-10-10"
   }
  },
+ "filesize": 632,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3",
+ "tags": [
+  "title:The Culling Station",
+  "releasedate:1997-10-10",
+  "game:quake",
+  "author:Mark Turner",
+  "tag:medium",
+  "tag:base",
+  "tag:planetquake-map-of-the-week"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/colony2.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6fe365aa89858673a035e1bc20eefe5d01a4bc748506a49664e1c6ca02e330b3/colony2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

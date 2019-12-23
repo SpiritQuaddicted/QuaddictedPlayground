@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b822648bbac7a2a46e091d0ca38698d190252d814fd4ddb207fe823be1520399",
  "filename": [
   "quoth2pt2full.zip"
  ],
- "filesize": 52808,
- "tags": [
-  "title:[NUKED]",
-  "releasedate:2014-05-04",
-  "game:quake",
-  "commandline:-game quoth -quoth",
-  "author:Preach",
-  "author:necros",
-  "author:Kell"
- ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
  "files": {
   "launch.bat": {
    "filesize": 6927,
@@ -43,8 +28,23 @@
    "timestamp": "2014-05-04"
   }
  },
+ "filesize": 52808,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "b822648bbac7a2a46e091d0ca38698d190252d814fd4ddb207fe823be1520399",
+ "tags": [
+  "title:[NUKED]",
+  "releasedate:2014-05-04",
+  "game:quake",
+  "commandline:-game quoth -quoth",
+  "author:Preach",
+  "author:necros",
+  "author:Kell"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2full.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b822648bbac7a2a46e091d0ca38698d190252d814fd4ddb207fe823be1520399/quoth2pt2full.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

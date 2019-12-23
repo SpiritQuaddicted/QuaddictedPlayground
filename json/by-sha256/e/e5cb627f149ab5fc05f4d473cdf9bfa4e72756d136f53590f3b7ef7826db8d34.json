@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "e5cb627f149ab5fc05f4d473cdf9bfa4e72756d136f53590f3b7ef7826db8d34",
  "filename": [
   "mfxsp5.zip"
  ],
- "filesize": 2879,
- "tags": [
-  "title:Intermission / Kleins Bottle",
-  "releasedate:2014-04-21",
-  "game:quake",
-  "author:mfx",
-  "tag:small",
-  "tag:mix-themed",
-  "tag:floating",
-  "tag:tower"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "gfx/env/duskebk.tga": {
    "filesize": 606420,
@@ -52,8 +36,24 @@
    "timestamp": "2014-04-21"
   }
  },
+ "filesize": 2879,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "e5cb627f149ab5fc05f4d473cdf9bfa4e72756d136f53590f3b7ef7826db8d34",
+ "tags": [
+  "title:Intermission / Kleins Bottle",
+  "releasedate:2014-04-21",
+  "game:quake",
+  "author:mfx",
+  "tag:small",
+  "tag:mix-themed",
+  "tag:floating",
+  "tag:tower"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp5.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e5cb627f149ab5fc05f4d473cdf9bfa4e72756d136f53590f3b7ef7826db8d34/mfxsp5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

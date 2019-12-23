@@ -1,10 +1,82 @@
 {
- "version": "20191222-0",
- "sha256": "91199ee10936c941e0d0af47fa8f3f8d612cfb9143f00f5b0b5470aaaff765e0",
  "filename": [
   "sm26_pack.zip"
  ],
+ "files": {
+  "SM26_ELEK.bsp": {
+   "filesize": 302532,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_amrik.bsp": {
+   "filesize": 47956,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_ap.bsp": {
+   "filesize": 281624,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_asaki.bsp": {
+   "filesize": 440552,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_cardo.bsp": {
+   "filesize": 252496,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_grahf.bsp": {
+   "filesize": 1767516,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_inertia.bsp": {
+   "filesize": 514608,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_lun.bsp": {
+   "filesize": 386576,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_necros.bsp": {
+   "filesize": 1040144,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_necros2.bsp": {
+   "filesize": 902120,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_pack.txt": {
+   "filesize": 3609,
+   "timestamp": "2001-08-14"
+  },
+  "sm26_preach.bsp": {
+   "filesize": 311352,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_ray.bsp": {
+   "filesize": 397184,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_sbck.bsp": {
+   "filesize": 956508,
+   "timestamp": "2001-07-25"
+  },
+  "sm26_scampie.bsp": {
+   "filesize": 292780,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_than.bsp": {
+   "filesize": 517776,
+   "timestamp": "2001-07-24"
+  },
+  "sm26_werd.bsp": {
+   "filesize": 240520,
+   "timestamp": "2001-07-24"
+  }
+ },
  "filesize": 3125,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "91199ee10936c941e0d0af47fa8f3f8d612cfb9143f00f5b0b5470aaaff765e0",
  "tags": [
   "title:Speedmapping pack 26 - (QExpo)",
   "releasedate:2001-08-14",
@@ -41,81 +113,9 @@
   "startmap:SM26_ELEK",
   "startmap:sm26_asaki"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm26_sbck.bsp": {
-   "filesize": 956508,
-   "timestamp": "2001-07-25"
-  },
-  "sm26_cardo.bsp": {
-   "filesize": 252496,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_than.bsp": {
-   "filesize": 517776,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_inertia.bsp": {
-   "filesize": 514608,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_asaki.bsp": {
-   "filesize": 440552,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_necros2.bsp": {
-   "filesize": 902120,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_necros.bsp": {
-   "filesize": 1040144,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_pack.txt": {
-   "filesize": 3609,
-   "timestamp": "2001-08-14"
-  },
-  "sm26_ap.bsp": {
-   "filesize": 281624,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_werd.bsp": {
-   "filesize": 240520,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_preach.bsp": {
-   "filesize": 311352,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_lun.bsp": {
-   "filesize": 386576,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_ray.bsp": {
-   "filesize": 397184,
-   "timestamp": "2001-07-24"
-  },
-  "SM26_ELEK.bsp": {
-   "filesize": 302532,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_grahf.bsp": {
-   "filesize": 1767516,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_scampie.bsp": {
-   "filesize": 292780,
-   "timestamp": "2001-07-24"
-  },
-  "sm26_amrik.bsp": {
-   "filesize": 47956,
-   "timestamp": "2001-07-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm26_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/9/91199ee10936c941e0d0af47fa8f3f8d612cfb9143f00f5b0b5470aaaff765e0/sm26_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

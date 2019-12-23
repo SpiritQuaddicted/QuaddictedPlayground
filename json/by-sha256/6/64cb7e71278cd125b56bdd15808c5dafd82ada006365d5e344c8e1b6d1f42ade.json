@@ -1,28 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "64cb7e71278cd125b56bdd15808c5dafd82ada006365d5e344c8e1b6d1f42ade",
  "filename": [
   "pillars.zip"
  ],
- "filesize": 2366,
- "tags": [
-  "title:The Pillars of the Damned",
-  "releasedate:2018-09-08",
-  "game:quake",
-  "author:Sergey Rupasov",
-  "tag:medium",
-  "tag:runic",
-  "tag:temple",
-  "tag:water",
-  "tag:imits",
-  "tag:source",
-  "tag:limits",
-  "tag:puzzle",
-  "tag:traps"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "pillars.bsp": {
    "filesize": 3330320,
@@ -41,8 +20,29 @@
    "timestamp": "2018-09-08"
   }
  },
+ "filesize": 2366,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "64cb7e71278cd125b56bdd15808c5dafd82ada006365d5e344c8e1b6d1f42ade",
+ "tags": [
+  "title:The Pillars of the Damned",
+  "releasedate:2018-09-08",
+  "game:quake",
+  "author:Sergey Rupasov",
+  "tag:medium",
+  "tag:runic",
+  "tag:temple",
+  "tag:water",
+  "tag:imits",
+  "tag:source",
+  "tag:limits",
+  "tag:puzzle",
+  "tag:traps"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/pillars.zip",
   "https://www.quaddicted.com/files/by-sha256/6/64cb7e71278cd125b56bdd15808c5dafd82ada006365d5e344c8e1b6d1f42ade/pillars.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

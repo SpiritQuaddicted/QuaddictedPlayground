@@ -1,33 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "acf71b36f7c6cc7fc2b8a596a28e807b5a51374df0b2ea9f2c1ead2ec2ca2257",
  "filename": [
   "lthsp5.zip"
  ],
- "filesize": 593,
- "tags": [
-  "title:Exodus",
-  "releasedate:2001-04-12",
-  "game:quake",
-  "commandline:-game lthsp5",
-  "author:The Lieutenant",
-  "tag:series",
-  "tag:blue"
- ],
- "install": {
-  "extract": "{quake}/lthsp5/"
- },
  "files": {
-  "maps/lthsp5.lit": {
-   "filesize": 412811,
+  "lthsp5.txt": {
+   "filesize": 2596,
    "timestamp": "2001-04-12"
   },
   "maps/lthsp5.bsp": {
    "filesize": 659676,
    "timestamp": "2001-04-12"
   },
-  "lthsp5.txt": {
-   "filesize": 2596,
+  "maps/lthsp5.lit": {
+   "filesize": 412811,
    "timestamp": "2001-04-12"
   },
   "progs.dat": {
@@ -39,8 +24,23 @@
    "timestamp": "2001-03-27"
   }
  },
+ "filesize": 593,
+ "install": {
+  "extract": "{quake}/lthsp5/"
+ },
+ "sha256": "acf71b36f7c6cc7fc2b8a596a28e807b5a51374df0b2ea9f2c1ead2ec2ca2257",
+ "tags": [
+  "title:Exodus",
+  "releasedate:2001-04-12",
+  "game:quake",
+  "commandline:-game lthsp5",
+  "author:The Lieutenant",
+  "tag:series",
+  "tag:blue"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp5.zip",
   "https://www.quaddicted.com/files/by-sha256/a/acf71b36f7c6cc7fc2b8a596a28e807b5a51374df0b2ea9f2c1ead2ec2ca2257/lthsp5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

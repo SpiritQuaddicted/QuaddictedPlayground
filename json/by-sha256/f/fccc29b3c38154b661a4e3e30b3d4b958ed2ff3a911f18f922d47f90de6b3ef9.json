@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "fccc29b3c38154b661a4e3e30b3d4b958ed2ff3a911f18f922d47f90de6b3ef9",
  "filename": [
   "valour.zip"
  ],
+ "files": {
+  "steel valour.txt": {
+   "filesize": 2245,
+   "timestamp": "1999-07-24"
+  },
+  "valour.bsp": {
+   "filesize": 695688,
+   "timestamp": "1999-07-24"
+  },
+  "valour_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 278,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "fccc29b3c38154b661a4e3e30b3d4b958ed2ff3a911f18f922d47f90de6b3ef9",
  "tags": [
   "title:Steel Valour",
   "releasedate:1999-07-24",
@@ -14,25 +30,9 @@
   "tag:industrial",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "valour.bsp": {
-   "filesize": 695688,
-   "timestamp": "1999-07-24"
-  },
-  "steel valour.txt": {
-   "filesize": 2245,
-   "timestamp": "1999-07-24"
-  },
-  "valour_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/valour.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fccc29b3c38154b661a4e3e30b3d4b958ed2ff3a911f18f922d47f90de6b3ef9/valour.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

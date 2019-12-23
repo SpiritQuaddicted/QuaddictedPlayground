@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "4a663d6c7d704732afc075d53ab33911e30c4edd0c4a64f965e087ec28d19b0c",
  "filename": [
   "sm133_pack.zip"
  ],
+ "files": {
+  "sm133_efdat.bsp": {
+   "filesize": 1107840,
+   "timestamp": "2007-04-09"
+  },
+  "sm133_neg!ke.bsp": {
+   "filesize": 1267192,
+   "timestamp": "2007-04-10"
+  },
+  "sm133_pack.txt": {
+   "filesize": 1305,
+   "timestamp": "2007-04-11"
+  },
+  "sm133_spirit.bsp": {
+   "filesize": 382640,
+   "timestamp": "2007-04-09"
+  }
+ },
  "filesize": 1029,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4a663d6c7d704732afc075d53ab33911e30c4edd0c4a64f965e087ec28d19b0c",
  "tags": [
   "title:Speedmapping pack 133 - Machinery",
   "releasedate:2007-04-11",
@@ -16,29 +36,9 @@
   "startmap:sm133_spirit",
   "startmap:sm133_neg!ke"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm133_efdat.bsp": {
-   "filesize": 1107840,
-   "timestamp": "2007-04-09"
-  },
-  "sm133_spirit.bsp": {
-   "filesize": 382640,
-   "timestamp": "2007-04-09"
-  },
-  "sm133_neg!ke.bsp": {
-   "filesize": 1267192,
-   "timestamp": "2007-04-10"
-  },
-  "sm133_pack.txt": {
-   "filesize": 1305,
-   "timestamp": "2007-04-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm133_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4a663d6c7d704732afc075d53ab33911e30c4edd0c4a64f965e087ec28d19b0c/sm133_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

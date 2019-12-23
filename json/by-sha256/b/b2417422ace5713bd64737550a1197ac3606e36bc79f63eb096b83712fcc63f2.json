@@ -1,27 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b2417422ace5713bd64737550a1197ac3606e36bc79f63eb096b83712fcc63f2",
  "filename": [
   "mfxsp8.zip"
  ],
- "filesize": 2372,
- "tags": [
-  "title:Clean Cut",
-  "releasedate:2013-03-23",
-  "game:quake",
-  "commandline:+r_wateralpha 0.3 +r_waterwarp 0",
-  "author:mfx",
-  "tag:base",
-  "tag:glass",
-  "tag:medium",
-  "tag:pipes",
-  "tag:cramped",
-  "tag:industrial",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "mfxsp8.bsp": {
    "filesize": 4283476,
@@ -40,8 +20,28 @@
    "timestamp": "2013-03-24"
   }
  },
+ "filesize": 2372,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b2417422ace5713bd64737550a1197ac3606e36bc79f63eb096b83712fcc63f2",
+ "tags": [
+  "title:Clean Cut",
+  "releasedate:2013-03-23",
+  "game:quake",
+  "commandline:+r_wateralpha 0.3 +r_waterwarp 0",
+  "author:mfx",
+  "tag:base",
+  "tag:glass",
+  "tag:medium",
+  "tag:pipes",
+  "tag:cramped",
+  "tag:industrial",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp8.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b2417422ace5713bd64737550a1197ac3606e36bc79f63eb096b83712fcc63f2/mfxsp8.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

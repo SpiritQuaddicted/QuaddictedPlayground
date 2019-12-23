@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776",
  "filename": [
   "sm30_pack.zip"
  ],
+ "files": {
+  "sm30_pack.txt": {
+   "filesize": 2177,
+   "timestamp": "2001-08-14"
+  },
+  "sm30_ray.bsp": {
+   "filesize": 363824,
+   "timestamp": "2001-08-08"
+  },
+  "sm30_sb1.bsp": {
+   "filesize": 718488,
+   "timestamp": "2001-08-08"
+  },
+  "sm30_sb2.bsp": {
+   "filesize": 347204,
+   "timestamp": "2001-08-08"
+  },
+  "sm30_scampie.bsp": {
+   "filesize": 242640,
+   "timestamp": "2001-08-08"
+  },
+  "sm30_speedy.bsp": {
+   "filesize": 228240,
+   "timestamp": "2001-08-09"
+  },
+  "sm30_than.bsp": {
+   "filesize": 737496,
+   "timestamp": "2001-08-08"
+  }
+ },
  "filesize": 869,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776",
  "tags": [
   "title:Speedmapping pack 30 - Unthemed",
   "releasedate:2001-08-14",
@@ -22,41 +54,9 @@
   "startmap:sm30_ray",
   "startmap:sm30_scampie"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm30_sb2.bsp": {
-   "filesize": 347204,
-   "timestamp": "2001-08-08"
-  },
-  "sm30_pack.txt": {
-   "filesize": 2177,
-   "timestamp": "2001-08-14"
-  },
-  "sm30_speedy.bsp": {
-   "filesize": 228240,
-   "timestamp": "2001-08-09"
-  },
-  "sm30_sb1.bsp": {
-   "filesize": 718488,
-   "timestamp": "2001-08-08"
-  },
-  "sm30_scampie.bsp": {
-   "filesize": 242640,
-   "timestamp": "2001-08-08"
-  },
-  "sm30_ray.bsp": {
-   "filesize": 363824,
-   "timestamp": "2001-08-08"
-  },
-  "sm30_than.bsp": {
-   "filesize": 737496,
-   "timestamp": "2001-08-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm30_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776/sm30_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

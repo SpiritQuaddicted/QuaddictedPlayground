@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d",
  "filename": [
   "coe.zip"
  ],
+ "files": {
+  "coe_readme.txt": {
+   "filesize": 4784,
+   "timestamp": "2000-12-16"
+  },
+  "pak0.pak": {
+   "filesize": 9660259,
+   "timestamp": "2000-12-07"
+  }
+ },
  "filesize": 3780,
+ "install": {
+  "extract": "{quake}/coe/"
+ },
+ "sha256": "ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d",
  "tags": [
   "title:Coven of Ebony",
   "releasedate:2000-12-16",
@@ -17,21 +29,9 @@
   "tag:monsters",
   "startmap:coestart"
  ],
- "install": {
-  "extract": "{quake}/coe/"
- },
- "files": {
-  "coe_readme.txt": {
-   "filesize": 4784,
-   "timestamp": "2000-12-16"
-  },
-  "pak0.pak": {
-   "filesize": 9660259,
-   "timestamp": "2000-12-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/coe.zip",
   "https://www.quaddicted.com/files/by-sha256/a/ac8bd9410af3db914b2b4b942188fbc5f07e11ab4f19083b29e587d3f8e6893d/coe.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f69651ed08e9a8dd7b8ce043c8e793122fe8f03caf4c437c19e019b986a442e8",
  "filename": [
   "37_hcm1.zip"
  ],
- "filesize": 16467,
- "tags": [
-  "title:37th Relic Retrieval",
-  "releasedate:2019-01-24",
-  "game:quake",
-  "commandline:-game ad",
-  "author:Mazu",
-  "tag:arcanedimensions",
-  "tag:base",
-  "tag:huge",
-  "tag:nonlinear",
-  "tag:ikbase",
-  "dependency:ad_v1_70final"
- ],
- "install": {
-  "extract": "{quake}/ad/maps/"
- },
  "files": {
   "37_hcm1.bsp": {
    "filesize": 34243976,
@@ -39,8 +20,27 @@
    "timestamp": "2019-01-24"
   }
  },
+ "filesize": 16467,
+ "install": {
+  "extract": "{quake}/ad/maps/"
+ },
+ "sha256": "f69651ed08e9a8dd7b8ce043c8e793122fe8f03caf4c437c19e019b986a442e8",
+ "tags": [
+  "title:37th Relic Retrieval",
+  "releasedate:2019-01-24",
+  "game:quake",
+  "commandline:-game ad",
+  "author:Mazu",
+  "tag:arcanedimensions",
+  "tag:base",
+  "tag:huge",
+  "tag:nonlinear",
+  "tag:ikbase",
+  "dependency:ad_v1_70final"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/37_hcm1.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f69651ed08e9a8dd7b8ce043c8e793122fe8f03caf4c437c19e019b986a442e8/37_hcm1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

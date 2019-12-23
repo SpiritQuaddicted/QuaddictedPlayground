@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "febf1acf4259138bb4e256d5113e8272435c17714d4fbfae51c90e727d3735d7",
  "filename": [
   "qkship.zip"
  ],
- "filesize": 389,
- "tags": [
-  "title:Space Ship",
-  "releasedate:2000-01-13",
-  "game:quake",
-  "author:DAV",
-  "tag:spaceship"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "qkship.bsp": {
    "filesize": 1089984,
@@ -25,8 +12,21 @@
    "timestamp": "2000-01-13"
   }
  },
+ "filesize": 389,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "febf1acf4259138bb4e256d5113e8272435c17714d4fbfae51c90e727d3735d7",
+ "tags": [
+  "title:Space Ship",
+  "releasedate:2000-01-13",
+  "game:quake",
+  "author:DAV",
+  "tag:spaceship"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkship.zip",
   "https://www.quaddicted.com/files/by-sha256/f/febf1acf4259138bb4e256d5113e8272435c17714d4fbfae51c90e727d3735d7/qkship.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

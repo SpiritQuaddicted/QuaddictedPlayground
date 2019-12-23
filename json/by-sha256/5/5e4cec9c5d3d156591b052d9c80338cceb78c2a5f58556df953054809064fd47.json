@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "5e4cec9c5d3d156591b052d9c80338cceb78c2a5f58556df953054809064fd47",
  "filename": [
   "base-ic.zip"
  ],
+ "files": {
+  "base-ic.bsp": {
+   "filesize": 1346816,
+   "timestamp": "1997-02-08"
+  },
+  "base-ic.txt": {
+   "filesize": 2502,
+   "timestamp": "1997-02-16"
+  }
+ },
  "filesize": 574,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5e4cec9c5d3d156591b052d9c80338cceb78c2a5f58556df953054809064fd47",
  "tags": [
   "title:Base-ic Instinct",
   "releasedate:1997-02-16",
@@ -18,21 +30,9 @@
   "tag:mixtex",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "base-ic.bsp": {
-   "filesize": 1346816,
-   "timestamp": "1997-02-08"
-  },
-  "base-ic.txt": {
-   "filesize": 2502,
-   "timestamp": "1997-02-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/base-ic.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5e4cec9c5d3d156591b052d9c80338cceb78c2a5f58556df953054809064fd47/base-ic.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

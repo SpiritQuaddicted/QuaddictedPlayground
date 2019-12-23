@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "1aa0c5ea6daeb397dfd4efec5d51f5bf7ba0157ece416d3b8bbb02bfc4ad69c1",
  "filename": [
   "bastardry.zip"
  ],
- "filesize": 905,
- "tags": [
-  "title:Missle Bunker Bravo 7 &amp; The Bastardry",
-  "releasedate:1997-01-24",
-  "game:quake",
-  "author:Ace",
-  "tag:small",
-  "tag:base",
-  "tag:wizard",
-  "tag:castle",
-  "tag:puzzles",
-  "startmap:bast",
-  "startmap:mbb7"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Bastardry.txt": {
    "filesize": 4046,
@@ -35,8 +16,27 @@
    "timestamp": "1997-01-19"
   }
  },
+ "filesize": 905,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1aa0c5ea6daeb397dfd4efec5d51f5bf7ba0157ece416d3b8bbb02bfc4ad69c1",
+ "tags": [
+  "title:Missle Bunker Bravo 7 &amp; The Bastardry",
+  "releasedate:1997-01-24",
+  "game:quake",
+  "author:Ace",
+  "tag:small",
+  "tag:base",
+  "tag:wizard",
+  "tag:castle",
+  "tag:puzzles",
+  "startmap:bast",
+  "startmap:mbb7"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/bastardry.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1aa0c5ea6daeb397dfd4efec5d51f5bf7ba0157ece416d3b8bbb02bfc4ad69c1/bastardry.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

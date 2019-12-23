@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75",
  "filename": [
   "earthbnd.zip"
  ],
+ "files": {
+  "Earthbound.txt": {
+   "filesize": 2319,
+   "timestamp": "1997-04-07"
+  },
+  "earthbnd.bsp": {
+   "filesize": 1425180,
+   "timestamp": "1997-03-30"
+  }
+ },
  "filesize": 632,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75",
  "tags": [
   "title:Earthbound",
   "releasedate:1997-04-07",
@@ -17,21 +29,9 @@
   "tag:nonlinear",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Earthbound.txt": {
-   "filesize": 2319,
-   "timestamp": "1997-04-07"
-  },
-  "earthbnd.bsp": {
-   "filesize": 1425180,
-   "timestamp": "1997-03-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/earthbnd.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75/earthbnd.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

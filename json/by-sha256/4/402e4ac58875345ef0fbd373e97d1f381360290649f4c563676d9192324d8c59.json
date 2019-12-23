@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "402e4ac58875345ef0fbd373e97d1f381360290649f4c563676d9192324d8c59",
  "filename": [
   "sickbase.zip"
  ],
+ "files": {
+  "Sickbase.txt": {
+   "filesize": 5377,
+   "timestamp": "2007-10-26"
+  },
+  "gfx/env/gehennabk.tga": {
+   "filesize": 673919,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennadn.tga": {
+   "filesize": 785761,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennaft.tga": {
+   "filesize": 710441,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennalf.tga": {
+   "filesize": 664379,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennart.tga": {
+   "filesize": 697661,
+   "timestamp": "2007-10-20"
+  },
+  "gfx/env/gehennaup.tga": {
+   "filesize": 509867,
+   "timestamp": "2007-10-20"
+  },
+  "maps/sickbase.bsp": {
+   "filesize": 9320320,
+   "timestamp": "2007-10-25"
+  }
+ },
  "filesize": 4676,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "402e4ac58875345ef0fbd373e97d1f381360290649f4c563676d9192324d8c59",
  "tags": [
   "title:Three Towers And A Sick Base",
   "releasedate:2007-10-26",
@@ -19,45 +55,9 @@
   "tag:quoth",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
- "files": {
-  "maps/sickbase.bsp": {
-   "filesize": 9320320,
-   "timestamp": "2007-10-25"
-  },
-  "Sickbase.txt": {
-   "filesize": 5377,
-   "timestamp": "2007-10-26"
-  },
-  "gfx/env/gehennaft.tga": {
-   "filesize": 710441,
-   "timestamp": "2007-10-20"
-  },
-  "gfx/env/gehennalf.tga": {
-   "filesize": 664379,
-   "timestamp": "2007-10-20"
-  },
-  "gfx/env/gehennadn.tga": {
-   "filesize": 785761,
-   "timestamp": "2007-10-20"
-  },
-  "gfx/env/gehennaup.tga": {
-   "filesize": 509867,
-   "timestamp": "2007-10-20"
-  },
-  "gfx/env/gehennabk.tga": {
-   "filesize": 673919,
-   "timestamp": "2007-10-20"
-  },
-  "gfx/env/gehennart.tga": {
-   "filesize": 697661,
-   "timestamp": "2007-10-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sickbase.zip",
   "https://www.quaddicted.com/files/by-sha256/4/402e4ac58875345ef0fbd373e97d1f381360290649f4c563676d9192324d8c59/sickbase.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

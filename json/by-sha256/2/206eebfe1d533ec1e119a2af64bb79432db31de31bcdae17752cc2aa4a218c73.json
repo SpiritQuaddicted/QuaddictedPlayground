@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "206eebfe1d533ec1e119a2af64bb79432db31de31bcdae17752cc2aa4a218c73",
  "filename": [
   "coagulacontest.zip"
  ],
+ "files": {
+  "coagula_readme.txt": {
+   "filesize": 12798,
+   "timestamp": "2002-01-05"
+  },
+  "pak0.pak": {
+   "filesize": 13717976,
+   "timestamp": "2002-01-22"
+  }
+ },
  "filesize": 4487,
+ "install": {
+  "extract": "{quake}/coagulacontest"
+ },
+ "sha256": "206eebfe1d533ec1e119a2af64bb79432db31de31bcdae17752cc2aa4a218c73",
  "tags": [
   "title:The Coagula Contest",
   "releasedate:2002-01-22",
@@ -27,21 +39,9 @@
   "startmap:scream",
   "startmap:terror"
  ],
- "install": {
-  "extract": "{quake}/coagulacontest"
- },
- "files": {
-  "coagula_readme.txt": {
-   "filesize": 12798,
-   "timestamp": "2002-01-05"
-  },
-  "pak0.pak": {
-   "filesize": 13717976,
-   "timestamp": "2002-01-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/coagulacontest.zip",
   "https://www.quaddicted.com/files/by-sha256/2/206eebfe1d533ec1e119a2af64bb79432db31de31bcdae17752cc2aa4a218c73/coagulacontest.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

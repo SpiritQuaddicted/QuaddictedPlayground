@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c53f3b4fcc717dde2cea3056b4182caa0d625b10501bf013b2193df0075e793f",
  "filename": [
   "runekeepgl.zip"
  ],
+ "files": {
+  "RRSP1.bsp": {
+   "filesize": 2698772,
+   "timestamp": "2002-03-26"
+  },
+  "Rune Keep .txt": {
+   "filesize": 6221,
+   "timestamp": "2002-03-19"
+  }
+ },
  "filesize": 1100,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c53f3b4fcc717dde2cea3056b4182caa0d625b10501bf013b2193df0075e793f",
  "tags": [
   "title:Rune Keep",
   "releasedate:2002-03-26",
@@ -18,21 +30,9 @@
   "tag:castle",
   "startmap:rrsp1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Rune Keep .txt": {
-   "filesize": 6221,
-   "timestamp": "2002-03-19"
-  },
-  "RRSP1.bsp": {
-   "filesize": 2698772,
-   "timestamp": "2002-03-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/runekeepgl.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c53f3b4fcc717dde2cea3056b4182caa0d625b10501bf013b2193df0075e793f/runekeepgl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

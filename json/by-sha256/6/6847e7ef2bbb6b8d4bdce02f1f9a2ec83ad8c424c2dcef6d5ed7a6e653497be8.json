@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6847e7ef2bbb6b8d4bdce02f1f9a2ec83ad8c424c2dcef6d5ed7a6e653497be8",
  "filename": [
   "stores.zip"
  ],
- "filesize": 669,
- "tags": [
-  "title:The Stores",
-  "releasedate:1998-04-25",
-  "game:quake",
-  "author:Tony Newton",
-  "tag:medium",
-  "tag:base",
-  "tag:crates",
-  "tag:mandatory secret"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "stores.bsp": {
    "filesize": 1595352,
@@ -28,8 +12,24 @@
    "timestamp": "1998-04-25"
   }
  },
+ "filesize": 669,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6847e7ef2bbb6b8d4bdce02f1f9a2ec83ad8c424c2dcef6d5ed7a6e653497be8",
+ "tags": [
+  "title:The Stores",
+  "releasedate:1998-04-25",
+  "game:quake",
+  "author:Tony Newton",
+  "tag:medium",
+  "tag:base",
+  "tag:crates",
+  "tag:mandatory secret"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/stores.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6847e7ef2bbb6b8d4bdce02f1f9a2ec83ad8c424c2dcef6d5ed7a6e653497be8/stores.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

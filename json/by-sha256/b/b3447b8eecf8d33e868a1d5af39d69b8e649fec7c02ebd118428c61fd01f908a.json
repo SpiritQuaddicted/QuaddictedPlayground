@@ -1,27 +1,27 @@
 {
- "version": "20191222-0",
- "sha256": "b3447b8eecf8d33e868a1d5af39d69b8e649fec7c02ebd118428c61fd01f908a",
  "filename": [
   "sm170_negke.zip"
  ],
- "filesize": 348,
- "tags": [
-  "title:Speedmapping pack 170 - Islands",
-  "releasedate:2013-05-26",
-  "game:quake",
-  "author:negke"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "sm170_negke.bsp": {
    "filesize": 985440,
    "timestamp": "2013-05-26"
   }
  },
+ "filesize": 348,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "b3447b8eecf8d33e868a1d5af39d69b8e649fec7c02ebd118428c61fd01f908a",
+ "tags": [
+  "title:Speedmapping pack 170 - Islands",
+  "releasedate:2013-05-26",
+  "game:quake",
+  "author:negke"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm170_negke.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b3447b8eecf8d33e868a1d5af39d69b8e649fec7c02ebd118428c61fd01f908a/sm170_negke.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

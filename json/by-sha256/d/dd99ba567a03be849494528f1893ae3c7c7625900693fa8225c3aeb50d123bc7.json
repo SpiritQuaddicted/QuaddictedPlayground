@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "dd99ba567a03be849494528f1893ae3c7c7625900693fa8225c3aeb50d123bc7",
  "filename": [
   "thetomb.zip"
  ],
- "filesize": 534,
- "tags": [
-  "title:The Tomb",
-  "releasedate:1997-07-30",
-  "game:quake",
-  "author:N.I.B.",
-  "tag:medium",
-  "tag:wizard",
-  "tag:traps"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "TheTomb.txt": {
    "filesize": 2378,
@@ -27,8 +12,23 @@
    "timestamp": "1997-07-30"
   }
  },
+ "filesize": 534,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dd99ba567a03be849494528f1893ae3c7c7625900693fa8225c3aeb50d123bc7",
+ "tags": [
+  "title:The Tomb",
+  "releasedate:1997-07-30",
+  "game:quake",
+  "author:N.I.B.",
+  "tag:medium",
+  "tag:wizard",
+  "tag:traps"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/thetomb.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dd99ba567a03be849494528f1893ae3c7c7625900693fa8225c3aeb50d123bc7/thetomb.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "336fe916b3005d6403ad4e89876834977ce33ec8e7e238bb5358bf697ba3e1f7",
  "filename": [
   "halo.zip"
  ],
+ "files": {
+  "halo.bsp": {
+   "filesize": 3551248,
+   "timestamp": "1997-11-21"
+  },
+  "halo.txt": {
+   "filesize": 3272,
+   "timestamp": "1997-11-19"
+  }
+ },
  "filesize": 1291,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "336fe916b3005d6403ad4e89876834977ce33ec8e7e238bb5358bf697ba3e1f7",
  "tags": [
   "title:Halo of Fire (Leap of Faith)",
   "releasedate:1997-11-21",
@@ -16,21 +28,9 @@
   "tag:canyon",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "halo.txt": {
-   "filesize": 3272,
-   "timestamp": "1997-11-19"
-  },
-  "halo.bsp": {
-   "filesize": 3551248,
-   "timestamp": "1997-11-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/halo.zip",
   "https://www.quaddicted.com/files/by-sha256/3/336fe916b3005d6403ad4e89876834977ce33ec8e7e238bb5358bf697ba3e1f7/halo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

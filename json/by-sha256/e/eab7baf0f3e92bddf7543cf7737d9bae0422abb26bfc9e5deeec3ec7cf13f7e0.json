@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "eab7baf0f3e92bddf7543cf7737d9bae0422abb26bfc9e5deeec3ec7cf13f7e0",
  "filename": [
   "wieder.zip"
  ],
+ "files": {
+  "readme.txt": {
+   "filesize": 4402,
+   "timestamp": "1997-11-11"
+  },
+  "salv.bsp": {
+   "filesize": 1269748,
+   "timestamp": "1997-10-19"
+  },
+  "salv.dem": {
+   "filesize": 1616868,
+   "timestamp": "1997-10-20"
+  },
+  "salv.txt": {
+   "filesize": 1355,
+   "timestamp": "1997-11-11"
+  },
+  "timebomb.bsp": {
+   "filesize": 2926920,
+   "timestamp": "1997-10-21"
+  },
+  "timebomb.txt": {
+   "filesize": 2539,
+   "timestamp": "1997-11-11"
+  }
+ },
  "filesize": 2007,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "eab7baf0f3e92bddf7543cf7737d9bae0422abb26bfc9e5deeec3ec7cf13f7e0",
  "tags": [
   "title:Timebomb &amp; Salvation",
   "releasedate:1997-11-11",
@@ -21,37 +49,9 @@
   "startmap:salv",
   "startmap:timebomb"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "readme.txt": {
-   "filesize": 4402,
-   "timestamp": "1997-11-11"
-  },
-  "salv.dem": {
-   "filesize": 1616868,
-   "timestamp": "1997-10-20"
-  },
-  "timebomb.txt": {
-   "filesize": 2539,
-   "timestamp": "1997-11-11"
-  },
-  "salv.bsp": {
-   "filesize": 1269748,
-   "timestamp": "1997-10-19"
-  },
-  "timebomb.bsp": {
-   "filesize": 2926920,
-   "timestamp": "1997-10-21"
-  },
-  "salv.txt": {
-   "filesize": 1355,
-   "timestamp": "1997-11-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/wieder.zip",
   "https://www.quaddicted.com/files/by-sha256/e/eab7baf0f3e92bddf7543cf7737d9bae0422abb26bfc9e5deeec3ec7cf13f7e0/wieder.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0f305a53a6c386bd472157921e169d7f07f517fef65a83448b1a324095533c2f",
  "filename": [
   "borg.zip"
  ],
+ "files": {
+  "Borg.txt": {
+   "filesize": 2472,
+   "timestamp": "1997-05-29"
+  },
+  "Pak0.pak": {
+   "filesize": 2890715,
+   "timestamp": "1997-05-29"
+  }
+ },
  "filesize": 1757,
+ "install": {
+  "extract": "{quake}/borg/"
+ },
+ "sha256": "0f305a53a6c386bd472157921e169d7f07f517fef65a83448b1a324095533c2f",
  "tags": [
   "title:The Borg",
   "releasedate:1997-05-29",
@@ -17,21 +29,9 @@
   "tag:star trek",
   "tag:maze"
  ],
- "install": {
-  "extract": "{quake}/borg/"
- },
- "files": {
-  "Pak0.pak": {
-   "filesize": 2890715,
-   "timestamp": "1997-05-29"
-  },
-  "Borg.txt": {
-   "filesize": 2472,
-   "timestamp": "1997-05-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/borg.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0f305a53a6c386bd472157921e169d7f07f517fef65a83448b1a324095533c2f/borg.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

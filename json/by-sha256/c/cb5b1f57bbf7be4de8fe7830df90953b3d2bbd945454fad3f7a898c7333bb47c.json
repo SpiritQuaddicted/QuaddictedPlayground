@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "cb5b1f57bbf7be4de8fe7830df90953b3d2bbd945454fad3f7a898c7333bb47c",
  "filename": [
   "kewsampl.zip"
  ],
+ "files": {
+  "Kewmaps.txt": {
+   "filesize": 2652,
+   "timestamp": "1997-10-28"
+  },
+  "kewmap1.bsp": {
+   "filesize": 1605448,
+   "timestamp": "1997-10-28"
+  },
+  "kewmap2.bsp": {
+   "filesize": 1732496,
+   "timestamp": "1997-10-28"
+  }
+ },
  "filesize": 1402,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cb5b1f57bbf7be4de8fe7830df90953b3d2bbd945454fad3f7a898c7333bb47c",
  "tags": [
   "title:Illhaven Winter &amp; The Bastion of Skull",
   "releasedate:1997-10-28",
@@ -21,25 +37,9 @@
   "tag:rise of the phoenix",
   "startmap:kewmap1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Kewmaps.txt": {
-   "filesize": 2652,
-   "timestamp": "1997-10-28"
-  },
-  "kewmap1.bsp": {
-   "filesize": 1605448,
-   "timestamp": "1997-10-28"
-  },
-  "kewmap2.bsp": {
-   "filesize": 1732496,
-   "timestamp": "1997-10-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/kewsampl.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cb5b1f57bbf7be4de8fe7830df90953b3d2bbd945454fad3f7a898c7333bb47c/kewsampl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

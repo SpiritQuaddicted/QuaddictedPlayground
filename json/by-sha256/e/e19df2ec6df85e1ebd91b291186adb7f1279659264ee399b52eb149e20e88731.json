@@ -1,27 +1,27 @@
 {
- "version": "20191222-0",
- "sha256": "e19df2ec6df85e1ebd91b291186adb7f1279659264ee399b52eb149e20e88731",
  "filename": [
   "sm171_negke.zip"
  ],
- "filesize": 192,
- "tags": [
-  "title:Speedmapping pack 171 - Bricks",
-  "releasedate:2013-06-04",
-  "game:quake",
-  "author:negke"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "sm171_negke.bsp": {
    "filesize": 503620,
    "timestamp": "2013-06-04"
   }
  },
+ "filesize": 192,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "e19df2ec6df85e1ebd91b291186adb7f1279659264ee399b52eb149e20e88731",
+ "tags": [
+  "title:Speedmapping pack 171 - Bricks",
+  "releasedate:2013-06-04",
+  "game:quake",
+  "author:negke"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm171_negke.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e19df2ec6df85e1ebd91b291186adb7f1279659264ee399b52eb149e20e88731/sm171_negke.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

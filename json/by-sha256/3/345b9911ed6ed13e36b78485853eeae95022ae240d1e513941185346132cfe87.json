@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "345b9911ed6ed13e36b78485853eeae95022ae240d1e513941185346132cfe87",
  "filename": [
   "disgrace.zip"
  ],
+ "files": {
+  "Info.txt": {
+   "filesize": 2949,
+   "timestamp": "1997-03-13"
+  },
+  "disgrace.bsp": {
+   "filesize": 985396,
+   "timestamp": "1997-03-13"
+  }
+ },
  "filesize": 412,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "345b9911ed6ed13e36b78485853eeae95022ae240d1e513941185346132cfe87",
  "tags": [
   "title:Base of disgrace",
   "releasedate:1997-03-13",
@@ -16,21 +28,9 @@
   "tag:disbalanced",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "disgrace.bsp": {
-   "filesize": 985396,
-   "timestamp": "1997-03-13"
-  },
-  "Info.txt": {
-   "filesize": 2949,
-   "timestamp": "1997-03-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/disgrace.zip",
   "https://www.quaddicted.com/files/by-sha256/3/345b9911ed6ed13e36b78485853eeae95022ae240d1e513941185346132cfe87/disgrace.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

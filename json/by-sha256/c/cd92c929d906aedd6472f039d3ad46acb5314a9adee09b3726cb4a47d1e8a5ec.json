@@ -1,31 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "cd92c929d906aedd6472f039d3ad46acb5314a9adee09b3726cb4a47d1e8a5ec",
  "filename": [
   "sm185_pack.zip"
  ],
- "filesize": 3694,
- "tags": [
-  "title:Speedmapping pack 185 - 1024 Units",
-  "releasedate:2018-07-05",
-  "game:quake",
-  "author:Artistical",
-  "author:DraQu",
-  "author:JCR",
-  "author:muk0r",
-  "author:onetruepurple",
-  "author:ww",
-  "tag:dm4",
-  "startmap:sm185_artistical",
-  "startmap:sm185_draqu",
-  "startmap:sm185_jcr",
-  "startmap:sm185_muk",
-  "startmap:sm185_otp",
-  "startmap:sm185_ww"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "maps/sm185_artistical.bsp": {
    "filesize": 1187240,
@@ -96,8 +72,32 @@
    "timestamp": "2018-07-05"
   }
  },
+ "filesize": 3694,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "cd92c929d906aedd6472f039d3ad46acb5314a9adee09b3726cb4a47d1e8a5ec",
+ "tags": [
+  "title:Speedmapping pack 185 - 1024 Units",
+  "releasedate:2018-07-05",
+  "game:quake",
+  "author:Artistical",
+  "author:DraQu",
+  "author:JCR",
+  "author:muk0r",
+  "author:onetruepurple",
+  "author:ww",
+  "tag:dm4",
+  "startmap:sm185_artistical",
+  "startmap:sm185_draqu",
+  "startmap:sm185_jcr",
+  "startmap:sm185_muk",
+  "startmap:sm185_otp",
+  "startmap:sm185_ww"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm185_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cd92c929d906aedd6472f039d3ad46acb5314a9adee09b3726cb4a47d1e8a5ec/sm185_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "71e61bfda000f71d3b7b1efcf868c3b74a0f0d20492afd65ee0ff34823d92291",
  "filename": [
   "jjspq3.zip"
  ],
- "filesize": 1104,
- "tags": [
-  "title:Strength. Service. Honour.",
-  "releasedate:2001-02-05",
-  "game:quake",
-  "author:Vigil",
-  "tag:base",
-  "tag:industrial",
-  "tag:dirty",
-  "tag:jackboot"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "jjspq3.bsp": {
    "filesize": 2641356,
@@ -28,8 +12,24 @@
    "timestamp": "2001-02-05"
   }
  },
+ "filesize": 1104,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "71e61bfda000f71d3b7b1efcf868c3b74a0f0d20492afd65ee0ff34823d92291",
+ "tags": [
+  "title:Strength. Service. Honour.",
+  "releasedate:2001-02-05",
+  "game:quake",
+  "author:Vigil",
+  "tag:base",
+  "tag:industrial",
+  "tag:dirty",
+  "tag:jackboot"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/jjspq3.zip",
   "https://www.quaddicted.com/files/by-sha256/7/71e61bfda000f71d3b7b1efcf868c3b74a0f0d20492afd65ee0ff34823d92291/jjspq3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

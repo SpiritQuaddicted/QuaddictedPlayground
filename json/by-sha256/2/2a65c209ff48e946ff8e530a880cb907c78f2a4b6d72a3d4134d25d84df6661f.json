@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "2a65c209ff48e946ff8e530a880cb907c78f2a4b6d72a3d4134d25d84df6661f",
  "filename": [
   "sotf1.zip"
  ],
- "filesize": 363,
- "tags": [
-  "title:Shrine of the Fiends",
-  "releasedate:2017-07-16",
-  "game:quake",
-  "author:Qmaster",
-  "tag:small",
-  "tag:medieval",
-  "tag:remake",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sotf1.bsp": {
    "filesize": 673828,
@@ -36,8 +20,24 @@
    "timestamp": "2017-07-16"
   }
  },
+ "filesize": 363,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2a65c209ff48e946ff8e530a880cb907c78f2a4b6d72a3d4134d25d84df6661f",
+ "tags": [
+  "title:Shrine of the Fiends",
+  "releasedate:2017-07-16",
+  "game:quake",
+  "author:Qmaster",
+  "tag:small",
+  "tag:medieval",
+  "tag:remake",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sotf1.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2a65c209ff48e946ff8e530a880cb907c78f2a4b6d72a3d4134d25d84df6661f/sotf1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

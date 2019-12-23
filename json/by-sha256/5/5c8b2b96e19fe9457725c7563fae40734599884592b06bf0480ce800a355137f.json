@@ -1,28 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f",
  "filename": [
   "alk10.zip"
  ],
- "filesize": 3287,
- "tags": [
-  "title:Permutations of the Rotten",
-  "releasedate:2001-08-10",
-  "game:quake",
-  "commandline:-nehahra -game alk10",
-  "author:Shaun [Kona] Ross",
-  "tag:metal",
-  "tag:neharah",
-  "tag:medium",
-  "tag:episode",
-  "tag:nehahra",
-  "tag:planetquake-map-of-the-week",
-  "dependency:nehahra",
-  "startmap:alk10a"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "alk10/alk10.html": {
    "filesize": 20251,
@@ -41,8 +20,29 @@
    "timestamp": "2001-08-05"
   }
  },
+ "filesize": 3287,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f",
+ "tags": [
+  "title:Permutations of the Rotten",
+  "releasedate:2001-08-10",
+  "game:quake",
+  "commandline:-nehahra -game alk10",
+  "author:Shaun [Kona] Ross",
+  "tag:metal",
+  "tag:neharah",
+  "tag:medium",
+  "tag:episode",
+  "tag:nehahra",
+  "tag:planetquake-map-of-the-week",
+  "dependency:nehahra",
+  "startmap:alk10a"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/alk10.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f/alk10.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

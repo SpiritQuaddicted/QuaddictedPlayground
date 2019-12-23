@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "147f17076b0a06d7904662a72dfd8264d9f07205ad47175565394e6b3dcbfbca",
  "filename": [
   "sm37_pack.zip"
  ],
+ "files": {
+  "sm37_asaki.bsp": {
+   "filesize": 155344,
+   "timestamp": "2001-10-20"
+  },
+  "sm37_fr3n.bsp": {
+   "filesize": 441780,
+   "timestamp": "2001-10-20"
+  },
+  "sm37_metl.bsp": {
+   "filesize": 482360,
+   "timestamp": "2001-10-20"
+  },
+  "sm37_pack.txt": {
+   "filesize": 2979,
+   "timestamp": "2001-10-21"
+  },
+  "sm37_sb.bsp": {
+   "filesize": 789340,
+   "timestamp": "2001-10-20"
+  },
+  "sm37_than.bsp": {
+   "filesize": 456512,
+   "timestamp": "2001-10-20"
+  },
+  "sm37_xenon.bsp": {
+   "filesize": 657368,
+   "timestamp": "2001-10-21"
+  }
+ },
  "filesize": 1129,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "147f17076b0a06d7904662a72dfd8264d9f07205ad47175565394e6b3dcbfbca",
  "tags": [
   "title:Speedmapping pack 37 - Unthemed",
   "releasedate:2001-10-21",
@@ -22,41 +54,9 @@
   "startmap:sm37_than",
   "startmap:sm37_xenon"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm37_fr3n.bsp": {
-   "filesize": 441780,
-   "timestamp": "2001-10-20"
-  },
-  "sm37_pack.txt": {
-   "filesize": 2979,
-   "timestamp": "2001-10-21"
-  },
-  "sm37_xenon.bsp": {
-   "filesize": 657368,
-   "timestamp": "2001-10-21"
-  },
-  "sm37_asaki.bsp": {
-   "filesize": 155344,
-   "timestamp": "2001-10-20"
-  },
-  "sm37_metl.bsp": {
-   "filesize": 482360,
-   "timestamp": "2001-10-20"
-  },
-  "sm37_than.bsp": {
-   "filesize": 456512,
-   "timestamp": "2001-10-20"
-  },
-  "sm37_sb.bsp": {
-   "filesize": 789340,
-   "timestamp": "2001-10-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm37_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/147f17076b0a06d7904662a72dfd8264d9f07205ad47175565394e6b3dcbfbca/sm37_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

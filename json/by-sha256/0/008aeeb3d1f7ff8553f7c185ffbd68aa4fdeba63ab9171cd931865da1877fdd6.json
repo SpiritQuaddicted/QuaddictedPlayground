@@ -1,29 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6",
  "filename": [
   "rotcs.zip"
  ],
- "filesize": 70183,
- "tags": [
-  "title:Retribution of the ConeScript",
-  "releasedate:2011-06-20",
-  "game:quake",
-  "commandline:-nehahra -game rotcs +gamedir rotcs",
-  "author:vIE888",
-  "tag:episode",
-  "tag:small",
-  "tag:hub",
-  "tag:quests",
-  "tag:nehahra",
-  "tag:village",
-  "tag:medieval",
-  "dependency:nehahra",
-  "startmap:prelude"
- ],
- "install": {
-  "extract": "{quake}//rotcs"
- },
  "files": {
   "Quaddicted_repack.txt": {
    "filesize": 43,
@@ -582,8 +560,30 @@
    "timestamp": "2007-05-06"
   }
  },
+ "filesize": 70183,
+ "install": {
+  "extract": "{quake}//rotcs"
+ },
+ "sha256": "008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6",
+ "tags": [
+  "title:Retribution of the ConeScript",
+  "releasedate:2011-06-20",
+  "game:quake",
+  "commandline:-nehahra -game rotcs +gamedir rotcs",
+  "author:vIE888",
+  "tag:episode",
+  "tag:small",
+  "tag:hub",
+  "tag:quests",
+  "tag:nehahra",
+  "tag:village",
+  "tag:medieval",
+  "dependency:nehahra",
+  "startmap:prelude"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/rotcs.zip",
   "https://www.quaddicted.com/files/by-sha256/0/008aeeb3d1f7ff8553f7c185ffbd68aa4fdeba63ab9171cd931865da1877fdd6/rotcs.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

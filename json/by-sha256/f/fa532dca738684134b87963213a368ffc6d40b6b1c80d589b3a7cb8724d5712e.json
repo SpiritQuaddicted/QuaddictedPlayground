@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "fa532dca738684134b87963213a368ffc6d40b6b1c80d589b3a7cb8724d5712e",
  "filename": [
   "crusade5.zip"
  ],
+ "files": {
+  "crusade5.bsp": {
+   "filesize": 897024,
+   "timestamp": "1997-03-02"
+  },
+  "crusade5.txt": {
+   "filesize": 1789,
+   "timestamp": "1997-03-02"
+  },
+  "crusade5_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 361,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "fa532dca738684134b87963213a368ffc6d40b6b1c80d589b3a7cb8724d5712e",
  "tags": [
   "title:Crusade 5",
   "releasedate:1997-03-02",
@@ -16,25 +32,9 @@
   "tag:tribute",
   "tag:indiana jones"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "crusade5.bsp": {
-   "filesize": 897024,
-   "timestamp": "1997-03-02"
-  },
-  "crusade5_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "crusade5.txt": {
-   "filesize": 1789,
-   "timestamp": "1997-03-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/crusade5.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fa532dca738684134b87963213a368ffc6d40b6b1c80d589b3a7cb8724d5712e/crusade5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

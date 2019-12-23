@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d532310709e2bc1b948572f842196429ee970c59782f6ce0351e6fcf9e7f72b6",
  "filename": [
   "ins2.zip"
  ],
- "filesize": 737,
- "tags": [
-  "title:The Insurrection, part II - The Grand Opus",
-  "releasedate:1997-04-01",
-  "game:quake",
-  "author:Chris Mayers",
-  "tag:mediu",
-  "tag:medieval",
-  "tag:medium",
-  "startmap:opus"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "OPUS.BSP": {
    "filesize": 1694048,
@@ -28,8 +12,24 @@
    "timestamp": "1997-04-01"
   }
  },
+ "filesize": 737,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d532310709e2bc1b948572f842196429ee970c59782f6ce0351e6fcf9e7f72b6",
+ "tags": [
+  "title:The Insurrection, part II - The Grand Opus",
+  "releasedate:1997-04-01",
+  "game:quake",
+  "author:Chris Mayers",
+  "tag:mediu",
+  "tag:medieval",
+  "tag:medium",
+  "startmap:opus"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/ins2.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d532310709e2bc1b948572f842196429ee970c59782f6ce0351e6fcf9e7f72b6/ins2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

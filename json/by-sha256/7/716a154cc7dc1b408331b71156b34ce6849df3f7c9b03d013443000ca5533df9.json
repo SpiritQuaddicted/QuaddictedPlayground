@@ -1,31 +1,15 @@
 {
- "version": "20191222-0",
- "sha256": "716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9",
  "filename": [
   "4fiffy3.zip"
  ],
- "filesize": 525,
- "tags": [
-  "title:REoL TOUGH: Damnation!",
-  "releasedate:1997-04-21",
-  "game:quake",
-  "author:George J. Fiffy II",
-  "tag:small",
-  "tag:wizard",
-  "tag:traps",
-  "startmap:fiffy3"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
-  "FIFFY3.BSP": {
-   "filesize": 811760,
-   "timestamp": "1997-04-19"
-  },
   "!!READ!!.BAT": {
    "filesize": 16081,
    "timestamp": "1997-04-21"
+  },
+  "FIFFY3.BSP": {
+   "filesize": 811760,
+   "timestamp": "1997-04-19"
   },
   "FIFFY3.DEM": {
    "filesize": 977821,
@@ -36,8 +20,24 @@
    "timestamp": "1997-04-20"
   }
  },
+ "filesize": 525,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9",
+ "tags": [
+  "title:REoL TOUGH: Damnation!",
+  "releasedate:1997-04-21",
+  "game:quake",
+  "author:George J. Fiffy II",
+  "tag:small",
+  "tag:wizard",
+  "tag:traps",
+  "startmap:fiffy3"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy3.zip",
   "https://www.quaddicted.com/files/by-sha256/7/716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9/4fiffy3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

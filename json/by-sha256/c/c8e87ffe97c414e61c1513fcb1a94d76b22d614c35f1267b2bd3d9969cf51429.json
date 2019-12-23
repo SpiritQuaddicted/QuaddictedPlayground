@@ -1,34 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c8e87ffe97c414e61c1513fcb1a94d76b22d614c35f1267b2bd3d9969cf51429",
  "filename": [
   "sm187_pack.zip"
  ],
- "filesize": 3385,
- "tags": [
-  "title:Speedmapping pack 187 - 4 hours",
-  "releasedate:2018-09-13",
-  "game:quake",
-  "author:dantescanline",
-  "author:Danzadan",
-  "author:dumptruck_ds",
-  "author:ing-ing",
-  "author:JCR",
-  "author:Naitelveni",
-  "author:Newhouse",
-  "author:prengle",
-  "startmap:sm187_dante",
-  "startmap:sm187_danzadan",
-  "startmap:sm187_dumptruck",
-  "startmap:sm187_ing",
-  "startmap:sm187_jcr",
-  "startmap:sm187_naitelveni",
-  "startmap:sm187_newhouse",
-  "startmap:sm187_prengle"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "maps/sm187_dante.bsp": {
    "filesize": 841820,
@@ -123,8 +96,35 @@
    "timestamp": "2018-09-12"
   }
  },
+ "filesize": 3385,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "c8e87ffe97c414e61c1513fcb1a94d76b22d614c35f1267b2bd3d9969cf51429",
+ "tags": [
+  "title:Speedmapping pack 187 - 4 hours",
+  "releasedate:2018-09-13",
+  "game:quake",
+  "author:dantescanline",
+  "author:Danzadan",
+  "author:dumptruck_ds",
+  "author:ing-ing",
+  "author:JCR",
+  "author:Naitelveni",
+  "author:Newhouse",
+  "author:prengle",
+  "startmap:sm187_dante",
+  "startmap:sm187_danzadan",
+  "startmap:sm187_dumptruck",
+  "startmap:sm187_ing",
+  "startmap:sm187_jcr",
+  "startmap:sm187_naitelveni",
+  "startmap:sm187_newhouse",
+  "startmap:sm187_prengle"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm187_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c8e87ffe97c414e61c1513fcb1a94d76b22d614c35f1267b2bd3d9969cf51429/sm187_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

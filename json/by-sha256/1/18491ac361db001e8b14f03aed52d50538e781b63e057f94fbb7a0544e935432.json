@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "18491ac361db001e8b14f03aed52d50538e781b63e057f94fbb7a0544e935432",
  "filename": [
   "marine.zip"
  ],
+ "files": {
+  "marine/pak0.pak": {
+   "filesize": 5815214,
+   "timestamp": "2002-02-16"
+  },
+  "marine/ultramarine.txt": {
+   "filesize": 2644,
+   "timestamp": "2002-10-24"
+  }
+ },
  "filesize": 2622,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "18491ac361db001e8b14f03aed52d50538e781b63e057f94fbb7a0544e935432",
  "tags": [
   "title:Ultramarine",
   "releasedate:2002-10-24",
@@ -16,21 +28,9 @@
   "tag:monsters",
   "tag:q2"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "marine/ultramarine.txt": {
-   "filesize": 2644,
-   "timestamp": "2002-10-24"
-  },
-  "marine/pak0.pak": {
-   "filesize": 5815214,
-   "timestamp": "2002-02-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/marine.zip",
   "https://www.quaddicted.com/files/by-sha256/1/18491ac361db001e8b14f03aed52d50538e781b63e057f94fbb7a0544e935432/marine.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

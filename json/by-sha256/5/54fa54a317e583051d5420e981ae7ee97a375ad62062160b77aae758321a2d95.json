@@ -1,38 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95",
  "filename": [
   "sm169_pack.zip"
  ],
- "filesize": 5833,
- "tags": [
-  "title:Speedmapping Pack 169 - Rubicon2 with a Quad",
-  "releasedate:2013-04-22",
-  "game:quake",
-  "author:Drew",
-  "author:FifthElephant",
-  "author:ijed",
-  "author:Jackfapoff",
-  "author:negke",
-  "author:Orbs",
-  "author:RickyT23",
-  "author:Scampie",
-  "tag:quoth",
-  "tag:bsp2",
-  "tag:rubicon",
-  "startmap:sm169_drew",
-  "startmap:sm169_fifthelephant",
-  "startmap:sm169_ijed2",
-  "startmap:sm169_jackfapoff",
-  "startmap:sm169_negke",
-  "startmap:sm169_orbs1",
-  "startmap:sm169_orbs2",
-  "startmap:sm169_rickyt23",
-  "startmap:sm169_scampie"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm169_drew.bsp": {
    "filesize": 2857860,
@@ -103,8 +72,39 @@
    "timestamp": "2013-04-21"
   }
  },
+ "filesize": 5833,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95",
+ "tags": [
+  "title:Speedmapping Pack 169 - Rubicon2 with a Quad",
+  "releasedate:2013-04-22",
+  "game:quake",
+  "author:Drew",
+  "author:FifthElephant",
+  "author:ijed",
+  "author:Jackfapoff",
+  "author:negke",
+  "author:Orbs",
+  "author:RickyT23",
+  "author:Scampie",
+  "tag:quoth",
+  "tag:bsp2",
+  "tag:rubicon",
+  "startmap:sm169_drew",
+  "startmap:sm169_fifthelephant",
+  "startmap:sm169_ijed2",
+  "startmap:sm169_jackfapoff",
+  "startmap:sm169_negke",
+  "startmap:sm169_orbs1",
+  "startmap:sm169_orbs2",
+  "startmap:sm169_rickyt23",
+  "startmap:sm169_scampie"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm169_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5/54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95/sm169_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

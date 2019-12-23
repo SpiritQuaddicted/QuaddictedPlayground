@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9",
  "filename": [
   "rohling.zip"
  ],
- "filesize": 457,
- "tags": [
-  "title:Hello",
-  "releasedate:1996-10-10",
-  "game:quake",
-  "author:Kevin Rohling",
-  "tag:small",
-  "tag:mixtex",
-  "tag:lava",
-  "tag:source",
-  "tag:dark",
-  "startmap:level"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "QVER.EXE": {
    "filesize": 8946,
@@ -46,8 +28,26 @@
    "timestamp": "1996-08-30"
   }
  },
+ "filesize": 457,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9",
+ "tags": [
+  "title:Hello",
+  "releasedate:1996-10-10",
+  "game:quake",
+  "author:Kevin Rohling",
+  "tag:small",
+  "tag:mixtex",
+  "tag:lava",
+  "tag:source",
+  "tag:dark",
+  "startmap:level"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/rohling.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9/rohling.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

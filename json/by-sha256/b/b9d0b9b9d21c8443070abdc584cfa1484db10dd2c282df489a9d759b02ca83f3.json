@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3",
  "filename": [
   "sm93_pack.zip"
  ],
+ "files": {
+  "sm93_headthump.bsp": {
+   "filesize": 2468684,
+   "timestamp": "2005-05-28"
+  },
+  "sm93_hrimfaxi.bsp": {
+   "filesize": 1952672,
+   "timestamp": "2005-05-29"
+  },
+  "sm93_pack.txt": {
+   "filesize": 1226,
+   "timestamp": "2005-05-28"
+  },
+  "sm93_zwiffle.bsp": {
+   "filesize": 310372,
+   "timestamp": "2005-05-28"
+  }
+ },
  "filesize": 1729,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3",
  "tags": [
   "title:Speedmapping pack 93 - Unthemed",
   "releasedate:2005-05-29",
@@ -16,29 +36,9 @@
   "startmap:sm93_headthump",
   "startmap:sm93_hrimfaxi"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm93_headthump.bsp": {
-   "filesize": 2468684,
-   "timestamp": "2005-05-28"
-  },
-  "sm93_pack.txt": {
-   "filesize": 1226,
-   "timestamp": "2005-05-28"
-  },
-  "sm93_hrimfaxi.bsp": {
-   "filesize": 1952672,
-   "timestamp": "2005-05-29"
-  },
-  "sm93_zwiffle.bsp": {
-   "filesize": 310372,
-   "timestamp": "2005-05-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm93_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b9d0b9b9d21c8443070abdc584cfa1484db10dd2c282df489a9d759b02ca83f3/sm93_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

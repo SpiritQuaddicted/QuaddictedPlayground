@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0b55277b94c81ce7a80da013172160e416145161cf99fb1b7e3796a65ab7de92",
  "filename": [
   "despair2.zip"
  ],
+ "files": {
+  "Despair2.txt": {
+   "filesize": 2974,
+   "timestamp": "1996-11-29"
+  },
+  "despair2.bsp": {
+   "filesize": 1055460,
+   "timestamp": "1996-11-29"
+  }
+ },
  "filesize": 457,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0b55277b94c81ce7a80da013172160e416145161cf99fb1b7e3796a65ab7de92",
  "tags": [
   "title:Liquid Despair",
   "releasedate:1996-11-29",
@@ -16,21 +28,9 @@
   "tag:water",
   "tag:elder world"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Despair2.txt": {
-   "filesize": 2974,
-   "timestamp": "1996-11-29"
-  },
-  "despair2.bsp": {
-   "filesize": 1055460,
-   "timestamp": "1996-11-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/despair2.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0b55277b94c81ce7a80da013172160e416145161cf99fb1b7e3796a65ab7de92/despair2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

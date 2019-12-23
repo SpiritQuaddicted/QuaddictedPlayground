@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48",
  "filename": [
   "backstein1e.zip"
  ],
+ "files": {
+  "backstein1e_readme.txt": {
+   "filesize": 10447,
+   "timestamp": "2013-07-06"
+  },
+  "pak0.pak": {
+   "filesize": 17560716,
+   "timestamp": "2013-07-06"
+  },
+  "pak1.pak": {
+   "filesize": 169495,
+   "timestamp": "2013-07-06"
+  }
+ },
  "filesize": 5523,
+ "install": {
+  "extract": "{quake}/backstein/"
+ },
+ "sha256": "f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48",
  "tags": [
   "title:Backsteingotik",
   "releasedate:2013-07-06",
@@ -24,25 +40,9 @@
   "tag:start map",
   "startmap:backstein"
  ],
- "install": {
-  "extract": "{quake}/backstein/"
- },
- "files": {
-  "backstein1e_readme.txt": {
-   "filesize": 10447,
-   "timestamp": "2013-07-06"
-  },
-  "pak0.pak": {
-   "filesize": 17560716,
-   "timestamp": "2013-07-06"
-  },
-  "pak1.pak": {
-   "filesize": 169495,
-   "timestamp": "2013-07-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/backstein1e.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f6491b937a65f12bdfb66b041568a1efaf3fd0f08ee7f69b3255dada38779c48/backstein1e.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

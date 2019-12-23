@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "e91324ce7ceadf1e64c51394096708e5f5b13f25b2bb125fe6082d0fa049ae8d",
  "filename": [
   "sm5_pack.zip"
  ],
+ "files": {
+  "sm5_aard.bsp": {
+   "filesize": 531316,
+   "timestamp": "2001-03-31"
+  },
+  "sm5_aru.bsp": {
+   "filesize": 282856,
+   "timestamp": "2001-03-31"
+  },
+  "sm5_bear.bsp": {
+   "filesize": 218256,
+   "timestamp": "2001-03-31"
+  },
+  "sm5_gibbie.bsp": {
+   "filesize": 435412,
+   "timestamp": "2001-03-31"
+  },
+  "sm5_grahf.bsp": {
+   "filesize": 708160,
+   "timestamp": "2001-03-31"
+  },
+  "sm5_inane.bsp": {
+   "filesize": 236348,
+   "timestamp": "2001-03-31"
+  },
+  "sm5_pack.txt": {
+   "filesize": 2718,
+   "timestamp": "2001-04-01"
+  },
+  "sm5_scampie.bsp": {
+   "filesize": 244672,
+   "timestamp": "2001-03-31"
+  },
+  "sm5_speed.bsp": {
+   "filesize": 828316,
+   "timestamp": "2001-04-01"
+  }
+ },
  "filesize": 1378,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e91324ce7ceadf1e64c51394096708e5f5b13f25b2bb125fe6082d0fa049ae8d",
  "tags": [
   "title:Speedmapping pack 5 - Unthemed",
   "releasedate:2001-04-01",
@@ -28,49 +68,9 @@
   "startmap:sm5_inane",
   "startmap:sm5_aru"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm5_gibbie.bsp": {
-   "filesize": 435412,
-   "timestamp": "2001-03-31"
-  },
-  "sm5_grahf.bsp": {
-   "filesize": 708160,
-   "timestamp": "2001-03-31"
-  },
-  "sm5_bear.bsp": {
-   "filesize": 218256,
-   "timestamp": "2001-03-31"
-  },
-  "sm5_aard.bsp": {
-   "filesize": 531316,
-   "timestamp": "2001-03-31"
-  },
-  "sm5_speed.bsp": {
-   "filesize": 828316,
-   "timestamp": "2001-04-01"
-  },
-  "sm5_aru.bsp": {
-   "filesize": 282856,
-   "timestamp": "2001-03-31"
-  },
-  "sm5_pack.txt": {
-   "filesize": 2718,
-   "timestamp": "2001-04-01"
-  },
-  "sm5_inane.bsp": {
-   "filesize": 236348,
-   "timestamp": "2001-03-31"
-  },
-  "sm5_scampie.bsp": {
-   "filesize": 244672,
-   "timestamp": "2001-03-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm5_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e91324ce7ceadf1e64c51394096708e5f5b13f25b2bb125fe6082d0fa049ae8d/sm5_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

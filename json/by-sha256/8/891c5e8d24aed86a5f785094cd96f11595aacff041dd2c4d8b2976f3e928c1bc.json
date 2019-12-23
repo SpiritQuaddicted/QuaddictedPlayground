@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "891c5e8d24aed86a5f785094cd96f11595aacff041dd2c4d8b2976f3e928c1bc",
  "filename": [
   "labirint.zip"
  ],
- "filesize": 163,
- "tags": [
-  "title:The Labyrinth of Death",
-  "releasedate:1997-05-10",
-  "game:quake",
-  "author:Andrew M@N",
-  "tag:maze",
-  "tag:wizard",
-  "tag:traps",
-  "tag:small"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "labirint.TXT": {
    "filesize": 1358,
@@ -28,8 +12,24 @@
    "timestamp": "1992-02-20"
   }
  },
+ "filesize": 163,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "891c5e8d24aed86a5f785094cd96f11595aacff041dd2c4d8b2976f3e928c1bc",
+ "tags": [
+  "title:The Labyrinth of Death",
+  "releasedate:1997-05-10",
+  "game:quake",
+  "author:Andrew M@N",
+  "tag:maze",
+  "tag:wizard",
+  "tag:traps",
+  "tag:small"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/labirint.zip",
   "https://www.quaddicted.com/files/by-sha256/8/891c5e8d24aed86a5f785094cd96f11595aacff041dd2c4d8b2976f3e928c1bc/labirint.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

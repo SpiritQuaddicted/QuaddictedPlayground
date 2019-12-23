@@ -1,49 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac",
  "filename": [
   "func_mapjam2.zip"
  ],
- "filesize": 44204,
- "tags": [
-  "title:Func Map Jam 2 - IKblue/IKwhite Theme",
-  "releasedate:2014-08-01",
-  "game:quake",
-  "commandline:-game func_mapjam2",
-  "author:Cocerello",
-  "author:ericw / FifthElephant",
-  "author:Lunaran",
-  "author:mfx",
-  "author:Scampie",
-  "author:skacky",
-  "author:sock",
-  "author:Tronyn",
-  "tag:medium",
-  "tag:large",
-  "tag:ikblue",
-  "tag:ikwhite",
-  "tag:temple",
-  "tag:outdoor",
-  "tag:arabian",
-  "tag:limits",
-  "tag:source",
-  "tag:exploration",
-  "tag:asd",
-  "tag:skybox",
-  "tag:jam",
-  "tag:snow",
-  "startmap:jam2_cocerello",
-  "startmap:jam2_fifth",
-  "startmap:jam2_lunaran",
-  "startmap:jam2_mfx",
-  "startmap:jam2_scampie",
-  "startmap:jam2_skacky",
-  "startmap:jam2_sock",
-  "startmap:jam2_tronyn"
- ],
- "install": {
-  "extract": "{quake}/func_mapjam2/"
- },
  "files": {
   "docs/jam2_cocerello.txt": {
    "filesize": 4543,
@@ -370,8 +328,50 @@
    "timestamp": "2014-07-29"
   }
  },
+ "filesize": 44204,
+ "install": {
+  "extract": "{quake}/func_mapjam2/"
+ },
+ "sha256": "4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac",
+ "tags": [
+  "title:Func Map Jam 2 - IKblue/IKwhite Theme",
+  "releasedate:2014-08-01",
+  "game:quake",
+  "commandline:-game func_mapjam2",
+  "author:Cocerello",
+  "author:ericw / FifthElephant",
+  "author:Lunaran",
+  "author:mfx",
+  "author:Scampie",
+  "author:skacky",
+  "author:sock",
+  "author:Tronyn",
+  "tag:medium",
+  "tag:large",
+  "tag:ikblue",
+  "tag:ikwhite",
+  "tag:temple",
+  "tag:outdoor",
+  "tag:arabian",
+  "tag:limits",
+  "tag:source",
+  "tag:exploration",
+  "tag:asd",
+  "tag:skybox",
+  "tag:jam",
+  "tag:snow",
+  "startmap:jam2_cocerello",
+  "startmap:jam2_fifth",
+  "startmap:jam2_lunaran",
+  "startmap:jam2_mfx",
+  "startmap:jam2_scampie",
+  "startmap:jam2_skacky",
+  "startmap:jam2_sock",
+  "startmap:jam2_tronyn"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjam2.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac/func_mapjam2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

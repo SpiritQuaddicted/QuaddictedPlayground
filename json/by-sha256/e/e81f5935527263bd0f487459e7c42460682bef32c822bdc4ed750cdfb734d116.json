@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e81f5935527263bd0f487459e7c42460682bef32c822bdc4ed750cdfb734d116",
  "filename": [
   "real.zip"
  ],
+ "files": {
+  "Real.bsp": {
+   "filesize": 1495564,
+   "timestamp": "1997-10-05"
+  },
+  "Real.txt": {
+   "filesize": 1620,
+   "timestamp": "1997-10-05"
+  }
+ },
  "filesize": 640,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e81f5935527263bd0f487459e7c42460682bef32c822bdc4ed750cdfb734d116",
  "tags": [
   "title:Far beyond reality",
   "releasedate:1997-10-05",
@@ -16,21 +28,9 @@
   "tag:flags",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Real.bsp": {
-   "filesize": 1495564,
-   "timestamp": "1997-10-05"
-  },
-  "Real.txt": {
-   "filesize": 1620,
-   "timestamp": "1997-10-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/real.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e81f5935527263bd0f487459e7c42460682bef32c822bdc4ed750cdfb734d116/real.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

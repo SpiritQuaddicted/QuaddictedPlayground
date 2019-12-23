@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "18ac1f884a7be21a4a4e7c047eab2ed554dd40813933c46c60bc2379500de166",
  "filename": [
   "nanesp1.zip"
  ],
+ "files": {
+  "nanesp1.bsp": {
+   "filesize": 436156,
+   "timestamp": "2001-07-01"
+  },
+  "nanesp1.txt": {
+   "filesize": 1993,
+   "timestamp": "2001-07-01"
+  },
+  "nanesp1_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 180,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "18ac1f884a7be21a4a4e7c047eab2ed554dd40813933c46c60bc2379500de166",
  "tags": [
   "title:Catacombs of Misfortune",
   "releasedate:2001-07-01",
@@ -15,25 +31,9 @@
   "tag:linear",
   "tag:catacombs"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "nanesp1.bsp": {
-   "filesize": 436156,
-   "timestamp": "2001-07-01"
-  },
-  "nanesp1_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "nanesp1.txt": {
-   "filesize": 1993,
-   "timestamp": "2001-07-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/nanesp1.zip",
   "https://www.quaddicted.com/files/by-sha256/1/18ac1f884a7be21a4a4e7c047eab2ed554dd40813933c46c60bc2379500de166/nanesp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

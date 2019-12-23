@@ -1,38 +1,8 @@
 {
- "version": "20191222-0",
- "sha256": "9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2",
  "filename": [
   "mfxsp6.zip"
  ],
- "filesize": 3419,
- "tags": [
-  "title:Termination Mental",
-  "releasedate:2013-05-23",
-  "game:quake",
-  "commandline:-game quoth -hipnotic +r_novis 1 +r_wateralpha 0.3",
-  "author:mfx",
-  "tag:hard",
-  "tag:base",
-  "tag:water",
-  "tag:fog",
-  "tag:quoth",
-  "tag:medium",
-  "tag:sym",
-  "tag:slime",
-  "tag:remix",
-  "tag:remake",
-  "tag:e3m1",
-  "tag:skybox",
-  "dependency:quoth"
- ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
  "files": {
-  "mfxsp6.txt": {
-   "filesize": 3728,
-   "timestamp": "2013-05-23"
-  },
   "gfx/env/duskebk.tga": {
    "filesize": 606420,
    "timestamp": "2004-07-15"
@@ -60,10 +30,40 @@
   "maps/mfxsp6.bsp": {
    "filesize": 4315660,
    "timestamp": "2013-05-23"
+  },
+  "mfxsp6.txt": {
+   "filesize": 3728,
+   "timestamp": "2013-05-23"
   }
  },
+ "filesize": 3419,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2",
+ "tags": [
+  "title:Termination Mental",
+  "releasedate:2013-05-23",
+  "game:quake",
+  "commandline:-game quoth -hipnotic +r_novis 1 +r_wateralpha 0.3",
+  "author:mfx",
+  "tag:hard",
+  "tag:base",
+  "tag:water",
+  "tag:fog",
+  "tag:quoth",
+  "tag:medium",
+  "tag:sym",
+  "tag:slime",
+  "tag:remix",
+  "tag:remake",
+  "tag:e3m1",
+  "tag:skybox",
+  "dependency:quoth"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp6.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2/mfxsp6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

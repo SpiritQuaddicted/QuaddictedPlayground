@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8e176c3c8643974d9eb17c849c593973b8bbb00b8c9f713ef10a12466310f6fb",
  "filename": [
   "src2.zip"
  ],
- "filesize": 2695,
- "tags": [
-  "title:SRC2: Slime Refinery Complex - Quoth2 Version",
-  "releasedate:2008-03-10",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:JPL",
-  "tag:base",
-  "tag:doom3",
-  "tag:quoth",
-  "tag:large",
-  "dependency:quoth"
- ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
  "files": {
   "src2.bsp": {
    "filesize": 6975304,
@@ -34,8 +16,26 @@
    "timestamp": "2008-03-10"
   }
  },
+ "filesize": 2695,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "8e176c3c8643974d9eb17c849c593973b8bbb00b8c9f713ef10a12466310f6fb",
+ "tags": [
+  "title:SRC2: Slime Refinery Complex - Quoth2 Version",
+  "releasedate:2008-03-10",
+  "game:quake",
+  "commandline:-hipnotic -game quoth",
+  "author:JPL",
+  "tag:base",
+  "tag:doom3",
+  "tag:quoth",
+  "tag:large",
+  "dependency:quoth"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/src2.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8e176c3c8643974d9eb17c849c593973b8bbb00b8c9f713ef10a12466310f6fb/src2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

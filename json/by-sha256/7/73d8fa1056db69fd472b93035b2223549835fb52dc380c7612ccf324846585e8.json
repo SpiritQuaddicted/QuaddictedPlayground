@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "73d8fa1056db69fd472b93035b2223549835fb52dc380c7612ccf324846585e8",
  "filename": [
   "mountbase2.zip"
  ],
- "filesize": 535,
- "tags": [
-  "title:Mountain Base 2",
-  "releasedate:1997-11-10",
-  "game:quake",
-  "author:Jarkko Heilio",
-  "tag:small",
-  "tag:base",
-  "tag:plain"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "mountbase2.bsp": {
    "filesize": 1260444,
@@ -27,8 +12,23 @@
    "timestamp": "1997-11-10"
   }
  },
+ "filesize": 535,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "73d8fa1056db69fd472b93035b2223549835fb52dc380c7612ccf324846585e8",
+ "tags": [
+  "title:Mountain Base 2",
+  "releasedate:1997-11-10",
+  "game:quake",
+  "author:Jarkko Heilio",
+  "tag:small",
+  "tag:base",
+  "tag:plain"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mountbase2.zip",
   "https://www.quaddicted.com/files/by-sha256/7/73d8fa1056db69fd472b93035b2223549835fb52dc380c7612ccf324846585e8/mountbase2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

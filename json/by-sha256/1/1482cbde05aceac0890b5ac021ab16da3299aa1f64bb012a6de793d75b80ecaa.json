@@ -1,10 +1,54 @@
 {
- "version": "20191222-0",
- "sha256": "1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa",
  "filename": [
   "schist.zip"
  ],
+ "files": {
+  "Pak0.PAK": {
+   "filesize": 13568209,
+   "timestamp": "1997-11-10"
+  },
+  "end.txt": {
+   "filesize": 2295,
+   "timestamp": "1997-11-09"
+  },
+  "lantern.txt": {
+   "filesize": 1955,
+   "timestamp": "1997-11-09"
+  },
+  "readme.txt": {
+   "filesize": 5568,
+   "timestamp": "1997-11-10"
+  },
+  "schist1.txt": {
+   "filesize": 2244,
+   "timestamp": "1997-11-09"
+  },
+  "schist2.txt": {
+   "filesize": 2244,
+   "timestamp": "1997-11-09"
+  },
+  "schist3.txt": {
+   "filesize": 2136,
+   "timestamp": "1997-11-10"
+  },
+  "schist4.txt": {
+   "filesize": 2425,
+   "timestamp": "1997-11-09"
+  },
+  "schistdm.txt": {
+   "filesize": 1988,
+   "timestamp": "1997-11-09"
+  },
+  "start.txt": {
+   "filesize": 2376,
+   "timestamp": "1997-11-09"
+  }
+ },
  "filesize": 5194,
+ "install": {
+  "extract": "{quake}/schist/"
+ },
+ "sha256": "1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa",
  "tags": [
   "title:Schist",
   "releasedate:1997-11-10",
@@ -15,53 +59,9 @@
   "tag:ice",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/schist/"
- },
- "files": {
-  "start.txt": {
-   "filesize": 2376,
-   "timestamp": "1997-11-09"
-  },
-  "readme.txt": {
-   "filesize": 5568,
-   "timestamp": "1997-11-10"
-  },
-  "schist3.txt": {
-   "filesize": 2136,
-   "timestamp": "1997-11-10"
-  },
-  "Pak0.PAK": {
-   "filesize": 13568209,
-   "timestamp": "1997-11-10"
-  },
-  "schist1.txt": {
-   "filesize": 2244,
-   "timestamp": "1997-11-09"
-  },
-  "schist4.txt": {
-   "filesize": 2425,
-   "timestamp": "1997-11-09"
-  },
-  "end.txt": {
-   "filesize": 2295,
-   "timestamp": "1997-11-09"
-  },
-  "schist2.txt": {
-   "filesize": 2244,
-   "timestamp": "1997-11-09"
-  },
-  "lantern.txt": {
-   "filesize": 1955,
-   "timestamp": "1997-11-09"
-  },
-  "schistdm.txt": {
-   "filesize": 1988,
-   "timestamp": "1997-11-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/schist.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa/schist.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

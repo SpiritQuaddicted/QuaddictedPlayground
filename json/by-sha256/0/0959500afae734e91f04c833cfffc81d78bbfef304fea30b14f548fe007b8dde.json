@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0959500afae734e91f04c833cfffc81d78bbfef304fea30b14f548fe007b8dde",
  "filename": [
   "sadlark6.zip"
  ],
+ "files": {
+  "sadlark6.bsp": {
+   "filesize": 2323068,
+   "timestamp": "1997-09-09"
+  },
+  "sadlark6.txt": {
+   "filesize": 2208,
+   "timestamp": "1997-09-10"
+  }
+ },
  "filesize": 979,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0959500afae734e91f04c833cfffc81d78bbfef304fea30b14f548fe007b8dde",
  "tags": [
   "title:The sacrifice of flesh",
   "releasedate:1997-09-10",
@@ -14,21 +26,9 @@
   "tag:large",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sadlark6.txt": {
-   "filesize": 2208,
-   "timestamp": "1997-09-10"
-  },
-  "sadlark6.bsp": {
-   "filesize": 2323068,
-   "timestamp": "1997-09-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark6.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0959500afae734e91f04c833cfffc81d78bbfef304fea30b14f548fe007b8dde/sadlark6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,28 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "3d16fc7f2a3e68af13055a8ccf2231b8e329481f8801bbf6a3949d641d724f3f",
  "filename": [
   "sm176_pack.zip"
  ],
- "filesize": 3452,
- "tags": [
-  "title:Speedmapping pack 176 - Quantity over Quality",
-  "releasedate:2014-08-30",
-  "game:quake",
-  "author:Cocerello",
-  "author:DOOMer",
-  "author:Drew",
-  "tag:quoth",
-  "tag:source",
-  "tag:doom2",
-  "tag:map02",
-  "startmap:sm176_coce.bsp",
-  "startmap:sm176_doomer.bsp",
-  "startmap:sm176_drew.bsp"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "sm176_coce.bsp": {
    "filesize": 2223352,
@@ -61,8 +40,29 @@
    "timestamp": "2014-08-29"
   }
  },
+ "filesize": 3452,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "3d16fc7f2a3e68af13055a8ccf2231b8e329481f8801bbf6a3949d641d724f3f",
+ "tags": [
+  "title:Speedmapping pack 176 - Quantity over Quality",
+  "releasedate:2014-08-30",
+  "game:quake",
+  "author:Cocerello",
+  "author:DOOMer",
+  "author:Drew",
+  "tag:quoth",
+  "tag:source",
+  "tag:doom2",
+  "tag:map02",
+  "startmap:sm176_coce.bsp",
+  "startmap:sm176_doomer.bsp",
+  "startmap:sm176_drew.bsp"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm176_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3d16fc7f2a3e68af13055a8ccf2231b8e329481f8801bbf6a3949d641d724f3f/sm176_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

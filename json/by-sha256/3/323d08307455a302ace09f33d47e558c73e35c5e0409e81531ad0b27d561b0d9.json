@@ -1,35 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9",
  "filename": [
   "honey.zip"
  ],
- "filesize": 20980,
- "tags": [
-  "title:Honey",
-  "releasedate:2012-03-31",
-  "game:quake",
-  "commandline:-game honey",
-  "author:czg",
-  "tag:fog",
-  "tag:medieval",
-  "tag:victorian",
-  "tag:cistern",
-  "tag:epic",
-  "tag:huge scale",
-  "tag:manass",
-  "tag:large",
-  "tag:bricks",
-  "tag:source",
-  "tag:bad qc",
-  "tag:cutscenes",
-  "startmap:start",
-  "startmap:saint",
-  "startmap:honey"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "honey/honey.txt": {
    "filesize": 3235,
@@ -136,8 +108,36 @@
    "timestamp": "2012-03-30"
   }
  },
+ "filesize": 20980,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9",
+ "tags": [
+  "title:Honey",
+  "releasedate:2012-03-31",
+  "game:quake",
+  "commandline:-game honey",
+  "author:czg",
+  "tag:fog",
+  "tag:medieval",
+  "tag:victorian",
+  "tag:cistern",
+  "tag:epic",
+  "tag:huge scale",
+  "tag:manass",
+  "tag:large",
+  "tag:bricks",
+  "tag:source",
+  "tag:bad qc",
+  "tag:cutscenes",
+  "startmap:start",
+  "startmap:saint",
+  "startmap:honey"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/honey.zip",
   "https://www.quaddicted.com/files/by-sha256/3/323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9/honey.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

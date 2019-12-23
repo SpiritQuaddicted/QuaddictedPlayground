@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "b0e4c813c12d979da605cc8b61f71223e461468a5da8ff4453a8aea06fc3159c",
  "filename": [
   "ra.zip"
  ],
+ "files": {
+  "RA.BSP": {
+   "filesize": 1710848,
+   "timestamp": "1997-07-22"
+  },
+  "RA.TXT": {
+   "filesize": 1686,
+   "timestamp": "1997-07-22"
+  }
+ },
  "filesize": 758,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b0e4c813c12d979da605cc8b61f71223e461468a5da8ff4453a8aea06fc3159c",
  "tags": [
   "title:Ra",
   "releasedate:1997-07-22",
@@ -18,21 +30,9 @@
   "tag:exploration",
   "tag:nonlinear"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "RA.BSP": {
-   "filesize": 1710848,
-   "timestamp": "1997-07-22"
-  },
-  "RA.TXT": {
-   "filesize": 1686,
-   "timestamp": "1997-07-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ra.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b0e4c813c12d979da605cc8b61f71223e461468a5da8ff4453a8aea06fc3159c/ra.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

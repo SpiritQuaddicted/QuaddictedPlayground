@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "61a29f2506e4193b08999fcbac39c05e7c80d81d8496a74be9cbcb0330ae6db7",
  "filename": [
   "hdn.zip"
  ],
+ "files": {
+  "hdn.bsp": {
+   "filesize": 4097376,
+   "timestamp": "2006-03-24"
+  },
+  "hdn.txt": {
+   "filesize": 5373,
+   "timestamp": "2006-03-24"
+  },
+  "sky_morose.zip": {
+   "filesize": 1588990,
+   "timestamp": "2006-03-24"
+  }
+ },
  "filesize": 3143,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "61a29f2506e4193b08999fcbac39c05e7c80d81d8496a74be9cbcb0330ae6db7",
  "tags": [
   "title:Hangover Devastation",
   "releasedate:2006-03-24",
@@ -17,25 +33,9 @@
   "tag:textures",
   "tag:skybox"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sky_morose.zip": {
-   "filesize": 1588990,
-   "timestamp": "2006-03-24"
-  },
-  "hdn.bsp": {
-   "filesize": 4097376,
-   "timestamp": "2006-03-24"
-  },
-  "hdn.txt": {
-   "filesize": 5373,
-   "timestamp": "2006-03-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hdn.zip",
   "https://www.quaddicted.com/files/by-sha256/6/61a29f2506e4193b08999fcbac39c05e7c80d81d8496a74be9cbcb0330ae6db7/hdn.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

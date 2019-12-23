@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "3acfe9f528c187a8494ffda90742187d1fb66877a070edb0177317e394c1d238",
  "filename": [
   "biliousoutpostfinal.zip"
  ],
+ "files": {
+  "BiliousOutpost.bsp": {
+   "filesize": 1216788,
+   "timestamp": "2017-05-02"
+  },
+  "BiliousOutpost.txt": {
+   "filesize": 149,
+   "timestamp": "2017-04-29"
+  }
+ },
  "filesize": 479,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3acfe9f528c187a8494ffda90742187d1fb66877a070edb0177317e394c1d238",
  "tags": [
   "title:Bilious Outpost",
   "releasedate:2017-04-29",
@@ -17,21 +29,9 @@
   "tag:broken_injector",
   "startmap:BiliousOutpost"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "BiliousOutpost.bsp": {
-   "filesize": 1216788,
-   "timestamp": "2017-05-02"
-  },
-  "BiliousOutpost.txt": {
-   "filesize": 149,
-   "timestamp": "2017-04-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/biliousoutpostfinal.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3acfe9f528c187a8494ffda90742187d1fb66877a070edb0177317e394c1d238/biliousoutpostfinal.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "59971ea485de52bfde1377acec02a7040f4737351f35b8b7010686f5c342730b",
  "filename": [
   "metmon1d.zip"
  ],
+ "files": {
+  "metmon1d_readme.txt": {
+   "filesize": 12032,
+   "timestamp": "2014-05-25"
+  },
+  "pak0.pak": {
+   "filesize": 30386924,
+   "timestamp": "2014-05-25"
+  }
+ },
  "filesize": 12430,
+ "install": {
+  "extract": "{quake}/metmon"
+ },
+ "sha256": "59971ea485de52bfde1377acec02a7040f4737351f35b8b7010686f5c342730b",
  "tags": [
   "title:Metal Monstrosity",
   "releasedate:2014-05-27",
@@ -25,21 +37,9 @@
   "dependency:quoth2pt2full_2",
   "startmap:metmon"
  ],
- "install": {
-  "extract": "{quake}/metmon"
- },
- "files": {
-  "metmon1d_readme.txt": {
-   "filesize": 12032,
-   "timestamp": "2014-05-25"
-  },
-  "pak0.pak": {
-   "filesize": 30386924,
-   "timestamp": "2014-05-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/metmon1d.zip",
   "https://www.quaddicted.com/files/by-sha256/5/59971ea485de52bfde1377acec02a7040f4737351f35b8b7010686f5c342730b/metmon1d.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

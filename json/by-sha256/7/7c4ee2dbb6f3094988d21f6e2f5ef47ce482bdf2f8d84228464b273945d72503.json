@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "7c4ee2dbb6f3094988d21f6e2f5ef47ce482bdf2f8d84228464b273945d72503",
  "filename": [
   "vision.zip"
  ],
+ "files": {
+  "PAK0.PAK": {
+   "filesize": 1165524,
+   "timestamp": "1997-01-15"
+  },
+  "cck.zip": {
+   "filesize": 164261,
+   "timestamp": "1997-01-15"
+  },
+  "vision.txt": {
+   "filesize": 3644,
+   "timestamp": "1997-01-15"
+  }
+ },
  "filesize": 626,
+ "install": {
+  "extract": "{quake}/vision/"
+ },
+ "sha256": "7c4ee2dbb6f3094988d21f6e2f5ef47ce482bdf2f8d84228464b273945d72503",
  "tags": [
   "title:Vision of Hatred",
   "releasedate:1997-01-15",
@@ -16,25 +32,9 @@
   "tag:cutscenes",
   "tag:toolbox"
  ],
- "install": {
-  "extract": "{quake}/vision/"
- },
- "files": {
-  "cck.zip": {
-   "filesize": 164261,
-   "timestamp": "1997-01-15"
-  },
-  "PAK0.PAK": {
-   "filesize": 1165524,
-   "timestamp": "1997-01-15"
-  },
-  "vision.txt": {
-   "filesize": 3644,
-   "timestamp": "1997-01-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/vision.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7c4ee2dbb6f3094988d21f6e2f5ef47ce482bdf2f8d84228464b273945d72503/vision.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

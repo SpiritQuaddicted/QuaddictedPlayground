@@ -1,102 +1,11 @@
 {
- "version": "20191222-0",
- "sha256": "94440ef2ff6871df9b6976eab2f4220a52489f9b0eaa6bb5c32c8195e25c8f34",
  "filename": [
   "n3sp02_extd.zip"
  ],
- "filesize": 4456,
- "tags": [
-  "title:Castle Necrosis (Extended Files)",
-  "releasedate:2001-07-24",
-  "game:quake",
-  "commandline:-game n3sp02",
-  "author:necros",
-  "dependency:n3sp02_13",
-  "startmap:n3sp02_13"
- ],
- "install": {
-  "extract": "{quake}/n3sp02/"
- },
  "files": {
-  "music/n3sp02-f.mp3": {
-   "filesize": 490800,
-   "timestamp": "2001-07-20"
-  },
-  "music/n3sp02-c.mp3": {
-   "filesize": 454192,
-   "timestamp": "2001-07-20"
-  },
-  "music/n3sp02-e.mp3": {
-   "filesize": 114736,
-   "timestamp": "2001-07-20"
-  },
-  "music/n3sp02-b.mp3": {
-   "filesize": 811952,
-   "timestamp": "2001-07-05"
-  },
-  "music/n3sp02-d.mp3": {
-   "filesize": 1170336,
-   "timestamp": "2001-07-18"
-  },
-  "music/n3sp02-a.mp3": {
-   "filesize": 382640,
-   "timestamp": "2001-07-18"
-  },
-  "textures/viscera4.tga": {
-   "filesize": 16428,
-   "timestamp": "2001-07-23"
-  },
-  "textures/waterl2.TGA": {
-   "filesize": 65580,
-   "timestamp": "2001-07-23"
-  },
-  "textures/watern.TGA": {
-   "filesize": 49196,
-   "timestamp": "2001-07-23"
-  },
-  "textures/block15.TGA": {
-   "filesize": 196652,
-   "timestamp": "2001-07-23"
-  },
-  "textures/crystal.TGA": {
-   "filesize": 65580,
-   "timestamp": "2001-07-23"
-  },
-  "textures/rock21.TGA": {
-   "filesize": 196652,
-   "timestamp": "2001-07-23"
-  },
-  "textures/credits.TGA": {
-   "filesize": 262188,
+  "Readme.txt": {
+   "filesize": 2114,
    "timestamp": "2001-07-24"
-  },
-  "textures/slime.TGA": {
-   "filesize": 65580,
-   "timestamp": "2001-07-23"
-  },
-  "textures/trans.TGA": {
-   "filesize": 1068,
-   "timestamp": "2001-07-23"
-  },
-  "textures/viscera2.tga": {
-   "filesize": 16428,
-   "timestamp": "2001-07-23"
-  },
-  "textures/rock17.TGA": {
-   "filesize": 196652,
-   "timestamp": "2001-07-23"
-  },
-  "textures/slime2.TGA": {
-   "filesize": 65580,
-   "timestamp": "2001-07-23"
-  },
-  "textures/ladder1.tga": {
-   "filesize": 16428,
-   "timestamp": "2001-07-23"
-  },
-  "gfx/env/night1rt.TGA": {
-   "filesize": 607445,
-   "timestamp": "2001-06-28"
   },
   "gfx/env/night1bk.TGA": {
    "filesize": 639439,
@@ -114,17 +23,108 @@
    "filesize": 657294,
    "timestamp": "2001-06-28"
   },
+  "gfx/env/night1rt.TGA": {
+   "filesize": 607445,
+   "timestamp": "2001-06-28"
+  },
   "gfx/env/night1up.TGA": {
    "filesize": 586125,
    "timestamp": "2001-06-28"
   },
-  "Readme.txt": {
-   "filesize": 2114,
+  "music/n3sp02-a.mp3": {
+   "filesize": 382640,
+   "timestamp": "2001-07-18"
+  },
+  "music/n3sp02-b.mp3": {
+   "filesize": 811952,
+   "timestamp": "2001-07-05"
+  },
+  "music/n3sp02-c.mp3": {
+   "filesize": 454192,
+   "timestamp": "2001-07-20"
+  },
+  "music/n3sp02-d.mp3": {
+   "filesize": 1170336,
+   "timestamp": "2001-07-18"
+  },
+  "music/n3sp02-e.mp3": {
+   "filesize": 114736,
+   "timestamp": "2001-07-20"
+  },
+  "music/n3sp02-f.mp3": {
+   "filesize": 490800,
+   "timestamp": "2001-07-20"
+  },
+  "textures/block15.TGA": {
+   "filesize": 196652,
+   "timestamp": "2001-07-23"
+  },
+  "textures/credits.TGA": {
+   "filesize": 262188,
    "timestamp": "2001-07-24"
+  },
+  "textures/crystal.TGA": {
+   "filesize": 65580,
+   "timestamp": "2001-07-23"
+  },
+  "textures/ladder1.tga": {
+   "filesize": 16428,
+   "timestamp": "2001-07-23"
+  },
+  "textures/rock17.TGA": {
+   "filesize": 196652,
+   "timestamp": "2001-07-23"
+  },
+  "textures/rock21.TGA": {
+   "filesize": 196652,
+   "timestamp": "2001-07-23"
+  },
+  "textures/slime.TGA": {
+   "filesize": 65580,
+   "timestamp": "2001-07-23"
+  },
+  "textures/slime2.TGA": {
+   "filesize": 65580,
+   "timestamp": "2001-07-23"
+  },
+  "textures/trans.TGA": {
+   "filesize": 1068,
+   "timestamp": "2001-07-23"
+  },
+  "textures/viscera2.tga": {
+   "filesize": 16428,
+   "timestamp": "2001-07-23"
+  },
+  "textures/viscera4.tga": {
+   "filesize": 16428,
+   "timestamp": "2001-07-23"
+  },
+  "textures/waterl2.TGA": {
+   "filesize": 65580,
+   "timestamp": "2001-07-23"
+  },
+  "textures/watern.TGA": {
+   "filesize": 49196,
+   "timestamp": "2001-07-23"
   }
  },
+ "filesize": 4456,
+ "install": {
+  "extract": "{quake}/n3sp02/"
+ },
+ "sha256": "94440ef2ff6871df9b6976eab2f4220a52489f9b0eaa6bb5c32c8195e25c8f34",
+ "tags": [
+  "title:Castle Necrosis (Extended Files)",
+  "releasedate:2001-07-24",
+  "game:quake",
+  "commandline:-game n3sp02",
+  "author:necros",
+  "dependency:n3sp02_13",
+  "startmap:n3sp02_13"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/n3sp02_extd.zip",
   "https://www.quaddicted.com/files/by-sha256/9/94440ef2ff6871df9b6976eab2f4220a52489f9b0eaa6bb5c32c8195e25c8f34/n3sp02_extd.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

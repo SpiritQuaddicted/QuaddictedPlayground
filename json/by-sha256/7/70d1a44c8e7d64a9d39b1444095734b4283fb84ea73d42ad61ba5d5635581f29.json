@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "70d1a44c8e7d64a9d39b1444095734b4283fb84ea73d42ad61ba5d5635581f29",
  "filename": [
   "tod.zip"
  ],
+ "files": {
+  "TOD.BSP": {
+   "filesize": 308148,
+   "timestamp": "1996-07-30"
+  },
+  "TOD.TXT": {
+   "filesize": 4330,
+   "timestamp": "1996-10-23"
+  }
+ },
  "filesize": 130,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "70d1a44c8e7d64a9d39b1444095734b4283fb84ea73d42ad61ba5d5635581f29",
  "tags": [
   "title:Tower of Death",
   "releasedate:1996-10-23",
@@ -13,21 +25,9 @@
   "tag:small",
   "tag:wizard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "TOD.TXT": {
-   "filesize": 4330,
-   "timestamp": "1996-10-23"
-  },
-  "TOD.BSP": {
-   "filesize": 308148,
-   "timestamp": "1996-07-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tod.zip",
   "https://www.quaddicted.com/files/by-sha256/7/70d1a44c8e7d64a9d39b1444095734b4283fb84ea73d42ad61ba5d5635581f29/tod.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

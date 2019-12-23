@@ -1,38 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c",
  "filename": [
   "sm65_pack.zip"
  ],
- "filesize": 1341,
- "tags": [
-  "title:Speedmapping pack 65 - Do stuff based on a really ugly layout drawing Scampie did",
-  "releasedate:2004-02-01",
-  "game:quake",
-  "author:czg",
-  "author:Scampie",
-  "author:Starbuck",
-  "author:Zwiffle",
-  "startmap:sm65_czg2",
-  "startmap:sm65_zwiffle",
-  "startmap:sm65_starbuck",
-  "startmap:sm65_czg",
-  "startmap:sm65_scampie"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm65_czg.bsp": {
    "filesize": 401952,
    "timestamp": "2001-09-15"
   },
-  "sm65_pack.txt": {
-   "filesize": 1580,
-   "timestamp": "2001-09-16"
-  },
   "sm65_czg2.bsp": {
    "filesize": 858000,
+   "timestamp": "2001-09-16"
+  },
+  "sm65_pack.txt": {
+   "filesize": 1580,
    "timestamp": "2001-09-16"
   },
   "sm65_scampie.bsp": {
@@ -48,8 +28,28 @@
    "timestamp": "2004-01-31"
   }
  },
+ "filesize": 1341,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c",
+ "tags": [
+  "title:Speedmapping pack 65 - Do stuff based on a really ugly layout drawing Scampie did",
+  "releasedate:2004-02-01",
+  "game:quake",
+  "author:czg",
+  "author:Scampie",
+  "author:Starbuck",
+  "author:Zwiffle",
+  "startmap:sm65_czg2",
+  "startmap:sm65_zwiffle",
+  "startmap:sm65_starbuck",
+  "startmap:sm65_czg",
+  "startmap:sm65_scampie"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm65_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/9/987ec18e230df03760f0e70530132539d8c7145a7dfb69acdde248476334878c/sm65_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

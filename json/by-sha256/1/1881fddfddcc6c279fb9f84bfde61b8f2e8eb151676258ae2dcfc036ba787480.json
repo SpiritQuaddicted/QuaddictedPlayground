@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "1881fddfddcc6c279fb9f84bfde61b8f2e8eb151676258ae2dcfc036ba787480",
  "filename": [
   "tower2a.zip"
  ],
+ "files": {
+  "tower2a.bsp": {
+   "filesize": 2187348,
+   "timestamp": "1998-02-06"
+  },
+  "tower2a.txt": {
+   "filesize": 2873,
+   "timestamp": "1998-02-17"
+  }
+ },
  "filesize": 927,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1881fddfddcc6c279fb9f84bfde61b8f2e8eb151676258ae2dcfc036ba787480",
  "tags": [
   "title:Tower Of Darkness",
   "releasedate:1998-02-17",
@@ -13,21 +25,9 @@
   "tag:medium",
   "tag:mixed"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "tower2a.txt": {
-   "filesize": 2873,
-   "timestamp": "1998-02-17"
-  },
-  "tower2a.bsp": {
-   "filesize": 2187348,
-   "timestamp": "1998-02-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tower2a.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1881fddfddcc6c279fb9f84bfde61b8f2e8eb151676258ae2dcfc036ba787480/tower2a.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

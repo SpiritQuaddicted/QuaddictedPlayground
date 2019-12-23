@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "39c5a8001bc3a057584632b666f17cd71ea0fe410bb52aa5fec251ef372dad5c",
  "filename": [
   "thehand.zip"
  ],
+ "files": {
+  "gfx/env/tramontobk.tga": {
+   "filesize": 640140,
+   "timestamp": "2003-02-13"
+  },
+  "gfx/env/tramontodn.tga": {
+   "filesize": 783088,
+   "timestamp": "2003-02-13"
+  },
+  "gfx/env/tramontoft.tga": {
+   "filesize": 710845,
+   "timestamp": "2003-02-12"
+  },
+  "gfx/env/tramontolf.tga": {
+   "filesize": 701996,
+   "timestamp": "2003-02-13"
+  },
+  "gfx/env/tramontort.tga": {
+   "filesize": 721740,
+   "timestamp": "2003-02-13"
+  },
+  "gfx/env/tramontoup.tga": {
+   "filesize": 649528,
+   "timestamp": "2003-02-13"
+  },
+  "maps/thehand.bsp": {
+   "filesize": 7333140,
+   "timestamp": "2007-12-16"
+  },
+  "maps/thehand.lit": {
+   "filesize": 2896496,
+   "timestamp": "2007-12-16"
+  },
+  "thehand.txt": {
+   "filesize": 5403,
+   "timestamp": "2007-12-16"
+  }
+ },
  "filesize": 5524,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "39c5a8001bc3a057584632b666f17cd71ea0fe410bb52aa5fec251ef372dad5c",
  "tags": [
   "title:The Hand That Feeds You",
   "releasedate:2007-12-16",
@@ -18,49 +58,9 @@
   "tag:mustplay",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
- "files": {
-  "thehand.txt": {
-   "filesize": 5403,
-   "timestamp": "2007-12-16"
-  },
-  "maps/thehand.bsp": {
-   "filesize": 7333140,
-   "timestamp": "2007-12-16"
-  },
-  "maps/thehand.lit": {
-   "filesize": 2896496,
-   "timestamp": "2007-12-16"
-  },
-  "gfx/env/tramontolf.tga": {
-   "filesize": 701996,
-   "timestamp": "2003-02-13"
-  },
-  "gfx/env/tramontoup.tga": {
-   "filesize": 649528,
-   "timestamp": "2003-02-13"
-  },
-  "gfx/env/tramontoft.tga": {
-   "filesize": 710845,
-   "timestamp": "2003-02-12"
-  },
-  "gfx/env/tramontodn.tga": {
-   "filesize": 783088,
-   "timestamp": "2003-02-13"
-  },
-  "gfx/env/tramontobk.tga": {
-   "filesize": 640140,
-   "timestamp": "2003-02-13"
-  },
-  "gfx/env/tramontort.tga": {
-   "filesize": 721740,
-   "timestamp": "2003-02-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/thehand.zip",
   "https://www.quaddicted.com/files/by-sha256/3/39c5a8001bc3a057584632b666f17cd71ea0fe410bb52aa5fec251ef372dad5c/thehand.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

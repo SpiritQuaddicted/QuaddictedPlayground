@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "a094648f10bb284cdbc2a3b5acdd40b48c23055e363a8d317680c5945e58d178",
  "filename": [
   "jamie.zip"
  ],
+ "files": {
+  "jamie1.bsp": {
+   "filesize": 1180132,
+   "timestamp": "1997-09-21"
+  },
+  "jamie1.map": {
+   "filesize": 255759,
+   "timestamp": "1997-09-21"
+  },
+  "jamie1.txt": {
+   "filesize": 1721,
+   "timestamp": "1997-09-30"
+  }
+ },
  "filesize": 517,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a094648f10bb284cdbc2a3b5acdd40b48c23055e363a8d317680c5945e58d178",
  "tags": [
   "title:welcome fuckhead(there is a story.too long)",
   "releasedate:1997-09-30",
@@ -14,25 +30,9 @@
   "tag:source",
   "startmap:jamie1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "jamie1.txt": {
-   "filesize": 1721,
-   "timestamp": "1997-09-30"
-  },
-  "jamie1.bsp": {
-   "filesize": 1180132,
-   "timestamp": "1997-09-21"
-  },
-  "jamie1.map": {
-   "filesize": 255759,
-   "timestamp": "1997-09-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/jamie.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a094648f10bb284cdbc2a3b5acdd40b48c23055e363a8d317680c5945e58d178/jamie.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

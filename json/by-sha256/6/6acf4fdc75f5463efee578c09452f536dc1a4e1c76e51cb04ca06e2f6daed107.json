@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "6acf4fdc75f5463efee578c09452f536dc1a4e1c76e51cb04ca06e2f6daed107",
  "filename": [
   "maze.zip"
  ],
+ "files": {
+  "MAZE.bsp": {
+   "filesize": 207324,
+   "timestamp": "1997-03-14"
+  },
+  "maze.txt": {
+   "filesize": 1478,
+   "timestamp": "1997-03-14"
+  }
+ },
  "filesize": 82,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6acf4fdc75f5463efee578c09452f536dc1a4e1c76e51cb04ca06e2f6daed107",
  "tags": [
   "title:Maze 1",
   "releasedate:1997-03-14",
@@ -15,21 +27,9 @@
   "tag:maze",
   "tag:wizard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "maze.txt": {
-   "filesize": 1478,
-   "timestamp": "1997-03-14"
-  },
-  "MAZE.bsp": {
-   "filesize": 207324,
-   "timestamp": "1997-03-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/maze.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6acf4fdc75f5463efee578c09452f536dc1a4e1c76e51cb04ca06e2f6daed107/maze.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

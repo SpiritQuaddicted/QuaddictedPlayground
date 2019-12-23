@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f3805cd3687e9ba5545c044e07e71ed0031e31d5e4bcc50ecdc8646932c584bd",
  "filename": [
   "lasp01.zip"
  ],
- "filesize": 71,
- "tags": [
-  "title:Chunky Monkey Stew (April Fools 2002)",
-  "releasedate:2002-04-01",
-  "game:quake",
-  "author:Lord Asaki",
-  "tag:small",
-  "tag:arena",
-  "tag:wizard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "lasp01.bsp": {
    "filesize": 499244,
@@ -27,8 +12,23 @@
    "timestamp": "2002-04-01"
   }
  },
+ "filesize": 71,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f3805cd3687e9ba5545c044e07e71ed0031e31d5e4bcc50ecdc8646932c584bd",
+ "tags": [
+  "title:Chunky Monkey Stew (April Fools 2002)",
+  "releasedate:2002-04-01",
+  "game:quake",
+  "author:Lord Asaki",
+  "tag:small",
+  "tag:arena",
+  "tag:wizard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/lasp01.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f3805cd3687e9ba5545c044e07e71ed0031e31d5e4bcc50ecdc8646932c584bd/lasp01.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

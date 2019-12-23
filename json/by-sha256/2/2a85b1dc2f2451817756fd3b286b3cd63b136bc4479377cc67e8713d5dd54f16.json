@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "2a85b1dc2f2451817756fd3b286b3cd63b136bc4479377cc67e8713d5dd54f16",
  "filename": [
   "sm168_pack.zip"
  ],
- "filesize": 2142,
- "tags": [
-  "title:Speedmapping Pack 168 - Unthemed",
-  "releasedate:2012-07-25",
-  "game:quake",
-  "author:digs",
-  "tag:rubicon",
-  "tag:maze",
-  "tag:cr8",
-  "startmap:sm168_digs",
-  "startmap:sm168_digs2"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm168_digs.bsp": {
    "filesize": 2073000,
@@ -41,8 +24,25 @@
    "timestamp": "2012-07-25"
   }
  },
+ "filesize": 2142,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2a85b1dc2f2451817756fd3b286b3cd63b136bc4479377cc67e8713d5dd54f16",
+ "tags": [
+  "title:Speedmapping Pack 168 - Unthemed",
+  "releasedate:2012-07-25",
+  "game:quake",
+  "author:digs",
+  "tag:rubicon",
+  "tag:maze",
+  "tag:cr8",
+  "startmap:sm168_digs",
+  "startmap:sm168_digs2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm168_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2a85b1dc2f2451817756fd3b286b3cd63b136bc4479377cc67e8713d5dd54f16/sm168_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

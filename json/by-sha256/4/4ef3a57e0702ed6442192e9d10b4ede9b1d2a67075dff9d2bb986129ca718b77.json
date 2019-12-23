@@ -1,29 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4ef3a57e0702ed6442192e9d10b4ede9b1d2a67075dff9d2bb986129ca718b77",
  "filename": [
   "simplex.zip"
  ],
- "filesize": 1998,
- "tags": [
-  "title:Simplex",
-  "releasedate:2018-05-04",
-  "game:quake",
-  "author:Andrew Yoder",
-  "tag:large",
-  "tag:wizard",
-  "tag:green",
-  "tag:jungle",
-  "tag:swamp",
-  "tag:temple",
-  "tag:ruins",
-  "tag:brick",
-  "tag:puzzles",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "simplex.bsp": {
    "filesize": 2584060,
@@ -42,8 +20,30 @@
    "timestamp": "2018-05-04"
   }
  },
+ "filesize": 1998,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4ef3a57e0702ed6442192e9d10b4ede9b1d2a67075dff9d2bb986129ca718b77",
+ "tags": [
+  "title:Simplex",
+  "releasedate:2018-05-04",
+  "game:quake",
+  "author:Andrew Yoder",
+  "tag:large",
+  "tag:wizard",
+  "tag:green",
+  "tag:jungle",
+  "tag:swamp",
+  "tag:temple",
+  "tag:ruins",
+  "tag:brick",
+  "tag:puzzles",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/simplex.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4ef3a57e0702ed6442192e9d10b4ede9b1d2a67075dff9d2bb986129ca718b77/simplex.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

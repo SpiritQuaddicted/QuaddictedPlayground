@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf",
  "filename": [
   "alba02.zip"
  ],
+ "files": {
+  "alba02.txt": {
+   "filesize": 5111,
+   "timestamp": "1997-07-16"
+  },
+  "pak0.pak": {
+   "filesize": 2524294,
+   "timestamp": "1997-07-16"
+  }
+ },
  "filesize": 1064,
+ "install": {
+  "extract": "{quake}/alba02/"
+ },
+ "sha256": "0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf",
  "tags": [
   "title:Inverurie",
   "releasedate:1997-07-11",
@@ -22,21 +34,9 @@
   "tag:skins",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/alba02/"
- },
- "files": {
-  "alba02.txt": {
-   "filesize": 5111,
-   "timestamp": "1997-07-16"
-  },
-  "pak0.pak": {
-   "filesize": 2524294,
-   "timestamp": "1997-07-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/alba02.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf/alba02.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

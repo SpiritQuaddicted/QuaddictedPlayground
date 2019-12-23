@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd",
  "filename": [
   "cryo.zip"
  ],
+ "files": {
+  "Cryo.txt": {
+   "filesize": 2488,
+   "timestamp": "1997-05-15"
+  },
+  "Cryo1.bsp": {
+   "filesize": 1706864,
+   "timestamp": "1997-05-15"
+  },
+  "Cryo2.bsp": {
+   "filesize": 1791464,
+   "timestamp": "1997-05-15"
+  }
+ },
  "filesize": 1498,
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "sha256": "47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd",
  "tags": [
   "title:Daredevil's Descent &amp; Cryogenic Crypt",
   "releasedate:1997-05-15",
@@ -19,25 +35,9 @@
   "dependency:hipnotic",
   "startmap:cryo1"
  ],
- "install": {
-  "extract": "{quake}/hipnotic/maps/"
- },
- "files": {
-  "Cryo1.bsp": {
-   "filesize": 1706864,
-   "timestamp": "1997-05-15"
-  },
-  "Cryo.txt": {
-   "filesize": 2488,
-   "timestamp": "1997-05-15"
-  },
-  "Cryo2.bsp": {
-   "filesize": 1791464,
-   "timestamp": "1997-05-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cryo.zip",
   "https://www.quaddicted.com/files/by-sha256/4/47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd/cryo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

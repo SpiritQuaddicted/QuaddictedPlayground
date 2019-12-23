@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "1ee2d0d4e2cc37fbf98fb250c17e9a1ce34bda24d088422f72daac0e9a7694df",
  "filename": [
   "murder_1.zip"
  ],
+ "files": {
+  "FILE_ID.DIZ": {
+   "filesize": 92,
+   "timestamp": "1997-01-16"
+  },
+  "MURDER1.BSP": {
+   "filesize": 1626080,
+   "timestamp": "1997-01-16"
+  },
+  "MURDER1.TXT": {
+   "filesize": 1717,
+   "timestamp": "1997-01-16"
+  }
+ },
  "filesize": 682,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1ee2d0d4e2cc37fbf98fb250c17e9a1ce34bda24d088422f72daac0e9a7694df",
  "tags": [
   "title:Murder1",
   "releasedate:1997-01-16",
@@ -19,25 +35,9 @@
   "tag:traps",
   "startmap:murder1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MURDER1.BSP": {
-   "filesize": 1626080,
-   "timestamp": "1997-01-16"
-  },
-  "MURDER1.TXT": {
-   "filesize": 1717,
-   "timestamp": "1997-01-16"
-  },
-  "FILE_ID.DIZ": {
-   "filesize": 92,
-   "timestamp": "1997-01-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/murder_1.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1ee2d0d4e2cc37fbf98fb250c17e9a1ce34bda24d088422f72daac0e9a7694df/murder_1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

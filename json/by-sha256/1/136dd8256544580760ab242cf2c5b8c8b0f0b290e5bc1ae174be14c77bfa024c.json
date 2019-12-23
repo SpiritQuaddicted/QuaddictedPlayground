@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "136dd8256544580760ab242cf2c5b8c8b0f0b290e5bc1ae174be14c77bfa024c",
  "filename": [
   "sisters.zip"
  ],
+ "files": {
+  "Sisters.txt": {
+   "filesize": 2776,
+   "timestamp": "1997-09-22"
+  },
+  "sisters.bsp": {
+   "filesize": 1625652,
+   "timestamp": "1997-09-24"
+  }
+ },
  "filesize": 732,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "136dd8256544580760ab242cf2c5b8c8b0f0b290e5bc1ae174be14c77bfa024c",
  "tags": [
   "title:Vampire Sisters",
   "releasedate:1997-09-22",
@@ -16,21 +28,9 @@
   "tag:water",
   "tag:non linear"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Sisters.txt": {
-   "filesize": 2776,
-   "timestamp": "1997-09-22"
-  },
-  "sisters.bsp": {
-   "filesize": 1625652,
-   "timestamp": "1997-09-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sisters.zip",
   "https://www.quaddicted.com/files/by-sha256/1/136dd8256544580760ab242cf2c5b8c8b0f0b290e5bc1ae174be14c77bfa024c/sisters.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

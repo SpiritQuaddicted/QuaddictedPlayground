@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "3adedf9c24dfc3043516f7c9f974b6a8b446f98445ad57321f832a20843713f2",
  "filename": [
   "hellctle.zip"
  ],
+ "files": {
+  "CASTLE.BSP": {
+   "filesize": 1664004,
+   "timestamp": "1997-03-25"
+  },
+  "CASTLE.TXT": {
+   "filesize": 7395,
+   "timestamp": "1997-03-28"
+  }
+ },
  "filesize": 711,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3adedf9c24dfc3043516f7c9f974b6a8b446f98445ad57321f832a20843713f2",
  "tags": [
   "title:Hell's Castle",
   "releasedate:1997-03-28",
@@ -22,21 +34,9 @@
   "tag:dm",
   "startmap:castle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CASTLE.TXT": {
-   "filesize": 7395,
-   "timestamp": "1997-03-28"
-  },
-  "CASTLE.BSP": {
-   "filesize": 1664004,
-   "timestamp": "1997-03-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hellctle.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3adedf9c24dfc3043516f7c9f974b6a8b446f98445ad57321f832a20843713f2/hellctle.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

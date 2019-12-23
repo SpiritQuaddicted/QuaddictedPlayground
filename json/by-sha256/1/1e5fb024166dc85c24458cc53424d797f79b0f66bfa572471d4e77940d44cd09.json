@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "1e5fb024166dc85c24458cc53424d797f79b0f66bfa572471d4e77940d44cd09",
  "filename": [
   "azspq1.zip"
  ],
+ "files": {
+  "AZSPQ1.BSP": {
+   "filesize": 1902116,
+   "timestamp": "2002-01-07"
+  },
+  "AZSPQ1.TXT": {
+   "filesize": 4151,
+   "timestamp": "2002-01-14"
+  },
+  "AZSPQ2.BSP": {
+   "filesize": 691604,
+   "timestamp": "2002-01-10"
+  }
+ },
  "filesize": 1107,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1e5fb024166dc85c24458cc53424d797f79b0f66bfa572471d4e77940d44cd09",
  "tags": [
   "title:Inferno, The Plains of Purgatory",
   "releasedate:2002-01-14",
@@ -14,25 +30,9 @@
   "tag:blue",
   "tag:azure"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "AZSPQ1.TXT": {
-   "filesize": 4151,
-   "timestamp": "2002-01-14"
-  },
-  "AZSPQ2.BSP": {
-   "filesize": 691604,
-   "timestamp": "2002-01-10"
-  },
-  "AZSPQ1.BSP": {
-   "filesize": 1902116,
-   "timestamp": "2002-01-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/azspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1e5fb024166dc85c24458cc53424d797f79b0f66bfa572471d4e77940d44cd09/azspq1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

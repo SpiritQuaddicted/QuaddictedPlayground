@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87",
  "filename": [
   "thepsyco.zip"
  ],
- "filesize": 428,
- "tags": [
-  "title:The Psychotic Installation",
-  "releasedate:1996-10-06",
-  "game:quake",
-  "author:Gunnar Saethre",
-  "tag:small",
-  "tag:wizard",
-  "tag:dm",
-  "startmap:psycho"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Psycho.bsp": {
    "filesize": 900596,
@@ -28,8 +12,24 @@
    "timestamp": "1996-10-06"
   }
  },
+ "filesize": 428,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87",
+ "tags": [
+  "title:The Psychotic Installation",
+  "releasedate:1996-10-06",
+  "game:quake",
+  "author:Gunnar Saethre",
+  "tag:small",
+  "tag:wizard",
+  "tag:dm",
+  "startmap:psycho"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/thepsyco.zip",
   "https://www.quaddicted.com/files/by-sha256/4/42c68d1a565b6424d4bf72d47c84cca88a6feba3124c791c4b4dfe12c3b53d87/thepsyco.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

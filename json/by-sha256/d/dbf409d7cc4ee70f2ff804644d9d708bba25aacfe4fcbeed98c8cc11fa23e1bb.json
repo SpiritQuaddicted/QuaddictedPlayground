@@ -1,33 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb",
  "filename": [
   "ad_sepulcher.zip"
  ],
- "filesize": 30238,
- "tags": [
-  "title:The Forgotten Sepulcher",
-  "releasedate:2017-06-17",
-  "game:quake",
-  "commandline:-game ad",
-  "author:Giftmacher",
-  "author:Sock",
-  "tag:large",
-  "tag:limits",
-  "tag:monsters",
-  "tag:arcane dimensions",
-  "tag:source",
-  "tag:medieval",
-  "tag:swamp",
-  "tag:remix",
-  "tag:e1m3",
-  "tag:necropolis",
-  "tag:exploration",
-  "tag:quake_awards_2018_winner"
- ],
- "install": {
-  "extract": "{quake}/ad/"
- },
  "files": {
   "ad_quake.def": {
    "filesize": 290898,
@@ -842,8 +816,34 @@
    "timestamp": "2017-06-08"
   }
  },
+ "filesize": 30238,
+ "install": {
+  "extract": "{quake}/ad/"
+ },
+ "sha256": "dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb",
+ "tags": [
+  "title:The Forgotten Sepulcher",
+  "releasedate:2017-06-17",
+  "game:quake",
+  "commandline:-game ad",
+  "author:Giftmacher",
+  "author:Sock",
+  "tag:large",
+  "tag:limits",
+  "tag:monsters",
+  "tag:arcane dimensions",
+  "tag:source",
+  "tag:medieval",
+  "tag:swamp",
+  "tag:remix",
+  "tag:e1m3",
+  "tag:necropolis",
+  "tag:exploration",
+  "tag:quake_awards_2018_winner"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_sepulcher.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb/ad_sepulcher.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

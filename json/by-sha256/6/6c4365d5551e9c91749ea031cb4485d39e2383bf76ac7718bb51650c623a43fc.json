@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "6c4365d5551e9c91749ea031cb4485d39e2383bf76ac7718bb51650c623a43fc",
  "filename": [
   "sadlark7.zip"
  ],
+ "files": {
+  "sadlark7.bsp": {
+   "filesize": 2177540,
+   "timestamp": "1997-10-10"
+  },
+  "sadlark7.txt": {
+   "filesize": 2215,
+   "timestamp": "1997-10-10"
+  }
+ },
  "filesize": 920,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6c4365d5551e9c91749ea031cb4485d39e2383bf76ac7718bb51650c623a43fc",
  "tags": [
   "title:Dig me no grave",
   "releasedate:1997-10-10",
@@ -16,21 +28,9 @@
   "tag:traps",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sadlark7.txt": {
-   "filesize": 2215,
-   "timestamp": "1997-10-10"
-  },
-  "sadlark7.bsp": {
-   "filesize": 2177540,
-   "timestamp": "1997-10-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark7.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6c4365d5551e9c91749ea031cb4485d39e2383bf76ac7718bb51650c623a43fc/sadlark7.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

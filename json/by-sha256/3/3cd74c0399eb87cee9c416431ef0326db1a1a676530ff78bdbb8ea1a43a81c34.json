@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "3cd74c0399eb87cee9c416431ef0326db1a1a676530ff78bdbb8ea1a43a81c34",
  "filename": [
   "spd2.zip"
  ],
+ "files": {
+  "readmeh.txt": {
+   "filesize": 408,
+   "timestamp": "2003-10-30"
+  },
+  "spd_v2.bsp": {
+   "filesize": 1567640,
+   "timestamp": "2003-10-21"
+  }
+ },
  "filesize": 587,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3cd74c0399eb87cee9c416431ef0326db1a1a676530ff78bdbb8ea1a43a81c34",
  "tags": [
   "title:SPD",
   "releasedate:2003-10-30",
@@ -17,21 +29,9 @@
   "tag:speedy",
   "startmap:spd_v2"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "spd_v2.bsp": {
-   "filesize": 1567640,
-   "timestamp": "2003-10-21"
-  },
-  "readmeh.txt": {
-   "filesize": 408,
-   "timestamp": "2003-10-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/spd2.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3cd74c0399eb87cee9c416431ef0326db1a1a676530ff78bdbb8ea1a43a81c34/spd2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

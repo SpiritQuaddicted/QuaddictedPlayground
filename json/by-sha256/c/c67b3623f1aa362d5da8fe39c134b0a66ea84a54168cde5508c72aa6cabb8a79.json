@@ -1,10 +1,154 @@
 {
- "version": "20191222-0",
- "sha256": "c67b3623f1aa362d5da8fe39c134b0a66ea84a54168cde5508c72aa6cabb8a79",
  "filename": [
   "100b2.zip"
  ],
+ "files": {
+  "autoexec.cfg": {
+   "filesize": 120,
+   "timestamp": "2001-05-20"
+  },
+  "maps/BZ100B.bsp": {
+   "filesize": 382572,
+   "timestamp": "2001-04-21"
+  },
+  "maps/R100BR.bsp": {
+   "filesize": 461760,
+   "timestamp": "2001-04-27"
+  },
+  "maps/TITANIC.bsp": {
+   "filesize": 1207020,
+   "timestamp": "2001-03-27"
+  },
+  "maps/aard100.bsp": {
+   "filesize": 1829272,
+   "timestamp": "2001-04-26"
+  },
+  "maps/czg_moon.bsp": {
+   "filesize": 1622652,
+   "timestamp": "2001-03-30"
+  },
+  "maps/czgtoxic.bsp": {
+   "filesize": 1506144,
+   "timestamp": "2001-04-03"
+  },
+  "maps/ftfs100b.bsp": {
+   "filesize": 944256,
+   "timestamp": "2001-04-26"
+  },
+  "maps/n3_100b.bsp": {
+   "filesize": 516656,
+   "timestamp": "2001-04-23"
+  },
+  "maps/school.bsp": {
+   "filesize": 1107264,
+   "timestamp": "2001-03-30"
+  },
+  "maps/spring.bsp": {
+   "filesize": 528208,
+   "timestamp": "2001-05-05"
+  },
+  "maps/start.bsp": {
+   "filesize": 826864,
+   "timestamp": "2001-05-20"
+  },
+  "progs.dat": {
+   "filesize": 413988,
+   "timestamp": "2001-04-25"
+  },
+  "progs_readme.txt": {
+   "filesize": 424,
+   "timestamp": "2001-05-20"
+  },
+  "readme.txt": {
+   "filesize": 34133,
+   "timestamp": "2001-05-21"
+  },
+  "sources/BZ100B.map": {
+   "filesize": 56526,
+   "timestamp": "2001-04-21"
+  },
+  "sources/Spring.map": {
+   "filesize": 43799,
+   "timestamp": "2001-05-05"
+  },
+  "sources/aard100.map": {
+   "filesize": 256221,
+   "timestamp": "2001-04-26"
+  },
+  "sources/czg_moon.map": {
+   "filesize": 87820,
+   "timestamp": "2001-03-30"
+  },
+  "sources/czgtoxic.map": {
+   "filesize": 135679,
+   "timestamp": "2001-04-03"
+  },
+  "sources/ftfs100b.map": {
+   "filesize": 76925,
+   "timestamp": "2001-04-26"
+  },
+  "sources/n3_100b.map": {
+   "filesize": 54817,
+   "timestamp": "2001-04-23"
+  },
+  "sources/r100br.map": {
+   "filesize": 69789,
+   "timestamp": "2001-04-27"
+  },
+  "sources/school.map": {
+   "filesize": 79259,
+   "timestamp": "2001-03-30"
+  },
+  "sources/titanic.map": {
+   "filesize": 67211,
+   "timestamp": "2001-03-28"
+  },
+  "texts/FtFs100b.txt": {
+   "filesize": 1198,
+   "timestamp": "2001-04-26"
+  },
+  "texts/Spring.txt": {
+   "filesize": 2037,
+   "timestamp": "2001-05-05"
+  },
+  "texts/aard100.txt": {
+   "filesize": 3563,
+   "timestamp": "2001-04-26"
+  },
+  "texts/bz100b.txt": {
+   "filesize": 1247,
+   "timestamp": "2001-04-20"
+  },
+  "texts/czg_moon.txt": {
+   "filesize": 907,
+   "timestamp": "2001-03-30"
+  },
+  "texts/czgtoxic.txt": {
+   "filesize": 732,
+   "timestamp": "2001-04-03"
+  },
+  "texts/n3_100b.txt": {
+   "filesize": 3342,
+   "timestamp": "2001-04-23"
+  },
+  "texts/r100br.txt": {
+   "filesize": 4102,
+   "timestamp": "2001-04-27"
+  },
+  "texts/school.txt": {
+   "filesize": 642,
+   "timestamp": "2001-03-30"
+  },
+  "texts/titanic.txt": {
+   "filesize": 301,
+   "timestamp": "2001-03-27"
+  }
+ },
  "filesize": 4300,
+ "install": {
+  "extract": "{quake}/100b2/"
+ },
+ "sha256": "c67b3623f1aa362d5da8fe39c134b0a66ea84a54168cde5508c72aa6cabb8a79",
  "tags": [
   "title:100 Brush Competition #2",
   "releasedate:2001-05-20",
@@ -32,153 +176,9 @@
   "startmap:start",
   "startmap:titanic"
  ],
- "install": {
-  "extract": "{quake}/100b2/"
- },
- "files": {
-  "sources/Spring.map": {
-   "filesize": 43799,
-   "timestamp": "2001-05-05"
-  },
-  "sources/titanic.map": {
-   "filesize": 67211,
-   "timestamp": "2001-03-28"
-  },
-  "sources/ftfs100b.map": {
-   "filesize": 76925,
-   "timestamp": "2001-04-26"
-  },
-  "sources/czgtoxic.map": {
-   "filesize": 135679,
-   "timestamp": "2001-04-03"
-  },
-  "sources/aard100.map": {
-   "filesize": 256221,
-   "timestamp": "2001-04-26"
-  },
-  "sources/BZ100B.map": {
-   "filesize": 56526,
-   "timestamp": "2001-04-21"
-  },
-  "sources/czg_moon.map": {
-   "filesize": 87820,
-   "timestamp": "2001-03-30"
-  },
-  "sources/r100br.map": {
-   "filesize": 69789,
-   "timestamp": "2001-04-27"
-  },
-  "sources/school.map": {
-   "filesize": 79259,
-   "timestamp": "2001-03-30"
-  },
-  "sources/n3_100b.map": {
-   "filesize": 54817,
-   "timestamp": "2001-04-23"
-  },
-  "maps/TITANIC.bsp": {
-   "filesize": 1207020,
-   "timestamp": "2001-03-27"
-  },
-  "maps/BZ100B.bsp": {
-   "filesize": 382572,
-   "timestamp": "2001-04-21"
-  },
-  "maps/R100BR.bsp": {
-   "filesize": 461760,
-   "timestamp": "2001-04-27"
-  },
-  "maps/czgtoxic.bsp": {
-   "filesize": 1506144,
-   "timestamp": "2001-04-03"
-  },
-  "maps/aard100.bsp": {
-   "filesize": 1829272,
-   "timestamp": "2001-04-26"
-  },
-  "maps/ftfs100b.bsp": {
-   "filesize": 944256,
-   "timestamp": "2001-04-26"
-  },
-  "maps/spring.bsp": {
-   "filesize": 528208,
-   "timestamp": "2001-05-05"
-  },
-  "maps/start.bsp": {
-   "filesize": 826864,
-   "timestamp": "2001-05-20"
-  },
-  "maps/czg_moon.bsp": {
-   "filesize": 1622652,
-   "timestamp": "2001-03-30"
-  },
-  "maps/n3_100b.bsp": {
-   "filesize": 516656,
-   "timestamp": "2001-04-23"
-  },
-  "maps/school.bsp": {
-   "filesize": 1107264,
-   "timestamp": "2001-03-30"
-  },
-  "readme.txt": {
-   "filesize": 34133,
-   "timestamp": "2001-05-21"
-  },
-  "progs_readme.txt": {
-   "filesize": 424,
-   "timestamp": "2001-05-20"
-  },
-  "texts/czg_moon.txt": {
-   "filesize": 907,
-   "timestamp": "2001-03-30"
-  },
-  "texts/bz100b.txt": {
-   "filesize": 1247,
-   "timestamp": "2001-04-20"
-  },
-  "texts/school.txt": {
-   "filesize": 642,
-   "timestamp": "2001-03-30"
-  },
-  "texts/r100br.txt": {
-   "filesize": 4102,
-   "timestamp": "2001-04-27"
-  },
-  "texts/czgtoxic.txt": {
-   "filesize": 732,
-   "timestamp": "2001-04-03"
-  },
-  "texts/FtFs100b.txt": {
-   "filesize": 1198,
-   "timestamp": "2001-04-26"
-  },
-  "texts/n3_100b.txt": {
-   "filesize": 3342,
-   "timestamp": "2001-04-23"
-  },
-  "texts/Spring.txt": {
-   "filesize": 2037,
-   "timestamp": "2001-05-05"
-  },
-  "texts/titanic.txt": {
-   "filesize": 301,
-   "timestamp": "2001-03-27"
-  },
-  "texts/aard100.txt": {
-   "filesize": 3563,
-   "timestamp": "2001-04-26"
-  },
-  "progs.dat": {
-   "filesize": 413988,
-   "timestamp": "2001-04-25"
-  },
-  "autoexec.cfg": {
-   "filesize": 120,
-   "timestamp": "2001-05-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/100b2.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c67b3623f1aa362d5da8fe39c134b0a66ea84a54168cde5508c72aa6cabb8a79/100b2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

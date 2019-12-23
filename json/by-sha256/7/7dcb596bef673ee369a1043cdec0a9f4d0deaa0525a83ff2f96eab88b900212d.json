@@ -1,10 +1,266 @@
 {
- "version": "20191222-0",
- "sha256": "7dcb596bef673ee369a1043cdec0a9f4d0deaa0525a83ff2f96eab88b900212d",
  "filename": [
   "drastic.zip"
  ],
+ "files": {
+  "drastic/BAZOOKA.TXT": {
+   "filesize": 4512,
+   "timestamp": "1996-11-26"
+  },
+  "drastic/BFG.TXT": {
+   "filesize": 8242,
+   "timestamp": "1996-11-26"
+  },
+  "drastic/BLARG.TXT": {
+   "filesize": 2917,
+   "timestamp": "1996-12-25"
+  },
+  "drastic/CONFIG.CFG": {
+   "filesize": 6807,
+   "timestamp": "1997-01-17"
+  },
+  "drastic/DRONE.TXT": {
+   "filesize": 3282,
+   "timestamp": "1996-12-25"
+  },
+  "drastic/PROGS.DAT": {
+   "filesize": 484924,
+   "timestamp": "1997-01-15"
+  },
+  "drastic/SNAKEMAN.TXT": {
+   "filesize": 4744,
+   "timestamp": "1996-10-24"
+  },
+  "drastic/drastic.txt": {
+   "filesize": 3973,
+   "timestamp": "1997-01-17"
+  },
+  "drastic/manga.txt": {
+   "filesize": 2019,
+   "timestamp": "1996-11-04"
+  },
+  "drastic/maps/drastic.bsp": {
+   "filesize": 1354820,
+   "timestamp": "1997-01-16"
+  },
+  "drastic/progs/BAZOOKA.MDL": {
+   "filesize": 143952,
+   "timestamp": "1996-11-20"
+  },
+  "drastic/progs/BLARG.MDL": {
+   "filesize": 123740,
+   "timestamp": "1996-12-18"
+  },
+  "drastic/progs/DRNGIB1.MDL": {
+   "filesize": 17204,
+   "timestamp": "1996-12-24"
+  },
+  "drastic/progs/DRNGIB2.MDL": {
+   "filesize": 35656,
+   "timestamp": "1996-12-24"
+  },
+  "drastic/progs/DRNGIB3.MDL": {
+   "filesize": 42196,
+   "timestamp": "1996-12-24"
+  },
+  "drastic/progs/DRONE1.MDL": {
+   "filesize": 68972,
+   "timestamp": "1996-12-24"
+  },
+  "drastic/progs/H_BABE.MDL": {
+   "filesize": 26804,
+   "timestamp": "1996-11-14"
+  },
+  "drastic/progs/KIKBULL.MDL": {
+   "filesize": 116900,
+   "timestamp": "1996-12-18"
+  },
+  "drastic/progs/PULSE.MDL": {
+   "filesize": 15988,
+   "timestamp": "1996-11-15"
+  },
+  "drastic/progs/SNAKEMAN.MDL": {
+   "filesize": 132028,
+   "timestamp": "1997-01-13"
+  },
+  "drastic/progs/UZI.MDL": {
+   "filesize": 52820,
+   "timestamp": "1996-10-23"
+  },
+  "drastic/progs/manga3.mdl": {
+   "filesize": 96256,
+   "timestamp": "1996-11-02"
+  },
+  "drastic/progs/rubble1.mdl": {
+   "filesize": 5716,
+   "timestamp": "1996-10-11"
+  },
+  "drastic/progs/rubble2.mdl": {
+   "filesize": 16228,
+   "timestamp": "1996-10-11"
+  },
+  "drastic/progs/rubble3.mdl": {
+   "filesize": 22228,
+   "timestamp": "1996-10-11"
+  },
+  "drastic/progs/s_rain.spr": {
+   "filesize": 37196,
+   "timestamp": "1996-12-02"
+  },
+  "drastic/progs/soldier.mdl": {
+   "filesize": 146288,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/rain.txt": {
+   "filesize": 2116,
+   "timestamp": "1996-12-09"
+  },
+  "drastic/sound/ambience/Copy of eagle.wav": {
+   "filesize": 37312,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/ambience/THUNDER1.WAV": {
+   "filesize": 41492,
+   "timestamp": "1996-09-24"
+  },
+  "drastic/sound/ambience/eagle.wav": {
+   "filesize": 37218,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/ambience/rain.wav": {
+   "filesize": 91202,
+   "timestamp": "1996-12-09"
+  },
+  "drastic/sound/bazooka/AHAIA.WAV": {
+   "filesize": 7747,
+   "timestamp": "1997-01-16"
+  },
+  "drastic/sound/bazooka/DIE.WAV": {
+   "filesize": 9260,
+   "timestamp": "1997-01-16"
+  },
+  "drastic/sound/bazooka/DIES1.WAV": {
+   "filesize": 8856,
+   "timestamp": "1996-11-15"
+  },
+  "drastic/sound/bazooka/DIES2.WAV": {
+   "filesize": 9212,
+   "timestamp": "1996-11-15"
+  },
+  "drastic/sound/bazooka/DIES3.WAV": {
+   "filesize": 9752,
+   "timestamp": "1996-11-15"
+  },
+  "drastic/sound/bazooka/GRRR.WAV": {
+   "filesize": 11356,
+   "timestamp": "1996-11-15"
+  },
+  "drastic/sound/bazooka/OOAA.WAV": {
+   "filesize": 4872,
+   "timestamp": "1996-11-15"
+  },
+  "drastic/sound/bazooka/STEP1.WAV": {
+   "filesize": 27042,
+   "timestamp": "1996-09-07"
+  },
+  "drastic/sound/bazooka/STEPSTOP.WAV": {
+   "filesize": 6102,
+   "timestamp": "1996-09-07"
+  },
+  "drastic/sound/bazooka/When.wav": {
+   "filesize": 21689,
+   "timestamp": "1997-01-17"
+  },
+  "drastic/sound/bazooka/YEOW.WAV": {
+   "filesize": 6474,
+   "timestamp": "1996-11-15"
+  },
+  "drastic/sound/bfg/BFG.WAV": {
+   "filesize": 18386,
+   "timestamp": "1996-11-23"
+  },
+  "drastic/sound/blarg/BIDLE.WAV": {
+   "filesize": 25832,
+   "timestamp": "1996-12-18"
+  },
+  "drastic/sound/blarg/BIDLE2.WAV": {
+   "filesize": 23488,
+   "timestamp": "1996-12-18"
+  },
+  "drastic/sound/blarg/BJUMP.WAV": {
+   "filesize": 23645,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/blarg/BJUMP2.WAV": {
+   "filesize": 6908,
+   "timestamp": "1996-12-18"
+  },
+  "drastic/sound/died.wav": {
+   "filesize": 24492,
+   "timestamp": "1996-11-02"
+  },
+  "drastic/sound/ha.WAV": {
+   "filesize": 2708,
+   "timestamp": "1996-10-30"
+  },
+  "drastic/sound/hiyaa.wav": {
+   "filesize": 18044,
+   "timestamp": "1997-01-16"
+  },
+  "drastic/sound/kungfu.wav": {
+   "filesize": 29008,
+   "timestamp": "1996-10-30"
+  },
+  "drastic/sound/ohdju.wav": {
+   "filesize": 8740,
+   "timestamp": "1997-01-16"
+  },
+  "drastic/sound/soldier/death1.wav": {
+   "filesize": 34932,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/soldier/idle.wav": {
+   "filesize": 3836,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/soldier/pain1.wav": {
+   "filesize": 5000,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/soldier/pain2.wav": {
+   "filesize": 7838,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/soldier/sattck1.wav": {
+   "filesize": 14302,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/soldier/sight1.wav": {
+   "filesize": 3836,
+   "timestamp": "1997-01-14"
+  },
+  "drastic/sound/tchak.wav": {
+   "filesize": 10166,
+   "timestamp": "1996-10-30"
+  },
+  "drastic/sound/wall/wall01.wav": {
+   "filesize": 32804,
+   "timestamp": "1996-10-13"
+  },
+  "drastic/walls01.txt": {
+   "filesize": 3093,
+   "timestamp": "1996-10-14"
+  },
+  "drastic_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 1678,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "7dcb596bef673ee369a1043cdec0a9f4d0deaa0525a83ff2f96eab88b900212d",
  "tags": [
   "title:Drastic Falls",
   "releasedate:1997-01-17",
@@ -20,265 +276,9 @@
   "tag:outdoors",
   "tag:waterfall"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "drastic/maps/drastic.bsp": {
-   "filesize": 1354820,
-   "timestamp": "1997-01-16"
-  },
-  "drastic/walls01.txt": {
-   "filesize": 3093,
-   "timestamp": "1996-10-14"
-  },
-  "drastic/PROGS.DAT": {
-   "filesize": 484924,
-   "timestamp": "1997-01-15"
-  },
-  "drastic/CONFIG.CFG": {
-   "filesize": 6807,
-   "timestamp": "1997-01-17"
-  },
-  "drastic/BAZOOKA.TXT": {
-   "filesize": 4512,
-   "timestamp": "1996-11-26"
-  },
-  "drastic/drastic.txt": {
-   "filesize": 3973,
-   "timestamp": "1997-01-17"
-  },
-  "drastic/DRONE.TXT": {
-   "filesize": 3282,
-   "timestamp": "1996-12-25"
-  },
-  "drastic/sound/soldier/sattck1.wav": {
-   "filesize": 14302,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/soldier/pain1.wav": {
-   "filesize": 5000,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/soldier/pain2.wav": {
-   "filesize": 7838,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/soldier/idle.wav": {
-   "filesize": 3836,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/soldier/death1.wav": {
-   "filesize": 34932,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/soldier/sight1.wav": {
-   "filesize": 3836,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/kungfu.wav": {
-   "filesize": 29008,
-   "timestamp": "1996-10-30"
-  },
-  "drastic/sound/bfg/BFG.WAV": {
-   "filesize": 18386,
-   "timestamp": "1996-11-23"
-  },
-  "drastic/sound/ambience/rain.wav": {
-   "filesize": 91202,
-   "timestamp": "1996-12-09"
-  },
-  "drastic/sound/ambience/eagle.wav": {
-   "filesize": 37218,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/ambience/Copy of eagle.wav": {
-   "filesize": 37312,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/ambience/THUNDER1.WAV": {
-   "filesize": 41492,
-   "timestamp": "1996-09-24"
-  },
-  "drastic/sound/ha.WAV": {
-   "filesize": 2708,
-   "timestamp": "1996-10-30"
-  },
-  "drastic/sound/bazooka/DIE.WAV": {
-   "filesize": 9260,
-   "timestamp": "1997-01-16"
-  },
-  "drastic/sound/bazooka/DIES3.WAV": {
-   "filesize": 9752,
-   "timestamp": "1996-11-15"
-  },
-  "drastic/sound/bazooka/GRRR.WAV": {
-   "filesize": 11356,
-   "timestamp": "1996-11-15"
-  },
-  "drastic/sound/bazooka/DIES1.WAV": {
-   "filesize": 8856,
-   "timestamp": "1996-11-15"
-  },
-  "drastic/sound/bazooka/YEOW.WAV": {
-   "filesize": 6474,
-   "timestamp": "1996-11-15"
-  },
-  "drastic/sound/bazooka/STEP1.WAV": {
-   "filesize": 27042,
-   "timestamp": "1996-09-07"
-  },
-  "drastic/sound/bazooka/OOAA.WAV": {
-   "filesize": 4872,
-   "timestamp": "1996-11-15"
-  },
-  "drastic/sound/bazooka/STEPSTOP.WAV": {
-   "filesize": 6102,
-   "timestamp": "1996-09-07"
-  },
-  "drastic/sound/bazooka/When.wav": {
-   "filesize": 21689,
-   "timestamp": "1997-01-17"
-  },
-  "drastic/sound/bazooka/AHAIA.WAV": {
-   "filesize": 7747,
-   "timestamp": "1997-01-16"
-  },
-  "drastic/sound/bazooka/DIES2.WAV": {
-   "filesize": 9212,
-   "timestamp": "1996-11-15"
-  },
-  "drastic/sound/died.wav": {
-   "filesize": 24492,
-   "timestamp": "1996-11-02"
-  },
-  "drastic/sound/wall/wall01.wav": {
-   "filesize": 32804,
-   "timestamp": "1996-10-13"
-  },
-  "drastic/sound/hiyaa.wav": {
-   "filesize": 18044,
-   "timestamp": "1997-01-16"
-  },
-  "drastic/sound/ohdju.wav": {
-   "filesize": 8740,
-   "timestamp": "1997-01-16"
-  },
-  "drastic/sound/blarg/BJUMP2.WAV": {
-   "filesize": 6908,
-   "timestamp": "1996-12-18"
-  },
-  "drastic/sound/blarg/BIDLE2.WAV": {
-   "filesize": 23488,
-   "timestamp": "1996-12-18"
-  },
-  "drastic/sound/blarg/BJUMP.WAV": {
-   "filesize": 23645,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/sound/blarg/BIDLE.WAV": {
-   "filesize": 25832,
-   "timestamp": "1996-12-18"
-  },
-  "drastic/sound/tchak.wav": {
-   "filesize": 10166,
-   "timestamp": "1996-10-30"
-  },
-  "drastic/rain.txt": {
-   "filesize": 2116,
-   "timestamp": "1996-12-09"
-  },
-  "drastic/BLARG.TXT": {
-   "filesize": 2917,
-   "timestamp": "1996-12-25"
-  },
-  "drastic/manga.txt": {
-   "filesize": 2019,
-   "timestamp": "1996-11-04"
-  },
-  "drastic/BFG.TXT": {
-   "filesize": 8242,
-   "timestamp": "1996-11-26"
-  },
-  "drastic/SNAKEMAN.TXT": {
-   "filesize": 4744,
-   "timestamp": "1996-10-24"
-  },
-  "drastic/progs/DRONE1.MDL": {
-   "filesize": 68972,
-   "timestamp": "1996-12-24"
-  },
-  "drastic/progs/DRNGIB3.MDL": {
-   "filesize": 42196,
-   "timestamp": "1996-12-24"
-  },
-  "drastic/progs/H_BABE.MDL": {
-   "filesize": 26804,
-   "timestamp": "1996-11-14"
-  },
-  "drastic/progs/SNAKEMAN.MDL": {
-   "filesize": 132028,
-   "timestamp": "1997-01-13"
-  },
-  "drastic/progs/DRNGIB1.MDL": {
-   "filesize": 17204,
-   "timestamp": "1996-12-24"
-  },
-  "drastic/progs/BAZOOKA.MDL": {
-   "filesize": 143952,
-   "timestamp": "1996-11-20"
-  },
-  "drastic/progs/manga3.mdl": {
-   "filesize": 96256,
-   "timestamp": "1996-11-02"
-  },
-  "drastic/progs/PULSE.MDL": {
-   "filesize": 15988,
-   "timestamp": "1996-11-15"
-  },
-  "drastic/progs/rubble1.mdl": {
-   "filesize": 5716,
-   "timestamp": "1996-10-11"
-  },
-  "drastic/progs/BLARG.MDL": {
-   "filesize": 123740,
-   "timestamp": "1996-12-18"
-  },
-  "drastic/progs/soldier.mdl": {
-   "filesize": 146288,
-   "timestamp": "1997-01-14"
-  },
-  "drastic/progs/UZI.MDL": {
-   "filesize": 52820,
-   "timestamp": "1996-10-23"
-  },
-  "drastic/progs/KIKBULL.MDL": {
-   "filesize": 116900,
-   "timestamp": "1996-12-18"
-  },
-  "drastic/progs/s_rain.spr": {
-   "filesize": 37196,
-   "timestamp": "1996-12-02"
-  },
-  "drastic/progs/rubble2.mdl": {
-   "filesize": 16228,
-   "timestamp": "1996-10-11"
-  },
-  "drastic/progs/DRNGIB2.MDL": {
-   "filesize": 35656,
-   "timestamp": "1996-12-24"
-  },
-  "drastic/progs/rubble3.mdl": {
-   "filesize": 22228,
-   "timestamp": "1996-10-11"
-  },
-  "drastic_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/drastic.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7dcb596bef673ee369a1043cdec0a9f4d0deaa0525a83ff2f96eab88b900212d/drastic.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

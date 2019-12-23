@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "56ec8cb3b14bdbbdbb518c354d33690ce7e0dfa2a12c045b70c91ae82e664179",
  "filename": [
   "spirit1dm3sp.zip"
  ],
- "filesize": 470,
- "tags": [
-  "title:Zeal &amp; Fury (single player version)",
-  "releasedate:2010-10-18",
-  "game:quake",
-  "author:spirit &amp; negke",
-  "tag:wizard",
-  "tag:industrial",
-  "tag:small",
-  "tag:source",
-  "tag:oldschool",
-  "tag:metal",
-  "tag:deathmatch"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "spirit1dm3sp.bsp": {
    "filesize": 964580,
@@ -35,8 +16,27 @@
    "timestamp": "2010-10-18"
   }
  },
+ "filesize": 470,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "56ec8cb3b14bdbbdbb518c354d33690ce7e0dfa2a12c045b70c91ae82e664179",
+ "tags": [
+  "title:Zeal &amp; Fury (single player version)",
+  "releasedate:2010-10-18",
+  "game:quake",
+  "author:spirit &amp; negke",
+  "tag:wizard",
+  "tag:industrial",
+  "tag:small",
+  "tag:source",
+  "tag:oldschool",
+  "tag:metal",
+  "tag:deathmatch"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/spirit1dm3sp.zip",
   "https://www.quaddicted.com/files/by-sha256/5/56ec8cb3b14bdbbdbb518c354d33690ce7e0dfa2a12c045b70c91ae82e664179/spirit1dm3sp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

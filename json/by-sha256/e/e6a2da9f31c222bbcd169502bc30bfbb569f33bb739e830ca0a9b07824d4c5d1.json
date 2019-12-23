@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1",
  "filename": [
   "kpcn2014.zip"
  ],
+ "files": {
+  "kpcn2014/PAK0.pak": {
+   "filesize": 11225224,
+   "timestamp": "2014-07-03"
+  },
+  "kpcn2014/readmeh.txt": {
+   "filesize": 62,
+   "timestamp": "2014-07-02"
+  },
+  "kpcn2014/src.zip": {
+   "filesize": 3074630,
+   "timestamp": "2014-07-02"
+  }
+ },
  "filesize": 6208,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1",
  "tags": [
   "title:Cartographer's Nightmare",
   "releasedate:2014-07-03",
@@ -20,25 +36,9 @@
   "tag:limits",
   "startmap:kpcn"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "kpcn2014/PAK0.pak": {
-   "filesize": 11225224,
-   "timestamp": "2014-07-03"
-  },
-  "kpcn2014/readmeh.txt": {
-   "filesize": 62,
-   "timestamp": "2014-07-02"
-  },
-  "kpcn2014/src.zip": {
-   "filesize": 3074630,
-   "timestamp": "2014-07-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/kpcn2014.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e6a2da9f31c222bbcd169502bc30bfbb569f33bb739e830ca0a9b07824d4c5d1/kpcn2014.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

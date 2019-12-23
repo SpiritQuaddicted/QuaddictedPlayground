@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "6e56d1040d329fa6a7c966040c8a307e044c1943056cd9e76ed80a10ff14288a",
  "filename": [
   "sm102_pack.zip"
  ],
+ "files": {
+  "sm102_drew.bsp": {
+   "filesize": 890708,
+   "timestamp": "2005-08-28"
+  },
+  "sm102_ht.bsp": {
+   "filesize": 362324,
+   "timestamp": "2005-08-28"
+  },
+  "sm102_neg!ke.bsp": {
+   "filesize": 1042140,
+   "timestamp": "2005-08-28"
+  },
+  "sm102_zwiffle.bsp": {
+   "filesize": 422636,
+   "timestamp": "2005-08-27"
+  }
+ },
  "filesize": 1035,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6e56d1040d329fa6a7c966040c8a307e044c1943056cd9e76ed80a10ff14288a",
  "tags": [
   "title:Speedmapping pack 102 - Geocomp",
   "releasedate:2005-08-28",
@@ -18,29 +38,9 @@
   "startmap:sm102_ht",
   "startmap:sm102_drew"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm102_neg!ke.bsp": {
-   "filesize": 1042140,
-   "timestamp": "2005-08-28"
-  },
-  "sm102_zwiffle.bsp": {
-   "filesize": 422636,
-   "timestamp": "2005-08-27"
-  },
-  "sm102_drew.bsp": {
-   "filesize": 890708,
-   "timestamp": "2005-08-28"
-  },
-  "sm102_ht.bsp": {
-   "filesize": 362324,
-   "timestamp": "2005-08-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm102_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6e56d1040d329fa6a7c966040c8a307e044c1943056cd9e76ed80a10ff14288a/sm102_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

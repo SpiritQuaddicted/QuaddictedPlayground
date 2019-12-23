@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02",
  "filename": [
   "sm32_pack.zip"
  ],
+ "files": {
+  "sm32.bsp": {
+   "filesize": 2127304,
+   "timestamp": "2001-09-15"
+  },
+  "sm32.txt": {
+   "filesize": 3302,
+   "timestamp": "2001-09-15"
+  }
+ },
  "filesize": 931,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02",
  "tags": [
   "title:Shut Up, RPG!",
   "releasedate:2001-09-15",
@@ -22,21 +34,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:sm32"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm32.txt": {
-   "filesize": 3302,
-   "timestamp": "2001-09-15"
-  },
-  "sm32.bsp": {
-   "filesize": 2127304,
-   "timestamp": "2001-09-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm32_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3/396f7e8d0f88611bf7ddb24d4e562e1d69c6615f266666dfa39f965ec6b7ed02/sm32_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

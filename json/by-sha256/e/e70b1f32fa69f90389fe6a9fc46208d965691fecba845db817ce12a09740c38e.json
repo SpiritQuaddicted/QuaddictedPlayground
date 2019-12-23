@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "e70b1f32fa69f90389fe6a9fc46208d965691fecba845db817ce12a09740c38e",
  "filename": [
   "crosroad.zip"
  ],
- "filesize": 179,
- "tags": [
-  "title:CrossRoad",
-  "releasedate:1996-09-23",
-  "game:quake",
-  "author:Glenn Ancheta",
-  "tag:small",
-  "tag:wizard",
-  "tag:metal",
-  "tag:traps"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "CROSROAD.BSP": {
    "filesize": 438568,
@@ -28,8 +12,24 @@
    "timestamp": "1996-09-23"
   }
  },
+ "filesize": 179,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e70b1f32fa69f90389fe6a9fc46208d965691fecba845db817ce12a09740c38e",
+ "tags": [
+  "title:CrossRoad",
+  "releasedate:1996-09-23",
+  "game:quake",
+  "author:Glenn Ancheta",
+  "tag:small",
+  "tag:wizard",
+  "tag:metal",
+  "tag:traps"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/crosroad.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e70b1f32fa69f90389fe6a9fc46208d965691fecba845db817ce12a09740c38e/crosroad.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

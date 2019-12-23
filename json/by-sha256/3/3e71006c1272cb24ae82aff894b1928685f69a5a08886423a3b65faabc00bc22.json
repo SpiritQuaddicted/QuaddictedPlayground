@@ -1,19 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22",
  "filename": [
   "scar3sp01.zip"
  ],
- "filesize": 2401,
- "tags": [
-  "title:The Ensnared Horizon",
-  "releasedate:2019-09-06",
-  "game:quake",
-  "author:scar3crow"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "scar3sp01.bsp": {
    "filesize": 5054240,
@@ -28,8 +16,20 @@
    "timestamp": "2019-09-06"
   }
  },
+ "filesize": 2401,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22",
+ "tags": [
+  "title:The Ensnared Horizon",
+  "releasedate:2019-09-06",
+  "game:quake",
+  "author:scar3crow"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/scar3sp01.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3e71006c1272cb24ae82aff894b1928685f69a5a08886423a3b65faabc00bc22/scar3sp01.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

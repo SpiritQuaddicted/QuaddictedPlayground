@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ee8ccf16883f8102b4e94e3f40fe71a09860ea54a52900b71fa2e45594fb6773",
  "filename": [
   "kellmet1.zip"
  ],
+ "files": {
+  "kellmet1.bsp": {
+   "filesize": 3066356,
+   "timestamp": "2008-01-01"
+  },
+  "kellmet1.txt": {
+   "filesize": 3047,
+   "timestamp": "2008-01-01"
+  }
+ },
  "filesize": 1197,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "ee8ccf16883f8102b4e94e3f40fe71a09860ea54a52900b71fa2e45594fb6773",
  "tags": [
   "title:I Pity Thee Not",
   "releasedate:2008-01-01",
@@ -19,21 +31,9 @@
   "tag:mustplay",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "kellmet1.bsp": {
-   "filesize": 3066356,
-   "timestamp": "2008-01-01"
-  },
-  "kellmet1.txt": {
-   "filesize": 3047,
-   "timestamp": "2008-01-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/kellmet1.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ee8ccf16883f8102b4e94e3f40fe71a09860ea54a52900b71fa2e45594fb6773/kellmet1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

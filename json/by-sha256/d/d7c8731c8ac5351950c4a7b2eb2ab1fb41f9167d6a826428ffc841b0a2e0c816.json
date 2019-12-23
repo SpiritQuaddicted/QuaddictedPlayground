@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816",
  "filename": [
   "3oc.zip"
  ],
+ "files": {
+  "3oc.txt": {
+   "filesize": 4333,
+   "timestamp": "1997-06-27"
+  },
+  "Pak0.PAK": {
+   "filesize": 1888562,
+   "timestamp": "1997-06-27"
+  }
+ },
  "filesize": 810,
+ "install": {
+  "extract": "{quake}/3oc/"
+ },
+ "sha256": "d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816",
  "tags": [
   "title:Three of Clubs",
   "releasedate:1997-06-27",
@@ -19,21 +31,9 @@
   "tag:idbase",
   "startmap:3oc"
  ],
- "install": {
-  "extract": "{quake}/3oc/"
- },
- "files": {
-  "3oc.txt": {
-   "filesize": 4333,
-   "timestamp": "1997-06-27"
-  },
-  "Pak0.PAK": {
-   "filesize": 1888562,
-   "timestamp": "1997-06-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/3oc.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d7c8731c8ac5351950c4a7b2eb2ab1fb41f9167d6a826428ffc841b0a2e0c816/3oc.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

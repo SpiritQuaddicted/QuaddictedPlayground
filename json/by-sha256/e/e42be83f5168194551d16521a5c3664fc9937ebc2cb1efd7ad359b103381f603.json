@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e42be83f5168194551d16521a5c3664fc9937ebc2cb1efd7ad359b103381f603",
  "filename": [
   "czg_moon.zip"
  ],
+ "files": {
+  "czg_moon.bsp": {
+   "filesize": 1622652,
+   "timestamp": "2001-03-30"
+  },
+  "czg_moon.txt": {
+   "filesize": 907,
+   "timestamp": "2001-03-30"
+  }
+ },
  "filesize": 513,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e42be83f5168194551d16521a5c3664fc9937ebc2cb1efd7ad359b103381f603",
  "tags": [
   "title:CZG's moonshot",
   "releasedate:2001-03-30",
@@ -16,21 +28,9 @@
   "tag:space",
   "tag:void"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "czg_moon.txt": {
-   "filesize": 907,
-   "timestamp": "2001-03-30"
-  },
-  "czg_moon.bsp": {
-   "filesize": 1622652,
-   "timestamp": "2001-03-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/czg_moon.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e42be83f5168194551d16521a5c3664fc9937ebc2cb1efd7ad359b103381f603/czg_moon.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

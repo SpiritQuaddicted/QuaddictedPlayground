@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "ed76f7b4edfbb54e556ecf84f543a4ea7f2faf80f44b396d25155f93d7dff722",
  "filename": [
   "nike.zip"
  ],
+ "files": {
+  "GLQuake Nike.lnk": {
+   "filesize": 397,
+   "timestamp": "1998-01-22"
+  },
+  "Nike.ico": {
+   "filesize": 2998,
+   "timestamp": "1997-12-22"
+  },
+  "Pak0.pak": {
+   "filesize": 10608672,
+   "timestamp": "1998-01-20"
+  },
+  "custents.txt": {
+   "filesize": 8297,
+   "timestamp": "1996-01-01"
+  },
+  "nike.txt": {
+   "filesize": 24579,
+   "timestamp": "1998-01-22"
+  }
+ },
  "filesize": 3896,
+ "install": {
+  "extract": "{quake}/nike/"
+ },
+ "sha256": "ed76f7b4edfbb54e556ecf84f543a4ea7f2faf80f44b396d25155f93d7dff722",
  "tags": [
   "title:Nike",
   "releasedate:1998-01-22",
@@ -22,33 +46,9 @@
   "tag:soviet",
   "tag:bombers"
  ],
- "install": {
-  "extract": "{quake}/nike/"
- },
- "files": {
-  "custents.txt": {
-   "filesize": 8297,
-   "timestamp": "1996-01-01"
-  },
-  "GLQuake Nike.lnk": {
-   "filesize": 397,
-   "timestamp": "1998-01-22"
-  },
-  "Nike.ico": {
-   "filesize": 2998,
-   "timestamp": "1997-12-22"
-  },
-  "Pak0.pak": {
-   "filesize": 10608672,
-   "timestamp": "1998-01-20"
-  },
-  "nike.txt": {
-   "filesize": 24579,
-   "timestamp": "1998-01-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/nike.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ed76f7b4edfbb54e556ecf84f543a4ea7f2faf80f44b396d25155f93d7dff722/nike.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

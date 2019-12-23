@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7",
  "filename": [
   "ac.zip"
  ],
+ "files": {
+  "ac.bsp": {
+   "filesize": 4066412,
+   "timestamp": "2004-03-04"
+  },
+  "ac.txt": {
+   "filesize": 3919,
+   "timestamp": "2004-03-03"
+  },
+  "acstart.bsp": {
+   "filesize": 491692,
+   "timestamp": "2004-03-02"
+  }
+ },
  "filesize": 1762,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7",
  "tags": [
   "title:Adamantine Cruelty",
   "releasedate:2004-03-04",
@@ -24,25 +40,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:acstart"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "acstart.bsp": {
-   "filesize": 491692,
-   "timestamp": "2004-03-02"
-  },
-  "ac.txt": {
-   "filesize": 3919,
-   "timestamp": "2004-03-03"
-  },
-  "ac.bsp": {
-   "filesize": 4066412,
-   "timestamp": "2004-03-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ac.zip",
   "https://www.quaddicted.com/files/by-sha256/5/53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7/ac.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

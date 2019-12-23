@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ebcb2839f78cbcb96b5b76806f92ae0be99171ea0587281f82a2b758292360c1",
  "filename": [
   "v6.zip"
  ],
+ "files": {
+  "pak0.PAK": {
+   "filesize": 3448948,
+   "timestamp": "1997-08-04"
+  },
+  "v6.txt": {
+   "filesize": 5286,
+   "timestamp": "1997-08-04"
+  }
+ },
  "filesize": 1300,
+ "install": {
+  "extract": "{quake}/v6/"
+ },
+ "sha256": "ebcb2839f78cbcb96b5b76806f92ae0be99171ea0587281f82a2b758292360c1",
  "tags": [
   "title:Vivisect Six",
   "releasedate:1997-08-01",
@@ -16,21 +28,9 @@
   "tag:monsters",
   "tag:nonlinear"
  ],
- "install": {
-  "extract": "{quake}/v6/"
- },
- "files": {
-  "pak0.PAK": {
-   "filesize": 3448948,
-   "timestamp": "1997-08-04"
-  },
-  "v6.txt": {
-   "filesize": 5286,
-   "timestamp": "1997-08-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/v6.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ebcb2839f78cbcb96b5b76806f92ae0be99171ea0587281f82a2b758292360c1/v6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "07e9bb55fbb664e47414cb576ea0213570664838703f9ef978dea456c67ff4ae",
  "filename": [
   "discord.zip"
  ],
+ "files": {
+  "discord.bsp": {
+   "filesize": 1147328,
+   "timestamp": "1997-08-18"
+  },
+  "discord.txt": {
+   "filesize": 1433,
+   "timestamp": "1997-08-18"
+  }
+ },
  "filesize": 454,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "07e9bb55fbb664e47414cb576ea0213570664838703f9ef978dea456c67ff4ae",
  "tags": [
   "title:Discordia",
   "releasedate:1997-08-18",
@@ -17,21 +29,9 @@
   "tag:short",
   "tag:qtwid"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "discord.txt": {
-   "filesize": 1433,
-   "timestamp": "1997-08-18"
-  },
-  "discord.bsp": {
-   "filesize": 1147328,
-   "timestamp": "1997-08-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/discord.zip",
   "https://www.quaddicted.com/files/by-sha256/0/07e9bb55fbb664e47414cb576ea0213570664838703f9ef978dea456c67ff4ae/discord.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

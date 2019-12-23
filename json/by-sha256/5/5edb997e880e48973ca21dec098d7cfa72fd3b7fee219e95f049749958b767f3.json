@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "5edb997e880e48973ca21dec098d7cfa72fd3b7fee219e95f049749958b767f3",
  "filename": [
   "sm104_pack.zip"
  ],
+ "files": {
+  "sm104_chop.bsp": {
+   "filesize": 719804,
+   "timestamp": "2004-03-21"
+  },
+  "sm104_drew.bsp": {
+   "filesize": 852488,
+   "timestamp": "2005-09-17"
+  },
+  "sm104_generic.bsp": {
+   "filesize": 632920,
+   "timestamp": "2004-03-20"
+  },
+  "sm104_hrim.bsp": {
+   "filesize": 1476652,
+   "timestamp": "2005-09-18"
+  },
+  "sm104_neg!ke.bsp": {
+   "filesize": 543920,
+   "timestamp": "2005-09-17"
+  },
+  "sm104_pack.txt": {
+   "filesize": 1623,
+   "timestamp": "2004-03-22"
+  },
+  "sm104_tron.bsp": {
+   "filesize": 384316,
+   "timestamp": "2005-09-19"
+  },
+  "sm104_tron.txt": {
+   "filesize": 584,
+   "timestamp": "2005-09-19"
+  }
+ },
  "filesize": 1764,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5edb997e880e48973ca21dec098d7cfa72fd3b7fee219e95f049749958b767f3",
  "tags": [
   "title:Speedmapping pack 104 - Secret Maps",
   "releasedate:2005-09-19",
@@ -25,45 +61,9 @@
   "startmap:sm104_hrim",
   "startmap:sm104_generic"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm104_pack.txt": {
-   "filesize": 1623,
-   "timestamp": "2004-03-22"
-  },
-  "sm104_drew.bsp": {
-   "filesize": 852488,
-   "timestamp": "2005-09-17"
-  },
-  "sm104_chop.bsp": {
-   "filesize": 719804,
-   "timestamp": "2004-03-21"
-  },
-  "sm104_tron.bsp": {
-   "filesize": 384316,
-   "timestamp": "2005-09-19"
-  },
-  "sm104_tron.txt": {
-   "filesize": 584,
-   "timestamp": "2005-09-19"
-  },
-  "sm104_hrim.bsp": {
-   "filesize": 1476652,
-   "timestamp": "2005-09-18"
-  },
-  "sm104_neg!ke.bsp": {
-   "filesize": 543920,
-   "timestamp": "2005-09-17"
-  },
-  "sm104_generic.bsp": {
-   "filesize": 632920,
-   "timestamp": "2004-03-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm104_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5edb997e880e48973ca21dec098d7cfa72fd3b7fee219e95f049749958b767f3/sm104_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

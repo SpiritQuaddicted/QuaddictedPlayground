@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "6308785a00050879ca77a0146a88677e4ff51caa0113a2e36c8f5cb20c88789d",
  "filename": [
   "brt08hip.zip"
  ],
+ "files": {
+  "brt08hip.bsp": {
+   "filesize": 1484988,
+   "timestamp": "1999-04-06"
+  },
+  "brt08hip.txt": {
+   "filesize": 2056,
+   "timestamp": "2002-01-22"
+  }
+ },
  "filesize": 591,
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "sha256": "6308785a00050879ca77a0146a88677e4ff51caa0113a2e36c8f5cb20c88789d",
  "tags": [
   "title:brt08hip",
   "releasedate:2002-01-22",
@@ -20,21 +32,9 @@
   "tag:soa",
   "dependency:hipnotic"
  ],
- "install": {
-  "extract": "{quake}/hipnotic/maps/"
- },
- "files": {
-  "brt08hip.bsp": {
-   "filesize": 1484988,
-   "timestamp": "1999-04-06"
-  },
-  "brt08hip.txt": {
-   "filesize": 2056,
-   "timestamp": "2002-01-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/brt08hip.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6308785a00050879ca77a0146a88677e4ff51caa0113a2e36c8f5cb20c88789d/brt08hip.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,27 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "cf3072498ee371b48b2c3ebf088e998fe2341a2c58d87a1d8a6c0a208afb8d70",
  "filename": [
   "mungo.zip"
  ],
- "filesize": 1321,
- "tags": [
-  "title:Power Plant",
-  "releasedate:1997-08-23",
-  "game:quake",
-  "commandline:-hipnotic",
-  "author:Bryan L. aka Mungo",
-  "tag:base",
-  "tag:mp1",
-  "tag:medium",
-  "tag:soa",
-  "tag:hipnotic",
-  "tag:demo",
-  "dependency:hipnotic"
- ],
- "install": {
-  "extract": "{quake}/hipnotic/maps/"
- },
  "files": {
   "MUNGO.BSP": {
    "filesize": 2529420,
@@ -36,8 +16,28 @@
    "timestamp": "1997-08-23"
   }
  },
+ "filesize": 1321,
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "sha256": "cf3072498ee371b48b2c3ebf088e998fe2341a2c58d87a1d8a6c0a208afb8d70",
+ "tags": [
+  "title:Power Plant",
+  "releasedate:1997-08-23",
+  "game:quake",
+  "commandline:-hipnotic",
+  "author:Bryan L. aka Mungo",
+  "tag:base",
+  "tag:mp1",
+  "tag:medium",
+  "tag:soa",
+  "tag:hipnotic",
+  "tag:demo",
+  "dependency:hipnotic"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mungo.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cf3072498ee371b48b2c3ebf088e998fe2341a2c58d87a1d8a6c0a208afb8d70/mungo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

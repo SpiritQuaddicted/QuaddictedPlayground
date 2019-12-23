@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "be747ef75bce8076acffa72172beee964ab26869d7e666c67ba0f08efdf3363e",
  "filename": [
   "frcastle.zip"
  ],
+ "files": {
+  "frcastle.TXT": {
+   "filesize": 788,
+   "timestamp": "1996-10-24"
+  },
+  "frcastle.bsp": {
+   "filesize": 780860,
+   "timestamp": "1996-10-24"
+  }
+ },
  "filesize": 321,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "be747ef75bce8076acffa72172beee964ab26869d7e666c67ba0f08efdf3363e",
  "tags": [
   "title:Fear Castle",
   "releasedate:1996-10-24",
@@ -17,21 +29,9 @@
   "tag:dark",
   "tag:old version"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "frcastle.bsp": {
-   "filesize": 780860,
-   "timestamp": "1996-10-24"
-  },
-  "frcastle.TXT": {
-   "filesize": 788,
-   "timestamp": "1996-10-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/frcastle.zip",
   "https://www.quaddicted.com/files/by-sha256/b/be747ef75bce8076acffa72172beee964ab26869d7e666c67ba0f08efdf3363e/frcastle.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

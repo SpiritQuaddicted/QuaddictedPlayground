@@ -1,98 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af",
  "filename": [
   "sop123.zip"
  ],
- "filesize": 6111,
- "tags": [
-  "title:The Source of Power",
-  "releasedate:1999-08-01",
-  "game:quake",
-  "commandline:-game sop",
-  "author:Graham Davis (OrbItaL)",
-  "tag:mini episode",
-  "tag:monsters",
-  "startmap:start"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
-  "sop123_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "sop/sopv2.txt": {
-   "filesize": 11192,
-   "timestamp": "1999-08-01"
-  },
-  "sop/SOPv1.TXT": {
-   "filesize": 3960,
-   "timestamp": "1997-12-17"
-  },
-  "sop/sound/MISC/Shortexp.wav": {
-   "filesize": 27562,
-   "timestamp": "1996-01-01"
-  },
-  "sop/sound/MISC/rumble.wav": {
-   "filesize": 53068,
-   "timestamp": "1996-01-01"
-  },
   "sop/Config.cfg": {
    "filesize": 2159,
-   "timestamp": "1999-08-01"
-  },
-  "sop/sopv3.txt": {
-   "filesize": 4575,
-   "timestamp": "1999-08-01"
-  },
-  "sop/progs.dat": {
-   "filesize": 567260,
    "timestamp": "1999-08-01"
   },
   "sop/IMPORTANT!.txt": {
    "filesize": 985,
    "timestamp": "1999-08-01"
   },
+  "sop/SOPv1.TXT": {
+   "filesize": 3960,
+   "timestamp": "1997-12-17"
+  },
   "sop/pak0.pak": {
    "filesize": 15580537,
+   "timestamp": "1999-08-01"
+  },
+  "sop/progs.dat": {
+   "filesize": 567260,
    "timestamp": "1999-08-01"
   },
   "sop/progs/arrow.mdl": {
    "filesize": 12161,
    "timestamp": "1999-08-01"
   },
-  "sop/progs/servobod.mdl": {
-   "filesize": 219324,
+  "sop/progs/babysham.mdl": {
+   "filesize": 98556,
    "timestamp": "1999-08-01"
   },
   "sop/progs/beam.mdl": {
    "filesize": 10608,
    "timestamp": "1999-08-01"
   },
-  "sop/progs/s_null.spr": {
-   "filesize": 56,
-   "timestamp": "1999-08-01"
-  },
-  "sop/progs/h_servo.mdl": {
-   "filesize": 159656,
-   "timestamp": "1999-08-01"
-  },
   "sop/progs/beamhit.spr": {
    "filesize": 5320,
    "timestamp": "1999-08-01"
   },
-  "sop/progs/g_beam.mdl": {
-   "filesize": 68996,
+  "sop/progs/bs_light.mdl": {
+   "filesize": 28707,
    "timestamp": "1999-08-01"
   },
   "sop/progs/candle.mdl": {
    "filesize": 21476,
-   "timestamp": "1999-08-01"
-  },
-  "sop/progs/v_beam.mdl": {
-   "filesize": 75588,
    "timestamp": "1999-08-01"
   },
   "sop/progs/dring.spr": {
@@ -103,53 +55,101 @@
    "filesize": 127672,
    "timestamp": "1999-08-01"
   },
+  "sop/progs/g_beam.mdl": {
+   "filesize": 68996,
+   "timestamp": "1999-08-01"
+  },
   "sop/progs/h_bsham.mdl": {
    "filesize": 37447,
    "timestamp": "1999-08-01"
   },
-  "sop/progs/v_beam2.mdl": {
-   "filesize": 75588,
+  "sop/progs/h_servo.mdl": {
+   "filesize": 159656,
    "timestamp": "1999-08-01"
   },
   "sop/progs/player.mdl": {
    "filesize": 191852,
    "timestamp": "1999-08-01"
   },
-  "sop/progs/servodie.mdl": {
-   "filesize": 444399,
-   "timestamp": "1999-08-01"
-  },
   "sop/progs/rubble1.mdl": {
    "filesize": 69839,
-   "timestamp": "1999-08-01"
-  },
-  "sop/progs/babysham.mdl": {
-   "filesize": 98556,
-   "timestamp": "1999-08-01"
-  },
-  "sop/progs/servoleg.mdl": {
-   "filesize": 178044,
-   "timestamp": "1999-08-01"
-  },
-  "sop/progs/bs_light.mdl": {
-   "filesize": 28707,
    "timestamp": "1999-08-01"
   },
   "sop/progs/rubble2.mdl": {
    "filesize": 200266,
    "timestamp": "1999-08-01"
   },
+  "sop/progs/rubble3.mdl": {
+   "filesize": 303486,
+   "timestamp": "1999-08-01"
+  },
+  "sop/progs/s_null.spr": {
+   "filesize": 56,
+   "timestamp": "1999-08-01"
+  },
+  "sop/progs/servobod.mdl": {
+   "filesize": 219324,
+   "timestamp": "1999-08-01"
+  },
+  "sop/progs/servodie.mdl": {
+   "filesize": 444399,
+   "timestamp": "1999-08-01"
+  },
+  "sop/progs/servoleg.mdl": {
+   "filesize": 178044,
+   "timestamp": "1999-08-01"
+  },
+  "sop/progs/v_beam.mdl": {
+   "filesize": 75588,
+   "timestamp": "1999-08-01"
+  },
+  "sop/progs/v_beam2.mdl": {
+   "filesize": 75588,
+   "timestamp": "1999-08-01"
+  },
   "sop/progs/weather.spr": {
    "filesize": 66164,
    "timestamp": "1999-08-01"
   },
-  "sop/progs/rubble3.mdl": {
-   "filesize": 303486,
+  "sop/sopv2.txt": {
+   "filesize": 11192,
    "timestamp": "1999-08-01"
+  },
+  "sop/sopv3.txt": {
+   "filesize": 4575,
+   "timestamp": "1999-08-01"
+  },
+  "sop/sound/MISC/Shortexp.wav": {
+   "filesize": 27562,
+   "timestamp": "1996-01-01"
+  },
+  "sop/sound/MISC/rumble.wav": {
+   "filesize": 53068,
+   "timestamp": "1996-01-01"
+  },
+  "sop123_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
   }
  },
+ "filesize": 6111,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af",
+ "tags": [
+  "title:The Source of Power",
+  "releasedate:1999-08-01",
+  "game:quake",
+  "commandline:-game sop",
+  "author:Graham Davis (OrbItaL)",
+  "tag:mini episode",
+  "tag:monsters",
+  "startmap:start"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sop123.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af/sop123.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "2a36f481d3112c283c0bedd16d2bb385ed647f8259b13dbd58cd2e5f295f9844",
  "filename": [
   "pabc5.zip"
  ],
+ "files": {
+  "PABC5.bsp": {
+   "filesize": 1400420,
+   "timestamp": "1998-09-06"
+  }
+ },
  "filesize": 568,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2a36f481d3112c283c0bedd16d2bb385ed647f8259b13dbd58cd2e5f295f9844",
  "tags": [
   "title:Fortress Filbert",
   "releasedate:1998-09-06",
@@ -14,17 +22,9 @@
   "tag:wizard",
   "tag:puzzle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PABC5.bsp": {
-   "filesize": 1400420,
-   "timestamp": "1998-09-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pabc5.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2a36f481d3112c283c0bedd16d2bb385ed647f8259b13dbd58cd2e5f295f9844/pabc5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

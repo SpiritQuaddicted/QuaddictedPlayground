@@ -1,10 +1,106 @@
 {
- "version": "20191222-0",
- "sha256": "6d11eba874d42d1e7480b86d265daeca25465d46e515acbdfa41ec63d68d59f8",
  "filename": [
   "100b3.zip"
  ],
+ "files": {
+  "100b3_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  },
+  "bigbg.gif": {
+   "filesize": 179,
+   "timestamp": "2002-04-11"
+  },
+  "bottom.gif": {
+   "filesize": 217,
+   "timestamp": "2002-04-11"
+  },
+  "darkbg2.gif": {
+   "filesize": 80,
+   "timestamp": "2002-04-11"
+  },
+  "dis_cr8z.bsp": {
+   "filesize": 1731064,
+   "timestamp": "2002-04-27"
+  },
+  "dis_cr8z.map": {
+   "filesize": 130248,
+   "timestamp": "2002-04-27"
+  },
+  "dis_cr8z.txt": {
+   "filesize": 4687,
+   "timestamp": "2002-04-27"
+  },
+  "dismemberedcrates.jpg": {
+   "filesize": 8506,
+   "timestamp": "2002-06-09"
+  },
+  "firedice.bsp": {
+   "filesize": 553776,
+   "timestamp": "2002-04-25"
+  },
+  "firedice.jpg": {
+   "filesize": 6523,
+   "timestamp": "2002-06-09"
+  },
+  "firedice.map": {
+   "filesize": 93771,
+   "timestamp": "2002-04-25"
+  },
+  "firedice.txt": {
+   "filesize": 2940,
+   "timestamp": "2002-04-25"
+  },
+  "ne_100b3.bsp": {
+   "filesize": 2353056,
+   "timestamp": "2002-05-02"
+  },
+  "ne_100b3.map": {
+   "filesize": 51071,
+   "timestamp": "2002-05-02"
+  },
+  "results.html": {
+   "filesize": 8063,
+   "timestamp": "2002-06-09"
+  },
+  "rpg100b1.bsp": {
+   "filesize": 1210036,
+   "timestamp": "2002-04-30"
+  },
+  "rpg100b1.map": {
+   "filesize": 169316,
+   "timestamp": "2002-04-30"
+  },
+  "rpg100b1.txt": {
+   "filesize": 6550,
+   "timestamp": "2002-04-30"
+  },
+  "s4wk.jpg": {
+   "filesize": 12033,
+   "timestamp": "2002-06-09"
+  },
+  "smallbg.gif": {
+   "filesize": 118,
+   "timestamp": "2002-05-11"
+  },
+  "smallfern.gif": {
+   "filesize": 1981,
+   "timestamp": "2001-12-30"
+  },
+  "title.gif": {
+   "filesize": 8431,
+   "timestamp": "2002-04-11"
+  },
+  "worthlesssolidbrickofshit.jpg": {
+   "filesize": 6569,
+   "timestamp": "2002-06-09"
+  }
+ },
  "filesize": 2404,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6d11eba874d42d1e7480b86d265daeca25465d46e515acbdfa41ec63d68d59f8",
  "tags": [
   "title:100 Brush Competition #3",
   "releasedate:2002-06-09",
@@ -25,105 +121,9 @@
   "startmap:ne_100b3",
   "startmap:rpg100b1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dis_cr8z.map": {
-   "filesize": 130248,
-   "timestamp": "2002-04-27"
-  },
-  "smallbg.gif": {
-   "filesize": 118,
-   "timestamp": "2002-05-11"
-  },
-  "ne_100b3.map": {
-   "filesize": 51071,
-   "timestamp": "2002-05-02"
-  },
-  "firedice.jpg": {
-   "filesize": 6523,
-   "timestamp": "2002-06-09"
-  },
-  "worthlesssolidbrickofshit.jpg": {
-   "filesize": 6569,
-   "timestamp": "2002-06-09"
-  },
-  "s4wk.jpg": {
-   "filesize": 12033,
-   "timestamp": "2002-06-09"
-  },
-  "bigbg.gif": {
-   "filesize": 179,
-   "timestamp": "2002-04-11"
-  },
-  "rpg100b1.map": {
-   "filesize": 169316,
-   "timestamp": "2002-04-30"
-  },
-  "100b3_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "darkbg2.gif": {
-   "filesize": 80,
-   "timestamp": "2002-04-11"
-  },
-  "rpg100b1.bsp": {
-   "filesize": 1210036,
-   "timestamp": "2002-04-30"
-  },
-  "dis_cr8z.txt": {
-   "filesize": 4687,
-   "timestamp": "2002-04-27"
-  },
-  "rpg100b1.txt": {
-   "filesize": 6550,
-   "timestamp": "2002-04-30"
-  },
-  "bottom.gif": {
-   "filesize": 217,
-   "timestamp": "2002-04-11"
-  },
-  "title.gif": {
-   "filesize": 8431,
-   "timestamp": "2002-04-11"
-  },
-  "firedice.txt": {
-   "filesize": 2940,
-   "timestamp": "2002-04-25"
-  },
-  "firedice.bsp": {
-   "filesize": 553776,
-   "timestamp": "2002-04-25"
-  },
-  "results.html": {
-   "filesize": 8063,
-   "timestamp": "2002-06-09"
-  },
-  "dismemberedcrates.jpg": {
-   "filesize": 8506,
-   "timestamp": "2002-06-09"
-  },
-  "ne_100b3.bsp": {
-   "filesize": 2353056,
-   "timestamp": "2002-05-02"
-  },
-  "firedice.map": {
-   "filesize": 93771,
-   "timestamp": "2002-04-25"
-  },
-  "smallfern.gif": {
-   "filesize": 1981,
-   "timestamp": "2001-12-30"
-  },
-  "dis_cr8z.bsp": {
-   "filesize": 1731064,
-   "timestamp": "2002-04-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/100b3.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6d11eba874d42d1e7480b86d265daeca25465d46e515acbdfa41ec63d68d59f8/100b3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

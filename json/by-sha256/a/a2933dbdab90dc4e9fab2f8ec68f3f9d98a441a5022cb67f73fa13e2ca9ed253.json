@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "a2933dbdab90dc4e9fab2f8ec68f3f9d98a441a5022cb67f73fa13e2ca9ed253",
  "filename": [
   "elsinore.zip"
  ],
+ "files": {
+  "elsinore.bsp": {
+   "filesize": 2175824,
+   "timestamp": "1997-10-16"
+  },
+  "elsinore.txt": {
+   "filesize": 2778,
+   "timestamp": "1997-10-16"
+  }
+ },
  "filesize": 969,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a2933dbdab90dc4e9fab2f8ec68f3f9d98a441a5022cb67f73fa13e2ca9ed253",
  "tags": [
   "title:Elsinore",
   "releasedate:1997-10-16",
@@ -15,21 +27,9 @@
   "tag:castle",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "elsinore.txt": {
-   "filesize": 2778,
-   "timestamp": "1997-10-16"
-  },
-  "elsinore.bsp": {
-   "filesize": 2175824,
-   "timestamp": "1997-10-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/elsinore.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a2933dbdab90dc4e9fab2f8ec68f3f9d98a441a5022cb67f73fa13e2ca9ed253/elsinore.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

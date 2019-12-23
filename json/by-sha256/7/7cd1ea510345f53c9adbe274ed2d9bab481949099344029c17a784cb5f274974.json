@@ -1,10 +1,58 @@
 {
- "version": "20191222-0",
- "sha256": "7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974",
  "filename": [
   "sm56_pack.zip"
  ],
+ "files": {
+  "SM56_PuLSaR.bsp": {
+   "filesize": 457532,
+   "timestamp": "1997-06-14"
+  },
+  "sm56_czg.bsp": {
+   "filesize": 568580,
+   "timestamp": "2001-09-20"
+  },
+  "sm56_hrim.bsp": {
+   "filesize": 385760,
+   "timestamp": "2003-11-08"
+  },
+  "sm56_lev.bsp": {
+   "filesize": 390700,
+   "timestamp": "2003-11-04"
+  },
+  "sm56_lev.txt": {
+   "filesize": 1786,
+   "timestamp": "2003-11-06"
+  },
+  "sm56_moz1.bsp": {
+   "filesize": 306832,
+   "timestamp": "2001-09-05"
+  },
+  "sm56_moz2.bsp": {
+   "filesize": 290560,
+   "timestamp": "2001-09-05"
+  },
+  "sm56_pack.txt": {
+   "filesize": 1926,
+   "timestamp": "2001-09-05"
+  },
+  "sm56_rpg.bsp": {
+   "filesize": 630488,
+   "timestamp": "2003-11-06"
+  },
+  "sm56_scampie.bsp": {
+   "filesize": 385364,
+   "timestamp": "2001-09-05"
+  },
+  "sm56_xen.bsp": {
+   "filesize": 807592,
+   "timestamp": "2003-11-09"
+  }
+ },
  "filesize": 1754,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974",
  "tags": [
   "title:Speedmapping pack 56 - Episode 2 (The 4 Seasons of Quake #2)",
   "releasedate:2003-11-09",
@@ -28,57 +76,9 @@
   "startmap:sm56_scampie",
   "startmap:sm56_xen"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm56_scampie.bsp": {
-   "filesize": 385364,
-   "timestamp": "2001-09-05"
-  },
-  "sm56_pack.txt": {
-   "filesize": 1926,
-   "timestamp": "2001-09-05"
-  },
-  "sm56_lev.txt": {
-   "filesize": 1786,
-   "timestamp": "2003-11-06"
-  },
-  "SM56_PuLSaR.bsp": {
-   "filesize": 457532,
-   "timestamp": "1997-06-14"
-  },
-  "sm56_hrim.bsp": {
-   "filesize": 385760,
-   "timestamp": "2003-11-08"
-  },
-  "sm56_moz2.bsp": {
-   "filesize": 290560,
-   "timestamp": "2001-09-05"
-  },
-  "sm56_xen.bsp": {
-   "filesize": 807592,
-   "timestamp": "2003-11-09"
-  },
-  "sm56_lev.bsp": {
-   "filesize": 390700,
-   "timestamp": "2003-11-04"
-  },
-  "sm56_czg.bsp": {
-   "filesize": 568580,
-   "timestamp": "2001-09-20"
-  },
-  "sm56_moz1.bsp": {
-   "filesize": 306832,
-   "timestamp": "2001-09-05"
-  },
-  "sm56_rpg.bsp": {
-   "filesize": 630488,
-   "timestamp": "2003-11-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm56_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974/sm56_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

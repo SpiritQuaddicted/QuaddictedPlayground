@@ -1,19 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "7a8acbdb483074b350337ab271c38ffa5954d65a5f577f8cb45365ad58bc7905",
  "filename": [
   "winbbcoh.zip"
  ],
- "filesize": 3011,
- "tags": [
-  "title:Barbican Of Hell",
-  "releasedate:2019-06-13",
-  "game:quake",
-  "author:Windaws"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "wads/medieval.wad": {
    "filesize": 2776400,
@@ -44,8 +32,20 @@
    "timestamp": "2019-06-13"
   }
  },
+ "filesize": 3011,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7a8acbdb483074b350337ab271c38ffa5954d65a5f577f8cb45365ad58bc7905",
+ "tags": [
+  "title:Barbican Of Hell",
+  "releasedate:2019-06-13",
+  "game:quake",
+  "author:Windaws"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/winbbcoh.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7a8acbdb483074b350337ab271c38ffa5954d65a5f577f8cb45365ad58bc7905/winbbcoh.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

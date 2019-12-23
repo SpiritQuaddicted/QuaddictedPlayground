@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c2eccbab10aca3c6b35da6c67d3131eee7e811c962e277473a96c3209ee65345",
  "filename": [
   "tohnsay.zip"
  ],
- "filesize": 828,
- "tags": [
-  "title:The Tohnsay Predicament",
-  "releasedate:1997-12-20",
-  "game:quake",
-  "author:John Dreese",
-  "tag:medium",
-  "tag:cavern",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "TOHNSAY.BSP": {
    "filesize": 1934712,
@@ -27,8 +12,23 @@
    "timestamp": "1997-12-20"
   }
  },
+ "filesize": 828,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c2eccbab10aca3c6b35da6c67d3131eee7e811c962e277473a96c3209ee65345",
+ "tags": [
+  "title:The Tohnsay Predicament",
+  "releasedate:1997-12-20",
+  "game:quake",
+  "author:John Dreese",
+  "tag:medium",
+  "tag:cavern",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/tohnsay.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c2eccbab10aca3c6b35da6c67d3131eee7e811c962e277473a96c3209ee65345/tohnsay.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

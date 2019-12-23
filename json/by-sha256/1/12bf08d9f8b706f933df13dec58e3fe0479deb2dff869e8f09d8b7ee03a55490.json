@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "12bf08d9f8b706f933df13dec58e3fe0479deb2dff869e8f09d8b7ee03a55490",
  "filename": [
   "titerope.zip"
  ],
- "filesize": 77,
- "tags": [
-  "title:Tightrope",
-  "releasedate:1996-10-07",
-  "game:quake",
-  "author:Glenn Ancheta",
-  "tag:small",
-  "tag:wizard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "TITEROPE.BSP": {
    "filesize": 208200,
@@ -26,8 +12,22 @@
    "timestamp": "1996-10-07"
   }
  },
+ "filesize": 77,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "12bf08d9f8b706f933df13dec58e3fe0479deb2dff869e8f09d8b7ee03a55490",
+ "tags": [
+  "title:Tightrope",
+  "releasedate:1996-10-07",
+  "game:quake",
+  "author:Glenn Ancheta",
+  "tag:small",
+  "tag:wizard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/titerope.zip",
   "https://www.quaddicted.com/files/by-sha256/1/12bf08d9f8b706f933df13dec58e3fe0479deb2dff869e8f09d8b7ee03a55490/titerope.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

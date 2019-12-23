@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8",
  "filename": [
   "k_dark1b.zip"
  ],
- "filesize": 346,
- "tags": [
-  "title:Keep it dark!",
-  "releasedate:1996-08-12",
-  "game:quake",
-  "author:Ludovic Texier",
-  "tag:small",
-  "tag:dm",
-  "startmap:k_dark1"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "K_DARK1.BSP": {
    "filesize": 814300,
@@ -27,8 +12,23 @@
    "timestamp": "1996-08-12"
   }
  },
+ "filesize": 346,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8",
+ "tags": [
+  "title:Keep it dark!",
+  "releasedate:1996-08-12",
+  "game:quake",
+  "author:Ludovic Texier",
+  "tag:small",
+  "tag:dm",
+  "startmap:k_dark1"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/k_dark1b.zip",
   "https://www.quaddicted.com/files/by-sha256/7/747d91af9a4f1284579843f22addeaac93ca3a0ce25e68591b802293e51a93c8/k_dark1b.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

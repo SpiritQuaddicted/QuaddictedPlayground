@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "1871d2de108ec2c58d697a25f7314281bfbb074840ab459c3f7530da4425e727",
  "filename": [
   "hellchepsout.zip"
  ],
+ "files": {
+  "Hellchepsout.txt": {
+   "filesize": 2685,
+   "timestamp": "2004-05-12"
+  },
+  "hellchepsout.bsp": {
+   "filesize": 2149252,
+   "timestamp": "2004-05-13"
+  },
+  "hellchepsout.lit": {
+   "filesize": 1607873,
+   "timestamp": "2004-05-13"
+  }
+ },
  "filesize": 989,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1871d2de108ec2c58d697a25f7314281bfbb074840ab459c3f7530da4425e727",
  "tags": [
   "title:Hatchepsout: The Hell Temple",
   "releasedate:2004-05-13",
@@ -14,25 +30,9 @@
   "tag:temple",
   "tag:small"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "hellchepsout.lit": {
-   "filesize": 1607873,
-   "timestamp": "2004-05-13"
-  },
-  "Hellchepsout.txt": {
-   "filesize": 2685,
-   "timestamp": "2004-05-12"
-  },
-  "hellchepsout.bsp": {
-   "filesize": 2149252,
-   "timestamp": "2004-05-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hellchepsout.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1871d2de108ec2c58d697a25f7314281bfbb074840ab459c3f7530da4425e727/hellchepsout.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

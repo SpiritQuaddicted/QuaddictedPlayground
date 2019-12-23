@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5",
  "filename": [
   "tefdbl2a.zip"
  ],
+ "files": {
+  "monsters.zip": {
+   "filesize": 12882,
+   "timestamp": "1997-05-15"
+  },
+  "pak1.pak": {
+   "filesize": 6228196,
+   "timestamp": "1997-07-01"
+  },
+  "tefdbl2.txt": {
+   "filesize": 10646,
+   "timestamp": "1997-05-20"
+  }
+ },
  "filesize": 2798,
+ "install": {
+  "extract": "{quake}/tefdb2a/"
+ },
+ "sha256": "b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5",
  "tags": [
   "title:Into Oblivion/Nostalgia",
   "releasedate:1997-07-01",
@@ -20,25 +36,9 @@
   "dependency:hipnotic",
   "startmap:tef_io"
  ],
- "install": {
-  "extract": "{quake}/tefdb2a/"
- },
- "files": {
-  "pak1.pak": {
-   "filesize": 6228196,
-   "timestamp": "1997-07-01"
-  },
-  "monsters.zip": {
-   "filesize": 12882,
-   "timestamp": "1997-05-15"
-  },
-  "tefdbl2.txt": {
-   "filesize": 10646,
-   "timestamp": "1997-05-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tefdbl2a.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5/tefdbl2a.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

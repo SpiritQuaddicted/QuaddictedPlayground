@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "b5151ffc12194df5f7221050a468573363d3e9fc4839472a92c9014456593cda",
  "filename": [
   "sadlark2.zip"
  ],
+ "files": {
+  "sadlark2.bsp": {
+   "filesize": 2040976,
+   "timestamp": "1997-06-04"
+  },
+  "sadlark2.txt": {
+   "filesize": 1859,
+   "timestamp": "1997-08-04"
+  }
+ },
  "filesize": 927,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b5151ffc12194df5f7221050a468573363d3e9fc4839472a92c9014456593cda",
  "tags": [
   "title:The house of Sadlark (2)",
   "releasedate:1997-08-04",
@@ -18,21 +30,9 @@
   "tag:exploration",
   "tag:secrets"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sadlark2.txt": {
-   "filesize": 1859,
-   "timestamp": "1997-08-04"
-  },
-  "sadlark2.bsp": {
-   "filesize": 2040976,
-   "timestamp": "1997-06-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark2.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b5151ffc12194df5f7221050a468573363d3e9fc4839472a92c9014456593cda/sadlark2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

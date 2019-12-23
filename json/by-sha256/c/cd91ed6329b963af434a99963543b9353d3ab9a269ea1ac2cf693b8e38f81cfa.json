@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "cd91ed6329b963af434a99963543b9353d3ab9a269ea1ac2cf693b8e38f81cfa",
  "filename": [
   "chapters.zip"
  ],
+ "files": {
+  "chapters/chapter_vondur.txt": {
+   "filesize": 3728,
+   "timestamp": "2005-01-25"
+  },
+  "chapters/chapters.txt": {
+   "filesize": 3495,
+   "timestamp": "2005-05-29"
+  },
+  "chapters/chapters_zwei.txt": {
+   "filesize": 1104,
+   "timestamp": "2005-02-23"
+  },
+  "chapters/pak0.pak": {
+   "filesize": 41693519,
+   "timestamp": "2005-05-29"
+  }
+ },
  "filesize": 15473,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "cd91ed6329b963af434a99963543b9353d3ab9a269ea1ac2cf693b8e38f81cfa",
  "tags": [
   "title:Contract Revoked: The Lost Chapters",
   "releasedate:2005-05-29",
@@ -32,29 +52,9 @@
   "startmap:chapter_finale",
   "startmap:chapter_secret"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "chapters/chapter_vondur.txt": {
-   "filesize": 3728,
-   "timestamp": "2005-01-25"
-  },
-  "chapters/chapters.txt": {
-   "filesize": 3495,
-   "timestamp": "2005-05-29"
-  },
-  "chapters/chapters_zwei.txt": {
-   "filesize": 1104,
-   "timestamp": "2005-02-23"
-  },
-  "chapters/pak0.pak": {
-   "filesize": 41693519,
-   "timestamp": "2005-05-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/chapters.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cd91ed6329b963af434a99963543b9353d3ab9a269ea1ac2cf693b8e38f81cfa/chapters.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

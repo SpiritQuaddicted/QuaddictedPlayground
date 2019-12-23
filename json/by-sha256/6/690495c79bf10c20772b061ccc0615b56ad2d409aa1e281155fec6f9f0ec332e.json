@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "690495c79bf10c20772b061ccc0615b56ad2d409aa1e281155fec6f9f0ec332e",
  "filename": [
   "thefly.zip"
  ],
- "filesize": 815,
- "tags": [
-  "title:The Fly",
-  "releasedate:1997-08-31",
-  "game:quake",
-  "author:Markus Klar",
-  "tag:dark"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "thefly.bsp": {
    "filesize": 1979896,
@@ -25,8 +12,21 @@
    "timestamp": "1997-08-31"
   }
  },
+ "filesize": 815,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "690495c79bf10c20772b061ccc0615b56ad2d409aa1e281155fec6f9f0ec332e",
+ "tags": [
+  "title:The Fly",
+  "releasedate:1997-08-31",
+  "game:quake",
+  "author:Markus Klar",
+  "tag:dark"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/thefly.zip",
   "https://www.quaddicted.com/files/by-sha256/6/690495c79bf10c20772b061ccc0615b56ad2d409aa1e281155fec6f9f0ec332e/thefly.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,28 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491",
  "filename": [
   "torment.zip"
  ],
- "filesize": 5225,
- "tags": [
-  "title:Tormentarium",
-  "releasedate:2012-09-02",
-  "game:quake",
-  "commandline:-game torro",
-  "author:Madfox",
-  "tag:large",
-  "tag:metal",
-  "tag:industrial",
-  "tag:machines",
-  "tag:models",
-  "tag:pipes",
-  "tag:sewer",
-  "startmap:tormentarium"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "torro/pak0.pak": {
    "filesize": 14076624,
@@ -41,8 +20,29 @@
    "timestamp": "2012-07-16"
   }
  },
+ "filesize": 5225,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491",
+ "tags": [
+  "title:Tormentarium",
+  "releasedate:2012-09-02",
+  "game:quake",
+  "commandline:-game torro",
+  "author:Madfox",
+  "tag:large",
+  "tag:metal",
+  "tag:industrial",
+  "tag:machines",
+  "tag:models",
+  "tag:pipes",
+  "tag:sewer",
+  "startmap:tormentarium"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/torment.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491/torment.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

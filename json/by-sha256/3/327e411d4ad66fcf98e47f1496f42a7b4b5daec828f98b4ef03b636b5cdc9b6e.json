@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "327e411d4ad66fcf98e47f1496f42a7b4b5daec828f98b4ef03b636b5cdc9b6e",
  "filename": [
   "twxfinal.zip"
  ],
+ "files": {
+  "PAK0.PAK": {
+   "filesize": 7153435,
+   "timestamp": "1997-12-22"
+  },
+  "README.TXT": {
+   "filesize": 5626,
+   "timestamp": "1998-01-02"
+  },
+  "TWCMQW.BSP": {
+   "filesize": 2766380,
+   "timestamp": "1998-01-02"
+  }
+ },
  "filesize": 3603,
+ "install": {
+  "extract": "{quake}/xmas/"
+ },
+ "sha256": "327e411d4ad66fcf98e47f1496f42a7b4b5daec828f98b4ef03b636b5cdc9b6e",
  "tags": [
   "title:Twisted Christmas",
   "releasedate:1998-01-02",
@@ -20,25 +36,9 @@
   "tag:winter",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/xmas/"
- },
- "files": {
-  "TWCMQW.BSP": {
-   "filesize": 2766380,
-   "timestamp": "1998-01-02"
-  },
-  "PAK0.PAK": {
-   "filesize": 7153435,
-   "timestamp": "1997-12-22"
-  },
-  "README.TXT": {
-   "filesize": 5626,
-   "timestamp": "1998-01-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/twxfinal.zip",
   "https://www.quaddicted.com/files/by-sha256/3/327e411d4ad66fcf98e47f1496f42a7b4b5daec828f98b4ef03b636b5cdc9b6e/twxfinal.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

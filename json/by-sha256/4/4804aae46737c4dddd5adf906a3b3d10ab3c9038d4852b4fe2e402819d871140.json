@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "4804aae46737c4dddd5adf906a3b3d10ab3c9038d4852b4fe2e402819d871140",
  "filename": [
   "base-x2.zip"
  ],
+ "files": {
+  "BASE-X2.bsp": {
+   "filesize": 830352,
+   "timestamp": "2000-02-26"
+  },
+  "base-x2.txt": {
+   "filesize": 2306,
+   "timestamp": "2000-02-26"
+  }
+ },
  "filesize": 318,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4804aae46737c4dddd5adf906a3b3d10ab3c9038d4852b4fe2e402819d871140",
  "tags": [
   "title:Base-X2",
   "releasedate:2000-02-26",
@@ -15,21 +27,9 @@
   "tag:industrial",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "base-x2.txt": {
-   "filesize": 2306,
-   "timestamp": "2000-02-26"
-  },
-  "BASE-X2.bsp": {
-   "filesize": 830352,
-   "timestamp": "2000-02-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/base-x2.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4804aae46737c4dddd5adf906a3b3d10ab3c9038d4852b4fe2e402819d871140/base-x2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

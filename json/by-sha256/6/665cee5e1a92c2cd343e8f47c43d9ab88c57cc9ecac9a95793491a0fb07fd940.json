@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "665cee5e1a92c2cd343e8f47c43d9ab88c57cc9ecac9a95793491a0fb07fd940",
  "filename": [
   "qkdme1m1.zip"
  ],
- "filesize": 389,
- "tags": [
-  "title:Doom E1M1",
-  "releasedate:1998-02-27",
-  "game:quake",
-  "author:DAV",
-  "tag:doom",
-  "tag:port"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "qkdme1m1.bsp": {
    "filesize": 969952,
@@ -26,8 +12,22 @@
    "timestamp": "2000-01-13"
   }
  },
+ "filesize": 389,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "665cee5e1a92c2cd343e8f47c43d9ab88c57cc9ecac9a95793491a0fb07fd940",
+ "tags": [
+  "title:Doom E1M1",
+  "releasedate:1998-02-27",
+  "game:quake",
+  "author:DAV",
+  "tag:doom",
+  "tag:port"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkdme1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/6/665cee5e1a92c2cd343e8f47c43d9ab88c57cc9ecac9a95793491a0fb07fd940/qkdme1m1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

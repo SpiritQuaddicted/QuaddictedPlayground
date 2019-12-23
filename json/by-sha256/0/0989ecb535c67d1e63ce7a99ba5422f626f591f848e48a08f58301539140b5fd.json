@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd",
  "filename": [
   "etworld.zip"
  ],
+ "files": {
+  "etworld.txt": {
+   "filesize": 1619,
+   "timestamp": "1996-10-22"
+  },
+  "hall.bsp": {
+   "filesize": 1339360,
+   "timestamp": "1996-10-21"
+  }
+ },
  "filesize": 580,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd",
  "tags": [
   "title:E.T.'s World",
   "releasedate:1996-10-22",
@@ -16,21 +28,9 @@
   "tag:tricks",
   "startmap:hall"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "hall.bsp": {
-   "filesize": 1339360,
-   "timestamp": "1996-10-21"
-  },
-  "etworld.txt": {
-   "filesize": 1619,
-   "timestamp": "1996-10-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/etworld.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0989ecb535c67d1e63ce7a99ba5422f626f591f848e48a08f58301539140b5fd/etworld.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e",
  "filename": [
   "sm33_pack.zip"
  ],
+ "files": {
+  "sm33_ap.bsp": {
+   "filesize": 170084,
+   "timestamp": "2001-09-09"
+  },
+  "sm33_pack.txt": {
+   "filesize": 1820,
+   "timestamp": "2001-09-18"
+  },
+  "sm33_sb.bsp": {
+   "filesize": 1046020,
+   "timestamp": "2001-09-08"
+  },
+  "sm33_than.bsp": {
+   "filesize": 508592,
+   "timestamp": "2001-09-09"
+  }
+ },
  "filesize": 571,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e",
  "tags": [
   "title:Speedmapping pack 33 - Unthemed",
   "releasedate:2001-09-18",
@@ -16,29 +36,9 @@
   "startmap:sm33_sb",
   "startmap:sm33_than"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm33_than.bsp": {
-   "filesize": 508592,
-   "timestamp": "2001-09-09"
-  },
-  "sm33_pack.txt": {
-   "filesize": 1820,
-   "timestamp": "2001-09-18"
-  },
-  "sm33_ap.bsp": {
-   "filesize": 170084,
-   "timestamp": "2001-09-09"
-  },
-  "sm33_sb.bsp": {
-   "filesize": 1046020,
-   "timestamp": "2001-09-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm33_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e/sm33_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

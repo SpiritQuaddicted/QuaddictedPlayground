@@ -1,10 +1,54 @@
 {
- "version": "20191222-0",
- "sha256": "7695ffefc933b67f20ae85b2f12e5bb463645516409f9a5eff77d22877c596ab",
  "filename": [
   "matsp2.zip"
  ],
+ "files": {
+  "gfx/env/vlcnobk.tga": {
+   "filesize": 196944,
+   "timestamp": "1999-06-30"
+  },
+  "gfx/env/vlcnodn.tga": {
+   "filesize": 196944,
+   "timestamp": "1999-06-30"
+  },
+  "gfx/env/vlcnoft.tga": {
+   "filesize": 196944,
+   "timestamp": "1999-06-30"
+  },
+  "gfx/env/vlcnolf.tga": {
+   "filesize": 196944,
+   "timestamp": "1999-06-30"
+  },
+  "gfx/env/vlcnort.tga": {
+   "filesize": 196944,
+   "timestamp": "1999-06-30"
+  },
+  "gfx/env/vlcnoup.tga": {
+   "filesize": 196944,
+   "timestamp": "1999-06-30"
+  },
+  "maps/matsp2.bsp": {
+   "filesize": 3780248,
+   "timestamp": "2003-04-20"
+  },
+  "maps/matsp2.lit": {
+   "filesize": 1894409,
+   "timestamp": "2003-04-20"
+  },
+  "maps/matsp2.txt": {
+   "filesize": 1910,
+   "timestamp": "2003-04-21"
+  },
+  "matsp2_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 1820,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "7695ffefc933b67f20ae85b2f12e5bb463645516409f9a5eff77d22877c596ab",
  "tags": [
   "title:Best of Vize",
   "releasedate:2003-04-21",
@@ -14,53 +58,9 @@
   "tag:quake2",
   "tag:medium"
  ],
- "install": {
-  "extract": "{quake}/id1/"
- },
- "files": {
-  "maps/matsp2.txt": {
-   "filesize": 1910,
-   "timestamp": "2003-04-21"
-  },
-  "maps/matsp2.lit": {
-   "filesize": 1894409,
-   "timestamp": "2003-04-20"
-  },
-  "maps/matsp2.bsp": {
-   "filesize": 3780248,
-   "timestamp": "2003-04-20"
-  },
-  "matsp2_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "gfx/env/vlcnodn.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
-  },
-  "gfx/env/vlcnolf.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
-  },
-  "gfx/env/vlcnoup.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
-  },
-  "gfx/env/vlcnobk.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
-  },
-  "gfx/env/vlcnoft.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
-  },
-  "gfx/env/vlcnort.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/matsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7695ffefc933b67f20ae85b2f12e5bb463645516409f9a5eff77d22877c596ab/matsp2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

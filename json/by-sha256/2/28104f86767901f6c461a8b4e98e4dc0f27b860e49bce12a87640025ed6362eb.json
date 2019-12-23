@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb",
  "filename": [
   "middle.zip"
  ],
+ "files": {
+  "middle.txt": {
+   "filesize": 1771,
+   "timestamp": "1997-11-03"
+  },
+  "pak0.pak": {
+   "filesize": 3999142,
+   "timestamp": "1997-11-03"
+  }
+ },
  "filesize": 1999,
+ "install": {
+  "extract": "{quake}/middle/"
+ },
+ "sha256": "28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb",
  "tags": [
   "title:The Middle Evil",
   "releasedate:1997-11-03",
@@ -22,21 +34,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:med"
  ],
- "install": {
-  "extract": "{quake}/middle/"
- },
- "files": {
-  "pak0.pak": {
-   "filesize": 3999142,
-   "timestamp": "1997-11-03"
-  },
-  "middle.txt": {
-   "filesize": 1771,
-   "timestamp": "1997-11-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/middle.zip",
   "https://www.quaddicted.com/files/by-sha256/2/28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb/middle.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

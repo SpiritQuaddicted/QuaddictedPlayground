@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "7fe7afc8bc117e8fafd3415c15808ca1d62c90fd6a739ef81efbe3a52eb990b0",
  "filename": [
   "czg04.zip"
  ],
+ "files": {
+  "czg04.bsp": {
+   "filesize": 1987080,
+   "timestamp": "1999-10-18"
+  },
+  "czg04.txt": {
+   "filesize": 4366,
+   "timestamp": "1999-10-18"
+  }
+ },
  "filesize": 780,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7fe7afc8bc117e8fafd3415c15808ca1d62c90fd6a739ef81efbe3a52eb990b0",
  "tags": [
   "title:Numb Nimbus",
   "releasedate:1999-10-18",
@@ -20,21 +32,9 @@
   "tag:wizards",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "czg04.txt": {
-   "filesize": 4366,
-   "timestamp": "1999-10-18"
-  },
-  "czg04.bsp": {
-   "filesize": 1987080,
-   "timestamp": "1999-10-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/czg04.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7fe7afc8bc117e8fafd3415c15808ca1d62c90fd6a739ef81efbe3a52eb990b0/czg04.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

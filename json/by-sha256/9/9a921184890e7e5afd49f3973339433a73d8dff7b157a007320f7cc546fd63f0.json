@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "9a921184890e7e5afd49f3973339433a73d8dff7b157a007320f7cc546fd63f0",
  "filename": [
   "zoom9.zip"
  ],
+ "files": {
+  "ZOOM9/PAK0.PAK": {
+   "filesize": 3659146,
+   "timestamp": "1997-12-18"
+  },
+  "ZOOM9/README.RUS": {
+   "filesize": 2046,
+   "timestamp": "1997-12-19"
+  }
+ },
  "filesize": 1594,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "9a921184890e7e5afd49f3973339433a73d8dff7b157a007320f7cc546fd63f0",
  "tags": [
   "title:ZOOM9",
   "releasedate:1997-12-19",
@@ -20,21 +32,9 @@
   "tag:chthon",
   "startmap:zoom9"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "ZOOM9/PAK0.PAK": {
-   "filesize": 3659146,
-   "timestamp": "1997-12-18"
-  },
-  "ZOOM9/README.RUS": {
-   "filesize": 2046,
-   "timestamp": "1997-12-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/zoom9.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9a921184890e7e5afd49f3973339433a73d8dff7b157a007320f7cc546fd63f0/zoom9.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

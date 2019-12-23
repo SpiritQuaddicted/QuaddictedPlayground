@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "4f667c04c4d9ce68c191ec340d405171685f950c11b36caa9b558669a8ba4032",
  "filename": [
   "rstart11.zip"
  ],
+ "files": {
+  "dxmf.bsp": {
+   "filesize": 1920508,
+   "timestamp": "1997-09-25"
+  },
+  "rstart.bsp": {
+   "filesize": 211676,
+   "timestamp": "1997-09-24"
+  },
+  "rstart.txt": {
+   "filesize": 4851,
+   "timestamp": "1997-09-27"
+  },
+  "s6.bsp": {
+   "filesize": 1740716,
+   "timestamp": "1997-09-25"
+  },
+  "s7.bsp": {
+   "filesize": 1693028,
+   "timestamp": "1997-09-27"
+  },
+  "se.bsp": {
+   "filesize": 2095324,
+   "timestamp": "1997-09-25"
+  },
+  "se2.bsp": {
+   "filesize": 1893056,
+   "timestamp": "1997-09-26"
+  }
+ },
  "filesize": 4053,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4f667c04c4d9ce68c191ec340d405171685f950c11b36caa9b558669a8ba4032",
  "tags": [
   "title:Reload",
   "releasedate:1997-09-27",
@@ -18,41 +50,9 @@
   "tag:non linear",
   "startmap:rstart"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dxmf.bsp": {
-   "filesize": 1920508,
-   "timestamp": "1997-09-25"
-  },
-  "s6.bsp": {
-   "filesize": 1740716,
-   "timestamp": "1997-09-25"
-  },
-  "rstart.bsp": {
-   "filesize": 211676,
-   "timestamp": "1997-09-24"
-  },
-  "se2.bsp": {
-   "filesize": 1893056,
-   "timestamp": "1997-09-26"
-  },
-  "rstart.txt": {
-   "filesize": 4851,
-   "timestamp": "1997-09-27"
-  },
-  "se.bsp": {
-   "filesize": 2095324,
-   "timestamp": "1997-09-25"
-  },
-  "s7.bsp": {
-   "filesize": 1693028,
-   "timestamp": "1997-09-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rstart11.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4f667c04c4d9ce68c191ec340d405171685f950c11b36caa9b558669a8ba4032/rstart11.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

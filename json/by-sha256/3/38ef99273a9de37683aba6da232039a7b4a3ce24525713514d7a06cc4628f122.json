@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "38ef99273a9de37683aba6da232039a7b4a3ce24525713514d7a06cc4628f122",
  "filename": [
   "metro.zip"
  ],
+ "files": {
+  "Metro.bsp": {
+   "filesize": 2063660,
+   "timestamp": "1997-07-15"
+  },
+  "metro.txt": {
+   "filesize": 3591,
+   "timestamp": "1997-07-28"
+  }
+ },
  "filesize": 866,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "38ef99273a9de37683aba6da232039a7b4a3ce24525713514d7a06cc4628f122",
  "tags": [
   "title:Hive, part II",
   "releasedate:1997-07-28",
@@ -15,21 +27,9 @@
   "tag:bricks",
   "tag:textures"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "metro.txt": {
-   "filesize": 3591,
-   "timestamp": "1997-07-28"
-  },
-  "Metro.bsp": {
-   "filesize": 2063660,
-   "timestamp": "1997-07-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/metro.zip",
   "https://www.quaddicted.com/files/by-sha256/3/38ef99273a9de37683aba6da232039a7b4a3ce24525713514d7a06cc4628f122/metro.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

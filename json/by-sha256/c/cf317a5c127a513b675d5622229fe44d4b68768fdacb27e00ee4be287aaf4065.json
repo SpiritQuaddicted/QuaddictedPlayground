@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "cf317a5c127a513b675d5622229fe44d4b68768fdacb27e00ee4be287aaf4065",
  "filename": [
   "vrkcoop1.zip"
  ],
- "filesize": 2541,
- "tags": [
-  "title:Forever Lost",
-  "releasedate:2019-03-06",
-  "game:quake",
-  "author:VuRkka",
-  "tag:blue",
-  "tag:coop",
-  "tag:puzzles",
-  "tag:medium",
-  "tag:medieval"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "vrkcoop1-server.cfg": {
    "filesize": 2147,
@@ -33,8 +16,25 @@
    "timestamp": "2019-03-06"
   }
  },
+ "filesize": 2541,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cf317a5c127a513b675d5622229fe44d4b68768fdacb27e00ee4be287aaf4065",
+ "tags": [
+  "title:Forever Lost",
+  "releasedate:2019-03-06",
+  "game:quake",
+  "author:VuRkka",
+  "tag:blue",
+  "tag:coop",
+  "tag:puzzles",
+  "tag:medium",
+  "tag:medieval"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/vrkcoop1.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cf317a5c127a513b675d5622229fe44d4b68768fdacb27e00ee4be287aaf4065/vrkcoop1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

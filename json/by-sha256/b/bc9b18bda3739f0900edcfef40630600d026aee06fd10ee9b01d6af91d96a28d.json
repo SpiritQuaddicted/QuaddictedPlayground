@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "bc9b18bda3739f0900edcfef40630600d026aee06fd10ee9b01d6af91d96a28d",
  "filename": [
   "bldstone.zip"
  ],
- "filesize": 457,
- "tags": [
-  "title:Bloodstone",
-  "releasedate:1997-02-06",
-  "game:quake",
-  "author:Drakkon (C.D. Roberts)",
-  "tag:medium",
-  "tag:mixtex",
-  "startmap:bldston"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "bldston.bsp": {
    "filesize": 1045356,
@@ -27,8 +12,23 @@
    "timestamp": "1997-02-06"
   }
  },
+ "filesize": 457,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "bc9b18bda3739f0900edcfef40630600d026aee06fd10ee9b01d6af91d96a28d",
+ "tags": [
+  "title:Bloodstone",
+  "releasedate:1997-02-06",
+  "game:quake",
+  "author:Drakkon (C.D. Roberts)",
+  "tag:medium",
+  "tag:mixtex",
+  "startmap:bldston"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/bldstone.zip",
   "https://www.quaddicted.com/files/by-sha256/b/bc9b18bda3739f0900edcfef40630600d026aee06fd10ee9b01d6af91d96a28d/bldstone.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

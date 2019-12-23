@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "51ccae9e04ea5a52a8b7524c2e12943529cdc639ad02a05472e082e57998cb6f",
  "filename": [
   "cjhsp1.zip"
  ],
+ "files": {
+  "cjhsp1.bsp": {
+   "filesize": 3632060,
+   "timestamp": "2008-03-04"
+  },
+  "cjhsp1.txt": {
+   "filesize": 3698,
+   "timestamp": "2008-03-04"
+  }
+ },
  "filesize": 1464,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "51ccae9e04ea5a52a8b7524c2e12943529cdc639ad02a05472e082e57998cb6f",
  "tags": [
   "title:The Katagean Redoubt",
   "releasedate:2008-03-04",
@@ -16,21 +28,9 @@
   "tag:green",
   "tag:interconnectivity"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "cjhsp1.bsp": {
-   "filesize": 3632060,
-   "timestamp": "2008-03-04"
-  },
-  "cjhsp1.txt": {
-   "filesize": 3698,
-   "timestamp": "2008-03-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cjhsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/5/51ccae9e04ea5a52a8b7524c2e12943529cdc639ad02a05472e082e57998cb6f/cjhsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

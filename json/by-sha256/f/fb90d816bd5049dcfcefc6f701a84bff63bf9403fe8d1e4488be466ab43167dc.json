@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "fb90d816bd5049dcfcefc6f701a84bff63bf9403fe8d1e4488be466ab43167dc",
  "filename": [
   "heresp2.zip"
  ],
+ "files": {
+  "heresp2.bsp": {
+   "filesize": 2359632,
+   "timestamp": "2003-11-10"
+  },
+  "heresp2.txt": {
+   "filesize": 2067,
+   "timestamp": "2003-11-10"
+  }
+ },
  "filesize": 840,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "fb90d816bd5049dcfcefc6f701a84bff63bf9403fe8d1e4488be466ab43167dc",
  "tags": [
   "title:Bull on Parade",
   "releasedate:2003-11-10",
@@ -14,21 +26,9 @@
   "tag:q3base",
   "tag:medieval"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "heresp2.txt": {
-   "filesize": 2067,
-   "timestamp": "2003-11-10"
-  },
-  "heresp2.bsp": {
-   "filesize": 2359632,
-   "timestamp": "2003-11-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/heresp2.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fb90d816bd5049dcfcefc6f701a84bff63bf9403fe8d1e4488be466ab43167dc/heresp2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

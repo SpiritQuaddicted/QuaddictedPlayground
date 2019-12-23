@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd",
  "filename": [
   "shadowgl.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 2265080,
+   "timestamp": "2001-09-02"
+  },
+  "Shadow1.txt": {
+   "filesize": 4064,
+   "timestamp": "1997-03-06"
+  },
+  "config.cfg": {
+   "filesize": 2202,
+   "timestamp": "2001-09-02"
+  }
+ },
  "filesize": 1020,
+ "install": {
+  "extract": "{quake}/shadowgl/"
+ },
+ "sha256": "a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd",
  "tags": [
   "title:Shadow over Innsmouth (GL)",
   "releasedate:1997-02-16",
@@ -21,25 +37,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:shadow"
  ],
- "install": {
-  "extract": "{quake}/shadowgl/"
- },
- "files": {
-  "config.cfg": {
-   "filesize": 2202,
-   "timestamp": "2001-09-02"
-  },
-  "Pak0.pak": {
-   "filesize": 2265080,
-   "timestamp": "2001-09-02"
-  },
-  "Shadow1.txt": {
-   "filesize": 4064,
-   "timestamp": "1997-03-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/shadowgl.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a888d9625e2bb5e0a0860c79ccedaf46a4049620f555cba594597c11e5f942bd/shadowgl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

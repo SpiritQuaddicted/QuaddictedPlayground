@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "ad36972f94f425d1d84e4f14616d97c3b3e8849bfaa85d1414b10034930521a6",
  "filename": [
   "dxmf.zip"
  ],
+ "files": {
+  "Dxmf1.dem": {
+   "filesize": 355711,
+   "timestamp": "1997-09-21"
+  },
+  "dxmf.bsp": {
+   "filesize": 1911448,
+   "timestamp": "1997-09-21"
+  },
+  "dxmf.txt": {
+   "filesize": 4543,
+   "timestamp": "1997-09-21"
+  }
+ },
  "filesize": 938,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ad36972f94f425d1d84e4f14616d97c3b3e8849bfaa85d1414b10034930521a6",
  "tags": [
   "title:Dextromethrophan",
   "releasedate:1997-09-21",
@@ -13,25 +29,9 @@
   "tag:medium",
   "tag:base"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dxmf.bsp": {
-   "filesize": 1911448,
-   "timestamp": "1997-09-21"
-  },
-  "Dxmf1.dem": {
-   "filesize": 355711,
-   "timestamp": "1997-09-21"
-  },
-  "dxmf.txt": {
-   "filesize": 4543,
-   "timestamp": "1997-09-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dxmf.zip",
   "https://www.quaddicted.com/files/by-sha256/a/ad36972f94f425d1d84e4f14616d97c3b3e8849bfaa85d1414b10034930521a6/dxmf.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

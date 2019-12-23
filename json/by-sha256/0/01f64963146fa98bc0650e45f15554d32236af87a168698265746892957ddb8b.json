@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "01f64963146fa98bc0650e45f15554d32236af87a168698265746892957ddb8b",
  "filename": [
   "j2.zip"
  ],
+ "files": {
+  "j2.bsp": {
+   "filesize": 912024,
+   "timestamp": "1999-03-20"
+  }
+ },
  "filesize": 369,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "01f64963146fa98bc0650e45f15554d32236af87a168698265746892957ddb8b",
  "tags": [
   "title:The Pain Element",
   "releasedate:1999-03-20",
@@ -14,17 +22,9 @@
   "tag:base",
   "tag:horde"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "j2.bsp": {
-   "filesize": 912024,
-   "timestamp": "1999-03-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/j2.zip",
   "https://www.quaddicted.com/files/by-sha256/0/01f64963146fa98bc0650e45f15554d32236af87a168698265746892957ddb8b/j2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

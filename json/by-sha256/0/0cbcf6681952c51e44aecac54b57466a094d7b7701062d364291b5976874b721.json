@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721",
  "filename": [
   "bbelief.zip"
  ],
+ "files": {
+  "BBELIEF.BAT": {
+   "filesize": 38,
+   "timestamp": "1997-05-14"
+  },
+  "BBELIEF.DOC": {
+   "filesize": 16167,
+   "timestamp": "1997-05-15"
+  },
+  "BBELIEF.TXT": {
+   "filesize": 5006,
+   "timestamp": "1997-05-15"
+  },
+  "BOSSQC.TXT": {
+   "filesize": 1341,
+   "timestamp": "1997-01-06"
+  },
+  "PAK0.PAK": {
+   "filesize": 17298379,
+   "timestamp": "1997-05-15"
+  }
+ },
  "filesize": 7148,
+ "install": {
+  "extract": "{quake}/bbelief/"
+ },
+ "sha256": "0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721",
  "tags": [
   "title:Beyond Belief",
   "releasedate:1997-05-15",
@@ -25,33 +49,9 @@
   "tag:dm",
   "startmap:bbstart"
  ],
- "install": {
-  "extract": "{quake}/bbelief/"
- },
- "files": {
-  "BBELIEF.BAT": {
-   "filesize": 38,
-   "timestamp": "1997-05-14"
-  },
-  "BOSSQC.TXT": {
-   "filesize": 1341,
-   "timestamp": "1997-01-06"
-  },
-  "BBELIEF.TXT": {
-   "filesize": 5006,
-   "timestamp": "1997-05-15"
-  },
-  "PAK0.PAK": {
-   "filesize": 17298379,
-   "timestamp": "1997-05-15"
-  },
-  "BBELIEF.DOC": {
-   "filesize": 16167,
-   "timestamp": "1997-05-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/bbelief.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0cbcf6681952c51e44aecac54b57466a094d7b7701062d364291b5976874b721/bbelief.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

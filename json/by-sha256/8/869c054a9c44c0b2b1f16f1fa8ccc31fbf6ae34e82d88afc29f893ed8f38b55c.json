@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "869c054a9c44c0b2b1f16f1fa8ccc31fbf6ae34e82d88afc29f893ed8f38b55c",
  "filename": [
   "disjointedrealms.zip"
  ],
+ "files": {
+  "DisjointedRealms/disjointedrealms.bsp": {
+   "filesize": 28501280,
+   "timestamp": "2018-07-29"
+  },
+  "DisjointedRealms/disjointedrealms.lit": {
+   "filesize": 7349057,
+   "timestamp": "2018-07-29"
+  },
+  "DisjointedRealms/disjointedrealms.map": {
+   "filesize": 12733591,
+   "timestamp": "2018-07-29"
+  },
+  "DisjointedRealms/disjointedrealms.txt": {
+   "filesize": 2720,
+   "timestamp": "2018-07-28"
+  }
+ },
  "filesize": 12735,
+ "install": {
+  "extract": "{quake}/ad/maps/"
+ },
+ "sha256": "869c054a9c44c0b2b1f16f1fa8ccc31fbf6ae34e82d88afc29f893ed8f38b55c",
  "tags": [
   "title:Disjointed Realms",
   "releasedate:2018-07-29",
@@ -25,29 +45,9 @@
   "tag:hard",
   "startmap:disjointedrealms/disjointedrealms"
  ],
- "install": {
-  "extract": "{quake}/ad/maps/"
- },
- "files": {
-  "DisjointedRealms/disjointedrealms.bsp": {
-   "filesize": 28501280,
-   "timestamp": "2018-07-29"
-  },
-  "DisjointedRealms/disjointedrealms.lit": {
-   "filesize": 7349057,
-   "timestamp": "2018-07-29"
-  },
-  "DisjointedRealms/disjointedrealms.map": {
-   "filesize": 12733591,
-   "timestamp": "2018-07-29"
-  },
-  "DisjointedRealms/disjointedrealms.txt": {
-   "filesize": 2720,
-   "timestamp": "2018-07-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/disjointedrealms.zip",
   "https://www.quaddicted.com/files/by-sha256/8/869c054a9c44c0b2b1f16f1fa8ccc31fbf6ae34e82d88afc29f893ed8f38b55c/disjointedrealms.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

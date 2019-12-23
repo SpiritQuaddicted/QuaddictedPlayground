@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "a02ca0e21350c2ba24034e3e0a712401cb565c642543e93b2be9d94f9f2b7f13",
  "filename": [
   "xnsm2_se.bsp.zip"
  ],
- "filesize": 541,
- "tags": [
-  "title:Realm of the tetris overlord",
-  "releasedate:2001-08-15",
-  "game:quake",
-  "author:Rich \"xen\" Thorne",
-  "tag:small",
-  "tag:q3",
-  "tag:gothic",
-  "tag:canyon"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "xnsm2_se.bsp": {
    "filesize": 1304672,
@@ -28,8 +12,24 @@
    "timestamp": "2003-02-09"
   }
  },
+ "filesize": 541,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a02ca0e21350c2ba24034e3e0a712401cb565c642543e93b2be9d94f9f2b7f13",
+ "tags": [
+  "title:Realm of the tetris overlord",
+  "releasedate:2001-08-15",
+  "game:quake",
+  "author:Rich \"xen\" Thorne",
+  "tag:small",
+  "tag:q3",
+  "tag:gothic",
+  "tag:canyon"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/xnsm2_se.bsp.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a02ca0e21350c2ba24034e3e0a712401cb565c642543e93b2be9d94f9f2b7f13/xnsm2_se.bsp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d57e12f72d97c16444ac09cacc9a1206bcf7b3a8552343c6aabf4f52c23ae311",
  "filename": [
   "shamsp1.zip"
  ],
- "filesize": 3956,
- "tags": [
-  "title:Crown Of Thorns",
-  "releasedate:2018-07-20",
-  "game:quake",
-  "author:Shambler",
-  "tag:small",
-  "tag:castle",
-  "tag:canyon",
-  "tag:terrain",
-  "tag:skybox"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "gfx/env/verdanis-cool_bk.tga": {
    "filesize": 703996,
@@ -57,8 +40,25 @@
    "timestamp": "2018-07-20"
   }
  },
+ "filesize": 3956,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "d57e12f72d97c16444ac09cacc9a1206bcf7b3a8552343c6aabf4f52c23ae311",
+ "tags": [
+  "title:Crown Of Thorns",
+  "releasedate:2018-07-20",
+  "game:quake",
+  "author:Shambler",
+  "tag:small",
+  "tag:castle",
+  "tag:canyon",
+  "tag:terrain",
+  "tag:skybox"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/shamsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d57e12f72d97c16444ac09cacc9a1206bcf7b3a8552343c6aabf4f52c23ae311/shamsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

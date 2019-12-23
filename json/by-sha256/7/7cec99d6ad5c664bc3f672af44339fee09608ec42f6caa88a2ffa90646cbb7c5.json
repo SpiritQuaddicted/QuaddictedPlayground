@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "7cec99d6ad5c664bc3f672af44339fee09608ec42f6caa88a2ffa90646cbb7c5",
  "filename": [
   "sm66_pack.zip"
  ],
+ "files": {
+  "sm66_gleeb.bsp": {
+   "filesize": 445992,
+   "timestamp": "2004-02-07"
+  },
+  "sm66_gleeb.lights": {
+   "filesize": 1407,
+   "timestamp": "2004-02-07"
+  },
+  "sm66_gleeb.lit": {
+   "filesize": 101042,
+   "timestamp": "2004-02-07"
+  },
+  "sm66_megazoid.bsp": {
+   "filesize": 401884,
+   "timestamp": "2004-02-07"
+  },
+  "sm66_pack.txt": {
+   "filesize": 1682,
+   "timestamp": "2004-02-08"
+  },
+  "sm66_ray.bsp": {
+   "filesize": 714396,
+   "timestamp": "2004-02-07"
+  },
+  "sm66_rpg.bsp": {
+   "filesize": 417568,
+   "timestamp": "2004-02-07"
+  },
+  "sm66_starbuck.bsp": {
+   "filesize": 775884,
+   "timestamp": "2004-02-08"
+  }
+ },
  "filesize": 944,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7cec99d6ad5c664bc3f672af44339fee09608ec42f6caa88a2ffa90646cbb7c5",
  "tags": [
   "title:Speedmapping pack 66 - Crap maps or Parody maps",
   "releasedate:2004-02-08",
@@ -20,45 +56,9 @@
   "startmap:sm66_megazoid",
   "startmap:sm66_rpg"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm66_pack.txt": {
-   "filesize": 1682,
-   "timestamp": "2004-02-08"
-  },
-  "sm66_gleeb.lit": {
-   "filesize": 101042,
-   "timestamp": "2004-02-07"
-  },
-  "sm66_ray.bsp": {
-   "filesize": 714396,
-   "timestamp": "2004-02-07"
-  },
-  "sm66_starbuck.bsp": {
-   "filesize": 775884,
-   "timestamp": "2004-02-08"
-  },
-  "sm66_megazoid.bsp": {
-   "filesize": 401884,
-   "timestamp": "2004-02-07"
-  },
-  "sm66_gleeb.lights": {
-   "filesize": 1407,
-   "timestamp": "2004-02-07"
-  },
-  "sm66_rpg.bsp": {
-   "filesize": 417568,
-   "timestamp": "2004-02-07"
-  },
-  "sm66_gleeb.bsp": {
-   "filesize": 445992,
-   "timestamp": "2004-02-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm66_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7cec99d6ad5c664bc3f672af44339fee09608ec42f6caa88a2ffa90646cbb7c5/sm66_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

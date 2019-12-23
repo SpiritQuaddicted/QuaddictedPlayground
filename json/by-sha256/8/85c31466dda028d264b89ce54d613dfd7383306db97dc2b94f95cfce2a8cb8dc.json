@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc",
  "filename": [
   "tofaz.zip"
  ],
+ "files": {
+  "tofaz/tofaz.bsp": {
+   "filesize": 9732768,
+   "timestamp": "2017-10-18"
+  },
+  "tofaz/tofaz.lit": {
+   "filesize": 2970236,
+   "timestamp": "2017-10-18"
+  },
+  "tofaz/tofaz.txt": {
+   "filesize": 3738,
+   "timestamp": "2017-10-18"
+  }
+ },
  "filesize": 4384,
+ "install": {
+  "extract": "{quake}/id1\\maps\\"
+ },
+ "sha256": "85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc",
  "tags": [
   "title:Temple of Azathoth",
   "releasedate:2017-10-18",
@@ -20,25 +36,9 @@
   "tag:limits",
   "startmap:tofaz\\tofaz"
  ],
- "install": {
-  "extract": "{quake}/id1\\maps\\"
- },
- "files": {
-  "tofaz/tofaz.bsp": {
-   "filesize": 9732768,
-   "timestamp": "2017-10-18"
-  },
-  "tofaz/tofaz.lit": {
-   "filesize": 2970236,
-   "timestamp": "2017-10-18"
-  },
-  "tofaz/tofaz.txt": {
-   "filesize": 3738,
-   "timestamp": "2017-10-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tofaz.zip",
   "https://www.quaddicted.com/files/by-sha256/8/85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc/tofaz.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

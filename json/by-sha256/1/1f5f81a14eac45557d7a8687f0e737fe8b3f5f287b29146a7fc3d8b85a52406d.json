@@ -1,46 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d",
  "filename": [
   "something_wicked.zip"
  ],
- "filesize": 37399,
- "tags": [
-  "title:Something Wicked This Way Comes",
-  "releasedate:2012-12-19",
-  "game:quake",
-  "commandline:-game wicked",
-  "author:Tronyn",
-  "author:PM",
-  "author:Tyrann",
-  "author:necros",
-  "tag:huge",
-  "tag:bsp2",
-  "tag:large",
-  "tag:drake",
-  "tag:fortress",
-  "tag:caverns",
-  "tag:canyon",
-  "tag:waterfall",
-  "tag:dungeon",
-  "tag:textures",
-  "tag:dkt",
-  "tag:heretic",
-  "tag:monsters",
-  "tag:medieval",
-  "tag:epic",
-  "tag:start",
-  "tag:secrets",
-  "tag:castle",
-  "tag:limits",
-  "tag:coop",
-  "startmap:wickedstart",
-  "startmap:wicked",
-  "startmap:wickedend"
- ],
- "install": {
-  "extract": "{quake}/wicked/"
- },
  "files": {
   "gfx/env/deepblue_bk.tga": {
    "filesize": 467895,
@@ -115,8 +76,47 @@
    "timestamp": "2012-12-11"
   }
  },
+ "filesize": 37399,
+ "install": {
+  "extract": "{quake}/wicked/"
+ },
+ "sha256": "1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d",
+ "tags": [
+  "title:Something Wicked This Way Comes",
+  "releasedate:2012-12-19",
+  "game:quake",
+  "commandline:-game wicked",
+  "author:Tronyn",
+  "author:PM",
+  "author:Tyrann",
+  "author:necros",
+  "tag:huge",
+  "tag:bsp2",
+  "tag:large",
+  "tag:drake",
+  "tag:fortress",
+  "tag:caverns",
+  "tag:canyon",
+  "tag:waterfall",
+  "tag:dungeon",
+  "tag:textures",
+  "tag:dkt",
+  "tag:heretic",
+  "tag:monsters",
+  "tag:medieval",
+  "tag:epic",
+  "tag:start",
+  "tag:secrets",
+  "tag:castle",
+  "tag:limits",
+  "tag:coop",
+  "startmap:wickedstart",
+  "startmap:wicked",
+  "startmap:wickedend"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/something_wicked.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1f5f81a14eac45557d7a8687f0e737fe8b3f5f287b29146a7fc3d8b85a52406d/something_wicked.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

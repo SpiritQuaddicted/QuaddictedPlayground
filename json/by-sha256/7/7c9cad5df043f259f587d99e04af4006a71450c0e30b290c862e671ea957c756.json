@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756",
  "filename": [
   "level5.zip"
  ],
- "filesize": 1183,
- "tags": [
-  "title:The 5th Level",
-  "releasedate:1998-05-19",
-  "game:quake",
-  "author:Kevin Rogers",
-  "tag:large",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/level5/"
- },
  "files": {
   "pak0.pak": {
    "filesize": 3056185,
@@ -26,8 +12,22 @@
    "timestamp": "1998-05-19"
   }
  },
+ "filesize": 1183,
+ "install": {
+  "extract": "{quake}/level5/"
+ },
+ "sha256": "7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756",
+ "tags": [
+  "title:The 5th Level",
+  "releasedate:1998-05-19",
+  "game:quake",
+  "author:Kevin Rogers",
+  "tag:large",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/level5.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756/level5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "d89e7edaee633547ef5fc824e2e22cc5bdde6022191dec2b01ac1cb486ee22ef",
  "filename": [
   "sm105_pack.zip"
  ],
+ "files": {
+  "sm105_drew.bsp": {
+   "filesize": 1259120,
+   "timestamp": "2005-09-24"
+  },
+  "sm105_generic.bsp": {
+   "filesize": 746880,
+   "timestamp": "2004-03-28"
+  },
+  "sm105_neg!ke.bsp": {
+   "filesize": 647360,
+   "timestamp": "2005-09-25"
+  },
+  "sm105_pack.txt": {
+   "filesize": 1454,
+   "timestamp": "2004-03-30"
+  },
+  "sm105_tron.bsp": {
+   "filesize": 460256,
+   "timestamp": "2005-09-26"
+  },
+  "sm105_tron.txt": {
+   "filesize": 327,
+   "timestamp": "2005-09-26"
+  }
+ },
  "filesize": 1185,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d89e7edaee633547ef5fc824e2e22cc5bdde6022191dec2b01ac1cb486ee22ef",
  "tags": [
   "title:Speedmapping pack 105 - What if two maps mated",
   "releasedate:2005-09-26",
@@ -18,37 +46,9 @@
   "startmap:sm105_tron",
   "startmap:sm105_neg!ke"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm105_generic.bsp": {
-   "filesize": 746880,
-   "timestamp": "2004-03-28"
-  },
-  "sm105_pack.txt": {
-   "filesize": 1454,
-   "timestamp": "2004-03-30"
-  },
-  "sm105_drew.bsp": {
-   "filesize": 1259120,
-   "timestamp": "2005-09-24"
-  },
-  "sm105_neg!ke.bsp": {
-   "filesize": 647360,
-   "timestamp": "2005-09-25"
-  },
-  "sm105_tron.bsp": {
-   "filesize": 460256,
-   "timestamp": "2005-09-26"
-  },
-  "sm105_tron.txt": {
-   "filesize": 327,
-   "timestamp": "2005-09-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm105_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d89e7edaee633547ef5fc824e2e22cc5bdde6022191dec2b01ac1cb486ee22ef/sm105_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

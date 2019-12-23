@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d",
  "filename": [
   "gunman02.zip"
  ],
+ "files": {
+  "graveset.bsp": {
+   "filesize": 761612,
+   "timestamp": "1998-09-13"
+  },
+  "gunman02.txt": {
+   "filesize": 2290,
+   "timestamp": "1998-11-03"
+  },
+  "undrgrvs.bsp": {
+   "filesize": 1844028,
+   "timestamp": "1998-11-03"
+  }
+ },
  "filesize": 1051,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d",
  "tags": [
   "title:Undergraves",
   "releasedate:1998-11-03",
@@ -20,25 +36,9 @@
   "tag:puzzle",
   "startmap:graveset"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "gunman02.txt": {
-   "filesize": 2290,
-   "timestamp": "1998-11-03"
-  },
-  "graveset.bsp": {
-   "filesize": 761612,
-   "timestamp": "1998-09-13"
-  },
-  "undrgrvs.bsp": {
-   "filesize": 1844028,
-   "timestamp": "1998-11-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/gunman02.zip",
   "https://www.quaddicted.com/files/by-sha256/1/17d688aa622f303a509a02e12d9071388651b8d7ab6e34adad8266374a67b39d/gunman02.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "5d336ac5c700ba1680a237c54c8edcbb4dfc54baa7e5c067d062aa4a24f282fd",
  "filename": [
   "imp1sp1.zip"
  ],
+ "files": {
+  "IMP1SP1.bsp": {
+   "filesize": 1530444,
+   "timestamp": "2001-01-28"
+  },
+  "imp1sp1.txt": {
+   "filesize": 1271,
+   "timestamp": "2001-01-29"
+  }
+ },
  "filesize": 572,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5d336ac5c700ba1680a237c54c8edcbb4dfc54baa7e5c067d062aa4a24f282fd",
  "tags": [
   "title:The Corral",
   "releasedate:2001-01-29",
@@ -15,21 +27,9 @@
   "tag:glass",
   "tag:textures"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "imp1sp1.txt": {
-   "filesize": 1271,
-   "timestamp": "2001-01-29"
-  },
-  "IMP1SP1.bsp": {
-   "filesize": 1530444,
-   "timestamp": "2001-01-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/imp1sp1.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5d336ac5c700ba1680a237c54c8edcbb4dfc54baa7e5c067d062aa4a24f282fd/imp1sp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

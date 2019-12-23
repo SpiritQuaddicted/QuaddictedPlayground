@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "79619733020cf6390d2cbc3de357ee205a67a7fcba5d024a231cc9c7a2408257",
  "filename": [
   "dark.zip"
  ],
+ "files": {
+  "DARK.BSP": {
+   "filesize": 958992,
+   "timestamp": "1996-10-14"
+  }
+ },
  "filesize": 397,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "79619733020cf6390d2cbc3de357ee205a67a7fcba5d024a231cc9c7a2408257",
  "tags": [
   "title:Dark Hell",
   "releasedate:1996-10-14",
@@ -15,17 +23,9 @@
   "tag:snow",
   "tag:arena"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "DARK.BSP": {
-   "filesize": 958992,
-   "timestamp": "1996-10-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dark.zip",
   "https://www.quaddicted.com/files/by-sha256/7/79619733020cf6390d2cbc3de357ee205a67a7fcba5d024a231cc9c7a2408257/dark.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

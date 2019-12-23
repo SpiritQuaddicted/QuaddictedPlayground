@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f612805fb42ef95ce081621f9a982ef8ce3d7027488a2eabc819058e40970872",
  "filename": [
   "tef_sg.zip"
  ],
+ "files": {
+  "tef_sg.bsp": {
+   "filesize": 913868,
+   "timestamp": "1996-10-13"
+  },
+  "tef_sg.txt": {
+   "filesize": 4278,
+   "timestamp": "1996-10-23"
+  }
+ },
  "filesize": 414,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f612805fb42ef95ce081621f9a982ef8ce3d7027488a2eabc819058e40970872",
  "tags": [
   "title:Slime Ground",
   "releasedate:1996-10-23",
@@ -14,21 +26,9 @@
   "tag:mixtex",
   "tag:small"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "tef_sg.txt": {
-   "filesize": 4278,
-   "timestamp": "1996-10-23"
-  },
-  "tef_sg.bsp": {
-   "filesize": 913868,
-   "timestamp": "1996-10-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tef_sg.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f612805fb42ef95ce081621f9a982ef8ce3d7027488a2eabc819058e40970872/tef_sg.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

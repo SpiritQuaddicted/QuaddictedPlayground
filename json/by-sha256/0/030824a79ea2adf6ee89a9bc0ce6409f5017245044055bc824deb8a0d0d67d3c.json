@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c",
  "filename": [
   "mstalk1d.zip"
  ],
- "filesize": 2217,
- "tags": [
-  "title:Midnight Stalker (v.2)",
-  "releasedate:2013-05-11",
-  "game:quake",
-  "author:sock",
-  "tag:medium",
-  "tag:metal",
-  "tag:runic",
-  "tag:source",
-  "startmap:mstalk"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "mstalk.bsp": {
    "filesize": 2970188,
@@ -37,8 +20,25 @@
    "timestamp": "2013-05-11"
   }
  },
+ "filesize": 2217,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c",
+ "tags": [
+  "title:Midnight Stalker (v.2)",
+  "releasedate:2013-05-11",
+  "game:quake",
+  "author:sock",
+  "tag:medium",
+  "tag:metal",
+  "tag:runic",
+  "tag:source",
+  "startmap:mstalk"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mstalk1d.zip",
   "https://www.quaddicted.com/files/by-sha256/0/030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c/mstalk1d.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

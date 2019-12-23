@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "5bd95e22c12ca4464e920c9524b80b3b48298abd06e718a2f495b549e29723c4",
  "filename": [
   "hunter.zip"
  ],
- "filesize": 432,
- "tags": [
-  "title:Demon Hunter",
-  "releasedate:1997-02-13",
-  "game:quake",
-  "author:Richard Dale Carlson",
-  "tag:medium",
-  "tag:wizard",
-  "tag:dungeon"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "HUNTER.BSP": {
    "filesize": 1087560,
@@ -27,8 +12,23 @@
    "timestamp": "1997-02-13"
   }
  },
+ "filesize": 432,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5bd95e22c12ca4464e920c9524b80b3b48298abd06e718a2f495b549e29723c4",
+ "tags": [
+  "title:Demon Hunter",
+  "releasedate:1997-02-13",
+  "game:quake",
+  "author:Richard Dale Carlson",
+  "tag:medium",
+  "tag:wizard",
+  "tag:dungeon"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/hunter.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5bd95e22c12ca4464e920c9524b80b3b48298abd06e718a2f495b549e29723c4/hunter.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

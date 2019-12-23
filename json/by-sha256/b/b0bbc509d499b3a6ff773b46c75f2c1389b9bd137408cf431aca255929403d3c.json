@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c",
  "filename": [
   "jtkmap6.zip"
  ],
+ "files": {
+  "AREA51.BSP": {
+   "filesize": 2626312,
+   "timestamp": "1997-08-10"
+  },
+  "AREA51.TXT": {
+   "filesize": 10939,
+   "timestamp": "1997-08-10"
+  }
+ },
  "filesize": 1092,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c",
  "tags": [
   "title:Area 51",
   "releasedate:1997-08-10",
@@ -17,21 +29,9 @@
   "tag:canyon",
   "startmap:area51"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "AREA51.TXT": {
-   "filesize": 10939,
-   "timestamp": "1997-08-10"
-  },
-  "AREA51.BSP": {
-   "filesize": 2626312,
-   "timestamp": "1997-08-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/jtkmap6.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b0bbc509d499b3a6ff773b46c75f2c1389b9bd137408cf431aca255929403d3c/jtkmap6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

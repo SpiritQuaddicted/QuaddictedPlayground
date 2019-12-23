@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "45aa1dba3ccf1bcaa2de2840fac600f7195f9ba226d54c370f0e473cf02ec290",
  "filename": [
   "woa_kayne.zip"
  ],
- "filesize": 20194,
- "tags": [
-  "title:Wrath of Ahnkii",
-  "releasedate:2019-07-15",
-  "game:quake",
-  "commandline:-game woa_kayne",
-  "author:Kayne",
-  "tag:egyptian",
-  "tag:large",
-  "tag:vanilla",
-  "tag:tomb",
-  "tag:sand",
-  "startmap:wrath_of_ahnki"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "woa_kayne/WoA_Kayne.txt": {
    "filesize": 3004,
@@ -71,8 +52,27 @@
    "timestamp": "2019-07-15"
   }
  },
+ "filesize": 20194,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "45aa1dba3ccf1bcaa2de2840fac600f7195f9ba226d54c370f0e473cf02ec290",
+ "tags": [
+  "title:Wrath of Ahnkii",
+  "releasedate:2019-07-15",
+  "game:quake",
+  "commandline:-game woa_kayne",
+  "author:Kayne",
+  "tag:egyptian",
+  "tag:large",
+  "tag:vanilla",
+  "tag:tomb",
+  "tag:sand",
+  "startmap:wrath_of_ahnki"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/woa_kayne.zip",
   "https://www.quaddicted.com/files/by-sha256/4/45aa1dba3ccf1bcaa2de2840fac600f7195f9ba226d54c370f0e473cf02ec290/woa_kayne.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

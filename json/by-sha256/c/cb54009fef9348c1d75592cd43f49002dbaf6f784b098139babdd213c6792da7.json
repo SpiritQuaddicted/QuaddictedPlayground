@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "cb54009fef9348c1d75592cd43f49002dbaf6f784b098139babdd213c6792da7",
  "filename": [
   "apdm3.zip"
  ],
+ "files": {
+  "apdm3.bsp": {
+   "filesize": 747184,
+   "timestamp": "2007-05-09"
+  },
+  "apdm3.map": {
+   "filesize": 656411,
+   "timestamp": "2007-05-09"
+  },
+  "apdm3.rmf": {
+   "filesize": 2852852,
+   "timestamp": "2007-05-09"
+  },
+  "apdm3.txt": {
+   "filesize": 7564,
+   "timestamp": "2007-05-10"
+  }
+ },
  "filesize": 463,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cb54009fef9348c1d75592cd43f49002dbaf6f784b098139babdd213c6792da7",
  "tags": [
   "title:Dead Best Friend",
   "releasedate:2007-05-09",
@@ -16,29 +36,9 @@
   "tag:dm",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "apdm3.rmf": {
-   "filesize": 2852852,
-   "timestamp": "2007-05-09"
-  },
-  "apdm3.txt": {
-   "filesize": 7564,
-   "timestamp": "2007-05-10"
-  },
-  "apdm3.bsp": {
-   "filesize": 747184,
-   "timestamp": "2007-05-09"
-  },
-  "apdm3.map": {
-   "filesize": 656411,
-   "timestamp": "2007-05-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/apdm3.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cb54009fef9348c1d75592cd43f49002dbaf6f784b098139babdd213c6792da7/apdm3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

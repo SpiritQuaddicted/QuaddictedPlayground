@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "491ed917cc73172b24e949153868b91bd5671c2f140bbeeb3539df95af777151",
  "filename": [
   "oms2.zip"
  ],
+ "files": {
+  "oms2.txt": {
+   "filesize": 1930,
+   "timestamp": "2007-02-02"
+  },
+  "oms21.bsp": {
+   "filesize": 3810104,
+   "timestamp": "2006-11-23"
+  },
+  "oms22.bsp": {
+   "filesize": 4059972,
+   "timestamp": "2007-02-02"
+  },
+  "oms23.bsp": {
+   "filesize": 4561824,
+   "timestamp": "2007-02-02"
+  },
+  "oms24beta.bsp": {
+   "filesize": 2045880,
+   "timestamp": "2007-01-31"
+  }
+ },
  "filesize": 5909,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "491ed917cc73172b24e949153868b91bd5671c2f140bbeeb3539df95af777151",
  "tags": [
   "title:Orlmap Series 2: The first half",
   "releasedate:2007-02-02",
@@ -12,33 +36,9 @@
   "author:ORL",
   "startmap:oms21"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "oms22.bsp": {
-   "filesize": 4059972,
-   "timestamp": "2007-02-02"
-  },
-  "oms24beta.bsp": {
-   "filesize": 2045880,
-   "timestamp": "2007-01-31"
-  },
-  "oms21.bsp": {
-   "filesize": 3810104,
-   "timestamp": "2006-11-23"
-  },
-  "oms2.txt": {
-   "filesize": 1930,
-   "timestamp": "2007-02-02"
-  },
-  "oms23.bsp": {
-   "filesize": 4561824,
-   "timestamp": "2007-02-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/oms2.zip",
   "https://www.quaddicted.com/files/by-sha256/4/491ed917cc73172b24e949153868b91bd5671c2f140bbeeb3539df95af777151/oms2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

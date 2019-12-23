@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "5e1867373980db8ee57ac9f857c8b3f27aa31e8c2cc029e7bb02494776016fc6",
  "filename": [
   "m_palace.zip"
  ],
+ "files": {
+  "M_PALACE.BSP": {
+   "filesize": 1016576,
+   "timestamp": "1997-11-30"
+  },
+  "M_PALACE.TXT": {
+   "filesize": 1253,
+   "timestamp": "1997-11-30"
+  }
+ },
  "filesize": 422,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5e1867373980db8ee57ac9f857c8b3f27aa31e8c2cc029e7bb02494776016fc6",
  "tags": [
   "title:The Cobalt Palace",
   "releasedate:1997-11-30",
@@ -17,21 +29,9 @@
   "tag:gold",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "M_PALACE.BSP": {
-   "filesize": 1016576,
-   "timestamp": "1997-11-30"
-  },
-  "M_PALACE.TXT": {
-   "filesize": 1253,
-   "timestamp": "1997-11-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/m_palace.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5e1867373980db8ee57ac9f857c8b3f27aa31e8c2cc029e7bb02494776016fc6/m_palace.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

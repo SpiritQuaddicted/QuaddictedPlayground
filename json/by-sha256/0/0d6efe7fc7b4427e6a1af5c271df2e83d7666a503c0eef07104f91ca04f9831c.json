@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0d6efe7fc7b4427e6a1af5c271df2e83d7666a503c0eef07104f91ca04f9831c",
  "filename": [
   "cargoshp.zip"
  ],
+ "files": {
+  "CARGOSHP.BSP": {
+   "filesize": 1056524,
+   "timestamp": "1997-01-10"
+  },
+  "CARGOSHP.TXT": {
+   "filesize": 7825,
+   "timestamp": "1999-08-07"
+  }
+ },
  "filesize": 436,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0d6efe7fc7b4427e6a1af5c271df2e83d7666a503c0eef07104f91ca04f9831c",
  "tags": [
   "title:The Cargo Hulk for STORM",
   "releasedate:1999-08-07",
@@ -14,21 +26,9 @@
   "tag:mixtex",
   "tag:no exit"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CARGOSHP.TXT": {
-   "filesize": 7825,
-   "timestamp": "1999-08-07"
-  },
-  "CARGOSHP.BSP": {
-   "filesize": 1056524,
-   "timestamp": "1997-01-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cargoshp.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0d6efe7fc7b4427e6a1af5c271df2e83d7666a503c0eef07104f91ca04f9831c/cargoshp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

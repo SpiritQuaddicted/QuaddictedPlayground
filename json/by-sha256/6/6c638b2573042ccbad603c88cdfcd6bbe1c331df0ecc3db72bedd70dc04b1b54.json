@@ -1,10 +1,130 @@
 {
- "version": "20191222-0",
- "sha256": "6c638b2573042ccbad603c88cdfcd6bbe1c331df0ecc3db72bedd70dc04b1b54",
  "filename": [
   "rmx-pack.zip"
  ],
+ "files": {
+  "_readme-rmx.txt": {
+   "filesize": 763,
+   "timestamp": "2008-08-27"
+  },
+  "rmx-pack/_readme-rmx.txt": {
+   "filesize": 807,
+   "timestamp": "2008-08-27"
+  },
+  "rmx-pack/e3m4rmx.txt": {
+   "filesize": 191,
+   "timestamp": "2008-08-21"
+  },
+  "rmx-pack/e3m5rmx_spd.txt": {
+   "filesize": 569,
+   "timestamp": "2008-08-27"
+  },
+  "rmx-pack/e4m1rmx.txt": {
+   "filesize": 3018,
+   "timestamp": "2008-06-16"
+  },
+  "rmx-pack/fitz-rmx.bat": {
+   "filesize": 193,
+   "timestamp": "2008-05-18"
+  },
+  "rmx-pack/gfx/env/elbrus256bk.tga": {
+   "filesize": 195569,
+   "timestamp": "2001-12-27"
+  },
+  "rmx-pack/gfx/env/elbrus256dn.tga": {
+   "filesize": 197075,
+   "timestamp": "2001-12-27"
+  },
+  "rmx-pack/gfx/env/elbrus256ft.tga": {
+   "filesize": 197082,
+   "timestamp": "2001-12-27"
+  },
+  "rmx-pack/gfx/env/elbrus256lf.tga": {
+   "filesize": 196634,
+   "timestamp": "2001-12-27"
+  },
+  "rmx-pack/gfx/env/elbrus256rt.tga": {
+   "filesize": 196368,
+   "timestamp": "2001-12-27"
+  },
+  "rmx-pack/gfx/env/elbrus256up.tga": {
+   "filesize": 192531,
+   "timestamp": "2001-12-27"
+  },
+  "rmx-pack/gnu.txt": {
+   "filesize": 14969,
+   "timestamp": "1999-12-21"
+  },
+  "rmx-pack/maps/e2m1rmx_spirit.bsp": {
+   "filesize": 1438856,
+   "timestamp": "2008-06-15"
+  },
+  "rmx-pack/maps/e3m4rmx.bsp": {
+   "filesize": 3041052,
+   "timestamp": "2008-08-27"
+  },
+  "rmx-pack/maps/e3m5rmx_spd.bsp": {
+   "filesize": 2616173,
+   "timestamp": "2008-08-20"
+  },
+  "rmx-pack/maps/e4m1rmx.bsp": {
+   "filesize": 3994432,
+   "timestamp": "2008-06-16"
+  },
+  "rmx-pack/maps/e4m1rmx.lit": {
+   "filesize": 1456460,
+   "timestamp": "2008-06-16"
+  },
+  "rmx-pack/maps/e4m7rmx.bsp": {
+   "filesize": 4307248,
+   "timestamp": "2008-06-15"
+  },
+  "rmx-pack/maps/start.bsp": {
+   "filesize": 2230456,
+   "timestamp": "2008-08-22"
+  },
+  "sources/e2m1rmx_spirit.map": {
+   "filesize": 1231030,
+   "timestamp": "2008-08-23"
+  },
+  "sources/e2m1rmx_spirit.qkm": {
+   "filesize": 625364,
+   "timestamp": "2008-06-15"
+  },
+  "sources/e3m4rmx.map": {
+   "filesize": 1676932,
+   "timestamp": "2008-06-17"
+  },
+  "sources/e3m4rmx.txt": {
+   "filesize": 191,
+   "timestamp": "2008-08-21"
+  },
+  "sources/e4m1rmx.map": {
+   "filesize": 3076976,
+   "timestamp": "2008-06-09"
+  },
+  "sources/e4m1rmx.rmf": {
+   "filesize": 11359521,
+   "timestamp": "2008-06-09"
+  },
+  "sources/e4m1rmx.txt": {
+   "filesize": 3017,
+   "timestamp": "2008-06-09"
+  },
+  "sources/gnu.txt": {
+   "filesize": 14969,
+   "timestamp": "1999-12-21"
+  },
+  "sources/start.map": {
+   "filesize": 2091516,
+   "timestamp": "2008-08-23"
+  }
+ },
  "filesize": 7846,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "6c638b2573042ccbad603c88cdfcd6bbe1c331df0ecc3db72bedd70dc04b1b54",
  "tags": [
   "title:Remix Map Pack",
   "releasedate:2008-08-28",
@@ -35,129 +155,9 @@
   "startmap:e4m1rmx",
   "startmap:e4m7rmx"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "rmx-pack/gnu.txt": {
-   "filesize": 14969,
-   "timestamp": "1999-12-21"
-  },
-  "rmx-pack/maps/e4m1rmx.lit": {
-   "filesize": 1456460,
-   "timestamp": "2008-06-16"
-  },
-  "rmx-pack/maps/e3m5rmx_spd.bsp": {
-   "filesize": 2616173,
-   "timestamp": "2008-08-20"
-  },
-  "rmx-pack/maps/e2m1rmx_spirit.bsp": {
-   "filesize": 1438856,
-   "timestamp": "2008-06-15"
-  },
-  "rmx-pack/maps/start.bsp": {
-   "filesize": 2230456,
-   "timestamp": "2008-08-22"
-  },
-  "rmx-pack/maps/e3m4rmx.bsp": {
-   "filesize": 3041052,
-   "timestamp": "2008-08-27"
-  },
-  "rmx-pack/maps/e4m7rmx.bsp": {
-   "filesize": 4307248,
-   "timestamp": "2008-06-15"
-  },
-  "rmx-pack/maps/e4m1rmx.bsp": {
-   "filesize": 3994432,
-   "timestamp": "2008-06-16"
-  },
-  "rmx-pack/e3m4rmx.txt": {
-   "filesize": 191,
-   "timestamp": "2008-08-21"
-  },
-  "rmx-pack/e3m5rmx_spd.txt": {
-   "filesize": 569,
-   "timestamp": "2008-08-27"
-  },
-  "rmx-pack/_readme-rmx.txt": {
-   "filesize": 807,
-   "timestamp": "2008-08-27"
-  },
-  "rmx-pack/fitz-rmx.bat": {
-   "filesize": 193,
-   "timestamp": "2008-05-18"
-  },
-  "rmx-pack/e4m1rmx.txt": {
-   "filesize": 3018,
-   "timestamp": "2008-06-16"
-  },
-  "rmx-pack/gfx/env/elbrus256lf.tga": {
-   "filesize": 196634,
-   "timestamp": "2001-12-27"
-  },
-  "rmx-pack/gfx/env/elbrus256dn.tga": {
-   "filesize": 197075,
-   "timestamp": "2001-12-27"
-  },
-  "rmx-pack/gfx/env/elbrus256bk.tga": {
-   "filesize": 195569,
-   "timestamp": "2001-12-27"
-  },
-  "rmx-pack/gfx/env/elbrus256ft.tga": {
-   "filesize": 197082,
-   "timestamp": "2001-12-27"
-  },
-  "rmx-pack/gfx/env/elbrus256rt.tga": {
-   "filesize": 196368,
-   "timestamp": "2001-12-27"
-  },
-  "rmx-pack/gfx/env/elbrus256up.tga": {
-   "filesize": 192531,
-   "timestamp": "2001-12-27"
-  },
-  "_readme-rmx.txt": {
-   "filesize": 763,
-   "timestamp": "2008-08-27"
-  },
-  "sources/gnu.txt": {
-   "filesize": 14969,
-   "timestamp": "1999-12-21"
-  },
-  "sources/e3m4rmx.txt": {
-   "filesize": 191,
-   "timestamp": "2008-08-21"
-  },
-  "sources/start.map": {
-   "filesize": 2091516,
-   "timestamp": "2008-08-23"
-  },
-  "sources/e4m1rmx.rmf": {
-   "filesize": 11359521,
-   "timestamp": "2008-06-09"
-  },
-  "sources/e3m4rmx.map": {
-   "filesize": 1676932,
-   "timestamp": "2008-06-17"
-  },
-  "sources/e2m1rmx_spirit.qkm": {
-   "filesize": 625364,
-   "timestamp": "2008-06-15"
-  },
-  "sources/e4m1rmx.map": {
-   "filesize": 3076976,
-   "timestamp": "2008-06-09"
-  },
-  "sources/e2m1rmx_spirit.map": {
-   "filesize": 1231030,
-   "timestamp": "2008-08-23"
-  },
-  "sources/e4m1rmx.txt": {
-   "filesize": 3017,
-   "timestamp": "2008-06-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rmx-pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6c638b2573042ccbad603c88cdfcd6bbe1c331df0ecc3db72bedd70dc04b1b54/rmx-pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

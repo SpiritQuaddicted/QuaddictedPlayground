@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "797b71dd9f00c1fd759405d1c76f0d23cdf5c1fb18915db4bba6d78c4605c206",
  "filename": [
   "giant.zip"
  ],
+ "files": {
+  "giant.bsp": {
+   "filesize": 685948,
+   "timestamp": "1997-01-02"
+  },
+  "giant.txt": {
+   "filesize": 2290,
+   "timestamp": "1997-01-04"
+  }
+ },
  "filesize": 292,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "797b71dd9f00c1fd759405d1c76f0d23cdf5c1fb18915db4bba6d78c4605c206",
  "tags": [
   "title:Tall PolyEd Level",
   "releasedate:1997-01-04",
@@ -19,21 +31,9 @@
   "tag:outdoor",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "giant.txt": {
-   "filesize": 2290,
-   "timestamp": "1997-01-04"
-  },
-  "giant.bsp": {
-   "filesize": 685948,
-   "timestamp": "1997-01-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/giant.zip",
   "https://www.quaddicted.com/files/by-sha256/7/797b71dd9f00c1fd759405d1c76f0d23cdf5c1fb18915db4bba6d78c4605c206/giant.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "eacd5ba47e4a43db468df58c8ad454cc24e9fb469a1406b813cbbc527765a790",
  "filename": [
   "weaponf.zip"
  ],
- "filesize": 629,
- "tags": [
-  "title:The Weapon Factory",
-  "releasedate:1997-11-30",
-  "game:quake",
-  "author:EraserX",
-  "tag:small",
-  "tag:metal",
-  "tag:base",
-  "tag:realism"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "weaponf.bsp": {
    "filesize": 1489612,
@@ -28,8 +12,24 @@
    "timestamp": "1997-11-30"
   }
  },
+ "filesize": 629,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "eacd5ba47e4a43db468df58c8ad454cc24e9fb469a1406b813cbbc527765a790",
+ "tags": [
+  "title:The Weapon Factory",
+  "releasedate:1997-11-30",
+  "game:quake",
+  "author:EraserX",
+  "tag:small",
+  "tag:metal",
+  "tag:base",
+  "tag:realism"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/weaponf.zip",
   "https://www.quaddicted.com/files/by-sha256/e/eacd5ba47e4a43db468df58c8ad454cc24e9fb469a1406b813cbbc527765a790/weaponf.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ea9fe3a81afb0bfebc039a2e3b6ec04e962d7922a98d1e3bbfdd30fbdab1ef84",
  "filename": [
   "a3.zip"
  ],
+ "files": {
+  "A3.TXT": {
+   "filesize": 23070,
+   "timestamp": "2000-04-01"
+  },
+  "a3.bsp": {
+   "filesize": 2056224,
+   "timestamp": "2000-04-01"
+  }
+ },
  "filesize": 807,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ea9fe3a81afb0bfebc039a2e3b6ec04e962d7922a98d1e3bbfdd30fbdab1ef84",
  "tags": [
   "title:The Journey Home",
   "releasedate:2000-04-01",
@@ -14,21 +26,9 @@
   "tag:small",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "a3.bsp": {
-   "filesize": 2056224,
-   "timestamp": "2000-04-01"
-  },
-  "A3.TXT": {
-   "filesize": 23070,
-   "timestamp": "2000-04-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/a3.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ea9fe3a81afb0bfebc039a2e3b6ec04e962d7922a98d1e3bbfdd30fbdab1ef84/a3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

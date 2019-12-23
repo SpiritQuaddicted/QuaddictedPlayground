@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "90877b8cf89c7b574572eaa5bba709beb35cb1d9d0484b209b4f7b3a5d6ababc",
  "filename": [
   "doom2_04.zip"
  ],
+ "files": {
+  "04.BSP": {
+   "filesize": 804896,
+   "timestamp": "1997-03-17"
+  },
+  "DOOM2_04.TXT": {
+   "filesize": 1549,
+   "timestamp": "1997-03-17"
+  }
+ },
  "filesize": 232,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "90877b8cf89c7b574572eaa5bba709beb35cb1d9d0484b209b4f7b3a5d6ababc",
  "tags": [
   "title:The Focus  (Doom2 Map04)",
   "releasedate:1997-03-17",
@@ -17,21 +29,9 @@
   "tag:conversion",
   "startmap:04"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "04.BSP": {
-   "filesize": 804896,
-   "timestamp": "1997-03-17"
-  },
-  "DOOM2_04.TXT": {
-   "filesize": 1549,
-   "timestamp": "1997-03-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/doom2_04.zip",
   "https://www.quaddicted.com/files/by-sha256/9/90877b8cf89c7b574572eaa5bba709beb35cb1d9d0484b209b4f7b3a5d6ababc/doom2_04.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

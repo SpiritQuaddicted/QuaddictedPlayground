@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "a91cc81a8fa94b9fa198d9c6fda311cf1970d32cdef55b3679a1c26e8e76c7d9",
  "filename": [
   "digs07.zip"
  ],
+ "files": {
+  "digs07.bsp": {
+   "filesize": 7502844,
+   "timestamp": "2014-02-18"
+  },
+  "digs07.lit": {
+   "filesize": 2880503,
+   "timestamp": "2014-02-17"
+  },
+  "digs07.txt": {
+   "filesize": 1964,
+   "timestamp": "2014-02-18"
+  }
+ },
  "filesize": 3480,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a91cc81a8fa94b9fa198d9c6fda311cf1970d32cdef55b3679a1c26e8e76c7d9",
  "tags": [
   "title:RJ Zone",
   "releasedate:2014-02-18",
@@ -21,25 +37,9 @@
   "tag:puzzles",
   "tag:unique"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "digs07.bsp": {
-   "filesize": 7502844,
-   "timestamp": "2014-02-18"
-  },
-  "digs07.lit": {
-   "filesize": 2880503,
-   "timestamp": "2014-02-17"
-  },
-  "digs07.txt": {
-   "filesize": 1964,
-   "timestamp": "2014-02-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/digs07.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a91cc81a8fa94b9fa198d9c6fda311cf1970d32cdef55b3679a1c26e8e76c7d9/digs07.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

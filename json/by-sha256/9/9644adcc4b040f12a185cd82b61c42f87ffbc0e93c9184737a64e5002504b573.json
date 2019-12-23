@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "9644adcc4b040f12a185cd82b61c42f87ffbc0e93c9184737a64e5002504b573",
  "filename": [
   "evildead.zip"
  ],
+ "files": {
+  "Evildead.map": {
+   "filesize": 362504,
+   "timestamp": "1997-10-19"
+  },
+  "evildead.bsp": {
+   "filesize": 1159392,
+   "timestamp": "1997-10-20"
+  },
+  "evildead.txt": {
+   "filesize": 2528,
+   "timestamp": "1997-10-20"
+  }
+ },
  "filesize": 489,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9644adcc4b040f12a185cd82b61c42f87ffbc0e93c9184737a64e5002504b573",
  "tags": [
   "title:EvilDead cabin",
   "releasedate:1997-10-20",
@@ -17,25 +33,9 @@
   "tag:source",
   "tag:realism"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Evildead.map": {
-   "filesize": 362504,
-   "timestamp": "1997-10-19"
-  },
-  "evildead.txt": {
-   "filesize": 2528,
-   "timestamp": "1997-10-20"
-  },
-  "evildead.bsp": {
-   "filesize": 1159392,
-   "timestamp": "1997-10-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/evildead.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9644adcc4b040f12a185cd82b61c42f87ffbc0e93c9184737a64e5002504b573/evildead.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

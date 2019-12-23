@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "filename": [
   "lastgame.zip"
  ],
+ "files": {
+  "Config.cfg": {
+   "filesize": 2111,
+   "timestamp": "1998-01-20"
+  },
+  "Lastgame.bat": {
+   "filesize": 31,
+   "timestamp": "1998-01-19"
+  },
+  "Lastgame.txt": {
+   "filesize": 2077,
+   "timestamp": "1998-01-19"
+  },
+  "pak0.pak": {
+   "filesize": 3202093,
+   "timestamp": "1998-01-20"
+  }
+ },
  "filesize": 1282,
+ "install": {
+  "extract": "{quake}/lastgame/"
+ },
+ "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "tags": [
   "title:The last game",
   "releasedate:1998-01-20",
@@ -15,29 +35,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/lastgame/"
- },
- "files": {
-  "Lastgame.txt": {
-   "filesize": 2077,
-   "timestamp": "1998-01-19"
-  },
-  "Config.cfg": {
-   "filesize": 2111,
-   "timestamp": "1998-01-20"
-  },
-  "Lastgame.bat": {
-   "filesize": 31,
-   "timestamp": "1998-01-19"
-  },
-  "pak0.pak": {
-   "filesize": 3202093,
-   "timestamp": "1998-01-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lastgame.zip",
   "https://www.quaddicted.com/files/by-sha256/e/eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f/lastgame.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

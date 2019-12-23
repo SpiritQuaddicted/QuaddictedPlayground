@@ -1,35 +1,43 @@
 {
- "version": "20191222-0",
- "sha256": "a4bfe55888c006e18782f9bdb99d136765296e291dff5979acc7af057cab3768",
  "filename": [
   "arcdemo.zip"
  ],
- "filesize": 18795,
- "tags": [
-  "title:Arcanum Demo",
-  "releasedate:2009-10-31",
-  "game:quake",
-  "commandline:-game arcdemo",
-  "author:Tronyn &amp; PM",
-  "tag:fantasy",
-  "tag:medieval",
-  "startmap:arcanum1"
- ],
- "install": {
-  "extract": "{quake}/arcdemo/"
- },
  "files": {
   "arcdemo.txt": {
    "filesize": 853,
    "timestamp": "2009-10-31"
   },
+  "gfx/env/floodland_bk.tga": {
+   "filesize": 103354,
+   "timestamp": "2002-06-30"
+  },
+  "gfx/env/floodland_dn.tga": {
+   "filesize": 162355,
+   "timestamp": "2002-10-30"
+  },
+  "gfx/env/floodland_ft.tga": {
+   "filesize": 402531,
+   "timestamp": "2002-06-29"
+  },
+  "gfx/env/floodland_lf.tga": {
+   "filesize": 132172,
+   "timestamp": "2002-06-29"
+  },
+  "gfx/env/floodland_rt.tga": {
+   "filesize": 105680,
+   "timestamp": "2002-06-30"
+  },
+  "gfx/env/floodland_up.tga": {
+   "filesize": 182104,
+   "timestamp": "2002-10-30"
+  },
   "maps/arcanum1.bsp": {
    "filesize": 6343952,
    "timestamp": "2009-03-16"
   },
-  "sound/music/earth.wav": {
-   "filesize": 794056,
-   "timestamp": "2009-10-31"
+  "pak0.pak": {
+   "filesize": 21411654,
+   "timestamp": "2009-09-05"
   },
   "pak1.pak": {
    "filesize": 11029957,
@@ -43,37 +51,29 @@
    "filesize": 1095776,
    "timestamp": "2009-10-31"
   },
-  "gfx/env/floodland_rt.tga": {
-   "filesize": 105680,
-   "timestamp": "2002-06-30"
-  },
-  "gfx/env/floodland_dn.tga": {
-   "filesize": 162355,
-   "timestamp": "2002-10-30"
-  },
-  "gfx/env/floodland_bk.tga": {
-   "filesize": 103354,
-   "timestamp": "2002-06-30"
-  },
-  "gfx/env/floodland_ft.tga": {
-   "filesize": 402531,
-   "timestamp": "2002-06-29"
-  },
-  "gfx/env/floodland_up.tga": {
-   "filesize": 182104,
-   "timestamp": "2002-10-30"
-  },
-  "gfx/env/floodland_lf.tga": {
-   "filesize": 132172,
-   "timestamp": "2002-06-29"
-  },
-  "pak0.pak": {
-   "filesize": 21411654,
-   "timestamp": "2009-09-05"
+  "sound/music/earth.wav": {
+   "filesize": 794056,
+   "timestamp": "2009-10-31"
   }
  },
+ "filesize": 18795,
+ "install": {
+  "extract": "{quake}/arcdemo/"
+ },
+ "sha256": "a4bfe55888c006e18782f9bdb99d136765296e291dff5979acc7af057cab3768",
+ "tags": [
+  "title:Arcanum Demo",
+  "releasedate:2009-10-31",
+  "game:quake",
+  "commandline:-game arcdemo",
+  "author:Tronyn &amp; PM",
+  "tag:fantasy",
+  "tag:medieval",
+  "startmap:arcanum1"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/arcdemo.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a4bfe55888c006e18782f9bdb99d136765296e291dff5979acc7af057cab3768/arcdemo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

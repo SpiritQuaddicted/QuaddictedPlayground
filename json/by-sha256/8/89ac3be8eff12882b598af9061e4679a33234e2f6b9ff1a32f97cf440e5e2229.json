@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "89ac3be8eff12882b598af9061e4679a33234e2f6b9ff1a32f97cf440e5e2229",
  "filename": [
   "scity509.zip"
  ],
- "filesize": 679,
- "tags": [
-  "title:Quake City",
-  "releasedate:2011-01-10",
-  "game:quake",
-  "author:NCMark",
-  "tag:medium",
-  "tag:realism",
-  "tag:city",
-  "tag:sewers"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "scity509.bsp": {
    "filesize": 1737080,
@@ -28,8 +12,24 @@
    "timestamp": "2011-01-10"
   }
  },
+ "filesize": 679,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "89ac3be8eff12882b598af9061e4679a33234e2f6b9ff1a32f97cf440e5e2229",
+ "tags": [
+  "title:Quake City",
+  "releasedate:2011-01-10",
+  "game:quake",
+  "author:NCMark",
+  "tag:medium",
+  "tag:realism",
+  "tag:city",
+  "tag:sewers"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/scity509.zip",
   "https://www.quaddicted.com/files/by-sha256/8/89ac3be8eff12882b598af9061e4679a33234e2f6b9ff1a32f97cf440e5e2229/scity509.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

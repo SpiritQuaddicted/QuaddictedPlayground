@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "9881316552c43180463bd14468b3df21e6c31b8f257aee9e2d5c57c045f607b3",
  "filename": [
   "garrison.zip"
  ],
+ "files": {
+  "garrison.bsp": {
+   "filesize": 902660,
+   "timestamp": "1998-02-24"
+  }
+ },
  "filesize": 351,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9881316552c43180463bd14468b3df21e6c31b8f257aee9e2d5c57c045f607b3",
  "tags": [
   "title:The Garrison",
   "releasedate:1998-02-24",
@@ -16,17 +24,9 @@
   "tag:base",
   "tag:runic"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "garrison.bsp": {
-   "filesize": 902660,
-   "timestamp": "1998-02-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/garrison.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9881316552c43180463bd14468b3df21e6c31b8f257aee9e2d5c57c045f607b3/garrison.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d2a327e64f85d89ec682fdfc687a0e39f5eedbdc6ad465e3880040f01ed833ab",
  "filename": [
   "sm_dq1.zip"
  ],
- "filesize": 900,
- "tags": [
-  "title:Eye Sore",
-  "releasedate:2018-09-11",
-  "game:quake",
-  "author:DraQu",
-  "tag:madfox",
-  "tag:small",
-  "tag:medieval"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm_dq1.bsp": {
    "filesize": 1494876,
@@ -35,8 +20,23 @@
    "timestamp": "2018-09-11"
   }
  },
+ "filesize": 900,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d2a327e64f85d89ec682fdfc687a0e39f5eedbdc6ad465e3880040f01ed833ab",
+ "tags": [
+  "title:Eye Sore",
+  "releasedate:2018-09-11",
+  "game:quake",
+  "author:DraQu",
+  "tag:madfox",
+  "tag:small",
+  "tag:medieval"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm_dq1.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d2a327e64f85d89ec682fdfc687a0e39f5eedbdc6ad465e3880040f01ed833ab/sm_dq1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

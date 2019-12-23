@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff",
  "filename": [
   "my_level.zip"
  ],
+ "files": {
+  "BASE1.dem": {
+   "filesize": 2382350,
+   "timestamp": "1998-03-06"
+  },
+  "base.bsp": {
+   "filesize": 3714648,
+   "timestamp": "1998-03-04"
+  }
+ },
  "filesize": 1879,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff",
  "tags": [
   "title:Lost Underground Base",
   "releasedate:1998-05-21",
@@ -18,21 +30,9 @@
   "tag:submarine",
   "startmap:base"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "BASE1.dem": {
-   "filesize": 2382350,
-   "timestamp": "1998-03-06"
-  },
-  "base.bsp": {
-   "filesize": 3714648,
-   "timestamp": "1998-03-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/my_level.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff/my_level.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

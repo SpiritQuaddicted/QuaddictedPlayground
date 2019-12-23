@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4077ecaf15e110c8a92003f816cc41a121eed11c86019ce3bb24edd72dfebd49",
  "filename": [
   "sm158_pack.zip"
  ],
- "filesize": 1177,
- "tags": [
-  "title:Speedmapping pack 158 - 80s arcade tribute",
-  "releasedate:2010-02-17",
-  "game:quake",
-  "author:Drew",
-  "author:negke",
-  "tag:quoth",
-  "startmap:sm158_drew",
-  "startmap:sm158_negke1",
-  "startmap:sm158_negke2",
-  "startmap:sm158_negke3",
-  "startmap:sm158_negke4"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm158_drew.bsp": {
    "filesize": 1214688,
@@ -47,8 +28,27 @@
    "timestamp": "2010-02-17"
   }
  },
+ "filesize": 1177,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4077ecaf15e110c8a92003f816cc41a121eed11c86019ce3bb24edd72dfebd49",
+ "tags": [
+  "title:Speedmapping pack 158 - 80s arcade tribute",
+  "releasedate:2010-02-17",
+  "game:quake",
+  "author:Drew",
+  "author:negke",
+  "tag:quoth",
+  "startmap:sm158_drew",
+  "startmap:sm158_negke1",
+  "startmap:sm158_negke2",
+  "startmap:sm158_negke3",
+  "startmap:sm158_negke4"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm158_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4077ecaf15e110c8a92003f816cc41a121eed11c86019ce3bb24edd72dfebd49/sm158_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "76681a0219346bdeaba3810c0503c3ee48f85e09a39897412aa1ae93d783b6a6",
  "filename": [
   "jhhub6.zip"
  ],
+ "files": {
+  "jhhub6.bsp": {
+   "filesize": 126632,
+   "timestamp": "1997-09-13"
+  },
+  "mvroom6.bsp": {
+   "filesize": 642072,
+   "timestamp": "1997-11-02"
+  },
+  "mvroom6.txt": {
+   "filesize": 3336,
+   "timestamp": "1997-11-02"
+  }
+ },
  "filesize": 337,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "76681a0219346bdeaba3810c0503c3ee48f85e09a39897412aa1ae93d783b6a6",
  "tags": [
   "title:The Chamber of Pain",
   "releasedate:1997-11-02",
@@ -19,25 +35,9 @@
   "tag:wizard",
   "startmap:mvroom6"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "jhhub6.bsp": {
-   "filesize": 126632,
-   "timestamp": "1997-09-13"
-  },
-  "mvroom6.txt": {
-   "filesize": 3336,
-   "timestamp": "1997-11-02"
-  },
-  "mvroom6.bsp": {
-   "filesize": 642072,
-   "timestamp": "1997-11-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/jhhub6.zip",
   "https://www.quaddicted.com/files/by-sha256/7/76681a0219346bdeaba3810c0503c3ee48f85e09a39897412aa1ae93d783b6a6/jhhub6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

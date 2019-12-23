@@ -1,33 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "e4aff8e2e0250d2926ee02eb593f961490ed2c5d8a6c7b2d3849cf5abf31f014",
  "filename": [
   "func_mapjam5.zip"
  ],
- "filesize": 45523,
- "tags": [
-  "title:Func Map Jam 5 - The Qonquer Map Jam",
-  "releasedate:2015-04-10",
-  "game:quake",
-  "commandline:-heapsize 65536 -game func_mapjam5",
-  "author:Arrrcee",
-  "author:FifthElephant",
-  "author:Hypnos",
-  "author:ijed",
-  "author:mfx",
-  "author:Scampie",
-  "author:Skacky",
-  "author:WarrenM",
-  "tag:qonquer",
-  "tag:source",
-  "tag:start map",
-  "tag:arena",
-  "tag:jam",
-  "startmap:start"
- ],
- "install": {
-  "extract": "{quake}/func_mapjam5/"
- },
  "files": {
   "demo1.dem": {
    "filesize": 2135701,
@@ -486,8 +460,34 @@
    "timestamp": "2015-04-09"
   }
  },
+ "filesize": 45523,
+ "install": {
+  "extract": "{quake}/func_mapjam5/"
+ },
+ "sha256": "e4aff8e2e0250d2926ee02eb593f961490ed2c5d8a6c7b2d3849cf5abf31f014",
+ "tags": [
+  "title:Func Map Jam 5 - The Qonquer Map Jam",
+  "releasedate:2015-04-10",
+  "game:quake",
+  "commandline:-heapsize 65536 -game func_mapjam5",
+  "author:Arrrcee",
+  "author:FifthElephant",
+  "author:Hypnos",
+  "author:ijed",
+  "author:mfx",
+  "author:Scampie",
+  "author:Skacky",
+  "author:WarrenM",
+  "tag:qonquer",
+  "tag:source",
+  "tag:start map",
+  "tag:arena",
+  "tag:jam",
+  "startmap:start"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjam5.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e4aff8e2e0250d2926ee02eb593f961490ed2c5d8a6c7b2d3849cf5abf31f014/func_mapjam5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

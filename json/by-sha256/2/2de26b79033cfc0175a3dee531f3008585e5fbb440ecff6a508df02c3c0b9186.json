@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "2de26b79033cfc0175a3dee531f3008585e5fbb440ecff6a508df02c3c0b9186",
  "filename": [
   "doormat.zip"
  ],
+ "files": {
+  "doormat.bsp": {
+   "filesize": 1125868,
+   "timestamp": "1997-11-19"
+  },
+  "doormat.txt": {
+   "filesize": 2197,
+   "timestamp": "1997-11-19"
+  },
+  "essay.txt": {
+   "filesize": 6846,
+   "timestamp": "1997-11-19"
+  }
+ },
  "filesize": 465,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2de26b79033cfc0175a3dee531f3008585e5fbb440ecff6a508df02c3c0b9186",
  "tags": [
   "title:I Wore My Doormat Face",
   "releasedate:1997-11-19",
@@ -13,25 +29,9 @@
   "tag:medium",
   "tag:metal"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "essay.txt": {
-   "filesize": 6846,
-   "timestamp": "1997-11-19"
-  },
-  "doormat.txt": {
-   "filesize": 2197,
-   "timestamp": "1997-11-19"
-  },
-  "doormat.bsp": {
-   "filesize": 1125868,
-   "timestamp": "1997-11-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/doormat.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2de26b79033cfc0175a3dee531f3008585e5fbb440ecff6a508df02c3c0b9186/doormat.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

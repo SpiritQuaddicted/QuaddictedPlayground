@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "1ff3937d052673a84959fec8f1247ec415fe7904c3a4b1decd4fb4932fa1e386",
  "filename": [
   "zertm_pack.zip"
  ],
+ "files": {
+  "ZerTM_ht.bsp": {
+   "filesize": 1850708,
+   "timestamp": "2003-02-07"
+  },
+  "ZerTM_ht.txt": {
+   "filesize": 1703,
+   "timestamp": "2003-02-07"
+  },
+  "aderlass.txt": {
+   "filesize": 2644,
+   "timestamp": "2008-01-20"
+  },
+  "adrlass.bsp": {
+   "filesize": 1825260,
+   "timestamp": "2008-01-20"
+  },
+  "adrlass2.bsp": {
+   "filesize": 4192528,
+   "timestamp": "2008-01-20"
+  },
+  "zerTM_efdat.bsp": {
+   "filesize": 3176864,
+   "timestamp": "2008-01-27"
+  },
+  "zerTM_efdat.txt": {
+   "filesize": 2054,
+   "timestamp": "2008-01-27"
+  }
+ },
  "filesize": 4414,
+ "install": {
+  "extract": "{quake}/zer/maps/"
+ },
+ "sha256": "1ff3937d052673a84959fec8f1247ec415fe7904c3a4b1decd4fb4932fa1e386",
  "tags": [
   "title:Zerst\u00f6rer Turtlemap Pack",
   "releasedate:2008-02-09",
@@ -25,41 +57,9 @@
   "startmap:adrlass2",
   "startmap:zerTM_efdat"
  ],
- "install": {
-  "extract": "{quake}/zer/maps/"
- },
- "files": {
-  "zerTM_efdat.bsp": {
-   "filesize": 3176864,
-   "timestamp": "2008-01-27"
-  },
-  "adrlass2.bsp": {
-   "filesize": 4192528,
-   "timestamp": "2008-01-20"
-  },
-  "ZerTM_ht.bsp": {
-   "filesize": 1850708,
-   "timestamp": "2003-02-07"
-  },
-  "aderlass.txt": {
-   "filesize": 2644,
-   "timestamp": "2008-01-20"
-  },
-  "adrlass.bsp": {
-   "filesize": 1825260,
-   "timestamp": "2008-01-20"
-  },
-  "ZerTM_ht.txt": {
-   "filesize": 1703,
-   "timestamp": "2003-02-07"
-  },
-  "zerTM_efdat.txt": {
-   "filesize": 2054,
-   "timestamp": "2008-01-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/zertm_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1ff3937d052673a84959fec8f1247ec415fe7904c3a4b1decd4fb4932fa1e386/zertm_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

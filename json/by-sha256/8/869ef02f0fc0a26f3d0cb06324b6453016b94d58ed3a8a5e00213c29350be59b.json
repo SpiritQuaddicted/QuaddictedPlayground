@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "869ef02f0fc0a26f3d0cb06324b6453016b94d58ed3a8a5e00213c29350be59b",
  "filename": [
   "harmsway.zip"
  ],
+ "files": {
+  "harmsway.bsp": {
+   "filesize": 2136848,
+   "timestamp": "1997-10-18"
+  },
+  "harmsway.txt": {
+   "filesize": 9482,
+   "timestamp": "1997-10-20"
+  }
+ },
  "filesize": 886,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "869ef02f0fc0a26f3d0cb06324b6453016b94d58ed3a8a5e00213c29350be59b",
  "tags": [
   "title:Harm's Way",
   "releasedate:1997-10-20",
@@ -14,21 +26,9 @@
   "tag:base",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "harmsway.txt": {
-   "filesize": 9482,
-   "timestamp": "1997-10-20"
-  },
-  "harmsway.bsp": {
-   "filesize": 2136848,
-   "timestamp": "1997-10-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/harmsway.zip",
   "https://www.quaddicted.com/files/by-sha256/8/869ef02f0fc0a26f3d0cb06324b6453016b94d58ed3a8a5e00213c29350be59b/harmsway.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

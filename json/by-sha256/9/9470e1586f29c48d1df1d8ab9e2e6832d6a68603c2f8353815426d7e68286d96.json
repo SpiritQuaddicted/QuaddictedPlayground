@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9470e1586f29c48d1df1d8ab9e2e6832d6a68603c2f8353815426d7e68286d96",
  "filename": [
   "camber.zip"
  ],
- "filesize": 747,
- "tags": [
-  "title:The Castle Amber",
-  "releasedate:1997-02-24",
-  "game:quake",
-  "author:Psycho",
-  "tag:small",
-  "tag:medieval",
-  "tag:castle",
-  "tag:terracotta"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "CAMBER.BSP": {
    "filesize": 1697996,
@@ -28,8 +12,24 @@
    "timestamp": "1997-02-25"
   }
  },
+ "filesize": 747,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9470e1586f29c48d1df1d8ab9e2e6832d6a68603c2f8353815426d7e68286d96",
+ "tags": [
+  "title:The Castle Amber",
+  "releasedate:1997-02-24",
+  "game:quake",
+  "author:Psycho",
+  "tag:small",
+  "tag:medieval",
+  "tag:castle",
+  "tag:terracotta"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/camber.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9470e1586f29c48d1df1d8ab9e2e6832d6a68603c2f8353815426d7e68286d96/camber.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

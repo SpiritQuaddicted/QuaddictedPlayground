@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "9f0f090c6e6f48e8afacba6a0a8f23217ba159c226f678ab3fcdc5bfee479b08",
  "filename": [
   "veni05a.zip"
  ],
+ "files": {
+  "pak0.pak": {
+   "filesize": 19030168,
+   "timestamp": "2010-08-30"
+  },
+  "progs.dat": {
+   "filesize": 461076,
+   "timestamp": "2010-08-30"
+  },
+  "venividi.txt": {
+   "filesize": 3925,
+   "timestamp": "2010-08-30"
+  }
+ },
  "filesize": 6288,
+ "install": {
+  "extract": "{quake}/veni/"
+ },
+ "sha256": "9f0f090c6e6f48e8afacba6a0a8f23217ba159c226f678ab3fcdc5bfee479b08",
  "tags": [
   "title:VeniVidiFutzi",
   "releasedate:2010-08-30",
@@ -20,25 +36,9 @@
   "tag:monsters",
   "startmap:sparcus10"
  ],
- "install": {
-  "extract": "{quake}/veni/"
- },
- "files": {
-  "pak0.pak": {
-   "filesize": 19030168,
-   "timestamp": "2010-08-30"
-  },
-  "progs.dat": {
-   "filesize": 461076,
-   "timestamp": "2010-08-30"
-  },
-  "venividi.txt": {
-   "filesize": 3925,
-   "timestamp": "2010-08-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/veni05a.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9f0f090c6e6f48e8afacba6a0a8f23217ba159c226f678ab3fcdc5bfee479b08/veni05a.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

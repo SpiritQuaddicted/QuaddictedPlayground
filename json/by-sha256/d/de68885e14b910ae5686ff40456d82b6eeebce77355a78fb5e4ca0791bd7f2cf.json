@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf",
  "filename": [
   "flee.zip"
  ],
+ "files": {
+  "Flee.bat": {
+   "filesize": 27,
+   "timestamp": "1998-01-03"
+  },
+  "flee/flee.txt": {
+   "filesize": 5464,
+   "timestamp": "1998-01-03"
+  },
+  "flee/maps/flee0.bsp": {
+   "filesize": 374612,
+   "timestamp": "1998-01-03"
+  },
+  "flee/maps/flee1.bsp": {
+   "filesize": 2178360,
+   "timestamp": "1997-12-08"
+  },
+  "flee/maps/flee2.bsp": {
+   "filesize": 2175468,
+   "timestamp": "1998-01-03"
+  },
+  "flee/maps/flee3.bsp": {
+   "filesize": 2209364,
+   "timestamp": "1997-12-07"
+  },
+  "flee/progs.dat": {
+   "filesize": 416068,
+   "timestamp": "1997-12-17"
+  }
+ },
  "filesize": 2889,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf",
  "tags": [
   "title:Jay Vanover",
   "releasedate:1998-01-03",
@@ -21,41 +53,9 @@
   "tag:hub",
   "startmap:flee0"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "Flee.bat": {
-   "filesize": 27,
-   "timestamp": "1998-01-03"
-  },
-  "flee/maps/flee1.bsp": {
-   "filesize": 2178360,
-   "timestamp": "1997-12-08"
-  },
-  "flee/maps/flee0.bsp": {
-   "filesize": 374612,
-   "timestamp": "1998-01-03"
-  },
-  "flee/maps/flee2.bsp": {
-   "filesize": 2175468,
-   "timestamp": "1998-01-03"
-  },
-  "flee/maps/flee3.bsp": {
-   "filesize": 2209364,
-   "timestamp": "1997-12-07"
-  },
-  "flee/flee.txt": {
-   "filesize": 5464,
-   "timestamp": "1998-01-03"
-  },
-  "flee/progs.dat": {
-   "filesize": 416068,
-   "timestamp": "1997-12-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/flee.zip",
   "https://www.quaddicted.com/files/by-sha256/d/de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf/flee.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

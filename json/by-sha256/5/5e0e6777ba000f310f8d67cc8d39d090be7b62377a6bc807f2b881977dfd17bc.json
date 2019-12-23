@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc",
  "filename": [
   "edom.zip"
  ],
- "filesize": 721,
- "tags": [
-  "title:Empedokles Domain",
-  "releasedate:1997-09-08",
-  "game:quake",
-  "author:J.F.Gustafsson",
-  "tag:medium",
-  "tag:wizard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Edom.bsp": {
    "filesize": 1644012,
@@ -26,8 +12,22 @@
    "timestamp": "1997-09-08"
   }
  },
+ "filesize": 721,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc",
+ "tags": [
+  "title:Empedokles Domain",
+  "releasedate:1997-09-08",
+  "game:quake",
+  "author:J.F.Gustafsson",
+  "tag:medium",
+  "tag:wizard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/edom.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5e0e6777ba000f310f8d67cc8d39d090be7b62377a6bc807f2b881977dfd17bc/edom.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "6c9daf7d7242657ea5e68e4f55c50cd3f8d3f5fb01db30b2dc4826f37e5d9ce8",
  "filename": [
   "space.zip"
  ],
+ "files": {
+  "space.bsp": {
+   "filesize": 1217132,
+   "timestamp": "2000-07-04"
+  }
+ },
  "filesize": 502,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6c9daf7d7242657ea5e68e4f55c50cd3f8d3f5fb01db30b2dc4826f37e5d9ce8",
  "tags": [
   "title:Technophobia!",
   "releasedate:2000-07-04",
@@ -17,17 +25,9 @@
   "tag:puzzle",
   "tag:base"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "space.bsp": {
-   "filesize": 1217132,
-   "timestamp": "2000-07-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/space.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6c9daf7d7242657ea5e68e4f55c50cd3f8d3f5fb01db30b2dc4826f37e5d9ce8/space.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

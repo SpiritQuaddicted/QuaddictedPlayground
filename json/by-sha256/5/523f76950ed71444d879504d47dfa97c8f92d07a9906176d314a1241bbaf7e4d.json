@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "523f76950ed71444d879504d47dfa97c8f92d07a9906176d314a1241bbaf7e4d",
  "filename": [
   "hrim_sp4.zip"
  ],
+ "files": {
+  "hrim_sp4/hrim_sp4.txt": {
+   "filesize": 3993,
+   "timestamp": "2010-01-01"
+  },
+  "hrim_sp4/maps/brownie.bsp": {
+   "filesize": 2591176,
+   "timestamp": "2010-01-01"
+  },
+  "hrim_sp4/maps/loveevil.bsp": {
+   "filesize": 6421308,
+   "timestamp": "2010-01-01"
+  },
+  "hrim_sp4/maps/start.bsp": {
+   "filesize": 2654444,
+   "timestamp": "2009-12-31"
+  },
+  "hrim_sp4/maps/void.bsp": {
+   "filesize": 2345364,
+   "timestamp": "2009-12-29"
+  }
+ },
  "filesize": 5644,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "523f76950ed71444d879504d47dfa97c8f92d07a9906176d314a1241bbaf7e4d",
  "tags": [
   "title:For Love of Evil",
   "releasedate:2010-01-01",
@@ -26,33 +50,9 @@
   "startmap:loveevil",
   "startmap:void"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "hrim_sp4/maps/loveevil.bsp": {
-   "filesize": 6421308,
-   "timestamp": "2010-01-01"
-  },
-  "hrim_sp4/maps/start.bsp": {
-   "filesize": 2654444,
-   "timestamp": "2009-12-31"
-  },
-  "hrim_sp4/maps/brownie.bsp": {
-   "filesize": 2591176,
-   "timestamp": "2010-01-01"
-  },
-  "hrim_sp4/maps/void.bsp": {
-   "filesize": 2345364,
-   "timestamp": "2009-12-29"
-  },
-  "hrim_sp4/hrim_sp4.txt": {
-   "filesize": 3993,
-   "timestamp": "2010-01-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp4.zip",
   "https://www.quaddicted.com/files/by-sha256/5/523f76950ed71444d879504d47dfa97c8f92d07a9906176d314a1241bbaf7e4d/hrim_sp4.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "fa167b0c89e5e9c8ae36bf14eb16b5fec00ddc83266a79bc46175d261ef960d1",
  "filename": [
   "tfl2.zip"
  ],
- "filesize": 650,
- "tags": [
-  "title:The Fierce Livid",
-  "releasedate:1997-06-04",
-  "game:quake",
-  "author:Anders \"Backspace\" Persson",
-  "tag:metal",
-  "tag:windtunnel",
-  "tag:medium"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "tfl2.bsp": {
    "filesize": 1522512,
@@ -27,8 +12,23 @@
    "timestamp": "1997-06-04"
   }
  },
+ "filesize": 650,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "fa167b0c89e5e9c8ae36bf14eb16b5fec00ddc83266a79bc46175d261ef960d1",
+ "tags": [
+  "title:The Fierce Livid",
+  "releasedate:1997-06-04",
+  "game:quake",
+  "author:Anders \"Backspace\" Persson",
+  "tag:metal",
+  "tag:windtunnel",
+  "tag:medium"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/tfl2.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fa167b0c89e5e9c8ae36bf14eb16b5fec00ddc83266a79bc46175d261ef960d1/tfl2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

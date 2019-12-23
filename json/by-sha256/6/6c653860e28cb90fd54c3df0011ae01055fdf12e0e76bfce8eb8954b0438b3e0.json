@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "6c653860e28cb90fd54c3df0011ae01055fdf12e0e76bfce8eb8954b0438b3e0",
  "filename": [
   "sm8_pack.zip"
  ],
+ "files": {
+  "sm8_aard.bsp": {
+   "filesize": 251964,
+   "timestamp": "2001-04-20"
+  },
+  "sm8_bear.bsp": {
+   "filesize": 237260,
+   "timestamp": "2001-04-20"
+  },
+  "sm8_damaul.bsp": {
+   "filesize": 376588,
+   "timestamp": "2001-04-20"
+  },
+  "sm8_frib.bsp": {
+   "filesize": 200008,
+   "timestamp": "2001-04-21"
+  },
+  "sm8_misyu.bsp": {
+   "filesize": 253548,
+   "timestamp": "2001-04-20"
+  },
+  "sm8_pack.txt": {
+   "filesize": 2380,
+   "timestamp": "2001-04-22"
+  },
+  "sm8_scampie.bsp": {
+   "filesize": 220372,
+   "timestamp": "2001-03-20"
+  }
+ },
  "filesize": 617,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6c653860e28cb90fd54c3df0011ae01055fdf12e0e76bfce8eb8954b0438b3e0",
  "tags": [
   "title:Speedmapping pack 8 - Unthemed",
   "releasedate:2001-04-22",
@@ -22,41 +54,9 @@
   "startmap:sm8_frib",
   "startmap:sm8_misyu"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm8_bear.bsp": {
-   "filesize": 237260,
-   "timestamp": "2001-04-20"
-  },
-  "sm8_aard.bsp": {
-   "filesize": 251964,
-   "timestamp": "2001-04-20"
-  },
-  "sm8_damaul.bsp": {
-   "filesize": 376588,
-   "timestamp": "2001-04-20"
-  },
-  "sm8_scampie.bsp": {
-   "filesize": 220372,
-   "timestamp": "2001-03-20"
-  },
-  "sm8_frib.bsp": {
-   "filesize": 200008,
-   "timestamp": "2001-04-21"
-  },
-  "sm8_misyu.bsp": {
-   "filesize": 253548,
-   "timestamp": "2001-04-20"
-  },
-  "sm8_pack.txt": {
-   "filesize": 2380,
-   "timestamp": "2001-04-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm8_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6c653860e28cb90fd54c3df0011ae01055fdf12e0e76bfce8eb8954b0438b3e0/sm8_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

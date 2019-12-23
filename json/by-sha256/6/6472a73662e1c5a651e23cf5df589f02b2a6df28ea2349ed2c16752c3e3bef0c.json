@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "6472a73662e1c5a651e23cf5df589f02b2a6df28ea2349ed2c16752c3e3bef0c",
  "filename": [
   "watrwrks1_1.zip"
  ],
+ "files": {
+  "watrwrks.bsp": {
+   "filesize": 1891452,
+   "timestamp": "1997-09-10"
+  },
+  "watrwrks.txt": {
+   "filesize": 2909,
+   "timestamp": "1997-09-10"
+  }
+ },
  "filesize": 809,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6472a73662e1c5a651e23cf5df589f02b2a6df28ea2349ed2c16752c3e3bef0c",
  "tags": [
   "title:Waterworks",
   "releasedate:1997-09-10",
@@ -17,21 +29,9 @@
   "tag:cistern",
   "startmap:watrwrks"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "watrwrks.bsp": {
-   "filesize": 1891452,
-   "timestamp": "1997-09-10"
-  },
-  "watrwrks.txt": {
-   "filesize": 2909,
-   "timestamp": "1997-09-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/watrwrks1_1.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6472a73662e1c5a651e23cf5df589f02b2a6df28ea2349ed2c16752c3e3bef0c/watrwrks1_1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

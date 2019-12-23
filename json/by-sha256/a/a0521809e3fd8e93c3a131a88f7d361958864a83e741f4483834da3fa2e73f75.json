@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "a0521809e3fd8e93c3a131a88f7d361958864a83e741f4483834da3fa2e73f75",
  "filename": [
   "alk15.zip"
  ],
+ "files": {
+  "alk15/alk15.html": {
+   "filesize": 19936,
+   "timestamp": "2001-09-27"
+  },
+  "alk15/alk15.txt": {
+   "filesize": 3561,
+   "timestamp": "2001-09-27"
+  },
+  "alk15/pak0.pak": {
+   "filesize": 4870700,
+   "timestamp": "2001-09-27"
+  },
+  "alk15/progs.dat": {
+   "filesize": 658036,
+   "timestamp": "2001-09-12"
+  }
+ },
  "filesize": 2666,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "a0521809e3fd8e93c3a131a88f7d361958864a83e741f4483834da3fa2e73f75",
  "tags": [
   "title:Brumal Quest",
   "releasedate:2001-09-27",
@@ -15,29 +35,9 @@
   "tag:winter",
   "tag:medieval"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "alk15/alk15.html": {
-   "filesize": 19936,
-   "timestamp": "2001-09-27"
-  },
-  "alk15/alk15.txt": {
-   "filesize": 3561,
-   "timestamp": "2001-09-27"
-  },
-  "alk15/progs.dat": {
-   "filesize": 658036,
-   "timestamp": "2001-09-12"
-  },
-  "alk15/pak0.pak": {
-   "filesize": 4870700,
-   "timestamp": "2001-09-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/alk15.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a0521809e3fd8e93c3a131a88f7d361958864a83e741f4483834da3fa2e73f75/alk15.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

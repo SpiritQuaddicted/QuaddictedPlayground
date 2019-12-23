@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "baa4e79ecc73faa9f6ccd4a03eab24d758860253188dd83ca33be59b6665224a",
  "filename": [
   "decree.zip"
  ],
+ "files": {
+  "DECREE.TXT": {
+   "filesize": 2664,
+   "timestamp": "1996-11-10"
+  },
+  "decree.bsp": {
+   "filesize": 1285668,
+   "timestamp": "1996-11-10"
+  }
+ },
  "filesize": 555,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "baa4e79ecc73faa9f6ccd4a03eab24d758860253188dd83ca33be59b6665224a",
  "tags": [
   "title:Devil's Decree",
   "releasedate:1996-11-10",
@@ -16,21 +28,9 @@
   "tag:blue",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "decree.bsp": {
-   "filesize": 1285668,
-   "timestamp": "1996-11-10"
-  },
-  "DECREE.TXT": {
-   "filesize": 2664,
-   "timestamp": "1996-11-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/decree.zip",
   "https://www.quaddicted.com/files/by-sha256/b/baa4e79ecc73faa9f6ccd4a03eab24d758860253188dd83ca33be59b6665224a/decree.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

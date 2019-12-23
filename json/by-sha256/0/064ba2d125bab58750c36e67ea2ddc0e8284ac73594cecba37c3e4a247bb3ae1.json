@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1",
  "filename": [
   "runekeep.zip"
  ],
+ "files": {
+  "RRSP1.bsp": {
+   "filesize": 2685424,
+   "timestamp": "2002-03-19"
+  },
+  "Rune Keep .txt": {
+   "filesize": 6221,
+   "timestamp": "2002-03-19"
+  }
+ },
  "filesize": 1095,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1",
  "tags": [
   "title:Rune Keep",
   "releasedate:2002-03-19",
@@ -17,21 +29,9 @@
   "tag:swimming",
   "startmap:rrsp1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Rune Keep .txt": {
-   "filesize": 6221,
-   "timestamp": "2002-03-19"
-  },
-  "RRSP1.bsp": {
-   "filesize": 2685424,
-   "timestamp": "2002-03-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/runekeep.zip",
   "https://www.quaddicted.com/files/by-sha256/0/064ba2d125bab58750c36e67ea2ddc0e8284ac73594cecba37c3e4a247bb3ae1/runekeep.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

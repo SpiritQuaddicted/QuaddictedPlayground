@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "d61a466f28b32b57f35070a751f68160d44d50ba3c882691b3cbb70a3c1a2de6",
  "filename": [
   "e1m1rmx_hard.zip"
  ],
+ "files": {
+  "e1m1rmx.txt": {
+   "filesize": 8474,
+   "timestamp": "2004-04-29"
+  },
+  "e1m1rmx_hard.bsp": {
+   "filesize": 3839816,
+   "timestamp": "2004-04-29"
+  },
+  "e1m1rmx_hard.map": {
+   "filesize": 2029711,
+   "timestamp": "2004-04-29"
+  }
+ },
  "filesize": 1685,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d61a466f28b32b57f35070a751f68160d44d50ba3c882691b3cbb70a3c1a2de6",
  "tags": [
   "title:The Slipgate Duplex HARDCORE",
   "releasedate:2004-04-29",
@@ -17,25 +33,9 @@
   "tag:source",
   "tag:spd"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "e1m1rmx_hard.bsp": {
-   "filesize": 3839816,
-   "timestamp": "2004-04-29"
-  },
-  "e1m1rmx_hard.map": {
-   "filesize": 2029711,
-   "timestamp": "2004-04-29"
-  },
-  "e1m1rmx.txt": {
-   "filesize": 8474,
-   "timestamp": "2004-04-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1rmx_hard.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d61a466f28b32b57f35070a751f68160d44d50ba3c882691b3cbb70a3c1a2de6/e1m1rmx_hard.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

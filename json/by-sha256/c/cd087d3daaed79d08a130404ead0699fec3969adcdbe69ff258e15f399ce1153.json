@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "cd087d3daaed79d08a130404ead0699fec3969adcdbe69ff258e15f399ce1153",
  "filename": [
   "altus2.zip"
  ],
- "filesize": 195,
- "tags": [
-  "title:Altus Mors",
-  "releasedate:1996-12-04",
-  "game:quake",
-  "author:Travis Pease",
-  "tag:small",
-  "tag:mixtex",
-  "tag:vertical"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "ALTUS2.BSP": {
    "filesize": 448008,
@@ -27,8 +12,23 @@
    "timestamp": "1996-12-04"
   }
  },
+ "filesize": 195,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cd087d3daaed79d08a130404ead0699fec3969adcdbe69ff258e15f399ce1153",
+ "tags": [
+  "title:Altus Mors",
+  "releasedate:1996-12-04",
+  "game:quake",
+  "author:Travis Pease",
+  "tag:small",
+  "tag:mixtex",
+  "tag:vertical"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/altus2.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cd087d3daaed79d08a130404ead0699fec3969adcdbe69ff258e15f399ce1153/altus2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

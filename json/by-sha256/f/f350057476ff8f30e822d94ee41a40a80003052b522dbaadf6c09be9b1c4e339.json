@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f350057476ff8f30e822d94ee41a40a80003052b522dbaadf6c09be9b1c4e339",
  "filename": [
   "runfear.zip"
  ],
+ "files": {
+  "runfear.bsp": {
+   "filesize": 1189888,
+   "timestamp": "2016-02-27"
+  },
+  "runfear.txt": {
+   "filesize": 2942,
+   "timestamp": "2016-02-27"
+  }
+ },
  "filesize": 524,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f350057476ff8f30e822d94ee41a40a80003052b522dbaadf6c09be9b1c4e339",
  "tags": [
   "title:Runic Fear",
   "releasedate:2016-02-27",
@@ -16,21 +28,9 @@
   "tag:secrets",
   "tag:oldskool"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "runfear.bsp": {
-   "filesize": 1189888,
-   "timestamp": "2016-02-27"
-  },
-  "runfear.txt": {
-   "filesize": 2942,
-   "timestamp": "2016-02-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/runfear.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f350057476ff8f30e822d94ee41a40a80003052b522dbaadf6c09be9b1c4e339/runfear.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

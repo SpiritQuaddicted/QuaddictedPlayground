@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d6bd96da6121ba0b9c39ca8bac0801c41491da1a73011937bdee1a22c344ab44",
  "filename": [
   "sm24_than_se.zip"
  ],
- "filesize": 215,
- "tags": [
-  "title:Title",
-  "releasedate:2001-07-20",
-  "game:quake",
-  "author:than",
-  "tag:horde"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "sm24_than_se.bsp": {
    "filesize": 603176,
@@ -25,8 +12,21 @@
    "timestamp": "2001-07-19"
   }
  },
+ "filesize": 215,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "d6bd96da6121ba0b9c39ca8bac0801c41491da1a73011937bdee1a22c344ab44",
+ "tags": [
+  "title:Title",
+  "releasedate:2001-07-20",
+  "game:quake",
+  "author:than",
+  "tag:horde"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm24_than_se.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d6bd96da6121ba0b9c39ca8bac0801c41491da1a73011937bdee1a22c344ab44/sm24_than_se.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

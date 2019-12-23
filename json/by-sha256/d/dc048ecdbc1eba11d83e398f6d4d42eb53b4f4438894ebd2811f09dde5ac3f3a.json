@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "dc048ecdbc1eba11d83e398f6d4d42eb53b4f4438894ebd2811f09dde5ac3f3a",
  "filename": [
   "ne_tower.zip"
  ],
+ "files": {
+  "ne_tower.txt": {
+   "filesize": 5970,
+   "timestamp": "2009-07-01"
+  },
+  "pak0.pak": {
+   "filesize": 9990682,
+   "timestamp": "2009-07-01"
+  }
+ },
  "filesize": 5780,
+ "install": {
+  "extract": "{quake}/ne_tower/"
+ },
+ "sha256": "dc048ecdbc1eba11d83e398f6d4d42eb53b4f4438894ebd2811f09dde5ac3f3a",
  "tags": [
   "title:Moldy Tower",
   "releasedate:2009-07-01",
@@ -19,21 +31,9 @@
   "tag:medium",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/ne_tower/"
- },
- "files": {
-  "pak0.pak": {
-   "filesize": 9990682,
-   "timestamp": "2009-07-01"
-  },
-  "ne_tower.txt": {
-   "filesize": 5970,
-   "timestamp": "2009-07-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ne_tower.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dc048ecdbc1eba11d83e398f6d4d42eb53b4f4438894ebd2811f09dde5ac3f3a/ne_tower.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "88360183127ab2eda067086d94443e4ee9483976ec5d5c761ca823e4cfc8da75",
  "filename": [
   "pyro4.zip"
  ],
+ "files": {
+  "PYRO4.BSP": {
+   "filesize": 1923240,
+   "timestamp": "1997-04-03"
+  },
+  "PYRO4.TXT": {
+   "filesize": 3325,
+   "timestamp": "1997-04-03"
+  }
+ },
  "filesize": 838,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "88360183127ab2eda067086d94443e4ee9483976ec5d5c761ca823e4cfc8da75",
  "tags": [
   "title:Pyro4 - The Awakening",
   "releasedate:1997-04-03",
@@ -17,21 +29,9 @@
   "tag:chthon",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PYRO4.TXT": {
-   "filesize": 3325,
-   "timestamp": "1997-04-03"
-  },
-  "PYRO4.BSP": {
-   "filesize": 1923240,
-   "timestamp": "1997-04-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pyro4.zip",
   "https://www.quaddicted.com/files/by-sha256/8/88360183127ab2eda067086d94443e4ee9483976ec5d5c761ca823e4cfc8da75/pyro4.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

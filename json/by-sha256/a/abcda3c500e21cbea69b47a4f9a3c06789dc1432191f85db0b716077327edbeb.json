@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "abcda3c500e21cbea69b47a4f9a3c06789dc1432191f85db0b716077327edbeb",
  "filename": [
   "dazsp1.zip"
  ],
- "filesize": 588,
- "tags": [
-  "title:Death's Cold Touch",
-  "releasedate:2000-05-11",
-  "game:quake",
-  "author:Daz",
-  "tag:large",
-  "tag:metal",
-  "tag:runic"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "DAZSP1.bsp": {
    "filesize": 1387088,
@@ -27,8 +12,23 @@
    "timestamp": "2000-05-11"
   }
  },
+ "filesize": 588,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "abcda3c500e21cbea69b47a4f9a3c06789dc1432191f85db0b716077327edbeb",
+ "tags": [
+  "title:Death's Cold Touch",
+  "releasedate:2000-05-11",
+  "game:quake",
+  "author:Daz",
+  "tag:large",
+  "tag:metal",
+  "tag:runic"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/dazsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/a/abcda3c500e21cbea69b47a4f9a3c06789dc1432191f85db0b716077327edbeb/dazsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

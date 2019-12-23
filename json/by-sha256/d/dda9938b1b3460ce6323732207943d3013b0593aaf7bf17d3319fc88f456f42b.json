@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "dda9938b1b3460ce6323732207943d3013b0593aaf7bf17d3319fc88f456f42b",
  "filename": [
   "dblback.zip"
  ],
- "filesize": 556,
- "tags": [
-  "title:Double Back",
-  "releasedate:1997-08-26",
-  "game:quake",
-  "author:Annihilator",
-  "tag:medium",
-  "tag:medieval",
-  "tag:brick",
-  "tag:temple"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "DBLBACK.BSP": {
    "filesize": 1292592,
@@ -28,8 +12,24 @@
    "timestamp": "1997-08-26"
   }
  },
+ "filesize": 556,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dda9938b1b3460ce6323732207943d3013b0593aaf7bf17d3319fc88f456f42b",
+ "tags": [
+  "title:Double Back",
+  "releasedate:1997-08-26",
+  "game:quake",
+  "author:Annihilator",
+  "tag:medium",
+  "tag:medieval",
+  "tag:brick",
+  "tag:temple"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/dblback.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dda9938b1b3460ce6323732207943d3013b0593aaf7bf17d3319fc88f456f42b/dblback.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

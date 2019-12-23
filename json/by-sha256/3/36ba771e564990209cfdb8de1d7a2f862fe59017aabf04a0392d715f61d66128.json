@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "36ba771e564990209cfdb8de1d7a2f862fe59017aabf04a0392d715f61d66128",
  "filename": [
   "jawbreak.zip"
  ],
- "filesize": 935,
- "tags": [
-  "title:Jawbreak",
-  "releasedate:1997-07-20",
-  "game:quake",
-  "author:Matt Sefton",
-  "tag:large",
-  "tag:base",
-  "tag:doom",
-  "tag:planetquake-map-of-the-week"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "jawbreak.bsp": {
    "filesize": 2247276,
@@ -28,8 +12,24 @@
    "timestamp": "1997-07-20"
   }
  },
+ "filesize": 935,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "36ba771e564990209cfdb8de1d7a2f862fe59017aabf04a0392d715f61d66128",
+ "tags": [
+  "title:Jawbreak",
+  "releasedate:1997-07-20",
+  "game:quake",
+  "author:Matt Sefton",
+  "tag:large",
+  "tag:base",
+  "tag:doom",
+  "tag:planetquake-map-of-the-week"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/jawbreak.zip",
   "https://www.quaddicted.com/files/by-sha256/3/36ba771e564990209cfdb8de1d7a2f862fe59017aabf04a0392d715f61d66128/jawbreak.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

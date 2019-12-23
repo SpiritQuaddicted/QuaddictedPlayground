@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "4b283bc7ab9e16cdd9035008e0d0ec2a57df6ae14a3cb1656201a29432f6152a",
  "filename": [
   "drasticl.zip"
  ],
+ "files": {
+  "CONFIG.CFG": {
+   "filesize": 2990,
+   "timestamp": "1997-03-09"
+  },
+  "Quake.rc": {
+   "filesize": 94,
+   "timestamp": "1997-03-09"
+  },
+  "drastic.bat": {
+   "filesize": 48,
+   "timestamp": "1997-03-09"
+  },
+  "drastic.rc": {
+   "filesize": 1545,
+   "timestamp": "1997-03-09"
+  },
+  "drasticl.txt": {
+   "filesize": 3721,
+   "timestamp": "1997-03-09"
+  },
+  "pak0.pak": {
+   "filesize": 11231559,
+   "timestamp": "1997-03-09"
+  }
+ },
  "filesize": 4602,
+ "install": {
+  "extract": "{quake}/drastic/"
+ },
+ "sha256": "4b283bc7ab9e16cdd9035008e0d0ec2a57df6ae14a3cb1656201a29432f6152a",
  "tags": [
   "title:Drastic Lodge",
   "releasedate:1997-03-09",
@@ -19,37 +47,9 @@
   "tag:weapons",
   "tag:no exit"
  ],
- "install": {
-  "extract": "{quake}/drastic/"
- },
- "files": {
-  "Quake.rc": {
-   "filesize": 94,
-   "timestamp": "1997-03-09"
-  },
-  "CONFIG.CFG": {
-   "filesize": 2990,
-   "timestamp": "1997-03-09"
-  },
-  "drastic.rc": {
-   "filesize": 1545,
-   "timestamp": "1997-03-09"
-  },
-  "drasticl.txt": {
-   "filesize": 3721,
-   "timestamp": "1997-03-09"
-  },
-  "pak0.pak": {
-   "filesize": 11231559,
-   "timestamp": "1997-03-09"
-  },
-  "drastic.bat": {
-   "filesize": 48,
-   "timestamp": "1997-03-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/drasticl.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4b283bc7ab9e16cdd9035008e0d0ec2a57df6ae14a3cb1656201a29432f6152a/drasticl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

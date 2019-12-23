@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e8a20e02d0c16d0b4d7e53128c9bb5c5caff24b436d88d7e4045d6389bc29502",
  "filename": [
   "sm101_pack.zip"
  ],
+ "files": {
+  "sm101_starbuck.bsp": {
+   "filesize": 1111200,
+   "timestamp": "2005-07-31"
+  },
+  "sm101_zwiffle.bsp": {
+   "filesize": 164584,
+   "timestamp": "2005-07-30"
+  }
+ },
  "filesize": 497,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e8a20e02d0c16d0b4d7e53128c9bb5c5caff24b436d88d7e4045d6389bc29502",
  "tags": [
   "title:Speedmapping pack 101 - The Basics",
   "releasedate:2005-07-31",
@@ -15,21 +27,9 @@
   "startmap:sm101_starbuck",
   "startmap:sm101_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm101_zwiffle.bsp": {
-   "filesize": 164584,
-   "timestamp": "2005-07-30"
-  },
-  "sm101_starbuck.bsp": {
-   "filesize": 1111200,
-   "timestamp": "2005-07-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm101_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e8a20e02d0c16d0b4d7e53128c9bb5c5caff24b436d88d7e4045d6389bc29502/sm101_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

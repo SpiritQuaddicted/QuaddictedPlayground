@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "691f84b4d1f1d311cb2162f732487649d6ceb11cf13c8d517e42b457ccd29181",
  "filename": [
   "hrimspeed.zip"
  ],
+ "files": {
+  "Speedbase.txt": {
+   "filesize": 659,
+   "timestamp": "2004-09-16"
+  },
+  "speedbase.bsp": {
+   "filesize": 1278688,
+   "timestamp": "2004-09-16"
+  }
+ },
  "filesize": 509,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "691f84b4d1f1d311cb2162f732487649d6ceb11cf13c8d517e42b457ccd29181",
  "tags": [
   "title:Hrimspeed",
   "releasedate:2004-09-16",
@@ -17,21 +29,9 @@
   "tag:computer",
   "startmap:speedbase"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "speedbase.bsp": {
-   "filesize": 1278688,
-   "timestamp": "2004-09-16"
-  },
-  "Speedbase.txt": {
-   "filesize": 659,
-   "timestamp": "2004-09-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hrimspeed.zip",
   "https://www.quaddicted.com/files/by-sha256/6/691f84b4d1f1d311cb2162f732487649d6ceb11cf13c8d517e42b457ccd29181/hrimspeed.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83",
  "filename": [
   "sm54_pack.zip"
  ],
+ "files": {
+  "sm54_czg.bsp": {
+   "filesize": 679380,
+   "timestamp": "2003-10-19"
+  },
+  "sm54_grahf.bsp": {
+   "filesize": 447620,
+   "timestamp": "2003-10-18"
+  },
+  "sm54_inertia.bsp": {
+   "filesize": 328976,
+   "timestamp": "2003-10-18"
+  },
+  "sm54_moz.bsp": {
+   "filesize": 603680,
+   "timestamp": "2003-10-18"
+  },
+  "sm54_necros.bsp": {
+   "filesize": 624944,
+   "timestamp": "2003-10-18"
+  },
+  "sm54_pack.txt": {
+   "filesize": 2048,
+   "timestamp": "2003-10-18"
+  },
+  "sm54_starbuck.bsp": {
+   "filesize": 317660,
+   "timestamp": "2003-10-18"
+  }
+ },
  "filesize": 1144,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83",
  "tags": [
   "title:Speedmapping pack 54 - Unthemed",
   "releasedate:2003-10-19",
@@ -22,41 +54,9 @@
   "startmap:sm54_grahf",
   "startmap:sm54_moz"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm54_pack.txt": {
-   "filesize": 2048,
-   "timestamp": "2003-10-18"
-  },
-  "sm54_starbuck.bsp": {
-   "filesize": 317660,
-   "timestamp": "2003-10-18"
-  },
-  "sm54_inertia.bsp": {
-   "filesize": 328976,
-   "timestamp": "2003-10-18"
-  },
-  "sm54_grahf.bsp": {
-   "filesize": 447620,
-   "timestamp": "2003-10-18"
-  },
-  "sm54_czg.bsp": {
-   "filesize": 679380,
-   "timestamp": "2003-10-19"
-  },
-  "sm54_moz.bsp": {
-   "filesize": 603680,
-   "timestamp": "2003-10-18"
-  },
-  "sm54_necros.bsp": {
-   "filesize": 624944,
-   "timestamp": "2003-10-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm54_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83/sm54_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

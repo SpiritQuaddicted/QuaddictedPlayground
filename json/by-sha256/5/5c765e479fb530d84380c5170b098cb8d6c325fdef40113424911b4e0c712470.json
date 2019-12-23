@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "5c765e479fb530d84380c5170b098cb8d6c325fdef40113424911b4e0c712470",
  "filename": [
   "odyssey1_v2.zip"
  ],
+ "files": {
+  "ODYSSEY1.TXT": {
+   "filesize": 1372,
+   "timestamp": "1998-04-01"
+  },
+  "Readme1st.txt": {
+   "filesize": 4194,
+   "timestamp": "2005-04-04"
+  },
+  "odyssey1.bsp": {
+   "filesize": 2400020,
+   "timestamp": "2005-04-03"
+  }
+ },
  "filesize": 950,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5c765e479fb530d84380c5170b098cb8d6c325fdef40113424911b4e0c712470",
  "tags": [
   "title:Odyssey One",
   "releasedate:2005-04-04",
@@ -14,25 +30,9 @@
   "tag:wizard",
   "startmap:odyssey1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Readme1st.txt": {
-   "filesize": 4194,
-   "timestamp": "2005-04-04"
-  },
-  "ODYSSEY1.TXT": {
-   "filesize": 1372,
-   "timestamp": "1998-04-01"
-  },
-  "odyssey1.bsp": {
-   "filesize": 2400020,
-   "timestamp": "2005-04-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/odyssey1_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5c765e479fb530d84380c5170b098cb8d6c325fdef40113424911b4e0c712470/odyssey1_v2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,50 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255",
  "filename": [
   "retrojam4.zip"
  ],
- "filesize": 7618,
- "tags": [
-  "title:Retro Jam 4 - Episode 4 Tribute Theme",
-  "releasedate:2015-11-01",
-  "game:quake",
-  "commandline:-game retrojam4",
-  "author:ericw",
-  "author:FifthElephant",
-  "author:ItEndsWithTens",
-  "author:PulSaR",
-  "author:TextFish",
-  "author:Scampie",
-  "author:Skacky",
-  "author:Zwiffle",
-  "tag:small",
-  "tag:medieval",
-  "tag:bricks",
-  "tag:traps",
-  "tag:source",
-  "tag:dark",
-  "tag:spawns",
-  "tag:creepy",
-  "tag:hard",
-  "tag:blue",
-  "tag:e4",
-  "tag:medium",
-  "tag:green",
-  "tag:mapjam",
-  "tag:halloween",
-  "startmap:retrojam4_ericw",
-  "startmap:retrojam4_fifth",
-  "startmap:retrojam4_pulsar",
-  "startmap:retrojam4_tens",
-  "startmap:retrojam4_textfish",
-  "startmap:retrojam4_scampie",
-  "startmap:retrojam4_skacky",
-  "startmap:retrojam4_zwiffle"
- ],
- "install": {
-  "extract": "{quake}/retrojam4"
- },
  "files": {
   "docs/retrojam4_fifth.txt": {
    "filesize": 2008,
@@ -155,8 +112,51 @@
    "timestamp": "2015-10-31"
   }
  },
+ "filesize": 7618,
+ "install": {
+  "extract": "{quake}/retrojam4"
+ },
+ "sha256": "da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255",
+ "tags": [
+  "title:Retro Jam 4 - Episode 4 Tribute Theme",
+  "releasedate:2015-11-01",
+  "game:quake",
+  "commandline:-game retrojam4",
+  "author:ericw",
+  "author:FifthElephant",
+  "author:ItEndsWithTens",
+  "author:PulSaR",
+  "author:TextFish",
+  "author:Scampie",
+  "author:Skacky",
+  "author:Zwiffle",
+  "tag:small",
+  "tag:medieval",
+  "tag:bricks",
+  "tag:traps",
+  "tag:source",
+  "tag:dark",
+  "tag:spawns",
+  "tag:creepy",
+  "tag:hard",
+  "tag:blue",
+  "tag:e4",
+  "tag:medium",
+  "tag:green",
+  "tag:mapjam",
+  "tag:halloween",
+  "startmap:retrojam4_ericw",
+  "startmap:retrojam4_fifth",
+  "startmap:retrojam4_pulsar",
+  "startmap:retrojam4_tens",
+  "startmap:retrojam4_textfish",
+  "startmap:retrojam4_scampie",
+  "startmap:retrojam4_skacky",
+  "startmap:retrojam4_zwiffle"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam4.zip",
   "https://www.quaddicted.com/files/by-sha256/d/da15ae626df535461d469bd3bab6b2da9d4615dbb40053f9fa99a1f715e8c255/retrojam4.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

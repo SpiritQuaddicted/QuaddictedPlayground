@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "43a5498a8d34091a29d56bd4d75dbf9f477900b1c2ffd3db8332ea642d558c51",
  "filename": [
   "gl4fify2.zip"
  ],
- "filesize": 449,
- "tags": [
-  "title:REoL TOUGH: Fortress! (watervised)",
-  "releasedate:1997-11-30",
-  "game:quake",
-  "author:George J. Fiffy II",
-  "tag:small",
-  "tag:wizard",
-  "startmap:fiffy2"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "!!READ!!.BAT": {
    "filesize": 16156,
@@ -30,17 +15,32 @@
    "filesize": 760368,
    "timestamp": "1997-11-30"
   },
-  "Readme.txt": {
-   "filesize": 305,
-   "timestamp": "1997-11-30"
-  },
   "FILE_ID.DIZ": {
    "filesize": 896,
    "timestamp": "1997-02-24"
+  },
+  "Readme.txt": {
+   "filesize": 305,
+   "timestamp": "1997-11-30"
   }
  },
+ "filesize": 449,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "43a5498a8d34091a29d56bd4d75dbf9f477900b1c2ffd3db8332ea642d558c51",
+ "tags": [
+  "title:REoL TOUGH: Fortress! (watervised)",
+  "releasedate:1997-11-30",
+  "game:quake",
+  "author:George J. Fiffy II",
+  "tag:small",
+  "tag:wizard",
+  "startmap:fiffy2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/gl4fify2.zip",
   "https://www.quaddicted.com/files/by-sha256/4/43a5498a8d34091a29d56bd4d75dbf9f477900b1c2ffd3db8332ea642d558c51/gl4fify2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,34 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc",
  "filename": [
   "apsp3.zip"
  ],
- "filesize": 4606,
- "tags": [
-  "title:Subterranean Library",
-  "releasedate:2012-10-30",
-  "game:quake",
-  "commandline:-quoth -game apsp3",
-  "author:Andrew 'than' Palmer",
-  "tag:large",
-  "tag:medieval",
-  "tag:knave",
-  "tag:library",
-  "tag:blood",
-  "tag:cave",
-  "tag:quoth",
-  "tag:ruins",
-  "tag:source",
-  "tag:secrets",
-  "tag:runes",
-  "tag:underground",
-  "tag:interconnectivity",
-  "dependency:quoth"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "apsp3/apsp3.map": {
    "filesize": 6749335,
@@ -51,8 +24,35 @@
    "timestamp": "2012-03-17"
   }
  },
+ "filesize": 4606,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc",
+ "tags": [
+  "title:Subterranean Library",
+  "releasedate:2012-10-30",
+  "game:quake",
+  "commandline:-quoth -game apsp3",
+  "author:Andrew 'than' Palmer",
+  "tag:large",
+  "tag:medieval",
+  "tag:knave",
+  "tag:library",
+  "tag:blood",
+  "tag:cave",
+  "tag:quoth",
+  "tag:ruins",
+  "tag:source",
+  "tag:secrets",
+  "tag:runes",
+  "tag:underground",
+  "tag:interconnectivity",
+  "dependency:quoth"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/apsp3.zip",
   "https://www.quaddicted.com/files/by-sha256/1/10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc/apsp3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

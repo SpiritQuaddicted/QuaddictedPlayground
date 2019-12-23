@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "70e87024e43b7c187bb80f5242656d5645301f87a21d925e6fd8cc794e81e7fa",
  "filename": [
   "chessp1.zip"
  ],
+ "files": {
+  "chessp1.bsp": {
+   "filesize": 1063692,
+   "timestamp": "1999-01-21"
+  },
+  "chessp1.txt": {
+   "filesize": 3635,
+   "timestamp": "1999-01-21"
+  }
+ },
  "filesize": 455,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "70e87024e43b7c187bb80f5242656d5645301f87a21d925e6fd8cc794e81e7fa",
  "tags": [
   "title:Shrine of Skank",
   "releasedate:1999-01-21",
@@ -15,21 +27,9 @@
   "tag:traps",
   "tag:hard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "chessp1.txt": {
-   "filesize": 3635,
-   "timestamp": "1999-01-21"
-  },
-  "chessp1.bsp": {
-   "filesize": 1063692,
-   "timestamp": "1999-01-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/chessp1.zip",
   "https://www.quaddicted.com/files/by-sha256/7/70e87024e43b7c187bb80f5242656d5645301f87a21d925e6fd8cc794e81e7fa/chessp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

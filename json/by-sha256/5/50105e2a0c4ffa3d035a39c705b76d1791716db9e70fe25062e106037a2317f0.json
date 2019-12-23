@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "50105e2a0c4ffa3d035a39c705b76d1791716db9e70fe25062e106037a2317f0",
  "filename": [
   "lpqsp1.zip"
  ],
+ "files": {
+  "lpqsp1.bsp": {
+   "filesize": 5185760,
+   "timestamp": "2016-09-20"
+  },
+  "lpqsp1.lit": {
+   "filesize": 4289102,
+   "timestamp": "2016-09-20"
+  },
+  "lpqsp1.txt": {
+   "filesize": 1546,
+   "timestamp": "2016-09-19"
+  }
+ },
  "filesize": 2820,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "50105e2a0c4ffa3d035a39c705b76d1791716db9e70fe25062e106037a2317f0",
  "tags": [
   "title:The Bonehoard",
   "releasedate:2016-09-19",
@@ -22,25 +38,9 @@
   "dependency:quoth2pt2full_2",
   "startmap:lpqsp1"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "lpqsp1.bsp": {
-   "filesize": 5185760,
-   "timestamp": "2016-09-20"
-  },
-  "lpqsp1.lit": {
-   "filesize": 4289102,
-   "timestamp": "2016-09-20"
-  },
-  "lpqsp1.txt": {
-   "filesize": 1546,
-   "timestamp": "2016-09-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lpqsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/5/50105e2a0c4ffa3d035a39c705b76d1791716db9e70fe25062e106037a2317f0/lpqsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

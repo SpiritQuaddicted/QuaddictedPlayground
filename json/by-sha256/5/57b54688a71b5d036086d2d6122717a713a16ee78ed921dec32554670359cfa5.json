@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5",
  "filename": [
   "endofsolace.zip"
  ],
- "filesize": 3285,
- "tags": [
-  "title:The End of Solace",
-  "releasedate:2017-10-09",
-  "game:quake",
-  "commandline:+r_wateralpha 0.65",
-  "author:dumptruck_ds",
-  "tag:large",
-  "tag:medieval",
-  "tag:bricks",
-  "tag:blood",
-  "tag:limits",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "endofsolace.bsp": {
    "filesize": 4422716,
@@ -43,8 +24,27 @@
    "timestamp": "2017-10-09"
   }
  },
+ "filesize": 3285,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5",
+ "tags": [
+  "title:The End of Solace",
+  "releasedate:2017-10-09",
+  "game:quake",
+  "commandline:+r_wateralpha 0.65",
+  "author:dumptruck_ds",
+  "tag:large",
+  "tag:medieval",
+  "tag:bricks",
+  "tag:blood",
+  "tag:limits",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/endofsolace.zip",
   "https://www.quaddicted.com/files/by-sha256/5/57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5/endofsolace.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

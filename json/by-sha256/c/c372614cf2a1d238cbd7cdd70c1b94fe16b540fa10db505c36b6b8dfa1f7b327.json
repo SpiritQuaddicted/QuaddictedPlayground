@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c372614cf2a1d238cbd7cdd70c1b94fe16b540fa10db505c36b6b8dfa1f7b327",
  "filename": [
   "cappuccino_v2.zip"
  ],
+ "files": {
+  "Cappuccino_V2.txt": {
+   "filesize": 2265,
+   "timestamp": "2004-12-13"
+  },
+  "cappuccino_V2.bsp": {
+   "filesize": 3627744,
+   "timestamp": "2004-12-13"
+  }
+ },
  "filesize": 1325,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c372614cf2a1d238cbd7cdd70c1b94fe16b540fa10db505c36b6b8dfa1f7b327",
  "tags": [
   "title:Cappuccino: The refill",
   "releasedate:2004-12-13",
@@ -16,21 +28,9 @@
   "tag:outdoor",
   "tag:q3"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "cappuccino_V2.bsp": {
-   "filesize": 3627744,
-   "timestamp": "2004-12-13"
-  },
-  "Cappuccino_V2.txt": {
-   "filesize": 2265,
-   "timestamp": "2004-12-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cappuccino_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c372614cf2a1d238cbd7cdd70c1b94fe16b540fa10db505c36b6b8dfa1f7b327/cappuccino_v2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,32 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "5cbc4c7593c8a92aa953febb12245832b8280c4a0399867e8d72de76ac4ba88e",
  "filename": [
   "quck_demo.zip"
  ],
- "filesize": 18201,
- "tags": [
-  "title:Quenching Urges of Constant Killing [DEMO]",
-  "releasedate:2017-12-30",
-  "game:quake",
-  "commandline:-quoth -game quoth",
-  "author:skacky",
-  "tag:episode",
-  "tag:small",
-  "tag:base",
-  "tag:quoth",
-  "tag:slaughter",
-  "tag:limits",
-  "tag:music",
-  "tag:external textures",
-  "dependency:quoth2pt2full_2",
-  "startmap:start",
-  "startmap:map01",
-  "startmap:map02"
- ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
  "files": {
   "gfx/conback.lmp": {
    "filesize": 362408,
@@ -509,8 +484,33 @@
    "timestamp": "2017-08-14"
   }
  },
+ "filesize": 18201,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "5cbc4c7593c8a92aa953febb12245832b8280c4a0399867e8d72de76ac4ba88e",
+ "tags": [
+  "title:Quenching Urges of Constant Killing [DEMO]",
+  "releasedate:2017-12-30",
+  "game:quake",
+  "commandline:-quoth -game quoth",
+  "author:skacky",
+  "tag:episode",
+  "tag:small",
+  "tag:base",
+  "tag:quoth",
+  "tag:slaughter",
+  "tag:limits",
+  "tag:music",
+  "tag:external textures",
+  "dependency:quoth2pt2full_2",
+  "startmap:start",
+  "startmap:map01",
+  "startmap:map02"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/quck_demo.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5cbc4c7593c8a92aa953febb12245832b8280c4a0399867e8d72de76ac4ba88e/quck_demo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

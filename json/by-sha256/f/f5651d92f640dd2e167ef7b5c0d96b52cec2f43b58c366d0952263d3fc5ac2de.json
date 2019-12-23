@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "f5651d92f640dd2e167ef7b5c0d96b52cec2f43b58c366d0952263d3fc5ac2de",
  "filename": [
   "localh.zip"
  ],
+ "files": {
+  "LOCALH.BSP": {
+   "filesize": 98544,
+   "timestamp": "1996-10-06"
+  },
+  "LOCALH.MAP": {
+   "filesize": 7767,
+   "timestamp": "1996-10-06"
+  },
+  "LOCALH.TXT": {
+   "filesize": 1647,
+   "timestamp": "1996-10-06"
+  }
+ },
  "filesize": 36,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f5651d92f640dd2e167ef7b5c0d96b52cec2f43b58c366d0952263d3fc5ac2de",
  "tags": [
   "title:LoCaLH",
   "releasedate:1996-10-06",
@@ -15,25 +31,9 @@
   "tag:source",
   "tag:joke"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "LOCALH.MAP": {
-   "filesize": 7767,
-   "timestamp": "1996-10-06"
-  },
-  "LOCALH.BSP": {
-   "filesize": 98544,
-   "timestamp": "1996-10-06"
-  },
-  "LOCALH.TXT": {
-   "filesize": 1647,
-   "timestamp": "1996-10-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/localh.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f5651d92f640dd2e167ef7b5c0d96b52cec2f43b58c366d0952263d3fc5ac2de/localh.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

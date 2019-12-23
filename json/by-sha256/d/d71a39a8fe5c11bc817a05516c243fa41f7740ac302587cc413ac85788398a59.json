@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d71a39a8fe5c11bc817a05516c243fa41f7740ac302587cc413ac85788398a59",
  "filename": [
   "pb2.zip"
  ],
+ "files": {
+  "pb2.bsp": {
+   "filesize": 2279648,
+   "timestamp": "1997-04-12"
+  },
+  "pb2.txt": {
+   "filesize": 2387,
+   "timestamp": "1997-04-12"
+  }
+ },
  "filesize": 1026,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d71a39a8fe5c11bc817a05516c243fa41f7740ac302587cc413ac85788398a59",
  "tags": [
   "title:The Soul Grinder",
   "releasedate:1997-04-12",
@@ -18,21 +30,9 @@
   "tag:terracotta",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "pb2.txt": {
-   "filesize": 2387,
-   "timestamp": "1997-04-12"
-  },
-  "pb2.bsp": {
-   "filesize": 2279648,
-   "timestamp": "1997-04-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pb2.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d71a39a8fe5c11bc817a05516c243fa41f7740ac302587cc413ac85788398a59/pb2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

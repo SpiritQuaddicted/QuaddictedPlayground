@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "a2c32e32504e00a0242dc3b2895a8f162b1e5c1d7efadf48307d3aacb2a20aa5",
  "filename": [
   "pand01a.zip"
  ],
+ "files": {
+  "PAND01A.BSP": {
+   "filesize": 1601616,
+   "timestamp": "1997-04-15"
+  },
+  "pand01a.txt": {
+   "filesize": 10647,
+   "timestamp": "1997-04-15"
+  }
+ },
  "filesize": 642,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a2c32e32504e00a0242dc3b2895a8f162b1e5c1d7efadf48307d3aacb2a20aa5",
  "tags": [
   "title:Pandemonium",
   "releasedate:1997-04-15",
@@ -17,21 +29,9 @@
   "tag:wizard",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PAND01A.BSP": {
-   "filesize": 1601616,
-   "timestamp": "1997-04-15"
-  },
-  "pand01a.txt": {
-   "filesize": 10647,
-   "timestamp": "1997-04-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pand01a.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a2c32e32504e00a0242dc3b2895a8f162b1e5c1d7efadf48307d3aacb2a20aa5/pand01a.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

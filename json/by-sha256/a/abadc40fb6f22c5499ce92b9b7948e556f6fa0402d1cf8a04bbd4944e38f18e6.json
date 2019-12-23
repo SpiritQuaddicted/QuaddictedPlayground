@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6",
  "filename": [
   "terracity.zip"
  ],
+ "files": {
+  "terracity/pak0.pak": {
+   "filesize": 9024953,
+   "timestamp": "2013-05-11"
+  },
+  "terracity/source/terracity.map": {
+   "filesize": 4167020,
+   "timestamp": "2013-05-11"
+  },
+  "terracity/source/terracity.rmf": {
+   "filesize": 16174474,
+   "timestamp": "2013-05-11"
+  },
+  "terracity/terracity.txt": {
+   "filesize": 4182,
+   "timestamp": "2013-05-11"
+  }
+ },
  "filesize": 5043,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6",
  "tags": [
   "title:Terracity",
   "releasedate:2013-05-12",
@@ -24,29 +44,9 @@
   "tag:limits",
   "startmap:terracity"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "terracity/pak0.pak": {
-   "filesize": 9024953,
-   "timestamp": "2013-05-11"
-  },
-  "terracity/source/terracity.map": {
-   "filesize": 4167020,
-   "timestamp": "2013-05-11"
-  },
-  "terracity/source/terracity.rmf": {
-   "filesize": 16174474,
-   "timestamp": "2013-05-11"
-  },
-  "terracity/terracity.txt": {
-   "filesize": 4182,
-   "timestamp": "2013-05-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/terracity.zip",
   "https://www.quaddicted.com/files/by-sha256/a/abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6/terracity.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

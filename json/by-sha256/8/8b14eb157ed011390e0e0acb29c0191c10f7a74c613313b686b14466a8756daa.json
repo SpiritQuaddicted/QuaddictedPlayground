@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "8b14eb157ed011390e0e0acb29c0191c10f7a74c613313b686b14466a8756daa",
  "filename": [
   "trincasp1.zip"
  ],
+ "files": {
+  "trincasp1.bsp": {
+   "filesize": 1156904,
+   "timestamp": "2005-12-31"
+  },
+  "trincasp1.map": {
+   "filesize": 440288,
+   "timestamp": "2005-12-31"
+  },
+  "trincasp1.txt": {
+   "filesize": 5665,
+   "timestamp": "2005-12-31"
+  }
+ },
  "filesize": 473,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8b14eb157ed011390e0e0acb29c0191c10f7a74c613313b686b14466a8756daa",
  "tags": [
   "title:Escape",
   "releasedate:2005-12-31",
@@ -15,25 +31,9 @@
   "tag:wizard",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "trincasp1.map": {
-   "filesize": 440288,
-   "timestamp": "2005-12-31"
-  },
-  "trincasp1.bsp": {
-   "filesize": 1156904,
-   "timestamp": "2005-12-31"
-  },
-  "trincasp1.txt": {
-   "filesize": 5665,
-   "timestamp": "2005-12-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/trincasp1.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8b14eb157ed011390e0e0acb29c0191c10f7a74c613313b686b14466a8756daa/trincasp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

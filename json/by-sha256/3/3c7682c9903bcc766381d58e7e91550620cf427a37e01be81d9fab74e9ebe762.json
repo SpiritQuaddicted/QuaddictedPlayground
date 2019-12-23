@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "3c7682c9903bcc766381d58e7e91550620cf427a37e01be81d9fab74e9ebe762",
  "filename": [
   "e1ubi_plantegenets_v1_1.zip"
  ],
- "filesize": 18655,
- "tags": [
-  "title:Of Three Plantagenets",
-  "releasedate:2019-08-08",
-  "game:quake",
-  "commandline:-game e1ubi",
-  "author:Ubiquitous",
-  "startmap:start",
-  "startmap:e1m1ubi",
-  "startmap:e1m2ubi",
-  "startmap:e1m3ubi"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "e1ubi/e1ubi.txt": {
    "filesize": 3018,
@@ -173,8 +156,25 @@
    "timestamp": "2019-07-16"
   }
  },
+ "filesize": 18655,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "3c7682c9903bcc766381d58e7e91550620cf427a37e01be81d9fab74e9ebe762",
+ "tags": [
+  "title:Of Three Plantagenets",
+  "releasedate:2019-08-08",
+  "game:quake",
+  "commandline:-game e1ubi",
+  "author:Ubiquitous",
+  "startmap:start",
+  "startmap:e1m1ubi",
+  "startmap:e1m2ubi",
+  "startmap:e1m3ubi"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1ubi_plantegenets_v1_1.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3c7682c9903bcc766381d58e7e91550620cf427a37e01be81d9fab74e9ebe762/e1ubi_plantegenets_v1_1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

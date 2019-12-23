@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6",
  "filename": [
   "zendar1d.zip"
  ],
+ "files": {
+  "dont_readme.txt": {
+   "filesize": 3761,
+   "timestamp": "2013-12-18"
+  },
+  "pak0.pak": {
+   "filesize": 30963231,
+   "timestamp": "2013-12-19"
+  },
+  "pak1.pak": {
+   "filesize": 273011,
+   "timestamp": "2013-12-19"
+  },
+  "zendar1d_readme.txt": {
+   "filesize": 12564,
+   "timestamp": "2013-12-18"
+  }
+ },
  "filesize": 10038,
+ "install": {
+  "extract": "{quake}/zendar/"
+ },
+ "sha256": "12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6",
  "tags": [
   "title:The Horde of Zendar",
   "releasedate:2013-12-18",
@@ -28,29 +48,9 @@
   "tag:classic",
   "startmap:zendar"
  ],
- "install": {
-  "extract": "{quake}/zendar/"
- },
- "files": {
-  "dont_readme.txt": {
-   "filesize": 3761,
-   "timestamp": "2013-12-18"
-  },
-  "pak0.pak": {
-   "filesize": 30963231,
-   "timestamp": "2013-12-19"
-  },
-  "pak1.pak": {
-   "filesize": 273011,
-   "timestamp": "2013-12-19"
-  },
-  "zendar1d_readme.txt": {
-   "filesize": 12564,
-   "timestamp": "2013-12-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/zendar1d.zip",
   "https://www.quaddicted.com/files/by-sha256/1/12daa6efad4287376b450014509b1c31a9147113d4e2ec407a03b5c577b061d6/zendar1d.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56",
  "filename": [
   "dknite11.zip"
  ],
+ "files": {
+  "dknight/Dknight.txt": {
+   "filesize": 2743,
+   "timestamp": "1997-09-12"
+  },
+  "dknight/maps/dknight.bsp": {
+   "filesize": 760260,
+   "timestamp": "1997-09-07"
+  },
+  "dknight/progs/hknight.mdl": {
+   "filesize": 275836,
+   "timestamp": "1997-09-07"
+  },
+  "dknight/progs/zombie.mdl": {
+   "filesize": 218680,
+   "timestamp": "1997-09-07"
+  }
+ },
  "filesize": 609,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56",
  "tags": [
   "title:Fortress of the Dark Knight",
   "releasedate:1997-09-12",
@@ -18,29 +38,9 @@
   "tag:skins",
   "startmap:dknight"
  ],
- "install": {
-  "extract": "{quake}//"
- },
- "files": {
-  "dknight/maps/dknight.bsp": {
-   "filesize": 760260,
-   "timestamp": "1997-09-07"
-  },
-  "dknight/Dknight.txt": {
-   "filesize": 2743,
-   "timestamp": "1997-09-12"
-  },
-  "dknight/progs/hknight.mdl": {
-   "filesize": 275836,
-   "timestamp": "1997-09-07"
-  },
-  "dknight/progs/zombie.mdl": {
-   "filesize": 218680,
-   "timestamp": "1997-09-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dknite11.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56/dknite11.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

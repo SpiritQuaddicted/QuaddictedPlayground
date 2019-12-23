@@ -1,31 +1,14 @@
 {
- "version": "20191222-0",
- "sha256": "dac718c22fb4dba452874f309a978f1e3b94a3a444b2a7156453149d7e7cb413",
  "filename": [
   "the_gate.zip"
  ],
- "filesize": 874,
- "tags": [
-  "title:The Gate",
-  "releasedate:1997-02-18",
-  "game:quake",
-  "author:Marc Roussel",
-  "tag:small",
-  "tag:metal",
-  "tag:traps",
-  "tag:mixtex",
-  "tag:lava"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
-  "THE_GATE.DEM": {
-   "filesize": 761786,
-   "timestamp": "1996-12-21"
-  },
   "THE_GATE.BSP": {
    "filesize": 1772808,
+   "timestamp": "1996-12-21"
+  },
+  "THE_GATE.DEM": {
+   "filesize": 761786,
    "timestamp": "1996-12-21"
   },
   "THE_GATE.LOG": {
@@ -37,8 +20,25 @@
    "timestamp": "1997-02-18"
   }
  },
+ "filesize": 874,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dac718c22fb4dba452874f309a978f1e3b94a3a444b2a7156453149d7e7cb413",
+ "tags": [
+  "title:The Gate",
+  "releasedate:1997-02-18",
+  "game:quake",
+  "author:Marc Roussel",
+  "tag:small",
+  "tag:metal",
+  "tag:traps",
+  "tag:mixtex",
+  "tag:lava"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/the_gate.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dac718c22fb4dba452874f309a978f1e3b94a3a444b2a7156453149d7e7cb413/the_gate.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

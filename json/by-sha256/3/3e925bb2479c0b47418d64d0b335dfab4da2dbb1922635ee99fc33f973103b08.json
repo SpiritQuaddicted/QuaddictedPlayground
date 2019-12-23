@@ -1,33 +1,19 @@
 {
- "version": "20191222-0",
- "sha256": "3e925bb2479c0b47418d64d0b335dfab4da2dbb1922635ee99fc33f973103b08",
  "filename": [
   "vr.zip"
  ],
- "filesize": 509,
- "tags": [
-  "title:Virtual Reality Quake",
-  "releasedate:1999-12-02",
-  "game:quake",
-  "commandline:-game vr",
-  "author:George Grotans",
-  "tag:stealth"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
-  "vr_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
+  "VR/CONFIG.CFG": {
+   "filesize": 2251,
+   "timestamp": "1999-12-01"
   },
-  "VR/Sound/soldier/pain1.wav": {
-   "filesize": 8444,
-   "timestamp": "1999-12-02"
+  "VR/Maps/VR.bsp": {
+   "filesize": 234060,
+   "timestamp": "1999-01-09"
   },
-  "VR/Sound/soldier/sight1.wav": {
-   "filesize": 8864,
-   "timestamp": "1999-12-02"
+  "VR/Maps/VR2.bsp": {
+   "filesize": 233760,
+   "timestamp": "1999-01-09"
   },
   "VR/Sound/ENFORCER/PAIN1.WAV": {
    "filesize": 10040,
@@ -45,25 +31,41 @@
    "filesize": 11708,
    "timestamp": "1999-12-02"
   },
+  "VR/Sound/soldier/pain1.wav": {
+   "filesize": 8444,
+   "timestamp": "1999-12-02"
+  },
+  "VR/Sound/soldier/sight1.wav": {
+   "filesize": 8864,
+   "timestamp": "1999-12-02"
+  },
   "VR/Sound/weapons/shotgn2.wav": {
    "filesize": 3788,
    "timestamp": "1999-12-02"
-  },
-  "VR/CONFIG.CFG": {
-   "filesize": 2251,
-   "timestamp": "1999-12-01"
   },
   "VR/progs.dat": {
    "filesize": 419864,
    "timestamp": "1999-01-04"
   },
-  "VR/vr.txt": {
-   "filesize": 722,
-   "timestamp": "1999-12-02"
+  "VR/progs/Enforcer.mdl": {
+   "filesize": 160688,
+   "timestamp": "1998-12-31"
+  },
+  "VR/progs/G_shot.mdl": {
+   "filesize": 457449,
+   "timestamp": "1998-12-17"
+  },
+  "VR/progs/V_shot2.mdl": {
+   "filesize": 162890,
+   "timestamp": "1998-12-17"
   },
   "VR/progs/backpack.mdl": {
    "filesize": 5620,
    "timestamp": "1999-01-04"
+  },
+  "VR/progs/soldier.mdl": {
+   "filesize": 146288,
+   "timestamp": "1998-12-30"
   },
   "VR/progs/v_axe.mdl": {
    "filesize": 49352,
@@ -73,33 +75,31 @@
    "filesize": 49352,
    "timestamp": "1998-06-09"
   },
-  "VR/progs/G_shot.mdl": {
-   "filesize": 457449,
-   "timestamp": "1998-12-17"
+  "VR/vr.txt": {
+   "filesize": 722,
+   "timestamp": "1999-12-02"
   },
-  "VR/progs/soldier.mdl": {
-   "filesize": 146288,
-   "timestamp": "1998-12-30"
-  },
-  "VR/progs/Enforcer.mdl": {
-   "filesize": 160688,
-   "timestamp": "1998-12-31"
-  },
-  "VR/progs/V_shot2.mdl": {
-   "filesize": 162890,
-   "timestamp": "1998-12-17"
-  },
-  "VR/Maps/VR2.bsp": {
-   "filesize": 233760,
-   "timestamp": "1999-01-09"
-  },
-  "VR/Maps/VR.bsp": {
-   "filesize": 234060,
-   "timestamp": "1999-01-09"
+  "vr_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
   }
  },
+ "filesize": 509,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "3e925bb2479c0b47418d64d0b335dfab4da2dbb1922635ee99fc33f973103b08",
+ "tags": [
+  "title:Virtual Reality Quake",
+  "releasedate:1999-12-02",
+  "game:quake",
+  "commandline:-game vr",
+  "author:George Grotans",
+  "tag:stealth"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/vr.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3e925bb2479c0b47418d64d0b335dfab4da2dbb1922635ee99fc33f973103b08/vr.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

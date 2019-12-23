@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2eb4fe98166bffb365693423f9cdba77e77a9900c681a19bd793cb55d23b6ebe",
  "filename": [
   "storm.zip"
  ],
+ "files": {
+  "Storm.bsp": {
+   "filesize": 643756,
+   "timestamp": "1997-09-21"
+  },
+  "readme.txt": {
+   "filesize": 2167,
+   "timestamp": "1997-09-21"
+  }
+ },
  "filesize": 270,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2eb4fe98166bffb365693423f9cdba77e77a9900c681a19bd793cb55d23b6ebe",
  "tags": [
   "title:Stormswift",
   "releasedate:1997-09-21",
@@ -14,21 +26,9 @@
   "tag:base",
   "tag:star wars"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "readme.txt": {
-   "filesize": 2167,
-   "timestamp": "1997-09-21"
-  },
-  "Storm.bsp": {
-   "filesize": 643756,
-   "timestamp": "1997-09-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/storm.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2eb4fe98166bffb365693423f9cdba77e77a9900c681a19bd793cb55d23b6ebe/storm.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

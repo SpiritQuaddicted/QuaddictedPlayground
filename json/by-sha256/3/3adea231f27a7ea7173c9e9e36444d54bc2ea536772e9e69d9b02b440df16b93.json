@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93",
  "filename": [
   "sm35_pack.zip"
  ],
+ "files": {
+  "sm35_ap.bsp": {
+   "filesize": 267540,
+   "timestamp": "2001-09-23"
+  },
+  "sm35_bear.bsp": {
+   "filesize": 258544,
+   "timestamp": "2001-09-24"
+  },
+  "sm35_necros.bsp": {
+   "filesize": 819624,
+   "timestamp": "2001-09-23"
+  },
+  "sm35_nekroe.bsp": {
+   "filesize": 744512,
+   "timestamp": "2001-09-24"
+  },
+  "sm35_pack.txt": {
+   "filesize": 2270,
+   "timestamp": "2001-09-24"
+  }
+ },
  "filesize": 846,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93",
  "tags": [
   "title:Speedmapping pack 35 - Use the Egypt texture set created by sock as converted by Fren",
   "releasedate:2001-09-24",
@@ -18,33 +42,9 @@
   "startmap:sm35_necros",
   "startmap:sm35_nekroe"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm35_necros.bsp": {
-   "filesize": 819624,
-   "timestamp": "2001-09-23"
-  },
-  "sm35_nekroe.bsp": {
-   "filesize": 744512,
-   "timestamp": "2001-09-24"
-  },
-  "sm35_bear.bsp": {
-   "filesize": 258544,
-   "timestamp": "2001-09-24"
-  },
-  "sm35_ap.bsp": {
-   "filesize": 267540,
-   "timestamp": "2001-09-23"
-  },
-  "sm35_pack.txt": {
-   "filesize": 2270,
-   "timestamp": "2001-09-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm35_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93/sm35_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

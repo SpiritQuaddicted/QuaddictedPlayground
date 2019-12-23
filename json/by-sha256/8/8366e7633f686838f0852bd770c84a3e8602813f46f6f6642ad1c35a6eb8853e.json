@@ -1,46 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e",
  "filename": [
   "sm190_pack.zip"
  ],
- "filesize": 29836,
- "tags": [
-  "title:SM190 - Six textures",
-  "releasedate:2019-01-01",
-  "game:quake",
-  "author:Digs",
-  "author:Dumptruck",
-  "author:Ing",
-  "author:Ish",
-  "author:JCR",
-  "author:Naitelveni",
-  "author:Newhouse",
-  "author:Nyo",
-  "author:onetruepurple",
-  "author:Pinchy",
-  "author:Scrama",
-  "author:Skacky",
-  "author:Ukko",
-  "startmap:sm190_digs",
-  "startmap:sm190_dumptruck",
-  "startmap:sm190_ing",
-  "startmap:sm190_ish",
-  "startmap:sm190_jcr",
-  "startmap:sm190_naitelveni",
-  "startmap:sm190_newhouse",
-  "startmap:sm190_newhouse2",
-  "startmap:sm190_nyo",
-  "startmap:sm190_otp",
-  "startmap:sm190_pinchy",
-  "startmap:sm190_scrama",
-  "startmap:sm190_skacky",
-  "startmap:sm190_skacky2",
-  "startmap:sm190_ukko"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "gfx/env/moonhigh_bk.tga": {
    "filesize": 1048620,
@@ -287,8 +248,47 @@
    "timestamp": "2019-01-01"
   }
  },
+ "filesize": 29836,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e",
+ "tags": [
+  "title:SM190 - Six textures",
+  "releasedate:2019-01-01",
+  "game:quake",
+  "author:Digs",
+  "author:Dumptruck",
+  "author:Ing",
+  "author:Ish",
+  "author:JCR",
+  "author:Naitelveni",
+  "author:Newhouse",
+  "author:Nyo",
+  "author:onetruepurple",
+  "author:Pinchy",
+  "author:Scrama",
+  "author:Skacky",
+  "author:Ukko",
+  "startmap:sm190_digs",
+  "startmap:sm190_dumptruck",
+  "startmap:sm190_ing",
+  "startmap:sm190_ish",
+  "startmap:sm190_jcr",
+  "startmap:sm190_naitelveni",
+  "startmap:sm190_newhouse",
+  "startmap:sm190_newhouse2",
+  "startmap:sm190_nyo",
+  "startmap:sm190_otp",
+  "startmap:sm190_pinchy",
+  "startmap:sm190_scrama",
+  "startmap:sm190_skacky",
+  "startmap:sm190_skacky2",
+  "startmap:sm190_ukko"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm190_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8366e7633f686838f0852bd770c84a3e8602813f46f6f6642ad1c35a6eb8853e/sm190_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

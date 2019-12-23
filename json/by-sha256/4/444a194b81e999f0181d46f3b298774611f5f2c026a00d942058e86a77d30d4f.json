@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "444a194b81e999f0181d46f3b298774611f5f2c026a00d942058e86a77d30d4f",
  "filename": [
   "auximine.zip"
  ],
+ "files": {
+  "Gadgets.BAT": {
+   "filesize": 39,
+   "timestamp": "1997-05-03"
+  },
+  "file_id.DIZ": {
+   "filesize": 231,
+   "timestamp": "1997-05-03"
+  },
+  "gadgets/auximine.txt": {
+   "filesize": 4443,
+   "timestamp": "1997-05-03"
+  },
+  "gadgets/pak0.pak": {
+   "filesize": 3476336,
+   "timestamp": "1997-05-03"
+  }
+ },
  "filesize": 1311,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "444a194b81e999f0181d46f3b298774611f5f2c026a00d942058e86a77d30d4f",
  "tags": [
   "title:More Furious Madness from the Massed Gadgets of Auximenies",
   "releasedate:1997-05-03",
@@ -24,29 +44,9 @@
   "tag:textures",
   "tag:cutscenes"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "file_id.DIZ": {
-   "filesize": 231,
-   "timestamp": "1997-05-03"
-  },
-  "Gadgets.BAT": {
-   "filesize": 39,
-   "timestamp": "1997-05-03"
-  },
-  "gadgets/auximine.txt": {
-   "filesize": 4443,
-   "timestamp": "1997-05-03"
-  },
-  "gadgets/pak0.pak": {
-   "filesize": 3476336,
-   "timestamp": "1997-05-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/auximine.zip",
   "https://www.quaddicted.com/files/by-sha256/4/444a194b81e999f0181d46f3b298774611f5f2c026a00d942058e86a77d30d4f/auximine.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

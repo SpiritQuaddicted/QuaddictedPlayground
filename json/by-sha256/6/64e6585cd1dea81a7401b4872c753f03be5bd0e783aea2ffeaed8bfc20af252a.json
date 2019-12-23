@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "64e6585cd1dea81a7401b4872c753f03be5bd0e783aea2ffeaed8bfc20af252a",
  "filename": [
   "arma2.zip"
  ],
+ "files": {
+  "ARMA2.BSP": {
+   "filesize": 1090712,
+   "timestamp": "1996-10-19"
+  },
+  "ARMA2.TXT": {
+   "filesize": 3687,
+   "timestamp": "1996-10-20"
+  },
+  "FILE_ID.DIZ": {
+   "filesize": 320,
+   "timestamp": "1996-10-20"
+  }
+ },
  "filesize": 457,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "64e6585cd1dea81a7401b4872c753f03be5bd0e783aea2ffeaed8bfc20af252a",
  "tags": [
   "title:Armageddon 2",
   "releasedate:1996-10-20",
@@ -16,25 +32,9 @@
   "tag:oldschool",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ARMA2.TXT": {
-   "filesize": 3687,
-   "timestamp": "1996-10-20"
-  },
-  "ARMA2.BSP": {
-   "filesize": 1090712,
-   "timestamp": "1996-10-19"
-  },
-  "FILE_ID.DIZ": {
-   "filesize": 320,
-   "timestamp": "1996-10-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/arma2.zip",
   "https://www.quaddicted.com/files/by-sha256/6/64e6585cd1dea81a7401b4872c753f03be5bd0e783aea2ffeaed8bfc20af252a/arma2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

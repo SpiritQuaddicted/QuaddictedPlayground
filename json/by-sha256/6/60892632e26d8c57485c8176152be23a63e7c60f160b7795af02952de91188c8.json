@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "60892632e26d8c57485c8176152be23a63e7c60f160b7795af02952de91188c8",
  "filename": [
   "sm100t_neg!ke.zip"
  ],
+ "files": {
+  "sm100t_neg!ke.bsp": {
+   "filesize": 2628980,
+   "timestamp": "2005-07-27"
+  },
+  "sm100t_neg!ke.txt": {
+   "filesize": 1944,
+   "timestamp": "2005-07-27"
+  }
+ },
  "filesize": 1049,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "60892632e26d8c57485c8176152be23a63e7c60f160b7795af02952de91188c8",
  "tags": [
   "title:Down the ratbit hole",
   "releasedate:2005-07-27",
@@ -15,21 +27,9 @@
   "tag:turtle",
   "tag:library"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm100t_neg!ke.txt": {
-   "filesize": 1944,
-   "timestamp": "2005-07-27"
-  },
-  "sm100t_neg!ke.bsp": {
-   "filesize": 2628980,
-   "timestamp": "2005-07-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm100t_neg!ke.zip",
   "https://www.quaddicted.com/files/by-sha256/6/60892632e26d8c57485c8176152be23a63e7c60f160b7795af02952de91188c8/sm100t_neg!ke.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

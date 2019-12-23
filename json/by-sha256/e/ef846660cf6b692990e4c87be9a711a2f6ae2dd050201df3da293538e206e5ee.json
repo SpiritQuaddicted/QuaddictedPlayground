@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "ef846660cf6b692990e4c87be9a711a2f6ae2dd050201df3da293538e206e5ee",
  "filename": [
   "losttec.zip"
  ],
+ "files": {
+  "LOSTTEC.bsp": {
+   "filesize": 1526888,
+   "timestamp": "1997-11-29"
+  },
+  "TECSKILL.bsp": {
+   "filesize": 393180,
+   "timestamp": "1997-11-26"
+  },
+  "losttec.dmm": {
+   "filesize": 416808,
+   "timestamp": "1997-11-29"
+  },
+  "losttec.txt": {
+   "filesize": 3736,
+   "timestamp": "1997-11-29"
+  },
+  "tecskill.dmm": {
+   "filesize": 66280,
+   "timestamp": "1997-11-26"
+  }
+ },
  "filesize": 1089,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ef846660cf6b692990e4c87be9a711a2f6ae2dd050201df3da293538e206e5ee",
  "tags": [
   "title:The Lost Tech Center",
   "releasedate:1997-11-29",
@@ -15,33 +39,9 @@
   "tag:base",
   "startmap:tecskill"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "losttec.txt": {
-   "filesize": 3736,
-   "timestamp": "1997-11-29"
-  },
-  "tecskill.dmm": {
-   "filesize": 66280,
-   "timestamp": "1997-11-26"
-  },
-  "losttec.dmm": {
-   "filesize": 416808,
-   "timestamp": "1997-11-29"
-  },
-  "LOSTTEC.bsp": {
-   "filesize": 1526888,
-   "timestamp": "1997-11-29"
-  },
-  "TECSKILL.bsp": {
-   "filesize": 393180,
-   "timestamp": "1997-11-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/losttec.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ef846660cf6b692990e4c87be9a711a2f6ae2dd050201df3da293538e206e5ee/losttec.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9e1d2743c00730aef63884ed9e9ddbde851914ac30f87388903b7d73fd7e403c",
  "filename": [
   "deja.zip"
  ],
- "filesize": 818,
- "tags": [
-  "title:Dimension of the Diminished",
-  "releasedate:2006-11-30",
-  "game:quake",
-  "author:Flavio 'GinKo' Quadros",
-  "tag:small",
-  "tag:mixtex",
-  "tag:id",
-  "tag:homage",
-  "tag:remix"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "deja.bsp": {
    "filesize": 1838140,
@@ -33,8 +16,25 @@
    "timestamp": "2007-01-30"
   }
  },
+ "filesize": 818,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9e1d2743c00730aef63884ed9e9ddbde851914ac30f87388903b7d73fd7e403c",
+ "tags": [
+  "title:Dimension of the Diminished",
+  "releasedate:2006-11-30",
+  "game:quake",
+  "author:Flavio 'GinKo' Quadros",
+  "tag:small",
+  "tag:mixtex",
+  "tag:id",
+  "tag:homage",
+  "tag:remix"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/deja.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9e1d2743c00730aef63884ed9e9ddbde851914ac30f87388903b7d73fd7e403c/deja.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

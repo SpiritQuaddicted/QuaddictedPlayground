@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "495bed5656c80c88ccf77a9c0ec17c8058680efa5456ec13024caff7932d2829",
  "filename": [
   "hc2.zip"
  ],
- "filesize": 567,
- "tags": [
-  "title:Baneful Politic Comply",
-  "releasedate:2017-01-13",
-  "game:quake",
-  "author:Nicolas &quot;hexcalk&quot; Maeder",
-  "tag:small",
-  "tag:wizard",
-  "tag:source",
-  "tag:classic",
-  "tag:oldschool",
-  "tag:horde"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "gpl-2.0.txt": {
    "filesize": 18326,
@@ -38,8 +20,26 @@
    "timestamp": "2017-01-13"
   }
  },
+ "filesize": 567,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "495bed5656c80c88ccf77a9c0ec17c8058680efa5456ec13024caff7932d2829",
+ "tags": [
+  "title:Baneful Politic Comply",
+  "releasedate:2017-01-13",
+  "game:quake",
+  "author:Nicolas &quot;hexcalk&quot; Maeder",
+  "tag:small",
+  "tag:wizard",
+  "tag:source",
+  "tag:classic",
+  "tag:oldschool",
+  "tag:horde"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/hc2.zip",
   "https://www.quaddicted.com/files/by-sha256/4/495bed5656c80c88ccf77a9c0ec17c8058680efa5456ec13024caff7932d2829/hc2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

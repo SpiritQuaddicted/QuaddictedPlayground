@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b",
  "filename": [
   "coagula3_bone.zip"
  ],
+ "files": {
+  "COAGULA3.bsp": {
+   "filesize": 1760192,
+   "timestamp": "2001-07-23"
+  },
+  "coagula3_bone.txt": {
+   "filesize": 3005,
+   "timestamp": "2001-07-23"
+  }
+ },
  "filesize": 584,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b",
  "tags": [
   "title:Coagula3: Bone",
   "releasedate:2001-07-23",
@@ -16,21 +28,9 @@
   "tag:small",
   "startmap:coagula3"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "COAGULA3.bsp": {
-   "filesize": 1760192,
-   "timestamp": "2001-07-23"
-  },
-  "coagula3_bone.txt": {
-   "filesize": 3005,
-   "timestamp": "2001-07-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/coagula3_bone.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b/coagula3_bone.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

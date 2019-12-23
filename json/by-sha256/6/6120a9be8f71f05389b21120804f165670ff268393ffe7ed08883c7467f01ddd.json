@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "6120a9be8f71f05389b21120804f165670ff268393ffe7ed08883c7467f01ddd",
  "filename": [
   "progref.zip"
  ],
+ "files": {
+  "progref.bsp": {
+   "filesize": 1581932,
+   "timestamp": "2008-02-09"
+  },
+  "progref.lit": {
+   "filesize": 667004,
+   "timestamp": "2008-02-09"
+  },
+  "progref.map": {
+   "filesize": 519065,
+   "timestamp": "2008-02-09"
+  },
+  "progref.rmf": {
+   "filesize": 2153748,
+   "timestamp": "2008-02-09"
+  },
+  "progref.txt": {
+   "filesize": 1877,
+   "timestamp": "2008-02-09"
+  },
+  "progref.wad": {
+   "filesize": 872068,
+   "timestamp": "2008-02-09"
+  }
+ },
  "filesize": 1297,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "6120a9be8f71f05389b21120804f165670ff268393ffe7ed08883c7467f01ddd",
  "tags": [
   "title:Plain ol progs.dat tricks",
   "releasedate:2008-02-09",
@@ -16,37 +44,9 @@
   "tag:hacks",
   "startmap:progref"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "progref.txt": {
-   "filesize": 1877,
-   "timestamp": "2008-02-09"
-  },
-  "progref.bsp": {
-   "filesize": 1581932,
-   "timestamp": "2008-02-09"
-  },
-  "progref.map": {
-   "filesize": 519065,
-   "timestamp": "2008-02-09"
-  },
-  "progref.rmf": {
-   "filesize": 2153748,
-   "timestamp": "2008-02-09"
-  },
-  "progref.wad": {
-   "filesize": 872068,
-   "timestamp": "2008-02-09"
-  },
-  "progref.lit": {
-   "filesize": 667004,
-   "timestamp": "2008-02-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/progref.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6120a9be8f71f05389b21120804f165670ff268393ffe7ed08883c7467f01ddd/progref.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

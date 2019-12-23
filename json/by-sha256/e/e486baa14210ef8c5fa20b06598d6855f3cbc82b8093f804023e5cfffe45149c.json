@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "e486baa14210ef8c5fa20b06598d6855f3cbc82b8093f804023e5cfffe45149c",
  "filename": [
   "foxyzoo.zip"
  ],
+ "files": {
+  "bazooka.txt": {
+   "filesize": 4512,
+   "timestamp": "1996-11-26"
+  },
+  "foxyzoo.txt": {
+   "filesize": 3172,
+   "timestamp": "1997-01-14"
+  },
+  "manga.txt": {
+   "filesize": 2019,
+   "timestamp": "1996-11-03"
+  },
+  "pak0.pak": {
+   "filesize": 1706070,
+   "timestamp": "1997-01-14"
+  },
+  "snakeman.txt": {
+   "filesize": 4744,
+   "timestamp": "1996-10-24"
+  },
+  "spider.txt": {
+   "filesize": 2615,
+   "timestamp": "1996-10-09"
+  },
+  "src.ZIP": {
+   "filesize": 25875,
+   "timestamp": "1997-01-14"
+  }
+ },
  "filesize": 738,
+ "install": {
+  "extract": "{quake}/foxyzoo/"
+ },
+ "sha256": "e486baa14210ef8c5fa20b06598d6855f3cbc82b8093f804023e5cfffe45149c",
  "tags": [
   "title:Foxyzoo",
   "releasedate:1997-01-14",
@@ -17,41 +49,9 @@
   "tag:arena",
   "tag:no exit"
  ],
- "install": {
-  "extract": "{quake}/foxyzoo/"
- },
- "files": {
-  "bazooka.txt": {
-   "filesize": 4512,
-   "timestamp": "1996-11-26"
-  },
-  "src.ZIP": {
-   "filesize": 25875,
-   "timestamp": "1997-01-14"
-  },
-  "foxyzoo.txt": {
-   "filesize": 3172,
-   "timestamp": "1997-01-14"
-  },
-  "spider.txt": {
-   "filesize": 2615,
-   "timestamp": "1996-10-09"
-  },
-  "snakeman.txt": {
-   "filesize": 4744,
-   "timestamp": "1996-10-24"
-  },
-  "manga.txt": {
-   "filesize": 2019,
-   "timestamp": "1996-11-03"
-  },
-  "pak0.pak": {
-   "filesize": 1706070,
-   "timestamp": "1997-01-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/foxyzoo.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e486baa14210ef8c5fa20b06598d6855f3cbc82b8093f804023e5cfffe45149c/foxyzoo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

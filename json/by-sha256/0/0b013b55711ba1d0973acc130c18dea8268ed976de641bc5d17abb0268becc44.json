@@ -1,32 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0b013b55711ba1d0973acc130c18dea8268ed976de641bc5d17abb0268becc44",
  "filename": [
   "sm179_pack.zip"
  ],
- "filesize": 3484,
- "tags": [
-  "title:Speedmapping pack 179 - Wizard",
-  "releasedate:2017-08-20",
-  "game:quake",
-  "author:Danzadan",
-  "author:dumptruck_ds",
-  "author:mukor",
-  "author:Naitelveni",
-  "author:onetruepurple",
-  "tag:speedmap",
-  "tag:wizard",
-  "tag:hacks",
-  "tag:external textures",
-  "startmap:sm179_danzadan",
-  "startmap:sm179_dumptruck_ds",
-  "startmap:sm179_mukor",
-  "startmap:sm179_naitelveni",
-  "startmap:sm179_otp"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "SM179_Pack.txt": {
    "filesize": 287,
@@ -93,8 +68,33 @@
    "timestamp": "2017-08-19"
   }
  },
+ "filesize": 3484,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0b013b55711ba1d0973acc130c18dea8268ed976de641bc5d17abb0268becc44",
+ "tags": [
+  "title:Speedmapping pack 179 - Wizard",
+  "releasedate:2017-08-20",
+  "game:quake",
+  "author:Danzadan",
+  "author:dumptruck_ds",
+  "author:mukor",
+  "author:Naitelveni",
+  "author:onetruepurple",
+  "tag:speedmap",
+  "tag:wizard",
+  "tag:hacks",
+  "tag:external textures",
+  "startmap:sm179_danzadan",
+  "startmap:sm179_dumptruck_ds",
+  "startmap:sm179_mukor",
+  "startmap:sm179_naitelveni",
+  "startmap:sm179_otp"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm179_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0b013b55711ba1d0973acc130c18dea8268ed976de641bc5d17abb0268becc44/sm179_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

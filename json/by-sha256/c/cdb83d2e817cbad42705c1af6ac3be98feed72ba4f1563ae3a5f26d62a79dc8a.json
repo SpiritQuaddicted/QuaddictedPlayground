@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a",
  "filename": [
   "sm44_pack.zip"
  ],
+ "files": {
+  "sm44_bp.bsp": {
+   "filesize": 255352,
+   "timestamp": "2003-08-10"
+  },
+  "sm44_ewerd.bsp": {
+   "filesize": 322588,
+   "timestamp": "2003-08-10"
+  },
+  "sm44_pack.txt": {
+   "filesize": 1600,
+   "timestamp": "2001-09-10"
+  },
+  "sm44_ray.bsp": {
+   "filesize": 934176,
+   "timestamp": "2003-08-10"
+  },
+  "sm44_sb.bsp": {
+   "filesize": 408460,
+   "timestamp": "2003-08-10"
+  },
+  "sm44_scampie.bsp": {
+   "filesize": 292744,
+   "timestamp": "2001-09-10"
+  }
+ },
  "filesize": 714,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a",
  "tags": [
   "title:Speedmapping pack 44 - Unthemed",
   "releasedate:2003-08-10",
@@ -18,37 +46,9 @@
   "startmap:sm44_ray",
   "startmap:sm44_sb"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm44_ray.bsp": {
-   "filesize": 934176,
-   "timestamp": "2003-08-10"
-  },
-  "sm44_pack.txt": {
-   "filesize": 1600,
-   "timestamp": "2001-09-10"
-  },
-  "sm44_scampie.bsp": {
-   "filesize": 292744,
-   "timestamp": "2001-09-10"
-  },
-  "sm44_bp.bsp": {
-   "filesize": 255352,
-   "timestamp": "2003-08-10"
-  },
-  "sm44_sb.bsp": {
-   "filesize": 408460,
-   "timestamp": "2003-08-10"
-  },
-  "sm44_ewerd.bsp": {
-   "filesize": 322588,
-   "timestamp": "2003-08-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm44_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a/sm44_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "859efe6b4fb1a24ee9a37394638cbf944354c818dd3bb40a71bb42f5c621701d",
  "filename": [
   "shesp1.zip"
  ],
+ "files": {
+  "shesp1.bsp": {
+   "filesize": 5174392,
+   "timestamp": "2008-07-10"
+  },
+  "shesp1.txt": {
+   "filesize": 4988,
+   "timestamp": "2008-08-03"
+  },
+  "shesp1_crystal_1.bsp": {
+   "filesize": 3124,
+   "timestamp": "2008-04-01"
+  },
+  "shesp1_crystal_2.bsp": {
+   "filesize": 3124,
+   "timestamp": "2008-03-31"
+  },
+  "shesp1_crystal_3.bsp": {
+   "filesize": 3124,
+   "timestamp": "2008-04-01"
+  }
+ },
  "filesize": 1641,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "859efe6b4fb1a24ee9a37394638cbf944354c818dd3bb40a71bb42f5c621701d",
  "tags": [
   "title:Dorghael Arhlannen",
   "releasedate:2008-08-03",
@@ -19,33 +43,9 @@
   "tag:boss",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "shesp1.txt": {
-   "filesize": 4988,
-   "timestamp": "2008-08-03"
-  },
-  "shesp1_crystal_3.bsp": {
-   "filesize": 3124,
-   "timestamp": "2008-04-01"
-  },
-  "shesp1.bsp": {
-   "filesize": 5174392,
-   "timestamp": "2008-07-10"
-  },
-  "shesp1_crystal_2.bsp": {
-   "filesize": 3124,
-   "timestamp": "2008-03-31"
-  },
-  "shesp1_crystal_1.bsp": {
-   "filesize": 3124,
-   "timestamp": "2008-04-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/shesp1.zip",
   "https://www.quaddicted.com/files/by-sha256/8/859efe6b4fb1a24ee9a37394638cbf944354c818dd3bb40a71bb42f5c621701d/shesp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

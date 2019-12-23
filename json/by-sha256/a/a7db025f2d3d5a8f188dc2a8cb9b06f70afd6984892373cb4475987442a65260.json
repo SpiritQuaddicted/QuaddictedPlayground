@@ -1,28 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "a7db025f2d3d5a8f188dc2a8cb9b06f70afd6984892373cb4475987442a65260",
  "filename": [
   "dm6rmx.zip"
  ],
- "filesize": 3157,
- "tags": [
-  "title:The Dark Portal",
-  "releasedate:2018-10-08",
-  "game:quake",
-  "author:than",
-  "tag:large",
-  "tag:base",
-  "tag:industrial",
-  "tag:dm6",
-  "tag:dm",
-  "tag:remix",
-  "tag:remake",
-  "tag:limits",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "dm6rmx.bsp": {
    "filesize": 5469364,
@@ -41,8 +20,29 @@
    "timestamp": "2018-10-08"
   }
  },
+ "filesize": 3157,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a7db025f2d3d5a8f188dc2a8cb9b06f70afd6984892373cb4475987442a65260",
+ "tags": [
+  "title:The Dark Portal",
+  "releasedate:2018-10-08",
+  "game:quake",
+  "author:than",
+  "tag:large",
+  "tag:base",
+  "tag:industrial",
+  "tag:dm6",
+  "tag:dm",
+  "tag:remix",
+  "tag:remake",
+  "tag:limits",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm6rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a7db025f2d3d5a8f188dc2a8cb9b06f70afd6984892373cb4475987442a65260/dm6rmx.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

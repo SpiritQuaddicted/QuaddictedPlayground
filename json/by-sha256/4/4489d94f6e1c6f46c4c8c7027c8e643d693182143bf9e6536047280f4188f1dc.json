@@ -1,10 +1,58 @@
 {
- "version": "20191222-0",
- "sha256": "4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc",
  "filename": [
   "q1tm2.zip"
  ],
+ "files": {
+  "q1tm2README.txt": {
+   "filesize": 1168,
+   "timestamp": "2001-09-19"
+  },
+  "q1tm2_czg.bsp": {
+   "filesize": 1207984,
+   "timestamp": "2002-12-20"
+  },
+  "q1tm2_czg.txt": {
+   "filesize": 1041,
+   "timestamp": "2002-12-20"
+  },
+  "q1tm2_hrimfaxi.bsp": {
+   "filesize": 1599372,
+   "timestamp": "2002-12-22"
+  },
+  "q1tm2_hrimfaxi.txt": {
+   "filesize": 2613,
+   "timestamp": "2002-12-22"
+  },
+  "q1tm2_lev.bsp": {
+   "filesize": 652968,
+   "timestamp": "2002-12-21"
+  },
+  "q1tm2_lev.txt": {
+   "filesize": 946,
+   "timestamp": "2002-12-21"
+  },
+  "q1tm2_pushplay.bsp": {
+   "filesize": 1278924,
+   "timestamp": "2002-12-21"
+  },
+  "q1tm2_pushplay.txt": {
+   "filesize": 1614,
+   "timestamp": "2002-12-21"
+  },
+  "q1tm2_remnent.bsp": {
+   "filesize": 597668,
+   "timestamp": "2002-12-20"
+  },
+  "q1tm2_remnent.txt": {
+   "filesize": 2698,
+   "timestamp": "2001-09-19"
+  }
+ },
  "filesize": 2088,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc",
  "tags": [
   "title:Quake Turtlemap 2",
   "releasedate:2002-12-22",
@@ -26,57 +74,9 @@
   "startmap:q1tm2_pushplay",
   "startmap:q1tm2_remnent"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "q1tm2_lev.bsp": {
-   "filesize": 652968,
-   "timestamp": "2002-12-21"
-  },
-  "q1tm2README.txt": {
-   "filesize": 1168,
-   "timestamp": "2001-09-19"
-  },
-  "q1tm2_pushplay.txt": {
-   "filesize": 1614,
-   "timestamp": "2002-12-21"
-  },
-  "q1tm2_hrimfaxi.txt": {
-   "filesize": 2613,
-   "timestamp": "2002-12-22"
-  },
-  "q1tm2_czg.bsp": {
-   "filesize": 1207984,
-   "timestamp": "2002-12-20"
-  },
-  "q1tm2_remnent.txt": {
-   "filesize": 2698,
-   "timestamp": "2001-09-19"
-  },
-  "q1tm2_lev.txt": {
-   "filesize": 946,
-   "timestamp": "2002-12-21"
-  },
-  "q1tm2_remnent.bsp": {
-   "filesize": 597668,
-   "timestamp": "2002-12-20"
-  },
-  "q1tm2_pushplay.bsp": {
-   "filesize": 1278924,
-   "timestamp": "2002-12-21"
-  },
-  "q1tm2_hrimfaxi.bsp": {
-   "filesize": 1599372,
-   "timestamp": "2002-12-22"
-  },
-  "q1tm2_czg.txt": {
-   "filesize": 1041,
-   "timestamp": "2002-12-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm2.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc/q1tm2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "e1f11cfc0d6f0bf5434f9f5502bcda8b919fac025d4977089e19f3d0737cb921",
  "filename": [
   "supermaze.zip"
  ],
+ "files": {
+  "supermaze.bsp": {
+   "filesize": 1003156,
+   "timestamp": "2007-02-21"
+  }
+ },
  "filesize": 227,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e1f11cfc0d6f0bf5434f9f5502bcda8b919fac025d4977089e19f3d0737cb921",
  "tags": [
   "title:Maze of torture",
   "releasedate:2007-02-21",
@@ -15,17 +23,9 @@
   "tag:stupid",
   "tag:maze"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "supermaze.bsp": {
-   "filesize": 1003156,
-   "timestamp": "2007-02-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/supermaze.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e1f11cfc0d6f0bf5434f9f5502bcda8b919fac025d4977089e19f3d0737cb921/supermaze.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

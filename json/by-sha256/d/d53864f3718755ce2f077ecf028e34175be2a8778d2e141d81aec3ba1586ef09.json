@@ -1,51 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d53864f3718755ce2f077ecf028e34175be2a8778d2e141d81aec3ba1586ef09",
  "filename": [
   "hwjam.zip"
  ],
- "filesize": 89307,
- "tags": [
-  "title:Halloween Jam 2018",
-  "releasedate:2018-11-18",
-  "game:quake",
-  "commandline:-game hwjam",
-  "author:Ing-ing",
-  "author:JCR",
-  "author:Newhouse",
-  "author:nyoeieoyn",
-  "author:PinchySkree",
-  "author:Qmaster",
-  "author:xlarve",
-  "tag:small",
-  "tag:medium",
-  "tag:halloween",
-  "tag:horror",
-  "tag:haunted house",
-  "tag:graveyard",
-  "tag:farm",
-  "tag:tomb",
-  "tag:knave",
-  "tag:realism",
-  "tag:textures",
-  "tag:start",
-  "tag:ad",
-  "tag:monsters",
-  "tag:weapons",
-  "tag:limits",
-  "tag:source",
-  "tag:arcanedimensions",
-  "startmap:start",
-  "startmap:hwjam_ing",
-  "startmap:hwjam_jcr",
-  "startmap:hwjam_nyo",
-  "startmap:hwjam_pinchy",
-  "startmap:hwjam_qmaster",
-  "startmap:hwjam_xlarve"
- ],
- "install": {
-  "extract": "{quake}/hwjam/"
- },
  "files": {
   "gfx/bigbox.lmp": {
    "filesize": 5192,
@@ -6676,8 +6632,52 @@
    "timestamp": "2018-11-18"
   }
  },
+ "filesize": 89307,
+ "install": {
+  "extract": "{quake}/hwjam/"
+ },
+ "sha256": "d53864f3718755ce2f077ecf028e34175be2a8778d2e141d81aec3ba1586ef09",
+ "tags": [
+  "title:Halloween Jam 2018",
+  "releasedate:2018-11-18",
+  "game:quake",
+  "commandline:-game hwjam",
+  "author:Ing-ing",
+  "author:JCR",
+  "author:Newhouse",
+  "author:nyoeieoyn",
+  "author:PinchySkree",
+  "author:Qmaster",
+  "author:xlarve",
+  "tag:small",
+  "tag:medium",
+  "tag:halloween",
+  "tag:horror",
+  "tag:haunted house",
+  "tag:graveyard",
+  "tag:farm",
+  "tag:tomb",
+  "tag:knave",
+  "tag:realism",
+  "tag:textures",
+  "tag:start",
+  "tag:ad",
+  "tag:monsters",
+  "tag:weapons",
+  "tag:limits",
+  "tag:source",
+  "tag:arcanedimensions",
+  "startmap:start",
+  "startmap:hwjam_ing",
+  "startmap:hwjam_jcr",
+  "startmap:hwjam_nyo",
+  "startmap:hwjam_pinchy",
+  "startmap:hwjam_qmaster",
+  "startmap:hwjam_xlarve"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/hwjam.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d53864f3718755ce2f077ecf028e34175be2a8778d2e141d81aec3ba1586ef09/hwjam.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

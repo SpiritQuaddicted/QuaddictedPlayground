@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "a447563a7e964880ee4cc50ea4894dd22bf89643c0a13738341f1e84b71ace09",
  "filename": [
   "atlantis.zip"
  ],
- "filesize": 810,
- "tags": [
-  "title:Atlantis",
-  "releasedate:1998-04-24",
-  "game:quake",
-  "commandline:-game atlantis",
-  "author:Bruce W. Krueger",
-  "tag:temple",
-  "tag:surreal",
-  "tag:humorous",
-  "tag:monsters",
-  "tag:small"
- ],
- "install": {
-  "extract": "{quake}/atlantis/"
- },
  "files": {
   "ATLANTIX.TXT": {
    "filesize": 6792,
@@ -98,8 +80,26 @@
    "timestamp": "1997-09-29"
   }
  },
+ "filesize": 810,
+ "install": {
+  "extract": "{quake}/atlantis/"
+ },
+ "sha256": "a447563a7e964880ee4cc50ea4894dd22bf89643c0a13738341f1e84b71ace09",
+ "tags": [
+  "title:Atlantis",
+  "releasedate:1998-04-24",
+  "game:quake",
+  "commandline:-game atlantis",
+  "author:Bruce W. Krueger",
+  "tag:temple",
+  "tag:surreal",
+  "tag:humorous",
+  "tag:monsters",
+  "tag:small"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/atlantis.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a447563a7e964880ee4cc50ea4894dd22bf89643c0a13738341f1e84b71ace09/atlantis.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

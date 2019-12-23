@@ -1,32 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40",
  "filename": [
   "digs09.zip"
  ],
- "filesize": 5858,
- "tags": [
-  "title:The Zombie's House",
-  "releasedate:2018-10-27",
-  "game:quake",
-  "commandline:-game quoth -quoth",
-  "author:digs",
-  "tag:large",
-  "tag:village",
-  "tag:house",
-  "tag:realism",
-  "tag:canyon",
-  "tag:valley",
-  "tag:mill",
-  "tag:quoth",
-  "tag:textures",
-  "tag:limits",
-  "tag:bsp2",
-  "dependency:quoth2pt2full_2"
- ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
  "files": {
   "digs09.txt": {
    "filesize": 1974,
@@ -61,8 +36,33 @@
    "timestamp": "2018-06-22"
   }
  },
+ "filesize": 5858,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40",
+ "tags": [
+  "title:The Zombie's House",
+  "releasedate:2018-10-27",
+  "game:quake",
+  "commandline:-game quoth -quoth",
+  "author:digs",
+  "tag:large",
+  "tag:village",
+  "tag:house",
+  "tag:realism",
+  "tag:canyon",
+  "tag:valley",
+  "tag:mill",
+  "tag:quoth",
+  "tag:textures",
+  "tag:limits",
+  "tag:bsp2",
+  "dependency:quoth2pt2full_2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs09.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40/digs09.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

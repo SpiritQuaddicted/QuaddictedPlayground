@@ -1,33 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9724bff7f8e23d2a49cab2b95118595b8b897c3a31075b30a46e33c04b142698",
  "filename": [
   "sm200_pack.zip"
  ],
- "filesize": 18146,
- "tags": [
-  "title:SM200: Chainmap Chaos",
-  "releasedate:2019-08-18",
-  "game:quake",
-  "author:Artistical",
-  "author:Fairweather",
-  "author:ionous",
-  "author:JCR",
-  "author:MortalMaxx",
-  "author:Mugwump",
-  "author:onetruepurple",
-  "author:Pinchy Skree",
-  "author:Ukko",
-  "author:Vurkka",
-  "author:Zungryware",
-  "startmap:sm200a",
-  "startmap:sm200b",
-  "startmap:sm200c",
-  "startmap:sm200d"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "maps/sm200a.bsp": {
    "filesize": 5064748,
@@ -82,8 +56,34 @@
    "timestamp": "2019-08-18"
   }
  },
+ "filesize": 18146,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "9724bff7f8e23d2a49cab2b95118595b8b897c3a31075b30a46e33c04b142698",
+ "tags": [
+  "title:SM200: Chainmap Chaos",
+  "releasedate:2019-08-18",
+  "game:quake",
+  "author:Artistical",
+  "author:Fairweather",
+  "author:ionous",
+  "author:JCR",
+  "author:MortalMaxx",
+  "author:Mugwump",
+  "author:onetruepurple",
+  "author:Pinchy Skree",
+  "author:Ukko",
+  "author:Vurkka",
+  "author:Zungryware",
+  "startmap:sm200a",
+  "startmap:sm200b",
+  "startmap:sm200c",
+  "startmap:sm200d"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm200_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9724bff7f8e23d2a49cab2b95118595b8b897c3a31075b30a46e33c04b142698/sm200_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

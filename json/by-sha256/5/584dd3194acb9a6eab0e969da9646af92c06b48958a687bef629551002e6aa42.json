@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "filename": [
   "anaconda.zip"
  ],
+ "files": {
+  "anaconda.txt": {
+   "filesize": 437,
+   "timestamp": "1997-04-02"
+  },
+  "pak0.pak": {
+   "filesize": 1784012,
+   "timestamp": "1997-04-02"
+  }
+ },
  "filesize": 762,
+ "install": {
+  "extract": "{quake}/anaconda/"
+ },
+ "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "tags": [
   "title:Anaconda",
   "releasedate:1997-04-02",
@@ -22,21 +34,9 @@
   "tag:cave",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/anaconda/"
- },
- "files": {
-  "anaconda.txt": {
-   "filesize": 437,
-   "timestamp": "1997-04-02"
-  },
-  "pak0.pak": {
-   "filesize": 1784012,
-   "timestamp": "1997-04-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/anaconda.zip",
   "https://www.quaddicted.com/files/by-sha256/5/584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42/anaconda.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

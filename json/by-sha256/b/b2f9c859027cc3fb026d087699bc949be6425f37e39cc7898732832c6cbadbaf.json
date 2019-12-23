@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b2f9c859027cc3fb026d087699bc949be6425f37e39cc7898732832c6cbadbaf",
  "filename": [
   "themines.zip"
  ],
- "filesize": 737,
- "tags": [
-  "title:The Lava Mines",
-  "releasedate:1997-08-01",
-  "game:quake",
-  "author:Stuart Maine",
-  "tag:medium",
-  "tag:wizard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "TheMines.TXT": {
    "filesize": 2004,
@@ -26,8 +12,22 @@
    "timestamp": "1997-08-01"
   }
  },
+ "filesize": 737,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b2f9c859027cc3fb026d087699bc949be6425f37e39cc7898732832c6cbadbaf",
+ "tags": [
+  "title:The Lava Mines",
+  "releasedate:1997-08-01",
+  "game:quake",
+  "author:Stuart Maine",
+  "tag:medium",
+  "tag:wizard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/themines.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b2f9c859027cc3fb026d087699bc949be6425f37e39cc7898732832c6cbadbaf/themines.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

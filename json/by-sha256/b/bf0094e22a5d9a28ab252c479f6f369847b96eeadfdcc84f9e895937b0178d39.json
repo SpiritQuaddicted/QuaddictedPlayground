@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "bf0094e22a5d9a28ab252c479f6f369847b96eeadfdcc84f9e895937b0178d39",
  "filename": [
   "kyshell.zip"
  ],
+ "files": {
+  "KYSHELL.BSP": {
+   "filesize": 1741268,
+   "timestamp": "1997-01-25"
+  },
+  "KYSHELL.TXT": {
+   "filesize": 4288,
+   "timestamp": "1997-01-25"
+  }
+ },
  "filesize": 739,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "bf0094e22a5d9a28ab252c479f6f369847b96eeadfdcc84f9e895937b0178d39",
  "tags": [
   "title:HellSpawn",
   "releasedate:1997-01-25",
@@ -14,21 +26,9 @@
   "tag:mixtex",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "KYSHELL.TXT": {
-   "filesize": 4288,
-   "timestamp": "1997-01-25"
-  },
-  "KYSHELL.BSP": {
-   "filesize": 1741268,
-   "timestamp": "1997-01-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/kyshell.zip",
   "https://www.quaddicted.com/files/by-sha256/b/bf0094e22a5d9a28ab252c479f6f369847b96eeadfdcc84f9e895937b0178d39/kyshell.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

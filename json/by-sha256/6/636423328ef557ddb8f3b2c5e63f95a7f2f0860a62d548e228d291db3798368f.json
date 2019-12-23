@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f",
  "filename": [
   "trincasp3.zip"
  ],
+ "files": {
+  "pak0.pak": {
+   "filesize": 11298992,
+   "timestamp": "2006-07-15"
+  },
+  "trsp3.map": {
+   "filesize": 2965125,
+   "timestamp": "2006-07-12"
+  },
+  "trsp3.txt": {
+   "filesize": 4026,
+   "timestamp": "2006-07-15"
+  },
+  "trsp3end.map": {
+   "filesize": 400194,
+   "timestamp": "2006-07-11"
+  },
+  "trsp3st.map": {
+   "filesize": 149166,
+   "timestamp": "2006-07-10"
+  }
+ },
  "filesize": 4258,
+ "install": {
+  "extract": "{quake}/trsp3/"
+ },
+ "sha256": "636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f",
  "tags": [
   "title:Underground Base",
   "releasedate:2006-07-15",
@@ -20,33 +44,9 @@
   "tag:source",
   "startmap:trsp3st"
  ],
- "install": {
-  "extract": "{quake}/trsp3/"
- },
- "files": {
-  "trsp3end.map": {
-   "filesize": 400194,
-   "timestamp": "2006-07-11"
-  },
-  "trsp3.txt": {
-   "filesize": 4026,
-   "timestamp": "2006-07-15"
-  },
-  "trsp3.map": {
-   "filesize": 2965125,
-   "timestamp": "2006-07-12"
-  },
-  "trsp3st.map": {
-   "filesize": 149166,
-   "timestamp": "2006-07-10"
-  },
-  "pak0.pak": {
-   "filesize": 11298992,
-   "timestamp": "2006-07-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/trincasp3.zip",
   "https://www.quaddicted.com/files/by-sha256/6/636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f/trincasp3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

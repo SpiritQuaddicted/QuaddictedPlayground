@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "33661a2855a26848860319ab6af00ba6c6972bcf31dff09094c31bbe338fbdf2",
  "filename": [
   "sm9_pack.zip"
  ],
+ "files": {
+  "sm9_aard.bsp": {
+   "filesize": 1006448,
+   "timestamp": "2001-04-21"
+  },
+  "sm9_bear.bsp": {
+   "filesize": 444104,
+   "timestamp": "2001-04-21"
+  },
+  "sm9_damaul.bsp": {
+   "filesize": 465816,
+   "timestamp": "2001-04-21"
+  },
+  "sm9_inane.bsp": {
+   "filesize": 317236,
+   "timestamp": "2001-04-21"
+  },
+  "sm9_pack.txt": {
+   "filesize": 2664,
+   "timestamp": "2001-04-22"
+  },
+  "sm9_pope.bsp": {
+   "filesize": 525888,
+   "timestamp": "2001-04-21"
+  },
+  "sm9_scampie.bsp": {
+   "filesize": 129364,
+   "timestamp": "2001-03-21"
+  },
+  "sm9_xenon.bsp": {
+   "filesize": 1105792,
+   "timestamp": "2001-04-21"
+  }
+ },
  "filesize": 1591,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "33661a2855a26848860319ab6af00ba6c6972bcf31dff09094c31bbe338fbdf2",
  "tags": [
   "title:Speedmapping pack 9 - Unthemed",
   "releasedate:2001-04-22",
@@ -24,45 +60,9 @@
   "startmap:sm9_pope",
   "startmap:sm9_xenon"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm9_inane.bsp": {
-   "filesize": 317236,
-   "timestamp": "2001-04-21"
-  },
-  "sm9_aard.bsp": {
-   "filesize": 1006448,
-   "timestamp": "2001-04-21"
-  },
-  "sm9_pope.bsp": {
-   "filesize": 525888,
-   "timestamp": "2001-04-21"
-  },
-  "sm9_xenon.bsp": {
-   "filesize": 1105792,
-   "timestamp": "2001-04-21"
-  },
-  "sm9_damaul.bsp": {
-   "filesize": 465816,
-   "timestamp": "2001-04-21"
-  },
-  "sm9_scampie.bsp": {
-   "filesize": 129364,
-   "timestamp": "2001-03-21"
-  },
-  "sm9_pack.txt": {
-   "filesize": 2664,
-   "timestamp": "2001-04-22"
-  },
-  "sm9_bear.bsp": {
-   "filesize": 444104,
-   "timestamp": "2001-04-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm9_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3/33661a2855a26848860319ab6af00ba6c6972bcf31dff09094c31bbe338fbdf2/sm9_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

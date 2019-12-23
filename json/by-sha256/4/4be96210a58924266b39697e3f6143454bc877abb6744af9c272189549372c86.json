@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4be96210a58924266b39697e3f6143454bc877abb6744af9c272189549372c86",
  "filename": [
   "resurrection.zip"
  ],
- "filesize": 1414,
- "tags": [
-  "title:Fortress of Resurrection",
-  "releasedate:2011-07-10",
-  "game:quake",
-  "author:Thobias \"Loke\" Fast",
-  "tag:small",
-  "tag:medieval"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "resurrection.bsp": {
    "filesize": 3301052,
@@ -26,8 +12,22 @@
    "timestamp": "2011-07-10"
   }
  },
+ "filesize": 1414,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "4be96210a58924266b39697e3f6143454bc877abb6744af9c272189549372c86",
+ "tags": [
+  "title:Fortress of Resurrection",
+  "releasedate:2011-07-10",
+  "game:quake",
+  "author:Thobias \"Loke\" Fast",
+  "tag:small",
+  "tag:medieval"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/resurrection.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4be96210a58924266b39697e3f6143454bc877abb6744af9c272189549372c86/resurrection.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

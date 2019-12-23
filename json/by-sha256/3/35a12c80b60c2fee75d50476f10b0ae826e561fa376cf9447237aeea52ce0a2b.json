@@ -1,27 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b",
  "filename": [
   "grim_rezipped.zip"
  ],
- "filesize": 2328,
- "tags": [
-  "title:The Grim Outpost",
-  "releasedate:2018-02-09",
-  "game:quake",
-  "author:Andrew Smith",
-  "tag:large",
-  "tag:wizard",
-  "tag:fortress",
-  "tag:castle",
-  "tag:limits",
-  "tag:bsp2",
-  "tag:id1",
-  "startmap:grim"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "grim.bsp": {
    "filesize": 5671244,
@@ -36,8 +16,28 @@
    "timestamp": "2018-02-09"
   }
  },
+ "filesize": 2328,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b",
+ "tags": [
+  "title:The Grim Outpost",
+  "releasedate:2018-02-09",
+  "game:quake",
+  "author:Andrew Smith",
+  "tag:large",
+  "tag:wizard",
+  "tag:fortress",
+  "tag:castle",
+  "tag:limits",
+  "tag:bsp2",
+  "tag:id1",
+  "startmap:grim"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/grim_rezipped.zip",
   "https://www.quaddicted.com/files/by-sha256/3/35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b/grim_rezipped.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

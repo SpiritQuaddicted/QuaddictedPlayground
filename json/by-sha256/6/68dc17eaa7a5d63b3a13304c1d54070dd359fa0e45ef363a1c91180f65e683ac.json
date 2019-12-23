@@ -1,10 +1,54 @@
 {
- "version": "20191222-0",
- "sha256": "68dc17eaa7a5d63b3a13304c1d54070dd359fa0e45ef363a1c91180f65e683ac",
  "filename": [
   "sm2_pack.zip"
  ],
+ "files": {
+  "sm2_aard.bsp": {
+   "filesize": 493148,
+   "timestamp": "2001-03-23"
+  },
+  "sm2_bear.bsp": {
+   "filesize": 172900,
+   "timestamp": "2001-03-24"
+  },
+  "sm2_blade.bsp": {
+   "filesize": 205644,
+   "timestamp": "2001-03-23"
+  },
+  "sm2_daz.bsp": {
+   "filesize": 338668,
+   "timestamp": "2001-03-23"
+  },
+  "sm2_goetz.bsp": {
+   "filesize": 287004,
+   "timestamp": "2001-03-23"
+  },
+  "sm2_inane.bsp": {
+   "filesize": 515808,
+   "timestamp": "2001-03-21"
+  },
+  "sm2_pack.txt": {
+   "filesize": 2807,
+   "timestamp": "2001-03-24"
+  },
+  "sm2_rpg.bsp": {
+   "filesize": 130768,
+   "timestamp": "2001-03-23"
+  },
+  "sm2_speed.bsp": {
+   "filesize": 297316,
+   "timestamp": "2001-03-24"
+  },
+  "sm2_vigil.bsp": {
+   "filesize": 250856,
+   "timestamp": "2001-03-23"
+  }
+ },
  "filesize": 1094,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "68dc17eaa7a5d63b3a13304c1d54070dd359fa0e45ef363a1c91180f65e683ac",
  "tags": [
   "title:Speedmapping pack 2",
   "releasedate:2001-03-24",
@@ -30,53 +74,9 @@
   "startmap:sm2_vigil",
   "startmap:sm2_goetz"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm2_blade.bsp": {
-   "filesize": 205644,
-   "timestamp": "2001-03-23"
-  },
-  "sm2_inane.bsp": {
-   "filesize": 515808,
-   "timestamp": "2001-03-21"
-  },
-  "sm2_vigil.bsp": {
-   "filesize": 250856,
-   "timestamp": "2001-03-23"
-  },
-  "sm2_rpg.bsp": {
-   "filesize": 130768,
-   "timestamp": "2001-03-23"
-  },
-  "sm2_speed.bsp": {
-   "filesize": 297316,
-   "timestamp": "2001-03-24"
-  },
-  "sm2_aard.bsp": {
-   "filesize": 493148,
-   "timestamp": "2001-03-23"
-  },
-  "sm2_goetz.bsp": {
-   "filesize": 287004,
-   "timestamp": "2001-03-23"
-  },
-  "sm2_daz.bsp": {
-   "filesize": 338668,
-   "timestamp": "2001-03-23"
-  },
-  "sm2_bear.bsp": {
-   "filesize": 172900,
-   "timestamp": "2001-03-24"
-  },
-  "sm2_pack.txt": {
-   "filesize": 2807,
-   "timestamp": "2001-03-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm2_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/68dc17eaa7a5d63b3a13304c1d54070dd359fa0e45ef363a1c91180f65e683ac/sm2_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

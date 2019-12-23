@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "04d5125af12b46b48557d9accc6098302ba75404f57c8c4e3da3b294694aa6c5",
  "filename": [
   "scorn.zip"
  ],
+ "files": {
+  "SCORN.BSP": {
+   "filesize": 925232,
+   "timestamp": "1997-01-16"
+  },
+  "SCORN.TXT": {
+   "filesize": 3752,
+   "timestamp": "1997-01-16"
+  }
+ },
  "filesize": 393,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "04d5125af12b46b48557d9accc6098302ba75404f57c8c4e3da3b294694aa6c5",
  "tags": [
   "title:Scorn Quake Level",
   "releasedate:1997-01-16",
@@ -16,21 +28,9 @@
   "tag:traps",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "SCORN.TXT": {
-   "filesize": 3752,
-   "timestamp": "1997-01-16"
-  },
-  "SCORN.BSP": {
-   "filesize": 925232,
-   "timestamp": "1997-01-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/scorn.zip",
   "https://www.quaddicted.com/files/by-sha256/0/04d5125af12b46b48557d9accc6098302ba75404f57c8c4e3da3b294694aa6c5/scorn.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,31 +1,179 @@
 {
- "version": "20191222-0",
- "sha256": "1b65bb6dfb337e6b30a2f65b90c42c2fb47c549d02b00a48a52be58db6a85f9e",
  "filename": [
   "n3sp02_13.zip"
  ],
- "filesize": 7699,
- "tags": [
-  "title:Castle Necrosis",
-  "releasedate:2001-07-26",
-  "game:quake",
-  "commandline:-game n3sp02",
-  "author:necros",
-  "tag:medieval",
-  "tag:castle",
-  "startmap:n3sp02"
- ],
- "install": {
-  "extract": "{quake}/n3sp02/"
- },
  "files": {
-  "maps/n3sp02_2.bsp": {
-   "filesize": 1898456,
-   "timestamp": "2001-07-25"
+  "Readme.txt": {
+   "filesize": 3721,
+   "timestamp": "2001-07-26"
+  },
+  "autoexec.cfg": {
+   "filesize": 218,
+   "timestamp": "2001-07-23"
   },
   "maps/n3sp02.bsp": {
    "filesize": 4390184,
    "timestamp": "2001-07-25"
+  },
+  "maps/n3sp02_2.bsp": {
+   "filesize": 1898456,
+   "timestamp": "2001-07-25"
+  },
+  "progs.dat": {
+   "filesize": 778652,
+   "timestamp": "2001-07-25"
+  },
+  "progs/H_bsham.mdl": {
+   "filesize": 37447,
+   "timestamp": "2001-07-23"
+  },
+  "progs/Rubble1.mdl": {
+   "filesize": 68840,
+   "timestamp": "2001-07-23"
+  },
+  "progs/Rubble2.mdl": {
+   "filesize": 200266,
+   "timestamp": "2001-07-23"
+  },
+  "progs/Rubble3.mdl": {
+   "filesize": 303080,
+   "timestamp": "2001-07-23"
+  },
+  "progs/S_null.spr": {
+   "filesize": 1080,
+   "timestamp": "2001-07-23"
+  },
+  "progs/arrow.mdl": {
+   "filesize": 12161,
+   "timestamp": "2001-07-23"
+  },
+  "progs/babysham.MDL": {
+   "filesize": 98556,
+   "timestamp": "2001-07-23"
+  },
+  "progs/beam.mdl": {
+   "filesize": 10608,
+   "timestamp": "2001-07-23"
+  },
+  "progs/beamhit.spr": {
+   "filesize": 5320,
+   "timestamp": "2001-07-23"
+  },
+  "progs/bolt.MDL": {
+   "filesize": 1364,
+   "timestamp": "2001-07-23"
+  },
+  "progs/bs_light.mdl": {
+   "filesize": 28707,
+   "timestamp": "2001-07-23"
+  },
+  "progs/buzzsaw.mdl": {
+   "filesize": 28716,
+   "timestamp": "2001-07-23"
+  },
+  "progs/camera.MDL": {
+   "filesize": 33528,
+   "timestamp": "2001-07-23"
+  },
+  "progs/candle.mdl": {
+   "filesize": 21476,
+   "timestamp": "2001-07-23"
+  },
+  "progs/dring.spr": {
+   "filesize": 5320,
+   "timestamp": "2001-07-23"
+  },
+  "progs/expl.spr": {
+   "filesize": 127672,
+   "timestamp": "2001-07-23"
+  },
+  "progs/g_beam.mdl": {
+   "filesize": 1268,
+   "timestamp": "2001-07-23"
+  },
+  "progs/holder.mdl": {
+   "filesize": 63784,
+   "timestamp": "2001-07-23"
+  },
+  "progs/holder2.mdl": {
+   "filesize": 230336,
+   "timestamp": "2001-07-23"
+  },
+  "progs/lantern.mdl": {
+   "filesize": 15092,
+   "timestamp": "2001-07-23"
+  },
+  "progs/lantern0.mdl": {
+   "filesize": 75816,
+   "timestamp": "2001-07-23"
+  },
+  "progs/lantern1.mdl": {
+   "filesize": 88040,
+   "timestamp": "2001-07-23"
+  },
+  "progs/pendulum.mdl": {
+   "filesize": 44128,
+   "timestamp": "2001-07-23"
+  },
+  "progs/tree2.spr": {
+   "filesize": 65592,
+   "timestamp": "2001-07-23"
+  },
+  "progs/tree2_0.tga": {
+   "filesize": 262188,
+   "timestamp": "2001-07-23"
+  },
+  "progs/tree4.spr": {
+   "filesize": 65592,
+   "timestamp": "2001-07-23"
+  },
+  "progs/tree4_0.tga": {
+   "filesize": 262188,
+   "timestamp": "2001-07-23"
+  },
+  "progs/tree5.spr": {
+   "filesize": 65592,
+   "timestamp": "2001-07-23"
+  },
+  "progs/tree5_0.tga": {
+   "filesize": 262188,
+   "timestamp": "2001-07-23"
+  },
+  "progs/trmd1.spr": {
+   "filesize": 65868,
+   "timestamp": "2001-07-23"
+  },
+  "progs/trmd1_0.TGA": {
+   "filesize": 262188,
+   "timestamp": "2001-07-23"
+  },
+  "progs/trmd2.spr": {
+   "filesize": 65868,
+   "timestamp": "2001-07-23"
+  },
+  "progs/trmd2_0.TGA": {
+   "filesize": 262188,
+   "timestamp": "2001-07-23"
+  },
+  "progs/trmd5.spr": {
+   "filesize": 65868,
+   "timestamp": "2001-07-23"
+  },
+  "progs/trmd5_0.TGA": {
+   "filesize": 262188,
+   "timestamp": "2001-07-23"
+  },
+  "progs/v_beam.mdl": {
+   "filesize": 4132,
+   "timestamp": "2001-07-23"
+  },
+  "progs/v_beam2.MDL": {
+   "filesize": 1220,
+   "timestamp": "2001-07-23"
+  },
+  "scripts/textures.txt": {
+   "filesize": 993,
+   "timestamp": "2001-07-23"
   },
   "setup.cfg": {
    "filesize": 245,
@@ -43,120 +191,48 @@
    "filesize": 203804,
    "timestamp": "2001-07-23"
   },
-  "sound/plats/medplat2.wav": {
-   "filesize": 19552,
-   "timestamp": "2001-07-23"
-  },
-  "sound/plats/medplat1.wav": {
-   "filesize": 77946,
-   "timestamp": "2001-07-23"
-  },
-  "sound/plats/plat1.wav": {
-   "filesize": 19986,
-   "timestamp": "2001-07-23"
-  },
-  "sound/plats/train2.wav": {
-   "filesize": 58457,
-   "timestamp": "2001-07-23"
-  },
-  "sound/plats/train1.wav": {
-   "filesize": 116542,
-   "timestamp": "2001-07-23"
-  },
-  "sound/plats/plat2.wav": {
-   "filesize": 49402,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/scare2.wav": {
-   "filesize": 118863,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/rain.wav": {
-   "filesize": 106800,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/croak2.wav": {
-   "filesize": 64801,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/frogs2.wav": {
-   "filesize": 80218,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/scare1.wav": {
-   "filesize": 123775,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/fly1.wav": {
-   "filesize": 77929,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/cricket4.wav": {
-   "filesize": 22490,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/falls.wav": {
-   "filesize": 43266,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/scream2.wav": {
-   "filesize": 114813,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/croak3.wav": {
-   "filesize": 54591,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/swampb3.wav": {
-   "filesize": 67583,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/trumble1.wav": {
-   "filesize": 121393,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/thunder2.wav": {
-   "filesize": 62777,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/swampb4.wav": {
-   "filesize": 49455,
-   "timestamp": "2001-07-23"
-  },
   "sound/ambient/cricket1.wav": {
    "filesize": 11593,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/thunder1.wav": {
-   "filesize": 75677,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/croak4.wav": {
-   "filesize": 55807,
    "timestamp": "2001-07-23"
   },
   "sound/ambient/cricket2.wav": {
    "filesize": 16555,
    "timestamp": "2001-07-23"
   },
-  "sound/ambient/trumble2.wav": {
-   "filesize": 113969,
+  "sound/ambient/cricket3.wav": {
+   "filesize": 15197,
    "timestamp": "2001-07-23"
   },
-  "sound/ambient/wave.wav": {
-   "filesize": 129228,
-   "timestamp": "2001-07-23"
-  },
-  "sound/ambient/scream3.wav": {
-   "filesize": 102525,
+  "sound/ambient/cricket4.wav": {
+   "filesize": 22490,
    "timestamp": "2001-07-23"
   },
   "sound/ambient/croak1.wav": {
    "filesize": 53811,
    "timestamp": "2001-07-23"
   },
-  "sound/ambient/tech1.wav": {
-   "filesize": 20068,
+  "sound/ambient/croak2.wav": {
+   "filesize": 64801,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/croak3.wav": {
+   "filesize": 54591,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/croak4.wav": {
+   "filesize": 55807,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/croak5.wav": {
+   "filesize": 84543,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/falls.wav": {
+   "filesize": 43266,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/fly1.wav": {
+   "filesize": 77929,
    "timestamp": "2001-07-23"
   },
   "sound/ambient/fly2.wav": {
@@ -167,6 +243,38 @@
    "filesize": 79630,
    "timestamp": "2001-07-23"
   },
+  "sound/ambient/frogs2.wav": {
+   "filesize": 80218,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/rain.wav": {
+   "filesize": 106800,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/scare1.wav": {
+   "filesize": 123775,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/scare2.wav": {
+   "filesize": 118863,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/scream1.wav": {
+   "filesize": 89467,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/scream2.wav": {
+   "filesize": 114813,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/scream3.wav": {
+   "filesize": 102525,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/swamp.wav": {
+   "filesize": 68728,
+   "timestamp": "2001-07-23"
+  },
   "sound/ambient/swampb1.wav": {
    "filesize": 62207,
    "timestamp": "2001-07-23"
@@ -175,172 +283,92 @@
    "filesize": 63561,
    "timestamp": "2001-07-23"
   },
-  "sound/ambient/scream1.wav": {
-   "filesize": 89467,
+  "sound/ambient/swampb3.wav": {
+   "filesize": 67583,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/swampb4.wav": {
+   "filesize": 49455,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/tech1.wav": {
+   "filesize": 20068,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/thunder1.wav": {
+   "filesize": 75677,
+   "timestamp": "2001-07-23"
+  },
+  "sound/ambient/thunder2.wav": {
+   "filesize": 62777,
    "timestamp": "2001-07-23"
   },
   "sound/ambient/thunder3.wav": {
    "filesize": 71939,
    "timestamp": "2001-07-23"
   },
-  "sound/ambient/swamp.wav": {
-   "filesize": 68728,
+  "sound/ambient/trumble1.wav": {
+   "filesize": 121393,
    "timestamp": "2001-07-23"
   },
-  "sound/ambient/cricket3.wav": {
-   "filesize": 15197,
+  "sound/ambient/trumble2.wav": {
+   "filesize": 113969,
    "timestamp": "2001-07-23"
   },
-  "sound/ambient/croak5.wav": {
-   "filesize": 84543,
-   "timestamp": "2001-07-23"
-  },
-  "sound/buttons/switch21.wav": {
-   "filesize": 16240,
-   "timestamp": "2001-07-23"
-  },
-  "sound/buttons/switch02.wav": {
-   "filesize": 13686,
+  "sound/ambient/wave.wav": {
+   "filesize": 129228,
    "timestamp": "2001-07-23"
   },
   "sound/buttons/airbut1.wav": {
    "filesize": 23813,
    "timestamp": "2001-07-23"
   },
+  "sound/buttons/switch02.wav": {
+   "filesize": 13686,
+   "timestamp": "2001-07-23"
+  },
   "sound/buttons/switch04.wav": {
    "filesize": 22577,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/woodbrk1.wav": {
-   "filesize": 6766,
+  "sound/buttons/switch21.wav": {
+   "filesize": 16240,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/woodbrk4.wav": {
-   "filesize": 59446,
+  "sound/doors/airdoor1.wav": {
+   "filesize": 13654,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/ogre5.wav": {
-   "filesize": 96530,
+  "sound/doors/airdoor2.wav": {
+   "filesize": 8594,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/ogre3.wav": {
-   "filesize": 85510,
+  "sound/doors/basesec1.wav": {
+   "filesize": 80302,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/glass1.wav": {
-   "filesize": 41343,
+  "sound/doors/basesec2.wav": {
+   "filesize": 59740,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/conc1.wav": {
-   "filesize": 10032,
+  "sound/doors/ddoor1.wav": {
+   "filesize": 222690,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/rubhit.wav": {
-   "filesize": 5552,
+  "sound/doors/ddoor2.wav": {
+   "filesize": 59740,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/metal1.wav": {
-   "filesize": 18319,
+  "sound/doors/doormv1.wav": {
+   "filesize": 47360,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/smlglass.wav": {
-   "filesize": 43386,
+  "sound/doors/drclos4.wav": {
+   "filesize": 61214,
    "timestamp": "2001-07-23"
   },
-  "sound/misc/wood2.wav": {
-   "filesize": 6528,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/conc2.wav": {
-   "filesize": 9578,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/woodbrk2.wav": {
-   "filesize": 41049,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/rock2.wav": {
-   "filesize": 26120,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/woodbrk3.wav": {
-   "filesize": 34123,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/wood4.wav": {
-   "filesize": 6842,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/rock3.wav": {
-   "filesize": 38280,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/rumble.wav": {
-   "filesize": 53068,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/ogre4.wav": {
-   "filesize": 55188,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/rock4.wav": {
-   "filesize": 44680,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/ogre2.wav": {
-   "filesize": 46910,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/wood1.wav": {
-   "filesize": 6328,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/wood3.wav": {
-   "filesize": 6116,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/ogre1.wav": {
-   "filesize": 55098,
-   "timestamp": "2001-07-23"
-  },
-  "sound/misc/metal2.wav": {
-   "filesize": 55089,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/sattck1.wav": {
-   "filesize": 8036,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/sboom.wav": {
-   "filesize": 11672,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/melee1.wav": {
-   "filesize": 4716,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/shurt2.wav": {
-   "filesize": 4300,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/ssight.wav": {
-   "filesize": 25544,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/melee2.wav": {
-   "filesize": 5964,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/sdeath.wav": {
-   "filesize": 21104,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/sidle.wav": {
-   "filesize": 5644,
-   "timestamp": "2001-07-23"
-  },
-  "sound/shams/smack.wav": {
-   "filesize": 5300,
+  "sound/doors/hydro1.wav": {
+   "filesize": 33896,
    "timestamp": "2001-07-23"
   },
   "sound/doors/hydro2.wav": {
@@ -351,233 +379,205 @@
    "filesize": 61639,
    "timestamp": "2001-07-23"
   },
-  "sound/doors/rockstp.wav": {
-   "filesize": 89215,
-   "timestamp": "2001-07-23"
-  },
-  "sound/doors/basesec1.wav": {
-   "filesize": 80302,
-   "timestamp": "2001-07-23"
-  },
-  "sound/doors/winch2.wav": {
-   "filesize": 155383,
-   "timestamp": "2001-07-23"
-  },
   "sound/doors/rockmv.wav": {
    "filesize": 52095,
    "timestamp": "2001-07-23"
   },
-  "sound/doors/doormv1.wav": {
-   "filesize": 47360,
-   "timestamp": "2001-07-23"
-  },
-  "sound/doors/ddoor2.wav": {
-   "filesize": 59740,
-   "timestamp": "2001-07-23"
-  },
-  "sound/doors/airdoor2.wav": {
-   "filesize": 8594,
-   "timestamp": "2001-07-23"
-  },
-  "sound/doors/drclos4.wav": {
-   "filesize": 61214,
-   "timestamp": "2001-07-23"
-  },
-  "sound/doors/airdoor1.wav": {
-   "filesize": 13654,
-   "timestamp": "2001-07-23"
-  },
-  "sound/doors/stndr2.wav": {
-   "filesize": 59740,
-   "timestamp": "2001-07-23"
-  },
-  "sound/doors/ddoor1.wav": {
-   "filesize": 222690,
+  "sound/doors/rockstp.wav": {
+   "filesize": 89215,
    "timestamp": "2001-07-23"
   },
   "sound/doors/stndr1.wav": {
    "filesize": 80302,
    "timestamp": "2001-07-23"
   },
-  "sound/doors/hydro1.wav": {
-   "filesize": 33896,
+  "sound/doors/stndr2.wav": {
+   "filesize": 59740,
    "timestamp": "2001-07-23"
   },
-  "sound/doors/basesec2.wav": {
-   "filesize": 59740,
+  "sound/doors/winch2.wav": {
+   "filesize": 155383,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/conc1.wav": {
+   "filesize": 10032,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/conc2.wav": {
+   "filesize": 9578,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/glass1.wav": {
+   "filesize": 41343,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/metal1.wav": {
+   "filesize": 18319,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/metal2.wav": {
+   "filesize": 55089,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/ogre1.wav": {
+   "filesize": 55098,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/ogre2.wav": {
+   "filesize": 46910,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/ogre3.wav": {
+   "filesize": 85510,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/ogre4.wav": {
+   "filesize": 55188,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/ogre5.wav": {
+   "filesize": 96530,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/rock2.wav": {
+   "filesize": 26120,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/rock3.wav": {
+   "filesize": 38280,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/rock4.wav": {
+   "filesize": 44680,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/rubhit.wav": {
+   "filesize": 5552,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/rumble.wav": {
+   "filesize": 53068,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/smlglass.wav": {
+   "filesize": 43386,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/wood1.wav": {
+   "filesize": 6328,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/wood2.wav": {
+   "filesize": 6528,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/wood3.wav": {
+   "filesize": 6116,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/wood4.wav": {
+   "filesize": 6842,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/woodbrk1.wav": {
+   "filesize": 6766,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/woodbrk2.wav": {
+   "filesize": 41049,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/woodbrk3.wav": {
+   "filesize": 34123,
+   "timestamp": "2001-07-23"
+  },
+  "sound/misc/woodbrk4.wav": {
+   "filesize": 59446,
+   "timestamp": "2001-07-23"
+  },
+  "sound/plats/medplat1.wav": {
+   "filesize": 77946,
+   "timestamp": "2001-07-23"
+  },
+  "sound/plats/medplat2.wav": {
+   "filesize": 19552,
+   "timestamp": "2001-07-23"
+  },
+  "sound/plats/plat1.wav": {
+   "filesize": 19986,
+   "timestamp": "2001-07-23"
+  },
+  "sound/plats/plat2.wav": {
+   "filesize": 49402,
+   "timestamp": "2001-07-23"
+  },
+  "sound/plats/train1.wav": {
+   "filesize": 116542,
+   "timestamp": "2001-07-23"
+  },
+  "sound/plats/train2.wav": {
+   "filesize": 58457,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/melee1.wav": {
+   "filesize": 4716,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/melee2.wav": {
+   "filesize": 5964,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/sattck1.wav": {
+   "filesize": 8036,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/sboom.wav": {
+   "filesize": 11672,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/sdeath.wav": {
+   "filesize": 21104,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/shurt2.wav": {
+   "filesize": 4300,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/sidle.wav": {
+   "filesize": 5644,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/smack.wav": {
+   "filesize": 5300,
+   "timestamp": "2001-07-23"
+  },
+  "sound/shams/ssight.wav": {
+   "filesize": 25544,
    "timestamp": "2001-07-23"
   },
   "textures.rs": {
    "filesize": 993,
    "timestamp": "2001-07-23"
-  },
-  "progs.dat": {
-   "filesize": 778652,
-   "timestamp": "2001-07-25"
-  },
-  "autoexec.cfg": {
-   "filesize": 218,
-   "timestamp": "2001-07-23"
-  },
-  "scripts/textures.txt": {
-   "filesize": 993,
-   "timestamp": "2001-07-23"
-  },
-  "Readme.txt": {
-   "filesize": 3721,
-   "timestamp": "2001-07-26"
-  },
-  "progs/arrow.mdl": {
-   "filesize": 12161,
-   "timestamp": "2001-07-23"
-  },
-  "progs/tree5.spr": {
-   "filesize": 65592,
-   "timestamp": "2001-07-23"
-  },
-  "progs/beam.mdl": {
-   "filesize": 10608,
-   "timestamp": "2001-07-23"
-  },
-  "progs/tree4.spr": {
-   "filesize": 65592,
-   "timestamp": "2001-07-23"
-  },
-  "progs/trmd5_0.TGA": {
-   "filesize": 262188,
-   "timestamp": "2001-07-23"
-  },
-  "progs/S_null.spr": {
-   "filesize": 1080,
-   "timestamp": "2001-07-23"
-  },
-  "progs/v_beam2.MDL": {
-   "filesize": 1220,
-   "timestamp": "2001-07-23"
-  },
-  "progs/beamhit.spr": {
-   "filesize": 5320,
-   "timestamp": "2001-07-23"
-  },
-  "progs/g_beam.mdl": {
-   "filesize": 1268,
-   "timestamp": "2001-07-23"
-  },
-  "progs/trmd5.spr": {
-   "filesize": 65868,
-   "timestamp": "2001-07-23"
-  },
-  "progs/candle.mdl": {
-   "filesize": 21476,
-   "timestamp": "2001-07-23"
-  },
-  "progs/v_beam.mdl": {
-   "filesize": 4132,
-   "timestamp": "2001-07-23"
-  },
-  "progs/dring.spr": {
-   "filesize": 5320,
-   "timestamp": "2001-07-23"
-  },
-  "progs/tree2_0.tga": {
-   "filesize": 262188,
-   "timestamp": "2001-07-23"
-  },
-  "progs/expl.spr": {
-   "filesize": 127672,
-   "timestamp": "2001-07-23"
-  },
-  "progs/trmd1.spr": {
-   "filesize": 65868,
-   "timestamp": "2001-07-23"
-  },
-  "progs/lantern1.mdl": {
-   "filesize": 88040,
-   "timestamp": "2001-07-23"
-  },
-  "progs/Rubble1.mdl": {
-   "filesize": 68840,
-   "timestamp": "2001-07-23"
-  },
-  "progs/bolt.MDL": {
-   "filesize": 1364,
-   "timestamp": "2001-07-23"
-  },
-  "progs/Rubble2.mdl": {
-   "filesize": 200266,
-   "timestamp": "2001-07-23"
-  },
-  "progs/tree5_0.tga": {
-   "filesize": 262188,
-   "timestamp": "2001-07-23"
-  },
-  "progs/lantern.mdl": {
-   "filesize": 15092,
-   "timestamp": "2001-07-23"
-  },
-  "progs/camera.MDL": {
-   "filesize": 33528,
-   "timestamp": "2001-07-23"
-  },
-  "progs/pendulum.mdl": {
-   "filesize": 44128,
-   "timestamp": "2001-07-23"
-  },
-  "progs/trmd2.spr": {
-   "filesize": 65868,
-   "timestamp": "2001-07-23"
-  },
-  "progs/Rubble3.mdl": {
-   "filesize": 303080,
-   "timestamp": "2001-07-23"
-  },
-  "progs/buzzsaw.mdl": {
-   "filesize": 28716,
-   "timestamp": "2001-07-23"
-  },
-  "progs/holder.mdl": {
-   "filesize": 63784,
-   "timestamp": "2001-07-23"
-  },
-  "progs/trmd1_0.TGA": {
-   "filesize": 262188,
-   "timestamp": "2001-07-23"
-  },
-  "progs/bs_light.mdl": {
-   "filesize": 28707,
-   "timestamp": "2001-07-23"
-  },
-  "progs/tree4_0.tga": {
-   "filesize": 262188,
-   "timestamp": "2001-07-23"
-  },
-  "progs/holder2.mdl": {
-   "filesize": 230336,
-   "timestamp": "2001-07-23"
-  },
-  "progs/lantern0.mdl": {
-   "filesize": 75816,
-   "timestamp": "2001-07-23"
-  },
-  "progs/H_bsham.mdl": {
-   "filesize": 37447,
-   "timestamp": "2001-07-23"
-  },
-  "progs/tree2.spr": {
-   "filesize": 65592,
-   "timestamp": "2001-07-23"
-  },
-  "progs/trmd2_0.TGA": {
-   "filesize": 262188,
-   "timestamp": "2001-07-23"
-  },
-  "progs/babysham.MDL": {
-   "filesize": 98556,
-   "timestamp": "2001-07-23"
   }
  },
+ "filesize": 7699,
+ "install": {
+  "extract": "{quake}/n3sp02/"
+ },
+ "sha256": "1b65bb6dfb337e6b30a2f65b90c42c2fb47c549d02b00a48a52be58db6a85f9e",
+ "tags": [
+  "title:Castle Necrosis",
+  "releasedate:2001-07-26",
+  "game:quake",
+  "commandline:-game n3sp02",
+  "author:necros",
+  "tag:medieval",
+  "tag:castle",
+  "startmap:n3sp02"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/n3sp02_13.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1b65bb6dfb337e6b30a2f65b90c42c2fb47c549d02b00a48a52be58db6a85f9e/n3sp02_13.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

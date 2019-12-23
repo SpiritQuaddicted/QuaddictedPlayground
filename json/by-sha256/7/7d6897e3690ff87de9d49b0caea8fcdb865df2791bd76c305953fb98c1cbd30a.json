@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "7d6897e3690ff87de9d49b0caea8fcdb865df2791bd76c305953fb98c1cbd30a",
  "filename": [
   "pabc6.zip"
  ],
+ "files": {
+  "PABC6.bsp": {
+   "filesize": 1422968,
+   "timestamp": "1998-11-29"
+  }
+ },
  "filesize": 563,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7d6897e3690ff87de9d49b0caea8fcdb865df2791bd76c305953fb98c1cbd30a",
  "tags": [
   "title:Deathtrap Dungeon",
   "releasedate:1998-11-29",
@@ -14,17 +22,9 @@
   "tag:stone",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PABC6.bsp": {
-   "filesize": 1422968,
-   "timestamp": "1998-11-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pabc6.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7d6897e3690ff87de9d49b0caea8fcdb865df2791bd76c305953fb98c1cbd30a/pabc6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

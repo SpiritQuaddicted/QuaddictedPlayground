@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "7b9d1c01d0ad914d2eb64f1fa841c134c9a6f7c49f8dc93773477fe42756eee2",
  "filename": [
   "assassin.zip"
  ],
+ "files": {
+  "assassin.bsp": {
+   "filesize": 2484236,
+   "timestamp": "1997-08-14"
+  },
+  "assassin.txt": {
+   "filesize": 2380,
+   "timestamp": "1997-08-14"
+  }
+ },
  "filesize": 1043,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7b9d1c01d0ad914d2eb64f1fa841c134c9a6f7c49f8dc93773477fe42756eee2",
  "tags": [
   "title:Assassin",
   "releasedate:1997-08-14",
@@ -14,21 +26,9 @@
   "tag:metal",
   "tag:blue"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "assassin.txt": {
-   "filesize": 2380,
-   "timestamp": "1997-08-14"
-  },
-  "assassin.bsp": {
-   "filesize": 2484236,
-   "timestamp": "1997-08-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/assassin.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7b9d1c01d0ad914d2eb64f1fa841c134c9a6f7c49f8dc93773477fe42756eee2/assassin.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

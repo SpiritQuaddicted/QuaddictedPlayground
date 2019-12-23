@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d4e20da66d0d382c60c49f0625071211ade98359e1e2a425f2c16f3caf093abd",
  "filename": [
   "base_debris.zip"
  ],
+ "files": {
+  "base_debris.bsp": {
+   "filesize": 4721408,
+   "timestamp": "2008-03-17"
+  },
+  "base_debris.txt": {
+   "filesize": 2283,
+   "timestamp": "2008-03-17"
+  }
+ },
  "filesize": 1717,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "d4e20da66d0d382c60c49f0625071211ade98359e1e2a425f2c16f3caf093abd",
  "tags": [
   "title:Fort Ratsack",
   "releasedate:2008-03-17",
@@ -19,21 +31,9 @@
   "tag:secrets",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "base_debris.bsp": {
-   "filesize": 4721408,
-   "timestamp": "2008-03-17"
-  },
-  "base_debris.txt": {
-   "filesize": 2283,
-   "timestamp": "2008-03-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/base_debris.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d4e20da66d0d382c60c49f0625071211ade98359e1e2a425f2c16f3caf093abd/base_debris.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

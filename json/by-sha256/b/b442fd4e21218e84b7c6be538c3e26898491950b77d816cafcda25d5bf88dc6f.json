@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "b442fd4e21218e84b7c6be538c3e26898491950b77d816cafcda25d5bf88dc6f",
  "filename": [
   "fober1.zip"
  ],
+ "files": {
+  "fober1.bsp": {
+   "filesize": 1763364,
+   "timestamp": "1998-01-22"
+  },
+  "fober1.txt": {
+   "filesize": 2009,
+   "timestamp": "1998-04-28"
+  }
+ },
  "filesize": 740,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b442fd4e21218e84b7c6be538c3e26898491950b77d816cafcda25d5bf88dc6f",
  "tags": [
   "title:Obi's Quake World",
   "releasedate:1998-04-28",
@@ -17,21 +29,9 @@
   "tag:cramped",
   "tag:realism"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "fober1.bsp": {
-   "filesize": 1763364,
-   "timestamp": "1998-01-22"
-  },
-  "fober1.txt": {
-   "filesize": 2009,
-   "timestamp": "1998-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fober1.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b442fd4e21218e84b7c6be538c3e26898491950b77d816cafcda25d5bf88dc6f/fober1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

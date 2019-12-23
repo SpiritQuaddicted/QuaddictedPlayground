@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "498488b0b3f1b28a7c34af384066f5620d5794ae72d1dbdef1f304e0ba761aa2",
  "filename": [
   "catacomb.zip"
  ],
+ "files": {
+  "catacomb.bsp": {
+   "filesize": 1280316,
+   "timestamp": "1996-10-17"
+  },
+  "catacomb.txt": {
+   "filesize": 4752,
+   "timestamp": "1996-10-17"
+  }
+ },
  "filesize": 550,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "498488b0b3f1b28a7c34af384066f5620d5794ae72d1dbdef1f304e0ba761aa2",
  "tags": [
   "title:The Catacombs",
   "releasedate:1996-10-17",
@@ -16,21 +28,9 @@
   "tag:catacombs",
   "tag:mandatory secret"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "catacomb.bsp": {
-   "filesize": 1280316,
-   "timestamp": "1996-10-17"
-  },
-  "catacomb.txt": {
-   "filesize": 4752,
-   "timestamp": "1996-10-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/catacomb.zip",
   "https://www.quaddicted.com/files/by-sha256/4/498488b0b3f1b28a7c34af384066f5620d5794ae72d1dbdef1f304e0ba761aa2/catacomb.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

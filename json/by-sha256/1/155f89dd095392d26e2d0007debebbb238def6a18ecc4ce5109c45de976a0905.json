@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "155f89dd095392d26e2d0007debebbb238def6a18ecc4ce5109c45de976a0905",
  "filename": [
   "heresp3.zip"
  ],
+ "files": {
+  "heresp3.bsp": {
+   "filesize": 2651028,
+   "timestamp": "2005-07-17"
+  }
+ },
  "filesize": 1039,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "155f89dd095392d26e2d0007debebbb238def6a18ecc4ce5109c45de976a0905",
  "tags": [
   "title:The Castle of Pain",
   "releasedate:2005-07-17",
@@ -15,17 +23,9 @@
   "tag:textures",
   "tag:medieval"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "heresp3.bsp": {
-   "filesize": 2651028,
-   "timestamp": "2005-07-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/heresp3.zip",
   "https://www.quaddicted.com/files/by-sha256/1/155f89dd095392d26e2d0007debebbb238def6a18ecc4ce5109c45de976a0905/heresp3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

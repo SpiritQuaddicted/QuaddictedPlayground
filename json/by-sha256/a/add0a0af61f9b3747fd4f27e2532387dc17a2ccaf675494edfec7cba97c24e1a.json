@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "add0a0af61f9b3747fd4f27e2532387dc17a2ccaf675494edfec7cba97c24e1a",
  "filename": [
   "sm116_pack.zip"
  ],
+ "files": {
+  "sm116_adamllis.bsp": {
+   "filesize": 259824,
+   "timestamp": "2006-01-01"
+  },
+  "sm116_adamllis2.bsp": {
+   "filesize": 398664,
+   "timestamp": "2006-01-02"
+  },
+  "sm116_neg!ke.bsp": {
+   "filesize": 717576,
+   "timestamp": "2006-01-09"
+  },
+  "sm116_pack.txt": {
+   "filesize": 1397,
+   "timestamp": "2006-01-10"
+  }
+ },
  "filesize": 455,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "add0a0af61f9b3747fd4f27e2532387dc17a2ccaf675494edfec7cba97c24e1a",
  "tags": [
   "title:Speedmapping pack 116 - Tricking maps",
   "releasedate:2006-01-10",
@@ -15,29 +35,9 @@
   "startmap:sm116_adamllis",
   "startmap:sm116_adamllis2"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm116_neg!ke.bsp": {
-   "filesize": 717576,
-   "timestamp": "2006-01-09"
-  },
-  "sm116_adamllis.bsp": {
-   "filesize": 259824,
-   "timestamp": "2006-01-01"
-  },
-  "sm116_pack.txt": {
-   "filesize": 1397,
-   "timestamp": "2006-01-10"
-  },
-  "sm116_adamllis2.bsp": {
-   "filesize": 398664,
-   "timestamp": "2006-01-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm116_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/a/add0a0af61f9b3747fd4f27e2532387dc17a2ccaf675494edfec7cba97c24e1a/sm116_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

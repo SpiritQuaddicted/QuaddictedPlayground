@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f85a2ddfb4a475bb4e2c6fce512b343f8c25da22deeda57dffb8a839c54b4c6a",
  "filename": [
   "mcm01.zip"
  ],
+ "files": {
+  "MCM01.BSP": {
+   "filesize": 708404,
+   "timestamp": "1999-04-04"
+  },
+  "MCM01.txt": {
+   "filesize": 1408,
+   "timestamp": "1999-04-04"
+  }
+ },
  "filesize": 282,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f85a2ddfb4a475bb4e2c6fce512b343f8c25da22deeda57dffb8a839c54b4c6a",
  "tags": [
   "title:Curse of the Pharaoh",
   "releasedate:1999-04-04",
@@ -13,21 +25,9 @@
   "tag:small",
   "tag:egyptian"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MCM01.txt": {
-   "filesize": 1408,
-   "timestamp": "1999-04-04"
-  },
-  "MCM01.BSP": {
-   "filesize": 708404,
-   "timestamp": "1999-04-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mcm01.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f85a2ddfb4a475bb4e2c6fce512b343f8c25da22deeda57dffb8a839c54b4c6a/mcm01.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f88015cb39b7b2a709031e4238f5e7767766c406d8889b65f77eec9f6b43c048",
  "filename": [
   "mexx7.zip"
  ],
+ "files": {
+  "MEXX7.BSP": {
+   "filesize": 1403592,
+   "timestamp": "1997-02-13"
+  },
+  "MEXX7.TXT": {
+   "filesize": 6367,
+   "timestamp": "1997-02-14"
+  }
+ },
  "filesize": 566,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f88015cb39b7b2a709031e4238f5e7767766c406d8889b65f77eec9f6b43c048",
  "tags": [
   "title:A Bishop's Bane (Domina Domino)",
   "releasedate:1997-02-14",
@@ -16,21 +28,9 @@
   "tag:terracotta",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MEXX7.BSP": {
-   "filesize": 1403592,
-   "timestamp": "1997-02-13"
-  },
-  "MEXX7.TXT": {
-   "filesize": 6367,
-   "timestamp": "1997-02-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mexx7.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f88015cb39b7b2a709031e4238f5e7767766c406d8889b65f77eec9f6b43c048/mexx7.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

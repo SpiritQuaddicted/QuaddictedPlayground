@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0bd08547823ebfda41484603bcdd4a7edbbb42dff055e4769e2ef9b68075b4ae",
  "filename": [
   "dwmtf.zip"
  ],
- "filesize": 666,
- "tags": [
-  "title:Monster Training Facility",
-  "releasedate:2015-12-18",
-  "game:quake",
-  "author:DeeDoubleU",
-  "tag:small",
-  "tag:realism",
-  "tag:office"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "dwmtf.bsp": {
    "filesize": 1522342,
@@ -31,8 +16,23 @@
    "timestamp": "2015-12-18"
   }
  },
+ "filesize": 666,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0bd08547823ebfda41484603bcdd4a7edbbb42dff055e4769e2ef9b68075b4ae",
+ "tags": [
+  "title:Monster Training Facility",
+  "releasedate:2015-12-18",
+  "game:quake",
+  "author:DeeDoubleU",
+  "tag:small",
+  "tag:realism",
+  "tag:office"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/dwmtf.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0bd08547823ebfda41484603bcdd4a7edbbb42dff055e4769e2ef9b68075b4ae/dwmtf.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

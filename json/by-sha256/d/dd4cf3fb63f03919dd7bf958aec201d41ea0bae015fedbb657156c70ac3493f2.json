@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2",
  "filename": [
   "starkmon.zip"
  ],
+ "files": {
+  "gfx/env/duskebk.tga": {
+   "filesize": 606420,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskedn.tga": {
+   "filesize": 787184,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskeft.tga": {
+   "filesize": 594909,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskelf.tga": {
+   "filesize": 585541,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskert.tga": {
+   "filesize": 688109,
+   "timestamp": "2004-07-15"
+  },
+  "gfx/env/duskeup.tga": {
+   "filesize": 470425,
+   "timestamp": "2004-07-15"
+  },
+  "maps/starkmon.bsp": {
+   "filesize": 6402508,
+   "timestamp": "2009-01-21"
+  },
+  "maps/starkmon.lit": {
+   "filesize": 2998079,
+   "timestamp": "2009-01-21"
+  },
+  "starkmon.txt": {
+   "filesize": 6376,
+   "timestamp": "2009-01-21"
+  }
+ },
  "filesize": 5539,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2",
  "tags": [
   "title:Stark Monstrosity",
   "releasedate:2009-01-21",
@@ -19,49 +59,9 @@
   "tag:limits",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
- "files": {
-  "starkmon.txt": {
-   "filesize": 6376,
-   "timestamp": "2009-01-21"
-  },
-  "maps/starkmon.lit": {
-   "filesize": 2998079,
-   "timestamp": "2009-01-21"
-  },
-  "maps/starkmon.bsp": {
-   "filesize": 6402508,
-   "timestamp": "2009-01-21"
-  },
-  "gfx/env/duskedn.tga": {
-   "filesize": 787184,
-   "timestamp": "2004-07-15"
-  },
-  "gfx/env/duskeft.tga": {
-   "filesize": 594909,
-   "timestamp": "2004-07-15"
-  },
-  "gfx/env/duskelf.tga": {
-   "filesize": 585541,
-   "timestamp": "2004-07-15"
-  },
-  "gfx/env/duskeup.tga": {
-   "filesize": 470425,
-   "timestamp": "2004-07-15"
-  },
-  "gfx/env/duskert.tga": {
-   "filesize": 688109,
-   "timestamp": "2004-07-15"
-  },
-  "gfx/env/duskebk.tga": {
-   "filesize": 606420,
-   "timestamp": "2004-07-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/starkmon.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2/starkmon.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

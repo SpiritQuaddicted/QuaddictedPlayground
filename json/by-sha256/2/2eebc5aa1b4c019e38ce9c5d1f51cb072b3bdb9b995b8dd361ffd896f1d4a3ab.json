@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2eebc5aa1b4c019e38ce9c5d1f51cb072b3bdb9b995b8dd361ffd896f1d4a3ab",
  "filename": [
   "shadow.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 2262816,
+   "timestamp": "1997-03-06"
+  },
+  "Shadow1.txt": {
+   "filesize": 4064,
+   "timestamp": "1997-03-06"
+  }
+ },
  "filesize": 1012,
+ "install": {
+  "extract": "{quake}/shadow/"
+ },
+ "sha256": "2eebc5aa1b4c019e38ce9c5d1f51cb072b3bdb9b995b8dd361ffd896f1d4a3ab",
  "tags": [
   "title:Shadow over Innsmouth",
   "releasedate:1997-03-06",
@@ -22,21 +34,9 @@
   "tag:planetquake-map-of-the-week",
   "tag:lovecraft"
  ],
- "install": {
-  "extract": "{quake}/shadow/"
- },
- "files": {
-  "Pak0.pak": {
-   "filesize": 2262816,
-   "timestamp": "1997-03-06"
-  },
-  "Shadow1.txt": {
-   "filesize": 4064,
-   "timestamp": "1997-03-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/shadow.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2eebc5aa1b4c019e38ce9c5d1f51cb072b3bdb9b995b8dd361ffd896f1d4a3ab/shadow.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

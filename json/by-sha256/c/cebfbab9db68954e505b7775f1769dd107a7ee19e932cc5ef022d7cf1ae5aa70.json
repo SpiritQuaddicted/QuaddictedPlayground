@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "cebfbab9db68954e505b7775f1769dd107a7ee19e932cc5ef022d7cf1ae5aa70",
  "filename": [
   "zerdem.zip"
  ],
+ "files": {
+  "zerdem/pak0.pak": {
+   "filesize": 2105521,
+   "timestamp": "1997-06-07"
+  },
+  "zerdem/readme.txt": {
+   "filesize": 6853,
+   "timestamp": "1997-06-07"
+  }
+ },
  "filesize": 875,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "cebfbab9db68954e505b7775f1769dd107a7ee19e932cc5ef022d7cf1ae5aa70",
  "tags": [
   "title:Zerst\u00f6rer Demo",
   "releasedate:1997-06-07",
@@ -14,21 +26,9 @@
   "tag:preview",
   "tag:zerstorer"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "zerdem/readme.txt": {
-   "filesize": 6853,
-   "timestamp": "1997-06-07"
-  },
-  "zerdem/pak0.pak": {
-   "filesize": 2105521,
-   "timestamp": "1997-06-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/zerdem.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cebfbab9db68954e505b7775f1769dd107a7ee19e932cc5ef022d7cf1ae5aa70/zerdem.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

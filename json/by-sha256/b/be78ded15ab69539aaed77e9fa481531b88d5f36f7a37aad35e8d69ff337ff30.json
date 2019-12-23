@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "be78ded15ab69539aaed77e9fa481531b88d5f36f7a37aad35e8d69ff337ff30",
  "filename": [
   "drasticv.zip"
  ],
+ "files": {
+  "drastic2.txt": {
+   "filesize": 3713,
+   "timestamp": "1997-03-09"
+  },
+  "drasticv.bsp": {
+   "filesize": 1254988,
+   "timestamp": "1997-03-08"
+  }
+ },
  "filesize": 510,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "be78ded15ab69539aaed77e9fa481531b88d5f36f7a37aad35e8d69ff337ff30",
  "tags": [
   "title:Drastic Lodge",
   "releasedate:1997-03-09",
@@ -15,21 +27,9 @@
   "tag:textures",
   "tag:no exit"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "drasticv.bsp": {
-   "filesize": 1254988,
-   "timestamp": "1997-03-08"
-  },
-  "drastic2.txt": {
-   "filesize": 3713,
-   "timestamp": "1997-03-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/drasticv.zip",
   "https://www.quaddicted.com/files/by-sha256/b/be78ded15ab69539aaed77e9fa481531b88d5f36f7a37aad35e8d69ff337ff30/drasticv.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

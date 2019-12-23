@@ -1,27 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "2a9f127cb005a5c0845a6169dfcc7c59527dcfbbc88e0619650d3393e0eaf59a",
  "filename": [
   "infectn.zip"
  ],
- "filesize": 1289,
- "tags": [
-  "title:Infection",
-  "releasedate:1997-12-18",
-  "game:quake",
-  "commandline:-game infectn",
-  "author:Dia Westerteicher",
-  "tag:small",
-  "tag:base",
-  "tag:textures",
-  "tag:monsters",
-  "tag:dhell",
-  "tag:source",
-  "tag:skins"
- ],
- "install": {
-  "extract": "{quake}/infectn/"
- },
  "files": {
   "GAMES/QUAKE/INFECTN/CONFIG.CFG": {
    "filesize": 2138,
@@ -60,8 +40,28 @@
    "timestamp": "1997-12-18"
   }
  },
+ "filesize": 1289,
+ "install": {
+  "extract": "{quake}/infectn/"
+ },
+ "sha256": "2a9f127cb005a5c0845a6169dfcc7c59527dcfbbc88e0619650d3393e0eaf59a",
+ "tags": [
+  "title:Infection",
+  "releasedate:1997-12-18",
+  "game:quake",
+  "commandline:-game infectn",
+  "author:Dia Westerteicher",
+  "tag:small",
+  "tag:base",
+  "tag:textures",
+  "tag:monsters",
+  "tag:dhell",
+  "tag:source",
+  "tag:skins"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/infectn.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2a9f127cb005a5c0845a6169dfcc7c59527dcfbbc88e0619650d3393e0eaf59a/infectn.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

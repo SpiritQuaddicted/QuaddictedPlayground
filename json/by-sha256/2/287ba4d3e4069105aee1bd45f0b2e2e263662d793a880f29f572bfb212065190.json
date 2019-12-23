@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190",
  "filename": [
   "sm100_pack.zip"
  ],
+ "files": {
+  "sm100_generic.bsp": {
+   "filesize": 498776,
+   "timestamp": "2005-07-17"
+  },
+  "sm100_pulsar.bsp": {
+   "filesize": 1105004,
+   "timestamp": "2005-07-12"
+  },
+  "sm100_zwiffle.bsp": {
+   "filesize": 141964,
+   "timestamp": "2005-07-16"
+  }
+ },
  "filesize": 613,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190",
  "tags": [
   "title:Speedmapping pack 100 - Unthemed",
   "releasedate:2005-07-17",
@@ -18,25 +34,9 @@
   "startmap:sm100_pulsar",
   "startmap:sm100_generic"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm100_zwiffle.bsp": {
-   "filesize": 141964,
-   "timestamp": "2005-07-16"
-  },
-  "sm100_pulsar.bsp": {
-   "filesize": 1105004,
-   "timestamp": "2005-07-12"
-  },
-  "sm100_generic.bsp": {
-   "filesize": 498776,
-   "timestamp": "2005-07-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm100_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/2/287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190/sm100_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

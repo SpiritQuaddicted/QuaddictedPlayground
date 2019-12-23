@@ -1,23 +1,12 @@
 {
- "version": "20191222-0",
- "sha256": "6cb0e3248975fdbdf103ca5e4ee53aacbf5f6ddf02e7914f66050f51b426bfbe",
  "filename": [
   "smqe1.zip"
  ],
- "filesize": 1175,
- "tags": [
-  "title:Speedmapping pack QExpo 2005 - The Emerald City",
-  "releasedate:2005-08-14",
-  "game:quake",
-  "author:Entar",
-  "author:negke",
-  "author:Preach",
-  "author:Zwiffle"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
+  "smqe1_entar.bsp": {
+   "filesize": 634704,
+   "timestamp": "2005-08-11"
+  },
   "smqe1_entar.lit": {
    "filesize": 212939,
    "timestamp": "2005-08-11"
@@ -30,10 +19,6 @@
    "filesize": 1508460,
    "timestamp": "2005-08-14"
   },
-  "smqe1_entar.bsp": {
-   "filesize": 634704,
-   "timestamp": "2005-08-11"
-  },
   "smqe1_preach.bsp": {
    "filesize": 512612,
    "timestamp": "2005-08-13"
@@ -43,8 +28,23 @@
    "timestamp": "2005-08-13"
   }
  },
+ "filesize": 1175,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "6cb0e3248975fdbdf103ca5e4ee53aacbf5f6ddf02e7914f66050f51b426bfbe",
+ "tags": [
+  "title:Speedmapping pack QExpo 2005 - The Emerald City",
+  "releasedate:2005-08-14",
+  "game:quake",
+  "author:Entar",
+  "author:negke",
+  "author:Preach",
+  "author:Zwiffle"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqe1.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6cb0e3248975fdbdf103ca5e4ee53aacbf5f6ddf02e7914f66050f51b426bfbe/smqe1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

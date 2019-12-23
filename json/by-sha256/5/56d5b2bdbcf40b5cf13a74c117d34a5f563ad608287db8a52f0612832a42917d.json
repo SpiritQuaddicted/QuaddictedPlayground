@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "56d5b2bdbcf40b5cf13a74c117d34a5f563ad608287db8a52f0612832a42917d",
  "filename": [
   "pdq1sp1_c.zip"
  ],
+ "files": {
+  "pdq1sp1-scraps.zip": {
+   "filesize": 150901,
+   "timestamp": "2003-08-01"
+  },
+  "pdq1sp1.bsp": {
+   "filesize": 1368648,
+   "timestamp": "2003-07-30"
+  },
+  "pdq1sp1.txt": {
+   "filesize": 2574,
+   "timestamp": "2003-08-01"
+  }
+ },
  "filesize": 683,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "56d5b2bdbcf40b5cf13a74c117d34a5f563ad608287db8a52f0612832a42917d",
  "tags": [
   "title:The Fistfucking Little Box",
   "releasedate:2003-08-01",
@@ -16,25 +32,9 @@
   "tag:crates",
   "startmap:pdq1sp1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "pdq1sp1.bsp": {
-   "filesize": 1368648,
-   "timestamp": "2003-07-30"
-  },
-  "pdq1sp1.txt": {
-   "filesize": 2574,
-   "timestamp": "2003-08-01"
-  },
-  "pdq1sp1-scraps.zip": {
-   "filesize": 150901,
-   "timestamp": "2003-08-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pdq1sp1_c.zip",
   "https://www.quaddicted.com/files/by-sha256/5/56d5b2bdbcf40b5cf13a74c117d34a5f563ad608287db8a52f0612832a42917d/pdq1sp1_c.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "1161330e98e4a189c2b2a31de316f755ee9d3971c815f67a97f98b6258bd8647",
  "filename": [
   "actaltrz.zip"
  ],
- "filesize": 1153,
- "tags": [
-  "title:Escape from Actaltraz",
-  "releasedate:1998-01-24",
-  "game:quake",
-  "author:Tyrann",
-  "tag:medium",
-  "tag:base",
-  "tag:prison",
-  "tag:planetquake-map-of-the-week"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "actaltrz.bsp": {
    "filesize": 2868844,
@@ -28,8 +12,24 @@
    "timestamp": "1998-01-24"
   }
  },
+ "filesize": 1153,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1161330e98e4a189c2b2a31de316f755ee9d3971c815f67a97f98b6258bd8647",
+ "tags": [
+  "title:Escape from Actaltraz",
+  "releasedate:1998-01-24",
+  "game:quake",
+  "author:Tyrann",
+  "tag:medium",
+  "tag:base",
+  "tag:prison",
+  "tag:planetquake-map-of-the-week"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/actaltrz.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1161330e98e4a189c2b2a31de316f755ee9d3971c815f67a97f98b6258bd8647/actaltrz.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

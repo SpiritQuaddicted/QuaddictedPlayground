@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c",
  "filename": [
   "dm3rmx.zip"
  ],
+ "files": {
+  "dm3rmx.bsp": {
+   "filesize": 3989396,
+   "timestamp": "2006-07-15"
+  },
+  "dm3rmx.map": {
+   "filesize": 3243417,
+   "timestamp": "2006-07-15"
+  },
+  "dm3rmx.rmf": {
+   "filesize": 14078662,
+   "timestamp": "2006-07-15"
+  },
+  "dm3rmx.txt": {
+   "filesize": 14130,
+   "timestamp": "2006-07-19"
+  }
+ },
  "filesize": 2386,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c",
  "tags": [
   "title:The Occupied Base",
   "releasedate:2006-07-19",
@@ -19,29 +39,9 @@
   "tag:mustplay",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dm3rmx.map": {
-   "filesize": 3243417,
-   "timestamp": "2006-07-15"
-  },
-  "dm3rmx.txt": {
-   "filesize": 14130,
-   "timestamp": "2006-07-19"
-  },
-  "dm3rmx.bsp": {
-   "filesize": 3989396,
-   "timestamp": "2006-07-15"
-  },
-  "dm3rmx.rmf": {
-   "filesize": 14078662,
-   "timestamp": "2006-07-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dm3rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6d3f5477c84d080f8818f42236f7fa948850bfa845eb975e614ac8a249aad88c/dm3rmx.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "da7e896136a37881bb06be3cddfa60a31affaa0270aebbd61c9bb754e5ac7d01",
  "filename": [
   "sm18_pack.zip"
  ],
+ "files": {
+  "sm18_bear.bsp": {
+   "filesize": 526280,
+   "timestamp": "2001-05-27"
+  },
+  "sm18_blitz.bsp": {
+   "filesize": 358068,
+   "timestamp": "2001-05-27"
+  },
+  "sm18_miikka.bsp": {
+   "filesize": 369764,
+   "timestamp": "2001-05-27"
+  },
+  "sm18_misyu.bsp": {
+   "filesize": 448136,
+   "timestamp": "2001-05-27"
+  },
+  "sm18_nane.bsp": {
+   "filesize": 390432,
+   "timestamp": "2001-05-27"
+  },
+  "sm18_pack.txt": {
+   "filesize": 2184,
+   "timestamp": "2001-05-28"
+  }
+ },
  "filesize": 762,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "da7e896136a37881bb06be3cddfa60a31affaa0270aebbd61c9bb754e5ac7d01",
  "tags": [
   "title:Speedmapping pack 18 - Unthemed",
   "releasedate:2001-05-28",
@@ -20,37 +48,9 @@
   "startmap:sm18_misyu",
   "startmap:sm18_miikka"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm18_miikka.bsp": {
-   "filesize": 369764,
-   "timestamp": "2001-05-27"
-  },
-  "sm18_blitz.bsp": {
-   "filesize": 358068,
-   "timestamp": "2001-05-27"
-  },
-  "sm18_nane.bsp": {
-   "filesize": 390432,
-   "timestamp": "2001-05-27"
-  },
-  "sm18_pack.txt": {
-   "filesize": 2184,
-   "timestamp": "2001-05-28"
-  },
-  "sm18_bear.bsp": {
-   "filesize": 526280,
-   "timestamp": "2001-05-27"
-  },
-  "sm18_misyu.bsp": {
-   "filesize": 448136,
-   "timestamp": "2001-05-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm18_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d/da7e896136a37881bb06be3cddfa60a31affaa0270aebbd61c9bb754e5ac7d01/sm18_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

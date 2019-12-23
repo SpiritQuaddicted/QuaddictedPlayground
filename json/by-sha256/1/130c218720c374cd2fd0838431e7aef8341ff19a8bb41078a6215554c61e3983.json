@@ -1,25 +1,16 @@
 {
- "version": "20191222-0",
- "sha256": "130c218720c374cd2fd0838431e7aef8341ff19a8bb41078a6215554c61e3983",
  "filename": [
   "sm23_pack.zip"
  ],
- "filesize": 829,
- "tags": [
-  "title:Speedmapping pack 23",
-  "releasedate:2001-07-15",
-  "game:quake",
-  "author:Drew",
-  "tag:doom",
-  "startmap:sm23_jay1",
-  "startmap:sm23_jay2",
-  "startmap:sm23_jay3",
-  "startmap:sm23_jay4"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
+  "sm23_jay1.bsp": {
+   "filesize": 660244,
+   "timestamp": "2001-07-09"
+  },
+  "sm23_jay2.bsp": {
+   "filesize": 401320,
+   "timestamp": "2001-06-10"
+  },
   "sm23_jay3.bsp": {
    "filesize": 379612,
    "timestamp": "2001-06-28"
@@ -31,18 +22,27 @@
   "sm23_pack.txt": {
    "filesize": 2076,
    "timestamp": "2001-07-15"
-  },
-  "sm23_jay1.bsp": {
-   "filesize": 660244,
-   "timestamp": "2001-07-09"
-  },
-  "sm23_jay2.bsp": {
-   "filesize": 401320,
-   "timestamp": "2001-06-10"
   }
  },
+ "filesize": 829,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "130c218720c374cd2fd0838431e7aef8341ff19a8bb41078a6215554c61e3983",
+ "tags": [
+  "title:Speedmapping pack 23",
+  "releasedate:2001-07-15",
+  "game:quake",
+  "author:Drew",
+  "tag:doom",
+  "startmap:sm23_jay1",
+  "startmap:sm23_jay2",
+  "startmap:sm23_jay3",
+  "startmap:sm23_jay4"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm23_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/130c218720c374cd2fd0838431e7aef8341ff19a8bb41078a6215554c61e3983/sm23_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

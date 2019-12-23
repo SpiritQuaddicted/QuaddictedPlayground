@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "1027dde64565a378e44e0c5dcd7a92d4fc397d2eb05a1f7da5f63ee71195ea4d",
  "filename": [
   "sp1.zip"
  ],
+ "files": {
+  "sp.bsp": {
+   "filesize": 1589840,
+   "timestamp": "1997-09-14"
+  },
+  "sp.txt": {
+   "filesize": 7500,
+   "timestamp": "1997-11-19"
+  }
+ },
  "filesize": 607,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1027dde64565a378e44e0c5dcd7a92d4fc397d2eb05a1f7da5f63ee71195ea4d",
  "tags": [
   "title:Staging Point",
   "releasedate:1997-11-10",
@@ -14,21 +26,9 @@
   "tag:medium",
   "startmap:sp"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sp.txt": {
-   "filesize": 7500,
-   "timestamp": "1997-11-19"
-  },
-  "sp.bsp": {
-   "filesize": 1589840,
-   "timestamp": "1997-09-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sp1.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1027dde64565a378e44e0c5dcd7a92d4fc397d2eb05a1f7da5f63ee71195ea4d/sp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e1a3252a45eab8983250e6c4a45ffbb6a227dadd10a28e482267952ae1bd11ab",
  "filename": [
   "atrocity.zip"
  ],
+ "files": {
+  "ATROCITY.BSP": {
+   "filesize": 1936292,
+   "timestamp": "1997-08-15"
+  },
+  "ATROCITY.txt": {
+   "filesize": 3444,
+   "timestamp": "1997-08-15"
+  }
+ },
  "filesize": 794,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e1a3252a45eab8983250e6c4a45ffbb6a227dadd10a28e482267952ae1bd11ab",
  "tags": [
   "title:Atrocity",
   "releasedate:1997-08-15",
@@ -14,21 +26,9 @@
   "tag:realism",
   "tag:bricks"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ATROCITY.txt": {
-   "filesize": 3444,
-   "timestamp": "1997-08-15"
-  },
-  "ATROCITY.BSP": {
-   "filesize": 1936292,
-   "timestamp": "1997-08-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/atrocity.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e1a3252a45eab8983250e6c4a45ffbb6a227dadd10a28e482267952ae1bd11ab/atrocity.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

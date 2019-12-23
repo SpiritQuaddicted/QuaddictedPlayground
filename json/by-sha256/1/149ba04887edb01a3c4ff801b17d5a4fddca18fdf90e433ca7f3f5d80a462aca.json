@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "149ba04887edb01a3c4ff801b17d5a4fddca18fdf90e433ca7f3f5d80a462aca",
  "filename": [
   "sm163_pack.zip"
  ],
- "filesize": 449,
- "tags": [
-  "title:Speedmapping pack 163 - Unthemed",
-  "releasedate:2011-04-11",
-  "game:quake",
-  "author:negke",
-  "author:Zwiffle",
-  "startmap:sm163_negke",
-  "startmap:sm163_zwiffle"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm163_negke.bsp": {
    "filesize": 776920,
@@ -31,8 +16,23 @@
    "timestamp": "2011-04-10"
   }
  },
+ "filesize": 449,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "149ba04887edb01a3c4ff801b17d5a4fddca18fdf90e433ca7f3f5d80a462aca",
+ "tags": [
+  "title:Speedmapping pack 163 - Unthemed",
+  "releasedate:2011-04-11",
+  "game:quake",
+  "author:negke",
+  "author:Zwiffle",
+  "startmap:sm163_negke",
+  "startmap:sm163_zwiffle"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm163_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/149ba04887edb01a3c4ff801b17d5a4fddca18fdf90e433ca7f3f5d80a462aca/sm163_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

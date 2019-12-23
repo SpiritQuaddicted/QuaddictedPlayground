@@ -1,28 +1,8 @@
 {
- "version": "20191222-0",
- "sha256": "063e577ee8adbd747829b22a357f38765d338843e1d7d6759d13bbe2f6f9e130",
  "filename": [
   "sm73_pack.zip"
  ],
- "filesize": 295,
- "tags": [
-  "title:Speedmapping pack 73 - Agenda/Dead map textures (A Tribute to Headshot #4)",
-  "releasedate:2004-03-27",
-  "game:quake",
-  "author:nane",
-  "author:Zwiffle",
-  "startmap:sm73_zwiffle2",
-  "startmap:sm73_nane",
-  "startmap:sm73_zwiffle"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
-  "sm73_zwiffle2.bsp": {
-   "filesize": 268492,
-   "timestamp": "2004-03-27"
-  },
   "sm73_nane.bsp": {
    "filesize": 255616,
    "timestamp": "2004-03-27"
@@ -34,10 +14,30 @@
   "sm73_zwiffle.bsp": {
    "filesize": 307600,
    "timestamp": "2004-03-15"
+  },
+  "sm73_zwiffle2.bsp": {
+   "filesize": 268492,
+   "timestamp": "2004-03-27"
   }
  },
+ "filesize": 295,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "063e577ee8adbd747829b22a357f38765d338843e1d7d6759d13bbe2f6f9e130",
+ "tags": [
+  "title:Speedmapping pack 73 - Agenda/Dead map textures (A Tribute to Headshot #4)",
+  "releasedate:2004-03-27",
+  "game:quake",
+  "author:nane",
+  "author:Zwiffle",
+  "startmap:sm73_zwiffle2",
+  "startmap:sm73_nane",
+  "startmap:sm73_zwiffle"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm73_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/0/063e577ee8adbd747829b22a357f38765d338843e1d7d6759d13bbe2f6f9e130/sm73_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

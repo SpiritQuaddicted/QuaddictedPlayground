@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d83b2eae432cd35b8429cbce1d7014f84d148cae3449b29d2a294bbb02a28423",
  "filename": [
   "jailbrk.zip"
  ],
- "filesize": 650,
- "tags": [
-  "title:Jailbreak",
-  "releasedate:1996-11-10",
-  "game:quake",
-  "author:Psycho",
-  "tag:small",
-  "tag:prison",
-  "tag:dm",
-  "tag:mixtex"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "JAILBRK.BSP": {
    "filesize": 1615220,
@@ -28,8 +12,24 @@
    "timestamp": "2002-02-17"
   }
  },
+ "filesize": 650,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d83b2eae432cd35b8429cbce1d7014f84d148cae3449b29d2a294bbb02a28423",
+ "tags": [
+  "title:Jailbreak",
+  "releasedate:1996-11-10",
+  "game:quake",
+  "author:Psycho",
+  "tag:small",
+  "tag:prison",
+  "tag:dm",
+  "tag:mixtex"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/jailbrk.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d83b2eae432cd35b8429cbce1d7014f84d148cae3449b29d2a294bbb02a28423/jailbrk.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

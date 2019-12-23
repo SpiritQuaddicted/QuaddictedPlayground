@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2886f386b0f482ced00c4f5b7f9b4144f7219e1b74769e2b834988015e8eddf3",
  "filename": [
   "quarantine.zip"
  ],
+ "files": {
+  "quarantine.bsp": {
+   "filesize": 3554240,
+   "timestamp": "2013-04-08"
+  },
+  "quarantine.txt": {
+   "filesize": 2213,
+   "timestamp": "2013-04-08"
+  }
+ },
  "filesize": 1391,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "2886f386b0f482ced00c4f5b7f9b4144f7219e1b74769e2b834988015e8eddf3",
  "tags": [
   "title:Quarantine",
   "releasedate:2013-04-08",
@@ -17,21 +29,9 @@
   "tag:glass",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "quarantine.bsp": {
-   "filesize": 3554240,
-   "timestamp": "2013-04-08"
-  },
-  "quarantine.txt": {
-   "filesize": 2213,
-   "timestamp": "2013-04-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/quarantine.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2886f386b0f482ced00c4f5b7f9b4144f7219e1b74769e2b834988015e8eddf3/quarantine.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

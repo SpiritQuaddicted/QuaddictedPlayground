@@ -1,36 +1,8 @@
 {
- "version": "20191222-0",
- "sha256": "7a154d9869c79858a43c56cf910d9764037c7099fbad47f1998b47ba6802ab38",
  "filename": [
   "hrdtrgt2.zip"
  ],
- "filesize": 1622,
- "tags": [
-  "title:Hard Target 2",
-  "releasedate:1997-12-04",
-  "game:quake",
-  "commandline:-game hrdtrgt2",
-  "author:Scott McNutt",
-  "tag:medium",
-  "tag:base",
-  "tag:monsters"
- ],
- "install": {
-  "extract": "{quake}/hrdtrgt2/"
- },
  "files": {
-  "walls01.txt": {
-   "filesize": 3093,
-   "timestamp": "1997-10-22"
-  },
-  "damage.txt": {
-   "filesize": 1546,
-   "timestamp": "1997-11-02"
-  },
-  "eject.txt": {
-   "filesize": 2244,
-   "timestamp": "1997-10-22"
-  },
   "Bazooka.txt": {
    "filesize": 4512,
    "timestamp": "1996-11-26"
@@ -43,25 +15,53 @@
    "filesize": 4138584,
    "timestamp": "1997-12-04"
   },
-  "manga.txt": {
-   "filesize": 2019,
-   "timestamp": "1996-11-03"
+  "damage.txt": {
+   "filesize": 1546,
+   "timestamp": "1997-11-02"
+  },
+  "eject.txt": {
+   "filesize": 2244,
+   "timestamp": "1997-10-22"
+  },
+  "gyrobot.txt": {
+   "filesize": 15522,
+   "timestamp": "1997-10-22"
   },
   "hrdtrgt2.txt": {
    "filesize": 9627,
    "timestamp": "1997-12-04"
   },
+  "manga.txt": {
+   "filesize": 2019,
+   "timestamp": "1996-11-03"
+  },
   "nunsgt.txt": {
    "filesize": 1221,
    "timestamp": "1997-06-16"
   },
-  "gyrobot.txt": {
-   "filesize": 15522,
+  "walls01.txt": {
+   "filesize": 3093,
    "timestamp": "1997-10-22"
   }
  },
+ "filesize": 1622,
+ "install": {
+  "extract": "{quake}/hrdtrgt2/"
+ },
+ "sha256": "7a154d9869c79858a43c56cf910d9764037c7099fbad47f1998b47ba6802ab38",
+ "tags": [
+  "title:Hard Target 2",
+  "releasedate:1997-12-04",
+  "game:quake",
+  "commandline:-game hrdtrgt2",
+  "author:Scott McNutt",
+  "tag:medium",
+  "tag:base",
+  "tag:monsters"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/hrdtrgt2.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7a154d9869c79858a43c56cf910d9764037c7099fbad47f1998b47ba6802ab38/hrdtrgt2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

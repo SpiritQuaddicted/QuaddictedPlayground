@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "9cd4695bbf5da226c2e523801c1dc1761d5770d88f2e6443239d3411e7ce1853",
  "filename": [
   "siluette.zip"
  ],
+ "files": {
+  "Silhints.txt": {
+   "filesize": 4928,
+   "timestamp": "1997-04-06"
+  },
+  "Siluette.txt": {
+   "filesize": 5268,
+   "timestamp": "1997-04-16"
+  },
+  "siluette.bsp": {
+   "filesize": 1497068,
+   "timestamp": "1997-04-06"
+  }
+ },
  "filesize": 667,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9cd4695bbf5da226c2e523801c1dc1761d5770d88f2e6443239d3411e7ce1853",
  "tags": [
   "title:Silhouette of Darkness",
   "releasedate:1997-03-10",
@@ -18,25 +34,9 @@
   "tag:realism",
   "tag:exploration"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Silhints.txt": {
-   "filesize": 4928,
-   "timestamp": "1997-04-06"
-  },
-  "siluette.bsp": {
-   "filesize": 1497068,
-   "timestamp": "1997-04-06"
-  },
-  "Siluette.txt": {
-   "filesize": 5268,
-   "timestamp": "1997-04-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/siluette.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9cd4695bbf5da226c2e523801c1dc1761d5770d88f2e6443239d3411e7ce1853/siluette.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

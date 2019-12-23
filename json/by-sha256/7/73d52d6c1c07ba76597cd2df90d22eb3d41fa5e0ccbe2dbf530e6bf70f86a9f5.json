@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5",
  "filename": [
   "kaahoo1a.zip"
  ],
- "filesize": 9591,
- "tags": [
-  "title:Castle Kaahoo (SM175)",
-  "releasedate:2014-06-10",
-  "game:quake",
-  "commandline:-game kaahoo +r_wateralpha 0.65",
-  "author:sock",
-  "tag:medium",
-  "tag:heretic",
-  "tag:green",
-  "tag:koohoo",
-  "tag:speedmap",
-  "startmap:kaahoo"
- ],
- "install": {
-  "extract": "{quake}/kaahoo/"
- },
  "files": {
   "kaahoo1a_readme.txt": {
    "filesize": 2937,
@@ -35,8 +16,27 @@
    "timestamp": "2014-06-10"
   }
  },
+ "filesize": 9591,
+ "install": {
+  "extract": "{quake}/kaahoo/"
+ },
+ "sha256": "73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5",
+ "tags": [
+  "title:Castle Kaahoo (SM175)",
+  "releasedate:2014-06-10",
+  "game:quake",
+  "commandline:-game kaahoo +r_wateralpha 0.65",
+  "author:sock",
+  "tag:medium",
+  "tag:heretic",
+  "tag:green",
+  "tag:koohoo",
+  "tag:speedmap",
+  "startmap:kaahoo"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/kaahoo1a.zip",
   "https://www.quaddicted.com/files/by-sha256/7/73d52d6c1c07ba76597cd2df90d22eb3d41fa5e0ccbe2dbf530e6bf70f86a9f5/kaahoo1a.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "9a84cba97142577cfdc8bcc919ade42464d86c0fd57b9268a0fd83d96ef7b894",
  "filename": [
   "cotud.zip"
  ],
+ "files": {
+  "COTUD.bsp": {
+   "filesize": 1058780,
+   "timestamp": "1997-03-09"
+  },
+  "COTUD.txt": {
+   "filesize": 904,
+   "timestamp": "1997-03-09"
+  },
+  "cotud_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 451,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9a84cba97142577cfdc8bcc919ade42464d86c0fd57b9268a0fd83d96ef7b894",
  "tags": [
   "title:City Of The Undead",
   "releasedate:1997-03-09",
@@ -19,25 +35,9 @@
   "tag:dm",
   "tag:buttons"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "cotud_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "COTUD.txt": {
-   "filesize": 904,
-   "timestamp": "1997-03-09"
-  },
-  "COTUD.bsp": {
-   "filesize": 1058780,
-   "timestamp": "1997-03-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cotud.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9a84cba97142577cfdc8bcc919ade42464d86c0fd57b9268a0fd83d96ef7b894/cotud.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

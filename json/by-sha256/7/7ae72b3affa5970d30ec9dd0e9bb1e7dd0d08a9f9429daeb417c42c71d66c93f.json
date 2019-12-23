@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f",
  "filename": [
   "oum.zip"
  ],
+ "files": {
+  "PAK0.PAK": {
+   "filesize": 25844961,
+   "timestamp": "2001-07-26"
+  },
+  "oum.txt": {
+   "filesize": 2517,
+   "timestamp": "2001-07-24"
+  }
+ },
  "filesize": 10443,
+ "install": {
+  "extract": "{quake}/oum/"
+ },
+ "sha256": "7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f",
  "tags": [
   "title:Operation: Urth Majik",
   "releasedate:2001-07-26",
@@ -23,21 +35,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/oum/"
- },
- "files": {
-  "oum.txt": {
-   "filesize": 2517,
-   "timestamp": "2001-07-24"
-  },
-  "PAK0.PAK": {
-   "filesize": 25844961,
-   "timestamp": "2001-07-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/oum.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7ae72b3affa5970d30ec9dd0e9bb1e7dd0d08a9f9429daeb417c42c71d66c93f/oum.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

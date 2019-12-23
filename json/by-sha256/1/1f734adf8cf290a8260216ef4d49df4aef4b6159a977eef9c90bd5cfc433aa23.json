@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "1f734adf8cf290a8260216ef4d49df4aef4b6159a977eef9c90bd5cfc433aa23",
  "filename": [
   "quothescape.zip"
  ],
- "filesize": 2467,
- "tags": [
-  "title:Escape From Your Cell",
-  "releasedate:2015-09-07",
-  "game:quake",
-  "commandline:-game quoth -quoth",
-  "author:Daya",
-  "tag:small",
-  "tag:base",
-  "tag:prison",
-  "tag:quoth",
-  "dependency:quoth2pt2full_2",
-  "startmap:escape"
- ],
- "install": {
-  "extract": "{quake}/quoth/maps"
- },
  "files": {
   "READ ME escape.txt": {
    "filesize": 5529,
@@ -39,8 +20,27 @@
    "timestamp": "2015-07-05"
   }
  },
+ "filesize": 2467,
+ "install": {
+  "extract": "{quake}/quoth/maps"
+ },
+ "sha256": "1f734adf8cf290a8260216ef4d49df4aef4b6159a977eef9c90bd5cfc433aa23",
+ "tags": [
+  "title:Escape From Your Cell",
+  "releasedate:2015-09-07",
+  "game:quake",
+  "commandline:-game quoth -quoth",
+  "author:Daya",
+  "tag:small",
+  "tag:base",
+  "tag:prison",
+  "tag:quoth",
+  "dependency:quoth2pt2full_2",
+  "startmap:escape"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/quothescape.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1f734adf8cf290a8260216ef4d49df4aef4b6159a977eef9c90bd5cfc433aa23/quothescape.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

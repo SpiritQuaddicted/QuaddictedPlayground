@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074",
  "filename": [
   "offspring.zip"
  ],
+ "files": {
+  "Off.txt": {
+   "filesize": 4415,
+   "timestamp": "1997-04-11"
+  },
+  "off.bsp": {
+   "filesize": 1268888,
+   "timestamp": "1997-04-11"
+  }
+ },
  "filesize": 561,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074",
  "tags": [
   "title:Offspring",
   "releasedate:1997-04-11",
@@ -20,21 +32,9 @@
   "tag:armagon",
   "startmap:off"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Off.txt": {
-   "filesize": 4415,
-   "timestamp": "1997-04-11"
-  },
-  "off.bsp": {
-   "filesize": 1268888,
-   "timestamp": "1997-04-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/offspring.zip",
   "https://www.quaddicted.com/files/by-sha256/4/487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074/offspring.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

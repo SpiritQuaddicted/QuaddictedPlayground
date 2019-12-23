@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "ea59d2a62345970ebaf217c73278e185c0032fbf01b90b4995c93f2581c01b31",
  "filename": [
   "nazihell.zip"
  ],
+ "files": {
+  "nazihell.bsp": {
+   "filesize": 861628,
+   "timestamp": "1996-11-17"
+  },
+  "nazihell.txt": {
+   "filesize": 157,
+   "timestamp": "1996-11-17"
+  },
+  "pic1.jpg": {
+   "filesize": 33289,
+   "timestamp": "1996-11-13"
+  },
+  "pic2.jpg": {
+   "filesize": 33950,
+   "timestamp": "1996-11-13"
+  },
+  "pic3.jpg": {
+   "filesize": 52394,
+   "timestamp": "1996-11-13"
+  }
+ },
  "filesize": 486,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ea59d2a62345970ebaf217c73278e185c0032fbf01b90b4995c93f2581c01b31",
  "tags": [
   "title:Nazihell",
   "releasedate:1996-11-17",
@@ -16,33 +40,9 @@
   "tag:realism",
   "tag:no exit"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "pic3.jpg": {
-   "filesize": 52394,
-   "timestamp": "1996-11-13"
-  },
-  "nazihell.txt": {
-   "filesize": 157,
-   "timestamp": "1996-11-17"
-  },
-  "nazihell.bsp": {
-   "filesize": 861628,
-   "timestamp": "1996-11-17"
-  },
-  "pic1.jpg": {
-   "filesize": 33289,
-   "timestamp": "1996-11-13"
-  },
-  "pic2.jpg": {
-   "filesize": 33950,
-   "timestamp": "1996-11-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/nazihell.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ea59d2a62345970ebaf217c73278e185c0032fbf01b90b4995c93f2581c01b31/nazihell.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

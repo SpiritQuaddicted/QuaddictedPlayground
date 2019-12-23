@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "66edf428edd505a6b13e38dd40e8da3c333c154869c7de587311da8209b9bffd",
  "filename": [
   "ne_sp06.zip"
  ],
+ "files": {
+  "autoexec.cfg": {
+   "filesize": 442,
+   "timestamp": "2002-02-15"
+  },
+  "ne_sp06.txt": {
+   "filesize": 8753,
+   "timestamp": "2002-02-15"
+  },
+  "pak0.pak": {
+   "filesize": 10994565,
+   "timestamp": "2002-02-16"
+  }
+ },
  "filesize": 6058,
+ "install": {
+  "extract": "{quake}/ne_sp06/"
+ },
+ "sha256": "66edf428edd505a6b13e38dd40e8da3c333c154869c7de587311da8209b9bffd",
  "tags": [
   "title:Once Upon Atrocity",
   "releasedate:2002-02-16",
@@ -20,25 +36,9 @@
   "tag:dragon",
   "tag:boss"
  ],
- "install": {
-  "extract": "{quake}/ne_sp06/"
- },
- "files": {
-  "ne_sp06.txt": {
-   "filesize": 8753,
-   "timestamp": "2002-02-15"
-  },
-  "pak0.pak": {
-   "filesize": 10994565,
-   "timestamp": "2002-02-16"
-  },
-  "autoexec.cfg": {
-   "filesize": 442,
-   "timestamp": "2002-02-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ne_sp06.zip",
   "https://www.quaddicted.com/files/by-sha256/6/66edf428edd505a6b13e38dd40e8da3c333c154869c7de587311da8209b9bffd/ne_sp06.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

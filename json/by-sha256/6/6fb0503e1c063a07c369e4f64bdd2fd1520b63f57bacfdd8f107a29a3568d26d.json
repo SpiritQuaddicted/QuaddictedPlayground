@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6fb0503e1c063a07c369e4f64bdd2fd1520b63f57bacfdd8f107a29a3568d26d",
  "filename": [
   "tdl.zip"
  ],
- "filesize": 1126,
- "tags": [
-  "title:The Death Lair",
-  "releasedate:2010-06-16",
-  "game:quake",
-  "author:Trinca",
-  "tag:deceptively oldschool"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "tdl.bsp": {
    "filesize": 2309968,
@@ -29,8 +16,21 @@
    "timestamp": "2010-06-18"
   }
  },
+ "filesize": 1126,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6fb0503e1c063a07c369e4f64bdd2fd1520b63f57bacfdd8f107a29a3568d26d",
+ "tags": [
+  "title:The Death Lair",
+  "releasedate:2010-06-16",
+  "game:quake",
+  "author:Trinca",
+  "tag:deceptively oldschool"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/tdl.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6fb0503e1c063a07c369e4f64bdd2fd1520b63f57bacfdd8f107a29a3568d26d/tdl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

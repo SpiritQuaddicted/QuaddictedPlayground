@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "e8e0a69bc3ca7f710ae3ed494cc993301e1f1bcff20782cd34846ade5f83fdfe",
  "filename": [
   "bub2.zip"
  ],
- "filesize": 267,
- "tags": [
-  "title:Bubbah's Slate",
-  "releasedate:1996-10-15",
-  "game:quake",
-  "author:Bubbah",
-  "tag:small",
-  "tag:metal",
-  "tag:experimental",
-  "tag:low ammo"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "BUB2.3DS": {
    "filesize": 446604,
@@ -28,8 +12,24 @@
    "timestamp": "1996-10-15"
   }
  },
+ "filesize": 267,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e8e0a69bc3ca7f710ae3ed494cc993301e1f1bcff20782cd34846ade5f83fdfe",
+ "tags": [
+  "title:Bubbah's Slate",
+  "releasedate:1996-10-15",
+  "game:quake",
+  "author:Bubbah",
+  "tag:small",
+  "tag:metal",
+  "tag:experimental",
+  "tag:low ammo"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/bub2.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e8e0a69bc3ca7f710ae3ed494cc993301e1f1bcff20782cd34846ade5f83fdfe/bub2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

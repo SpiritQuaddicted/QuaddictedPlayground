@@ -1,27 +1,27 @@
 {
- "version": "20191222-0",
- "sha256": "5b3f175698da787a4acafc83c83b6a7cd643ef715be80335f42fb5602997d127",
  "filename": [
   "sm83_ray_qwd.zip"
  ],
- "filesize": 1300,
- "tags": [
-  "title:Title",
-  "releasedate:2005-08-06",
-  "game:quake",
-  "author:NotoriousRay"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "sm83_ray.qwd": {
    "filesize": 5174578,
    "timestamp": "2004-03-02"
   }
  },
+ "filesize": 1300,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "5b3f175698da787a4acafc83c83b6a7cd643ef715be80335f42fb5602997d127",
+ "tags": [
+  "title:Title",
+  "releasedate:2005-08-06",
+  "game:quake",
+  "author:NotoriousRay"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_ray_qwd.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5b3f175698da787a4acafc83c83b6a7cd643ef715be80335f42fb5602997d127/sm83_ray_qwd.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

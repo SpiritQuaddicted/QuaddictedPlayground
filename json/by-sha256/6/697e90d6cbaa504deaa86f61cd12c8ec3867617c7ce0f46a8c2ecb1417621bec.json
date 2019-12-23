@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "697e90d6cbaa504deaa86f61cd12c8ec3867617c7ce0f46a8c2ecb1417621bec",
  "filename": [
   "shoradar.zip"
  ],
- "filesize": 527,
- "tags": [
-  "title:Shoradar",
-  "releasedate:1998-03-08",
-  "game:quake",
-  "author:Ben Watson",
-  "tag:small",
-  "tag:castle",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Shoradar.bsp": {
    "filesize": 1233280,
@@ -27,8 +12,23 @@
    "timestamp": "1998-03-08"
   }
  },
+ "filesize": 527,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "697e90d6cbaa504deaa86f61cd12c8ec3867617c7ce0f46a8c2ecb1417621bec",
+ "tags": [
+  "title:Shoradar",
+  "releasedate:1998-03-08",
+  "game:quake",
+  "author:Ben Watson",
+  "tag:small",
+  "tag:castle",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/shoradar.zip",
   "https://www.quaddicted.com/files/by-sha256/6/697e90d6cbaa504deaa86f61cd12c8ec3867617c7ce0f46a8c2ecb1417621bec/shoradar.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

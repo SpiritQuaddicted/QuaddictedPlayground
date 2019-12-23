@@ -1,10 +1,122 @@
 {
- "version": "20191222-0",
- "sha256": "3817a3a4556a6484b6796d4f690c6d5f6ff0075264df43a98939b96616fae4e1",
  "filename": [
   "aopv105.zip"
  ],
+ "files": {
+  "IMPEL/CONFIG.CFG": {
+   "filesize": 2456,
+   "timestamp": "1998-04-19"
+  },
+  "IMPEL/DEMO1.DEM": {
+   "filesize": 1468792,
+   "timestamp": "1998-03-27"
+  },
+  "IMPEL/DEMO2.DEM": {
+   "filesize": 1297536,
+   "timestamp": "1998-03-27"
+  },
+  "IMPEL/DEMO3.DEM": {
+   "filesize": 1468792,
+   "timestamp": "1998-03-27"
+  },
+  "IMPEL/INSTALL.LOG": {
+   "filesize": 820,
+   "timestamp": "1998-04-19"
+  },
+  "IMPEL/LICENSE.RTF": {
+   "filesize": 7018,
+   "timestamp": "1998-03-27"
+  },
+  "IMPEL/LICENSE.TXT": {
+   "filesize": 11909,
+   "timestamp": "1998-05-09"
+  },
+  "IMPEL/PAK0.PAK": {
+   "filesize": 6925312,
+   "timestamp": "1998-05-08"
+  },
+  "IMPEL/PROGS.DAT": {
+   "filesize": 671164,
+   "timestamp": "1998-05-08"
+  },
+  "IMPEL/README.TXT": {
+   "filesize": 1308,
+   "timestamp": "1998-04-02"
+  },
+  "IMPEL/maps/AOP1M1.BSP": {
+   "filesize": 779244,
+   "timestamp": "1998-03-31"
+  },
+  "IMPEL/maps/aop1m2.bsp": {
+   "filesize": 1837384,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aop1m3.bsp": {
+   "filesize": 2449504,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aop1m4.bsp": {
+   "filesize": 2223472,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aop1m5.bsp": {
+   "filesize": 2440908,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aop1m6.bsp": {
+   "filesize": 1151992,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aop2m1.bsp": {
+   "filesize": 1743672,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aop2m2.bsp": {
+   "filesize": 1648396,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aop2m3.bsp": {
+   "filesize": 1264488,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aopdm1.bsp": {
+   "filesize": 501268,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aopdm2.bsp": {
+   "filesize": 553320,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aopdm3.bsp": {
+   "filesize": 296356,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aopdm4.bsp": {
+   "filesize": 464852,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aopdm5.bsp": {
+   "filesize": 1114920,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aopdm6.bsp": {
+   "filesize": 888556,
+   "timestamp": "1998-03-19"
+  },
+  "IMPEL/maps/aopend.bsp": {
+   "filesize": 1629284,
+   "timestamp": "1998-03-17"
+  },
+  "IMPEL/maps/start.bsp": {
+   "filesize": 1111992,
+   "timestamp": "1998-02-12"
+  }
+ },
  "filesize": 13538,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "3817a3a4556a6484b6796d4f690c6d5f6ff0075264df43a98939b96616fae4e1",
  "tags": [
   "title:Abyss of Pandemonium",
   "releasedate:1998-05-10",
@@ -19,121 +131,9 @@
   "tag:monsters",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "IMPEL/maps/aopdm3.bsp": {
-   "filesize": 296356,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aopdm2.bsp": {
-   "filesize": 553320,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aopdm6.bsp": {
-   "filesize": 888556,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aop1m4.bsp": {
-   "filesize": 2223472,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aop1m6.bsp": {
-   "filesize": 1151992,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aopdm1.bsp": {
-   "filesize": 501268,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aop2m3.bsp": {
-   "filesize": 1264488,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aop1m3.bsp": {
-   "filesize": 2449504,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aop1m2.bsp": {
-   "filesize": 1837384,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aop1m5.bsp": {
-   "filesize": 2440908,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/start.bsp": {
-   "filesize": 1111992,
-   "timestamp": "1998-02-12"
-  },
-  "IMPEL/maps/aop2m2.bsp": {
-   "filesize": 1648396,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aopend.bsp": {
-   "filesize": 1629284,
-   "timestamp": "1998-03-17"
-  },
-  "IMPEL/maps/aopdm5.bsp": {
-   "filesize": 1114920,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aopdm4.bsp": {
-   "filesize": 464852,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/aop2m1.bsp": {
-   "filesize": 1743672,
-   "timestamp": "1998-03-19"
-  },
-  "IMPEL/maps/AOP1M1.BSP": {
-   "filesize": 779244,
-   "timestamp": "1998-03-31"
-  },
-  "IMPEL/PROGS.DAT": {
-   "filesize": 671164,
-   "timestamp": "1998-05-08"
-  },
-  "IMPEL/CONFIG.CFG": {
-   "filesize": 2456,
-   "timestamp": "1998-04-19"
-  },
-  "IMPEL/PAK0.PAK": {
-   "filesize": 6925312,
-   "timestamp": "1998-05-08"
-  },
-  "IMPEL/LICENSE.TXT": {
-   "filesize": 11909,
-   "timestamp": "1998-05-09"
-  },
-  "IMPEL/DEMO2.DEM": {
-   "filesize": 1297536,
-   "timestamp": "1998-03-27"
-  },
-  "IMPEL/LICENSE.RTF": {
-   "filesize": 7018,
-   "timestamp": "1998-03-27"
-  },
-  "IMPEL/DEMO3.DEM": {
-   "filesize": 1468792,
-   "timestamp": "1998-03-27"
-  },
-  "IMPEL/DEMO1.DEM": {
-   "filesize": 1468792,
-   "timestamp": "1998-03-27"
-  },
-  "IMPEL/INSTALL.LOG": {
-   "filesize": 820,
-   "timestamp": "1998-04-19"
-  },
-  "IMPEL/README.TXT": {
-   "filesize": 1308,
-   "timestamp": "1998-04-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/aopv105.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3817a3a4556a6484b6796d4f690c6d5f6ff0075264df43a98939b96616fae4e1/aopv105.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

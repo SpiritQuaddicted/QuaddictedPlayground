@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "3c798696fdbed21d821d1bffd267469d5386254dc61128bd88dcad0bcd4045f4",
  "filename": [
   "sm96_pack.zip"
  ],
+ "files": {
+  "sm96_pack.txt": {
+   "filesize": 1218,
+   "timestamp": "2005-06-19"
+  },
+  "sm96_tron.bsp": {
+   "filesize": 430104,
+   "timestamp": "2005-06-19"
+  },
+  "sm96_zwiffle.bsp": {
+   "filesize": 328208,
+   "timestamp": "2005-06-18"
+  }
+ },
  "filesize": 353,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3c798696fdbed21d821d1bffd267469d5386254dc61128bd88dcad0bcd4045f4",
  "tags": [
   "title:Speedmapping pack 96 - The Room",
   "releasedate:2005-06-19",
@@ -14,25 +30,9 @@
   "startmap:sm96_zwiffle",
   "startmap:sm96_tron"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm96_zwiffle.bsp": {
-   "filesize": 328208,
-   "timestamp": "2005-06-18"
-  },
-  "sm96_tron.bsp": {
-   "filesize": 430104,
-   "timestamp": "2005-06-19"
-  },
-  "sm96_pack.txt": {
-   "filesize": 1218,
-   "timestamp": "2005-06-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm96_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3c798696fdbed21d821d1bffd267469d5386254dc61128bd88dcad0bcd4045f4/sm96_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ae2042c9d2c5b618c17b1ce4d0aac1c7addccf9924393bfffd4b4451dc89a604",
  "filename": [
   "mescalito.zip"
  ],
+ "files": {
+  "mescalito.bsp": {
+   "filesize": 1781628,
+   "timestamp": "2003-09-19"
+  },
+  "readmeh.txt": {
+   "filesize": 670,
+   "timestamp": "2003-12-29"
+  }
+ },
  "filesize": 658,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ae2042c9d2c5b618c17b1ce4d0aac1c7addccf9924393bfffd4b4451dc89a604",
  "tags": [
   "title:Mescalito",
   "releasedate:2003-12-29",
@@ -18,21 +30,9 @@
   "tag:spd",
   "tag:speedbaze"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "readmeh.txt": {
-   "filesize": 670,
-   "timestamp": "2003-12-29"
-  },
-  "mescalito.bsp": {
-   "filesize": 1781628,
-   "timestamp": "2003-09-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mescalito.zip",
   "https://www.quaddicted.com/files/by-sha256/a/ae2042c9d2c5b618c17b1ce4d0aac1c7addccf9924393bfffd4b4451dc89a604/mescalito.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

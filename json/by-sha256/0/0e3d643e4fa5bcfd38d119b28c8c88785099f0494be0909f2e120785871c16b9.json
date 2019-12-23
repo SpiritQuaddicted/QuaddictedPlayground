@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0e3d643e4fa5bcfd38d119b28c8c88785099f0494be0909f2e120785871c16b9",
  "filename": [
   "temodea.zip"
  ],
- "filesize": 1125,
- "tags": [
-  "title:Temple of Death",
-  "releasedate:1997-09-29",
-  "game:quake",
-  "author:Jan Jakubovic",
-  "tag:large",
-  "tag:wizard",
-  "tag:outdoor",
-  "tag:traps"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "TEMODEA.BSP": {
    "filesize": 2562900,
@@ -28,8 +12,24 @@
    "timestamp": "1997-09-29"
   }
  },
+ "filesize": 1125,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0e3d643e4fa5bcfd38d119b28c8c88785099f0494be0909f2e120785871c16b9",
+ "tags": [
+  "title:Temple of Death",
+  "releasedate:1997-09-29",
+  "game:quake",
+  "author:Jan Jakubovic",
+  "tag:large",
+  "tag:wizard",
+  "tag:outdoor",
+  "tag:traps"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/temodea.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0e3d643e4fa5bcfd38d119b28c8c88785099f0494be0909f2e120785871c16b9/temodea.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

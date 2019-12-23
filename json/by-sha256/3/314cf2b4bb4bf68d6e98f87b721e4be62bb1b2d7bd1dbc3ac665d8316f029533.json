@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "314cf2b4bb4bf68d6e98f87b721e4be62bb1b2d7bd1dbc3ac665d8316f029533",
  "filename": [
   "se.zip"
  ],
- "filesize": 863,
- "tags": [
-  "title:Severe Exposure",
-  "releasedate:1997-08-25",
-  "game:quake",
-  "author:Zied Rieke",
-  "tag:medium",
-  "tag:base",
-  "tag:idbase",
-  "tag:traps",
-  "tag:non linear"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "FILE_ID.DIZ": {
    "filesize": 264,
@@ -33,8 +16,25 @@
    "timestamp": "1997-08-25"
   }
  },
+ "filesize": 863,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "314cf2b4bb4bf68d6e98f87b721e4be62bb1b2d7bd1dbc3ac665d8316f029533",
+ "tags": [
+  "title:Severe Exposure",
+  "releasedate:1997-08-25",
+  "game:quake",
+  "author:Zied Rieke",
+  "tag:medium",
+  "tag:base",
+  "tag:idbase",
+  "tag:traps",
+  "tag:non linear"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/se.zip",
   "https://www.quaddicted.com/files/by-sha256/3/314cf2b4bb4bf68d6e98f87b721e4be62bb1b2d7bd1dbc3ac665d8316f029533/se.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

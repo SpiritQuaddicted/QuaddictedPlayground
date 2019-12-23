@@ -1,36 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c",
  "filename": [
   "retrojam2.zip"
  ],
- "filesize": 21795,
- "tags": [
-  "title:Retro Jam 2 - Fantasy Brick Cities in the Skies Theme",
-  "releasedate:2014-12-04",
-  "game:quake",
-  "commandline:-game retrojam2",
-  "author:Skacky",
-  "author:sock",
-  "author:RickyT23",
-  "tag:sky",
-  "tag:brick",
-  "tag:metal",
-  "tag:fog",
-  "tag:skybox",
-  "tag:clouds",
-  "tag:medieval",
-  "tag:wind tunnels",
-  "tag:void",
-  "tag:yellow",
-  "tag:mapjam",
-  "startmap:retrojam2_rickyt23",
-  "startmap:retrojam2_skacky",
-  "startmap:retrojam2_sock"
- ],
- "install": {
-  "extract": "{quake}//retrojam2"
- },
  "files": {
   "pak0.pak": {
    "filesize": 81899534,
@@ -57,8 +28,37 @@
    "timestamp": "2014-12-04"
   }
  },
+ "filesize": 21795,
+ "install": {
+  "extract": "{quake}//retrojam2"
+ },
+ "sha256": "ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c",
+ "tags": [
+  "title:Retro Jam 2 - Fantasy Brick Cities in the Skies Theme",
+  "releasedate:2014-12-04",
+  "game:quake",
+  "commandline:-game retrojam2",
+  "author:Skacky",
+  "author:sock",
+  "author:RickyT23",
+  "tag:sky",
+  "tag:brick",
+  "tag:metal",
+  "tag:fog",
+  "tag:skybox",
+  "tag:clouds",
+  "tag:medieval",
+  "tag:wind tunnels",
+  "tag:void",
+  "tag:yellow",
+  "tag:mapjam",
+  "startmap:retrojam2_rickyt23",
+  "startmap:retrojam2_skacky",
+  "startmap:retrojam2_sock"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam2.zip",
   "https://www.quaddicted.com/files/by-sha256/a/ae3caad65425741d64ca0d489d676482712412d9b8774776655c1817c0ec146c/retrojam2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

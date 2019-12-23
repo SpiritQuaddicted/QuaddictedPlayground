@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f",
  "filename": [
   "copper.zip"
  ],
- "filesize": 3064,
- "tags": [
-  "title:Copper Quake",
-  "releasedate:2019-06-21",
-  "game:quake",
-  "commandline:-game copper",
-  "author:Lunaran"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "copper/PAK0.PAK": {
    "filesize": 4048317,
@@ -293,8 +280,21 @@
    "timestamp": "2019-06-20"
   }
  },
+ "filesize": 3064,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f",
+ "tags": [
+  "title:Copper Quake",
+  "releasedate:2019-06-21",
+  "game:quake",
+  "commandline:-game copper",
+  "author:Lunaran"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/copper.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f/copper.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

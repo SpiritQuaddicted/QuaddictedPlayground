@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ace20ba9ca6fc034eaafdbbe25593cc363d2d3b63f8dd1efbfd0897ec886bfc0",
  "filename": [
   "warpgate.zip"
  ],
+ "files": {
+  "warpgate.bsp": {
+   "filesize": 1772808,
+   "timestamp": "1997-07-21"
+  },
+  "warpgate.txt": {
+   "filesize": 3207,
+   "timestamp": "1997-07-28"
+  }
+ },
  "filesize": 761,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ace20ba9ca6fc034eaafdbbe25593cc363d2d3b63f8dd1efbfd0897ec886bfc0",
  "tags": [
   "title:The Warpgate",
   "releasedate:1997-07-28",
@@ -14,21 +26,9 @@
   "tag:oldschool",
   "tag:medium"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "warpgate.txt": {
-   "filesize": 3207,
-   "timestamp": "1997-07-28"
-  },
-  "warpgate.bsp": {
-   "filesize": 1772808,
-   "timestamp": "1997-07-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/warpgate.zip",
   "https://www.quaddicted.com/files/by-sha256/a/ace20ba9ca6fc034eaafdbbe25593cc363d2d3b63f8dd1efbfd0897ec886bfc0/warpgate.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

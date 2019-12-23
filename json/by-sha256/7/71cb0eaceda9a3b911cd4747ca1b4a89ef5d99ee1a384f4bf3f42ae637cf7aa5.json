@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "71cb0eaceda9a3b911cd4747ca1b4a89ef5d99ee1a384f4bf3f42ae637cf7aa5",
  "filename": [
   "azurette.zip"
  ],
+ "files": {
+  "azurette.bsp": {
+   "filesize": 1418072,
+   "timestamp": "1997-08-02"
+  },
+  "azurette.txt": {
+   "filesize": 3048,
+   "timestamp": "1997-08-02"
+  }
+ },
  "filesize": 537,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "71cb0eaceda9a3b911cd4747ca1b4a89ef5d99ee1a384f4bf3f42ae637cf7aa5",
  "tags": [
   "title:Azurette",
   "releasedate:1997-08-02",
@@ -14,21 +26,9 @@
   "tag:blue",
   "tag:azure"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "azurette.txt": {
-   "filesize": 3048,
-   "timestamp": "1997-08-02"
-  },
-  "azurette.bsp": {
-   "filesize": 1418072,
-   "timestamp": "1997-08-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/azurette.zip",
   "https://www.quaddicted.com/files/by-sha256/7/71cb0eaceda9a3b911cd4747ca1b4a89ef5d99ee1a384f4bf3f42ae637cf7aa5/azurette.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

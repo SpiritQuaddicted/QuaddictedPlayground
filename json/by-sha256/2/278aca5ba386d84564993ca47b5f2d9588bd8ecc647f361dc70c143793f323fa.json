@@ -1,27 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "278aca5ba386d84564993ca47b5f2d9588bd8ecc647f361dc70c143793f323fa",
  "filename": [
   "vile.zip"
  ],
- "filesize": 1167,
- "tags": [
-  "title:Hell",
-  "releasedate:1998-02-25",
-  "game:quake",
-  "commandline:-game vile",
-  "author:Rickard Ed\u00e9n (Nephilim)",
-  "tag:large",
-  "tag:medieval",
-  "tag:dungeon",
-  "tag:hell",
-  "tag:textures",
-  "tag:skins",
-  "tag:traps"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "VILE/GFX/COLORMAP.LMP": {
    "filesize": 16385,
@@ -72,8 +52,28 @@
    "timestamp": "1998-02-25"
   }
  },
+ "filesize": 1167,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "278aca5ba386d84564993ca47b5f2d9588bd8ecc647f361dc70c143793f323fa",
+ "tags": [
+  "title:Hell",
+  "releasedate:1998-02-25",
+  "game:quake",
+  "commandline:-game vile",
+  "author:Rickard Ed\u00e9n (Nephilim)",
+  "tag:large",
+  "tag:medieval",
+  "tag:dungeon",
+  "tag:hell",
+  "tag:textures",
+  "tag:skins",
+  "tag:traps"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/vile.zip",
   "https://www.quaddicted.com/files/by-sha256/2/278aca5ba386d84564993ca47b5f2d9588bd8ecc647f361dc70c143793f323fa/vile.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

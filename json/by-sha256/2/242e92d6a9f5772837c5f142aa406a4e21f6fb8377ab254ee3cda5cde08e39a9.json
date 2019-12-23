@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "242e92d6a9f5772837c5f142aa406a4e21f6fb8377ab254ee3cda5cde08e39a9",
  "filename": [
   "overflow.zip"
  ],
- "filesize": 123,
- "tags": [
-  "title:Packet Overflow",
-  "releasedate:2002-09-06",
-  "game:quake",
-  "author:LZM",
-  "tag:tiny",
-  "tag:arena"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "overflow.bsp": {
    "filesize": 360564,
@@ -26,8 +12,22 @@
    "timestamp": "2002-09-06"
   }
  },
+ "filesize": 123,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "242e92d6a9f5772837c5f142aa406a4e21f6fb8377ab254ee3cda5cde08e39a9",
+ "tags": [
+  "title:Packet Overflow",
+  "releasedate:2002-09-06",
+  "game:quake",
+  "author:LZM",
+  "tag:tiny",
+  "tag:arena"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/overflow.zip",
   "https://www.quaddicted.com/files/by-sha256/2/242e92d6a9f5772837c5f142aa406a4e21f6fb8377ab254ee3cda5cde08e39a9/overflow.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

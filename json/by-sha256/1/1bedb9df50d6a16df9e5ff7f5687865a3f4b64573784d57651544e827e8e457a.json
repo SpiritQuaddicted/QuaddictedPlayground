@@ -1,32 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "1bedb9df50d6a16df9e5ff7f5687865a3f4b64573784d57651544e827e8e457a",
  "filename": [
   "requiem.zip"
  ],
- "filesize": 9418,
- "tags": [
-  "title:Requiem",
-  "releasedate:2016-08-30",
-  "game:quake",
-  "author:Gotshun",
-  "tag:episode",
-  "tag:large",
-  "tag:medieval",
-  "tag:bricks",
-  "tag:pit",
-  "tag:start",
-  "tag:remix",
-  "tag:honey",
-  "startmap:pdspstart",
-  "startmap:pdsp1",
-  "startmap:pdsp2",
-  "startmap:pdsp3",
-  "startmap:pdsp4"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Requiem.txt": {
    "filesize": 3110,
@@ -53,8 +28,33 @@
    "timestamp": "2014-09-30"
   }
  },
+ "filesize": 9418,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1bedb9df50d6a16df9e5ff7f5687865a3f4b64573784d57651544e827e8e457a",
+ "tags": [
+  "title:Requiem",
+  "releasedate:2016-08-30",
+  "game:quake",
+  "author:Gotshun",
+  "tag:episode",
+  "tag:large",
+  "tag:medieval",
+  "tag:bricks",
+  "tag:pit",
+  "tag:start",
+  "tag:remix",
+  "tag:honey",
+  "startmap:pdspstart",
+  "startmap:pdsp1",
+  "startmap:pdsp2",
+  "startmap:pdsp3",
+  "startmap:pdsp4"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/requiem.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1bedb9df50d6a16df9e5ff7f5687865a3f4b64573784d57651544e827e8e457a/requiem.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

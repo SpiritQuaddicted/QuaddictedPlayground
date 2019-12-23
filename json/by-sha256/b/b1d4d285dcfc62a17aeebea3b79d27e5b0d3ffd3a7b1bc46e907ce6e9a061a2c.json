@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b1d4d285dcfc62a17aeebea3b79d27e5b0d3ffd3a7b1bc46e907ce6e9a061a2c",
  "filename": [
   "mire_prison_jcr.zip"
  ],
- "filesize": 1836,
- "tags": [
-  "title:Mire Prison",
-  "releasedate:2018-05-01",
-  "game:quake",
-  "author:Jose C. Rodriguez (JCR)",
-  "tag:small",
-  "tag:wizard",
-  "tag:prison",
-  "tag:source",
-  "tag:medieval",
-  "tag:mixtex",
-  "startmap:mire_prison"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "mire_prison.bsp": {
    "filesize": 5033024,
@@ -35,8 +16,27 @@
    "timestamp": "2018-05-01"
   }
  },
+ "filesize": 1836,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b1d4d285dcfc62a17aeebea3b79d27e5b0d3ffd3a7b1bc46e907ce6e9a061a2c",
+ "tags": [
+  "title:Mire Prison",
+  "releasedate:2018-05-01",
+  "game:quake",
+  "author:Jose C. Rodriguez (JCR)",
+  "tag:small",
+  "tag:wizard",
+  "tag:prison",
+  "tag:source",
+  "tag:medieval",
+  "tag:mixtex",
+  "startmap:mire_prison"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mire_prison_jcr.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b1d4d285dcfc62a17aeebea3b79d27e5b0d3ffd3a7b1bc46e907ce6e9a061a2c/mire_prison_jcr.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

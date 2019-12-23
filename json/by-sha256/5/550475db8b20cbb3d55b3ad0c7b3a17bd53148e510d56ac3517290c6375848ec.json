@@ -1,10 +1,70 @@
 {
- "version": "20191222-0",
- "sha256": "550475db8b20cbb3d55b3ad0c7b3a17bd53148e510d56ac3517290c6375848ec",
  "filename": [
   "sm41_pack.zip"
  ],
+ "files": {
+  "sm41_asaki.bsp": {
+   "filesize": 693376,
+   "timestamp": "2003-07-12"
+  },
+  "sm41_chain.bsp": {
+   "filesize": 235424,
+   "timestamp": "2003-07-13"
+  },
+  "sm41_ewerd.bsp": {
+   "filesize": 379116,
+   "timestamp": "2003-07-13"
+  },
+  "sm41_harb.bsp": {
+   "filesize": 840584,
+   "timestamp": "2003-07-13"
+  },
+  "sm41_krimzon.bsp": {
+   "filesize": 576340,
+   "timestamp": "2003-07-13"
+  },
+  "sm41_necros.bsp": {
+   "filesize": 871528,
+   "timestamp": "2003-07-12"
+  },
+  "sm41_necros.txt": {
+   "filesize": 2120,
+   "timestamp": "2003-07-12"
+  },
+  "sm41_pack.txt": {
+   "filesize": 2777,
+   "timestamp": "2003-07-13"
+  },
+  "sm41_ray.bsp": {
+   "filesize": 595628,
+   "timestamp": "2003-07-12"
+  },
+  "sm41_rpg.bsp": {
+   "filesize": 1035372,
+   "timestamp": "2003-07-12"
+  },
+  "sm41_speedy.bsp": {
+   "filesize": 155712,
+   "timestamp": "2003-07-13"
+  },
+  "sm41_speedy.txt": {
+   "filesize": 282,
+   "timestamp": "2003-07-13"
+  },
+  "sm41_starbuck.bsp": {
+   "filesize": 594460,
+   "timestamp": "2003-07-13"
+  },
+  "sm41_xen.bsp": {
+   "filesize": 1167348,
+   "timestamp": "2003-07-13"
+  }
+ },
  "filesize": 2738,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "550475db8b20cbb3d55b3ad0c7b3a17bd53148e510d56ac3517290c6375848ec",
  "tags": [
   "title:Speedmapping pack 41 - QExpo",
   "releasedate:2003-07-13",
@@ -24,69 +84,9 @@
   "startmap:sm41_necros",
   "startmap:sm41_rpg"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm41_necros.bsp": {
-   "filesize": 871528,
-   "timestamp": "2003-07-12"
-  },
-  "sm41_speedy.bsp": {
-   "filesize": 155712,
-   "timestamp": "2003-07-13"
-  },
-  "sm41_xen.bsp": {
-   "filesize": 1167348,
-   "timestamp": "2003-07-13"
-  },
-  "sm41_speedy.txt": {
-   "filesize": 282,
-   "timestamp": "2003-07-13"
-  },
-  "sm41_krimzon.bsp": {
-   "filesize": 576340,
-   "timestamp": "2003-07-13"
-  },
-  "sm41_ewerd.bsp": {
-   "filesize": 379116,
-   "timestamp": "2003-07-13"
-  },
-  "sm41_pack.txt": {
-   "filesize": 2777,
-   "timestamp": "2003-07-13"
-  },
-  "sm41_rpg.bsp": {
-   "filesize": 1035372,
-   "timestamp": "2003-07-12"
-  },
-  "sm41_necros.txt": {
-   "filesize": 2120,
-   "timestamp": "2003-07-12"
-  },
-  "sm41_harb.bsp": {
-   "filesize": 840584,
-   "timestamp": "2003-07-13"
-  },
-  "sm41_asaki.bsp": {
-   "filesize": 693376,
-   "timestamp": "2003-07-12"
-  },
-  "sm41_chain.bsp": {
-   "filesize": 235424,
-   "timestamp": "2003-07-13"
-  },
-  "sm41_ray.bsp": {
-   "filesize": 595628,
-   "timestamp": "2003-07-12"
-  },
-  "sm41_starbuck.bsp": {
-   "filesize": 594460,
-   "timestamp": "2003-07-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm41_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5/550475db8b20cbb3d55b3ad0c7b3a17bd53148e510d56ac3517290c6375848ec/sm41_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

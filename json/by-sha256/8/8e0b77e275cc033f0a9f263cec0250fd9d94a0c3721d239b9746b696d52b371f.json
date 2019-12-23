@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "8e0b77e275cc033f0a9f263cec0250fd9d94a0c3721d239b9746b696d52b371f",
  "filename": [
   "sm27_pack.zip"
  ],
+ "files": {
+  "sm27_ap.bsp": {
+   "filesize": 294392,
+   "timestamp": "2001-07-30"
+  },
+  "sm27_bear.bsp": {
+   "filesize": 706884,
+   "timestamp": "2001-07-31"
+  },
+  "sm27_inertia.bsp": {
+   "filesize": 282620,
+   "timestamp": "2001-07-31"
+  },
+  "sm27_pack.txt": {
+   "filesize": 2246,
+   "timestamp": "2001-08-13"
+  },
+  "sm27_ray.bsp": {
+   "filesize": 402064,
+   "timestamp": "2001-07-30"
+  },
+  "sm27_than.bsp": {
+   "filesize": 289820,
+   "timestamp": "2001-07-30"
+  },
+  "sm27_xenon.bsp": {
+   "filesize": 270356,
+   "timestamp": "2001-07-26"
+  }
+ },
  "filesize": 746,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8e0b77e275cc033f0a9f263cec0250fd9d94a0c3721d239b9746b696d52b371f",
  "tags": [
   "title:Speedmapping pack 27 - Unthemed",
   "releasedate:2001-08-13",
@@ -22,41 +54,9 @@
   "startmap:sm27_inertia",
   "startmap:sm27_bear"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm27_bear.bsp": {
-   "filesize": 706884,
-   "timestamp": "2001-07-31"
-  },
-  "sm27_ap.bsp": {
-   "filesize": 294392,
-   "timestamp": "2001-07-30"
-  },
-  "sm27_inertia.bsp": {
-   "filesize": 282620,
-   "timestamp": "2001-07-31"
-  },
-  "sm27_than.bsp": {
-   "filesize": 289820,
-   "timestamp": "2001-07-30"
-  },
-  "sm27_xenon.bsp": {
-   "filesize": 270356,
-   "timestamp": "2001-07-26"
-  },
-  "sm27_ray.bsp": {
-   "filesize": 402064,
-   "timestamp": "2001-07-30"
-  },
-  "sm27_pack.txt": {
-   "filesize": 2246,
-   "timestamp": "2001-08-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm27_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8e0b77e275cc033f0a9f263cec0250fd9d94a0c3721d239b9746b696d52b371f/sm27_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

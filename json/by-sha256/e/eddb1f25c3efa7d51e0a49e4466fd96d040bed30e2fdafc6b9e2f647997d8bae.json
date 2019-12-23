@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "eddb1f25c3efa7d51e0a49e4466fd96d040bed30e2fdafc6b9e2f647997d8bae",
  "filename": [
   "e-5.zip"
  ],
+ "files": {
+  "Readme.txt": {
+   "filesize": 2832,
+   "timestamp": "1998-08-01"
+  },
+  "pak0.pak": {
+   "filesize": 16797221,
+   "timestamp": "1998-08-01"
+  }
+ },
  "filesize": 6933,
+ "install": {
+  "extract": "{quake}/e-5/"
+ },
+ "sha256": "eddb1f25c3efa7d51e0a49e4466fd96d040bed30e2fdafc6b9e2f647997d8bae",
  "tags": [
   "title:Pak 5",
   "releasedate:1998-08-01",
@@ -14,21 +26,9 @@
   "tag:plagiarism",
   "startmap:start1"
  ],
- "install": {
-  "extract": "{quake}/e-5/"
- },
- "files": {
-  "pak0.pak": {
-   "filesize": 16797221,
-   "timestamp": "1998-08-01"
-  },
-  "Readme.txt": {
-   "filesize": 2832,
-   "timestamp": "1998-08-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/e-5.zip",
   "https://www.quaddicted.com/files/by-sha256/e/eddb1f25c3efa7d51e0a49e4466fd96d040bed30e2fdafc6b9e2f647997d8bae/e-5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

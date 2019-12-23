@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c7c83d93826d090fac07e6a5b6229e850e020d482b8f8bc6e91834b514c1fcc0",
  "filename": [
   "sofsp2.zip"
  ],
+ "files": {
+  "pak1.pak": {
+   "filesize": 3042807,
+   "timestamp": "1997-11-10"
+  },
+  "sofsp2.txt": {
+   "filesize": 12908,
+   "timestamp": "1997-11-10"
+  }
+ },
  "filesize": 1299,
+ "install": {
+  "extract": "{quake}/soldier/"
+ },
+ "sha256": "c7c83d93826d090fac07e6a5b6229e850e020d482b8f8bc6e91834b514c1fcc0",
  "tags": [
   "title:Soldier of Fortune, Inc.: Episodes Two and Three",
   "releasedate:1997-11-10",
@@ -18,21 +30,9 @@
   "dependency:sofsp1",
   "startmap:sof2"
  ],
- "install": {
-  "extract": "{quake}/soldier/"
- },
- "files": {
-  "pak1.pak": {
-   "filesize": 3042807,
-   "timestamp": "1997-11-10"
-  },
-  "sofsp2.txt": {
-   "filesize": 12908,
-   "timestamp": "1997-11-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sofsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c7c83d93826d090fac07e6a5b6229e850e020d482b8f8bc6e91834b514c1fcc0/sofsp2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

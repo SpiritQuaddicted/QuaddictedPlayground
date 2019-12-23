@@ -1,30 +1,8 @@
 {
- "version": "20191222-0",
- "sha256": "218a98f27eb5fa8053ea3bff0e72fa818b24f06c7a175bf35d87d490c1ecad07",
  "filename": [
   "sm40contest.zip"
  ],
- "filesize": 2611,
- "tags": [
-  "title:SM40 contest",
-  "releasedate:2005-08-06",
-  "game:quake",
-  "author:Mike Woodham",
-  "author:Zwiffle",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
-  "sm40zwei.txt": {
-   "filesize": 1850,
-   "timestamp": "2005-01-07"
-  },
-  "sm40_results.txt": {
-   "filesize": 2491,
-   "timestamp": "2005-01-10"
-  },
   "Fmb_SM40.bsp": {
    "filesize": 3498328,
    "timestamp": "2005-01-08"
@@ -33,13 +11,35 @@
    "filesize": 2735,
    "timestamp": "2005-01-08"
   },
+  "sm40_results.txt": {
+   "filesize": 2491,
+   "timestamp": "2005-01-10"
+  },
   "sm40zwei.bsp": {
    "filesize": 3239876,
    "timestamp": "2005-01-07"
+  },
+  "sm40zwei.txt": {
+   "filesize": 1850,
+   "timestamp": "2005-01-07"
   }
  },
+ "filesize": 2611,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "218a98f27eb5fa8053ea3bff0e72fa818b24f06c7a175bf35d87d490c1ecad07",
+ "tags": [
+  "title:SM40 contest",
+  "releasedate:2005-08-06",
+  "game:quake",
+  "author:Mike Woodham",
+  "author:Zwiffle",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm40contest.zip",
   "https://www.quaddicted.com/files/by-sha256/2/218a98f27eb5fa8053ea3bff0e72fa818b24f06c7a175bf35d87d490c1ecad07/sm40contest.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

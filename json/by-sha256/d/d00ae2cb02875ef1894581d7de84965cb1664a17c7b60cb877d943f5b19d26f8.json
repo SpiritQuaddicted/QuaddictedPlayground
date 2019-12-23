@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "d00ae2cb02875ef1894581d7de84965cb1664a17c7b60cb877d943f5b19d26f8",
  "filename": [
   "jason1.zip"
  ],
+ "files": {
+  "JASON1.bsp": {
+   "filesize": 1084136,
+   "timestamp": "1999-09-07"
+  },
+  "JASON2.bsp": {
+   "filesize": 872180,
+   "timestamp": "2002-01-27"
+  },
+  "jason.txt": {
+   "filesize": 1458,
+   "timestamp": "2002-01-26"
+  },
+  "jason3.bsp": {
+   "filesize": 1040716,
+   "timestamp": "2002-01-26"
+  }
+ },
  "filesize": 1235,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d00ae2cb02875ef1894581d7de84965cb1664a17c7b60cb877d943f5b19d26f8",
  "tags": [
   "title:Jason's first map pack",
   "releasedate:2002-01-27",
@@ -17,29 +37,9 @@
   "startmap:jason2",
   "startmap:jason3"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "jason.txt": {
-   "filesize": 1458,
-   "timestamp": "2002-01-26"
-  },
-  "JASON1.bsp": {
-   "filesize": 1084136,
-   "timestamp": "1999-09-07"
-  },
-  "JASON2.bsp": {
-   "filesize": 872180,
-   "timestamp": "2002-01-27"
-  },
-  "jason3.bsp": {
-   "filesize": 1040716,
-   "timestamp": "2002-01-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/jason1.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d00ae2cb02875ef1894581d7de84965cb1664a17c7b60cb877d943f5b19d26f8/jason1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

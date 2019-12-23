@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005",
  "filename": [
   "sm112_pack.zip"
  ],
+ "files": {
+  "sm111_generic.bsp": {
+   "filesize": 1177608,
+   "timestamp": "2005-11-28"
+  },
+  "sm112_neg!ke.bsp": {
+   "filesize": 1389884,
+   "timestamp": "2005-11-27"
+  },
+  "sm112_pack.txt": {
+   "filesize": 1547,
+   "timestamp": "2005-11-28"
+  },
+  "sm112_trinca.bsp": {
+   "filesize": 1203172,
+   "timestamp": "2005-11-26"
+  },
+  "sm112_zwiffle.bsp": {
+   "filesize": 314964,
+   "timestamp": "2005-11-28"
+  }
+ },
  "filesize": 1741,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005",
  "tags": [
   "title:Speedmapping pack 112 - Unthemed",
   "releasedate:2005-11-28",
@@ -18,33 +42,9 @@
   "startmap:sm111_generic",
   "startmap:sm112_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm111_generic.bsp": {
-   "filesize": 1177608,
-   "timestamp": "2005-11-28"
-  },
-  "sm112_trinca.bsp": {
-   "filesize": 1203172,
-   "timestamp": "2005-11-26"
-  },
-  "sm112_pack.txt": {
-   "filesize": 1547,
-   "timestamp": "2005-11-28"
-  },
-  "sm112_zwiffle.bsp": {
-   "filesize": 314964,
-   "timestamp": "2005-11-28"
-  },
-  "sm112_neg!ke.bsp": {
-   "filesize": 1389884,
-   "timestamp": "2005-11-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm112_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005/sm112_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

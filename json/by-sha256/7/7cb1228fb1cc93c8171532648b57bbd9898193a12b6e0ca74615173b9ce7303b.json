@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b",
  "filename": [
   "sm106_pack.zip"
  ],
+ "files": {
+  "SM106_TextFish.bsp": {
+   "filesize": 521040,
+   "timestamp": "2005-10-02"
+  },
+  "sm106_generic.bsp": {
+   "filesize": 529944,
+   "timestamp": "2004-03-07"
+  },
+  "sm106_pack.txt": {
+   "filesize": 1380,
+   "timestamp": "2004-03-08"
+  },
+  "sm106_pulsar.bsp": {
+   "filesize": 1016264,
+   "timestamp": "2005-10-01"
+  },
+  "sm106_textfish.txt": {
+   "filesize": 304,
+   "timestamp": "2005-10-02"
+  }
+ },
  "filesize": 884,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b",
  "tags": [
   "title:Speedmapping pack 106 - Partially submerged",
   "releasedate:2005-10-02",
@@ -16,33 +40,9 @@
   "startmap:sm106_pulsar",
   "startmap:sm106_generic"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm106_generic.bsp": {
-   "filesize": 529944,
-   "timestamp": "2004-03-07"
-  },
-  "sm106_pulsar.bsp": {
-   "filesize": 1016264,
-   "timestamp": "2005-10-01"
-  },
-  "SM106_TextFish.bsp": {
-   "filesize": 521040,
-   "timestamp": "2005-10-02"
-  },
-  "sm106_textfish.txt": {
-   "filesize": 304,
-   "timestamp": "2005-10-02"
-  },
-  "sm106_pack.txt": {
-   "filesize": 1380,
-   "timestamp": "2004-03-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm106_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b/sm106_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

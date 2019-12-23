@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "baf08e299f34007cc037b3c9f50a3a2ded62300c0ebad062a86404a05d65196d",
  "filename": [
   "sm42_pack.zip"
  ],
+ "files": {
+  "sm42_daz.bsp": {
+   "filesize": 424028,
+   "timestamp": "2003-07-20"
+  },
+  "sm42_gibbie.bsp": {
+   "filesize": 836020,
+   "timestamp": "2003-07-20"
+  },
+  "sm42_inertia.bsp": {
+   "filesize": 285996,
+   "timestamp": "2003-07-19"
+  },
+  "sm42_pack.txt": {
+   "filesize": 1758,
+   "timestamp": "2003-07-19"
+  },
+  "sm42_ray.bsp": {
+   "filesize": 515820,
+   "timestamp": "2003-07-19"
+  },
+  "sm42_speedy.bsp": {
+   "filesize": 524904,
+   "timestamp": "2003-07-20"
+  },
+  "sm42_starbuck.bsp": {
+   "filesize": 554456,
+   "timestamp": "2003-07-20"
+  },
+  "sm42_xen.bsp": {
+   "filesize": 1160440,
+   "timestamp": "2003-07-20"
+  }
+ },
  "filesize": 1631,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "baf08e299f34007cc037b3c9f50a3a2ded62300c0ebad062a86404a05d65196d",
  "tags": [
   "title:Speedmapping pack 42 - Unthemed",
   "releasedate:2003-07-20",
@@ -25,45 +61,9 @@
   "startmap:sm42_starbuck",
   "startmap:sm42_xen"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm42_xen.bsp": {
-   "filesize": 1160440,
-   "timestamp": "2003-07-20"
-  },
-  "sm42_starbuck.bsp": {
-   "filesize": 554456,
-   "timestamp": "2003-07-20"
-  },
-  "sm42_ray.bsp": {
-   "filesize": 515820,
-   "timestamp": "2003-07-19"
-  },
-  "sm42_gibbie.bsp": {
-   "filesize": 836020,
-   "timestamp": "2003-07-20"
-  },
-  "sm42_pack.txt": {
-   "filesize": 1758,
-   "timestamp": "2003-07-19"
-  },
-  "sm42_inertia.bsp": {
-   "filesize": 285996,
-   "timestamp": "2003-07-19"
-  },
-  "sm42_speedy.bsp": {
-   "filesize": 524904,
-   "timestamp": "2003-07-20"
-  },
-  "sm42_daz.bsp": {
-   "filesize": 424028,
-   "timestamp": "2003-07-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm42_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/b/baf08e299f34007cc037b3c9f50a3a2ded62300c0ebad062a86404a05d65196d/sm42_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

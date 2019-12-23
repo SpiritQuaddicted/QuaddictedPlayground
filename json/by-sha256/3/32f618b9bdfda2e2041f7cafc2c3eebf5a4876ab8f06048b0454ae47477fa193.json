@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193",
  "filename": [
   "sgc6.zip"
  ],
- "filesize": 768,
- "tags": [
-  "title:Notlob's Castle",
-  "releasedate:1997-01-26",
-  "game:quake",
-  "author:Steve Clarke",
-  "tag:castle",
-  "tag:medium",
-  "tag:wizard",
-  "tag:metal"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sgc6.bsp": {
    "filesize": 1823924,
@@ -28,8 +12,24 @@
    "timestamp": "1997-01-26"
   }
  },
+ "filesize": 768,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193",
+ "tags": [
+  "title:Notlob's Castle",
+  "releasedate:1997-01-26",
+  "game:quake",
+  "author:Steve Clarke",
+  "tag:castle",
+  "tag:medium",
+  "tag:wizard",
+  "tag:metal"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sgc6.zip",
   "https://www.quaddicted.com/files/by-sha256/3/32f618b9bdfda2e2041f7cafc2c3eebf5a4876ab8f06048b0454ae47477fa193/sgc6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

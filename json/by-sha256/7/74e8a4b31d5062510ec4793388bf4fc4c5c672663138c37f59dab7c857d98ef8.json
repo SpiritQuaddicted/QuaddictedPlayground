@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "74e8a4b31d5062510ec4793388bf4fc4c5c672663138c37f59dab7c857d98ef8",
  "filename": [
   "ruliano.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 4068093,
+   "timestamp": "1998-03-08"
+  },
+  "ruliano.txt": {
+   "filesize": 3659,
+   "timestamp": "1998-03-07"
+  }
+ },
  "filesize": 1864,
+ "install": {
+  "extract": "{quake}/ruliano/"
+ },
+ "sha256": "74e8a4b31d5062510ec4793388bf4fc4c5c672663138c37f59dab7c857d98ef8",
  "tags": [
   "title:Ruliano",
   "releasedate:1998-03-08",
@@ -20,21 +32,9 @@
   "tag:sounds",
   "tag:cutscenes"
  ],
- "install": {
-  "extract": "{quake}/ruliano/"
- },
- "files": {
-  "ruliano.txt": {
-   "filesize": 3659,
-   "timestamp": "1998-03-07"
-  },
-  "Pak0.pak": {
-   "filesize": 4068093,
-   "timestamp": "1998-03-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ruliano.zip",
   "https://www.quaddicted.com/files/by-sha256/7/74e8a4b31d5062510ec4793388bf4fc4c5c672663138c37f59dab7c857d98ef8/ruliano.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,37 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587",
  "filename": [
   "retrojam1.zip"
  ],
- "filesize": 10802,
- "tags": [
-  "title:Retro Jam 1 - Medieval/Castle Theme",
-  "releasedate:2014-11-23",
-  "game:quake",
-  "commandline:-game retrojam1",
-  "author:ericw",
-  "author:mfx",
-  "author:Scampie",
-  "author:Skacky",
-  "author:sock",
-  "tag:medieval",
-  "tag:castle",
-  "tag:small",
-  "tag:fog",
-  "tag:source",
-  "tag:skybox",
-  "tag:traps",
-  "tag:mapjam",
-  "startmap:retrojam1_ericw",
-  "startmap:retrojam1_mfx",
-  "startmap:retrojam1_scampie",
-  "startmap:retrojam1_skacky",
-  "startmap:retrojam1_sock"
- ],
- "install": {
-  "extract": "{quake}/retrojam1/"
- },
  "files": {
   "docs/retrojam_skacky.txt": {
    "filesize": 1481,
@@ -70,8 +40,38 @@
    "timestamp": "2014-11-23"
   }
  },
+ "filesize": 10802,
+ "install": {
+  "extract": "{quake}/retrojam1/"
+ },
+ "sha256": "ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587",
+ "tags": [
+  "title:Retro Jam 1 - Medieval/Castle Theme",
+  "releasedate:2014-11-23",
+  "game:quake",
+  "commandline:-game retrojam1",
+  "author:ericw",
+  "author:mfx",
+  "author:Scampie",
+  "author:Skacky",
+  "author:sock",
+  "tag:medieval",
+  "tag:castle",
+  "tag:small",
+  "tag:fog",
+  "tag:source",
+  "tag:skybox",
+  "tag:traps",
+  "tag:mapjam",
+  "startmap:retrojam1_ericw",
+  "startmap:retrojam1_mfx",
+  "startmap:retrojam1_scampie",
+  "startmap:retrojam1_skacky",
+  "startmap:retrojam1_sock"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam1.zip",
   "https://www.quaddicted.com/files/by-sha256/a/ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587/retrojam1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

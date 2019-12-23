@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2168017c395c53f279d69b2fd15ebe579e74304b9dac7083ef6be66290b1707c",
  "filename": [
   "heresp1.zip"
  ],
+ "files": {
+  "heresp1.bsp": {
+   "filesize": 1735940,
+   "timestamp": "2003-11-08"
+  },
+  "heresp1.txt": {
+   "filesize": 2002,
+   "timestamp": "2003-08-08"
+  }
+ },
  "filesize": 608,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2168017c395c53f279d69b2fd15ebe579e74304b9dac7083ef6be66290b1707c",
  "tags": [
   "title:hyperevolt",
   "releasedate:2003-11-08",
@@ -13,21 +25,9 @@
   "tag:small",
   "tag:q3gothic"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "heresp1.txt": {
-   "filesize": 2002,
-   "timestamp": "2003-08-08"
-  },
-  "heresp1.bsp": {
-   "filesize": 1735940,
-   "timestamp": "2003-11-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/heresp1.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2168017c395c53f279d69b2fd15ebe579e74304b9dac7083ef6be66290b1707c/heresp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076",
  "filename": [
   "travail.zip"
  ],
+ "files": {
+  "pak0.pak": {
+   "filesize": 100036539,
+   "timestamp": "2007-07-09"
+  },
+  "travail.txt": {
+   "filesize": 21312,
+   "timestamp": "2007-07-09"
+  }
+ },
  "filesize": 40396,
+ "install": {
+  "extract": "{quake}/travail/"
+ },
+ "sha256": "c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076",
  "tags": [
   "title:Travail - A Quake Journey",
   "releasedate:2007-07-09",
@@ -51,21 +63,9 @@
   "startmap:qtfin3",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/travail/"
- },
- "files": {
-  "travail.txt": {
-   "filesize": 21312,
-   "timestamp": "2007-07-09"
-  },
-  "pak0.pak": {
-   "filesize": 100036539,
-   "timestamp": "2007-07-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/travail.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c0921652cf0f392ad2aadb05777ab06a9e929f8ed61cd49db586b27f0b526076/travail.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

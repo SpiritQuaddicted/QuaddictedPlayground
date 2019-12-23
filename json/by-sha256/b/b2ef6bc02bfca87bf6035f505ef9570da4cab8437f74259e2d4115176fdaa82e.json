@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "b2ef6bc02bfca87bf6035f505ef9570da4cab8437f74259e2d4115176fdaa82e",
  "filename": [
   "sm111_pack.zip"
  ],
+ "files": {
+  "sm110_trinca.bsp": {
+   "filesize": 582772,
+   "timestamp": "2005-11-21"
+  },
+  "sm111_drew.bsp": {
+   "filesize": 490668,
+   "timestamp": "2005-11-21"
+  },
+  "sm111_hrim.bsp": {
+   "filesize": 971528,
+   "timestamp": "2005-11-20"
+  },
+  "sm111_neg!ke.bsp": {
+   "filesize": 2769256,
+   "timestamp": "2005-11-21"
+  },
+  "sm111_pack.txt": {
+   "filesize": 1717,
+   "timestamp": "2005-11-21"
+  },
+  "sm111_spirit.bsp": {
+   "filesize": 545552,
+   "timestamp": "2005-11-19"
+  },
+  "sm111_trinca.bsp": {
+   "filesize": 455768,
+   "timestamp": "2005-11-21"
+  }
+ },
  "filesize": 1855,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b2ef6bc02bfca87bf6035f505ef9570da4cab8437f74259e2d4115176fdaa82e",
  "tags": [
   "title:Speedmapping pack 111 - Unthemed",
   "releasedate:2005-11-21",
@@ -21,41 +53,9 @@
   "startmap:sm111_neg!ke",
   "startmap:sm111_hrim"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm111_pack.txt": {
-   "filesize": 1717,
-   "timestamp": "2005-11-21"
-  },
-  "sm111_drew.bsp": {
-   "filesize": 490668,
-   "timestamp": "2005-11-21"
-  },
-  "sm111_spirit.bsp": {
-   "filesize": 545552,
-   "timestamp": "2005-11-19"
-  },
-  "sm110_trinca.bsp": {
-   "filesize": 582772,
-   "timestamp": "2005-11-21"
-  },
-  "sm111_hrim.bsp": {
-   "filesize": 971528,
-   "timestamp": "2005-11-20"
-  },
-  "sm111_neg!ke.bsp": {
-   "filesize": 2769256,
-   "timestamp": "2005-11-21"
-  },
-  "sm111_trinca.bsp": {
-   "filesize": 455768,
-   "timestamp": "2005-11-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm111_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b2ef6bc02bfca87bf6035f505ef9570da4cab8437f74259e2d4115176fdaa82e/sm111_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "2721c47394f26106472b9678b4c23f8d4428af0f828992960c55f01d6c1025c5",
  "filename": [
   "omlabx.zip"
  ],
+ "files": {
+  "OMLABX.WAD": {
+   "filesize": 806428,
+   "timestamp": "2008-05-18"
+  },
+  "omlabx.bsp": {
+   "filesize": 6014288,
+   "timestamp": "2008-05-18"
+  },
+  "omlabx.txt": {
+   "filesize": 1780,
+   "timestamp": "2008-05-18"
+  }
+ },
  "filesize": 2736,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2721c47394f26106472b9678b4c23f8d4428af0f828992960c55f01d6c1025c5",
  "tags": [
   "title:Laboratory X",
   "releasedate:2008-05-18",
@@ -19,25 +35,9 @@
   "tag:limits",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "omlabx.txt": {
-   "filesize": 1780,
-   "timestamp": "2008-05-18"
-  },
-  "omlabx.bsp": {
-   "filesize": 6014288,
-   "timestamp": "2008-05-18"
-  },
-  "OMLABX.WAD": {
-   "filesize": 806428,
-   "timestamp": "2008-05-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/omlabx.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2721c47394f26106472b9678b4c23f8d4428af0f828992960c55f01d6c1025c5/omlabx.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

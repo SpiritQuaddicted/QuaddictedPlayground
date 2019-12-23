@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "53e9a2ce3b872b67bf68def941dbcfe8b496a38aeac9a70dc93db72669ce8289",
  "filename": [
   "fist.zip"
  ],
+ "files": {
+  "fist.bsp": {
+   "filesize": 943836,
+   "timestamp": "1997-07-05"
+  }
+ },
  "filesize": 397,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "53e9a2ce3b872b67bf68def941dbcfe8b496a38aeac9a70dc93db72669ce8289",
  "tags": [
   "title:Untitled",
   "releasedate:1997-07-05",
@@ -14,17 +22,9 @@
   "tag:metal",
   "tag:mixtex"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "fist.bsp": {
-   "filesize": 943836,
-   "timestamp": "1997-07-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fist.zip",
   "https://www.quaddicted.com/files/by-sha256/5/53e9a2ce3b872b67bf68def941dbcfe8b496a38aeac9a70dc93db72669ce8289/fist.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

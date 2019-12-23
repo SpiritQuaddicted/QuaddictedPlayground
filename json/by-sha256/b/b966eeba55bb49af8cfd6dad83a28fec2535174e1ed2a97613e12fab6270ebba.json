@@ -1,28 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b966eeba55bb49af8cfd6dad83a28fec2535174e1ed2a97613e12fab6270ebba",
  "filename": [
   "gsh_tod.zip"
  ],
- "filesize": 16323,
- "tags": [
-  "title:Temple of doom",
-  "releasedate:2018-12-02",
-  "game:quake",
-  "author:GunSgtHighway",
-  "tag:medium",
-  "tag:large",
-  "tag:wizard",
-  "tag:underground",
-  "tag:cave",
-  "tag:cavern",
-  "tag:music",
-  "tag:skybox",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "gsh_tod.txt": {
    "filesize": 717,
@@ -69,8 +48,29 @@
    "timestamp": "2018-11-06"
   }
  },
+ "filesize": 16323,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "b966eeba55bb49af8cfd6dad83a28fec2535174e1ed2a97613e12fab6270ebba",
+ "tags": [
+  "title:Temple of doom",
+  "releasedate:2018-12-02",
+  "game:quake",
+  "author:GunSgtHighway",
+  "tag:medium",
+  "tag:large",
+  "tag:wizard",
+  "tag:underground",
+  "tag:cave",
+  "tag:cavern",
+  "tag:music",
+  "tag:skybox",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/gsh_tod.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b966eeba55bb49af8cfd6dad83a28fec2535174e1ed2a97613e12fab6270ebba/gsh_tod.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

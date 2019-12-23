@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "811a31ad533c4b9e3b02b5a9351ed364cfbd76460fbb2f852b4f3d63155ea99c",
  "filename": [
   "acerbus.zip"
  ],
+ "files": {
+  "acerbus.bsp": {
+   "filesize": 1599280,
+   "timestamp": "1997-10-13"
+  },
+  "acerbus.txt": {
+   "filesize": 1717,
+   "timestamp": "1997-10-13"
+  }
+ },
  "filesize": 687,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "811a31ad533c4b9e3b02b5a9351ed364cfbd76460fbb2f852b4f3d63155ea99c",
  "tags": [
   "title:Acerbus",
   "releasedate:1997-10-13",
@@ -15,21 +27,9 @@
   "tag:runic",
   "tag:oldschool"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "acerbus.txt": {
-   "filesize": 1717,
-   "timestamp": "1997-10-13"
-  },
-  "acerbus.bsp": {
-   "filesize": 1599280,
-   "timestamp": "1997-10-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/acerbus.zip",
   "https://www.quaddicted.com/files/by-sha256/8/811a31ad533c4b9e3b02b5a9351ed364cfbd76460fbb2f852b4f3d63155ea99c/acerbus.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

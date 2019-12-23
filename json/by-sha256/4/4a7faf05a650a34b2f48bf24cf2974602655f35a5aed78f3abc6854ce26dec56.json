@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "4a7faf05a650a34b2f48bf24cf2974602655f35a5aed78f3abc6854ce26dec56",
  "filename": [
   "doomcasl.zip"
  ],
+ "files": {
+  "doomcasl.bsp": {
+   "filesize": 928376,
+   "timestamp": "1997-02-21"
+  },
+  "doomcasl.txt": {
+   "filesize": 2643,
+   "timestamp": "1997-02-22"
+  },
+  "rain.zip": {
+   "filesize": 225358,
+   "timestamp": "1997-02-20"
+  }
+ },
  "filesize": 603,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4a7faf05a650a34b2f48bf24cf2974602655f35a5aed78f3abc6854ce26dec56",
  "tags": [
   "title:Doom Castle",
   "releasedate:1997-02-22",
@@ -18,25 +34,9 @@
   "tag:jail",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "doomcasl.txt": {
-   "filesize": 2643,
-   "timestamp": "1997-02-22"
-  },
-  "rain.zip": {
-   "filesize": 225358,
-   "timestamp": "1997-02-20"
-  },
-  "doomcasl.bsp": {
-   "filesize": 928376,
-   "timestamp": "1997-02-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/doomcasl.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4a7faf05a650a34b2f48bf24cf2974602655f35a5aed78f3abc6854ce26dec56/doomcasl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

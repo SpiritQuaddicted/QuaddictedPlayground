@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402",
  "filename": [
   "martim6.zip"
  ],
+ "files": {
+  "MARTIM6.BSP": {
+   "filesize": 2025600,
+   "timestamp": "1997-04-10"
+  },
+  "MARTIM6.TXT": {
+   "filesize": 2582,
+   "timestamp": "1997-04-13"
+  }
+ },
  "filesize": 896,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402",
  "tags": [
   "title:Lucifer's Path",
   "releasedate:1997-04-13",
@@ -15,21 +27,9 @@
   "tag:hub",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MARTIM6.TXT": {
-   "filesize": 2582,
-   "timestamp": "1997-04-13"
-  },
-  "MARTIM6.BSP": {
-   "filesize": 2025600,
-   "timestamp": "1997-04-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/martim6.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402/martim6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

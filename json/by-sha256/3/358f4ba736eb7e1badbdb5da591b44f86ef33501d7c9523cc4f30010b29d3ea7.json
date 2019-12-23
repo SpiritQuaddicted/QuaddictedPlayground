@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "358f4ba736eb7e1badbdb5da591b44f86ef33501d7c9523cc4f30010b29d3ea7",
  "filename": [
   "armorgod.zip"
  ],
- "filesize": 835,
- "tags": [
-  "title:Armour of God",
-  "releasedate:1997-07-20",
-  "game:quake",
-  "author:Scott McNutt",
-  "tag:medium",
-  "tag:wizard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Armorgod.bsp": {
    "filesize": 1879236,
@@ -26,8 +12,22 @@
    "timestamp": "1997-07-20"
   }
  },
+ "filesize": 835,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "358f4ba736eb7e1badbdb5da591b44f86ef33501d7c9523cc4f30010b29d3ea7",
+ "tags": [
+  "title:Armour of God",
+  "releasedate:1997-07-20",
+  "game:quake",
+  "author:Scott McNutt",
+  "tag:medium",
+  "tag:wizard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/armorgod.zip",
   "https://www.quaddicted.com/files/by-sha256/3/358f4ba736eb7e1badbdb5da591b44f86ef33501d7c9523cc4f30010b29d3ea7/armorgod.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

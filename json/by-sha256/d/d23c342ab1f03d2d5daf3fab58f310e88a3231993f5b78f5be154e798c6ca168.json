@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d23c342ab1f03d2d5daf3fab58f310e88a3231993f5b78f5be154e798c6ca168",
  "filename": [
   "tef_aop.zip"
  ],
- "filesize": 441,
- "tags": [
-  "title:Altar of Pain",
-  "releasedate:1996-11-22",
-  "game:quake",
-  "author:T.H. Johansen (TJ)",
-  "tag:medium",
-  "tag:mixtex"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "tef_aop.bsp": {
    "filesize": 970224,
@@ -26,8 +12,22 @@
    "timestamp": "1996-11-22"
   }
  },
+ "filesize": 441,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d23c342ab1f03d2d5daf3fab58f310e88a3231993f5b78f5be154e798c6ca168",
+ "tags": [
+  "title:Altar of Pain",
+  "releasedate:1996-11-22",
+  "game:quake",
+  "author:T.H. Johansen (TJ)",
+  "tag:medium",
+  "tag:mixtex"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/tef_aop.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d23c342ab1f03d2d5daf3fab58f310e88a3231993f5b78f5be154e798c6ca168/tef_aop.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

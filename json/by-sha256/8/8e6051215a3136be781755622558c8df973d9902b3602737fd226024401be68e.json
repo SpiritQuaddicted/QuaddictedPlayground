@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "8e6051215a3136be781755622558c8df973d9902b3602737fd226024401be68e",
  "filename": [
   "sm100turtle.zip"
  ],
+ "files": {
+  "bamvoo_tur100.bsp": {
+   "filesize": 1515028,
+   "timestamp": "2005-07-25"
+  },
+  "bamvoo_tur100.txt": {
+   "filesize": 1587,
+   "timestamp": "2005-07-25"
+  },
+  "sm100t_neg!ke.bsp": {
+   "filesize": 2663520,
+   "timestamp": "2005-07-25"
+  },
+  "sm100t_neg!ke.txt": {
+   "filesize": 1947,
+   "timestamp": "2005-07-25"
+  },
+  "zweiturtlemap.bsp": {
+   "filesize": 880612,
+   "timestamp": "2005-07-24"
+  },
+  "zweiturtlemap.txt": {
+   "filesize": 296,
+   "timestamp": "2005-07-24"
+  }
+ },
  "filesize": 1900,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8e6051215a3136be781755622558c8df973d9902b3602737fd226024401be68e",
  "tags": [
   "title:Speedmap 100 Turtle map event",
   "releasedate:2005-07-25",
@@ -24,37 +52,9 @@
   "startmap:sm100t_neg!ke",
   "startmap:zweiturtlemap"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm100t_neg!ke.txt": {
-   "filesize": 1947,
-   "timestamp": "2005-07-25"
-  },
-  "bamvoo_tur100.txt": {
-   "filesize": 1587,
-   "timestamp": "2005-07-25"
-  },
-  "zweiturtlemap.bsp": {
-   "filesize": 880612,
-   "timestamp": "2005-07-24"
-  },
-  "bamvoo_tur100.bsp": {
-   "filesize": 1515028,
-   "timestamp": "2005-07-25"
-  },
-  "sm100t_neg!ke.bsp": {
-   "filesize": 2663520,
-   "timestamp": "2005-07-25"
-  },
-  "zweiturtlemap.txt": {
-   "filesize": 296,
-   "timestamp": "2005-07-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm100turtle.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8e6051215a3136be781755622558c8df973d9902b3602737fd226024401be68e/sm100turtle.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

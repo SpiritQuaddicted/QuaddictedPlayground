@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "42f6d1f80f93225c275d28957537a1e1ef6d07ad7d1ddc16b88810b83d8bc6a1",
  "filename": [
   "soulcomplex.zip"
  ],
- "filesize": 2003,
- "tags": [
-  "title:Soul Complex",
-  "releasedate:2019-01-18",
-  "game:quake",
-  "author:Sonnenblume",
-  "tag:large",
-  "tag:idbase"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "soulcomplex.bsp": {
    "filesize": 3724952,
@@ -34,8 +20,22 @@
    "timestamp": "2019-01-18"
   }
  },
+ "filesize": 2003,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "42f6d1f80f93225c275d28957537a1e1ef6d07ad7d1ddc16b88810b83d8bc6a1",
+ "tags": [
+  "title:Soul Complex",
+  "releasedate:2019-01-18",
+  "game:quake",
+  "author:Sonnenblume",
+  "tag:large",
+  "tag:idbase"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/soulcomplex.zip",
   "https://www.quaddicted.com/files/by-sha256/4/42f6d1f80f93225c275d28957537a1e1ef6d07ad7d1ddc16b88810b83d8bc6a1/soulcomplex.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

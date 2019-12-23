@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f",
  "filename": [
   "digs07_v2.zip"
  ],
- "filesize": 3932,
- "tags": [
-  "title:RJ Zone (Version 2)",
-  "releasedate:2014-02-27",
-  "game:quake",
-  "author:Digs",
-  "tag:puzzles",
-  "tag:idbase",
-  "tag:large",
-  "tag:boss",
-  "tag:unique",
-  "startmap:digs07"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "digs07.bsp": {
    "filesize": 7769243,
@@ -34,8 +16,26 @@
    "timestamp": "2014-02-27"
   }
  },
+ "filesize": 3932,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f",
+ "tags": [
+  "title:RJ Zone (Version 2)",
+  "releasedate:2014-02-27",
+  "game:quake",
+  "author:Digs",
+  "tag:puzzles",
+  "tag:idbase",
+  "tag:large",
+  "tag:boss",
+  "tag:unique",
+  "startmap:digs07"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs07_v2.zip",
   "https://www.quaddicted.com/files/by-sha256/5/52d28f500db19fc1547fcf9788bb2dd21339e9c8e61260ca07618f7b1322032f/digs07_v2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

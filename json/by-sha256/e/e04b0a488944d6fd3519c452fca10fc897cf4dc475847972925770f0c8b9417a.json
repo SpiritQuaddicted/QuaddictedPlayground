@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "e04b0a488944d6fd3519c452fca10fc897cf4dc475847972925770f0c8b9417a",
  "filename": [
   "obiwan3.zip"
  ],
- "filesize": 722,
- "tags": [
-  "title:Blood of the Martyrs",
-  "releasedate:1997-06-02",
-  "game:quake",
-  "author:Obi-Wan",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "ObiWan3.bsp": {
    "filesize": 1713828,
@@ -25,8 +12,21 @@
    "timestamp": "1997-06-02"
   }
  },
+ "filesize": 722,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e04b0a488944d6fd3519c452fca10fc897cf4dc475847972925770f0c8b9417a",
+ "tags": [
+  "title:Blood of the Martyrs",
+  "releasedate:1997-06-02",
+  "game:quake",
+  "author:Obi-Wan",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/obiwan3.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e04b0a488944d6fd3519c452fca10fc897cf4dc475847972925770f0c8b9417a/obiwan3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

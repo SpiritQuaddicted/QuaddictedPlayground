@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7",
  "filename": [
   "descent.zip"
  ],
+ "files": {
+  "Descent.doc": {
+   "filesize": 41472,
+   "timestamp": "2000-03-23"
+  },
+  "Readme.txt": {
+   "filesize": 2615,
+   "timestamp": "2000-03-23"
+  },
+  "pak0.pak": {
+   "filesize": 5379354,
+   "timestamp": "2000-03-23"
+  },
+  "pak1.pak": {
+   "filesize": 17149624,
+   "timestamp": "2000-03-23"
+  }
+ },
  "filesize": 8859,
+ "install": {
+  "extract": "{quake}/descent/"
+ },
+ "sha256": "c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7",
  "tags": [
   "title:(The Final) Descent",
   "releasedate:2000-03-23",
@@ -26,29 +46,9 @@
   "tag:recommend",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/descent/"
- },
- "files": {
-  "pak1.pak": {
-   "filesize": 17149624,
-   "timestamp": "2000-03-23"
-  },
-  "Descent.doc": {
-   "filesize": 41472,
-   "timestamp": "2000-03-23"
-  },
-  "pak0.pak": {
-   "filesize": 5379354,
-   "timestamp": "2000-03-23"
-  },
-  "Readme.txt": {
-   "filesize": 2615,
-   "timestamp": "2000-03-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/descent.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c9f685423e0281d70e59cff4cc4cc479be00fe3cd6b4c8256afe5a500ed73ff7/descent.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

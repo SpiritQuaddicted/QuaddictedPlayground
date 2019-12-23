@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449",
  "filename": [
   "sm59_pack.zip"
  ],
+ "files": {
+  "sm59_hrim.bsp": {
+   "filesize": 1235228,
+   "timestamp": "2003-11-23"
+  },
+  "sm59_lev.bsp": {
+   "filesize": 388244,
+   "timestamp": "2003-11-27"
+  },
+  "sm59_lev2.bsp": {
+   "filesize": 157660,
+   "timestamp": "2003-12-06"
+  },
+  "sm59_madfox.bsp": {
+   "filesize": 897384,
+   "timestamp": "2003-12-04"
+  },
+  "sm59_pack.txt": {
+   "filesize": 1621,
+   "timestamp": "2003-12-07"
+  },
+  "sm59_scampie.bsp": {
+   "filesize": 422800,
+   "timestamp": "2001-09-06"
+  },
+  "sm59_starbuck.bsp": {
+   "filesize": 799768,
+   "timestamp": "2003-12-07"
+  }
+ },
  "filesize": 1561,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449",
  "tags": [
   "title:Speedmapping pack 59 - Unthemed",
   "releasedate:2003-12-07",
@@ -22,41 +54,9 @@
   "startmap:sm59_lev2",
   "startmap:sm59_hrim"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm59_starbuck.bsp": {
-   "filesize": 799768,
-   "timestamp": "2003-12-07"
-  },
-  "sm59_scampie.bsp": {
-   "filesize": 422800,
-   "timestamp": "2001-09-06"
-  },
-  "sm59_madfox.bsp": {
-   "filesize": 897384,
-   "timestamp": "2003-12-04"
-  },
-  "sm59_lev.bsp": {
-   "filesize": 388244,
-   "timestamp": "2003-11-27"
-  },
-  "sm59_lev2.bsp": {
-   "filesize": 157660,
-   "timestamp": "2003-12-06"
-  },
-  "sm59_pack.txt": {
-   "filesize": 1621,
-   "timestamp": "2003-12-07"
-  },
-  "sm59_hrim.bsp": {
-   "filesize": 1235228,
-   "timestamp": "2003-11-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm59_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dab50f8ae2c274d4afdcc8efcf8f75ddb6f8606ec819f7407a817b868a605449/sm59_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

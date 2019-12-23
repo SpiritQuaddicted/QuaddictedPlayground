@@ -1,33 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "39bbd1dce157131a8ba3c3bc06c67822fa9d039dd6ffc77a38fe9938a441c030",
  "filename": [
   "sm199.zip"
  ],
- "filesize": 16152,
- "tags": [
-  "title:Speedmapping pack 199 - Collaboration",
-  "releasedate:2019-07-20",
-  "game:quake",
-  "commandline:-game sm199",
-  "author:Burnham",
-  "author:Elithium",
-  "author:Greenwood",
-  "author:Ing-ing",
-  "author:ionous",
-  "author:JCR",
-  "author:Newhouse",
-  "author:Pinchy Skree",
-  "author:Yoder",
-  "startmap:sm199_burnham_yoder",
-  "startmap:sm199_elithium_greenwood",
-  "startmap:sm199_greenwood_ing-ing",
-  "startmap:sm199_nh_jcr",
-  "startmap:sm199_pinchy_ion"
- ],
- "install": {
-  "extract": "{quake}/sm199/"
- },
  "files": {
   "docs/Readme_BurnhamYoder.txt": {
    "filesize": 497,
@@ -194,8 +168,34 @@
    "timestamp": "2019-07-20"
   }
  },
+ "filesize": 16152,
+ "install": {
+  "extract": "{quake}/sm199/"
+ },
+ "sha256": "39bbd1dce157131a8ba3c3bc06c67822fa9d039dd6ffc77a38fe9938a441c030",
+ "tags": [
+  "title:Speedmapping pack 199 - Collaboration",
+  "releasedate:2019-07-20",
+  "game:quake",
+  "commandline:-game sm199",
+  "author:Burnham",
+  "author:Elithium",
+  "author:Greenwood",
+  "author:Ing-ing",
+  "author:ionous",
+  "author:JCR",
+  "author:Newhouse",
+  "author:Pinchy Skree",
+  "author:Yoder",
+  "startmap:sm199_burnham_yoder",
+  "startmap:sm199_elithium_greenwood",
+  "startmap:sm199_greenwood_ing-ing",
+  "startmap:sm199_nh_jcr",
+  "startmap:sm199_pinchy_ion"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm199.zip",
   "https://www.quaddicted.com/files/by-sha256/3/39bbd1dce157131a8ba3c3bc06c67822fa9d039dd6ffc77a38fe9938a441c030/sm199.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

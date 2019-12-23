@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "a781f0c714bb64c42ae2ea0a89ef42ceaceffda1c39825a4fac0b22e037ee85b",
  "filename": [
   "sm145_pack.zip"
  ],
+ "files": {
+  "sm145_negke.bsp": {
+   "filesize": 2694300,
+   "timestamp": "2008-10-26"
+  },
+  "sm145_pack.txt": {
+   "filesize": 1228,
+   "timestamp": "2008-10-27"
+  },
+  "sm145_zwiffle.bsp": {
+   "filesize": 235116,
+   "timestamp": "2008-10-26"
+  }
+ },
  "filesize": 949,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a781f0c714bb64c42ae2ea0a89ef42ceaceffda1c39825a4fac0b22e037ee85b",
  "tags": [
   "title:Speedmapping pack 145 - Tropical island",
   "releasedate:2008-10-27",
@@ -17,25 +33,9 @@
   "startmap:sm145_negke",
   "startmap:sm145_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm145_zwiffle.bsp": {
-   "filesize": 235116,
-   "timestamp": "2008-10-26"
-  },
-  "sm145_negke.bsp": {
-   "filesize": 2694300,
-   "timestamp": "2008-10-26"
-  },
-  "sm145_pack.txt": {
-   "filesize": 1228,
-   "timestamp": "2008-10-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm145_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a781f0c714bb64c42ae2ea0a89ef42ceaceffda1c39825a4fac0b22e037ee85b/sm145_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

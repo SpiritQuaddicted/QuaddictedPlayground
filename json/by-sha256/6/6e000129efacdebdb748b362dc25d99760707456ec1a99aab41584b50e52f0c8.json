@@ -1,10 +1,54 @@
 {
- "version": "20191222-0",
- "sha256": "6e000129efacdebdb748b362dc25d99760707456ec1a99aab41584b50e52f0c8",
  "filename": [
   "sm29_pack.zip"
  ],
+ "files": {
+  "SM29_Gib.bsp": {
+   "filesize": 190824,
+   "timestamp": "2001-08-07"
+  },
+  "progs.dat": {
+   "filesize": 413096,
+   "timestamp": "2001-08-07"
+  },
+  "sm29_bear.bsp": {
+   "filesize": 664548,
+   "timestamp": "2001-08-08"
+  },
+  "sm29_czg.bsp": {
+   "filesize": 838640,
+   "timestamp": "2001-08-07"
+  },
+  "sm29_necros.bsp": {
+   "filesize": 1357352,
+   "timestamp": "2001-08-07"
+  },
+  "sm29_notes.txt": {
+   "filesize": 190,
+   "timestamp": "2001-08-07"
+  },
+  "sm29_pack.txt": {
+   "filesize": 2231,
+   "timestamp": "2001-08-14"
+  },
+  "sm29_scampie.bsp": {
+   "filesize": 223904,
+   "timestamp": "2001-08-07"
+  },
+  "sm29_than.bsp": {
+   "filesize": 664036,
+   "timestamp": "2001-08-08"
+  },
+  "sm29_xenon.bsp": {
+   "filesize": 227777,
+   "timestamp": "2001-08-08"
+  }
+ },
  "filesize": 1754,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6e000129efacdebdb748b362dc25d99760707456ec1a99aab41584b50e52f0c8",
  "tags": [
   "title:Speedmapping pack 29 - Unthemed",
   "releasedate:2001-08-14",
@@ -24,53 +68,9 @@
   "startmap:sm29_czg",
   "startmap:sm29_than"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm29_notes.txt": {
-   "filesize": 190,
-   "timestamp": "2001-08-07"
-  },
-  "sm29_xenon.bsp": {
-   "filesize": 227777,
-   "timestamp": "2001-08-08"
-  },
-  "sm29_than.bsp": {
-   "filesize": 664036,
-   "timestamp": "2001-08-08"
-  },
-  "sm29_necros.bsp": {
-   "filesize": 1357352,
-   "timestamp": "2001-08-07"
-  },
-  "sm29_pack.txt": {
-   "filesize": 2231,
-   "timestamp": "2001-08-14"
-  },
-  "sm29_bear.bsp": {
-   "filesize": 664548,
-   "timestamp": "2001-08-08"
-  },
-  "SM29_Gib.bsp": {
-   "filesize": 190824,
-   "timestamp": "2001-08-07"
-  },
-  "sm29_scampie.bsp": {
-   "filesize": 223904,
-   "timestamp": "2001-08-07"
-  },
-  "progs.dat": {
-   "filesize": 413096,
-   "timestamp": "2001-08-07"
-  },
-  "sm29_czg.bsp": {
-   "filesize": 838640,
-   "timestamp": "2001-08-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm29_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6e000129efacdebdb748b362dc25d99760707456ec1a99aab41584b50e52f0c8/sm29_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

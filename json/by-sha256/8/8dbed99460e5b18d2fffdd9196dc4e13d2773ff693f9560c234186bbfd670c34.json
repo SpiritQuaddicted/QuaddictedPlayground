@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8dbed99460e5b18d2fffdd9196dc4e13d2773ff693f9560c234186bbfd670c34",
  "filename": [
   "3scanyon.zip"
  ],
+ "files": {
+  "CANYON.BSP": {
+   "filesize": 1333960,
+   "timestamp": "1997-12-19"
+  },
+  "CANYON.TXT": {
+   "filesize": 1976,
+   "timestamp": "1997-12-19"
+  }
+ },
  "filesize": 585,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8dbed99460e5b18d2fffdd9196dc4e13d2773ff693f9560c234186bbfd670c34",
  "tags": [
   "title:Three's Canyon",
   "releasedate:1997-12-19",
@@ -14,21 +26,9 @@
   "tag:canyon",
   "startmap:canyon"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CANYON.TXT": {
-   "filesize": 1976,
-   "timestamp": "1997-12-19"
-  },
-  "CANYON.BSP": {
-   "filesize": 1333960,
-   "timestamp": "1997-12-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/3scanyon.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8dbed99460e5b18d2fffdd9196dc4e13d2773ff693f9560c234186bbfd670c34/3scanyon.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

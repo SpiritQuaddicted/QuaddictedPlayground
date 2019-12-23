@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "2fb0cea8815c364a7832799cf283ae39b5af1c19d421d0bd621712cf3fd162bd",
  "filename": [
   "sm58_pack.zip"
  ],
+ "files": {
+  "sm58_pack.txt": {
+   "filesize": 1720,
+   "timestamp": "2001-09-12"
+  },
+  "sm58_rpg1.bsp": {
+   "filesize": 530716,
+   "timestamp": "2003-11-23"
+  },
+  "sm58_rpg2.bsp": {
+   "filesize": 473220,
+   "timestamp": "2003-11-23"
+  },
+  "sm58_scampie.bsp": {
+   "filesize": 564344,
+   "timestamp": "2001-09-19"
+  },
+  "sm58_starbuck.bsp": {
+   "filesize": 870980,
+   "timestamp": "2003-11-23"
+  },
+  "sm58_xen.bsp": {
+   "filesize": 1073964,
+   "timestamp": "2003-11-23"
+  }
+ },
  "filesize": 1292,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "2fb0cea8815c364a7832799cf283ae39b5af1c19d421d0bd621712cf3fd162bd",
  "tags": [
   "title:SM 58 pack - The Elder World (The 4 Seasons of Quake #4)",
   "releasedate:2003-11-23",
@@ -21,37 +49,9 @@
   "startmap:sm58_rpg2",
   "startmap:sm58_xen"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm58_rpg1.bsp": {
-   "filesize": 530716,
-   "timestamp": "2003-11-23"
-  },
-  "sm58_starbuck.bsp": {
-   "filesize": 870980,
-   "timestamp": "2003-11-23"
-  },
-  "sm58_scampie.bsp": {
-   "filesize": 564344,
-   "timestamp": "2001-09-19"
-  },
-  "sm58_rpg2.bsp": {
-   "filesize": 473220,
-   "timestamp": "2003-11-23"
-  },
-  "sm58_xen.bsp": {
-   "filesize": 1073964,
-   "timestamp": "2003-11-23"
-  },
-  "sm58_pack.txt": {
-   "filesize": 1720,
-   "timestamp": "2001-09-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm58_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2fb0cea8815c364a7832799cf283ae39b5af1c19d421d0bd621712cf3fd162bd/sm58_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

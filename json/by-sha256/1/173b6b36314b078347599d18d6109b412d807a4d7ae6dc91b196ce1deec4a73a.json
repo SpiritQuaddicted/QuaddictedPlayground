@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "173b6b36314b078347599d18d6109b412d807a4d7ae6dc91b196ce1deec4a73a",
  "filename": [
   "blister.zip"
  ],
- "filesize": 366,
- "tags": [
-  "title:Blister",
-  "releasedate:1997-05-24",
-  "game:quake",
-  "author:Tony Boyer",
-  "tag:small",
-  "tag:metal"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "blister.bsp": {
    "filesize": 843092,
@@ -26,8 +12,22 @@
    "timestamp": "1997-05-24"
   }
  },
+ "filesize": 366,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "173b6b36314b078347599d18d6109b412d807a4d7ae6dc91b196ce1deec4a73a",
+ "tags": [
+  "title:Blister",
+  "releasedate:1997-05-24",
+  "game:quake",
+  "author:Tony Boyer",
+  "tag:small",
+  "tag:metal"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/blister.zip",
   "https://www.quaddicted.com/files/by-sha256/1/173b6b36314b078347599d18d6109b412d807a4d7ae6dc91b196ce1deec4a73a/blister.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c600c5d81628bff2ad6b9e03e5378477e29e61b36144a56fa3a4c5bf141be813",
  "filename": [
   "eels.zip"
  ],
- "filesize": 2344,
- "tags": [
-  "title:Elements",
-  "releasedate:2010-11-04",
-  "game:quake",
-  "author:Vondur",
-  "tag:oldschool",
-  "tag:classic",
-  "tag:medieval"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "eels.bsp": {
    "filesize": 3201348,
@@ -55,8 +40,23 @@
    "timestamp": "2008-12-17"
   }
  },
+ "filesize": 2344,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c600c5d81628bff2ad6b9e03e5378477e29e61b36144a56fa3a4c5bf141be813",
+ "tags": [
+  "title:Elements",
+  "releasedate:2010-11-04",
+  "game:quake",
+  "author:Vondur",
+  "tag:oldschool",
+  "tag:classic",
+  "tag:medieval"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/eels.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c600c5d81628bff2ad6b9e03e5378477e29e61b36144a56fa3a4c5bf141be813/eels.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

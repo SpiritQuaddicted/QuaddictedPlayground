@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "4174ce650f4107fef4e047934aa113c28f4d6356b83dd1ef5fd9346c2cf0e978",
  "filename": [
   "hrim_sp1.zip"
  ],
+ "files": {
+  "Hrim_sp1.txt": {
+   "filesize": 7976,
+   "timestamp": "2003-04-10"
+  },
+  "pak0.pak": {
+   "filesize": 8745383,
+   "timestamp": "2003-04-11"
+  }
+ },
  "filesize": 3722,
+ "install": {
+  "extract": "{quake}/hrim_sp1/"
+ },
+ "sha256": "4174ce650f4107fef4e047934aa113c28f4d6356b83dd1ef5fd9346c2cf0e978",
  "tags": [
   "title:Frying obstacles",
   "releasedate:2003-04-11",
@@ -17,21 +29,9 @@
   "tag:monsters",
   "tag:dragon"
  ],
- "install": {
-  "extract": "{quake}/hrim_sp1/"
- },
- "files": {
-  "Hrim_sp1.txt": {
-   "filesize": 7976,
-   "timestamp": "2003-04-10"
-  },
-  "pak0.pak": {
-   "filesize": 8745383,
-   "timestamp": "2003-04-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp1.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4174ce650f4107fef4e047934aa113c28f4d6356b83dd1ef5fd9346c2cf0e978/hrim_sp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

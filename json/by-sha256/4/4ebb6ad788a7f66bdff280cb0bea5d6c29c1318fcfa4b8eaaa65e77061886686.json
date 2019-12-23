@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686",
  "filename": [
   "sm15_pack.zip"
  ],
+ "files": {
+  "sm15_ap.bsp": {
+   "filesize": 356496,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_bear.bsp": {
+   "filesize": 1021132,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_bear.txt": {
+   "filesize": 818,
+   "timestamp": "2001-05-19"
+  },
+  "sm15_blitz.bsp": {
+   "filesize": 325624,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_pack.txt": {
+   "filesize": 2368,
+   "timestamp": "2001-05-20"
+  },
+  "sm15_ray.bsp": {
+   "filesize": 576616,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_xenon1.bsp": {
+   "filesize": 548878,
+   "timestamp": "2001-05-18"
+  },
+  "sm15_xenon2.bsp": {
+   "filesize": 1330270,
+   "timestamp": "2001-05-18"
+  }
+ },
  "filesize": 1270,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686",
  "tags": [
   "title:Speedmapping pack 15 - Unthemed",
   "releasedate:2001-05-20",
@@ -22,45 +58,9 @@
   "startmap:sm15_xenon2",
   "startmap:sm15_xenon1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm15_bear.bsp": {
-   "filesize": 1021132,
-   "timestamp": "2001-05-18"
-  },
-  "sm15_xenon1.bsp": {
-   "filesize": 548878,
-   "timestamp": "2001-05-18"
-  },
-  "sm15_ap.bsp": {
-   "filesize": 356496,
-   "timestamp": "2001-05-18"
-  },
-  "sm15_xenon2.bsp": {
-   "filesize": 1330270,
-   "timestamp": "2001-05-18"
-  },
-  "sm15_bear.txt": {
-   "filesize": 818,
-   "timestamp": "2001-05-19"
-  },
-  "sm15_ray.bsp": {
-   "filesize": 576616,
-   "timestamp": "2001-05-18"
-  },
-  "sm15_blitz.bsp": {
-   "filesize": 325624,
-   "timestamp": "2001-05-18"
-  },
-  "sm15_pack.txt": {
-   "filesize": 2368,
-   "timestamp": "2001-05-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm15_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4ebb6ad788a7f66bdff280cb0bea5d6c29c1318fcfa4b8eaaa65e77061886686/sm15_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

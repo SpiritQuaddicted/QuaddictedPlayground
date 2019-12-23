@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673",
  "filename": [
   "soe_full.zip"
  ],
+ "files": {
+  "pak0.PAK": {
+   "filesize": 13969201,
+   "timestamp": "2002-04-01"
+  },
+  "pak1.PAK": {
+   "filesize": 17282008,
+   "timestamp": "2002-04-01"
+  },
+  "pak2.PAK": {
+   "filesize": 16164328,
+   "timestamp": "2002-04-01"
+  },
+  "pak3.PAK": {
+   "filesize": 8314988,
+   "timestamp": "2002-03-31"
+  },
+  "soe_full.txt": {
+   "filesize": 414,
+   "timestamp": "2002-04-01"
+  },
+  "soe_readme.zip": {
+   "filesize": 1103605,
+   "timestamp": "2002-04-01"
+  }
+ },
  "filesize": 23623,
+ "install": {
+  "extract": "{quake}/soe/"
+ },
+ "sha256": "9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673",
  "tags": [
   "title:Soul of Evil",
   "releasedate:2002-04-01",
@@ -22,37 +50,9 @@
   "tag:difficult",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/soe/"
- },
- "files": {
-  "soe_full.txt": {
-   "filesize": 414,
-   "timestamp": "2002-04-01"
-  },
-  "pak2.PAK": {
-   "filesize": 16164328,
-   "timestamp": "2002-04-01"
-  },
-  "pak1.PAK": {
-   "filesize": 17282008,
-   "timestamp": "2002-04-01"
-  },
-  "soe_readme.zip": {
-   "filesize": 1103605,
-   "timestamp": "2002-04-01"
-  },
-  "pak0.PAK": {
-   "filesize": 13969201,
-   "timestamp": "2002-04-01"
-  },
-  "pak3.PAK": {
-   "filesize": 8314988,
-   "timestamp": "2002-03-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/soe_full.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9409c0debed303683964af869690583b53c2f0376471b3eed655b65e5f29b673/soe_full.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

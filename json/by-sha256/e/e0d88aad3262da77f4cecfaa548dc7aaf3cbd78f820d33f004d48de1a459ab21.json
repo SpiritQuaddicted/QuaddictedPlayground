@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "e0d88aad3262da77f4cecfaa548dc7aaf3cbd78f820d33f004d48de1a459ab21",
  "filename": [
   "bridges.zip"
  ],
+ "files": {
+  "brhiland.bsp": {
+   "filesize": 405248,
+   "timestamp": "1996-11-05"
+  },
+  "bridge.bsp": {
+   "filesize": 915708,
+   "timestamp": "1996-11-05"
+  },
+  "bridges.txt": {
+   "filesize": 2202,
+   "timestamp": "1996-11-05"
+  },
+  "bridglnk.bsp": {
+   "filesize": 125692,
+   "timestamp": "1996-10-30"
+  },
+  "brstart.bsp": {
+   "filesize": 325604,
+   "timestamp": "1996-10-30"
+  },
+  "watrways.bsp": {
+   "filesize": 726236,
+   "timestamp": "1996-11-05"
+  }
+ },
  "filesize": 1042,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e0d88aad3262da77f4cecfaa548dc7aaf3cbd78f820d33f004d48de1a459ab21",
  "tags": [
   "title:Bridges to the Highlands",
   "releasedate:1996-11-05",
@@ -18,37 +46,9 @@
   "tag:tricks",
   "startmap:brstart"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "bridge.bsp": {
-   "filesize": 915708,
-   "timestamp": "1996-11-05"
-  },
-  "brhiland.bsp": {
-   "filesize": 405248,
-   "timestamp": "1996-11-05"
-  },
-  "bridges.txt": {
-   "filesize": 2202,
-   "timestamp": "1996-11-05"
-  },
-  "bridglnk.bsp": {
-   "filesize": 125692,
-   "timestamp": "1996-10-30"
-  },
-  "watrways.bsp": {
-   "filesize": 726236,
-   "timestamp": "1996-11-05"
-  },
-  "brstart.bsp": {
-   "filesize": 325604,
-   "timestamp": "1996-10-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/bridges.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e0d88aad3262da77f4cecfaa548dc7aaf3cbd78f820d33f004d48de1a459ab21/bridges.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

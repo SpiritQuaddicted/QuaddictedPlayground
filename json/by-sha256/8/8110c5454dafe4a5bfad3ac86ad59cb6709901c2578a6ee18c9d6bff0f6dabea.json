@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8110c5454dafe4a5bfad3ac86ad59cb6709901c2578a6ee18c9d6bff0f6dabea",
  "filename": [
   "qkstore.zip"
  ],
- "filesize": 600,
- "tags": [
-  "title:Store",
-  "releasedate:2000-01-13",
-  "game:quake",
-  "author:DAV",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "qkstore.bsp": {
    "filesize": 1501376,
@@ -25,8 +12,21 @@
    "timestamp": "2000-01-13"
   }
  },
+ "filesize": 600,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8110c5454dafe4a5bfad3ac86ad59cb6709901c2578a6ee18c9d6bff0f6dabea",
+ "tags": [
+  "title:Store",
+  "releasedate:2000-01-13",
+  "game:quake",
+  "author:DAV",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkstore.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8110c5454dafe4a5bfad3ac86ad59cb6709901c2578a6ee18c9d6bff0f6dabea/qkstore.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

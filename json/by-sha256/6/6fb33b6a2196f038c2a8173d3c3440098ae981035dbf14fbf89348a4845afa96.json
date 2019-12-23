@@ -1,48 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96",
  "filename": [
   "sm193_pack.zip"
  ],
- "filesize": 42957,
- "tags": [
-  "title:Speedmapping pack 193 - Quakeguy Goes to White Castle",
-  "releasedate:2019-03-07",
-  "game:quake",
-  "author:Bal",
-  "author:Danzadan",
-  "author:Fairweather",
-  "author:Ing-ing",
-  "author:ionous",
-  "author:ish",
-  "author:JCR",
-  "author:kamp",
-  "author:Marandal",
-  "author:Naitelveni",
-  "author:Newhouse",
-  "author:onetruepurple",
-  "author:Pinchy",
-  "author:Shambler",
-  "author:Ukko",
-  "startmap:sm193_bal",
-  "startmap:sm193_danz",
-  "startmap:sm193_fairweather",
-  "startmap:sm193_ing",
-  "startmap:sm193_ionous",
-  "startmap:sm193_ish",
-  "startmap:sm193_jcr",
-  "startmap:sm193_kamp",
-  "startmap:sm193_marandal",
-  "startmap:sm193_naitelveni",
-  "startmap:sm193_newhouse",
-  "startmap:sm193_otp",
-  "startmap:sm193_pinchy",
-  "startmap:sm193_sham",
-  "startmap:sm193_ukko"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "docs/sm193_bal.txt": {
    "filesize": 3345,
@@ -333,8 +292,49 @@
    "timestamp": "2019-03-06"
   }
  },
+ "filesize": 42957,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96",
+ "tags": [
+  "title:Speedmapping pack 193 - Quakeguy Goes to White Castle",
+  "releasedate:2019-03-07",
+  "game:quake",
+  "author:Bal",
+  "author:Danzadan",
+  "author:Fairweather",
+  "author:Ing-ing",
+  "author:ionous",
+  "author:ish",
+  "author:JCR",
+  "author:kamp",
+  "author:Marandal",
+  "author:Naitelveni",
+  "author:Newhouse",
+  "author:onetruepurple",
+  "author:Pinchy",
+  "author:Shambler",
+  "author:Ukko",
+  "startmap:sm193_bal",
+  "startmap:sm193_danz",
+  "startmap:sm193_fairweather",
+  "startmap:sm193_ing",
+  "startmap:sm193_ionous",
+  "startmap:sm193_ish",
+  "startmap:sm193_jcr",
+  "startmap:sm193_kamp",
+  "startmap:sm193_marandal",
+  "startmap:sm193_naitelveni",
+  "startmap:sm193_newhouse",
+  "startmap:sm193_otp",
+  "startmap:sm193_pinchy",
+  "startmap:sm193_sham",
+  "startmap:sm193_ukko"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm193_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96/sm193_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

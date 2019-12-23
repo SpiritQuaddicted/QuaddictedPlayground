@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "7b1c71a43edbc9b0d05d50890b220caabda20685590f928d6233a808b8e92bfc",
  "filename": [
   "pbrsp1.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 6188904,
+   "timestamp": "2002-09-28"
+  },
+  "pbrsp1.txt": {
+   "filesize": 4648,
+   "timestamp": "2002-09-28"
+  },
+  "progs.dat": {
+   "filesize": 532716,
+   "timestamp": "2002-09-27"
+  }
+ },
  "filesize": 2561,
+ "install": {
+  "extract": "{quake}/pbrsp1/"
+ },
+ "sha256": "7b1c71a43edbc9b0d05d50890b220caabda20685590f928d6233a808b8e92bfc",
  "tags": [
   "title:Hexameron: Phase One",
   "releasedate:2002-09-28",
@@ -16,25 +32,9 @@
   "tag:monsters",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/pbrsp1/"
- },
- "files": {
-  "Pak0.pak": {
-   "filesize": 6188904,
-   "timestamp": "2002-09-28"
-  },
-  "progs.dat": {
-   "filesize": 532716,
-   "timestamp": "2002-09-27"
-  },
-  "pbrsp1.txt": {
-   "filesize": 4648,
-   "timestamp": "2002-09-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pbrsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7b1c71a43edbc9b0d05d50890b220caabda20685590f928d6233a808b8e92bfc/pbrsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

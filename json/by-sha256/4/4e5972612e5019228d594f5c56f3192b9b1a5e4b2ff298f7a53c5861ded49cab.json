@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "4e5972612e5019228d594f5c56f3192b9b1a5e4b2ff298f7a53c5861ded49cab",
  "filename": [
   "4fiffy1.zip"
  ],
+ "files": {
+  "!!READ!!.BAT": {
+   "filesize": 14009,
+   "timestamp": "1996-12-26"
+  },
+  "FIFFY.BSP": {
+   "filesize": 1179824,
+   "timestamp": "1996-12-26"
+  },
+  "FILE_ID.DIZ": {
+   "filesize": 851,
+   "timestamp": "1996-12-26"
+  }
+ },
  "filesize": 471,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4e5972612e5019228d594f5c56f3192b9b1a5e4b2ff298f7a53c5861ded49cab",
  "tags": [
   "title:REoL TOUGH: Demise!",
   "releasedate:1996-12-26",
@@ -16,25 +32,9 @@
   "tag:dm",
   "startmap:fiffy"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "FIFFY.BSP": {
-   "filesize": 1179824,
-   "timestamp": "1996-12-26"
-  },
-  "!!READ!!.BAT": {
-   "filesize": 14009,
-   "timestamp": "1996-12-26"
-  },
-  "FILE_ID.DIZ": {
-   "filesize": 851,
-   "timestamp": "1996-12-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy1.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4e5972612e5019228d594f5c56f3192b9b1a5e4b2ff298f7a53c5861ded49cab/4fiffy1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

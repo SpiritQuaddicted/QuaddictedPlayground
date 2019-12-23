@@ -1,10 +1,506 @@
 {
- "version": "20191222-0",
- "sha256": "89bc2d086a3a79388a91f8a62abfb77532ba599b81b8c34e5968d438848a934b",
  "filename": [
   "alkado.zip"
  ],
+ "files": {
+  "Alkado/ADVANCE.CFG": {
+   "filesize": 1136,
+   "timestamp": "1998-08-06"
+  },
+  "Alkado/AUTOEXEC.CFG": {
+   "filesize": 18,
+   "timestamp": "1998-08-03"
+  },
+  "Alkado/Alkado.doc": {
+   "filesize": 208896,
+   "timestamp": "1998-08-06"
+  },
+  "Alkado/Alkado.txt": {
+   "filesize": 5682,
+   "timestamp": "1998-08-06"
+  },
+  "Alkado/AlkadoBat.bat": {
+   "filesize": 51,
+   "timestamp": "1998-08-03"
+  },
+  "Alkado/CONFIG.CFG": {
+   "filesize": 6705,
+   "timestamp": "1998-08-25"
+  },
+  "Alkado/gfx/qplaque.lmp": {
+   "filesize": 4616,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/maps/deity.bsp": {
+   "filesize": 1580916,
+   "timestamp": "1998-08-02"
+  },
+  "Alkado/maps/goodppl.bsp": {
+   "filesize": 1657524,
+   "timestamp": "1998-07-13"
+  },
+  "Alkado/maps/goodppl2.bsp": {
+   "filesize": 1815788,
+   "timestamp": "1998-08-03"
+  },
+  "Alkado/maps/karmid.bsp": {
+   "filesize": 869100,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/maps/mettle.bsp": {
+   "filesize": 754080,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/maps/santa.bsp": {
+   "filesize": 1066464,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/maps/spider.bsp": {
+   "filesize": 815384,
+   "timestamp": "1998-07-29"
+  },
+  "Alkado/progs.dat": {
+   "filesize": 419200,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/V_NAIL2.MDL": {
+   "filesize": 56436,
+   "timestamp": "1998-07-14"
+  },
+  "Alkado/progs/armor.mdl": {
+   "filesize": 44076,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/progs/backpack.mdl": {
+   "filesize": 19348,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/bit.mdl": {
+   "filesize": 1044,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/enforcer.mdl": {
+   "filesize": 160688,
+   "timestamp": "1998-08-02"
+  },
+  "Alkado/progs/g_agun.mdl": {
+   "filesize": 670781,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/progs/g_light.mdl": {
+   "filesize": 50276,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/g_nail.mdl": {
+   "filesize": 73603,
+   "timestamp": "1998-08-04"
+  },
+  "Alkado/progs/g_rock.mdl": {
+   "filesize": 48244,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/progs/g_rock2.mdl": {
+   "filesize": 40756,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/g_shot.mdl": {
+   "filesize": 32916,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/grenade.mdl": {
+   "filesize": 2244,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/progs/hknight.mdl": {
+   "filesize": 228400,
+   "timestamp": "1998-07-03"
+  },
+  "Alkado/progs/missile.mdl": {
+   "filesize": 57796,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/ogre.mdl": {
+   "filesize": 162036,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/progs/quaddama.mdl": {
+   "filesize": 39992,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/soldier.mdl": {
+   "filesize": 146288,
+   "timestamp": "1998-07-13"
+  },
+  "Alkado/progs/star.mdl": {
+   "filesize": 37876,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/v_light.mdl": {
+   "filesize": 56204,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/v_nail.mdl": {
+   "filesize": 62283,
+   "timestamp": "1998-08-04"
+  },
+  "Alkado/progs/v_rock.mdl": {
+   "filesize": 103038,
+   "timestamp": "1998-07-07"
+  },
+  "Alkado/progs/v_rock2.mdl": {
+   "filesize": 58188,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/v_shot.mdl": {
+   "filesize": 43852,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/progs/v_shot2.mdl": {
+   "filesize": 77102,
+   "timestamp": "1998-08-04"
+  },
+  "Alkado/progs/v_star.mdl": {
+   "filesize": 56996,
+   "timestamp": "1998-08-01"
+  },
+  "Alkado/sound/creepy.wav": {
+   "filesize": 180136,
+   "timestamp": "1998-08-20"
+  },
+  "Alkado/sound/demon/ddeath.wav": {
+   "filesize": 17064,
+   "timestamp": "1997-03-13"
+  },
+  "Alkado/sound/demon/dhit2.wav": {
+   "filesize": 18260,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/demon/djump.wav": {
+   "filesize": 56716,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/demon/dpain1.wav": {
+   "filesize": 58740,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/demon/idle1.wav": {
+   "filesize": 81004,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/demon/sight2.wav": {
+   "filesize": 107316,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/enforcer/enfire.wav": {
+   "filesize": 16398,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/enforcer/enfstop.wav": {
+   "filesize": 46856,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/hknight/attack1.wav": {
+   "filesize": 56876,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/hknight/death1.wav": {
+   "filesize": 8760,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/hknight/grunt.wav": {
+   "filesize": 4876,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/hknight/hit.wav": {
+   "filesize": 9326,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/hknight/idle.wav": {
+   "filesize": 109340,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/hknight/pain1.wav": {
+   "filesize": 32428,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/hknight/sight1.wav": {
+   "filesize": 16236,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/hknight/slash1.wav": {
+   "filesize": 56876,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/items/armor1.wav": {
+   "filesize": 12202,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/items/health1.wav": {
+   "filesize": 62990,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/items/r_item1.wav": {
+   "filesize": 32428,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/knight/sword1.wav": {
+   "filesize": 21996,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/knight/sword2.wav": {
+   "filesize": 30508,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/misc/medkey.wav": {
+   "filesize": 23428,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/misc/r_tele1.wav": {
+   "filesize": 16156,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/misc/r_tele5.wav": {
+   "filesize": 8036,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/misc/runekey.wav": {
+   "filesize": 24080,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/misc/talk.wav": {
+   "filesize": 20284,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/ogre/ogdth.wav": {
+   "filesize": 123508,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/ogre/ogidle.wav": {
+   "filesize": 34452,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/ogre/ogidle2.wav": {
+   "filesize": 9770,
+   "timestamp": "1997-01-26"
+  },
+  "Alkado/sound/ogre/ogpain1.wav": {
+   "filesize": 40524,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/ogre/ogwake.wav": {
+   "filesize": 50644,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/player/land.wav": {
+   "filesize": 11062,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/player/land2.wav": {
+   "filesize": 12412,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/shalrath/attack.wav": {
+   "filesize": 39074,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/shalrath/attack2.wav": {
+   "filesize": 10908,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/shalrath/death.wav": {
+   "filesize": 108994,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/shalrath/idle.wav": {
+   "filesize": 66836,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/shalrath/pain.wav": {
+   "filesize": 34452,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/shalrath/sight.wav": {
+   "filesize": 48620,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/shambler/melee1.wav": {
+   "filesize": 17494,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/shambler/melee2.wav": {
+   "filesize": 5966,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/shambler/sattck1.wav": {
+   "filesize": 11658,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/shambler/sboom.wav": {
+   "filesize": 36509,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/shambler/sdeath1.wav": {
+   "filesize": 24104,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/shambler/shurt2.wav": {
+   "filesize": 11922,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/shambler/sidle.wav": {
+   "filesize": 11336,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/shambler/ssight.wav": {
+   "filesize": 21628,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/soldier/death1.wav": {
+   "filesize": 8402,
+   "timestamp": "1997-01-26"
+  },
+  "Alkado/sound/soldier/idle.wav": {
+   "filesize": 9240,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/soldier/pain1.wav": {
+   "filesize": 4136,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/soldier/pain2.wav": {
+   "filesize": 4968,
+   "timestamp": "1997-01-26"
+  },
+  "Alkado/sound/soldier/sattck1.wav": {
+   "filesize": 14302,
+   "timestamp": "1998-07-10"
+  },
+  "Alkado/sound/soldier/sight1.wav": {
+   "filesize": 13081,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/ax1.wav": {
+   "filesize": 12284,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/gib1.wav": {
+   "filesize": 15436,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/gib2.wav": {
+   "filesize": 11274,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/gib3.wav": {
+   "filesize": 15820,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/gib4.wav": {
+   "filesize": 14748,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/grenade.wav": {
+   "filesize": 17804,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/guncock.wav": {
+   "filesize": 11190,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/iron.wav": {
+   "filesize": 13398,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/lock4.wav": {
+   "filesize": 5174,
+   "timestamp": "1998-07-12"
+  },
+  "Alkado/sound/weapons/pkup.wav": {
+   "filesize": 13484,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/ric1.wav": {
+   "filesize": 4308,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/ric2.wav": {
+   "filesize": 10838,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/ric3.wav": {
+   "filesize": 12638,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/rocket1i.wav": {
+   "filesize": 2485,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/rocketi1.wav": {
+   "filesize": 9962,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/sgun1.wav": {
+   "filesize": 21258,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/shell.wav": {
+   "filesize": 7424,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/shell2.wav": {
+   "filesize": 7246,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/shotgn2.wav": {
+   "filesize": 15136,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/spike2.wav": {
+   "filesize": 8522,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/weapons/tink1.wav": {
+   "filesize": 1252,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/wizard/hit3.wav": {
+   "filesize": 7332,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/wizard/wattack.wav": {
+   "filesize": 22386,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/wizard/wdeath.wav": {
+   "filesize": 16664,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/wizard/widle1.wav": {
+   "filesize": 20556,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/wizard/widle2.wav": {
+   "filesize": 20556,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/wizard/wpain.wav": {
+   "filesize": 8238,
+   "timestamp": "1998-07-01"
+  },
+  "Alkado/sound/wizard/wsight.wav": {
+   "filesize": 20342,
+   "timestamp": "1998-07-01"
+  },
+  "AlkadoBat.bat": {
+   "filesize": 47,
+   "timestamp": "1998-08-03"
+  }
+ },
  "filesize": 6309,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "89bc2d086a3a79388a91f8a62abfb77532ba599b81b8c34e5968d438848a934b",
  "tags": [
   "title:The Alkado Adventure",
   "releasedate:1998-09-05",
@@ -19,505 +515,9 @@
   "tag:skins",
   "startmap:spider"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "Alkado/maps/karmid.bsp": {
-   "filesize": 869100,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/maps/santa.bsp": {
-   "filesize": 1066464,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/maps/spider.bsp": {
-   "filesize": 815384,
-   "timestamp": "1998-07-29"
-  },
-  "Alkado/maps/goodppl2.bsp": {
-   "filesize": 1815788,
-   "timestamp": "1998-08-03"
-  },
-  "Alkado/maps/deity.bsp": {
-   "filesize": 1580916,
-   "timestamp": "1998-08-02"
-  },
-  "Alkado/maps/mettle.bsp": {
-   "filesize": 754080,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/maps/goodppl.bsp": {
-   "filesize": 1657524,
-   "timestamp": "1998-07-13"
-  },
-  "Alkado/ADVANCE.CFG": {
-   "filesize": 1136,
-   "timestamp": "1998-08-06"
-  },
-  "Alkado/CONFIG.CFG": {
-   "filesize": 6705,
-   "timestamp": "1998-08-25"
-  },
-  "Alkado/AUTOEXEC.CFG": {
-   "filesize": 18,
-   "timestamp": "1998-08-03"
-  },
-  "Alkado/AlkadoBat.bat": {
-   "filesize": 51,
-   "timestamp": "1998-08-03"
-  },
-  "Alkado/sound/soldier/sattck1.wav": {
-   "filesize": 14302,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/soldier/pain1.wav": {
-   "filesize": 4136,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/soldier/pain2.wav": {
-   "filesize": 4968,
-   "timestamp": "1997-01-26"
-  },
-  "Alkado/sound/soldier/idle.wav": {
-   "filesize": 9240,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/soldier/death1.wav": {
-   "filesize": 8402,
-   "timestamp": "1997-01-26"
-  },
-  "Alkado/sound/soldier/sight1.wav": {
-   "filesize": 13081,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/knight/sword1.wav": {
-   "filesize": 21996,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/knight/sword2.wav": {
-   "filesize": 30508,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/player/land.wav": {
-   "filesize": 11062,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/player/land2.wav": {
-   "filesize": 12412,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/items/health1.wav": {
-   "filesize": 62990,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/items/armor1.wav": {
-   "filesize": 12202,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/items/r_item1.wav": {
-   "filesize": 32428,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/misc/r_tele1.wav": {
-   "filesize": 16156,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/misc/r_tele5.wav": {
-   "filesize": 8036,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/misc/talk.wav": {
-   "filesize": 20284,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/misc/runekey.wav": {
-   "filesize": 24080,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/misc/medkey.wav": {
-   "filesize": 23428,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/hknight/pain1.wav": {
-   "filesize": 32428,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/hknight/idle.wav": {
-   "filesize": 109340,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/hknight/death1.wav": {
-   "filesize": 8760,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/hknight/hit.wav": {
-   "filesize": 9326,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/hknight/sight1.wav": {
-   "filesize": 16236,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/hknight/attack1.wav": {
-   "filesize": 56876,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/hknight/grunt.wav": {
-   "filesize": 4876,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/hknight/slash1.wav": {
-   "filesize": 56876,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/ogre/ogdth.wav": {
-   "filesize": 123508,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/ogre/ogidle.wav": {
-   "filesize": 34452,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/ogre/ogwake.wav": {
-   "filesize": 50644,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/ogre/ogidle2.wav": {
-   "filesize": 9770,
-   "timestamp": "1997-01-26"
-  },
-  "Alkado/sound/ogre/ogpain1.wav": {
-   "filesize": 40524,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/creepy.wav": {
-   "filesize": 180136,
-   "timestamp": "1998-08-20"
-  },
-  "Alkado/sound/shambler/sattck1.wav": {
-   "filesize": 11658,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/shambler/sdeath1.wav": {
-   "filesize": 24104,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/shambler/sboom.wav": {
-   "filesize": 36509,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/shambler/melee1.wav": {
-   "filesize": 17494,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/shambler/shurt2.wav": {
-   "filesize": 11922,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/shambler/ssight.wav": {
-   "filesize": 21628,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/shambler/melee2.wav": {
-   "filesize": 5966,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/shambler/sidle.wav": {
-   "filesize": 11336,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/lock4.wav": {
-   "filesize": 5174,
-   "timestamp": "1998-07-12"
-  },
-  "Alkado/sound/weapons/pkup.wav": {
-   "filesize": 13484,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/ric2.wav": {
-   "filesize": 10838,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/rocket1i.wav": {
-   "filesize": 2485,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/sgun1.wav": {
-   "filesize": 21258,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/gib2.wav": {
-   "filesize": 11274,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/tink1.wav": {
-   "filesize": 1252,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/shell.wav": {
-   "filesize": 7424,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/iron.wav": {
-   "filesize": 13398,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/guncock.wav": {
-   "filesize": 11190,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/spike2.wav": {
-   "filesize": 8522,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/gib1.wav": {
-   "filesize": 15436,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/ric1.wav": {
-   "filesize": 4308,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/ric3.wav": {
-   "filesize": 12638,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/rocketi1.wav": {
-   "filesize": 9962,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/gib3.wav": {
-   "filesize": 15820,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/shell2.wav": {
-   "filesize": 7246,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/shotgn2.wav": {
-   "filesize": 15136,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/gib4.wav": {
-   "filesize": 14748,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/ax1.wav": {
-   "filesize": 12284,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/weapons/grenade.wav": {
-   "filesize": 17804,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/wizard/wdeath.wav": {
-   "filesize": 16664,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/wizard/wattack.wav": {
-   "filesize": 22386,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/wizard/widle2.wav": {
-   "filesize": 20556,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/wizard/wpain.wav": {
-   "filesize": 8238,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/wizard/widle1.wav": {
-   "filesize": 20556,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/wizard/hit3.wav": {
-   "filesize": 7332,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/wizard/wsight.wav": {
-   "filesize": 20342,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/sound/demon/sight2.wav": {
-   "filesize": 107316,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/demon/ddeath.wav": {
-   "filesize": 17064,
-   "timestamp": "1997-03-13"
-  },
-  "Alkado/sound/demon/dpain1.wav": {
-   "filesize": 58740,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/demon/dhit2.wav": {
-   "filesize": 18260,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/demon/djump.wav": {
-   "filesize": 56716,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/demon/idle1.wav": {
-   "filesize": 81004,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/enforcer/enfstop.wav": {
-   "filesize": 46856,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/enforcer/enfire.wav": {
-   "filesize": 16398,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/shalrath/idle.wav": {
-   "filesize": 66836,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/shalrath/death.wav": {
-   "filesize": 108994,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/shalrath/sight.wav": {
-   "filesize": 48620,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/shalrath/pain.wav": {
-   "filesize": 34452,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/shalrath/attack2.wav": {
-   "filesize": 10908,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/sound/shalrath/attack.wav": {
-   "filesize": 39074,
-   "timestamp": "1998-07-10"
-  },
-  "Alkado/Alkado.txt": {
-   "filesize": 5682,
-   "timestamp": "1998-08-06"
-  },
-  "Alkado/progs.dat": {
-   "filesize": 419200,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/gfx/qplaque.lmp": {
-   "filesize": 4616,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/progs/g_rock2.mdl": {
-   "filesize": 40756,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/g_shot.mdl": {
-   "filesize": 32916,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/backpack.mdl": {
-   "filesize": 19348,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/v_star.mdl": {
-   "filesize": 56996,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/star.mdl": {
-   "filesize": 37876,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/V_NAIL2.MDL": {
-   "filesize": 56436,
-   "timestamp": "1998-07-14"
-  },
-  "Alkado/progs/v_shot.mdl": {
-   "filesize": 43852,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/v_shot2.mdl": {
-   "filesize": 77102,
-   "timestamp": "1998-08-04"
-  },
-  "Alkado/progs/armor.mdl": {
-   "filesize": 44076,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/progs/quaddama.mdl": {
-   "filesize": 39992,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/g_agun.mdl": {
-   "filesize": 670781,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/progs/g_rock.mdl": {
-   "filesize": 48244,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/progs/v_rock.mdl": {
-   "filesize": 103038,
-   "timestamp": "1998-07-07"
-  },
-  "Alkado/progs/g_nail.mdl": {
-   "filesize": 73603,
-   "timestamp": "1998-08-04"
-  },
-  "Alkado/progs/enforcer.mdl": {
-   "filesize": 160688,
-   "timestamp": "1998-08-02"
-  },
-  "Alkado/progs/missile.mdl": {
-   "filesize": 57796,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/v_rock2.mdl": {
-   "filesize": 58188,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/soldier.mdl": {
-   "filesize": 146288,
-   "timestamp": "1998-07-13"
-  },
-  "Alkado/progs/v_nail.mdl": {
-   "filesize": 62283,
-   "timestamp": "1998-08-04"
-  },
-  "Alkado/progs/hknight.mdl": {
-   "filesize": 228400,
-   "timestamp": "1998-07-03"
-  },
-  "Alkado/progs/bit.mdl": {
-   "filesize": 1044,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/ogre.mdl": {
-   "filesize": 162036,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/progs/grenade.mdl": {
-   "filesize": 2244,
-   "timestamp": "1998-07-01"
-  },
-  "Alkado/progs/g_light.mdl": {
-   "filesize": 50276,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/progs/v_light.mdl": {
-   "filesize": 56204,
-   "timestamp": "1998-08-01"
-  },
-  "Alkado/Alkado.doc": {
-   "filesize": 208896,
-   "timestamp": "1998-08-06"
-  },
-  "AlkadoBat.bat": {
-   "filesize": 47,
-   "timestamp": "1998-08-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/alkado.zip",
   "https://www.quaddicted.com/files/by-sha256/8/89bc2d086a3a79388a91f8a62abfb77532ba599b81b8c34e5968d438848a934b/alkado.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "275c11479ce06db5e2813df492ffa2062121c7abf6e77500d2c384ae6706e24a",
  "filename": [
   "whippet.zip"
  ],
+ "files": {
+  "WHIPPET.BSP": {
+   "filesize": 1211200,
+   "timestamp": "1996-11-02"
+  },
+  "WHIPPET.DEM": {
+   "filesize": 746937,
+   "timestamp": "1996-11-02"
+  },
+  "WHIPPET.MAP": {
+   "filesize": 627046,
+   "timestamp": "1996-11-02"
+  },
+  "WHIPPET.TXT": {
+   "filesize": 1307,
+   "timestamp": "1996-11-02"
+  }
+ },
  "filesize": 714,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "275c11479ce06db5e2813df492ffa2062121c7abf6e77500d2c384ae6706e24a",
  "tags": [
   "title:Eat this...",
   "releasedate:1996-11-02",
@@ -18,29 +38,9 @@
   "tag:mixtex",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "WHIPPET.DEM": {
-   "filesize": 746937,
-   "timestamp": "1996-11-02"
-  },
-  "WHIPPET.MAP": {
-   "filesize": 627046,
-   "timestamp": "1996-11-02"
-  },
-  "WHIPPET.BSP": {
-   "filesize": 1211200,
-   "timestamp": "1996-11-02"
-  },
-  "WHIPPET.TXT": {
-   "filesize": 1307,
-   "timestamp": "1996-11-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/whippet.zip",
   "https://www.quaddicted.com/files/by-sha256/2/275c11479ce06db5e2813df492ffa2062121c7abf6e77500d2c384ae6706e24a/whippet.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

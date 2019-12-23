@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "876457c16926902c46e5eb5c5d08974cc5869c47f5023300417fbb44dda56902",
  "filename": [
   "undrhall.zip"
  ],
+ "files": {
+  "UNDRHALL.BSP": {
+   "filesize": 485604,
+   "timestamp": "1980-01-01"
+  },
+  "UNDRHALL.MAP": {
+   "filesize": 274446,
+   "timestamp": "1980-01-01"
+  },
+  "UNDRHALL.TXT": {
+   "filesize": 1935,
+   "timestamp": "1997-06-30"
+  }
+ },
  "filesize": 220,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "876457c16926902c46e5eb5c5d08974cc5869c47f5023300417fbb44dda56902",
  "tags": [
   "title:Underhalls",
   "releasedate:1997-06-30",
@@ -16,25 +32,9 @@
   "tag:remake",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "UNDRHALL.TXT": {
-   "filesize": 1935,
-   "timestamp": "1997-06-30"
-  },
-  "UNDRHALL.BSP": {
-   "filesize": 485604,
-   "timestamp": "1980-01-01"
-  },
-  "UNDRHALL.MAP": {
-   "filesize": 274446,
-   "timestamp": "1980-01-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/undrhall.zip",
   "https://www.quaddicted.com/files/by-sha256/8/876457c16926902c46e5eb5c5d08974cc5869c47f5023300417fbb44dda56902/undrhall.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

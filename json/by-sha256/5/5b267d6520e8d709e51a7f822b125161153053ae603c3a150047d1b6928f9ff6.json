@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6",
  "filename": [
   "evilarmy.zip"
  ],
+ "files": {
+  "evilarmy.bsp": {
+   "filesize": 619892,
+   "timestamp": "1997-03-26"
+  },
+  "evilarmy.txt": {
+   "filesize": 2082,
+   "timestamp": "1997-03-26"
+  }
+ },
  "filesize": 255,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6",
  "tags": [
   "title:Evil Army",
   "releasedate:1997-03-26",
@@ -16,21 +28,9 @@
   "tag:tiny",
   "tag:puzzle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "evilarmy.bsp": {
-   "filesize": 619892,
-   "timestamp": "1997-03-26"
-  },
-  "evilarmy.txt": {
-   "filesize": 2082,
-   "timestamp": "1997-03-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/evilarmy.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5b267d6520e8d709e51a7f822b125161153053ae603c3a150047d1b6928f9ff6/evilarmy.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

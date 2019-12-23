@@ -1,10 +1,138 @@
 {
- "version": "20191222-0",
- "sha256": "483a57cabadc8c9c4686177dddf698bb2d4a95bf778dfd015151b2269d6dbfe4",
  "filename": [
   "coagula3_pack.zip"
  ],
+ "files": {
+  "coagula3_readme.txt": {
+   "filesize": 4038,
+   "timestamp": "2009-04-03"
+  },
+  "gfx/env/etacarinae.txt": {
+   "filesize": 228,
+   "timestamp": "2009-04-03"
+  },
+  "gfx/env/etacarinaebk.tga": {
+   "filesize": 515841,
+   "timestamp": "2009-02-25"
+  },
+  "gfx/env/etacarinaedn.tga": {
+   "filesize": 395751,
+   "timestamp": "2009-02-25"
+  },
+  "gfx/env/etacarinaeft.tga": {
+   "filesize": 424392,
+   "timestamp": "2009-02-25"
+  },
+  "gfx/env/etacarinaelf.tga": {
+   "filesize": 123060,
+   "timestamp": "2009-02-25"
+  },
+  "gfx/env/etacarinaert.tga": {
+   "filesize": 556503,
+   "timestamp": "2009-02-25"
+  },
+  "gfx/env/etacarinaeup.tga": {
+   "filesize": 133121,
+   "timestamp": "2009-02-25"
+  },
+  "gfx/env/nebularbk.tga": {
+   "filesize": 107448,
+   "timestamp": "2009-03-24"
+  },
+  "gfx/env/nebulardn.tga": {
+   "filesize": 36083,
+   "timestamp": "2009-03-24"
+  },
+  "gfx/env/nebularft.tga": {
+   "filesize": 36083,
+   "timestamp": "2009-03-24"
+  },
+  "gfx/env/nebularlf.tga": {
+   "filesize": 36083,
+   "timestamp": "2009-03-24"
+  },
+  "gfx/env/nebularrt.tga": {
+   "filesize": 117614,
+   "timestamp": "2009-03-24"
+  },
+  "gfx/env/nebularup.tga": {
+   "filesize": 58773,
+   "timestamp": "2009-03-24"
+  },
+  "maps/coag3_ericw.bsp": {
+   "filesize": 2240640,
+   "timestamp": "2009-04-03"
+  },
+  "maps/coag3_ericw.qrk": {
+   "filesize": 521600,
+   "timestamp": "2009-04-03"
+  },
+  "maps/coag3_ericw.txt": {
+   "filesize": 181,
+   "timestamp": "2009-04-03"
+  },
+  "maps/coag3_gb.bsp": {
+   "filesize": 3619440,
+   "timestamp": "2009-04-03"
+  },
+  "maps/coag3_gb.map": {
+   "filesize": 323967,
+   "timestamp": "2009-04-03"
+  },
+  "maps/coag3_gb.txt": {
+   "filesize": 2933,
+   "timestamp": "2009-04-03"
+  },
+  "maps/coag3_rickyt23.bsp": {
+   "filesize": 4302032,
+   "timestamp": "2009-04-01"
+  },
+  "maps/coag3_rickyt23.lit": {
+   "filesize": 2658215,
+   "timestamp": "2009-04-01"
+  },
+  "maps/coag3_rickyt23.txt": {
+   "filesize": 3161,
+   "timestamp": "2009-04-01"
+  },
+  "maps/coag3_spy.bsp": {
+   "filesize": 1727200,
+   "timestamp": "2009-03-27"
+  },
+  "maps/coag3_spy.txt": {
+   "filesize": 2663,
+   "timestamp": "2009-03-27"
+  },
+  "maps/coag3_start.bsp": {
+   "filesize": 2181056,
+   "timestamp": "2009-04-03"
+  },
+  "maps/coag3_trinca.bsp": {
+   "filesize": 2602324,
+   "timestamp": "2009-03-26"
+  },
+  "maps/coag3_trinca.map": {
+   "filesize": 848500,
+   "timestamp": "2009-03-26"
+  },
+  "maps/coag3_trinca.txt": {
+   "filesize": 9615,
+   "timestamp": "2009-03-26"
+  },
+  "maps/coag3_willem.bsp": {
+   "filesize": 2220528,
+   "timestamp": "2009-04-01"
+  },
+  "maps/coag3_willem.map": {
+   "filesize": 762221,
+   "timestamp": "2009-03-31"
+  }
+ },
  "filesize": 7806,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "483a57cabadc8c9c4686177dddf698bb2d4a95bf778dfd015151b2269d6dbfe4",
  "tags": [
   "title:Coagula Mappack #3",
   "releasedate:2009-04-03",
@@ -30,137 +158,9 @@
   "startmap:coag3_trinca",
   "startmap:coag3_willem"
  ],
- "install": {
-  "extract": "{quake}/id1/"
- },
- "files": {
-  "maps/coag3_ericw.qrk": {
-   "filesize": 521600,
-   "timestamp": "2009-04-03"
-  },
-  "maps/coag3_ericw.txt": {
-   "filesize": 181,
-   "timestamp": "2009-04-03"
-  },
-  "maps/coag3_rickyt23.bsp": {
-   "filesize": 4302032,
-   "timestamp": "2009-04-01"
-  },
-  "maps/coag3_trinca.map": {
-   "filesize": 848500,
-   "timestamp": "2009-03-26"
-  },
-  "maps/coag3_trinca.txt": {
-   "filesize": 9615,
-   "timestamp": "2009-03-26"
-  },
-  "maps/coag3_willem.bsp": {
-   "filesize": 2220528,
-   "timestamp": "2009-04-01"
-  },
-  "maps/coag3_trinca.bsp": {
-   "filesize": 2602324,
-   "timestamp": "2009-03-26"
-  },
-  "maps/coag3_willem.map": {
-   "filesize": 762221,
-   "timestamp": "2009-03-31"
-  },
-  "maps/coag3_gb.map": {
-   "filesize": 323967,
-   "timestamp": "2009-04-03"
-  },
-  "maps/coag3_gb.txt": {
-   "filesize": 2933,
-   "timestamp": "2009-04-03"
-  },
-  "maps/coag3_rickyt23.lit": {
-   "filesize": 2658215,
-   "timestamp": "2009-04-01"
-  },
-  "maps/coag3_rickyt23.txt": {
-   "filesize": 3161,
-   "timestamp": "2009-04-01"
-  },
-  "maps/coag3_ericw.bsp": {
-   "filesize": 2240640,
-   "timestamp": "2009-04-03"
-  },
-  "maps/coag3_spy.txt": {
-   "filesize": 2663,
-   "timestamp": "2009-03-27"
-  },
-  "maps/coag3_spy.bsp": {
-   "filesize": 1727200,
-   "timestamp": "2009-03-27"
-  },
-  "maps/coag3_gb.bsp": {
-   "filesize": 3619440,
-   "timestamp": "2009-04-03"
-  },
-  "maps/coag3_start.bsp": {
-   "filesize": 2181056,
-   "timestamp": "2009-04-03"
-  },
-  "gfx/env/nebularbk.tga": {
-   "filesize": 107448,
-   "timestamp": "2009-03-24"
-  },
-  "gfx/env/nebularlf.tga": {
-   "filesize": 36083,
-   "timestamp": "2009-03-24"
-  },
-  "gfx/env/etacarinaelf.tga": {
-   "filesize": 123060,
-   "timestamp": "2009-02-25"
-  },
-  "gfx/env/etacarinaebk.tga": {
-   "filesize": 515841,
-   "timestamp": "2009-02-25"
-  },
-  "gfx/env/etacarinaeft.tga": {
-   "filesize": 424392,
-   "timestamp": "2009-02-25"
-  },
-  "gfx/env/nebularrt.tga": {
-   "filesize": 117614,
-   "timestamp": "2009-03-24"
-  },
-  "gfx/env/nebulardn.tga": {
-   "filesize": 36083,
-   "timestamp": "2009-03-24"
-  },
-  "gfx/env/etacarinaert.tga": {
-   "filesize": 556503,
-   "timestamp": "2009-02-25"
-  },
-  "gfx/env/etacarinaedn.tga": {
-   "filesize": 395751,
-   "timestamp": "2009-02-25"
-  },
-  "gfx/env/etacarinaeup.tga": {
-   "filesize": 133121,
-   "timestamp": "2009-02-25"
-  },
-  "gfx/env/nebularft.tga": {
-   "filesize": 36083,
-   "timestamp": "2009-03-24"
-  },
-  "gfx/env/etacarinae.txt": {
-   "filesize": 228,
-   "timestamp": "2009-04-03"
-  },
-  "gfx/env/nebularup.tga": {
-   "filesize": 58773,
-   "timestamp": "2009-03-24"
-  },
-  "coagula3_readme.txt": {
-   "filesize": 4038,
-   "timestamp": "2009-04-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/coagula3_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4/483a57cabadc8c9c4686177dddf698bb2d4a95bf778dfd015151b2269d6dbfe4/coagula3_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

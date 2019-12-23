@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d4dc58d55932950f07caa77bfef8705f2929dad501ba47b94444fc42e604ab22",
  "filename": [
   "torture.zip"
  ],
+ "files": {
+  "TORTURE.BSP": {
+   "filesize": 1069324,
+   "timestamp": "1996-10-19"
+  },
+  "TORTURE.TXT": {
+   "filesize": 7588,
+   "timestamp": "1996-10-19"
+  }
+ },
  "filesize": 456,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d4dc58d55932950f07caa77bfef8705f2929dad501ba47b94444fc42e604ab22",
  "tags": [
   "title:Torture",
   "releasedate:1996-10-19",
@@ -16,21 +28,9 @@
   "tag:small",
   "tag:mixtex"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "TORTURE.TXT": {
-   "filesize": 7588,
-   "timestamp": "1996-10-19"
-  },
-  "TORTURE.BSP": {
-   "filesize": 1069324,
-   "timestamp": "1996-10-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/torture.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d4dc58d55932950f07caa77bfef8705f2929dad501ba47b94444fc42e604ab22/torture.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

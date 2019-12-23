@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb",
  "filename": [
   "crypt2.zip"
  ],
+ "files": {
+  "crypt.bsp": {
+   "filesize": 481748,
+   "timestamp": "1997-03-11"
+  },
+  "crypt.map": {
+   "filesize": 241513,
+   "timestamp": "1997-03-11"
+  }
+ },
  "filesize": 226,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb",
  "tags": [
   "title:Crypt",
   "releasedate:1997-03-11",
@@ -16,21 +28,9 @@
   "tag:tiny",
   "startmap:crypt"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "crypt.map": {
-   "filesize": 241513,
-   "timestamp": "1997-03-11"
-  },
-  "crypt.bsp": {
-   "filesize": 481748,
-   "timestamp": "1997-03-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/crypt2.zip",
   "https://www.quaddicted.com/files/by-sha256/2/253e9a7d0ee9d84b09098bcdb518453520dff92e794297d63d10298582468edb/crypt2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

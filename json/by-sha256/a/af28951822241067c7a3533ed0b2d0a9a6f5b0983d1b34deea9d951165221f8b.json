@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "af28951822241067c7a3533ed0b2d0a9a6f5b0983d1b34deea9d951165221f8b",
  "filename": [
   "ikspq1.zip"
  ],
+ "files": {
+  "IKSPQ1.BSP": {
+   "filesize": 739196,
+   "timestamp": "1997-05-26"
+  },
+  "IKSPQ1.TXT": {
+   "filesize": 4458,
+   "timestamp": "1997-05-27"
+  }
+ },
  "filesize": 322,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "af28951822241067c7a3533ed0b2d0a9a6f5b0983d1b34deea9d951165221f8b",
  "tags": [
   "title:Before Nightfall",
   "releasedate:1997-05-27",
@@ -17,21 +29,9 @@
   "tag:series",
   "tag:mandatory secret"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "IKSPQ1.TXT": {
-   "filesize": 4458,
-   "timestamp": "1997-05-27"
-  },
-  "IKSPQ1.BSP": {
-   "filesize": 739196,
-   "timestamp": "1997-05-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/a/af28951822241067c7a3533ed0b2d0a9a6f5b0983d1b34deea9d951165221f8b/ikspq1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "39ffc75c1ba398c3219184ed7e493a8e27539a05b595e3afd759764743c2766b",
  "filename": [
   "n3_100b2.zip"
  ],
+ "files": {
+  "n3_100b.bsp": {
+   "filesize": 516656,
+   "timestamp": "2001-04-23"
+  },
+  "n3_100b.txt": {
+   "filesize": 3342,
+   "timestamp": "2001-04-23"
+  }
+ },
  "filesize": 208,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "39ffc75c1ba398c3219184ed7e493a8e27539a05b595e3afd759764743c2766b",
  "tags": [
   "title:oH gOd!",
   "releasedate:2001-04-23",
@@ -12,21 +24,9 @@
   "author:necros",
   "startmap:n3_100b"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "n3_100b.txt": {
-   "filesize": 3342,
-   "timestamp": "2001-04-23"
-  },
-  "n3_100b.bsp": {
-   "filesize": 516656,
-   "timestamp": "2001-04-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/n3_100b2.zip",
   "https://www.quaddicted.com/files/by-sha256/3/39ffc75c1ba398c3219184ed7e493a8e27539a05b595e3afd759764743c2766b/n3_100b2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "29de507b251999284187bb0ce28aaf3634a41133fd62808110d3a0991ce7d80c",
  "filename": [
   "dspirl11.zip"
  ],
+ "files": {
+  "dspirl11.bsp": {
+   "filesize": 1519408,
+   "timestamp": "1996-12-27"
+  },
+  "dspirl11.txt": {
+   "filesize": 5564,
+   "timestamp": "1996-12-27"
+  }
+ },
  "filesize": 629,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "29de507b251999284187bb0ce28aaf3634a41133fd62808110d3a0991ce7d80c",
  "tags": [
   "title:The Downward Spiral",
   "releasedate:1996-12-27",
@@ -20,21 +32,9 @@
   "tag:canyon",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dspirl11.bsp": {
-   "filesize": 1519408,
-   "timestamp": "1996-12-27"
-  },
-  "dspirl11.txt": {
-   "filesize": 5564,
-   "timestamp": "1996-12-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dspirl11.zip",
   "https://www.quaddicted.com/files/by-sha256/2/29de507b251999284187bb0ce28aaf3634a41133fd62808110d3a0991ce7d80c/dspirl11.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

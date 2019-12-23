@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "6421a96be778c36418fabe065f49d11adbd8661f8d7b82e2bf5a7bed09f95137",
  "filename": [
   "coagulacontest2.zip"
  ],
+ "files": {
+  "docs/chain3.txt": {
+   "filesize": 2605,
+   "timestamp": "2003-08-09"
+  },
+  "docs/coagula_2_readme.txt": {
+   "filesize": 1918,
+   "timestamp": "2003-08-13"
+  },
+  "docs/discoag2.txt": {
+   "filesize": 5587,
+   "timestamp": "2003-08-09"
+  },
+  "docs/jesusjones.txt": {
+   "filesize": 622,
+   "timestamp": "2003-07-18"
+  },
+  "docs/nesp10.txt": {
+   "filesize": 4294,
+   "timestamp": "2003-08-09"
+  },
+  "docs/progs.txt": {
+   "filesize": 424,
+   "timestamp": "2003-08-09"
+  },
+  "docs/pushcoag.txt": {
+   "filesize": 1784,
+   "timestamp": "2003-08-09"
+  },
+  "docs/tyrcoag.txt": {
+   "filesize": 2209,
+   "timestamp": "2003-08-09"
+  },
+  "pak0.pak": {
+   "filesize": 14810811,
+   "timestamp": "2003-08-09"
+  }
+ },
  "filesize": 5220,
+ "install": {
+  "extract": "{quake}/coagulacontest2/"
+ },
+ "sha256": "6421a96be778c36418fabe065f49d11adbd8661f8d7b82e2bf5a7bed09f95137",
  "tags": [
   "title:The Coagula Contest 2",
   "releasedate:2003-08-13",
@@ -29,49 +69,9 @@
   "startmap:pushcoag",
   "startmap:tyrcoag"
  ],
- "install": {
-  "extract": "{quake}/coagulacontest2/"
- },
- "files": {
-  "pak0.pak": {
-   "filesize": 14810811,
-   "timestamp": "2003-08-09"
-  },
-  "docs/coagula_2_readme.txt": {
-   "filesize": 1918,
-   "timestamp": "2003-08-13"
-  },
-  "docs/chain3.txt": {
-   "filesize": 2605,
-   "timestamp": "2003-08-09"
-  },
-  "docs/pushcoag.txt": {
-   "filesize": 1784,
-   "timestamp": "2003-08-09"
-  },
-  "docs/tyrcoag.txt": {
-   "filesize": 2209,
-   "timestamp": "2003-08-09"
-  },
-  "docs/discoag2.txt": {
-   "filesize": 5587,
-   "timestamp": "2003-08-09"
-  },
-  "docs/nesp10.txt": {
-   "filesize": 4294,
-   "timestamp": "2003-08-09"
-  },
-  "docs/jesusjones.txt": {
-   "filesize": 622,
-   "timestamp": "2003-07-18"
-  },
-  "docs/progs.txt": {
-   "filesize": 424,
-   "timestamp": "2003-08-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/coagulacontest2.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6421a96be778c36418fabe065f49d11adbd8661f8d7b82e2bf5a7bed09f95137/coagulacontest2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

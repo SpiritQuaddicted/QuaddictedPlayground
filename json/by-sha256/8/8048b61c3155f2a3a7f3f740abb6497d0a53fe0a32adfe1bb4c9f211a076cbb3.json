@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8048b61c3155f2a3a7f3f740abb6497d0a53fe0a32adfe1bb4c9f211a076cbb3",
  "filename": [
   "mexx10.zip"
  ],
+ "files": {
+  "MEXX10.TXT": {
+   "filesize": 25556,
+   "timestamp": "1997-12-10"
+  },
+  "PAK0.PAK": {
+   "filesize": 7197455,
+   "timestamp": "1997-12-10"
+  }
+ },
  "filesize": 3473,
+ "install": {
+  "extract": "{quake}/mexx10/"
+ },
+ "sha256": "8048b61c3155f2a3a7f3f740abb6497d0a53fe0a32adfe1bb4c9f211a076cbb3",
  "tags": [
   "title:The Cassandra Calamity",
   "releasedate:1997-12-10",
@@ -17,21 +29,9 @@
   "tag:special effects",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/mexx10/"
- },
- "files": {
-  "PAK0.PAK": {
-   "filesize": 7197455,
-   "timestamp": "1997-12-10"
-  },
-  "MEXX10.TXT": {
-   "filesize": 25556,
-   "timestamp": "1997-12-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mexx10.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8048b61c3155f2a3a7f3f740abb6497d0a53fe0a32adfe1bb4c9f211a076cbb3/mexx10.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

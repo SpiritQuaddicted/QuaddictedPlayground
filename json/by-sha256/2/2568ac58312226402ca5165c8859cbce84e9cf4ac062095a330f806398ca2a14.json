@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2568ac58312226402ca5165c8859cbce84e9cf4ac062095a330f806398ca2a14",
  "filename": [
   "slipcomp.zip"
  ],
+ "files": {
+  "SlipComp.txt": {
+   "filesize": 2679,
+   "timestamp": "1997-03-27"
+  },
+  "slipcomp.bsp": {
+   "filesize": 848028,
+   "timestamp": "1997-03-26"
+  }
+ },
  "filesize": 357,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2568ac58312226402ca5165c8859cbce84e9cf4ac062095a330f806398ca2a14",
  "tags": [
   "title:Slipgate research complex",
   "releasedate:1997-03-27",
@@ -16,21 +28,9 @@
   "tag:dark",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "slipcomp.bsp": {
-   "filesize": 848028,
-   "timestamp": "1997-03-26"
-  },
-  "SlipComp.txt": {
-   "filesize": 2679,
-   "timestamp": "1997-03-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/slipcomp.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2568ac58312226402ca5165c8859cbce84e9cf4ac062095a330f806398ca2a14/slipcomp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

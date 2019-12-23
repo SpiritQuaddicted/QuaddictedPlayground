@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d9a8fdaf633da6ba017d8c1e1b88fc89c5fa6dc0765efeb5191c02061beb7920",
  "filename": [
   "darkfst.zip"
  ],
+ "files": {
+  "DARKFST.BSP": {
+   "filesize": 2829548,
+   "timestamp": "1996-12-17"
+  },
+  "DARKFST.TXT": {
+   "filesize": 2584,
+   "timestamp": "1997-01-13"
+  }
+ },
  "filesize": 1152,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d9a8fdaf633da6ba017d8c1e1b88fc89c5fa6dc0765efeb5191c02061beb7920",
  "tags": [
   "title:Dark Forest",
   "releasedate:1997-01-13",
@@ -20,21 +32,9 @@
   "tag:swamp",
   "tag:textures"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "DARKFST.BSP": {
-   "filesize": 2829548,
-   "timestamp": "1996-12-17"
-  },
-  "DARKFST.TXT": {
-   "filesize": 2584,
-   "timestamp": "1997-01-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/darkfst.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d9a8fdaf633da6ba017d8c1e1b88fc89c5fa6dc0765efeb5191c02061beb7920/darkfst.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

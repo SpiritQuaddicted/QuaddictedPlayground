@@ -1,31 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759",
  "filename": [
   "contract_2.zip"
  ],
- "filesize": 5064,
- "tags": [
-  "title:The Contract",
-  "releasedate:2017-07-08",
-  "game:quake",
-  "commandline:-game contract",
-  "author:Serge Jaeken",
-  "tag:medium",
-  "tag:knave",
-  "tag:church",
-  "tag:cathedral",
-  "tag:crypt",
-  "tag:tomb",
-  "tag:spacemap",
-  "tag:skybox",
-  "tag:limits",
-  "startmap:intro",
-  "startmap:contract"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "changelog.txt": {
    "filesize": 63,
@@ -76,8 +52,32 @@
    "timestamp": "2017-07-08"
   }
  },
+ "filesize": 5064,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759",
+ "tags": [
+  "title:The Contract",
+  "releasedate:2017-07-08",
+  "game:quake",
+  "commandline:-game contract",
+  "author:Serge Jaeken",
+  "tag:medium",
+  "tag:knave",
+  "tag:church",
+  "tag:cathedral",
+  "tag:crypt",
+  "tag:tomb",
+  "tag:spacemap",
+  "tag:skybox",
+  "tag:limits",
+  "startmap:intro",
+  "startmap:contract"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/contract_2.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759/contract_2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

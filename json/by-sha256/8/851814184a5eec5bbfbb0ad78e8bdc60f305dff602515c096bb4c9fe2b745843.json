@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "851814184a5eec5bbfbb0ad78e8bdc60f305dff602515c096bb4c9fe2b745843",
  "filename": [
   "dnspq1.zip"
  ],
+ "files": {
+  "dnspq1.bsp": {
+   "filesize": 717328,
+   "timestamp": "1998-03-19"
+  }
+ },
  "filesize": 291,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "851814184a5eec5bbfbb0ad78e8bdc60f305dff602515c096bb4c9fe2b745843",
  "tags": [
   "title:Dark, Blue, Scary",
   "releasedate:1998-03-19",
@@ -14,17 +22,9 @@
   "tag:ikblue",
   "tag:water"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dnspq1.bsp": {
-   "filesize": 717328,
-   "timestamp": "1998-03-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dnspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/8/851814184a5eec5bbfbb0ad78e8bdc60f305dff602515c096bb4c9fe2b745843/dnspq1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

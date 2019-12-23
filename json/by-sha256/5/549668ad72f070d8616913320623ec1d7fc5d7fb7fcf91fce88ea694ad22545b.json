@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b",
  "filename": [
   "prodigy_se.zip"
  ],
+ "files": {
+  "P_se.txt.txt": {
+   "filesize": 9369,
+   "timestamp": "1997-05-05"
+  },
+  "Pak0.pak": {
+   "filesize": 10527680,
+   "timestamp": "1997-05-05"
+  }
+ },
  "filesize": 4477,
+ "install": {
+  "extract": "{quake}/pse/"
+ },
+ "sha256": "549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b",
  "tags": [
   "title:Prodigy Special Edition",
   "releasedate:1997-05-03",
@@ -22,21 +34,9 @@
   "tag:music",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/pse/"
- },
- "files": {
-  "P_se.txt.txt": {
-   "filesize": 9369,
-   "timestamp": "1997-05-05"
-  },
-  "Pak0.pak": {
-   "filesize": 10527680,
-   "timestamp": "1997-05-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/prodigy_se.zip",
   "https://www.quaddicted.com/files/by-sha256/5/549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b/prodigy_se.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

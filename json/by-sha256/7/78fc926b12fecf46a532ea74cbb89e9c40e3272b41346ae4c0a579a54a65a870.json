@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870",
  "filename": [
   "dmc1.zip"
  ],
+ "files": {
+  "dmc1.txt": {
+   "filesize": 3035,
+   "timestamp": "2003-12-18"
+  },
+  "dmc1m1.bsp": {
+   "filesize": 610400,
+   "timestamp": "2003-12-07"
+  },
+  "dmc1m2.bsp": {
+   "filesize": 681244,
+   "timestamp": "2003-12-07"
+  },
+  "dmc1m3.bsp": {
+   "filesize": 489192,
+   "timestamp": "2003-12-07"
+  },
+  "dmc1m4.bsp": {
+   "filesize": 1589936,
+   "timestamp": "2003-12-14"
+  },
+  "dmc1m5.bsp": {
+   "filesize": 656184,
+   "timestamp": "2003-12-11"
+  },
+  "dmc1m6.bsp": {
+   "filesize": 359744,
+   "timestamp": "2003-12-11"
+  },
+  "dmc1m7.bsp": {
+   "filesize": 625844,
+   "timestamp": "2003-12-11"
+  }
+ },
  "filesize": 2127,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870",
  "tags": [
   "title:Deathmatch Classics Vol. 1",
   "releasedate:2003-12-18",
@@ -32,45 +68,9 @@
   "startmap:dmc1m6",
   "startmap:dmc1m7"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dmc1m7.bsp": {
-   "filesize": 625844,
-   "timestamp": "2003-12-11"
-  },
-  "dmc1m5.bsp": {
-   "filesize": 656184,
-   "timestamp": "2003-12-11"
-  },
-  "dmc1m3.bsp": {
-   "filesize": 489192,
-   "timestamp": "2003-12-07"
-  },
-  "dmc1.txt": {
-   "filesize": 3035,
-   "timestamp": "2003-12-18"
-  },
-  "dmc1m6.bsp": {
-   "filesize": 359744,
-   "timestamp": "2003-12-11"
-  },
-  "dmc1m2.bsp": {
-   "filesize": 681244,
-   "timestamp": "2003-12-07"
-  },
-  "dmc1m1.bsp": {
-   "filesize": 610400,
-   "timestamp": "2003-12-07"
-  },
-  "dmc1m4.bsp": {
-   "filesize": 1589936,
-   "timestamp": "2003-12-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dmc1.zip",
   "https://www.quaddicted.com/files/by-sha256/7/78fc926b12fecf46a532ea74cbb89e9c40e3272b41346ae4c0a579a54a65a870/dmc1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

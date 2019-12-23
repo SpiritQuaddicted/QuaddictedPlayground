@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6569692c294ce8710d4ab5c1c4da38d69a3316b9b774b281b64d2683cfdaad08",
  "filename": [
   "rin1m1.zip"
  ],
- "filesize": 869,
- "tags": [
-  "title:Stalwart Stone",
-  "releasedate:2017-07-16",
-  "game:quake",
-  "author:Qmaster",
-  "tag:small",
-  "tag:wizard",
-  "tag:ebon",
-  "tag:tribute",
-  "tag:traps",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "rin1m1.bsp": {
    "filesize": 2029901,
@@ -34,8 +16,26 @@
    "timestamp": "2017-07-16"
   }
  },
+ "filesize": 869,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6569692c294ce8710d4ab5c1c4da38d69a3316b9b774b281b64d2683cfdaad08",
+ "tags": [
+  "title:Stalwart Stone",
+  "releasedate:2017-07-16",
+  "game:quake",
+  "author:Qmaster",
+  "tag:small",
+  "tag:wizard",
+  "tag:ebon",
+  "tag:tribute",
+  "tag:traps",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/rin1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6569692c294ce8710d4ab5c1c4da38d69a3316b9b774b281b64d2683cfdaad08/rin1m1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

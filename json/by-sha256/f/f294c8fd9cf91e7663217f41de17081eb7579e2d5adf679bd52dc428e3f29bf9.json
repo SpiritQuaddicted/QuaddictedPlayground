@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9",
  "filename": [
   "precipice_continuum.zip"
  ],
+ "files": {
+  "precipice.txt": {
+   "filesize": 2465,
+   "timestamp": "2001-07-03"
+  },
+  "precon.bsp": {
+   "filesize": 2480556,
+   "timestamp": "2001-07-03"
+  }
+ },
  "filesize": 991,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9",
  "tags": [
   "title:Precipice Continuum",
   "releasedate:2001-07-03",
@@ -20,21 +32,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:precon"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "precipice.txt": {
-   "filesize": 2465,
-   "timestamp": "2001-07-03"
-  },
-  "precon.bsp": {
-   "filesize": 2480556,
-   "timestamp": "2001-07-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/precipice_continuum.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f294c8fd9cf91e7663217f41de17081eb7579e2d5adf679bd52dc428e3f29bf9/precipice_continuum.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

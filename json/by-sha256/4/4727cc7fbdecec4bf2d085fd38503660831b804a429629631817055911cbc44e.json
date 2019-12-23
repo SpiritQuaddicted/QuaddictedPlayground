@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4727cc7fbdecec4bf2d085fd38503660831b804a429629631817055911cbc44e",
  "filename": [
   "supmut.zip"
  ],
- "filesize": 107,
- "tags": [
-  "title:Supmut",
-  "releasedate:2000-09-25",
-  "game:quake",
-  "author:digs",
-  "tag:small",
-  "tag:mixtex",
-  "tag:bricks",
-  "tag:arena"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "supmut.bsp": {
    "filesize": 234604,
@@ -28,8 +12,24 @@
    "timestamp": "2012-05-13"
   }
  },
+ "filesize": 107,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4727cc7fbdecec4bf2d085fd38503660831b804a429629631817055911cbc44e",
+ "tags": [
+  "title:Supmut",
+  "releasedate:2000-09-25",
+  "game:quake",
+  "author:digs",
+  "tag:small",
+  "tag:mixtex",
+  "tag:bricks",
+  "tag:arena"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/supmut.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4727cc7fbdecec4bf2d085fd38503660831b804a429629631817055911cbc44e/supmut.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

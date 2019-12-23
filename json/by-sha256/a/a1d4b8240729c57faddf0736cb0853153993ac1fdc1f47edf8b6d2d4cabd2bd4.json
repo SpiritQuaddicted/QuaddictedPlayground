@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4",
  "filename": [
   "sm109.zip"
  ],
+ "files": {
+  "sm109/sm107_generic.bsp": {
+   "filesize": 327556,
+   "timestamp": "2005-10-30"
+  },
+  "sm109/sm109_drew.bsp": {
+   "filesize": 633928,
+   "timestamp": "2005-10-30"
+  },
+  "sm109/sm109_generic.bsp": {
+   "filesize": 448932,
+   "timestamp": "2005-10-30"
+  },
+  "sm109/sm109_ht.bsp": {
+   "filesize": 1439512,
+   "timestamp": "2005-10-30"
+  },
+  "sm109/sm109_trinca.bsp": {
+   "filesize": 265104,
+   "timestamp": "2005-10-27"
+  },
+  "sm109/sm109_zwiffle.bsp": {
+   "filesize": 276600,
+   "timestamp": "2005-10-30"
+  }
+ },
  "filesize": 1063,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4",
  "tags": [
   "title:Speedmapping pack 109 - Unthemed",
   "releasedate:2005-10-30",
@@ -15,37 +43,9 @@
   "author:Trinca",
   "author:Zwiffle"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm109/sm109_drew.bsp": {
-   "filesize": 633928,
-   "timestamp": "2005-10-30"
-  },
-  "sm109/sm109_generic.bsp": {
-   "filesize": 448932,
-   "timestamp": "2005-10-30"
-  },
-  "sm109/sm107_generic.bsp": {
-   "filesize": 327556,
-   "timestamp": "2005-10-30"
-  },
-  "sm109/sm109_ht.bsp": {
-   "filesize": 1439512,
-   "timestamp": "2005-10-30"
-  },
-  "sm109/sm109_zwiffle.bsp": {
-   "filesize": 276600,
-   "timestamp": "2005-10-30"
-  },
-  "sm109/sm109_trinca.bsp": {
-   "filesize": 265104,
-   "timestamp": "2005-10-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm109.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4/sm109.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

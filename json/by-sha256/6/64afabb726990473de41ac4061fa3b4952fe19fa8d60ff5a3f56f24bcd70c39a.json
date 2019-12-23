@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a",
  "filename": [
   "temple_e1.zip"
  ],
+ "files": {
+  "e1.bsp": {
+   "filesize": 1853044,
+   "timestamp": "1998-08-22"
+  },
+  "e1.txt": {
+   "filesize": 1117,
+   "timestamp": "1999-01-03"
+  }
+ },
  "filesize": 699,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a",
  "tags": [
   "title:The Temple",
   "releasedate:1999-01-03",
@@ -16,21 +28,9 @@
   "tag:hexen2",
   "startmap:e1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "e1.bsp": {
-   "filesize": 1853044,
-   "timestamp": "1998-08-22"
-  },
-  "e1.txt": {
-   "filesize": 1117,
-   "timestamp": "1999-01-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/temple_e1.zip",
   "https://www.quaddicted.com/files/by-sha256/6/64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a/temple_e1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

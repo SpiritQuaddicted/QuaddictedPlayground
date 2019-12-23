@@ -1,32 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8e5c3633a1fe3607503673a49c2b57469f5d00c61f6909d830d8c73b3bf1bf33",
  "filename": [
   "sm195_pack.zip"
  ],
- "filesize": 10103,
- "tags": [
-  "title:Speedmapping pack 195 - Gotto go fast",
-  "releasedate:2019-05-02",
-  "game:quake",
-  "author:Artistical",
-  "author:Fairweather",
-  "author:Ing-ing",
-  "author:Pinchy",
-  "author:Sankyou",
-  "author:Yoder",
-  "author:Zungryware",
-  "startmap:sm195_artistical",
-  "startmap:sm195_fairweather",
-  "startmap:sm195_ing",
-  "startmap:sm195_pinchy",
-  "startmap:sm195_sankyou",
-  "startmap:sm195_yoder",
-  "startmap:sm195_zungryware"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "docs/sm195_pinchy.txt": {
    "filesize": 2400,
@@ -141,8 +116,33 @@
    "timestamp": "2019-05-02"
   }
  },
+ "filesize": 10103,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "8e5c3633a1fe3607503673a49c2b57469f5d00c61f6909d830d8c73b3bf1bf33",
+ "tags": [
+  "title:Speedmapping pack 195 - Gotto go fast",
+  "releasedate:2019-05-02",
+  "game:quake",
+  "author:Artistical",
+  "author:Fairweather",
+  "author:Ing-ing",
+  "author:Pinchy",
+  "author:Sankyou",
+  "author:Yoder",
+  "author:Zungryware",
+  "startmap:sm195_artistical",
+  "startmap:sm195_fairweather",
+  "startmap:sm195_ing",
+  "startmap:sm195_pinchy",
+  "startmap:sm195_sankyou",
+  "startmap:sm195_yoder",
+  "startmap:sm195_zungryware"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm195_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8e5c3633a1fe3607503673a49c2b57469f5d00c61f6909d830d8c73b3bf1bf33/sm195_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

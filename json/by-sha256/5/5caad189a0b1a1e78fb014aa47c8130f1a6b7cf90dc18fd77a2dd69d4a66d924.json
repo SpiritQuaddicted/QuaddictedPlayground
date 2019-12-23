@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "5caad189a0b1a1e78fb014aa47c8130f1a6b7cf90dc18fd77a2dd69d4a66d924",
  "filename": [
   "rathole2.zip"
  ],
- "filesize": 264,
- "tags": [
-  "title:Son of The Rat Hole",
-  "releasedate:1997-03-28",
-  "game:quake",
-  "author:Zdim",
-  "tag:small",
-  "tag:metal",
-  "tag:tiny",
-  "tag:vertical",
-  "tag:dm",
-  "startmap:rathole2"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "RATHOLE.BSP": {
    "filesize": 350892,
@@ -38,8 +20,26 @@
    "timestamp": "1997-03-28"
   }
  },
+ "filesize": 264,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5caad189a0b1a1e78fb014aa47c8130f1a6b7cf90dc18fd77a2dd69d4a66d924",
+ "tags": [
+  "title:Son of The Rat Hole",
+  "releasedate:1997-03-28",
+  "game:quake",
+  "author:Zdim",
+  "tag:small",
+  "tag:metal",
+  "tag:tiny",
+  "tag:vertical",
+  "tag:dm",
+  "startmap:rathole2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/rathole2.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5caad189a0b1a1e78fb014aa47c8130f1a6b7cf90dc18fd77a2dd69d4a66d924/rathole2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

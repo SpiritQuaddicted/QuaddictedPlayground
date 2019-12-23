@@ -1,40 +1,12 @@
 {
- "version": "20191222-0",
- "sha256": "3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7",
  "filename": [
   "arcanum.zip"
  ],
- "filesize": 18975,
- "tags": [
-  "title:Arcanum",
-  "releasedate:2011-05-06",
-  "game:quake",
-  "commandline:-heapsize 64000 -game something_wicked",
-  "author:Tronyn",
-  "author:PulSaR",
-  "author:PM",
-  "tag:large",
-  "tag:episode",
-  "tag:medieval",
-  "tag:ikblue",
-  "tag:epic",
-  "tag:hard",
-  "tag:monsters",
-  "tag:weapons",
-  "tag:drake",
-  "tag:knave",
-  "dependency:something_wicked",
-  "startmap:arcstart",
-  "startmap:arcanum1",
-  "startmap:arcanum2",
-  "startmap:arcanum3",
-  "startmap:arcanum4",
-  "startmap:arcanum5"
- ],
- "install": {
-  "extract": "{quake}/drake/"
- },
  "files": {
+  "arcanum_v11.txt": {
+   "filesize": 200,
+   "timestamp": "2011-05-08"
+  },
   "arcanumreadme.txt": {
    "filesize": 3698,
    "timestamp": "2011-05-04"
@@ -106,14 +78,42 @@
   "sound/music/warpc.wav": {
    "filesize": 1783948,
    "timestamp": "2008-11-30"
-  },
-  "arcanum_v11.txt": {
-   "filesize": 200,
-   "timestamp": "2011-05-08"
   }
  },
+ "filesize": 18975,
+ "install": {
+  "extract": "{quake}/drake/"
+ },
+ "sha256": "3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7",
+ "tags": [
+  "title:Arcanum",
+  "releasedate:2011-05-06",
+  "game:quake",
+  "commandline:-heapsize 64000 -game something_wicked",
+  "author:Tronyn",
+  "author:PulSaR",
+  "author:PM",
+  "tag:large",
+  "tag:episode",
+  "tag:medieval",
+  "tag:ikblue",
+  "tag:epic",
+  "tag:hard",
+  "tag:monsters",
+  "tag:weapons",
+  "tag:drake",
+  "tag:knave",
+  "dependency:something_wicked",
+  "startmap:arcstart",
+  "startmap:arcanum1",
+  "startmap:arcanum2",
+  "startmap:arcanum3",
+  "startmap:arcanum4",
+  "startmap:arcanum5"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/arcanum.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7/arcanum.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

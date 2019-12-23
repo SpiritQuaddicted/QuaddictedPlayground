@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "fea169a6c8bb38963bd03a36937e238e483af3eb908d33ce6eaa730252bec3b7",
  "filename": [
   "tww.zip"
  ],
- "filesize": 538,
- "tags": [
-  "title:The Warefare Warehouse",
-  "releasedate:1997-03-12",
-  "game:quake",
-  "author:Ludovic Texier",
-  "tag:base",
-  "tag:small",
-  "tag:source",
-  "tag:dm"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "SHRAKLIC.TXT": {
    "filesize": 8527,
@@ -36,8 +20,24 @@
    "timestamp": "1997-03-12"
   }
  },
+ "filesize": 538,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "fea169a6c8bb38963bd03a36937e238e483af3eb908d33ce6eaa730252bec3b7",
+ "tags": [
+  "title:The Warefare Warehouse",
+  "releasedate:1997-03-12",
+  "game:quake",
+  "author:Ludovic Texier",
+  "tag:base",
+  "tag:small",
+  "tag:source",
+  "tag:dm"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/tww.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fea169a6c8bb38963bd03a36937e238e483af3eb908d33ce6eaa730252bec3b7/tww.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

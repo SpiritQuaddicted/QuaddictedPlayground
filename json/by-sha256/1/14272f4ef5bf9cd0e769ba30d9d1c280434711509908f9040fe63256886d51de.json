@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "14272f4ef5bf9cd0e769ba30d9d1c280434711509908f9040fe63256886d51de",
  "filename": [
   "dethcrch.zip"
  ],
+ "files": {
+  "CHURCH.BSP": {
+   "filesize": 1010252,
+   "timestamp": "1997-02-19"
+  },
+  "CHURCH.TXT": {
+   "filesize": 5183,
+   "timestamp": "1997-02-19"
+  },
+  "SETSKILL.BSP": {
+   "filesize": 253636,
+   "timestamp": "1997-02-12"
+  },
+  "SETSKILL.TXT": {
+   "filesize": 2076,
+   "timestamp": "1997-02-13"
+  }
+ },
  "filesize": 535,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "14272f4ef5bf9cd0e769ba30d9d1c280434711509908f9040fe63256886d51de",
  "tags": [
   "title:Death Church",
   "releasedate:1997-02-19",
@@ -18,29 +38,9 @@
   "tag:tricks",
   "startmap:setskill"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CHURCH.BSP": {
-   "filesize": 1010252,
-   "timestamp": "1997-02-19"
-  },
-  "CHURCH.TXT": {
-   "filesize": 5183,
-   "timestamp": "1997-02-19"
-  },
-  "SETSKILL.TXT": {
-   "filesize": 2076,
-   "timestamp": "1997-02-13"
-  },
-  "SETSKILL.BSP": {
-   "filesize": 253636,
-   "timestamp": "1997-02-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dethcrch.zip",
   "https://www.quaddicted.com/files/by-sha256/1/14272f4ef5bf9cd0e769ba30d9d1c280434711509908f9040fe63256886d51de/dethcrch.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "beab36f57d83d28474d2ce9afe5ab8568c3918e5e8591e8d985470b087498d98",
  "filename": [
   "lbase.zip"
  ],
+ "files": {
+  "lbase.bsp": {
+   "filesize": 963756,
+   "timestamp": "1996-08-23"
+  },
+  "lbase_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 382,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "beab36f57d83d28474d2ce9afe5ab8568c3918e5e8591e8d985470b087498d98",
  "tags": [
   "title:The Lost Base",
   "releasedate:1996-08-23",
@@ -16,21 +28,9 @@
   "tag:small",
   "tag:underground"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "lbase.bsp": {
-   "filesize": 963756,
-   "timestamp": "1996-08-23"
-  },
-  "lbase_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lbase.zip",
   "https://www.quaddicted.com/files/by-sha256/b/beab36f57d83d28474d2ce9afe5ab8568c3918e5e8591e8d985470b087498d98/lbase.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

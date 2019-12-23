@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "633a40d9bff999f8b557654e17fdc02a7eecb13abcc6dcc7faab683aca0668f3",
  "filename": [
   "cope.zip"
  ],
+ "files": {
+  "COPE.BSP": {
+   "filesize": 668828,
+   "timestamp": "1996-10-02"
+  },
+  "COPE.TXT": {
+   "filesize": 2885,
+   "timestamp": "1996-10-02"
+  }
+ },
  "filesize": 281,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "633a40d9bff999f8b557654e17fdc02a7eecb13abcc6dcc7faab683aca0668f3",
  "tags": [
   "title:Cope's first",
   "releasedate:1996-10-02",
@@ -13,21 +25,9 @@
   "tag:small",
   "tag:base"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "COPE.TXT": {
-   "filesize": 2885,
-   "timestamp": "1996-10-02"
-  },
-  "COPE.BSP": {
-   "filesize": 668828,
-   "timestamp": "1996-10-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cope.zip",
   "https://www.quaddicted.com/files/by-sha256/6/633a40d9bff999f8b557654e17fdc02a7eecb13abcc6dcc7faab683aca0668f3/cope.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

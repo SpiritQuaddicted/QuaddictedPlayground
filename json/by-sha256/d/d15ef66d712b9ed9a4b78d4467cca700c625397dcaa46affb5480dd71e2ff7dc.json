@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d15ef66d712b9ed9a4b78d4467cca700c625397dcaa46affb5480dd71e2ff7dc",
  "filename": [
   "evspq1.zip"
  ],
+ "files": {
+  "evspq1.bsp": {
+   "filesize": 2366096,
+   "timestamp": "2003-12-19"
+  },
+  "evspq1.txt": {
+   "filesize": 1697,
+   "timestamp": "2003-12-19"
+  }
+ },
  "filesize": 943,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d15ef66d712b9ed9a4b78d4467cca700c625397dcaa46affb5480dd71e2ff7dc",
  "tags": [
   "title:A Subtle Dagger",
   "releasedate:2003-12-19",
@@ -18,21 +30,9 @@
   "tag:simple",
   "tag:medium"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "evspq1.bsp": {
-   "filesize": 2366096,
-   "timestamp": "2003-12-19"
-  },
-  "evspq1.txt": {
-   "filesize": 1697,
-   "timestamp": "2003-12-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/evspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d15ef66d712b9ed9a4b78d4467cca700c625397dcaa46affb5480dd71e2ff7dc/evspq1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

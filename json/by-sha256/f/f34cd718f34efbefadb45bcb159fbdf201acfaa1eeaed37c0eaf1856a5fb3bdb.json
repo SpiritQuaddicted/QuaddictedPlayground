@@ -1,31 +1,14 @@
 {
- "version": "20191222-0",
- "sha256": "f34cd718f34efbefadb45bcb159fbdf201acfaa1eeaed37c0eaf1856a5fb3bdb",
  "filename": [
   "alk12.zip"
  ],
- "filesize": 4235,
- "tags": [
-  "title:Fearcraft",
-  "releasedate:2002-08-25",
-  "game:quake",
-  "commandline:-game alk12",
-  "author:Shaun [Kona] Ross",
-  "tag:fantasy",
-  "tag:castle",
-  "tag:industrial",
-  "tag:mini episode"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
-  "alk12/alk12.jpg": {
-   "filesize": 60152,
-   "timestamp": "2002-08-25"
-  },
   "alk12/alk12.html": {
    "filesize": 12286,
+   "timestamp": "2002-08-25"
+  },
+  "alk12/alk12.jpg": {
+   "filesize": 60152,
    "timestamp": "2002-08-25"
   },
   "alk12/alk12.txt": {
@@ -37,8 +20,25 @@
    "timestamp": "2002-03-09"
   }
  },
+ "filesize": 4235,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "f34cd718f34efbefadb45bcb159fbdf201acfaa1eeaed37c0eaf1856a5fb3bdb",
+ "tags": [
+  "title:Fearcraft",
+  "releasedate:2002-08-25",
+  "game:quake",
+  "commandline:-game alk12",
+  "author:Shaun [Kona] Ross",
+  "tag:fantasy",
+  "tag:castle",
+  "tag:industrial",
+  "tag:mini episode"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/alk12.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f34cd718f34efbefadb45bcb159fbdf201acfaa1eeaed37c0eaf1856a5fb3bdb/alk12.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

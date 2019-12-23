@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "15c4d21242b7d0a38a6a01d1354d919494818f529ddae21d70b95870ea32970f",
  "filename": [
   "rettear.zip"
  ],
+ "files": {
+  "rettear.bsp": {
+   "filesize": 1752064,
+   "timestamp": "1997-05-25"
+  },
+  "rettear.txt": {
+   "filesize": 2213,
+   "timestamp": "1997-05-25"
+  }
+ },
  "filesize": 1713,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "15c4d21242b7d0a38a6a01d1354d919494818f529ddae21d70b95870ea32970f",
  "tags": [
   "title:Retinal Tear",
   "releasedate:1997-05-25",
@@ -14,21 +26,9 @@
   "tag:teleporters",
   "tag:brown"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "rettear.txt": {
-   "filesize": 2213,
-   "timestamp": "1997-05-25"
-  },
-  "rettear.bsp": {
-   "filesize": 1752064,
-   "timestamp": "1997-05-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rettear.zip",
   "https://www.quaddicted.com/files/by-sha256/1/15c4d21242b7d0a38a6a01d1354d919494818f529ddae21d70b95870ea32970f/rettear.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

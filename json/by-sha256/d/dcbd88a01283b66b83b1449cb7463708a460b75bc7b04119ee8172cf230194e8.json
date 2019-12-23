@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "dcbd88a01283b66b83b1449cb7463708a460b75bc7b04119ee8172cf230194e8",
  "filename": [
   "sm19_pack.zip"
  ],
+ "files": {
+  "sm19_ap.bsp": {
+   "filesize": 256924,
+   "timestamp": "2001-06-02"
+  },
+  "sm19_blitz.bsp": {
+   "filesize": 295688,
+   "timestamp": "2001-06-02"
+  },
+  "sm19_daz.bsp": {
+   "filesize": 578532,
+   "timestamp": "2001-06-02"
+  },
+  "sm19_lun.bsp": {
+   "filesize": 1049288,
+   "timestamp": "2001-06-02"
+  },
+  "sm19_miikka.bsp": {
+   "filesize": 496684,
+   "timestamp": "2001-06-02"
+  },
+  "sm19_misyu.bsp": {
+   "filesize": 497440,
+   "timestamp": "2001-06-02"
+  },
+  "sm19_pack.txt": {
+   "filesize": 2576,
+   "timestamp": "2001-06-04"
+  },
+  "sm19_xenon.bsp": {
+   "filesize": 727570,
+   "timestamp": "2001-05-29"
+  }
+ },
  "filesize": 1312,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dcbd88a01283b66b83b1449cb7463708a460b75bc7b04119ee8172cf230194e8",
  "tags": [
   "title:Speedmapping pack 19 - Unthemed",
   "releasedate:2001-06-04",
@@ -24,45 +60,9 @@
   "startmap:sm19_miikka",
   "startmap:sm19_daz"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm19_miikka.bsp": {
-   "filesize": 496684,
-   "timestamp": "2001-06-02"
-  },
-  "sm19_daz.bsp": {
-   "filesize": 578532,
-   "timestamp": "2001-06-02"
-  },
-  "sm19_pack.txt": {
-   "filesize": 2576,
-   "timestamp": "2001-06-04"
-  },
-  "sm19_misyu.bsp": {
-   "filesize": 497440,
-   "timestamp": "2001-06-02"
-  },
-  "sm19_blitz.bsp": {
-   "filesize": 295688,
-   "timestamp": "2001-06-02"
-  },
-  "sm19_ap.bsp": {
-   "filesize": 256924,
-   "timestamp": "2001-06-02"
-  },
-  "sm19_lun.bsp": {
-   "filesize": 1049288,
-   "timestamp": "2001-06-02"
-  },
-  "sm19_xenon.bsp": {
-   "filesize": 727570,
-   "timestamp": "2001-05-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm19_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dcbd88a01283b66b83b1449cb7463708a460b75bc7b04119ee8172cf230194e8/sm19_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d825e0d1dfbbd0babe4cde145df5f0a383848b9c17fa9ee48afff74e6476726a",
  "filename": [
   "pyramid.zip"
  ],
+ "files": {
+  "PYRAMID.BSP": {
+   "filesize": 1164816,
+   "timestamp": "1996-12-30"
+  },
+  "PYRAMID.TXT": {
+   "filesize": 3062,
+   "timestamp": "1996-12-31"
+  }
+ },
  "filesize": 490,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d825e0d1dfbbd0babe4cde145df5f0a383848b9c17fa9ee48afff74e6476726a",
  "tags": [
   "title:The Great Pyramid of Seth",
   "releasedate:1996-12-31",
@@ -17,21 +29,9 @@
   "tag:egyptian",
   "tag:textures"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PYRAMID.TXT": {
-   "filesize": 3062,
-   "timestamp": "1996-12-31"
-  },
-  "PYRAMID.BSP": {
-   "filesize": 1164816,
-   "timestamp": "1996-12-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pyramid.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d825e0d1dfbbd0babe4cde145df5f0a383848b9c17fa9ee48afff74e6476726a/pyramid.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "a7d7e33faef556e880bcef7825cc6cfa9565d94fe6f65d237115ee1afea64276",
  "filename": [
   "tfl.zip"
  ],
+ "files": {
+  "TFL.BSP": {
+   "filesize": 1651552,
+   "timestamp": "1997-04-17"
+  },
+  "TFL.TXT": {
+   "filesize": 2217,
+   "timestamp": "1997-04-18"
+  }
+ },
  "filesize": 721,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a7d7e33faef556e880bcef7825cc6cfa9565d94fe6f65d237115ee1afea64276",
  "tags": [
   "title:The Forgotten Level",
   "releasedate:1997-04-18",
@@ -14,21 +26,9 @@
   "tag:medium",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "TFL.TXT": {
-   "filesize": 2217,
-   "timestamp": "1997-04-18"
-  },
-  "TFL.BSP": {
-   "filesize": 1651552,
-   "timestamp": "1997-04-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tfl.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a7d7e33faef556e880bcef7825cc6cfa9565d94fe6f65d237115ee1afea64276/tfl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

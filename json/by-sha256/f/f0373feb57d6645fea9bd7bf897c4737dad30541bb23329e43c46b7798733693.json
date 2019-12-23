@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f0373feb57d6645fea9bd7bf897c4737dad30541bb23329e43c46b7798733693",
  "filename": [
   "ikstart.zip"
  ],
+ "files": {
+  "IKSTART.BSP": {
+   "filesize": 669516,
+   "timestamp": "1997-04-18"
+  },
+  "IKSTART.TXT": {
+   "filesize": 4258,
+   "timestamp": "1997-04-24"
+  }
+ },
  "filesize": 277,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f0373feb57d6645fea9bd7bf897c4737dad30541bb23329e43c46b7798733693",
  "tags": [
   "title:Welcome to IKSPQ",
   "releasedate:1997-04-24",
@@ -17,21 +29,9 @@
   "tag:textures",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "IKSTART.BSP": {
-   "filesize": 669516,
-   "timestamp": "1997-04-18"
-  },
-  "IKSTART.TXT": {
-   "filesize": 4258,
-   "timestamp": "1997-04-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ikstart.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f0373feb57d6645fea9bd7bf897c4737dad30541bb23329e43c46b7798733693/ikstart.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

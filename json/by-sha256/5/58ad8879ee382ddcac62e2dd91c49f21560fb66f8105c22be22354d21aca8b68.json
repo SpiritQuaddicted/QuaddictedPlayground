@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "58ad8879ee382ddcac62e2dd91c49f21560fb66f8105c22be22354d21aca8b68",
  "filename": [
   "februus.zip"
  ],
+ "files": {
+  "februus.bsp": {
+   "filesize": 3333576,
+   "timestamp": "2004-01-25"
+  },
+  "februus.txt": {
+   "filesize": 5319,
+   "timestamp": "2004-01-25"
+  }
+ },
  "filesize": 1370,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "58ad8879ee382ddcac62e2dd91c49f21560fb66f8105c22be22354d21aca8b68",
  "tags": [
   "title:Februus Depth",
   "releasedate:2004-01-25",
@@ -18,21 +30,9 @@
   "tag:mazelike",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "februus.bsp": {
-   "filesize": 3333576,
-   "timestamp": "2004-01-25"
-  },
-  "februus.txt": {
-   "filesize": 5319,
-   "timestamp": "2004-01-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/februus.zip",
   "https://www.quaddicted.com/files/by-sha256/5/58ad8879ee382ddcac62e2dd91c49f21560fb66f8105c22be22354d21aca8b68/februus.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

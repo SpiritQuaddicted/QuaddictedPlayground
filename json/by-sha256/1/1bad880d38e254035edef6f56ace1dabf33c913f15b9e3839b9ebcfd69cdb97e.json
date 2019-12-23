@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "1bad880d38e254035edef6f56ace1dabf33c913f15b9e3839b9ebcfd69cdb97e",
  "filename": [
   "curseofthegoldenskullkey_repack.zip"
  ],
- "filesize": 3672,
- "tags": [
-  "title:Curse of the Golden Skull Key",
-  "releasedate:2017-03-19",
-  "game:quake",
-  "author:Naitelveni",
-  "tag:large",
-  "tag:wizard",
-  "tag:limits",
-  "tag:bsp2",
-  "startmap:goldenskull"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "CurseOfTheGoldenSkullKey_README.txt": {
    "filesize": 1684,
@@ -41,8 +24,25 @@
    "timestamp": "2018-03-18"
   }
  },
+ "filesize": 3672,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1bad880d38e254035edef6f56ace1dabf33c913f15b9e3839b9ebcfd69cdb97e",
+ "tags": [
+  "title:Curse of the Golden Skull Key",
+  "releasedate:2017-03-19",
+  "game:quake",
+  "author:Naitelveni",
+  "tag:large",
+  "tag:wizard",
+  "tag:limits",
+  "tag:bsp2",
+  "startmap:goldenskull"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/curseofthegoldenskullkey_repack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1bad880d38e254035edef6f56ace1dabf33c913f15b9e3839b9ebcfd69cdb97e/curseofthegoldenskullkey_repack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

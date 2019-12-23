@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "9ce540fd323883be24958a2443e19040ae5def6958183edfb5174e871f5833db",
  "filename": [
   "damaul6.zip"
  ],
+ "files": {
+  "DaMaul6.bsp": {
+   "filesize": 2258448,
+   "timestamp": "1999-06-18"
+  },
+  "DaMaul6.txt": {
+   "filesize": 4426,
+   "timestamp": "1999-06-18"
+  },
+  "README1ST!.txt": {
+   "filesize": 683,
+   "timestamp": "1999-06-18"
+  }
+ },
  "filesize": 921,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9ce540fd323883be24958a2443e19040ae5def6958183edfb5174e871f5833db",
  "tags": [
   "title:Bestial Devastation",
   "releasedate:1999-06-18",
@@ -20,25 +36,9 @@
   "tag:planetquake-map-of-the-week",
   "dependency:zer"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "DaMaul6.bsp": {
-   "filesize": 2258448,
-   "timestamp": "1999-06-18"
-  },
-  "DaMaul6.txt": {
-   "filesize": 4426,
-   "timestamp": "1999-06-18"
-  },
-  "README1ST!.txt": {
-   "filesize": 683,
-   "timestamp": "1999-06-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/damaul6.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9ce540fd323883be24958a2443e19040ae5def6958183edfb5174e871f5833db/damaul6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

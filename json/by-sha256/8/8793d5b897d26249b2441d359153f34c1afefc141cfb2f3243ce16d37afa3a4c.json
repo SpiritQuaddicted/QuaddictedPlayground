@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c",
  "filename": [
   "carnage.zip"
  ],
+ "files": {
+  "CARNAGE.BSP": {
+   "filesize": 1425704,
+   "timestamp": "1997-10-09"
+  },
+  "CARNAGE.TXT": {
+   "filesize": 3684,
+   "timestamp": "1997-10-09"
+  }
+ },
  "filesize": 564,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c",
  "tags": [
   "title:Carnage",
   "releasedate:1997-10-09",
@@ -16,21 +28,9 @@
   "tag:short",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CARNAGE.TXT": {
-   "filesize": 3684,
-   "timestamp": "1997-10-09"
-  },
-  "CARNAGE.BSP": {
-   "filesize": 1425704,
-   "timestamp": "1997-10-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/carnage.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8793d5b897d26249b2441d359153f34c1afefc141cfb2f3243ce16d37afa3a4c/carnage.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0a2dcc9c711274e02fdb8254c13510302725214fa754341fab898be6ecdd6996",
  "filename": [
   "fishfac.zip"
  ],
- "filesize": 1988,
- "tags": [
-  "title:The Fish Factory",
-  "releasedate:2019-01-24",
-  "game:quake",
-  "author:Jaeon",
-  "tag:large",
-  "tag:mixtex",
-  "tag:water"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "fishfac.bsp": {
    "filesize": 3692276,
@@ -35,8 +20,23 @@
    "timestamp": "2019-01-24"
   }
  },
+ "filesize": 1988,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0a2dcc9c711274e02fdb8254c13510302725214fa754341fab898be6ecdd6996",
+ "tags": [
+  "title:The Fish Factory",
+  "releasedate:2019-01-24",
+  "game:quake",
+  "author:Jaeon",
+  "tag:large",
+  "tag:mixtex",
+  "tag:water"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/fishfac.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0a2dcc9c711274e02fdb8254c13510302725214fa754341fab898be6ecdd6996/fishfac.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

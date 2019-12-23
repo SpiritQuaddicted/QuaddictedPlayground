@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "a3d9b9d10ed52d0817a2ebfda7a4fecb87dd8894290e81cfd352574a811b0e66",
  "filename": [
   "level2.zip"
  ],
+ "files": {
+  "Level0.bsp": {
+   "filesize": 270212,
+   "timestamp": "1998-06-29"
+  },
+  "Level1.bsp": {
+   "filesize": 956868,
+   "timestamp": "1998-06-20"
+  },
+  "Level2.bsp": {
+   "filesize": 957696,
+   "timestamp": "1998-06-25"
+  },
+  "Level3.bsp": {
+   "filesize": 648088,
+   "timestamp": "1998-06-22"
+  },
+  "Level4.bsp": {
+   "filesize": 1528556,
+   "timestamp": "1998-07-02"
+  }
+ },
  "filesize": 1911,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a3d9b9d10ed52d0817a2ebfda7a4fecb87dd8894290e81cfd352574a811b0e66",
  "tags": [
   "title:Untitled",
   "releasedate:1998-07-02",
@@ -19,33 +43,9 @@
   "tag:quake2",
   "startmap:level0"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Level1.bsp": {
-   "filesize": 956868,
-   "timestamp": "1998-06-20"
-  },
-  "Level2.bsp": {
-   "filesize": 957696,
-   "timestamp": "1998-06-25"
-  },
-  "Level3.bsp": {
-   "filesize": 648088,
-   "timestamp": "1998-06-22"
-  },
-  "Level0.bsp": {
-   "filesize": 270212,
-   "timestamp": "1998-06-29"
-  },
-  "Level4.bsp": {
-   "filesize": 1528556,
-   "timestamp": "1998-07-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/level2.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a3d9b9d10ed52d0817a2ebfda7a4fecb87dd8894290e81cfd352574a811b0e66/level2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

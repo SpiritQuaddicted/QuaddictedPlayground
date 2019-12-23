@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082",
  "filename": [
   "sm24_pack.zip"
  ],
+ "files": {
+  "sm24_aard.bsp": {
+   "filesize": 918360,
+   "timestamp": "2001-07-14"
+  },
+  "sm24_nane.bsp": {
+   "filesize": 395316,
+   "timestamp": "2001-07-14"
+  },
+  "sm24_pack.txt": {
+   "filesize": 2156,
+   "timestamp": "2001-07-15"
+  },
+  "sm24_than.bsp": {
+   "filesize": 518592,
+   "timestamp": "2001-07-14"
+  },
+  "sm24_than.map": {
+   "filesize": 132531,
+   "timestamp": "2001-07-14"
+  },
+  "sm24_xenon.bsp": {
+   "filesize": 600512,
+   "timestamp": "2001-07-14"
+  }
+ },
  "filesize": 738,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082",
  "tags": [
   "title:Speedmapping pack 24 - Metal at night",
   "releasedate:2001-07-15",
@@ -19,37 +47,9 @@
   "startmap:sm24_nane",
   "startmap:sm24_aard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm24_nane.bsp": {
-   "filesize": 395316,
-   "timestamp": "2001-07-14"
-  },
-  "sm24_than.map": {
-   "filesize": 132531,
-   "timestamp": "2001-07-14"
-  },
-  "sm24_aard.bsp": {
-   "filesize": 918360,
-   "timestamp": "2001-07-14"
-  },
-  "sm24_pack.txt": {
-   "filesize": 2156,
-   "timestamp": "2001-07-15"
-  },
-  "sm24_xenon.bsp": {
-   "filesize": 600512,
-   "timestamp": "2001-07-14"
-  },
-  "sm24_than.bsp": {
-   "filesize": 518592,
-   "timestamp": "2001-07-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm24_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d/def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082/sm24_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

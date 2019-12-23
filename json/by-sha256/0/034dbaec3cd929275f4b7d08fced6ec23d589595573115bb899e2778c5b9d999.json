@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999",
  "filename": [
   "pabc8.zip"
  ],
+ "files": {
+  "PABC8.bsp": {
+   "filesize": 1945564,
+   "timestamp": "1999-01-14"
+  }
+ },
  "filesize": 789,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999",
  "tags": [
   "title:Portal Endurance",
   "releasedate:1999-01-14",
@@ -18,17 +26,9 @@
   "tag:bricks",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PABC8.bsp": {
-   "filesize": 1945564,
-   "timestamp": "1999-01-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pabc8.zip",
   "https://www.quaddicted.com/files/by-sha256/0/034dbaec3cd929275f4b7d08fced6ec23d589595573115bb899e2778c5b9d999/pabc8.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

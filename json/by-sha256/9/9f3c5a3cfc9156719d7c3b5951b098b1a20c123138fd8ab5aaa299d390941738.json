@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "9f3c5a3cfc9156719d7c3b5951b098b1a20c123138fd8ab5aaa299d390941738",
  "filename": [
   "sm13_pack.zip"
  ],
+ "files": {
+  "sm13_aard.bsp": {
+   "filesize": 376348,
+   "timestamp": "2001-05-11"
+  },
+  "sm13_amrik.bsp": {
+   "filesize": 351568,
+   "timestamp": "2001-05-11"
+  },
+  "sm13_bear.bsp": {
+   "filesize": 616720,
+   "timestamp": "2001-05-11"
+  },
+  "sm13_mal.bsp": {
+   "filesize": 379672,
+   "timestamp": "2001-05-11"
+  },
+  "sm13_pack.txt": {
+   "filesize": 2176,
+   "timestamp": "2001-05-13"
+  }
+ },
  "filesize": 563,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9f3c5a3cfc9156719d7c3b5951b098b1a20c123138fd8ab5aaa299d390941738",
  "tags": [
   "title:Speedmapping pack 13 - Unthemed",
   "releasedate:2001-05-13",
@@ -18,33 +42,9 @@
   "startmap:sm13_mal",
   "startmap:sm13_bear"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm13_amrik.bsp": {
-   "filesize": 351568,
-   "timestamp": "2001-05-11"
-  },
-  "sm13_pack.txt": {
-   "filesize": 2176,
-   "timestamp": "2001-05-13"
-  },
-  "sm13_mal.bsp": {
-   "filesize": 379672,
-   "timestamp": "2001-05-11"
-  },
-  "sm13_bear.bsp": {
-   "filesize": 616720,
-   "timestamp": "2001-05-11"
-  },
-  "sm13_aard.bsp": {
-   "filesize": 376348,
-   "timestamp": "2001-05-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm13_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9f3c5a3cfc9156719d7c3b5951b098b1a20c123138fd8ab5aaa299d390941738/sm13_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

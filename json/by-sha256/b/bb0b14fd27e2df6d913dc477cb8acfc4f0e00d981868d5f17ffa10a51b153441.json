@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441",
  "filename": [
   "oms2_2.zip"
  ],
- "filesize": 5876,
- "tags": [
-  "title:Conflagrant Rodent",
-  "releasedate:2010-08-24",
-  "game:quake",
-  "author:ORL",
-  "tag:terracotta",
-  "tag:hard",
-  "tag:medieval",
-  "tag:temple",
-  "tag:ruins",
-  "startmap:oms2"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "oms2.bsp": {
    "filesize": 13061696,
@@ -34,8 +16,26 @@
    "timestamp": "2010-08-23"
   }
  },
+ "filesize": 5876,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441",
+ "tags": [
+  "title:Conflagrant Rodent",
+  "releasedate:2010-08-24",
+  "game:quake",
+  "author:ORL",
+  "tag:terracotta",
+  "tag:hard",
+  "tag:medieval",
+  "tag:temple",
+  "tag:ruins",
+  "startmap:oms2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/oms2_2.zip",
   "https://www.quaddicted.com/files/by-sha256/b/bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441/oms2_2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

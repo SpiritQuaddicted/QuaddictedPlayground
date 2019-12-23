@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "9a0dd8be8490c66a78826a0ca708bbfdaf213342791b6012a50765d80031e41d",
  "filename": [
   "gl4fify4.zip"
  ],
+ "files": {
+  "!!READ!!.BAT": {
+   "filesize": 22260,
+   "timestamp": "1997-06-17"
+  },
+  "FIFFY4.BSP": {
+   "filesize": 1116680,
+   "timestamp": "1997-11-30"
+  },
+  "FIFFY4.DEM": {
+   "filesize": 401143,
+   "timestamp": "1997-06-16"
+  },
+  "FILE_ID.DIZ": {
+   "filesize": 761,
+   "timestamp": "1997-06-16"
+  },
+  "Readme.txt": {
+   "filesize": 305,
+   "timestamp": "1997-11-30"
+  }
+ },
  "filesize": 587,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9a0dd8be8490c66a78826a0ca708bbfdaf213342791b6012a50765d80031e41d",
  "tags": [
   "title:REoL TOUGH: Antichrist! (watervised)",
   "releasedate:1997-11-30",
@@ -16,33 +40,9 @@
   "tag:chthon",
   "startmap:fiffy4"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "!!READ!!.BAT": {
-   "filesize": 22260,
-   "timestamp": "1997-06-17"
-  },
-  "FIFFY4.DEM": {
-   "filesize": 401143,
-   "timestamp": "1997-06-16"
-  },
-  "FIFFY4.BSP": {
-   "filesize": 1116680,
-   "timestamp": "1997-11-30"
-  },
-  "Readme.txt": {
-   "filesize": 305,
-   "timestamp": "1997-11-30"
-  },
-  "FILE_ID.DIZ": {
-   "filesize": 761,
-   "timestamp": "1997-06-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/gl4fify4.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9a0dd8be8490c66a78826a0ca708bbfdaf213342791b6012a50765d80031e41d/gl4fify4.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

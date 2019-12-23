@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9e331bbe0d51507b0b043937dc7658f45de2bf97e080fdd2a891426fcf684740",
  "filename": [
   "badland2.zip"
  ],
- "filesize": 627,
- "tags": [
-  "title:BadLand2 : Countdown",
-  "releasedate:1997-06-10",
-  "game:quake",
-  "author:Chris Spain",
-  "tag:small",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "badland2.bsp": {
    "filesize": 1464568,
@@ -26,8 +12,22 @@
    "timestamp": "1997-06-08"
   }
  },
+ "filesize": 627,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9e331bbe0d51507b0b043937dc7658f45de2bf97e080fdd2a891426fcf684740",
+ "tags": [
+  "title:BadLand2 : Countdown",
+  "releasedate:1997-06-10",
+  "game:quake",
+  "author:Chris Spain",
+  "tag:small",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/badland2.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9e331bbe0d51507b0b043937dc7658f45de2bf97e080fdd2a891426fcf684740/badland2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

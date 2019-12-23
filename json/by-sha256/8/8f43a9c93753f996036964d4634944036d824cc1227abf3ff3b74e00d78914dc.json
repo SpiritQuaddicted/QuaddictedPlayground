@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8f43a9c93753f996036964d4634944036d824cc1227abf3ff3b74e00d78914dc",
  "filename": [
   "supply.zip"
  ],
+ "files": {
+  "supply.bsp": {
+   "filesize": 1633928,
+   "timestamp": "1997-03-27"
+  },
+  "supply.txt": {
+   "filesize": 3751,
+   "timestamp": "1997-03-27"
+  }
+ },
  "filesize": 589,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8f43a9c93753f996036964d4634944036d824cc1227abf3ff3b74e00d78914dc",
  "tags": [
   "title:Supply Base",
   "releasedate:1997-03-27",
@@ -18,21 +30,9 @@
   "tag:crates",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "supply.txt": {
-   "filesize": 3751,
-   "timestamp": "1997-03-27"
-  },
-  "supply.bsp": {
-   "filesize": 1633928,
-   "timestamp": "1997-03-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/supply.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8f43a9c93753f996036964d4634944036d824cc1227abf3ff3b74e00d78914dc/supply.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

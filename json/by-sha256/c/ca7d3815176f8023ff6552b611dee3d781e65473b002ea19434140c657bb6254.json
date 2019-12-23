@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ca7d3815176f8023ff6552b611dee3d781e65473b002ea19434140c657bb6254",
  "filename": [
   "qkpit.zip"
  ],
+ "files": {
+  "qkpit.bsp": {
+   "filesize": 1054196,
+   "timestamp": "1998-02-26"
+  },
+  "qkpit.txt": {
+   "filesize": 1863,
+   "timestamp": "2000-01-13"
+  }
+ },
  "filesize": 357,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ca7d3815176f8023ff6552b611dee3d781e65473b002ea19434140c657bb6254",
  "tags": [
   "title:Pit",
   "releasedate:2000-01-13",
@@ -13,21 +25,9 @@
   "tag:corridors",
   "tag:short"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "qkpit.txt": {
-   "filesize": 1863,
-   "timestamp": "2000-01-13"
-  },
-  "qkpit.bsp": {
-   "filesize": 1054196,
-   "timestamp": "1998-02-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/qkpit.zip",
   "https://www.quaddicted.com/files/by-sha256/c/ca7d3815176f8023ff6552b611dee3d781e65473b002ea19434140c657bb6254/qkpit.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

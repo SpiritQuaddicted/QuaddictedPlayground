@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "6c0478465043e9478b8f0c3463104033b01e4db3908dd20cf26ef37f07e6821c",
  "filename": [
   "ritualsp.zip"
  ],
+ "files": {
+  "ritualsp.bsp": {
+   "filesize": 2986780,
+   "timestamp": "2011-02-26"
+  },
+  "ritualsp.map": {
+   "filesize": 2006433,
+   "timestamp": "2011-02-26"
+  },
+  "ritualsp.txt": {
+   "filesize": 3478,
+   "timestamp": "2011-02-26"
+  }
+ },
  "filesize": 1371,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6c0478465043e9478b8f0c3463104033b01e4db3908dd20cf26ef37f07e6821c",
  "tags": [
   "title:Dark Ritual (single player version)",
   "releasedate:2011-02-26",
@@ -21,25 +37,9 @@
   "tag:boss",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ritualsp.bsp": {
-   "filesize": 2986780,
-   "timestamp": "2011-02-26"
-  },
-  "ritualsp.map": {
-   "filesize": 2006433,
-   "timestamp": "2011-02-26"
-  },
-  "ritualsp.txt": {
-   "filesize": 3478,
-   "timestamp": "2011-02-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ritualsp.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6c0478465043e9478b8f0c3463104033b01e4db3908dd20cf26ef37f07e6821c/ritualsp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

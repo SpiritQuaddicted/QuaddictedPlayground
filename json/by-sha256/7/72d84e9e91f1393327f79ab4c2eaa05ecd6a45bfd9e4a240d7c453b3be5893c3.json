@@ -1,62 +1,15 @@
 {
- "version": "20191222-0",
- "sha256": "72d84e9e91f1393327f79ab4c2eaa05ecd6a45bfd9e4a240d7c453b3be5893c3",
  "filename": [
   "back2forwards.zip"
  ],
- "filesize": 3374,
- "tags": [
-  "title:Forwards Compatible",
-  "releasedate:2008-01-19",
-  "game:quake",
-  "commandline:-game back2forwards",
-  "author:LTH",
-  "tag:rubicon",
-  "tag:space",
-  "tag:base",
-  "tag:large",
-  "tag:source",
-  "tag:nonlinear"
- ],
- "install": {
-  "extract": "{quake}/back2forwards/"
- },
  "files": {
-  "maps/back2forwards.map": {
-   "filesize": 2104035,
-   "timestamp": "2004-03-05"
-  },
-  "maps/back2forwards.bsp": {
-   "filesize": 3045780,
-   "timestamp": "2008-01-19"
-  },
-  "maps/back2forwards.lit": {
-   "filesize": 1335500,
-   "timestamp": "2004-03-05"
-  },
-  "forwards.cfg": {
-   "filesize": 18,
-   "timestamp": "2008-01-18"
-  },
   "back2forwards.txt": {
    "filesize": 1367,
    "timestamp": "2008-01-18"
   },
-  "quake.rc": {
-   "filesize": 80,
-   "timestamp": "2004-02-29"
-  },
-  "progs.dat": {
-   "filesize": 429112,
-   "timestamp": "2008-01-19"
-  },
-  "gfx/env/Nebular_rt.tga": {
-   "filesize": 196652,
-   "timestamp": "2000-06-24"
-  },
-  "gfx/env/Nebular_lf.tga": {
-   "filesize": 196652,
-   "timestamp": "2000-06-24"
+  "forwards.cfg": {
+   "filesize": 18,
+   "timestamp": "2008-01-18"
   },
   "gfx/env/Nebular_bk.tga": {
    "filesize": 196652,
@@ -70,209 +23,57 @@
    "filesize": 196652,
    "timestamp": "2000-06-24"
   },
+  "gfx/env/Nebular_lf.tga": {
+   "filesize": 196652,
+   "timestamp": "2000-06-24"
+  },
+  "gfx/env/Nebular_rt.tga": {
+   "filesize": 196652,
+   "timestamp": "2000-06-24"
+  },
   "gfx/env/Nebular_up.tga": {
    "filesize": 196652,
    "timestamp": "2000-06-24"
   },
-  "qc/MISC.QC": {
-   "filesize": 14834,
-   "timestamp": "2004-03-04"
+  "maps/back2forwards.bsp": {
+   "filesize": 3045780,
+   "timestamp": "2008-01-19"
   },
-  "qc/SOLDIER.QC": {
-   "filesize": 10121,
-   "timestamp": "1996-07-25"
-  },
-  "qc/DOORS.QC": {
-   "filesize": 17795,
+  "maps/back2forwards.lit": {
+   "filesize": 1335500,
    "timestamp": "2004-03-05"
   },
-  "qc/WEAPONS.QC": {
-   "filesize": 25283,
-   "timestamp": "2000-06-04"
-  },
-  "qc/OGRE.QC": {
-   "filesize": 15152,
-   "timestamp": "2001-10-20"
-  },
-  "qc/BUILTIN.C": {
-   "filesize": 31202,
-   "timestamp": "1996-07-25"
-  },
-  "qc/lieutenant.QC": {
-   "filesize": 7337,
-   "timestamp": "2004-06-20"
-  },
-  "qc/progdefs.h": {
-   "filesize": 2598,
-   "timestamp": "2004-06-20"
-  },
-  "qc/CMDLIB.C": {
-   "filesize": 8876,
-   "timestamp": "1996-07-25"
-  },
-  "qc/OLDONE.QC": {
-   "filesize": 9675,
-   "timestamp": "1996-07-25"
-  },
-  "qc/PLAYER.QC": {
-   "filesize": 18225,
-   "timestamp": "1996-07-25"
-  },
-  "qc/PLATS.QC": {
-   "filesize": 8170,
-   "timestamp": "2004-02-25"
-  },
-  "qc/CLIENT.QC": {
-   "filesize": 33602,
-   "timestamp": "2000-01-29"
-  },
-  "qc/ZOMBIE.QC": {
-   "filesize": 20635,
-   "timestamp": "1996-07-25"
-  },
-  "qc/DEMON.QC": {
-   "filesize": 10455,
-   "timestamp": "2004-02-29"
-  },
-  "qc/BOSS.QC": {
-   "filesize": 12808,
-   "timestamp": "1996-07-25"
-  },
-  "qc/dpextensions.qc": {
-   "filesize": 36608,
-   "timestamp": "2004-02-19"
-  },
-  "qc/FISH.QC": {
-   "filesize": 7945,
-   "timestamp": "1996-07-25"
-  },
-  "qc/SUBS.QC": {
-   "filesize": 6378,
-   "timestamp": "1996-07-25"
-  },
-  "qc/TRIGGERS.QC": {
-   "filesize": 14901,
-   "timestamp": "1996-07-25"
-  },
-  "qc/WORLD.QC": {
-   "filesize": 11451,
-   "timestamp": "1996-07-25"
-  },
-  "qc/KNIGHT.QC": {
-   "filesize": 9966,
-   "timestamp": "1996-07-25"
-  },
-  "qc/FIGHT.QC": {
-   "filesize": 7617,
-   "timestamp": "1996-07-25"
-  },
-  "qc/COMBAT.QC": {
-   "filesize": 6415,
-   "timestamp": "1996-07-25"
-  },
-  "qc/AMTEST.QC": {
-   "filesize": 1776,
-   "timestamp": "1996-07-25"
-  },
-  "qc/WIZARD.QC": {
-   "filesize": 11085,
-   "timestamp": "1996-07-25"
-  },
-  "qc/PROGS.SRC": {
-   "filesize": 555,
-   "timestamp": "2004-02-29"
-  },
-  "qc/DEFS.QC": {
-   "filesize": 18096,
-   "timestamp": "2001-10-20"
-  },
-  "qc/AI.QC": {
-   "filesize": 15315,
-   "timestamp": "2001-10-20"
-  },
-  "qc/SHAMBLER.QC": {
-   "filesize": 13165,
-   "timestamp": "2004-02-27"
-  },
-  "qc/JCTEST.QC": {
-   "filesize": 237,
-   "timestamp": "1996-07-25"
-  },
-  "qc/TARBABY.QC": {
-   "filesize": 7350,
-   "timestamp": "1996-07-25"
-  },
-  "qc/HKNIGHT.QC": {
-   "filesize": 19092,
-   "timestamp": "2004-02-26"
-  },
-  "qc/error.log": {
-   "filesize": 6170,
-   "timestamp": "2004-06-20"
-  },
-  "qc/BUTTONS.QC": {
-   "filesize": 3051,
-   "timestamp": "1996-07-25"
-  },
-  "qc/MODELS.QC": {
-   "filesize": 10373,
-   "timestamp": "1996-07-25"
-  },
-  "qc/MONSTERS.QC": {
-   "filesize": 5021,
-   "timestamp": "2004-02-29"
-  },
-  "qc/robot.qc": {
-   "filesize": 1759,
-   "timestamp": "2004-02-29"
-  },
-  "qc/ITEMS.QC": {
-   "filesize": 29781,
+  "maps/back2forwards.map": {
+   "filesize": 2104035,
    "timestamp": "2004-03-05"
   },
-  "qc/SPRITES.QC": {
-   "filesize": 512,
-   "timestamp": "1996-07-25"
-  },
-  "qc/DOG.QC": {
-   "filesize": 9917,
-   "timestamp": "1996-07-25"
-  },
-  "qc/ENFORCER.QC": {
-   "filesize": 11703,
-   "timestamp": "2004-02-29"
-  },
-  "qc/SHALRATH.QC": {
-   "filesize": 8131,
-   "timestamp": "1996-07-25"
-  },
-  "progs/plants.mdl": {
-   "filesize": 18070,
-   "timestamp": "2004-03-03"
-  },
-  "progs/leaf.mdl": {
-   "filesize": 5606,
-   "timestamp": "2004-03-03"
+  "progs.dat": {
+   "filesize": 429112,
+   "timestamp": "2008-01-19"
   },
   "progs/enforce2.mdl": {
    "filesize": 603312,
    "timestamp": "2004-03-05"
   },
-  "progs/up-shot.mdl": {
-   "filesize": 35313,
-   "timestamp": "2004-03-05"
+  "progs/enforcer.mdl": {
+   "filesize": 649023,
+   "timestamp": "2000-12-21"
   },
-  "progs/up-nail.mdl": {
-   "filesize": 39997,
-   "timestamp": "2004-02-29"
+  "progs/hknight.mdl": {
+   "filesize": 699456,
+   "timestamp": "2004-02-26"
+  },
+  "progs/leaf.mdl": {
+   "filesize": 5606,
+   "timestamp": "2004-03-03"
   },
   "progs/leafs.mdl": {
    "filesize": 19194,
    "timestamp": "2004-03-04"
   },
-  "progs/enforcer.mdl": {
-   "filesize": 649023,
-   "timestamp": "2000-12-21"
+  "progs/plants.mdl": {
+   "filesize": 18070,
+   "timestamp": "2004-03-03"
   },
   "progs/robot.MDL": {
    "filesize": 288979,
@@ -282,13 +83,212 @@
    "filesize": 576720,
    "timestamp": "2004-02-26"
   },
-  "progs/hknight.mdl": {
-   "filesize": 699456,
+  "progs/up-nail.mdl": {
+   "filesize": 39997,
+   "timestamp": "2004-02-29"
+  },
+  "progs/up-shot.mdl": {
+   "filesize": 35313,
+   "timestamp": "2004-03-05"
+  },
+  "qc/AI.QC": {
+   "filesize": 15315,
+   "timestamp": "2001-10-20"
+  },
+  "qc/AMTEST.QC": {
+   "filesize": 1776,
+   "timestamp": "1996-07-25"
+  },
+  "qc/BOSS.QC": {
+   "filesize": 12808,
+   "timestamp": "1996-07-25"
+  },
+  "qc/BUILTIN.C": {
+   "filesize": 31202,
+   "timestamp": "1996-07-25"
+  },
+  "qc/BUTTONS.QC": {
+   "filesize": 3051,
+   "timestamp": "1996-07-25"
+  },
+  "qc/CLIENT.QC": {
+   "filesize": 33602,
+   "timestamp": "2000-01-29"
+  },
+  "qc/CMDLIB.C": {
+   "filesize": 8876,
+   "timestamp": "1996-07-25"
+  },
+  "qc/COMBAT.QC": {
+   "filesize": 6415,
+   "timestamp": "1996-07-25"
+  },
+  "qc/DEFS.QC": {
+   "filesize": 18096,
+   "timestamp": "2001-10-20"
+  },
+  "qc/DEMON.QC": {
+   "filesize": 10455,
+   "timestamp": "2004-02-29"
+  },
+  "qc/DOG.QC": {
+   "filesize": 9917,
+   "timestamp": "1996-07-25"
+  },
+  "qc/DOORS.QC": {
+   "filesize": 17795,
+   "timestamp": "2004-03-05"
+  },
+  "qc/ENFORCER.QC": {
+   "filesize": 11703,
+   "timestamp": "2004-02-29"
+  },
+  "qc/FIGHT.QC": {
+   "filesize": 7617,
+   "timestamp": "1996-07-25"
+  },
+  "qc/FISH.QC": {
+   "filesize": 7945,
+   "timestamp": "1996-07-25"
+  },
+  "qc/HKNIGHT.QC": {
+   "filesize": 19092,
    "timestamp": "2004-02-26"
+  },
+  "qc/ITEMS.QC": {
+   "filesize": 29781,
+   "timestamp": "2004-03-05"
+  },
+  "qc/JCTEST.QC": {
+   "filesize": 237,
+   "timestamp": "1996-07-25"
+  },
+  "qc/KNIGHT.QC": {
+   "filesize": 9966,
+   "timestamp": "1996-07-25"
+  },
+  "qc/MISC.QC": {
+   "filesize": 14834,
+   "timestamp": "2004-03-04"
+  },
+  "qc/MODELS.QC": {
+   "filesize": 10373,
+   "timestamp": "1996-07-25"
+  },
+  "qc/MONSTERS.QC": {
+   "filesize": 5021,
+   "timestamp": "2004-02-29"
+  },
+  "qc/OGRE.QC": {
+   "filesize": 15152,
+   "timestamp": "2001-10-20"
+  },
+  "qc/OLDONE.QC": {
+   "filesize": 9675,
+   "timestamp": "1996-07-25"
+  },
+  "qc/PLATS.QC": {
+   "filesize": 8170,
+   "timestamp": "2004-02-25"
+  },
+  "qc/PLAYER.QC": {
+   "filesize": 18225,
+   "timestamp": "1996-07-25"
+  },
+  "qc/PROGS.SRC": {
+   "filesize": 555,
+   "timestamp": "2004-02-29"
+  },
+  "qc/SHALRATH.QC": {
+   "filesize": 8131,
+   "timestamp": "1996-07-25"
+  },
+  "qc/SHAMBLER.QC": {
+   "filesize": 13165,
+   "timestamp": "2004-02-27"
+  },
+  "qc/SOLDIER.QC": {
+   "filesize": 10121,
+   "timestamp": "1996-07-25"
+  },
+  "qc/SPRITES.QC": {
+   "filesize": 512,
+   "timestamp": "1996-07-25"
+  },
+  "qc/SUBS.QC": {
+   "filesize": 6378,
+   "timestamp": "1996-07-25"
+  },
+  "qc/TARBABY.QC": {
+   "filesize": 7350,
+   "timestamp": "1996-07-25"
+  },
+  "qc/TRIGGERS.QC": {
+   "filesize": 14901,
+   "timestamp": "1996-07-25"
+  },
+  "qc/WEAPONS.QC": {
+   "filesize": 25283,
+   "timestamp": "2000-06-04"
+  },
+  "qc/WIZARD.QC": {
+   "filesize": 11085,
+   "timestamp": "1996-07-25"
+  },
+  "qc/WORLD.QC": {
+   "filesize": 11451,
+   "timestamp": "1996-07-25"
+  },
+  "qc/ZOMBIE.QC": {
+   "filesize": 20635,
+   "timestamp": "1996-07-25"
+  },
+  "qc/dpextensions.qc": {
+   "filesize": 36608,
+   "timestamp": "2004-02-19"
+  },
+  "qc/error.log": {
+   "filesize": 6170,
+   "timestamp": "2004-06-20"
+  },
+  "qc/lieutenant.QC": {
+   "filesize": 7337,
+   "timestamp": "2004-06-20"
+  },
+  "qc/progdefs.h": {
+   "filesize": 2598,
+   "timestamp": "2004-06-20"
+  },
+  "qc/robot.qc": {
+   "filesize": 1759,
+   "timestamp": "2004-02-29"
+  },
+  "quake.rc": {
+   "filesize": 80,
+   "timestamp": "2004-02-29"
   }
  },
+ "filesize": 3374,
+ "install": {
+  "extract": "{quake}/back2forwards/"
+ },
+ "sha256": "72d84e9e91f1393327f79ab4c2eaa05ecd6a45bfd9e4a240d7c453b3be5893c3",
+ "tags": [
+  "title:Forwards Compatible",
+  "releasedate:2008-01-19",
+  "game:quake",
+  "commandline:-game back2forwards",
+  "author:LTH",
+  "tag:rubicon",
+  "tag:space",
+  "tag:base",
+  "tag:large",
+  "tag:source",
+  "tag:nonlinear"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/back2forwards.zip",
   "https://www.quaddicted.com/files/by-sha256/7/72d84e9e91f1393327f79ab4c2eaa05ecd6a45bfd9e4a240d7c453b3be5893c3/back2forwards.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

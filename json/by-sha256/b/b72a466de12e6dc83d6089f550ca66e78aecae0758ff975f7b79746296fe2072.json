@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b72a466de12e6dc83d6089f550ca66e78aecae0758ff975f7b79746296fe2072",
  "filename": [
   "wolf3d.zip"
  ],
- "filesize": 839,
- "tags": [
-  "title:Wolf3D",
-  "releasedate:1997-10-12",
-  "game:quake",
-  "author:Daryl Deep",
-  "tag:small",
-  "tag:wolfenstein",
-  "tag:soa",
-  "tag:hipnotic"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "WOLF3D.bsp": {
    "filesize": 2232048,
@@ -28,8 +12,24 @@
    "timestamp": "1997-10-12"
   }
  },
+ "filesize": 839,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b72a466de12e6dc83d6089f550ca66e78aecae0758ff975f7b79746296fe2072",
+ "tags": [
+  "title:Wolf3D",
+  "releasedate:1997-10-12",
+  "game:quake",
+  "author:Daryl Deep",
+  "tag:small",
+  "tag:wolfenstein",
+  "tag:soa",
+  "tag:hipnotic"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/wolf3d.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b72a466de12e6dc83d6089f550ca66e78aecae0758ff975f7b79746296fe2072/wolf3d.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

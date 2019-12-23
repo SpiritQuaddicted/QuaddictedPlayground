@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c",
  "filename": [
   "sewage.zip"
  ],
+ "files": {
+  "sewage.bsp": {
+   "filesize": 4027504,
+   "timestamp": "2006-04-15"
+  },
+  "sewage.txt": {
+   "filesize": 1624,
+   "timestamp": "2006-04-15"
+  }
+ },
  "filesize": 1636,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c",
  "tags": [
   "title:Sewage devastation",
   "releasedate:2006-04-15",
@@ -16,21 +28,9 @@
   "tag:sewer",
   "tag:metal"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sewage.txt": {
-   "filesize": 1624,
-   "timestamp": "2006-04-15"
-  },
-  "sewage.bsp": {
-   "filesize": 4027504,
-   "timestamp": "2006-04-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sewage.zip",
   "https://www.quaddicted.com/files/by-sha256/3/370f50d44915450ef9fb9abaac32be0347d4d47e1fb6ac6cc0b88b71d629228c/sewage.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

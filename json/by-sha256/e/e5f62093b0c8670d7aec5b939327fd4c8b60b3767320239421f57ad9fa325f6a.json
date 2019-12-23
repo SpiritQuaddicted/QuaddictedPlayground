@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "e5f62093b0c8670d7aec5b939327fd4c8b60b3767320239421f57ad9fa325f6a",
  "filename": [
   "whiteroom.zip"
  ],
+ "files": {
+  "whiteroom/WhiteRoom.txt": {
+   "filesize": 3845,
+   "timestamp": "2008-11-10"
+  },
+  "whiteroom/maps/WhiteRoom.bsp": {
+   "filesize": 3302736,
+   "timestamp": "2008-11-10"
+  },
+  "whiteroom/progs.dat": {
+   "filesize": 436688,
+   "timestamp": "2008-10-25"
+  },
+  "whiteroom_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 1002,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "e5f62093b0c8670d7aec5b939327fd4c8b60b3767320239421f57ad9fa325f6a",
  "tags": [
   "title:White Room",
   "releasedate:2008-11-10",
@@ -20,29 +40,9 @@
   "tag:minimalist",
   "tag:looks over play"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "whiteroom_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "whiteroom/maps/WhiteRoom.bsp": {
-   "filesize": 3302736,
-   "timestamp": "2008-11-10"
-  },
-  "whiteroom/progs.dat": {
-   "filesize": 436688,
-   "timestamp": "2008-10-25"
-  },
-  "whiteroom/WhiteRoom.txt": {
-   "filesize": 3845,
-   "timestamp": "2008-11-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/whiteroom.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e5f62093b0c8670d7aec5b939327fd4c8b60b3767320239421f57ad9fa325f6a/whiteroom.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

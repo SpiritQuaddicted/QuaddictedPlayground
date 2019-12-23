@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "855d3758829377a2c279f81305178c9975b5abb75dce02e45419c3df082b0f12",
  "filename": [
   "ps.zip"
  ],
- "filesize": 626,
- "tags": [
-  "title:Palace of Shadows",
-  "releasedate:1996-09-02",
-  "game:quake",
-  "author:Darren Stabler",
-  "tag:medium",
-  "tag:castle",
-  "tag:caverns"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "ps.bsp": {
    "filesize": 1408357,
@@ -27,8 +12,23 @@
    "timestamp": "1996-09-02"
   }
  },
+ "filesize": 626,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "855d3758829377a2c279f81305178c9975b5abb75dce02e45419c3df082b0f12",
+ "tags": [
+  "title:Palace of Shadows",
+  "releasedate:1996-09-02",
+  "game:quake",
+  "author:Darren Stabler",
+  "tag:medium",
+  "tag:castle",
+  "tag:caverns"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/ps.zip",
   "https://www.quaddicted.com/files/by-sha256/8/855d3758829377a2c279f81305178c9975b5abb75dce02e45419c3df082b0f12/ps.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

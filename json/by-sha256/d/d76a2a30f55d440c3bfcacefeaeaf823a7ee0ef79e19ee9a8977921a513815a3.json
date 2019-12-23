@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d76a2a30f55d440c3bfcacefeaeaf823a7ee0ef79e19ee9a8977921a513815a3",
  "filename": [
   "godsjt.zip"
  ],
- "filesize": 893,
- "tags": [
-  "title:God's House",
-  "releasedate:1997-08-20",
-  "game:quake",
-  "author:Jussi Tuononen",
-  "tag:large",
-  "tag:medieval",
-  "tag:brick"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "GODSJT.BSP": {
    "filesize": 2084332,
@@ -27,8 +12,23 @@
    "timestamp": "1997-08-20"
   }
  },
+ "filesize": 893,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d76a2a30f55d440c3bfcacefeaeaf823a7ee0ef79e19ee9a8977921a513815a3",
+ "tags": [
+  "title:God's House",
+  "releasedate:1997-08-20",
+  "game:quake",
+  "author:Jussi Tuononen",
+  "tag:large",
+  "tag:medieval",
+  "tag:brick"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/godsjt.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d76a2a30f55d440c3bfcacefeaeaf823a7ee0ef79e19ee9a8977921a513815a3/godsjt.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

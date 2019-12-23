@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "bb15224e225e64244e3c1c463b578c7dbc20ff618e993c84c565cb4222496225",
  "filename": [
   "tss.zip"
  ],
+ "files": {
+  "tss.bsp": {
+   "filesize": 1570452,
+   "timestamp": "1997-04-03"
+  },
+  "tss.txt": {
+   "filesize": 2993,
+   "timestamp": "1997-04-03"
+  }
+ },
  "filesize": 689,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "bb15224e225e64244e3c1c463b578c7dbc20ff618e993c84c565cb4222496225",
  "tags": [
   "title:Temple of the Secret Society",
   "releasedate:1997-04-03",
@@ -18,21 +30,9 @@
   "tag:tricks",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "tss.bsp": {
-   "filesize": 1570452,
-   "timestamp": "1997-04-03"
-  },
-  "tss.txt": {
-   "filesize": 2993,
-   "timestamp": "1997-04-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tss.zip",
   "https://www.quaddicted.com/files/by-sha256/b/bb15224e225e64244e3c1c463b578c7dbc20ff618e993c84c565cb4222496225/tss.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c",
  "filename": [
   "ivory1b.zip"
  ],
+ "files": {
+  "ivory1b_readme.txt": {
+   "filesize": 6497,
+   "timestamp": "2013-09-28"
+  },
+  "pak0.pak": {
+   "filesize": 14594703,
+   "timestamp": "2013-09-28"
+  },
+  "pak1.pak": {
+   "filesize": 194557,
+   "timestamp": "2013-09-28"
+  }
+ },
  "filesize": 5041,
+ "install": {
+  "extract": "{quake}/ivory/"
+ },
+ "sha256": "7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c",
  "tags": [
   "title:The Ivory Tower",
   "releasedate:2013-09-28",
@@ -21,25 +37,9 @@
   "tag:limits",
   "startmap:ivory"
  ],
- "install": {
-  "extract": "{quake}/ivory/"
- },
- "files": {
-  "ivory1b_readme.txt": {
-   "filesize": 6497,
-   "timestamp": "2013-09-28"
-  },
-  "pak0.pak": {
-   "filesize": 14594703,
-   "timestamp": "2013-09-28"
-  },
-  "pak1.pak": {
-   "filesize": 194557,
-   "timestamp": "2013-09-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ivory1b.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c/ivory1b.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

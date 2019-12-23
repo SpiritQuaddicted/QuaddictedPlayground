@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
  "filename": [
   "cursed.zip"
  ],
+ "files": {
+  "CURSE1.bsp": {
+   "filesize": 2201920,
+   "timestamp": "1999-10-17"
+  },
+  "CURSE2.bsp": {
+   "filesize": 2125700,
+   "timestamp": "1999-10-17"
+  },
+  "CURSE_ST.bsp": {
+   "filesize": 648220,
+   "timestamp": "1999-10-18"
+  },
+  "occursed.txt": {
+   "filesize": 2881,
+   "timestamp": "1999-10-17"
+  }
+ },
  "filesize": 2021,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
  "tags": [
   "title:The Occursed",
   "releasedate:1999-10-18",
@@ -21,29 +41,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:curse_st"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CURSE2.bsp": {
-   "filesize": 2125700,
-   "timestamp": "1999-10-17"
-  },
-  "CURSE1.bsp": {
-   "filesize": 2201920,
-   "timestamp": "1999-10-17"
-  },
-  "occursed.txt": {
-   "filesize": 2881,
-   "timestamp": "1999-10-17"
-  },
-  "CURSE_ST.bsp": {
-   "filesize": 648220,
-   "timestamp": "1999-10-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cursed.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f/cursed.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

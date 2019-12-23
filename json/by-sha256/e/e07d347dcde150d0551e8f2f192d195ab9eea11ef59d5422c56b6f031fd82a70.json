@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "e07d347dcde150d0551e8f2f192d195ab9eea11ef59d5422c56b6f031fd82a70",
  "filename": [
   "techdeth.zip"
  ],
+ "files": {
+  "techdeth.bsp": {
+   "filesize": 1031224,
+   "timestamp": "1997-09-03"
+  }
+ },
  "filesize": 430,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e07d347dcde150d0551e8f2f192d195ab9eea11ef59d5422c56b6f031fd82a70",
  "tags": [
   "title:Tech Death",
   "releasedate:1997-09-03",
@@ -14,17 +22,9 @@
   "tag:base",
   "tag:dark"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "techdeth.bsp": {
-   "filesize": 1031224,
-   "timestamp": "1997-09-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/techdeth.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e07d347dcde150d0551e8f2f192d195ab9eea11ef59d5422c56b6f031fd82a70/techdeth.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

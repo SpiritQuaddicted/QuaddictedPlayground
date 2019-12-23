@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "80c614dc2dc8fd02909db079309333783cd1fc8a91448dff44ac3191aa9a90be",
  "filename": [
   "2fact2ns.zip"
  ],
- "filesize": 987,
- "tags": [
-  "title:2 Factions",
-  "releasedate:1997-10-24",
-  "game:quake",
-  "author:Chris Sanders",
-  "tag:small",
-  "tag:realism",
-  "tag:navy seals"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "2Fact2NS.txt": {
    "filesize": 3741,
@@ -27,8 +12,23 @@
    "timestamp": "1997-10-24"
   }
  },
+ "filesize": 987,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "80c614dc2dc8fd02909db079309333783cd1fc8a91448dff44ac3191aa9a90be",
+ "tags": [
+  "title:2 Factions",
+  "releasedate:1997-10-24",
+  "game:quake",
+  "author:Chris Sanders",
+  "tag:small",
+  "tag:realism",
+  "tag:navy seals"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/2fact2ns.zip",
   "https://www.quaddicted.com/files/by-sha256/8/80c614dc2dc8fd02909db079309333783cd1fc8a91448dff44ac3191aa9a90be/2fact2ns.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

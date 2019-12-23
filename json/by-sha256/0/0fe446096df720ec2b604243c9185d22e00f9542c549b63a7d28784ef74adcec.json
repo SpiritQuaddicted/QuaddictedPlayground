@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0fe446096df720ec2b604243c9185d22e00f9542c549b63a7d28784ef74adcec",
  "filename": [
   "deso.zip"
  ],
- "filesize": 373,
- "tags": [
-  "title:House of Desolution",
-  "releasedate:1996-08-05",
-  "game:quake",
-  "author:Jim Lowell",
-  "tag:medieval",
-  "tag:lava",
-  "tag:small"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "DESO.BSP": {
    "filesize": 883108,
@@ -27,8 +12,23 @@
    "timestamp": "1996-08-05"
   }
  },
+ "filesize": 373,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0fe446096df720ec2b604243c9185d22e00f9542c549b63a7d28784ef74adcec",
+ "tags": [
+  "title:House of Desolution",
+  "releasedate:1996-08-05",
+  "game:quake",
+  "author:Jim Lowell",
+  "tag:medieval",
+  "tag:lava",
+  "tag:small"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/deso.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0fe446096df720ec2b604243c9185d22e00f9542c549b63a7d28784ef74adcec/deso.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

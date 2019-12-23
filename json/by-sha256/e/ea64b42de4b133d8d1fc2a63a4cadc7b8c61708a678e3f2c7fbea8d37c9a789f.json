@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "ea64b42de4b133d8d1fc2a63a4cadc7b8c61708a678e3f2c7fbea8d37c9a789f",
  "filename": [
   "asylum_2.zip"
  ],
- "filesize": 951,
- "tags": [
-  "title:The Asylum",
-  "releasedate:1998-07-01",
-  "game:quake",
-  "author:Charles Daniel",
-  "tag:medium",
-  "startmap:asylum"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "asylum.bsp": {
    "filesize": 2169308,
@@ -30,8 +16,22 @@
    "timestamp": "2012-04-19"
   }
  },
+ "filesize": 951,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ea64b42de4b133d8d1fc2a63a4cadc7b8c61708a678e3f2c7fbea8d37c9a789f",
+ "tags": [
+  "title:The Asylum",
+  "releasedate:1998-07-01",
+  "game:quake",
+  "author:Charles Daniel",
+  "tag:medium",
+  "startmap:asylum"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/asylum_2.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ea64b42de4b133d8d1fc2a63a4cadc7b8c61708a678e3f2c7fbea8d37c9a789f/asylum_2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

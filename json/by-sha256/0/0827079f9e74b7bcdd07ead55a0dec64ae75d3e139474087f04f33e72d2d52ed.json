@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "0827079f9e74b7bcdd07ead55a0dec64ae75d3e139474087f04f33e72d2d52ed",
  "filename": [
   "cult.zip"
  ],
+ "files": {
+  "CULT.BSP": {
+   "filesize": 544916,
+   "timestamp": "1996-09-24"
+  },
+  "CULT.MAP": {
+   "filesize": 103629,
+   "timestamp": "1996-09-24"
+  },
+  "README.TXT": {
+   "filesize": 1057,
+   "timestamp": "1996-09-24"
+  }
+ },
  "filesize": 239,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0827079f9e74b7bcdd07ead55a0dec64ae75d3e139474087f04f33e72d2d52ed",
  "tags": [
   "title:The Cult",
   "releasedate:1996-09-24",
@@ -15,25 +31,9 @@
   "tag:metal",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CULT.MAP": {
-   "filesize": 103629,
-   "timestamp": "1996-09-24"
-  },
-  "CULT.BSP": {
-   "filesize": 544916,
-   "timestamp": "1996-09-24"
-  },
-  "README.TXT": {
-   "filesize": 1057,
-   "timestamp": "1996-09-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cult.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0827079f9e74b7bcdd07ead55a0dec64ae75d3e139474087f04f33e72d2d52ed/cult.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

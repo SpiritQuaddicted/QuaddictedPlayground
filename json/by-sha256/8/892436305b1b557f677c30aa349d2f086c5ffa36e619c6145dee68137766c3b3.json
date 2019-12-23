@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "892436305b1b557f677c30aa349d2f086c5ffa36e619c6145dee68137766c3b3",
  "filename": [
   "perssp1.zip"
  ],
+ "files": {
+  "PERSSP1.BSP": {
+   "filesize": 954000,
+   "timestamp": "2000-10-29"
+  },
+  "PERSSP1.TXT": {
+   "filesize": 1258,
+   "timestamp": "2000-10-29"
+  }
+ },
  "filesize": 388,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "892436305b1b557f677c30aa349d2f086c5ffa36e619c6145dee68137766c3b3",
  "tags": [
   "title:Perssp1",
   "releasedate:2000-10-29",
@@ -14,21 +26,9 @@
   "tag:medieval",
   "tag:tech"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PERSSP1.TXT": {
-   "filesize": 1258,
-   "timestamp": "2000-10-29"
-  },
-  "PERSSP1.BSP": {
-   "filesize": 954000,
-   "timestamp": "2000-10-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/perssp1.zip",
   "https://www.quaddicted.com/files/by-sha256/8/892436305b1b557f677c30aa349d2f086c5ffa36e619c6145dee68137766c3b3/perssp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

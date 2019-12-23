@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8aa1e37670cace96b8b13f4a096c6b58196f8b7fd40af2077fab5e13be5773ed",
  "filename": [
   "lfsp2.zip"
  ],
+ "files": {
+  "lfsp2.bsp": {
+   "filesize": 1852572,
+   "timestamp": "2003-06-09"
+  },
+  "lfsp2.txt": {
+   "filesize": 1223,
+   "timestamp": "2003-06-06"
+  }
+ },
  "filesize": 714,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8aa1e37670cace96b8b13f4a096c6b58196f8b7fd40af2077fab5e13be5773ed",
  "tags": [
   "title:Sneer of shit",
   "releasedate:2000-01-01",
@@ -17,21 +29,9 @@
   "tag:wind tunnels",
   "tag:episode"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "lfsp2.bsp": {
-   "filesize": 1852572,
-   "timestamp": "2003-06-09"
-  },
-  "lfsp2.txt": {
-   "filesize": 1223,
-   "timestamp": "2003-06-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lfsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8aa1e37670cace96b8b13f4a096c6b58196f8b7fd40af2077fab5e13be5773ed/lfsp2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

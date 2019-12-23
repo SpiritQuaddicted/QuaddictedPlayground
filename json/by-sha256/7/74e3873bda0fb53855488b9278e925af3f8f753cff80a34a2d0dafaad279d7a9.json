@@ -1,33 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "74e3873bda0fb53855488b9278e925af3f8f753cff80a34a2d0dafaad279d7a9",
  "filename": [
   "anevilnew.zip"
  ],
- "filesize": 9036,
- "tags": [
-  "title:An Old, Old Evil",
-  "releasedate:2006-10-10",
-  "game:quake",
-  "commandline:-game anevil",
-  "author:Dustin \"Tronyn\" Geeraert &amp; Murderous Martin",
-  "tag:small",
-  "tag:episode",
-  "tag:weapons",
-  "tag:monsters",
-  "tag:alpha",
-  "tag:hard",
-  "tag:medieval",
-  "startmap:prison",
-  "startmap:lagtown1",
-  "startmap:station2",
-  "startmap:ep2m2",
-  "startmap:coven1",
-  "startmap:cavern1"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "anevil/ADVANCE.CFG": {
    "filesize": 1000,
@@ -1010,8 +984,34 @@
    "timestamp": "1996-11-20"
   }
  },
+ "filesize": 9036,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "74e3873bda0fb53855488b9278e925af3f8f753cff80a34a2d0dafaad279d7a9",
+ "tags": [
+  "title:An Old, Old Evil",
+  "releasedate:2006-10-10",
+  "game:quake",
+  "commandline:-game anevil",
+  "author:Dustin \"Tronyn\" Geeraert &amp; Murderous Martin",
+  "tag:small",
+  "tag:episode",
+  "tag:weapons",
+  "tag:monsters",
+  "tag:alpha",
+  "tag:hard",
+  "tag:medieval",
+  "startmap:prison",
+  "startmap:lagtown1",
+  "startmap:station2",
+  "startmap:ep2m2",
+  "startmap:coven1",
+  "startmap:cavern1"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/anevilnew.zip",
   "https://www.quaddicted.com/files/by-sha256/7/74e3873bda0fb53855488b9278e925af3f8f753cff80a34a2d0dafaad279d7a9/anevilnew.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "e0e68e706c35db0128cb5fdaa8e1e2aa9c7ca0d9348d36c0ccc66850a525eb23",
  "filename": [
   "sm74_pack.zip"
  ],
+ "files": {
+  "sm74_metl.bsp": {
+   "filesize": 403004,
+   "timestamp": "2004-04-10"
+  },
+  "sm74_necros.bsp": {
+   "filesize": 840212,
+   "timestamp": "2004-04-10"
+  },
+  "sm74_pack.txt": {
+   "filesize": 1361,
+   "timestamp": "2004-04-11"
+  },
+  "sm74_zwiffle.bsp": {
+   "filesize": 256360,
+   "timestamp": "2004-04-10"
+  }
+ },
  "filesize": 578,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e0e68e706c35db0128cb5fdaa8e1e2aa9c7ca0d9348d36c0ccc66850a525eb23",
  "tags": [
   "title:Speedmapping pack 74 - Maps you play through twice",
   "releasedate:2004-04-11",
@@ -16,29 +36,9 @@
   "startmap:sm74_zwiffle",
   "startmap:sm74_necros"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm74_metl.bsp": {
-   "filesize": 403004,
-   "timestamp": "2004-04-10"
-  },
-  "sm74_necros.bsp": {
-   "filesize": 840212,
-   "timestamp": "2004-04-10"
-  },
-  "sm74_zwiffle.bsp": {
-   "filesize": 256360,
-   "timestamp": "2004-04-10"
-  },
-  "sm74_pack.txt": {
-   "filesize": 1361,
-   "timestamp": "2004-04-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm74_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e0e68e706c35db0128cb5fdaa8e1e2aa9c7ca0d9348d36c0ccc66850a525eb23/sm74_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

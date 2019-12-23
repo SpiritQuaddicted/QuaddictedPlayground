@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "f93e6915f8f42c36a895f4b290b57a0fb80392d75e99153009c71ea11358c2f4",
  "filename": [
   "alpha001.zip"
  ],
+ "files": {
+  "alpha001.bsp": {
+   "filesize": 1583020,
+   "timestamp": "1997-10-21"
+  },
+  "alpha001.txt": {
+   "filesize": 1370,
+   "timestamp": "1997-10-21"
+  },
+  "alpha001_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 669,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f93e6915f8f42c36a895f4b290b57a0fb80392d75e99153009c71ea11358c2f4",
  "tags": [
   "title:The Alpha Project",
   "releasedate:1997-10-21",
@@ -14,25 +30,9 @@
   "tag:base",
   "tag:slime"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "alpha001.txt": {
-   "filesize": 1370,
-   "timestamp": "1997-10-21"
-  },
-  "alpha001_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "alpha001.bsp": {
-   "filesize": 1583020,
-   "timestamp": "1997-10-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/alpha001.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f93e6915f8f42c36a895f4b290b57a0fb80392d75e99153009c71ea11358c2f4/alpha001.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

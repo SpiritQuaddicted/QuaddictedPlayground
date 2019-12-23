@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa",
  "filename": [
   "pagan3.zip"
  ],
+ "files": {
+  "Pagan.map": {
+   "filesize": 114300,
+   "timestamp": "1996-09-02"
+  },
+  "pagan.bsp": {
+   "filesize": 611504,
+   "timestamp": "1996-09-02"
+  },
+  "pagan.txt": {
+   "filesize": 4360,
+   "timestamp": "1996-09-02"
+  }
+ },
  "filesize": 299,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa",
  "tags": [
   "title:The Pagan Temple",
   "releasedate:1996-09-02",
@@ -15,25 +31,9 @@
   "tag:source",
   "startmap:pagan"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "pagan.bsp": {
-   "filesize": 611504,
-   "timestamp": "1996-09-02"
-  },
-  "Pagan.map": {
-   "filesize": 114300,
-   "timestamp": "1996-09-02"
-  },
-  "pagan.txt": {
-   "filesize": 4360,
-   "timestamp": "1996-09-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pagan3.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6507b37b780741297f2775751aaf6818ddc96449522f8c43eaa75bb6f55c27aa/pagan3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

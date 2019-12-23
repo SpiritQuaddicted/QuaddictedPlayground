@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0fc6729bd92eee7a2a93834a2f96ff891fb625455b93c680917bd0e2e22007ad",
  "filename": [
   "fourfeather0.zip"
  ],
- "filesize": 16367,
- "tags": [
-  "title:FourFeather",
-  "releasedate:2016-03-06",
-  "game:quake",
-  "commandline:-game fourfeather0",
-  "author:Madfox",
-  "tag:monsters",
-  "tag:mixtex",
-  "tag:castle",
-  "tag:skybox",
-  "startmap:fourfeather.bsp"
- ],
- "install": {
-  "extract": "{quake}/fourfeather0/"
- },
  "files": {
   "fourfeather.txt": {
    "filesize": 3320,
@@ -34,8 +16,26 @@
    "timestamp": "2016-03-06"
   }
  },
+ "filesize": 16367,
+ "install": {
+  "extract": "{quake}/fourfeather0/"
+ },
+ "sha256": "0fc6729bd92eee7a2a93834a2f96ff891fb625455b93c680917bd0e2e22007ad",
+ "tags": [
+  "title:FourFeather",
+  "releasedate:2016-03-06",
+  "game:quake",
+  "commandline:-game fourfeather0",
+  "author:Madfox",
+  "tag:monsters",
+  "tag:mixtex",
+  "tag:castle",
+  "tag:skybox",
+  "startmap:fourfeather.bsp"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/fourfeather0.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0fc6729bd92eee7a2a93834a2f96ff891fb625455b93c680917bd0e2e22007ad/fourfeather0.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

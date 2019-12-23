@@ -1,27 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "292e2c2f8ecbc58c0cd3ba24192e6cea93cda099331a38eda2aa18a15482ca28",
  "filename": [
   "1000cuts1a.zip"
  ],
- "filesize": 10396,
- "tags": [
-  "title:One Thousand Cuts",
-  "releasedate:2014-08-15",
-  "game:quake",
-  "commandline:-game 1000cuts",
-  "author:sock",
-  "tag:ikblue",
-  "tag:castle",
-  "tag:nonlinear",
-  "tag:super secret",
-  "tag:skybox",
-  "tag:fs",
-  "startmap:start"
- ],
- "install": {
-  "extract": "{quake}/1000cuts/"
- },
  "files": {
   "1000cuts1a_readme.txt": {
    "filesize": 3206,
@@ -36,8 +16,28 @@
    "timestamp": "2014-08-15"
   }
  },
+ "filesize": 10396,
+ "install": {
+  "extract": "{quake}/1000cuts/"
+ },
+ "sha256": "292e2c2f8ecbc58c0cd3ba24192e6cea93cda099331a38eda2aa18a15482ca28",
+ "tags": [
+  "title:One Thousand Cuts",
+  "releasedate:2014-08-15",
+  "game:quake",
+  "commandline:-game 1000cuts",
+  "author:sock",
+  "tag:ikblue",
+  "tag:castle",
+  "tag:nonlinear",
+  "tag:super secret",
+  "tag:skybox",
+  "tag:fs",
+  "startmap:start"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/1000cuts1a.zip",
   "https://www.quaddicted.com/files/by-sha256/2/292e2c2f8ecbc58c0cd3ba24192e6cea93cda099331a38eda2aa18a15482ca28/1000cuts1a.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

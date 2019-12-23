@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "78f9ecad83d3e4312a1cde22f788d2f37b49e4b383c3949065b2eb1c0df629ba",
  "filename": [
   "dethtrap.zip"
  ],
+ "files": {
+  "Dethtrap.bsp": {
+   "filesize": 2897092,
+   "timestamp": "1997-04-28"
+  },
+  "dethtrap.txt": {
+   "filesize": 7989,
+   "timestamp": "1997-04-28"
+  }
+ },
  "filesize": 1144,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "78f9ecad83d3e4312a1cde22f788d2f37b49e4b383c3949065b2eb1c0df629ba",
  "tags": [
   "title:The Death Trap",
   "releasedate:1997-04-28",
@@ -17,21 +29,9 @@
   "tag:mandatory secret",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Dethtrap.bsp": {
-   "filesize": 2897092,
-   "timestamp": "1997-04-28"
-  },
-  "dethtrap.txt": {
-   "filesize": 7989,
-   "timestamp": "1997-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dethtrap.zip",
   "https://www.quaddicted.com/files/by-sha256/7/78f9ecad83d3e4312a1cde22f788d2f37b49e4b383c3949065b2eb1c0df629ba/dethtrap.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

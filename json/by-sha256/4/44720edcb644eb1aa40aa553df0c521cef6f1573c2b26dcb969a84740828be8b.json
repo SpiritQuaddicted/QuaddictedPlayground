@@ -1,34 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b",
  "filename": [
   "sm161_pack.zip"
  ],
- "filesize": 1123,
- "tags": [
-  "title:Speedmapping pack 161 - 50 brushes",
-  "releasedate:2010-10-01",
-  "game:quake",
-  "author:ericw",
-  "author:ijed",
-  "author:RickyT23",
-  "author:Spirit",
-  "author:Trinca",
-  "author:ZealousQuakeFan",
-  "author:Zwiffle",
-  "tag:quoth",
-  "startmap:sm161_ericw",
-  "startmap:sm161_ijed",
-  "startmap:sm161_ricky",
-  "startmap:sm161_spirit",
-  "startmap:sm161_trinca",
-  "startmap:sm161_zqf",
-  "startmap:sm161_zqf2",
-  "startmap:sm161_zwiffle"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm161_ericw.bsp": {
    "filesize": 465312,
@@ -99,8 +72,35 @@
    "timestamp": "2010-09-26"
   }
  },
+ "filesize": 1123,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b",
+ "tags": [
+  "title:Speedmapping pack 161 - 50 brushes",
+  "releasedate:2010-10-01",
+  "game:quake",
+  "author:ericw",
+  "author:ijed",
+  "author:RickyT23",
+  "author:Spirit",
+  "author:Trinca",
+  "author:ZealousQuakeFan",
+  "author:Zwiffle",
+  "tag:quoth",
+  "startmap:sm161_ericw",
+  "startmap:sm161_ijed",
+  "startmap:sm161_ricky",
+  "startmap:sm161_spirit",
+  "startmap:sm161_trinca",
+  "startmap:sm161_zqf",
+  "startmap:sm161_zqf2",
+  "startmap:sm161_zwiffle"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm161_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4/44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b/sm161_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

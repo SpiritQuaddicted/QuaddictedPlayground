@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "33363beb8ac4bc668761da6f56d0d1b00c1dcd07e5e8d0e65fc55ae30d9f1d10",
  "filename": [
   "morbid_2.zip"
  ],
+ "files": {
+  "Morbid_2.txt": {
+   "filesize": 5734,
+   "timestamp": "1997-10-31"
+  },
+  "morbid_2.bsp": {
+   "filesize": 1851676,
+   "timestamp": "1997-10-08"
+  }
+ },
  "filesize": 757,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "33363beb8ac4bc668761da6f56d0d1b00c1dcd07e5e8d0e65fc55ae30d9f1d10",
  "tags": [
   "title:Morbidity: 2",
   "releasedate:1997-10-31",
@@ -20,21 +32,9 @@
   "tag:oldschool",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Morbid_2.txt": {
-   "filesize": 5734,
-   "timestamp": "1997-10-31"
-  },
-  "morbid_2.bsp": {
-   "filesize": 1851676,
-   "timestamp": "1997-10-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/morbid_2.zip",
   "https://www.quaddicted.com/files/by-sha256/3/33363beb8ac4bc668761da6f56d0d1b00c1dcd07e5e8d0e65fc55ae30d9f1d10/morbid_2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

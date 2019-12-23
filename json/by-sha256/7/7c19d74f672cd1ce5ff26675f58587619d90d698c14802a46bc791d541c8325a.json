@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "7c19d74f672cd1ce5ff26675f58587619d90d698c14802a46bc791d541c8325a",
  "filename": [
   "gallery.zip"
  ],
+ "files": {
+  "GALLERY.BSP": {
+   "filesize": 1451364,
+   "timestamp": "1997-02-08"
+  },
+  "GALLERY.TXT": {
+   "filesize": 2849,
+   "timestamp": "1997-05-12"
+  },
+  "GLRY.DEM": {
+   "filesize": 293368,
+   "timestamp": "1997-05-12"
+  }
+ },
  "filesize": 735,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7c19d74f672cd1ce5ff26675f58587619d90d698c14802a46bc791d541c8325a",
  "tags": [
   "title:The Gallery Of The Mind",
   "releasedate:1997-05-12",
@@ -15,25 +31,9 @@
   "tag:art",
   "tag:avoidthis"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "GALLERY.TXT": {
-   "filesize": 2849,
-   "timestamp": "1997-05-12"
-  },
-  "GLRY.DEM": {
-   "filesize": 293368,
-   "timestamp": "1997-05-12"
-  },
-  "GALLERY.BSP": {
-   "filesize": 1451364,
-   "timestamp": "1997-02-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/gallery.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7c19d74f672cd1ce5ff26675f58587619d90d698c14802a46bc791d541c8325a/gallery.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

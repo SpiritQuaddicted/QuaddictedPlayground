@@ -1,48 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6ff19c8513875e7830077f770d45ef5cf049b4d6ba01fac4a32c888f248a36c1",
  "filename": [
   "uwjam.zip"
  ],
- "filesize": 66366,
- "tags": [
-  "title:Underwater Jam",
-  "releasedate:2018-08-17",
-  "game:quake",
-  "commandline:-game uwjam",
-  "author:Bloodshot",
-  "author:Giftmacher",
-  "author:ish",
-  "author:JCR",
-  "author:muk0r",
-  "author:MUZBOZ",
-  "author:nyo (Nyoei)",
-  "author:PinchySkree",
-  "author:Pritchard",
-  "tag:medium",
-  "tag:large",
-  "tag:water",
-  "tag:underwater",
-  "tag:base",
-  "tag:temple",
-  "tag:sewer",
-  "tag:realism",
-  "tag:textures",
-  "tag:monsters",
-  "tag:limits",
-  "tag:source",
-  "startmap:uwjam_bloodshot",
-  "startmap:uwjam_gift",
-  "startmap:uwjam_ish",
-  "startmap:uwjam_muk",
-  "startmap:uwjam_muzboz",
-  "startmap:uwjam_nyo",
-  "startmap:uwjam_pinchy",
-  "startmap:uwjam_pritchard"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "uwjam/ABOUT.TXT": {
    "filesize": 4874,
@@ -1033,8 +992,49 @@
    "timestamp": "2018-07-17"
   }
  },
+ "filesize": 66366,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "6ff19c8513875e7830077f770d45ef5cf049b4d6ba01fac4a32c888f248a36c1",
+ "tags": [
+  "title:Underwater Jam",
+  "releasedate:2018-08-17",
+  "game:quake",
+  "commandline:-game uwjam",
+  "author:Bloodshot",
+  "author:Giftmacher",
+  "author:ish",
+  "author:JCR",
+  "author:muk0r",
+  "author:MUZBOZ",
+  "author:nyo (Nyoei)",
+  "author:PinchySkree",
+  "author:Pritchard",
+  "tag:medium",
+  "tag:large",
+  "tag:water",
+  "tag:underwater",
+  "tag:base",
+  "tag:temple",
+  "tag:sewer",
+  "tag:realism",
+  "tag:textures",
+  "tag:monsters",
+  "tag:limits",
+  "tag:source",
+  "startmap:uwjam_bloodshot",
+  "startmap:uwjam_gift",
+  "startmap:uwjam_ish",
+  "startmap:uwjam_muk",
+  "startmap:uwjam_muzboz",
+  "startmap:uwjam_nyo",
+  "startmap:uwjam_pinchy",
+  "startmap:uwjam_pritchard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/uwjam.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6ff19c8513875e7830077f770d45ef5cf049b4d6ba01fac4a32c888f248a36c1/uwjam.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

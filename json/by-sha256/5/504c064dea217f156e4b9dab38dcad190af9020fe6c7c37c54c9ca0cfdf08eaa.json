@@ -1,29 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa",
  "filename": [
   "gth.zip"
  ],
- "filesize": 8902,
- "tags": [
-  "title:The Gateway to Hell",
-  "releasedate:2010-11-10",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:JPL",
-  "tag:hell",
-  "tag:medium",
-  "tag:dkt",
-  "tag:quoth",
-  "tag:limits",
-  "tag:skybox",
-  "tag:sounds",
-  "dependency:quoth",
-  "startmap:gatetohell"
- ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
  "files": {
   "gfx/env/hellsky2bk.tga": {
    "filesize": 787493,
@@ -102,8 +80,30 @@
    "timestamp": "2009-03-14"
   }
  },
+ "filesize": 8902,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa",
+ "tags": [
+  "title:The Gateway to Hell",
+  "releasedate:2010-11-10",
+  "game:quake",
+  "commandline:-hipnotic -game quoth",
+  "author:JPL",
+  "tag:hell",
+  "tag:medium",
+  "tag:dkt",
+  "tag:quoth",
+  "tag:limits",
+  "tag:skybox",
+  "tag:sounds",
+  "dependency:quoth",
+  "startmap:gatetohell"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/gth.zip",
   "https://www.quaddicted.com/files/by-sha256/5/504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa/gth.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "adecfe8b455acb4aaed62675e2b94393f9bf5b5cb3cef4707e08a927a95cfde4",
  "filename": [
   "drunk.zip"
  ],
+ "files": {
+  "DRUNK.BSP": {
+   "filesize": 1536740,
+   "timestamp": "1996-11-16"
+  },
+  "DRUNK.DEM": {
+   "filesize": 946740,
+   "timestamp": "1996-11-16"
+  },
+  "DRUNK.LOG": {
+   "filesize": 1652,
+   "timestamp": "1996-11-16"
+  },
+  "DRUNK.MAP": {
+   "filesize": 604961,
+   "timestamp": "1996-11-15"
+  },
+  "DRUNK.TXT": {
+   "filesize": 1369,
+   "timestamp": "1996-11-16"
+  }
+ },
  "filesize": 959,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "adecfe8b455acb4aaed62675e2b94393f9bf5b5cb3cef4707e08a927a95cfde4",
  "tags": [
   "title:Enter the bloodfest DRUNK",
   "releasedate:1996-11-16",
@@ -15,33 +39,9 @@
   "tag:source",
   "tag:demo"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "DRUNK.DEM": {
-   "filesize": 946740,
-   "timestamp": "1996-11-16"
-  },
-  "DRUNK.TXT": {
-   "filesize": 1369,
-   "timestamp": "1996-11-16"
-  },
-  "DRUNK.LOG": {
-   "filesize": 1652,
-   "timestamp": "1996-11-16"
-  },
-  "DRUNK.BSP": {
-   "filesize": 1536740,
-   "timestamp": "1996-11-16"
-  },
-  "DRUNK.MAP": {
-   "filesize": 604961,
-   "timestamp": "1996-11-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/drunk.zip",
   "https://www.quaddicted.com/files/by-sha256/a/adecfe8b455acb4aaed62675e2b94393f9bf5b5cb3cef4707e08a927a95cfde4/drunk.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

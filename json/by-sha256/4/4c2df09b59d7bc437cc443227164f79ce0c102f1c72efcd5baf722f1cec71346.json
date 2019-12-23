@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4c2df09b59d7bc437cc443227164f79ce0c102f1c72efcd5baf722f1cec71346",
  "filename": [
   "arcol.zip"
  ],
- "filesize": 965,
- "tags": [
-  "title:Arcol",
-  "releasedate:1997-10-08",
-  "game:quake",
-  "author:Isaac Barry (aka Clorox)",
-  "tag:medium",
-  "tag:metal",
-  "tag:base",
-  "tag:pyramid"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "arcol.bsp": {
    "filesize": 2301748,
@@ -28,8 +12,24 @@
    "timestamp": "1997-10-08"
   }
  },
+ "filesize": 965,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4c2df09b59d7bc437cc443227164f79ce0c102f1c72efcd5baf722f1cec71346",
+ "tags": [
+  "title:Arcol",
+  "releasedate:1997-10-08",
+  "game:quake",
+  "author:Isaac Barry (aka Clorox)",
+  "tag:medium",
+  "tag:metal",
+  "tag:base",
+  "tag:pyramid"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/arcol.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4c2df09b59d7bc437cc443227164f79ce0c102f1c72efcd5baf722f1cec71346/arcol.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

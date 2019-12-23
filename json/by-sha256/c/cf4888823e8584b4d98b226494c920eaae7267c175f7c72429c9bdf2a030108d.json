@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d",
  "filename": [
   "horrors.zip"
  ],
- "filesize": 838,
- "tags": [
-  "title:Halls of Horrors",
-  "releasedate:1997-07-02",
-  "game:quake",
-  "author:Richard Neff",
-  "tag:small",
-  "tag:medieval",
-  "tag:castle",
-  "tag:graveyard",
-  "startmap:horrors",
-  "startmap:setskill"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "horrors.bsp": {
    "filesize": 869432,
@@ -42,8 +24,26 @@
    "timestamp": "1997-07-05"
   }
  },
+ "filesize": 838,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d",
+ "tags": [
+  "title:Halls of Horrors",
+  "releasedate:1997-07-02",
+  "game:quake",
+  "author:Richard Neff",
+  "tag:small",
+  "tag:medieval",
+  "tag:castle",
+  "tag:graveyard",
+  "startmap:horrors",
+  "startmap:setskill"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/horrors.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d/horrors.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

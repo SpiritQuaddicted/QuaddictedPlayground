@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392",
  "filename": [
   "fmb5.zip"
  ],
+ "files": {
+  "fmb5.bsp": {
+   "filesize": 2557892,
+   "timestamp": "1999-05-18"
+  },
+  "fmb5.txt": {
+   "filesize": 6040,
+   "timestamp": "1999-05-16"
+  }
+ },
  "filesize": 1132,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392",
  "tags": [
   "title:For My Babies 5",
   "releasedate:1999-05-18",
@@ -12,21 +24,9 @@
   "author:Sloppy Jaloppy &amp; Mike Woodham",
   "tag:medieval"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "fmb5.txt": {
-   "filesize": 6040,
-   "timestamp": "1999-05-16"
-  },
-  "fmb5.bsp": {
-   "filesize": 2557892,
-   "timestamp": "1999-05-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fmb5.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5845efcb9bc10d410478e9f4e5b89a46d267d1be7cb47e5e843286ab9791a392/fmb5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "097b8130879b7f77944552e8f86f9d20647605ea67c4a09e183d36882249ad8c",
  "filename": [
   "snaut-cloisterfuck.zip"
  ],
- "filesize": 5938,
- "tags": [
-  "title:Cloisterfuck",
-  "releasedate:2018-11-09",
-  "game:quake",
-  "author:Shamblernaut",
-  "tag:large",
-  "tag:mixtex"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "gfx/env/mpa99bk.tga": {
    "filesize": 4194322,
@@ -54,8 +40,22 @@
    "timestamp": "2018-11-01"
   }
  },
+ "filesize": 5938,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "097b8130879b7f77944552e8f86f9d20647605ea67c4a09e183d36882249ad8c",
+ "tags": [
+  "title:Cloisterfuck",
+  "releasedate:2018-11-09",
+  "game:quake",
+  "author:Shamblernaut",
+  "tag:large",
+  "tag:mixtex"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/snaut-cloisterfuck.zip",
   "https://www.quaddicted.com/files/by-sha256/0/097b8130879b7f77944552e8f86f9d20647605ea67c4a09e183d36882249ad8c/snaut-cloisterfuck.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

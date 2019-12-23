@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "6b5e30f2612cfdc0f45dbe63ce7d967772bba613037b7fcc2cf0ca982d260a69",
  "filename": [
   "fmb4.zip"
  ],
+ "files": {
+  "fmb4.bsp": {
+   "filesize": 1721852,
+   "timestamp": "1998-10-05"
+  },
+  "fmb4.txt": {
+   "filesize": 3847,
+   "timestamp": "1998-10-05"
+  }
+ },
  "filesize": 755,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6b5e30f2612cfdc0f45dbe63ce7d967772bba613037b7fcc2cf0ca982d260a69",
  "tags": [
   "title:For My Babies 4",
   "releasedate:1998-10-05",
@@ -12,21 +24,9 @@
   "author:Mike Woodham",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "fmb4.txt": {
-   "filesize": 3847,
-   "timestamp": "1998-10-05"
-  },
-  "fmb4.bsp": {
-   "filesize": 1721852,
-   "timestamp": "1998-10-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fmb4.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6b5e30f2612cfdc0f45dbe63ce7d967772bba613037b7fcc2cf0ca982d260a69/fmb4.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

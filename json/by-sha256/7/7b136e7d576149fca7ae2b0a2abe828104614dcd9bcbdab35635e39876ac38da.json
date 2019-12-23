@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "7b136e7d576149fca7ae2b0a2abe828104614dcd9bcbdab35635e39876ac38da",
  "filename": [
   "winterpack2005-2006.zip"
  ],
+ "files": {
+  "egypt.bsp": {
+   "filesize": 7533444,
+   "timestamp": "2006-02-04"
+  },
+  "egypt.txt": {
+   "filesize": 5186,
+   "timestamp": "2006-02-04"
+  },
+  "teacups.bsp": {
+   "filesize": 1045260,
+   "timestamp": "2006-03-08"
+  },
+  "teacups.txt": {
+   "filesize": 3804,
+   "timestamp": "2006-03-08"
+  }
+ },
  "filesize": 3371,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "7b136e7d576149fca7ae2b0a2abe828104614dcd9bcbdab35635e39876ac38da",
  "tags": [
   "title:winterpack2005-2006",
   "releasedate:2006-03-08",
@@ -23,29 +43,9 @@
   "startmap:egypt",
   "startmap:teacups"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "egypt.txt": {
-   "filesize": 5186,
-   "timestamp": "2006-02-04"
-  },
-  "teacups.txt": {
-   "filesize": 3804,
-   "timestamp": "2006-03-08"
-  },
-  "egypt.bsp": {
-   "filesize": 7533444,
-   "timestamp": "2006-02-04"
-  },
-  "teacups.bsp": {
-   "filesize": 1045260,
-   "timestamp": "2006-03-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/winterpack2005-2006.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7b136e7d576149fca7ae2b0a2abe828104614dcd9bcbdab35635e39876ac38da/winterpack2005-2006.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

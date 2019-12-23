@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "52b0d09e599c063653da8c525438ca71f7b786f75e69b3b85cf916c63529cd2f",
  "filename": [
   "qkmetro.zip"
  ],
+ "files": {
+  "qkmetro.bsp": {
+   "filesize": 1769812,
+   "timestamp": "1999-06-04"
+  },
+  "qkmetro.txt": {
+   "filesize": 2070,
+   "timestamp": "2000-01-13"
+  }
+ },
  "filesize": 674,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "52b0d09e599c063653da8c525438ca71f7b786f75e69b3b85cf916c63529cd2f",
  "tags": [
   "title:Subway (Metro)",
   "releasedate:2000-01-13",
@@ -13,21 +25,9 @@
   "tag:realism",
   "tag:city"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "qkmetro.txt": {
-   "filesize": 2070,
-   "timestamp": "2000-01-13"
-  },
-  "qkmetro.bsp": {
-   "filesize": 1769812,
-   "timestamp": "1999-06-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/qkmetro.zip",
   "https://www.quaddicted.com/files/by-sha256/5/52b0d09e599c063653da8c525438ca71f7b786f75e69b3b85cf916c63529cd2f/qkmetro.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

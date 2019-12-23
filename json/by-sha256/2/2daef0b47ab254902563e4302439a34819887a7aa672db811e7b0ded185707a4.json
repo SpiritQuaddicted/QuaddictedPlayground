@@ -1,10 +1,94 @@
 {
- "version": "20191222-0",
- "sha256": "2daef0b47ab254902563e4302439a34819887a7aa672db811e7b0ded185707a4",
  "filename": [
   "dkt1000.zip"
  ],
+ "files": {
+  "dkt1000/1000 Brush Shortcut (Fitzquake).lnk": {
+   "filesize": 619,
+   "timestamp": "2004-12-19"
+  },
+  "dkt1000/maps/1000zwei.bsp": {
+   "filesize": 1290892,
+   "timestamp": "2004-12-02"
+  },
+  "dkt1000/maps/1000zwei.txt": {
+   "filesize": 2032,
+   "timestamp": "2004-12-02"
+  },
+  "dkt1000/maps/Frostbite.txt": {
+   "filesize": 2153,
+   "timestamp": "2004-12-06"
+  },
+  "dkt1000/maps/blitz1000.bsp": {
+   "filesize": 1227696,
+   "timestamp": "2004-12-04"
+  },
+  "dkt1000/maps/blitz1000.txt": {
+   "filesize": 5312,
+   "timestamp": "2004-12-19"
+  },
+  "dkt1000/maps/frostbite.bsp": {
+   "filesize": 3409652,
+   "timestamp": "2004-12-12"
+  },
+  "dkt1000/maps/ht_Norway.bsp": {
+   "filesize": 2694684,
+   "timestamp": "2004-12-05"
+  },
+  "dkt1000/maps/ht_Norway.txt": {
+   "filesize": 4440,
+   "timestamp": "2004-12-05"
+  },
+  "dkt1000/maps/start.bsp": {
+   "filesize": 503188,
+   "timestamp": "2004-12-19"
+  },
+  "dkt1000/maps/start.txt": {
+   "filesize": 969,
+   "timestamp": "2004-12-19"
+  },
+  "dkt1000/maps/zooloo.bsp": {
+   "filesize": 1138952,
+   "timestamp": "2004-12-05"
+  },
+  "dkt1000/maps/zooloo.txt": {
+   "filesize": 2157,
+   "timestamp": "2004-12-05"
+  },
+  "dkt1000/readme.txt": {
+   "filesize": 984,
+   "timestamp": "2004-12-19"
+  },
+  "dkt1000/source_maps/1000zwei.map": {
+   "filesize": 630890,
+   "timestamp": "2004-12-04"
+  },
+  "dkt1000/source_maps/Frostbite.map": {
+   "filesize": 614055,
+   "timestamp": "2004-12-12"
+  },
+  "dkt1000/source_maps/blitz1000.map": {
+   "filesize": 481760,
+   "timestamp": "2004-12-19"
+  },
+  "dkt1000/source_maps/ht_Norway.map": {
+   "filesize": 526763,
+   "timestamp": "2004-12-05"
+  },
+  "dkt1000/source_maps/start.map": {
+   "filesize": 199222,
+   "timestamp": "2004-12-19"
+  },
+  "dkt1000/source_maps/zooloo-source.zip": {
+   "filesize": 62340,
+   "timestamp": "2004-12-05"
+  }
+ },
  "filesize": 4682,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "2daef0b47ab254902563e4302439a34819887a7aa672db811e7b0ded185707a4",
  "tags": [
   "title:1000 Brush/Winter map pack",
   "releasedate:2004-12-19",
@@ -30,93 +114,9 @@
   "startmap:ht_Norway",
   "startmap:zooloo"
  ],
- "install": {
-  "extract": "{quake}//"
- },
- "files": {
-  "dkt1000/1000 Brush Shortcut (Fitzquake).lnk": {
-   "filesize": 619,
-   "timestamp": "2004-12-19"
-  },
-  "dkt1000/maps/start.txt": {
-   "filesize": 969,
-   "timestamp": "2004-12-19"
-  },
-  "dkt1000/maps/1000zwei.bsp": {
-   "filesize": 1290892,
-   "timestamp": "2004-12-02"
-  },
-  "dkt1000/maps/ht_Norway.bsp": {
-   "filesize": 2694684,
-   "timestamp": "2004-12-05"
-  },
-  "dkt1000/maps/Frostbite.txt": {
-   "filesize": 2153,
-   "timestamp": "2004-12-06"
-  },
-  "dkt1000/maps/zooloo.txt": {
-   "filesize": 2157,
-   "timestamp": "2004-12-05"
-  },
-  "dkt1000/maps/frostbite.bsp": {
-   "filesize": 3409652,
-   "timestamp": "2004-12-12"
-  },
-  "dkt1000/maps/start.bsp": {
-   "filesize": 503188,
-   "timestamp": "2004-12-19"
-  },
-  "dkt1000/maps/zooloo.bsp": {
-   "filesize": 1138952,
-   "timestamp": "2004-12-05"
-  },
-  "dkt1000/maps/ht_Norway.txt": {
-   "filesize": 4440,
-   "timestamp": "2004-12-05"
-  },
-  "dkt1000/maps/1000zwei.txt": {
-   "filesize": 2032,
-   "timestamp": "2004-12-02"
-  },
-  "dkt1000/maps/blitz1000.bsp": {
-   "filesize": 1227696,
-   "timestamp": "2004-12-04"
-  },
-  "dkt1000/maps/blitz1000.txt": {
-   "filesize": 5312,
-   "timestamp": "2004-12-19"
-  },
-  "dkt1000/readme.txt": {
-   "filesize": 984,
-   "timestamp": "2004-12-19"
-  },
-  "dkt1000/source_maps/start.map": {
-   "filesize": 199222,
-   "timestamp": "2004-12-19"
-  },
-  "dkt1000/source_maps/blitz1000.map": {
-   "filesize": 481760,
-   "timestamp": "2004-12-19"
-  },
-  "dkt1000/source_maps/zooloo-source.zip": {
-   "filesize": 62340,
-   "timestamp": "2004-12-05"
-  },
-  "dkt1000/source_maps/1000zwei.map": {
-   "filesize": 630890,
-   "timestamp": "2004-12-04"
-  },
-  "dkt1000/source_maps/Frostbite.map": {
-   "filesize": 614055,
-   "timestamp": "2004-12-12"
-  },
-  "dkt1000/source_maps/ht_Norway.map": {
-   "filesize": 526763,
-   "timestamp": "2004-12-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dkt1000.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2daef0b47ab254902563e4302439a34819887a7aa672db811e7b0ded185707a4/dkt1000.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

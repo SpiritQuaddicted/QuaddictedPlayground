@@ -1,29 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "daef96e5934881f34e6a10899d30eb2c61f0cda2bdcb076a46a0a7a176389d0f",
  "filename": [
   "e1m5quotha.zip"
  ],
- "filesize": 1987,
- "tags": [
-  "title:Gloomier Keep",
-  "releasedate:2012-06-16",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:Kell",
-  "tag:knave",
-  "tag:remix",
-  "tag:remake",
-  "tag:e1m5",
-  "tag:quoth",
-  "tag:secrets",
-  "tag:medium",
-  "tag:super secret",
-  "dependency:quoth"
- ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
  "files": {
   "e1m5quoth_crystal.bsp": {
    "filesize": 49084,
@@ -50,8 +28,30 @@
    "timestamp": "2012-06-16"
   }
  },
+ "filesize": 1987,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "daef96e5934881f34e6a10899d30eb2c61f0cda2bdcb076a46a0a7a176389d0f",
+ "tags": [
+  "title:Gloomier Keep",
+  "releasedate:2012-06-16",
+  "game:quake",
+  "commandline:-hipnotic -game quoth",
+  "author:Kell",
+  "tag:knave",
+  "tag:remix",
+  "tag:remake",
+  "tag:e1m5",
+  "tag:quoth",
+  "tag:secrets",
+  "tag:medium",
+  "tag:super secret",
+  "dependency:quoth"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quotha.zip",
   "https://www.quaddicted.com/files/by-sha256/d/daef96e5934881f34e6a10899d30eb2c61f0cda2bdcb076a46a0a7a176389d0f/e1m5quotha.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

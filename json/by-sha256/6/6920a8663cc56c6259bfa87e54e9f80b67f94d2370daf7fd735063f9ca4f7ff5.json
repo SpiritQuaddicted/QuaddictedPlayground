@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "6920a8663cc56c6259bfa87e54e9f80b67f94d2370daf7fd735063f9ca4f7ff5",
  "filename": [
   "hipside.zip"
  ],
+ "files": {
+  "HIPSIDE.BSP": {
+   "filesize": 986588,
+   "timestamp": "1997-03-20"
+  },
+  "HIPSIDE.MAP": {
+   "filesize": 459642,
+   "timestamp": "1997-03-19"
+  }
+ },
  "filesize": 461,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6920a8663cc56c6259bfa87e54e9f80b67f94d2370daf7fd735063f9ca4f7ff5",
  "tags": [
   "title:Hipside",
   "releasedate:1997-03-20",
@@ -19,21 +31,9 @@
   "tag:worthwhile",
   "tag:orion"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "HIPSIDE.BSP": {
-   "filesize": 986588,
-   "timestamp": "1997-03-20"
-  },
-  "HIPSIDE.MAP": {
-   "filesize": 459642,
-   "timestamp": "1997-03-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hipside.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6920a8663cc56c6259bfa87e54e9f80b67f94d2370daf7fd735063f9ca4f7ff5/hipside.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

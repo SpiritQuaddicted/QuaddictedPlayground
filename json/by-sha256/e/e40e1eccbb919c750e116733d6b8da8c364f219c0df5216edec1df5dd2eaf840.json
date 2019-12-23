@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e40e1eccbb919c750e116733d6b8da8c364f219c0df5216edec1df5dd2eaf840",
  "filename": [
   "disturb.zip"
  ],
+ "files": {
+  "DISTURB.TXT": {
+   "filesize": 3342,
+   "timestamp": "1997-03-22"
+  },
+  "disturb.bsp": {
+   "filesize": 975252,
+   "timestamp": "1997-03-20"
+  }
+ },
  "filesize": 423,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e40e1eccbb919c750e116733d6b8da8c364f219c0df5216edec1df5dd2eaf840",
  "tags": [
   "title:The Disturbed",
   "releasedate:1997-03-22",
@@ -16,21 +28,9 @@
   "tag:lava",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "disturb.bsp": {
-   "filesize": 975252,
-   "timestamp": "1997-03-20"
-  },
-  "DISTURB.TXT": {
-   "filesize": 3342,
-   "timestamp": "1997-03-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/disturb.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e40e1eccbb919c750e116733d6b8da8c364f219c0df5216edec1df5dd2eaf840/disturb.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

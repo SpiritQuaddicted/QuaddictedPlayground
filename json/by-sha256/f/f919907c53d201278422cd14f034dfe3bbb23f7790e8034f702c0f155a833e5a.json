@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f919907c53d201278422cd14f034dfe3bbb23f7790e8034f702c0f155a833e5a",
  "filename": [
   "purg3.zip"
  ],
- "filesize": 867,
- "tags": [
-  "title:Reconstruction",
-  "releasedate:1997-08-09",
-  "game:quake",
-  "author:Bryan Pillow",
-  "tag:traps",
-  "tag:metal"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "purg3.bsp": {
    "filesize": 2036884,
@@ -26,8 +12,22 @@
    "timestamp": "1997-08-09"
   }
  },
+ "filesize": 867,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f919907c53d201278422cd14f034dfe3bbb23f7790e8034f702c0f155a833e5a",
+ "tags": [
+  "title:Reconstruction",
+  "releasedate:1997-08-09",
+  "game:quake",
+  "author:Bryan Pillow",
+  "tag:traps",
+  "tag:metal"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/purg3.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f919907c53d201278422cd14f034dfe3bbb23f7790e8034f702c0f155a833e5a/purg3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

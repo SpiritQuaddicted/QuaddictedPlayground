@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "ca0ce5bd9f76bf6178cc3c03915e6fbdb00fa64a354b0c67b5587659b4f34d45",
  "filename": [
   "sm137_pack.zip"
  ],
+ "files": {
+  "sm137_drew.bsp": {
+   "filesize": 1637504,
+   "timestamp": "2007-10-19"
+  },
+  "sm137_pack.txt": {
+   "filesize": 1214,
+   "timestamp": "2007-10-23"
+  },
+  "sm137_trinca.bsp": {
+   "filesize": 1299756,
+   "timestamp": "2007-10-20"
+  },
+  "sm137_trinca.map": {
+   "filesize": 913664,
+   "timestamp": "2007-10-18"
+  }
+ },
  "filesize": 1147,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ca0ce5bd9f76bf6178cc3c03915e6fbdb00fa64a354b0c67b5587659b4f34d45",
  "tags": [
   "title:Speedmapping pack 137 - Unthemed",
   "releasedate:2007-10-23",
@@ -15,29 +35,9 @@
   "startmap:sm137_trinca",
   "startmap:sm137_drew"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm137_trinca.bsp": {
-   "filesize": 1299756,
-   "timestamp": "2007-10-20"
-  },
-  "sm137_drew.bsp": {
-   "filesize": 1637504,
-   "timestamp": "2007-10-19"
-  },
-  "sm137_trinca.map": {
-   "filesize": 913664,
-   "timestamp": "2007-10-18"
-  },
-  "sm137_pack.txt": {
-   "filesize": 1214,
-   "timestamp": "2007-10-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm137_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/ca0ce5bd9f76bf6178cc3c03915e6fbdb00fa64a354b0c67b5587659b4f34d45/sm137_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

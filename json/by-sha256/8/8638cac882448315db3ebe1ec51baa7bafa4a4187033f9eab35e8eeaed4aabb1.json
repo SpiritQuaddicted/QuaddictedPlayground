@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1",
  "filename": [
   "quoth.zip"
  ],
+ "files": {
+  "pak0.pak": {
+   "filesize": 48226771,
+   "timestamp": "2008-02-06"
+  },
+  "pak1.pak": {
+   "filesize": 84961704,
+   "timestamp": "2008-03-08"
+  },
+  "pak2.pak": {
+   "filesize": 4846686,
+   "timestamp": "2008-07-17"
+  },
+  "quoth.txt": {
+   "filesize": 2196,
+   "timestamp": "2005-11-05"
+  },
+  "quoth2.txt": {
+   "filesize": 2199,
+   "timestamp": "2008-03-08"
+  },
+  "quoth2_1.txt": {
+   "filesize": 2396,
+   "timestamp": "2008-07-22"
+  }
+ },
  "filesize": 53512,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1",
  "tags": [
   "title:Quoth",
   "releasedate:2008-03-09",
@@ -28,37 +56,9 @@
   "startmap:kellbase1",
   "startmap:kelltest5"
  ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
- "files": {
-  "quoth2_1.txt": {
-   "filesize": 2396,
-   "timestamp": "2008-07-22"
-  },
-  "quoth.txt": {
-   "filesize": 2196,
-   "timestamp": "2005-11-05"
-  },
-  "pak1.pak": {
-   "filesize": 84961704,
-   "timestamp": "2008-03-08"
-  },
-  "pak2.pak": {
-   "filesize": 4846686,
-   "timestamp": "2008-07-17"
-  },
-  "quoth2.txt": {
-   "filesize": 2199,
-   "timestamp": "2008-03-08"
-  },
-  "pak0.pak": {
-   "filesize": 48226771,
-   "timestamp": "2008-02-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/quoth.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8638cac882448315db3ebe1ec51baa7bafa4a4187033f9eab35e8eeaed4aabb1/quoth.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

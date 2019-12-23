@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "361265c0ee6801b033c0a3458584cf43c31d2cca239514c616f533c784b4b8fc",
  "filename": [
   "gloin.zip"
  ],
+ "files": {
+  "gloin.bsp": {
+   "filesize": 794392,
+   "timestamp": "1997-10-23"
+  }
+ },
  "filesize": 327,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "361265c0ee6801b033c0a3458584cf43c31d2cca239514c616f533c784b4b8fc",
  "tags": [
   "title:Abandon All Hope",
   "releasedate:1997-10-23",
@@ -13,17 +21,9 @@
   "tag:small",
   "tag:brick"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "gloin.bsp": {
-   "filesize": 794392,
-   "timestamp": "1997-10-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/gloin.zip",
   "https://www.quaddicted.com/files/by-sha256/3/361265c0ee6801b033c0a3458584cf43c31d2cca239514c616f533c784b4b8fc/gloin.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f0e2200a6de5064f5bf1215067aabdb0ffd73fbff9cc271558e38bc859e3b42f",
  "filename": [
   "funkx89.zip"
  ],
+ "files": {
+  "Tinrope.txt": {
+   "filesize": 2269,
+   "timestamp": "2005-11-12"
+  },
+  "funkx89.bsp": {
+   "filesize": 2424600,
+   "timestamp": "2005-11-12"
+  }
+ },
  "filesize": 886,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f0e2200a6de5064f5bf1215067aabdb0ffd73fbff9cc271558e38bc859e3b42f",
  "tags": [
   "title:TinRope",
   "releasedate:2005-11-12",
@@ -16,21 +28,9 @@
   "tag:rock",
   "tag:caverns"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "funkx89.bsp": {
-   "filesize": 2424600,
-   "timestamp": "2005-11-12"
-  },
-  "Tinrope.txt": {
-   "filesize": 2269,
-   "timestamp": "2005-11-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/funkx89.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f0e2200a6de5064f5bf1215067aabdb0ffd73fbff9cc271558e38bc859e3b42f/funkx89.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

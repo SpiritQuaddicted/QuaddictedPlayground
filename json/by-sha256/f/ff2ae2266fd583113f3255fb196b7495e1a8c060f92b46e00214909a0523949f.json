@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "ff2ae2266fd583113f3255fb196b7495e1a8c060f92b46e00214909a0523949f",
  "filename": [
   "msacro.zip"
  ],
+ "files": {
+  "msacro.bsp": {
+   "filesize": 1090280,
+   "timestamp": "2009-02-07"
+  }
+ },
  "filesize": 469,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ff2ae2266fd583113f3255fb196b7495e1a8c060f92b46e00214909a0523949f",
  "tags": [
   "title:Manslay's Acrobatics",
   "releasedate:2009-02-07",
@@ -13,17 +21,9 @@
   "tag:small",
   "tag:wizard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "msacro.bsp": {
-   "filesize": 1090280,
-   "timestamp": "2009-02-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/msacro.zip",
   "https://www.quaddicted.com/files/by-sha256/f/ff2ae2266fd583113f3255fb196b7495e1a8c060f92b46e00214909a0523949f/msacro.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

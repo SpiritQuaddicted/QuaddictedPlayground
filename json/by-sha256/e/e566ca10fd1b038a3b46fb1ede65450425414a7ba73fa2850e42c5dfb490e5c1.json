@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e566ca10fd1b038a3b46fb1ede65450425414a7ba73fa2850e42c5dfb490e5c1",
  "filename": [
   "qkwall.zip"
  ],
+ "files": {
+  "qkwall.bsp": {
+   "filesize": 1152272,
+   "timestamp": "1998-02-02"
+  },
+  "qkwall.txt": {
+   "filesize": 1988,
+   "timestamp": "2000-01-13"
+  }
+ },
  "filesize": 458,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e566ca10fd1b038a3b46fb1ede65450425414a7ba73fa2850e42c5dfb490e5c1",
  "tags": [
   "title:Wall Fortress",
   "releasedate:2000-01-13",
@@ -16,21 +28,9 @@
   "tag:outdoor",
   "tag:realism"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "qkwall.txt": {
-   "filesize": 1988,
-   "timestamp": "2000-01-13"
-  },
-  "qkwall.bsp": {
-   "filesize": 1152272,
-   "timestamp": "1998-02-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/qkwall.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e566ca10fd1b038a3b46fb1ede65450425414a7ba73fa2850e42c5dfb490e5c1/qkwall.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

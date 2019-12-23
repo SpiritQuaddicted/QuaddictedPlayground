@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "217c0c1d31d9946327719a0bcfffa5db1fda0822c2b0b15acfe90dfae4a69a9e",
  "filename": [
   "flecksp1.zip"
  ],
+ "files": {
+  "flecksp1.bsp": {
+   "filesize": 1315616,
+   "timestamp": "2004-03-12"
+  },
+  "flecksp1.txt": {
+   "filesize": 1158,
+   "timestamp": "2004-03-12"
+  }
+ },
  "filesize": 516,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "217c0c1d31d9946327719a0bcfffa5db1fda0822c2b0b15acfe90dfae4a69a9e",
  "tags": [
   "title:Azure Influx",
   "releasedate:2004-03-12",
@@ -17,21 +29,9 @@
   "tag:speedrunning",
   "tag:hard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "flecksp1.bsp": {
-   "filesize": 1315616,
-   "timestamp": "2004-03-12"
-  },
-  "flecksp1.txt": {
-   "filesize": 1158,
-   "timestamp": "2004-03-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/flecksp1.zip",
   "https://www.quaddicted.com/files/by-sha256/2/217c0c1d31d9946327719a0bcfffa5db1fda0822c2b0b15acfe90dfae4a69a9e/flecksp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

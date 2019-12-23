@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65",
  "filename": [
   "e1m1red.zip"
  ],
+ "files": {
+  "GPL.txt": {
+   "filesize": 14969,
+   "timestamp": "1999-12-21"
+  },
+  "e1m1red-src.zip": {
+   "filesize": 343675,
+   "timestamp": "2008-09-12"
+  },
+  "e1m1red.txt": {
+   "filesize": 7636,
+   "timestamp": "2008-09-12"
+  },
+  "maps/e1m1red.bsp": {
+   "filesize": 4010420,
+   "timestamp": "2008-09-12"
+  },
+  "progs.dat": {
+   "filesize": 395264,
+   "timestamp": "2008-09-12"
+  },
+  "progs/keybase.mdl": {
+   "filesize": 15516,
+   "timestamp": "2008-03-06"
+  },
+  "progs/keymed.mdl": {
+   "filesize": 15900,
+   "timestamp": "2008-08-03"
+  },
+  "progs/keyrune.mdl": {
+   "filesize": 33500,
+   "timestamp": "2008-08-03"
+  }
+ },
  "filesize": 2036,
+ "install": {
+  "extract": "{quake}/e1m1red/"
+ },
+ "sha256": "0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65",
  "tags": [
   "title:Bloody Slipgates",
   "releasedate:2008-09-12",
@@ -21,45 +57,9 @@
   "tag:medium",
   "tag:unique"
  ],
- "install": {
-  "extract": "{quake}/e1m1red/"
- },
- "files": {
-  "maps/e1m1red.bsp": {
-   "filesize": 4010420,
-   "timestamp": "2008-09-12"
-  },
-  "GPL.txt": {
-   "filesize": 14969,
-   "timestamp": "1999-12-21"
-  },
-  "e1m1red.txt": {
-   "filesize": 7636,
-   "timestamp": "2008-09-12"
-  },
-  "e1m1red-src.zip": {
-   "filesize": 343675,
-   "timestamp": "2008-09-12"
-  },
-  "progs.dat": {
-   "filesize": 395264,
-   "timestamp": "2008-09-12"
-  },
-  "progs/keymed.mdl": {
-   "filesize": 15900,
-   "timestamp": "2008-08-03"
-  },
-  "progs/keybase.mdl": {
-   "filesize": 15516,
-   "timestamp": "2008-03-06"
-  },
-  "progs/keyrune.mdl": {
-   "filesize": 33500,
-   "timestamp": "2008-08-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/e1m1red.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65/e1m1red.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

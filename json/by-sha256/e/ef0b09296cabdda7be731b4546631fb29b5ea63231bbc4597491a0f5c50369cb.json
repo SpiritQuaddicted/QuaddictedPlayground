@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "ef0b09296cabdda7be731b4546631fb29b5ea63231bbc4597491a0f5c50369cb",
  "filename": [
   "ktl.zip"
  ],
+ "files": {
+  "Ktl.bsp": {
+   "filesize": 1222024,
+   "timestamp": "1997-07-08"
+  },
+  "Ktl.txt": {
+   "filesize": 1715,
+   "timestamp": "1997-07-08"
+  },
+  "Ktl1.bmp": {
+   "filesize": 65078,
+   "timestamp": "1997-07-02"
+  },
+  "Ktl2.bmp": {
+   "filesize": 65078,
+   "timestamp": "1997-07-08"
+  }
+ },
  "filesize": 551,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ef0b09296cabdda7be731b4546631fb29b5ea63231bbc4597491a0f5c50369cb",
  "tags": [
   "title:Keys to liberty",
   "releasedate:1997-07-08",
@@ -14,29 +34,9 @@
   "tag:zombies",
   "tag:wizard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Ktl1.bmp": {
-   "filesize": 65078,
-   "timestamp": "1997-07-02"
-  },
-  "Ktl2.bmp": {
-   "filesize": 65078,
-   "timestamp": "1997-07-08"
-  },
-  "Ktl.bsp": {
-   "filesize": 1222024,
-   "timestamp": "1997-07-08"
-  },
-  "Ktl.txt": {
-   "filesize": 1715,
-   "timestamp": "1997-07-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ktl.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ef0b09296cabdda7be731b4546631fb29b5ea63231bbc4597491a0f5c50369cb/ktl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "070dafc66792e8abd3d605e3ad4705b5f53e117cfb816f7dd28370f53f32c25a",
  "filename": [
   "alk07.zip"
  ],
+ "files": {
+  "alk07/alk07.txt": {
+   "filesize": 7008,
+   "timestamp": "2000-06-17"
+  },
+  "alk07/pak0.pak": {
+   "filesize": 2489448,
+   "timestamp": "2000-06-17"
+  }
+ },
  "filesize": 1039,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "070dafc66792e8abd3d605e3ad4705b5f53e117cfb816f7dd28370f53f32c25a",
  "tags": [
   "title:Egyptian Myth",
   "releasedate:2000-06-17",
@@ -16,21 +28,9 @@
   "tag:monsters",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "alk07/alk07.txt": {
-   "filesize": 7008,
-   "timestamp": "2000-06-17"
-  },
-  "alk07/pak0.pak": {
-   "filesize": 2489448,
-   "timestamp": "2000-06-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/alk07.zip",
   "https://www.quaddicted.com/files/by-sha256/0/070dafc66792e8abd3d605e3ad4705b5f53e117cfb816f7dd28370f53f32c25a/alk07.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

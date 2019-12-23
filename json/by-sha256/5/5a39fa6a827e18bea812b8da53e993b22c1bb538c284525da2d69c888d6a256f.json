@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "5a39fa6a827e18bea812b8da53e993b22c1bb538c284525da2d69c888d6a256f",
  "filename": [
   "corporal.zip"
  ],
+ "files": {
+  "CORPORAL.QC": {
+   "filesize": 92675,
+   "timestamp": "1997-04-06"
+  },
+  "CORPORAL.TXT": {
+   "filesize": 5031,
+   "timestamp": "1997-04-06"
+  },
+  "PAK0.PAK": {
+   "filesize": 2752896,
+   "timestamp": "1997-04-06"
+  }
+ },
  "filesize": 1095,
+ "install": {
+  "extract": "{quake}/corporal/"
+ },
+ "sha256": "5a39fa6a827e18bea812b8da53e993b22c1bb538c284525da2d69c888d6a256f",
  "tags": [
   "title:Corporal Punishment",
   "releasedate:1997-04-06",
@@ -21,25 +37,9 @@
   "tag:buttons",
   "startmap:gstart"
  ],
- "install": {
-  "extract": "{quake}/corporal/"
- },
- "files": {
-  "PAK0.PAK": {
-   "filesize": 2752896,
-   "timestamp": "1997-04-06"
-  },
-  "CORPORAL.TXT": {
-   "filesize": 5031,
-   "timestamp": "1997-04-06"
-  },
-  "CORPORAL.QC": {
-   "filesize": 92675,
-   "timestamp": "1997-04-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/corporal.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5a39fa6a827e18bea812b8da53e993b22c1bb538c284525da2d69c888d6a256f/corporal.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

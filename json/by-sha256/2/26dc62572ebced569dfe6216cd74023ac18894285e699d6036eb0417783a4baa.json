@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "26dc62572ebced569dfe6216cd74023ac18894285e699d6036eb0417783a4baa",
  "filename": [
   "efdatsp1.zip"
  ],
+ "files": {
+  "efdatsp1.bsp": {
+   "filesize": 2231176,
+   "timestamp": "2003-04-20"
+  },
+  "efdatsp1.txt": {
+   "filesize": 2485,
+   "timestamp": "2003-04-20"
+  }
+ },
  "filesize": 962,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "26dc62572ebced569dfe6216cd74023ac18894285e699d6036eb0417783a4baa",
  "tags": [
   "title:The Place of Dismay",
   "releasedate:2003-04-20",
@@ -16,21 +28,9 @@
   "tag:mountain",
   "tag:brick"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "efdatsp1.bsp": {
-   "filesize": 2231176,
-   "timestamp": "2003-04-20"
-  },
-  "efdatsp1.txt": {
-   "filesize": 2485,
-   "timestamp": "2003-04-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/efdatsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/2/26dc62572ebced569dfe6216cd74023ac18894285e699d6036eb0417783a4baa/efdatsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

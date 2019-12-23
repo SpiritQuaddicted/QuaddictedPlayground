@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "74bb7fd1c18a0c40b1e4aae41942eabb1614134ac6bd7265ce8f76a04addd76c",
  "filename": [
   "darkages.zip"
  ],
+ "files": {
+  "DARKAGES.BSP": {
+   "filesize": 657784,
+   "timestamp": "1998-12-31"
+  },
+  "DARKAGES.TXT": {
+   "filesize": 4412,
+   "timestamp": "1996-12-28"
+  }
+ },
  "filesize": 268,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "74bb7fd1c18a0c40b1e4aae41942eabb1614134ac6bd7265ce8f76a04addd76c",
  "tags": [
   "title:Dark Ages",
   "releasedate:1998-12-31",
@@ -14,21 +26,9 @@
   "tag:medieval",
   "tag:small"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "DARKAGES.TXT": {
-   "filesize": 4412,
-   "timestamp": "1996-12-28"
-  },
-  "DARKAGES.BSP": {
-   "filesize": 657784,
-   "timestamp": "1998-12-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/darkages.zip",
   "https://www.quaddicted.com/files/by-sha256/7/74bb7fd1c18a0c40b1e4aae41942eabb1614134ac6bd7265ce8f76a04addd76c/darkages.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,78 @@
 {
- "version": "20191222-0",
- "sha256": "d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f",
  "filename": [
   "768_pack.zip"
  ],
+ "files": {
+  "768_pack.txt": {
+   "filesize": 1648,
+   "timestamp": "2007-07-15"
+  },
+  "maps/768_lurker.bsp": {
+   "filesize": 1898909,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_lurker.txt": {
+   "filesize": 696,
+   "timestamp": "2007-07-15"
+  },
+  "maps/768_rudl.bsp": {
+   "filesize": 1175320,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_rudl.qkm": {
+   "filesize": 411284,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_rudl.txt": {
+   "filesize": 2077,
+   "timestamp": "2007-07-15"
+  },
+  "maps/768_spirit.bsp": {
+   "filesize": 1035096,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_spirit.map": {
+   "filesize": 284235,
+   "timestamp": "2007-07-14"
+  },
+  "maps/768_spirit.txt": {
+   "filesize": 1830,
+   "timestamp": "2007-07-15"
+  },
+  "maps/768_trinca.bsp": {
+   "filesize": 3001092,
+   "timestamp": "2007-07-02"
+  },
+  "maps/768_trinca.map": {
+   "filesize": 2154279,
+   "timestamp": "2007-07-02"
+  },
+  "maps/768_trinca.qkm": {
+   "filesize": 1144605,
+   "timestamp": "2007-07-02"
+  },
+  "maps/768_trinca.txt": {
+   "filesize": 5273,
+   "timestamp": "2007-07-15"
+  },
+  "textures/fl_st_m2a.tga": {
+   "filesize": 49170,
+   "timestamp": "2007-06-06"
+  },
+  "textures/rtex018x.tga": {
+   "filesize": 49196,
+   "timestamp": "2007-06-26"
+  },
+  "textures/rtex160.tga": {
+   "filesize": 49170,
+   "timestamp": "2007-04-27"
+  }
+ },
  "filesize": 3281,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f",
  "tags": [
   "title:Vertical Map Pack",
   "releasedate:2007-07-15",
@@ -28,77 +96,9 @@
   "startmap:768_spirit",
   "startmap:768_trinca"
  ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
- "files": {
-  "maps/768_rudl.qkm": {
-   "filesize": 411284,
-   "timestamp": "2007-07-14"
-  },
-  "maps/768_spirit.txt": {
-   "filesize": 1830,
-   "timestamp": "2007-07-15"
-  },
-  "maps/768_lurker.txt": {
-   "filesize": 696,
-   "timestamp": "2007-07-15"
-  },
-  "maps/768_spirit.map": {
-   "filesize": 284235,
-   "timestamp": "2007-07-14"
-  },
-  "maps/768_rudl.txt": {
-   "filesize": 2077,
-   "timestamp": "2007-07-15"
-  },
-  "maps/768_trinca.qkm": {
-   "filesize": 1144605,
-   "timestamp": "2007-07-02"
-  },
-  "maps/768_trinca.txt": {
-   "filesize": 5273,
-   "timestamp": "2007-07-15"
-  },
-  "maps/768_trinca.bsp": {
-   "filesize": 3001092,
-   "timestamp": "2007-07-02"
-  },
-  "maps/768_spirit.bsp": {
-   "filesize": 1035096,
-   "timestamp": "2007-07-14"
-  },
-  "maps/768_trinca.map": {
-   "filesize": 2154279,
-   "timestamp": "2007-07-02"
-  },
-  "maps/768_lurker.bsp": {
-   "filesize": 1898909,
-   "timestamp": "2007-07-14"
-  },
-  "maps/768_rudl.bsp": {
-   "filesize": 1175320,
-   "timestamp": "2007-07-14"
-  },
-  "textures/fl_st_m2a.tga": {
-   "filesize": 49170,
-   "timestamp": "2007-06-06"
-  },
-  "textures/rtex160.tga": {
-   "filesize": 49170,
-   "timestamp": "2007-04-27"
-  },
-  "textures/rtex018x.tga": {
-   "filesize": 49196,
-   "timestamp": "2007-06-26"
-  },
-  "768_pack.txt": {
-   "filesize": 1648,
-   "timestamp": "2007-07-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/768_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d9ac4b8cafd75b4219d0a8dde8203ad742367a1d335f89f3dd277138e722878f/768_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

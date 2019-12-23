@@ -1,31 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0e846fef5acfdb8b4c02245a2907bbba077eba6c7a0be8c80207e59c5409ab60",
  "filename": [
   "768_5th.zip"
  ],
- "filesize": 632,
- "tags": [
-  "title:Squad 768",
-  "releasedate:2014-06-01",
-  "game:quake",
-  "commandline:-game quoth -quoth",
-  "author:FifthElephant",
-  "tag:small",
-  "tag:base",
-  "tag:metal",
-  "tag:vertical",
-  "tag:quoth",
-  "tag:textures",
-  "tag:jumping",
-  "tag:crates",
-  "tag:source",
-  "tag:runic",
-  "dependency:quoth2pt2full_2"
- ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
  "files": {
   "768_5th.bsp": {
    "filesize": 1277971,
@@ -44,8 +20,32 @@
    "timestamp": "2014-06-01"
   }
  },
+ "filesize": 632,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "0e846fef5acfdb8b4c02245a2907bbba077eba6c7a0be8c80207e59c5409ab60",
+ "tags": [
+  "title:Squad 768",
+  "releasedate:2014-06-01",
+  "game:quake",
+  "commandline:-game quoth -quoth",
+  "author:FifthElephant",
+  "tag:small",
+  "tag:base",
+  "tag:metal",
+  "tag:vertical",
+  "tag:quoth",
+  "tag:textures",
+  "tag:jumping",
+  "tag:crates",
+  "tag:source",
+  "tag:runic",
+  "dependency:quoth2pt2full_2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/768_5th.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0e846fef5acfdb8b4c02245a2907bbba077eba6c7a0be8c80207e59c5409ab60/768_5th.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

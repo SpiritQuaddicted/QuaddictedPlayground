@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "efd17699b20c942e447b8326d8dbff141ff2432db8cba62ffe70a596683be487",
  "filename": [
   "civil.zip"
  ],
- "filesize": 688,
- "tags": [
-  "title:Secret Civilization",
-  "releasedate:1997-09-25",
-  "game:quake",
-  "author:Pete Jones",
-  "tag:small",
-  "tag:mixtex",
-  "tag:medieval"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "CIVIL.BSP": {
    "filesize": 1641984,
@@ -27,8 +12,23 @@
    "timestamp": "1997-08-30"
   }
  },
+ "filesize": 688,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "efd17699b20c942e447b8326d8dbff141ff2432db8cba62ffe70a596683be487",
+ "tags": [
+  "title:Secret Civilization",
+  "releasedate:1997-09-25",
+  "game:quake",
+  "author:Pete Jones",
+  "tag:small",
+  "tag:mixtex",
+  "tag:medieval"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/civil.zip",
   "https://www.quaddicted.com/files/by-sha256/e/efd17699b20c942e447b8326d8dbff141ff2432db8cba62ffe70a596683be487/civil.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

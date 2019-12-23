@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d793ef8efcac22e6fa7a213488b9bb96de9713f235ff6e6a0f3c0cfd938faffd",
  "filename": [
   "4fiffy2.zip"
  ],
- "filesize": 445,
- "tags": [
-  "title:REoL TOUGH: Fortress!",
-  "releasedate:1997-02-24",
-  "game:quake",
-  "author:George J. Fiffy II",
-  "tag:medium",
-  "tag:wizard",
-  "tag:metal",
-  "tag:dm",
-  "startmap:fiffy2"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "!!READ!!.BAT": {
    "filesize": 16156,
@@ -37,8 +20,25 @@
    "timestamp": "1997-02-24"
   }
  },
+ "filesize": 445,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d793ef8efcac22e6fa7a213488b9bb96de9713f235ff6e6a0f3c0cfd938faffd",
+ "tags": [
+  "title:REoL TOUGH: Fortress!",
+  "releasedate:1997-02-24",
+  "game:quake",
+  "author:George J. Fiffy II",
+  "tag:medium",
+  "tag:wizard",
+  "tag:metal",
+  "tag:dm",
+  "startmap:fiffy2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy2.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d793ef8efcac22e6fa7a213488b9bb96de9713f235ff6e6a0f3c0cfd938faffd/4fiffy2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

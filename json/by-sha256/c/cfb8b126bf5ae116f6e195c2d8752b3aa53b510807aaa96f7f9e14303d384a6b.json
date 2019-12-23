@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "cfb8b126bf5ae116f6e195c2d8752b3aa53b510807aaa96f7f9e14303d384a6b",
  "filename": [
   "canal.zip"
  ],
+ "files": {
+  "canal.bsp": {
+   "filesize": 1566244,
+   "timestamp": "1997-11-02"
+  },
+  "canal.txt": {
+   "filesize": 5189,
+   "timestamp": "1997-11-02"
+  }
+ },
  "filesize": 626,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cfb8b126bf5ae116f6e195c2d8752b3aa53b510807aaa96f7f9e14303d384a6b",
  "tags": [
   "title:The Canal",
   "releasedate:1997-11-02",
@@ -15,21 +27,9 @@
   "tag:canal",
   "tag:boat"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "canal.txt": {
-   "filesize": 5189,
-   "timestamp": "1997-11-02"
-  },
-  "canal.bsp": {
-   "filesize": 1566244,
-   "timestamp": "1997-11-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/canal.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cfb8b126bf5ae116f6e195c2d8752b3aa53b510807aaa96f7f9e14303d384a6b/canal.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

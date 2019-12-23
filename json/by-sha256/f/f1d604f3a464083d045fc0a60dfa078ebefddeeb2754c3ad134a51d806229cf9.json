@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f1d604f3a464083d045fc0a60dfa078ebefddeeb2754c3ad134a51d806229cf9",
  "filename": [
   "dotd4.zip"
  ],
+ "files": {
+  "DOTD4.bsp": {
+   "filesize": 1714616,
+   "timestamp": "1999-12-08"
+  },
+  "dotd4.txt": {
+   "filesize": 1961,
+   "timestamp": "1999-12-04"
+  }
+ },
  "filesize": 729,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f1d604f3a464083d045fc0a60dfa078ebefddeeb2754c3ad134a51d806229cf9",
  "tags": [
   "title:Dawn of the Dead",
   "releasedate:1999-12-04",
@@ -13,21 +25,9 @@
   "tag:large",
   "tag:base"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dotd4.txt": {
-   "filesize": 1961,
-   "timestamp": "1999-12-04"
-  },
-  "DOTD4.bsp": {
-   "filesize": 1714616,
-   "timestamp": "1999-12-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dotd4.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f1d604f3a464083d045fc0a60dfa078ebefddeeb2754c3ad134a51d806229cf9/dotd4.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "16396bde8e7487e37a6be9052f4534cdbc6c78426bf5fe44f170b2f4bc339e63",
  "filename": [
   "ickle.zip"
  ],
+ "files": {
+  "ickle.bsp": {
+   "filesize": 622036,
+   "timestamp": "1998-02-07"
+  },
+  "ickle.txt": {
+   "filesize": 2425,
+   "timestamp": "1998-02-09"
+  }
+ },
  "filesize": 251,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "16396bde8e7487e37a6be9052f4534cdbc6c78426bf5fe44f170b2f4bc339e63",
  "tags": [
   "title:Ickle",
   "releasedate:1998-02-09",
@@ -14,21 +26,9 @@
   "tag:wizard",
   "tag:cave"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ickle.txt": {
-   "filesize": 2425,
-   "timestamp": "1998-02-09"
-  },
-  "ickle.bsp": {
-   "filesize": 622036,
-   "timestamp": "1998-02-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ickle.zip",
   "https://www.quaddicted.com/files/by-sha256/1/16396bde8e7487e37a6be9052f4534cdbc6c78426bf5fe44f170b2f4bc339e63/ickle.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

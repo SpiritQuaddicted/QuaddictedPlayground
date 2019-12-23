@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "804cbad808fab0e73175f13cc235a003da2bbd56ed105bced6bfc8783f48d9d0",
  "filename": [
   "ic.zip"
  ],
+ "files": {
+  "IC.BSP": {
+   "filesize": 1457348,
+   "timestamp": "1998-01-15"
+  },
+  "IC.TXT": {
+   "filesize": 2203,
+   "timestamp": "1998-04-02"
+  }
+ },
  "filesize": 585,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "804cbad808fab0e73175f13cc235a003da2bbd56ed105bced6bfc8783f48d9d0",
  "tags": [
   "title:Industrial Combat",
   "releasedate:1998-04-02",
@@ -17,21 +29,9 @@
   "tag:mine",
   "tag:lava"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "IC.BSP": {
-   "filesize": 1457348,
-   "timestamp": "1998-01-15"
-  },
-  "IC.TXT": {
-   "filesize": 2203,
-   "timestamp": "1998-04-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ic.zip",
   "https://www.quaddicted.com/files/by-sha256/8/804cbad808fab0e73175f13cc235a003da2bbd56ed105bced6bfc8783f48d9d0/ic.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

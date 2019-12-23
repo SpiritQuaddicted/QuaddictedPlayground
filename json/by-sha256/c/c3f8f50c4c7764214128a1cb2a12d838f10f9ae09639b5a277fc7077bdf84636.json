@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c3f8f50c4c7764214128a1cb2a12d838f10f9ae09639b5a277fc7077bdf84636",
  "filename": [
   "sul02.zip"
  ],
+ "files": {
+  "SUL2.BSP": {
+   "filesize": 1216940,
+   "timestamp": "2038-01-19"
+  },
+  "SUL2.TXT": {
+   "filesize": 2050,
+   "timestamp": "1997-01-09"
+  }
+ },
  "filesize": 515,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c3f8f50c4c7764214128a1cb2a12d838f10f9ae09639b5a277fc7077bdf84636",
  "tags": [
   "title:Sul's Wrath of Despair",
   "releasedate:1997-01-09",
@@ -16,21 +28,9 @@
   "tag:tricks",
   "startmap:sul2"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "SUL2.TXT": {
-   "filesize": 2050,
-   "timestamp": "1997-01-09"
-  },
-  "SUL2.BSP": {
-   "filesize": 1216940,
-   "timestamp": "2038-01-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sul02.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c3f8f50c4c7764214128a1cb2a12d838f10f9ae09639b5a277fc7077bdf84636/sul02.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

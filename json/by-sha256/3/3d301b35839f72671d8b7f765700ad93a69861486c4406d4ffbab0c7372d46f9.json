@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "3d301b35839f72671d8b7f765700ad93a69861486c4406d4ffbab0c7372d46f9",
  "filename": [
   "anonca1.zip"
  ],
- "filesize": 492,
- "tags": [
-  "title:Anonca base: The shamblin",
-  "releasedate:1997-02-06",
-  "game:quake",
-  "author:Rob Marton",
-  "tag:blue",
-  "tag:abstract",
-  "tag:dark",
-  "tag:medium"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "anonca1.bsp": {
    "filesize": 1179868,
@@ -28,8 +12,24 @@
    "timestamp": "1997-02-06"
   }
  },
+ "filesize": 492,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3d301b35839f72671d8b7f765700ad93a69861486c4406d4ffbab0c7372d46f9",
+ "tags": [
+  "title:Anonca base: The shamblin",
+  "releasedate:1997-02-06",
+  "game:quake",
+  "author:Rob Marton",
+  "tag:blue",
+  "tag:abstract",
+  "tag:dark",
+  "tag:medium"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/anonca1.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3d301b35839f72671d8b7f765700ad93a69861486c4406d4ffbab0c7372d46f9/anonca1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

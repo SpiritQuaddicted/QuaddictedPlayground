@@ -1,10 +1,474 @@
 {
- "version": "20191222-0",
- "sha256": "aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369",
  "filename": [
   "fmb_bdg.zip"
  ],
+ "files": {
+  "FMB_bdg/credits.txt": {
+   "filesize": 2209,
+   "timestamp": "2007-03-05"
+  },
+  "FMB_bdg/maps/fmb_bdg1.bsp": {
+   "filesize": 6831332,
+   "timestamp": "2007-03-04"
+  },
+  "FMB_bdg/progs.dat": {
+   "filesize": 721268,
+   "timestamp": "2007-02-20"
+  },
+  "FMB_bdg/progs/S_null.spr": {
+   "filesize": 1080,
+   "timestamp": "1996-01-01"
+  },
+  "FMB_bdg/progs/beam.mdl": {
+   "filesize": 8500,
+   "timestamp": "2001-05-21"
+  },
+  "FMB_bdg/progs/brazshrt.mdl": {
+   "filesize": 261243,
+   "timestamp": "2005-07-01"
+  },
+  "FMB_bdg/progs/braztall.mdl": {
+   "filesize": 290037,
+   "timestamp": "2005-06-30"
+  },
+  "FMB_bdg/progs/candle.mdl": {
+   "filesize": 21476,
+   "timestamp": "2005-08-14"
+  },
+  "FMB_bdg/progs/drlbomb.mdl": {
+   "filesize": 20355,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/progs/drole.mdl": {
+   "filesize": 372728,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/progs/fireball.mdl": {
+   "filesize": 10140,
+   "timestamp": "1997-12-02"
+  },
+  "FMB_bdg/progs/h_drole.mdl": {
+   "filesize": 16854,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/progs/h_hellkn.mdl": {
+   "filesize": 32629,
+   "timestamp": "2006-06-03"
+  },
+  "FMB_bdg/progs/h_imp.mdl": {
+   "filesize": 22780,
+   "timestamp": "1997-12-01"
+  },
+  "FMB_bdg/progs/h_ogre.mdl": {
+   "filesize": 42876,
+   "timestamp": "2006-12-06"
+  },
+  "FMB_bdg/progs/imp.mdl": {
+   "filesize": 409528,
+   "timestamp": "2006-12-26"
+  },
+  "FMB_bdg/progs/lant_sty.mdl": {
+   "filesize": 165923,
+   "timestamp": "2007-02-23"
+  },
+  "FMB_bdg/progs/lavaman.mdl": {
+   "filesize": 190588,
+   "timestamp": "2005-12-31"
+  },
+  "FMB_bdg/progs/longtrch.mdl": {
+   "filesize": 257355,
+   "timestamp": "2006-05-29"
+  },
+  "FMB_bdg/progs/ogre.mdl": {
+   "filesize": 270108,
+   "timestamp": "2006-10-29"
+  },
+  "FMB_bdg/progs/pendulum.mdl": {
+   "filesize": 44128,
+   "timestamp": "1996-01-01"
+  },
+  "FMB_bdg/progs/rubble1.mdl": {
+   "filesize": 25316,
+   "timestamp": "2007-01-18"
+  },
+  "FMB_bdg/progs/rubble2.mdl": {
+   "filesize": 72692,
+   "timestamp": "2007-01-18"
+  },
+  "FMB_bdg/progs/rubble3.mdl": {
+   "filesize": 108644,
+   "timestamp": "2007-01-18"
+  },
+  "FMB_bdg/progs/rubble9.mdl": {
+   "filesize": 72692,
+   "timestamp": "2007-01-18"
+  },
+  "FMB_bdg/progs/spore.mdl": {
+   "filesize": 13469,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/progs/sword.mdl": {
+   "filesize": 37060,
+   "timestamp": "2006-01-31"
+  },
+  "FMB_bdg/progs/vermis.mdl": {
+   "filesize": 656752,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/progs/vleg.mdl": {
+   "filesize": 6093,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/progs/voreling.mdl": {
+   "filesize": 185663,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/progs/w_spikered.mdl": {
+   "filesize": 14336,
+   "timestamp": "2006-01-30"
+  },
+  "FMB_bdg/progs/wizard.mdl": {
+   "filesize": 190844,
+   "timestamp": "2005-06-27"
+  },
+  "FMB_bdg/sound/IMP/DEATH99.WAV": {
+   "filesize": 8448,
+   "timestamp": "1997-11-28"
+  },
+  "FMB_bdg/sound/IMP/FIST.WAV": {
+   "filesize": 5492,
+   "timestamp": "1997-11-28"
+  },
+  "FMB_bdg/sound/IMP/PAIN.WAV": {
+   "filesize": 10842,
+   "timestamp": "1997-11-28"
+  },
+  "FMB_bdg/sound/IMP/UP.WAV": {
+   "filesize": 12500,
+   "timestamp": "1997-11-28"
+  },
+  "FMB_bdg/sound/IMP/death.wav": {
+   "filesize": 11584,
+   "timestamp": "2006-02-18"
+  },
+  "FMB_bdg/sound/IMP/death_old.wav": {
+   "filesize": 15216,
+   "timestamp": "2005-12-31"
+  },
+  "FMB_bdg/sound/IMP/expsmall.wav": {
+   "filesize": 8732,
+   "timestamp": "2005-12-30"
+  },
+  "FMB_bdg/sound/Music/Fantastic_B1-256_end.wav": {
+   "filesize": 728244,
+   "timestamp": "2007-02-27"
+  },
+  "FMB_bdg/sound/Music/Fantastic_B1-256_loop.wav": {
+   "filesize": 1940660,
+   "timestamp": "2007-02-27"
+  },
+  "FMB_bdg/sound/Music/Infoscape_end.wav": {
+   "filesize": 42110,
+   "timestamp": "2007-02-27"
+  },
+  "FMB_bdg/sound/Music/Infoscape_loop.wav": {
+   "filesize": 977448,
+   "timestamp": "2007-02-27"
+  },
+  "FMB_bdg/sound/Music/We_Got_Trouble_end.wav": {
+   "filesize": 248194,
+   "timestamp": "2007-01-27"
+  },
+  "FMB_bdg/sound/Music/We_Got_Trouble_end2.wav": {
+   "filesize": 74340,
+   "timestamp": "2007-01-26"
+  },
+  "FMB_bdg/sound/Music/We_Got_Trouble_loop.wav": {
+   "filesize": 1697078,
+   "timestamp": "2007-02-27"
+  },
+  "FMB_bdg/sound/Music/dead1.wav": {
+   "filesize": 329356,
+   "timestamp": "2007-02-27"
+  },
+  "FMB_bdg/sound/Music/killit_end.wav": {
+   "filesize": 88240,
+   "timestamp": "2007-02-27"
+  },
+  "FMB_bdg/sound/Music/killit_loop.wav": {
+   "filesize": 667130,
+   "timestamp": "2007-02-27"
+  },
+  "FMB_bdg/sound/Music/null.wav": {
+   "filesize": 1244,
+   "timestamp": "2006-11-11"
+  },
+  "FMB_bdg/sound/drole/death.wav": {
+   "filesize": 66092,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/explode3.wav": {
+   "filesize": 38026,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/fire.wav": {
+   "filesize": 28600,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/idle.wav": {
+   "filesize": 13958,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/pain.wav": {
+   "filesize": 24526,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/sight.wav": {
+   "filesize": 28554,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/sight2.sfk": {
+   "filesize": 180,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/sight2.wav": {
+   "filesize": 45820,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/strike1.wav": {
+   "filesize": 12026,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/strike2.wav": {
+   "filesize": 17896,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/drole/swipe.wav": {
+   "filesize": 3572,
+   "timestamp": "2006-02-22"
+  },
+  "FMB_bdg/sound/equake/rumble.wav": {
+   "filesize": 34094,
+   "timestamp": "2005-10-01"
+  },
+  "FMB_bdg/sound/equake/rumble1.wav": {
+   "filesize": 34276,
+   "timestamp": "2005-10-01"
+  },
+  "FMB_bdg/sound/equake/rumble2.wav": {
+   "filesize": 34274,
+   "timestamp": "2005-10-01"
+  },
+  "FMB_bdg/sound/equake/rumble4.wav": {
+   "filesize": 34106,
+   "timestamp": "2005-12-14"
+  },
+  "FMB_bdg/sound/lavaman/l_death.wav": {
+   "filesize": 100618,
+   "timestamp": "2006-01-01"
+  },
+  "FMB_bdg/sound/misc/break01.wav": {
+   "filesize": 16686,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/drip1.wav": {
+   "filesize": 12172,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/drip2.wav": {
+   "filesize": 15596,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/drip3.wav": {
+   "filesize": 15164,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/flow1.wav": {
+   "filesize": 53120,
+   "timestamp": "2002-06-11"
+  },
+  "FMB_bdg/sound/misc/flow2.wav": {
+   "filesize": 52620,
+   "timestamp": "2006-10-24"
+  },
+  "FMB_bdg/sound/misc/foot1.wav": {
+   "filesize": 2474,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/foot2.wav": {
+   "filesize": 2050,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/foot3.wav": {
+   "filesize": 1764,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/foot4.wav": {
+   "filesize": 2858,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/inh2ob.wav": {
+   "filesize": 9322,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/longexpl.wav": {
+   "filesize": 42430,
+   "timestamp": "2006-11-04"
+  },
+  "FMB_bdg/sound/misc/outwater.wav": {
+   "filesize": 6912,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/owater2.wav": {
+   "filesize": 7308,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/quake.wav": {
+   "filesize": 34286,
+   "timestamp": "2005-12-13"
+  },
+  "FMB_bdg/sound/misc/quakeend.wav": {
+   "filesize": 8160,
+   "timestamp": "2005-12-13"
+  },
+  "FMB_bdg/sound/misc/rain.wav": {
+   "filesize": 40960,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/rumble4.wav": {
+   "filesize": 19144,
+   "timestamp": "2005-12-14"
+  },
+  "FMB_bdg/sound/misc/shortexp.wav": {
+   "filesize": 27562,
+   "timestamp": "2006-11-04"
+  },
+  "FMB_bdg/sound/misc/spark1.wav": {
+   "filesize": 3764,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/spark2.wav": {
+   "filesize": 2268,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/spark3.wav": {
+   "filesize": 3704,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/spark4.wav": {
+   "filesize": 2644,
+   "timestamp": "1999-07-30"
+  },
+  "FMB_bdg/sound/misc/uwater.wav": {
+   "filesize": 39438,
+   "timestamp": "2002-06-04"
+  },
+  "FMB_bdg/sound/pendulum/hit.wav": {
+   "filesize": 6026,
+   "timestamp": "1996-01-01"
+  },
+  "FMB_bdg/sound/pendulum/swing.wav": {
+   "filesize": 12960,
+   "timestamp": "1996-01-01"
+  },
+  "FMB_bdg/sound/vermis/death.wav": {
+   "filesize": 148016,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/grab.wav": {
+   "filesize": 352300,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/grabbed.wav": {
+   "filesize": 51630,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/grndhit.wav": {
+   "filesize": 36428,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/pop.wav": {
+   "filesize": 131420,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/sight.wav": {
+   "filesize": 137772,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/sight2.wav": {
+   "filesize": 106780,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/splash1.wav": {
+   "filesize": 30710,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/splash2.wav": {
+   "filesize": 25332,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/splash3.wav": {
+   "filesize": 25590,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/vermis/spore.wav": {
+   "filesize": 44204,
+   "timestamp": "2006-12-08"
+  },
+  "FMB_bdg/sound/voreling/bite.wav": {
+   "filesize": 8920,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/sound/voreling/bitestrt.wav": {
+   "filesize": 11132,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/sound/voreling/death.wav": {
+   "filesize": 19584,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/sound/voreling/idle.wav": {
+   "filesize": 28378,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/sound/voreling/land.wav": {
+   "filesize": 6154,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/sound/voreling/pain.wav": {
+   "filesize": 15522,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/sound/voreling/sight.wav": {
+   "filesize": 55972,
+   "timestamp": "2006-01-07"
+  },
+  "FMB_bdg/sound/wall/explosion2.wav": {
+   "filesize": 30376,
+   "timestamp": "2005-05-06"
+  },
+  "FMB_bdg/sound/wall/platebreak.wav": {
+   "filesize": 6282,
+   "timestamp": "2006-02-18"
+  },
+  "FMB_bdg/sound/wall/rockthud.wav": {
+   "filesize": 9742,
+   "timestamp": "2005-07-24"
+  },
+  "FMB_bdg/sound/wall/wall01.wav": {
+   "filesize": 27562,
+   "timestamp": "2005-05-01"
+  },
+  "FMB_bdg/sound/weapons/tink2.wav": {
+   "filesize": 1716,
+   "timestamp": "1999-07-30"
+  }
+ },
  "filesize": 10056,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369",
  "tags": [
   "title:This Onion",
   "releasedate:2007-03-05",
@@ -26,473 +490,9 @@
   "tag:not",
   "startmap:fmb_bgd1"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "FMB_bdg/maps/fmb_bdg1.bsp": {
-   "filesize": 6831332,
-   "timestamp": "2007-03-04"
-  },
-  "FMB_bdg/sound/voreling/land.wav": {
-   "filesize": 6154,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/sound/voreling/bitestrt.wav": {
-   "filesize": 11132,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/sound/voreling/idle.wav": {
-   "filesize": 28378,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/sound/voreling/bite.wav": {
-   "filesize": 8920,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/sound/voreling/death.wav": {
-   "filesize": 19584,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/sound/voreling/sight.wav": {
-   "filesize": 55972,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/sound/voreling/pain.wav": {
-   "filesize": 15522,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/sound/equake/rumble2.wav": {
-   "filesize": 34274,
-   "timestamp": "2005-10-01"
-  },
-  "FMB_bdg/sound/equake/rumble4.wav": {
-   "filesize": 34106,
-   "timestamp": "2005-12-14"
-  },
-  "FMB_bdg/sound/equake/rumble.wav": {
-   "filesize": 34094,
-   "timestamp": "2005-10-01"
-  },
-  "FMB_bdg/sound/equake/rumble1.wav": {
-   "filesize": 34276,
-   "timestamp": "2005-10-01"
-  },
-  "FMB_bdg/sound/wall/platebreak.wav": {
-   "filesize": 6282,
-   "timestamp": "2006-02-18"
-  },
-  "FMB_bdg/sound/wall/wall01.wav": {
-   "filesize": 27562,
-   "timestamp": "2005-05-01"
-  },
-  "FMB_bdg/sound/wall/explosion2.wav": {
-   "filesize": 30376,
-   "timestamp": "2005-05-06"
-  },
-  "FMB_bdg/sound/wall/rockthud.wav": {
-   "filesize": 9742,
-   "timestamp": "2005-07-24"
-  },
-  "FMB_bdg/sound/vermis/sight2.wav": {
-   "filesize": 106780,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/grab.wav": {
-   "filesize": 352300,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/grabbed.wav": {
-   "filesize": 51630,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/spore.wav": {
-   "filesize": 44204,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/grndhit.wav": {
-   "filesize": 36428,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/death.wav": {
-   "filesize": 148016,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/pop.wav": {
-   "filesize": 131420,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/splash1.wav": {
-   "filesize": 30710,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/splash2.wav": {
-   "filesize": 25332,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/splash3.wav": {
-   "filesize": 25590,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/vermis/sight.wav": {
-   "filesize": 137772,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/sound/misc/foot2.wav": {
-   "filesize": 2050,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/rain.wav": {
-   "filesize": 40960,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/drip1.wav": {
-   "filesize": 12172,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/break01.wav": {
-   "filesize": 16686,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/foot4.wav": {
-   "filesize": 2858,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/spark1.wav": {
-   "filesize": 3764,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/foot3.wav": {
-   "filesize": 1764,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/flow2.wav": {
-   "filesize": 52620,
-   "timestamp": "2006-10-24"
-  },
-  "FMB_bdg/sound/misc/rumble4.wav": {
-   "filesize": 19144,
-   "timestamp": "2005-12-14"
-  },
-  "FMB_bdg/sound/misc/inh2ob.wav": {
-   "filesize": 9322,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/uwater.wav": {
-   "filesize": 39438,
-   "timestamp": "2002-06-04"
-  },
-  "FMB_bdg/sound/misc/spark2.wav": {
-   "filesize": 2268,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/quakeend.wav": {
-   "filesize": 8160,
-   "timestamp": "2005-12-13"
-  },
-  "FMB_bdg/sound/misc/flow1.wav": {
-   "filesize": 53120,
-   "timestamp": "2002-06-11"
-  },
-  "FMB_bdg/sound/misc/drip3.wav": {
-   "filesize": 15164,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/spark4.wav": {
-   "filesize": 2644,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/owater2.wav": {
-   "filesize": 7308,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/shortexp.wav": {
-   "filesize": 27562,
-   "timestamp": "2006-11-04"
-  },
-  "FMB_bdg/sound/misc/spark3.wav": {
-   "filesize": 3704,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/quake.wav": {
-   "filesize": 34286,
-   "timestamp": "2005-12-13"
-  },
-  "FMB_bdg/sound/misc/longexpl.wav": {
-   "filesize": 42430,
-   "timestamp": "2006-11-04"
-  },
-  "FMB_bdg/sound/misc/foot1.wav": {
-   "filesize": 2474,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/outwater.wav": {
-   "filesize": 6912,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/misc/drip2.wav": {
-   "filesize": 15596,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/pendulum/hit.wav": {
-   "filesize": 6026,
-   "timestamp": "1996-01-01"
-  },
-  "FMB_bdg/sound/pendulum/swing.wav": {
-   "filesize": 12960,
-   "timestamp": "1996-01-01"
-  },
-  "FMB_bdg/sound/weapons/tink2.wav": {
-   "filesize": 1716,
-   "timestamp": "1999-07-30"
-  },
-  "FMB_bdg/sound/drole/sight2.wav": {
-   "filesize": 45820,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/sight2.sfk": {
-   "filesize": 180,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/idle.wav": {
-   "filesize": 13958,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/strike2.wav": {
-   "filesize": 17896,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/fire.wav": {
-   "filesize": 28600,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/death.wav": {
-   "filesize": 66092,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/strike1.wav": {
-   "filesize": 12026,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/swipe.wav": {
-   "filesize": 3572,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/sight.wav": {
-   "filesize": 28554,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/pain.wav": {
-   "filesize": 24526,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/drole/explode3.wav": {
-   "filesize": 38026,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/sound/Music/We_Got_Trouble_end.wav": {
-   "filesize": 248194,
-   "timestamp": "2007-01-27"
-  },
-  "FMB_bdg/sound/Music/killit_end.wav": {
-   "filesize": 88240,
-   "timestamp": "2007-02-27"
-  },
-  "FMB_bdg/sound/Music/We_Got_Trouble_end2.wav": {
-   "filesize": 74340,
-   "timestamp": "2007-01-26"
-  },
-  "FMB_bdg/sound/Music/killit_loop.wav": {
-   "filesize": 667130,
-   "timestamp": "2007-02-27"
-  },
-  "FMB_bdg/sound/Music/Fantastic_B1-256_loop.wav": {
-   "filesize": 1940660,
-   "timestamp": "2007-02-27"
-  },
-  "FMB_bdg/sound/Music/null.wav": {
-   "filesize": 1244,
-   "timestamp": "2006-11-11"
-  },
-  "FMB_bdg/sound/Music/Infoscape_end.wav": {
-   "filesize": 42110,
-   "timestamp": "2007-02-27"
-  },
-  "FMB_bdg/sound/Music/dead1.wav": {
-   "filesize": 329356,
-   "timestamp": "2007-02-27"
-  },
-  "FMB_bdg/sound/Music/We_Got_Trouble_loop.wav": {
-   "filesize": 1697078,
-   "timestamp": "2007-02-27"
-  },
-  "FMB_bdg/sound/Music/Infoscape_loop.wav": {
-   "filesize": 977448,
-   "timestamp": "2007-02-27"
-  },
-  "FMB_bdg/sound/Music/Fantastic_B1-256_end.wav": {
-   "filesize": 728244,
-   "timestamp": "2007-02-27"
-  },
-  "FMB_bdg/sound/lavaman/l_death.wav": {
-   "filesize": 100618,
-   "timestamp": "2006-01-01"
-  },
-  "FMB_bdg/sound/IMP/FIST.WAV": {
-   "filesize": 5492,
-   "timestamp": "1997-11-28"
-  },
-  "FMB_bdg/sound/IMP/UP.WAV": {
-   "filesize": 12500,
-   "timestamp": "1997-11-28"
-  },
-  "FMB_bdg/sound/IMP/DEATH99.WAV": {
-   "filesize": 8448,
-   "timestamp": "1997-11-28"
-  },
-  "FMB_bdg/sound/IMP/expsmall.wav": {
-   "filesize": 8732,
-   "timestamp": "2005-12-30"
-  },
-  "FMB_bdg/sound/IMP/death.wav": {
-   "filesize": 11584,
-   "timestamp": "2006-02-18"
-  },
-  "FMB_bdg/sound/IMP/PAIN.WAV": {
-   "filesize": 10842,
-   "timestamp": "1997-11-28"
-  },
-  "FMB_bdg/sound/IMP/death_old.wav": {
-   "filesize": 15216,
-   "timestamp": "2005-12-31"
-  },
-  "FMB_bdg/credits.txt": {
-   "filesize": 2209,
-   "timestamp": "2007-03-05"
-  },
-  "FMB_bdg/progs.dat": {
-   "filesize": 721268,
-   "timestamp": "2007-02-20"
-  },
-  "FMB_bdg/progs/wizard.mdl": {
-   "filesize": 190844,
-   "timestamp": "2005-06-27"
-  },
-  "FMB_bdg/progs/beam.mdl": {
-   "filesize": 8500,
-   "timestamp": "2001-05-21"
-  },
-  "FMB_bdg/progs/imp.mdl": {
-   "filesize": 409528,
-   "timestamp": "2006-12-26"
-  },
-  "FMB_bdg/progs/vermis.mdl": {
-   "filesize": 656752,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/progs/S_null.spr": {
-   "filesize": 1080,
-   "timestamp": "1996-01-01"
-  },
-  "FMB_bdg/progs/candle.mdl": {
-   "filesize": 21476,
-   "timestamp": "2005-08-14"
-  },
-  "FMB_bdg/progs/lant_sty.mdl": {
-   "filesize": 165923,
-   "timestamp": "2007-02-23"
-  },
-  "FMB_bdg/progs/braztall.mdl": {
-   "filesize": 290037,
-   "timestamp": "2005-06-30"
-  },
-  "FMB_bdg/progs/voreling.mdl": {
-   "filesize": 185663,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/progs/drole.mdl": {
-   "filesize": 372728,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/progs/brazshrt.mdl": {
-   "filesize": 261243,
-   "timestamp": "2005-07-01"
-  },
-  "FMB_bdg/progs/rubble1.mdl": {
-   "filesize": 25316,
-   "timestamp": "2007-01-18"
-  },
-  "FMB_bdg/progs/pendulum.mdl": {
-   "filesize": 44128,
-   "timestamp": "1996-01-01"
-  },
-  "FMB_bdg/progs/fireball.mdl": {
-   "filesize": 10140,
-   "timestamp": "1997-12-02"
-  },
-  "FMB_bdg/progs/lavaman.mdl": {
-   "filesize": 190588,
-   "timestamp": "2005-12-31"
-  },
-  "FMB_bdg/progs/h_imp.mdl": {
-   "filesize": 22780,
-   "timestamp": "1997-12-01"
-  },
-  "FMB_bdg/progs/w_spikered.mdl": {
-   "filesize": 14336,
-   "timestamp": "2006-01-30"
-  },
-  "FMB_bdg/progs/rubble9.mdl": {
-   "filesize": 72692,
-   "timestamp": "2007-01-18"
-  },
-  "FMB_bdg/progs/longtrch.mdl": {
-   "filesize": 257355,
-   "timestamp": "2006-05-29"
-  },
-  "FMB_bdg/progs/rubble2.mdl": {
-   "filesize": 72692,
-   "timestamp": "2007-01-18"
-  },
-  "FMB_bdg/progs/sword.mdl": {
-   "filesize": 37060,
-   "timestamp": "2006-01-31"
-  },
-  "FMB_bdg/progs/h_ogre.mdl": {
-   "filesize": 42876,
-   "timestamp": "2006-12-06"
-  },
-  "FMB_bdg/progs/spore.mdl": {
-   "filesize": 13469,
-   "timestamp": "2006-12-08"
-  },
-  "FMB_bdg/progs/ogre.mdl": {
-   "filesize": 270108,
-   "timestamp": "2006-10-29"
-  },
-  "FMB_bdg/progs/h_hellkn.mdl": {
-   "filesize": 32629,
-   "timestamp": "2006-06-03"
-  },
-  "FMB_bdg/progs/h_drole.mdl": {
-   "filesize": 16854,
-   "timestamp": "2006-02-22"
-  },
-  "FMB_bdg/progs/vleg.mdl": {
-   "filesize": 6093,
-   "timestamp": "2006-01-07"
-  },
-  "FMB_bdg/progs/rubble3.mdl": {
-   "filesize": 108644,
-   "timestamp": "2007-01-18"
-  },
-  "FMB_bdg/progs/drlbomb.mdl": {
-   "filesize": 20355,
-   "timestamp": "2006-02-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fmb_bdg.zip",
   "https://www.quaddicted.com/files/by-sha256/a/aa9efa3673a95f6d01afb980eec58081dbfb77946913c306a747305f0628f369/fmb_bdg.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "389fa22cd2a0b791d207f363fa3846c365c0db9420d3d4527f5530c2760acad8",
  "filename": [
   "nitemare.zip"
  ],
- "filesize": 599,
- "tags": [
-  "title:Nitemare",
-  "releasedate:1997-08-05",
-  "game:quake",
-  "author:ViolentJ (Jeff Farris)",
-  "tag:base",
-  "tag:hard",
-  "tag:nonlinear",
-  "tag:rocket"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "NITEMARE.BSP": {
    "filesize": 1445836,
@@ -28,8 +12,24 @@
    "timestamp": "1997-08-05"
   }
  },
+ "filesize": 599,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "389fa22cd2a0b791d207f363fa3846c365c0db9420d3d4527f5530c2760acad8",
+ "tags": [
+  "title:Nitemare",
+  "releasedate:1997-08-05",
+  "game:quake",
+  "author:ViolentJ (Jeff Farris)",
+  "tag:base",
+  "tag:hard",
+  "tag:nonlinear",
+  "tag:rocket"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/nitemare.zip",
   "https://www.quaddicted.com/files/by-sha256/3/389fa22cd2a0b791d207f363fa3846c365c0db9420d3d4527f5530c2760acad8/nitemare.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

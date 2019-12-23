@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "764ad7c7ef0d947fdb1832ba9964a510a2627795390c07c910c0fdb009b859d0",
  "filename": [
   "ne_marb.zip"
  ],
+ "files": {
+  "ne_marb.bsp": {
+   "filesize": 3561152,
+   "timestamp": "2005-10-24"
+  },
+  "ne_marb.txt": {
+   "filesize": 5898,
+   "timestamp": "2005-11-05"
+  },
+  "ne_marb2.bsp": {
+   "filesize": 1216068,
+   "timestamp": "2005-10-25"
+  }
+ },
  "filesize": 1888,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "764ad7c7ef0d947fdb1832ba9964a510a2627795390c07c910c0fdb009b859d0",
  "tags": [
   "title:Crescendo Of Dreams + Surmounting Terror",
   "releasedate:2005-11-05",
@@ -21,25 +37,9 @@
   "dependency:quoth",
   "startmap:ne_marb"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "ne_marb.bsp": {
-   "filesize": 3561152,
-   "timestamp": "2005-10-24"
-  },
-  "ne_marb.txt": {
-   "filesize": 5898,
-   "timestamp": "2005-11-05"
-  },
-  "ne_marb2.bsp": {
-   "filesize": 1216068,
-   "timestamp": "2005-10-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ne_marb.zip",
   "https://www.quaddicted.com/files/by-sha256/7/764ad7c7ef0d947fdb1832ba9964a510a2627795390c07c910c0fdb009b859d0/ne_marb.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8ef02e2f384918a97f715873ba1cb58aef9e82e254e2147851514925d1fc6319",
  "filename": [
   "swinfen.zip"
  ],
- "filesize": 133,
- "tags": [
-  "title:Swinfen Hell",
-  "releasedate:1997-10-10",
-  "game:quake",
-  "author:Tom Jackson (Paradox)",
-  "tag:small",
-  "tag:realism",
-  "tag:town",
-  "tag:house"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "swinfen.bsp": {
    "filesize": 336268,
@@ -28,8 +12,24 @@
    "timestamp": "1997-10-10"
   }
  },
+ "filesize": 133,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8ef02e2f384918a97f715873ba1cb58aef9e82e254e2147851514925d1fc6319",
+ "tags": [
+  "title:Swinfen Hell",
+  "releasedate:1997-10-10",
+  "game:quake",
+  "author:Tom Jackson (Paradox)",
+  "tag:small",
+  "tag:realism",
+  "tag:town",
+  "tag:house"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/swinfen.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8ef02e2f384918a97f715873ba1cb58aef9e82e254e2147851514925d1fc6319/swinfen.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

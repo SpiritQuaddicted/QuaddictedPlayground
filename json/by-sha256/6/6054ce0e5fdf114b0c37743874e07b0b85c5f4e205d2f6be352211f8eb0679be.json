@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be",
  "filename": [
   "casspq1.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 6654431,
+   "timestamp": "1998-06-23"
+  },
+  "autoexec.cfg": {
+   "filesize": 142,
+   "timestamp": "1998-06-22"
+  },
+  "casspq1.txt": {
+   "filesize": 9972,
+   "timestamp": "1998-06-22"
+  },
+  "dosquake.bat": {
+   "filesize": 50,
+   "timestamp": "1998-06-22"
+  },
+  "glquake.bat": {
+   "filesize": 41,
+   "timestamp": "1998-06-22"
+  },
+  "winquake.bat": {
+   "filesize": 42,
+   "timestamp": "1998-06-22"
+  }
+ },
  "filesize": 1992,
+ "install": {
+  "extract": "{quake}/casspq1/"
+ },
+ "sha256": "6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be",
  "tags": [
   "title:Hell in a Can",
   "releasedate:1998-06-23",
@@ -21,37 +49,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/casspq1/"
- },
- "files": {
-  "casspq1.txt": {
-   "filesize": 9972,
-   "timestamp": "1998-06-22"
-  },
-  "dosquake.bat": {
-   "filesize": 50,
-   "timestamp": "1998-06-22"
-  },
-  "glquake.bat": {
-   "filesize": 41,
-   "timestamp": "1998-06-22"
-  },
-  "Pak0.pak": {
-   "filesize": 6654431,
-   "timestamp": "1998-06-23"
-  },
-  "autoexec.cfg": {
-   "filesize": 142,
-   "timestamp": "1998-06-22"
-  },
-  "winquake.bat": {
-   "filesize": 42,
-   "timestamp": "1998-06-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/casspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be/casspq1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

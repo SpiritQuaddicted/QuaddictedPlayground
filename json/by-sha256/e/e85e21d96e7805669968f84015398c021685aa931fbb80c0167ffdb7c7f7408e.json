@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e85e21d96e7805669968f84015398c021685aa931fbb80c0167ffdb7c7f7408e",
  "filename": [
   "haunt.zip"
  ],
+ "files": {
+  "Haunt.txt": {
+   "filesize": 14531,
+   "timestamp": "1997-11-20"
+  },
+  "haunt.bsp": {
+   "filesize": 1194000,
+   "timestamp": "1997-11-20"
+  }
+ },
  "filesize": 504,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e85e21d96e7805669968f84015398c021685aa931fbb80c0167ffdb7c7f7408e",
  "tags": [
   "title:Haunted Revenge",
   "releasedate:1997-11-20",
@@ -18,21 +30,9 @@
   "tag:lava",
   "tag:cavern"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Haunt.txt": {
-   "filesize": 14531,
-   "timestamp": "1997-11-20"
-  },
-  "haunt.bsp": {
-   "filesize": 1194000,
-   "timestamp": "1997-11-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/haunt.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e85e21d96e7805669968f84015398c021685aa931fbb80c0167ffdb7c7f7408e/haunt.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

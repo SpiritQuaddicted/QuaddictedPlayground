@@ -1,32 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305",
  "filename": [
   "bindingtower2.zip"
  ],
- "filesize": 8894,
- "tags": [
-  "title:Binding Tower",
-  "releasedate:2019-06-10",
-  "game:quake",
-  "author:Albert van Zyl",
-  "tag:large",
-  "tag:forest",
-  "tag:trees",
-  "tag:tower",
-  "tag:castle",
-  "tag:medieval",
-  "tag:nature",
-  "tag:skybox",
-  "tag:limits",
-  "tag:bsp2",
-  "tag:wizard",
-  "tag:outdoor",
-  "startmap:bindingtower"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "bindingtower.txt": {
    "filesize": 1683,
@@ -65,8 +40,33 @@
    "timestamp": "2019-06-10"
   }
  },
+ "filesize": 8894,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305",
+ "tags": [
+  "title:Binding Tower",
+  "releasedate:2019-06-10",
+  "game:quake",
+  "author:Albert van Zyl",
+  "tag:large",
+  "tag:forest",
+  "tag:trees",
+  "tag:tower",
+  "tag:castle",
+  "tag:medieval",
+  "tag:nature",
+  "tag:skybox",
+  "tag:limits",
+  "tag:bsp2",
+  "tag:wizard",
+  "tag:outdoor",
+  "startmap:bindingtower"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/bindingtower2.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305/bindingtower2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

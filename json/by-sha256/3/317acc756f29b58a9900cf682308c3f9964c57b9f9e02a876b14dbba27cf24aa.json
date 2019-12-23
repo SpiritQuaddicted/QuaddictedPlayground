@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "317acc756f29b58a9900cf682308c3f9964c57b9f9e02a876b14dbba27cf24aa",
  "filename": [
   "trinity.zip"
  ],
- "filesize": 614,
- "tags": [
-  "title:Trinity",
-  "releasedate:1997-11-20",
-  "game:quake",
-  "author:Equim (Martin Alderson)",
-  "tag:small",
-  "tag:realism",
-  "tag:house",
-  "tag:street"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Trinity.bsp": {
    "filesize": 1611772,
@@ -28,8 +12,24 @@
    "timestamp": "1997-11-22"
   }
  },
+ "filesize": 614,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "317acc756f29b58a9900cf682308c3f9964c57b9f9e02a876b14dbba27cf24aa",
+ "tags": [
+  "title:Trinity",
+  "releasedate:1997-11-20",
+  "game:quake",
+  "author:Equim (Martin Alderson)",
+  "tag:small",
+  "tag:realism",
+  "tag:house",
+  "tag:street"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/trinity.zip",
   "https://www.quaddicted.com/files/by-sha256/3/317acc756f29b58a9900cf682308c3f9964c57b9f9e02a876b14dbba27cf24aa/trinity.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "65d1c4aecd5e9642a63160a9f094aad4f941573482044b3dd1bcaddf06e75f08",
  "filename": [
   "quadrx6.zip"
  ],
+ "files": {
+  "Quadrx6.bsp": {
+   "filesize": 1940760,
+   "timestamp": "2004-06-29"
+  },
+  "Quatrotsky.txt": {
+   "filesize": 1441,
+   "timestamp": "2005-06-29"
+  },
+  "quadrx6_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 851,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "65d1c4aecd5e9642a63160a9f094aad4f941573482044b3dd1bcaddf06e75f08",
  "tags": [
   "title:Quatrotsky",
   "releasedate:2005-06-29",
@@ -13,25 +29,9 @@
   "tag:wizard",
   "tag:medieval"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "quadrx6_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "Quatrotsky.txt": {
-   "filesize": 1441,
-   "timestamp": "2005-06-29"
-  },
-  "Quadrx6.bsp": {
-   "filesize": 1940760,
-   "timestamp": "2004-06-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/quadrx6.zip",
   "https://www.quaddicted.com/files/by-sha256/6/65d1c4aecd5e9642a63160a9f094aad4f941573482044b3dd1bcaddf06e75f08/quadrx6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

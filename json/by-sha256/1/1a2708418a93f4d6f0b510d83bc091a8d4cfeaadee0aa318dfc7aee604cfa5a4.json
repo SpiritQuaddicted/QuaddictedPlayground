@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4",
  "filename": [
   "series1.zip"
  ],
+ "files": {
+  "S1L1.BSP": {
+   "filesize": 546024,
+   "timestamp": "1996-12-17"
+  },
+  "S1L2.BSP": {
+   "filesize": 429772,
+   "timestamp": "1996-12-17"
+  },
+  "S1L3.BSP": {
+   "filesize": 354472,
+   "timestamp": "1996-12-17"
+  },
+  "S1L4.BSP": {
+   "filesize": 623584,
+   "timestamp": "1996-12-23"
+  },
+  "S1L5.BSP": {
+   "filesize": 290820,
+   "timestamp": "1996-12-28"
+  },
+  "S1L6.BSP": {
+   "filesize": 467148,
+   "timestamp": "1996-12-30"
+  },
+  "SERIES1.TXT": {
+   "filesize": 401,
+   "timestamp": "1996-12-30"
+  }
+ },
  "filesize": 1064,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4",
  "tags": [
   "title:Series 1",
   "releasedate:1996-12-30",
@@ -19,41 +51,9 @@
   "tag:traps",
   "startmap:s1l1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "S1L5.BSP": {
-   "filesize": 290820,
-   "timestamp": "1996-12-28"
-  },
-  "SERIES1.TXT": {
-   "filesize": 401,
-   "timestamp": "1996-12-30"
-  },
-  "S1L3.BSP": {
-   "filesize": 354472,
-   "timestamp": "1996-12-17"
-  },
-  "S1L1.BSP": {
-   "filesize": 546024,
-   "timestamp": "1996-12-17"
-  },
-  "S1L2.BSP": {
-   "filesize": 429772,
-   "timestamp": "1996-12-17"
-  },
-  "S1L4.BSP": {
-   "filesize": 623584,
-   "timestamp": "1996-12-23"
-  },
-  "S1L6.BSP": {
-   "filesize": 467148,
-   "timestamp": "1996-12-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/series1.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4/series1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "26dcaa57f0e96d9d8f7325218ed6c8bef02be593711e85e42a3da01070ddbce3",
  "filename": [
   "smqe08b_pack.zip"
  ],
+ "files": {
+  "smqe08b_lurker.bsp": {
+   "filesize": 928244,
+   "timestamp": "2008-08-24"
+  },
+  "smqe08b_negke.bsp": {
+   "filesize": 817608,
+   "timestamp": "2008-08-23"
+  },
+  "smqe08b_omus.bsp": {
+   "filesize": 1059892,
+   "timestamp": "2008-08-24"
+  },
+  "smqe08b_pack.txt": {
+   "filesize": 1482,
+   "timestamp": "2008-08-25"
+  },
+  "smqe08b_textfish.bsp": {
+   "filesize": 1209424,
+   "timestamp": "2008-08-25"
+  },
+  "smqe08b_zwiffle.bsp": {
+   "filesize": 389008,
+   "timestamp": "2008-08-24"
+  }
+ },
  "filesize": 1609,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "26dcaa57f0e96d9d8f7325218ed6c8bef02be593711e85e42a3da01070ddbce3",
  "tags": [
   "title:Speedmapping pack QExpo2008 #2 - City in a forest",
   "releasedate:2008-08-25",
@@ -21,37 +49,9 @@
   "startmap:smqe08b_textfish",
   "startmap:smqe08b_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "smqe08b_omus.bsp": {
-   "filesize": 1059892,
-   "timestamp": "2008-08-24"
-  },
-  "smqe08b_textfish.bsp": {
-   "filesize": 1209424,
-   "timestamp": "2008-08-25"
-  },
-  "smqe08b_zwiffle.bsp": {
-   "filesize": 389008,
-   "timestamp": "2008-08-24"
-  },
-  "smqe08b_pack.txt": {
-   "filesize": 1482,
-   "timestamp": "2008-08-25"
-  },
-  "smqe08b_lurker.bsp": {
-   "filesize": 928244,
-   "timestamp": "2008-08-24"
-  },
-  "smqe08b_negke.bsp": {
-   "filesize": 817608,
-   "timestamp": "2008-08-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/smqe08b_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/2/26dcaa57f0e96d9d8f7325218ed6c8bef02be593711e85e42a3da01070ddbce3/smqe08b_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

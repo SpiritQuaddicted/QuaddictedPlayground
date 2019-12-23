@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "6de34bc637e8ab2d5212d4bf0040da428f2f4cf10b36a89de191b5edb4c8c2b9",
  "filename": [
   "doom2_07.zip"
  ],
+ "files": {
+  "07.BSP": {
+   "filesize": 401445,
+   "timestamp": "1997-04-19"
+  },
+  "DOOM2_07.TXT": {
+   "filesize": 2053,
+   "timestamp": "1997-04-20"
+  }
+ },
  "filesize": 142,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6de34bc637e8ab2d5212d4bf0040da428f2f4cf10b36a89de191b5edb4c8c2b9",
  "tags": [
   "title:Dead Simple  (Doom2-Map07)",
   "releasedate:1997-04-20",
@@ -16,21 +28,9 @@
   "tag:conversion",
   "startmap:07"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "07.BSP": {
-   "filesize": 401445,
-   "timestamp": "1997-04-19"
-  },
-  "DOOM2_07.TXT": {
-   "filesize": 2053,
-   "timestamp": "1997-04-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/doom2_07.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6de34bc637e8ab2d5212d4bf0040da428f2f4cf10b36a89de191b5edb4c8c2b9/doom2_07.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "1fc580568b0d3de845e2c43961ba659dd8a32ff8c7b0606ad5e56280f80e2fb1",
  "filename": [
   "e2m5rmx.zip"
  ],
+ "files": {
+  "E2M5.map": {
+   "filesize": 2684096,
+   "timestamp": "2008-07-01"
+  },
+  "e2m5rmx.txt": {
+   "filesize": 5911,
+   "timestamp": "2008-07-01"
+  },
+  "gnu.txt": {
+   "filesize": 14969,
+   "timestamp": "1999-12-21"
+  },
+  "pak0.PAK": {
+   "filesize": 9722508,
+   "timestamp": "2008-07-01"
+  }
+ },
  "filesize": 5008,
+ "install": {
+  "extract": "{quake}/e2m5rmx/"
+ },
+ "sha256": "1fc580568b0d3de845e2c43961ba659dd8a32ff8c7b0606ad5e56280f80e2fb1",
  "tags": [
   "title:The Lizard's Trance",
   "releasedate:2008-07-01",
@@ -18,29 +38,9 @@
   "tag:blood",
   "tag:skybox"
  ],
- "install": {
-  "extract": "{quake}/e2m5rmx/"
- },
- "files": {
-  "gnu.txt": {
-   "filesize": 14969,
-   "timestamp": "1999-12-21"
-  },
-  "E2M5.map": {
-   "filesize": 2684096,
-   "timestamp": "2008-07-01"
-  },
-  "pak0.PAK": {
-   "filesize": 9722508,
-   "timestamp": "2008-07-01"
-  },
-  "e2m5rmx.txt": {
-   "filesize": 5911,
-   "timestamp": "2008-07-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/e2m5rmx.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1fc580568b0d3de845e2c43961ba659dd8a32ff8c7b0606ad5e56280f80e2fb1/e2m5rmx.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

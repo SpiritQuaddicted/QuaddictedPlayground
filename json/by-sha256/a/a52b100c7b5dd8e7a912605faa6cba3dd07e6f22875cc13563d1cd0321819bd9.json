@@ -1,10 +1,210 @@
 {
- "version": "20191222-0",
- "sha256": "a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9",
  "filename": [
   "dig.zip"
  ],
+ "files": {
+  "CONFIG.CFG": {
+   "filesize": 2211,
+   "timestamp": "2000-07-28"
+  },
+  "dig29 readme.txt": {
+   "filesize": 3254,
+   "timestamp": "2000-07-10"
+  },
+  "glquake/beam.ms2": {
+   "filesize": 728,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/camera.ms2": {
+   "filesize": 948,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/frame.ms2": {
+   "filesize": 1260,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/rubble1.ms2": {
+   "filesize": 600,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/rubble2.ms2": {
+   "filesize": 1780,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/rubble3.ms2": {
+   "filesize": 420,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/v_beam.ms2": {
+   "filesize": 6756,
+   "timestamp": "2000-07-21"
+  },
+  "glquake/v_beam2.ms2": {
+   "filesize": 6756,
+   "timestamp": "2000-07-21"
+  },
+  "maps/dig.bsp": {
+   "filesize": 309112,
+   "timestamp": "2000-07-10"
+  },
+  "maps/dig1.bsp": {
+   "filesize": 1702920,
+   "timestamp": "2000-05-11"
+  },
+  "maps/dig2.bsp": {
+   "filesize": 1228300,
+   "timestamp": "2000-07-03"
+  },
+  "maps/dig3.bsp": {
+   "filesize": 498632,
+   "timestamp": "2000-07-07"
+  },
+  "progs.dat": {
+   "filesize": 748392,
+   "timestamp": "1998-03-23"
+  },
+  "progs/beam.mdl": {
+   "filesize": 10608,
+   "timestamp": "1998-05-08"
+  },
+  "progs/beamhit.spr": {
+   "filesize": 5320,
+   "timestamp": "1998-05-08"
+  },
+  "progs/bolt.mdl": {
+   "filesize": 1364,
+   "timestamp": "1998-05-08"
+  },
+  "progs/bs_light.mdl": {
+   "filesize": 28707,
+   "timestamp": "1998-05-08"
+  },
+  "progs/camera.mdl": {
+   "filesize": 33528,
+   "timestamp": "1998-05-08"
+  },
+  "progs/csm_cpit.mdl": {
+   "filesize": 4424,
+   "timestamp": "1998-05-08"
+  },
+  "progs/dring.spr": {
+   "filesize": 387832,
+   "timestamp": "1998-05-08"
+  },
+  "progs/expl.spr": {
+   "filesize": 127672,
+   "timestamp": "1998-05-08"
+  },
+  "progs/frame.mdl": {
+   "filesize": 24293,
+   "timestamp": "1998-05-08"
+  },
+  "progs/g_beam.mdl": {
+   "filesize": 68996,
+   "timestamp": "1998-05-08"
+  },
+  "progs/rubble1.mdl": {
+   "filesize": 69416,
+   "timestamp": "2000-06-29"
+  },
+  "progs/rubble2.mdl": {
+   "filesize": 199736,
+   "timestamp": "2000-07-03"
+  },
+  "progs/rubble3.mdl": {
+   "filesize": 303080,
+   "timestamp": "2000-07-03"
+  },
+  "progs/s_null.spr": {
+   "filesize": 1080,
+   "timestamp": "1996-01-01"
+  },
+  "progs/soldier.mdl": {
+   "filesize": 320900,
+   "timestamp": "2000-03-22"
+  },
+  "progs/v_beam.mdl": {
+   "filesize": 75588,
+   "timestamp": "1998-05-08"
+  },
+  "progs/v_beam2.mdl": {
+   "filesize": 75588,
+   "timestamp": "1998-05-08"
+  },
+  "sound/ambient/fan1.wav": {
+   "filesize": 10230,
+   "timestamp": "1998-05-08"
+  },
+  "sound/ambient/lava1.wav": {
+   "filesize": 136842,
+   "timestamp": "1998-05-08"
+  },
+  "sound/doors/creak1.wav": {
+   "filesize": 54650,
+   "timestamp": "1998-05-08"
+  },
+  "sound/hipweap/mjolhit.wav": {
+   "filesize": 33914,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/longexpl.wav": {
+   "filesize": 42430,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/moan1.wav": {
+   "filesize": 37224,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/moan2.wav": {
+   "filesize": 33598,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/pound_1.wav": {
+   "filesize": 9755,
+   "timestamp": "1999-07-12"
+  },
+  "sound/misc/quake.wav": {
+   "filesize": 34286,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/quakeend.wav": {
+   "filesize": 8160,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/raven.wav": {
+   "filesize": 4410,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/rublexp.wav": {
+   "filesize": 26008,
+   "timestamp": "1997-12-04"
+  },
+  "sound/misc/rumble.wav": {
+   "filesize": 53068,
+   "timestamp": "1998-05-08"
+  },
+  "sound/misc/shortexp.wav": {
+   "filesize": 27562,
+   "timestamp": "1998-05-08"
+  },
+  "sound/turret/beamchrg.wav": {
+   "filesize": 3962,
+   "timestamp": "1996-01-01"
+  },
+  "sound/turret/beamhit.wav": {
+   "filesize": 8644,
+   "timestamp": "1996-01-01"
+  },
+  "sound/zombie/raised.wav": {
+   "filesize": 18860,
+   "timestamp": "1996-01-01"
+  }
+ },
  "filesize": 2504,
+ "install": {
+  "extract": "{quake}/dig/"
+ },
+ "sha256": "a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9",
  "tags": [
   "title:The Dig",
   "releasedate:2000-07-28",
@@ -19,209 +219,9 @@
   "tag:monsters",
   "startmap:dig"
  ],
- "install": {
-  "extract": "{quake}/dig/"
- },
- "files": {
-  "dig29 readme.txt": {
-   "filesize": 3254,
-   "timestamp": "2000-07-10"
-  },
-  "maps/dig1.bsp": {
-   "filesize": 1702920,
-   "timestamp": "2000-05-11"
-  },
-  "maps/dig3.bsp": {
-   "filesize": 498632,
-   "timestamp": "2000-07-07"
-  },
-  "maps/dig2.bsp": {
-   "filesize": 1228300,
-   "timestamp": "2000-07-03"
-  },
-  "maps/dig.bsp": {
-   "filesize": 309112,
-   "timestamp": "2000-07-10"
-  },
-  "CONFIG.CFG": {
-   "filesize": 2211,
-   "timestamp": "2000-07-28"
-  },
-  "glquake/v_beam.ms2": {
-   "filesize": 6756,
-   "timestamp": "2000-07-21"
-  },
-  "glquake/beam.ms2": {
-   "filesize": 728,
-   "timestamp": "2000-07-21"
-  },
-  "glquake/frame.ms2": {
-   "filesize": 1260,
-   "timestamp": "2000-07-21"
-  },
-  "glquake/rubble2.ms2": {
-   "filesize": 1780,
-   "timestamp": "2000-07-21"
-  },
-  "glquake/rubble3.ms2": {
-   "filesize": 420,
-   "timestamp": "2000-07-21"
-  },
-  "glquake/rubble1.ms2": {
-   "filesize": 600,
-   "timestamp": "2000-07-21"
-  },
-  "glquake/v_beam2.ms2": {
-   "filesize": 6756,
-   "timestamp": "2000-07-21"
-  },
-  "glquake/camera.ms2": {
-   "filesize": 948,
-   "timestamp": "2000-07-21"
-  },
-  "sound/hipweap/mjolhit.wav": {
-   "filesize": 33914,
-   "timestamp": "1998-05-08"
-  },
-  "sound/ambient/fan1.wav": {
-   "filesize": 10230,
-   "timestamp": "1998-05-08"
-  },
-  "sound/ambient/lava1.wav": {
-   "filesize": 136842,
-   "timestamp": "1998-05-08"
-  },
-  "sound/turret/beamchrg.wav": {
-   "filesize": 3962,
-   "timestamp": "1996-01-01"
-  },
-  "sound/turret/beamhit.wav": {
-   "filesize": 8644,
-   "timestamp": "1996-01-01"
-  },
-  "sound/zombie/raised.wav": {
-   "filesize": 18860,
-   "timestamp": "1996-01-01"
-  },
-  "sound/misc/moan2.wav": {
-   "filesize": 33598,
-   "timestamp": "1998-05-08"
-  },
-  "sound/misc/moan1.wav": {
-   "filesize": 37224,
-   "timestamp": "1998-05-08"
-  },
-  "sound/misc/pound_1.wav": {
-   "filesize": 9755,
-   "timestamp": "1999-07-12"
-  },
-  "sound/misc/rublexp.wav": {
-   "filesize": 26008,
-   "timestamp": "1997-12-04"
-  },
-  "sound/misc/quakeend.wav": {
-   "filesize": 8160,
-   "timestamp": "1998-05-08"
-  },
-  "sound/misc/rumble.wav": {
-   "filesize": 53068,
-   "timestamp": "1998-05-08"
-  },
-  "sound/misc/raven.wav": {
-   "filesize": 4410,
-   "timestamp": "1998-05-08"
-  },
-  "sound/misc/shortexp.wav": {
-   "filesize": 27562,
-   "timestamp": "1998-05-08"
-  },
-  "sound/misc/quake.wav": {
-   "filesize": 34286,
-   "timestamp": "1998-05-08"
-  },
-  "sound/misc/longexpl.wav": {
-   "filesize": 42430,
-   "timestamp": "1998-05-08"
-  },
-  "sound/doors/creak1.wav": {
-   "filesize": 54650,
-   "timestamp": "1998-05-08"
-  },
-  "progs.dat": {
-   "filesize": 748392,
-   "timestamp": "1998-03-23"
-  },
-  "progs/beam.mdl": {
-   "filesize": 10608,
-   "timestamp": "1998-05-08"
-  },
-  "progs/s_null.spr": {
-   "filesize": 1080,
-   "timestamp": "1996-01-01"
-  },
-  "progs/beamhit.spr": {
-   "filesize": 5320,
-   "timestamp": "1998-05-08"
-  },
-  "progs/g_beam.mdl": {
-   "filesize": 68996,
-   "timestamp": "1998-05-08"
-  },
-  "progs/v_beam.mdl": {
-   "filesize": 75588,
-   "timestamp": "1998-05-08"
-  },
-  "progs/dring.spr": {
-   "filesize": 387832,
-   "timestamp": "1998-05-08"
-  },
-  "progs/camera.mdl": {
-   "filesize": 33528,
-   "timestamp": "1998-05-08"
-  },
-  "progs/expl.spr": {
-   "filesize": 127672,
-   "timestamp": "1998-05-08"
-  },
-  "progs/frame.mdl": {
-   "filesize": 24293,
-   "timestamp": "1998-05-08"
-  },
-  "progs/v_beam2.mdl": {
-   "filesize": 75588,
-   "timestamp": "1998-05-08"
-  },
-  "progs/rubble1.mdl": {
-   "filesize": 69416,
-   "timestamp": "2000-06-29"
-  },
-  "progs/soldier.mdl": {
-   "filesize": 320900,
-   "timestamp": "2000-03-22"
-  },
-  "progs/bs_light.mdl": {
-   "filesize": 28707,
-   "timestamp": "1998-05-08"
-  },
-  "progs/rubble2.mdl": {
-   "filesize": 199736,
-   "timestamp": "2000-07-03"
-  },
-  "progs/csm_cpit.mdl": {
-   "filesize": 4424,
-   "timestamp": "1998-05-08"
-  },
-  "progs/bolt.mdl": {
-   "filesize": 1364,
-   "timestamp": "1998-05-08"
-  },
-  "progs/rubble3.mdl": {
-   "filesize": 303080,
-   "timestamp": "2000-07-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dig.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9/dig.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

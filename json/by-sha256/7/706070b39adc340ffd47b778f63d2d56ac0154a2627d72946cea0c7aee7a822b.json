@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "706070b39adc340ffd47b778f63d2d56ac0154a2627d72946cea0c7aee7a822b",
  "filename": [
   "mini.zip"
  ],
+ "files": {
+  "FILE_ID.DIZ": {
+   "filesize": 312,
+   "timestamp": "1996-09-05"
+  },
+  "MINI.BSP": {
+   "filesize": 777876,
+   "timestamp": "1996-09-05"
+  },
+  "MINI.TXT": {
+   "filesize": 3178,
+   "timestamp": "1996-09-05"
+  }
+ },
  "filesize": 318,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "706070b39adc340ffd47b778f63d2d56ac0154a2627d72946cea0c7aee7a822b",
  "tags": [
   "title:Mini",
   "releasedate:1996-09-05",
@@ -16,25 +32,9 @@
   "tag:traps",
   "tag:small"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MINI.BSP": {
-   "filesize": 777876,
-   "timestamp": "1996-09-05"
-  },
-  "MINI.TXT": {
-   "filesize": 3178,
-   "timestamp": "1996-09-05"
-  },
-  "FILE_ID.DIZ": {
-   "filesize": 312,
-   "timestamp": "1996-09-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mini.zip",
   "https://www.quaddicted.com/files/by-sha256/7/706070b39adc340ffd47b778f63d2d56ac0154a2627d72946cea0c7aee7a822b/mini.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

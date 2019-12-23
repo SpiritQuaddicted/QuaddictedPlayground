@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "774f63777bebe0cfe984957c76911056beb5c550ccec9199376373a745d94381",
  "filename": [
   "bario.zip"
  ],
+ "files": {
+  "bario.bsp": {
+   "filesize": 1386992,
+   "timestamp": "1997-02-07"
+  },
+  "bario.txt": {
+   "filesize": 2340,
+   "timestamp": "1997-02-07"
+  },
+  "bario_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 600,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "774f63777bebe0cfe984957c76911056beb5c550ccec9199376373a745d94381",
  "tags": [
   "title:Pigro",
   "releasedate:1997-02-07",
@@ -16,25 +32,9 @@
   "tag:cavern",
   "tag:textures"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "bario.bsp": {
-   "filesize": 1386992,
-   "timestamp": "1997-02-07"
-  },
-  "bario_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "bario.txt": {
-   "filesize": 2340,
-   "timestamp": "1997-02-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/bario.zip",
   "https://www.quaddicted.com/files/by-sha256/7/774f63777bebe0cfe984957c76911056beb5c550ccec9199376373a745d94381/bario.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

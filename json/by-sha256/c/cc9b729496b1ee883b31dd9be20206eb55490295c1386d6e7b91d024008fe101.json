@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "cc9b729496b1ee883b31dd9be20206eb55490295c1386d6e7b91d024008fe101",
  "filename": [
   "dwroae_m3a.zip"
  ],
- "filesize": 5437,
- "tags": [
-  "title:Root of all Evil: Infernal Science (Part 1)",
-  "releasedate:2016-02-20",
-  "game:quake",
-  "author:DeeDoubleU",
-  "tag:large",
-  "tag:base",
-  "tag:ikbase",
-  "tag:traps",
-  "tag:secrets",
-  "tag:limits"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "dwroae_m3a.bsp": {
    "filesize": 9839390,
@@ -34,8 +16,26 @@
    "timestamp": "2016-02-20"
   }
  },
+ "filesize": 5437,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cc9b729496b1ee883b31dd9be20206eb55490295c1386d6e7b91d024008fe101",
+ "tags": [
+  "title:Root of all Evil: Infernal Science (Part 1)",
+  "releasedate:2016-02-20",
+  "game:quake",
+  "author:DeeDoubleU",
+  "tag:large",
+  "tag:base",
+  "tag:ikbase",
+  "tag:traps",
+  "tag:secrets",
+  "tag:limits"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/dwroae_m3a.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cc9b729496b1ee883b31dd9be20206eb55490295c1386d6e7b91d024008fe101/dwroae_m3a.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

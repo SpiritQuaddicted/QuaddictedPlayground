@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a",
  "filename": [
   "oblivion_2.zip"
  ],
- "filesize": 285,
- "tags": [
-  "title:O B L I V I O N",
-  "releasedate:2004-11-30",
-  "game:quake",
-  "author:Rich Carlson",
-  "tag:void",
-  "tag:space",
-  "tag:small",
-  "startmap:oblivion"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "oblivion.bsp": {
    "filesize": 695276,
@@ -28,8 +12,24 @@
    "timestamp": "2004-11-30"
   }
  },
+ "filesize": 285,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a",
+ "tags": [
+  "title:O B L I V I O N",
+  "releasedate:2004-11-30",
+  "game:quake",
+  "author:Rich Carlson",
+  "tag:void",
+  "tag:space",
+  "tag:small",
+  "startmap:oblivion"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/oblivion_2.zip",
   "https://www.quaddicted.com/files/by-sha256/6/60f87948231d34fdad544b8613106d617a8d995980529d00aebe9c7aaa53b32a/oblivion_2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "a56912aedd877a4f14b275fe479b9af56397cb093ee622cdb8181af373481d99",
  "filename": [
   "mrdrinc.zip"
  ],
+ "files": {
+  "mrdrinc.bsp": {
+   "filesize": 3289596,
+   "timestamp": "1998-01-08"
+  },
+  "mrdrinc.txt": {
+   "filesize": 8041,
+   "timestamp": "1998-01-10"
+  }
+ },
  "filesize": 1390,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a56912aedd877a4f14b275fe479b9af56397cb093ee622cdb8181af373481d99",
  "tags": [
   "title:Murder Inc.",
   "releasedate:1998-01-10",
@@ -12,21 +24,9 @@
   "author:Isaac Barry (aka Clorox)",
   "tag:ikbase"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "mrdrinc.txt": {
-   "filesize": 8041,
-   "timestamp": "1998-01-10"
-  },
-  "mrdrinc.bsp": {
-   "filesize": 3289596,
-   "timestamp": "1998-01-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mrdrinc.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a56912aedd877a4f14b275fe479b9af56397cb093ee622cdb8181af373481d99/mrdrinc.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

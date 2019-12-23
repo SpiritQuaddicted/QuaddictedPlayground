@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "be98d8e0277496c306ad1310db332665502f16bf187ce1f4a66a05d09bd86524",
  "filename": [
   "wolfie3d.zip"
  ],
+ "files": {
+  "wolfie3d.bsp": {
+   "filesize": 559692,
+   "timestamp": "1997-12-27"
+  },
+  "wolfie3d.txt": {
+   "filesize": 2743,
+   "timestamp": "1997-12-28"
+  }
+ },
  "filesize": 220,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "be98d8e0277496c306ad1310db332665502f16bf187ce1f4a66a05d09bd86524",
  "tags": [
   "title:Wolfenstein3D e1m1",
   "releasedate:1997-12-28",
@@ -15,21 +27,9 @@
   "tag:wolfenstein3d",
   "tag:no exit"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "wolfie3d.txt": {
-   "filesize": 2743,
-   "timestamp": "1997-12-28"
-  },
-  "wolfie3d.bsp": {
-   "filesize": 559692,
-   "timestamp": "1997-12-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/wolfie3d.zip",
   "https://www.quaddicted.com/files/by-sha256/b/be98d8e0277496c306ad1310db332665502f16bf187ce1f4a66a05d09bd86524/wolfie3d.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

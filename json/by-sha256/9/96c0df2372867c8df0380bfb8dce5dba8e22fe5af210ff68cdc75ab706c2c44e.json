@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "96c0df2372867c8df0380bfb8dce5dba8e22fe5af210ff68cdc75ab706c2c44e",
  "filename": [
   "ebony1.zip"
  ],
- "filesize": 447,
- "tags": [
-  "title:Ebony",
-  "releasedate:1999-02-15",
-  "game:quake",
-  "author:Martel DuVigneaud",
-  "tag:small",
-  "tag:metal",
-  "tag:secrets",
-  "tag:lava"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "ebony1.bsp": {
    "filesize": 1178044,
@@ -28,8 +12,24 @@
    "timestamp": "1999-02-15"
   }
  },
+ "filesize": 447,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "96c0df2372867c8df0380bfb8dce5dba8e22fe5af210ff68cdc75ab706c2c44e",
+ "tags": [
+  "title:Ebony",
+  "releasedate:1999-02-15",
+  "game:quake",
+  "author:Martel DuVigneaud",
+  "tag:small",
+  "tag:metal",
+  "tag:secrets",
+  "tag:lava"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/ebony1.zip",
   "https://www.quaddicted.com/files/by-sha256/9/96c0df2372867c8df0380bfb8dce5dba8e22fe5af210ff68cdc75ab706c2c44e/ebony1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

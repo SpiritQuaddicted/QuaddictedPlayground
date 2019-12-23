@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74",
  "filename": [
   "sm94_pack.zip"
  ],
+ "files": {
+  "SM94_Tron.bsp": {
+   "filesize": 831252,
+   "timestamp": "2005-06-03"
+  },
+  "sm94_bam.bsp": {
+   "filesize": 568912,
+   "timestamp": "2005-06-05"
+  },
+  "sm94_bam.txt": {
+   "filesize": 249,
+   "timestamp": "2005-06-05"
+  },
+  "sm94_pack.txt": {
+   "filesize": 1298,
+   "timestamp": "2005-06-04"
+  },
+  "sm94_zwiffle.bsp": {
+   "filesize": 372564,
+   "timestamp": "2005-06-04"
+  }
+ },
  "filesize": 660,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74",
  "tags": [
   "title:Speedmapping pack 94 - The Rabbit Hole",
   "releasedate:2005-06-05",
@@ -16,33 +40,9 @@
   "startmap:sm94_zwiffle",
   "startmap:SM94_Tron"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm94_zwiffle.bsp": {
-   "filesize": 372564,
-   "timestamp": "2005-06-04"
-  },
-  "SM94_Tron.bsp": {
-   "filesize": 831252,
-   "timestamp": "2005-06-03"
-  },
-  "sm94_bam.bsp": {
-   "filesize": 568912,
-   "timestamp": "2005-06-05"
-  },
-  "sm94_pack.txt": {
-   "filesize": 1298,
-   "timestamp": "2005-06-04"
-  },
-  "sm94_bam.txt": {
-   "filesize": 249,
-   "timestamp": "2005-06-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm94_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8/87eb9ee8001bbf5043a290a625b22eab633555d06c4a6e5b31f1ee07e7573d74/sm94_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

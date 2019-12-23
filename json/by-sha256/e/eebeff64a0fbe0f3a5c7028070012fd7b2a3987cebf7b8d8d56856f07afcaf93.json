@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "eebeff64a0fbe0f3a5c7028070012fd7b2a3987cebf7b8d8d56856f07afcaf93",
  "filename": [
   "pabc3.zip"
  ],
+ "files": {
+  "PABC3.bsp": {
+   "filesize": 1013888,
+   "timestamp": "1998-09-06"
+  }
+ },
  "filesize": 402,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "eebeff64a0fbe0f3a5c7028070012fd7b2a3987cebf7b8d8d56856f07afcaf93",
  "tags": [
   "title:The Courtyard",
   "releasedate:1998-09-06",
@@ -15,17 +23,9 @@
   "tag:small",
   "tag:i love quake 1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PABC3.bsp": {
-   "filesize": 1013888,
-   "timestamp": "1998-09-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pabc3.zip",
   "https://www.quaddicted.com/files/by-sha256/e/eebeff64a0fbe0f3a5c7028070012fd7b2a3987cebf7b8d8d56856f07afcaf93/pabc3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

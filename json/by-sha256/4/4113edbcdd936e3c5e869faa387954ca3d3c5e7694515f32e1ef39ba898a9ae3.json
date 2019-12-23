@@ -1,10 +1,110 @@
 {
- "version": "20191222-0",
- "sha256": "4113edbcdd936e3c5e869faa387954ca3d3c5e7694515f32e1ef39ba898a9ae3",
  "filename": [
   "techphob.zip"
  ],
+ "files": {
+  "TPHOB2.bsp": {
+   "filesize": 1336368,
+   "timestamp": "2001-08-13"
+  },
+  "progs/demon.mdl": {
+   "filesize": 102120,
+   "timestamp": "2001-08-11"
+  },
+  "progs/enforcer.mdl": {
+   "filesize": 160688,
+   "timestamp": "2001-08-10"
+  },
+  "progs/h_demon.mdl": {
+   "filesize": 34884,
+   "timestamp": "2001-08-05"
+  },
+  "progs/h_shal.mdl": {
+   "filesize": 28036,
+   "timestamp": "2001-08-05"
+  },
+  "progs/hknight.mdl": {
+   "filesize": 228400,
+   "timestamp": "2001-08-11"
+  },
+  "progs/k_spike.mdl": {
+   "filesize": 16756,
+   "timestamp": "2001-08-10"
+  },
+  "progs/ogre.mdl": {
+   "filesize": 162036,
+   "timestamp": "2001-08-10"
+  },
+  "progs/shalrath.mdl": {
+   "filesize": 80648,
+   "timestamp": "2001-08-10"
+  },
+  "progs/shambler.mdl": {
+   "filesize": 98556,
+   "timestamp": "2001-08-05"
+  },
+  "progs/soldier.mdl": {
+   "filesize": 146288,
+   "timestamp": "2001-08-10"
+  },
+  "progs/zombie.mdl": {
+   "filesize": 186084,
+   "timestamp": "2001-08-11"
+  },
+  "sound/ambience/swamp2.wav": {
+   "filesize": 371838,
+   "timestamp": "2001-08-10"
+  },
+  "sound/shambler/melee1.wav": {
+   "filesize": 4718,
+   "timestamp": "2001-08-04"
+  },
+  "sound/shambler/melee2.wav": {
+   "filesize": 5966,
+   "timestamp": "2001-08-04"
+  },
+  "sound/shambler/sattck1.wav": {
+   "filesize": 8036,
+   "timestamp": "2001-08-04"
+  },
+  "sound/shambler/sboom.wav": {
+   "filesize": 11672,
+   "timestamp": "2001-08-04"
+  },
+  "sound/shambler/sdeath.wav": {
+   "filesize": 21106,
+   "timestamp": "2001-08-04"
+  },
+  "sound/shambler/shurt2.wav": {
+   "filesize": 4302,
+   "timestamp": "2001-08-04"
+  },
+  "sound/shambler/sidle.wav": {
+   "filesize": 5646,
+   "timestamp": "2001-08-04"
+  },
+  "sound/shambler/smack.wav": {
+   "filesize": 5300,
+   "timestamp": "2001-08-04"
+  },
+  "sound/shambler/ssight.wav": {
+   "filesize": 15420,
+   "timestamp": "2001-08-04"
+  },
+  "tchphob.bsp": {
+   "filesize": 3052788,
+   "timestamp": "2001-12-15"
+  },
+  "technophobia.txt": {
+   "filesize": 1996,
+   "timestamp": "2001-12-15"
+  }
+ },
  "filesize": 2782,
+ "install": {
+  "extract": "{quake}/techphob/"
+ },
+ "sha256": "4113edbcdd936e3c5e869faa387954ca3d3c5e7694515f32e1ef39ba898a9ae3",
  "tags": [
   "title:Technophobia: Unfinished maps",
   "releasedate:2001-12-15",
@@ -20,109 +120,9 @@
   "tag:sounds",
   "tag:unfinished"
  ],
- "install": {
-  "extract": "{quake}/techphob/"
- },
- "files": {
-  "tchphob.bsp": {
-   "filesize": 3052788,
-   "timestamp": "2001-12-15"
-  },
-  "TPHOB2.bsp": {
-   "filesize": 1336368,
-   "timestamp": "2001-08-13"
-  },
-  "sound/ambience/swamp2.wav": {
-   "filesize": 371838,
-   "timestamp": "2001-08-10"
-  },
-  "sound/shambler/sattck1.wav": {
-   "filesize": 8036,
-   "timestamp": "2001-08-04"
-  },
-  "sound/shambler/sboom.wav": {
-   "filesize": 11672,
-   "timestamp": "2001-08-04"
-  },
-  "sound/shambler/melee1.wav": {
-   "filesize": 4718,
-   "timestamp": "2001-08-04"
-  },
-  "sound/shambler/shurt2.wav": {
-   "filesize": 4302,
-   "timestamp": "2001-08-04"
-  },
-  "sound/shambler/ssight.wav": {
-   "filesize": 15420,
-   "timestamp": "2001-08-04"
-  },
-  "sound/shambler/melee2.wav": {
-   "filesize": 5966,
-   "timestamp": "2001-08-04"
-  },
-  "sound/shambler/sdeath.wav": {
-   "filesize": 21106,
-   "timestamp": "2001-08-04"
-  },
-  "sound/shambler/sidle.wav": {
-   "filesize": 5646,
-   "timestamp": "2001-08-04"
-  },
-  "sound/shambler/smack.wav": {
-   "filesize": 5300,
-   "timestamp": "2001-08-04"
-  },
-  "technophobia.txt": {
-   "filesize": 1996,
-   "timestamp": "2001-12-15"
-  },
-  "progs/h_demon.mdl": {
-   "filesize": 34884,
-   "timestamp": "2001-08-05"
-  },
-  "progs/shambler.mdl": {
-   "filesize": 98556,
-   "timestamp": "2001-08-05"
-  },
-  "progs/enforcer.mdl": {
-   "filesize": 160688,
-   "timestamp": "2001-08-10"
-  },
-  "progs/demon.mdl": {
-   "filesize": 102120,
-   "timestamp": "2001-08-11"
-  },
-  "progs/soldier.mdl": {
-   "filesize": 146288,
-   "timestamp": "2001-08-10"
-  },
-  "progs/hknight.mdl": {
-   "filesize": 228400,
-   "timestamp": "2001-08-11"
-  },
-  "progs/k_spike.mdl": {
-   "filesize": 16756,
-   "timestamp": "2001-08-10"
-  },
-  "progs/ogre.mdl": {
-   "filesize": 162036,
-   "timestamp": "2001-08-10"
-  },
-  "progs/zombie.mdl": {
-   "filesize": 186084,
-   "timestamp": "2001-08-11"
-  },
-  "progs/shalrath.mdl": {
-   "filesize": 80648,
-   "timestamp": "2001-08-10"
-  },
-  "progs/h_shal.mdl": {
-   "filesize": 28036,
-   "timestamp": "2001-08-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/techphob.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4113edbcdd936e3c5e869faa387954ca3d3c5e7694515f32e1ef39ba898a9ae3/techphob.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

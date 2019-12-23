@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8a826e5cc82ae5d138c659891129d3340117a0d3bd5934ff9feee57d824d6253",
  "filename": [
   "church.zip"
  ],
+ "files": {
+  "CHURCH.TXT": {
+   "filesize": 1017,
+   "timestamp": "1996-11-22"
+  },
+  "church.bsp": {
+   "filesize": 983248,
+   "timestamp": "1996-11-22"
+  }
+ },
  "filesize": 423,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8a826e5cc82ae5d138c659891129d3340117a0d3bd5934ff9feee57d824d6253",
  "tags": [
   "title:Church",
   "releasedate:1996-11-22",
@@ -17,21 +29,9 @@
   "tag:no exit",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CHURCH.TXT": {
-   "filesize": 1017,
-   "timestamp": "1996-11-22"
-  },
-  "church.bsp": {
-   "filesize": 983248,
-   "timestamp": "1996-11-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/church.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8a826e5cc82ae5d138c659891129d3340117a0d3bd5934ff9feee57d824d6253/church.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

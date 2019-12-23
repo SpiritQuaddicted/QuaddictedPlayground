@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa",
  "filename": [
   "sm21_pack.zip"
  ],
+ "files": {
+  "sm21_gibbie.bsp": {
+   "filesize": 1500652,
+   "timestamp": "2001-06-17"
+  },
+  "sm21_misyu.bsp": {
+   "filesize": 819572,
+   "timestamp": "2001-06-16"
+  },
+  "sm21_nane.bsp": {
+   "filesize": 470424,
+   "timestamp": "2001-06-16"
+  },
+  "sm21_pack.txt": {
+   "filesize": 2344,
+   "timestamp": "2001-06-17"
+  },
+  "sm21_tron.bsp": {
+   "filesize": 564952,
+   "timestamp": "2001-06-12"
+  },
+  "sm21_vig.bsp": {
+   "filesize": 309760,
+   "timestamp": "2001-06-17"
+  }
+ },
  "filesize": 1223,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa",
  "tags": [
   "title:Speedmapping pack 21 - Wood and stone, containing at least 1 bridge",
   "releasedate:2001-06-17",
@@ -20,37 +48,9 @@
   "startmap:sm21_nane",
   "startmap:sm21_tron"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm21_misyu.bsp": {
-   "filesize": 819572,
-   "timestamp": "2001-06-16"
-  },
-  "sm21_pack.txt": {
-   "filesize": 2344,
-   "timestamp": "2001-06-17"
-  },
-  "sm21_tron.bsp": {
-   "filesize": 564952,
-   "timestamp": "2001-06-12"
-  },
-  "sm21_gibbie.bsp": {
-   "filesize": 1500652,
-   "timestamp": "2001-06-17"
-  },
-  "sm21_vig.bsp": {
-   "filesize": 309760,
-   "timestamp": "2001-06-17"
-  },
-  "sm21_nane.bsp": {
-   "filesize": 470424,
-   "timestamp": "2001-06-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm21_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4/417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa/sm21_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

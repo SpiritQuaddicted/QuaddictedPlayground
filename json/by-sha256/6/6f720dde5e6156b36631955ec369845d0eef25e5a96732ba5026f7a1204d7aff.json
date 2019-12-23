@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff",
  "filename": [
   "masque.zip"
  ],
+ "files": {
+  "Masquereadme.txt": {
+   "filesize": 4263,
+   "timestamp": "2005-10-12"
+  },
+  "Pak0.PAK": {
+   "filesize": 7744945,
+   "timestamp": "2005-10-11"
+  }
+ },
  "filesize": 3085,
+ "install": {
+  "extract": "{quake}/masque/"
+ },
+ "sha256": "6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff",
  "tags": [
   "title:The Masque of Red Death",
   "releasedate:2005-10-12",
@@ -22,21 +34,9 @@
   "startmap:masquestart",
   "startmap:masque"
  ],
- "install": {
-  "extract": "{quake}/masque/"
- },
- "files": {
-  "Pak0.PAK": {
-   "filesize": 7744945,
-   "timestamp": "2005-10-11"
-  },
-  "Masquereadme.txt": {
-   "filesize": 4263,
-   "timestamp": "2005-10-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/masque.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff/masque.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

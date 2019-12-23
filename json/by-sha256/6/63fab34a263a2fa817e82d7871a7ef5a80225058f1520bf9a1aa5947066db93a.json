@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a",
  "filename": [
   "sm47_pack.zip"
  ],
+ "files": {
+  "sm47_necros.bsp": {
+   "filesize": 1026960,
+   "timestamp": "2003-08-30"
+  },
+  "sm47_necros.txt": {
+   "filesize": 1989,
+   "timestamp": "2003-08-30"
+  },
+  "sm47_pack.txt": {
+   "filesize": 1519,
+   "timestamp": "2001-09-13"
+  },
+  "sm47_scampie.bsp": {
+   "filesize": 172800,
+   "timestamp": "2001-09-13"
+  },
+  "sm47_starbuck.bsp": {
+   "filesize": 1016152,
+   "timestamp": "2003-08-31"
+  }
+ },
  "filesize": 707,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a",
  "tags": [
   "title:Speedmapping pack 47 - Unthemed",
   "releasedate:2003-08-31",
@@ -16,33 +40,9 @@
   "startmap:sm47_starbuck",
   "startmap:sm47_necros"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm47_necros.txt": {
-   "filesize": 1989,
-   "timestamp": "2003-08-30"
-  },
-  "sm47_pack.txt": {
-   "filesize": 1519,
-   "timestamp": "2001-09-13"
-  },
-  "sm47_starbuck.bsp": {
-   "filesize": 1016152,
-   "timestamp": "2003-08-31"
-  },
-  "sm47_scampie.bsp": {
-   "filesize": 172800,
-   "timestamp": "2001-09-13"
-  },
-  "sm47_necros.bsp": {
-   "filesize": 1026960,
-   "timestamp": "2003-08-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm47_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a/sm47_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

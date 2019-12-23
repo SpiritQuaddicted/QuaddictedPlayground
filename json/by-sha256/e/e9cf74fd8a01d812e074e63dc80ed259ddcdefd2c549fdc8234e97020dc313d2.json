@@ -1,10 +1,114 @@
 {
- "version": "20191222-0",
- "sha256": "e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2",
  "filename": [
   "fort_driant.zip"
  ],
+ "files": {
+  "gfx/env/dragonheart_bk.tga": {
+   "filesize": 637657,
+   "timestamp": "2002-11-16"
+  },
+  "gfx/env/dragonheart_dn.tga": {
+   "filesize": 788950,
+   "timestamp": "2002-11-16"
+  },
+  "gfx/env/dragonheart_ft.tga": {
+   "filesize": 734137,
+   "timestamp": "2002-11-15"
+  },
+  "gfx/env/dragonheart_lf.tga": {
+   "filesize": 642705,
+   "timestamp": "2002-11-16"
+  },
+  "gfx/env/dragonheart_rt.tga": {
+   "filesize": 677781,
+   "timestamp": "2002-11-16"
+  },
+  "gfx/env/dragonheart_up.tga": {
+   "filesize": 349636,
+   "timestamp": "2002-11-16"
+  },
+  "maps/fort_driant.bsp": {
+   "filesize": 18766276,
+   "timestamp": "2009-03-06"
+  },
+  "maps/fort_driant.lit": {
+   "filesize": 2998721,
+   "timestamp": "2009-03-06"
+  },
+  "maps/fort_driant.txt": {
+   "filesize": 7287,
+   "timestamp": "2009-03-06"
+  },
+  "sound/ambience/jpl/airpipe1.wav": {
+   "filesize": 197408,
+   "timestamp": "2008-07-26"
+  },
+  "sound/ambience/jpl/airpipe2.wav": {
+   "filesize": 514280,
+   "timestamp": "2008-12-06"
+  },
+  "sound/ambience/jpl/amb_war_loop.wav": {
+   "filesize": 5038326,
+   "timestamp": "2008-12-06"
+  },
+  "sound/ambience/jpl/bigfire_loop.wav": {
+   "filesize": 266542,
+   "timestamp": "2008-12-06"
+  },
+  "sound/ambience/jpl/bigmachine_loop_02.wav": {
+   "filesize": 92760,
+   "timestamp": "2008-12-06"
+  },
+  "sound/ambience/jpl/bigmachine_stop_02.wav": {
+   "filesize": 362756,
+   "timestamp": "2008-12-06"
+  },
+  "sound/ambience/jpl/clop.wav": {
+   "filesize": 119534,
+   "timestamp": "2008-10-17"
+  },
+  "sound/ambience/jpl/groaner.wav": {
+   "filesize": 453322,
+   "timestamp": "2008-10-16"
+  },
+  "sound/ambience/jpl/laundromat02.wav": {
+   "filesize": 62546,
+   "timestamp": "2008-12-06"
+  },
+  "sound/ambience/jpl/machina1.wav": {
+   "filesize": 314794,
+   "timestamp": "2008-01-26"
+  },
+  "sound/ambience/jpl/machina3.wav": {
+   "filesize": 125104,
+   "timestamp": "2008-10-17"
+  },
+  "sound/ambience/jpl/macloop3.wav": {
+   "filesize": 70696,
+   "timestamp": "2008-01-31"
+  },
+  "sound/ambience/jpl/shaft.wav": {
+   "filesize": 180644,
+   "timestamp": "2008-10-16"
+  },
+  "sound/ambience/jpl/slimey.wav": {
+   "filesize": 397596,
+   "timestamp": "2008-10-15"
+  },
+  "sound/ambience/jpl/stodrone.wav": {
+   "filesize": 233432,
+   "timestamp": "2008-10-16"
+  },
+  "sound/ambience/jpl/tornado_jet.wav": {
+   "filesize": 1138732,
+   "timestamp": "2008-12-14"
+  }
+ },
  "filesize": 16348,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2",
  "tags": [
   "title:Fort Driant",
   "releasedate:2009-03-06",
@@ -21,113 +125,9 @@
   "tag:large",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
- "files": {
-  "maps/fort_driant.lit": {
-   "filesize": 2998721,
-   "timestamp": "2009-03-06"
-  },
-  "maps/fort_driant.txt": {
-   "filesize": 7287,
-   "timestamp": "2009-03-06"
-  },
-  "maps/fort_driant.bsp": {
-   "filesize": 18766276,
-   "timestamp": "2009-03-06"
-  },
-  "sound/ambience/jpl/clop.wav": {
-   "filesize": 119534,
-   "timestamp": "2008-10-17"
-  },
-  "sound/ambience/jpl/groaner.wav": {
-   "filesize": 453322,
-   "timestamp": "2008-10-16"
-  },
-  "sound/ambience/jpl/tornado_jet.wav": {
-   "filesize": 1138732,
-   "timestamp": "2008-12-14"
-  },
-  "sound/ambience/jpl/bigmachine_loop_02.wav": {
-   "filesize": 92760,
-   "timestamp": "2008-12-06"
-  },
-  "sound/ambience/jpl/laundromat02.wav": {
-   "filesize": 62546,
-   "timestamp": "2008-12-06"
-  },
-  "sound/ambience/jpl/bigfire_loop.wav": {
-   "filesize": 266542,
-   "timestamp": "2008-12-06"
-  },
-  "sound/ambience/jpl/airpipe2.wav": {
-   "filesize": 514280,
-   "timestamp": "2008-12-06"
-  },
-  "sound/ambience/jpl/bigmachine_stop_02.wav": {
-   "filesize": 362756,
-   "timestamp": "2008-12-06"
-  },
-  "sound/ambience/jpl/airpipe1.wav": {
-   "filesize": 197408,
-   "timestamp": "2008-07-26"
-  },
-  "sound/ambience/jpl/stodrone.wav": {
-   "filesize": 233432,
-   "timestamp": "2008-10-16"
-  },
-  "sound/ambience/jpl/slimey.wav": {
-   "filesize": 397596,
-   "timestamp": "2008-10-15"
-  },
-  "sound/ambience/jpl/macloop3.wav": {
-   "filesize": 70696,
-   "timestamp": "2008-01-31"
-  },
-  "sound/ambience/jpl/shaft.wav": {
-   "filesize": 180644,
-   "timestamp": "2008-10-16"
-  },
-  "sound/ambience/jpl/amb_war_loop.wav": {
-   "filesize": 5038326,
-   "timestamp": "2008-12-06"
-  },
-  "sound/ambience/jpl/machina3.wav": {
-   "filesize": 125104,
-   "timestamp": "2008-10-17"
-  },
-  "sound/ambience/jpl/machina1.wav": {
-   "filesize": 314794,
-   "timestamp": "2008-01-26"
-  },
-  "gfx/env/dragonheart_lf.tga": {
-   "filesize": 642705,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheart_bk.tga": {
-   "filesize": 637657,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheart_up.tga": {
-   "filesize": 349636,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheart_rt.tga": {
-   "filesize": 677781,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheart_ft.tga": {
-   "filesize": 734137,
-   "timestamp": "2002-11-15"
-  },
-  "gfx/env/dragonheart_dn.tga": {
-   "filesize": 788950,
-   "timestamp": "2002-11-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fort_driant.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2/fort_driant.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

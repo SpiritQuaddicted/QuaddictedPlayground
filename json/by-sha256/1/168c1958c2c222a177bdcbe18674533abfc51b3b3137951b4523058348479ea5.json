@@ -1,10 +1,334 @@
 {
- "version": "20191222-0",
- "sha256": "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5",
  "filename": [
   "badpak.zip"
  ],
+ "files": {
+  "BAD/AUTOEXEC.CFG": {
+   "filesize": 89,
+   "timestamp": "1999-04-11"
+  },
+  "BAD/CONBACK.LMP": {
+   "filesize": 64008,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/CONFIG.CFG": {
+   "filesize": 2369,
+   "timestamp": "2000-07-09"
+  },
+  "BAD/GFX/CONBACK.LMP": {
+   "filesize": 64008,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/GFX/QUAKEMAP.WAD": {
+   "filesize": 63580,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/GLQUAKE/BIGBANG.MS2": {
+   "filesize": 5500,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/B_G_KEY.MS2": {
+   "filesize": 572,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/B_S_KEY.MS2": {
+   "filesize": 572,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/ENFORCER.MS2": {
+   "filesize": 8796,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/ESTACA.MS2": {
+   "filesize": 520,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/EXPLODE.MS2": {
+   "filesize": 1960,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/FORCE2.MS2": {
+   "filesize": 8796,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/FORCE3.MS2": {
+   "filesize": 8796,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/FORCE4.MS2": {
+   "filesize": 8796,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/G_LIGHT.MS2": {
+   "filesize": 4908,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/G_NAIL2.MS2": {
+   "filesize": 5088,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/G_ROCK2.MS2": {
+   "filesize": 3748,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/HKNIGHT.MS2": {
+   "filesize": 8992,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/HUNCH.MS2": {
+   "filesize": 11920,
+   "timestamp": "1999-03-31"
+  },
+  "BAD/GLQUAKE/H_DEATH.MS2": {
+   "filesize": 5500,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/H_GUARD2.MS2": {
+   "filesize": 800,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/H_HELLKN.MS2": {
+   "filesize": 2016,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/H_KNIGHT.MS2": {
+   "filesize": 620,
+   "timestamp": "1998-10-24"
+  },
+  "BAD/GLQUAKE/H_MEGA.MS2": {
+   "filesize": 1216,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/H_SHAL.MS2": {
+   "filesize": 2464,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/H_SHAMS.MS2": {
+   "filesize": 1244,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/INVULNER.MS2": {
+   "filesize": 2476,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/KNIGHT.MS2": {
+   "filesize": 4164,
+   "timestamp": "1998-10-24"
+  },
+  "BAD/GLQUAKE/K_SPIKE.MS2": {
+   "filesize": 564,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/LASER.MS2": {
+   "filesize": 240,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/M_G_KEY.MS2": {
+   "filesize": 2096,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/M_S_KEY.MS2": {
+   "filesize": 2096,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/SHALRATH.MS2": {
+   "filesize": 7864,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/SHAMBLER.MS2": {
+   "filesize": 5520,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/SOLDIER2.MS2": {
+   "filesize": 6496,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/STAKE.MS2": {
+   "filesize": 2064,
+   "timestamp": "1998-10-18"
+  },
+  "BAD/GLQUAKE/S_LIGHT.MS2": {
+   "filesize": 1084,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/V_SPIKE.MS2": {
+   "filesize": 1936,
+   "timestamp": "1998-10-23"
+  },
+  "BAD/GLQUAKE/W_S_KEY.MS2": {
+   "filesize": 2496,
+   "timestamp": "1998-10-24"
+  },
+  "BAD/MAPS/IH1M1.BSP": {
+   "filesize": 1540268,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/MAPS/IH1M2.BSP": {
+   "filesize": 1285912,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/MAPS/IH1M3.BSP": {
+   "filesize": 1670416,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/MAPS/IH1M4.BSP": {
+   "filesize": 1314444,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS.DAT": {
+   "filesize": 532008,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/BIGBANG.MDL": {
+   "filesize": 58820,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/CRAW.MDL": {
+   "filesize": 102120,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/DIABLO.MDL": {
+   "filesize": 64856,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/DM.MDL": {
+   "filesize": 137484,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/ESTACA.MDL": {
+   "filesize": 5732,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/EXPLODE.MDL": {
+   "filesize": 68124,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/FORCE2.MDL": {
+   "filesize": 160688,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/FORCE3.MDL": {
+   "filesize": 160688,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/FORCE4.MDL": {
+   "filesize": 160688,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/GB.MDL": {
+   "filesize": 156236,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/G_STAKE.MDL": {
+   "filesize": 40360,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/HAMMER.MDL": {
+   "filesize": 14056,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/HUNCH.MDL": {
+   "filesize": 67932,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/H_DEATH.MDL": {
+   "filesize": 67388,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/H_GUARD2.MDL": {
+   "filesize": 5428,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/LIGHTB.MDL": {
+   "filesize": 172532,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/LIGHTNIN.MDL": {
+   "filesize": 1748,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/QUAKE.MDL": {
+   "filesize": 7749,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/RUBBLE1.MDL": {
+   "filesize": 17204,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/RUBBLE2.MDL": {
+   "filesize": 18500,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/RUBBLE3.MDL": {
+   "filesize": 17012,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/RUBBLE4.MDL": {
+   "filesize": 17204,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/SOLDIER2.MDL": {
+   "filesize": 146288,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/SPLINT1.MDL": {
+   "filesize": 1684,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/SPLINT2.MDL": {
+   "filesize": 1748,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/STAKE.MDL": {
+   "filesize": 37884,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/TAURUS.MDL": {
+   "filesize": 91472,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/TLIGHT.MDL": {
+   "filesize": 40980,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/VIK.MDL": {
+   "filesize": 74076,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/VIKING.MDL": {
+   "filesize": 280044,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/PROGS/V_NAIL3.MDL": {
+   "filesize": 54472,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/S0.SAV": {
+   "filesize": 111781,
+   "timestamp": "1999-11-01"
+  },
+  "BAD/SOUND/ENFORCER/AWAKE.WAV": {
+   "filesize": 42186,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/SOUND/EQUAKE/RUMBLE.WAV": {
+   "filesize": 53068,
+   "timestamp": "1998-10-19"
+  },
+  "BAD/SOUND/ITEMS/KILL.WAV": {
+   "filesize": 26036,
+   "timestamp": "1998-10-19"
+  },
+  "bad.doc": {
+   "filesize": 4608,
+   "timestamp": "2000-07-09"
+  }
+ },
  "filesize": 3643,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5",
  "tags": [
   "title:Badpak",
   "releasedate:2000-07-09",
@@ -23,333 +347,9 @@
   "startmap:ih1m3",
   "startmap:ih1m4"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "BAD/CONBACK.LMP": {
-   "filesize": 64008,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/GLQUAKE/EXPLODE.MS2": {
-   "filesize": 1960,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/FORCE2.MS2": {
-   "filesize": 8796,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/LASER.MS2": {
-   "filesize": 240,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/H_DEATH.MS2": {
-   "filesize": 5500,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/H_SHAL.MS2": {
-   "filesize": 2464,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/SHALRATH.MS2": {
-   "filesize": 7864,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/H_HELLKN.MS2": {
-   "filesize": 2016,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/ESTACA.MS2": {
-   "filesize": 520,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/V_SPIKE.MS2": {
-   "filesize": 1936,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/KNIGHT.MS2": {
-   "filesize": 4164,
-   "timestamp": "1998-10-24"
-  },
-  "BAD/GLQUAKE/W_S_KEY.MS2": {
-   "filesize": 2496,
-   "timestamp": "1998-10-24"
-  },
-  "BAD/GLQUAKE/M_S_KEY.MS2": {
-   "filesize": 2096,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/HKNIGHT.MS2": {
-   "filesize": 8992,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/SHAMBLER.MS2": {
-   "filesize": 5520,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/S_LIGHT.MS2": {
-   "filesize": 1084,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/H_MEGA.MS2": {
-   "filesize": 1216,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/ENFORCER.MS2": {
-   "filesize": 8796,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/H_KNIGHT.MS2": {
-   "filesize": 620,
-   "timestamp": "1998-10-24"
-  },
-  "BAD/GLQUAKE/FORCE4.MS2": {
-   "filesize": 8796,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/M_G_KEY.MS2": {
-   "filesize": 2096,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/H_SHAMS.MS2": {
-   "filesize": 1244,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/STAKE.MS2": {
-   "filesize": 2064,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/BIGBANG.MS2": {
-   "filesize": 5500,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/SOLDIER2.MS2": {
-   "filesize": 6496,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/B_S_KEY.MS2": {
-   "filesize": 572,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/G_NAIL2.MS2": {
-   "filesize": 5088,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/K_SPIKE.MS2": {
-   "filesize": 564,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/INVULNER.MS2": {
-   "filesize": 2476,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/HUNCH.MS2": {
-   "filesize": 11920,
-   "timestamp": "1999-03-31"
-  },
-  "BAD/GLQUAKE/H_GUARD2.MS2": {
-   "filesize": 800,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/FORCE3.MS2": {
-   "filesize": 8796,
-   "timestamp": "1998-10-18"
-  },
-  "BAD/GLQUAKE/B_G_KEY.MS2": {
-   "filesize": 572,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/G_LIGHT.MS2": {
-   "filesize": 4908,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/GLQUAKE/G_ROCK2.MS2": {
-   "filesize": 3748,
-   "timestamp": "1998-10-23"
-  },
-  "BAD/PROGS.DAT": {
-   "filesize": 532008,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/CONFIG.CFG": {
-   "filesize": 2369,
-   "timestamp": "2000-07-09"
-  },
-  "BAD/AUTOEXEC.CFG": {
-   "filesize": 89,
-   "timestamp": "1999-04-11"
-  },
-  "BAD/PROGS/FORCE2.MDL": {
-   "filesize": 160688,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/V_NAIL3.MDL": {
-   "filesize": 54472,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/RUBBLE1.MDL": {
-   "filesize": 17204,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/DIABLO.MDL": {
-   "filesize": 64856,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/ESTACA.MDL": {
-   "filesize": 5732,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/HAMMER.MDL": {
-   "filesize": 14056,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/BIGBANG.MDL": {
-   "filesize": 58820,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/FORCE3.MDL": {
-   "filesize": 160688,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/VIKING.MDL": {
-   "filesize": 280044,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/H_GUARD2.MDL": {
-   "filesize": 5428,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/SPLINT1.MDL": {
-   "filesize": 1684,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/STAKE.MDL": {
-   "filesize": 37884,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/LIGHTNIN.MDL": {
-   "filesize": 1748,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/G_STAKE.MDL": {
-   "filesize": 40360,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/QUAKE.MDL": {
-   "filesize": 7749,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/GB.MDL": {
-   "filesize": 156236,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/HUNCH.MDL": {
-   "filesize": 67932,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/RUBBLE2.MDL": {
-   "filesize": 18500,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/FORCE4.MDL": {
-   "filesize": 160688,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/TLIGHT.MDL": {
-   "filesize": 40980,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/SPLINT2.MDL": {
-   "filesize": 1748,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/CRAW.MDL": {
-   "filesize": 102120,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/RUBBLE3.MDL": {
-   "filesize": 17012,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/TAURUS.MDL": {
-   "filesize": 91472,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/LIGHTB.MDL": {
-   "filesize": 172532,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/SOLDIER2.MDL": {
-   "filesize": 146288,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/VIK.MDL": {
-   "filesize": 74076,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/H_DEATH.MDL": {
-   "filesize": 67388,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/EXPLODE.MDL": {
-   "filesize": 68124,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/DM.MDL": {
-   "filesize": 137484,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/PROGS/RUBBLE4.MDL": {
-   "filesize": 17204,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/SOUND/EQUAKE/RUMBLE.WAV": {
-   "filesize": 53068,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/SOUND/ITEMS/KILL.WAV": {
-   "filesize": 26036,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/SOUND/ENFORCER/AWAKE.WAV": {
-   "filesize": 42186,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/MAPS/IH1M3.BSP": {
-   "filesize": 1670416,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/MAPS/IH1M2.BSP": {
-   "filesize": 1285912,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/MAPS/IH1M1.BSP": {
-   "filesize": 1540268,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/MAPS/IH1M4.BSP": {
-   "filesize": 1314444,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/GFX/CONBACK.LMP": {
-   "filesize": 64008,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/GFX/QUAKEMAP.WAD": {
-   "filesize": 63580,
-   "timestamp": "1998-10-19"
-  },
-  "BAD/S0.SAV": {
-   "filesize": 111781,
-   "timestamp": "1999-11-01"
-  },
-  "bad.doc": {
-   "filesize": 4608,
-   "timestamp": "2000-07-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/badpak.zip",
   "https://www.quaddicted.com/files/by-sha256/1/168c1958c2c222a177bdcbe18674533abfc51b3b3137951b4523058348479ea5/badpak.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

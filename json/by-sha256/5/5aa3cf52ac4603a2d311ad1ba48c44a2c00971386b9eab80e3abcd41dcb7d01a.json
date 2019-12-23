@@ -1,30 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "5aa3cf52ac4603a2d311ad1ba48c44a2c00971386b9eab80e3abcd41dcb7d01a",
  "filename": [
   "sm192_pack.zip"
  ],
- "filesize": 11679,
- "tags": [
-  "title:SM192 - Rooftops",
-  "releasedate:2019-02-19",
-  "game:quake",
-  "author:Digs",
-  "author:Ing-ing",
-  "author:ionous",
-  "author:ish",
-  "author:Naitelveni",
-  "author:Pinchy",
-  "startmap:sm192_digs",
-  "startmap:sm192_ing",
-  "startmap:sm192_ionous",
-  "startmap:sm192_ish",
-  "startmap:sm192_naitelveni",
-  "startmap:sm192_pinchy"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "gfx/env/nec_city/city_bk.tga": {
    "filesize": 786476,
@@ -147,8 +124,31 @@
    "timestamp": "2019-02-19"
   }
  },
+ "filesize": 11679,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "5aa3cf52ac4603a2d311ad1ba48c44a2c00971386b9eab80e3abcd41dcb7d01a",
+ "tags": [
+  "title:SM192 - Rooftops",
+  "releasedate:2019-02-19",
+  "game:quake",
+  "author:Digs",
+  "author:Ing-ing",
+  "author:ionous",
+  "author:ish",
+  "author:Naitelveni",
+  "author:Pinchy",
+  "startmap:sm192_digs",
+  "startmap:sm192_ing",
+  "startmap:sm192_ionous",
+  "startmap:sm192_ish",
+  "startmap:sm192_naitelveni",
+  "startmap:sm192_pinchy"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm192_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5aa3cf52ac4603a2d311ad1ba48c44a2c00971386b9eab80e3abcd41dcb7d01a/sm192_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

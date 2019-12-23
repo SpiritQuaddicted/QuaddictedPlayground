@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6083eb1eea7d0bfd259b1f54bd30e6ab5f4c47ea6e6a200be3dc90b93c0f7e9e",
  "filename": [
   "src.zip"
  ],
- "filesize": 2788,
- "tags": [
-  "title:SRC: The Slime Refinery Complex",
-  "releasedate:2007-07-01",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:JPL",
-  "tag:base",
-  "tag:doom3",
-  "tag:quoth",
-  "dependency:quoth"
- ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
  "files": {
   "src.bsp": {
    "filesize": 7174580,
@@ -33,8 +16,25 @@
    "timestamp": "2007-06-22"
   }
  },
+ "filesize": 2788,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "6083eb1eea7d0bfd259b1f54bd30e6ab5f4c47ea6e6a200be3dc90b93c0f7e9e",
+ "tags": [
+  "title:SRC: The Slime Refinery Complex",
+  "releasedate:2007-07-01",
+  "game:quake",
+  "commandline:-hipnotic -game quoth",
+  "author:JPL",
+  "tag:base",
+  "tag:doom3",
+  "tag:quoth",
+  "dependency:quoth"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/src.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6083eb1eea7d0bfd259b1f54bd30e6ab5f4c47ea6e6a200be3dc90b93c0f7e9e/src.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

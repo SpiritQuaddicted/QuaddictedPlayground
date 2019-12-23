@@ -1,31 +1,31 @@
 {
- "version": "20191222-0",
- "sha256": "6667171f54295f378018a188bb78a961e5f50a0f4b4753d8233c465944efb423",
  "filename": [
   "ne_dust2.zip"
  ],
+ "files": {
+  "ne_dust2.bsp": {
+   "filesize": 1201320,
+   "timestamp": "2004-02-08"
+  },
+  "ne_dust2.txt": {
+   "filesize": 4464,
+   "timestamp": "2004-02-08"
+  }
+ },
  "filesize": 462,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6667171f54295f378018a188bb78a961e5f50a0f4b4753d8233c465944efb423",
  "tags": [
   "title:CS INVASION FLEET!",
   "releasedate:2004-02-08",
   "game:quake",
   "author:necros"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ne_dust2.txt": {
-   "filesize": 4464,
-   "timestamp": "2004-02-08"
-  },
-  "ne_dust2.bsp": {
-   "filesize": 1201320,
-   "timestamp": "2004-02-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ne_dust2.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6667171f54295f378018a188bb78a961e5f50a0f4b4753d8233c465944efb423/ne_dust2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

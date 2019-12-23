@@ -1,36 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9808fca90f92763256e9e79e67b0f65f9281c419713c704742f695b2fd6e89d4",
  "filename": [
   "de_dust.zip"
  ],
- "filesize": 14472,
- "tags": [
-  "title:Disengage the Simulator",
-  "releasedate:2018-03-14",
-  "game:quake",
-  "commandline:-game ad",
-  "author:mukor",
-  "tag:small",
-  "tag:slaughter",
-  "tag:arena",
-  "tag:horde",
-  "tag:desert",
-  "tag:ad",
-  "tag:cs",
-  "tag:counterstrike",
-  "tag:textures",
-  "tag:models",
-  "tag:sounds",
-  "tag:tribute",
-  "tag:limits",
-  "tag:source",
-  "tag:arcanedimensions",
-  "dependency:ad_v1_70final"
- ],
- "install": {
-  "extract": "{quake}/ad/"
- },
  "files": {
   "bomb_readme.txt": {
    "filesize": 2225,
@@ -305,8 +276,37 @@
    "timestamp": "2018-01-03"
   }
  },
+ "filesize": 14472,
+ "install": {
+  "extract": "{quake}/ad/"
+ },
+ "sha256": "9808fca90f92763256e9e79e67b0f65f9281c419713c704742f695b2fd6e89d4",
+ "tags": [
+  "title:Disengage the Simulator",
+  "releasedate:2018-03-14",
+  "game:quake",
+  "commandline:-game ad",
+  "author:mukor",
+  "tag:small",
+  "tag:slaughter",
+  "tag:arena",
+  "tag:horde",
+  "tag:desert",
+  "tag:ad",
+  "tag:cs",
+  "tag:counterstrike",
+  "tag:textures",
+  "tag:models",
+  "tag:sounds",
+  "tag:tribute",
+  "tag:limits",
+  "tag:source",
+  "tag:arcanedimensions",
+  "dependency:ad_v1_70final"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/de_dust.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9808fca90f92763256e9e79e67b0f65f9281c419713c704742f695b2fd6e89d4/de_dust.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

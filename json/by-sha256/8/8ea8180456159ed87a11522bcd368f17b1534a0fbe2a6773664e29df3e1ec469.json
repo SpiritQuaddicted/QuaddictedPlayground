@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469",
  "filename": [
   "gmsp3tw.zip"
  ],
+ "files": {
+  "gmsp3tw.bsp": {
+   "filesize": 5610160,
+   "timestamp": "2004-06-01"
+  },
+  "gmsp3tw.txt": {
+   "filesize": 5220,
+   "timestamp": "2004-06-01"
+  }
+ },
  "filesize": 2279,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469",
  "tags": [
   "title:Day of the Lords [transparent water]",
   "releasedate:2004-06-01",
@@ -19,21 +31,9 @@
   "tag:mustplay",
   "tag:hard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "gmsp3tw.txt": {
-   "filesize": 5220,
-   "timestamp": "2004-06-01"
-  },
-  "gmsp3tw.bsp": {
-   "filesize": 5610160,
-   "timestamp": "2004-06-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/gmsp3tw.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469/gmsp3tw.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "9fa59b3d62af8faa0c372036791df74bdb80ff8f93c269ba6734a6d75b64be6e",
  "filename": [
   "wishes.zip"
  ],
+ "files": {
+  "wishes.bsp": {
+   "filesize": 1285104,
+   "timestamp": "1997-12-18"
+  },
+  "wishes.txt": {
+   "filesize": 7213,
+   "timestamp": "1998-04-25"
+  }
+ },
  "filesize": 556,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9fa59b3d62af8faa0c372036791df74bdb80ff8f93c269ba6734a6d75b64be6e",
  "tags": [
   "title:The Well of Wishes",
   "releasedate:1998-04-25",
@@ -18,21 +30,9 @@
   "tag:traps",
   "tag:blue"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "wishes.txt": {
-   "filesize": 7213,
-   "timestamp": "1998-04-25"
-  },
-  "wishes.bsp": {
-   "filesize": 1285104,
-   "timestamp": "1997-12-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/wishes.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9fa59b3d62af8faa0c372036791df74bdb80ff8f93c269ba6734a6d75b64be6e/wishes.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

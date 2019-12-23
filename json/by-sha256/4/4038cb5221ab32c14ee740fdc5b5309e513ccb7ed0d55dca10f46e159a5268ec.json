@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4038cb5221ab32c14ee740fdc5b5309e513ccb7ed0d55dca10f46e159a5268ec",
  "filename": [
   "fr3n1m3.zip"
  ],
- "filesize": 734,
- "tags": [
-  "title:Necromanicide",
-  "releasedate:2006-02-27",
-  "game:quake",
-  "author:Fern (aka Fr3n)",
-  "tag:egyptian",
-  "tag:medium",
-  "tag:remix",
-  "tag:e1m3"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "fr3n1m3.bsp": {
    "filesize": 1720412,
@@ -28,8 +12,24 @@
    "timestamp": "2006-02-25"
   }
  },
+ "filesize": 734,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4038cb5221ab32c14ee740fdc5b5309e513ccb7ed0d55dca10f46e159a5268ec",
+ "tags": [
+  "title:Necromanicide",
+  "releasedate:2006-02-27",
+  "game:quake",
+  "author:Fern (aka Fr3n)",
+  "tag:egyptian",
+  "tag:medium",
+  "tag:remix",
+  "tag:e1m3"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/fr3n1m3.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4038cb5221ab32c14ee740fdc5b5309e513ccb7ed0d55dca10f46e159a5268ec/fr3n1m3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "2fbd9f882a00a627dc42ce12b02146e99de0fabd5971a9a172cd10a8dac9f4ad",
  "filename": [
   "gatordiv.zip"
  ],
- "filesize": 965,
- "tags": [
-  "title:GatorMan's Diversion",
-  "releasedate:1997-03-11",
-  "game:quake",
-  "author:GatorMan",
-  "tag:medium",
-  "tag:medieval",
-  "tag:terracotta",
-  "tag:dm"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "GATORDIV.BSP": {
    "filesize": 2234252,
@@ -28,8 +12,24 @@
    "timestamp": "1997-03-11"
   }
  },
+ "filesize": 965,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2fbd9f882a00a627dc42ce12b02146e99de0fabd5971a9a172cd10a8dac9f4ad",
+ "tags": [
+  "title:GatorMan's Diversion",
+  "releasedate:1997-03-11",
+  "game:quake",
+  "author:GatorMan",
+  "tag:medium",
+  "tag:medieval",
+  "tag:terracotta",
+  "tag:dm"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/gatordiv.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2fbd9f882a00a627dc42ce12b02146e99de0fabd5971a9a172cd10a8dac9f4ad/gatordiv.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

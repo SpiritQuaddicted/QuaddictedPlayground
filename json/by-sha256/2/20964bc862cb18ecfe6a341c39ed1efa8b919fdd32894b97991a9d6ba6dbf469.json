@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "20964bc862cb18ecfe6a341c39ed1efa8b919fdd32894b97991a9d6ba6dbf469",
  "filename": [
   "fmb100.zip"
  ],
- "filesize": 2473,
- "tags": [
-  "title:A Roaming Wildebeest In Spain",
-  "releasedate:2004-10-14",
-  "game:quake",
-  "commandline:-game fmb100",
-  "author:Mike Woodham &amp; Tronyn",
-  "tag:medieval",
-  "tag:egyptian",
-  "tag:temple",
-  "tag:scraps",
-  "tag:large",
-  "tag:planetquake-map-of-the-week"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "fmb100.bat": {
    "filesize": 72,
@@ -35,8 +16,27 @@
    "timestamp": "2004-10-11"
   }
  },
+ "filesize": 2473,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "20964bc862cb18ecfe6a341c39ed1efa8b919fdd32894b97991a9d6ba6dbf469",
+ "tags": [
+  "title:A Roaming Wildebeest In Spain",
+  "releasedate:2004-10-14",
+  "game:quake",
+  "commandline:-game fmb100",
+  "author:Mike Woodham &amp; Tronyn",
+  "tag:medieval",
+  "tag:egyptian",
+  "tag:temple",
+  "tag:scraps",
+  "tag:large",
+  "tag:planetquake-map-of-the-week"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/fmb100.zip",
   "https://www.quaddicted.com/files/by-sha256/2/20964bc862cb18ecfe6a341c39ed1efa8b919fdd32894b97991a9d6ba6dbf469/fmb100.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

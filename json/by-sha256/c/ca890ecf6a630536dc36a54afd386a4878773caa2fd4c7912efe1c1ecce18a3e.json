@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "ca890ecf6a630536dc36a54afd386a4878773caa2fd4c7912efe1c1ecce18a3e",
  "filename": [
   "sm11_pack.zip"
  ],
+ "files": {
+  "sm11_aard.bsp": {
+   "filesize": 466128,
+   "timestamp": "2001-04-28"
+  },
+  "sm11_bear.bsp": {
+   "filesize": 287692,
+   "timestamp": "2001-04-28"
+  },
+  "sm11_czg.bsp": {
+   "filesize": 908088,
+   "timestamp": "2001-04-28"
+  },
+  "sm11_misyu.bsp": {
+   "filesize": 668580,
+   "timestamp": "2001-04-28"
+  },
+  "sm11_pack.txt": {
+   "filesize": 2150,
+   "timestamp": "2001-04-29"
+  }
+ },
  "filesize": 830,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ca890ecf6a630536dc36a54afd386a4878773caa2fd4c7912efe1c1ecce18a3e",
  "tags": [
   "title:Speedmapping pack 11 - Unthemed",
   "releasedate:2001-04-29",
@@ -18,33 +42,9 @@
   "startmap:sm11_czg",
   "startmap:sm11_aard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm11_pack.txt": {
-   "filesize": 2150,
-   "timestamp": "2001-04-29"
-  },
-  "sm11_czg.bsp": {
-   "filesize": 908088,
-   "timestamp": "2001-04-28"
-  },
-  "sm11_misyu.bsp": {
-   "filesize": 668580,
-   "timestamp": "2001-04-28"
-  },
-  "sm11_bear.bsp": {
-   "filesize": 287692,
-   "timestamp": "2001-04-28"
-  },
-  "sm11_aard.bsp": {
-   "filesize": 466128,
-   "timestamp": "2001-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm11_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/ca890ecf6a630536dc36a54afd386a4878773caa2fd4c7912efe1c1ecce18a3e/sm11_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

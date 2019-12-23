@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "562304a70002aca68727488400c57b2e975b5525cce90596c414a368d5b90950",
  "filename": [
   "sm172_pack.zip"
  ],
- "filesize": 311,
- "tags": [
-  "title:Speedmapping pack 172 - Explosions",
-  "releasedate:2013-06-10",
-  "game:quake",
-  "author:digs",
-  "author:Orbs",
-  "author:Scampie",
-  "tag:quoth",
-  "dependency:quoth",
-  "startmap:sm172_digs",
-  "startmap:sm172_orbs",
-  "startmap:sm172_scampie"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "sm172_digs.bsp": {
    "filesize": 579840,
@@ -39,8 +20,27 @@
    "timestamp": "2013-06-10"
   }
  },
+ "filesize": 311,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "562304a70002aca68727488400c57b2e975b5525cce90596c414a368d5b90950",
+ "tags": [
+  "title:Speedmapping pack 172 - Explosions",
+  "releasedate:2013-06-10",
+  "game:quake",
+  "author:digs",
+  "author:Orbs",
+  "author:Scampie",
+  "tag:quoth",
+  "dependency:quoth",
+  "startmap:sm172_digs",
+  "startmap:sm172_orbs",
+  "startmap:sm172_scampie"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm172_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5/562304a70002aca68727488400c57b2e975b5525cce90596c414a368d5b90950/sm172_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

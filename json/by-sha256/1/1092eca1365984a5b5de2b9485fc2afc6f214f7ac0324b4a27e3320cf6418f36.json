@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "1092eca1365984a5b5de2b9485fc2afc6f214f7ac0324b4a27e3320cf6418f36",
  "filename": [
   "sm95_pack.zip"
  ],
+ "files": {
+  "sm95_headthump.bsp": {
+   "filesize": 2445564,
+   "timestamp": "2005-06-12"
+  },
+  "sm95_pack.txt": {
+   "filesize": 1370,
+   "timestamp": "2005-06-12"
+  },
+  "sm95_rpg.bsp": {
+   "filesize": 720156,
+   "timestamp": "2005-06-11"
+  },
+  "sm95_tron.bsp": {
+   "filesize": 1208472,
+   "timestamp": "2005-06-12"
+  },
+  "sm95_zwiffle.bsp": {
+   "filesize": 1205360,
+   "timestamp": "2005-06-11"
+  }
+ },
  "filesize": 2124,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1092eca1365984a5b5de2b9485fc2afc6f214f7ac0324b4a27e3320cf6418f36",
  "tags": [
   "title:Speedmapping pack 95 - Castle Void",
   "releasedate:2005-06-12",
@@ -20,33 +44,9 @@
   "startmap:sm95_tron",
   "startmap:sm95_rpg"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm95_tron.bsp": {
-   "filesize": 1208472,
-   "timestamp": "2005-06-12"
-  },
-  "sm95_zwiffle.bsp": {
-   "filesize": 1205360,
-   "timestamp": "2005-06-11"
-  },
-  "sm95_headthump.bsp": {
-   "filesize": 2445564,
-   "timestamp": "2005-06-12"
-  },
-  "sm95_rpg.bsp": {
-   "filesize": 720156,
-   "timestamp": "2005-06-11"
-  },
-  "sm95_pack.txt": {
-   "filesize": 1370,
-   "timestamp": "2005-06-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm95_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1092eca1365984a5b5de2b9485fc2afc6f214f7ac0324b4a27e3320cf6418f36/sm95_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

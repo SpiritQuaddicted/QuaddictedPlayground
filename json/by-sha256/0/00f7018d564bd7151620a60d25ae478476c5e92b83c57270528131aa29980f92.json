@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "00f7018d564bd7151620a60d25ae478476c5e92b83c57270528131aa29980f92",
  "filename": [
   "haunted.zip"
  ],
- "filesize": 775,
- "tags": [
-  "title:The Haunted Mansion",
-  "releasedate:1997-05-29",
-  "game:quake",
-  "author:GreenHornet aka.",
-  "author:Steven Anderson",
-  "tag:medium",
-  "tag:medieval",
-  "tag:graveyard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Haunted.bsp": {
    "filesize": 1919064,
@@ -28,8 +12,24 @@
    "timestamp": "1997-05-29"
   }
  },
+ "filesize": 775,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "00f7018d564bd7151620a60d25ae478476c5e92b83c57270528131aa29980f92",
+ "tags": [
+  "title:The Haunted Mansion",
+  "releasedate:1997-05-29",
+  "game:quake",
+  "author:GreenHornet aka.",
+  "author:Steven Anderson",
+  "tag:medium",
+  "tag:medieval",
+  "tag:graveyard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/haunted.zip",
   "https://www.quaddicted.com/files/by-sha256/0/00f7018d564bd7151620a60d25ae478476c5e92b83c57270528131aa29980f92/haunted.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

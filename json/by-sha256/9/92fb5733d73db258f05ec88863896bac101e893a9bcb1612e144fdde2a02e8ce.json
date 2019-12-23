@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "92fb5733d73db258f05ec88863896bac101e893a9bcb1612e144fdde2a02e8ce",
  "filename": [
   "climb.zip"
  ],
+ "files": {
+  "CLIMB.BSP": {
+   "filesize": 388988,
+   "timestamp": "1996-10-15"
+  },
+  "CLIMB.TXT": {
+   "filesize": 2711,
+   "timestamp": "1996-10-16"
+  }
+ },
  "filesize": 155,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "92fb5733d73db258f05ec88863896bac101e893a9bcb1612e144fdde2a02e8ce",
  "tags": [
   "title:The Climb",
   "releasedate:1996-10-16",
@@ -14,21 +26,9 @@
   "tag:wizard",
   "tag:vertical"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CLIMB.TXT": {
-   "filesize": 2711,
-   "timestamp": "1996-10-16"
-  },
-  "CLIMB.BSP": {
-   "filesize": 388988,
-   "timestamp": "1996-10-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/climb.zip",
   "https://www.quaddicted.com/files/by-sha256/9/92fb5733d73db258f05ec88863896bac101e893a9bcb1612e144fdde2a02e8ce/climb.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

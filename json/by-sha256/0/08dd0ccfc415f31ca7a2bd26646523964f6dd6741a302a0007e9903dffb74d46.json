@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "08dd0ccfc415f31ca7a2bd26646523964f6dd6741a302a0007e9903dffb74d46",
  "filename": [
   "roritor.zip"
  ],
+ "files": {
+  "Roritor.txt": {
+   "filesize": 2651,
+   "timestamp": "1997-11-06"
+  },
+  "roritor.bsp": {
+   "filesize": 2574036,
+   "timestamp": "1997-11-06"
+  }
+ },
  "filesize": 987,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "08dd0ccfc415f31ca7a2bd26646523964f6dd6741a302a0007e9903dffb74d46",
  "tags": [
   "title:The Roritor Level",
   "releasedate:1997-11-06",
@@ -19,21 +31,9 @@
   "tag:traps",
   "tag:laboratory"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Roritor.txt": {
-   "filesize": 2651,
-   "timestamp": "1997-11-06"
-  },
-  "roritor.bsp": {
-   "filesize": 2574036,
-   "timestamp": "1997-11-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/roritor.zip",
   "https://www.quaddicted.com/files/by-sha256/0/08dd0ccfc415f31ca7a2bd26646523964f6dd6741a302a0007e9903dffb74d46/roritor.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

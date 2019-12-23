@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e0406fc30ceab371bbce90b5002ef456e7e1c9cab8101debbf8b68f2c46f5a9a",
  "filename": [
   "rumours.zip"
  ],
+ "files": {
+  "PDBQ_SP1.bsp": {
+   "filesize": 2381136,
+   "timestamp": "2001-06-06"
+  },
+  "pdbq_sp1.TXT": {
+   "filesize": 4841,
+   "timestamp": "2001-06-06"
+  }
+ },
  "filesize": 993,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e0406fc30ceab371bbce90b5002ef456e7e1c9cab8101debbf8b68f2c46f5a9a",
  "tags": [
   "title:Recurrent Rumours",
   "releasedate:2001-06-06",
@@ -16,21 +28,9 @@
   "tag:secret",
   "startmap:pdbq_sp1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PDBQ_SP1.bsp": {
-   "filesize": 2381136,
-   "timestamp": "2001-06-06"
-  },
-  "pdbq_sp1.TXT": {
-   "filesize": 4841,
-   "timestamp": "2001-06-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rumours.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e0406fc30ceab371bbce90b5002ef456e7e1c9cab8101debbf8b68f2c46f5a9a/rumours.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "f927d6ea5ba232789fe9a37e61e582f36f807d461f80b65363333fccd15fdd91",
  "filename": [
   "fatal-error.zip"
  ],
+ "files": {
+  "fatal-error.bsp": {
+   "filesize": 1142988,
+   "timestamp": "2001-04-19"
+  }
+ },
  "filesize": 479,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f927d6ea5ba232789fe9a37e61e582f36f807d461f80b65363333fccd15fdd91",
  "tags": [
   "title:Fatal Error",
   "releasedate:2001-04-19",
@@ -14,17 +22,9 @@
   "tag:base",
   "tag:industrial"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "fatal-error.bsp": {
-   "filesize": 1142988,
-   "timestamp": "2001-04-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fatal-error.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f927d6ea5ba232789fe9a37e61e582f36f807d461f80b65363333fccd15fdd91/fatal-error.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

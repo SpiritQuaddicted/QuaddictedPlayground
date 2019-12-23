@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8ec14d4f9129875fd4f91b924edd2255421b13cb892adcecc74817ddadf668c6",
  "filename": [
   "dstab1.zip"
  ],
- "filesize": 529,
- "tags": [
-  "title:Khanros Storage Facilty",
-  "releasedate:2003-07-02",
-  "game:quake",
-  "author:Nathan \"De4thst4bber\" Mills",
-  "tag:medium",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "dstab1.bsp": {
    "filesize": 1456532,
@@ -26,8 +12,22 @@
    "timestamp": "2003-07-02"
   }
  },
+ "filesize": 529,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8ec14d4f9129875fd4f91b924edd2255421b13cb892adcecc74817ddadf668c6",
+ "tags": [
+  "title:Khanros Storage Facilty",
+  "releasedate:2003-07-02",
+  "game:quake",
+  "author:Nathan \"De4thst4bber\" Mills",
+  "tag:medium",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/dstab1.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8ec14d4f9129875fd4f91b924edd2255421b13cb892adcecc74817ddadf668c6/dstab1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

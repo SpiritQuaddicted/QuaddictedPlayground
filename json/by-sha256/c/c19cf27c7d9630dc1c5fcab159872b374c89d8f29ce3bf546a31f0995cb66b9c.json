@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c",
  "filename": [
   "thepyram.zip"
  ],
+ "files": {
+  "MAPS/PYRAMID.BSP": {
+   "filesize": 612264,
+   "timestamp": "1997-02-28"
+  },
+  "SOUND/AMBIENCE/DRONE6.WAV": {
+   "filesize": 57954,
+   "timestamp": "1997-02-25"
+  },
+  "pyramid.txt": {
+   "filesize": 2934,
+   "timestamp": "1997-02-28"
+  },
+  "thepyram_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 275,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c",
  "tags": [
   "title:The Pyramid",
   "releasedate:1997-02-28",
@@ -14,29 +34,9 @@
   "tag:small",
   "startmap:pyramid"
  ],
- "install": {
-  "extract": "{quake}/id1/"
- },
- "files": {
-  "SOUND/AMBIENCE/DRONE6.WAV": {
-   "filesize": 57954,
-   "timestamp": "1997-02-25"
-  },
-  "pyramid.txt": {
-   "filesize": 2934,
-   "timestamp": "1997-02-28"
-  },
-  "MAPS/PYRAMID.BSP": {
-   "filesize": 612264,
-   "timestamp": "1997-02-28"
-  },
-  "thepyram_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/thepyram.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c19cf27c7d9630dc1c5fcab159872b374c89d8f29ce3bf546a31f0995cb66b9c/thepyram.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

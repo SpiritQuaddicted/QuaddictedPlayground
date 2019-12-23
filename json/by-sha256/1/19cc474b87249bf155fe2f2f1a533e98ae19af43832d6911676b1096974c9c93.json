@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "19cc474b87249bf155fe2f2f1a533e98ae19af43832d6911676b1096974c9c93",
  "filename": [
   "doom_e1m9.zip"
  ],
- "filesize": 459,
- "tags": [
-  "title:Military Base",
-  "releasedate:2016-06-15",
-  "game:quake",
-  "author:unknown",
-  "tag:small",
-  "tag:doom",
-  "tag:conversion",
-  "tag:textures"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "doom_e1m9.bsp": {
    "filesize": 719204,
@@ -36,8 +20,24 @@
    "timestamp": "2016-06-14"
   }
  },
+ "filesize": 459,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "19cc474b87249bf155fe2f2f1a533e98ae19af43832d6911676b1096974c9c93",
+ "tags": [
+  "title:Military Base",
+  "releasedate:2016-06-15",
+  "game:quake",
+  "author:unknown",
+  "tag:small",
+  "tag:doom",
+  "tag:conversion",
+  "tag:textures"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/doom_e1m9.zip",
   "https://www.quaddicted.com/files/by-sha256/1/19cc474b87249bf155fe2f2f1a533e98ae19af43832d6911676b1096974c9c93/doom_e1m9.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

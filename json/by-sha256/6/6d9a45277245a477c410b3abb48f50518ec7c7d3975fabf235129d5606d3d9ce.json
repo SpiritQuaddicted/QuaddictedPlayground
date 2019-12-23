@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "6d9a45277245a477c410b3abb48f50518ec7c7d3975fabf235129d5606d3d9ce",
  "filename": [
   "dm1m1.zip"
  ],
+ "files": {
+  "DM1M1.bsp": {
+   "filesize": 1209644,
+   "timestamp": "1998-10-26"
+  }
+ },
  "filesize": 490,
+ "install": {
+  "extract": "{quake}/bad/maps/"
+ },
+ "sha256": "6d9a45277245a477c410b3abb48f50518ec7c7d3975fabf235129d5606d3d9ce",
  "tags": [
   "title:Installation of Disavowed",
   "releasedate:1998-10-26",
@@ -16,17 +24,9 @@
   "tag:badpak",
   "dependency:badpak"
  ],
- "install": {
-  "extract": "{quake}/bad/maps/"
- },
- "files": {
-  "DM1M1.bsp": {
-   "filesize": 1209644,
-   "timestamp": "1998-10-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dm1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6d9a45277245a477c410b3abb48f50518ec7c7d3975fabf235129d5606d3d9ce/dm1m1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

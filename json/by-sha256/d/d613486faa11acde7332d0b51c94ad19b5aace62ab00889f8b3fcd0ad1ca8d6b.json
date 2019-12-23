@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
  "filename": [
   "ad_scastle1d.zip"
  ],
+ "files": {
+  "ad_scastle1d_readme.txt": {
+   "filesize": 3427,
+   "timestamp": "2017-01-11"
+  },
+  "maps/ad_scastle.bsp": {
+   "filesize": 3789328,
+   "timestamp": "2017-01-11"
+  },
+  "maps/ad_scastle.lit": {
+   "filesize": 1478615,
+   "timestamp": "2017-01-11"
+  },
+  "maps/ad_scastle.map": {
+   "filesize": 3049357,
+   "timestamp": "2017-01-11"
+  }
+ },
  "filesize": 2553,
+ "install": {
+  "extract": "{quake}/ad/"
+ },
+ "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
  "tags": [
   "title:Nyarlathotep's Sand Castle",
   "releasedate:2017-01-11",
@@ -27,29 +47,9 @@
   "dependency:ad_v1_50final",
   "startmap:ad_scastle"
  ],
- "install": {
-  "extract": "{quake}/ad/"
- },
- "files": {
-  "ad_scastle1d_readme.txt": {
-   "filesize": 3427,
-   "timestamp": "2017-01-11"
-  },
-  "maps/ad_scastle.bsp": {
-   "filesize": 3789328,
-   "timestamp": "2017-01-11"
-  },
-  "maps/ad_scastle.lit": {
-   "filesize": 1478615,
-   "timestamp": "2017-01-11"
-  },
-  "maps/ad_scastle.map": {
-   "filesize": 3049357,
-   "timestamp": "2017-01-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ad_scastle1d.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b/ad_scastle1d.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

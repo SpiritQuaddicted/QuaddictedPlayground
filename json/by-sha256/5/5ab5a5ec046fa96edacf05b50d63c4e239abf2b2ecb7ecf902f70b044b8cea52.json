@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "5ab5a5ec046fa96edacf05b50d63c4e239abf2b2ecb7ecf902f70b044b8cea52",
  "filename": [
   "sm31_pack.zip"
  ],
+ "files": {
+  "sm31_ap.bsp": {
+   "filesize": 56604,
+   "timestamp": "2001-08-14"
+  },
+  "sm31_cardo.bsp": {
+   "filesize": 262820,
+   "timestamp": "2001-08-14"
+  },
+  "sm31_pack.txt": {
+   "filesize": 1938,
+   "timestamp": "2001-08-18"
+  },
+  "sm31_sb.bsp": {
+   "filesize": 388844,
+   "timestamp": "2001-08-14"
+  },
+  "sm31_speedy.bsp": {
+   "filesize": 750352,
+   "timestamp": "2001-08-15"
+  }
+ },
  "filesize": 527,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5ab5a5ec046fa96edacf05b50d63c4e239abf2b2ecb7ecf902f70b044b8cea52",
  "tags": [
   "title:Speedmapping pack 31 - IDbase",
   "releasedate:2001-08-18",
@@ -19,33 +43,9 @@
   "startmap:sm31_cardo",
   "startmap:sm31_ap"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm31_pack.txt": {
-   "filesize": 1938,
-   "timestamp": "2001-08-18"
-  },
-  "sm31_sb.bsp": {
-   "filesize": 388844,
-   "timestamp": "2001-08-14"
-  },
-  "sm31_cardo.bsp": {
-   "filesize": 262820,
-   "timestamp": "2001-08-14"
-  },
-  "sm31_speedy.bsp": {
-   "filesize": 750352,
-   "timestamp": "2001-08-15"
-  },
-  "sm31_ap.bsp": {
-   "filesize": 56604,
-   "timestamp": "2001-08-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm31_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5ab5a5ec046fa96edacf05b50d63c4e239abf2b2ecb7ecf902f70b044b8cea52/sm31_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

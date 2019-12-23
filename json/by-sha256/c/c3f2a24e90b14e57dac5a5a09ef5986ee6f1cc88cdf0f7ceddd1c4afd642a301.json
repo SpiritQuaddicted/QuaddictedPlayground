@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c3f2a24e90b14e57dac5a5a09ef5986ee6f1cc88cdf0f7ceddd1c4afd642a301",
  "filename": [
   "runerun.zip"
  ],
+ "files": {
+  "runerun.bsp": {
+   "filesize": 1018276,
+   "timestamp": "2003-03-12"
+  },
+  "runerun.txt": {
+   "filesize": 1730,
+   "timestamp": "2003-03-06"
+  }
+ },
  "filesize": 391,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c3f2a24e90b14e57dac5a5a09ef5986ee6f1cc88cdf0f7ceddd1c4afd642a301",
  "tags": [
   "title:THE RUNE-RUN",
   "releasedate:2003-03-12",
@@ -14,21 +26,9 @@
   "tag:sda",
   "tag:speedrunning"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "runerun.txt": {
-   "filesize": 1730,
-   "timestamp": "2003-03-06"
-  },
-  "runerun.bsp": {
-   "filesize": 1018276,
-   "timestamp": "2003-03-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/runerun.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c3f2a24e90b14e57dac5a5a09ef5986ee6f1cc88cdf0f7ceddd1c4afd642a301/runerun.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

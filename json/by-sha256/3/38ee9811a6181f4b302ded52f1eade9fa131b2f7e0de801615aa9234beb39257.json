@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257",
  "filename": [
   "czg07.zip"
  ],
+ "files": {
+  "autoexec.cfg": {
+   "filesize": 120,
+   "timestamp": "2000-12-30"
+  },
+  "czg07.txt": {
+   "filesize": 8657,
+   "timestamp": "2001-01-01"
+  },
+  "pak0.pak": {
+   "filesize": 14526472,
+   "timestamp": "2001-01-01"
+  },
+  "progs.dat": {
+   "filesize": 371420,
+   "timestamp": "2000-12-30"
+  },
+  "source.zip": {
+   "filesize": 186522,
+   "timestamp": "2001-01-01"
+  }
+ },
  "filesize": 6629,
+ "install": {
+  "extract": "{quake}/czg07/"
+ },
+ "sha256": "38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257",
  "tags": [
   "title:Insomnia",
   "releasedate:2000-05-25",
@@ -31,33 +55,9 @@
   "tag:start map",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/czg07/"
- },
- "files": {
-  "czg07.txt": {
-   "filesize": 8657,
-   "timestamp": "2001-01-01"
-  },
-  "progs.dat": {
-   "filesize": 371420,
-   "timestamp": "2000-12-30"
-  },
-  "source.zip": {
-   "filesize": 186522,
-   "timestamp": "2001-01-01"
-  },
-  "pak0.pak": {
-   "filesize": 14526472,
-   "timestamp": "2001-01-01"
-  },
-  "autoexec.cfg": {
-   "filesize": 120,
-   "timestamp": "2000-12-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/czg07.zip",
   "https://www.quaddicted.com/files/by-sha256/3/38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257/czg07.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

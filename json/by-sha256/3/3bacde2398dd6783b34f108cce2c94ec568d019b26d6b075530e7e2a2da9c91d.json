@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "3bacde2398dd6783b34f108cce2c94ec568d019b26d6b075530e7e2a2da9c91d",
  "filename": [
   "percept.zip"
  ],
+ "files": {
+  "percept.bsp": {
+   "filesize": 1253348,
+   "timestamp": "2001-06-22"
+  },
+  "percept.txt": {
+   "filesize": 5835,
+   "timestamp": "2001-06-22"
+  }
+ },
  "filesize": 475,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3bacde2398dd6783b34f108cce2c94ec568d019b26d6b075530e7e2a2da9c91d",
  "tags": [
   "title:Perception",
   "releasedate:2001-06-22",
@@ -16,21 +28,9 @@
   "tag:temple",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "percept.bsp": {
-   "filesize": 1253348,
-   "timestamp": "2001-06-22"
-  },
-  "percept.txt": {
-   "filesize": 5835,
-   "timestamp": "2001-06-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/percept.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3bacde2398dd6783b34f108cce2c94ec568d019b26d6b075530e7e2a2da9c91d/percept.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

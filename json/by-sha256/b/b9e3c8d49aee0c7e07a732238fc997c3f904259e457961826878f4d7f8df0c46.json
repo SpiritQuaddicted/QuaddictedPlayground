@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46",
  "filename": [
   "cyberelic1.zip"
  ],
- "filesize": 1470,
- "tags": [
-  "title:Cyberelic",
-  "releasedate:1999-02-14",
-  "game:quake",
-  "author:Cyberelic (Ben Johns)",
-  "tag:small",
-  "tag:episode",
-  "tag:medieval",
-  "tag:dm",
-  "tag:broken_injector",
-  "startmap:cr1",
-  "startmap:crdm1"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Quake/Deathmatch Maker/Cyberelic/Uploadable/Zip/Cr1.bsp": {
    "filesize": 636608,
@@ -55,8 +36,27 @@
    "timestamp": "1998-07-21"
   }
  },
+ "filesize": 1470,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46",
+ "tags": [
+  "title:Cyberelic",
+  "releasedate:1999-02-14",
+  "game:quake",
+  "author:Cyberelic (Ben Johns)",
+  "tag:small",
+  "tag:episode",
+  "tag:medieval",
+  "tag:dm",
+  "tag:broken_injector",
+  "startmap:cr1",
+  "startmap:crdm1"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/cyberelic1.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b9e3c8d49aee0c7e07a732238fc997c3f904259e457961826878f4d7f8df0c46/cyberelic1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c9b4807b47aaf8a696be33e1fa3168453759469505c2a0630fd702b34893cf0a",
  "filename": [
   "etown.zip"
  ],
- "filesize": 448,
- "tags": [
-  "title:The Evil Town",
-  "releasedate:1997-11-01",
-  "game:quake",
-  "author:Anders Gustavsson",
-  "tag:medium",
-  "tag:realism",
-  "tag:textures",
-  "tag:city"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "etown.bsp": {
    "filesize": 1026024,
@@ -28,8 +12,24 @@
    "timestamp": "1997-11-01"
   }
  },
+ "filesize": 448,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c9b4807b47aaf8a696be33e1fa3168453759469505c2a0630fd702b34893cf0a",
+ "tags": [
+  "title:The Evil Town",
+  "releasedate:1997-11-01",
+  "game:quake",
+  "author:Anders Gustavsson",
+  "tag:medium",
+  "tag:realism",
+  "tag:textures",
+  "tag:city"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/etown.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c9b4807b47aaf8a696be33e1fa3168453759469505c2a0630fd702b34893cf0a/etown.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,32 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4",
  "filename": [
   "zjam2.zip"
  ],
- "filesize": 2890,
- "tags": [
-  "title:Zombie Jam 2",
-  "releasedate:2018-06-10",
-  "game:quake",
-  "author:Giftmacher",
-  "author:mukor",
-  "author:scar3crow",
-  "author:sock",
-  "author:Zombie",
-  "tag:small",
-  "tag:speedmap",
-  "tag:base",
-  "tag:egyptian",
-  "startmap:zjam2_giftmacher",
-  "startmap:zjam2_muk",
-  "startmap:zjam2_scar3crow",
-  "startmap:zjam2_sock",
-  "startmap:zjam2_zombie"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "maps/zjam2_giftmacher.bsp": {
    "filesize": 946280,
@@ -85,8 +60,33 @@
    "timestamp": "2018-06-10"
   }
  },
+ "filesize": 2890,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4",
+ "tags": [
+  "title:Zombie Jam 2",
+  "releasedate:2018-06-10",
+  "game:quake",
+  "author:Giftmacher",
+  "author:mukor",
+  "author:scar3crow",
+  "author:sock",
+  "author:Zombie",
+  "tag:small",
+  "tag:speedmap",
+  "tag:base",
+  "tag:egyptian",
+  "startmap:zjam2_giftmacher",
+  "startmap:zjam2_muk",
+  "startmap:zjam2_scar3crow",
+  "startmap:zjam2_sock",
+  "startmap:zjam2_zombie"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/zjam2.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8441c6d3d095141440663cbec4c4ceea93dec43072b5cefc7c0a7b29428578c4/zjam2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

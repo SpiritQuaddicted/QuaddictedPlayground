@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "b2ad74e6389faa240ba348f2a84e38e934a5918e86a67f3ff933d1f6e85194c8",
  "filename": [
   "dock5.zip"
  ],
+ "files": {
+  "dock5.bsp": {
+   "filesize": 1467088,
+   "timestamp": "1997-09-11"
+  },
+  "dock5.txt": {
+   "filesize": 2108,
+   "timestamp": "1997-09-17"
+  }
+ },
  "filesize": 630,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b2ad74e6389faa240ba348f2a84e38e934a5918e86a67f3ff933d1f6e85194c8",
  "tags": [
   "title:dock 5",
   "releasedate:1997-09-17",
@@ -14,21 +26,9 @@
   "tag:mixtex",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dock5.txt": {
-   "filesize": 2108,
-   "timestamp": "1997-09-17"
-  },
-  "dock5.bsp": {
-   "filesize": 1467088,
-   "timestamp": "1997-09-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dock5.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b2ad74e6389faa240ba348f2a84e38e934a5918e86a67f3ff933d1f6e85194c8/dock5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

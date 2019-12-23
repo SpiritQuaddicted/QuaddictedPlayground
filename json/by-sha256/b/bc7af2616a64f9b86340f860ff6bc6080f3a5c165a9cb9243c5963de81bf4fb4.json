@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "bc7af2616a64f9b86340f860ff6bc6080f3a5c165a9cb9243c5963de81bf4fb4",
  "filename": [
   "fc.zip"
  ],
+ "files": {
+  "fc.bsp": {
+   "filesize": 1462130,
+   "timestamp": "1996-08-10"
+  },
+  "fc.txt": {
+   "filesize": 2873,
+   "timestamp": "1996-08-10"
+  }
+ },
  "filesize": 654,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "bc7af2616a64f9b86340f860ff6bc6080f3a5c165a9cb9243c5963de81bf4fb4",
  "tags": [
   "title:The Forsaken Citadel",
   "releasedate:1996-08-10",
@@ -15,21 +27,9 @@
   "tag:green",
   "tag:outdoor"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "fc.txt": {
-   "filesize": 2873,
-   "timestamp": "1996-08-10"
-  },
-  "fc.bsp": {
-   "filesize": 1462130,
-   "timestamp": "1996-08-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fc.zip",
   "https://www.quaddicted.com/files/by-sha256/b/bc7af2616a64f9b86340f860ff6bc6080f3a5c165a9cb9243c5963de81bf4fb4/fc.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

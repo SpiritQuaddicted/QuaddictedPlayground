@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "7e53ff3adc9a783189837de10eb98010a930c7481a4b1f1ddb16d1891bc942c3",
  "filename": [
   "flsmap.zip"
  ],
+ "files": {
+  "FLSMAP.TXT": {
+   "filesize": 6895,
+   "timestamp": "1998-06-19"
+  },
+  "STORY.TXT": {
+   "filesize": 4027,
+   "timestamp": "1997-10-05"
+  },
+  "flsmap.bsp": {
+   "filesize": 4161028,
+   "timestamp": "1998-06-18"
+  }
+ },
  "filesize": 1733,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7e53ff3adc9a783189837de10eb98010a930c7481a4b1f1ddb16d1891bc942c3",
  "tags": [
   "title:FLSMAP:  Combat Education",
   "releasedate:1998-06-20",
@@ -16,25 +32,9 @@
   "tag:realism",
   "startmap:flsmap"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "FLSMAP.TXT": {
-   "filesize": 6895,
-   "timestamp": "1998-06-19"
-  },
-  "flsmap.bsp": {
-   "filesize": 4161028,
-   "timestamp": "1998-06-18"
-  },
-  "STORY.TXT": {
-   "filesize": 4027,
-   "timestamp": "1997-10-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/flsmap.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7e53ff3adc9a783189837de10eb98010a930c7481a4b1f1ddb16d1891bc942c3/flsmap.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

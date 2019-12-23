@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51",
  "filename": [
   "prison.zip"
  ],
+ "files": {
+  "SWEN.BSP": {
+   "filesize": 679804,
+   "timestamp": "1996-10-23"
+  },
+  "SWEN.TXT": {
+   "filesize": 1725,
+   "timestamp": "1996-11-20"
+  },
+  "SWEN1.BSP": {
+   "filesize": 1194320,
+   "timestamp": "1996-10-24"
+  },
+  "SWEN1.TXT": {
+   "filesize": 1576,
+   "timestamp": "1996-10-26"
+  }
+ },
  "filesize": 762,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51",
  "tags": [
   "title:My Home &amp; Prison",
   "releasedate:1996-11-20",
@@ -18,29 +38,9 @@
   "startmap:swen",
   "startmap:swen1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "SWEN.BSP": {
-   "filesize": 679804,
-   "timestamp": "1996-10-23"
-  },
-  "SWEN1.TXT": {
-   "filesize": 1576,
-   "timestamp": "1996-10-26"
-  },
-  "SWEN1.BSP": {
-   "filesize": 1194320,
-   "timestamp": "1996-10-24"
-  },
-  "SWEN.TXT": {
-   "filesize": 1725,
-   "timestamp": "1996-11-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/prison.zip",
   "https://www.quaddicted.com/files/by-sha256/8/859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51/prison.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

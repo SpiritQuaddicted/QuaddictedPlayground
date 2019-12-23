@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "a7b63ce7d956a3bdf3d9fc2a1179d9338bff18833ae1c74dcce8c08ab1abf0fa",
  "filename": [
   "bridges_2.zip"
  ],
+ "files": {
+  "bridges.bsp": {
+   "filesize": 756576,
+   "timestamp": "1998-06-24"
+  },
+  "bridges.txt": {
+   "filesize": 615,
+   "timestamp": "1999-12-06"
+  },
+  "bridges_2_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 318,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a7b63ce7d956a3bdf3d9fc2a1179d9338bff18833ae1c74dcce8c08ab1abf0fa",
  "tags": [
   "title:Bridges",
   "releasedate:1999-12-05",
@@ -14,25 +30,9 @@
   "tag:lava",
   "startmap:bridges"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "bridges.txt": {
-   "filesize": 615,
-   "timestamp": "1999-12-06"
-  },
-  "bridges.bsp": {
-   "filesize": 756576,
-   "timestamp": "1998-06-24"
-  },
-  "bridges_2_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/bridges_2.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a7b63ce7d956a3bdf3d9fc2a1179d9338bff18833ae1c74dcce8c08ab1abf0fa/bridges_2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

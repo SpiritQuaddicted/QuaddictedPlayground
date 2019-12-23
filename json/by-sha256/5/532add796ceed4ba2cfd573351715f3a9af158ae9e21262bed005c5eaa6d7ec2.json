@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "532add796ceed4ba2cfd573351715f3a9af158ae9e21262bed005c5eaa6d7ec2",
  "filename": [
   "xld.zip"
  ],
- "filesize": 4201,
- "tags": [
-  "title:xlarve's dream",
-  "releasedate:2017-06-12",
-  "game:quake",
-  "author:xlarve",
-  "tag:large",
-  "tag:metal",
-  "tag:mixtex",
-  "tag:arena",
-  "tag:ambush",
-  "tag:secrets",
-  "tag:limits"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "xld.bsp": {
    "filesize": 7369556,
@@ -35,8 +16,27 @@
    "timestamp": "2017-06-12"
   }
  },
+ "filesize": 4201,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "532add796ceed4ba2cfd573351715f3a9af158ae9e21262bed005c5eaa6d7ec2",
+ "tags": [
+  "title:xlarve's dream",
+  "releasedate:2017-06-12",
+  "game:quake",
+  "author:xlarve",
+  "tag:large",
+  "tag:metal",
+  "tag:mixtex",
+  "tag:arena",
+  "tag:ambush",
+  "tag:secrets",
+  "tag:limits"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/xld.zip",
   "https://www.quaddicted.com/files/by-sha256/5/532add796ceed4ba2cfd573351715f3a9af158ae9e21262bed005c5eaa6d7ec2/xld.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

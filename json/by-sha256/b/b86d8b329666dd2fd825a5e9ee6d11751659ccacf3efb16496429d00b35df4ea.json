@@ -1,28 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b86d8b329666dd2fd825a5e9ee6d11751659ccacf3efb16496429d00b35df4ea",
  "filename": [
   "sm182_pack.zip"
  ],
- "filesize": 4920,
- "tags": [
-  "title:Speedmapping pack 182 - Organic",
-  "releasedate:2018-04-23",
-  "game:quake",
-  "author:Artistical",
-  "author:dumptruck_ds",
-  "author:ionous",
-  "author:Newhouse",
-  "author:onetruepurple",
-  "startmap:sm182_artistical",
-  "startmap:sm182_dumptruck",
-  "startmap:sm182_ionous",
-  "startmap:sm182_newhouse",
-  "startmap:sm182_otp"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sm182_artistical.bsp": {
    "filesize": 5441200,
@@ -93,8 +72,29 @@
    "timestamp": "2018-04-23"
   }
  },
+ "filesize": 4920,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b86d8b329666dd2fd825a5e9ee6d11751659ccacf3efb16496429d00b35df4ea",
+ "tags": [
+  "title:Speedmapping pack 182 - Organic",
+  "releasedate:2018-04-23",
+  "game:quake",
+  "author:Artistical",
+  "author:dumptruck_ds",
+  "author:ionous",
+  "author:Newhouse",
+  "author:onetruepurple",
+  "startmap:sm182_artistical",
+  "startmap:sm182_dumptruck",
+  "startmap:sm182_ionous",
+  "startmap:sm182_newhouse",
+  "startmap:sm182_otp"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm182_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b86d8b329666dd2fd825a5e9ee6d11751659ccacf3efb16496429d00b35df4ea/sm182_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

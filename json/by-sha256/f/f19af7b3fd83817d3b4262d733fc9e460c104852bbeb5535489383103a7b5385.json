@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "f19af7b3fd83817d3b4262d733fc9e460c104852bbeb5535489383103a7b5385",
  "filename": [
   "e2m10glq.zip"
  ],
+ "files": {
+  "e2m10.bsp": {
+   "filesize": 574952,
+   "timestamp": "2001-09-01"
+  },
+  "e2m10.map": {
+   "filesize": 282987,
+   "timestamp": "1998-06-19"
+  },
+  "e2m10.txt": {
+   "filesize": 2478,
+   "timestamp": "2001-09-01"
+  }
+ },
  "filesize": 286,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f19af7b3fd83817d3b4262d733fc9e460c104852bbeb5535489383103a7b5385",
  "tags": [
   "title:Lost Entrance of the Dismal Oubliette [transparent water]",
   "releasedate:2001-09-01",
@@ -16,25 +32,9 @@
   "tag:source",
   "startmap:e2m10"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "e2m10.map": {
-   "filesize": 282987,
-   "timestamp": "1998-06-19"
-  },
-  "e2m10.txt": {
-   "filesize": 2478,
-   "timestamp": "2001-09-01"
-  },
-  "e2m10.bsp": {
-   "filesize": 574952,
-   "timestamp": "2001-09-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/e2m10glq.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f19af7b3fd83817d3b4262d733fc9e460c104852bbeb5535489383103a7b5385/e2m10glq.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

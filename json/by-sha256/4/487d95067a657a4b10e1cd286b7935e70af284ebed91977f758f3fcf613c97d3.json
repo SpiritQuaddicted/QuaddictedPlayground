@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3",
  "filename": [
   "lpqsp2.zip"
  ],
+ "files": {
+  "lpqsp2.bsp": {
+   "filesize": 2854172,
+   "timestamp": "2017-08-13"
+  },
+  "lpqsp2.lit": {
+   "filesize": 1154072,
+   "timestamp": "2017-08-13"
+  },
+  "lpqsp2.txt": {
+   "filesize": 2028,
+   "timestamp": "2017-08-13"
+  }
+ },
  "filesize": 1456,
+ "install": {
+  "extract": "{quake}/ad/maps/"
+ },
+ "sha256": "487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3",
  "tags": [
   "title:Threat Assessment",
   "releasedate:2017-08-13",
@@ -22,25 +38,9 @@
   "tag:rubicon",
   "dependency:ad_v1_50final"
  ],
- "install": {
-  "extract": "{quake}/ad/maps/"
- },
- "files": {
-  "lpqsp2.bsp": {
-   "filesize": 2854172,
-   "timestamp": "2017-08-13"
-  },
-  "lpqsp2.lit": {
-   "filesize": 1154072,
-   "timestamp": "2017-08-13"
-  },
-  "lpqsp2.txt": {
-   "filesize": 2028,
-   "timestamp": "2017-08-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lpqsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/4/487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3/lpqsp2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

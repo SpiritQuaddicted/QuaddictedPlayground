@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "37b4e205cef37739f1ac76707c2659edcccdef8c8d7a5c5543a1edfb7d042187",
  "filename": [
   "close.zip"
  ],
- "filesize": 88,
- "tags": [
-  "title:Close Quarters",
-  "releasedate:1996-07-24",
-  "game:quake",
-  "author:Seth Williams",
-  "tag:small",
-  "tag:medieval"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "CLOSE.BSP": {
    "filesize": 202020,
@@ -26,8 +12,22 @@
    "timestamp": "1996-09-24"
   }
  },
+ "filesize": 88,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "37b4e205cef37739f1ac76707c2659edcccdef8c8d7a5c5543a1edfb7d042187",
+ "tags": [
+  "title:Close Quarters",
+  "releasedate:1996-07-24",
+  "game:quake",
+  "author:Seth Williams",
+  "tag:small",
+  "tag:medieval"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/close.zip",
   "https://www.quaddicted.com/files/by-sha256/3/37b4e205cef37739f1ac76707c2659edcccdef8c8d7a5c5543a1edfb7d042187/close.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,35 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848",
  "filename": [
   "themyths.zip"
  ],
- "filesize": 5041,
- "tags": [
-  "title:The Myths",
-  "releasedate:2011-06-12",
-  "game:quake",
-  "commandline:-game TheMyths",
-  "author:vIE888",
-  "tag:episode",
-  "tag:small",
-  "tag:monsters",
-  "tag:base",
-  "tag:medieval",
-  "tag:metal",
-  "tag:wizard",
-  "tag:hipnotic",
-  "tag:traps",
-  "tag:puzzles",
-  "tag:dragon",
-  "tag:armagon",
-  "tag:boss",
-  "tag:realism",
-  "startmap:myth1"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "TheMyths/Quaddicted_repack.txt": {
    "filesize": 43,
@@ -64,8 +36,36 @@
    "timestamp": "2006-08-10"
   }
  },
+ "filesize": 5041,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848",
+ "tags": [
+  "title:The Myths",
+  "releasedate:2011-06-12",
+  "game:quake",
+  "commandline:-game TheMyths",
+  "author:vIE888",
+  "tag:episode",
+  "tag:small",
+  "tag:monsters",
+  "tag:base",
+  "tag:medieval",
+  "tag:metal",
+  "tag:wizard",
+  "tag:hipnotic",
+  "tag:traps",
+  "tag:puzzles",
+  "tag:dragon",
+  "tag:armagon",
+  "tag:boss",
+  "tag:realism",
+  "startmap:myth1"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/themyths.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b2d7f5da7fc460261c12f9a3456a108678cc7a3a9d2fc576e9f99c525ec1f848/themyths.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

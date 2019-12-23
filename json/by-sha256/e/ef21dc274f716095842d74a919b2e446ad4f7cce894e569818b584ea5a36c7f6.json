@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ef21dc274f716095842d74a919b2e446ad4f7cce894e569818b584ea5a36c7f6",
  "filename": [
   "erkle.zip"
  ],
+ "files": {
+  "erkle.txt": {
+   "filesize": 3783,
+   "timestamp": "1996-08-21"
+  },
+  "erkle9.bsp": {
+   "filesize": 417000,
+   "timestamp": "1996-08-20"
+  }
+ },
  "filesize": 175,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ef21dc274f716095842d74a919b2e446ad4f7cce894e569818b584ea5a36c7f6",
  "tags": [
   "title:Erkle's Domain",
   "releasedate:1996-08-21",
@@ -14,21 +26,9 @@
   "tag:wizard",
   "startmap:erkle9"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "erkle9.bsp": {
-   "filesize": 417000,
-   "timestamp": "1996-08-20"
-  },
-  "erkle.txt": {
-   "filesize": 3783,
-   "timestamp": "1996-08-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/erkle.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ef21dc274f716095842d74a919b2e446ad4f7cce894e569818b584ea5a36c7f6/erkle.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

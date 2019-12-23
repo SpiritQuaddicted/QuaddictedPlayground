@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0e59751801a4d3ed1153c56f393081c2e25ff2ada94fb2ba9ed905027ead8676",
  "filename": [
   "demonslair.zip"
  ],
+ "files": {
+  "demons-lair.txt": {
+   "filesize": 2270,
+   "timestamp": "1999-09-02"
+  },
+  "demons.bsp": {
+   "filesize": 1023984,
+   "timestamp": "1999-09-02"
+  }
+ },
  "filesize": 406,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0e59751801a4d3ed1153c56f393081c2e25ff2ada94fb2ba9ed905027ead8676",
  "tags": [
   "title:The Demons Lair",
   "releasedate:1999-09-02",
@@ -16,21 +28,9 @@
   "tag:medium",
   "startmap:demons"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "demons.bsp": {
-   "filesize": 1023984,
-   "timestamp": "1999-09-02"
-  },
-  "demons-lair.txt": {
-   "filesize": 2270,
-   "timestamp": "1999-09-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/demonslair.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0e59751801a4d3ed1153c56f393081c2e25ff2ada94fb2ba9ed905027ead8676/demonslair.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

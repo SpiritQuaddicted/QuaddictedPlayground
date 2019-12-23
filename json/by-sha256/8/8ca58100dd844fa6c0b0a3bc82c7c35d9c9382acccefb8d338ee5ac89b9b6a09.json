@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "8ca58100dd844fa6c0b0a3bc82c7c35d9c9382acccefb8d338ee5ac89b9b6a09",
  "filename": [
   "coagula.zip"
  ],
+ "files": {
+  "coagula.bsp": {
+   "filesize": 954672,
+   "timestamp": "2000-05-28"
+  },
+  "coagula.txt": {
+   "filesize": 4346,
+   "timestamp": "2000-05-28"
+  },
+  "coagula_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 309,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8ca58100dd844fa6c0b0a3bc82c7c35d9c9382acccefb8d338ee5ac89b9b6a09",
  "tags": [
   "title:Coagula",
   "releasedate:2000-05-28",
@@ -15,25 +31,9 @@
   "tag:small",
   "tag:void"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "coagula_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "coagula.bsp": {
-   "filesize": 954672,
-   "timestamp": "2000-05-28"
-  },
-  "coagula.txt": {
-   "filesize": 4346,
-   "timestamp": "2000-05-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/coagula.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8ca58100dd844fa6c0b0a3bc82c7c35d9c9382acccefb8d338ee5ac89b9b6a09/coagula.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016",
  "filename": [
   "sgodrune.zip"
  ],
+ "files": {
+  "SGODRUN1.BSP": {
+   "filesize": 2112500,
+   "timestamp": "1998-01-15"
+  },
+  "SGODRUN2.BSP": {
+   "filesize": 2007656,
+   "timestamp": "1998-02-20"
+  },
+  "SGODRUNE.BSP": {
+   "filesize": 359972,
+   "timestamp": "1998-01-18"
+  },
+  "SGODRUNE.TXT": {
+   "filesize": 3674,
+   "timestamp": "1998-02-20"
+  }
+ },
  "filesize": 1806,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016",
  "tags": [
   "title:Tale of Abbot's Rune",
   "releasedate:1998-02-20",
@@ -22,29 +42,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:sgodrune"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "SGODRUNE.BSP": {
-   "filesize": 359972,
-   "timestamp": "1998-01-18"
-  },
-  "SGODRUN1.BSP": {
-   "filesize": 2112500,
-   "timestamp": "1998-01-15"
-  },
-  "SGODRUNE.TXT": {
-   "filesize": 3674,
-   "timestamp": "1998-02-20"
-  },
-  "SGODRUN2.BSP": {
-   "filesize": 2007656,
-   "timestamp": "1998-02-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sgodrune.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a15bd108d433d4d500017c2382d211c9d0a9f8c903267fe0492a7ac47a8a8016/sgodrune.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

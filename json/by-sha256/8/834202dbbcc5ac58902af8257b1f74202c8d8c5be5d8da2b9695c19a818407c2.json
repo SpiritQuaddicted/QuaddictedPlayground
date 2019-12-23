@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "834202dbbcc5ac58902af8257b1f74202c8d8c5be5d8da2b9695c19a818407c2",
  "filename": [
   "sm51_pack.zip"
  ],
+ "files": {
+  "SM51_FAT.bsp": {
+   "filesize": 465368,
+   "timestamp": "2003-09-28"
+  },
+  "sm51_czg.bsp": {
+   "filesize": 888044,
+   "timestamp": "2003-09-29"
+  },
+  "sm51_fat.txt": {
+   "filesize": 793,
+   "timestamp": "2003-09-28"
+  },
+  "sm51_pack.txt": {
+   "filesize": 1823,
+   "timestamp": "2001-09-10"
+  },
+  "sm51_scampie.bsp": {
+   "filesize": 400384,
+   "timestamp": "2001-09-10"
+  },
+  "sm51_xen.bsp": {
+   "filesize": 1185781,
+   "timestamp": "2003-09-29"
+  }
+ },
  "filesize": 1104,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "834202dbbcc5ac58902af8257b1f74202c8d8c5be5d8da2b9695c19a818407c2",
  "tags": [
   "title:Speedmapping pack 51 - ~ish maps",
   "releasedate:2003-09-29",
@@ -22,37 +50,9 @@
   "startmap:sm51_xen",
   "startmap:sm51_scampie"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm51_pack.txt": {
-   "filesize": 1823,
-   "timestamp": "2001-09-10"
-  },
-  "sm51_czg.bsp": {
-   "filesize": 888044,
-   "timestamp": "2003-09-29"
-  },
-  "SM51_FAT.bsp": {
-   "filesize": 465368,
-   "timestamp": "2003-09-28"
-  },
-  "sm51_scampie.bsp": {
-   "filesize": 400384,
-   "timestamp": "2001-09-10"
-  },
-  "sm51_xen.bsp": {
-   "filesize": 1185781,
-   "timestamp": "2003-09-29"
-  },
-  "sm51_fat.txt": {
-   "filesize": 793,
-   "timestamp": "2003-09-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm51_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8/834202dbbcc5ac58902af8257b1f74202c8d8c5be5d8da2b9695c19a818407c2/sm51_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

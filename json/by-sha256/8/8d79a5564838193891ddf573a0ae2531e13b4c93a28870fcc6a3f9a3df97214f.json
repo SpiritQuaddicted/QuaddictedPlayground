@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8d79a5564838193891ddf573a0ae2531e13b4c93a28870fcc6a3f9a3df97214f",
  "filename": [
   "cloning.zip"
  ],
+ "files": {
+  "cloning.bsp": {
+   "filesize": 3306264,
+   "timestamp": "1997-10-10"
+  },
+  "cloning.txt": {
+   "filesize": 1435,
+   "timestamp": "1997-11-02"
+  }
+ },
  "filesize": 1310,
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "sha256": "8d79a5564838193891ddf573a0ae2531e13b4c93a28870fcc6a3f9a3df97214f",
  "tags": [
   "title:The Cloning Facility",
   "releasedate:1997-10-10",
@@ -18,21 +30,9 @@
   "tag:soa",
   "dependency:hipnotic"
  ],
- "install": {
-  "extract": "{quake}/hipnotic/maps/"
- },
- "files": {
-  "cloning.txt": {
-   "filesize": 1435,
-   "timestamp": "1997-11-02"
-  },
-  "cloning.bsp": {
-   "filesize": 3306264,
-   "timestamp": "1997-10-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cloning.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8d79a5564838193891ddf573a0ae2531e13b4c93a28870fcc6a3f9a3df97214f/cloning.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

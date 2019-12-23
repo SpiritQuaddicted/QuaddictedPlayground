@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8b7670d4a55723e138d72f0001496fee466f5a5c0916051c72646d8372ba05b2",
  "filename": [
   "q1shw2sp.zip"
  ],
- "filesize": 564,
- "tags": [
-  "title:Deep Scars (single player version)",
-  "releasedate:2011-05-13",
-  "game:quake",
-  "author:ShadoW &amp; negke",
-  "tag:small",
-  "tag:metal",
-  "tag:source",
-  "tag:dm"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "q1shw2sp.bsp": {
    "filesize": 902188,
@@ -36,8 +20,24 @@
    "timestamp": "2011-05-13"
   }
  },
+ "filesize": 564,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8b7670d4a55723e138d72f0001496fee466f5a5c0916051c72646d8372ba05b2",
+ "tags": [
+  "title:Deep Scars (single player version)",
+  "releasedate:2011-05-13",
+  "game:quake",
+  "author:ShadoW &amp; negke",
+  "tag:small",
+  "tag:metal",
+  "tag:source",
+  "tag:dm"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1shw2sp.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8b7670d4a55723e138d72f0001496fee466f5a5c0916051c72646d8372ba05b2/q1shw2sp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

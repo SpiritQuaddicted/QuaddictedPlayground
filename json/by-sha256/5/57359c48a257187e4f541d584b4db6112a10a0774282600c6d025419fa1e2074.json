@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "57359c48a257187e4f541d584b4db6112a10a0774282600c6d025419fa1e2074",
  "filename": [
   "city.zip"
  ],
- "filesize": 185,
- "tags": [
-  "title:City",
-  "releasedate:1999-12-05",
-  "game:quake",
-  "author:George Grotans",
-  "tag:small",
-  "tag:realism",
-  "tag:city",
-  "tag:dark"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "city.bsp": {
    "filesize": 511620,
@@ -32,8 +16,24 @@
    "timestamp": "2009-04-28"
   }
  },
+ "filesize": 185,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "57359c48a257187e4f541d584b4db6112a10a0774282600c6d025419fa1e2074",
+ "tags": [
+  "title:City",
+  "releasedate:1999-12-05",
+  "game:quake",
+  "author:George Grotans",
+  "tag:small",
+  "tag:realism",
+  "tag:city",
+  "tag:dark"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/city.zip",
   "https://www.quaddicted.com/files/by-sha256/5/57359c48a257187e4f541d584b4db6112a10a0774282600c6d025419fa1e2074/city.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

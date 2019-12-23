@@ -1,41 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6b8a5c25084d307a8b21cab2a2a003d920ad26cc2a5d304f2aef13a03e04b5f2",
  "filename": [
   "mapjam7.zip"
  ],
- "filesize": 22981,
- "tags": [
-  "title:Func Map Jam 7 - Back to Base",
-  "releasedate:2016-08-21",
-  "game:quake",
-  "commandline:-heapsize 64000 -game quoth -quoth",
-  "author:Bloughsburgh",
-  "author:ionous",
-  "author:ItEndsWithTens",
-  "author:khreathor",
-  "author:NewHouse",
-  "tag:small",
-  "tag:medium",
-  "tag:base",
-  "tag:idbase",
-  "tag:rubicon",
-  "tag:quoth",
-  "tag:limits",
-  "tag:start",
-  "tag:quoth2-2",
-  "tag:water",
-  "dependency:quoth2pt2full_2",
-  "startmap:jam7_start",
-  "startmap:jam7_ionous",
-  "startmap:jam7_khreathor",
-  "startmap:jam7_mjb",
-  "startmap:jam7_newhouse",
-  "startmap:jam7_tens"
- ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
  "files": {
   "func_mapjam7_readme.txt": {
    "filesize": 2642,
@@ -73,12 +39,20 @@
    "filesize": 2583239,
    "timestamp": "2016-08-21"
   },
+  "maps/jam7_ionous.txt": {
+   "filesize": 1902,
+   "timestamp": "2016-08-21"
+  },
   "maps/jam7_khreathor.bsp": {
    "filesize": 12723776,
    "timestamp": "2016-08-21"
   },
   "maps/jam7_khreathor.lit": {
    "filesize": 1950248,
+   "timestamp": "2016-08-21"
+  },
+  "maps/jam7_khreathor_readme.txt": {
+   "filesize": 1295,
    "timestamp": "2016-08-21"
   },
   "maps/jam7_mjb.bsp": {
@@ -89,6 +63,10 @@
    "filesize": 2477396,
    "timestamp": "2016-08-21"
   },
+  "maps/jam7_mjb.txt": {
+   "filesize": 17507,
+   "timestamp": "2016-08-20"
+  },
   "maps/jam7_newhouse.bsp": {
    "filesize": 8622816,
    "timestamp": "2016-08-21"
@@ -96,6 +74,10 @@
   "maps/jam7_newhouse.lit": {
    "filesize": 2407673,
    "timestamp": "2016-08-21"
+  },
+  "maps/jam7_newhouse.txt": {
+   "filesize": 711,
+   "timestamp": "2016-08-19"
   },
   "maps/jam7_start.bsp": {
    "filesize": 2457315,
@@ -113,6 +95,10 @@
    "filesize": 2162852,
    "timestamp": "2016-08-20"
   },
+  "maps/jam7_tens.txt": {
+   "filesize": 2011,
+   "timestamp": "2016-08-20"
+  },
   "sound/ambience/water2.wav": {
    "filesize": 71994,
    "timestamp": "2016-02-15"
@@ -128,30 +114,44 @@
   "sound/fart1.wav": {
    "filesize": 154300,
    "timestamp": "2016-08-19"
-  },
-  "maps/jam7_ionous.txt": {
-   "filesize": 1902,
-   "timestamp": "2016-08-21"
-  },
-  "maps/jam7_khreathor_readme.txt": {
-   "filesize": 1295,
-   "timestamp": "2016-08-21"
-  },
-  "maps/jam7_mjb.txt": {
-   "filesize": 17507,
-   "timestamp": "2016-08-20"
-  },
-  "maps/jam7_newhouse.txt": {
-   "filesize": 711,
-   "timestamp": "2016-08-19"
-  },
-  "maps/jam7_tens.txt": {
-   "filesize": 2011,
-   "timestamp": "2016-08-20"
   }
  },
+ "filesize": 22981,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "6b8a5c25084d307a8b21cab2a2a003d920ad26cc2a5d304f2aef13a03e04b5f2",
+ "tags": [
+  "title:Func Map Jam 7 - Back to Base",
+  "releasedate:2016-08-21",
+  "game:quake",
+  "commandline:-heapsize 64000 -game quoth -quoth",
+  "author:Bloughsburgh",
+  "author:ionous",
+  "author:ItEndsWithTens",
+  "author:khreathor",
+  "author:NewHouse",
+  "tag:small",
+  "tag:medium",
+  "tag:base",
+  "tag:idbase",
+  "tag:rubicon",
+  "tag:quoth",
+  "tag:limits",
+  "tag:start",
+  "tag:quoth2-2",
+  "tag:water",
+  "dependency:quoth2pt2full_2",
+  "startmap:jam7_start",
+  "startmap:jam7_ionous",
+  "startmap:jam7_khreathor",
+  "startmap:jam7_mjb",
+  "startmap:jam7_newhouse",
+  "startmap:jam7_tens"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mapjam7.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6b8a5c25084d307a8b21cab2a2a003d920ad26cc2a5d304f2aef13a03e04b5f2/mapjam7.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

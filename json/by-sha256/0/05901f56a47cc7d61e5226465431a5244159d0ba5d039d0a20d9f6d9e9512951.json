@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "05901f56a47cc7d61e5226465431a5244159d0ba5d039d0a20d9f6d9e9512951",
  "filename": [
   "dranzsp1.zip"
  ],
+ "files": {
+  "DRANZSP1.bsp": {
+   "filesize": 1379644,
+   "timestamp": "2000-05-13"
+  },
+  "Dranzsp1.txt": {
+   "filesize": 1993,
+   "timestamp": "2000-05-13"
+  }
+ },
  "filesize": 560,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "05901f56a47cc7d61e5226465431a5244159d0ba5d039d0a20d9f6d9e9512951",
  "tags": [
   "title:Death waits",
   "releasedate:2000-05-13",
@@ -18,21 +30,9 @@
   "tag:hard",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "DRANZSP1.bsp": {
-   "filesize": 1379644,
-   "timestamp": "2000-05-13"
-  },
-  "Dranzsp1.txt": {
-   "filesize": 1993,
-   "timestamp": "2000-05-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dranzsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/0/05901f56a47cc7d61e5226465431a5244159d0ba5d039d0a20d9f6d9e9512951/dranzsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

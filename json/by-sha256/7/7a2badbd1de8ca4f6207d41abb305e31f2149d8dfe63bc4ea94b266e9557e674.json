@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "7a2badbd1de8ca4f6207d41abb305e31f2149d8dfe63bc4ea94b266e9557e674",
  "filename": [
   "tower.zip"
  ],
+ "files": {
+  "LIGHT.LOG": {
+   "filesize": 133,
+   "timestamp": "1998-07-16"
+  },
+  "LIGHT2.LOG": {
+   "filesize": 132,
+   "timestamp": "1998-07-16"
+  },
+  "QBSP.LOG": {
+   "filesize": 1636,
+   "timestamp": "1998-07-16"
+  },
+  "QBSP2.LOG": {
+   "filesize": 1418,
+   "timestamp": "1998-07-16"
+  },
+  "TOWER.BSP": {
+   "filesize": 1088780,
+   "timestamp": "1998-07-16"
+  },
+  "TOWER.TXT": {
+   "filesize": 4252,
+   "timestamp": "1998-07-16"
+  },
+  "TOWER2.BSP": {
+   "filesize": 710892,
+   "timestamp": "1998-07-16"
+  },
+  "VIS.LOG": {
+   "filesize": 167,
+   "timestamp": "1998-07-16"
+  },
+  "VIS2.LOG": {
+   "filesize": 166,
+   "timestamp": "1998-07-16"
+  }
+ },
  "filesize": 726,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7a2badbd1de8ca4f6207d41abb305e31f2149d8dfe63bc4ea94b266e9557e674",
  "tags": [
   "title:The Tower",
   "releasedate:1998-07-16",
@@ -12,49 +52,9 @@
   "author:Andrej 'MC' Kacian",
   "tag:base"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "LIGHT2.LOG": {
-   "filesize": 132,
-   "timestamp": "1998-07-16"
-  },
-  "TOWER.BSP": {
-   "filesize": 1088780,
-   "timestamp": "1998-07-16"
-  },
-  "VIS2.LOG": {
-   "filesize": 166,
-   "timestamp": "1998-07-16"
-  },
-  "TOWER2.BSP": {
-   "filesize": 710892,
-   "timestamp": "1998-07-16"
-  },
-  "TOWER.TXT": {
-   "filesize": 4252,
-   "timestamp": "1998-07-16"
-  },
-  "QBSP2.LOG": {
-   "filesize": 1418,
-   "timestamp": "1998-07-16"
-  },
-  "LIGHT.LOG": {
-   "filesize": 133,
-   "timestamp": "1998-07-16"
-  },
-  "VIS.LOG": {
-   "filesize": 167,
-   "timestamp": "1998-07-16"
-  },
-  "QBSP.LOG": {
-   "filesize": 1636,
-   "timestamp": "1998-07-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tower.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7a2badbd1de8ca4f6207d41abb305e31f2149d8dfe63bc4ea94b266e9557e674/tower.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

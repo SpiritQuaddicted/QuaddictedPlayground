@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "edb7b0566eab56714acbd6c0e3f996a60a652e4ad9aac9c51aee4c23a4cd844f",
  "filename": [
   "dm1m2.zip"
  ],
+ "files": {
+  "Dm1dm2.txt": {
+   "filesize": 1976,
+   "timestamp": "1999-01-12"
+  },
+  "Dm1m2.bsp": {
+   "filesize": 1336152,
+   "timestamp": "1998-03-04"
+  }
+ },
  "filesize": 563,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "edb7b0566eab56714acbd6c0e3f996a60a652e4ad9aac9c51aee4c23a4cd844f",
  "tags": [
   "title:Stronghold of Battereds",
   "releasedate:1999-01-12",
@@ -14,21 +26,9 @@
   "tag:runic",
   "tag:medium"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Dm1m2.bsp": {
-   "filesize": 1336152,
-   "timestamp": "1998-03-04"
-  },
-  "Dm1dm2.txt": {
-   "filesize": 1976,
-   "timestamp": "1999-01-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dm1m2.zip",
   "https://www.quaddicted.com/files/by-sha256/e/edb7b0566eab56714acbd6c0e3f996a60a652e4ad9aac9c51aee4c23a4cd844f/dm1m2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

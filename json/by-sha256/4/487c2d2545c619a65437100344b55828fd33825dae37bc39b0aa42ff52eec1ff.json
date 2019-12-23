@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "487c2d2545c619a65437100344b55828fd33825dae37bc39b0aa42ff52eec1ff",
  "filename": [
   "elements.zip"
  ],
- "filesize": 774,
- "tags": [
-  "title:Elementals",
-  "releasedate:1997-07-16",
-  "game:quake",
-  "author:Al Conrad",
-  "tag:medium",
-  "tag:experimental"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "ELEMENTS.BSP": {
    "filesize": 1994716,
@@ -26,8 +12,22 @@
    "timestamp": "1997-07-16"
   }
  },
+ "filesize": 774,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "487c2d2545c619a65437100344b55828fd33825dae37bc39b0aa42ff52eec1ff",
+ "tags": [
+  "title:Elementals",
+  "releasedate:1997-07-16",
+  "game:quake",
+  "author:Al Conrad",
+  "tag:medium",
+  "tag:experimental"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/elements.zip",
   "https://www.quaddicted.com/files/by-sha256/4/487c2d2545c619a65437100344b55828fd33825dae37bc39b0aa42ff52eec1ff/elements.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "42a15c54072ab540c5cd9ca801b04d51271e32d190cf6b0b7c127e40c6999899",
  "filename": [
   "placebo.zip"
  ],
+ "files": {
+  "custmap.txt": {
+   "filesize": 2204,
+   "timestamp": "1996-11-20"
+  },
+  "placebo.bsp": {
+   "filesize": 1509912,
+   "timestamp": "1996-11-20"
+  },
+  "placebo.txt": {
+   "filesize": 3731,
+   "timestamp": "1996-11-20"
+  }
+ },
  "filesize": 672,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "42a15c54072ab540c5cd9ca801b04d51271e32d190cf6b0b7c127e40c6999899",
  "tags": [
   "title:The Place Of Belonging",
   "releasedate:1996-11-20",
@@ -15,25 +31,9 @@
   "tag:traps",
   "tag:water"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "placebo.bsp": {
-   "filesize": 1509912,
-   "timestamp": "1996-11-20"
-  },
-  "placebo.txt": {
-   "filesize": 3731,
-   "timestamp": "1996-11-20"
-  },
-  "custmap.txt": {
-   "filesize": 2204,
-   "timestamp": "1996-11-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/placebo.zip",
   "https://www.quaddicted.com/files/by-sha256/4/42a15c54072ab540c5cd9ca801b04d51271e32d190cf6b0b7c127e40c6999899/placebo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

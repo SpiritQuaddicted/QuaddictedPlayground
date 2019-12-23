@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "16a335f7cb273fcee64eeffb64f5f6d4ef35a1fc5c236ae17dfdb49430eb59ae",
  "filename": [
   "simmer1.zip"
  ],
+ "files": {
+  "readme.htm": {
+   "filesize": 2302,
+   "timestamp": "2002-05-26"
+  },
+  "simmer1.bsp": {
+   "filesize": 836604,
+   "timestamp": "2002-05-25"
+  }
+ },
  "filesize": 332,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "16a335f7cb273fcee64eeffb64f5f6d4ef35a1fc5c236ae17dfdb49430eb59ae",
  "tags": [
   "title:Security Base",
   "releasedate:2002-05-25",
@@ -13,21 +25,9 @@
   "tag:small",
   "tag:idbase"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "simmer1.bsp": {
-   "filesize": 836604,
-   "timestamp": "2002-05-25"
-  },
-  "readme.htm": {
-   "filesize": 2302,
-   "timestamp": "2002-05-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/simmer1.zip",
   "https://www.quaddicted.com/files/by-sha256/1/16a335f7cb273fcee64eeffb64f5f6d4ef35a1fc5c236ae17dfdb49430eb59ae/simmer1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

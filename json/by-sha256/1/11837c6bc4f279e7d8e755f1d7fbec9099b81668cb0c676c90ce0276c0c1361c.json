@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c",
  "filename": [
   "lunsp1.zip"
  ],
+ "files": {
+  "lunsp1.txt": {
+   "filesize": 5768,
+   "timestamp": "2005-06-27"
+  },
+  "pak0.pak": {
+   "filesize": 6957786,
+   "timestamp": "2005-06-27"
+  },
+  "src/ai.qc": {
+   "filesize": 15265,
+   "timestamp": "2005-06-26"
+  },
+  "src/axegrunt.qc": {
+   "filesize": 8693,
+   "timestamp": "2005-06-24"
+  },
+  "src/boss.qc": {
+   "filesize": 14935,
+   "timestamp": "2005-06-26"
+  },
+  "src/client.qc": {
+   "filesize": 32664,
+   "timestamp": "2005-06-23"
+  },
+  "src/combat.qc": {
+   "filesize": 6780,
+   "timestamp": "2005-06-14"
+  },
+  "src/enforcer.qc": {
+   "filesize": 25196,
+   "timestamp": "2005-06-26"
+  },
+  "src/items.qc": {
+   "filesize": 30451,
+   "timestamp": "2005-06-24"
+  }
+ },
  "filesize": 3253,
+ "install": {
+  "extract": "{quake}/lunsp1/"
+ },
+ "sha256": "11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c",
  "tags": [
   "title:Concentric Devastation",
   "releasedate:2005-06-27",
@@ -21,49 +61,9 @@
   "tag:strogg",
   "tag:q2"
  ],
- "install": {
-  "extract": "{quake}/lunsp1/"
- },
- "files": {
-  "src/combat.qc": {
-   "filesize": 6780,
-   "timestamp": "2005-06-14"
-  },
-  "src/boss.qc": {
-   "filesize": 14935,
-   "timestamp": "2005-06-26"
-  },
-  "src/axegrunt.qc": {
-   "filesize": 8693,
-   "timestamp": "2005-06-24"
-  },
-  "src/items.qc": {
-   "filesize": 30451,
-   "timestamp": "2005-06-24"
-  },
-  "src/client.qc": {
-   "filesize": 32664,
-   "timestamp": "2005-06-23"
-  },
-  "src/ai.qc": {
-   "filesize": 15265,
-   "timestamp": "2005-06-26"
-  },
-  "src/enforcer.qc": {
-   "filesize": 25196,
-   "timestamp": "2005-06-26"
-  },
-  "lunsp1.txt": {
-   "filesize": 5768,
-   "timestamp": "2005-06-27"
-  },
-  "pak0.pak": {
-   "filesize": 6957786,
-   "timestamp": "2005-06-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lunsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/1/11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c/lunsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

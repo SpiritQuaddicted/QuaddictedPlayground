@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "1b5e5ea93829e3ca7347ced65f7a88bcde8b40aa2d518e549606388c4f6502f0",
  "filename": [
   "butcher.zip"
  ],
+ "files": {
+  "BUTCHER.BSP": {
+   "filesize": 1486152,
+   "timestamp": "1997-01-10"
+  },
+  "BUTCHER.TXT": {
+   "filesize": 2763,
+   "timestamp": "1997-01-10"
+  }
+ },
  "filesize": 647,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1b5e5ea93829e3ca7347ced65f7a88bcde8b40aa2d518e549606388c4f6502f0",
  "tags": [
   "title:Butcher Base",
   "releasedate:1997-01-10",
@@ -16,21 +28,9 @@
   "tag:wizard",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "BUTCHER.TXT": {
-   "filesize": 2763,
-   "timestamp": "1997-01-10"
-  },
-  "BUTCHER.BSP": {
-   "filesize": 1486152,
-   "timestamp": "1997-01-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/butcher.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1b5e5ea93829e3ca7347ced65f7a88bcde8b40aa2d518e549606388c4f6502f0/butcher.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "c3a2d4728059e80491e4dc86a15087447afbfa96ead1fdab66d80564869f9bd2",
  "filename": [
   "sm72_pack.zip"
  ],
+ "files": {
+  "sm72_cardo.bsp": {
+   "filesize": 267896,
+   "timestamp": "2004-03-13"
+  },
+  "sm72_pack.txt": {
+   "filesize": 1569,
+   "timestamp": "2004-03-13"
+  },
+  "sm72_rpg.bsp": {
+   "filesize": 355124,
+   "timestamp": "2004-03-13"
+  },
+  "sm72_scampie.bsp": {
+   "filesize": 506104,
+   "timestamp": "2004-03-13"
+  },
+  "sm72_zwiffle.bsp": {
+   "filesize": 1751728,
+   "timestamp": "2004-03-13"
+  },
+  "sm72_zwiffle2.bsp": {
+   "filesize": 681608,
+   "timestamp": "2004-03-08"
+  }
+ },
  "filesize": 1035,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c3a2d4728059e80491e4dc86a15087447afbfa96ead1fdab66d80564869f9bd2",
  "tags": [
   "title:Speedmapping pack 72 - Spine map textures (A Tribute to Headshot #3)",
   "releasedate:2004-03-13",
@@ -19,37 +47,9 @@
   "startmap:sm72_zwiffle",
   "startmap:sm72_scampie"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm72_scampie.bsp": {
-   "filesize": 506104,
-   "timestamp": "2004-03-13"
-  },
-  "sm72_cardo.bsp": {
-   "filesize": 267896,
-   "timestamp": "2004-03-13"
-  },
-  "sm72_pack.txt": {
-   "filesize": 1569,
-   "timestamp": "2004-03-13"
-  },
-  "sm72_zwiffle2.bsp": {
-   "filesize": 681608,
-   "timestamp": "2004-03-08"
-  },
-  "sm72_zwiffle.bsp": {
-   "filesize": 1751728,
-   "timestamp": "2004-03-13"
-  },
-  "sm72_rpg.bsp": {
-   "filesize": 355124,
-   "timestamp": "2004-03-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm72_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c3a2d4728059e80491e4dc86a15087447afbfa96ead1fdab66d80564869f9bd2/sm72_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

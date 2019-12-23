@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "dbb69a923c273554a1765ad60c632753a0530d54b372e7270b1b67d15ff45452",
  "filename": [
   "sm85_temp.zip"
  ],
+ "files": {
+  "sm85_jacek.bsp": {
+   "filesize": 131580,
+   "timestamp": "2004-07-17"
+  },
+  "sm85_paintyj.bsp": {
+   "filesize": 338396,
+   "timestamp": "2004-07-17"
+  },
+  "sm85_pope.bsp": {
+   "filesize": 479788,
+   "timestamp": "2004-07-17"
+  },
+  "sm85_zwiffle.bsp": {
+   "filesize": 282444,
+   "timestamp": "2004-07-17"
+  }
+ },
  "filesize": 410,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "dbb69a923c273554a1765ad60c632753a0530d54b372e7270b1b67d15ff45452",
  "tags": [
   "title:Speedmapping pack 85 - Male manhood",
   "releasedate:2005-08-06",
@@ -14,29 +34,9 @@
   "author:BlackPope",
   "author:Zwiffle"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm85_pope.bsp": {
-   "filesize": 479788,
-   "timestamp": "2004-07-17"
-  },
-  "sm85_zwiffle.bsp": {
-   "filesize": 282444,
-   "timestamp": "2004-07-17"
-  },
-  "sm85_jacek.bsp": {
-   "filesize": 131580,
-   "timestamp": "2004-07-17"
-  },
-  "sm85_paintyj.bsp": {
-   "filesize": 338396,
-   "timestamp": "2004-07-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm85_temp.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dbb69a923c273554a1765ad60c632753a0530d54b372e7270b1b67d15ff45452/sm85_temp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

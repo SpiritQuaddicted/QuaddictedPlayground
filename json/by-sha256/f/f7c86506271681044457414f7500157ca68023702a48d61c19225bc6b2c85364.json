@@ -1,40 +1,87 @@
 {
- "version": "20191222-0",
- "sha256": "f7c86506271681044457414f7500157ca68023702a48d61c19225bc6b2c85364",
  "filename": [
   "jilted.zip"
  ],
- "filesize": 1520,
- "tags": [
-  "title:House of jilted boys",
-  "releasedate:1997-02-16",
-  "game:quake",
-  "commandline:-game bario",
-  "author:Bario",
-  "tag:medium",
-  "tag:wizard",
-  "tag:skins",
-  "startmap:bario2"
- ],
- "install": {
-  "extract": "{quake}/bario/"
- },
  "files": {
+  "jilted_quaddictedrepack.txt": {
+   "filesize": 318,
+   "timestamp": "2009-05-02"
+  },
   "maps/BARIO2.bsp": {
    "filesize": 1757428,
    "timestamp": "1997-02-08"
   },
-  "text/cztex1.txt": {
-   "filesize": 2605,
-   "timestamp": "1996-08-18"
+  "progs/FISH.MDL": {
+   "filesize": 81900,
+   "timestamp": "1996-12-26"
   },
-  "text/goblin.txt": {
-   "filesize": 3703,
-   "timestamp": "1996-11-26"
+  "progs/H_OGRE.MDL": {
+   "filesize": 14900,
+   "timestamp": "1997-02-09"
   },
-  "text/newfish4.txt": {
-   "filesize": 2033,
-   "timestamp": "1996-12-28"
+  "progs/H_Soldier.mdl": {
+   "filesize": 5428,
+   "timestamp": "1996-10-02"
+  },
+  "progs/Hknight.mdl": {
+   "filesize": 228400,
+   "timestamp": "1997-02-08"
+  },
+  "progs/OGRE.MDL": {
+   "filesize": 162036,
+   "timestamp": "1997-02-08"
+  },
+  "progs/Soldier.mdl": {
+   "filesize": 146288,
+   "timestamp": "1996-10-06"
+  },
+  "progs/demon.mdl": {
+   "filesize": 102120,
+   "timestamp": "1996-09-03"
+  },
+  "progs/h_demon.mdl": {
+   "filesize": 34884,
+   "timestamp": "1996-09-03"
+  },
+  "progs/h_knight.mdl": {
+   "filesize": 7156,
+   "timestamp": "1997-02-09"
+  },
+  "progs/h_shal.mdl": {
+   "filesize": 28036,
+   "timestamp": "1997-02-13"
+  },
+  "progs/h_shams.mdl": {
+   "filesize": 37060,
+   "timestamp": "1997-02-13"
+  },
+  "progs/h_wizard.mdl": {
+   "filesize": 14804,
+   "timestamp": "1997-02-09"
+  },
+  "progs/h_zombie.mdl": {
+   "filesize": 4484,
+   "timestamp": "1997-02-11"
+  },
+  "progs/knight.mdl": {
+   "filesize": 101404,
+   "timestamp": "1997-02-10"
+  },
+  "progs/shalrath.mdl": {
+   "filesize": 80648,
+   "timestamp": "1997-02-13"
+  },
+  "progs/shambler.mdl": {
+   "filesize": 98556,
+   "timestamp": "1997-02-13"
+  },
+  "progs/wizard.mdl": {
+   "filesize": 64472,
+   "timestamp": "1997-02-09"
+  },
+  "progs/zombie.mdl": {
+   "filesize": 186084,
+   "timestamp": "1997-02-09"
   },
   "text/BARIO2.txt": {
    "filesize": 7460,
@@ -48,93 +95,46 @@
    "filesize": 3820,
    "timestamp": "1997-02-16"
   },
-  "text/markswad.txt": {
-   "filesize": 1056,
-   "timestamp": "1997-01-17"
-  },
   "text/WOTQUAKE.TXT": {
    "filesize": 2777,
    "timestamp": "1996-09-04"
   },
-  "jilted_quaddictedrepack.txt": {
-   "filesize": 318,
-   "timestamp": "2009-05-02"
+  "text/cztex1.txt": {
+   "filesize": 2605,
+   "timestamp": "1996-08-18"
   },
-  "progs/wizard.mdl": {
-   "filesize": 64472,
-   "timestamp": "1997-02-09"
+  "text/goblin.txt": {
+   "filesize": 3703,
+   "timestamp": "1996-11-26"
   },
-  "progs/h_demon.mdl": {
-   "filesize": 34884,
-   "timestamp": "1996-09-03"
+  "text/markswad.txt": {
+   "filesize": 1056,
+   "timestamp": "1997-01-17"
   },
-  "progs/FISH.MDL": {
-   "filesize": 81900,
-   "timestamp": "1996-12-26"
-  },
-  "progs/OGRE.MDL": {
-   "filesize": 162036,
-   "timestamp": "1997-02-08"
-  },
-  "progs/Hknight.mdl": {
-   "filesize": 228400,
-   "timestamp": "1997-02-08"
-  },
-  "progs/Soldier.mdl": {
-   "filesize": 146288,
-   "timestamp": "1996-10-06"
-  },
-  "progs/h_zombie.mdl": {
-   "filesize": 4484,
-   "timestamp": "1997-02-11"
-  },
-  "progs/h_wizard.mdl": {
-   "filesize": 14804,
-   "timestamp": "1997-02-09"
-  },
-  "progs/h_shams.mdl": {
-   "filesize": 37060,
-   "timestamp": "1997-02-13"
-  },
-  "progs/H_OGRE.MDL": {
-   "filesize": 14900,
-   "timestamp": "1997-02-09"
-  },
-  "progs/shambler.mdl": {
-   "filesize": 98556,
-   "timestamp": "1997-02-13"
-  },
-  "progs/demon.mdl": {
-   "filesize": 102120,
-   "timestamp": "1996-09-03"
-  },
-  "progs/H_Soldier.mdl": {
-   "filesize": 5428,
-   "timestamp": "1996-10-02"
-  },
-  "progs/knight.mdl": {
-   "filesize": 101404,
-   "timestamp": "1997-02-10"
-  },
-  "progs/h_knight.mdl": {
-   "filesize": 7156,
-   "timestamp": "1997-02-09"
-  },
-  "progs/zombie.mdl": {
-   "filesize": 186084,
-   "timestamp": "1997-02-09"
-  },
-  "progs/shalrath.mdl": {
-   "filesize": 80648,
-   "timestamp": "1997-02-13"
-  },
-  "progs/h_shal.mdl": {
-   "filesize": 28036,
-   "timestamp": "1997-02-13"
+  "text/newfish4.txt": {
+   "filesize": 2033,
+   "timestamp": "1996-12-28"
   }
  },
+ "filesize": 1520,
+ "install": {
+  "extract": "{quake}/bario/"
+ },
+ "sha256": "f7c86506271681044457414f7500157ca68023702a48d61c19225bc6b2c85364",
+ "tags": [
+  "title:House of jilted boys",
+  "releasedate:1997-02-16",
+  "game:quake",
+  "commandline:-game bario",
+  "author:Bario",
+  "tag:medium",
+  "tag:wizard",
+  "tag:skins",
+  "startmap:bario2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/jilted.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f7c86506271681044457414f7500157ca68023702a48d61c19225bc6b2c85364/jilted.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

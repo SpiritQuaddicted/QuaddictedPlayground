@@ -1,34 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c9ae2284e804c35fa576050022f9f71e96cc9af8ff1d4ed7849c4a167dfae645",
  "filename": [
   "mfxsp17.zip"
  ],
- "filesize": 6487,
- "tags": [
-  "title:Mainframe Mayhem",
-  "releasedate:2013-10-22",
-  "game:quake",
-  "commandline:-game quoth -hipnotic",
-  "author:mfx",
-  "tag:quoth",
-  "tag:base",
-  "tag:lava",
-  "tag:rocks",
-  "tag:cave",
-  "tag:crates",
-  "tag:techno",
-  "tag:thantech",
-  "tag:tech",
-  "tag:large",
-  "tag:source",
-  "tag:skybox",
-  "tag:limits",
-  "dependency:quoth"
- ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
  "files": {
   "gfx/env/dawnbk.tga": {
    "filesize": 791801,
@@ -103,8 +76,35 @@
    "timestamp": "2013-09-20"
   }
  },
+ "filesize": 6487,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "c9ae2284e804c35fa576050022f9f71e96cc9af8ff1d4ed7849c4a167dfae645",
+ "tags": [
+  "title:Mainframe Mayhem",
+  "releasedate:2013-10-22",
+  "game:quake",
+  "commandline:-game quoth -hipnotic",
+  "author:mfx",
+  "tag:quoth",
+  "tag:base",
+  "tag:lava",
+  "tag:rocks",
+  "tag:cave",
+  "tag:crates",
+  "tag:techno",
+  "tag:thantech",
+  "tag:tech",
+  "tag:large",
+  "tag:source",
+  "tag:skybox",
+  "tag:limits",
+  "dependency:quoth"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mfxsp17.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c9ae2284e804c35fa576050022f9f71e96cc9af8ff1d4ed7849c4a167dfae645/mfxsp17.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

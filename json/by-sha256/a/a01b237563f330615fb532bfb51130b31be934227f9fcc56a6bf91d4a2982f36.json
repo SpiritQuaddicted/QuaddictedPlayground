@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "a01b237563f330615fb532bfb51130b31be934227f9fcc56a6bf91d4a2982f36",
  "filename": [
   "brt01q1.zip"
  ],
+ "files": {
+  "brt01q1.bsp": {
+   "filesize": 244332,
+   "timestamp": "1999-02-28"
+  },
+  "brt01q1.txt": {
+   "filesize": 1852,
+   "timestamp": "2002-01-22"
+  }
+ },
  "filesize": 106,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a01b237563f330615fb532bfb51130b31be934227f9fcc56a6bf91d4a2982f36",
  "tags": [
   "title:brt01q1",
   "releasedate:2002-01-22",
@@ -13,21 +25,9 @@
   "tag:small",
   "tag:medieval"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "brt01q1.txt": {
-   "filesize": 1852,
-   "timestamp": "2002-01-22"
-  },
-  "brt01q1.bsp": {
-   "filesize": 244332,
-   "timestamp": "1999-02-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/brt01q1.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a01b237563f330615fb532bfb51130b31be934227f9fcc56a6bf91d4a2982f36/brt01q1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

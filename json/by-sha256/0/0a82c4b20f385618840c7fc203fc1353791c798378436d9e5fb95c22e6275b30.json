@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30",
  "filename": [
   "sul01.zip"
  ],
+ "files": {
+  "sul01/maps/sul0.bsp": {
+   "filesize": 630188,
+   "timestamp": "1980-06-25"
+  },
+  "sul01/maps/sul1.bsp": {
+   "filesize": 1149208,
+   "timestamp": "1996-11-29"
+  },
+  "sul01/progs.dat": {
+   "filesize": 414376,
+   "timestamp": "1996-11-20"
+  },
+  "sul01/progs/g_laser.mdl": {
+   "filesize": 50276,
+   "timestamp": "1996-07-26"
+  },
+  "sul01/sul1.txt": {
+   "filesize": 1839,
+   "timestamp": "1996-11-30"
+  },
+  "sul01_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 866,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30",
  "tags": [
   "title:Sul's Dark Tower &amp; Pit of Damnation",
   "releasedate:1996-11-30",
@@ -23,37 +51,9 @@
   "startmap:sul0",
   "startmap:sul1"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sul01/maps/sul1.bsp": {
-   "filesize": 1149208,
-   "timestamp": "1996-11-29"
-  },
-  "sul01/maps/sul0.bsp": {
-   "filesize": 630188,
-   "timestamp": "1980-06-25"
-  },
-  "sul01/sul1.txt": {
-   "filesize": 1839,
-   "timestamp": "1996-11-30"
-  },
-  "sul01/progs.dat": {
-   "filesize": 414376,
-   "timestamp": "1996-11-20"
-  },
-  "sul01/progs/g_laser.mdl": {
-   "filesize": 50276,
-   "timestamp": "1996-07-26"
-  },
-  "sul01_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sul01.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30/sul01.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

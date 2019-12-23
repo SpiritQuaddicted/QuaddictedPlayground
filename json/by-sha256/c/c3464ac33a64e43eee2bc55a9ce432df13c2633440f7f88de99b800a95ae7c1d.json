@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c3464ac33a64e43eee2bc55a9ce432df13c2633440f7f88de99b800a95ae7c1d",
  "filename": [
   "ohzarm.zip"
  ],
- "filesize": 635,
- "tags": [
-  "title:Ohzarm",
-  "releasedate:1997-10-02",
-  "game:quake",
-  "author:Tony Boyer",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Ohzarm.bsp": {
    "filesize": 1697424,
@@ -25,8 +12,21 @@
    "timestamp": "1997-11-19"
   }
  },
+ "filesize": 635,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c3464ac33a64e43eee2bc55a9ce432df13c2633440f7f88de99b800a95ae7c1d",
+ "tags": [
+  "title:Ohzarm",
+  "releasedate:1997-10-02",
+  "game:quake",
+  "author:Tony Boyer",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/ohzarm.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c3464ac33a64e43eee2bc55a9ce432df13c2633440f7f88de99b800a95ae7c1d/ohzarm.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "61d810b90fe75f82c5441861a494d0c57dd682a5c28fcf3299034041a4d8069f",
  "filename": [
   "solarfall.zip"
  ],
+ "files": {
+  "solarfall.txt": {
+   "filesize": 5107,
+   "timestamp": "2003-09-10"
+  },
+  "solfall.bsp": {
+   "filesize": 2438696,
+   "timestamp": "1999-07-05"
+  },
+  "solstart.bsp": {
+   "filesize": 555268,
+   "timestamp": "1999-06-29"
+  }
+ },
  "filesize": 1275,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "61d810b90fe75f82c5441861a494d0c57dd682a5c28fcf3299034041a4d8069f",
  "tags": [
   "title:Solarfall",
   "releasedate:1999-07-06",
@@ -20,25 +36,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:solstart"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "solstart.bsp": {
-   "filesize": 555268,
-   "timestamp": "1999-06-29"
-  },
-  "solarfall.txt": {
-   "filesize": 5107,
-   "timestamp": "2003-09-10"
-  },
-  "solfall.bsp": {
-   "filesize": 2438696,
-   "timestamp": "1999-07-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/solarfall.zip",
   "https://www.quaddicted.com/files/by-sha256/6/61d810b90fe75f82c5441861a494d0c57dd682a5c28fcf3299034041a4d8069f/solarfall.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "30f231c31058eb92c1147497a85ccd3ee8d4eef6b35f4af4abfb4cb162722d7e",
  "filename": [
   "lfstart.zip"
  ],
+ "files": {
+  "lfstart.bsp": {
+   "filesize": 471436,
+   "timestamp": "1999-07-16"
+  },
+  "lfstart.txt": {
+   "filesize": 1135,
+   "timestamp": "2000-01-01"
+  }
+ },
  "filesize": 195,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "30f231c31058eb92c1147497a85ccd3ee8d4eef6b35f4af4abfb4cb162722d7e",
  "tags": [
   "title:LFSP Start",
   "releasedate:2000-01-01",
@@ -16,21 +28,9 @@
   "tag:traps",
   "tag:episode"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "lfstart.txt": {
-   "filesize": 1135,
-   "timestamp": "2000-01-01"
-  },
-  "lfstart.bsp": {
-   "filesize": 471436,
-   "timestamp": "1999-07-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lfstart.zip",
   "https://www.quaddicted.com/files/by-sha256/3/30f231c31058eb92c1147497a85ccd3ee8d4eef6b35f4af4abfb4cb162722d7e/lfstart.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363",
  "filename": [
   "sm43_pack.zip"
  ],
+ "files": {
+  "sm43_necros.bsp": {
+   "filesize": 631152,
+   "timestamp": "2003-08-02"
+  },
+  "sm43_necros.txt": {
+   "filesize": 1928,
+   "timestamp": "2003-08-02"
+  },
+  "sm43_pack.txt": {
+   "filesize": 1863,
+   "timestamp": "2003-08-03"
+  },
+  "sm43_preach.bsp": {
+   "filesize": 763996,
+   "timestamp": "2003-08-03"
+  },
+  "sm43_ray.bsp": {
+   "filesize": 437272,
+   "timestamp": "2003-08-02"
+  },
+  "sm43_scampie.bsp": {
+   "filesize": 218180,
+   "timestamp": "2001-09-16"
+  },
+  "sm43_starbuck.bsp": {
+   "filesize": 554932,
+   "timestamp": "2003-08-03"
+  }
+ },
  "filesize": 1061,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363",
  "tags": [
   "title:Speedmapping pack 43 - Unthemed",
   "releasedate:2003-08-03",
@@ -19,41 +51,9 @@
   "startmap:sm43_ray",
   "startmap:sm43_starbuck"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm43_preach.bsp": {
-   "filesize": 763996,
-   "timestamp": "2003-08-03"
-  },
-  "sm43_pack.txt": {
-   "filesize": 1863,
-   "timestamp": "2003-08-03"
-  },
-  "sm43_starbuck.bsp": {
-   "filesize": 554932,
-   "timestamp": "2003-08-03"
-  },
-  "sm43_scampie.bsp": {
-   "filesize": 218180,
-   "timestamp": "2001-09-16"
-  },
-  "sm43_necros.bsp": {
-   "filesize": 631152,
-   "timestamp": "2003-08-02"
-  },
-  "sm43_necros.txt": {
-   "filesize": 1928,
-   "timestamp": "2003-08-02"
-  },
-  "sm43_ray.bsp": {
-   "filesize": 437272,
-   "timestamp": "2003-08-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm43_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363/sm43_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

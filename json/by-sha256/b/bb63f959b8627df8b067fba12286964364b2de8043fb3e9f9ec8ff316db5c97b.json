@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b",
  "filename": [
   "strom.zip"
  ],
+ "files": {
+  "strom.bat": {
+   "filesize": 19,
+   "timestamp": "1997-04-09"
+  },
+  "strom/Pak0.pak": {
+   "filesize": 8455713,
+   "timestamp": "1997-04-12"
+  },
+  "strom/strom.txt": {
+   "filesize": 11177,
+   "timestamp": "1997-05-08"
+  }
+ },
  "filesize": 3692,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b",
  "tags": [
   "title:Strom",
   "releasedate:1997-05-08",
@@ -17,25 +33,9 @@
   "tag:traps",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "strom.bat": {
-   "filesize": 19,
-   "timestamp": "1997-04-09"
-  },
-  "strom/strom.txt": {
-   "filesize": 11177,
-   "timestamp": "1997-05-08"
-  },
-  "strom/Pak0.pak": {
-   "filesize": 8455713,
-   "timestamp": "1997-04-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/strom.zip",
   "https://www.quaddicted.com/files/by-sha256/b/bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b/strom.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

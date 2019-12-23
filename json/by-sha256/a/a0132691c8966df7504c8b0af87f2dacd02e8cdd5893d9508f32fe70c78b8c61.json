@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "a0132691c8966df7504c8b0af87f2dacd02e8cdd5893d9508f32fe70c78b8c61",
  "filename": [
   "hc3.zip"
  ],
- "filesize": 1377,
- "tags": [
-  "title:SurveylLance ZtateMent",
-  "releasedate:2017-02-25",
-  "game:quake",
-  "author:Nicolas &quot;hexcalk&quot; Maeder",
-  "tag:small",
-  "tag:base",
-  "tag:tp-industrial",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "gpl-2.0.txt": {
    "filesize": 18326,
@@ -36,8 +20,24 @@
    "timestamp": "2017-02-25"
   }
  },
+ "filesize": 1377,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a0132691c8966df7504c8b0af87f2dacd02e8cdd5893d9508f32fe70c78b8c61",
+ "tags": [
+  "title:SurveylLance ZtateMent",
+  "releasedate:2017-02-25",
+  "game:quake",
+  "author:Nicolas &quot;hexcalk&quot; Maeder",
+  "tag:small",
+  "tag:base",
+  "tag:tp-industrial",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/hc3.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a0132691c8966df7504c8b0af87f2dacd02e8cdd5893d9508f32fe70c78b8c61/hc3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

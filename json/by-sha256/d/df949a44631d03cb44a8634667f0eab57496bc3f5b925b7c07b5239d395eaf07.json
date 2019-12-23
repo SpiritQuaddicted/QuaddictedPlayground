@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "df949a44631d03cb44a8634667f0eab57496bc3f5b925b7c07b5239d395eaf07",
  "filename": [
   "bnt2.zip"
  ],
- "filesize": 492,
- "tags": [
-  "title:The Hallowed Halls",
-  "releasedate:1997-09-11",
-  "game:quake",
-  "author:Jim Hendrickson",
-  "tag:metal",
-  "tag:wizard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "BNT2.BSP": {
    "filesize": 1201632,
@@ -26,8 +12,22 @@
    "timestamp": "1997-09-11"
   }
  },
+ "filesize": 492,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "df949a44631d03cb44a8634667f0eab57496bc3f5b925b7c07b5239d395eaf07",
+ "tags": [
+  "title:The Hallowed Halls",
+  "releasedate:1997-09-11",
+  "game:quake",
+  "author:Jim Hendrickson",
+  "tag:metal",
+  "tag:wizard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/bnt2.zip",
   "https://www.quaddicted.com/files/by-sha256/d/df949a44631d03cb44a8634667f0eab57496bc3f5b925b7c07b5239d395eaf07/bnt2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

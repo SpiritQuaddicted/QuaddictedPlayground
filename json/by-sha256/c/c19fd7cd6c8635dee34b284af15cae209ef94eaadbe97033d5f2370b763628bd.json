@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "c19fd7cd6c8635dee34b284af15cae209ef94eaadbe97033d5f2370b763628bd",
  "filename": [
   "sm134_pack.zip"
  ],
+ "files": {
+  "sm134_ankh.bsp": {
+   "filesize": 571784,
+   "timestamp": "2007-07-31"
+  },
+  "sm134_neg!ke.bsp": {
+   "filesize": 151204,
+   "timestamp": "2007-07-29"
+  },
+  "sm134_pack.txt": {
+   "filesize": 1417,
+   "timestamp": "2007-08-01"
+  },
+  "sm134_spirit.bsp": {
+   "filesize": 376544,
+   "timestamp": "2007-07-30"
+  },
+  "sm134_trinca.bsp": {
+   "filesize": 986700,
+   "timestamp": "2007-07-31"
+  },
+  "sm134_trinca.map": {
+   "filesize": 1053608,
+   "timestamp": "2007-07-31"
+  }
+ },
  "filesize": 824,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c19fd7cd6c8635dee34b284af15cae209ef94eaadbe97033d5f2370b763628bd",
  "tags": [
   "title:Speedmapping pack 134 - Fuck you this is no theme and it's silly",
   "releasedate:2007-08-01",
@@ -18,37 +46,9 @@
   "startmap:sm134_neg!ke",
   "startmap:sm134_ankh"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm134_pack.txt": {
-   "filesize": 1417,
-   "timestamp": "2007-08-01"
-  },
-  "sm134_neg!ke.bsp": {
-   "filesize": 151204,
-   "timestamp": "2007-07-29"
-  },
-  "sm134_trinca.bsp": {
-   "filesize": 986700,
-   "timestamp": "2007-07-31"
-  },
-  "sm134_trinca.map": {
-   "filesize": 1053608,
-   "timestamp": "2007-07-31"
-  },
-  "sm134_spirit.bsp": {
-   "filesize": 376544,
-   "timestamp": "2007-07-30"
-  },
-  "sm134_ankh.bsp": {
-   "filesize": 571784,
-   "timestamp": "2007-07-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm134_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c19fd7cd6c8635dee34b284af15cae209ef94eaadbe97033d5f2370b763628bd/sm134_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

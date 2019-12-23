@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4f493955768b232e1b1c17714d874a59a7201d1185d9b447fdf6f4cc084ce72e",
  "filename": [
   "glorious.zip"
  ],
- "filesize": 10842,
- "tags": [
-  "title:A Once Glorious City",
-  "releasedate:2018-10-29",
-  "game:quake",
-  "author:aDaya",
-  "tag:large",
-  "tag:temple",
-  "tag:egypt",
-  "tag:textures",
-  "tag:source",
-  "tag:limits",
-  "tag:greek"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "glorious.bsp": {
    "filesize": 4396536,
@@ -55,8 +36,27 @@
    "timestamp": "2006-04-14"
   }
  },
+ "filesize": 10842,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4f493955768b232e1b1c17714d874a59a7201d1185d9b447fdf6f4cc084ce72e",
+ "tags": [
+  "title:A Once Glorious City",
+  "releasedate:2018-10-29",
+  "game:quake",
+  "author:aDaya",
+  "tag:large",
+  "tag:temple",
+  "tag:egypt",
+  "tag:textures",
+  "tag:source",
+  "tag:limits",
+  "tag:greek"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/glorious.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4f493955768b232e1b1c17714d874a59a7201d1185d9b447fdf6f4cc084ce72e/glorious.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

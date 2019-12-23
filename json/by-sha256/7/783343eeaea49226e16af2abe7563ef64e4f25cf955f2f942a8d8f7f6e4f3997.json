@@ -1,46 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "783343eeaea49226e16af2abe7563ef64e4f25cf955f2f942a8d8f7f6e4f3997",
  "filename": [
   "explorejam2.zip"
  ],
- "filesize": 24481,
- "tags": [
-  "title:Explore Jam 2",
-  "releasedate:2017-01-09",
-  "game:quake",
-  "commandline:-game explorejam2",
-  "author:Bloughsburgh",
-  "author:Naitelveni",
-  "author:NewHouse",
-  "author:PuLSaR",
-  "author:topher",
-  "tag:small",
-  "tag:exploration",
-  "tag:puzzles",
-  "tag:secrets",
-  "tag:traps",
-  "tag:nonlinear",
-  "tag:platforming",
-  "tag:limits",
-  "tag:medieval",
-  "tag:ikwhite",
-  "tag:lava",
-  "tag:snow",
-  "tag:space",
-  "tag:source",
-  "tag:skybox",
-  "tag:swamp",
-  "tag:no monsters",
-  "startmap:explorejam2_bloughsburgh",
-  "startmap:explorejam2_naitelveni",
-  "startmap:explorejam2_newhouse",
-  "startmap:explorejam2_pulsar",
-  "startmap:explorejam2_topher"
- ],
- "install": {
-  "extract": "{quake}/explorejam2"
- },
  "files": {
   "docs/explorejam2_bloughsburgh.txt": {
    "filesize": 11678,
@@ -219,8 +180,47 @@
    "timestamp": "2017-01-08"
   }
  },
+ "filesize": 24481,
+ "install": {
+  "extract": "{quake}/explorejam2"
+ },
+ "sha256": "783343eeaea49226e16af2abe7563ef64e4f25cf955f2f942a8d8f7f6e4f3997",
+ "tags": [
+  "title:Explore Jam 2",
+  "releasedate:2017-01-09",
+  "game:quake",
+  "commandline:-game explorejam2",
+  "author:Bloughsburgh",
+  "author:Naitelveni",
+  "author:NewHouse",
+  "author:PuLSaR",
+  "author:topher",
+  "tag:small",
+  "tag:exploration",
+  "tag:puzzles",
+  "tag:secrets",
+  "tag:traps",
+  "tag:nonlinear",
+  "tag:platforming",
+  "tag:limits",
+  "tag:medieval",
+  "tag:ikwhite",
+  "tag:lava",
+  "tag:snow",
+  "tag:space",
+  "tag:source",
+  "tag:skybox",
+  "tag:swamp",
+  "tag:no monsters",
+  "startmap:explorejam2_bloughsburgh",
+  "startmap:explorejam2_naitelveni",
+  "startmap:explorejam2_newhouse",
+  "startmap:explorejam2_pulsar",
+  "startmap:explorejam2_topher"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/explorejam2.zip",
   "https://www.quaddicted.com/files/by-sha256/7/783343eeaea49226e16af2abe7563ef64e4f25cf955f2f942a8d8f7f6e4f3997/explorejam2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

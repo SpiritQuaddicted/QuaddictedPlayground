@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e",
  "filename": [
   "ins3.zip"
  ],
+ "files": {
+  "SANCT.BSP": {
+   "filesize": 1974948,
+   "timestamp": "1997-02-03"
+  },
+  "sanct.txt": {
+   "filesize": 2600,
+   "timestamp": "1997-04-01"
+  }
+ },
  "filesize": 868,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e",
  "tags": [
   "title:The Insurrection, part III - The Sanctuary",
   "releasedate:1997-04-01",
@@ -14,21 +26,9 @@
   "tag:wizard",
   "startmap:sanct"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sanct.txt": {
-   "filesize": 2600,
-   "timestamp": "1997-04-01"
-  },
-  "SANCT.BSP": {
-   "filesize": 1974948,
-   "timestamp": "1997-02-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ins3.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8fd0a8f4469810ab79116397cc3425988f2f978fd28b636ac06c0cea9080d02e/ins3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

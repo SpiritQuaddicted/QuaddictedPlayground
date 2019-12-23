@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797",
  "filename": [
   "zer.zip"
  ],
+ "files": {
+  "DEVKIT.TXT": {
+   "filesize": 42484,
+   "timestamp": "1997-09-27"
+  },
+  "DEVKIT.ZIP": {
+   "filesize": 247510,
+   "timestamp": "1997-09-27"
+  },
+  "LEVELS.CFG": {
+   "filesize": 392,
+   "timestamp": "1997-09-26"
+  },
+  "PAK0.PAK": {
+   "filesize": 25139055,
+   "timestamp": "1997-09-27"
+  },
+  "PROGS.DAT": {
+   "filesize": 588288,
+   "timestamp": "1997-09-27"
+  },
+  "QWPROGS.DAT": {
+   "filesize": 269236,
+   "timestamp": "1997-09-27"
+  },
+  "SERVER.CFG": {
+   "filesize": 223,
+   "timestamp": "1997-09-26"
+  },
+  "ZER.TXT": {
+   "filesize": 11251,
+   "timestamp": "1997-09-27"
+  }
+ },
  "filesize": 11198,
+ "install": {
+  "extract": "{quake}/zer/"
+ },
+ "sha256": "e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797",
  "tags": [
   "title:Zerst\u00f6rer - Testament of the Destroyer",
   "releasedate:1997-09-27",
@@ -26,45 +62,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/zer/"
- },
- "files": {
-  "PROGS.DAT": {
-   "filesize": 588288,
-   "timestamp": "1997-09-27"
-  },
-  "QWPROGS.DAT": {
-   "filesize": 269236,
-   "timestamp": "1997-09-27"
-  },
-  "DEVKIT.TXT": {
-   "filesize": 42484,
-   "timestamp": "1997-09-27"
-  },
-  "DEVKIT.ZIP": {
-   "filesize": 247510,
-   "timestamp": "1997-09-27"
-  },
-  "PAK0.PAK": {
-   "filesize": 25139055,
-   "timestamp": "1997-09-27"
-  },
-  "LEVELS.CFG": {
-   "filesize": 392,
-   "timestamp": "1997-09-26"
-  },
-  "SERVER.CFG": {
-   "filesize": 223,
-   "timestamp": "1997-09-26"
-  },
-  "ZER.TXT": {
-   "filesize": 11251,
-   "timestamp": "1997-09-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/zer.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797/zer.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

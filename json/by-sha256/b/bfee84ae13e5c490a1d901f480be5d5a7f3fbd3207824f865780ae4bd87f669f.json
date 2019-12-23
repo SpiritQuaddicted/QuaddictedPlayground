@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f",
  "filename": [
   "ikspq3.zip"
  ],
+ "files": {
+  "IKSPQ3.BSP": {
+   "filesize": 1197460,
+   "timestamp": "1997-05-17"
+  },
+  "IKSPQ3.TXT": {
+   "filesize": 6508,
+   "timestamp": "1997-05-18"
+  }
+ },
  "filesize": 447,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f",
  "tags": [
   "title:Halls of the Shambler God",
   "releasedate:1997-05-18",
@@ -17,21 +29,9 @@
   "tag:series",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "IKSPQ3.BSP": {
-   "filesize": 1197460,
-   "timestamp": "1997-05-17"
-  },
-  "IKSPQ3.TXT": {
-   "filesize": 6508,
-   "timestamp": "1997-05-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq3.zip",
   "https://www.quaddicted.com/files/by-sha256/b/bfee84ae13e5c490a1d901f480be5d5a7f3fbd3207824f865780ae4bd87f669f/ikspq3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

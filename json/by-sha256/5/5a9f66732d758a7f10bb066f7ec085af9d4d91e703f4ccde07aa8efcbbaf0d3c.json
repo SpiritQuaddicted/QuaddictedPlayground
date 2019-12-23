@@ -1,10 +1,158 @@
 {
- "version": "20191222-0",
- "sha256": "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c",
  "filename": [
   "nehahra.zip"
  ],
+ "files": {
+  "DPNehahra.exe": {
+   "filesize": 577024,
+   "timestamp": "2000-08-27"
+  },
+  "FMOD.DLL": {
+   "filesize": 117760,
+   "timestamp": "2001-02-19"
+  },
+  "glquake.exe": {
+   "filesize": 501248,
+   "timestamp": "2007-08-07"
+  },
+  "nehahra.exe": {
+   "filesize": 656384,
+   "timestamp": "2000-08-27"
+  },
+  "nehahra/devkit/demos.txt": {
+   "filesize": 776,
+   "timestamp": "2000-08-19"
+  },
+  "nehahra/devkit/devkit1.txt": {
+   "filesize": 116684,
+   "timestamp": "2001-07-22"
+  },
+  "nehahra/devkit/nehahra.fgd": {
+   "filesize": 43045,
+   "timestamp": "2000-08-11"
+  },
+  "nehahra/dpnehahra.txt": {
+   "filesize": 2184,
+   "timestamp": "2000-08-27"
+  },
+  "nehahra/help.txt": {
+   "filesize": 378,
+   "timestamp": "2001-05-21"
+  },
+  "nehahra/mods/atmos2.xm": {
+   "filesize": 444475,
+   "timestamp": "2000-04-03"
+  },
+  "nehahra/mods/neh1.xm": {
+   "filesize": 368757,
+   "timestamp": "2000-09-19"
+  },
+  "nehahra/mods/neh2.xm": {
+   "filesize": 332712,
+   "timestamp": "2000-09-19"
+  },
+  "nehahra/mods/neh3.xm": {
+   "filesize": 764971,
+   "timestamp": "2000-09-25"
+  },
+  "nehahra/mods/neh3m1a.xm": {
+   "filesize": 638666,
+   "timestamp": "2001-02-03"
+  },
+  "nehahra/mods/neh4.xm": {
+   "filesize": 383080,
+   "timestamp": "2000-09-19"
+  },
+  "nehahra/mods/neh5.xm": {
+   "filesize": 1795206,
+   "timestamp": "2000-09-19"
+  },
+  "nehahra/mods/neh6.xm": {
+   "filesize": 429365,
+   "timestamp": "2000-09-19"
+  },
+  "nehahra/mods/neh7.xm": {
+   "filesize": 688737,
+   "timestamp": "2000-09-19"
+  },
+  "nehahra/mods/neh8.xm": {
+   "filesize": 535002,
+   "timestamp": "2000-09-19"
+  },
+  "nehahra/mods/nehend.s3m": {
+   "filesize": 389680,
+   "timestamp": "2001-05-06"
+  },
+  "nehahra/neh.html": {
+   "filesize": 28423,
+   "timestamp": "2000-08-18"
+  },
+  "nehahra/nehahra.txt": {
+   "filesize": 19845,
+   "timestamp": "2001-05-22"
+  },
+  "nehahra/nehexe.txt": {
+   "filesize": 367,
+   "timestamp": "2001-05-22"
+  },
+  "nehahra/nehmodfix.txt": {
+   "filesize": 484,
+   "timestamp": "2001-02-04"
+  },
+  "nehahra/nehmulti.txt": {
+   "filesize": 3897,
+   "timestamp": "2000-08-27"
+  },
+  "nehahra/nehmusic.txt": {
+   "filesize": 404,
+   "timestamp": "2001-05-22"
+  },
+  "nehahra/pak0.pak": {
+   "filesize": 116,
+   "timestamp": "2000-08-17"
+  },
+  "nehahra/pak1.pak": {
+   "filesize": 28584360,
+   "timestamp": "2000-08-26"
+  },
+  "nehahra/pak2.pak": {
+   "filesize": 57681524,
+   "timestamp": "2000-08-22"
+  },
+  "nehahra/pak3.pak": {
+   "filesize": 63677372,
+   "timestamp": "2000-08-27"
+  },
+  "nehahra/pak4.pak": {
+   "filesize": 1841304,
+   "timestamp": "2000-08-27"
+  },
+  "nehahra/progs.dat": {
+   "filesize": 1021636,
+   "timestamp": "2001-06-05"
+  },
+  "nehahra/readmeneh.txt": {
+   "filesize": 14059,
+   "timestamp": "2008-03-11"
+  },
+  "nehexe.exe": {
+   "filesize": 438272,
+   "timestamp": "2001-03-08"
+  },
+  "nehmovie.exe": {
+   "filesize": 524288,
+   "timestamp": "2000-08-06"
+  },
+  "readme_spirit.txt": {
+   "filesize": 770,
+   "timestamp": "2008-03-11"
+  }
+ },
  "filesize": 53817,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c",
  "tags": [
   "title:Nehahra",
   "releasedate:2000-08-17",
@@ -25,157 +173,9 @@
   "tag:cutscenes",
   "startmap:nehstart"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "nehahra.exe": {
-   "filesize": 656384,
-   "timestamp": "2000-08-27"
-  },
-  "nehexe.exe": {
-   "filesize": 438272,
-   "timestamp": "2001-03-08"
-  },
-  "nehahra/readmeneh.txt": {
-   "filesize": 14059,
-   "timestamp": "2008-03-11"
-  },
-  "nehahra/pak3.pak": {
-   "filesize": 63677372,
-   "timestamp": "2000-08-27"
-  },
-  "nehahra/help.txt": {
-   "filesize": 378,
-   "timestamp": "2001-05-21"
-  },
-  "nehahra/nehmodfix.txt": {
-   "filesize": 484,
-   "timestamp": "2001-02-04"
-  },
-  "nehahra/pak1.pak": {
-   "filesize": 28584360,
-   "timestamp": "2000-08-26"
-  },
-  "nehahra/pak2.pak": {
-   "filesize": 57681524,
-   "timestamp": "2000-08-22"
-  },
-  "nehahra/nehahra.txt": {
-   "filesize": 19845,
-   "timestamp": "2001-05-22"
-  },
-  "nehahra/progs.dat": {
-   "filesize": 1021636,
-   "timestamp": "2001-06-05"
-  },
-  "nehahra/mods/neh6.xm": {
-   "filesize": 429365,
-   "timestamp": "2000-09-19"
-  },
-  "nehahra/mods/neh1.xm": {
-   "filesize": 368757,
-   "timestamp": "2000-09-19"
-  },
-  "nehahra/mods/neh3m1a.xm": {
-   "filesize": 638666,
-   "timestamp": "2001-02-03"
-  },
-  "nehahra/mods/neh8.xm": {
-   "filesize": 535002,
-   "timestamp": "2000-09-19"
-  },
-  "nehahra/mods/neh7.xm": {
-   "filesize": 688737,
-   "timestamp": "2000-09-19"
-  },
-  "nehahra/mods/neh3.xm": {
-   "filesize": 764971,
-   "timestamp": "2000-09-25"
-  },
-  "nehahra/mods/neh2.xm": {
-   "filesize": 332712,
-   "timestamp": "2000-09-19"
-  },
-  "nehahra/mods/neh4.xm": {
-   "filesize": 383080,
-   "timestamp": "2000-09-19"
-  },
-  "nehahra/mods/neh5.xm": {
-   "filesize": 1795206,
-   "timestamp": "2000-09-19"
-  },
-  "nehahra/mods/atmos2.xm": {
-   "filesize": 444475,
-   "timestamp": "2000-04-03"
-  },
-  "nehahra/mods/nehend.s3m": {
-   "filesize": 389680,
-   "timestamp": "2001-05-06"
-  },
-  "nehahra/nehmusic.txt": {
-   "filesize": 404,
-   "timestamp": "2001-05-22"
-  },
-  "nehahra/dpnehahra.txt": {
-   "filesize": 2184,
-   "timestamp": "2000-08-27"
-  },
-  "nehahra/neh.html": {
-   "filesize": 28423,
-   "timestamp": "2000-08-18"
-  },
-  "nehahra/nehexe.txt": {
-   "filesize": 367,
-   "timestamp": "2001-05-22"
-  },
-  "nehahra/pak0.pak": {
-   "filesize": 116,
-   "timestamp": "2000-08-17"
-  },
-  "nehahra/devkit/devkit1.txt": {
-   "filesize": 116684,
-   "timestamp": "2001-07-22"
-  },
-  "nehahra/devkit/nehahra.fgd": {
-   "filesize": 43045,
-   "timestamp": "2000-08-11"
-  },
-  "nehahra/devkit/demos.txt": {
-   "filesize": 776,
-   "timestamp": "2000-08-19"
-  },
-  "nehahra/nehmulti.txt": {
-   "filesize": 3897,
-   "timestamp": "2000-08-27"
-  },
-  "nehahra/pak4.pak": {
-   "filesize": 1841304,
-   "timestamp": "2000-08-27"
-  },
-  "nehmovie.exe": {
-   "filesize": 524288,
-   "timestamp": "2000-08-06"
-  },
-  "readme_spirit.txt": {
-   "filesize": 770,
-   "timestamp": "2008-03-11"
-  },
-  "glquake.exe": {
-   "filesize": 501248,
-   "timestamp": "2007-08-07"
-  },
-  "FMOD.DLL": {
-   "filesize": 117760,
-   "timestamp": "2001-02-19"
-  },
-  "DPNehahra.exe": {
-   "filesize": 577024,
-   "timestamp": "2000-08-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/nehahra.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5a9f66732d758a7f10bb066f7ec085af9d4d91e703f4ccde07aa8efcbbaf0d3c/nehahra.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

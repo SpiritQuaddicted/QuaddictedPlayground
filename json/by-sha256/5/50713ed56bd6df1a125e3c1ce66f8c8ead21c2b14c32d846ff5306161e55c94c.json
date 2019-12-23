@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c",
  "filename": [
   "vigil.zip"
  ],
+ "files": {
+  "PAK0.PAK": {
+   "filesize": 2888018,
+   "timestamp": "1997-05-16"
+  },
+  "vigil.txt": {
+   "filesize": 4004,
+   "timestamp": "1997-05-16"
+  }
+ },
  "filesize": 1060,
+ "install": {
+  "extract": "{quake}/vigil/"
+ },
+ "sha256": "50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c",
  "tags": [
   "title:The Vigil",
   "releasedate:1997-05-16",
@@ -17,21 +29,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/vigil/"
- },
- "files": {
-  "PAK0.PAK": {
-   "filesize": 2888018,
-   "timestamp": "1997-05-16"
-  },
-  "vigil.txt": {
-   "filesize": 4004,
-   "timestamp": "1997-05-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/vigil.zip",
   "https://www.quaddicted.com/files/by-sha256/5/50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c/vigil.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

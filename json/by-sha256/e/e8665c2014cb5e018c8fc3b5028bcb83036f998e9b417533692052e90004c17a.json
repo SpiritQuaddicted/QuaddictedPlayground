@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "e8665c2014cb5e018c8fc3b5028bcb83036f998e9b417533692052e90004c17a",
  "filename": [
   "sm6_pack.zip"
  ],
+ "files": {
+  "sm6_aard.bsp": {
+   "filesize": 329168,
+   "timestamp": "2001-04-07"
+  },
+  "sm6_daz.bsp": {
+   "filesize": 825256,
+   "timestamp": "2001-04-07"
+  },
+  "sm6_fern.bsp": {
+   "filesize": 396628,
+   "timestamp": "2001-04-07"
+  },
+  "sm6_pack.txt": {
+   "filesize": 2490,
+   "timestamp": "2001-04-08"
+  },
+  "sm6_ray.bsp": {
+   "filesize": 213696,
+   "timestamp": "2001-04-02"
+  },
+  "sm6_vigil.bsp": {
+   "filesize": 174860,
+   "timestamp": "2001-04-02"
+  },
+  "sm6_vondur.bsp": {
+   "filesize": 160180,
+   "timestamp": "2001-04-07"
+  }
+ },
  "filesize": 818,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e8665c2014cb5e018c8fc3b5028bcb83036f998e9b417533692052e90004c17a",
  "tags": [
   "title:Speedmapping pack 6 - Unthemed",
   "releasedate:2001-04-08",
@@ -22,41 +54,9 @@
   "startmap:sm6_daz",
   "startmap:sm6_vigil"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm6_vigil.bsp": {
-   "filesize": 174860,
-   "timestamp": "2001-04-02"
-  },
-  "sm6_fern.bsp": {
-   "filesize": 396628,
-   "timestamp": "2001-04-07"
-  },
-  "sm6_pack.txt": {
-   "filesize": 2490,
-   "timestamp": "2001-04-08"
-  },
-  "sm6_aard.bsp": {
-   "filesize": 329168,
-   "timestamp": "2001-04-07"
-  },
-  "sm6_ray.bsp": {
-   "filesize": 213696,
-   "timestamp": "2001-04-02"
-  },
-  "sm6_daz.bsp": {
-   "filesize": 825256,
-   "timestamp": "2001-04-07"
-  },
-  "sm6_vondur.bsp": {
-   "filesize": 160180,
-   "timestamp": "2001-04-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm6_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e8665c2014cb5e018c8fc3b5028bcb83036f998e9b417533692052e90004c17a/sm6_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

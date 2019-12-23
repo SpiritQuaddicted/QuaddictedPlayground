@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "6860f5a603a2fd84026ec1dead9bb7c058943c3885402f26b1f191c37c27e6fa",
  "filename": [
   "sm147_pack.zip"
  ],
+ "files": {
+  "sm147_drew.bsp": {
+   "filesize": 372472,
+   "timestamp": "2008-11-09"
+  },
+  "sm147_lurker.bsp": {
+   "filesize": 221136,
+   "timestamp": "2008-11-16"
+  },
+  "sm147_pack.txt": {
+   "filesize": 1364,
+   "timestamp": "2008-11-17"
+  },
+  "sm147_st3ady.bsp": {
+   "filesize": 616716,
+   "timestamp": "2008-11-17"
+  },
+  "sm147_trinca.bsp": {
+   "filesize": 535792,
+   "timestamp": "2008-11-11"
+  },
+  "sm147_trinca.map": {
+   "filesize": 563481,
+   "timestamp": "2008-11-11"
+  }
+ },
  "filesize": 717,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6860f5a603a2fd84026ec1dead9bb7c058943c3885402f26b1f191c37c27e6fa",
  "tags": [
   "title:Speedmapping pack 147 - Unlikely escape",
   "releasedate:2008-11-17",
@@ -18,37 +46,9 @@
   "startmap:sm147_st3ady",
   "startmap:sm147_trinca"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm147_trinca.bsp": {
-   "filesize": 535792,
-   "timestamp": "2008-11-11"
-  },
-  "sm147_pack.txt": {
-   "filesize": 1364,
-   "timestamp": "2008-11-17"
-  },
-  "sm147_drew.bsp": {
-   "filesize": 372472,
-   "timestamp": "2008-11-09"
-  },
-  "sm147_lurker.bsp": {
-   "filesize": 221136,
-   "timestamp": "2008-11-16"
-  },
-  "sm147_st3ady.bsp": {
-   "filesize": 616716,
-   "timestamp": "2008-11-17"
-  },
-  "sm147_trinca.map": {
-   "filesize": 563481,
-   "timestamp": "2008-11-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm147_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6860f5a603a2fd84026ec1dead9bb7c058943c3885402f26b1f191c37c27e6fa/sm147_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

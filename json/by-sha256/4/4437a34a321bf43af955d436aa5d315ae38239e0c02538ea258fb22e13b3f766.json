@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766",
  "filename": [
   "dreadbase.zip"
  ],
- "filesize": 1969,
- "tags": [
-  "title:The Dreaded Dreadbase of Dread",
-  "releasedate:2018-04-07",
-  "game:quake",
-  "commandline:-game dreadbase",
-  "author:SavageX",
-  "tag:medium",
-  "tag:base",
-  "tag:doom",
-  "tag:source",
-  "tag:textures",
-  "startmap:dreadbase_fix1"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "dreadbase/CREDITS-freedoom-content.txt": {
    "filesize": 10000,
@@ -43,8 +24,27 @@
    "timestamp": "2018-04-07"
   }
  },
+ "filesize": 1969,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766",
+ "tags": [
+  "title:The Dreaded Dreadbase of Dread",
+  "releasedate:2018-04-07",
+  "game:quake",
+  "commandline:-game dreadbase",
+  "author:SavageX",
+  "tag:medium",
+  "tag:base",
+  "tag:doom",
+  "tag:source",
+  "tag:textures",
+  "startmap:dreadbase_fix1"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/dreadbase.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766/dreadbase.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

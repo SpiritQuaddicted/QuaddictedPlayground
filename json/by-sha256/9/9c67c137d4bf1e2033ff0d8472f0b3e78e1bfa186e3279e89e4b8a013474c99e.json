@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9c67c137d4bf1e2033ff0d8472f0b3e78e1bfa186e3279e89e4b8a013474c99e",
  "filename": [
   "scream.zip"
  ],
- "filesize": 330,
- "tags": [
-  "title:Star Scream",
-  "releasedate:2003-05-07",
-  "game:quake",
-  "author:Dustin \"Tronyn\" Geeraert",
-  "tag:coagula",
-  "tag:void",
-  "tag:metal"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "scream.bsp": {
    "filesize": 905796,
@@ -27,8 +12,23 @@
    "timestamp": "2003-05-07"
   }
  },
+ "filesize": 330,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9c67c137d4bf1e2033ff0d8472f0b3e78e1bfa186e3279e89e4b8a013474c99e",
+ "tags": [
+  "title:Star Scream",
+  "releasedate:2003-05-07",
+  "game:quake",
+  "author:Dustin \"Tronyn\" Geeraert",
+  "tag:coagula",
+  "tag:void",
+  "tag:metal"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/scream.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9c67c137d4bf1e2033ff0d8472f0b3e78e1bfa186e3279e89e4b8a013474c99e/scream.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

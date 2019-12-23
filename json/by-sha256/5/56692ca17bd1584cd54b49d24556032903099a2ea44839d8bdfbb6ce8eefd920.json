@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920",
  "filename": [
   "oms_unmentionables.zip"
  ],
+ "files": {
+  "oms24.bsp": {
+   "filesize": 5435228,
+   "timestamp": "2007-04-19"
+  },
+  "oms25.bsp": {
+   "filesize": 5567228,
+   "timestamp": "2008-05-26"
+  },
+  "oms_unmentionables.txt": {
+   "filesize": 1708,
+   "timestamp": "2012-10-15"
+  }
+ },
  "filesize": 4534,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920",
  "tags": [
   "title:Laboratory X &amp; Neighboring Alcazar's",
   "releasedate:2012-10-13",
@@ -21,25 +37,9 @@
   "startmap:oms24",
   "startmap:oms25"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "oms24.bsp": {
-   "filesize": 5435228,
-   "timestamp": "2007-04-19"
-  },
-  "oms25.bsp": {
-   "filesize": 5567228,
-   "timestamp": "2008-05-26"
-  },
-  "oms_unmentionables.txt": {
-   "filesize": 1708,
-   "timestamp": "2012-10-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/oms_unmentionables.zip",
   "https://www.quaddicted.com/files/by-sha256/5/56692ca17bd1584cd54b49d24556032903099a2ea44839d8bdfbb6ce8eefd920/oms_unmentionables.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

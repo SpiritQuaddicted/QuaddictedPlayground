@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "191c4409c5db57a7d99ab13145e2366738ab441171cb61b8c35e5d3d7eb30298",
  "filename": [
   "sm144_pack.zip"
  ],
+ "files": {
+  "sm144_bam.bsp": {
+   "filesize": 429988,
+   "timestamp": "2008-10-11"
+  },
+  "sm144_bam.map": {
+   "filesize": 94603,
+   "timestamp": "2008-10-11"
+  },
+  "sm144_lurker.bsp": {
+   "filesize": 350616,
+   "timestamp": "2008-10-11"
+  },
+  "sm144_negke.bsp": {
+   "filesize": 541788,
+   "timestamp": "2008-10-10"
+  },
+  "sm144_pack.txt": {
+   "filesize": 1450,
+   "timestamp": "2008-10-13"
+  },
+  "sm144_spirit.bsp": {
+   "filesize": 351568,
+   "timestamp": "2008-10-12"
+  },
+  "sm144_zwiffle.bsp": {
+   "filesize": 474460,
+   "timestamp": "2008-10-11"
+  }
+ },
  "filesize": 735,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "191c4409c5db57a7d99ab13145e2366738ab441171cb61b8c35e5d3d7eb30298",
  "tags": [
   "title:Speedmapping pack 144 - Super Collider 128",
   "releasedate:2008-10-13",
@@ -20,41 +52,9 @@
   "startmap:sm144_spirit",
   "startmap:sm144_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm144_zwiffle.bsp": {
-   "filesize": 474460,
-   "timestamp": "2008-10-11"
-  },
-  "sm144_bam.bsp": {
-   "filesize": 429988,
-   "timestamp": "2008-10-11"
-  },
-  "sm144_spirit.bsp": {
-   "filesize": 351568,
-   "timestamp": "2008-10-12"
-  },
-  "sm144_pack.txt": {
-   "filesize": 1450,
-   "timestamp": "2008-10-13"
-  },
-  "sm144_lurker.bsp": {
-   "filesize": 350616,
-   "timestamp": "2008-10-11"
-  },
-  "sm144_negke.bsp": {
-   "filesize": 541788,
-   "timestamp": "2008-10-10"
-  },
-  "sm144_bam.map": {
-   "filesize": 94603,
-   "timestamp": "2008-10-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm144_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/191c4409c5db57a7d99ab13145e2366738ab441171cb61b8c35e5d3d7eb30298/sm144_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

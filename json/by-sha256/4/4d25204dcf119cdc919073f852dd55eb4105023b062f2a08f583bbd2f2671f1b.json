@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "4d25204dcf119cdc919073f852dd55eb4105023b062f2a08f583bbd2f2671f1b",
  "filename": [
   "tchak.zip"
  ],
+ "files": {
+  "tchak.bsp": {
+   "filesize": 5900900,
+   "timestamp": "2008-12-05"
+  },
+  "tchak.jpg": {
+   "filesize": 66819,
+   "timestamp": "2008-12-03"
+  },
+  "tchak.map": {
+   "filesize": 5419725,
+   "timestamp": "2008-12-05"
+  },
+  "tchak.qkm": {
+   "filesize": 3995654,
+   "timestamp": "2008-12-05"
+  },
+  "tchak.txt": {
+   "filesize": 9728,
+   "timestamp": "2008-12-05"
+  }
+ },
  "filesize": 3693,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4d25204dcf119cdc919073f852dd55eb4105023b062f2a08f583bbd2f2671f1b",
  "tags": [
   "title:The Tomb of Chak Toh Ich`ak",
   "releasedate:2008-12-05",
@@ -18,33 +42,9 @@
   "tag:outdoor",
   "tag:tomb"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "tchak.txt": {
-   "filesize": 9728,
-   "timestamp": "2008-12-05"
-  },
-  "tchak.qkm": {
-   "filesize": 3995654,
-   "timestamp": "2008-12-05"
-  },
-  "tchak.map": {
-   "filesize": 5419725,
-   "timestamp": "2008-12-05"
-  },
-  "tchak.bsp": {
-   "filesize": 5900900,
-   "timestamp": "2008-12-05"
-  },
-  "tchak.jpg": {
-   "filesize": 66819,
-   "timestamp": "2008-12-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tchak.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4d25204dcf119cdc919073f852dd55eb4105023b062f2a08f583bbd2f2671f1b/tchak.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

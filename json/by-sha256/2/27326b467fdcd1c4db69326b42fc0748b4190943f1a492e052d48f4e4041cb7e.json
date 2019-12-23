@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "27326b467fdcd1c4db69326b42fc0748b4190943f1a492e052d48f4e4041cb7e",
  "filename": [
   "thisistx.zip"
  ],
- "filesize": 315,
- "tags": [
-  "title:This Is The End",
-  "releasedate:1996-08-06",
-  "game:quake",
-  "author:phillipt",
-  "tag:small",
-  "tag:base",
-  "tag:source",
-  "tag:dm",
-  "startmap:thisiste"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "THISISTE.BSP": {
    "filesize": 675820,
@@ -33,8 +16,25 @@
    "timestamp": "1996-08-06"
   }
  },
+ "filesize": 315,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "27326b467fdcd1c4db69326b42fc0748b4190943f1a492e052d48f4e4041cb7e",
+ "tags": [
+  "title:This Is The End",
+  "releasedate:1996-08-06",
+  "game:quake",
+  "author:phillipt",
+  "tag:small",
+  "tag:base",
+  "tag:source",
+  "tag:dm",
+  "startmap:thisiste"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/thisistx.zip",
   "https://www.quaddicted.com/files/by-sha256/2/27326b467fdcd1c4db69326b42fc0748b4190943f1a492e052d48f4e4041cb7e/thisistx.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

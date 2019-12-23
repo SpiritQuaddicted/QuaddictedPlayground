@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "82123e8a7d932697d5ab506d0128c1a0b6d440181ac31e092e9ad5f1312b362d",
  "filename": [
   "vrksp1.zip"
  ],
- "filesize": 2506,
- "tags": [
-  "title:Blackened Call",
-  "releasedate:2019-01-25",
-  "game:quake",
-  "author:VuRkka",
-  "tag:metal",
-  "tag:small",
-  "tag:runic"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "vrksp1.bsp": {
    "filesize": 5237292,
@@ -31,8 +16,23 @@
    "timestamp": "2019-01-25"
   }
  },
+ "filesize": 2506,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "82123e8a7d932697d5ab506d0128c1a0b6d440181ac31e092e9ad5f1312b362d",
+ "tags": [
+  "title:Blackened Call",
+  "releasedate:2019-01-25",
+  "game:quake",
+  "author:VuRkka",
+  "tag:metal",
+  "tag:small",
+  "tag:runic"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/vrksp1.zip",
   "https://www.quaddicted.com/files/by-sha256/8/82123e8a7d932697d5ab506d0128c1a0b6d440181ac31e092e9ad5f1312b362d/vrksp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

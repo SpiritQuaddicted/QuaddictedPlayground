@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "cfa6bbe3b7291f98b7041f200c8dba32c873f64efd740e39e5cd0ec55508b72f",
  "filename": [
   "egyptoagula_final.zip"
  ],
- "filesize": 9755,
- "tags": [
-  "title:Egyptogula",
-  "releasedate:2019-01-29",
-  "game:quake",
-  "commandline:-game egyptogula/keep",
-  "author:Qmaster",
-  "tag:coagula",
-  "tag:egyptian",
-  "tag:keep mod",
-  "tag:large",
-  "startmap:egyptogula"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "egyptoagula_final/egyptoagula_readme.txt": {
    "filesize": 1573,
@@ -1034,8 +1016,26 @@
    "timestamp": "2019-01-20"
   }
  },
+ "filesize": 9755,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "cfa6bbe3b7291f98b7041f200c8dba32c873f64efd740e39e5cd0ec55508b72f",
+ "tags": [
+  "title:Egyptogula",
+  "releasedate:2019-01-29",
+  "game:quake",
+  "commandline:-game egyptogula/keep",
+  "author:Qmaster",
+  "tag:coagula",
+  "tag:egyptian",
+  "tag:keep mod",
+  "tag:large",
+  "startmap:egyptogula"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/egyptoagula_final.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cfa6bbe3b7291f98b7041f200c8dba32c873f64efd740e39e5cd0ec55508b72f/egyptoagula_final.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "62681e968ffbbe705bbdaf7429a286725baf7123d18ed34aa38141de4cf4e8e5",
  "filename": [
   "lunar.zip"
  ],
+ "files": {
+  "lunar.bsp": {
+   "filesize": 1114136,
+   "timestamp": "1997-02-22"
+  },
+  "lunar.txt": {
+   "filesize": 3064,
+   "timestamp": "1997-02-23"
+  }
+ },
  "filesize": 360,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "62681e968ffbbe705bbdaf7429a286725baf7123d18ed34aa38141de4cf4e8e5",
  "tags": [
   "title:Lunar Base",
   "releasedate:1997-02-23",
@@ -19,21 +31,9 @@
   "tag:doom",
   "tag:space"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "lunar.bsp": {
-   "filesize": 1114136,
-   "timestamp": "1997-02-22"
-  },
-  "lunar.txt": {
-   "filesize": 3064,
-   "timestamp": "1997-02-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lunar.zip",
   "https://www.quaddicted.com/files/by-sha256/6/62681e968ffbbe705bbdaf7429a286725baf7123d18ed34aa38141de4cf4e8e5/lunar.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

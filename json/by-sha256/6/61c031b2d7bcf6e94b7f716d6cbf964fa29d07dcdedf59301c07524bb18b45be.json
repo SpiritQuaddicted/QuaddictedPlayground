@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be",
  "filename": [
   "mexx4.zip"
  ],
- "filesize": 489,
- "tags": [
-  "title:Nurgle's Vault",
-  "releasedate:1996-11-15",
-  "game:quake",
-  "author:Marcus Dromowicz",
-  "tag:medieval",
-  "tag:medium",
-  "tag:traps"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "MEXX4.BSP": {
    "filesize": 1186712,
@@ -27,8 +12,23 @@
    "timestamp": "1996-11-15"
   }
  },
+ "filesize": 489,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be",
+ "tags": [
+  "title:Nurgle's Vault",
+  "releasedate:1996-11-15",
+  "game:quake",
+  "author:Marcus Dromowicz",
+  "tag:medieval",
+  "tag:medium",
+  "tag:traps"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/mexx4.zip",
   "https://www.quaddicted.com/files/by-sha256/6/61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be/mexx4.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

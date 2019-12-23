@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "111e256b3b4f21f1a16ffe8265999c8b1abdeb83bf2baeec8ef4bc7e073e50b0",
  "filename": [
   "rhoqtdm2sp.zip"
  ],
- "filesize": 1279,
- "tags": [
-  "title:Vivat Rex Lividum (single player version)",
-  "releasedate:2018-12-25",
-  "game:quake",
-  "author:Rhoq &amp; negke",
-  "tag:small",
-  "tag:wizard",
-  "tag:mixtex"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "rhoqtdm2sp.bsp": {
    "filesize": 1963824,
@@ -35,8 +20,23 @@
    "timestamp": "2018-12-25"
   }
  },
+ "filesize": 1279,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "111e256b3b4f21f1a16ffe8265999c8b1abdeb83bf2baeec8ef4bc7e073e50b0",
+ "tags": [
+  "title:Vivat Rex Lividum (single player version)",
+  "releasedate:2018-12-25",
+  "game:quake",
+  "author:Rhoq &amp; negke",
+  "tag:small",
+  "tag:wizard",
+  "tag:mixtex"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/rhoqtdm2sp.zip",
   "https://www.quaddicted.com/files/by-sha256/1/111e256b3b4f21f1a16ffe8265999c8b1abdeb83bf2baeec8ef4bc7e073e50b0/rhoqtdm2sp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

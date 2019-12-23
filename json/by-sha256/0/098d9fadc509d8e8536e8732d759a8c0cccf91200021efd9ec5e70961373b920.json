@@ -1,27 +1,27 @@
 {
- "version": "20191222-0",
- "sha256": "098d9fadc509d8e8536e8732d759a8c0cccf91200021efd9ec5e70961373b920",
  "filename": [
   "sm89_zwiffle.zip"
  ],
- "filesize": 203,
- "tags": [
-  "title:Title",
-  "releasedate:2005-08-06",
-  "game:quake",
-  "author:Zwiffle"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "sm89_zwiffle.bsp": {
    "filesize": 457136,
    "timestamp": "2004-11-06"
   }
  },
+ "filesize": 203,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "098d9fadc509d8e8536e8732d759a8c0cccf91200021efd9ec5e70961373b920",
+ "tags": [
+  "title:Title",
+  "releasedate:2005-08-06",
+  "game:quake",
+  "author:Zwiffle"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm89_zwiffle.zip",
   "https://www.quaddicted.com/files/by-sha256/0/098d9fadc509d8e8536e8732d759a8c0cccf91200021efd9ec5e70961373b920/sm89_zwiffle.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

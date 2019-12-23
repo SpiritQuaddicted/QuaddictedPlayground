@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9",
  "filename": [
   "rc1.zip"
  ],
+ "files": {
+  "rc1.bsp": {
+   "filesize": 2139372,
+   "timestamp": "1998-06-12"
+  },
+  "rc1.txt": {
+   "filesize": 6036,
+   "timestamp": "1998-06-12"
+  }
+ },
  "filesize": 882,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9",
  "tags": [
   "title:The Frater Fracas",
   "releasedate:1998-06-12",
@@ -15,21 +27,9 @@
   "tag:medium",
   "tag:ikbase"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "rc1.txt": {
-   "filesize": 6036,
-   "timestamp": "1998-06-12"
-  },
-  "rc1.bsp": {
-   "filesize": 2139372,
-   "timestamp": "1998-06-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rc1.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0d8e98f7d9fadcf0bd7d3c4347b8cf9b73f5640c1a2dba7fc4058739744d3cf9/rc1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

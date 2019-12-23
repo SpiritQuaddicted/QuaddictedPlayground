@@ -1,38 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "923511c74ae299916c15fc2cff068ebc73fb90fca2753b3564b65a5cbf3787ee",
  "filename": [
   "jam8_rezipped.zip"
  ],
- "filesize": 53691,
- "tags": [
-  "title:Func Map Jam 8 - Film Noir theme",
-  "releasedate:2016-10-16",
-  "game:quake",
-  "commandline:-game jam8",
-  "author:ionous",
-  "author:NewHouse",
-  "author:Pritchard",
-  "author:Shamblernaut",
-  "tag:small",
-  "tag:medium",
-  "tag:noir",
-  "tag:bw",
-  "tag:black",
-  "tag:white",
-  "tag:ad",
-  "tag:source",
-  "tag:limits",
-  "tag:arcanedimensions",
-  "startmap:jam8_start",
-  "startmap:jam8_ionous",
-  "startmap:jam8_newhouse",
-  "startmap:jam8_pritchard",
-  "startmap:jam8_shamblernaut"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "jam8/ad_quake.def": {
    "filesize": 241502,
@@ -4983,8 +4952,39 @@
    "timestamp": "2015-06-24"
   }
  },
+ "filesize": 53691,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "923511c74ae299916c15fc2cff068ebc73fb90fca2753b3564b65a5cbf3787ee",
+ "tags": [
+  "title:Func Map Jam 8 - Film Noir theme",
+  "releasedate:2016-10-16",
+  "game:quake",
+  "commandline:-game jam8",
+  "author:ionous",
+  "author:NewHouse",
+  "author:Pritchard",
+  "author:Shamblernaut",
+  "tag:small",
+  "tag:medium",
+  "tag:noir",
+  "tag:bw",
+  "tag:black",
+  "tag:white",
+  "tag:ad",
+  "tag:source",
+  "tag:limits",
+  "tag:arcanedimensions",
+  "startmap:jam8_start",
+  "startmap:jam8_ionous",
+  "startmap:jam8_newhouse",
+  "startmap:jam8_pritchard",
+  "startmap:jam8_shamblernaut"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/jam8_rezipped.zip",
   "https://www.quaddicted.com/files/by-sha256/9/923511c74ae299916c15fc2cff068ebc73fb90fca2753b3564b65a5cbf3787ee/jam8_rezipped.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

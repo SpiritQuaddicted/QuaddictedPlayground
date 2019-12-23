@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580",
  "filename": [
   "lomgoat.zip"
  ],
+ "files": {
+  "PAK0.PAK": {
+   "filesize": 7328862,
+   "timestamp": "1998-02-14"
+  },
+  "readme.txt": {
+   "filesize": 1865,
+   "timestamp": "1998-02-14"
+  }
+ },
  "filesize": 3728,
+ "install": {
+  "extract": "{quake}/lomgoat/"
+ },
+ "sha256": "2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580",
  "tags": [
   "title:Lomgoat",
   "releasedate:1998-02-14",
@@ -20,21 +32,9 @@
   "startmap:start",
   "startmap:db_tech"
  ],
- "install": {
-  "extract": "{quake}/lomgoat/"
- },
- "files": {
-  "PAK0.PAK": {
-   "filesize": 7328862,
-   "timestamp": "1998-02-14"
-  },
-  "readme.txt": {
-   "filesize": 1865,
-   "timestamp": "1998-02-14"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lomgoat.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2cf4e79e52213e74daa72407a76f3ed8871eaea36d6fe8d1cf46c17792bfd580/lomgoat.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

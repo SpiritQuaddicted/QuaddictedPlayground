@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "23775ea5ad1dbbbc82b13816d0c32c134d81c71f69e860f7a87a0128f99e948b",
  "filename": [
   "gl4fify1.zip"
  ],
+ "files": {
+  "!!READ!!.BAT": {
+   "filesize": 14009,
+   "timestamp": "1996-12-26"
+  },
+  "FIFFY.BSP": {
+   "filesize": 1181984,
+   "timestamp": "1997-11-30"
+  },
+  "FILE_ID.DIZ": {
+   "filesize": 851,
+   "timestamp": "1996-12-26"
+  },
+  "Readme.txt": {
+   "filesize": 305,
+   "timestamp": "1997-11-30"
+  }
+ },
  "filesize": 473,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "23775ea5ad1dbbbc82b13816d0c32c134d81c71f69e860f7a87a0128f99e948b",
  "tags": [
   "title:REoL TOUGH: Demise! (watervised)",
   "releasedate:1997-11-30",
@@ -15,29 +35,9 @@
   "tag:super secret",
   "startmap:fiffy"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "FIFFY.BSP": {
-   "filesize": 1181984,
-   "timestamp": "1997-11-30"
-  },
-  "!!READ!!.BAT": {
-   "filesize": 14009,
-   "timestamp": "1996-12-26"
-  },
-  "Readme.txt": {
-   "filesize": 305,
-   "timestamp": "1997-11-30"
-  },
-  "FILE_ID.DIZ": {
-   "filesize": 851,
-   "timestamp": "1996-12-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/gl4fify1.zip",
   "https://www.quaddicted.com/files/by-sha256/2/23775ea5ad1dbbbc82b13816d0c32c134d81c71f69e860f7a87a0128f99e948b/gl4fify1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

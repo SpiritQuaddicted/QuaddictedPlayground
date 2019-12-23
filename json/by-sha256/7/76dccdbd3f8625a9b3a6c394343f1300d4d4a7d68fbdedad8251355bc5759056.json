@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "76dccdbd3f8625a9b3a6c394343f1300d4d4a7d68fbdedad8251355bc5759056",
  "filename": [
   "base-n.zip"
  ],
- "filesize": 515,
- "tags": [
-  "title:BASE-N",
-  "releasedate:1997-09-14",
-  "game:quake",
-  "author:Andrzej Mackiewicz",
-  "tag:small",
-  "tag:base",
-  "tag:traps"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "BASE-N.BSP": {
    "filesize": 1378736,
@@ -27,8 +12,23 @@
    "timestamp": "1997-09-15"
   }
  },
+ "filesize": 515,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "76dccdbd3f8625a9b3a6c394343f1300d4d4a7d68fbdedad8251355bc5759056",
+ "tags": [
+  "title:BASE-N",
+  "releasedate:1997-09-14",
+  "game:quake",
+  "author:Andrzej Mackiewicz",
+  "tag:small",
+  "tag:base",
+  "tag:traps"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/base-n.zip",
   "https://www.quaddicted.com/files/by-sha256/7/76dccdbd3f8625a9b3a6c394343f1300d4d4a7d68fbdedad8251355bc5759056/base-n.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

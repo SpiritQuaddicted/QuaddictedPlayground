@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "dbbced152426226e3035a483f0e4c9db9ba546b5e735e4f65925f46628d14e82",
  "filename": [
   "could.zip"
  ],
+ "files": {
+  "could.bsp": {
+   "filesize": 2522384,
+   "timestamp": "2003-09-02"
+  },
+  "could.txt": {
+   "filesize": 4504,
+   "timestamp": "2003-09-02"
+  }
+ },
  "filesize": 964,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dbbced152426226e3035a483f0e4c9db9ba546b5e735e4f65925f46628d14e82",
  "tags": [
   "title:And All That Could Have Been",
   "releasedate:2003-09-02",
@@ -16,21 +28,9 @@
   "tag:speedbase",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "could.txt": {
-   "filesize": 4504,
-   "timestamp": "2003-09-02"
-  },
-  "could.bsp": {
-   "filesize": 2522384,
-   "timestamp": "2003-09-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/could.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dbbced152426226e3035a483f0e4c9db9ba546b5e735e4f65925f46628d14e82/could.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

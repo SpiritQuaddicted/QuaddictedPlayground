@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "4d06d4d7205f649982496eecf9b5890b7ec2e155dd485b8acd08d45982ffea9d",
  "filename": [
   "czg02.zip"
  ],
+ "files": {
+  "CZG02.bsp": {
+   "filesize": 2762148,
+   "timestamp": "1999-12-17"
+  },
+  "rc4.txt": {
+   "filesize": 4544,
+   "timestamp": "1999-12-17"
+  }
+ },
  "filesize": 1201,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4d06d4d7205f649982496eecf9b5890b7ec2e155dd485b8acd08d45982ffea9d",
  "tags": [
   "title:Memento Mori",
   "releasedate:1999-12-17",
@@ -16,21 +28,9 @@
   "tag:large",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CZG02.bsp": {
-   "filesize": 2762148,
-   "timestamp": "1999-12-17"
-  },
-  "rc4.txt": {
-   "filesize": 4544,
-   "timestamp": "1999-12-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/czg02.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4d06d4d7205f649982496eecf9b5890b7ec2e155dd485b8acd08d45982ffea9d/czg02.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8553509890f267d42938f8e2d29e2c6dc8b574d5a4636d24d63db08ef4052e8a",
  "filename": [
   "qkstarg.zip"
  ],
+ "files": {
+  "qkstarg.bsp": {
+   "filesize": 1750128,
+   "timestamp": "1998-07-07"
+  },
+  "qkstarg.txt": {
+   "filesize": 1989,
+   "timestamp": "2000-01-13"
+  }
+ },
  "filesize": 662,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8553509890f267d42938f8e2d29e2c6dc8b574d5a4636d24d63db08ef4052e8a",
  "tags": [
   "title:StarGate",
   "releasedate:2000-01-13",
@@ -12,21 +24,9 @@
   "author:DAV",
   "tag:stargate"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "qkstarg.txt": {
-   "filesize": 1989,
-   "timestamp": "2000-01-13"
-  },
-  "qkstarg.bsp": {
-   "filesize": 1750128,
-   "timestamp": "1998-07-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/qkstarg.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8553509890f267d42938f8e2d29e2c6dc8b574d5a4636d24d63db08ef4052e8a/qkstarg.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

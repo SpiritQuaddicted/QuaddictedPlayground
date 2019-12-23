@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "30aefdbe020f1dc04f4e106b10505a9b6ff067f67199b9f2a554abf0d352360a",
  "filename": [
   "sos.zip"
  ],
- "filesize": 787,
- "tags": [
-  "title:Spongebath Of Satan",
-  "releasedate:1997-05-15",
-  "game:quake",
-  "author:Derek Lawrie",
-  "tag:medium",
-  "tag:medieval",
-  "tag:metal",
-  "tag:dark"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sos.bsp": {
    "filesize": 1928684,
@@ -28,8 +12,24 @@
    "timestamp": "1997-05-15"
   }
  },
+ "filesize": 787,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "30aefdbe020f1dc04f4e106b10505a9b6ff067f67199b9f2a554abf0d352360a",
+ "tags": [
+  "title:Spongebath Of Satan",
+  "releasedate:1997-05-15",
+  "game:quake",
+  "author:Derek Lawrie",
+  "tag:medium",
+  "tag:medieval",
+  "tag:metal",
+  "tag:dark"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sos.zip",
   "https://www.quaddicted.com/files/by-sha256/3/30aefdbe020f1dc04f4e106b10505a9b6ff067f67199b9f2a554abf0d352360a/sos.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "35a7ee9897d4f28d8ad1be89d54ae82904eb88598b0733c47c8528268226094c",
  "filename": [
   "snakepit.zip"
  ],
+ "files": {
+  "SNAKEPIT.BSP": {
+   "filesize": 538296,
+   "timestamp": "1996-10-30"
+  },
+  "SNAKEPIT.TXT": {
+   "filesize": 2960,
+   "timestamp": "1996-10-31"
+  },
+  "snakepit_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 249,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "35a7ee9897d4f28d8ad1be89d54ae82904eb88598b0733c47c8528268226094c",
  "tags": [
   "title:BUBBAH's SNAKEPIT!!!",
   "releasedate:1996-10-31",
@@ -16,25 +32,9 @@
   "tag:dark",
   "tag:maze"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "SNAKEPIT.TXT": {
-   "filesize": 2960,
-   "timestamp": "1996-10-31"
-  },
-  "SNAKEPIT.BSP": {
-   "filesize": 538296,
-   "timestamp": "1996-10-30"
-  },
-  "snakepit_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/snakepit.zip",
   "https://www.quaddicted.com/files/by-sha256/3/35a7ee9897d4f28d8ad1be89d54ae82904eb88598b0733c47c8528268226094c/snakepit.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

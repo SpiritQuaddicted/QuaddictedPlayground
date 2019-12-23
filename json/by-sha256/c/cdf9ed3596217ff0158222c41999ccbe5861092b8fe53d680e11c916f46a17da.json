@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "cdf9ed3596217ff0158222c41999ccbe5861092b8fe53d680e11c916f46a17da",
  "filename": [
   "digs03.zip"
  ],
+ "files": {
+  "digs03.bsp": {
+   "filesize": 3740178,
+   "timestamp": "2007-03-21"
+  },
+  "digs03_eng.txt": {
+   "filesize": 1228,
+   "timestamp": "2007-03-20"
+  },
+  "digs03_rus.txt": {
+   "filesize": 1365,
+   "timestamp": "2007-03-20"
+  }
+ },
  "filesize": 1594,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cdf9ed3596217ff0158222c41999ccbe5861092b8fe53d680e11c916f46a17da",
  "tags": [
   "title:Digs03",
   "releasedate:2007-03-21",
@@ -15,25 +31,9 @@
   "tag:large",
   "tag:windtunnel"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "digs03_rus.txt": {
-   "filesize": 1365,
-   "timestamp": "2007-03-20"
-  },
-  "digs03.bsp": {
-   "filesize": 3740178,
-   "timestamp": "2007-03-21"
-  },
-  "digs03_eng.txt": {
-   "filesize": 1228,
-   "timestamp": "2007-03-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/digs03.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cdf9ed3596217ff0158222c41999ccbe5861092b8fe53d680e11c916f46a17da/digs03.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

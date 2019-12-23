@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "8f463258014890b5d2f3f9356631cf46132e33c3f3b33b1b437fda3fb10e0254",
  "filename": [
   "wca.zip"
  ],
+ "files": {
+  "WCA.TXT": {
+   "filesize": 1142,
+   "timestamp": "1998-07-17"
+  },
+  "WCA.bsp": {
+   "filesize": 1409968,
+   "timestamp": "1998-07-17"
+  },
+  "wca_jp.txt": {
+   "filesize": 1361,
+   "timestamp": "1998-06-17"
+  }
+ },
  "filesize": 560,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8f463258014890b5d2f3f9356631cf46132e33c3f3b33b1b437fda3fb10e0254",
  "tags": [
   "title:Weird comic art Quake",
   "releasedate:1998-07-17",
@@ -15,25 +31,9 @@
   "tag:traps",
   "tag:boss"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "WCA.bsp": {
-   "filesize": 1409968,
-   "timestamp": "1998-07-17"
-  },
-  "wca_jp.txt": {
-   "filesize": 1361,
-   "timestamp": "1998-06-17"
-  },
-  "WCA.TXT": {
-   "filesize": 1142,
-   "timestamp": "1998-07-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/wca.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8f463258014890b5d2f3f9356631cf46132e33c3f3b33b1b437fda3fb10e0254/wca.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

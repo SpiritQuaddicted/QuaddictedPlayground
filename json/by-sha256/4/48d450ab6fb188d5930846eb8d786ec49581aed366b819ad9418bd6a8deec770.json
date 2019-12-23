@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "48d450ab6fb188d5930846eb8d786ec49581aed366b819ad9418bd6a8deec770",
  "filename": [
   "event.zip"
  ],
+ "files": {
+  "Event.txt": {
+   "filesize": 3870,
+   "timestamp": "2006-03-31"
+  },
+  "pak0.pak": {
+   "filesize": 12046728,
+   "timestamp": "2006-03-28"
+  }
+ },
  "filesize": 4012,
+ "install": {
+  "extract": "{quake}/event/"
+ },
+ "sha256": "48d450ab6fb188d5930846eb8d786ec49581aed366b819ad9418bd6a8deec770",
  "tags": [
   "title:Event Horizon",
   "releasedate:2006-03-31",
@@ -20,21 +32,9 @@
   "tag:daikatana",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/event/"
- },
- "files": {
-  "pak0.pak": {
-   "filesize": 12046728,
-   "timestamp": "2006-03-28"
-  },
-  "Event.txt": {
-   "filesize": 3870,
-   "timestamp": "2006-03-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/event.zip",
   "https://www.quaddicted.com/files/by-sha256/4/48d450ab6fb188d5930846eb8d786ec49581aed366b819ad9418bd6a8deec770/event.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

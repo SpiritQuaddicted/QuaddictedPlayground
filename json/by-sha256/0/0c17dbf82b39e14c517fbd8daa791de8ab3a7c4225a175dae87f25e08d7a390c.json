@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0c17dbf82b39e14c517fbd8daa791de8ab3a7c4225a175dae87f25e08d7a390c",
  "filename": [
   "btf2.zip"
  ],
+ "files": {
+  "btf2.bsp": {
+   "filesize": 1400168,
+   "timestamp": "1997-02-04"
+  },
+  "btf2.txt": {
+   "filesize": 2835,
+   "timestamp": "1997-02-03"
+  }
+ },
  "filesize": 604,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0c17dbf82b39e14c517fbd8daa791de8ab3a7c4225a175dae87f25e08d7a390c",
  "tags": [
   "title:Bridge to Fire",
   "releasedate:1997-02-03",
@@ -17,21 +29,9 @@
   "tag:exploration",
   "tag:puzzles"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "btf2.bsp": {
-   "filesize": 1400168,
-   "timestamp": "1997-02-04"
-  },
-  "btf2.txt": {
-   "filesize": 2835,
-   "timestamp": "1997-02-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/btf2.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0c17dbf82b39e14c517fbd8daa791de8ab3a7c4225a175dae87f25e08d7a390c/btf2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

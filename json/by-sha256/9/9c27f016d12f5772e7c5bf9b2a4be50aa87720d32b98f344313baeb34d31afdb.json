@@ -1,10 +1,106 @@
 {
- "version": "20191222-0",
- "sha256": "9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb",
  "filename": [
   "smlevel.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 13543634,
+   "timestamp": "1997-11-08"
+  },
+  "ambient.txt": {
+   "filesize": 840,
+   "timestamp": "1997-10-22"
+  },
+  "chasecam.txt": {
+   "filesize": 5940,
+   "timestamp": "1997-10-22"
+  },
+  "choke.txt": {
+   "filesize": 5960,
+   "timestamp": "1997-10-22"
+  },
+  "cranked.txt": {
+   "filesize": 4080,
+   "timestamp": "1997-10-22"
+  },
+  "deadstuf.txt": {
+   "filesize": 1749,
+   "timestamp": "1997-10-22"
+  },
+  "dragons.txt": {
+   "filesize": 7446,
+   "timestamp": "1997-10-22"
+  },
+  "eject.txt": {
+   "filesize": 2244,
+   "timestamp": "1997-10-22"
+  },
+  "flares.txt": {
+   "filesize": 2649,
+   "timestamp": "1997-10-22"
+  },
+  "gibfount.txt": {
+   "filesize": 2173,
+   "timestamp": "1997-10-22"
+  },
+  "gyrobot.txt": {
+   "filesize": 15522,
+   "timestamp": "1997-10-22"
+  },
+  "idglobe2.txt": {
+   "filesize": 1248,
+   "timestamp": "1997-10-22"
+  },
+  "ogresaw.txt": {
+   "filesize": 2549,
+   "timestamp": "1997-10-22"
+  },
+  "plsrfl20.txt": {
+   "filesize": 2367,
+   "timestamp": "1997-10-22"
+  },
+  "rabbit.txt": {
+   "filesize": 927,
+   "timestamp": "1997-10-22"
+  },
+  "rain.txt": {
+   "filesize": 2116,
+   "timestamp": "1997-10-22"
+  },
+  "skinz.txt": {
+   "filesize": 3918,
+   "timestamp": "1997-10-22"
+  },
+  "smlevel.txt": {
+   "filesize": 15831,
+   "timestamp": "1997-11-09"
+  },
+  "smlevels.cfg": {
+   "filesize": 433,
+   "timestamp": "1997-11-08"
+  },
+  "snakeman.txt": {
+   "filesize": 4744,
+   "timestamp": "1997-10-22"
+  },
+  "spider.txt": {
+   "filesize": 2604,
+   "timestamp": "1997-10-22"
+  },
+  "walls01.txt": {
+   "filesize": 3093,
+   "timestamp": "1997-10-22"
+  },
+  "zer.txt": {
+   "filesize": 11251,
+   "timestamp": "1997-10-22"
+  }
+ },
  "filesize": 5406,
+ "install": {
+  "extract": "{quake}/smlevel/"
+ },
+ "sha256": "9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb",
  "tags": [
   "title:SM Levels Pack for QUAKE",
   "releasedate:1997-11-09",
@@ -19,105 +115,9 @@
   "tag:dm",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/smlevel/"
- },
- "files": {
-  "rabbit.txt": {
-   "filesize": 927,
-   "timestamp": "1997-10-22"
-  },
-  "walls01.txt": {
-   "filesize": 3093,
-   "timestamp": "1997-10-22"
-  },
-  "choke.txt": {
-   "filesize": 5960,
-   "timestamp": "1997-10-22"
-  },
-  "cranked.txt": {
-   "filesize": 4080,
-   "timestamp": "1997-10-22"
-  },
-  "ambient.txt": {
-   "filesize": 840,
-   "timestamp": "1997-10-22"
-  },
-  "zer.txt": {
-   "filesize": 11251,
-   "timestamp": "1997-10-22"
-  },
-  "gibfount.txt": {
-   "filesize": 2173,
-   "timestamp": "1997-10-22"
-  },
-  "spider.txt": {
-   "filesize": 2604,
-   "timestamp": "1997-10-22"
-  },
-  "plsrfl20.txt": {
-   "filesize": 2367,
-   "timestamp": "1997-10-22"
-  },
-  "chasecam.txt": {
-   "filesize": 5940,
-   "timestamp": "1997-10-22"
-  },
-  "eject.txt": {
-   "filesize": 2244,
-   "timestamp": "1997-10-22"
-  },
-  "idglobe2.txt": {
-   "filesize": 1248,
-   "timestamp": "1997-10-22"
-  },
-  "smlevels.cfg": {
-   "filesize": 433,
-   "timestamp": "1997-11-08"
-  },
-  "flares.txt": {
-   "filesize": 2649,
-   "timestamp": "1997-10-22"
-  },
-  "deadstuf.txt": {
-   "filesize": 1749,
-   "timestamp": "1997-10-22"
-  },
-  "dragons.txt": {
-   "filesize": 7446,
-   "timestamp": "1997-10-22"
-  },
-  "snakeman.txt": {
-   "filesize": 4744,
-   "timestamp": "1997-10-22"
-  },
-  "rain.txt": {
-   "filesize": 2116,
-   "timestamp": "1997-10-22"
-  },
-  "Pak0.pak": {
-   "filesize": 13543634,
-   "timestamp": "1997-11-08"
-  },
-  "skinz.txt": {
-   "filesize": 3918,
-   "timestamp": "1997-10-22"
-  },
-  "gyrobot.txt": {
-   "filesize": 15522,
-   "timestamp": "1997-10-22"
-  },
-  "ogresaw.txt": {
-   "filesize": 2549,
-   "timestamp": "1997-10-22"
-  },
-  "smlevel.txt": {
-   "filesize": 15831,
-   "timestamp": "1997-11-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/smlevel.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb/smlevel.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

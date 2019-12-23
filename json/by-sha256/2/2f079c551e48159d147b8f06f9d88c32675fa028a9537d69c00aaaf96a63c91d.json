@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "2f079c551e48159d147b8f06f9d88c32675fa028a9537d69c00aaaf96a63c91d",
  "filename": [
   "kill.zip"
  ],
- "filesize": 1047,
- "tags": [
-  "title:Kill 'em All (M\u00e1talos a Todos)",
-  "releasedate:1999-05-06",
-  "game:quake",
-  "author:Daniel G\u00f3mez (Rat\u00f3n)",
-  "tag:small",
-  "tag:city",
-  "tag:realism",
-  "tag:duke nukem",
-  "startmap:kill"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "kill.bsp": {
    "filesize": 2476248,
@@ -33,8 +16,25 @@
    "timestamp": "2001-07-25"
   }
  },
+ "filesize": 1047,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2f079c551e48159d147b8f06f9d88c32675fa028a9537d69c00aaaf96a63c91d",
+ "tags": [
+  "title:Kill 'em All (M\u00e1talos a Todos)",
+  "releasedate:1999-05-06",
+  "game:quake",
+  "author:Daniel G\u00f3mez (Rat\u00f3n)",
+  "tag:small",
+  "tag:city",
+  "tag:realism",
+  "tag:duke nukem",
+  "startmap:kill"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/kill.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2f079c551e48159d147b8f06f9d88c32675fa028a9537d69c00aaaf96a63c91d/kill.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

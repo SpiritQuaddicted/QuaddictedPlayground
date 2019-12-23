@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f4c07eaa7baf1995fe7373a32fca2dd16e2eeb83b32e273c2cb3a4f4798f79a6",
  "filename": [
   "mykd1.zip"
  ],
+ "files": {
+  "mykd1.bsp": {
+   "filesize": 2105632,
+   "timestamp": "1997-02-22"
+  },
+  "mykd1.txt": {
+   "filesize": 2119,
+   "timestamp": "1997-02-22"
+  }
+ },
  "filesize": 932,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f4c07eaa7baf1995fe7373a32fca2dd16e2eeb83b32e273c2cb3a4f4798f79a6",
  "tags": [
   "title:Mykd1",
   "releasedate:1997-02-22",
@@ -19,21 +31,9 @@
   "tag:cavern",
   "tag:mandatory secret"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "mykd1.txt": {
-   "filesize": 2119,
-   "timestamp": "1997-02-22"
-  },
-  "mykd1.bsp": {
-   "filesize": 2105632,
-   "timestamp": "1997-02-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mykd1.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f4c07eaa7baf1995fe7373a32fca2dd16e2eeb83b32e273c2cb3a4f4798f79a6/mykd1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "2643a299ea199e1030ae9039bbcb11eafced38c0560db5273a384af37fb9ac1f",
  "filename": [
   "in_ovo.zip"
  ],
+ "files": {
+  "INOVO.txt": {
+   "filesize": 4906,
+   "timestamp": "2006-05-16"
+  },
+  "ejm2.bsp": {
+   "filesize": 1856028,
+   "timestamp": "2004-08-29"
+  },
+  "ejm2dm.bsp": {
+   "filesize": 1846360,
+   "timestamp": "2004-09-18"
+  },
+  "ejm3.bsp": {
+   "filesize": 693412,
+   "timestamp": "2004-10-26"
+  },
+  "in_ovo_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  },
+  "sg13.bsp": {
+   "filesize": 1846516,
+   "timestamp": "2003-09-04"
+  }
+ },
  "filesize": 2640,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2643a299ea199e1030ae9039bbcb11eafced38c0560db5273a384af37fb9ac1f",
  "tags": [
   "title:In Ovo",
   "releasedate:2006-05-16",
@@ -15,37 +43,9 @@
   "tag:base",
   "startmap:sg13"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ejm2.bsp": {
-   "filesize": 1856028,
-   "timestamp": "2004-08-29"
-  },
-  "ejm3.bsp": {
-   "filesize": 693412,
-   "timestamp": "2004-10-26"
-  },
-  "sg13.bsp": {
-   "filesize": 1846516,
-   "timestamp": "2003-09-04"
-  },
-  "INOVO.txt": {
-   "filesize": 4906,
-   "timestamp": "2006-05-16"
-  },
-  "in_ovo_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "ejm2dm.bsp": {
-   "filesize": 1846360,
-   "timestamp": "2004-09-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/in_ovo.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2643a299ea199e1030ae9039bbcb11eafced38c0560db5273a384af37fb9ac1f/in_ovo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "69a55432666ff71cc176665e748108cf5b8c73fbe33ebbf0076aed2758ba1f84",
  "filename": [
   "stone.zip"
  ],
+ "files": {
+  "stone.bsp": {
+   "filesize": 1760772,
+   "timestamp": "1997-04-11"
+  },
+  "stone.txt": {
+   "filesize": 2603,
+   "timestamp": "1997-04-11"
+  }
+ },
  "filesize": 761,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "69a55432666ff71cc176665e748108cf5b8c73fbe33ebbf0076aed2758ba1f84",
  "tags": [
   "title:The Stone of Tear",
   "releasedate:1997-04-11",
@@ -20,21 +32,9 @@
   "tag:exploration",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "stone.bsp": {
-   "filesize": 1760772,
-   "timestamp": "1997-04-11"
-  },
-  "stone.txt": {
-   "filesize": 2603,
-   "timestamp": "1997-04-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/stone.zip",
   "https://www.quaddicted.com/files/by-sha256/6/69a55432666ff71cc176665e748108cf5b8c73fbe33ebbf0076aed2758ba1f84/stone.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

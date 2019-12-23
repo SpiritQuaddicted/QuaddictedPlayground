@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
  "filename": [
   "lmed1.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 2501096,
+   "timestamp": "1996-05-06"
+  },
+  "lmed1.txt": {
+   "filesize": 1644,
+   "timestamp": "1996-05-06"
+  }
+ },
  "filesize": 1045,
+ "install": {
+  "extract": "{quake}/lmed1/"
+ },
+ "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
  "tags": [
   "title:The Ancient Fortress",
   "releasedate:1996-09-05",
@@ -19,21 +31,9 @@
   "startmap:start",
   "startmap:med1"
  ],
- "install": {
-  "extract": "{quake}/lmed1/"
- },
- "files": {
-  "Pak0.pak": {
-   "filesize": 2501096,
-   "timestamp": "1996-05-06"
-  },
-  "lmed1.txt": {
-   "filesize": 1644,
-   "timestamp": "1996-05-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lmed1.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080/lmed1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "65e86f2be0d7e0fa58565fc9541f2e29d4550f9bd2fed817c395c7bf8550578d",
  "filename": [
   "celscape.zip"
  ],
+ "files": {
+  "celscape.bsp": {
+   "filesize": 572972,
+   "timestamp": "2002-01-26"
+  },
+  "celscape.txt": {
+   "filesize": 2197,
+   "timestamp": "2002-01-26"
+  },
+  "celscape.unix": {
+   "filesize": 2130,
+   "timestamp": "2002-01-26"
+  }
+ },
  "filesize": 235,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "65e86f2be0d7e0fa58565fc9541f2e29d4550f9bd2fed817c395c7bf8550578d",
  "tags": [
   "title:Cell Escape",
   "releasedate:2002-01-01",
@@ -15,25 +31,9 @@
   "tag:brick",
   "tag:prison"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "celscape.unix": {
-   "filesize": 2130,
-   "timestamp": "2002-01-26"
-  },
-  "celscape.txt": {
-   "filesize": 2197,
-   "timestamp": "2002-01-26"
-  },
-  "celscape.bsp": {
-   "filesize": 572972,
-   "timestamp": "2002-01-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/celscape.zip",
   "https://www.quaddicted.com/files/by-sha256/6/65e86f2be0d7e0fa58565fc9541f2e29d4550f9bd2fed817c395c7bf8550578d/celscape.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

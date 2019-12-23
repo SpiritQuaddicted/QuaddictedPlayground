@@ -1,31 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6",
  "filename": [
   "fv.zip"
  ],
- "filesize": 14912,
- "tags": [
-  "title:Forgotten Valley",
-  "releasedate:2019-02-07",
-  "game:quake",
-  "commandline:-game quoth -quoth",
-  "author:nolcoz",
-  "tag:quoth",
-  "tag:medium",
-  "tag:outdoor",
-  "tag:mayan",
-  "tag:jungle",
-  "tag:turok",
-  "tag:textures",
-  "tag:music",
-  "dependency:quoth2pt2full_2",
-  "startmap:fv",
-  "startmap:lostv"
- ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
  "files": {
   "fv.bsp": {
    "filesize": 180420,
@@ -60,8 +36,32 @@
    "timestamp": "2017-12-24"
   }
  },
+ "filesize": 14912,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6",
+ "tags": [
+  "title:Forgotten Valley",
+  "releasedate:2019-02-07",
+  "game:quake",
+  "commandline:-game quoth -quoth",
+  "author:nolcoz",
+  "tag:quoth",
+  "tag:medium",
+  "tag:outdoor",
+  "tag:mayan",
+  "tag:jungle",
+  "tag:turok",
+  "tag:textures",
+  "tag:music",
+  "dependency:quoth2pt2full_2",
+  "startmap:fv",
+  "startmap:lostv"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/fv.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6/fv.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

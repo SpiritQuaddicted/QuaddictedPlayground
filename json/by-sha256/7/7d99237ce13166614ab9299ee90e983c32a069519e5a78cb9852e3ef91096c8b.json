@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b",
  "filename": [
   "czg00.zip"
  ],
+ "files": {
+  "czg00.bsp": {
+   "filesize": 283820,
+   "timestamp": "1999-12-22"
+  },
+  "czg00.txt": {
+   "filesize": 2855,
+   "timestamp": "1999-12-22"
+  }
+ },
  "filesize": 110,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b",
  "tags": [
   "title:Tower of obscurity",
   "releasedate:1999-12-22",
@@ -17,21 +29,9 @@
   "tag:thred3d",
   "tag:vertical"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "czg00.txt": {
-   "filesize": 2855,
-   "timestamp": "1999-12-22"
-  },
-  "czg00.bsp": {
-   "filesize": 283820,
-   "timestamp": "1999-12-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/czg00.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b/czg00.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

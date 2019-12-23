@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "229be72c5fbedb82582c035af385d1e03dfdc0ea3de7842d73f9d171cbfd22ce",
  "filename": [
   "sm82.zip"
  ],
+ "files": {
+  "sm82.bsp": {
+   "filesize": 3635000,
+   "timestamp": "2005-07-15"
+  },
+  "sm82.txt": {
+   "filesize": 3000,
+   "timestamp": "2005-07-18"
+  }
+ },
  "filesize": 1445,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "229be72c5fbedb82582c035af385d1e03dfdc0ea3de7842d73f9d171cbfd22ce",
  "tags": [
   "title:Rubicondom",
   "releasedate:2005-07-18",
@@ -19,21 +31,9 @@
   "tag:rubicon",
   "tag:chainmap"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm82.bsp": {
-   "filesize": 3635000,
-   "timestamp": "2005-07-15"
-  },
-  "sm82.txt": {
-   "filesize": 3000,
-   "timestamp": "2005-07-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm82.zip",
   "https://www.quaddicted.com/files/by-sha256/2/229be72c5fbedb82582c035af385d1e03dfdc0ea3de7842d73f9d171cbfd22ce/sm82.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

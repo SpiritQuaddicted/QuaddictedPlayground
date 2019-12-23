@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "b7abe87dfa6e5fbac2e60d80fa03c80e98dcef50aae177a41aac589a95053f91",
  "filename": [
   "3ssewage.zip"
  ],
- "filesize": 595,
- "tags": [
-  "title:Sector 3 - The Sewage Plant",
-  "releasedate:1997-12-21",
-  "game:quake",
-  "author:Trace Stuart",
-  "tag:small",
-  "tag:plant",
-  "startmap:sewage"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "SEWAGE.BSP": {
    "filesize": 1579144,
@@ -27,8 +12,23 @@
    "timestamp": "1997-12-21"
   }
  },
+ "filesize": 595,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "b7abe87dfa6e5fbac2e60d80fa03c80e98dcef50aae177a41aac589a95053f91",
+ "tags": [
+  "title:Sector 3 - The Sewage Plant",
+  "releasedate:1997-12-21",
+  "game:quake",
+  "author:Trace Stuart",
+  "tag:small",
+  "tag:plant",
+  "startmap:sewage"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/3ssewage.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b7abe87dfa6e5fbac2e60d80fa03c80e98dcef50aae177a41aac589a95053f91/3ssewage.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

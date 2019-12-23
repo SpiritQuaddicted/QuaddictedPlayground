@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "7b626f23a48bdcced5c223d6ca8c69667812bfb867521996f3c3bc8228662733",
  "filename": [
   "onepair.zip"
  ],
+ "files": {
+  "onepair.txt": {
+   "filesize": 1482,
+   "timestamp": "2004-07-16"
+  },
+  "onepair_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  },
+  "onex594.bsp": {
+   "filesize": 2688924,
+   "timestamp": "2004-07-16"
+  }
+ },
  "filesize": 1159,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7b626f23a48bdcced5c223d6ca8c69667812bfb867521996f3c3bc8228662733",
  "tags": [
   "title:OnePair",
   "releasedate:2004-07-16",
@@ -13,25 +29,9 @@
   "tag:mixtex",
   "startmap:onex594"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "onex594.bsp": {
-   "filesize": 2688924,
-   "timestamp": "2004-07-16"
-  },
-  "onepair_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "onepair.txt": {
-   "filesize": 1482,
-   "timestamp": "2004-07-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/onepair.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7b626f23a48bdcced5c223d6ca8c69667812bfb867521996f3c3bc8228662733/onepair.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

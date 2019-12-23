@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "796e36c8b9cf41ece06fbcddc7ba6b0bdcaf2e9ae0f5a82c3f7a48beba72df7f",
  "filename": [
   "a2d2.zip"
  ],
+ "files": {
+  "a2d2.bsp": {
+   "filesize": 1407704,
+   "timestamp": "2000-07-01"
+  },
+  "a2d2.txt": {
+   "filesize": 4440,
+   "timestamp": "2000-07-01"
+  }
+ },
  "filesize": 593,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "796e36c8b9cf41ece06fbcddc7ba6b0bdcaf2e9ae0f5a82c3f7a48beba72df7f",
  "tags": [
   "title:A2D2 - Ambush Keen Pilgrims",
   "releasedate:2000-07-01",
@@ -16,21 +28,9 @@
   "tag:planetquake-map-of-the-week",
   "tag:vertical"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "a2d2.txt": {
-   "filesize": 4440,
-   "timestamp": "2000-07-01"
-  },
-  "a2d2.bsp": {
-   "filesize": 1407704,
-   "timestamp": "2000-07-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/a2d2.zip",
   "https://www.quaddicted.com/files/by-sha256/7/796e36c8b9cf41ece06fbcddc7ba6b0bdcaf2e9ae0f5a82c3f7a48beba72df7f/a2d2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

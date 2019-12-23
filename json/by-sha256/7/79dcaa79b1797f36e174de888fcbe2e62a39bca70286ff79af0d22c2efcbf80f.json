@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "79dcaa79b1797f36e174de888fcbe2e62a39bca70286ff79af0d22c2efcbf80f",
  "filename": [
   "gr1m1.zip"
  ],
- "filesize": 394,
- "tags": [
-  "title:Cubes of Brown",
-  "releasedate:2013-05-10",
-  "game:quake",
-  "author:Qmaster",
-  "tag:small",
-  "tag:wizard",
-  "tag:bricks"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "gr1m1.bsp": {
    "filesize": 912980,
@@ -27,8 +12,23 @@
    "timestamp": "2013-05-10"
   }
  },
+ "filesize": 394,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "79dcaa79b1797f36e174de888fcbe2e62a39bca70286ff79af0d22c2efcbf80f",
+ "tags": [
+  "title:Cubes of Brown",
+  "releasedate:2013-05-10",
+  "game:quake",
+  "author:Qmaster",
+  "tag:small",
+  "tag:wizard",
+  "tag:bricks"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/gr1m1.zip",
   "https://www.quaddicted.com/files/by-sha256/7/79dcaa79b1797f36e174de888fcbe2e62a39bca70286ff79af0d22c2efcbf80f/gr1m1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "73c8ebcc622040d5978b40a6f4506ac762578779a742450d4919dfd92297e0bc",
  "filename": [
   "digs2.zip"
  ],
- "filesize": 373,
- "tags": [
-  "title:Untitled",
-  "releasedate:2000-01-01",
-  "game:quake",
-  "author:digs",
-  "tag:small",
-  "tag:mixtex"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "digs2.bsp": {
    "filesize": 876776,
@@ -26,8 +12,22 @@
    "timestamp": "2012-05-13"
   }
  },
+ "filesize": 373,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "73c8ebcc622040d5978b40a6f4506ac762578779a742450d4919dfd92297e0bc",
+ "tags": [
+  "title:Untitled",
+  "releasedate:2000-01-01",
+  "game:quake",
+  "author:digs",
+  "tag:small",
+  "tag:mixtex"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs2.zip",
   "https://www.quaddicted.com/files/by-sha256/7/73c8ebcc622040d5978b40a6f4506ac762578779a742450d4919dfd92297e0bc/digs2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

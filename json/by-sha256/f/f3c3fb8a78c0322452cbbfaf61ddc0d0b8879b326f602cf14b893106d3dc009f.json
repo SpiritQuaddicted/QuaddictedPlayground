@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f3c3fb8a78c0322452cbbfaf61ddc0d0b8879b326f602cf14b893106d3dc009f",
  "filename": [
   "thebase.zip"
  ],
- "filesize": 381,
- "tags": [
-  "title:The Base",
-  "releasedate:1998-03-19",
-  "game:quake",
-  "author:Phillippe Anchondo",
-  "tag:small",
-  "tag:idbase"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "thebase.bsp": {
    "filesize": 964744,
@@ -26,8 +12,22 @@
    "timestamp": "1998-03-19"
   }
  },
+ "filesize": 381,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f3c3fb8a78c0322452cbbfaf61ddc0d0b8879b326f602cf14b893106d3dc009f",
+ "tags": [
+  "title:The Base",
+  "releasedate:1998-03-19",
+  "game:quake",
+  "author:Phillippe Anchondo",
+  "tag:small",
+  "tag:idbase"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/thebase.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f3c3fb8a78c0322452cbbfaf61ddc0d0b8879b326f602cf14b893106d3dc009f/thebase.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

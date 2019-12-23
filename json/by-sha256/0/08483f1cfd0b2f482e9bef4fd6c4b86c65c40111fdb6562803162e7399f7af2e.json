@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "08483f1cfd0b2f482e9bef4fd6c4b86c65c40111fdb6562803162e7399f7af2e",
  "filename": [
   "drakopf.zip"
  ],
+ "files": {
+  "Drakopf.txt": {
+   "filesize": 3212,
+   "timestamp": "1996-10-25"
+  },
+  "drakopf.bsp": {
+   "filesize": 448336,
+   "timestamp": "1996-10-19"
+  },
+  "drakopf2.bsp": {
+   "filesize": 1403048,
+   "timestamp": "1996-10-25"
+  }
+ },
  "filesize": 797,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "08483f1cfd0b2f482e9bef4fd6c4b86c65c40111fdb6562803162e7399f7af2e",
  "tags": [
   "title:Drakopf",
   "releasedate:1996-10-25",
@@ -15,25 +31,9 @@
   "tag:castle",
   "tag:dark"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "drakopf2.bsp": {
-   "filesize": 1403048,
-   "timestamp": "1996-10-25"
-  },
-  "drakopf.bsp": {
-   "filesize": 448336,
-   "timestamp": "1996-10-19"
-  },
-  "Drakopf.txt": {
-   "filesize": 3212,
-   "timestamp": "1996-10-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/drakopf.zip",
   "https://www.quaddicted.com/files/by-sha256/0/08483f1cfd0b2f482e9bef4fd6c4b86c65c40111fdb6562803162e7399f7af2e/drakopf.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

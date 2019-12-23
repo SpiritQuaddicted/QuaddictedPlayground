@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "00f6db770a65f176f14a2651489892f8d2e2f9ac01455828fad1f7675e62af59",
  "filename": [
   "royalwar.zip"
  ],
+ "files": {
+  "Enterrw.bsp": {
+   "filesize": 531468,
+   "timestamp": "1997-01-30"
+  },
+  "Royalwar.bsp": {
+   "filesize": 552192,
+   "timestamp": "1997-01-30"
+  },
+  "Royalwar.txt": {
+   "filesize": 6415,
+   "timestamp": "1997-01-30"
+  }
+ },
  "filesize": 458,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "00f6db770a65f176f14a2651489892f8d2e2f9ac01455828fad1f7675e62af59",
  "tags": [
   "title:Royal Warriors",
   "releasedate:1997-01-30",
@@ -16,25 +32,9 @@
   "tag:dm",
   "startmap:enterrw"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Royalwar.bsp": {
-   "filesize": 552192,
-   "timestamp": "1997-01-30"
-  },
-  "Royalwar.txt": {
-   "filesize": 6415,
-   "timestamp": "1997-01-30"
-  },
-  "Enterrw.bsp": {
-   "filesize": 531468,
-   "timestamp": "1997-01-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/royalwar.zip",
   "https://www.quaddicted.com/files/by-sha256/0/00f6db770a65f176f14a2651489892f8d2e2f9ac01455828fad1f7675e62af59/royalwar.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

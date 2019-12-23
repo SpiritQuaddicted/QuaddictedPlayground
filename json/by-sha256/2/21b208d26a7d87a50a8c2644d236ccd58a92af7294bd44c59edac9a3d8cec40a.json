@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "21b208d26a7d87a50a8c2644d236ccd58a92af7294bd44c59edac9a3d8cec40a",
  "filename": [
   "alk13.zip"
  ],
+ "files": {
+  "alk13/alk13.html": {
+   "filesize": 16715,
+   "timestamp": "2001-08-05"
+  },
+  "alk13/alk13.jpg": {
+   "filesize": 67810,
+   "timestamp": "2001-06-22"
+  },
+  "alk13/alk13.txt": {
+   "filesize": 2749,
+   "timestamp": "2001-08-08"
+  },
+  "alk13/pak0.pak": {
+   "filesize": 7225027,
+   "timestamp": "2001-08-07"
+  }
+ },
  "filesize": 3503,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "21b208d26a7d87a50a8c2644d236ccd58a92af7294bd44c59edac9a3d8cec40a",
  "tags": [
   "title:The Looming Madness",
   "releasedate:2001-08-23",
@@ -16,29 +36,9 @@
   "tag:textures",
   "startmap:alk13"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "alk13/alk13.jpg": {
-   "filesize": 67810,
-   "timestamp": "2001-06-22"
-  },
-  "alk13/alk13.html": {
-   "filesize": 16715,
-   "timestamp": "2001-08-05"
-  },
-  "alk13/alk13.txt": {
-   "filesize": 2749,
-   "timestamp": "2001-08-08"
-  },
-  "alk13/pak0.pak": {
-   "filesize": 7225027,
-   "timestamp": "2001-08-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/alk13.zip",
   "https://www.quaddicted.com/files/by-sha256/2/21b208d26a7d87a50a8c2644d236ccd58a92af7294bd44c59edac9a3d8cec40a/alk13.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

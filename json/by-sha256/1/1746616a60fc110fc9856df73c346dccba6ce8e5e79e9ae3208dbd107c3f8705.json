@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "1746616a60fc110fc9856df73c346dccba6ce8e5e79e9ae3208dbd107c3f8705",
  "filename": [
   "aow.zip"
  ],
+ "files": {
+  "aow.bsp": {
+   "filesize": 912464,
+   "timestamp": "2006-09-23"
+  },
+  "aow.map": {
+   "filesize": 466858,
+   "timestamp": "2006-09-23"
+  },
+  "aow.txt.txt": {
+   "filesize": 1425,
+   "timestamp": "2006-09-23"
+  }
+ },
  "filesize": 415,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1746616a60fc110fc9856df73c346dccba6ce8e5e79e9ae3208dbd107c3f8705",
  "tags": [
   "title:Around the World!",
   "releasedate:2006-09-23",
@@ -14,25 +30,9 @@
   "tag:base",
   "tag:speedrunning"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "aow.txt.txt": {
-   "filesize": 1425,
-   "timestamp": "2006-09-23"
-  },
-  "aow.map": {
-   "filesize": 466858,
-   "timestamp": "2006-09-23"
-  },
-  "aow.bsp": {
-   "filesize": 912464,
-   "timestamp": "2006-09-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/aow.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1746616a60fc110fc9856df73c346dccba6ce8e5e79e9ae3208dbd107c3f8705/aow.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

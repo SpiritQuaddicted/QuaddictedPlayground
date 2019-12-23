@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020",
  "filename": [
   "utah.zip"
  ],
+ "files": {
+  "death.bsp": {
+   "filesize": 1791152,
+   "timestamp": "1997-04-01"
+  },
+  "death.txt": {
+   "filesize": 1076,
+   "timestamp": "1997-04-01"
+  }
+ },
  "filesize": 750,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020",
  "tags": [
   "title:Death's Taste",
   "releasedate:1997-04-01",
@@ -22,21 +34,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:death"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "death.txt": {
-   "filesize": 1076,
-   "timestamp": "1997-04-01"
-  },
-  "death.bsp": {
-   "filesize": 1791152,
-   "timestamp": "1997-04-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/utah.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e1c2d95b4cc4a5d71cc387b1062fbe5bdbf529b98fd6aa0c082f3ba23771f020/utah.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

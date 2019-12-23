@@ -1,36 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "3c1ebb15dd49ef84f0b5a88b0289061a6bc73b1d559b88efc3e9ac659d42a1bc",
  "filename": [
   "sm188.zip"
  ],
- "filesize": 16128,
- "tags": [
-  "title:Speedmapping pack 188 - Progs_dump",
-  "releasedate:2018-10-07",
-  "game:quake",
-  "commandline:-game sm188",
-  "author:Breezeep",
-  "author:dumptruck_ds",
-  "author:Ing-ing",
-  "author:ionous",
-  "author:JCR",
-  "author:Nostalgick",
-  "author:QueenJazz",
-  "author:Andrew Yoder",
-  "startmap:sm188_breezeep",
-  "startmap:sm188_dumptruck",
-  "startmap:sm188_ing",
-  "startmap:sm188_ionous",
-  "startmap:sm188_jcr",
-  "startmap:sm188_nostalgick",
-  "startmap:sm188_queenjazz",
-  "startmap:sm188_yoder",
-  "startmap:start"
- ],
- "install": {
-  "extract": "{quake}/sm188/"
- },
  "files": {
   "SM188 README.txt": {
    "filesize": 1082,
@@ -233,8 +204,37 @@
    "timestamp": "2018-10-08"
   }
  },
+ "filesize": 16128,
+ "install": {
+  "extract": "{quake}/sm188/"
+ },
+ "sha256": "3c1ebb15dd49ef84f0b5a88b0289061a6bc73b1d559b88efc3e9ac659d42a1bc",
+ "tags": [
+  "title:Speedmapping pack 188 - Progs_dump",
+  "releasedate:2018-10-07",
+  "game:quake",
+  "commandline:-game sm188",
+  "author:Breezeep",
+  "author:dumptruck_ds",
+  "author:Ing-ing",
+  "author:ionous",
+  "author:JCR",
+  "author:Nostalgick",
+  "author:QueenJazz",
+  "author:Andrew Yoder",
+  "startmap:sm188_breezeep",
+  "startmap:sm188_dumptruck",
+  "startmap:sm188_ing",
+  "startmap:sm188_ionous",
+  "startmap:sm188_jcr",
+  "startmap:sm188_nostalgick",
+  "startmap:sm188_queenjazz",
+  "startmap:sm188_yoder",
+  "startmap:start"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm188.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3c1ebb15dd49ef84f0b5a88b0289061a6bc73b1d559b88efc3e9ac659d42a1bc/sm188.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

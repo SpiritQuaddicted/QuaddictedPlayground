@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "72b3c9b987f1a43b52789373cf1511ac06133dbbd014145707fcd57b5ec569a9",
  "filename": [
   "rrp.zip"
  ],
+ "files": {
+  "pak0.pak": {
+   "filesize": 223662393,
+   "timestamp": "2014-09-13"
+  },
+  "rrp_readme.txt": {
+   "filesize": 1739,
+   "timestamp": "2014-09-06"
+  }
+ },
  "filesize": 83405,
+ "install": {
+  "extract": "{quake}/rrp/"
+ },
+ "sha256": "72b3c9b987f1a43b52789373cf1511ac06133dbbd014145707fcd57b5ec569a9",
  "tags": [
   "title:Rubicon Rumble Pack",
   "releasedate:2014-09-14",
@@ -27,21 +39,9 @@
   "startmap:mfxsp20",
   "startmap:telefragged"
  ],
- "install": {
-  "extract": "{quake}/rrp/"
- },
- "files": {
-  "pak0.pak": {
-   "filesize": 223662393,
-   "timestamp": "2014-09-13"
-  },
-  "rrp_readme.txt": {
-   "filesize": 1739,
-   "timestamp": "2014-09-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rrp.zip",
   "https://www.quaddicted.com/files/by-sha256/7/72b3c9b987f1a43b52789373cf1511ac06133dbbd014145707fcd57b5ec569a9/rrp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

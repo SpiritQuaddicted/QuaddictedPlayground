@@ -1,10 +1,74 @@
 {
- "version": "20191222-0",
- "sha256": "84a262cd840e957add537853551d4fdf565ebba7584cc23a94634f2616cafea9",
  "filename": [
   "tsoa.zip"
  ],
+ "files": {
+  "tsoa/autoexec.cfg": {
+   "filesize": 2223,
+   "timestamp": "1997-11-19"
+  },
+  "tsoa/camera.txt": {
+   "filesize": 812,
+   "timestamp": "1997-07-06"
+  },
+  "tsoa/config.cfg": {
+   "filesize": 5275,
+   "timestamp": "2003-05-19"
+  },
+  "tsoa/generatr.txt": {
+   "filesize": 607,
+   "timestamp": "1997-06-24"
+  },
+  "tsoa/orca.txt": {
+   "filesize": 1243,
+   "timestamp": "1997-06-03"
+  },
+  "tsoa/pak0.pak": {
+   "filesize": 820000,
+   "timestamp": "1998-01-18"
+  },
+  "tsoa/pak1.pak": {
+   "filesize": 12288698,
+   "timestamp": "1998-01-18"
+  },
+  "tsoa/pak2.pak": {
+   "filesize": 12530804,
+   "timestamp": "1998-01-18"
+  },
+  "tsoa/progs.dat": {
+   "filesize": 557484,
+   "timestamp": "1998-01-18"
+  },
+  "tsoa/ray.txt": {
+   "filesize": 710,
+   "timestamp": "1997-06-27"
+  },
+  "tsoa/sentry.txt": {
+   "filesize": 860,
+   "timestamp": "1997-06-14"
+  },
+  "tsoa/tsoa.bat": {
+   "filesize": 37,
+   "timestamp": "1998-06-04"
+  },
+  "tsoa/tsoa.txt": {
+   "filesize": 4418,
+   "timestamp": "1998-01-17"
+  },
+  "tsoa/tv.txt": {
+   "filesize": 648,
+   "timestamp": "1997-08-23"
+  },
+  "tsoa_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 8723,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "84a262cd840e957add537853551d4fdf565ebba7584cc23a94634f2616cafea9",
  "tags": [
   "title:The Sword of Ares",
   "releasedate:1998-06-04",
@@ -20,73 +84,9 @@
   "tag:medium",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "tsoa/camera.txt": {
-   "filesize": 812,
-   "timestamp": "1997-07-06"
-  },
-  "tsoa/tv.txt": {
-   "filesize": 648,
-   "timestamp": "1997-08-23"
-  },
-  "tsoa/ray.txt": {
-   "filesize": 710,
-   "timestamp": "1997-06-27"
-  },
-  "tsoa/tsoa.bat": {
-   "filesize": 37,
-   "timestamp": "1998-06-04"
-  },
-  "tsoa/generatr.txt": {
-   "filesize": 607,
-   "timestamp": "1997-06-24"
-  },
-  "tsoa/pak1.pak": {
-   "filesize": 12288698,
-   "timestamp": "1998-01-18"
-  },
-  "tsoa/pak2.pak": {
-   "filesize": 12530804,
-   "timestamp": "1998-01-18"
-  },
-  "tsoa/config.cfg": {
-   "filesize": 5275,
-   "timestamp": "2003-05-19"
-  },
-  "tsoa/tsoa.txt": {
-   "filesize": 4418,
-   "timestamp": "1998-01-17"
-  },
-  "tsoa/progs.dat": {
-   "filesize": 557484,
-   "timestamp": "1998-01-18"
-  },
-  "tsoa/orca.txt": {
-   "filesize": 1243,
-   "timestamp": "1997-06-03"
-  },
-  "tsoa/pak0.pak": {
-   "filesize": 820000,
-   "timestamp": "1998-01-18"
-  },
-  "tsoa/sentry.txt": {
-   "filesize": 860,
-   "timestamp": "1997-06-14"
-  },
-  "tsoa/autoexec.cfg": {
-   "filesize": 2223,
-   "timestamp": "1997-11-19"
-  },
-  "tsoa_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tsoa.zip",
   "https://www.quaddicted.com/files/by-sha256/8/84a262cd840e957add537853551d4fdf565ebba7584cc23a94634f2616cafea9/tsoa.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

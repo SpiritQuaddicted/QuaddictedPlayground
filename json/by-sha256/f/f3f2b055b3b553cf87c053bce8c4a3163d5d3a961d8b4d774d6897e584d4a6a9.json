@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9",
  "filename": [
   "rapv20.zip"
  ],
+ "files": {
+  "demo1.dem": {
+   "filesize": 143640,
+   "timestamp": "2001-04-27"
+  },
+  "demo2.dem": {
+   "filesize": 68990,
+   "timestamp": "2001-04-13"
+  },
+  "demo3.dem": {
+   "filesize": 157636,
+   "timestamp": "2001-04-27"
+  },
+  "pak0.pak": {
+   "filesize": 6846065,
+   "timestamp": "2001-05-06"
+  },
+  "readme.txt": {
+   "filesize": 2436,
+   "timestamp": "2001-05-06"
+  }
+ },
  "filesize": 3019,
+ "install": {
+  "extract": "{quake}/raptors/"
+ },
+ "sha256": "f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9",
  "tags": [
   "title:Raptors!",
   "releasedate:2001-05-06",
@@ -18,33 +42,9 @@
   "tag:monsters",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/raptors/"
- },
- "files": {
-  "demo3.dem": {
-   "filesize": 157636,
-   "timestamp": "2001-04-27"
-  },
-  "demo1.dem": {
-   "filesize": 143640,
-   "timestamp": "2001-04-27"
-  },
-  "readme.txt": {
-   "filesize": 2436,
-   "timestamp": "2001-05-06"
-  },
-  "demo2.dem": {
-   "filesize": 68990,
-   "timestamp": "2001-04-13"
-  },
-  "pak0.pak": {
-   "filesize": 6846065,
-   "timestamp": "2001-05-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rapv20.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9/rapv20.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

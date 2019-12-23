@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "775858e466e53fa141881f18ca333aac21cf6d0c70406bf506af41aae53c52ce",
  "filename": [
   "drearydisposition.zip"
  ],
- "filesize": 2067,
- "tags": [
-  "title:Dreary Disposition",
-  "releasedate:2019-01-29",
-  "game:quake",
-  "author:Albert van Zyl",
-  "tag:large",
-  "tag:wizard",
-  "startmap:drearydisposition_albert"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "drearydisposition.txt": {
    "filesize": 1538,
@@ -31,8 +16,23 @@
    "timestamp": "2019-01-29"
   }
  },
+ "filesize": 2067,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "775858e466e53fa141881f18ca333aac21cf6d0c70406bf506af41aae53c52ce",
+ "tags": [
+  "title:Dreary Disposition",
+  "releasedate:2019-01-29",
+  "game:quake",
+  "author:Albert van Zyl",
+  "tag:large",
+  "tag:wizard",
+  "startmap:drearydisposition_albert"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/drearydisposition.zip",
   "https://www.quaddicted.com/files/by-sha256/7/775858e466e53fa141881f18ca333aac21cf6d0c70406bf506af41aae53c52ce/drearydisposition.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

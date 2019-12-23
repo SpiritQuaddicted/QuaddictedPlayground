@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725",
  "filename": [
   "lostwrld.zip"
  ],
- "filesize": 869,
- "tags": [
-  "title:The Lost World",
-  "releasedate:1997-03-28",
-  "game:quake",
-  "author:Matt Sefton",
-  "tag:medium",
-  "tag:medieval",
-  "tag:planetquake-map-of-the-week"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "lostwrld.bsp": {
    "filesize": 2030384,
@@ -27,8 +12,23 @@
    "timestamp": "1997-03-28"
   }
  },
+ "filesize": 869,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725",
+ "tags": [
+  "title:The Lost World",
+  "releasedate:1997-03-28",
+  "game:quake",
+  "author:Matt Sefton",
+  "tag:medium",
+  "tag:medieval",
+  "tag:planetquake-map-of-the-week"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/lostwrld.zip",
   "https://www.quaddicted.com/files/by-sha256/7/70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725/lostwrld.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

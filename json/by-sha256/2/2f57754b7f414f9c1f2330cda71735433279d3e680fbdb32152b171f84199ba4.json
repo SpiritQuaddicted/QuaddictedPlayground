@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "2f57754b7f414f9c1f2330cda71735433279d3e680fbdb32152b171f84199ba4",
  "filename": [
   "pagan.zip"
  ],
+ "files": {
+  "PAGAN.BSP": {
+   "filesize": 361396,
+   "timestamp": "1997-03-04"
+  },
+  "PAGAN.TXT": {
+   "filesize": 1301,
+   "timestamp": "1997-09-07"
+  }
+ },
  "filesize": 159,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "2f57754b7f414f9c1f2330cda71735433279d3e680fbdb32152b171f84199ba4",
  "tags": [
   "title:Pagan",
   "releasedate:1997-09-07",
@@ -14,21 +26,9 @@
   "tag:medieval",
   "tag:wizard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "PAGAN.TXT": {
-   "filesize": 1301,
-   "timestamp": "1997-09-07"
-  },
-  "PAGAN.BSP": {
-   "filesize": 361396,
-   "timestamp": "1997-03-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pagan.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2f57754b7f414f9c1f2330cda71735433279d3e680fbdb32152b171f84199ba4/pagan.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

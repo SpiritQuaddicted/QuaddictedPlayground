@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "05b89a52abd8cc300ee5304c25e16c8d1ef669eab0edaa2a643cf8a152dbdcff",
  "filename": [
   "rit.zip"
  ],
+ "files": {
+  "RIT.BSP": {
+   "filesize": 1642760,
+   "timestamp": "1996-08-18"
+  },
+  "RIT.TXT": {
+   "filesize": 1740,
+   "timestamp": "1996-08-18"
+  },
+  "rit_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 689,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "05b89a52abd8cc300ee5304c25e16c8d1ef669eab0edaa2a643cf8a152dbdcff",
  "tags": [
   "title:Escape the Base",
   "releasedate:1996-08-18",
@@ -15,25 +31,9 @@
   "tag:base",
   "tag:water"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "rit_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "RIT.TXT": {
-   "filesize": 1740,
-   "timestamp": "1996-08-18"
-  },
-  "RIT.BSP": {
-   "filesize": 1642760,
-   "timestamp": "1996-08-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rit.zip",
   "https://www.quaddicted.com/files/by-sha256/0/05b89a52abd8cc300ee5304c25e16c8d1ef669eab0edaa2a643cf8a152dbdcff/rit.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

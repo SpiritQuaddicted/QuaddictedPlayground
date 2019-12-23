@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "1f34bd4341b7a9aa548ce26ab871443127823d9bb97f65040de6ddbad97872e9",
  "filename": [
   "ant.zip"
  ],
+ "files": {
+  "ant.bsp": {
+   "filesize": 4069900,
+   "timestamp": "2005-09-02"
+  },
+  "ant.txt": {
+   "filesize": 1650,
+   "timestamp": "2005-09-02"
+  }
+ },
  "filesize": 1608,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "1f34bd4341b7a9aa548ce26ab871443127823d9bb97f65040de6ddbad97872e9",
  "tags": [
   "title:Antediluvian",
   "releasedate:2005-09-02",
@@ -17,21 +29,9 @@
   "tag:qtwid",
   "tag:mustplay"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ant.txt": {
-   "filesize": 1650,
-   "timestamp": "2005-09-02"
-  },
-  "ant.bsp": {
-   "filesize": 4069900,
-   "timestamp": "2005-09-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ant.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1f34bd4341b7a9aa548ce26ab871443127823d9bb97f65040de6ddbad97872e9/ant.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

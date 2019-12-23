@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "582bfaa3049c18416a276ee40597c22e91a3362be12d585b9491d1c1d90257de",
  "filename": [
   "ne_ruins.zip"
  ],
+ "files": {
+  "FILE_ID.DIZ": {
+   "filesize": 264,
+   "timestamp": "1997-09-18"
+  },
+  "SE.BSP": {
+   "filesize": 2077984,
+   "timestamp": "1997-08-25"
+  },
+  "SE.TXT": {
+   "filesize": 3056,
+   "timestamp": "1997-08-25"
+  }
+ },
  "filesize": 47680,
+ "install": {
+  "extract": "{quake}/ne_ruins/"
+ },
+ "sha256": "582bfaa3049c18416a276ee40597c22e91a3362be12d585b9491d1c1d90257de",
  "tags": [
   "title:The Altar of Storms",
   "releasedate:2011-06-22",
@@ -28,25 +44,9 @@
   "tag:absolute masterpiece",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/ne_ruins/"
- },
- "files": {
-  "FILE_ID.DIZ": {
-   "filesize": 264,
-   "timestamp": "1997-09-18"
-  },
-  "SE.BSP": {
-   "filesize": 2077984,
-   "timestamp": "1997-08-25"
-  },
-  "SE.TXT": {
-   "filesize": 3056,
-   "timestamp": "1997-08-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ne_ruins.zip",
   "https://www.quaddicted.com/files/by-sha256/5/582bfaa3049c18416a276ee40597c22e91a3362be12d585b9491d1c1d90257de/ne_ruins.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "0abccd5b0080bffc3e24f2409bf018cf4e07dc144e854314b7a58e8daa8e8aef",
  "filename": [
   "mexx5.zip"
  ],
+ "files": {
+  "MEXX5.BSP": {
+   "filesize": 1440804,
+   "timestamp": "1997-02-03"
+  },
+  "MEXX5.TXT": {
+   "filesize": 3120,
+   "timestamp": "1997-02-03"
+  }
+ },
  "filesize": 581,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0abccd5b0080bffc3e24f2409bf018cf4e07dc144e854314b7a58e8daa8e8aef",
  "tags": [
   "title:The Terror of Tzeentch",
   "releasedate:1997-02-03",
@@ -16,21 +28,9 @@
   "tag:lava",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MEXX5.TXT": {
-   "filesize": 3120,
-   "timestamp": "1997-02-03"
-  },
-  "MEXX5.BSP": {
-   "filesize": 1440804,
-   "timestamp": "1997-02-03"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mexx5.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0abccd5b0080bffc3e24f2409bf018cf4e07dc144e854314b7a58e8daa8e8aef/mexx5.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

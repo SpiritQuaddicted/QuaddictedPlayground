@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f",
  "filename": [
   "hayduke1.zip"
  ],
- "filesize": 483,
- "tags": [
-  "title:Ephermerality",
-  "releasedate:1997-07-31",
-  "game:quake",
-  "author:Malcolm Sailor (aka hayduke)",
-  "tag:small",
-  "tag:metal",
-  "tag:runic"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "HAYDUKE1.BSP": {
    "filesize": 1168948,
@@ -27,8 +12,23 @@
    "timestamp": "1997-07-31"
   }
  },
+ "filesize": 483,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f",
+ "tags": [
+  "title:Ephermerality",
+  "releasedate:1997-07-31",
+  "game:quake",
+  "author:Malcolm Sailor (aka hayduke)",
+  "tag:small",
+  "tag:metal",
+  "tag:runic"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/hayduke1.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f/hayduke1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

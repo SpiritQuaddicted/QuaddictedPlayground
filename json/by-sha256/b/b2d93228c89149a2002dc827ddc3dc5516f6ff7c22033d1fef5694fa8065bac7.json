@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "b2d93228c89149a2002dc827ddc3dc5516f6ff7c22033d1fef5694fa8065bac7",
  "filename": [
   "sm87_maps.zip"
  ],
+ "files": {
+  "sm87_jacek.bsp": {
+   "filesize": 265220,
+   "timestamp": "2004-07-31"
+  },
+  "sm87_zwiffle.bsp": {
+   "filesize": 391996,
+   "timestamp": "2004-07-31"
+  }
+ },
  "filesize": 303,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "b2d93228c89149a2002dc827ddc3dc5516f6ff7c22033d1fef5694fa8065bac7",
  "tags": [
   "title:Bees",
   "releasedate:2005-08-06",
@@ -12,21 +24,9 @@
   "author:Jacek",
   "author:Zwiffle"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm87_zwiffle.bsp": {
-   "filesize": 391996,
-   "timestamp": "2004-07-31"
-  },
-  "sm87_jacek.bsp": {
-   "filesize": 265220,
-   "timestamp": "2004-07-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm87_maps.zip",
   "https://www.quaddicted.com/files/by-sha256/b/b2d93228c89149a2002dc827ddc3dc5516f6ff7c22033d1fef5694fa8065bac7/sm87_maps.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

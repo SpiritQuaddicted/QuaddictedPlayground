@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174",
  "filename": [
   "kinn_marcher.zip"
  ],
+ "files": {
+  "GLMarcher.exe": {
+   "filesize": 452608,
+   "timestamp": "2005-01-04"
+  },
+  "WinMarcher.exe": {
+   "filesize": 576512,
+   "timestamp": "2005-01-04"
+  },
+  "marcher/Pak0.pak": {
+   "filesize": 19401351,
+   "timestamp": "2005-01-09"
+  },
+  "marcher/README_Marcher.txt": {
+   "filesize": 5758,
+   "timestamp": "2005-01-09"
+  },
+  "marcher/autoexec.cfg": {
+   "filesize": 374,
+   "timestamp": "2005-01-08"
+  },
+  "marcher/readme_engine.txt": {
+   "filesize": 13776,
+   "timestamp": "2005-01-04"
+  }
+ },
  "filesize": 10144,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174",
  "tags": [
   "title:The Marcher Fortress",
   "releasedate:2005-01-09",
@@ -21,37 +49,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:marcher"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "WinMarcher.exe": {
-   "filesize": 576512,
-   "timestamp": "2005-01-04"
-  },
-  "marcher/README_Marcher.txt": {
-   "filesize": 5758,
-   "timestamp": "2005-01-09"
-  },
-  "marcher/readme_engine.txt": {
-   "filesize": 13776,
-   "timestamp": "2005-01-04"
-  },
-  "marcher/Pak0.pak": {
-   "filesize": 19401351,
-   "timestamp": "2005-01-09"
-  },
-  "marcher/autoexec.cfg": {
-   "filesize": 374,
-   "timestamp": "2005-01-08"
-  },
-  "GLMarcher.exe": {
-   "filesize": 452608,
-   "timestamp": "2005-01-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/kinn_marcher.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cc8005e4aa7df6b1f1a33c60a1060cf1e0e4314f5710dbbe6f21d72dcbd6b174/kinn_marcher.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

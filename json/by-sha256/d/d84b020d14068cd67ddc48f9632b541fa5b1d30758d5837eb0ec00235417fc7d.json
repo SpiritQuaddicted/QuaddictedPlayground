@@ -1,36 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d84b020d14068cd67ddc48f9632b541fa5b1d30758d5837eb0ec00235417fc7d",
  "filename": [
   "sm204.zip"
  ],
- "filesize": 36990,
- "tags": [
-  "title:Speedmapping pack 204: 20 years of Quake III Arena",
-  "releasedate:2019-11-28",
-  "game:quake",
-  "author:ChrisHolden",
-  "author:Cocerello",
-  "author:dumptruck_ds",
-  "author:Greenwood",
-  "author:ionous",
-  "author:ish",
-  "author:ZungryWare",
-  "tag:dm",
-  "tag:quake 3",
-  "tag:deathmatch",
-  "tag:q3",
-  "startmap:sm204_chrisholden",
-  "startmap:sm204_coce",
-  "startmap:sm204_dumptruck",
-  "startmap:sm204_greenwood",
-  "startmap:sm204_ionous",
-  "startmap:sm204_ish",
-  "startmap:sm204_zungryware"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "gfx/env/d4sky02_bk.tga": {
    "filesize": 3213712,
@@ -217,8 +188,37 @@
    "timestamp": "2019-11-26"
   }
  },
+ "filesize": 36990,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "d84b020d14068cd67ddc48f9632b541fa5b1d30758d5837eb0ec00235417fc7d",
+ "tags": [
+  "title:Speedmapping pack 204: 20 years of Quake III Arena",
+  "releasedate:2019-11-28",
+  "game:quake",
+  "author:ChrisHolden",
+  "author:Cocerello",
+  "author:dumptruck_ds",
+  "author:Greenwood",
+  "author:ionous",
+  "author:ish",
+  "author:ZungryWare",
+  "tag:dm",
+  "tag:quake 3",
+  "tag:deathmatch",
+  "tag:q3",
+  "startmap:sm204_chrisholden",
+  "startmap:sm204_coce",
+  "startmap:sm204_dumptruck",
+  "startmap:sm204_greenwood",
+  "startmap:sm204_ionous",
+  "startmap:sm204_ish",
+  "startmap:sm204_zungryware"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm204.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d84b020d14068cd67ddc48f9632b541fa5b1d30758d5837eb0ec00235417fc7d/sm204.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

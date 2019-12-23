@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5",
  "filename": [
   "eltemple.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 2580068,
+   "timestamp": "1997-11-06"
+  },
+  "temple.bat": {
+   "filesize": 26,
+   "timestamp": "1997-10-30"
+  },
+  "temple.txt": {
+   "filesize": 2082,
+   "timestamp": "1997-11-07"
+  }
+ },
  "filesize": 1010,
+ "install": {
+  "extract": "{quake}/eltemple/"
+ },
+ "sha256": "fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5",
  "tags": [
   "title:El temple del sol",
   "releasedate:1997-11-07",
@@ -21,25 +37,9 @@
   "tag:boss",
   "startmap:temple"
  ],
- "install": {
-  "extract": "{quake}/eltemple/"
- },
- "files": {
-  "temple.txt": {
-   "filesize": 2082,
-   "timestamp": "1997-11-07"
-  },
-  "Pak0.pak": {
-   "filesize": 2580068,
-   "timestamp": "1997-11-06"
-  },
-  "temple.bat": {
-   "filesize": 26,
-   "timestamp": "1997-10-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/eltemple.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5/eltemple.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

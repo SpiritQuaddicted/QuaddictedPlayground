@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "88e4e8f70839d4b59143b0a10fcc34940bedcba430ecfd7a724eb024f7ed86bd",
  "filename": [
   "sm55_pack.zip"
  ],
+ "files": {
+  "sm55_asaki.bsp": {
+   "filesize": 985224,
+   "timestamp": "2001-09-15"
+  },
+  "sm55_czg.bsp": {
+   "filesize": 956972,
+   "timestamp": "2003-11-02"
+  },
+  "sm55_metl.bsp": {
+   "filesize": 624728,
+   "timestamp": "2003-11-01"
+  },
+  "sm55_pack.txt": {
+   "filesize": 1629,
+   "timestamp": "2001-09-15"
+  },
+  "sm55_scampie.bsp": {
+   "filesize": 308760,
+   "timestamp": "2001-09-15"
+  },
+  "sm55_starbuck.bsp": {
+   "filesize": 1255408,
+   "timestamp": "2003-11-02"
+  }
+ },
  "filesize": 1455,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "88e4e8f70839d4b59143b0a10fcc34940bedcba430ecfd7a724eb024f7ed86bd",
  "tags": [
   "title:Speedmapping pack 55 - IDbase (The 4 Seasons of Quake #1)",
   "releasedate:2003-11-02",
@@ -21,37 +49,9 @@
   "startmap:sm55_scampie",
   "startmap:sm55_starbuck"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm55_czg.bsp": {
-   "filesize": 956972,
-   "timestamp": "2003-11-02"
-  },
-  "sm55_metl.bsp": {
-   "filesize": 624728,
-   "timestamp": "2003-11-01"
-  },
-  "sm55_scampie.bsp": {
-   "filesize": 308760,
-   "timestamp": "2001-09-15"
-  },
-  "sm55_asaki.bsp": {
-   "filesize": 985224,
-   "timestamp": "2001-09-15"
-  },
-  "sm55_starbuck.bsp": {
-   "filesize": 1255408,
-   "timestamp": "2003-11-02"
-  },
-  "sm55_pack.txt": {
-   "filesize": 1629,
-   "timestamp": "2001-09-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm55_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8/88e4e8f70839d4b59143b0a10fcc34940bedcba430ecfd7a724eb024f7ed86bd/sm55_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

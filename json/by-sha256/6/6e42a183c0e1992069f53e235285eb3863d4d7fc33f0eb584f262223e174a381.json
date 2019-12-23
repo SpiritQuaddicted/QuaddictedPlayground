@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381",
  "filename": [
   "dopa.zip"
  ],
+ "files": {
+  "dopa.bat": {
+   "filesize": 27,
+   "timestamp": "2016-04-02"
+  },
+  "dopa_readme.txt": {
+   "filesize": 1175,
+   "timestamp": "2016-06-22"
+  },
+  "pak0.pak": {
+   "filesize": 18557329,
+   "timestamp": "2016-06-21"
+  },
+  "quake.rc": {
+   "filesize": 298,
+   "timestamp": "2016-06-22"
+  }
+ },
  "filesize": 6915,
+ "install": {
+  "extract": "{quake}/dopa/"
+ },
+ "sha256": "6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381",
  "tags": [
   "title:Episode 5: Dimension of the Past",
   "releasedate:2016-06-24",
@@ -34,29 +54,9 @@
   "startmap:e5end",
   "startmap:e5dm"
  ],
- "install": {
-  "extract": "{quake}/dopa/"
- },
- "files": {
-  "dopa.bat": {
-   "filesize": 27,
-   "timestamp": "2016-04-02"
-  },
-  "dopa_readme.txt": {
-   "filesize": 1175,
-   "timestamp": "2016-06-22"
-  },
-  "pak0.pak": {
-   "filesize": 18557329,
-   "timestamp": "2016-06-21"
-  },
-  "quake.rc": {
-   "filesize": 298,
-   "timestamp": "2016-06-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dopa.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381/dopa.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

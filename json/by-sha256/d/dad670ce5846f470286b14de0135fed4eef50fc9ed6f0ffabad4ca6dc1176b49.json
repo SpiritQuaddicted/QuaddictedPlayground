@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49",
  "filename": [
   "prison2.zip"
  ],
+ "files": {
+  "prison.bsp": {
+   "filesize": 1013916,
+   "timestamp": "1997-01-21"
+  },
+  "prison.map": {
+   "filesize": 275531,
+   "timestamp": "1997-01-21"
+  },
+  "prison.txt": {
+   "filesize": 1173,
+   "timestamp": "1997-01-21"
+  }
+ },
  "filesize": 451,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49",
  "tags": [
   "title:Prison",
   "releasedate:1997-01-21",
@@ -16,25 +32,9 @@
   "tag:explorative",
   "startmap:prison"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "prison.txt": {
-   "filesize": 1173,
-   "timestamp": "1997-01-21"
-  },
-  "prison.map": {
-   "filesize": 275531,
-   "timestamp": "1997-01-21"
-  },
-  "prison.bsp": {
-   "filesize": 1013916,
-   "timestamp": "1997-01-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/prison2.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dad670ce5846f470286b14de0135fed4eef50fc9ed6f0ffabad4ca6dc1176b49/prison2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

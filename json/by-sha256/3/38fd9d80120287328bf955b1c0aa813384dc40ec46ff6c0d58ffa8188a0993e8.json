@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "38fd9d80120287328bf955b1c0aa813384dc40ec46ff6c0d58ffa8188a0993e8",
  "filename": [
   "qkhouse.zip"
  ],
+ "files": {
+  "qkhouse.bsp": {
+   "filesize": 1054172,
+   "timestamp": "1998-01-07"
+  },
+  "qkhouse.txt": {
+   "filesize": 2048,
+   "timestamp": "2000-01-13"
+  }
+ },
  "filesize": 419,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "38fd9d80120287328bf955b1c0aa813384dc40ec46ff6c0d58ffa8188a0993e8",
  "tags": [
   "title:House",
   "releasedate:1998-01-07",
@@ -12,21 +24,9 @@
   "author:DAV",
   "tag:tower"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "qkhouse.txt": {
-   "filesize": 2048,
-   "timestamp": "2000-01-13"
-  },
-  "qkhouse.bsp": {
-   "filesize": 1054172,
-   "timestamp": "1998-01-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/qkhouse.zip",
   "https://www.quaddicted.com/files/by-sha256/3/38fd9d80120287328bf955b1c0aa813384dc40ec46ff6c0d58ffa8188a0993e8/qkhouse.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "72f83a3689d4fc238b1d78b71c509d0204195beb73d1a3087285988566af7f0b",
  "filename": [
   "tmc.zip"
  ],
+ "files": {
+  "tmc.bsp": {
+   "filesize": 2878992,
+   "timestamp": "1997-09-18"
+  },
+  "tmc.txt": {
+   "filesize": 6482,
+   "timestamp": "1998-08-15"
+  }
+ },
  "filesize": 1180,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "72f83a3689d4fc238b1d78b71c509d0204195beb73d1a3087285988566af7f0b",
  "tags": [
   "title:The Monolith Complex",
   "releasedate:1997-09-18",
@@ -15,21 +27,9 @@
   "tag:exploration",
   "tag:unfinished"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "tmc.txt": {
-   "filesize": 6482,
-   "timestamp": "1998-08-15"
-  },
-  "tmc.bsp": {
-   "filesize": 2878992,
-   "timestamp": "1997-09-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/tmc.zip",
   "https://www.quaddicted.com/files/by-sha256/7/72f83a3689d4fc238b1d78b71c509d0204195beb73d1a3087285988566af7f0b/tmc.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

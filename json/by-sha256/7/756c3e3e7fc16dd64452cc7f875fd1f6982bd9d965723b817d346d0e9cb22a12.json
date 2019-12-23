@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12",
  "filename": [
   "jdungeon.zip"
  ],
+ "files": {
+  "Dungeon.bsp": {
+   "filesize": 450464,
+   "timestamp": "1997-02-16"
+  },
+  "JDungeon.txt": {
+   "filesize": 939,
+   "timestamp": "1997-02-16"
+  },
+  "jdungeon_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 188,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12",
  "tags": [
   "title:Jim's Dungeon",
   "releasedate:1997-02-16",
@@ -16,25 +32,9 @@
   "tag:tiny",
   "startmap:dungeon"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "JDungeon.txt": {
-   "filesize": 939,
-   "timestamp": "1997-02-16"
-  },
-  "jdungeon_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "Dungeon.bsp": {
-   "filesize": 450464,
-   "timestamp": "1997-02-16"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/jdungeon.zip",
   "https://www.quaddicted.com/files/by-sha256/7/756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12/jdungeon.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

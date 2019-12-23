@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "affddf257e57f1e34e0d600226875eab52362bb0dabb14775c7138e2acce1d98",
  "filename": [
   "xl3.zip"
  ],
- "filesize": 2051,
- "tags": [
-  "title:The Subconscious Fear",
-  "releasedate:2018-05-25",
-  "game:quake",
-  "author:xlarve",
-  "tag:large",
-  "tag:mixtex",
-  "tag:metal",
-  "tag:base",
-  "tag:dungeon"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "xl3/xl3.bsp": {
    "filesize": 4088280,
@@ -33,8 +16,25 @@
    "timestamp": "2018-05-25"
   }
  },
+ "filesize": 2051,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "affddf257e57f1e34e0d600226875eab52362bb0dabb14775c7138e2acce1d98",
+ "tags": [
+  "title:The Subconscious Fear",
+  "releasedate:2018-05-25",
+  "game:quake",
+  "author:xlarve",
+  "tag:large",
+  "tag:mixtex",
+  "tag:metal",
+  "tag:base",
+  "tag:dungeon"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/xl3.zip",
   "https://www.quaddicted.com/files/by-sha256/a/affddf257e57f1e34e0d600226875eab52362bb0dabb14775c7138e2acce1d98/xl3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

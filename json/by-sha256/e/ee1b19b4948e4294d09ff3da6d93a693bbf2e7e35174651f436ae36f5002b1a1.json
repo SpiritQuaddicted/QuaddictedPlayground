@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "ee1b19b4948e4294d09ff3da6d93a693bbf2e7e35174651f436ae36f5002b1a1",
  "filename": [
   "hrim_sp3.zip"
  ],
+ "files": {
+  "Hrim_sp3.txt": {
+   "filesize": 4813,
+   "timestamp": "2007-09-13"
+  },
+  "breakfast.bsp": {
+   "filesize": 8923000,
+   "timestamp": "2007-09-06"
+  },
+  "breakstart.bsp": {
+   "filesize": 3676560,
+   "timestamp": "2007-09-12"
+  }
+ },
  "filesize": 4855,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "ee1b19b4948e4294d09ff3da6d93a693bbf2e7e35174651f436ae36f5002b1a1",
  "tags": [
   "title:Breakfast at twilight",
   "releasedate:2007-09-13",
@@ -22,25 +38,9 @@
   "dependency:quoth",
   "startmap:breakstart"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "breakfast.bsp": {
-   "filesize": 8923000,
-   "timestamp": "2007-09-06"
-  },
-  "Hrim_sp3.txt": {
-   "filesize": 4813,
-   "timestamp": "2007-09-13"
-  },
-  "breakstart.bsp": {
-   "filesize": 3676560,
-   "timestamp": "2007-09-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp3.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ee1b19b4948e4294d09ff3da6d93a693bbf2e7e35174651f436ae36f5002b1a1/hrim_sp3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

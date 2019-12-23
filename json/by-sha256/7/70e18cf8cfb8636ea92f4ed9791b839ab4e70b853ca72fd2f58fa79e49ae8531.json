@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "70e18cf8cfb8636ea92f4ed9791b839ab4e70b853ca72fd2f58fa79e49ae8531",
  "filename": [
   "cha-gh.zip"
  ],
+ "files": {
+  "cgstart.bsp": {
+   "filesize": 219076,
+   "timestamp": "1997-05-04"
+  },
+  "cha-gh.bsp": {
+   "filesize": 1736592,
+   "timestamp": "1997-05-04"
+  },
+  "cha-gh.txt": {
+   "filesize": 1981,
+   "timestamp": "1997-05-04"
+  }
+ },
  "filesize": 882,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "70e18cf8cfb8636ea92f4ed9791b839ab4e70b853ca72fd2f58fa79e49ae8531",
  "tags": [
   "title:Cha Gheill",
   "releasedate:1997-05-04",
@@ -21,25 +37,9 @@
   "tag:dm",
   "startmap:cgstart"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "cha-gh.bsp": {
-   "filesize": 1736592,
-   "timestamp": "1997-05-04"
-  },
-  "cgstart.bsp": {
-   "filesize": 219076,
-   "timestamp": "1997-05-04"
-  },
-  "cha-gh.txt": {
-   "filesize": 1981,
-   "timestamp": "1997-05-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/cha-gh.zip",
   "https://www.quaddicted.com/files/by-sha256/7/70e18cf8cfb8636ea92f4ed9791b839ab4e70b853ca72fd2f58fa79e49ae8531/cha-gh.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

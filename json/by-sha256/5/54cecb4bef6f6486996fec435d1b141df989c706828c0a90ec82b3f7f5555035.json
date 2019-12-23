@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "54cecb4bef6f6486996fec435d1b141df989c706828c0a90ec82b3f7f5555035",
  "filename": [
   "medlab.zip"
  ],
+ "files": {
+  "MEDLAB.BSP": {
+   "filesize": 1396892,
+   "timestamp": "1997-10-04"
+  },
+  "MEDLAB.TXT": {
+   "filesize": 3564,
+   "timestamp": "1997-10-04"
+  }
+ },
  "filesize": 581,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "54cecb4bef6f6486996fec435d1b141df989c706828c0a90ec82b3f7f5555035",
  "tags": [
   "title:Med Labs",
   "releasedate:1997-10-04",
@@ -16,21 +28,9 @@
   "tag:brick",
   "tag:metal"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MEDLAB.BSP": {
-   "filesize": 1396892,
-   "timestamp": "1997-10-04"
-  },
-  "MEDLAB.TXT": {
-   "filesize": 3564,
-   "timestamp": "1997-10-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/medlab.zip",
   "https://www.quaddicted.com/files/by-sha256/5/54cecb4bef6f6486996fec435d1b141df989c706828c0a90ec82b3f7f5555035/medlab.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

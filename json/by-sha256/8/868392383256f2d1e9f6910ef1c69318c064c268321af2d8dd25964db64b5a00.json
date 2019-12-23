@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00",
  "filename": [
   "mines.zip"
  ],
+ "files": {
+  "M&M/mines.txt": {
+   "filesize": 6531,
+   "timestamp": "1996-11-24"
+  },
+  "M&M/pak0.pak": {
+   "filesize": 1848510,
+   "timestamp": "1996-11-23"
+  }
+ },
  "filesize": 746,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00",
  "tags": [
   "title:Mines &amp; Mayhem",
   "releasedate:1996-11-22",
@@ -19,21 +31,9 @@
   "tag:broken_injector",
   "startmap:mm"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "M&M/mines.txt": {
-   "filesize": 6531,
-   "timestamp": "1996-11-24"
-  },
-  "M&M/pak0.pak": {
-   "filesize": 1848510,
-   "timestamp": "1996-11-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mines.zip",
   "https://www.quaddicted.com/files/by-sha256/8/868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00/mines.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

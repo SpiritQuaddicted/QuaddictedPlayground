@@ -1,10 +1,38 @@
 {
- "version": "20191222-0",
- "sha256": "f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177",
  "filename": [
   "sm10_pack.zip"
  ],
+ "files": {
+  "sm10_aard.bsp": {
+   "filesize": 1000248,
+   "timestamp": "2001-04-27"
+  },
+  "sm10_ap.bsp": {
+   "filesize": 476756,
+   "timestamp": "2001-04-27"
+  },
+  "sm10_bear.bsp": {
+   "filesize": 453796,
+   "timestamp": "2001-04-27"
+  },
+  "sm10_dam.bsp": {
+   "filesize": 460704,
+   "timestamp": "2001-04-27"
+  },
+  "sm10_misyu.bsp": {
+   "filesize": 228008,
+   "timestamp": "2001-04-27"
+  },
+  "sm10_pack.txt": {
+   "filesize": 2307,
+   "timestamp": "2001-04-29"
+  }
+ },
  "filesize": 973,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177",
  "tags": [
   "title:Speedmapping pack 10 - Unthemed",
   "releasedate:2001-04-29",
@@ -20,37 +48,9 @@
   "startmap:sm10_dam",
   "startmap:sm10_bear"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm10_pack.txt": {
-   "filesize": 2307,
-   "timestamp": "2001-04-29"
-  },
-  "sm10_misyu.bsp": {
-   "filesize": 228008,
-   "timestamp": "2001-04-27"
-  },
-  "sm10_aard.bsp": {
-   "filesize": 1000248,
-   "timestamp": "2001-04-27"
-  },
-  "sm10_ap.bsp": {
-   "filesize": 476756,
-   "timestamp": "2001-04-27"
-  },
-  "sm10_dam.bsp": {
-   "filesize": 460704,
-   "timestamp": "2001-04-27"
-  },
-  "sm10_bear.bsp": {
-   "filesize": 453796,
-   "timestamp": "2001-04-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm10_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f5acc5e0edff0edea93a644148d7bef585498df1a81c451a78c09e6a37e2c177/sm10_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

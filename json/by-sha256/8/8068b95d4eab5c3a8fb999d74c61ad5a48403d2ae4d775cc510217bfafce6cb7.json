@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8068b95d4eab5c3a8fb999d74c61ad5a48403d2ae4d775cc510217bfafce6cb7",
  "filename": [
   "mekbase.zip"
  ],
+ "files": {
+  "MekBase.txt": {
+   "filesize": 1378,
+   "timestamp": "1997-02-09"
+  },
+  "mekbase.bsp": {
+   "filesize": 868908,
+   "timestamp": "1997-02-06"
+  }
+ },
  "filesize": 378,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8068b95d4eab5c3a8fb999d74c61ad5a48403d2ae4d775cc510217bfafce6cb7",
  "tags": [
   "title:MekBase",
   "releasedate:1997-02-09",
@@ -17,21 +29,9 @@
   "tag:coop",
   "tag:dm"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MekBase.txt": {
-   "filesize": 1378,
-   "timestamp": "1997-02-09"
-  },
-  "mekbase.bsp": {
-   "filesize": 868908,
-   "timestamp": "1997-02-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mekbase.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8068b95d4eab5c3a8fb999d74c61ad5a48403d2ae4d775cc510217bfafce6cb7/mekbase.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

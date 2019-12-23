@@ -1,10 +1,138 @@
 {
- "version": "20191222-0",
- "sha256": "583dd6cad69136f33c3d03fe6381dfc7ca0c22a0af70ebcf3a4a0212cd4ceea6",
  "filename": [
   "dis_sp6.zip"
  ],
+ "files": {
+  "dis_sp6.txt": {
+   "filesize": 6566,
+   "timestamp": "2008-05-19"
+  },
+  "maps/dis_sp6.bsp": {
+   "filesize": 8358728,
+   "timestamp": "2008-05-18"
+  },
+  "maps/dis_sp6.lit": {
+   "filesize": 1884368,
+   "timestamp": "2008-05-18"
+  },
+  "sound/ambient/dis/alarm1.wav": {
+   "filesize": 352934,
+   "timestamp": "2008-01-26"
+  },
+  "sound/ambient/dis/amb_mac1.wav": {
+   "filesize": 899288,
+   "timestamp": "2008-01-25"
+  },
+  "sound/ambient/dis/badoor.wav": {
+   "filesize": 7024,
+   "timestamp": "2008-02-10"
+  },
+  "sound/ambient/dis/badoor2.wav": {
+   "filesize": 44234,
+   "timestamp": "2008-02-10"
+  },
+  "sound/ambient/dis/badoor3.wav": {
+   "filesize": 66732,
+   "timestamp": "2004-07-01"
+  },
+  "sound/ambient/dis/bridnmo.wav": {
+   "filesize": 59178,
+   "timestamp": "2008-01-24"
+  },
+  "sound/ambient/dis/clop.wav": {
+   "filesize": 119594,
+   "timestamp": "2008-01-28"
+  },
+  "sound/ambient/dis/creak08.wav": {
+   "filesize": 265474,
+   "timestamp": "2008-03-17"
+  },
+  "sound/ambient/dis/creep_03.wav": {
+   "filesize": 91964,
+   "timestamp": "2008-01-25"
+  },
+  "sound/ambient/dis/groaner1.wav": {
+   "filesize": 439920,
+   "timestamp": "2008-01-25"
+  },
+  "sound/ambient/dis/machina1.wav": {
+   "filesize": 314794,
+   "timestamp": "2008-01-25"
+  },
+  "sound/ambient/dis/machina2.wav": {
+   "filesize": 217356,
+   "timestamp": "2008-01-27"
+  },
+  "sound/ambient/dis/macloop3.wav": {
+   "filesize": 70696,
+   "timestamp": "2008-01-31"
+  },
+  "sound/ambient/dis/metalhit07.wav": {
+   "filesize": 174442,
+   "timestamp": "2008-03-17"
+  },
+  "sound/ambient/dis/open1.wav": {
+   "filesize": 63204,
+   "timestamp": "2007-09-23"
+  },
+  "sound/ambient/dis/open2.wav": {
+   "filesize": 62714,
+   "timestamp": "2007-09-25"
+  },
+  "sound/ambient/dis/outside01.wav": {
+   "filesize": 165928,
+   "timestamp": "2008-02-10"
+  },
+  "sound/ambient/dis/rumble2.wav": {
+   "filesize": 66200,
+   "timestamp": "2007-09-23"
+  },
+  "sound/ambient/dis/sagen4.wav": {
+   "filesize": 192874,
+   "timestamp": "2007-09-23"
+  },
+  "sound/ambient/dis/slimey.wav": {
+   "filesize": 397528,
+   "timestamp": "2008-01-31"
+  },
+  "sound/ambient/dis/steamblast01.wav": {
+   "filesize": 102376,
+   "timestamp": "2008-03-17"
+  },
+  "sound/ambient/dis/stodrone.wav": {
+   "filesize": 233364,
+   "timestamp": "2007-09-25"
+  },
+  "sound/ambient/dis/techlp2.wav": {
+   "filesize": 52700,
+   "timestamp": "2008-01-25"
+  },
+  "sound/ambient/dis/techlp3.wav": {
+   "filesize": 34336,
+   "timestamp": "2008-01-25"
+  },
+  "sound/ambient/dis/telecount.wav": {
+   "filesize": 166662,
+   "timestamp": "2008-02-10"
+  },
+  "sound/ambient/dis/turkey.wav": {
+   "filesize": 176638,
+   "timestamp": "2008-02-03"
+  },
+  "sound/ambient/dis/vent1.wav": {
+   "filesize": 153876,
+   "timestamp": "2008-01-27"
+  },
+  "sound/ambient/dis/waste.wav": {
+   "filesize": 1097270,
+   "timestamp": "2008-01-31"
+  }
+ },
  "filesize": 8910,
+ "install": {
+  "extract": "{quake}/quoth"
+ },
+ "sha256": "583dd6cad69136f33c3d03fe6381dfc7ca0c22a0af70ebcf3a4a0212cd4ceea6",
  "tags": [
   "title:Ruined Nation",
   "releasedate:2008-05-19",
@@ -25,137 +153,9 @@
   "tag:base",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth"
- },
- "files": {
-  "maps/dis_sp6.bsp": {
-   "filesize": 8358728,
-   "timestamp": "2008-05-18"
-  },
-  "maps/dis_sp6.lit": {
-   "filesize": 1884368,
-   "timestamp": "2008-05-18"
-  },
-  "sound/ambient/dis/clop.wav": {
-   "filesize": 119594,
-   "timestamp": "2008-01-28"
-  },
-  "sound/ambient/dis/outside01.wav": {
-   "filesize": 165928,
-   "timestamp": "2008-02-10"
-  },
-  "sound/ambient/dis/alarm1.wav": {
-   "filesize": 352934,
-   "timestamp": "2008-01-26"
-  },
-  "sound/ambient/dis/groaner1.wav": {
-   "filesize": 439920,
-   "timestamp": "2008-01-25"
-  },
-  "sound/ambient/dis/creak08.wav": {
-   "filesize": 265474,
-   "timestamp": "2008-03-17"
-  },
-  "sound/ambient/dis/metalhit07.wav": {
-   "filesize": 174442,
-   "timestamp": "2008-03-17"
-  },
-  "sound/ambient/dis/telecount.wav": {
-   "filesize": 166662,
-   "timestamp": "2008-02-10"
-  },
-  "sound/ambient/dis/sagen4.wav": {
-   "filesize": 192874,
-   "timestamp": "2007-09-23"
-  },
-  "sound/ambient/dis/rumble2.wav": {
-   "filesize": 66200,
-   "timestamp": "2007-09-23"
-  },
-  "sound/ambient/dis/badoor3.wav": {
-   "filesize": 66732,
-   "timestamp": "2004-07-01"
-  },
-  "sound/ambient/dis/open1.wav": {
-   "filesize": 63204,
-   "timestamp": "2007-09-23"
-  },
-  "sound/ambient/dis/bridnmo.wav": {
-   "filesize": 59178,
-   "timestamp": "2008-01-24"
-  },
-  "sound/ambient/dis/badoor.wav": {
-   "filesize": 7024,
-   "timestamp": "2008-02-10"
-  },
-  "sound/ambient/dis/stodrone.wav": {
-   "filesize": 233364,
-   "timestamp": "2007-09-25"
-  },
-  "sound/ambient/dis/steamblast01.wav": {
-   "filesize": 102376,
-   "timestamp": "2008-03-17"
-  },
-  "sound/ambient/dis/slimey.wav": {
-   "filesize": 397528,
-   "timestamp": "2008-01-31"
-  },
-  "sound/ambient/dis/waste.wav": {
-   "filesize": 1097270,
-   "timestamp": "2008-01-31"
-  },
-  "sound/ambient/dis/creep_03.wav": {
-   "filesize": 91964,
-   "timestamp": "2008-01-25"
-  },
-  "sound/ambient/dis/turkey.wav": {
-   "filesize": 176638,
-   "timestamp": "2008-02-03"
-  },
-  "sound/ambient/dis/amb_mac1.wav": {
-   "filesize": 899288,
-   "timestamp": "2008-01-25"
-  },
-  "sound/ambient/dis/macloop3.wav": {
-   "filesize": 70696,
-   "timestamp": "2008-01-31"
-  },
-  "sound/ambient/dis/open2.wav": {
-   "filesize": 62714,
-   "timestamp": "2007-09-25"
-  },
-  "sound/ambient/dis/techlp2.wav": {
-   "filesize": 52700,
-   "timestamp": "2008-01-25"
-  },
-  "sound/ambient/dis/badoor2.wav": {
-   "filesize": 44234,
-   "timestamp": "2008-02-10"
-  },
-  "sound/ambient/dis/vent1.wav": {
-   "filesize": 153876,
-   "timestamp": "2008-01-27"
-  },
-  "sound/ambient/dis/machina2.wav": {
-   "filesize": 217356,
-   "timestamp": "2008-01-27"
-  },
-  "sound/ambient/dis/techlp3.wav": {
-   "filesize": 34336,
-   "timestamp": "2008-01-25"
-  },
-  "sound/ambient/dis/machina1.wav": {
-   "filesize": 314794,
-   "timestamp": "2008-01-25"
-  },
-  "dis_sp6.txt": {
-   "filesize": 6566,
-   "timestamp": "2008-05-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dis_sp6.zip",
   "https://www.quaddicted.com/files/by-sha256/5/583dd6cad69136f33c3d03fe6381dfc7ca0c22a0af70ebcf3a4a0212cd4ceea6/dis_sp6.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

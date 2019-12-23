@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e",
  "filename": [
   "red777.zip"
  ],
+ "files": {
+  "red777.bsp": {
+   "filesize": 4802476,
+   "timestamp": "2005-10-19"
+  },
+  "red777.txt": {
+   "filesize": 1400,
+   "timestamp": "2005-11-05"
+  }
+ },
  "filesize": 1845,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e",
  "tags": [
   "title:Red 777",
   "releasedate:2005-11-05",
@@ -20,21 +32,9 @@
   "tag:planetquake-map-of-the-week",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "red777.txt": {
-   "filesize": 1400,
-   "timestamp": "2005-11-05"
-  },
-  "red777.bsp": {
-   "filesize": 4802476,
-   "timestamp": "2005-10-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/red777.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e/red777.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

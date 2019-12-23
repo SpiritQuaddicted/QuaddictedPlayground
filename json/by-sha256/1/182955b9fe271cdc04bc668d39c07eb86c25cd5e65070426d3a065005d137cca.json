@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "182955b9fe271cdc04bc668d39c07eb86c25cd5e65070426d3a065005d137cca",
  "filename": [
   "kthdrl.zip"
  ],
- "filesize": 483,
- "tags": [
-  "title:Kathedral",
-  "releasedate:2002-01-26",
-  "game:quake",
-  "author:The Void (Tim Fairchild)",
-  "tag:small",
-  "tag:wizard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "kathedral.txt": {
    "filesize": 2227,
@@ -30,8 +16,22 @@
    "timestamp": "2002-01-26"
   }
  },
+ "filesize": 483,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "182955b9fe271cdc04bc668d39c07eb86c25cd5e65070426d3a065005d137cca",
+ "tags": [
+  "title:Kathedral",
+  "releasedate:2002-01-26",
+  "game:quake",
+  "author:The Void (Tim Fairchild)",
+  "tag:small",
+  "tag:wizard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/kthdrl.zip",
   "https://www.quaddicted.com/files/by-sha256/1/182955b9fe271cdc04bc668d39c07eb86c25cd5e65070426d3a065005d137cca/kthdrl.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

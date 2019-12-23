@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "20c6a05f7c63a15f063f05a65ffbea62e4d194d5a54a0924264fe61c98bcf181",
  "filename": [
   "drysorrow.zip"
  ],
- "filesize": 2876,
- "tags": [
-  "title:Dry Sorrow",
-  "releasedate:2011-01-29",
-  "game:quake",
-  "commandline:-game drake",
-  "author:Dustin \"Tronyn\" Geeraert",
-  "tag:small",
-  "tag:medieval",
-  "tag:mixtex",
-  "tag:egypt",
-  "tag:drake",
-  "dependency:drake"
- ],
- "install": {
-  "extract": "{quake}/drake/"
- },
  "files": {
   "drysorrow.txt": {
    "filesize": 1083,
@@ -55,8 +36,27 @@
    "timestamp": "2011-01-28"
   }
  },
+ "filesize": 2876,
+ "install": {
+  "extract": "{quake}/drake/"
+ },
+ "sha256": "20c6a05f7c63a15f063f05a65ffbea62e4d194d5a54a0924264fe61c98bcf181",
+ "tags": [
+  "title:Dry Sorrow",
+  "releasedate:2011-01-29",
+  "game:quake",
+  "commandline:-game drake",
+  "author:Dustin \"Tronyn\" Geeraert",
+  "tag:small",
+  "tag:medieval",
+  "tag:mixtex",
+  "tag:egypt",
+  "tag:drake",
+  "dependency:drake"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/drysorrow.zip",
   "https://www.quaddicted.com/files/by-sha256/2/20c6a05f7c63a15f063f05a65ffbea62e4d194d5a54a0924264fe61c98bcf181/drysorrow.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

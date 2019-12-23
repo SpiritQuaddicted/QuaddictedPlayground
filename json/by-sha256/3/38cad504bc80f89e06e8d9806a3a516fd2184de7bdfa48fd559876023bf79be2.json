@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2",
  "filename": [
   "its_demo_v1_1.zip"
  ],
+ "files": {
+  "its_demo_v1_1_readme.txt": {
+   "filesize": 13111,
+   "timestamp": "2012-12-30"
+  },
+  "pak0.pak": {
+   "filesize": 38287270,
+   "timestamp": "2012-12-30"
+  }
+ },
  "filesize": 16123,
+ "install": {
+  "extract": "{quake}/shadows/"
+ },
+ "sha256": "38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2",
  "tags": [
   "title:In The Shadows [Demo v1.1]",
   "releasedate:2012-12-30",
@@ -29,21 +41,9 @@
   "startmap:s1m1",
   "startmap:s1m2"
  ],
- "install": {
-  "extract": "{quake}/shadows/"
- },
- "files": {
-  "its_demo_v1_1_readme.txt": {
-   "filesize": 13111,
-   "timestamp": "2012-12-30"
-  },
-  "pak0.pak": {
-   "filesize": 38287270,
-   "timestamp": "2012-12-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/its_demo_v1_1.zip",
   "https://www.quaddicted.com/files/by-sha256/3/38cad504bc80f89e06e8d9806a3a516fd2184de7bdfa48fd559876023bf79be2/its_demo_v1_1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

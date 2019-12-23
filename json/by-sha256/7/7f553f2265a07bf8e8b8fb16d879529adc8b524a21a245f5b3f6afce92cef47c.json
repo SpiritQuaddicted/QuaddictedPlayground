@@ -1,27 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "7f553f2265a07bf8e8b8fb16d879529adc8b524a21a245f5b3f6afce92cef47c",
  "filename": [
   "ion02.zip"
  ],
- "filesize": 2337,
- "tags": [
-  "title:Luna in Silver Shards",
-  "releasedate:2018-05-03",
-  "game:quake",
-  "commandline:-quoth -game quoth",
-  "author:ionous",
-  "tag:small",
-  "tag:hexen",
-  "tag:100b",
-  "tag:quoth",
-  "tag:canyon",
-  "tag:heretic2",
-  "dependency:quoth2pt2full_2"
- ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
  "files": {
   "gfx/env/dragonmoon_bk.tga": {
    "filesize": 771048,
@@ -60,8 +40,28 @@
    "timestamp": "2018-05-03"
   }
  },
+ "filesize": 2337,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "7f553f2265a07bf8e8b8fb16d879529adc8b524a21a245f5b3f6afce92cef47c",
+ "tags": [
+  "title:Luna in Silver Shards",
+  "releasedate:2018-05-03",
+  "game:quake",
+  "commandline:-quoth -game quoth",
+  "author:ionous",
+  "tag:small",
+  "tag:hexen",
+  "tag:100b",
+  "tag:quoth",
+  "tag:canyon",
+  "tag:heretic2",
+  "dependency:quoth2pt2full_2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/ion02.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7f553f2265a07bf8e8b8fb16d879529adc8b524a21a245f5b3f6afce92cef47c/ion02.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

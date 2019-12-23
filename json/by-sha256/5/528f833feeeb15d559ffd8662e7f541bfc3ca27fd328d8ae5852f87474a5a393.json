@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "528f833feeeb15d559ffd8662e7f541bfc3ca27fd328d8ae5852f87474a5a393",
  "filename": [
   "mstalk1c.zip"
  ],
+ "files": {
+  "mstalk1c_readme.txt": {
+   "filesize": 6031,
+   "timestamp": "2013-05-10"
+  },
+  "pak0.pak": {
+   "filesize": 7962250,
+   "timestamp": "2013-05-10"
+  }
+ },
  "filesize": 2447,
+ "install": {
+  "extract": "{quake}/mstalk/"
+ },
+ "sha256": "528f833feeeb15d559ffd8662e7f541bfc3ca27fd328d8ae5852f87474a5a393",
  "tags": [
   "title:Midnight Stalker",
   "releasedate:2013-05-11",
@@ -20,21 +32,9 @@
   "tag:backst",
   "startmap:mstalk"
  ],
- "install": {
-  "extract": "{quake}/mstalk/"
- },
- "files": {
-  "mstalk1c_readme.txt": {
-   "filesize": 6031,
-   "timestamp": "2013-05-10"
-  },
-  "pak0.pak": {
-   "filesize": 7962250,
-   "timestamp": "2013-05-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mstalk1c.zip",
   "https://www.quaddicted.com/files/by-sha256/5/528f833feeeb15d559ffd8662e7f541bfc3ca27fd328d8ae5852f87474a5a393/mstalk1c.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

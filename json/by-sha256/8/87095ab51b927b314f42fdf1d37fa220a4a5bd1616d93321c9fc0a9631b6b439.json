@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "87095ab51b927b314f42fdf1d37fa220a4a5bd1616d93321c9fc0a9631b6b439",
  "filename": [
   "fun!.zip"
  ],
+ "files": {
+  "FUN!.bsp": {
+   "filesize": 125736,
+   "timestamp": "1998-05-24"
+  },
+  "fun!.txt": {
+   "filesize": 629,
+   "timestamp": "1999-12-06"
+  },
+  "fun!_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 49,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "87095ab51b927b314f42fdf1d37fa220a4a5bd1616d93321c9fc0a9631b6b439",
  "tags": [
   "title:Fun! Happy Birthday !!",
   "releasedate:1999-12-05",
@@ -13,25 +29,9 @@
   "tag:small",
   "tag:medieval"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "fun!.txt": {
-   "filesize": 629,
-   "timestamp": "1999-12-06"
-  },
-  "fun!_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "FUN!.bsp": {
-   "filesize": 125736,
-   "timestamp": "1998-05-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fun!.zip",
   "https://www.quaddicted.com/files/by-sha256/8/87095ab51b927b314f42fdf1d37fa220a4a5bd1616d93321c9fc0a9631b6b439/fun!.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

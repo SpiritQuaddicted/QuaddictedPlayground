@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "439013bc3abe197b184ba61fe3e1e821ed307661835c698892f4b8b0256733d7",
  "filename": [
   "alk08.zip"
  ],
+ "files": {
+  "ALK08DM.bsp": {
+   "filesize": 559064,
+   "timestamp": "2000-11-24"
+  },
+  "ALK08SP.bsp": {
+   "filesize": 802660,
+   "timestamp": "2000-12-23"
+  },
+  "alk08.txt": {
+   "filesize": 4035,
+   "timestamp": "2001-01-15"
+  }
+ },
  "filesize": 566,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "439013bc3abe197b184ba61fe3e1e821ed307661835c698892f4b8b0256733d7",
  "tags": [
   "title:Charmhood",
   "releasedate:2005-08-06",
@@ -15,25 +31,9 @@
   "tag:small",
   "startmap:alk08sp"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ALK08DM.bsp": {
-   "filesize": 559064,
-   "timestamp": "2000-11-24"
-  },
-  "alk08.txt": {
-   "filesize": 4035,
-   "timestamp": "2001-01-15"
-  },
-  "ALK08SP.bsp": {
-   "filesize": 802660,
-   "timestamp": "2000-12-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/alk08.zip",
   "https://www.quaddicted.com/files/by-sha256/4/439013bc3abe197b184ba61fe3e1e821ed307661835c698892f4b8b0256733d7/alk08.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

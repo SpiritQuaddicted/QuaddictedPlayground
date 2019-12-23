@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "0c39a9c1fe1b88b4edff1975040a81b47330416b705948c97736978a904d714c",
  "filename": [
   "mexx.zip"
  ],
+ "files": {
+  "MEXX.TXT": {
+   "filesize": 2284,
+   "timestamp": "1997-12-01"
+  },
+  "MEXX1.BSP": {
+   "filesize": 999712,
+   "timestamp": "1997-11-24"
+  },
+  "MEXX2.BSP": {
+   "filesize": 653692,
+   "timestamp": "1996-10-21"
+  }
+ },
  "filesize": 677,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0c39a9c1fe1b88b4edff1975040a81b47330416b705948c97736978a904d714c",
  "tags": [
   "title:The Entrance &amp; The Sanctum",
   "releasedate:1997-12-01",
@@ -14,25 +30,9 @@
   "tag:medium",
   "startmap:mexx1"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MEXX1.BSP": {
-   "filesize": 999712,
-   "timestamp": "1997-11-24"
-  },
-  "MEXX.TXT": {
-   "filesize": 2284,
-   "timestamp": "1997-12-01"
-  },
-  "MEXX2.BSP": {
-   "filesize": 653692,
-   "timestamp": "1996-10-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/mexx.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0c39a9c1fe1b88b4edff1975040a81b47330416b705948c97736978a904d714c/mexx.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

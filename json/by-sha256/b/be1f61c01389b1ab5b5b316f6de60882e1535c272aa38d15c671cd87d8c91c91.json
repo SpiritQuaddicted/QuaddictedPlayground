@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "be1f61c01389b1ab5b5b316f6de60882e1535c272aa38d15c671cd87d8c91c91",
  "filename": [
   "digs05.zip"
  ],
- "filesize": 1505,
- "tags": [
-  "title:The Anomaly",
-  "releasedate:2011-01-04",
-  "game:quake",
-  "author:Digs",
-  "tag:base",
-  "tag:large",
-  "tag:abstract",
-  "tag:ikbase"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "digs05.bsp": {
    "filesize": 3707028,
@@ -28,8 +12,24 @@
    "timestamp": "2011-01-04"
   }
  },
+ "filesize": 1505,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "be1f61c01389b1ab5b5b316f6de60882e1535c272aa38d15c671cd87d8c91c91",
+ "tags": [
+  "title:The Anomaly",
+  "releasedate:2011-01-04",
+  "game:quake",
+  "author:Digs",
+  "tag:base",
+  "tag:large",
+  "tag:abstract",
+  "tag:ikbase"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs05.zip",
   "https://www.quaddicted.com/files/by-sha256/b/be1f61c01389b1ab5b5b316f6de60882e1535c272aa38d15c671cd87d8c91c91/digs05.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

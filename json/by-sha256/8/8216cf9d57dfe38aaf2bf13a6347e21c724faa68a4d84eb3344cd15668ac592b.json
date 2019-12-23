@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "8216cf9d57dfe38aaf2bf13a6347e21c724faa68a4d84eb3344cd15668ac592b",
  "filename": [
   "village.zip"
  ],
+ "files": {
+  "Pak0.pak": {
+   "filesize": 17496,
+   "timestamp": "1996-12-29"
+  },
+  "VILLAGE.bsp": {
+   "filesize": 1274776,
+   "timestamp": "1996-12-29"
+  },
+  "Village.txt": {
+   "filesize": 3710,
+   "timestamp": "1996-12-30"
+  },
+  "village_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 555,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8216cf9d57dfe38aaf2bf13a6347e21c724faa68a4d84eb3344cd15668ac592b",
  "tags": [
   "title:Village of Dread",
   "releasedate:1996-12-30",
@@ -19,29 +39,9 @@
   "tag:models",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "village_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "Pak0.pak": {
-   "filesize": 17496,
-   "timestamp": "1996-12-29"
-  },
-  "Village.txt": {
-   "filesize": 3710,
-   "timestamp": "1996-12-30"
-  },
-  "VILLAGE.bsp": {
-   "filesize": 1274776,
-   "timestamp": "1996-12-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/village.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8216cf9d57dfe38aaf2bf13a6347e21c724faa68a4d84eb3344cd15668ac592b/village.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

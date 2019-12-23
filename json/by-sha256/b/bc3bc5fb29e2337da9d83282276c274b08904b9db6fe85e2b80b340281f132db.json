@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "bc3bc5fb29e2337da9d83282276c274b08904b9db6fe85e2b80b340281f132db",
  "filename": [
   "slave.zip"
  ],
+ "files": {
+  "gfx/env/dragonheartbk.tga": {
+   "filesize": 637657,
+   "timestamp": "2002-11-16"
+  },
+  "gfx/env/dragonheartdn.tga": {
+   "filesize": 788950,
+   "timestamp": "2002-11-16"
+  },
+  "gfx/env/dragonheartft.tga": {
+   "filesize": 734137,
+   "timestamp": "2002-11-15"
+  },
+  "gfx/env/dragonheartlf.tga": {
+   "filesize": 642705,
+   "timestamp": "2002-11-16"
+  },
+  "gfx/env/dragonheartrt.tga": {
+   "filesize": 677781,
+   "timestamp": "2002-11-16"
+  },
+  "gfx/env/dragonheartup.tga": {
+   "filesize": 349636,
+   "timestamp": "2002-11-16"
+  },
+  "maps/slave.bsp": {
+   "filesize": 7467956,
+   "timestamp": "2008-03-28"
+  },
+  "maps/slave.lit": {
+   "filesize": 2002856,
+   "timestamp": "2008-03-28"
+  },
+  "slave.txt": {
+   "filesize": 5460,
+   "timestamp": "2008-03-28"
+  }
+ },
  "filesize": 5426,
+ "install": {
+  "extract": "{quake}/quoth/"
+ },
+ "sha256": "bc3bc5fb29e2337da9d83282276c274b08904b9db6fe85e2b80b340281f132db",
  "tags": [
   "title:Slave to a Machine",
   "releasedate:2008-03-28",
@@ -21,49 +61,9 @@
   "tag:quake2",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/"
- },
- "files": {
-  "maps/slave.lit": {
-   "filesize": 2002856,
-   "timestamp": "2008-03-28"
-  },
-  "maps/slave.bsp": {
-   "filesize": 7467956,
-   "timestamp": "2008-03-28"
-  },
-  "slave.txt": {
-   "filesize": 5460,
-   "timestamp": "2008-03-28"
-  },
-  "gfx/env/dragonheartrt.tga": {
-   "filesize": 677781,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheartup.tga": {
-   "filesize": 349636,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheartbk.tga": {
-   "filesize": 637657,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheartlf.tga": {
-   "filesize": 642705,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheartdn.tga": {
-   "filesize": 788950,
-   "timestamp": "2002-11-16"
-  },
-  "gfx/env/dragonheartft.tga": {
-   "filesize": 734137,
-   "timestamp": "2002-11-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/slave.zip",
   "https://www.quaddicted.com/files/by-sha256/b/bc3bc5fb29e2337da9d83282276c274b08904b9db6fe85e2b80b340281f132db/slave.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

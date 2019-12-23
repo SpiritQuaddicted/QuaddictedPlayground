@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "4b8e69180269d6fe63a558bc34c3f1ffc6e8764ccdabcf4a825aab787d205bb5",
  "filename": [
   "citdoom.zip"
  ],
+ "files": {
+  "citdoom.bsp": {
+   "filesize": 1713416,
+   "timestamp": "1998-04-10"
+  },
+  "citdoom.txt": {
+   "filesize": 4088,
+   "timestamp": "1998-04-10"
+  }
+ },
  "filesize": 729,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4b8e69180269d6fe63a558bc34c3f1ffc6e8764ccdabcf4a825aab787d205bb5",
  "tags": [
   "title:Citadel Of Doom",
   "releasedate:1998-04-10",
@@ -14,21 +26,9 @@
   "tag:medieval",
   "tag:terracotta"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "citdoom.txt": {
-   "filesize": 4088,
-   "timestamp": "1998-04-10"
-  },
-  "citdoom.bsp": {
-   "filesize": 1713416,
-   "timestamp": "1998-04-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/citdoom.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4b8e69180269d6fe63a558bc34c3f1ffc6e8764ccdabcf4a825aab787d205bb5/citdoom.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

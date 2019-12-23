@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0cf9ce8c3a48402e0b6020de2c1023852e0b41479a3b98acffdece22cef552a7",
  "filename": [
   "cross.zip"
  ],
- "filesize": 246,
- "tags": [
-  "title:The Cross",
-  "releasedate:1999-02-28",
-  "game:quake",
-  "author:Ben Fichter",
-  "tag:small",
-  "tag:medieval",
-  "tag:blue"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Cross.bsp": {
    "filesize": 680536,
@@ -27,8 +12,23 @@
    "timestamp": "1999-02-28"
   }
  },
+ "filesize": 246,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0cf9ce8c3a48402e0b6020de2c1023852e0b41479a3b98acffdece22cef552a7",
+ "tags": [
+  "title:The Cross",
+  "releasedate:1999-02-28",
+  "game:quake",
+  "author:Ben Fichter",
+  "tag:small",
+  "tag:medieval",
+  "tag:blue"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/cross.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0cf9ce8c3a48402e0b6020de2c1023852e0b41479a3b98acffdece22cef552a7/cross.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

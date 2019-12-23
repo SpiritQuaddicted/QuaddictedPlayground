@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "58785daade3a8df4da5f31189b38e7fabc97087c8e4d66add3a16ab4374dcb78",
  "filename": [
   "thepit.zip"
  ],
+ "files": {
+  "ThePit.bsp": {
+   "filesize": 1585824,
+   "timestamp": "1998-02-10"
+  },
+  "ThePit.map": {
+   "filesize": 376921,
+   "timestamp": "1998-02-10"
+  },
+  "ThePit.rmf": {
+   "filesize": 636376,
+   "timestamp": "1998-02-06"
+  },
+  "ThePit.txt": {
+   "filesize": 3232,
+   "timestamp": "1998-02-11"
+  },
+  "ThePit1.dem": {
+   "filesize": 762827,
+   "timestamp": "1998-02-11"
+  },
+  "ThePit2.dem": {
+   "filesize": 525355,
+   "timestamp": "1998-02-11"
+  },
+  "ThePit3.dem": {
+   "filesize": 1041282,
+   "timestamp": "1998-02-11"
+  }
+ },
  "filesize": 1045,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "58785daade3a8df4da5f31189b38e7fabc97087c8e4d66add3a16ab4374dcb78",
  "tags": [
   "title:ThePit",
   "releasedate:1998-02-11",
@@ -16,41 +48,9 @@
   "tag:demo",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ThePit2.dem": {
-   "filesize": 525355,
-   "timestamp": "1998-02-11"
-  },
-  "ThePit.rmf": {
-   "filesize": 636376,
-   "timestamp": "1998-02-06"
-  },
-  "ThePit.map": {
-   "filesize": 376921,
-   "timestamp": "1998-02-10"
-  },
-  "ThePit.bsp": {
-   "filesize": 1585824,
-   "timestamp": "1998-02-10"
-  },
-  "ThePit3.dem": {
-   "filesize": 1041282,
-   "timestamp": "1998-02-11"
-  },
-  "ThePit1.dem": {
-   "filesize": 762827,
-   "timestamp": "1998-02-11"
-  },
-  "ThePit.txt": {
-   "filesize": 3232,
-   "timestamp": "1998-02-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/thepit.zip",
   "https://www.quaddicted.com/files/by-sha256/5/58785daade3a8df4da5f31189b38e7fabc97087c8e4d66add3a16ab4374dcb78/thepit.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

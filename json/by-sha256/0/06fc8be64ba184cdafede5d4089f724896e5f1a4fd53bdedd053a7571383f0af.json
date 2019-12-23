@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "06fc8be64ba184cdafede5d4089f724896e5f1a4fd53bdedd053a7571383f0af",
  "filename": [
   "sm34_pack.zip"
  ],
+ "files": {
+  "SM34_FR3N.bsp": {
+   "filesize": 448540,
+   "timestamp": "2001-09-15"
+  },
+  "sm34_bear.bsp": {
+   "filesize": 647500,
+   "timestamp": "2001-09-16"
+  },
+  "sm34_gibbie.bsp": {
+   "filesize": 374332,
+   "timestamp": "2001-09-15"
+  },
+  "sm34_pack.txt": {
+   "filesize": 2037,
+   "timestamp": "2001-09-18"
+  },
+  "sm34_than.bsp": {
+   "filesize": 496100,
+   "timestamp": "2001-09-15"
+  }
+ },
  "filesize": 739,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "06fc8be64ba184cdafede5d4089f724896e5f1a4fd53bdedd053a7571383f0af",
  "tags": [
   "title:Speedmapping pack 34 - Use the decon textures created by Stecki",
   "releasedate:2001-09-18",
@@ -18,33 +42,9 @@
   "startmap:SM34_FR3N",
   "startmap:sm34_gibbie"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm34_pack.txt": {
-   "filesize": 2037,
-   "timestamp": "2001-09-18"
-  },
-  "sm34_bear.bsp": {
-   "filesize": 647500,
-   "timestamp": "2001-09-16"
-  },
-  "sm34_than.bsp": {
-   "filesize": 496100,
-   "timestamp": "2001-09-15"
-  },
-  "sm34_gibbie.bsp": {
-   "filesize": 374332,
-   "timestamp": "2001-09-15"
-  },
-  "SM34_FR3N.bsp": {
-   "filesize": 448540,
-   "timestamp": "2001-09-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm34_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/0/06fc8be64ba184cdafede5d4089f724896e5f1a4fd53bdedd053a7571383f0af/sm34_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

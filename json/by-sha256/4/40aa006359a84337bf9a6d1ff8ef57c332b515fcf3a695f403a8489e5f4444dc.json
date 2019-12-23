@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "40aa006359a84337bf9a6d1ff8ef57c332b515fcf3a695f403a8489e5f4444dc",
  "filename": [
   "abw.zip"
  ],
- "filesize": 901,
- "tags": [
-  "title:All Black Within",
-  "releasedate:1997-12-01",
-  "game:quake",
-  "author:Jim Hughes",
-  "tag:metal",
-  "tag:medium"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "ABW.BSP": {
    "filesize": 2082628,
@@ -26,8 +12,22 @@
    "timestamp": "1997-12-01"
   }
  },
+ "filesize": 901,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "40aa006359a84337bf9a6d1ff8ef57c332b515fcf3a695f403a8489e5f4444dc",
+ "tags": [
+  "title:All Black Within",
+  "releasedate:1997-12-01",
+  "game:quake",
+  "author:Jim Hughes",
+  "tag:metal",
+  "tag:medium"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/abw.zip",
   "https://www.quaddicted.com/files/by-sha256/4/40aa006359a84337bf9a6d1ff8ef57c332b515fcf3a695f403a8489e5f4444dc/abw.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

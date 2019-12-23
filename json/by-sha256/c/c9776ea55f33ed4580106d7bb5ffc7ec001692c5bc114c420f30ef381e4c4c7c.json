@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "c9776ea55f33ed4580106d7bb5ffc7ec001692c5bc114c420f30ef381e4c4c7c",
  "filename": [
   "hulk256.zip"
  ],
+ "files": {
+  "hulk256.bsp": {
+   "filesize": 1368216,
+   "timestamp": "2008-06-29"
+  },
+  "hulk256.map": {
+   "filesize": 224546,
+   "timestamp": "2008-06-29"
+  },
+  "quoth2.fgd": {
+   "filesize": 74434,
+   "timestamp": "2008-06-08"
+  },
+  "readme.txt": {
+   "filesize": 422,
+   "timestamp": "2008-06-29"
+  }
+ },
  "filesize": 550,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "c9776ea55f33ed4580106d7bb5ffc7ec001692c5bc114c420f30ef381e4c4c7c",
  "tags": [
   "title:Data Download",
   "releasedate:2008-06-29",
@@ -22,29 +42,9 @@
   "tag:quoth",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "hulk256.bsp": {
-   "filesize": 1368216,
-   "timestamp": "2008-06-29"
-  },
-  "readme.txt": {
-   "filesize": 422,
-   "timestamp": "2008-06-29"
-  },
-  "hulk256.map": {
-   "filesize": 224546,
-   "timestamp": "2008-06-29"
-  },
-  "quoth2.fgd": {
-   "filesize": 74434,
-   "timestamp": "2008-06-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hulk256.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c9776ea55f33ed4580106d7bb5ffc7ec001692c5bc114c420f30ef381e4c4c7c/hulk256.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

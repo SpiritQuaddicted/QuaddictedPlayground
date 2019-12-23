@@ -1,31 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6",
  "filename": [
   "sm202.zip"
  ],
- "filesize": 2205,
- "tags": [
-  "title:Speedmapping pack 202 - Recycled Garbage",
-  "releasedate:2019-10-03",
-  "game:quake",
-  "author:Cocerello",
-  "author:ionous",
-  "author:Greenwood",
-  "tag:dm",
-  "startmap:sm202_coce1v1",
-  "startmap:sm202_coce1v2",
-  "startmap:sm202_coce2v1",
-  "startmap:sm202_coce2v2",
-  "startmap:sm202_coce3v2",
-  "startmap:sm202_ionous",
-  "startmap:sm202_ionous_og",
-  "startmap:sm202_greenwood",
-  "startmap:Upright"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "maps/Upright.bsp": {
    "filesize": 637724,
@@ -128,8 +104,32 @@
    "timestamp": "2019-09-27"
   }
  },
+ "filesize": 2205,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6",
+ "tags": [
+  "title:Speedmapping pack 202 - Recycled Garbage",
+  "releasedate:2019-10-03",
+  "game:quake",
+  "author:Cocerello",
+  "author:ionous",
+  "author:Greenwood",
+  "tag:dm",
+  "startmap:sm202_coce1v1",
+  "startmap:sm202_coce1v2",
+  "startmap:sm202_coce2v1",
+  "startmap:sm202_coce2v2",
+  "startmap:sm202_coce3v2",
+  "startmap:sm202_ionous",
+  "startmap:sm202_ionous_og",
+  "startmap:sm202_greenwood",
+  "startmap:Upright"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm202.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dd9ab389007be2f05d7f529fd817d2fdc882c62dd5242011680824337fa905d6/sm202.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

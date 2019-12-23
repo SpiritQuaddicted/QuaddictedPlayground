@@ -1,10 +1,46 @@
 {
- "version": "20191222-0",
- "sha256": "9f9bf9d09ad716b77e0bb4d6c0cce7aea6ef14f937adf18bbd0ceb647b9e44bc",
  "filename": [
   "fc1.zip"
  ],
+ "files": {
+  "PAK0.PAK": {
+   "filesize": 18122087,
+   "timestamp": "2004-06-22"
+  },
+  "fc1.txt": {
+   "filesize": 5862,
+   "timestamp": "2004-05-15"
+  },
+  "gfx/env/night1bk.pcx": {
+   "filesize": 8417,
+   "timestamp": "2003-06-21"
+  },
+  "gfx/env/night1dn.pcx": {
+   "filesize": 3457,
+   "timestamp": "2003-06-21"
+  },
+  "gfx/env/night1ft.pcx": {
+   "filesize": 13277,
+   "timestamp": "2003-06-21"
+  },
+  "gfx/env/night1lf.pcx": {
+   "filesize": 7598,
+   "timestamp": "2003-06-21"
+  },
+  "gfx/env/night1rt.pcx": {
+   "filesize": 7439,
+   "timestamp": "2003-06-21"
+  },
+  "gfx/env/night1up.pcx": {
+   "filesize": 15766,
+   "timestamp": "2003-06-21"
+  }
+ },
  "filesize": 7270,
+ "install": {
+  "extract": "{quake}/fc1/"
+ },
+ "sha256": "9f9bf9d09ad716b77e0bb4d6c0cce7aea6ef14f937adf18bbd0ceb647b9e44bc",
  "tags": [
   "title:Ontranto",
   "releasedate:2004-06-22",
@@ -22,45 +58,9 @@
   "tag:ship",
   "tag:village"
  ],
- "install": {
-  "extract": "{quake}/fc1/"
- },
- "files": {
-  "fc1.txt": {
-   "filesize": 5862,
-   "timestamp": "2004-05-15"
-  },
-  "PAK0.PAK": {
-   "filesize": 18122087,
-   "timestamp": "2004-06-22"
-  },
-  "gfx/env/night1rt.pcx": {
-   "filesize": 7439,
-   "timestamp": "2003-06-21"
-  },
-  "gfx/env/night1dn.pcx": {
-   "filesize": 3457,
-   "timestamp": "2003-06-21"
-  },
-  "gfx/env/night1bk.pcx": {
-   "filesize": 8417,
-   "timestamp": "2003-06-21"
-  },
-  "gfx/env/night1ft.pcx": {
-   "filesize": 13277,
-   "timestamp": "2003-06-21"
-  },
-  "gfx/env/night1lf.pcx": {
-   "filesize": 7598,
-   "timestamp": "2003-06-21"
-  },
-  "gfx/env/night1up.pcx": {
-   "filesize": 15766,
-   "timestamp": "2003-06-21"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fc1.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9f9bf9d09ad716b77e0bb4d6c0cce7aea6ef14f937adf18bbd0ceb647b9e44bc/fc1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

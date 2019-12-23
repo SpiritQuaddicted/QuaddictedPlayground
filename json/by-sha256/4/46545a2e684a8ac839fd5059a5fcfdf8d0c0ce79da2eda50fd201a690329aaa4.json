@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "46545a2e684a8ac839fd5059a5fcfdf8d0c0ce79da2eda50fd201a690329aaa4",
  "filename": [
   "zer11.zip"
  ],
+ "files": {
+  "progs.dat": {
+   "filesize": 588276,
+   "timestamp": "1997-10-11"
+  },
+  "qwprogs.dat": {
+   "filesize": 269292,
+   "timestamp": "1997-10-23"
+  }
+ },
  "filesize": 267,
+ "install": {
+  "extract": "{quake}/zer/"
+ },
+ "sha256": "46545a2e684a8ac839fd5059a5fcfdf8d0c0ce79da2eda50fd201a690329aaa4",
  "tags": [
   "title:Zerst\u00f6rer v1.1",
   "releasedate:1997-10-23",
@@ -15,21 +27,9 @@
   "tag:patch",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/zer/"
- },
- "files": {
-  "qwprogs.dat": {
-   "filesize": 269292,
-   "timestamp": "1997-10-23"
-  },
-  "progs.dat": {
-   "filesize": 588276,
-   "timestamp": "1997-10-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/zer11.zip",
   "https://www.quaddicted.com/files/by-sha256/4/46545a2e684a8ac839fd5059a5fcfdf8d0c0ce79da2eda50fd201a690329aaa4/zer11.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "23dc92c7689af21fdb898a4c804ddb5b68332016780d49bc0e3eaf71bbc0e94f",
  "filename": [
   "chqmd.zip"
  ],
+ "files": {
+  "chqmd.bsp": {
+   "filesize": 1784532,
+   "timestamp": "1999-12-10"
+  },
+  "chqmd.txt": {
+   "filesize": 9233,
+   "timestamp": "1999-12-18"
+  },
+  "cook.pcx": {
+   "filesize": 32220,
+   "timestamp": "1999-12-15"
+  },
+  "janitor.pcx": {
+   "filesize": 29937,
+   "timestamp": "1999-12-19"
+  }
+ },
  "filesize": 595,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "23dc92c7689af21fdb898a4c804ddb5b68332016780d49bc0e3eaf71bbc0e94f",
  "tags": [
   "title:Hospital Center Quake Map Designer",
   "releasedate:1999-12-19",
@@ -16,29 +36,9 @@
   "tag:crap",
   "tag:horrible"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "janitor.pcx": {
-   "filesize": 29937,
-   "timestamp": "1999-12-19"
-  },
-  "cook.pcx": {
-   "filesize": 32220,
-   "timestamp": "1999-12-15"
-  },
-  "chqmd.bsp": {
-   "filesize": 1784532,
-   "timestamp": "1999-12-10"
-  },
-  "chqmd.txt": {
-   "filesize": 9233,
-   "timestamp": "1999-12-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/chqmd.zip",
   "https://www.quaddicted.com/files/by-sha256/2/23dc92c7689af21fdb898a4c804ddb5b68332016780d49bc0e3eaf71bbc0e94f/chqmd.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

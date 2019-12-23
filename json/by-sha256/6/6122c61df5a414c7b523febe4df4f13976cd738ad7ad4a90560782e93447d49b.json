@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b",
  "filename": [
   "chess.zip"
  ],
- "filesize": 129,
- "tags": [
-  "title:Chess",
-  "releasedate:1997-06-11",
-  "game:quake",
-  "author:David Ottvall",
-  "tag:chess"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "chess.bsp": {
    "filesize": 303788,
@@ -25,8 +12,21 @@
    "timestamp": "1997-06-11"
   }
  },
+ "filesize": 129,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b",
+ "tags": [
+  "title:Chess",
+  "releasedate:1997-06-11",
+  "game:quake",
+  "author:David Ottvall",
+  "tag:chess"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/chess.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b/chess.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

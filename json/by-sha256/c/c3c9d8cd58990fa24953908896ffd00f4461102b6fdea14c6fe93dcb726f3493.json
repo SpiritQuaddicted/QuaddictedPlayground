@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c3c9d8cd58990fa24953908896ffd00f4461102b6fdea14c6fe93dcb726f3493",
  "filename": [
   "fact969.zip"
  ],
- "filesize": 898,
- "tags": [
-  "title:Factory 969",
-  "releasedate:1998-03-17",
-  "game:quake",
-  "author:james4040",
-  "tag:large",
-  "tag:base",
-  "tag:nonlinear"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "fact969.bsp": {
    "filesize": 2366672,
@@ -27,8 +12,23 @@
    "timestamp": "1998-03-17"
   }
  },
+ "filesize": 898,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c3c9d8cd58990fa24953908896ffd00f4461102b6fdea14c6fe93dcb726f3493",
+ "tags": [
+  "title:Factory 969",
+  "releasedate:1998-03-17",
+  "game:quake",
+  "author:james4040",
+  "tag:large",
+  "tag:base",
+  "tag:nonlinear"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/fact969.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c3c9d8cd58990fa24953908896ffd00f4461102b6fdea14c6fe93dcb726f3493/fact969.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

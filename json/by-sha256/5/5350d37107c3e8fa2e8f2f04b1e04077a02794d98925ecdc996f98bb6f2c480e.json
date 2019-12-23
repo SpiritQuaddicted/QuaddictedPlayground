@@ -1,27 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "5350d37107c3e8fa2e8f2f04b1e04077a02794d98925ecdc996f98bb6f2c480e",
  "filename": [
   "sm46.zip"
  ],
- "filesize": 1093,
- "tags": [
-  "title:Speedmapping pack 46 - Swamp",
-  "releasedate:2003-08-23",
-  "game:quake",
-  "author:Harb",
-  "author:Scampie",
-  "author:Starbuck",
-  "startmap:sm46_scampie",
-  "startmap:sm46_harb",
-  "startmap:Sm46_starbuck"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "sm46_harb - READ ME FIRST - DARKPLACES REQUIRED.txt": {
    "filesize": 115,
+   "timestamp": "2003-08-23"
+  },
+  "sm46_harb.bsp": {
+   "filesize": 695560,
+   "timestamp": "2003-08-23"
+  },
+  "sm46_harb.lit": {
+   "filesize": 365534,
    "timestamp": "2003-08-23"
   },
   "sm46_pack.txt": {
@@ -35,18 +26,27 @@
   "sm46_starbuck.bsp": {
    "filesize": 826996,
    "timestamp": "2003-08-23"
-  },
-  "sm46_harb.bsp": {
-   "filesize": 695560,
-   "timestamp": "2003-08-23"
-  },
-  "sm46_harb.lit": {
-   "filesize": 365534,
-   "timestamp": "2003-08-23"
   }
  },
+ "filesize": 1093,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "5350d37107c3e8fa2e8f2f04b1e04077a02794d98925ecdc996f98bb6f2c480e",
+ "tags": [
+  "title:Speedmapping pack 46 - Swamp",
+  "releasedate:2003-08-23",
+  "game:quake",
+  "author:Harb",
+  "author:Scampie",
+  "author:Starbuck",
+  "startmap:sm46_scampie",
+  "startmap:sm46_harb",
+  "startmap:Sm46_starbuck"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm46.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5350d37107c3e8fa2e8f2f04b1e04077a02794d98925ecdc996f98bb6f2c480e/sm46.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

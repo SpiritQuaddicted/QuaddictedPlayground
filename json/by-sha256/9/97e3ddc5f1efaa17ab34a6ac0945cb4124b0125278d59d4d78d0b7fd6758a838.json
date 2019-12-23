@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "97e3ddc5f1efaa17ab34a6ac0945cb4124b0125278d59d4d78d0b7fd6758a838",
  "filename": [
   "xplore.zip"
  ],
+ "files": {
+  "gfx/env/morose_bk.tga": {
+   "filesize": 786450,
+   "timestamp": "2006-01-23"
+  },
+  "gfx/env/morose_dn.tga": {
+   "filesize": 274,
+   "timestamp": "2002-01-28"
+  },
+  "gfx/env/morose_ft.tga": {
+   "filesize": 786450,
+   "timestamp": "2006-01-23"
+  },
+  "gfx/env/morose_lf.tga": {
+   "filesize": 786450,
+   "timestamp": "2006-01-23"
+  },
+  "gfx/env/morose_rt.tga": {
+   "filesize": 786450,
+   "timestamp": "2006-01-23"
+  },
+  "gfx/env/morose_up.tga": {
+   "filesize": 786450,
+   "timestamp": "2006-01-23"
+  },
+  "maps/xplore.bsp": {
+   "filesize": 2096735,
+   "timestamp": "2008-06-14"
+  },
+  "maps/xplore.lit": {
+   "filesize": 729800,
+   "timestamp": "2008-06-14"
+  },
+  "xplore.txt": {
+   "filesize": 961,
+   "timestamp": "2008-06-14"
+  }
+ },
  "filesize": 2399,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "97e3ddc5f1efaa17ab34a6ac0945cb4124b0125278d59d4d78d0b7fd6758a838",
  "tags": [
   "title:Explore or Die",
   "releasedate:2008-06-14",
@@ -21,49 +61,9 @@
   "tag:unique",
   "tag:skybox"
  ],
- "install": {
-  "extract": "{quake}/id1/"
- },
- "files": {
-  "maps/xplore.lit": {
-   "filesize": 729800,
-   "timestamp": "2008-06-14"
-  },
-  "maps/xplore.bsp": {
-   "filesize": 2096735,
-   "timestamp": "2008-06-14"
-  },
-  "xplore.txt": {
-   "filesize": 961,
-   "timestamp": "2008-06-14"
-  },
-  "gfx/env/morose_up.tga": {
-   "filesize": 786450,
-   "timestamp": "2006-01-23"
-  },
-  "gfx/env/morose_lf.tga": {
-   "filesize": 786450,
-   "timestamp": "2006-01-23"
-  },
-  "gfx/env/morose_bk.tga": {
-   "filesize": 786450,
-   "timestamp": "2006-01-23"
-  },
-  "gfx/env/morose_rt.tga": {
-   "filesize": 786450,
-   "timestamp": "2006-01-23"
-  },
-  "gfx/env/morose_dn.tga": {
-   "filesize": 274,
-   "timestamp": "2002-01-28"
-  },
-  "gfx/env/morose_ft.tga": {
-   "filesize": 786450,
-   "timestamp": "2006-01-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/xplore.zip",
   "https://www.quaddicted.com/files/by-sha256/9/97e3ddc5f1efaa17ab34a6ac0945cb4124b0125278d59d4d78d0b7fd6758a838/xplore.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

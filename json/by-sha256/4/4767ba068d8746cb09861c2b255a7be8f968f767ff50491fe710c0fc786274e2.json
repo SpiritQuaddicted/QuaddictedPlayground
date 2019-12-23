@@ -1,31 +1,14 @@
 {
- "version": "20191222-0",
- "sha256": "4767ba068d8746cb09861c2b255a7be8f968f767ff50491fe710c0fc786274e2",
  "filename": [
   "elcshp.zip"
  ],
- "filesize": 1265,
- "tags": [
-  "title:Electric Sheep",
-  "releasedate:1996-11-07",
-  "game:quake",
-  "author:David Jewsbury",
-  "tag:cyberpunk",
-  "tag:weird",
-  "tag:mixtex",
-  "tag:medium",
-  "tag:mini episode"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
-  "elcshp.txt": {
-   "filesize": 4379,
-   "timestamp": "1996-11-07"
-  },
   "elcshp.bsp": {
    "filesize": 1147656,
+   "timestamp": "1996-11-07"
+  },
+  "elcshp.txt": {
+   "filesize": 4379,
    "timestamp": "1996-11-07"
   },
   "elcshp2.bsp": {
@@ -37,8 +20,25 @@
    "timestamp": "1996-11-07"
   }
  },
+ "filesize": 1265,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4767ba068d8746cb09861c2b255a7be8f968f767ff50491fe710c0fc786274e2",
+ "tags": [
+  "title:Electric Sheep",
+  "releasedate:1996-11-07",
+  "game:quake",
+  "author:David Jewsbury",
+  "tag:cyberpunk",
+  "tag:weird",
+  "tag:mixtex",
+  "tag:medium",
+  "tag:mini episode"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/elcshp.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4767ba068d8746cb09861c2b255a7be8f968f767ff50491fe710c0fc786274e2/elcshp.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

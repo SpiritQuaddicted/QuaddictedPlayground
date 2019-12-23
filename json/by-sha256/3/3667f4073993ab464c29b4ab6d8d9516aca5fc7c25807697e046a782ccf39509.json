@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "3667f4073993ab464c29b4ab6d8d9516aca5fc7c25807697e046a782ccf39509",
  "filename": [
   "hellhole.zip"
  ],
+ "files": {
+  "hellhole.bsp": {
+   "filesize": 2698540,
+   "timestamp": "2015-12-10"
+  },
+  "hellhole.txt": {
+   "filesize": 492,
+   "timestamp": "2015-12-10"
+  }
+ },
  "filesize": 1024,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3667f4073993ab464c29b4ab6d8d9516aca5fc7c25807697e046a782ccf39509",
  "tags": [
   "title:Hellhole",
   "releasedate:2015-12-10",
@@ -16,21 +28,9 @@
   "tag:trickjump",
   "tag:platforming"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "hellhole.bsp": {
-   "filesize": 2698540,
-   "timestamp": "2015-12-10"
-  },
-  "hellhole.txt": {
-   "filesize": 492,
-   "timestamp": "2015-12-10"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hellhole.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3667f4073993ab464c29b4ab6d8d9516aca5fc7c25807697e046a782ccf39509/hellhole.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

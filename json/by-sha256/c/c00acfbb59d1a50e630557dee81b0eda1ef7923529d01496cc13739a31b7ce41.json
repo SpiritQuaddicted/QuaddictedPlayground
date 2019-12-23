@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c00acfbb59d1a50e630557dee81b0eda1ef7923529d01496cc13739a31b7ce41",
  "filename": [
   "the_metal_shrine_repack.zip"
  ],
- "filesize": 870,
- "tags": [
-  "title:The Metal Shrine",
-  "releasedate:2018-03-25",
-  "game:quake",
-  "author:vaf",
-  "tag:small",
-  "tag:metal",
-  "tag:runic",
-  "tag:base",
-  "startmap:shrine"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "quaddicted_repack.txt": {
    "filesize": 51,
@@ -33,8 +16,25 @@
    "timestamp": "2018-03-25"
   }
  },
+ "filesize": 870,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c00acfbb59d1a50e630557dee81b0eda1ef7923529d01496cc13739a31b7ce41",
+ "tags": [
+  "title:The Metal Shrine",
+  "releasedate:2018-03-25",
+  "game:quake",
+  "author:vaf",
+  "tag:small",
+  "tag:metal",
+  "tag:runic",
+  "tag:base",
+  "startmap:shrine"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/the_metal_shrine_repack.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c00acfbb59d1a50e630557dee81b0eda1ef7923529d01496cc13739a31b7ce41/the_metal_shrine_repack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

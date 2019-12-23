@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2",
  "filename": [
   "sofsp1.zip"
  ],
+ "files": {
+  "pak0.pak": {
+   "filesize": 4970646,
+   "timestamp": "1997-10-19"
+  },
+  "sofsp1.txt": {
+   "filesize": 9322,
+   "timestamp": "1997-10-19"
+  }
+ },
  "filesize": 2274,
+ "install": {
+  "extract": "{quake}/soldier/"
+ },
+ "sha256": "8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2",
  "tags": [
   "title:Soldier of Fortune, Inc.: Episode One",
   "releasedate:1997-10-19",
@@ -16,21 +28,9 @@
   "tag:story",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/soldier/"
- },
- "files": {
-  "sofsp1.txt": {
-   "filesize": 9322,
-   "timestamp": "1997-10-19"
-  },
-  "pak0.pak": {
-   "filesize": 4970646,
-   "timestamp": "1997-10-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sofsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2/sofsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

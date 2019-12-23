@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9e8790cdcbf4ff9cbb9b5bb189fee3166753f9267000eddcb04c4cf8d5240f8b",
  "filename": [
   "rjty.zip"
  ],
- "filesize": 348,
- "tags": [
-  "title:Tyger's Lair",
-  "releasedate:1997-04-12",
-  "game:quake",
-  "author:Tyler McNamee",
-  "tag:small",
-  "tag:stone"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "rjty.bsp": {
    "filesize": 731036,
@@ -26,8 +12,22 @@
    "timestamp": "1997-04-12"
   }
  },
+ "filesize": 348,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "9e8790cdcbf4ff9cbb9b5bb189fee3166753f9267000eddcb04c4cf8d5240f8b",
+ "tags": [
+  "title:Tyger's Lair",
+  "releasedate:1997-04-12",
+  "game:quake",
+  "author:Tyler McNamee",
+  "tag:small",
+  "tag:stone"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/rjty.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9e8790cdcbf4ff9cbb9b5bb189fee3166753f9267000eddcb04c4cf8d5240f8b/rjty.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

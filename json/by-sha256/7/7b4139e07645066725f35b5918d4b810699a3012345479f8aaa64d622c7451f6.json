@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "7b4139e07645066725f35b5918d4b810699a3012345479f8aaa64d622c7451f6",
  "filename": [
   "earth.zip"
  ],
+ "files": {
+  "EARTH.BSP": {
+   "filesize": 1068220,
+   "timestamp": "1997-02-17"
+  },
+  "EARTH.TXT": {
+   "filesize": 1848,
+   "timestamp": "1997-02-17"
+  }
+ },
  "filesize": 489,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7b4139e07645066725f35b5918d4b810699a3012345479f8aaa64d622c7451f6",
  "tags": [
   "title:Earthworld",
   "releasedate:1997-02-17",
@@ -18,21 +30,9 @@
   "tag:dungeon",
   "tag:underground"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "EARTH.BSP": {
-   "filesize": 1068220,
-   "timestamp": "1997-02-17"
-  },
-  "EARTH.TXT": {
-   "filesize": 1848,
-   "timestamp": "1997-02-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/earth.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7b4139e07645066725f35b5918d4b810699a3012345479f8aaa64d622c7451f6/earth.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

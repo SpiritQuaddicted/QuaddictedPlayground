@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8",
  "filename": [
   "fromhell.zip"
  ],
+ "files": {
+  "deadstuf.zip": {
+   "filesize": 233014,
+   "timestamp": "1997-06-02"
+  },
+  "fromhell.txt": {
+   "filesize": 4578,
+   "timestamp": "1997-10-01"
+  },
+  "pak0.pak": {
+   "filesize": 2255108,
+   "timestamp": "1997-10-01"
+  },
+  "sexdroid.zip": {
+   "filesize": 90987,
+   "timestamp": "1997-06-23"
+  }
+ },
  "filesize": 1189,
+ "install": {
+  "extract": "{quake}/fromhell/"
+ },
+ "sha256": "ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8",
  "tags": [
   "title:From Hell",
   "releasedate:1997-10-01",
@@ -17,29 +37,9 @@
   "tag:victorian",
   "tag:horror"
  ],
- "install": {
-  "extract": "{quake}/fromhell/"
- },
- "files": {
-  "sexdroid.zip": {
-   "filesize": 90987,
-   "timestamp": "1997-06-23"
-  },
-  "fromhell.txt": {
-   "filesize": 4578,
-   "timestamp": "1997-10-01"
-  },
-  "pak0.pak": {
-   "filesize": 2255108,
-   "timestamp": "1997-10-01"
-  },
-  "deadstuf.zip": {
-   "filesize": 233014,
-   "timestamp": "1997-06-02"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fromhell.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8/fromhell.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

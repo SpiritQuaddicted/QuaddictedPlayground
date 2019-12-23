@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "a4b6ea9ddb0e5bf1f46483200259a1480af84ac1dfc1d99ad0dee50d7b656d12",
  "filename": [
   "killemal.zip"
  ],
- "filesize": 34,
- "tags": [
-  "title:Kill 'em all",
-  "releasedate:1996-10-13",
-  "game:quake",
-  "author:Matthias Kunze",
-  "tag:small",
-  "tag:no exit",
-  "tag:arena"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "killemal.bsp": {
    "filesize": 94680,
@@ -27,8 +12,23 @@
    "timestamp": "1996-10-13"
   }
  },
+ "filesize": 34,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a4b6ea9ddb0e5bf1f46483200259a1480af84ac1dfc1d99ad0dee50d7b656d12",
+ "tags": [
+  "title:Kill 'em all",
+  "releasedate:1996-10-13",
+  "game:quake",
+  "author:Matthias Kunze",
+  "tag:small",
+  "tag:no exit",
+  "tag:arena"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/killemal.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a4b6ea9ddb0e5bf1f46483200259a1480af84ac1dfc1d99ad0dee50d7b656d12/killemal.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

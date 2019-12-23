@@ -1,20 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "6ae345d8a8f87816c624a58d019b882275f38396e5132d229c822db65813f99e",
  "filename": [
   "pop.zip"
  ],
- "filesize": 532,
- "tags": [
-  "title:Potpourri",
-  "releasedate:1996-07-28",
-  "game:quake",
-  "author:Darren Stabler",
-  "tag:small"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "pop.bsp": {
    "filesize": 1228051,
@@ -25,8 +12,21 @@
    "timestamp": "1996-07-28"
   }
  },
+ "filesize": 532,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6ae345d8a8f87816c624a58d019b882275f38396e5132d229c822db65813f99e",
+ "tags": [
+  "title:Potpourri",
+  "releasedate:1996-07-28",
+  "game:quake",
+  "author:Darren Stabler",
+  "tag:small"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/pop.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6ae345d8a8f87816c624a58d019b882275f38396e5132d229c822db65813f99e/pop.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

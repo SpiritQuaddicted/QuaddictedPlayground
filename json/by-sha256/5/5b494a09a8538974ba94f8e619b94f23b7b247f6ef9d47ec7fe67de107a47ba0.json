@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "5b494a09a8538974ba94f8e619b94f23b7b247f6ef9d47ec7fe67de107a47ba0",
  "filename": [
   "dumbdim.zip"
  ],
+ "files": {
+  "dumbdim.bsp": {
+   "filesize": 2125968,
+   "timestamp": "2007-11-20"
+  },
+  "dumbdim.txt": {
+   "filesize": 4460,
+   "timestamp": "2007-11-28"
+  }
+ },
  "filesize": 769,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5b494a09a8538974ba94f8e619b94f23b7b247f6ef9d47ec7fe67de107a47ba0",
  "tags": [
   "title:Dimension of the Dim",
   "releasedate:2007-11-28",
@@ -13,21 +25,9 @@
   "tag:small",
   "tag:blue"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "dumbdim.txt": {
-   "filesize": 4460,
-   "timestamp": "2007-11-28"
-  },
-  "dumbdim.bsp": {
-   "filesize": 2125968,
-   "timestamp": "2007-11-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/dumbdim.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5b494a09a8538974ba94f8e619b94f23b7b247f6ef9d47ec7fe67de107a47ba0/dumbdim.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

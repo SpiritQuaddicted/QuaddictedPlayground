@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "8eee70f69665c707f0ec55b92ba575dff871afa1595cd9f07d3e1c7d4df429e1",
  "filename": [
   "theledge.zip"
  ],
- "filesize": 153,
- "tags": [
-  "title:The Ledge",
-  "releasedate:1996-09-01",
-  "game:quake",
-  "author:Glenn Ancheta",
-  "tag:small",
-  "tag:wizard"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "THELEDGE.BSP": {
    "filesize": 384596,
@@ -26,8 +12,22 @@
    "timestamp": "1996-09-01"
   }
  },
+ "filesize": 153,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8eee70f69665c707f0ec55b92ba575dff871afa1595cd9f07d3e1c7d4df429e1",
+ "tags": [
+  "title:The Ledge",
+  "releasedate:1996-09-01",
+  "game:quake",
+  "author:Glenn Ancheta",
+  "tag:small",
+  "tag:wizard"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/theledge.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8eee70f69665c707f0ec55b92ba575dff871afa1595cd9f07d3e1c7d4df429e1/theledge.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "c64f0ad862de155aa9b5a9e83f57c68f9cab266875be7699b64c399c40b79816",
  "filename": [
   "em1.zip"
  ],
- "filesize": 342,
- "tags": [
-  "title:The Wherehouse",
-  "releasedate:1997-01-22",
-  "game:quake",
-  "author:Dave Kelvin",
-  "tag:small",
-  "tag:metal",
-  "tag:spacemap",
-  "tag:beta"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Em1.bsp": {
    "filesize": 811748,
@@ -28,8 +12,24 @@
    "timestamp": "1997-01-22"
   }
  },
+ "filesize": 342,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c64f0ad862de155aa9b5a9e83f57c68f9cab266875be7699b64c399c40b79816",
+ "tags": [
+  "title:The Wherehouse",
+  "releasedate:1997-01-22",
+  "game:quake",
+  "author:Dave Kelvin",
+  "tag:small",
+  "tag:metal",
+  "tag:spacemap",
+  "tag:beta"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/em1.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c64f0ad862de155aa9b5a9e83f57c68f9cab266875be7699b64c399c40b79816/em1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

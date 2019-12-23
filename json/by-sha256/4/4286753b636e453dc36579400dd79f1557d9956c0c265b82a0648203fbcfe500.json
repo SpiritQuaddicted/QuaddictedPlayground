@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "4286753b636e453dc36579400dd79f1557d9956c0c265b82a0648203fbcfe500",
  "filename": [
   "n3sp03.zip"
  ],
- "filesize": 2218,
- "tags": [
-  "title:At the Gates of Midian",
-  "releasedate:2001-08-09",
-  "game:quake",
-  "commandline:-game n3sp03",
-  "author:necros",
-  "tag:metal",
-  "tag:doom",
-  "tag:monsters"
- ],
- "install": {
-  "extract": "{quake}/n3sp03/"
- },
  "files": {
   "n3sp03.txt": {
    "filesize": 5909,
@@ -28,8 +12,24 @@
    "timestamp": "2001-08-09"
   }
  },
+ "filesize": 2218,
+ "install": {
+  "extract": "{quake}/n3sp03/"
+ },
+ "sha256": "4286753b636e453dc36579400dd79f1557d9956c0c265b82a0648203fbcfe500",
+ "tags": [
+  "title:At the Gates of Midian",
+  "releasedate:2001-08-09",
+  "game:quake",
+  "commandline:-game n3sp03",
+  "author:necros",
+  "tag:metal",
+  "tag:doom",
+  "tag:monsters"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/n3sp03.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4286753b636e453dc36579400dd79f1557d9956c0c265b82a0648203fbcfe500/n3sp03.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

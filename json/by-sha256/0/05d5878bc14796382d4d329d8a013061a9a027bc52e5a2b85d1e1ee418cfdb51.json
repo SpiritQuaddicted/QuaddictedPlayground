@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51",
  "filename": [
   "sm153_pack.zip"
  ],
+ "files": {
+  "sm153_drew.bsp": {
+   "filesize": 1689696,
+   "timestamp": "2009-06-22"
+  },
+  "sm153_zwiffle.bsp": {
+   "filesize": 644532,
+   "timestamp": "2009-06-22"
+  }
+ },
  "filesize": 805,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51",
  "tags": [
   "title:Speedmapping pack 153 - Caught between slipgates",
   "releasedate:2009-06-22",
@@ -18,21 +30,9 @@
   "startmap:sm153_zwiffle",
   "startmap:sm153_drew"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm153_drew.bsp": {
-   "filesize": 1689696,
-   "timestamp": "2009-06-22"
-  },
-  "sm153_zwiffle.bsp": {
-   "filesize": 644532,
-   "timestamp": "2009-06-22"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm153_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/0/05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51/sm153_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d4cb35ab46e86df462bee0bf32c36999ef370da5ecc1c8f4c7eac32549f5a33f",
  "filename": [
   "out232.zip"
  ],
+ "files": {
+  "out232.bsp": {
+   "filesize": 1394748,
+   "timestamp": "2011-03-01"
+  },
+  "out232.txt": {
+   "filesize": 131,
+   "timestamp": "2011-03-01"
+  }
+ },
  "filesize": 524,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d4cb35ab46e86df462bee0bf32c36999ef370da5ecc1c8f4c7eac32549f5a33f",
  "tags": [
   "title:Mountain Base",
   "releasedate:2011-03-01",
@@ -16,21 +28,9 @@
   "tag:canyon",
   "tag:easy"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "out232.bsp": {
-   "filesize": 1394748,
-   "timestamp": "2011-03-01"
-  },
-  "out232.txt": {
-   "filesize": 131,
-   "timestamp": "2011-03-01"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/out232.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d4cb35ab46e86df462bee0bf32c36999ef370da5ecc1c8f4c7eac32549f5a33f/out232.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

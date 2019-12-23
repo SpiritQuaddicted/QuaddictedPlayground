@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "e41fe923c58d5f2ebc6a5aa9c0357d44a0224018b7db26fc1644263f23671ebb",
  "filename": [
   "desout.zip"
  ],
- "filesize": 551,
- "tags": [
-  "title:Desolate Outpost",
-  "releasedate:1997-11-29",
-  "game:quake",
-  "author:S. Mennier",
-  "tag:medium",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "desout.bsp": {
    "filesize": 1398440,
@@ -26,8 +12,22 @@
    "timestamp": "1997-11-29"
   }
  },
+ "filesize": 551,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "e41fe923c58d5f2ebc6a5aa9c0357d44a0224018b7db26fc1644263f23671ebb",
+ "tags": [
+  "title:Desolate Outpost",
+  "releasedate:1997-11-29",
+  "game:quake",
+  "author:S. Mennier",
+  "tag:medium",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/desout.zip",
   "https://www.quaddicted.com/files/by-sha256/e/e41fe923c58d5f2ebc6a5aa9c0357d44a0224018b7db26fc1644263f23671ebb/desout.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

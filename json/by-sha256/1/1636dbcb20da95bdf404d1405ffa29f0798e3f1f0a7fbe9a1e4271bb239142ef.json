@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef",
  "filename": [
   "quarantine02.zip"
  ],
+ "files": {
+  "quarantine02.bsp": {
+   "filesize": 3555364,
+   "timestamp": "2013-04-09"
+  },
+  "quarantine02.txt": {
+   "filesize": 2361,
+   "timestamp": "2013-04-09"
+  }
+ },
  "filesize": 1392,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef",
  "tags": [
   "title:Quarantine",
   "releasedate:2013-04-09",
@@ -17,21 +29,9 @@
   "tag:quoth",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "quarantine02.bsp": {
-   "filesize": 3555364,
-   "timestamp": "2013-04-09"
-  },
-  "quarantine02.txt": {
-   "filesize": 2361,
-   "timestamp": "2013-04-09"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/quarantine02.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef/quarantine02.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

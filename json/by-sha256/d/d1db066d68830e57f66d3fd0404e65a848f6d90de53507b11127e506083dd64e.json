@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d1db066d68830e57f66d3fd0404e65a848f6d90de53507b11127e506083dd64e",
  "filename": [
   "ps43a.zip"
  ],
+ "files": {
+  "ps43a.bsp": {
+   "filesize": 1971992,
+   "timestamp": "1998-01-06"
+  },
+  "ps43a.txt": {
+   "filesize": 2796,
+   "timestamp": "1998-01-08"
+  }
+ },
  "filesize": 707,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d1db066d68830e57f66d3fd0404e65a848f6d90de53507b11127e506083dd64e",
  "tags": [
   "title:Pumping station 43/A",
   "releasedate:1998-01-08",
@@ -17,21 +29,9 @@
   "tag:dark",
   "tag:quake2"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ps43a.bsp": {
-   "filesize": 1971992,
-   "timestamp": "1998-01-06"
-  },
-  "ps43a.txt": {
-   "filesize": 2796,
-   "timestamp": "1998-01-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ps43a.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d1db066d68830e57f66d3fd0404e65a848f6d90de53507b11127e506083dd64e/ps43a.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

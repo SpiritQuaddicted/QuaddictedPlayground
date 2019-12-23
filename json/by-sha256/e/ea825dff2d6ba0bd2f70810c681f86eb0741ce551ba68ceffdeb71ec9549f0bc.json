@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc",
  "filename": [
   "hellbridge.zip"
  ],
+ "files": {
+  "hellbrid.bsp": {
+   "filesize": 2325756,
+   "timestamp": "1992-02-07"
+  },
+  "hellbridge.TXT": {
+   "filesize": 1221,
+   "timestamp": "1997-05-10"
+  }
+ },
  "filesize": 1023,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc",
  "tags": [
   "title:The HELLbridge",
   "releasedate:2003-02-20",
@@ -16,21 +28,9 @@
   "tag:brick",
   "startmap:hellbrid"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "hellbridge.TXT": {
-   "filesize": 1221,
-   "timestamp": "1997-05-10"
-  },
-  "hellbrid.bsp": {
-   "filesize": 2325756,
-   "timestamp": "1992-02-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hellbridge.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ea825dff2d6ba0bd2f70810c681f86eb0741ce551ba68ceffdeb71ec9549f0bc/hellbridge.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

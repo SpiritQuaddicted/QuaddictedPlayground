@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d4a6ad2e54dd295846718db9e892036b094011245e13dd2837cbcecd06bbca08",
  "filename": [
   "chain1.zip"
  ],
- "filesize": 260,
- "tags": [
-  "title:Dead Cell",
-  "releasedate:2003-05-29",
-  "game:quake",
-  "author:ChAiNeR",
-  "tag:small",
-  "tag:base",
-  "tag:dark",
-  "tag:warehouse"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "chain1.bsp": {
    "filesize": 684264,
@@ -28,8 +12,24 @@
    "timestamp": "2003-05-29"
   }
  },
+ "filesize": 260,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d4a6ad2e54dd295846718db9e892036b094011245e13dd2837cbcecd06bbca08",
+ "tags": [
+  "title:Dead Cell",
+  "releasedate:2003-05-29",
+  "game:quake",
+  "author:ChAiNeR",
+  "tag:small",
+  "tag:base",
+  "tag:dark",
+  "tag:warehouse"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/chain1.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d4a6ad2e54dd295846718db9e892036b094011245e13dd2837cbcecd06bbca08/chain1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

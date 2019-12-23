@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "2bb8322fd205839983ef64098ccbf91bd2900536b9d2db46c14baa0a3a263c35",
  "filename": [
   "sm110_pack.zip"
  ],
+ "files": {
+  "sm110_pack/maps/sm110_drew.bsp": {
+   "filesize": 1233388,
+   "timestamp": "2005-11-06"
+  },
+  "sm110_pack/maps/sm110_generic.bsp": {
+   "filesize": 608864,
+   "timestamp": "2005-11-06"
+  },
+  "sm110_pack/maps/sm110_ht.bsp": {
+   "filesize": 432700,
+   "timestamp": "2005-11-06"
+  },
+  "sm110_pack/maps/sm110_neg!ke.bsp": {
+   "filesize": 926552,
+   "timestamp": "2005-11-03"
+  }
+ },
  "filesize": 1206,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "2bb8322fd205839983ef64098ccbf91bd2900536b9d2db46c14baa0a3a263c35",
  "tags": [
   "title:Speedmapping pack 110 - Big",
   "releasedate:2005-11-06",
@@ -19,29 +39,9 @@
   "startmap:sm110_generic",
   "startmap:sm110_drew"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm110_pack/maps/sm110_ht.bsp": {
-   "filesize": 432700,
-   "timestamp": "2005-11-06"
-  },
-  "sm110_pack/maps/sm110_drew.bsp": {
-   "filesize": 1233388,
-   "timestamp": "2005-11-06"
-  },
-  "sm110_pack/maps/sm110_neg!ke.bsp": {
-   "filesize": 926552,
-   "timestamp": "2005-11-03"
-  },
-  "sm110_pack/maps/sm110_generic.bsp": {
-   "filesize": 608864,
-   "timestamp": "2005-11-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm110_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/2/2bb8322fd205839983ef64098ccbf91bd2900536b9d2db46c14baa0a3a263c35/sm110_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

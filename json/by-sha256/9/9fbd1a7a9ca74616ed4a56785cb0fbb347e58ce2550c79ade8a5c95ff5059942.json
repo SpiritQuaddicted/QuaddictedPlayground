@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9fbd1a7a9ca74616ed4a56785cb0fbb347e58ce2550c79ade8a5c95ff5059942",
  "filename": [
   "volcano.zip"
  ],
- "filesize": 353,
- "tags": [
-  "title:Eruption is immanent!",
-  "releasedate:1998-05-20",
-  "game:quake",
-  "author:Trace Stuart",
-  "tag:small",
-  "tag:medieval",
-  "startmap:volcano2"
- ],
- "install": {
-  "extract": "{quake}/id1/maps"
- },
  "files": {
   "VOLCANO2.BSP": {
    "filesize": 825704,
@@ -27,8 +12,23 @@
    "timestamp": "1998-05-20"
   }
  },
+ "filesize": 353,
+ "install": {
+  "extract": "{quake}/id1/maps"
+ },
+ "sha256": "9fbd1a7a9ca74616ed4a56785cb0fbb347e58ce2550c79ade8a5c95ff5059942",
+ "tags": [
+  "title:Eruption is immanent!",
+  "releasedate:1998-05-20",
+  "game:quake",
+  "author:Trace Stuart",
+  "tag:small",
+  "tag:medieval",
+  "startmap:volcano2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/volcano.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9fbd1a7a9ca74616ed4a56785cb0fbb347e58ce2550c79ade8a5c95ff5059942/volcano.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

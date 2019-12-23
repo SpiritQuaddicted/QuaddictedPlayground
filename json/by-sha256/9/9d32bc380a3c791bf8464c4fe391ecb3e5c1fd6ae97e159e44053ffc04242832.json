@@ -1,33 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832",
  "filename": [
   "arcextra.zip"
  ],
- "filesize": 24925,
- "tags": [
-  "title:Arcanum Bonus Maps",
-  "releasedate:2012-11-06",
-  "game:quake",
-  "commandline:-game arcextra",
-  "author:Tronyn",
-  "tag:fantasy",
-  "tag:medieval",
-  "tag:drake",
-  "tag:wizard",
-  "tag:heretic",
-  "tag:small",
-  "tag:medium",
-  "tag:industrial",
-  "tag:textures",
-  "tag:monsters",
-  "tag:music",
-  "startmap:arcextra1",
-  "startmap:arcextra2"
- ],
- "install": {
-  "extract": "{quake}/arcextra/"
- },
  "files": {
   "arcextra_readme.txt": {
    "filesize": 1918,
@@ -66,8 +40,34 @@
    "timestamp": "2012-11-06"
   }
  },
+ "filesize": 24925,
+ "install": {
+  "extract": "{quake}/arcextra/"
+ },
+ "sha256": "9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832",
+ "tags": [
+  "title:Arcanum Bonus Maps",
+  "releasedate:2012-11-06",
+  "game:quake",
+  "commandline:-game arcextra",
+  "author:Tronyn",
+  "tag:fantasy",
+  "tag:medieval",
+  "tag:drake",
+  "tag:wizard",
+  "tag:heretic",
+  "tag:small",
+  "tag:medium",
+  "tag:industrial",
+  "tag:textures",
+  "tag:monsters",
+  "tag:music",
+  "startmap:arcextra1",
+  "startmap:arcextra2"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/arcextra.zip",
   "https://www.quaddicted.com/files/by-sha256/9/9d32bc380a3c791bf8464c4fe391ecb3e5c1fd6ae97e159e44053ffc04242832/arcextra.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

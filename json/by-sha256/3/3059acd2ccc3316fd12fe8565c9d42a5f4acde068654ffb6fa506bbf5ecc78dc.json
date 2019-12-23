@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "3059acd2ccc3316fd12fe8565c9d42a5f4acde068654ffb6fa506bbf5ecc78dc",
  "filename": [
   "digs04.zip"
  ],
+ "files": {
+  "digs04.bsp": {
+   "filesize": 8112560,
+   "timestamp": "2008-06-18"
+  },
+  "digs04.txt": {
+   "filesize": 1607,
+   "timestamp": "2008-06-17"
+  }
+ },
  "filesize": 3302,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "3059acd2ccc3316fd12fe8565c9d42a5f4acde068654ffb6fa506bbf5ecc78dc",
  "tags": [
   "title:The Parallel Worlds",
   "releasedate:2008-06-18",
@@ -18,21 +30,9 @@
   "tag:unique",
   "tag:ikbase"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "digs04.txt": {
-   "filesize": 1607,
-   "timestamp": "2008-06-17"
-  },
-  "digs04.bsp": {
-   "filesize": 8112560,
-   "timestamp": "2008-06-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/digs04.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3059acd2ccc3316fd12fe8565c9d42a5f4acde068654ffb6fa506bbf5ecc78dc/digs04.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

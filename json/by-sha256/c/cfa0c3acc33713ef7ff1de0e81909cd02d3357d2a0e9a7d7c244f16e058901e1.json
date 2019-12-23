@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "cfa0c3acc33713ef7ff1de0e81909cd02d3357d2a0e9a7d7c244f16e058901e1",
  "filename": [
   "frbdbase.zip"
  ],
+ "files": {
+  "BASE.BSP": {
+   "filesize": 928016,
+   "timestamp": "1997-02-04"
+  },
+  "BASE.TXT": {
+   "filesize": 5706,
+   "timestamp": "1997-02-07"
+  }
+ },
  "filesize": 395,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cfa0c3acc33713ef7ff1de0e81909cd02d3357d2a0e9a7d7c244f16e058901e1",
  "tags": [
   "title:The Forbidden Base",
   "releasedate:1997-02-07",
@@ -15,21 +27,9 @@
   "tag:dm",
   "startmap:base"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "BASE.TXT": {
-   "filesize": 5706,
-   "timestamp": "1997-02-07"
-  },
-  "BASE.BSP": {
-   "filesize": 928016,
-   "timestamp": "1997-02-04"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/frbdbase.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cfa0c3acc33713ef7ff1de0e81909cd02d3357d2a0e9a7d7c244f16e058901e1/frbdbase.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

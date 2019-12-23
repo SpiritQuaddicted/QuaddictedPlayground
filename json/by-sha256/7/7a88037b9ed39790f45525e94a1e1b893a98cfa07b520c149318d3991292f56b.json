@@ -1,29 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b",
  "filename": [
   "xl2.zip"
  ],
- "filesize": 4439,
- "tags": [
-  "title:The Citadel of Sinners",
-  "releasedate:2017-12-01",
-  "game:quake",
-  "author:xlarve",
-  "tag:large",
-  "tag:medieval",
-  "tag:metal",
-  "tag:mixtex",
-  "tag:fortress",
-  "tag:citadel",
-  "tag:start",
-  "tag:limits",
-  "startmap:xl2",
-  "startmap:xl2m1"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "xl2/xl2.bsp": {
    "filesize": 719372,
@@ -50,8 +28,30 @@
    "timestamp": "2017-12-02"
   }
  },
+ "filesize": 4439,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b",
+ "tags": [
+  "title:The Citadel of Sinners",
+  "releasedate:2017-12-01",
+  "game:quake",
+  "author:xlarve",
+  "tag:large",
+  "tag:medieval",
+  "tag:metal",
+  "tag:mixtex",
+  "tag:fortress",
+  "tag:citadel",
+  "tag:start",
+  "tag:limits",
+  "startmap:xl2",
+  "startmap:xl2m1"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/xl2.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b/xl2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

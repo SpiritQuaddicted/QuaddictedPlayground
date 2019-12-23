@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125",
  "filename": [
   "damaul3.zip"
  ],
+ "files": {
+  "DaMaul3.bsp": {
+   "filesize": 1398948,
+   "timestamp": "1999-02-06"
+  },
+  "DaMaul3.txt": {
+   "filesize": 3998,
+   "timestamp": "1999-02-10"
+  },
+  "DaMaul3b.bsp": {
+   "filesize": 810488,
+   "timestamp": "1999-02-06"
+  }
+ },
  "filesize": 907,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125",
  "tags": [
   "title:Suicide Nation",
   "releasedate:1999-02-10",
@@ -16,25 +32,9 @@
   "tag:boss",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "DaMaul3.txt": {
-   "filesize": 3998,
-   "timestamp": "1999-02-10"
-  },
-  "DaMaul3.bsp": {
-   "filesize": 1398948,
-   "timestamp": "1999-02-06"
-  },
-  "DaMaul3b.bsp": {
-   "filesize": 810488,
-   "timestamp": "1999-02-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/damaul3.zip",
   "https://www.quaddicted.com/files/by-sha256/f/fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125/damaul3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

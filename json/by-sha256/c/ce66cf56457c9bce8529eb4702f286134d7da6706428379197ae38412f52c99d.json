@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "ce66cf56457c9bce8529eb4702f286134d7da6706428379197ae38412f52c99d",
  "filename": [
   "blah1.zip"
  ],
+ "files": {
+  "BLAH1_tron.bsp": {
+   "filesize": 993724,
+   "timestamp": "2005-06-07"
+  },
+  "blah1_moz.bsp": {
+   "filesize": 618708,
+   "timestamp": "2005-06-07"
+  },
+  "blah1_readme.txt": {
+   "filesize": 152,
+   "timestamp": "2005-06-07"
+  },
+  "blah1_speed.bsp": {
+   "filesize": 1233780,
+   "timestamp": "2005-06-06"
+  },
+  "blah1_voodoochopstiks.bsp": {
+   "filesize": 793520,
+   "timestamp": "2005-06-07"
+  },
+  "blah1_voodoochopstiks.txt": {
+   "filesize": 218,
+   "timestamp": "2005-06-07"
+  },
+  "sm__.txt": {
+   "filesize": 85,
+   "timestamp": "2005-06-06"
+  }
+ },
  "filesize": 1606,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ce66cf56457c9bce8529eb4702f286134d7da6706428379197ae38412f52c99d",
  "tags": [
   "title:Impromptu Speedmaps",
   "releasedate:2005-06-07",
@@ -19,41 +51,9 @@
   "startmap:blah1_speed",
   "startmap:blah1_voodoochopstiks"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "blah1_moz.bsp": {
-   "filesize": 618708,
-   "timestamp": "2005-06-07"
-  },
-  "blah1_voodoochopstiks.bsp": {
-   "filesize": 793520,
-   "timestamp": "2005-06-07"
-  },
-  "BLAH1_tron.bsp": {
-   "filesize": 993724,
-   "timestamp": "2005-06-07"
-  },
-  "sm__.txt": {
-   "filesize": 85,
-   "timestamp": "2005-06-06"
-  },
-  "blah1_voodoochopstiks.txt": {
-   "filesize": 218,
-   "timestamp": "2005-06-07"
-  },
-  "blah1_speed.bsp": {
-   "filesize": 1233780,
-   "timestamp": "2005-06-06"
-  },
-  "blah1_readme.txt": {
-   "filesize": 152,
-   "timestamp": "2005-06-07"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/blah1.zip",
   "https://www.quaddicted.com/files/by-sha256/c/ce66cf56457c9bce8529eb4702f286134d7da6706428379197ae38412f52c99d/blah1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

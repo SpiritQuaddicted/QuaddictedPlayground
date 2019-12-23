@@ -1,10 +1,30 @@
 {
- "version": "20191222-0",
- "sha256": "4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6",
  "filename": [
   "orbit.zip"
  ],
+ "files": {
+  "orb's betrayal.txt": {
+   "filesize": 1649,
+   "timestamp": "2006-07-27"
+  },
+  "orbit_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  },
+  "test195.bsp": {
+   "filesize": 4253436,
+   "timestamp": "2006-07-27"
+  },
+  "test195.lit": {
+   "filesize": 1763087,
+   "timestamp": "2006-07-27"
+  }
+ },
  "filesize": 1772,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6",
  "tags": [
   "title:Orb's Betrayal",
   "releasedate:2007-03-07",
@@ -18,29 +38,9 @@
   "tag:strogg",
   "startmap:test195"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "orbit_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "test195.lit": {
-   "filesize": 1763087,
-   "timestamp": "2006-07-27"
-  },
-  "test195.bsp": {
-   "filesize": 4253436,
-   "timestamp": "2006-07-27"
-  },
-  "orb's betrayal.txt": {
-   "filesize": 1649,
-   "timestamp": "2006-07-27"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/orbit.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4ef753fd8d5b5ee4ef281c9f95414398ed2f451776c0d2f607075dbce8df07e6/orbit.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

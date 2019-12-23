@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d66d89395fb9590d57f9e8c623a898aaa3d90c96ee5bc95f772a621ba3105dc2",
  "filename": [
   "tfl3.zip"
  ],
- "filesize": 650,
- "tags": [
-  "title:This Feels Lurid",
-  "releasedate:1997-06-05",
-  "game:quake",
-  "author:Anders \"Backspace\" Persson",
-  "tag:large",
-  "tag:metal"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "tfl3.bsp": {
    "filesize": 1487436,
@@ -26,8 +12,22 @@
    "timestamp": "1997-06-05"
   }
  },
+ "filesize": 650,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d66d89395fb9590d57f9e8c623a898aaa3d90c96ee5bc95f772a621ba3105dc2",
+ "tags": [
+  "title:This Feels Lurid",
+  "releasedate:1997-06-05",
+  "game:quake",
+  "author:Anders \"Backspace\" Persson",
+  "tag:large",
+  "tag:metal"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/tfl3.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d66d89395fb9590d57f9e8c623a898aaa3d90c96ee5bc95f772a621ba3105dc2/tfl3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f5c8ff2b60236b7b3285c6d5f0618bda022f4232b3f18afeacdbc5717b4a184f",
  "filename": [
   "anonca3.zip"
  ],
- "filesize": 647,
- "tags": [
-  "title:Anonca base 3",
-  "releasedate:1997-08-20",
-  "game:quake",
-  "author:Rob Marton",
-  "tag:blue",
-  "tag:abstract",
-  "tag:medium",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "anonca3.bsp": {
    "filesize": 1623716,
@@ -28,8 +12,24 @@
    "timestamp": "1997-06-20"
   }
  },
+ "filesize": 647,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f5c8ff2b60236b7b3285c6d5f0618bda022f4232b3f18afeacdbc5717b4a184f",
+ "tags": [
+  "title:Anonca base 3",
+  "releasedate:1997-08-20",
+  "game:quake",
+  "author:Rob Marton",
+  "tag:blue",
+  "tag:abstract",
+  "tag:medium",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/anonca3.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f5c8ff2b60236b7b3285c6d5f0618bda022f4232b3f18afeacdbc5717b4a184f/anonca3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

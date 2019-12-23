@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "baba3cd788888ba2cf29513bdf347f5427c9cabde7af174e81ae7f515e25da21",
  "filename": [
   "gl4fify3.zip"
  ],
+ "files": {
+  "!!READ!!.BAT": {
+   "filesize": 16081,
+   "timestamp": "1997-04-21"
+  },
+  "FIFFY3.BSP": {
+   "filesize": 814276,
+   "timestamp": "1997-11-30"
+  },
+  "FIFFY3.DEM": {
+   "filesize": 977821,
+   "timestamp": "1997-04-20"
+  },
+  "FILE_ID.DIZ": {
+   "filesize": 761,
+   "timestamp": "1997-04-20"
+  },
+  "Readme.txt": {
+   "filesize": 305,
+   "timestamp": "1997-11-30"
+  }
+ },
  "filesize": 530,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "baba3cd788888ba2cf29513bdf347f5427c9cabde7af174e81ae7f515e25da21",
  "tags": [
   "title:REoL TOUGH: Damnation! (watervised)",
   "releasedate:1997-11-30",
@@ -15,33 +39,9 @@
   "tag:traps",
   "startmap:fiffy3"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "FIFFY3.BSP": {
-   "filesize": 814276,
-   "timestamp": "1997-11-30"
-  },
-  "!!READ!!.BAT": {
-   "filesize": 16081,
-   "timestamp": "1997-04-21"
-  },
-  "FIFFY3.DEM": {
-   "filesize": 977821,
-   "timestamp": "1997-04-20"
-  },
-  "Readme.txt": {
-   "filesize": 305,
-   "timestamp": "1997-11-30"
-  },
-  "FILE_ID.DIZ": {
-   "filesize": 761,
-   "timestamp": "1997-04-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/gl4fify3.zip",
   "https://www.quaddicted.com/files/by-sha256/b/baba3cd788888ba2cf29513bdf347f5427c9cabde7af174e81ae7f515e25da21/gl4fify3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

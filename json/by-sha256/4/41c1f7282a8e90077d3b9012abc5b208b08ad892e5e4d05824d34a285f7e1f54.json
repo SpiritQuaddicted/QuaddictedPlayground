@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "filename": [
   "rubicon.zip"
  ],
+ "files": {
+  "Rubicon.txt": {
+   "filesize": 4717,
+   "timestamp": "1998-02-25"
+  },
+  "pak0.pak": {
+   "filesize": 6127401,
+   "timestamp": "1998-02-23"
+  }
+ },
  "filesize": 2699,
+ "install": {
+  "extract": "{quake}/rubicon/"
+ },
+ "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "tags": [
   "title:Rubicon",
   "releasedate:1998-02-25",
@@ -21,21 +33,9 @@
   "startmap:rubicon",
   "startmap:eagle"
  ],
- "install": {
-  "extract": "{quake}/rubicon/"
- },
- "files": {
-  "Rubicon.txt": {
-   "filesize": 4717,
-   "timestamp": "1998-02-25"
-  },
-  "pak0.pak": {
-   "filesize": 6127401,
-   "timestamp": "1998-02-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rubicon.zip",
   "https://www.quaddicted.com/files/by-sha256/4/41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54/rubicon.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

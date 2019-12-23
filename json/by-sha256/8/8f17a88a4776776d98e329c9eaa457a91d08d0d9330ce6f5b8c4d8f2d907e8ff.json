@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "8f17a88a4776776d98e329c9eaa457a91d08d0d9330ce6f5b8c4d8f2d907e8ff",
  "filename": [
   "sadlark9.zip"
  ],
+ "files": {
+  "sadlark9.bsp": {
+   "filesize": 2900668,
+   "timestamp": "1998-01-05"
+  },
+  "sadlark9.txt": {
+   "filesize": 2513,
+   "timestamp": "1998-01-07"
+  }
+ },
  "filesize": 1219,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "8f17a88a4776776d98e329c9eaa457a91d08d0d9330ce6f5b8c4d8f2d907e8ff",
  "tags": [
   "title:The four runes of Sadlark",
   "releasedate:1998-01-07",
@@ -18,21 +30,9 @@
   "tag:traps",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sadlark9.txt": {
-   "filesize": 2513,
-   "timestamp": "1998-01-07"
-  },
-  "sadlark9.bsp": {
-   "filesize": 2900668,
-   "timestamp": "1998-01-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark9.zip",
   "https://www.quaddicted.com/files/by-sha256/8/8f17a88a4776776d98e329c9eaa457a91d08d0d9330ce6f5b8c4d8f2d907e8ff/sadlark9.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

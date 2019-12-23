@@ -1,30 +1,11 @@
 {
- "version": "20191222-0",
- "sha256": "445b5c481735e8831b8a3e41c411d4a4ceca35ed80df3509ced7950eea16ed6e",
  "filename": [
   "sm141_pack.zip"
  ],
- "filesize": 956,
- "tags": [
-  "title:Speedmapping pack 141 - Hate",
-  "releasedate:2008-05-18",
-  "game:quake",
-  "author:golden_boy",
-  "author:RickyT23",
-  "startmap:sm141_gb",
-  "startmap:sm141_rt23"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "gnu.txt": {
    "filesize": 14882,
    "timestamp": "2008-05-18"
-  },
-  "sm141_rt23.bsp": {
-   "filesize": 1235763,
-   "timestamp": "2008-05-17"
   },
   "mapsource/sm141_gb.map": {
    "filesize": 271806,
@@ -41,10 +22,29 @@
   "sm141_pack.txt": {
    "filesize": 2108,
    "timestamp": "2008-05-18"
+  },
+  "sm141_rt23.bsp": {
+   "filesize": 1235763,
+   "timestamp": "2008-05-17"
   }
  },
+ "filesize": 956,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "445b5c481735e8831b8a3e41c411d4a4ceca35ed80df3509ced7950eea16ed6e",
+ "tags": [
+  "title:Speedmapping pack 141 - Hate",
+  "releasedate:2008-05-18",
+  "game:quake",
+  "author:golden_boy",
+  "author:RickyT23",
+  "startmap:sm141_gb",
+  "startmap:sm141_rt23"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm141_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/4/445b5c481735e8831b8a3e41c411d4a4ceca35ed80df3509ced7950eea16ed6e/sm141_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

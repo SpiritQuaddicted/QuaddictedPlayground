@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "ca747e4b17b58be0688f91037b8a949825bddbc31ab6c1cbc866d37e16555565",
  "filename": [
   "rw3.zip"
  ],
- "filesize": 942,
- "tags": [
-  "title:Unholy Ossuary",
-  "releasedate:2017-02-26",
-  "game:quake",
-  "author:Miss Bubbles",
-  "tag:medium",
-  "tag:runic",
-  "tag:metal",
-  "startmap:rw3"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "UnholyOssuary_Readme.txt": {
    "filesize": 2592,
@@ -28,8 +12,24 @@
    "timestamp": "2017-02-26"
   }
  },
+ "filesize": 942,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ca747e4b17b58be0688f91037b8a949825bddbc31ab6c1cbc866d37e16555565",
+ "tags": [
+  "title:Unholy Ossuary",
+  "releasedate:2017-02-26",
+  "game:quake",
+  "author:Miss Bubbles",
+  "tag:medium",
+  "tag:runic",
+  "tag:metal",
+  "startmap:rw3"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/rw3.zip",
   "https://www.quaddicted.com/files/by-sha256/c/ca747e4b17b58be0688f91037b8a949825bddbc31ab6c1cbc866d37e16555565/rw3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "60407fe802829555a49467b766726f7b329ab569e988e98f2e2e042e1c863f7c",
  "filename": [
   "ethell.zip"
  ],
+ "files": {
+  "ETHELL.TXT": {
+   "filesize": 2210,
+   "timestamp": "1996-10-25"
+  },
+  "ethell.bsp": {
+   "filesize": 365236,
+   "timestamp": "1996-10-25"
+  }
+ },
  "filesize": 155,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "60407fe802829555a49467b766726f7b329ab569e988e98f2e2e042e1c863f7c",
  "tags": [
   "title:Et's Level Of HELL",
   "releasedate:1996-10-25",
@@ -17,21 +29,9 @@
   "tag:elder world",
   "tag:dark"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "ethell.bsp": {
-   "filesize": 365236,
-   "timestamp": "1996-10-25"
-  },
-  "ETHELL.TXT": {
-   "filesize": 2210,
-   "timestamp": "1996-10-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ethell.zip",
   "https://www.quaddicted.com/files/by-sha256/6/60407fe802829555a49467b766726f7b329ab569e988e98f2e2e042e1c863f7c/ethell.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

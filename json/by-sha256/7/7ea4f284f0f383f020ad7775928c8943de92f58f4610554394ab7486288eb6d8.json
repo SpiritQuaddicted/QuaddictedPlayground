@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "7ea4f284f0f383f020ad7775928c8943de92f58f4610554394ab7486288eb6d8",
  "filename": [
   "tspe.zip"
  ],
- "filesize": 278,
- "tags": [
-  "title:The Grinding of Teeth",
-  "releasedate:1999-05-23",
-  "game:quake",
-  "author:Rudolf Kremers",
-  "tag:small",
-  "tag:metal"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Story.txt": {
    "filesize": 2756,
@@ -30,8 +16,22 @@
    "timestamp": "1999-05-21"
   }
  },
+ "filesize": 278,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7ea4f284f0f383f020ad7775928c8943de92f58f4610554394ab7486288eb6d8",
+ "tags": [
+  "title:The Grinding of Teeth",
+  "releasedate:1999-05-23",
+  "game:quake",
+  "author:Rudolf Kremers",
+  "tag:small",
+  "tag:metal"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/tspe.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7ea4f284f0f383f020ad7775928c8943de92f58f4610554394ab7486288eb6d8/tspe.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

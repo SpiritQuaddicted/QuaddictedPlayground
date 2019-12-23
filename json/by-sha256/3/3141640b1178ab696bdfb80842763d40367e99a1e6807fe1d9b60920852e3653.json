@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "3141640b1178ab696bdfb80842763d40367e99a1e6807fe1d9b60920852e3653",
  "filename": [
   "coven.zip"
  ],
+ "files": {
+  "coven.bsp": {
+   "filesize": 5738616,
+   "timestamp": "2006-10-12"
+  },
+  "coven.txt": {
+   "filesize": 1235,
+   "timestamp": "2006-10-13"
+  }
+ },
  "filesize": 2386,
+ "install": {
+  "extract": "{quake}/soe/maps/"
+ },
+ "sha256": "3141640b1178ab696bdfb80842763d40367e99a1e6807fe1d9b60920852e3653",
  "tags": [
   "title:Coven",
   "releasedate:2006-10-13",
@@ -18,21 +30,9 @@
   "tag:limits",
   "dependency:soe_full"
  ],
- "install": {
-  "extract": "{quake}/soe/maps/"
- },
- "files": {
-  "coven.bsp": {
-   "filesize": 5738616,
-   "timestamp": "2006-10-12"
-  },
-  "coven.txt": {
-   "filesize": 1235,
-   "timestamp": "2006-10-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/coven.zip",
   "https://www.quaddicted.com/files/by-sha256/3/3141640b1178ab696bdfb80842763d40367e99a1e6807fe1d9b60920852e3653/coven.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a",
  "filename": [
   "pg2.zip"
  ],
+ "files": {
+  "Pak0.PAK": {
+   "filesize": 8388180,
+   "timestamp": "2000-05-13"
+  },
+  "pg_readme.txt": {
+   "filesize": 3168,
+   "timestamp": "2000-05-13"
+  }
+ },
  "filesize": 3100,
+ "install": {
+  "extract": "{quake}/pg2/"
+ },
+ "sha256": "1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a",
  "tags": [
   "title:Phantasmal Garrison (v2)",
   "releasedate:2000-05-13",
@@ -16,21 +28,9 @@
   "tag:monsters",
   "startmap:pgstart"
  ],
- "install": {
-  "extract": "{quake}/pg2/"
- },
- "files": {
-  "pg_readme.txt": {
-   "filesize": 3168,
-   "timestamp": "2000-05-13"
-  },
-  "Pak0.PAK": {
-   "filesize": 8388180,
-   "timestamp": "2000-05-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/pg2.zip",
   "https://www.quaddicted.com/files/by-sha256/1/1cf1a41bf90ae84bc0ad5c29b0201133789734a72c9c0ea425fde9979643fc8a/pg2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

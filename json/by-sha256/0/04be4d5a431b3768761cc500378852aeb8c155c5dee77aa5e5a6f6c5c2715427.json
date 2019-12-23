@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "04be4d5a431b3768761cc500378852aeb8c155c5dee77aa5e5a6f6c5c2715427",
  "filename": [
   "slaughtr.zip"
  ],
+ "files": {
+  "Slaughtr.txt": {
+   "filesize": 7475,
+   "timestamp": "1997-05-05"
+  },
+  "slaughtr.bsp": {
+   "filesize": 1482836,
+   "timestamp": "1997-04-29"
+  }
+ },
  "filesize": 563,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "04be4d5a431b3768761cc500378852aeb8c155c5dee77aa5e5a6f6c5c2715427",
  "tags": [
   "title:The Slaughterhouse",
   "releasedate:1997-05-05",
@@ -17,21 +29,9 @@
   "tag:puzzles",
   "tag:textures"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "slaughtr.bsp": {
-   "filesize": 1482836,
-   "timestamp": "1997-04-29"
-  },
-  "Slaughtr.txt": {
-   "filesize": 7475,
-   "timestamp": "1997-05-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/slaughtr.zip",
   "https://www.quaddicted.com/files/by-sha256/0/04be4d5a431b3768761cc500378852aeb8c155c5dee77aa5e5a6f6c5c2715427/slaughtr.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

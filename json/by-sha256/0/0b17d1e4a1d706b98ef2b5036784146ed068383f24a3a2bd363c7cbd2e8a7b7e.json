@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0b17d1e4a1d706b98ef2b5036784146ed068383f24a3a2bd363c7cbd2e8a7b7e",
  "filename": [
   "stupid.zip"
  ],
- "filesize": 83,
- "tags": [
-  "title:Dis&apos;z stupid!",
-  "releasedate:2000-01-01",
-  "game:quake",
-  "author:Brainstorm",
-  "tag:small",
-  "tag:metal",
-  "tag:experimental"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "STUPID.BSP": {
    "filesize": 241316,
@@ -27,8 +12,23 @@
    "timestamp": "2000-01-01"
   }
  },
+ "filesize": 83,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0b17d1e4a1d706b98ef2b5036784146ed068383f24a3a2bd363c7cbd2e8a7b7e",
+ "tags": [
+  "title:Dis&apos;z stupid!",
+  "releasedate:2000-01-01",
+  "game:quake",
+  "author:Brainstorm",
+  "tag:small",
+  "tag:metal",
+  "tag:experimental"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/stupid.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0b17d1e4a1d706b98ef2b5036784146ed068383f24a3a2bd363c7cbd2e8a7b7e/stupid.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d9e2f3820d8193eec63bbc683b8261e8406a133d67cdc5afaadcd772a5fc6ed7",
  "filename": [
   "czg02s1.zip"
  ],
+ "files": {
+  "czg02s1.bsp": {
+   "filesize": 2208416,
+   "timestamp": "1999-08-20"
+  },
+  "czg02s1.txt": {
+   "filesize": 5651,
+   "timestamp": "1999-09-11"
+  }
+ },
  "filesize": 755,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d9e2f3820d8193eec63bbc683b8261e8406a133d67cdc5afaadcd772a5fc6ed7",
  "tags": [
   "title:Sky Palace 01",
   "releasedate:1999-09-11",
@@ -14,21 +26,9 @@
   "tag:silly",
   "tag:small"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "czg02s1.txt": {
-   "filesize": 5651,
-   "timestamp": "1999-09-11"
-  },
-  "czg02s1.bsp": {
-   "filesize": 2208416,
-   "timestamp": "1999-08-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/czg02s1.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d9e2f3820d8193eec63bbc683b8261e8406a133d67cdc5afaadcd772a5fc6ed7/czg02s1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

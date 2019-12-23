@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "d09eb7a469c3577db9ede63703e1d1e78fce7a4dfdaad3e33283e4ea48e6beb9",
  "filename": [
   "maniac11.zip"
  ],
- "filesize": 894,
- "tags": [
-  "title:Maniac11",
-  "releasedate:1997-11-12",
-  "game:quake",
-  "author:Dia Westerteicher",
-  "tag:small",
-  "tag:mixed",
-  "tag:architecture",
-  "tag:weird"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "maniac11.TXT": {
    "filesize": 5410,
@@ -28,8 +12,24 @@
    "timestamp": "1997-11-12"
   }
  },
+ "filesize": 894,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "d09eb7a469c3577db9ede63703e1d1e78fce7a4dfdaad3e33283e4ea48e6beb9",
+ "tags": [
+  "title:Maniac11",
+  "releasedate:1997-11-12",
+  "game:quake",
+  "author:Dia Westerteicher",
+  "tag:small",
+  "tag:mixed",
+  "tag:architecture",
+  "tag:weird"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/maniac11.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d09eb7a469c3577db9ede63703e1d1e78fce7a4dfdaad3e33283e4ea48e6beb9/maniac11.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

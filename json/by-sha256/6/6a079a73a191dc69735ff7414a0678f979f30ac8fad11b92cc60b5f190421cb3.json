@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "6a079a73a191dc69735ff7414a0678f979f30ac8fad11b92cc60b5f190421cb3",
  "filename": [
   "fdissens.zip"
  ],
+ "files": {
+  "FDISSENS.BSP": {
+   "filesize": 2305936,
+   "timestamp": "1997-07-28"
+  },
+  "FDISSENS.LEV": {
+   "filesize": 2516,
+   "timestamp": "1997-07-28"
+  },
+  "FDISSENS.TXT": {
+   "filesize": 5200,
+   "timestamp": "1997-07-30"
+  },
+  "FILE_ID.DIZ": {
+   "filesize": 980,
+   "timestamp": "1997-07-30"
+  },
+  "RELEASE.NFO": {
+   "filesize": 13455,
+   "timestamp": "1997-07-30"
+  }
+ },
  "filesize": 1007,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "6a079a73a191dc69735ff7414a0678f979f30ac8fad11b92cc60b5f190421cb3",
  "tags": [
   "title:Fearless Dissension, Chapter I",
   "releasedate:1997-07-30",
@@ -14,33 +38,9 @@
   "tag:wizard",
   "tag:source"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "FDISSENS.BSP": {
-   "filesize": 2305936,
-   "timestamp": "1997-07-28"
-  },
-  "FDISSENS.TXT": {
-   "filesize": 5200,
-   "timestamp": "1997-07-30"
-  },
-  "RELEASE.NFO": {
-   "filesize": 13455,
-   "timestamp": "1997-07-30"
-  },
-  "FILE_ID.DIZ": {
-   "filesize": 980,
-   "timestamp": "1997-07-30"
-  },
-  "FDISSENS.LEV": {
-   "filesize": 2516,
-   "timestamp": "1997-07-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fdissens.zip",
   "https://www.quaddicted.com/files/by-sha256/6/6a079a73a191dc69735ff7414a0678f979f30ac8fad11b92cc60b5f190421cb3/fdissens.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

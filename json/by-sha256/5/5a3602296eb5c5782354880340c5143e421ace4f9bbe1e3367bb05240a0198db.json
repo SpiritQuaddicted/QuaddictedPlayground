@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "5a3602296eb5c5782354880340c5143e421ace4f9bbe1e3367bb05240a0198db",
  "filename": [
   "skymaze.zip"
  ],
+ "files": {
+  "SKYMAZE.bsp": {
+   "filesize": 400168,
+   "timestamp": "1998-06-25"
+  },
+  "skymaze.txt": {
+   "filesize": 615,
+   "timestamp": "1999-12-02"
+  },
+  "skymaze_quaddictedrepack.txt": {
+   "filesize": 319,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 135,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5a3602296eb5c5782354880340c5143e421ace4f9bbe1e3367bb05240a0198db",
  "tags": [
   "title:SkyMaze",
   "releasedate:1999-12-02",
@@ -13,25 +29,9 @@
   "tag:ugly",
   "tag:stupid"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "skymaze.txt": {
-   "filesize": 615,
-   "timestamp": "1999-12-02"
-  },
-  "skymaze_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
-  },
-  "SKYMAZE.bsp": {
-   "filesize": 400168,
-   "timestamp": "1998-06-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/skymaze.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5a3602296eb5c5782354880340c5143e421ace4f9bbe1e3367bb05240a0198db/skymaze.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

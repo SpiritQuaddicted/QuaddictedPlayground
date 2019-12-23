@@ -1,36 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "a00b23175cbafdd6cdf3672bfa62271eb6c4b58337a47c08d5e12854d44b224d",
  "filename": [
   "sm197_pack_final.zip"
  ],
- "filesize": 15673,
- "tags": [
-  "title:Speedmapping pack 197 - Six Textures part 2",
-  "releasedate:2019-06-13",
-  "game:quake",
-  "author:Artistical",
-  "author:Cocerello",
-  "author:Fairweather",
-  "author:Greenwood",
-  "author:ionous",
-  "author:JCR",
-  "author:Pinchy",
-  "author:Saila",
-  "author:ww",
-  "startmap:sm197_artistical",
-  "startmap:sm197_coce",
-  "startmap:sm197_fairweather",
-  "startmap:sm197_greenshot",
-  "startmap:sm197_ionous",
-  "startmap:sm197_jcr",
-  "startmap:sm197_pinchy",
-  "startmap:sm197_saila",
-  "startmap:sm197_ww"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "maps/sm197_artistical.bsp": {
    "filesize": 9810868,
@@ -149,8 +120,37 @@
    "timestamp": "2019-06-13"
   }
  },
+ "filesize": 15673,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "a00b23175cbafdd6cdf3672bfa62271eb6c4b58337a47c08d5e12854d44b224d",
+ "tags": [
+  "title:Speedmapping pack 197 - Six Textures part 2",
+  "releasedate:2019-06-13",
+  "game:quake",
+  "author:Artistical",
+  "author:Cocerello",
+  "author:Fairweather",
+  "author:Greenwood",
+  "author:ionous",
+  "author:JCR",
+  "author:Pinchy",
+  "author:Saila",
+  "author:ww",
+  "startmap:sm197_artistical",
+  "startmap:sm197_coce",
+  "startmap:sm197_fairweather",
+  "startmap:sm197_greenshot",
+  "startmap:sm197_ionous",
+  "startmap:sm197_jcr",
+  "startmap:sm197_pinchy",
+  "startmap:sm197_saila",
+  "startmap:sm197_ww"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm197_pack_final.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a00b23175cbafdd6cdf3672bfa62271eb6c4b58337a47c08d5e12854d44b224d/sm197_pack_final.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

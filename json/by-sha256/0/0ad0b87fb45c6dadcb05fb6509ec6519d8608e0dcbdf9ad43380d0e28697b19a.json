@@ -1,24 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0ad0b87fb45c6dadcb05fb6509ec6519d8608e0dcbdf9ad43380d0e28697b19a",
  "filename": [
   "shamsp2.zip"
  ],
- "filesize": 3892,
- "tags": [
-  "title:Warmth Of A Dying Sun",
-  "releasedate:2018-08-24",
-  "game:quake",
-  "author:Shambler",
-  "tag:medium",
-  "tag:egypt",
-  "tag:textures",
-  "tag:skybox",
-  "tag:limits"
- ],
- "install": {
-  "extract": "{quake}/id1/"
- },
  "files": {
   "gfx/env/arrakisday_bk.tga": {
    "filesize": 571714,
@@ -57,8 +40,25 @@
    "timestamp": "2018-08-24"
   }
  },
+ "filesize": 3892,
+ "install": {
+  "extract": "{quake}/id1/"
+ },
+ "sha256": "0ad0b87fb45c6dadcb05fb6509ec6519d8608e0dcbdf9ad43380d0e28697b19a",
+ "tags": [
+  "title:Warmth Of A Dying Sun",
+  "releasedate:2018-08-24",
+  "game:quake",
+  "author:Shambler",
+  "tag:medium",
+  "tag:egypt",
+  "tag:textures",
+  "tag:skybox",
+  "tag:limits"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/shamsp2.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0ad0b87fb45c6dadcb05fb6509ec6519d8608e0dcbdf9ad43380d0e28697b19a/shamsp2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

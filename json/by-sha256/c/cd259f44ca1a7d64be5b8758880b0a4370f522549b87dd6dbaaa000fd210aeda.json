@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "cd259f44ca1a7d64be5b8758880b0a4370f522549b87dd6dbaaa000fd210aeda",
  "filename": [
   "sm108_bam.zip"
  ],
+ "files": {
+  "y18.bsp": {
+   "filesize": 309252,
+   "timestamp": "2005-10-13"
+  },
+  "y18.map": {
+   "filesize": 166919,
+   "timestamp": "2005-10-13"
+  }
+ },
  "filesize": 158,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "cd259f44ca1a7d64be5b8758880b0a4370f522549b87dd6dbaaa000fd210aeda",
  "tags": [
   "title:Speedmapping pack 108 - Unthemed",
   "releasedate:2005-10-13",
@@ -13,21 +25,9 @@
   "tag:cavern",
   "tag:lava"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "y18.map": {
-   "filesize": 166919,
-   "timestamp": "2005-10-13"
-  },
-  "y18.bsp": {
-   "filesize": 309252,
-   "timestamp": "2005-10-13"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm108_bam.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cd259f44ca1a7d64be5b8758880b0a4370f522549b87dd6dbaaa000fd210aeda/sm108_bam.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

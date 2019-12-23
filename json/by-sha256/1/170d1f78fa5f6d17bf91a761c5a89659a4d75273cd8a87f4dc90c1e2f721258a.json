@@ -1,10 +1,50 @@
 {
- "version": "20191222-0",
- "sha256": "170d1f78fa5f6d17bf91a761c5a89659a4d75273cd8a87f4dc90c1e2f721258a",
  "filename": [
   "sm48_pack.zip"
  ],
+ "files": {
+  "sm48_crap.bsp": {
+   "filesize": 315640,
+   "timestamp": "2003-09-06"
+  },
+  "sm48_czg.bsp": {
+   "filesize": 275548,
+   "timestamp": "2003-09-07"
+  },
+  "sm48_daz.bsp": {
+   "filesize": 530896,
+   "timestamp": "2003-09-07"
+  },
+  "sm48_pack.txt": {
+   "filesize": 2185,
+   "timestamp": "2003-09-07"
+  },
+  "sm48_push.bsp": {
+   "filesize": 541356,
+   "timestamp": "2003-09-06"
+  },
+  "sm48_ray.bsp": {
+   "filesize": 355392,
+   "timestamp": "2003-09-06"
+  },
+  "sm48_scampie.bsp": {
+   "filesize": 484184,
+   "timestamp": "2001-09-06"
+  },
+  "sm48_starbuck.bsp": {
+   "filesize": 413960,
+   "timestamp": "2003-09-07"
+  },
+  "sm48_xen.bsp": {
+   "filesize": 743648,
+   "timestamp": "2003-09-07"
+  }
+ },
  "filesize": 1184,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "170d1f78fa5f6d17bf91a761c5a89659a4d75273cd8a87f4dc90c1e2f721258a",
  "tags": [
   "title:Speedmapping pack 48 - Non-detail textures",
   "releasedate:2003-09-07",
@@ -28,49 +68,9 @@
   "startmap:sm48_starbuck",
   "startmap:sm48_xen"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "sm48_crap.bsp": {
-   "filesize": 315640,
-   "timestamp": "2003-09-06"
-  },
-  "sm48_xen.bsp": {
-   "filesize": 743648,
-   "timestamp": "2003-09-07"
-  },
-  "sm48_scampie.bsp": {
-   "filesize": 484184,
-   "timestamp": "2001-09-06"
-  },
-  "sm48_starbuck.bsp": {
-   "filesize": 413960,
-   "timestamp": "2003-09-07"
-  },
-  "sm48_czg.bsp": {
-   "filesize": 275548,
-   "timestamp": "2003-09-07"
-  },
-  "sm48_pack.txt": {
-   "filesize": 2185,
-   "timestamp": "2003-09-07"
-  },
-  "sm48_daz.bsp": {
-   "filesize": 530896,
-   "timestamp": "2003-09-07"
-  },
-  "sm48_ray.bsp": {
-   "filesize": 355392,
-   "timestamp": "2003-09-06"
-  },
-  "sm48_push.bsp": {
-   "filesize": 541356,
-   "timestamp": "2003-09-06"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm48_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/1/170d1f78fa5f6d17bf91a761c5a89659a4d75273cd8a87f4dc90c1e2f721258a/sm48_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

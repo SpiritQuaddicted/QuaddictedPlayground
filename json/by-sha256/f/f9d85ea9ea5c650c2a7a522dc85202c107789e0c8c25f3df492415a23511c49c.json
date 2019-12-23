@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f9d85ea9ea5c650c2a7a522dc85202c107789e0c8c25f3df492415a23511c49c",
  "filename": [
   "fbreak.zip"
  ],
- "filesize": 434,
- "tags": [
-  "title:Fast Break",
-  "releasedate:1997-10-18",
-  "game:quake",
-  "author:Jason Fischer aka ThreeD",
-  "tag:small",
-  "tag:canyon",
-  "tag:lava",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "fbreak.bsp": {
    "filesize": 1068060,
@@ -28,8 +12,24 @@
    "timestamp": "1997-10-20"
   }
  },
+ "filesize": 434,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f9d85ea9ea5c650c2a7a522dc85202c107789e0c8c25f3df492415a23511c49c",
+ "tags": [
+  "title:Fast Break",
+  "releasedate:1997-10-18",
+  "game:quake",
+  "author:Jason Fischer aka ThreeD",
+  "tag:small",
+  "tag:canyon",
+  "tag:lava",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/fbreak.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f9d85ea9ea5c650c2a7a522dc85202c107789e0c8c25f3df492415a23511c49c/fbreak.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

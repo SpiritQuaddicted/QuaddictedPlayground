@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c8e6867f8448566da8450a4ca7d438339a6d4c5677ad2b601c2c0c3759a9c1fd",
  "filename": [
   "evilpool.zip"
  ],
+ "files": {
+  "EVILPOOL.BSP": {
+   "filesize": 366652,
+   "timestamp": "1996-08-29"
+  },
+  "EVILPOOL.TXT": {
+   "filesize": 2738,
+   "timestamp": "1996-09-01"
+  }
+ },
  "filesize": 159,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c8e6867f8448566da8450a4ca7d438339a6d4c5677ad2b601c2c0c3759a9c1fd",
  "tags": [
   "title:The EvilPool",
   "releasedate:1996-09-01",
@@ -13,21 +25,9 @@
   "tag:small",
   "tag:wizard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "EVILPOOL.TXT": {
-   "filesize": 2738,
-   "timestamp": "1996-09-01"
-  },
-  "EVILPOOL.BSP": {
-   "filesize": 366652,
-   "timestamp": "1996-08-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/evilpool.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c8e6867f8448566da8450a4ca7d438339a6d4c5677ad2b601c2c0c3759a9c1fd/evilpool.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

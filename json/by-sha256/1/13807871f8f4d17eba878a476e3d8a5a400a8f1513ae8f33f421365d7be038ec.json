@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "13807871f8f4d17eba878a476e3d8a5a400a8f1513ae8f33f421365d7be038ec",
  "filename": [
   "q1tm2_czg.zip"
  ],
- "filesize": 389,
- "tags": [
-  "title:hrdtrffc  (Hard Traffic)",
-  "releasedate:2002-12-20",
-  "game:quake",
-  "author:czg",
-  "tag:turtlemap",
-  "tag:contest",
-  "tag:doom"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "q1tm2_czg.bsp": {
    "filesize": 1207984,
@@ -27,8 +12,23 @@
    "timestamp": "2002-12-20"
   }
  },
+ "filesize": 389,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "13807871f8f4d17eba878a476e3d8a5a400a8f1513ae8f33f421365d7be038ec",
+ "tags": [
+  "title:hrdtrffc  (Hard Traffic)",
+  "releasedate:2002-12-20",
+  "game:quake",
+  "author:czg",
+  "tag:turtlemap",
+  "tag:contest",
+  "tag:doom"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1tm2_czg.zip",
   "https://www.quaddicted.com/files/by-sha256/1/13807871f8f4d17eba878a476e3d8a5a400a8f1513ae8f33f421365d7be038ec/q1tm2_czg.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

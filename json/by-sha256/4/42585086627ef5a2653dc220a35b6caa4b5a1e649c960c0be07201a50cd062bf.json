@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "42585086627ef5a2653dc220a35b6caa4b5a1e649c960c0be07201a50cd062bf",
  "filename": [
   "castleod.zip"
  ],
- "filesize": 678,
- "tags": [
-  "title:Castle of Depravity",
-  "releasedate:2014-07-17",
-  "game:quake",
-  "author:JCorvinus",
-  "tag:wizard",
-  "tag:small"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "castleod.bsp": {
    "filesize": 1520252,
@@ -26,8 +12,22 @@
    "timestamp": "2014-07-17"
   }
  },
+ "filesize": 678,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "42585086627ef5a2653dc220a35b6caa4b5a1e649c960c0be07201a50cd062bf",
+ "tags": [
+  "title:Castle of Depravity",
+  "releasedate:2014-07-17",
+  "game:quake",
+  "author:JCorvinus",
+  "tag:wizard",
+  "tag:small"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/castleod.zip",
   "https://www.quaddicted.com/files/by-sha256/4/42585086627ef5a2653dc220a35b6caa4b5a1e649c960c0be07201a50cd062bf/castleod.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

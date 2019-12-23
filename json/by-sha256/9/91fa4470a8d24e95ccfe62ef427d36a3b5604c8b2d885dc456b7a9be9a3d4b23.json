@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "91fa4470a8d24e95ccfe62ef427d36a3b5604c8b2d885dc456b7a9be9a3d4b23",
  "filename": [
   "bioforge.zip"
  ],
+ "files": {
+  "bioforge.bsp": {
+   "filesize": 1816444,
+   "timestamp": "1997-10-25"
+  },
+  "bioforge.txt": {
+   "filesize": 2904,
+   "timestamp": "1998-01-22"
+  }
+ },
  "filesize": 727,
+ "install": {
+  "extract": "{quake}/hipnotic/maps/"
+ },
+ "sha256": "91fa4470a8d24e95ccfe62ef427d36a3b5604c8b2d885dc456b7a9be9a3d4b23",
  "tags": [
   "title:The Biogenetic Forge",
   "releasedate:1998-01-22",
@@ -18,21 +30,9 @@
   "tag:hipnotic",
   "dependency:hipnotic"
  ],
- "install": {
-  "extract": "{quake}/hipnotic/maps/"
- },
- "files": {
-  "bioforge.txt": {
-   "filesize": 2904,
-   "timestamp": "1998-01-22"
-  },
-  "bioforge.bsp": {
-   "filesize": 1816444,
-   "timestamp": "1997-10-25"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/bioforge.zip",
   "https://www.quaddicted.com/files/by-sha256/9/91fa4470a8d24e95ccfe62ef427d36a3b5604c8b2d885dc456b7a9be9a3d4b23/bioforge.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

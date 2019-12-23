@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "f2e2cced8f3e2cf47b5f06a28891463d9ed9ac3c57517900d636bac051fd524b",
  "filename": [
   "snow.zip"
  ],
+ "files": {
+  "snow.bsp": {
+   "filesize": 1362124,
+   "timestamp": "2001-12-18"
+  },
+  "snow.txt": {
+   "filesize": 2531,
+   "timestamp": "2001-12-23"
+  }
+ },
  "filesize": 593,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "f2e2cced8f3e2cf47b5f06a28891463d9ed9ac3c57517900d636bac051fd524b",
  "tags": [
   "title:The Castle of Hell",
   "releasedate:2001-12-23",
@@ -16,21 +28,9 @@
   "tag:textures",
   "tag:hexen"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "snow.bsp": {
-   "filesize": 1362124,
-   "timestamp": "2001-12-18"
-  },
-  "snow.txt": {
-   "filesize": 2531,
-   "timestamp": "2001-12-23"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/snow.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f2e2cced8f3e2cf47b5f06a28891463d9ed9ac3c57517900d636bac051fd524b/snow.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

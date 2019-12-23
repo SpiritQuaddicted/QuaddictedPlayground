@@ -1,23 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc",
  "filename": [
   "lthsp1.zip"
  ],
- "filesize": 788,
- "tags": [
-  "title:Ad Infinitum",
-  "releasedate:2000-12-06",
-  "game:quake",
-  "commandline:-game lthsp1",
-  "author:The Lieutenant",
-  "tag:series",
-  "tag:base",
-  "tag:ikbase"
- ],
- "install": {
-  "extract": "{quake}/lthsp1/"
- },
  "files": {
   "Pak0.pak": {
    "filesize": 2050950,
@@ -28,8 +12,24 @@
    "timestamp": "2000-12-05"
   }
  },
+ "filesize": 788,
+ "install": {
+  "extract": "{quake}/lthsp1/"
+ },
+ "sha256": "527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc",
+ "tags": [
+  "title:Ad Infinitum",
+  "releasedate:2000-12-06",
+  "game:quake",
+  "commandline:-game lthsp1",
+  "author:The Lieutenant",
+  "tag:series",
+  "tag:base",
+  "tag:ikbase"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp1.zip",
   "https://www.quaddicted.com/files/by-sha256/5/527753cf4e92a5272c15784782f81e699fd0c77f1e76437d38226ca413ed9cfc/lthsp1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

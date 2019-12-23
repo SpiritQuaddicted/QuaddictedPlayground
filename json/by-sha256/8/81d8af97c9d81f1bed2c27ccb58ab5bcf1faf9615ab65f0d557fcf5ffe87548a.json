@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "81d8af97c9d81f1bed2c27ccb58ab5bcf1faf9615ab65f0d557fcf5ffe87548a",
  "filename": [
   "sm91_pack.zip"
  ],
+ "files": {
+  "sm91_fmb.bsp": {
+   "filesize": 754196,
+   "timestamp": "2004-11-19"
+  },
+  "sm91_pack.txt": {
+   "filesize": 1265,
+   "timestamp": "2004-11-20"
+  },
+  "sm91_zwiffle.bsp": {
+   "filesize": 473316,
+   "timestamp": "2004-11-20"
+  }
+ },
  "filesize": 473,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "81d8af97c9d81f1bed2c27ccb58ab5bcf1faf9615ab65f0d557fcf5ffe87548a",
  "tags": [
   "title:Speedmapping pack 91 - Black Coffee by Drannerz",
   "releasedate:2004-11-20",
@@ -14,25 +30,9 @@
   "startmap:sm91_fmb",
   "startmap:sm91_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm91_pack.txt": {
-   "filesize": 1265,
-   "timestamp": "2004-11-20"
-  },
-  "sm91_fmb.bsp": {
-   "filesize": 754196,
-   "timestamp": "2004-11-19"
-  },
-  "sm91_zwiffle.bsp": {
-   "filesize": 473316,
-   "timestamp": "2004-11-20"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm91_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/8/81d8af97c9d81f1bed2c27ccb58ab5bcf1faf9615ab65f0d557fcf5ffe87548a/sm91_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

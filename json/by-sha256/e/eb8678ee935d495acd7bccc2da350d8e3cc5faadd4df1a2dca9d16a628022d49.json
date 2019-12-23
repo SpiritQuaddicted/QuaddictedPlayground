@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "eb8678ee935d495acd7bccc2da350d8e3cc5faadd4df1a2dca9d16a628022d49",
  "filename": [
   "jjspq1.zip"
  ],
+ "files": {
+  "JJSPQ1.bsp": {
+   "filesize": 1147928,
+   "timestamp": "1999-08-30"
+  },
+  "jjspq1.txt": {
+   "filesize": 6663,
+   "timestamp": "1999-08-30"
+  }
+ },
  "filesize": 480,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "eb8678ee935d495acd7bccc2da350d8e3cc5faadd4df1a2dca9d16a628022d49",
  "tags": [
   "title:Vigil of the Night",
   "releasedate:1999-08-30",
@@ -14,21 +26,9 @@
   "tag:wizard",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "jjspq1.txt": {
-   "filesize": 6663,
-   "timestamp": "1999-08-30"
-  },
-  "JJSPQ1.bsp": {
-   "filesize": 1147928,
-   "timestamp": "1999-08-30"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/jjspq1.zip",
   "https://www.quaddicted.com/files/by-sha256/e/eb8678ee935d495acd7bccc2da350d8e3cc5faadd4df1a2dca9d16a628022d49/jjspq1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

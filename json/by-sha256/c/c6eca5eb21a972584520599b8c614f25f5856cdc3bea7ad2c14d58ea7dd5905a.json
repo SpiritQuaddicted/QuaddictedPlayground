@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "c6eca5eb21a972584520599b8c614f25f5856cdc3bea7ad2c14d58ea7dd5905a",
  "filename": [
   "marsbase.zip"
  ],
+ "files": {
+  "MARSBASE.BSP": {
+   "filesize": 1575208,
+   "timestamp": "1996-10-11"
+  },
+  "MARSBASE.TXT": {
+   "filesize": 1857,
+   "timestamp": "1996-10-11"
+  }
+ },
  "filesize": 656,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c6eca5eb21a972584520599b8c614f25f5856cdc3bea7ad2c14d58ea7dd5905a",
  "tags": [
   "title:Marsbase",
   "releasedate:1996-10-11",
@@ -18,21 +30,9 @@
   "tag:dm",
   "tag:no exit"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "MARSBASE.BSP": {
-   "filesize": 1575208,
-   "timestamp": "1996-10-11"
-  },
-  "MARSBASE.TXT": {
-   "filesize": 1857,
-   "timestamp": "1996-10-11"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/marsbase.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c6eca5eb21a972584520599b8c614f25f5856cdc3bea7ad2c14d58ea7dd5905a/marsbase.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

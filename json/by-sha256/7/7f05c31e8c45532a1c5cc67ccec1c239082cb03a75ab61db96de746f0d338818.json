@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818",
  "filename": [
   "retrojam3.zip"
  ],
+ "files": {
+  "pak0.pak": {
+   "filesize": 14053002,
+   "timestamp": "2015-04-29"
+  },
+  "quake.rc": {
+   "filesize": 1319,
+   "timestamp": "2015-04-28"
+  },
+  "retrojam3_readme.txt": {
+   "filesize": 2306,
+   "timestamp": "2015-04-29"
+  }
+ },
  "filesize": 4195,
+ "install": {
+  "extract": "{quake}/retrojam3"
+ },
+ "sha256": "7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818",
  "tags": [
   "title:Retro Jam 3 - Vertical Metal/Runic Theme",
   "releasedate:2015-04-29",
@@ -23,25 +39,9 @@
   "startmap:retrojam3_fifth",
   "startmap:retrojam3_skacky"
  ],
- "install": {
-  "extract": "{quake}/retrojam3"
- },
- "files": {
-  "pak0.pak": {
-   "filesize": 14053002,
-   "timestamp": "2015-04-29"
-  },
-  "quake.rc": {
-   "filesize": 1319,
-   "timestamp": "2015-04-28"
-  },
-  "retrojam3_readme.txt": {
-   "filesize": 2306,
-   "timestamp": "2015-04-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam3.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818/retrojam3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

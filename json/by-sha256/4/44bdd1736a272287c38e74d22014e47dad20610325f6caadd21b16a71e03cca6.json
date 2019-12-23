@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "44bdd1736a272287c38e74d22014e47dad20610325f6caadd21b16a71e03cca6",
  "filename": [
   "shkeep.zip"
  ],
+ "files": {
+  "SHKEEP.BSP": {
+   "filesize": 772708,
+   "timestamp": "1996-09-18"
+  },
+  "SHKEEP.TXT": {
+   "filesize": 1406,
+   "timestamp": "1996-09-18"
+  }
+ },
  "filesize": 337,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "44bdd1736a272287c38e74d22014e47dad20610325f6caadd21b16a71e03cca6",
  "tags": [
   "title:Shadow Keep",
   "releasedate:1996-09-18",
@@ -13,21 +25,9 @@
   "tag:tiny",
   "tag:wizard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "SHKEEP.TXT": {
-   "filesize": 1406,
-   "timestamp": "1996-09-18"
-  },
-  "SHKEEP.BSP": {
-   "filesize": 772708,
-   "timestamp": "1996-09-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/shkeep.zip",
   "https://www.quaddicted.com/files/by-sha256/4/44bdd1736a272287c38e74d22014e47dad20610325f6caadd21b16a71e03cca6/shkeep.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

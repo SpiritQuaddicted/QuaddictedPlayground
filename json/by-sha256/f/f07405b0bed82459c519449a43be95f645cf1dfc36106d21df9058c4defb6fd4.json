@@ -1,25 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f07405b0bed82459c519449a43be95f645cf1dfc36106d21df9058c4defb6fd4",
  "filename": [
   "corp2.zip"
  ],
- "filesize": 613,
- "tags": [
-  "title:Corporal Punishment II",
-  "releasedate:1997-08-29",
-  "game:quake",
-  "commandline:-game corp2",
-  "author:Gyro Gearloose",
-  "tag:small",
-  "tag:metal",
-  "tag:textures",
-  "tag:monsters",
-  "tag:dm"
- ],
- "install": {
-  "extract": "{quake}/"
- },
  "files": {
   "corp2/corp2.txt": {
    "filesize": 5662,
@@ -42,8 +24,26 @@
    "timestamp": "1997-07-29"
   }
  },
+ "filesize": 613,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "f07405b0bed82459c519449a43be95f645cf1dfc36106d21df9058c4defb6fd4",
+ "tags": [
+  "title:Corporal Punishment II",
+  "releasedate:1997-08-29",
+  "game:quake",
+  "commandline:-game corp2",
+  "author:Gyro Gearloose",
+  "tag:small",
+  "tag:metal",
+  "tag:textures",
+  "tag:monsters",
+  "tag:dm"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/corp2.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f07405b0bed82459c519449a43be95f645cf1dfc36106d21df9058c4defb6fd4/corp2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

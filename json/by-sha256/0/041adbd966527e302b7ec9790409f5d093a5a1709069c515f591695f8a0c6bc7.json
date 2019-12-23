@@ -1,30 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7",
  "filename": [
   "lighthse1.zip"
  ],
- "filesize": 2608,
- "tags": [
-  "title:Lighthouse Assult",
-  "releasedate:1997-10-01",
-  "game:quake",
-  "commandline:-game lighthse",
-  "author:Erik Robson",
-  "tag:mini episode",
-  "tag:wizard",
-  "tag:plain",
-  "tag:mod",
-  "tag:medium",
-  "tag:monsters",
-  "startmap:lighthse",
-  "startmap:_mapfort",
-  "startmap:_maplhse",
-  "startmap:_mapstge"
- ],
- "install": {
-  "extract": "{quake}/lighthse/"
- },
  "files": {
   "PAK0.PAK": {
    "filesize": 6523712,
@@ -43,8 +20,31 @@
    "timestamp": "1997-09-30"
   }
  },
+ "filesize": 2608,
+ "install": {
+  "extract": "{quake}/lighthse/"
+ },
+ "sha256": "041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7",
+ "tags": [
+  "title:Lighthouse Assult",
+  "releasedate:1997-10-01",
+  "game:quake",
+  "commandline:-game lighthse",
+  "author:Erik Robson",
+  "tag:mini episode",
+  "tag:wizard",
+  "tag:plain",
+  "tag:mod",
+  "tag:medium",
+  "tag:monsters",
+  "startmap:lighthse",
+  "startmap:_mapfort",
+  "startmap:_maplhse",
+  "startmap:_mapstge"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/lighthse1.zip",
   "https://www.quaddicted.com/files/by-sha256/0/041adbd966527e302b7ec9790409f5d093a5a1709069c515f591695f8a0c6bc7/lighthse1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

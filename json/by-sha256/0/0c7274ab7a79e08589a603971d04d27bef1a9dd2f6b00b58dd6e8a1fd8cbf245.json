@@ -1,26 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "0c7274ab7a79e08589a603971d04d27bef1a9dd2f6b00b58dd6e8a1fd8cbf245",
  "filename": [
   "recursion.zip"
  ],
- "filesize": 1055,
- "tags": [
-  "title:Recursion",
-  "releasedate:2018-08-18",
-  "game:quake",
-  "author:Andrew Yoder",
-  "tag:small",
-  "tag:knave",
-  "tag:space",
-  "tag:void",
-  "tag:exploration",
-  "tag:runes",
-  "tag:source"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Recursion.bsp": {
    "filesize": 1634672,
@@ -39,8 +20,27 @@
    "timestamp": "2018-08-18"
   }
  },
+ "filesize": 1055,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "0c7274ab7a79e08589a603971d04d27bef1a9dd2f6b00b58dd6e8a1fd8cbf245",
+ "tags": [
+  "title:Recursion",
+  "releasedate:2018-08-18",
+  "game:quake",
+  "author:Andrew Yoder",
+  "tag:small",
+  "tag:knave",
+  "tag:space",
+  "tag:void",
+  "tag:exploration",
+  "tag:runes",
+  "tag:source"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/recursion.zip",
   "https://www.quaddicted.com/files/by-sha256/0/0c7274ab7a79e08589a603971d04d27bef1a9dd2f6b00b58dd6e8a1fd8cbf245/recursion.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

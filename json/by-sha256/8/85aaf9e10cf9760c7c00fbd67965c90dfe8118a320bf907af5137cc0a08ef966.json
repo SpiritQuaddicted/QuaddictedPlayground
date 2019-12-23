@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "85aaf9e10cf9760c7c00fbd67965c90dfe8118a320bf907af5137cc0a08ef966",
  "filename": [
   "borax.zip"
  ],
- "filesize": 771,
- "tags": [
-  "title:The Borax Factor",
-  "releasedate:1998-02-07",
-  "game:quake",
-  "author:Dennis Katsonis",
-  "tag:large",
-  "tag:base"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Borax.txt": {
    "filesize": 6564,
@@ -26,8 +12,22 @@
    "timestamp": "1998-02-07"
   }
  },
+ "filesize": 771,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "85aaf9e10cf9760c7c00fbd67965c90dfe8118a320bf907af5137cc0a08ef966",
+ "tags": [
+  "title:The Borax Factor",
+  "releasedate:1998-02-07",
+  "game:quake",
+  "author:Dennis Katsonis",
+  "tag:large",
+  "tag:base"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/borax.zip",
   "https://www.quaddicted.com/files/by-sha256/8/85aaf9e10cf9760c7c00fbd67965c90dfe8118a320bf907af5137cc0a08ef966/borax.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

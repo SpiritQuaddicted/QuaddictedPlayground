@@ -1,21 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "5a71a5c61c59664730b8080ae72911c025a0a934e9d2e002766716a72f607a64",
  "filename": [
   "sewer.zip"
  ],
- "filesize": 231,
- "tags": [
-  "title:The Sewer",
-  "releasedate:1997-09-28",
-  "game:quake",
-  "author:Francis Fearon",
-  "tag:small",
-  "tag:metal"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "sewer.bsp": {
    "filesize": 531188,
@@ -26,8 +12,22 @@
    "timestamp": "1997-09-28"
   }
  },
+ "filesize": 231,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "5a71a5c61c59664730b8080ae72911c025a0a934e9d2e002766716a72f607a64",
+ "tags": [
+  "title:The Sewer",
+  "releasedate:1997-09-28",
+  "game:quake",
+  "author:Francis Fearon",
+  "tag:small",
+  "tag:metal"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/sewer.zip",
   "https://www.quaddicted.com/files/by-sha256/5/5a71a5c61c59664730b8080ae72911c025a0a934e9d2e002766716a72f607a64/sewer.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

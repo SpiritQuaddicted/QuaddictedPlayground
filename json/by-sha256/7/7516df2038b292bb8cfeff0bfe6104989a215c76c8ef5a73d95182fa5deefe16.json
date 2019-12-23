@@ -1,42 +1,19 @@
 {
- "version": "20191222-0",
- "sha256": "7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16",
  "filename": [
   "lthsp3.zip"
  ],
- "filesize": 1010,
- "tags": [
-  "title:Cruel Intentions",
-  "releasedate:2001-01-16",
-  "game:quake",
-  "commandline:-game lthsp3",
-  "author:The Lieutenant",
-  "tag:series",
-  "tag:medieval"
- ],
- "install": {
-  "extract": "{quake}/lthsp3/"
- },
  "files": {
-  "maps/lthsp3.lit": {
-   "filesize": 811487,
+  "lthsp3.txt": {
+   "filesize": 3058,
    "timestamp": "2001-01-16"
   },
   "maps/lthsp3.bsp": {
    "filesize": 1353376,
    "timestamp": "2001-01-16"
   },
-  "lthsp3.txt": {
-   "filesize": 3058,
+  "maps/lthsp3.lit": {
+   "filesize": 811487,
    "timestamp": "2001-01-16"
-  },
-  "sound/bowman/a-fire.WAV": {
-   "filesize": 16380,
-   "timestamp": "1996-12-25"
-  },
-  "sound/bowman/a-hit.WAV": {
-   "filesize": 75580,
-   "timestamp": "2000-07-09"
   },
   "progs.dat": {
    "filesize": 417372,
@@ -49,10 +26,33 @@
   "progs/bowman.mdl": {
    "filesize": 437468,
    "timestamp": "2001-01-08"
+  },
+  "sound/bowman/a-fire.WAV": {
+   "filesize": 16380,
+   "timestamp": "1996-12-25"
+  },
+  "sound/bowman/a-hit.WAV": {
+   "filesize": 75580,
+   "timestamp": "2000-07-09"
   }
  },
+ "filesize": 1010,
+ "install": {
+  "extract": "{quake}/lthsp3/"
+ },
+ "sha256": "7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16",
+ "tags": [
+  "title:Cruel Intentions",
+  "releasedate:2001-01-16",
+  "game:quake",
+  "commandline:-game lthsp3",
+  "author:The Lieutenant",
+  "tag:series",
+  "tag:medieval"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp3.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16/lthsp3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

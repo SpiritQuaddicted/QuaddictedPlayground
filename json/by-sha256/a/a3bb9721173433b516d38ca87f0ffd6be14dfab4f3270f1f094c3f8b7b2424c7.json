@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "a3bb9721173433b516d38ca87f0ffd6be14dfab4f3270f1f094c3f8b7b2424c7",
  "filename": [
   "orion.zip"
  ],
+ "files": {
+  "Orion.doc": {
+   "filesize": 11264,
+   "timestamp": "1997-07-30"
+  },
+  "orion.bsp": {
+   "filesize": 1934092,
+   "timestamp": "1997-08-05"
+  }
+ },
  "filesize": 805,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a3bb9721173433b516d38ca87f0ffd6be14dfab4f3270f1f094c3f8b7b2424c7",
  "tags": [
   "title:Orion",
   "releasedate:1997-08-05",
@@ -17,21 +29,9 @@
   "tag:crampy",
   "tag:medium"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Orion.doc": {
-   "filesize": 11264,
-   "timestamp": "1997-07-30"
-  },
-  "orion.bsp": {
-   "filesize": 1934092,
-   "timestamp": "1997-08-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/orion.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a3bb9721173433b516d38ca87f0ffd6be14dfab4f3270f1f094c3f8b7b2424c7/orion.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

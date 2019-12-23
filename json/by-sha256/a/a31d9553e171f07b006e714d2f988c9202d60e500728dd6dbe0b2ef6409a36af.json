@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "a31d9553e171f07b006e714d2f988c9202d60e500728dd6dbe0b2ef6409a36af",
  "filename": [
   "fmb1.zip"
  ],
+ "files": {
+  "fmb.bsp": {
+   "filesize": 1012908,
+   "timestamp": "1997-08-03"
+  },
+  "fmb.txt": {
+   "filesize": 2596,
+   "timestamp": "1997-08-05"
+  }
+ },
  "filesize": 471,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "a31d9553e171f07b006e714d2f988c9202d60e500728dd6dbe0b2ef6409a36af",
  "tags": [
   "title:For My Babies",
   "releasedate:1997-08-05",
@@ -16,21 +28,9 @@
   "tag:traps",
   "startmap:fmb"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "fmb.bsp": {
-   "filesize": 1012908,
-   "timestamp": "1997-08-03"
-  },
-  "fmb.txt": {
-   "filesize": 2596,
-   "timestamp": "1997-08-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/fmb1.zip",
   "https://www.quaddicted.com/files/by-sha256/a/a31d9553e171f07b006e714d2f988c9202d60e500728dd6dbe0b2ef6409a36af/fmb1.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

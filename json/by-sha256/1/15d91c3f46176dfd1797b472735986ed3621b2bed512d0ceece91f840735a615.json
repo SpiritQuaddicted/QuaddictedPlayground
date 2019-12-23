@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615",
  "filename": [
   "e1m5quoth.zip"
  ],
+ "files": {
+  "e1m5quoth.bsp": {
+   "filesize": 1967268,
+   "timestamp": "2009-04-28"
+  },
+  "e1m5quoth.map": {
+   "filesize": 1226556,
+   "timestamp": "2009-04-28"
+  },
+  "e1m5quoth.txt": {
+   "filesize": 1331,
+   "timestamp": "2009-04-28"
+  }
+ },
  "filesize": 982,
+ "install": {
+  "extract": "{quake}/quoth/maps/"
+ },
+ "sha256": "15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615",
  "tags": [
   "title:Back To Gloom Keep",
   "releasedate:2009-04-28",
@@ -15,25 +31,9 @@
   "tag:remake",
   "dependency:quoth"
  ],
- "install": {
-  "extract": "{quake}/quoth/maps/"
- },
- "files": {
-  "e1m5quoth.txt": {
-   "filesize": 1331,
-   "timestamp": "2009-04-28"
-  },
-  "e1m5quoth.map": {
-   "filesize": 1226556,
-   "timestamp": "2009-04-28"
-  },
-  "e1m5quoth.bsp": {
-   "filesize": 1967268,
-   "timestamp": "2009-04-28"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quoth.zip",
   "https://www.quaddicted.com/files/by-sha256/1/15d91c3f46176dfd1797b472735986ed3621b2bed512d0ceece91f840735a615/e1m5quoth.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

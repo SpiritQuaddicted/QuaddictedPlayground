@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "7130910ec50336f132f3a41a8047e4b5f3642160ee43b9aed6c3cdcc0c79d18e",
  "filename": [
   "ikspq2.zip"
  ],
+ "files": {
+  "IKSPQ2.BSP": {
+   "filesize": 1131056,
+   "timestamp": "1997-05-15"
+  },
+  "IKSPQ2.TXT": {
+   "filesize": 5852,
+   "timestamp": "1997-05-19"
+  }
+ },
  "filesize": 427,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7130910ec50336f132f3a41a8047e4b5f3642160ee43b9aed6c3cdcc0c79d18e",
  "tags": [
   "title:Temple of the Thousand-Faced Moon",
   "releasedate:1997-05-19",
@@ -18,21 +30,9 @@
   "tag:series",
   "tag:planetquake-map-of-the-week"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "IKSPQ2.TXT": {
-   "filesize": 5852,
-   "timestamp": "1997-05-19"
-  },
-  "IKSPQ2.BSP": {
-   "filesize": 1131056,
-   "timestamp": "1997-05-15"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq2.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7130910ec50336f132f3a41a8047e4b5f3642160ee43b9aed6c3cdcc0c79d18e/ikspq2.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

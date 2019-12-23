@@ -1,10 +1,34 @@
 {
- "version": "20191222-0",
- "sha256": "81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468",
  "filename": [
   "hub.zip"
  ],
+ "files": {
+  "HUB.bsp": {
+   "filesize": 1359008,
+   "timestamp": "1997-07-31"
+  },
+  "HUBSKILL.bsp": {
+   "filesize": 393128,
+   "timestamp": "1997-07-31"
+  },
+  "hub.dmm": {
+   "filesize": 468000,
+   "timestamp": "1997-07-31"
+  },
+  "hub.txt": {
+   "filesize": 2348,
+   "timestamp": "1997-07-31"
+  },
+  "hubskill.dmm": {
+   "filesize": 66258,
+   "timestamp": "1997-07-31"
+  }
+ },
  "filesize": 1044,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468",
  "tags": [
   "title:The Hub",
   "releasedate:1997-07-31",
@@ -18,33 +42,9 @@
   "tag:start",
   "startmap:hubskill"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "hub.dmm": {
-   "filesize": 468000,
-   "timestamp": "1997-07-31"
-  },
-  "HUBSKILL.bsp": {
-   "filesize": 393128,
-   "timestamp": "1997-07-31"
-  },
-  "hubskill.dmm": {
-   "filesize": 66258,
-   "timestamp": "1997-07-31"
-  },
-  "HUB.bsp": {
-   "filesize": 1359008,
-   "timestamp": "1997-07-31"
-  },
-  "hub.txt": {
-   "filesize": 2348,
-   "timestamp": "1997-07-31"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/hub.zip",
   "https://www.quaddicted.com/files/by-sha256/8/81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468/hub.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "cdd34b1c178bb77386c78f2562042e7bbeb315b1d23b863081af957767a923c5",
  "filename": [
   "digs02.zip"
  ],
+ "files": {
+  "digs02.bsp": {
+   "filesize": 699352,
+   "timestamp": "2006-06-18"
+  },
+  "readme.eng": {
+   "filesize": 484,
+   "timestamp": "2006-06-18"
+  },
+  "readme.rus": {
+   "filesize": 494,
+   "timestamp": "2006-06-18"
+  }
+ },
  "filesize": 202,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "cdd34b1c178bb77386c78f2562042e7bbeb315b1d23b863081af957767a923c5",
  "tags": [
   "title:Digs02 - Virtual World",
   "releasedate:2006-06-18",
@@ -19,25 +35,9 @@
   "tag:minimalist",
   "tag:unique"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "digs02.bsp": {
-   "filesize": 699352,
-   "timestamp": "2006-06-18"
-  },
-  "readme.rus": {
-   "filesize": 494,
-   "timestamp": "2006-06-18"
-  },
-  "readme.eng": {
-   "filesize": 484,
-   "timestamp": "2006-06-18"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/digs02.zip",
   "https://www.quaddicted.com/files/by-sha256/c/cdd34b1c178bb77386c78f2562042e7bbeb315b1d23b863081af957767a923c5/digs02.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

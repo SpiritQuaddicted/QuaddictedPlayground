@@ -1,10 +1,18 @@
 {
- "version": "20191222-0",
- "sha256": "c2b4a47e75b0f4391494f1a05f3f58208597ae634f7dc827042568b04b16d10b",
  "filename": [
   "gostown7.zip"
  ],
+ "files": {
+  "GOSTOWN7.BSP": {
+   "filesize": 2010740,
+   "timestamp": "1998-01-08"
+  }
+ },
  "filesize": 802,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "c2b4a47e75b0f4391494f1a05f3f58208597ae634f7dc827042568b04b16d10b",
  "tags": [
   "title:The Hockey Arena",
   "releasedate:1998-01-08",
@@ -15,17 +23,9 @@
   "tag:base",
   "tag:traps"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "GOSTOWN7.BSP": {
-   "filesize": 2010740,
-   "timestamp": "1998-01-08"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/gostown7.zip",
   "https://www.quaddicted.com/files/by-sha256/c/c2b4a47e75b0f4391494f1a05f3f58208597ae634f7dc827042568b04b16d10b/gostown7.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,22 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "7d0b0094a4a9583fcaa56bc20e0e2ce4dec5944ac7850e96472b32d7ec3ae15d",
  "filename": [
   "burrow.zip"
  ],
- "filesize": 396,
- "tags": [
-  "title:Burrow",
-  "releasedate:1997-09-01",
-  "game:quake",
-  "author:Jean-Pierre Raumer",
-  "tag:medium",
-  "tag:wizard",
-  "tag:caverns"
- ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
  "files": {
   "Burrow.bsp": {
    "filesize": 889228,
@@ -27,8 +12,23 @@
    "timestamp": "1997-01-10"
   }
  },
+ "filesize": 396,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "7d0b0094a4a9583fcaa56bc20e0e2ce4dec5944ac7850e96472b32d7ec3ae15d",
+ "tags": [
+  "title:Burrow",
+  "releasedate:1997-09-01",
+  "game:quake",
+  "author:Jean-Pierre Raumer",
+  "tag:medium",
+  "tag:wizard",
+  "tag:caverns"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/burrow.zip",
   "https://www.quaddicted.com/files/by-sha256/7/7d0b0094a4a9583fcaa56bc20e0e2ce4dec5944ac7850e96472b32d7ec3ae15d/burrow.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902",
  "filename": [
   "rapture.zip"
  ],
+ "files": {
+  "rapture/pak0.pak": {
+   "filesize": 18510187,
+   "timestamp": "2001-09-19"
+  },
+  "rapture/progs.dat": {
+   "filesize": 717404,
+   "timestamp": "2001-09-19"
+  },
+  "rapture/rapture.JPG": {
+   "filesize": 76017,
+   "timestamp": "2001-02-28"
+  },
+  "rapture/rapture.html": {
+   "filesize": 15401,
+   "timestamp": "2001-09-14"
+  },
+  "rapture/rapture.txt": {
+   "filesize": 1712,
+   "timestamp": "2001-09-16"
+  },
+  "rapture/rapture1.jpg": {
+   "filesize": 46293,
+   "timestamp": "2001-09-14"
+  },
+  "rapture/rapture2.jpg": {
+   "filesize": 25538,
+   "timestamp": "2001-09-14"
+  }
+ },
  "filesize": 8041,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902",
  "tags": [
   "title:Rapture",
   "releasedate:2001-09-19",
@@ -23,41 +55,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "rapture/rapture1.jpg": {
-   "filesize": 46293,
-   "timestamp": "2001-09-14"
-  },
-  "rapture/rapture.JPG": {
-   "filesize": 76017,
-   "timestamp": "2001-02-28"
-  },
-  "rapture/rapture.txt": {
-   "filesize": 1712,
-   "timestamp": "2001-09-16"
-  },
-  "rapture/rapture.html": {
-   "filesize": 15401,
-   "timestamp": "2001-09-14"
-  },
-  "rapture/rapture2.jpg": {
-   "filesize": 25538,
-   "timestamp": "2001-09-14"
-  },
-  "rapture/progs.dat": {
-   "filesize": 717404,
-   "timestamp": "2001-09-19"
-  },
-  "rapture/pak0.pak": {
-   "filesize": 18510187,
-   "timestamp": "2001-09-19"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/rapture.zip",
   "https://www.quaddicted.com/files/by-sha256/4/4207fef65cbf5f8197ea7ad633bd5620565caa28b8523e149a69d78a1f297902/rapture.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

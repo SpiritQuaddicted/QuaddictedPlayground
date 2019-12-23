@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "695770447758f778d2c22d1c77a651894110a5100ec54297d30f4af7f85b8ec7",
  "filename": [
   "eyesock.zip"
  ],
+ "files": {
+  "EYESOCK.TXT": {
+   "filesize": 2983,
+   "timestamp": "1997-04-17"
+  },
+  "Eyesock.bsp": {
+   "filesize": 1165176,
+   "timestamp": "1997-04-17"
+  }
+ },
  "filesize": 526,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "695770447758f778d2c22d1c77a651894110a5100ec54297d30f4af7f85b8ec7",
  "tags": [
   "title:Eye Socket",
   "releasedate:1997-04-17",
@@ -14,21 +26,9 @@
   "tag:metal",
   "tag:small"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "Eyesock.bsp": {
-   "filesize": 1165176,
-   "timestamp": "1997-04-17"
-  },
-  "EYESOCK.TXT": {
-   "filesize": 2983,
-   "timestamp": "1997-04-17"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/eyesock.zip",
   "https://www.quaddicted.com/files/by-sha256/6/695770447758f778d2c22d1c77a651894110a5100ec54297d30f4af7f85b8ec7/eyesock.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

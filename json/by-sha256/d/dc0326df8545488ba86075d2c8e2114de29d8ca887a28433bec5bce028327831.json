@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831",
  "filename": [
   "canal3.zip"
  ],
+ "files": {
+  "CANAL3.BSP": {
+   "filesize": 1386088,
+   "timestamp": "1997-10-31"
+  },
+  "CANAL3.TXT": {
+   "filesize": 2509,
+   "timestamp": "1997-11-05"
+  }
+ },
  "filesize": 618,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831",
  "tags": [
   "title:The FloodGate",
   "releasedate:1997-11-05",
@@ -16,21 +28,9 @@
   "tag:temple",
   "tag:water"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "CANAL3.BSP": {
-   "filesize": 1386088,
-   "timestamp": "1997-10-31"
-  },
-  "CANAL3.TXT": {
-   "filesize": 2509,
-   "timestamp": "1997-11-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/canal3.zip",
   "https://www.quaddicted.com/files/by-sha256/d/dc0326df8545488ba86075d2c8e2114de29d8ca887a28433bec5bce028327831/canal3.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

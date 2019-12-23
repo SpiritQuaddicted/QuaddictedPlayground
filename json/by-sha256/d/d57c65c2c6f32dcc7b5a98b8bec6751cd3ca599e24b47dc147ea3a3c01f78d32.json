@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "d57c65c2c6f32dcc7b5a98b8bec6751cd3ca599e24b47dc147ea3a3c01f78d32",
  "filename": [
   "araivo.zip"
  ],
+ "files": {
+  "araivo/araivo.txt": {
+   "filesize": 1641,
+   "timestamp": "2005-01-05"
+  },
+  "araivo/pak0.pak": {
+   "filesize": 6081739,
+   "timestamp": "2005-01-05"
+  }
+ },
  "filesize": 2574,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "d57c65c2c6f32dcc7b5a98b8bec6751cd3ca599e24b47dc147ea3a3c01f78d32",
  "tags": [
   "title:Apinaraivo / Monkey Rage",
   "releasedate:2005-01-05",
@@ -18,21 +30,9 @@
   "tag:armagon",
   "tag:boss"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "araivo/araivo.txt": {
-   "filesize": 1641,
-   "timestamp": "2005-01-05"
-  },
-  "araivo/pak0.pak": {
-   "filesize": 6081739,
-   "timestamp": "2005-01-05"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/araivo.zip",
   "https://www.quaddicted.com/files/by-sha256/d/d57c65c2c6f32dcc7b5a98b8bec6751cd3ca599e24b47dc147ea3a3c01f78d32/araivo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

@@ -1,10 +1,42 @@
 {
- "version": "20191222-0",
- "sha256": "ec7c4142ffc306cf9958409fc4a5ce9e0731368b4df187c0dae5484fe5652495",
  "filename": [
   "sm70_pack.zip"
  ],
+ "files": {
+  "sm70_czg.bsp": {
+   "filesize": 309008,
+   "timestamp": "2004-02-28"
+  },
+  "sm70_jacek.bsp": {
+   "filesize": 313548,
+   "timestamp": "2004-02-16"
+  },
+  "sm70_jacek.txt": {
+   "filesize": 171,
+   "timestamp": "2004-02-16"
+  },
+  "sm70_pack.txt": {
+   "filesize": 1580,
+   "timestamp": "2004-02-28"
+  },
+  "sm70_preach.bsp": {
+   "filesize": 418328,
+   "timestamp": "2004-02-29"
+  },
+  "sm70_scampie.bsp": {
+   "filesize": 517372,
+   "timestamp": "2004-02-28"
+  },
+  "sm70_zwiffle.bsp": {
+   "filesize": 290236,
+   "timestamp": "2004-02-28"
+  }
+ },
  "filesize": 648,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "ec7c4142ffc306cf9958409fc4a5ce9e0731368b4df187c0dae5484fe5652495",
  "tags": [
   "title:Speedmapping pack 70 - Red Brick/Grey Brick (A Tribute to Headshot #1)",
   "releasedate:2004-02-29",
@@ -20,41 +52,9 @@
   "startmap:sm70_czg",
   "startmap:sm70_zwiffle"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm70_scampie.bsp": {
-   "filesize": 517372,
-   "timestamp": "2004-02-28"
-  },
-  "sm70_pack.txt": {
-   "filesize": 1580,
-   "timestamp": "2004-02-28"
-  },
-  "sm70_jacek.txt": {
-   "filesize": 171,
-   "timestamp": "2004-02-16"
-  },
-  "sm70_zwiffle.bsp": {
-   "filesize": 290236,
-   "timestamp": "2004-02-28"
-  },
-  "sm70_czg.bsp": {
-   "filesize": 309008,
-   "timestamp": "2004-02-28"
-  },
-  "sm70_jacek.bsp": {
-   "filesize": 313548,
-   "timestamp": "2004-02-16"
-  },
-  "sm70_preach.bsp": {
-   "filesize": 418328,
-   "timestamp": "2004-02-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm70_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/e/ec7c4142ffc306cf9958409fc4a5ce9e0731368b4df187c0dae5484fe5652495/sm70_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

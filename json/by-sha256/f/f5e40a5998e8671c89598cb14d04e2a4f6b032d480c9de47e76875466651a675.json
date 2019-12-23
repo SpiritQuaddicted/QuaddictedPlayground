@@ -1,48 +1,7 @@
 {
- "version": "20191222-0",
- "sha256": "f5e40a5998e8671c89598cb14d04e2a4f6b032d480c9de47e76875466651a675",
  "filename": [
   "func_mapjamx.zip"
  ],
- "filesize": 112883,
- "tags": [
-  "title:Func Map Jam X - Insomnia Theme",
-  "releasedate:2019-05-07",
-  "game:quake",
-  "commandline:-game func_mapjamx",
-  "author:Artistical",
-  "author:Bloodshot",
-  "author:Fairweather",
-  "author:ionous",
-  "author:KalebClark",
-  "author:JCR",
-  "author:Mafon",
-  "author:Mazu",
-  "author:Naitelveni",
-  "author:NewHouse",
-  "author:Pinchy Skree",
-  "author:Strangework",
-  "author:Ukko",
-  "author:Yoder",
-  "startmap:start",
-  "startmap:jamx_artistical",
-  "startmap:jamx_bloodshot",
-  "startmap:jamx_fairweather",
-  "startmap:jamx_ionous",
-  "startmap:jamx_kalebclark",
-  "startmap:jamx_jcr",
-  "startmap:jamx_mafon",
-  "startmap:jamx_hcm",
-  "startmap:jamx_naitelveni",
-  "startmap:jamx_newhouse",
-  "startmap:jamx_pinchy",
-  "startmap:jamx_strangework",
-  "startmap:jamx_ukko",
-  "startmap:jamx_yoder"
- ],
- "install": {
-  "extract": "{quake}//"
- },
  "files": {
   "func_mapjamx/docs/JamX_Artistical.txt": {
    "filesize": 2022,
@@ -673,8 +632,49 @@
    "timestamp": "2019-04-17"
   }
  },
+ "filesize": 112883,
+ "install": {
+  "extract": "{quake}//"
+ },
+ "sha256": "f5e40a5998e8671c89598cb14d04e2a4f6b032d480c9de47e76875466651a675",
+ "tags": [
+  "title:Func Map Jam X - Insomnia Theme",
+  "releasedate:2019-05-07",
+  "game:quake",
+  "commandline:-game func_mapjamx",
+  "author:Artistical",
+  "author:Bloodshot",
+  "author:Fairweather",
+  "author:ionous",
+  "author:KalebClark",
+  "author:JCR",
+  "author:Mafon",
+  "author:Mazu",
+  "author:Naitelveni",
+  "author:NewHouse",
+  "author:Pinchy Skree",
+  "author:Strangework",
+  "author:Ukko",
+  "author:Yoder",
+  "startmap:start",
+  "startmap:jamx_artistical",
+  "startmap:jamx_bloodshot",
+  "startmap:jamx_fairweather",
+  "startmap:jamx_ionous",
+  "startmap:jamx_kalebclark",
+  "startmap:jamx_jcr",
+  "startmap:jamx_mafon",
+  "startmap:jamx_hcm",
+  "startmap:jamx_naitelveni",
+  "startmap:jamx_newhouse",
+  "startmap:jamx_pinchy",
+  "startmap:jamx_strangework",
+  "startmap:jamx_ukko",
+  "startmap:jamx_yoder"
+ ],
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjamx.zip",
   "https://www.quaddicted.com/files/by-sha256/f/f5e40a5998e8671c89598cb14d04e2a4f6b032d480c9de47e76875466651a675/func_mapjamx.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

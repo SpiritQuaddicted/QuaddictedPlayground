@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "filename": [
   "koohoo.zip"
  ],
+ "files": {
+  "koohoo/koohoo.txt": {
+   "filesize": 4907,
+   "timestamp": "2003-09-10"
+  },
+  "koohoo/pak0.pak": {
+   "filesize": 5243430,
+   "timestamp": "2001-03-24"
+  }
+ },
  "filesize": 2226,
+ "install": {
+  "extract": "{quake}/"
+ },
+ "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "tags": [
   "title:The Castle of Koohoo",
   "releasedate:2001-03-25",
@@ -23,21 +35,9 @@
   "tag:planetquake-map-of-the-week",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/"
- },
- "files": {
-  "koohoo/koohoo.txt": {
-   "filesize": 4907,
-   "timestamp": "2003-09-10"
-  },
-  "koohoo/pak0.pak": {
-   "filesize": 5243430,
-   "timestamp": "2001-03-24"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/koohoo.zip",
   "https://www.quaddicted.com/files/by-sha256/4/409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391/koohoo.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

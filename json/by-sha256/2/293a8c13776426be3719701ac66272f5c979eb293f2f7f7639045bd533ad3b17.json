@@ -1,10 +1,26 @@
 {
- "version": "20191222-0",
- "sha256": "293a8c13776426be3719701ac66272f5c979eb293f2f7f7639045bd533ad3b17",
  "filename": [
   "sm14_pack.zip"
  ],
+ "files": {
+  "sm14_bear.bsp": {
+   "filesize": 402104,
+   "timestamp": "2001-05-12"
+  },
+  "sm14_inane.bsp": {
+   "filesize": 490568,
+   "timestamp": "2001-05-12"
+  },
+  "sm14_pack.txt": {
+   "filesize": 1806,
+   "timestamp": "2001-05-13"
+  }
+ },
  "filesize": 274,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "293a8c13776426be3719701ac66272f5c979eb293f2f7f7639045bd533ad3b17",
  "tags": [
   "title:Speedmapping pack 14 - Unthemed",
   "releasedate:2001-05-13",
@@ -14,25 +30,9 @@
   "startmap:sm14_inane",
   "startmap:sm14_bear"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "sm14_inane.bsp": {
-   "filesize": 490568,
-   "timestamp": "2001-05-12"
-  },
-  "sm14_pack.txt": {
-   "filesize": 1806,
-   "timestamp": "2001-05-13"
-  },
-  "sm14_bear.bsp": {
-   "filesize": 402104,
-   "timestamp": "2001-05-12"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/sm14_pack.zip",
   "https://www.quaddicted.com/files/by-sha256/2/293a8c13776426be3719701ac66272f5c979eb293f2f7f7639045bd533ad3b17/sm14_pack.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

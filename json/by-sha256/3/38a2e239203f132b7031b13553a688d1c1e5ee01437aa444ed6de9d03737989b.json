@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b",
  "filename": [
   "lisland.zip"
  ],
+ "files": {
+  "Lisland.txt": {
+   "filesize": 1487,
+   "timestamp": "1998-01-29"
+  },
+  "Pak0.PAK": {
+   "filesize": 5461674,
+   "timestamp": "1998-01-28"
+  }
+ },
  "filesize": 2049,
+ "install": {
+  "extract": "{quake}/lisland/"
+ },
+ "sha256": "38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b",
  "tags": [
   "title:Lost Island: The Island of the death",
   "releasedate:1998-01-29",
@@ -19,21 +31,9 @@
   "tag:dragon",
   "startmap:start"
  ],
- "install": {
-  "extract": "{quake}/lisland/"
- },
- "files": {
-  "Pak0.PAK": {
-   "filesize": 5461674,
-   "timestamp": "1998-01-28"
-  },
-  "Lisland.txt": {
-   "filesize": 1487,
-   "timestamp": "1998-01-29"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/lisland.zip",
   "https://www.quaddicted.com/files/by-sha256/3/38a2e239203f132b7031b13553a688d1c1e5ee01437aa444ed6de9d03737989b/lisland.zip"
- ]
+ ],
+ "version": "20191222-0"
 }

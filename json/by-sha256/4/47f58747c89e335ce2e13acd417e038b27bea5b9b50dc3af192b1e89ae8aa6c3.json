@@ -1,10 +1,22 @@
 {
- "version": "20191222-0",
- "sha256": "47f58747c89e335ce2e13acd417e038b27bea5b9b50dc3af192b1e89ae8aa6c3",
  "filename": [
   "ariadat.zip"
  ],
+ "files": {
+  "ariadat.bsp": {
+   "filesize": 3254184,
+   "timestamp": "2004-05-26"
+  },
+  "info.txt": {
+   "filesize": 4823,
+   "timestamp": "2004-05-26"
+  }
+ },
  "filesize": 1266,
+ "install": {
+  "extract": "{quake}/id1/maps/"
+ },
+ "sha256": "47f58747c89e335ce2e13acd417e038b27bea5b9b50dc3af192b1e89ae8aa6c3",
  "tags": [
   "title:Ariadat",
   "releasedate:2004-05-26",
@@ -13,21 +25,9 @@
   "tag:large",
   "tag:wizard"
  ],
- "install": {
-  "extract": "{quake}/id1/maps/"
- },
- "files": {
-  "info.txt": {
-   "filesize": 4823,
-   "timestamp": "2004-05-26"
-  },
-  "ariadat.bsp": {
-   "filesize": 3254184,
-   "timestamp": "2004-05-26"
-  }
- },
  "urls": [
   "https://www.quaddicted.com/filebase/ariadat.zip",
   "https://www.quaddicted.com/files/by-sha256/4/47f58747c89e335ce2e13acd417e038b27bea5b9b50dc3af192b1e89ae8aa6c3/ariadat.zip"
- ]
+ ],
+ "version": "20191222-0"
 }
