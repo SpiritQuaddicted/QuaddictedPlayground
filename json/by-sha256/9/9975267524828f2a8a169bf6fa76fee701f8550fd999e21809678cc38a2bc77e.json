@@ -68,19 +68,19 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e",
  "tags": [
-  "title:Star Gate Quest",
-  "releasedate:2004-06-06",
-  "game:quake",
-  "commandline:-game sgq",
-  "author:Ben Horsley",
-  "tag:sounds",
-  "tag:halflife",
-  "tag:small",
-  "startmap:intro",
-  "startmap:sg0503"
+  "title=Star Gate Quest",
+  "releasedate=2004-06-06",
+  "game=quake",
+  "commandline=-game sgq",
+  "author=Ben Horsley",
+  "tag=sounds",
+  "tag=halflife",
+  "tag=small",
+  "startmap=intro",
+  "startmap=sg0503"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sgq.zip",

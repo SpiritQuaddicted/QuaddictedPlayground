@@ -28,23 +28,23 @@
  "install": {
   "extract": "{quake}/ad/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "d4811ca56e1bf27a07de4e40683f2203dcc5e12a2791596a4febae446e8911c6",
  "tags": [
-  "title:Office Offense",
-  "releasedate:2018-03-19",
-  "game:quake",
-  "commandline:-game ad",
-  "author:Doug Wheeler aka Bullseye8841",
-  "tag:medium",
-  "tag:realism",
-  "tag:ad",
-  "tag:kingpin",
-  "tag:cars",
-  "tag:secrets",
-  "tag:limits",
-  "tag:arcanedimensions",
-  "dependency:ad_v1_70final"
+  "title=Office Offense",
+  "releasedate=2018-03-19",
+  "game=quake",
+  "commandline=-game ad",
+  "author=Doug Wheeler aka Bullseye8841",
+  "tag=medium",
+  "tag=realism",
+  "tag=ad",
+  "tag=kingpin",
+  "tag=cars",
+  "tag=secrets",
+  "tag=limits",
+  "tag=arcanedimensions",
+  "dependency=ad_v1_70final"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_dwoffice.zip",

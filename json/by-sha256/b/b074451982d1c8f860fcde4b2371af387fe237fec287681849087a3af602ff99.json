@@ -108,23 +108,23 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "b074451982d1c8f860fcde4b2371af387fe237fec287681849087a3af602ff99",
  "tags": [
-  "title:The Five Rivers Land",
-  "releasedate:2007-07-30",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:JPL",
-  "tag:doom",
-  "tag:hell",
-  "tag:quoth",
-  "tag:doom3",
-  "tag:dark",
-  "tag:scary",
-  "tag:unique",
-  "dependency:quoth",
-  "startmap:5rivers_e1"
+  "title=The Five Rivers Land",
+  "releasedate=2007-07-30",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=JPL",
+  "tag=doom",
+  "tag=hell",
+  "tag=quoth",
+  "tag=doom3",
+  "tag=dark",
+  "tag=scary",
+  "tag=unique",
+  "dependency=quoth",
+  "startmap=5rivers_e1"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/5rivers.zip",

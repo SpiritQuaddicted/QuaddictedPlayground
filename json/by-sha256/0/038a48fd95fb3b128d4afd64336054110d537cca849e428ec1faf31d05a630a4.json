@@ -60,23 +60,23 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "038a48fd95fb3b128d4afd64336054110d537cca849e428ec1faf31d05a630a4",
  "tags": [
-  "title:Episode 3 The Tides of War",
-  "releasedate:2001-02-05",
-  "game:quake",
-  "commandline:-nehahra -game nehahra",
-  "author:ELEK",
-  "tag:episode",
-  "tag:nehahra",
-  "tag:planetquake-map-of-the-week",
-  "dependency:nehahra",
-  "startmap:neh3st",
-  "startmap:neh3m1",
-  "startmap:neh3m2",
-  "startmap:neh3m3",
-  "startmap:neh3m4"
+  "title=Episode 3 The Tides of War",
+  "releasedate=2001-02-05",
+  "game=quake",
+  "commandline=-nehahra -game nehahra",
+  "author=ELEK",
+  "tag=episode",
+  "tag=nehahra",
+  "tag=planetquake-map-of-the-week",
+  "dependency=nehahra",
+  "startmap=neh3st",
+  "startmap=neh3m1",
+  "startmap=neh3m2",
+  "startmap=neh3m3",
+  "startmap=neh3m4"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/elek_neh_episode4.zip",

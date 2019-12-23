@@ -16,22 +16,22 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "e1c99cc7a159757373269a625619f2e49227f22cacd35c7be0d2d9d554a4091e",
  "tags": [
-  "title:Red 777",
-  "releasedate:2005-11-05",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:Kell",
-  "tag:quoth",
-  "tag:knave",
-  "tag:huge",
-  "tag:secrets",
-  "tag:medium",
-  "tag:mustplay",
-  "tag:planetquake-map-of-the-week",
-  "dependency:quoth"
+  "title=Red 777",
+  "releasedate=2005-11-05",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=Kell",
+  "tag=quoth",
+  "tag=knave",
+  "tag=huge",
+  "tag=secrets",
+  "tag=medium",
+  "tag=mustplay",
+  "tag=planetquake-map-of-the-week",
+  "dependency=quoth"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/red777.zip",

@@ -24,20 +24,20 @@
  "install": {
   "extract": "{quake}/ad/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "f69651ed08e9a8dd7b8ce043c8e793122fe8f03caf4c437c19e019b986a442e8",
  "tags": [
-  "title:37th Relic Retrieval",
-  "releasedate:2019-01-24",
-  "game:quake",
-  "commandline:-game ad",
-  "author:Mazu",
-  "tag:arcanedimensions",
-  "tag:base",
-  "tag:huge",
-  "tag:nonlinear",
-  "tag:ikbase",
-  "dependency:ad_v1_70final"
+  "title=37th Relic Retrieval",
+  "releasedate=2019-01-24",
+  "game=quake",
+  "commandline=-game ad",
+  "author=Mazu",
+  "tag=arcanedimensions",
+  "tag=base",
+  "tag=huge",
+  "tag=nonlinear",
+  "tag=ikbase",
+  "dependency=ad_v1_70final"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/37_hcm1.zip",

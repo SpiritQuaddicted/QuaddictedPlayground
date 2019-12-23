@@ -32,20 +32,20 @@
  "install": {
   "extract": "{quake}/tdk/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "c53a92180f58d643cc4cdb06d81f2006575e92891fde19a3bfcf8f1f6d570777",
  "tags": [
-  "title:The Demon King",
-  "releasedate:1997-09-27",
-  "game:quake",
-  "commandline:-game tdk",
-  "author:TDK Team",
-  "tag:medieval",
-  "tag:fantasy",
-  "tag:puzzles",
-  "tag:episode",
-  "tag:hub",
-  "startmap:start"
+  "title=The Demon King",
+  "releasedate=1997-09-27",
+  "game=quake",
+  "commandline=-game tdk",
+  "author=TDK Team",
+  "tag=medieval",
+  "tag=fantasy",
+  "tag=puzzles",
+  "tag=episode",
+  "tag=hub",
+  "startmap=start"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tdk11.zip",

@@ -20,22 +20,22 @@
  "install": {
   "extract": "{quake}/tefdb2a/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "b19b1e63b66a2961f6b59d97ebda8c45b851be0101db16b31939a9aec5bbb9a5",
  "tags": [
-  "title:Into Oblivion/Nostalgia",
-  "releasedate:1997-07-01",
-  "game:quake",
-  "commandline:-hipnotic -game tefdb2a",
-  "author:T.H. Johansen (TJ)",
-  "tag:mini episode",
-  "tag:medium",
-  "tag:soa",
-  "tag:hipnotic",
-  "tag:monsters",
-  "tag:dinosaurs",
-  "dependency:hipnotic",
-  "startmap:tef_io"
+  "title=Into Oblivion/Nostalgia",
+  "releasedate=1997-07-01",
+  "game=quake",
+  "commandline=-hipnotic -game tefdb2a",
+  "author=T.H. Johansen (TJ)",
+  "tag=mini episode",
+  "tag=medium",
+  "tag=soa",
+  "tag=hipnotic",
+  "tag=monsters",
+  "tag=dinosaurs",
+  "dependency=hipnotic",
+  "startmap=tef_io"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tefdbl2a.zip",

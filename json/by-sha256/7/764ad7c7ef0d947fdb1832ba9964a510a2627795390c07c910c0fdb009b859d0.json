@@ -20,23 +20,23 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "764ad7c7ef0d947fdb1832ba9964a510a2627795390c07c910c0fdb009b859d0",
  "tags": [
-  "title:Crescendo Of Dreams + Surmounting Terror",
-  "releasedate:2005-11-05",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:necros",
-  "tag:quoth",
-  "tag:doom",
-  "tag:marble",
-  "tag:medieval",
-  "tag:mustplay",
-  "tag:unique",
-  "tag:external textures",
-  "dependency:quoth",
-  "startmap:ne_marb"
+  "title=Crescendo Of Dreams + Surmounting Terror",
+  "releasedate=2005-11-05",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=necros",
+  "tag=quoth",
+  "tag=doom",
+  "tag=marble",
+  "tag=medieval",
+  "tag=mustplay",
+  "tag=unique",
+  "tag=external textures",
+  "dependency=quoth",
+  "startmap=ne_marb"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_marb.zip",

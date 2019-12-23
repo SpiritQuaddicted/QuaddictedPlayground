@@ -16,20 +16,20 @@
  "install": {
   "extract": "{quake}/soe/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "3141640b1178ab696bdfb80842763d40367e99a1e6807fe1d9b60920852e3653",
  "tags": [
-  "title:Coven",
-  "releasedate:2006-10-13",
-  "game:quake",
-  "commandline:-game soe",
-  "author:Dustin \"Tronyn\" Geeraert",
-  "tag:large",
-  "tag:medieval",
-  "tag:cavern",
-  "tag:soe",
-  "tag:limits",
-  "dependency:soe_full"
+  "title=Coven",
+  "releasedate=2006-10-13",
+  "game=quake",
+  "commandline=-game soe",
+  "author=Dustin \"Tronyn\" Geeraert",
+  "tag=large",
+  "tag=medieval",
+  "tag=cavern",
+  "tag=soe",
+  "tag=limits",
+  "dependency=soe_full"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/coven.zip",

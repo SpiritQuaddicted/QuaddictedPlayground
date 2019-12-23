@@ -44,21 +44,21 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "dd4cf3fb63f03919dd7bf958aec201d41ea0bae015fedbb657156c70ac3493f2",
  "tags": [
-  "title:Stark Monstrosity",
-  "releasedate:2009-01-21",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:RickyT23",
-  "tag:quoth",
-  "tag:base",
-  "tag:huge",
-  "tag:idbase",
-  "tag:large",
-  "tag:limits",
-  "dependency:quoth"
+  "title=Stark Monstrosity",
+  "releasedate=2009-01-21",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=RickyT23",
+  "tag=quoth",
+  "tag=base",
+  "tag=huge",
+  "tag=idbase",
+  "tag=large",
+  "tag=limits",
+  "dependency=quoth"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/starkmon.zip",

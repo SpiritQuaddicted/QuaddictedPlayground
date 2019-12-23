@@ -108,23 +108,23 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "e9cf74fd8a01d812e074e63dc80ed259ddcdefd2c549fdc8234e97020dc313d2",
  "tags": [
-  "title:Fort Driant",
-  "releasedate:2009-03-06",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:JPL",
-  "tag:base",
-  "tag:bunker",
-  "tag:reactor",
-  "tag:quoth",
-  "tag:hard",
-  "tag:sounds",
-  "tag:skybox",
-  "tag:large",
-  "dependency:quoth"
+  "title=Fort Driant",
+  "releasedate=2009-03-06",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=JPL",
+  "tag=base",
+  "tag=bunker",
+  "tag=reactor",
+  "tag=quoth",
+  "tag=hard",
+  "tag=sounds",
+  "tag=skybox",
+  "tag=large",
+  "dependency=quoth"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fort_driant.zip",

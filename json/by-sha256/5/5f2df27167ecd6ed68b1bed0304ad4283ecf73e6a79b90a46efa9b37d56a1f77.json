@@ -24,19 +24,19 @@
  "install": {
   "extract": "{quake}/ad/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "5f2df27167ecd6ed68b1bed0304ad4283ecf73e6a79b90a46efa9b37d56a1f77",
  "tags": [
-  "title:Fireplace",
-  "releasedate:2019-04-17",
-  "game:quake",
-  "commandline:-game ad",
-  "author:Cthulhu",
-  "tag:small",
-  "tag:wizard",
-  "tag:castle",
-  "tag:arcane dimensions",
-  "dependency:ad_v1_70final"
+  "title=Fireplace",
+  "releasedate=2019-04-17",
+  "game=quake",
+  "commandline=-game ad",
+  "author=Cthulhu",
+  "tag=small",
+  "tag=wizard",
+  "tag=castle",
+  "tag=arcane dimensions",
+  "dependency=ad_v1_70final"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_fireplace.zip",

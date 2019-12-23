@@ -32,20 +32,20 @@
  "install": {
   "extract": "{quake}/ad/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "7a854bcf4780eeaf5ef6cc55acf80a71cceee14494ea80e3bf20cfe25749ded5",
  "tags": [
-  "title:The Faults Within",
-  "releasedate:2016-05-20",
-  "game:quake",
-  "commandline:-heapsize 256000 -zone 4096 -game ad",
-  "author:mfx",
-  "tag:runic",
-  "tag:lava",
-  "tag:arcanedimensions",
-  "tag:remix",
-  "tag:small",
-  "dependency:ad_v1_42final"
+  "title=The Faults Within",
+  "releasedate=2016-05-20",
+  "game=quake",
+  "commandline=-heapsize 256000 -zone 4096 -game ad",
+  "author=mfx",
+  "tag=runic",
+  "tag=lava",
+  "tag=arcanedimensions",
+  "tag=remix",
+  "tag=small",
+  "dependency=ad_v1_42final"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_e3m2.zip",

@@ -20,21 +20,21 @@
  "install": {
   "extract": "{quake}/hipnotic/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "47eaa933454de75073185592a2c1c990bdf9f3a01d46b39cdbe3036a39e84abd",
  "tags": [
-  "title:Daredevil's Descent &amp; Cryogenic Crypt",
-  "releasedate:1997-05-15",
-  "game:quake",
-  "commandline:-hipnotic",
-  "author:Dan Koppel",
-  "tag:large",
-  "tag:runic",
-  "tag:wizard",
-  "tag:soa",
-  "tag:hipnotic",
-  "dependency:hipnotic",
-  "startmap:cryo1"
+  "title=Daredevil's Descent &amp; Cryogenic Crypt",
+  "releasedate=1997-05-15",
+  "game=quake",
+  "commandline=-hipnotic",
+  "author=Dan Koppel",
+  "tag=large",
+  "tag=runic",
+  "tag=wizard",
+  "tag=soa",
+  "tag=hipnotic",
+  "dependency=hipnotic",
+  "startmap=cryo1"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cryo.zip",

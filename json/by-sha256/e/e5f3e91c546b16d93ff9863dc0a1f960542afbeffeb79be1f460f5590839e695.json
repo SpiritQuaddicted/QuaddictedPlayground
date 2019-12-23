@@ -16,19 +16,19 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "e5f3e91c546b16d93ff9863dc0a1f960542afbeffeb79be1f460f5590839e695",
  "tags": [
-  "title:The Rats in the Walls",
-  "releasedate:2005-11-05",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:necros",
-  "tag:quoth",
-  "tag:medieval",
-  "tag:zombies",
-  "tag:doom",
-  "dependency:quoth"
+  "title=The Rats in the Walls",
+  "releasedate=2005-11-05",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=necros",
+  "tag=quoth",
+  "tag=medieval",
+  "tag=zombies",
+  "tag=doom",
+  "dependency=quoth"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_deadcity.zip",

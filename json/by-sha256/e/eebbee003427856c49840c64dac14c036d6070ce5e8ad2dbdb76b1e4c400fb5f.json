@@ -24,17 +24,17 @@
  "install": {
   "extract": "{quake}/lastgame/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "tags": [
-  "title:The last game",
-  "releasedate:1998-01-20",
-  "game:quake",
-  "commandline:-game lastgame",
-  "author:J.F.Gustafsson",
-  "tag:traps",
-  "tag:planetquake-map-of-the-week",
-  "startmap:start"
+  "title=The last game",
+  "releasedate=1998-01-20",
+  "game=quake",
+  "commandline=-game lastgame",
+  "author=J.F.Gustafsson",
+  "tag=traps",
+  "tag=planetquake-map-of-the-week",
+  "startmap=start"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lastgame.zip",

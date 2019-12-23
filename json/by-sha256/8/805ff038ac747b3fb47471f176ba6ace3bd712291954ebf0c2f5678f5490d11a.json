@@ -88,21 +88,21 @@
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "805ff038ac747b3fb47471f176ba6ace3bd712291954ebf0c2f5678f5490d11a",
  "tags": [
-  "title:Deja - Vu !",
-  "releasedate:2007-09-27",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:RickyT23",
-  "tag:quoth",
-  "tag:base",
-  "tag:episode",
-  "tag:small",
-  "tag:orlms",
-  "dependency:quoth",
-  "startmap:dvstart"
+  "title=Deja - Vu !",
+  "releasedate=2007-09-27",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=RickyT23",
+  "tag=quoth",
+  "tag=base",
+  "tag=episode",
+  "tag=small",
+  "tag=orlms",
+  "dependency=quoth",
+  "startmap=dvstart"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dejavu10.zip",

@@ -204,21 +204,21 @@
  "install": {
   "extract": "{quake}/dig/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "a52b100c7b5dd8e7a912605faa6cba3dd07e6f22875cc13563d1cd0321819bd9",
  "tags": [
-  "title:The Dig",
-  "releasedate:2000-07-28",
-  "game:quake",
-  "commandline:-game dig",
-  "author:Iain Bruce",
-  "tag:q3 gothic",
-  "tag:epic",
-  "tag:small",
-  "tag:base",
-  "tag:mine",
-  "tag:monsters",
-  "startmap:dig"
+  "title=The Dig",
+  "releasedate=2000-07-28",
+  "game=quake",
+  "commandline=-game dig",
+  "author=Iain Bruce",
+  "tag=q3 gothic",
+  "tag=epic",
+  "tag=small",
+  "tag=base",
+  "tag=mine",
+  "tag=monsters",
+  "startmap=dig"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dig.zip",

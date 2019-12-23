@@ -20,19 +20,19 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "8e176c3c8643974d9eb17c849c593973b8bbb00b8c9f713ef10a12466310f6fb",
  "tags": [
-  "title:SRC2: Slime Refinery Complex - Quoth2 Version",
-  "releasedate:2008-03-10",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:JPL",
-  "tag:base",
-  "tag:doom3",
-  "tag:quoth",
-  "tag:large",
-  "dependency:quoth"
+  "title=SRC2: Slime Refinery Complex - Quoth2 Version",
+  "releasedate=2008-03-10",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=JPL",
+  "tag=base",
+  "tag=doom3",
+  "tag=quoth",
+  "tag=large",
+  "dependency=quoth"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/src2.zip",

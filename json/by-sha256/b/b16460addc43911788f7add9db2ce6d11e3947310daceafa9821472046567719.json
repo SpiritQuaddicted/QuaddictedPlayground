@@ -72,21 +72,21 @@
  "install": {
   "extract": "{quake}/func_mapjam4/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "b16460addc43911788f7add9db2ce6d11e3947310daceafa9821472046567719",
  "tags": [
-  "title:Func Map Jam 4 - Low Gravity Runic Theme",
-  "releasedate:2015-02-02",
-  "game:quake",
-  "commandline:-heapsize 65536 -game func_mapjam4",
-  "author:FifthElephant",
-  "author:Rapowke",
-  "tag:gravity",
-  "tag:runic",
-  "tag:mapjam",
-  "tag:jam",
-  "startmap:jam4_fifth",
-  "startmap:jam4_rapowke"
+  "title=Func Map Jam 4 - Low Gravity Runic Theme",
+  "releasedate=2015-02-02",
+  "game=quake",
+  "commandline=-heapsize 65536 -game func_mapjam4",
+  "author=FifthElephant",
+  "author=Rapowke",
+  "tag=gravity",
+  "tag=runic",
+  "tag=mapjam",
+  "tag=jam",
+  "startmap=jam4_fifth",
+  "startmap=jam4_rapowke"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/func_mapjam4.zip",

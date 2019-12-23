@@ -24,23 +24,23 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "e25311172222e0a7e5a4af26aaa0b96e219f566387f71201de70b62846521a8d",
  "tags": [
-  "title:Conference of the Shamblers",
-  "releasedate:2014-01-01",
-  "game:quake",
-  "commandline:-game quoth -quoth",
-  "author:skacky",
-  "tag:knave",
-  "tag:large",
-  "tag:boss",
-  "tag:source",
-  "tag:city",
-  "tag:quoth",
-  "tag:limits",
-  "dependency:quoth",
-  "startmap:sksp2"
+  "title=Conference of the Shamblers",
+  "releasedate=2014-01-01",
+  "game=quake",
+  "commandline=-game quoth -quoth",
+  "author=skacky",
+  "tag=knave",
+  "tag=large",
+  "tag=boss",
+  "tag=source",
+  "tag=city",
+  "tag=quoth",
+  "tag=limits",
+  "dependency=quoth",
+  "startmap=sksp2"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sksp2b.zip",

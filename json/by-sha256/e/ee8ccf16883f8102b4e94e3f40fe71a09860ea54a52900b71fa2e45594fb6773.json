@@ -16,21 +16,21 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.23-19.15",
+ "json_version": "2019.12.23-20.57",
  "sha256": "ee8ccf16883f8102b4e94e3f40fe71a09860ea54a52900b71fa2e45594fb6773",
  "tags": [
-  "title:I Pity Thee Not",
-  "releasedate:2008-01-01",
-  "game:quake",
-  "commandline:-hipnotic -game quoth",
-  "author:Kell",
-  "tag:quoth",
-  "tag:metal",
-  "tag:lava",
-  "tag:medium",
-  "tag:runic",
-  "tag:mustplay",
-  "dependency:quoth"
+  "title=I Pity Thee Not",
+  "releasedate=2008-01-01",
+  "game=quake",
+  "commandline=-hipnotic -game quoth",
+  "author=Kell",
+  "tag=quoth",
+  "tag=metal",
+  "tag=lava",
+  "tag=medium",
+  "tag=runic",
+  "tag=mustplay",
+  "dependency=quoth"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kellmet1.zip",
