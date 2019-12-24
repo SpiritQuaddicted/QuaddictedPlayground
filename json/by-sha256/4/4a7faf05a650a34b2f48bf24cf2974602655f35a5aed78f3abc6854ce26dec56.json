@@ -4,49 +4,14 @@
  ],
  "files": {
   "doomcasl.bsp": {
-   "sha256": "e5cdf83d4eee44ad3aac18b73792943b91c53603e89f9d5f52147c8b2c1942bb",
    "size": 928376,
    "timestamp": "1997-02-21T18:50:58.000Z"
   },
   "doomcasl.txt": {
-   "sha256": "c3df9c0bff3a50853cb50ab9dd7d93102593e59490fcada20656190cf126357d",
    "size": 2643,
    "timestamp": "1997-02-22T08:58:40.000Z"
   },
   "rain.zip": {
-   "files": {
-    "rain/Progs.dat": {
-     "sha256": "6235c59bea62242761e305b9ef141e503beaad903e757bd1df5e76c80d2b693b",
-     "size": 414924,
-     "timestamp": "1996-12-06T23:26:14.000Z"
-    },
-    "rain/maps/raintest.bsp": {
-     "sha256": "7be4423a160ada9deabf9de9ae4296377d6910464ee318fa921357824a8ad0ad",
-     "size": 120608,
-     "timestamp": "1996-12-09T16:44:06.000Z"
-    },
-    "rain/misc.qc": {
-     "sha256": "c69bd8dbd803108dae98fb37d7bbbf392f119f4b46d90f46338ea8a0cd83c5c3",
-     "size": 17447,
-     "timestamp": "1996-12-06T23:25:22.000Z"
-    },
-    "rain/progs/s_rain.spr": {
-     "sha256": "cc6facb55b73827c89b9459665a1969468119a9e4465debc741da1c892373a4b",
-     "size": 37196,
-     "timestamp": "1996-12-02T17:26:26.000Z"
-    },
-    "rain/readme.txt": {
-     "sha256": "2a4a797b2dbebc6a577177b4ed2983dc0b4a870f482d9a1d8524556642402be7",
-     "size": 2116,
-     "timestamp": "1996-12-09T17:20:10.000Z"
-    },
-    "rain/sound/ambience/rain.wav": {
-     "sha256": "a196a2fc8a052368f9e8f7efe853391d1a99dfb1f6afae4fc7038222f2eb6fda",
-     "size": 91202,
-     "timestamp": "1996-12-09T15:55:56.000Z"
-    }
-   },
-   "sha256": "5f4f4b661dcc4faf7637c718d3b98cd129c7c4aa0f6b7192114c87ac6664a2f3",
    "size": 225358,
    "timestamp": "1997-02-20T15:42:32.000Z"
   }
@@ -55,7 +20,7 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "4a7faf05a650a34b2f48bf24cf2974602655f35a5aed78f3abc6854ce26dec56",
  "tags": [
   "author=Jacob Fike",

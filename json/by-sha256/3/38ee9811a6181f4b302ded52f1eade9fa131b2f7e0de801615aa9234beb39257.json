@@ -4,258 +4,22 @@
  ],
  "files": {
   "autoexec.cfg": {
-   "sha256": "e4cabaf2e70f14dd80b83297abb14a3977de873cbcaf7c21de045b060834c79d",
    "size": 120,
    "timestamp": "2000-12-30T12:58:56.000Z"
   },
   "czg07.txt": {
-   "sha256": "3c47de6ac6b0b8f2207d52df52eeb2aa64a2f66f4245e123daea0ed77494debc",
    "size": 8657,
    "timestamp": "2001-01-01T19:23:52.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "maps/czg07.bsp": {
-     "sha256": "f1819f7a9c73d104e54ce81cb7e8c69802496e71591970158fe8c436398ebe49",
-     "size": 2119692
-    },
-    "maps/czg07a.bsp": {
-     "sha256": "5912ee104468c2ebbdf8a7a0dd0f6bab6320c7667f92b99e59c1099f35e66d8c",
-     "size": 3465792
-    },
-    "maps/czg07b.bsp": {
-     "sha256": "889f2e969b77b7294835d3cb10acb5c9d28deabd8b7b5a8c5bf5a84ed262148e",
-     "size": 3955100
-    },
-    "maps/czg07c.bsp": {
-     "sha256": "c15e0990ab103fa221f3fde7da6a9cda67781abd57a0229383f79946f33f6c4f",
-     "size": 4021876
-    },
-    "sound/ambience/blood.wav": {
-     "sha256": "197a5b8be8ca0394264a763b13dcb9001818e3af2ea0a920769e697df19bc4ba",
-     "size": 240964
-    },
-    "sound/ambience/growl1.wav": {
-     "sha256": "e6cfa2d088c806a2700eeccf0d39352a5bf0bafc49b285e66572ad96a4865a5a",
-     "size": 108260
-    },
-    "sound/ambience/growl2.wav": {
-     "sha256": "9402a62b0453ad5096714f60913de471e5dce484832ce8fc53c18ec808e978b0",
-     "size": 329402
-    },
-    "sound/ambience/wind2.wav": {
-     "sha256": "ed83d4b3474202822a64d4266a9e6273925d336aed71dd6b9e3e039253abc4f1",
-     "size": 284862
-    }
-   },
-   "sha256": "d0dd560035cc43c707c9d1bdb76668b8232ea893b4441d3ac3a0b2c139606267",
    "size": 14526472,
    "timestamp": "2001-01-01T19:10:20.000Z"
   },
   "progs.dat": {
-   "sha256": "6cae3ed5852d70ca36a0c083d85eed016489beded4447ddd278270d18189d4e1",
    "size": 371420,
    "timestamp": "2000-12-30T22:36:18.000Z"
   },
   "source.zip": {
-   "files": {
-    "source/": {
-     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-     "size": 0,
-     "timestamp": "2000-12-30T21:49:04.000Z"
-    },
-    "source/Cwsdpmi.exe": {
-     "sha256": "0a890815df6cbdc052915a856c16944cedec825267e7b6e453c351a0cdc695f2",
-     "size": 25920,
-     "timestamp": "1996-07-12T17:31:50.000Z"
-    },
-    "source/Hipmisc.qc": {
-     "sha256": "514c126a33f3cd2bdf092051ae8bb6cc459f7fc6595eb0aab74ff26002f269d6",
-     "size": 4393,
-     "timestamp": "1996-01-01T13:34:36.000Z"
-    },
-    "source/Proqc160.txt": {
-     "sha256": "ec9e30e83c67a7d8f1176859947137a070c11e57f8882f9434eee0d0c8c4cc10",
-     "size": 9703,
-     "timestamp": "1997-06-18T15:39:50.000Z"
-    },
-    "source/Proqcc.exe": {
-     "sha256": "2e06f5304f83e96b1c9aca46cbd1691e21c9a6d946fb6352957043a18448e11e",
-     "size": 128516,
-     "timestamp": "1997-06-18T15:32:26.000Z"
-    },
-    "source/ai.qc": {
-     "sha256": "54a6329a086391d2f1296fd30afd5db9ca676f7f15911c703b15e440b4e5778c",
-     "size": 14521,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/amtest.qc": {
-     "sha256": "8dd158020b8c0be6988b0f1fbe03990372fb769442dbaf85248ef8c0e18645ee",
-     "size": 1697,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/buttons.qc": {
-     "sha256": "84893d4f5388d1d32f911030b5af96eff897c7df3aab27b480b92edb903f51db",
-     "size": 3033,
-     "timestamp": "2000-10-13T22:31:48.000Z"
-    },
-    "source/client.qc": {
-     "sha256": "8b53eb9cc87f8ecc30ed20ba436486f7ef344f26467e42be1bfdbe06b927ba37",
-     "size": 30937,
-     "timestamp": "2000-12-30T22:36:14.000Z"
-    },
-    "source/combat.qc": {
-     "sha256": "9e55bcbbb486d6c396ba9ee797de982be4cc79a94ffe2c40fba89bf3f72a5c4c",
-     "size": 6130,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/defs.qc": {
-     "sha256": "d203303b7356ca040059e926ffb1306f6215b2b145b4d10513641dec31939f77",
-     "size": 18039,
-     "timestamp": "2000-12-10T13:58:28.000Z"
-    },
-    "source/demon.qc": {
-     "sha256": "b20d0e3664ff9ff9e55222ad73507016a832b15a4cb28f93b86e90fa35ea445c",
-     "size": 9904,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/dog.qc": {
-     "sha256": "7dd3980dc2f284046f0e516b39d8b7391ac4a87b758b2f89aeb682feab2cc2bc",
-     "size": 9542,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/doors.qc": {
-     "sha256": "6bfe293c3eee577112cc0941993a0a601b3fde710be8359579bcebf0c0f81082",
-     "size": 17063,
-     "timestamp": "2000-08-20T17:42:20.000Z"
-    },
-    "source/enforcer.qc": {
-     "sha256": "01b86eed9379c58b6028480ab180b8dd7be433c4c143ca361ca149609961c379",
-     "size": 10727,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/fight.qc": {
-     "sha256": "c68c3310e794200ef61c79ed9665490b3e893ff7d2d6243e5f6aeda7d9885925",
-     "size": 7208,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/flag.qc": {
-     "sha256": "143f0b896c7515dcdaaf5b436d130fe1ffb6fa67cad2a34ad4639724201b3445",
-     "size": 141,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/hknight.qc": {
-     "sha256": "302a397cbd1fc639b70767a01a6d8e3696699165e2c4a00d1a33231102408682",
-     "size": 18298,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/items.qc": {
-     "sha256": "2bd44d5ebaf3041424781937f53a6c2208806460ca870d3746e5617f8303a489",
-     "size": 29870,
-     "timestamp": "2000-12-10T16:44:38.000Z"
-    },
-    "source/jctest.qc": {
-     "sha256": "0b356238bdae38139e36fb7f9ed5a72e65accee92b48f25035b79ec315a7da06",
-     "size": 222,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/knight.qc": {
-     "sha256": "53202927092c04d472a311e5ec8732cdb2ed9224c6520fbe4d126e152b5cee87",
-     "size": 9684,
-     "timestamp": "1996-09-26T11:15:38.000Z"
-    },
-    "source/misc.qc": {
-     "sha256": "ce43da2491342b82b30dcb7477ddf2127889d5d818c170bdf3e1642e4c8d8973",
-     "size": 15593,
-     "timestamp": "2000-12-16T16:09:18.000Z"
-    },
-    "source/models.qc": {
-     "sha256": "d11fd0939293244962c5a40766e1dce246bde98eb0d42c87eb530a58d6eca64d",
-     "size": 8996,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/monsters.qc": {
-     "sha256": "cd29084e3f58192819848c3030c6717487d2641d848d118da433e1348ee59c8e",
-     "size": 4798,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/ogre.qc": {
-     "sha256": "193565dc8f263640e62c476c885c432d774076dac8c99bca7105eadff0ebed85",
-     "size": 14657,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/plats.qc": {
-     "sha256": "598b1485ac329b39b8cf0c5cd9d9682adbf59d7b90d6109e24f9421372ceb6b1",
-     "size": 8080,
-     "timestamp": "2000-08-20T17:00:08.000Z"
-    },
-    "source/player.qc": {
-     "sha256": "659665c41b4cc226055e037fc9d2b89f9ad3836a2c9a7517e1655ad18338b380",
-     "size": 17554,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/progdefs.h": {
-     "sha256": "99e562ac15081804245e7c7018956f2241cffa00a024a954c97183248bd00ea4",
-     "size": 2598,
-     "timestamp": "2000-12-30T22:36:18.000Z"
-    },
-    "source/progs.src": {
-     "sha256": "0ec8ab304a1e8e92d8d73cc6307d84513c78c68bd5473c9ab0882068eac7fe01",
-     "size": 339,
-     "timestamp": "2000-12-21T23:28:18.000Z"
-    },
-    "source/shalrath.qc": {
-     "sha256": "4c53306f4412184ba7bc26b93acbcd5504d922d1056beaca11484665efcff1b7",
-     "size": 7880,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/shambler.qc": {
-     "sha256": "0c50557b8757d8be3a0876564cfa125e4e8389cae1c55c844871aff5f844c342",
-     "size": 12725,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/soldier.qc": {
-     "sha256": "f66da2d85ad5ac42dfe13fd434018e64ca8eddba1e7b3abb747b4577ba072d01",
-     "size": 9825,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/sprites.qc": {
-     "sha256": "c00564e7ca0ab70d7891931ff333461ff90aa6052f46e8ebb02f59de6e03787d",
-     "size": 450,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/subs.qc": {
-     "sha256": "8fa013564dcf7be1df26888fbc304159b29be25ed43c4599333c9d8de809b356",
-     "size": 6062,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/triggers.qc": {
-     "sha256": "cb9ce7900bd9b1c1fb0ce968ed6b4d0f14be4552f6a0fae6acff6954135ca4da",
-     "size": 14259,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/weapons.qc": {
-     "sha256": "7f3d2541500506fe8d6d9155f3893667d1c58ff5ac9e8cfd81aa183a6a5fd01c",
-     "size": 25227,
-     "timestamp": "1996-09-30T03:08:08.000Z"
-    },
-    "source/wizard.qc": {
-     "sha256": "250aa24a63df4d02949abe2cbeee24f9f959d1ecf468c6b3108d0384c7db6d32",
-     "size": 10663,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    },
-    "source/world.qc": {
-     "sha256": "a72e7eab7d9eefe4419e1e011f421d0c56f906029048c4fe8557743655e5406b",
-     "size": 11162,
-     "timestamp": "2000-08-20T16:02:02.000Z"
-    },
-    "source/zombie.qc": {
-     "sha256": "027ec53b0caa6c1c46c1f6156a854c886ab6fcd9c628707ebea1d3ca1c185519",
-     "size": 20108,
-     "timestamp": "1996-09-26T11:15:40.000Z"
-    }
-   },
-   "sha256": "2877c050afe49963739fca05bdf2310950e8e25038afb75d05df3bc64c912ace",
    "size": 186522,
    "timestamp": "2001-01-01T19:08:38.000Z"
   }
@@ -264,7 +28,7 @@
  "install": {
   "extract": "{quake}/czg07/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257",
  "tags": [
   "author=czg",

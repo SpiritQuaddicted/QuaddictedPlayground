@@ -4,42 +4,34 @@
  ],
  "files": {
   "fv.bsp": {
-   "sha256": "03b47bf69f9bf33c433d589a605845f9aafb493001716e3aa40bbda86c8bae42",
    "size": 180420,
    "timestamp": "2019-01-28T17:51:28.000Z"
   },
   "fv.lit": {
-   "sha256": "3357e30014b708839a960ff28efa9252d9f9167b21a05bcfaac5bd2143f5804d",
    "size": 9803,
    "timestamp": "2019-01-28T17:51:28.000Z"
   },
   "fv.map": {
-   "sha256": "88be74847f20d3a67d17960c7573bfa4fbab9cb58dcc6fe5a66bd1293f783fe6",
    "size": 44760,
    "timestamp": "2019-01-28T17:51:24.000Z"
   },
   "fv.txt": {
-   "sha256": "993ba6ebd67fe62f534a7e6bbcca1839f65c44ef2b8b8e2ebe573e0386fce64a",
    "size": 2139,
    "timestamp": "2019-02-07T15:23:00.000Z"
   },
   "lostv.bsp": {
-   "sha256": "0a2b1fbf8695f4d95d11cd47c1aa19b5308f1ba5a7d1024cb886205a50efc8fe",
    "size": 2457352,
    "timestamp": "2019-02-07T15:04:08.000Z"
   },
   "lostv.lit": {
-   "sha256": "6df05cc1c0c44ffd024d31fcf872ff23a1ee18f126efc76841891ecadb88406d",
    "size": 705374,
    "timestamp": "2019-02-07T15:04:08.000Z"
   },
   "lostv.map": {
-   "sha256": "bd7ab157d4c99ccf638b005b4b38ef89152e6af3af97f11619d402b368df5b01",
    "size": 836426,
    "timestamp": "2019-02-07T15:02:42.000Z"
   },
   "music/track81.ogg": {
-   "sha256": "6fb10e1a29c5f4062ab9cc808fe6b61c5dee786304e1654ad844c1728749b1ff",
    "size": 14004025,
    "timestamp": "2017-12-24T15:56:16.000Z"
   }
@@ -48,7 +40,7 @@
  "install": {
   "extract": "{quake}/quoth/maps/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6",
  "tags": [
   "author=nolcoz",

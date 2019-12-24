@@ -4,32 +4,26 @@
  ],
  "files": {
   "DEATH.BSP": {
-   "sha256": "3e628af42f6a420edd4e12a2bdfefb0334ae9b9b64a4c7738839649de98cc38c",
    "size": 1121576,
    "timestamp": "1996-12-06T22:55:22.000Z"
   },
   "DEATH.DEM": {
-   "sha256": "174114dc99a4f46f1c538ba6525ba4f492cd83493bb25d6f88c2eddc1b57d12a",
    "size": 794172,
    "timestamp": "1996-12-07T05:50:16.000Z"
   },
   "DEATH.LOG": {
-   "sha256": "540a676c5a0b69f7cfb9f012a727512e85b849a55c368df0991d71632246dc85",
    "size": 1044,
    "timestamp": "1996-12-07T06:00:08.000Z"
   },
   "DEATH.TXT": {
-   "sha256": "2eff8a5f867fc4485b49167e0ad2009e51b5143ad771da687ef179d078739edd",
    "size": 1558,
    "timestamp": "1996-12-07T05:58:30.000Z"
   },
   "DEATH2.DEM": {
-   "sha256": "57a3568893479a1d2a75a1b3e5f3b9e2bf2fce3a92e36e1b4a7bd793d7697c54",
    "size": 272999,
    "timestamp": "1996-12-07T05:53:12.000Z"
   },
   "QBSP.LOG": {
-   "sha256": "5ef11e6b1e3c03f6c9fbbf8ad38f7deb7827f16a1e612309a614ab0c392b9ca7",
    "size": 1410,
    "timestamp": "1996-12-07T06:01:56.000Z"
   }
@@ -38,7 +32,7 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "38ac8d891811f43e83f130756ee81e06bf90e0c01216aead3f994865a1c025f4",
  "tags": [
   "author=Marc Roussel",

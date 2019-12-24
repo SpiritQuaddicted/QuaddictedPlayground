@@ -4,221 +4,38 @@
  ],
  "files": {
   "gibfact/Pak0.pak": {
-   "files": {
-    "gfx.wad": {
-     "sha256": "66c2f011d0ae47550f57a8d7b39000f534c49653442ab0d392480683f6851184",
-     "size": 112828
-    },
-    "gfx/conback.lmp": {
-     "sha256": "2d7cf7444909c92b475991b069a665145dc15302137dce41745ca7f0e2e01312",
-     "size": 64008
-    },
-    "maps/gibfact.bsp": {
-     "sha256": "b89977d36f763e2dc9feea621adf888e3966346a24869ebb2cd50b56fe07e767",
-     "size": 1540496
-    },
-    "progs.dat": {
-     "sha256": "5783b0c20a1948e61bda81ef7ad792e23761c78f143aef5379c75b1f2844be63",
-     "size": 478200
-    },
-    "progs/blarg.mdl": {
-     "sha256": "1eabc36dc559cfe8a0c1a712d3de429787df488bbeea133fbf4ffffe547716ba",
-     "size": 123740
-    },
-    "progs/cyber.mdl": {
-     "sha256": "6e2fd875956e03ea76f16bc69a43749d87ed2e8216a8653234792b8dbb9fc1c2",
-     "size": 84708
-    },
-    "progs/drngib1.mdl": {
-     "sha256": "718b8c2842877345426247148dd6ce1ebe7fecc13e969a0fa0ed6dbebc388099",
-     "size": 17204
-    },
-    "progs/drngib2.mdl": {
-     "sha256": "0a386b6381824b01852910519490ac3f6e3309a96091820384ee6b9a5b452e7a",
-     "size": 35656
-    },
-    "progs/drngib3.mdl": {
-     "sha256": "c9d01a6049159bf8ac0328b49a296c4b8851d3e2e432168675f9e8b1b2ac75d7",
-     "size": 42196
-    },
-    "progs/drone1.mdl": {
-     "sha256": "ebd3e614ca2afdead497209fcf79f304218f4cff2bd3bca7d3e3a6c542f63362",
-     "size": 68972
-    },
-    "progs/g_plasma.mdl": {
-     "sha256": "c5af6bb197f51c0236c1a85cbd6907f33107247858a922def7d2382c488fdf0c",
-     "size": 50636
-    },
-    "progs/h_cyber.mdl": {
-     "sha256": "53539bc39fc87627a46b75b0d86ade5e6116a0079b032b1df137b2425b7186cc",
-     "size": 60824
-    },
-    "progs/leg_gib.mdl": {
-     "sha256": "210e159ea4c9bf1f2431213fd95902f4ea75ecee6a67a22bed7e93366f1f2732",
-     "size": 33184
-    },
-    "progs/manga3.mdl": {
-     "sha256": "81bb691947f88dda5672ab1e1af689098d08a9b5bea9d31c38197db909fe3b76",
-     "size": 96256
-    },
-    "progs/pbullet.mdl": {
-     "sha256": "1138a77a7f5898f26756ce32b9fb64772eba419ed71e478d99198a9b6ae9a3a6",
-     "size": 45876
-    },
-    "progs/s_ablast.spr": {
-     "sha256": "056e4c0505d634afbb799b50fdac609ef9695fbc11ac03e09f396fcc98387357",
-     "size": 15816
-    },
-    "progs/soldier.mdl": {
-     "sha256": "1b2de1dca9c15240ef20c5e48cf473691b00304a8cf0dcc7cf4892e643e5e49a",
-     "size": 146288
-    },
-    "progs/v_airgun.mdl": {
-     "sha256": "07321d9bbbc3065650d33a195f6e83bd3c173ddf7f536f1d823a7d6b9b68d918",
-     "size": 71065
-    },
-    "progs/v_plasma.mdl": {
-     "sha256": "4f2a06e5b9df3dddd29962562e8a8959cdf643fb9bee5b922ceda4303d2161fd",
-     "size": 54564
-    },
-    "sound/blarg/bidle.wav": {
-     "sha256": "2f57c1c5ce363e090853eff5622131a1f978dbc62aa5998472ef9cedb041c4f5",
-     "size": 25832
-    },
-    "sound/blarg/bidle2.wav": {
-     "sha256": "958724313246d20cad51194f35d539927556b3c7917f983d5344b8886bafb759",
-     "size": 23488
-    },
-    "sound/blarg/bjump.wav": {
-     "sha256": "3b2c6d6e536a756323fd056083eb0093a3330bbf4c829e0354f401a9074f22fb",
-     "size": 23646
-    },
-    "sound/blarg/bjump2.wav": {
-     "sha256": "1c6406eff6b00c029baa2b8d5a1c84a13bc21f47be0a84e80d852c4c7d10df4c",
-     "size": 6908
-    },
-    "sound/cyber/boom.wav": {
-     "sha256": "72e737f04f1d34044dfd812c6b0e233cd38a91e6b089633e312678756952de87",
-     "size": 15692
-    },
-    "sound/cyber/cybdie.wav": {
-     "sha256": "bd4cd7902712282ef8f2f749e6fcf805c2ac5212994fbb1c22fc0fe0ea5d08e2",
-     "size": 16625
-    },
-    "sound/cyber/cybfire.wav": {
-     "sha256": "0b472a984137667f4788336a4f7c60e07a8893f47317b2a158aeea39920d729f",
-     "size": 15527
-    },
-    "sound/cyber/cybhoof.wav": {
-     "sha256": "8fe56b192838dafdf7ff4737cf1e5555d3295cbca49c1ab83568281ee188153c",
-     "size": 4107
-    },
-    "sound/cyber/cybmet.wav": {
-     "sha256": "3ea23b8d7a68e754211a10a5338b0c8d65df6e2138d4cfe06cc053b9a0f601ae",
-     "size": 8122
-    },
-    "sound/cyber/cybpain.wav": {
-     "sha256": "ff30aba221d16a42d4aeeef69ca416ba76b5cca5ecbcb328cfe38e2377fed6cd",
-     "size": 9555
-    },
-    "sound/cyber/cybsee.wav": {
-     "sha256": "a5ec6d4eaa707ad0246b7a7e7737b1007043ea5e5634f6f63661ecc20c27c459",
-     "size": 13081
-    },
-    "sound/cyber/servo.wav": {
-     "sha256": "b7aac875623f8dca7597eff3dcab5910453d043fd1f9df20da89232ce8bf9306",
-     "size": 48508
-    },
-    "sound/died.wav": {
-     "sha256": "3ce14cdac970a150f567dbd07cf1763f695245c34f5bf4e31ec07bfeb232db30",
-     "size": 24492
-    },
-    "sound/dsfirxpl.wav": {
-     "sha256": "37bdd29355d23929387176318e88a273d9708ee70b28a02449a3e721f8eec60a",
-     "size": 11737
-    },
-    "sound/dsplasma.wav": {
-     "sha256": "19cd26033d246d30e47a24fdf0ef3684531e0794a8238e6d380c6a8624d1cd19",
-     "size": 5738
-    },
-    "sound/ha.wav": {
-     "sha256": "ba2108ad5070860873887308293efd3a9635a6c4dcb3fb39357a9e16f89f97b5",
-     "size": 2708
-    },
-    "sound/hiyaa.wav": {
-     "sha256": "1446e8afbfdf48a08ca6727604b33585efdd67a6d14b4b1c96bb05c6ccd5ac3a",
-     "size": 36876
-    },
-    "sound/kungfu.wav": {
-     "sha256": "025b6eed19d193bd6be4c4f8f2bc7b9fb14e5c127257e570fd9fc98fd464f2a3",
-     "size": 29008
-    },
-    "sound/ohdju.wav": {
-     "sha256": "346d38c12edad612ec4915d3361ebfbb81b06bee9cdb73eb9b9e0d2cc2ea6d10",
-     "size": 12588
-    },
-    "sound/tchak.wav": {
-     "sha256": "f77d88ab76f7a092a7a5d40fb0aaf9530dc6da8e45559fcf1a1b5ea2aa88029b",
-     "size": 10166
-    },
-    "sound/weapons/agfail.wav": {
-     "sha256": "ebeaaa43622fff993c83df58511bd7f3569e9aef9bbc478c9cc6b2e8b9e3e77f",
-     "size": 66197
-    },
-    "sound/weapons/agfire.wav": {
-     "sha256": "db3466708718063963d8996e51bdc4e8bd0033d9932f387f624f274f6c7c648b",
-     "size": 66197
-    },
-    "sound/weapons/agwater.wav": {
-     "sha256": "208883c1961633e728d5c1894a193acc923de928adf9cc77ae40244645951046",
-     "size": 85900
-    },
-    "sound/weapons/agwfail.wav": {
-     "sha256": "626e26302f5b01b7a13b1354c13a41c45dfa0df9c2e9b5af4037454f8f215f37",
-     "size": 31382
-    }
-   },
-   "sha256": "aab95875c19bd106d16af5bb84ab597671b3727c779458ce1e880eac12b6db68",
    "size": 3739361,
    "timestamp": "1997-02-01T22:32:04.000Z"
   },
   "gibfact/gibfact.txt": {
-   "sha256": "2e0e914bc1eebe2b4f809424ca8f49ef5c03d3b5314ed230d98cc42ad490dd25",
    "size": 11043,
    "timestamp": "1997-02-01T23:07:12.000Z"
   },
   "gibfact/text/BLARG.TXT": {
-   "sha256": "8ce3f6cac70575268de8663f42df48d253bd83d278b344484a94f9f0051e52e8",
    "size": 2787,
    "timestamp": "1997-02-01T20:53:24.000Z"
   },
   "gibfact/text/CYBER.TXT": {
-   "sha256": "5ed7e198ea6f777cd5f3b819ed1f13f0daae6020931f0f86b12b8f1570a95bad",
    "size": 1551,
    "timestamp": "1996-12-11T20:46:22.000Z"
   },
   "gibfact/text/DRONE.TXT": {
-   "sha256": "3d584637ba86d4c5df2be4792ca5e2133cae703716a10de901625c3f240e8a3e",
    "size": 3326,
    "timestamp": "1996-12-24T22:33:36.000Z"
   },
   "gibfact/text/IKPLASMA.TXT": {
-   "sha256": "38a400e8af147dad35ffe143bcc46d9e0268fe0077431b02a6d337c8f05da621",
    "size": 6150,
    "timestamp": "1997-01-07T02:37:08.000Z"
   },
   "gibfact/text/airfist.txt": {
-   "sha256": "3b66ac03520be5167daec3bed6e0ceb1be36e119c71f77a52ffacfadd94e8083",
    "size": 6487,
    "timestamp": "1997-01-22T09:31:58.000Z"
   },
   "gibfact/text/manga.txt": {
-   "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
    "size": 2019,
    "timestamp": "1996-11-03T23:57:58.000Z"
   },
   "gibfact_quaddictedrepack.txt": {
-   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "size": 319,
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
@@ -227,7 +44,7 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "687689c7b7b433b60de0ab9cf326f82ea022abf4f86a144abfd01169f7ceea46",
  "tags": [
   "author=Ed Cope",

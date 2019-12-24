@@ -4,38 +4,10 @@
  ],
  "files": {
   "pak0.pak": {
-   "files": {
-    "demo1.dem": {
-     "sha256": "a204b73e25a922e4fbf6dc52e465f3042ab633e5460ef489903fb14ce9d195be",
-     "size": 130932
-    },
-    "demo2.dem": {
-     "sha256": "052dd2509bcb1ee6da472c3cc3a09e69c31efd2917a0553b378dfd741396ec6f",
-     "size": 198207
-    },
-    "maps/level5.bsp": {
-     "sha256": "1923d9bb2dea3e8b27bbd9f6f055eae2d50e8939deaef4f60116831445ac8423",
-     "size": 1836152
-    },
-    "maps/start.bsp": {
-     "sha256": "c6b90f8be173fdc117a935cd05ef483a173f3a0966dc32c357e6d5c1041f55d5",
-     "size": 472592
-    },
-    "progs.dat": {
-     "sha256": "17e49a869f754d237669cfdae6aa3675e77d76886ec3ca654d40efcb1cda25ce",
-     "size": 417608
-    },
-    "quake.rc": {
-     "sha256": "a33d6bc621bbf8a9350e5bbed78ed3d9a9ab471c38ebbfd9f926ec4ef5b7101a",
-     "size": 298
-    }
-   },
-   "sha256": "59fa7273df4000fab1e74b72ab1313173f05a3057f54f205bc7ab57c9c86c97e",
    "size": 3056185,
    "timestamp": "1998-05-19T08:42:46.000Z"
   },
   "readme.txt": {
-   "sha256": "904a4ed1680fd274a6905114a8a70d51e6171aff7cecb3b004977d69f4c7af16",
    "size": 2006,
    "timestamp": "1998-05-19T17:18:10.000Z"
   }
@@ -44,7 +16,7 @@
  "install": {
   "extract": "{quake}/level5/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756",
  "tags": [
   "author=Kevin Rogers",

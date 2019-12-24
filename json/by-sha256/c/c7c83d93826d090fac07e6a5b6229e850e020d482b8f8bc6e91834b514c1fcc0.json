@@ -4,70 +4,10 @@
  ],
  "files": {
   "pak1.pak": {
-   "files": {
-    "maps/sof2.bsp": {
-     "sha256": "4a72761487a4d062609c9865f85ed4f1e264ccdb4219aad58629d099f5e43185",
-     "size": 1000320
-    },
-    "maps/sof3.bsp": {
-     "sha256": "a455950704c1f9cb7228590109dfe6bc76186ec5f1a617b03e7d324505cc3a03",
-     "size": 1425796
-    },
-    "progs/enforcer.mdl": {
-     "sha256": "560ebbb3c8d99419f962cdac1d0afd82ce5a75de25f85287d67d851651ec1f55",
-     "size": 160688
-    },
-    "progs/h_mega.mdl": {
-     "sha256": "f70250a42d2d78c15d17378b1700a51a4bb968c9c5197d653af3f7cb3d9550b6",
-     "size": 11828
-    },
-    "progs/h_wizard.mdl": {
-     "sha256": "a624bfdb2200defca02e2a7995b784ed1313f72feebe55deae2f0d63a3eea570",
-     "size": 14804
-    },
-    "progs/wizard.mdl": {
-     "sha256": "fc3753268943520b44d6f803f3c9258de90d7539f68e15312620cce1654fa312",
-     "size": 64472
-    },
-    "sound/misc/cartmove.wav": {
-     "sha256": "19b761c9bd70caf27c2e9e4817c940ff7bcba4de56ca8e7fb49b6fcb46d239b3",
-     "size": 64174
-    },
-    "sound/misc/cartstop.wav": {
-     "sha256": "d0c27d50f89c026621adf54a10cd0fb77c481427f79194a307b50247bfe8591a",
-     "size": 10394
-    },
-    "sound/misc/dale.wav": {
-     "sha256": "dc5e50ad846f2ddac6300951e86af38df3c9560f533a278d1788c72fa55e88f6",
-     "size": 103196
-    },
-    "sound/misc/escape.wav": {
-     "sha256": "deebae0479841de28f1728ab4f34efd55ee33494dadf745dcad27964aad32baa",
-     "size": 48049
-    },
-    "sound/misc/forklift.wav": {
-     "sha256": "56b7b2b1a490c04af596a0067e603349c1040c2a2ce5ce7b0b0754b3c4dc2548",
-     "size": 55627
-    },
-    "sound/misc/glass.wav": {
-     "sha256": "31ed1a84b918350a680fd71bb6c4e8948afe690593cc0b29c9e2f70bac631935",
-     "size": 31602
-    },
-    "sound/misc/ignition.wav": {
-     "sha256": "cd593b896482ed4ab267ed4b10566c6e605ed42022fd4c284422bc7d9d571ab0",
-     "size": 32099
-    },
-    "sound/misc/wbreak.wav": {
-     "sha256": "9ef0444bb4e4ea6126f955d8010efadea34bbb93b7d6ca464f7ec5816c4e7bbb",
-     "size": 18850
-    }
-   },
-   "sha256": "b275f1c8d6f3001e3a5d0fb961c0ada76044f26015e1521774d21a53cbd0170f",
    "size": 3042807,
    "timestamp": "1997-11-10T21:43:32.000Z"
   },
   "sofsp2.txt": {
-   "sha256": "bd5b5b78199ba8c76312816b29d80a9ba2c8460f634b7f189d5e450322a0ea10",
    "size": 12908,
    "timestamp": "1997-11-10T22:41:50.000Z"
   }
@@ -76,7 +16,7 @@
  "install": {
   "extract": "{quake}/soldier/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "c7c83d93826d090fac07e6a5b6229e850e020d482b8f8bc6e91834b514c1fcc0",
  "tags": [
   "author=Neil Manke",

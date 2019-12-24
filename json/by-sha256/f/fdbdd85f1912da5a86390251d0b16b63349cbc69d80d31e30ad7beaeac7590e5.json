@@ -4,67 +4,14 @@
  ],
  "files": {
   "Pak0.pak": {
-   "files": {
-    "maps/t1m1.bsp": {
-     "sha256": "c0638eb7405beec09e2042d75812b6255d9a675f78d85912cb9f896fb3c25d05",
-     "size": 1883308
-    },
-    "maps/temple.bsp": {
-     "sha256": "0a658b5cb14a7eda2a2d6d7be8d163af78e266e5a49b87203c96a08dfb0bc37b",
-     "size": 242840
-    },
-    "progs/bolt.mdl": {
-     "sha256": "37fa6ec840593d41ab76bd2fda0ab655faf1c854dd490af4c6a4dbf2ad38db8f",
-     "size": 20644
-    },
-    "progs/bolt2.mdl": {
-     "sha256": "d25a0a7905aed5cc42a401307fa2d1b1804beb364321b03b7295a0dc8f152f1b",
-     "size": 11860
-    },
-    "progs/bolt3.mdl": {
-     "sha256": "e458d7416bf28a6b035b30a1887fc8eaf11fd15d761070e221b95c7dfdeac3cf",
-     "size": 11860
-    },
-    "progs/demon.mdl": {
-     "sha256": "74948788cb18e9baa3e7cd8249d0a0875a21b11129efb778a460e3a3687d05c8",
-     "size": 102120
-    },
-    "progs/h_demon.mdl": {
-     "sha256": "451b1416f9eab7522e86ba651881a4b19bb4e0263ea23a26a9aa05539d1750e7",
-     "size": 34884
-    },
-    "progs/h_knight.mdl": {
-     "sha256": "2784794b43ecbba4abc5c79b34975ae85328416698c4ff92c91d335443d8f1cb",
-     "size": 7156
-    },
-    "progs/h_shams.mdl": {
-     "sha256": "577373e902db2aa17bd5ac4b9ce6feb201c0fa8a69af077675efbef4a53968a5",
-     "size": 37060
-    },
-    "progs/knight.mdl": {
-     "sha256": "a3a23f12b778f0c5d7a24598903b2e641b7b310cc371bcee41ffccc0f9c4a5cd",
-     "size": 101404
-    },
-    "progs/s_light.mdl": {
-     "sha256": "32a1156fc7390c5e66f5e49438d9f310936eff2cfec7f76141f10bcbdc636b74",
-     "size": 27596
-    },
-    "progs/shambler.mdl": {
-     "sha256": "cf09e108fb1b00c5b901df543359f209ec78fee54a8139f82f4698ae746bf007",
-     "size": 98556
-    }
-   },
-   "sha256": "d4f8db1d3c587d0d74b270d45ed67c40e1e7e759e14084fabd047a00f29bd5cd",
    "size": 2580068,
    "timestamp": "1997-11-06T23:00:14.000Z"
   },
   "temple.bat": {
-   "sha256": "cbf5dab7bd6d92be2661e49e9fcc98a570633fe1e728ab18cadbe41c1dae1ddf",
    "size": 26,
    "timestamp": "1997-10-30T19:28:36.000Z"
   },
   "temple.txt": {
-   "sha256": "fa2f62dee7a16c4be087b49dfecc5ff617b88d77d283dc61fb6e962cbba5c73c",
    "size": 2082,
    "timestamp": "1997-11-07T19:15:16.000Z"
   }
@@ -73,7 +20,7 @@
  "install": {
   "extract": "{quake}/eltemple/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "fdbdd85f1912da5a86390251d0b16b63349cbc69d80d31e30ad7beaeac7590e5",
  "tags": [
   "author=Rob Marton (nn6)",

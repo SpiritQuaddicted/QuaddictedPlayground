@@ -4,52 +4,18 @@
  ],
  "files": {
   "CONFIG.CFG": {
-   "sha256": "cd4badf497311d39662af35de5bac6f45c869ba9ac4490b749928db052851942",
    "size": 3646,
    "timestamp": "1997-07-25T18:54:26.000Z"
   },
   "PROGS.DAT": {
-   "sha256": "0488bf92428de4df29a111c8cda5f26d7b6465163df458064a3b6f45ac867e87",
    "size": 428668,
    "timestamp": "1997-07-25T18:54:26.000Z"
   },
   "Pak0.pak": {
-   "files": {
-    "maps/redrum.bsp": {
-     "sha256": "e205bd502da87f42c4f93424fd3260ae9eb0b57d94eb8cf0b0ffdd1ae52e8cdd",
-     "size": 1698148
-    },
-    "maps/wind.bsp": {
-     "sha256": "2f29c2e630b37d2553bf26ada10b941723b939dcac1db2bb68588ca00b929e21",
-     "size": 2794500
-    },
-    "sound/ambience/comp1.wav": {
-     "sha256": "34afc2c54c4524da10adc3d3265cfec15ea9447f23b9455bcf50ac20cd8a8c17",
-     "size": 93644
-    },
-    "sound/ambience/drone6.wav": {
-     "sha256": "40b31039222c39b94fae63a40d7db601a73c45bae768a3699500fb29e08b8425",
-     "size": 16680
-    },
-    "sound/ambience/swamp1.wav": {
-     "sha256": "12de3165b87ed0b8442d92d35181820d9e03c753535afe92f2fefbcae77fc4e6",
-     "size": 94277
-    },
-    "sound/ambience/swamp2.wav": {
-     "sha256": "576034c9b3592f9471c3bcd76d671532ea5fee11bbfcf4478e661962786e442c",
-     "size": 58332
-    },
-    "sound/shalrath/idle1.wav": {
-     "sha256": "6a69f3635136303676e168088af4a55442cb77f914e2e82f77e06e07339f0f4e",
-     "size": 27111
-    }
-   },
-   "sha256": "8dd4df5f1988ee9f389c3a5fa742868a89e3238123e66c320e77cc0fb6122249",
    "size": 4783152,
    "timestamp": "1997-07-25T19:07:54.000Z"
   },
   "wind.txt": {
-   "sha256": "e5ae7df5f143f3bcb9e570fda8d6b850649a862edb266dcde08754855d934ed2",
    "size": 4389,
    "timestamp": "1997-07-26T19:04:54.000Z"
   }
@@ -58,7 +24,7 @@
  "install": {
   "extract": "{quake}/wind/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "b8764eb32c3066e9b15aa2c2fd7fe8f0164b81df2aaf523b32cbf2ad234143e5",
  "tags": [
   "author=Steve Wilson (Thundermug)",

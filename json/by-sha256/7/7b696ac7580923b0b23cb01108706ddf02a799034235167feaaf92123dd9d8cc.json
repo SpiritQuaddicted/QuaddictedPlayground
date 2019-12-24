@@ -4,26 +4,10 @@
  ],
  "files": {
   "CDA.txt": {
-   "sha256": "224f5956b39c81b56dc0ff5bd3138c1d3066249354cbf5ae7d6d83ae5c07615a",
    "size": 4712,
    "timestamp": "2005-10-22T18:51:04.000Z"
   },
   "PAK0.pak": {
-   "files": {
-    "maps/cda.bsp": {
-     "sha256": "74b652f09953c116a8d1921f42e2d168add317483b4b2bc500faef64d653c673",
-     "size": 7204696
-    },
-    "maps/cda.lit": {
-     "sha256": "9ed5fb538d3c51a52a86726fbb47924b7de83e946dc004c42d9967b0976f3aa8",
-     "size": 2506796
-    },
-    "progs.dat": {
-     "sha256": "d776573027f19c587f8bec0bd703b3f67117659022fb00b32880994ed2920ec5",
-     "size": 419456
-    }
-   },
-   "sha256": "3fc6d45349e61065724b48aec53c599d8f830ff81c7dd8a824a2ee730d0f1a6b",
    "size": 10131152,
    "timestamp": "2005-10-22T09:21:54.000Z"
   }
@@ -32,7 +16,7 @@
  "install": {
   "extract": "{quake}/cda/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc",
  "tags": [
   "author=JPL",

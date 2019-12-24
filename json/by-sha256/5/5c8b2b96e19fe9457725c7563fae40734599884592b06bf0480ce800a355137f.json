@@ -4,61 +4,22 @@
  ],
  "files": {
   "alk10/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2001-08-10T18:40:20.000Z"
   },
   "alk10/alk10.html": {
-   "sha256": "bdff411a07a1bdef8cb3be1dc9233711b671246148f8991abedc5372c0fa3f32",
    "size": 20251,
    "timestamp": "2001-08-09T19:24:44.000Z"
   },
   "alk10/alk10.jpg": {
-   "sha256": "2caa680f51da08deb5ea912db4a95285715cd5d8e5a3778d8212f3d5100b9ce1",
    "size": 63971,
    "timestamp": "2001-06-18T20:06:26.000Z"
   },
   "alk10/alk10.txt": {
-   "sha256": "66172060544129c052cde3209de94516265a8435afae9c9be2e0535566d519cc",
    "size": 3474,
    "timestamp": "2001-08-09T20:41:16.000Z"
   },
   "alk10/pak0.pak": {
-   "files": {
-    "maps/alk10a.bsp": {
-     "sha256": "418c1d69f939609d40d71bb3ec66336b4c478f374bbb117d81a1a2a5c74ec791",
-     "size": 1650932
-    },
-    "maps/alk10b.bsp": {
-     "sha256": "ada9b1b0e3e91e524c3d0356b0468fc5b0f2989a3901bc18fcd65a39c7462fff",
-     "size": 1055804
-    },
-    "maps/alk10c.bsp": {
-     "sha256": "4a94bcc4420db17b7b91535e41ae5f86856802939cd82559d3f8bfa9630e2c34",
-     "size": 1366852
-    },
-    "maps/alk10d.bsp": {
-     "sha256": "f66a3fbe6b6a57200a6aff5e8d473b7276373eefc682aeb8d522bd08634b5be2",
-     "size": 584840
-    },
-    "mods/alk10a.xm": {
-     "sha256": "183b9d9a472b927a6e1be021b10f8502ed95cc6fed8d83f63978ee78844df33a",
-     "size": 383080
-    },
-    "mods/alk10b.s3m": {
-     "sha256": "1dcde863f58377fbc050dd0a52767fbb7577f0a5f3def5dbf02be7a2680ddee8",
-     "size": 389680
-    },
-    "mods/alk10c.xm": {
-     "sha256": "dc281be0a4ba848fb77e5e094d15925f912702cf161d04e46b446c9eb763e64e",
-     "size": 638666
-    },
-    "progs.dat": {
-     "sha256": "822e6337e3ad97646db4998e15ddf5923bf3a4bfb7bb467b7cfdc0bd53ce144e",
-     "size": 1021636
-    }
-   },
-   "sha256": "935cb7852ae1253c70cb6902bb70c0124bcfcc6da3713a4b0c3e5e82a7358d94",
    "size": 7092014,
    "timestamp": "2001-08-05T00:10:54.000Z"
   }
@@ -67,7 +28,7 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f",
  "tags": [
   "author=Shaun [Kona] Ross",

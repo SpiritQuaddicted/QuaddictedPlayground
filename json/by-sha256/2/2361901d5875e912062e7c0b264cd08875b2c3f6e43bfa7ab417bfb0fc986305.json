@@ -4,62 +4,50 @@
  ],
  "files": {
   "bindingtower.txt": {
-   "sha256": "523d83dc1b35fa63b4dba4cf1c46e5293c949e8ff0433040048ebbb972879695",
    "size": 1683,
    "timestamp": "2019-05-13T19:41:06.000Z"
   },
   "gfx/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2019-06-10T11:17:54.000Z"
   },
   "gfx/env/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2019-06-10T11:17:54.000Z"
   },
   "gfx/env/adgreenskybk.tga": {
-   "sha256": "6a7fa2cdc97237658a3f2c73a8a5d879feadf4a31e84fb8585aeba96f3f8fb61",
    "size": 1520289,
    "timestamp": "2015-11-28T11:58:10.000Z"
   },
   "gfx/env/adgreenskydn.tga": {
-   "sha256": "d4fabe617a431169df1bbc37e48404fc34718a1bbf5a1ee45d5b3a0ddda5cc6c",
    "size": 1565620,
    "timestamp": "2015-11-28T12:03:10.000Z"
   },
   "gfx/env/adgreenskyft.tga": {
-   "sha256": "c6cfbbd8b09846eaea719a5e65744cdd4fddced0c277f4584c743f2639882d50",
    "size": 1704063,
    "timestamp": "2015-11-28T11:58:36.000Z"
   },
   "gfx/env/adgreenskylf.tga": {
-   "sha256": "c83f24917ccb67af83602236d03e57096f73b36b7fc64da6206afe989944b4a4",
    "size": 1576943,
    "timestamp": "2015-12-20T09:10:46.000Z"
   },
   "gfx/env/adgreenskyrt.tga": {
-   "sha256": "7b85287d2ce5e4d3a9ce63a560183086e812ceca9232d07eb61f63a24d678e10",
    "size": 1706213,
    "timestamp": "2015-11-28T11:59:02.000Z"
   },
   "gfx/env/adgreenskyup.tga": {
-   "sha256": "703e4449b5b9ff967610dbc81d7e27c089788927d82fdb31267490cfb30ed0e3",
    "size": 1798684,
    "timestamp": "2015-12-20T09:36:08.000Z"
   },
   "maps/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2019-06-10T11:17:54.000Z"
   },
   "maps/bindingtower.bsp": {
-   "sha256": "dc2b3cb35f1578dc1bf82d82f5f66c03a80c0b9810060dfb875533461660e4a6",
    "size": 14849528,
    "timestamp": "2019-06-10T16:43:38.000Z"
   },
   "maps/bindingtower.map": {
-   "sha256": "f20e51e8d33a70d7ec971cbb2eb1fa1544382abc4fdedfdb07126165c96aa384",
    "size": 5134865,
    "timestamp": "2019-06-10T16:19:54.000Z"
   }
@@ -68,7 +56,7 @@
  "install": {
   "extract": "{quake}/id1/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305",
  "tags": [
   "author=Albert van Zyl",

@@ -4,64 +4,14 @@
  ],
  "files": {
   "PAK0.PAK": {
-   "sha256": "f448d7b9913852bf816e4b6b4f2f32e9c4b16e69999d8049289c4700c65b933a",
    "size": 1165524,
    "timestamp": "1997-01-15T20:23:48.000Z"
   },
   "cck.zip": {
-   "files": {
-    "cck.txt": {
-     "sha256": "31396dd05430f2e0c1738c089ca3f8a762bb5e599a36f229ae05cf4dbc7b63f0",
-     "size": 4760,
-     "timestamp": "1997-01-15T19:42:46.000Z"
-    },
-    "client.qc": {
-     "sha256": "910145d0839b8b7b461c0d8107ad832f5e7427766ed2df9bb1005c59667c1a95",
-     "size": 33189,
-     "timestamp": "1997-01-11T17:37:50.000Z"
-    },
-    "cutscene.qc": {
-     "sha256": "4993d54c53f089809079ad47a1b39192a8b0bb3fe3350df7fe85d50143b02ad7",
-     "size": 15948,
-     "timestamp": "1997-01-13T18:57:50.000Z"
-    },
-    "defs.qc": {
-     "sha256": "ec1832906cb8c7cd20c5430bd24d294f93afffc119427c671d6f5f230a64b8ec",
-     "size": 17742,
-     "timestamp": "1996-12-10T22:40:54.000Z"
-    },
-    "dog.qc": {
-     "sha256": "c6bf5db366788d47f75f0480522e481c5a648ce1f540cb3f4f125bf4ff5d1baa",
-     "size": 12092,
-     "timestamp": "1997-01-04T11:40:18.000Z"
-    },
-    "monsters.qc": {
-     "sha256": "7c7d82125c4e416aa376b3facbc9f1da68722b74ac09bc0eaeb171d0f4624ab8",
-     "size": 4857,
-     "timestamp": "1997-01-15T20:17:06.000Z"
-    },
-    "progs.dat": {
-     "sha256": "0488bf92428de4df29a111c8cda5f26d7b6465163df458064a3b6f45ac867e87",
-     "size": 428668,
-     "timestamp": "1997-01-13T18:49:02.000Z"
-    },
-    "progs.src": {
-     "sha256": "9ee451e50551bc072e6b07378e8d37146a3a5700ab8160bac89c44f9804fe7bc",
-     "size": 458,
-     "timestamp": "1996-12-15T15:58:54.000Z"
-    },
-    "shambler.qc": {
-     "sha256": "c129e8525bac460bb98fef823089b97bb0f925f077bdf6417aca2e36e049cf17",
-     "size": 13948,
-     "timestamp": "1997-01-10T22:25:46.000Z"
-    }
-   },
-   "sha256": "5f079e4acae4b2bc7f2c22f7e8a4a709aa41350177df8252368118773fb13daf",
    "size": 164261,
    "timestamp": "1997-01-15T20:19:38.000Z"
   },
   "vision.txt": {
-   "sha256": "7c8d8aa1b5b27391b8cb1d452dfb7517cad69fd721a5b7f09fe1d0efec9ebad9",
    "size": 3644,
    "timestamp": "1997-01-15T19:50:14.000Z"
   }
@@ -70,7 +20,7 @@
  "install": {
   "extract": "{quake}/vision/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "7c4ee2dbb6f3094988d21f6e2f5ef47ce482bdf2f8d84228464b273945d72503",
  "tags": [
   "author=Darin McNeil",

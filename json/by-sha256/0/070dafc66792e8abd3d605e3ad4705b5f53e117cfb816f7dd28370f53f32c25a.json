@@ -4,43 +4,14 @@
  ],
  "files": {
   "alk07/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2000-06-17T20:04:18.000Z"
   },
   "alk07/alk07.txt": {
-   "sha256": "297831f3289e715da44b53b07798e717e470e7e3ba1b124649283f2fc4f73d09",
    "size": 7008,
    "timestamp": "2000-06-17T17:04:10.000Z"
   },
   "alk07/pak0.pak": {
-   "files": {
-    "maps/alk07.bsp": {
-     "sha256": "f89a7f50e9ddc0a12828312b5f082320e56fb54e939d5de1a85546f2a34a7b9f",
-     "size": 1705964
-    },
-    "progs.dat": {
-     "sha256": "b1f0b4cbe2652106d3eb33ec24b183b6ac0d0d7651219aa47065840d727399f2",
-     "size": 496952
-    },
-    "progs/snakeman.mdl": {
-     "sha256": "8824603b325f37bbba424f55c3ff900c21ccf61c77ba97e636e91ef99202364a",
-     "size": 132028
-    },
-    "progs/uzi.mdl": {
-     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414",
-     "size": 52820
-    },
-    "sound/snakeman/sdeath.wav": {
-     "sha256": "bfa18b48ff82d753c3ed458d0d61152ef3f6672fb65d711990fbca0c5dadca56",
-     "size": 66836
-    },
-    "sound/snakeman/spain.wav": {
-     "sha256": "15b84d6adb80e4ceace4226b5185c578a752adb36f213f2488e80ad2192378aa",
-     "size": 34452
-    }
-   },
-   "sha256": "c0395cacc0001484d45340c43d9bc95999bddeb7f599bdbf85484cac483a7b19",
    "size": 2489448,
    "timestamp": "2000-06-17T20:00:36.000Z"
   }
@@ -49,7 +20,7 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "070dafc66792e8abd3d605e3ad4705b5f53e117cfb816f7dd28370f53f32c25a",
  "tags": [
   "author=Shaun [Kona] Ross",

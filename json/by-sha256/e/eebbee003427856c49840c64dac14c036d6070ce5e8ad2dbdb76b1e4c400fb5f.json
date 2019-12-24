@@ -4,52 +4,18 @@
  ],
  "files": {
   "Config.cfg": {
-   "sha256": "0bae3a1fb60dc630da7f309a9b2a424e16b05a1b6a405bc38e6939758787792b",
    "size": 2111,
    "timestamp": "1998-01-20T00:24:16.000Z"
   },
   "Lastgame.bat": {
-   "sha256": "2322a1a584bdf11a77621b12cd4fd450b85c64add15e11ee4df1101fbdf53123",
    "size": 31,
    "timestamp": "1998-01-19T19:25:28.000Z"
   },
   "Lastgame.txt": {
-   "sha256": "d9c0ae96d1d69a61f61e8dcdab518122b6da1dd3c4ff02e35f89cfd2c38b702e",
    "size": 2077,
    "timestamp": "1998-01-19T07:40:10.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "demo1.dem": {
-     "sha256": "f53318a7e58ca572595516634a5927dc5f4416f1736ac9eca00598b9c347c096",
-     "size": 105366
-    },
-    "demo2.dem": {
-     "sha256": "a0786637200b816c24bb19b5f84d02a27d24d1bb419349d749b44dec7010c351",
-     "size": 147267
-    },
-    "demo3.dem": {
-     "sha256": "3ece4d7339553ec96236e39d3cb7f7cbfb9228cc41c143544effbf0da4234eda",
-     "size": 114644
-    },
-    "maps/last2.bsp": {
-     "sha256": "5d2a74d69ed9b4eee9b8e1be75db39df9d59038ea2cdf9f58a11b206bb79bd5f",
-     "size": 936212
-    },
-    "maps/last3.bsp": {
-     "sha256": "ac1fb8f54392e8a87775a5f4cc561f5759ec0b372faa2bb1cc9c72d595db8382",
-     "size": 1137740
-    },
-    "maps/start.bsp": {
-     "sha256": "4f0658c883f9335e2f1a3de1719305cf74ed5dca39cd333ab7541536fd550a7d",
-     "size": 760404
-    },
-    "maps/temp.tmp": {
-     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-     "size": 0
-    }
-   },
-   "sha256": "60ea782650f9760c220221367b02c52470f9bc79b3d276e0b0b3a6d8f1e9018d",
    "size": 3202093,
    "timestamp": "1998-01-20T00:08:18.000Z"
   }
@@ -58,7 +24,7 @@
  "install": {
   "extract": "{quake}/lastgame/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "eebbee003427856c49840c64dac14c036d6070ce5e8ad2dbdb76b1e4c400fb5f",
  "tags": [
   "author=J.F.Gustafsson",

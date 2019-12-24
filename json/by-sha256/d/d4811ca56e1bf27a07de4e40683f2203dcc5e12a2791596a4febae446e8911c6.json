@@ -4,32 +4,26 @@
  ],
  "files": {
   "ad_dwoffice.bsp": {
-   "sha256": "27ee8a4bc3e4217d53e8dc7d4fec777a6f7bfb0ba343bb06214e3f2fc5f0bcc0",
    "size": 8384916,
    "timestamp": "2018-03-19T22:52:20.000Z"
   },
   "ad_dwoffice.txt": {
-   "sha256": "e3a6989cbc994ec310bb0b96b4d2a4b57f309b7a0c8b0777ba0e44447d0aad0f",
    "size": 4498,
    "timestamp": "2018-03-19T14:37:10.000Z"
   },
   "sound/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2018-03-17T00:46:28.000Z"
   },
   "sound/fire.wav": {
-   "sha256": "b1c2c193c8b6332d6ee08e09ff62a60418225776fe413acc288bfa6626fbb2fa",
    "size": 1115002,
    "timestamp": "2018-02-23T23:01:18.000Z"
   },
   "sound/sprinkler.wav": {
-   "sha256": "675917256dc5132b657cb104340c47cabfba0a9b7c4e36331c9b18d2ddb5abdc",
    "size": 11428112,
    "timestamp": "2018-02-23T22:08:12.000Z"
   },
   "sound/truck.wav": {
-   "sha256": "a84eeab83f084c8914f016821a65fb7c711652c68e871235d0bccb0a68177729",
    "size": 557764,
    "timestamp": "2018-03-17T00:23:16.000Z"
   }
@@ -38,7 +32,7 @@
  "install": {
   "extract": "{quake}/ad/maps/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "d4811ca56e1bf27a07de4e40683f2203dcc5e12a2791596a4febae446e8911c6",
  "tags": [
   "author=Doug Wheeler aka Bullseye8841",

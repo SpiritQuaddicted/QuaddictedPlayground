@@ -4,66 +4,10 @@
  ],
  "files": {
   "coagula_readme.txt": {
-   "sha256": "8ac3c2f1a0e2d14ce4971787cad14281551124efc1ef33e06482f9f043c8da29",
    "size": 12798,
    "timestamp": "2002-01-05T13:50:58.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "maps/coagula.bsp": {
-     "sha256": "82466c6cbb7b452172e1c210028bcd690aa8ddd7532c5e090d04542b53b4076b",
-     "size": 956912
-    },
-    "maps/coagula2.bsp": {
-     "sha256": "1bdbc039a48c5230f7aa84cf60de6c2f5461b934b4d8af3e8cd04de4a6500337",
-     "size": 933028
-    },
-    "maps/coagula3.bsp": {
-     "sha256": "59c9ab420456cdf5190c4ddd75399595d13722ba65542fc63ce0ea76b34ab02c",
-     "size": 1763840
-    },
-    "maps/cogstart(2).bsp": {
-     "sha256": "02eccde7276d3e4902c5665499db9c2b62ab158acc5be2182d1d3eaf3a0c1202",
-     "size": 1021380
-    },
-    "maps/cogstart.bsp": {
-     "sha256": "a8789034bd1286db08339190681fb2d0be83fbc3132f9189aa3e0dd457731697",
-     "size": 1021120
-    },
-    "maps/dilcoa.bsp": {
-     "sha256": "642ec01148fdcdf1339a0c7e4b09a4e23bd0942e8431212660ada5bf18acc0c2",
-     "size": 913160
-    },
-    "maps/fc_coag.bsp": {
-     "sha256": "3b4a5cf33ba9db8242c10b75cdca06048a581663bbdc275c2e5c4851dbd5629b",
-     "size": 722692
-    },
-    "maps/ne_empty.bsp": {
-     "sha256": "4309b9566b384a50cd4f9cb9a88042fb3bcefe82d51daf85e312c902b9ba771a",
-     "size": 2973436
-    },
-    "maps/scream.bsp": {
-     "sha256": "7d30a5a049cd21675967f088b03383b82373e8e5a0f9719db7594dc6a9a9071c",
-     "size": 905796
-    },
-    "maps/terror.bsp": {
-     "sha256": "04283256bb024ba6a09204c0b818592180b1ca0876b134c2d23355b6e739b006",
-     "size": 2009572
-    },
-    "progs.dat": {
-     "sha256": "a7a768e63bbab6943896727666a99312d0e8ff6963888d9071a4f7be7e166709",
-     "size": 416464
-    },
-    "sound/trains/lock.wav": {
-     "sha256": "87b4dc7084ed54d67da50b13571567ffc5ee707ebcbd83d82f09abad5b77aeb8",
-     "size": 30522
-    },
-    "sound/trains/release.wav": {
-     "sha256": "1339b779920c9c8f3393b591b339c9b90bb61499c31f4ef66541170f59b87605",
-     "size": 49210
-    }
-   },
-   "sha256": "7d525badc159dd529407f31026ecf0a37a1b5340b2408fbff913b7b45c9bb90a",
    "size": 13717976,
    "timestamp": "2002-01-22T20:42:20.000Z"
   }
@@ -72,7 +16,7 @@
  "install": {
   "extract": "{quake}/coagulacontest"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "206eebfe1d533ec1e119a2af64bb79432db31de31bcdae17752cc2aa4a218c73",
  "tags": [
   "author=Dilvish",

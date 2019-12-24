@@ -4,54 +4,10 @@
  ],
  "files": {
   "zerdem/pak0.pak": {
-   "files": {
-    "autoexec.cfg": {
-     "sha256": "d932419ea82e5aeecb0def37474ded00b1589fd826b7d18cfe0abf79a91cafab",
-     "size": 142
-    },
-    "gfx.wad": {
-     "sha256": "66db82ad5244af6078feb25c92092d4e097f0aecc5b15b64ffb543a2eb2464c1",
-     "size": 112828
-    },
-    "gfx/conback.lmp": {
-     "sha256": "c913f97706b3425e4e3df50c9105a9f1cfdc450de81b2763298b183a5c0fa3bb",
-     "size": 64008
-    },
-    "maps/zerdem.bsp": {
-     "sha256": "eb528d8eb4b13228c69d4c286fdf1fe818d7bdf49ae55f551664e59478c28272",
-     "size": 1109172
-    },
-    "progs.dat": {
-     "sha256": "15b87520c50f3d8c5ded3bf967d6a09bc6e22f8bb3d1e642717ed7dd9024477d",
-     "size": 425088
-    },
-    "progs/g_light.mdl": {
-     "sha256": "a6d2e51f5617f8edb35cf0ad7ddba23906d953e3fd91f7e3d7461c4e3c8667a5",
-     "size": 56543
-    },
-    "sound/ambience/comp1.wav": {
-     "sha256": "d54261d4c9a4a8a9fe0c51eeae343c6a5b381727af88d0bae6f9b40605b8e5d3",
-     "size": 103768
-    },
-    "sound/ambience/drip1.wav": {
-     "sha256": "87f83298d8c6eca12ba151bea6dca32e81082158fa62ef55d288c70cb1656206",
-     "size": 33730
-    },
-    "sound/ambience/rain.wav": {
-     "sha256": "a196a2fc8a052368f9e8f7efe853391d1a99dfb1f6afae4fc7038222f2eb6fda",
-     "size": 91202
-    },
-    "sound/ambience/thunder2.wav": {
-     "sha256": "c4bf4f36a0362a5506b8479207dde4dcf38d855bb23f53232416ae1411bf4c0a",
-     "size": 108388
-    }
-   },
-   "sha256": "8b29976efa14dae49852c21b5d2c57b598e12430630e8690ad9c3207d29e4b2f",
    "size": 2105521,
    "timestamp": "1997-06-07T14:09:22.000Z"
   },
   "zerdem/readme.txt": {
-   "sha256": "58eb8b76afbf27cf25fcfc85564f4157b52e42ec408c84911fd2156661da8335",
    "size": 6853,
    "timestamp": "1997-06-07T14:18:32.000Z"
   }
@@ -60,7 +16,7 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "cebfbab9db68954e505b7775f1769dd107a7ee19e932cc5ef022d7cf1ae5aa70",
  "tags": [
   "author=Nihilism Unlimited",

@@ -4,64 +4,14 @@
  ],
  "files": {
   "pak0.PAK": {
-   "sha256": "d5e967aaa7cd3afec886489a2080b5a9e19bd0cf91b880dda529761266c25ea9",
    "size": 4746020,
    "timestamp": "2002-10-08T00:28:32.000Z"
   },
   "sm36.txt": {
-   "sha256": "01554b5644bab77306926d00926a67b42bc351804d2937f980932f6bc336d341",
    "size": 11648,
    "timestamp": "2002-10-07T23:41:26.000Z"
   },
   "sm36_source.zip": {
-   "files": {
-    "sm36_bear.map": {
-     "sha256": "59eac903a848d601eac62bb0329c5f8ae3ceff6d9d2ac534f8b02a7936d1171b",
-     "size": 107542,
-     "timestamp": "2001-09-30T04:34:26.000Z"
-    },
-    "sm36_misyu.map": {
-     "sha256": "c3fb22352870c257ec4fbd8447832263a083178f1a55aaa0fd6b52c3ae67e13a",
-     "size": 177861,
-     "timestamp": "2001-09-29T23:43:46.000Z"
-    },
-    "sm36_necros.map": {
-     "sha256": "3cc591e27aab644fb1ce807187f266613aa6da6a7969d3c6b629d99c6d6f7a2b",
-     "size": 117448,
-     "timestamp": "2001-09-30T19:10:04.000Z"
-    },
-    "sm36_ray.map": {
-     "sha256": "981ad165b181f31eb1abd6aede0217058cdc506b627da914ba224bf62980ed75",
-     "size": 179477,
-     "timestamp": "2001-09-30T15:10:30.000Z"
-    },
-    "sm36_source.txt": {
-     "sha256": "989aed98adeae52c22e7cec1d6e63175c62d41d1ff7d77f8ee858f574510d708",
-     "size": 182,
-     "timestamp": "2002-10-07T23:45:22.000Z"
-    },
-    "sm36_vig.map": {
-     "sha256": "0890fc33813d0ec32848ffa5e4bf532a29c6a730e74e5c008536f0d66ef0cabe",
-     "size": 124344,
-     "timestamp": "2001-10-03T00:00:00.000Z"
-    },
-    "sm36_xenon.map": {
-     "sha256": "6f2fb1187606e8254f75f29985fb907fbe2fe1dd81621b0e78fe07458a9ae02a",
-     "size": 44119,
-     "timestamp": "2002-10-07T23:38:22.000Z"
-    },
-    "sm36b.map": {
-     "sha256": "7b2d4e0762ad8bc3c9ba7204b16a05417ecfe198cf2a87161852fd84603d0320",
-     "size": 1609487,
-     "timestamp": "2001-12-23T18:14:02.000Z"
-    },
-    "sm36c.map": {
-     "sha256": "c07d7a80d0d7826daf2e9b315c4693aba7f2a23b3490b8b410915cbced43f8ae",
-     "size": 1864456,
-     "timestamp": "2002-10-07T23:34:48.000Z"
-    }
-   },
-   "sha256": "745965a882e6aca5c47deb757f5753142c391d6d87969df211afde1b778a3cd6",
    "size": 450831,
    "timestamp": "2002-10-07T23:45:36.000Z"
   }
@@ -70,7 +20,7 @@
  "install": {
   "extract": "{quake}/sm36/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23",
  "tags": [
   "author=Misyu",

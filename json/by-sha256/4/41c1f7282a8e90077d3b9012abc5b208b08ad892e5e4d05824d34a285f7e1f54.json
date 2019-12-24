@@ -4,106 +4,10 @@
  ],
  "files": {
   "Rubicon.txt": {
-   "sha256": "8eb83e17eba3ee373397e44a2db6c60d8ea47b4a5d55fb06182a9f6613cbccff",
    "size": 4717,
    "timestamp": "1998-02-25T15:57:24.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "entsdefs.txt": {
-     "sha256": "2402a9d9a6879d93d8abdc2ad748c7b75e1af321597f7fd9515cf117bf897a7d",
-     "size": 47486
-    },
-    "gfx/conback.lmp": {
-     "sha256": "21d0d0dc88e89bde091896f50896d17625b092bc6834dd381a142800412ce5a2",
-     "size": 64008
-    },
-    "maps/eagle.bsp": {
-     "sha256": "e33ed5f1ed9bce135ba1716f9037b8afc19bfad243669c9d56f66c448cecd0ac",
-     "size": 1248504
-    },
-    "maps/rubicon.bsp": {
-     "sha256": "58f552da2a1be7130c182926972b2a62d2332a852d8b74e8273dc0935e03f056",
-     "size": 2005252
-    },
-    "maps/start.bsp": {
-     "sha256": "d9f5127e64958cb83674f03b24789a309e9bf8dcd98ca5e01c71ae0b767be0d1",
-     "size": 528780
-    },
-    "progs.dat": {
-     "sha256": "17f98436e60eda75974c493c2fa90e3fdba52d4eccd21a385f7c44a58c5d5edc",
-     "size": 554104
-    },
-    "progs/rubble1.mdl": {
-     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
-     "size": 69839
-    },
-    "progs/rubble2.mdl": {
-     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
-     "size": 200266
-    },
-    "progs/rubble3.mdl": {
-     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab",
-     "size": 303486
-    },
-    "sound/ambient/bubble.wav": {
-     "sha256": "f87c010d2b6cd92a47f8b4abe9bddf040f9ee25cb36f5f9b90272a040986eb7e",
-     "size": 179808
-    },
-    "sound/ambient/drone.wav": {
-     "sha256": "c90e3cb41af18961023d66e800721c0a70aa0e42fe295d813668cb21e30ef9ad",
-     "size": 122710
-    },
-    "sound/ambient/fan1.wav": {
-     "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
-     "size": 53404
-    },
-    "sound/ambient/intake.wav": {
-     "sha256": "f2cdde6b9294caf576fb80f8dfceacac28e2fbfcc794ec66f002d34aa2c55773",
-     "size": 101826
-    },
-    "sound/ambient/rumble.wav": {
-     "sha256": "5243d903215f7198b825a2454d5714686a2a9254f679be7a2fba4a89bb067fbb",
-     "size": 43736
-    },
-    "sound/ambient/throb.wav": {
-     "sha256": "a59d888be9893df1f423dae4eea25cb5493e5aaf565d820ea2c98e19dfacdc4c",
-     "size": 174186
-    },
-    "sound/hipweap/mjolhit.wav": {
-     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78",
-     "size": 33914
-    },
-    "sound/misc/menu1.wav": {
-     "sha256": "3bab8fca9733e6c9f045e24f52ffbac401c757b1fe9f28fff967f21357bbadbc",
-     "size": 4060
-    },
-    "sound/misc/menu2.wav": {
-     "sha256": "8b9a0404fefb408219731ff264cb5490d1178a2ddd2afe02db4a5ddc6e427171",
-     "size": 11588
-    },
-    "sound/misc/menu3.wav": {
-     "sha256": "af1026fd9051e2c9c84f4eeffed454d7328969a29a2d11301464e383c6c809d8",
-     "size": 11966
-    },
-    "sound/misc/tesla.wav": {
-     "sha256": "05a76add480090c8b15e3e6a33487fa019ab3e579c635e84a5343c4709cefd3d",
-     "size": 22526
-    },
-    "sound/zelda/maze.wav": {
-     "sha256": "c69a99d5583c32061d25d11fa139f041a3257d1be74af8f19dd996406111afef",
-     "size": 201244
-    },
-    "sound/zelda/secret.wav": {
-     "sha256": "0673bbcfb4f6915f5f7754fe101db8f0f5bb0271eaa65d39760347eed7792d63",
-     "size": 65992
-    },
-    "sound/zelda/triforce.wav": {
-     "sha256": "85b9a442367166ea3f935e6ae5a1e881e0c05124dec64795873c88b3fd93a6b5",
-     "size": 77232
-    }
-   },
-   "sha256": "1e2700c3798b5fd34521d7d893d57c1d691849cae29f3a631e6a0ed39754eb47",
    "size": 6127401,
    "timestamp": "1998-02-23T21:40:48.000Z"
   }
@@ -112,7 +16,7 @@
  "install": {
   "extract": "{quake}/rubicon/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "tags": [
   "author=John \"metlslime\" Fitzgibbons",

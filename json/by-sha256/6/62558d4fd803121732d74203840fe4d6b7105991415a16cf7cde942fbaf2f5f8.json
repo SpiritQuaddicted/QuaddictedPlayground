@@ -4,22 +4,18 @@
  ],
  "files": {
   "FILE_ID.DIZ": {
-   "sha256": "75b5308f230e09fbfc7a108101a085c368b92391d903c1d51a252da46166e288",
    "size": 320,
    "timestamp": "1996-11-09T22:29:32.000Z"
   },
   "MAP01.BSP": {
-   "sha256": "3c9a9c015ff81e2401922d6240ca21d2fd1e33957d0f7432e4e785b49ef826dc",
    "size": 561656,
    "timestamp": "1996-11-09T22:27:14.000Z"
   },
   "MAP01.MAP": {
-   "sha256": "ba666c6b39d3704c09cdf8a20ab8417b1895e0fe506e87f528138995a9e51570",
    "size": 20897,
    "timestamp": "1996-11-09T19:54:58.000Z"
   },
   "MAP01.TXT": {
-   "sha256": "f9314e6afa4f5a823aa1fbee583a2cb084b1860377a89d68be6695b88009b433",
    "size": 5705,
    "timestamp": "1996-11-09T19:36:20.000Z"
   }
@@ -28,7 +24,7 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "62558d4fd803121732d74203840fe4d6b7105991415a16cf7cde942fbaf2f5f8",
  "tags": [
   "author=Matthias Worch",

@@ -4,42 +4,34 @@
  ],
  "files": {
   "DEVKIT.TXT": {
-   "sha256": "3a28af30e152455fcbecb55f758ba7ef50b3d1c8ed19fa1b3d74ae0195dbe07f",
    "size": 42484,
    "timestamp": "1997-09-27T02:44:14.000Z"
   },
   "DEVKIT.ZIP": {
-   "sha256": "4a2e7433137bdda380cb0740f9d3f35bab1e83c183aa2cadc9192e92e17b7161",
    "size": 247510,
    "timestamp": "1997-09-27T14:42:06.000Z"
   },
   "LEVELS.CFG": {
-   "sha256": "5237990856167d779cb06cf85e59b61d68049ff6efcad54b388f7c761278d0ba",
    "size": 392,
    "timestamp": "1997-09-26T23:24:34.000Z"
   },
   "PAK0.PAK": {
-   "sha256": "796d73388fcf2942466e72800ba570553a7fb13aabb6afc4a38ef08eeaf9bd00",
    "size": 25139055,
    "timestamp": "1997-09-27T14:35:46.000Z"
   },
   "PROGS.DAT": {
-   "sha256": "401fc63b6928d54cc8dbee379ba2c0201246e2587e9e4cd955706f16940e6809",
    "size": 588288,
    "timestamp": "1997-09-27T14:26:12.000Z"
   },
   "QWPROGS.DAT": {
-   "sha256": "25dbfc8d458f468ee7509b02afbd64c7da8d8a82243fe4c709c9a3fdd8941f42",
    "size": 269236,
    "timestamp": "1997-09-27T13:30:38.000Z"
   },
   "SERVER.CFG": {
-   "sha256": "efc81ac53d0892a830bf64c6520df83c54b075ab52b6c51e3640e6b2aaba8018",
    "size": 223,
    "timestamp": "1997-09-26T23:25:54.000Z"
   },
   "ZER.TXT": {
-   "sha256": "f88d82cb989d8acebe31a81e4a1adf54aa60d7cfc6c7e82c7b9b3eae3f09a54a",
    "size": 11251,
    "timestamp": "1997-09-27T14:32:08.000Z"
   }
@@ -48,7 +40,7 @@
  "install": {
   "extract": "{quake}/zer/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "e1f7b48e210e56c793105497439c88dc2ada1bd2bbb8be5947ec2f99f0965797",
  "tags": [
   "author=Nihilism Unlimited",

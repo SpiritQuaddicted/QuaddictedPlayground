@@ -4,46 +4,10 @@
  ],
  "files": {
   "P_se.txt.txt": {
-   "sha256": "669afb7c3c9abb0f4dd7a4195c6b5f92c1ea50cb010d4a41cf084d518a623716",
    "size": 9369,
    "timestamp": "1997-05-05T19:33:44.000Z"
   },
   "Pak0.pak": {
-   "files": {
-    "maps/p_se_1.bsp": {
-     "sha256": "a83761cfd4cc87db8ec48b40089d15aa4c2be0273441627b5722e4a13961b912",
-     "size": 1998408
-    },
-    "maps/p_se_2.bsp": {
-     "sha256": "fe158d898af7fc026f81418c78415639d610f02334c1700b2fd2d214d986500e",
-     "size": 1934084
-    },
-    "maps/p_se_3.bsp": {
-     "sha256": "85898d26c4ca239341189ff6d2196f0f5c1fc0f75ce8141af3a17ecbe5676793",
-     "size": 1956084
-    },
-    "maps/p_se_3b.bsp": {
-     "sha256": "6f149e4fe2001ad4025a2a150f178ba94b0d2fe4f08521d5777fb4426d8aa770",
-     "size": 1257556
-    },
-    "maps/p_se_4.bsp": {
-     "sha256": "1de18aebd5b9e9852f8283d9f8e8d48a5d5c751b790a8645837683a206d0b24d",
-     "size": 1478364
-    },
-    "maps/p_se_xxx.bsp": {
-     "sha256": "73d75e8d1f8a90825d6578fd447652606d96df92bde0dcdfc9369a1278a84971",
-     "size": 206968
-    },
-    "maps/start.bsp": {
-     "sha256": "b4227e515dd9fb95cc2237eb58c1ad025334180debea265ada01ab5fd2e961fe",
-     "size": 1644808
-    },
-    "sound/ambience/swamp2.wav": {
-     "sha256": "ad899b103352627329fb57a400a36be5b161cc75a326c85d7facd49ee0d6836f",
-     "size": 50884
-    }
-   },
-   "sha256": "722a51e16e4f7001917df1f5bc170ece8e3f0a41646a34e9f317e390cd0078c8",
    "size": 10527680,
    "timestamp": "1997-05-05T20:34:24.000Z"
   }
@@ -52,7 +16,7 @@
  "install": {
   "extract": "{quake}/pse/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "549668ad72f070d8616913320623ec1d7fc5d7fb7fcf91fce88ea694ad22545b",
  "tags": [
   "author=Dario Casali",

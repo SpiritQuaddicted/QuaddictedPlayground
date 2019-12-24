@@ -4,47 +4,14 @@
  ],
  "files": {
   "koohoo/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2003-09-10T13:07:24.000Z"
   },
   "koohoo/koohoo.txt": {
-   "sha256": "e6b0eaf2fa95c5786ac9034d30176c4ab64c48e074525bbd15e0e9d85bba3fb2",
    "size": 4907,
    "timestamp": "2003-09-10T13:09:28.000Z"
   },
   "koohoo/pak0.pak": {
-   "files": {
-    "maps/koohend.bsp": {
-     "sha256": "03502419502d30c5af41c2329b5a5366a6609dcb4ce6cdb4f8aa0a1449c5cdf0",
-     "size": 506240
-    },
-    "maps/koohoo.bsp": {
-     "sha256": "bda3ee85cca475db793bb9e759cb853de72a05b33204ca57ba3165b2bd863d23",
-     "size": 3621928
-    },
-    "maps/start.bsp": {
-     "sha256": "4d89c950f2d9ae5863ed2bc005ce881fdf0f31671dffb060bd686cc7d219779e",
-     "size": 445144
-    },
-    "progs.dat": {
-     "sha256": "48494b85a0d06c5f3afd90514f44a1710e46d1c84dd27b03fb1490c0e27b77f4",
-     "size": 398068
-    },
-    "progs/boss.mdl": {
-     "sha256": "9f55331e74fdfdb22754b2feb6f201856d364ff628074dc84a0bbbf2613d0be3",
-     "size": 211836
-    },
-    "progs/lavaball.mdl": {
-     "sha256": "6abc446260a90c3c2a0182f510f42a19a6f4da2c721f70201f4dc9a576b28e1a",
-     "size": 8788
-    },
-    "sound/ambience/wind2.wav": {
-     "sha256": "4ff7c86a0634a3ffce56f3948814d006bf3ba8e5107541b75b018bf01c06497c",
-     "size": 50966
-    }
-   },
-   "sha256": "71dfcda941611c42c96da8f0984de32c5a82e6f8117a30ce9a66415d7d72b121",
    "size": 5243430,
    "timestamp": "2001-03-24T23:50:00.000Z"
   }
@@ -53,7 +20,7 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "tags": [
   "author=Vondur",

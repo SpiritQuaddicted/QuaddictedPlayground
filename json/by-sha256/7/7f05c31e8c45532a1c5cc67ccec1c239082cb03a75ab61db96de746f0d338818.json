@@ -4,75 +4,14 @@
  ],
  "files": {
   "pak0.pak": {
-   "files": {
-    "docs/retrojam3_fifth.txt": {
-     "sha256": "6803d0aba0ddb5770632a578b878c60a1d872af277b41b141fa2169da638f1c6",
-     "size": 3002
-    },
-    "docs/retrojam3_skacky.txt": {
-     "sha256": "0d2fc0062eb8c9d2f68a8a845e036cdc262fb712e78b164fb87291cee688e707",
-     "size": 1080
-    },
-    "gfx/env/shol_bk.tga": {
-     "sha256": "afc656e21fdba58ec0df854cd4f0a8681257a993bec6b5185b24821b9b3e73be",
-     "size": 286426
-    },
-    "gfx/env/shol_dn.tga": {
-     "sha256": "aa4b3cf9005975c47096fbacd3041439ab0492025c0756df7d5098192043d53e",
-     "size": 139320
-    },
-    "gfx/env/shol_ft.tga": {
-     "sha256": "9334cced4dfe72e3be40a86f830c6d39444d4bd4aa1df0f26b4fbf359f369520",
-     "size": 280100
-    },
-    "gfx/env/shol_lf.tga": {
-     "sha256": "84e81f9c3d29722d40b2dc3f9bc934d610a1bc7a05903265546e33d3c201383a",
-     "size": 305263
-    },
-    "gfx/env/shol_rt.tga": {
-     "sha256": "b407a22b61b77bd86e1eecdfbb2a64c25acc004b25020318e67e9a179d07c533",
-     "size": 303582
-    },
-    "gfx/env/shol_up.tga": {
-     "sha256": "3eff1076ea76b963355452aefddb7afcee5d75a41a65d1560a375f24f9715660",
-     "size": 344881
-    },
-    "maps/retrojam3_fifth.bsp": {
-     "sha256": "de16b9d19a41623d8347dff13b8c0bc7d4e2db1b584a46cb90964d9ef0d24e21",
-     "size": 1785020
-    },
-    "maps/retrojam3_fifth.lit": {
-     "sha256": "8dd709ccf46beb2187bce86448e10cc0aea417fb38b5bae97bfbaf1ddd6289c2",
-     "size": 889952
-    },
-    "maps/retrojam3_skacky.bsp": {
-     "sha256": "2706962c995eb59b6bb8611b4bec5a5ed14c989abe6cc2cd1c3ad3f293c6893c",
-     "size": 4447738
-    },
-    "maps/retrojam3_skacky.lit": {
-     "sha256": "7285f2427f07d43e8caccca82e080ff4904ed83690002ff182c4c4501595cec6",
-     "size": 1648715
-    },
-    "source/retrojam3_fifth.map": {
-     "sha256": "7a4a6f04ad90adaa6fce32383b3e17841a804a54f173772f090b818b8c1a319e",
-     "size": 766240
-    },
-    "source/retrojam3_skacky.map": {
-     "sha256": "2d108652bf09b5815988734051d29f625f8742e47b85120c61f622804359b316",
-     "size": 2850775
-    }
-   },
-   "sha256": "f6ee255db3df15b812f1760bbecf8cb4c23f0e260b53a60516ee13d2b6898a43",
    "size": 14053002,
    "timestamp": "2015-04-29T17:15:34.000Z"
   },
   "quake.rc": {
-   "sha256": "23d89f55c4aeec778b24e215ce38088b1ad23525c006f09a18ea433d93a03380",
    "size": 1319,
    "timestamp": "2015-04-28T23:24:14.000Z"
   },
   "retrojam3_readme.txt": {
-   "sha256": "62342dfca493a9aede057aad208ae606f2167fdd9868ab5ded845121ef5febc1",
    "size": 2306,
    "timestamp": "2015-04-29T17:22:08.000Z"
   }
@@ -81,7 +20,7 @@
  "install": {
   "extract": "{quake}/retrojam3"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818",
  "tags": [
   "author=FifthElephant",

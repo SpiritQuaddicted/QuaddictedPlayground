@@ -4,66 +4,10 @@
  ],
  "files": {
   "alba01.txt": {
-   "sha256": "0c9886fcb78ee1fbc0f44f593382b450594cb020457bdd655294152017330d62",
    "size": 10327,
    "timestamp": "1997-06-25T00:56:04.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "maps/alba01.bsp": {
-     "sha256": "c2dee0ddd16ee82bb7a4f2a01366532103e1169edffb8afa8ef7471f2b251ea0",
-     "size": 1519196
-    },
-    "progs.dat": {
-     "sha256": "114935c3c7e43a410015f9a5e07c3a8bbf3b2e9adc87557946cfd3110fcef163",
-     "size": 436696
-    },
-    "progs/h_guard.mdl": {
-     "sha256": "51218d5499e577e3117f68736b112723f68ee8cadf826f6da938900b7fd7bfd6",
-     "size": 5428
-    },
-    "progs/soldier.mdl": {
-     "sha256": "4e50357c755967c9304dedfacfcb378bbc1cef88e3683f14b3cdbe754e89d852",
-     "size": 146288
-    },
-    "progs/zombie.mdl": {
-     "sha256": "6fb69a1f5a5a177f370c12af89a018a67c4d6afff392c26635c8d067d4e80285",
-     "size": 186084
-    },
-    "sound/ambience/comp1.wav": {
-     "sha256": "9c64cac96e19351634cb8d612756970a6c9aac87062c7fcd16368e5fffa60925",
-     "size": 159396
-    },
-    "sound/ambience/fl_hum1.wav": {
-     "sha256": "556fa888915da5a1c97c119d8107098388ec1a6f1dcb444d77f9b3a77388b001",
-     "size": 29760
-    },
-    "sound/soldier/death1.wav": {
-     "sha256": "69704ef04e5965c2f389f74d2b2141b7f0fe62ce127c947ae57c384afd550950",
-     "size": 7887
-    },
-    "sound/soldier/idle.wav": {
-     "sha256": "211095255a871bf2865d64f9b58547a32f56551cfea3a68888d5b92979c25737",
-     "size": 28289
-    },
-    "sound/soldier/pain1.wav": {
-     "sha256": "dcb43299debeaeef3afcd56feaa97a3f11bb030c7c208f32568572d97c36174f",
-     "size": 19417
-    },
-    "sound/soldier/pain2.wav": {
-     "sha256": "ab45be6c38e4a7b86921414d2eb6151fb279b8856581b4660437ceba99b503ae",
-     "size": 12512
-    },
-    "sound/soldier/sattck1.wav": {
-     "sha256": "36d251252367ce80a8547002dd2efef84087100781d4e9947efdd6a4e0f0a342",
-     "size": 30413
-    },
-    "sound/soldier/sight1.wav": {
-     "sha256": "1b5fdb89eaf30cf8b73812892480d0655074cf03e2cdd6a8883045bd0a243d56",
-     "size": 21775
-    }
-   },
-   "sha256": "aeb25233550642fdb8234fdaf590f582d1bfc0ba24d14cc9c25df4fb6a1cded0",
    "size": 2603985,
    "timestamp": "1997-06-25T00:18:30.000Z"
   }
@@ -72,7 +16,7 @@
  "install": {
   "extract": "{quake}/alba01/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "4b97bb3058b22101f1cc72bb389ddc7296ce35b7aa22456bd0dd3bc22b59f5fc",
  "tags": [
   "author=Einar Saukas (QC)",

@@ -4,39 +4,18 @@
  ],
  "files": {
   "logs.zip": {
-   "files": {
-    "rvis+.txt": {
-     "sha256": "eaf511361054a6bc1a1a485d5f712f5a424ecb572bf98f0708041c23f666b743",
-     "size": 217,
-     "timestamp": "2002-08-17T11:29:30.000Z"
-    },
-    "tyrlite.txt": {
-     "sha256": "3910bb4ca9656a75bab0bcdabac9453dbc66c2fa4765fdbe01d0e5629d3f0c63",
-     "size": 252,
-     "timestamp": "2002-08-17T11:28:40.000Z"
-    },
-    "wqbsp.txt": {
-     "sha256": "0a535c81efe88eaa7ca28a505f9773884f6b48930dfedaa111929588e79cf27e",
-     "size": 2313,
-     "timestamp": "2002-08-17T11:28:12.000Z"
-    }
-   },
-   "sha256": "15eb33ae1cd7de79711ba124392443304148a7e527f56e9be9a5a0eebac1e557",
    "size": 1501,
    "timestamp": "2002-08-17T11:55:08.000Z"
   },
   "lzmlabs.br.txt": {
-   "sha256": "ce3a4afe985604947398979b0880032b53c5beb1a3f5b1a178a9180c68486b43",
    "size": 2147,
    "timestamp": "2002-08-17T11:54:24.000Z"
   },
   "lzmlabs.bsp": {
-   "sha256": "55f533f08f1f52d525750d0b4ba48a79fd506c3dc5daa08bb5784363dbdc7fd2",
    "size": 1278720,
    "timestamp": "2002-08-17T10:57:40.000Z"
   },
   "lzmlabs.txt": {
-   "sha256": "ee5dcfffb00763a07626e547e9c8ae1cba893da55e84cbfa0722ffb15610ccfa",
    "size": 2470,
    "timestamp": "2002-08-17T11:45:02.000Z"
   }
@@ -45,7 +24,7 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "6c2b951eaaa5f26334f240332b8a63037cf590fa4523d86552df7c05555acae7",
  "tags": [
   "author=LZM",

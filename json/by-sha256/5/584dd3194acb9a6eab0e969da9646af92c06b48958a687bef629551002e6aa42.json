@@ -4,46 +4,10 @@
  ],
  "files": {
   "anaconda.txt": {
-   "sha256": "b8d576a002e4c3600f4ce95231788ceedef7deeb97f5bb936c5b575c104132da",
    "size": 437,
    "timestamp": "1997-04-02T17:31:44.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "maps/anac.bsp": {
-     "sha256": "54692e78dd2e364a75cc116c2d31ac9a03b84ac356cb5be90896b040628736c8",
-     "size": 133584
-    },
-    "maps/start.bsp": {
-     "sha256": "7295046c78584e63eddbaa8bf3fe4ccd50b093d22609e43307489e3cca06c7e7",
-     "size": 713688
-    },
-    "progs.dat": {
-     "sha256": "e21d5fafb4a54f3924ec4a93b7a183d4b62818582658c0d17c241c547b747701",
-     "size": 448636
-    },
-    "progs/anaconda.mdl": {
-     "sha256": "0f39b08eeec0f4cadd512939795faac5633e8a3da56401e3a3b66ccd232506c9",
-     "size": 225724
-    },
-    "progs/coils.mdl": {
-     "sha256": "d617ece500e6fcc47029b2e1d807a446be5720d82ca1dbc719df5895039892b7",
-     "size": 75324
-    },
-    "progs/snakeman.mdl": {
-     "sha256": "04114bd1180592f23a42d4d79efff874820f837283297e2aabf509170a527edc",
-     "size": 132028
-    },
-    "progs/spike2.mdl": {
-     "sha256": "0f343afdf373071fc4a3b95bce03558dade429e26fa16eca35481757661cc620",
-     "size": 1684
-    },
-    "progs/uzi.mdl": {
-     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414",
-     "size": 52820
-    }
-   },
-   "sha256": "36dca6c9209ae247b1c9b427f92b1cedd2e9f55eae43fec2c711134e21fce707",
    "size": 1784012,
    "timestamp": "1997-04-02T17:24:38.000Z"
   }
@@ -52,7 +16,7 @@
  "install": {
   "extract": "{quake}/anaconda/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "tags": [
   "author=Magicman",

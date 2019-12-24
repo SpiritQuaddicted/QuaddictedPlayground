@@ -4,174 +4,10 @@
  ],
  "files": {
   "pak0.pak": {
-   "files": {
-    "gfx.wad": {
-     "sha256": "e70a35b82916d02765d9711cd78877b83662b5c1be2dfdbe3a3d423d7c69b12a",
-     "size": 112828
-    },
-    "gfx/conback.lmp": {
-     "sha256": "d7d310308634b735b418f2d30865833aef4dbeba9fe2e2d0e7c1eb505d6b13f9",
-     "size": 64008
-    },
-    "maps/sof1.bsp": {
-     "sha256": "349463b73077dfe09f2407c5817938f4faa18426f66aa6525bc6560dcd182399",
-     "size": 1385984
-    },
-    "maps/start.bsp": {
-     "sha256": "ae6b81db15f676a8e48351f8183247a0f59777cbd26ad511124a366a258382fc",
-     "size": 481552
-    },
-    "progs.dat": {
-     "sha256": "01e0f7b5828474e762d40c7dff77df5fb03093ef2ba0499f72ea410d3e87791b",
-     "size": 673220
-    },
-    "progs/demon.mdl": {
-     "sha256": "37dd96b970b76913d9ad82d504fb043efebcf84c5d5a3315311642b024473d69",
-     "size": 102120
-    },
-    "progs/h_demon.mdl": {
-     "sha256": "17dfedcb8759356102791ade777cb017c5c57c5b81a0689bac6f74c60ce94b3e",
-     "size": 34884
-    },
-    "progs/h_guard.mdl": {
-     "sha256": "4a39f6869769e46f4e6e4546c07c1337b526175b1932d8c66a145d72ffa15842",
-     "size": 14076
-    },
-    "progs/h_ogre.mdl": {
-     "sha256": "ae5dccffc922a576b922c247bf06a5f28ad8369c9904d40e1bccf493533117d8",
-     "size": 14900
-    },
-    "progs/h_shams.mdl": {
-     "sha256": "553ccc7f74c9f882571dcf91d7e8a1e4ab65e2848163739547029f52e239f7f6",
-     "size": 72632
-    },
-    "progs/h_zombie.mdl": {
-     "sha256": "ec61398885df6be67cc4aed9bfde63af8c192229d8ea36dcd580450c668eb88d",
-     "size": 7656
-    },
-    "progs/ogre.mdl": {
-     "sha256": "b9b7fe83234f60f226d47311452df197c37980c786c9300a645ebed1879b24b4",
-     "size": 162036
-    },
-    "progs/shambler.mdl": {
-     "sha256": "9de75307e4d88b461aa1d3a2aa7c03b1c5e8fc5b60ea7acefe43914848873728",
-     "size": 133980
-    },
-    "progs/soldier.mdl": {
-     "sha256": "922856dff9e3388fa0b1d7af49bc76f497e6ee73a4311aaf732cd63345f26efc",
-     "size": 262696
-    },
-    "progs/zombie.mdl": {
-     "sha256": "7d06d081ed4c03f094851cbf4bc6bd0d9f154d2bacd7aabd2af3d9fbe81cb6c1",
-     "size": 218680
-    },
-    "sound/ambience/thunder1.wav": {
-     "sha256": "c02be038d7bb1b269ca0eae99e6ab6d972bc6ce2079fd193150371ef1a9e97c2",
-     "size": 32168
-    },
-    "sound/dog/ddeath.wav": {
-     "sha256": "2a49398424a014fcbee0e4003d49b62aed172f039f79d903f63b39836b6c80b4",
-     "size": 21317
-    },
-    "sound/dog/idle.wav": {
-     "sha256": "3864c49637c10f3d4cc0c3e362c02ba1bc375f7864b8dd5e81236c0114ba7b07",
-     "size": 10319
-    },
-    "sound/misc/amazon.wav": {
-     "sha256": "82ad8f823b55ba0685b3337160f9c7d74865a3cc4815df111a159046a0a64273",
-     "size": 100068
-    },
-    "sound/misc/bird1.wav": {
-     "sha256": "c47cdab2f25a1638115903e7646b075cf14fb0a619bec36038cecfb63890d81b",
-     "size": 55499
-    },
-    "sound/misc/bird2.wav": {
-     "sha256": "4458ed20ffeb67327e9eca82b3995245a2d643fb8e319c9ae82d714039f28280",
-     "size": 11494
-    },
-    "sound/misc/bird3.wav": {
-     "sha256": "801a66898cd1ec51bca8eec82569a2c6f37ee25c436f06cd949e997294464fd9",
-     "size": 33395
-    },
-    "sound/misc/bubbles.wav": {
-     "sha256": "963626e3a7c94501dc35f49366c5f07aaa1b452e606f97733138e6abe84338bf",
-     "size": 18358
-    },
-    "sound/misc/buzzer.wav": {
-     "sha256": "b5cd04c5d98f0aa425f6444a1bb309486a55161a7a592955be28fea51179f4ab",
-     "size": 12638
-    },
-    "sound/misc/crickets.wav": {
-     "sha256": "7f542e8b89675e4c008618111af6eda0d2da53957189c1e5564aa520209b8d0a",
-     "size": 35470
-    },
-    "sound/misc/explo3.wav": {
-     "sha256": "303add67bc345b9d2d5c5ccce8cb0927377c66bb13a80f30bd5313380a801594",
-     "size": 20421
-    },
-    "sound/misc/frog.wav": {
-     "sha256": "74ca28a1db2d3273001a626e14688c32a7a32a55c3df6d588babd6a64b09834f",
-     "size": 6277
-    },
-    "sound/misc/heli.wav": {
-     "sha256": "056d01adca71977fe60eddc850b832e98c14e28be2526bd1bb4628a66d716708",
-     "size": 103196
-    },
-    "sound/misc/helistop.wav": {
-     "sha256": "ead81df106766bc22ee9d2d8d1a6f3861aadd46c849f5428b4b84e7c12ec83bd",
-     "size": 42957
-    },
-    "sound/misc/moan.wav": {
-     "sha256": "f25cea462063c27070d6ff74304b88d1d305dbfa0c9a36d201cdb18c746f0de0",
-     "size": 30770
-    },
-    "sound/misc/monkey.wav": {
-     "sha256": "e5bddfc7306bcb37a262fe4a32d5c403b919efaf9eeafe938ffb13067137d60f",
-     "size": 3270
-    },
-    "sound/misc/parrot.wav": {
-     "sha256": "b9e2e2a00c177051dbbbe776450eb291ba2c57b076b6c0cc5c15eee8e5c32a2a",
-     "size": 51202
-    },
-    "sound/misc/quake.wav": {
-     "sha256": "d91434f754543be1ef3d743b6a9c639461fae8198983fa05b1c8af2b1018c2f2",
-     "size": 49438
-    },
-    "sound/misc/quakeend.wav": {
-     "sha256": "58a62fd7ffdc4bce9d377454fb25b4b87ded2094fe61055afa54df8623769f8c",
-     "size": 8077
-    },
-    "sound/misc/setitdn.wav": {
-     "sha256": "faf8d3c9e8dd6252b291fe5ec93bfe780b444872adda27657dd64acfb9e7a1e8",
-     "size": 154769
-    },
-    "sound/misc/snore.wav": {
-     "sha256": "283516e548fe03e1aee20e0d1f3a733c0bc8f1ae646319464b4fd88325fe70e8",
-     "size": 128002
-    },
-    "sound/misc/stop.wav": {
-     "sha256": "e5078f98c3c28dff9c2750008b0923c0f7cee1ad34000cbe5679ec5a5ea38110",
-     "size": 17780
-    },
-    "sound/misc/toilet.wav": {
-     "sha256": "33fe477a427abe693cb758f8a6a7f5b59ab0110859735e0f3420b85ab7da7042",
-     "size": 36838
-    },
-    "sound/misc/watch.wav": {
-     "sha256": "165dddaba814bce3839b9ccaebbbdaa559e40f680b2f4cbc9d59bcc9389289be",
-     "size": 212686
-    },
-    "sound/soldier/sattck1.wav": {
-     "sha256": "36d251252367ce80a8547002dd2efef84087100781d4e9947efdd6a4e0f0a342",
-     "size": 30413
-    }
-   },
-   "sha256": "ca3de2bc537add96931d6f8c4f2c50373fd1413496d06df3fce4103244a6b6ca",
    "size": 4970646,
    "timestamp": "1997-10-19T17:21:48.000Z"
   },
   "sofsp1.txt": {
-   "sha256": "67ee10b06c8a3a54458931596418fcec4a02d04370285ce34c0b84c9bb9dddab",
    "size": 9322,
    "timestamp": "1997-10-19T18:30:42.000Z"
   }
@@ -180,7 +16,7 @@
  "install": {
   "extract": "{quake}/soldier/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "8ff07a745ab03f2be24ec6d30e91029c352470c254974dfafdf18d10d9f458b2",
  "tags": [
   "author=Neil Manke",

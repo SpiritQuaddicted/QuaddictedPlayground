@@ -4,62 +4,10 @@
  ],
  "files": {
   "middle.txt": {
-   "sha256": "a520d9b8a664acb44326e1af7b9d983b1bde50f246e639ed6f4868835003570d",
    "size": 1771,
    "timestamp": "1997-11-03T17:40:46.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "maps/med.bsp": {
-     "sha256": "5116c1c40f787eadc2c8bb3364e48ce8f6394883dbef5f03880259388c5a520e",
-     "size": 2645152
-    },
-    "maps/temp.tmp": {
-     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-     "size": 0
-    },
-    "progs.dat": {
-     "sha256": "4c2378e32c7a276246aa4fc35f6f2a1c6df573cbac241eae20cab4f506c8eff2",
-     "size": 413236
-    },
-    "sound/ambience/jungle1.wav": {
-     "sha256": "d73382a6e607eab8f643a2cd53fcc0975d5ef8c4f799993d0ae3f0f5c043ef66",
-     "size": 23830
-    },
-    "sound/ambience/jungle2.wav": {
-     "sha256": "9514e93629a3e9a253fa46ec3753de495486607dcc950ff9acab16e5b63166dc",
-     "size": 37530
-    },
-    "sound/ambience/jungle3.wav": {
-     "sha256": "e9d71720ae96b57527a11aba9b5cc808e44055376c576d7269182ae95d50b59b",
-     "size": 43810
-    },
-    "sound/ambience/jungle4.wav": {
-     "sha256": "7455ce3be8a0ee26d5f947bc4e33a2b7adf78da376a25c2f5e28b5833a0dc618",
-     "size": 20058
-    },
-    "sound/ambience/jungle5.wav": {
-     "sha256": "43eb9e320b62744174c346bff579df9f2db9063ace1ee97864d8d1d0b06d42cd",
-     "size": 199148
-    },
-    "sound/ambience/jungle6.wav": {
-     "sha256": "f4849e1dfb32032b8492d11ec99092cb1a5e98910c31c5fe1126cf9b402bf436",
-     "size": 49990
-    },
-    "sound/ambience/jungle7.wav": {
-     "sha256": "38078a257e32b43bce750446732ee4badaadbc3679b777831ba9fad1711681f0",
-     "size": 420996
-    },
-    "sound/ambience/light1.wav": {
-     "sha256": "6e6dd73760e70648b759fbd1f859017268475e76ffe66b4764d6ec90f7d29e95",
-     "size": 78602
-    },
-    "sound/ambience/light2.wav": {
-     "sha256": "3d4a06d6df05dffc49e3c2ba1b256d055fb7e8700310b36525f84e14aaf34048",
-     "size": 66010
-    }
-   },
-   "sha256": "cb8bbea6af8f6d07a2a62516f396db253929126ec11227d1a9b4e055773581bc",
    "size": 3999142,
    "timestamp": "1997-11-03T13:54:02.000Z"
   }
@@ -68,7 +16,7 @@
  "install": {
   "extract": "{quake}/middle/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb",
  "tags": [
   "author=Jean-Marc Gruninger",

@@ -4,309 +4,46 @@
  ],
  "files": {
   "docs/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2014-11-23T15:02:52.000Z"
   },
   "docs/retrojam_skacky.txt": {
-   "sha256": "b7afec215a9e025ee846f77d5c6b9873c471b0d85d2ca2366bfcb542ca8a45c8",
    "size": 1481,
    "timestamp": "2014-11-23T14:41:54.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "gfx/env/grimmnight_bk.tga": {
-     "sha256": "59be3026e6030ebcb4f301dc27569da94866569bd264990d5b68c0c0470be470",
-     "size": 3145746
-    },
-    "gfx/env/grimmnight_dn.tga": {
-     "sha256": "6d9b33f83ccf56f92abdf2b1197ce5fa8a3979f8b40793a73219618b8f46c33d",
-     "size": 3145746
-    },
-    "gfx/env/grimmnight_ft.tga": {
-     "sha256": "0e1892d4675a0630cde9a1a1453fb936b5fd4f62c97a91fde60778d94bced01f",
-     "size": 3145772
-    },
-    "gfx/env/grimmnight_lf.tga": {
-     "sha256": "c69dca07d21151d7ea43527494687f3951715d692ed616af3a059f01481204cc",
-     "size": 3145746
-    },
-    "gfx/env/grimmnight_rt.tga": {
-     "sha256": "bf2c9897af366d36efc11de39c051f3345ceeb6d38845be71b712c9403d726e7",
-     "size": 3145772
-    },
-    "gfx/env/grimmnight_up.tga": {
-     "sha256": "e4e35e286d93770157119d60889ff0d2df08fa13ccafa32ea26884e31a1344bc",
-     "size": 3145772
-    },
-    "gfx/env/moonbk.tga": {
-     "sha256": "215264c71fcfdcda4fd9470adb3b1e1e803cd5af1d8df035c3244646dbfeac2f",
-     "size": 440145
-    },
-    "gfx/env/moondn.tga": {
-     "sha256": "620e85506507cea8985ab3a231c0a41625c3f48a492ad0f9efffaa0d0e4fe6c4",
-     "size": 32812
-    },
-    "gfx/env/moonft.tga": {
-     "sha256": "4fbbdf05866d78de6ab4bfc9867227007fc87073cc96678e0c08bbc6d9717ce5",
-     "size": 410588
-    },
-    "gfx/env/moonlf.tga": {
-     "sha256": "ea304d8972653bd38c0aee88e6dd434d719360c423344d16b5db9c398af260d7",
-     "size": 421955
-    },
-    "gfx/env/moonrt.tga": {
-     "sha256": "8ee2a2b97267326d4831d96c879c6238a63c485fc8865d91503adb6d7da878bd",
-     "size": 453367
-    },
-    "gfx/env/moonup.tga": {
-     "sha256": "91e764d1d7780818e58f1c30d7c8825df2adbf17c7da630acfa3dd70b29d27db",
-     "size": 1335652
-    },
-    "gfx/env/red_bk.tga": {
-     "sha256": "3462c68f4adacd5aa2321bcc6ccf733e79f574cdb98b08f4df8317bc349ea7e1",
-     "size": 619027
-    },
-    "gfx/env/red_dn.tga": {
-     "sha256": "8ddba1e1ed2e0bd3ba0a6a8658ef46f0420898c25d8295927fc282df8f24976a",
-     "size": 672467
-    },
-    "gfx/env/red_ft.tga": {
-     "sha256": "764f9a16e9faa015f1815ddfe29a20a0fa38b1327ad29ef3fe2feb65319a995f",
-     "size": 664453
-    },
-    "gfx/env/red_lf.tga": {
-     "sha256": "71510165184795e4bd36f51f5824516f7fc1615c452087c261ce7f2f78d7c007",
-     "size": 634654
-    },
-    "gfx/env/red_rt.tga": {
-     "sha256": "333c1f18a4b8f3b1281aefba222acd9bf318505f9db4b2049cbf4e151255c18a",
-     "size": 630646
-    },
-    "gfx/env/red_up.tga": {
-     "sha256": "084a9a4ae3f2823a8dd0f2ec1fb1e4ca612d6f5d46afa2d8bf938892a3cb60fe",
-     "size": 446254
-    },
-    "gfx/env/snowmoon_bk.tga": {
-     "sha256": "f4c61c3a622a2dabfc2aa2748c3bba9ab52bf018c5c24b5aac6bd682b6d938de",
-     "size": 707878
-    },
-    "gfx/env/snowmoon_dn.tga": {
-     "sha256": "a6f29123dc3da6df244c6878d1a355b9ba7c093b9a38b94e8f9253d317de846c",
-     "size": 754863
-    },
-    "gfx/env/snowmoon_ft.tga": {
-     "sha256": "c10f65b43cff087a7044946f8105d24072bbcb33668bb485f501fc0bdcb7e293",
-     "size": 630095
-    },
-    "gfx/env/snowmoon_lf.tga": {
-     "sha256": "8025d6d72582a374583dc4c80d15de546b1ebea3f378cc55b084483778d8f985",
-     "size": 671066
-    },
-    "gfx/env/snowmoon_rt.tga": {
-     "sha256": "339a1a1a36ffafa6bb49ae5bffcb73c81d4304f0f6d40d5fe470654c0db56037",
-     "size": 636559
-    },
-    "gfx/env/snowmoon_up.tga": {
-     "sha256": "f08c76ef2c7c2338b64615543ffa1217edab3ca41bc79cb74b20bc42d329e82c",
-     "size": 410341
-    },
-    "maps/retrojam1_ericw.bsp": {
-     "sha256": "62998fa1f79d1814359e9ed07171209bc17474fe242ada7edbeba6d5819ef77b",
-     "size": 1465900
-    },
-    "maps/retrojam1_ericw.lit": {
-     "sha256": "7e0e86d57560c44ccc488ab715b2598267da0bb7ed8c638e94a4b44e788e68c8",
-     "size": 593681
-    },
-    "maps/retrojam1_mfx.bsp": {
-     "sha256": "fb26f5956e126bce6cfe5d730abc6a9cb7d7270fbb1cb537a9fa50116569f89f",
-     "size": 2644832
-    },
-    "maps/retrojam1_mfx.lit": {
-     "sha256": "3a526843961b7189031b5447b21c5213ce45846363c539ab5772b4d51b0e5ea5",
-     "size": 1166339
-    },
-    "maps/retrojam1_scampie.bsp": {
-     "sha256": "3a06bb12933eb325815a1788073d21658b8b12039627ad349a792641baaed4fc",
-     "size": 593866
-    },
-    "maps/retrojam1_scampie.lit": {
-     "sha256": "5512377f4a0f1c83fbc4bc919f9c51a1afd5044805bc0ba662f4e81c815faa33",
-     "size": 265550
-    },
-    "maps/retrojam1_skacky.bsp": {
-     "sha256": "d703b975d5597e2930b0dce9e5b52fbc79d3b5d2ca9fc2358374f6b5c4495787",
-     "size": 2139465
-    },
-    "maps/retrojam1_skacky.lit": {
-     "sha256": "860a651cc5a944f70de36763d848c9091e38cdd131b5a04ce11bfb7a2e3e5d2c",
-     "size": 617015
-    },
-    "maps/retrojam1_sock.bsp": {
-     "sha256": "dd5ce4784c62235ac35fe27527e4b6154e6250a72256c08d185d795622e2139e",
-     "size": 2120648
-    },
-    "maps/retrojam1_sock.lit": {
-     "sha256": "2c695371f4e09c307556179111bafb96d2c80bc4dedd5c933984ed286c84db40",
-     "size": 839885
-    }
-   },
-   "sha256": "8fe0de60028d971525e389969df9773a270981165f4295fb3b738e4535eb687d",
    "size": 41896745,
    "timestamp": "2014-11-23T18:36:16.000Z"
   },
   "pak1.pak": {
-   "files": {
-    "maps/b_batt0.bsp": {
-     "sha256": "0d481a2e2cd7a23e4ef19c19622195007bd6c9a67135ef739b0944a02d46fcd7",
-     "size": 6980
-    },
-    "maps/b_batt1.bsp": {
-     "sha256": "34709c1c06ca34305a8ba1d4799d1cdc07e44ff33f3c7fa11c3d5933cb942579",
-     "size": 6964
-    },
-    "maps/b_bh10.bsp": {
-     "sha256": "d3371655bed274070fa98fb32b408bab4a22fe754f5158c8c94a072749a5d24d",
-     "size": 7124
-    },
-    "maps/b_bh100.bsp": {
-     "sha256": "abdfe383c13da6d5dd7a9409fa5d3db2c4bac78482eb75c2c2b42da7811ec3ca",
-     "size": 7764
-    },
-    "maps/b_bh25.bsp": {
-     "sha256": "2343448faac29720e3a690650b70623852710dcae002917ae5772fa597117e17",
-     "size": 8788
-    },
-    "maps/b_nail0.bsp": {
-     "sha256": "66ea23f1cdd6225afdd1b7cf1247b93d174562193e0807561b96b659429f2bf0",
-     "size": 5604
-    },
-    "maps/b_nail1.bsp": {
-     "sha256": "366ece777ae71ecfebaa9f4bebafe2074b5336e7939900f46bd9521886f9f42d",
-     "size": 6820
-    },
-    "maps/b_rock0.bsp": {
-     "sha256": "56a66aa3d1364a0436ff8ce880268b2a9c2c396ab02f0c6277535d5b99eae31a",
-     "size": 7092
-    },
-    "maps/b_rock1.bsp": {
-     "sha256": "ddd60cec57d8e3954c1ffce616ae862edb784417a6b6622cc001d408383a6cb9",
-     "size": 7636
-    },
-    "maps/b_shell0.bsp": {
-     "sha256": "fe60bd7880da73571e29fa4075968cccb06e913bd2b9475868ce31c69b1a8c19",
-     "size": 5396
-    },
-    "maps/b_shell1.bsp": {
-     "sha256": "6a2c2c3fa6f88d425ae5b9568e5d8224ee901a1d8faa8363b88fff569b7d0e5f",
-     "size": 8436
-    },
-    "progs/backpack.mdl": {
-     "sha256": "1ba9d3176bb2e03a0457427fd9394d8c15eb9ebae8af9462e955e9c6c6068513",
-     "size": 25812
-    },
-    "progs/end3.mdl": {
-     "sha256": "445af16e28fff506ad65fac16b09dad1672e218ffe0183880aff565578b315b8",
-     "size": 19700
-    },
-    "progs/end4.mdl": {
-     "sha256": "cf52525422a102760bfcabd6e8dd5c5df7c2028daea5baa2a1b1717648dd143e",
-     "size": 19220
-    },
-    "progs/grenade.mdl": {
-     "sha256": "256412b0d88c020fb03efc5e914c5dd721c9dfe8d6a36ce4a7b01e7597d7e7d5",
-     "size": 3860
-    },
-    "progs/invisibl.mdl": {
-     "sha256": "d4c5b6316aa02d600951c6a8ec1f4682568b9e877e988cf4cedd77c0e95cf663",
-     "size": 7108
-    },
-    "progs/invulner.mdl": {
-     "sha256": "1274fcabffa89a786b29c9238cf84e95a8557369239b4a9eb813e3dbe37d35ac",
-     "size": 21412
-    },
-    "progs/k_spike.mdl": {
-     "sha256": "ecf293b2e8146a33de7bc8bb3cded80bb785b931012b40dca204db3dad50e776",
-     "size": 5492
-    },
-    "progs/missile.mdl": {
-     "sha256": "5c4b9d831357ad72e5f47c38e13b8e2ab04b80fb9d8ed6ddd3667a5eea9a585a",
-     "size": 8372
-    },
-    "progs/quaddama.mdl": {
-     "sha256": "c5657b558522e46f0833b7827520c1a5c1f1674dffd52c12609779d5bcd75462",
-     "size": 22052
-    },
-    "progs/s_spike.mdl": {
-     "sha256": "945ad552ad86e5193ef9c007dbe23686fbe89be1060063f57ea693b89e5df229",
-     "size": 1396
-    },
-    "progs/spike.mdl": {
-     "sha256": "c5e6afcfbfe35ffde5bda7eaf91e2a583c3f20cf8f3175b4f4e0ad03b358983c",
-     "size": 1396
-    },
-    "progs/v_spike.mdl": {
-     "sha256": "06e8f32092cbc0b5ba4d26227df9ac2d10f3a76d9a63bc7928af147b4ade12d7",
-     "size": 9012
-    },
-    "progs/w_g_key.mdl": {
-     "sha256": "bf5c4ffac0c77e4e039af048ebef10cc8d68644f13956a75fac65577c840cd8e",
-     "size": 10196
-    },
-    "progs/w_s_key.mdl": {
-     "sha256": "d368ad594376bfa4c3c3b77bb467b91d62296a6385c276b2d76cd44891d1a752",
-     "size": 10132
-    },
-    "progs/w_spike.mdl": {
-     "sha256": "40d9d29c58df57ece6892d71d0464022eb5939aa45699e98eae22136b973c4c8",
-     "size": 6356
-    },
-    "progs/zom_gib.mdl": {
-     "sha256": "2175cca881b4a73adf3742933a5d3e91116c774ddd3db9b6ac2a7f863194d4a8",
-     "size": 19768
-    },
-    "quake.rc": {
-     "sha256": "23d89f55c4aeec778b24e215ce38088b1ad23525c006f09a18ea433d93a03380",
-     "size": 1319
-    }
-   },
-   "sha256": "b1f60d3240e39106bef8e314f045e84c1bb26120900a4c41c33865707a98fe99",
    "size": 273011,
    "timestamp": "2014-11-23T18:35:20.000Z"
   },
   "retrojam1_readme.txt": {
-   "sha256": "d0107ba468c41974d33f15c79b8b947aa869b11640dee89f735960f893f6de31",
    "size": 2603,
    "timestamp": "2014-11-23T18:42:20.000Z"
   },
   "source/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2014-11-23T18:33:56.000Z"
   },
   "source/retrojam1_ericw.map": {
-   "sha256": "8bb6eaacf5564e74632a565f7c40f39d116967feeda497276cfc3800c431fc4a",
    "size": 412073,
    "timestamp": "2014-11-23T13:14:48.000Z"
   },
   "source/retrojam1_mfx.map": {
-   "sha256": "cba4c141d9759e275ddf334d6bf129b9377daa174cd3ccc07c93259852096ad2",
    "size": 769980,
    "timestamp": "2014-11-23T17:27:04.000Z"
   },
   "source/retrojam1_scampie.map": {
-   "sha256": "b1c62e33475c0f7a7ee07592ac89d47baff4388fd2efe065a264877ddbe4a682",
    "size": 144859,
    "timestamp": "2014-11-23T07:07:40.000Z"
   },
   "source/retrojam1_skacky.map": {
-   "sha256": "7f8fa59acae434d44533eec4e3e402facaf1473e97a3179255c5c788aaa8d42a",
    "size": 1461161,
    "timestamp": "2014-11-23T14:20:26.000Z"
   },
   "source/retrojam1_sock.map": {
-   "sha256": "f838e8c6cea5d33451026690be52f01c130ff517f4c4f935c9059afe0ce01bb6",
    "size": 1475649,
    "timestamp": "2014-11-23T18:26:22.000Z"
   }
@@ -315,7 +52,7 @@
  "install": {
   "extract": "{quake}/retrojam1/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "ab3f580150df193cb467203ff4c267b423375581041e79b0240acb3a0a484587",
  "tags": [
   "author=Scampie",

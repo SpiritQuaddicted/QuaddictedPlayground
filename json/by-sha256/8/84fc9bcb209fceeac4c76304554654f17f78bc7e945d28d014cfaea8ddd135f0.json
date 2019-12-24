@@ -4,47 +4,38 @@
  ],
  "files": {
   "sm164_digs.bsp": {
-   "sha256": "ff83a005c90f8c1a8eb644f061a51ea6e12261743e0de6cca5e0213e532ab3a2",
    "size": 554644,
    "timestamp": "2011-06-03T12:10:02.000Z"
   },
   "sm164_digs.map": {
-   "sha256": "d003734ad42854731e111317976c3ee2f8df0d4449e88a7690c053eec06414d6",
    "size": 271546,
    "timestamp": "2011-06-03T12:07:56.000Z"
   },
   "sm164_necros.bsp": {
-   "sha256": "0f88fc0436dada2a1e88e2fa9b6935e888b4651a784d6233a5ed8a4c4f88d787",
    "size": 1692432,
    "timestamp": "2011-06-05T06:29:50.000Z"
   },
   "sm164_necros.lit": {
-   "sha256": "d6218538ec38adfde3cdcd8d8bd15faa317c919c2d00e3786d1d458dacf11bc2",
    "size": 558368,
    "timestamp": "2011-06-05T06:19:24.000Z"
   },
   "sm164_negke.bsp": {
-   "sha256": "b448ef7996336cd9f5e9e73e3ca4b16f378aee40ae4d8e9d596da257ac3e91da",
    "size": 1523148,
    "timestamp": "2011-06-05T19:37:44.000Z"
   },
   "sm164_pack.txt": {
-   "sha256": "c89b5f82b6bb2f4becb80e43afd45287d45dd1d9f3996f47b080d17f0eaf073a",
    "size": 1579,
    "timestamp": "2011-06-06T14:03:26.000Z"
   },
   "sm164_zqf1.bsp": {
-   "sha256": "45d6507084de6792c23c764b6c45ae9fafc431fa1c2436a84d3932e28a601c4b",
    "size": 511912,
    "timestamp": "2011-06-06T03:40:22.000Z"
   },
   "sm164_zqf2.bsp": {
-   "sha256": "019c1348c561a08152349125167b9b22f86f9a7d9e0aad466608f7f0d4ccca14",
    "size": 665440,
    "timestamp": "2011-06-06T02:45:36.000Z"
   },
   "sm164_zqf3.bsp": {
-   "sha256": "70c1b1187b0d3eada73580ce97f2778ecae4936bb71bb9606fc1329f695d7e14",
    "size": 1396708,
    "timestamp": "2011-06-06T02:53:54.000Z"
   }
@@ -53,7 +44,7 @@
  "install": {
   "extract": "{quake}/id1/maps"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "84fc9bcb209fceeac4c76304554654f17f78bc7e945d28d014cfaea8ddd135f0",
  "tags": [
   "author=ZealousQuakeFan",

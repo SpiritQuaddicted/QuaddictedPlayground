@@ -4,1154 +4,882 @@
  ],
  "files": {
   "docs/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-08-05T21:03:16.000Z"
   },
   "docs/jam9_dbear.txt": {
-   "sha256": "b84f1584116524db8fcd755ff71e93782a684aaa1a65075f4120e340ddf4bad0",
    "size": 2141,
    "timestamp": "2017-07-26T23:43:44.000Z"
   },
   "docs/jam9_dumptruck_ds.txt": {
-   "sha256": "78420b05f0f5f9a1e8dd4f1938b01d62f4d750d4480f50d167a4280427e9a708",
    "size": 3424,
    "timestamp": "2017-08-05T07:57:58.000Z"
   },
   "docs/jam9_ionous.txt": {
-   "sha256": "1fdb2c1326bfdb36bf3b60065e1265230fa7bc07fa7072c8167ea0627f4f3d9c",
    "size": 2173,
    "timestamp": "2017-07-29T21:07:46.000Z"
   },
   "docs/jam9_mjb.txt": {
-   "sha256": "fb0c98173b1c31195fc99a9435c94945616e62786ef7a15ae4e34a8be8aaf0b2",
    "size": 17376,
    "timestamp": "2017-07-28T09:53:40.000Z"
   },
   "docs/jam9_mukor.txt": {
-   "sha256": "74890eaf0dbf4719390f37bd9965fb89dfccbbd28788d08e3832ef1c2db55ee0",
    "size": 804,
    "timestamp": "2017-07-27T02:01:56.000Z"
   },
   "docs/jam9_naitelveni.txt": {
-   "sha256": "6490f7ebb73fdef8c97f440ac402b7ed24ec3bed4ebaf3d9334ca8c6e5077bc0",
    "size": 473,
    "timestamp": "2017-07-30T23:06:14.000Z"
   },
   "docs/jam9_newhouse.txt": {
-   "sha256": "69743644231375569704df7838d93c422319e2df214e966f5ad9774819db6b0c",
    "size": 1893,
    "timestamp": "2017-08-04T17:49:30.000Z"
   },
   "docs/jam9_otp.txt": {
-   "sha256": "b1485c17ebf524b1a3768927895e9e7235a3437eeee602ff28cdd2b17c04d4b5",
    "size": 1278,
    "timestamp": "2017-08-05T19:00:48.000Z"
   },
   "docs/jam9_shotro.txt": {
-   "sha256": "b8f471494e1dd67b7bcfedb4e76e9294ff6b0c9ed1e64137cbbfb3d91a60905d",
    "size": 3461,
    "timestamp": "2017-08-05T02:37:48.000Z"
   },
   "docs/jam9_skacky.txt": {
-   "sha256": "926953ca0bd5ee0e606121ebc3aca36bdb4faff69f0981dc8cb251c3db68ce98",
    "size": 3787,
    "timestamp": "2017-07-28T21:00:16.000Z"
   },
   "gfx/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-30T19:36:40.000Z"
   },
   "gfx/conback.lmp": {
-   "sha256": "4b0ff1b9edf2419d933081bee5f34d12fb4c6e812cd5f72272aac5464d3e29c7",
    "size": 362408,
    "timestamp": "2017-08-01T02:44:12.000Z"
   },
   "gfx/env/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-30T19:37:50.000Z"
   },
   "gfx/env/July5bk.tga": {
-   "sha256": "2af00a02a5824c38a05b32e206795c06042bfa2f6364e9d830ff4d395eafa2ce",
    "size": 3145772,
    "timestamp": "2017-07-05T09:09:40.000Z"
   },
   "gfx/env/July5dn.tga": {
-   "sha256": "e208acd4125f9d8ff4895f5398180f1ede321639472de93e79bf6e7d1f72af20",
    "size": 3145772,
    "timestamp": "2017-07-05T09:09:26.000Z"
   },
   "gfx/env/July5ft.tga": {
-   "sha256": "eb2c905014f6c3f3d19b5533c0e8e36ee815e1764b98c842811c634200db5c1a",
    "size": 3145772,
    "timestamp": "2017-07-05T09:09:08.000Z"
   },
   "gfx/env/July5lf.tga": {
-   "sha256": "194dfdb84ab588404fa025a96053d79ebf6d2705e42465414497694e4b9820da",
    "size": 3145772,
    "timestamp": "2017-07-05T09:08:46.000Z"
   },
   "gfx/env/July5rt.tga": {
-   "sha256": "d9ddfab01112f1e6e5c1bd12a134543ec54ea9fc9dceab98992773b2cdaab61e",
    "size": 3145772,
    "timestamp": "2017-07-05T09:10:02.000Z"
   },
   "gfx/env/July5up.tga": {
-   "sha256": "8626aa2f835b6cdd3cf55459c125d690060cfb2b1e4a9823fb1c10239947dce8",
    "size": 3145772,
    "timestamp": "2017-07-05T09:08:02.000Z"
   },
   "gfx/env/gehennabk.tga": {
-   "sha256": "2579ebbde03e3e6d7e052cffa869980ac43f59f2245d584a9212f3bf09d91d09",
    "size": 673919,
    "timestamp": "2007-10-20T13:53:44.000Z"
   },
   "gfx/env/gehennadn.tga": {
-   "sha256": "80c1bb4234473c05f856c018659cc67289bfa001fc42e2b1f133d39609aadfa0",
    "size": 785761,
    "timestamp": "2007-10-20T13:53:44.000Z"
   },
   "gfx/env/gehennaft.tga": {
-   "sha256": "b371a504c6e1cecaba1352ac254759e23f8aee34e9516f33fcbddf2bee9e14ad",
    "size": 710441,
    "timestamp": "2007-10-20T13:53:44.000Z"
   },
   "gfx/env/gehennalf.tga": {
-   "sha256": "821a2381b1955c846a11dea45855defb6ca91bf7b93021ad4320db5523a367be",
    "size": 664379,
    "timestamp": "2007-10-20T13:53:44.000Z"
   },
   "gfx/env/gehennart.tga": {
-   "sha256": "6903bcdbb62381122e0df50286460e2cdbad499f1e6194bfc5f12d2e975949b7",
    "size": 697661,
    "timestamp": "2007-10-20T13:53:44.000Z"
   },
   "gfx/env/gehennaup.tga": {
-   "sha256": "21d744fe6dda2bcff73b713e8e3742522d161a139a8d410cd97b1f760f29ca6e",
    "size": 509867,
    "timestamp": "2007-10-20T13:53:44.000Z"
   },
   "gfx/env/moonrise_bk.tga": {
-   "sha256": "3b4e85116e3999d5cded25ca0a5d6fb9c297b3d69749a63daf5af6c37fe21959",
    "size": 3145772,
    "timestamp": "2015-05-13T21:04:28.000Z"
   },
   "gfx/env/moonrise_dn.tga": {
-   "sha256": "a7be41496d25bc9e505b959b08a950c1bb61acc6c8c44ec4e1dd428faeac4ccd",
    "size": 3145772,
    "timestamp": "2015-05-13T21:04:28.000Z"
   },
   "gfx/env/moonrise_ft.tga": {
-   "sha256": "7381c46aa4f5c916f3bc8f82a442a4582834563c0bb0127580053bb274609180",
    "size": 3145772,
    "timestamp": "2015-05-13T21:04:28.000Z"
   },
   "gfx/env/moonrise_lf.tga": {
-   "sha256": "871df5eed200970b8c3246ca10a039f5915c95e8f48bf0692fc22f2f7e5450cd",
    "size": 3145772,
    "timestamp": "2015-05-13T21:04:28.000Z"
   },
   "gfx/env/moonrise_rt.tga": {
-   "sha256": "2cc00bb935ee2f4019f4d99170d38ef3f51c72ff80150cd74911b1038a0cb269",
    "size": 3145772,
    "timestamp": "2015-05-13T21:04:28.000Z"
   },
   "gfx/env/moonrise_up.tga": {
-   "sha256": "0296084074d726170fdc85d2c1176ee64845b6805c174c08aaa63f514fd9cb65",
    "size": 3145772,
    "timestamp": "2015-05-13T21:04:28.000Z"
   },
   "gfx/env/nebulabk.tga": {
-   "sha256": "9f39d79a62c92fa382872342bab06b300b7db15e337acd2c97ae8f2f629173e6",
    "size": 786476,
    "timestamp": "2005-10-17T01:30:02.000Z"
   },
   "gfx/env/nebuladn.tga": {
-   "sha256": "283ccd8776d60b0f5241033ef905914c58888270bd9cbd4c49115fc6055bffc4",
    "size": 786476,
    "timestamp": "2005-10-17T01:29:52.000Z"
   },
   "gfx/env/nebulaft.tga": {
-   "sha256": "abb8ed2d7664344f053231f1be6311eba3f4319d801ae4218a235c8e6cd4b67d",
    "size": 786476,
    "timestamp": "2005-10-17T01:29:42.000Z"
   },
   "gfx/env/nebulalf.tga": {
-   "sha256": "c5be0fd1bb66ae32f2063811a2fd0dac080aa61838d7588e1ef5552f6c348674",
    "size": 786476,
    "timestamp": "2005-10-17T01:29:34.000Z"
   },
   "gfx/env/nebulart.tga": {
-   "sha256": "f5acb0f7e12b10242ef98d9ffe07bb3bf68016ab68d6f80208f528e689ab5cbc",
    "size": 786476,
    "timestamp": "2005-10-17T01:30:10.000Z"
   },
   "gfx/env/nebulaup.tga": {
-   "sha256": "7a7c9424022598d8d74f68aad4f0b73f0858ae57a5725fd53a860a9f6aae050f",
    "size": 786476,
    "timestamp": "2005-10-17T01:29:22.000Z"
   },
   "gfx/env/violent180_bk.tga": {
-   "sha256": "cf1d0a870b38e4889ad4ce18f22bf894771a8c91477c0338e837880df061db31",
    "size": 3145746,
    "timestamp": "2005-08-26T17:36:06.000Z"
   },
   "gfx/env/violent180_dn.tga": {
-   "sha256": "a3b344abf47fae67c831aaa8d8b2ab7ff56ff1ed93091c6869139902060777ff",
    "size": 3145772,
    "timestamp": "2015-11-05T14:37:46.000Z"
   },
   "gfx/env/violent180_ft.tga": {
-   "sha256": "964ce0226b139a1af96de0c422e927d35917ad30f0c4027c1c386c7c32cc30db",
    "size": 3145746,
    "timestamp": "2005-08-26T17:36:08.000Z"
   },
   "gfx/env/violent180_lf.tga": {
-   "sha256": "b9cc1ef464535f9a911d56fb503a2e1aa68e6d07c7091cb62c42442a7d62ceaa",
    "size": 3145746,
    "timestamp": "2005-08-26T17:36:08.000Z"
   },
   "gfx/env/violent180_rt.tga": {
-   "sha256": "263af4a0d5b2e61303d8165d6b8a8b7e55d0c8dd79157ff133a5d50128d5f21b",
    "size": 3145746,
    "timestamp": "2005-08-26T17:36:08.000Z"
   },
   "gfx/env/violent180_up.tga": {
-   "sha256": "3a9aae357ac1a8e8767e151024dab60845283422f204a354913282873f181413",
    "size": 3145772,
    "timestamp": "2015-11-05T14:37:16.000Z"
   },
   "jam9_readme.txt": {
-   "sha256": "fdbf1bc2c59e8685a3fbaf3dfef2e920ecfa73a7b69de1321a2c45d2a422f79e",
    "size": 6203,
    "timestamp": "2017-08-05T20:49:04.000Z"
   },
   "maps/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-08-05T21:04:24.000Z"
   },
   "maps/jam9_breezeep.bsp": {
-   "sha256": "1705043f0e073abf83185cfc1bdf3bb8d95defd0f4cd2d5966d94452afd9cb2d",
    "size": 7340168,
    "timestamp": "2017-08-02T17:24:08.000Z"
   },
   "maps/jam9_breezeep.lit": {
-   "sha256": "c46835e5689642a0242d40de83c74595d04941c28e0e5e80f7c328c791b3ca57",
    "size": 1702199,
    "timestamp": "2017-08-02T17:24:08.000Z"
   },
   "maps/jam9_dbear.bsp": {
-   "sha256": "9dacae22d6b1e2f6ffb8b24bb1f6068c5787d12ff8af9e4a597cd19eee4b69d4",
    "size": 4243558,
    "timestamp": "2017-07-26T23:45:54.000Z"
   },
   "maps/jam9_dbear.lit": {
-   "sha256": "55e7b7faa7fc4c6e81de8d5acdfdaf0522dbc3452b7de4a8a462a6d453551135",
    "size": 997931,
    "timestamp": "2017-07-26T23:23:06.000Z"
   },
   "maps/jam9_dumptruck.bsp": {
-   "sha256": "297f32100cb19c8835526fb709ad2d4cfce7dbf68db98bf72732de5c39511139",
    "size": 7823988,
    "timestamp": "2017-07-28T00:49:58.000Z"
   },
   "maps/jam9_dumptruck.lit": {
-   "sha256": "e032d99b7419388f8eaa62139af2382b09ac02e2697423403582f572293f7299",
    "size": 2014232,
    "timestamp": "2017-07-28T00:49:58.000Z"
   },
   "maps/jam9_giftmacher.bsp": {
-   "sha256": "c9b4248ed48477a603a6d4f91b12fd8a02092569bd839856dc43dee39005caaf",
    "size": 10812432,
    "timestamp": "2017-07-27T14:11:20.000Z"
   },
   "maps/jam9_giftmacher.lit": {
-   "sha256": "8a619d7f1acb02a4303a24f3415f51f4a95ef9190101d141e7c8214de0800dc5",
    "size": 2679254,
    "timestamp": "2017-07-27T14:11:20.000Z"
   },
   "maps/jam9_haunter.bsp": {
-   "sha256": "7360e410fb3204d3f2b7d1167a5625d8dd9ebfd6ec78f600be670eba3e5f3e90",
    "size": 3947080,
    "timestamp": "2017-07-28T02:36:28.000Z"
   },
   "maps/jam9_ionous.bsp": {
-   "sha256": "e28aa2b15fe8547bf6bf4c41571a8324ca9c358a7ff68c9afe605610f9d3d38f",
    "size": 2882338,
    "timestamp": "2017-07-29T21:06:56.000Z"
   },
   "maps/jam9_ionous.lit": {
-   "sha256": "105d09e2a7c6225a256bcf064c3f0ad6370cbdcb8a12bac385a92a8e328a7266",
    "size": 858398,
    "timestamp": "2017-07-29T21:06:24.000Z"
   },
   "maps/jam9_kell.bsp": {
-   "sha256": "b75de03943d6542e9e40e53166951c4dea2ee4d5bd2ca94163fbade91d03aaf6",
    "size": 6271004,
    "timestamp": "2017-08-05T02:22:56.000Z"
   },
   "maps/jam9_kell.lit": {
-   "sha256": "dd1c5cc6ed282dc49cffeea6a22dfe7010e0aba846f012bceb27d463cfb86448",
    "size": 1597667,
    "timestamp": "2017-08-05T02:22:54.000Z"
   },
   "maps/jam9_kell_bit1.bsp": {
-   "sha256": "28ecd07e4075c5b313c6779456a3d51dd99e0626a015a955b0e8d55bb4729bb5",
    "size": 58676,
    "timestamp": "2017-07-19T13:41:10.000Z"
   },
   "maps/jam9_kell_bit2.bsp": {
-   "sha256": "f3e224c3302c62b6d5c6fe0ad8e569fa158587ce92a6b252a6e2e406725fa498",
    "size": 85384,
    "timestamp": "2017-07-19T14:30:12.000Z"
   },
   "maps/jam9_kell_bit3.bsp": {
-   "sha256": "5011a652a0d285cf44ee2f274a92ef7dd3d784352638c4650df169bb310a5170",
    "size": 144352,
    "timestamp": "2017-07-21T13:27:32.000Z"
   },
   "maps/jam9_kell_bit4.bsp": {
-   "sha256": "01a5b49d1558c3e805fa507c5cc2b3f30229e89135992d4465f83645dbe41a6a",
    "size": 69844,
    "timestamp": "2017-07-19T14:59:28.000Z"
   },
   "maps/jam9_kell_bit5.bsp": {
-   "sha256": "64e4e89f010d826cf0aa5fcbebdd2fdf193b91fc81f0a27b1a479e4dc8bbc477",
    "size": 134088,
    "timestamp": "2017-07-19T14:07:38.000Z"
   },
   "maps/jam9_kell_power.bsp": {
-   "sha256": "614e6a4520e87e5115560a96ec3da73cf19c24f3325dee8eb798923f4a5dabb8",
    "size": 165944,
    "timestamp": "2017-07-23T22:39:02.000Z"
   },
   "maps/jam9_kell_starcube.bsp": {
-   "sha256": "dc6b04c477a1b62cfd4300bfe72dc86ec849da7635d091ad70fa90fcf4dec8ee",
    "size": 90604,
    "timestamp": "2017-07-28T02:03:04.000Z"
   },
   "maps/jam9_kell_tower.bsp": {
-   "sha256": "42381344ebb205f45335a4f42f543074853d9515f7601d1cf28035b4d5ef40d0",
    "size": 122452,
    "timestamp": "2017-07-23T21:46:34.000Z"
   },
   "maps/jam9_mjb.bsp": {
-   "sha256": "4486130bbe21a219bcdb744a3459bc1648340b90a22ba08c6395092b4524fe47",
    "size": 8583948,
    "timestamp": "2017-07-28T09:48:16.000Z"
   },
   "maps/jam9_mjb.lit": {
-   "sha256": "f350c4fb591c622423e5ac13690fe7c18d04272189502d4eb6cbbfaf6999165f",
    "size": 3226604,
    "timestamp": "2017-07-28T09:48:16.000Z"
   },
   "maps/jam9_mukor.bsp": {
-   "sha256": "76ffdab9098887d304bb673ff3f55af768c95537b262840ea245964db79f771a",
    "size": 5560004,
    "timestamp": "2017-08-05T07:59:56.000Z"
   },
   "maps/jam9_mukor.lit": {
-   "sha256": "fb197f3079ff1a6bcd936b865ca53a41c41703e5b97b070d11c35b7b83837ca7",
    "size": 1455167,
    "timestamp": "2017-08-05T08:00:14.000Z"
   },
   "maps/jam9_naitelveni.bsp": {
-   "sha256": "43252c299b69bb44832e64d6af36a5dd57af4d8679fd61f20fb7f2da1aa4b97e",
    "size": 25720012,
    "timestamp": "2017-07-30T16:27:42.000Z"
   },
   "maps/jam9_naitelveni.lit": {
-   "sha256": "67bc1dbfb70269bd1ad7cd198515acc76461a2bff3b7ce9a31fad8a86cb69135",
    "size": 4998260,
    "timestamp": "2017-07-28T20:28:02.000Z"
   },
   "maps/jam9_newhouse.bsp": {
-   "sha256": "28c5f06c632ef29464b7a0c0069ea9c1c76027b508cf525abca392096032bbc5",
    "size": 10652412,
    "timestamp": "2017-08-04T17:32:52.000Z"
   },
   "maps/jam9_newhouse.lit": {
-   "sha256": "f32a5c9b4788289cb022d1583272d2ef600901ee7fca1f1e52777b4921650553",
    "size": 5077226,
    "timestamp": "2017-08-04T17:32:52.000Z"
   },
   "maps/jam9_otp.bsp": {
-   "sha256": "8ba49361ea31554cc539026ee48a8af5c309395ccbe9d62c833880c530f4ba12",
    "size": 6695376,
    "timestamp": "2017-08-05T12:55:52.000Z"
   },
   "maps/jam9_otp.lit": {
-   "sha256": "5922a751da621c799b3991c7f799259afa878fc4ed404c87187bda60c6cf9a5c",
    "size": 1858775,
    "timestamp": "2017-08-05T12:55:52.000Z"
   },
   "maps/jam9_pulsar.bsp": {
-   "sha256": "a5928bf7071879ebc593ed5bb8bd22e1a47165afedf354d2ce553710dd355c9d",
    "size": 10005280,
    "timestamp": "2017-08-05T07:14:16.000Z"
   },
   "maps/jam9_pulsar.lit": {
-   "sha256": "eb162337af89718f01dca614a2b68633ee8045c487dfe0bbbe09797d13fbe8a7",
    "size": 2636687,
    "timestamp": "2017-08-05T07:14:16.000Z"
   },
   "maps/jam9_secret.bsp": {
-   "sha256": "4fc700db8d986080d261e8063646878c84145015e7fd0b7bf06f1425731b5d27",
    "size": 7327960,
    "timestamp": "2017-08-04T20:21:58.000Z"
   },
   "maps/jam9_secret.lit": {
-   "sha256": "8a8f502629c6c12a38d837410e8c65fdd09e745a5186c4bac9005330545b9a4f",
    "size": 2394179,
    "timestamp": "2017-08-04T20:21:58.000Z"
   },
   "maps/jam9_shotro.bsp": {
-   "sha256": "faf3b382f4a19e406d04a673750d2bee4b24b1f47fff9b3ea8230645ee47dea2",
    "size": 19265924,
    "timestamp": "2017-08-05T02:31:42.000Z"
   },
   "maps/jam9_shotro.lit": {
-   "sha256": "f5029bc948bb4ecc2e8f120a6aa42fe4c81cf3e179a2efdbf0e821e622c1b3d4",
    "size": 4497056,
    "timestamp": "2017-08-05T00:00:06.000Z"
   },
   "maps/jam9_skacky.bsp": {
-   "sha256": "3d89a70e1bffaa96f132367a3a6d5e3cea92d46b56a95e576c7aeeceef9498ea",
    "size": 23524168,
    "timestamp": "2017-08-04T18:08:00.000Z"
   },
   "maps/jam9_skacky.lit": {
-   "sha256": "2e2daf101a8d99a05becf932f1666405629dc56bc9b6317b226b12c94cf718a1",
    "size": 8146748,
    "timestamp": "2017-08-04T18:08:00.000Z"
   },
   "maps/lgbgear.bsp": {
-   "sha256": "ddae53172c919ed19f1272399fd386026581f3681f375286b4cd6947a855656c",
    "size": 32472,
    "timestamp": "2017-07-21T16:47:00.000Z"
   },
   "maps/smbgear.bsp": {
-   "sha256": "2c454c697ecb00dfce41e1d998b5eca030d77ba1490c3f2007fd347a7f5189f8",
    "size": 31564,
    "timestamp": "2017-07-21T16:49:54.000Z"
   },
   "maps/source/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-08-05T21:04:24.000Z"
   },
   "maps/source/jam9_breezeep.map": {
-   "sha256": "a6c3c76f9db8c2f480bb6394023d5651403c0c19bbd2d732dac25de639411335",
    "size": 3037748,
    "timestamp": "2017-08-02T17:17:46.000Z"
   },
   "maps/source/jam9_dbear.map": {
-   "sha256": "994f96c82a8edc1e6c1b0c988c0f90a79785562428cd8c6b10539a1fc36031cb",
    "size": 1725624,
    "timestamp": "2017-07-27T00:00:42.000Z"
   },
   "maps/source/jam9_dumptruck.map": {
-   "sha256": "bd91104a7ca217bd20eb22ded45ed58166e40c525b98443966139d9bfa6aed81",
    "size": 2559204,
    "timestamp": "2017-07-28T01:11:16.000Z"
   },
   "maps/source/jam9_giftmacher.map": {
-   "sha256": "067340e36033e068396c507285a9127886d3a2d6e03642c056acb0b7bddcb8a5",
    "size": 7098929,
    "timestamp": "2017-07-27T14:09:30.000Z"
   },
   "maps/source/jam9_haunter.map": {
-   "sha256": "b428c4110238aeaf4c55c05e32cd4210b0645c008c11a706298e4d572b094a5c",
    "size": 2593287,
    "timestamp": "2017-07-28T02:32:46.000Z"
   },
   "maps/source/jam9_ionous.jmf": {
-   "sha256": "7cbc9a6cbf065b91da838072b43c18ec304d095a3c85ae6ec1d33ec090ade8f0",
    "size": 4742514,
    "timestamp": "2017-07-29T21:01:30.000Z"
   },
   "maps/source/jam9_ionous.map": {
-   "sha256": "e08fe3df053cb70d1337c79d7e8ed40de91f9d6f440b84a53218c07bd3479a82",
    "size": 1856869,
    "timestamp": "2017-07-29T21:06:16.000Z"
   },
   "maps/source/jam9_kell.map": {
-   "sha256": "fb24d839f06bb2342c9b8bbce614fcd3dfc52229bc486c4ec0404310efe1d6f4",
    "size": 2808663,
    "timestamp": "2017-08-05T02:20:38.000Z"
   },
   "maps/source/jam9_mjb.map": {
-   "sha256": "48785682af8403005256c287c72fd275fd6874025d53ae95b0d3af940f46c18e",
    "size": 8191448,
    "timestamp": "2017-07-28T09:45:50.000Z"
   },
   "maps/source/jam9_mukor.map": {
-   "sha256": "bb611d9711d245ad6aa0364207c935e74a91ad4a2c146efaf7d8fe78552b11e5",
    "size": 3232491,
    "timestamp": "2017-07-28T23:09:06.000Z"
   },
   "maps/source/jam9_naitelveni.map": {
-   "sha256": "08f3744deb541a75b34b22ff5005f7165d82dd507892a971e3bac9fc81cdec6c",
    "size": 7796621,
    "timestamp": "2017-07-30T16:42:28.000Z"
   },
   "maps/source/jam9_newhouse.map": {
-   "sha256": "95ec8812bcc4a6c0754936da841e9571995559a5b9fa5cb3c403f22a37cdf513",
    "size": 4074735,
    "timestamp": "2017-08-04T15:35:02.000Z"
   },
   "maps/source/jam9_otp.map": {
-   "sha256": "1ca11c5361572b268527c840b0ad957030579693c6a9f3475fdaff03760bc979",
    "size": 2019696,
    "timestamp": "2017-07-30T19:21:22.000Z"
   },
   "maps/source/jam9_pulsar.map": {
-   "sha256": "ab4d5f2eeff1744d0004fde2fc1e82c2fdadedb4f967a032578cfe0a3c163683",
    "size": 4221884,
    "timestamp": "2017-08-05T07:04:32.000Z"
   },
   "maps/source/jam9_secret.map": {
-   "sha256": "3f1197db3d7f724a264937bb5c7696215c1dd06144288a38fb65ba73d30408a9",
    "size": 3173440,
    "timestamp": "2017-08-04T20:18:02.000Z"
   },
   "maps/source/jam9_shotro.map": {
-   "sha256": "54a05b7fd4991ee3764e0bb1d251bbbdc71b588720edc75b2b12d50e1ee10cad",
    "size": 6602643,
    "timestamp": "2017-08-04T23:59:04.000Z"
   },
   "maps/source/jam9_skacky.map": {
-   "sha256": "7e64aa81ded628335f9d5686815160a36f8b2f2209b975940debb5a69b41adf6",
    "size": 12980064,
    "timestamp": "2017-08-04T18:03:26.000Z"
   },
   "maps/source/start.map": {
-   "sha256": "d11021d22754d4dc50105e86da1adf998e3207aa970c080914123bf20f2b7438",
    "size": 4850106,
    "timestamp": "2017-07-31T01:05:18.000Z"
   },
   "maps/start.bsp": {
-   "sha256": "f6dfa745535a40db506ef1760b950eda06a6a52f9c676367715ba07ba8c5a29e",
    "size": 9021344,
    "timestamp": "2017-07-31T01:07:38.000Z"
   },
   "maps/start.lit": {
-   "sha256": "bf89d71e6437952985ef3fe5f33991507e07d2de2f49539f73aaa06df2bbf400",
    "size": 2748395,
    "timestamp": "2017-07-31T01:07:38.000Z"
   },
   "music/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-30T07:48:24.000Z"
   },
   "music/track128.mp3": {
-   "sha256": "03d582ab7df06e7801aacd5698dbec6513f217b290d7205e5a6ff9406ff2dc4f",
    "size": 18371630,
    "timestamp": "2017-07-24T09:06:06.000Z"
   },
   "music/track13.ogg": {
-   "sha256": "dc01ab60be73d673f2d0ee86b7a37405119036ecb2ec0b74c53077de6a722a91",
    "size": 10035486,
    "timestamp": "2017-07-22T22:00:52.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "progs/end1.mdl": {
-     "sha256": "2155d92a5244e4ddb237e46e64e38f09bb47141fcacf4ac1a06df1553f830858",
-     "size": 20820
-    },
-    "progs/end2.mdl": {
-     "sha256": "f46f9a8f6f036fb66210ade338f9e76729d286fe8f73e1ae23a065382567de9a",
-     "size": 40980
-    },
-    "progs/end3.mdl": {
-     "sha256": "c35c0c65e52b5de27175137fafb68751e3132675db529a1e80707eceb5dd6aec",
-     "size": 19924
-    },
-    "progs/end4.mdl": {
-     "sha256": "001a69b25785d05678348ff2edea63e125c8ee07cb379fd03fe66bd720d5962e",
-     "size": 26932
-    },
-    "progs/quaddama.mdl": {
-     "sha256": "33aa3cb25d9dd2a40fa6082e7a8bcb3102c79fecdef2d945566b28ca6bbc3869",
-     "size": 39992
-    },
-    "progs/tarbaby.mdl": {
-     "sha256": "4936d42d121421090e8353010e0eb9ed89a53871a8e440a960b7cff049f948dc",
-     "size": 98148
-    },
-    "sound/ambience/wind2.wav": {
-     "sha256": "7641643c47254d8bc72331ff90dee511cddfcbf03aaaa43f0cc7f35a4329ecdb",
-     "size": 57040
-    },
-    "sound/misc/menu1.wav": {
-     "sha256": "c404a7d2f09b9e269a9df6d19396efe57b281f8eb79457b69ea4ab88a7d0f55a",
-     "size": 5570
-    },
-    "sound/misc/menu2.wav": {
-     "sha256": "1504f451e4b8e02b8080014f79b11a34bdbcaab0b8e11a0427c0c5a7572ed796",
-     "size": 33108
-    },
-    "sound/misc/menu3.wav": {
-     "sha256": "1ef4281197016a2025b5471143ae5f5b8fd98c0fa8def4ebd6e89fa362753ae9",
-     "size": 16288
-    },
-    "sound/weapons/r_exp3.wav": {
-     "sha256": "52d9ec58596312b7b88b0127226c168aabaaa6f377a1895b5ead7c26c6c03957",
-     "size": 17478
-    }
-   },
-   "sha256": "55718198120ef8e4f226ac017c36525bfe32d03598f7212a4fa55fba9e68a865",
    "size": 376996,
    "timestamp": "2017-07-31T08:08:02.000Z"
   },
   "pak1.pak": {
-   "files": {
-    "sound/misc/h2ohit1.wav": {
-     "sha256": "6c09801196face40592eff614d26a38dfbc86dccb37ea537c59f7eadc3eddd15",
-     "size": 28716
-    }
-   },
-   "sha256": "d2edc44497ada4184e15640035bbe965cb579c7eda880816b5300fd7342f2187",
    "size": 28792,
    "timestamp": "2017-07-30T23:50:16.000Z"
   },
   "progs/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-30T19:36:52.000Z"
   },
   "progs/ad/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-27T02:56:32.000Z"
   },
   "progs/ad/gib_1.mdl": {
-   "sha256": "83fb8b33849dc7c38b81e0de21f803a89008a356e84324a94f50b5129ed07829",
    "size": 7712,
    "timestamp": "2016-01-09T19:45:12.000Z"
   },
   "progs/ad/misc_book1c.mdl": {
-   "sha256": "92b976437673f56cb890f0e1b90a550ea00939d01ee12b0df0f218b35b42953e",
    "size": 40096,
    "timestamp": "2017-02-17T01:25:46.000Z"
   },
   "progs/ad/misc_candle1.mdl": {
-   "sha256": "e8c8e2d8a8901e67b68bcb63b3121e9209153cb43257b54bca4a6814ed718202",
    "size": 19700,
    "timestamp": "2016-01-10T02:45:12.000Z"
   },
   "progs/ad/misc_candle2.mdl": {
-   "sha256": "2dcf8e2c3ae1d1d361ac32d22000b1cb168398b7dfbd0e691b4519317e6708cd",
    "size": 19700,
    "timestamp": "2016-01-10T02:45:12.000Z"
   },
   "progs/ad/misc_candle3.mdl": {
-   "sha256": "97e5a4179934c6912c1414bfefc8f104ff3b2c5a4cbfeb9e8a8c2f0dd88d91c1",
    "size": 19700,
    "timestamp": "2016-01-10T02:45:12.000Z"
   },
   "progs/ad/misc_tree.mdl": {
-   "sha256": "888eca3c464ac068c7cdc5d7cf8f67fbcc70eb13c0079202a4f8d347f5f3bcd3",
    "size": 120248,
    "timestamp": "2016-01-10T02:45:12.000Z"
   },
   "progs/ad/misc_tree2.mdl": {
-   "sha256": "f14f3b046b58e5485afd11d396b4d358eb0598ea8cca1cbc6a70a8e629aee3f3",
    "size": 404432,
    "timestamp": "2016-11-13T16:25:50.000Z"
   },
   "progs/ad/w_dfurysword2.mdl": {
-   "sha256": "2e42b37254cf8d85b098e58143fd77d86bed2f3568f630196326841298d07187",
    "size": 8916,
    "timestamp": "2016-01-10T02:45:30.000Z"
   },
   "progs/ad/w_dguardsword.mdl": {
-   "sha256": "74b884b8fd0a785fc2c1dcc29428b8d4c8725de6963bccf7ec80c396e002fa38",
    "size": 8404,
    "timestamp": "2016-01-10T02:45:30.000Z"
   },
   "progs/ad/w_dknightsword.mdl": {
-   "sha256": "1e6729ae15dd1520fff7f4c1c30260c35b637bd0b23b8fb3a5a476b175a39165",
    "size": 8404,
    "timestamp": "2016-07-04T17:48:00.000Z"
   },
   "progs/ad/w_skullbook.mdl": {
-   "sha256": "e99379e980169501931eb029f36d05b41ba52f8597a6022bf195b08dba88c70e",
    "size": 25580,
    "timestamp": "2016-01-10T02:45:30.000Z"
   },
   "progs/field.mdl": {
-   "sha256": "085c5e276ea21b80c31253e4c693e325f9afaa6c1dcfeaf3a23885304459dbc4",
    "size": 34376,
    "timestamp": "2012-08-28T22:20:06.000Z"
   },
   "progs/jam9_otp/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-30T19:36:52.000Z"
   },
   "progs/jam9_otp/green-whole.bsp": {
-   "sha256": "271c4f81e64bfc2ecafa6751810e675c4b01cd2fd4687c20ce092af009263f6a",
    "size": 10504,
    "timestamp": "2016-11-21T02:49:36.000Z"
   },
   "progs/jam9_otp/pepe.mdl": {
-   "sha256": "3e3b7bd7d1c68630dc6ddf3d39387e016a1b999358148d5c28b62bdcc3ec8d4b",
    "size": 966880,
    "timestamp": "2017-07-30T18:36:50.000Z"
   },
   "progs/jam9_otp/redorange-whole.bsp": {
-   "sha256": "686f6437ff689c2ee518d8e3a977e825122c9c8ed935450246b3cbfb9a09746e",
    "size": 11324,
    "timestamp": "2016-11-21T02:07:36.000Z"
   },
   "progs/jam9_skacky/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-22T13:21:00.000Z"
   },
   "progs/jam9_skacky/statue_venus.mdl": {
-   "sha256": "96c79503c0ce3153bd05efac01d8442b56b1d5c8d31c79b0475ea5167cead1b9",
    "size": 285060,
    "timestamp": "2017-07-22T13:20:34.000Z"
   },
   "progs/misc_bonepile.mdl": {
-   "sha256": "0f8061359681f3c11660e472c517599590447c7631edfe5a36debd9645acdec6",
    "size": 110796,
    "timestamp": "2016-01-10T02:45:12.000Z"
   },
   "progs/misc_skull.mdl": {
-   "sha256": "94600327093fe22acc113b8e89c8863a5548b170c9c9897bd2af8a4ff63beb5a",
    "size": 59892,
    "timestamp": "2016-07-08T14:21:46.000Z"
   },
   "progs/misc_stickskull1.mdl": {
-   "sha256": "38e63e10bc351ba5a48dfb6195ac5f78e5d61e67ae851f2ba50ba20255d7a37e",
    "size": 87900,
    "timestamp": "2016-01-10T02:45:12.000Z"
   },
   "progs/misc_stickskull2.mdl": {
-   "sha256": "464fbee370b512d1c8057ea5a1dc3ecff69378474593919f0bbd8970419d69a5",
    "size": 116364,
    "timestamp": "2016-01-10T02:45:12.000Z"
   },
   "progs/mushroom.mdl": {
-   "sha256": "5570faa6e7828e4e12f568656226b0756a87d633cbdc461af472e0982a88a549",
    "size": 10804,
    "timestamp": "2013-08-20T02:46:22.000Z"
   },
   "progs/rapids.mdl": {
-   "sha256": "30310b52157f7e8675d9fa673b1102ca39424cfc0150f0e00b7481900dfe0870",
    "size": 28296,
    "timestamp": "2013-09-19T11:02:44.000Z"
   },
   "progs/smoke.mdl": {
-   "sha256": "beea4c1bf2e1b0de51074ba3ad70ee19e72ead9929f31cf9eba64ef0d7b0594d",
    "size": 31808,
    "timestamp": "2013-09-15T16:26:36.000Z"
   },
   "progs/vine.mdl": {
-   "sha256": "5ae41ea778a9ed499e57b95e66b4340709ab64560784c346ea2755fe9cc90a72",
    "size": 20736,
    "timestamp": "2013-09-17T09:34:14.000Z"
   },
   "progs/vortex.mdl": {
-   "sha256": "231fd658a794f341e25edc40d188829403bbe4a761159908751d9f5be5fa79dc",
    "size": 40372,
    "timestamp": "2015-12-30T02:06:50.000Z"
   },
   "sound/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-30T19:37:18.000Z"
   },
   "sound/ambience/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-21T06:48:16.000Z"
   },
   "sound/ambience/darkchoir.wav": {
-   "sha256": "ba8538b5da6e6ec9b64953c49ee6e04c1cc016439fb36500b842de1189dc185d",
    "size": 504086,
    "timestamp": "2015-04-02T16:49:28.000Z"
   },
   "sound/ambience/rumble1.wav": {
-   "sha256": "47afe820548bcf248b7760f7a66a61ea65b5fb79f70d47e3b03cf8211bb4c5f3",
    "size": 403620,
    "timestamp": "2012-11-04T14:46:52.000Z"
   },
   "sound/ambience/rumble2.wav": {
-   "sha256": "9c3d5418c7e5bac60c365f0e8b7ea496dd2b51c72c13b0e5a6640e2ef880433a",
    "size": 99104,
    "timestamp": "2012-11-04T14:43:26.000Z"
   },
   "sound/ambience/rumble3.wav": {
-   "sha256": "864f373dbd75172e1c8f31373188f38c31a80af46592f6b2e92cf5f576e5e0e1",
    "size": 209242,
    "timestamp": "2012-11-04T14:44:14.000Z"
   },
   "sound/ambience/windgust1.wav": {
-   "sha256": "be28de40857304c1a9e169dd483795b2cd23356b81633133c7872e5657111c70",
    "size": 110288,
    "timestamp": "2016-10-10T23:00:22.000Z"
   },
   "sound/ambience/windgust2.wav": {
-   "sha256": "b818f61172795942402ff0ca0d1295a91c36a245edc80689c35fe64a8ac1a4e2",
    "size": 110284,
    "timestamp": "2016-10-10T23:00:04.000Z"
   },
   "sound/ambience/windgust3.wav": {
-   "sha256": "fdbb85f091cd9447f1500173aff70236abcdb947ba0758711816da59c5293344",
    "size": 110030,
    "timestamp": "2012-11-05T02:58:04.000Z"
   },
   "sound/ambience/windgust4.wav": {
-   "sha256": "9a5c5a3da44f981c9deb8b437f57b3e3a35f2bcab318a1a3223f0a18fa4d2101",
    "size": 198502,
    "timestamp": "2016-10-10T22:59:20.000Z"
   },
   "sound/ambience/windgust5.wav": {
-   "sha256": "f55fb77a15a80390ef560962f29ad8311c58af1ddf51f39ffebc4784cf837afe",
    "size": 198494,
    "timestamp": "2016-10-10T22:58:40.000Z"
   },
   "sound/ambience/windgust6.wav": {
-   "sha256": "27a19679e7164a6e7bb8e4d6bc42cc8c12a5cd56bba45218e2ec5f1dc528da0d",
    "size": 396944,
    "timestamp": "2016-10-10T22:58:42.000Z"
   },
   "sound/ambient/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-08-01T02:01:04.000Z"
   },
   "sound/ambient/pulsar/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-08-01T02:01:04.000Z"
   },
   "sound/ambient/pulsar/buzz1.wav": {
-   "sha256": "a4e2f8a7c0ac3c5d8e7ce1485147bc820b1270e3e3f13712b4cc7d2afbeee31d",
    "size": 273352,
    "timestamp": "2017-07-13T04:43:34.000Z"
   },
   "sound/dmptrk/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-28T01:14:26.000Z"
   },
   "sound/dmptrk/dgug1.wav": {
-   "sha256": "4d146769ffa47bf95b0842aaa84caa7d0ebfaa75aa42c98936bebc9477bca561",
    "size": 812540,
    "timestamp": "2017-07-18T09:25:26.000Z"
   },
   "sound/dmptrk/dpoly1.wav": {
-   "sha256": "dcbeeac72da6cc6324c1814f59d6f994f60691537f98db9ba079fff27d132644",
    "size": 708670,
    "timestamp": "2017-07-18T09:06:32.000Z"
   },
   "sound/dmptrk/dsham1.wav": {
-   "sha256": "793dd815976bdf0455b522601893e7e07fa41f2ab9edeffacb93d7b2443c7e26",
    "size": 1076926,
    "timestamp": "2017-07-18T09:19:08.000Z"
   },
   "sound/dmptrk/dvore1.wav": {
-   "sha256": "19ca8673283196b76529a323218bacca88b5f4fcd40b7a8762333718642eb57d",
    "size": 1097320,
    "timestamp": "2017-07-18T09:31:36.000Z"
   },
   "sound/dmptrk/gug_afar.wav": {
-   "sha256": "49f18c2c3cd248d8bb72310b2a024950dda4a385b0eb2941bdb1235fed00e3ba",
    "size": 1215162,
    "timestamp": "2017-07-26T02:28:58.000Z"
   },
   "sound/dmptrk/vorl_amb2.wav": {
-   "sha256": "0b1e683eec4528e768d1420e816d30a10b18a81cf93211dcdbc7224a01c9baac",
    "size": 1422198,
    "timestamp": "2017-07-17T01:29:10.000Z"
   },
   "sound/fart1.wav": {
-   "sha256": "009c515153d838a7050c784c3a3c4ddecc624d628f06a95cdf4e5b8e40e29584",
    "size": 154300,
    "timestamp": "2016-08-18T21:56:28.000Z"
   },
   "sound/giftmacher/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-27T14:21:26.000Z"
   },
   "sound/giftmacher/belltoll.wav": {
-   "sha256": "99127a4c8f614a45693b5ea44d8c46fbe8af74847e55e6d3886de0b52f4fabc5",
    "size": 222952,
    "timestamp": "2015-04-02T10:50:06.000Z"
   },
   "sound/giftmacher/cavedrone.wav": {
-   "sha256": "2e5bd341c5859c557b261f3970e03f2d661e8a5356dee9e3ba214a7ab348fda7",
    "size": 91552,
    "timestamp": "2015-05-13T18:57:10.000Z"
   },
   "sound/giftmacher/chimes.wav": {
-   "sha256": "d1060cd75d8a520b748047790d33c9a4ab5fd626330ebf1242d318d308c165db",
    "size": 250476,
    "timestamp": "2012-11-03T18:12:00.000Z"
   },
   "sound/giftmacher/darkchoir.wav": {
-   "sha256": "ba8538b5da6e6ec9b64953c49ee6e04c1cc016439fb36500b842de1189dc185d",
    "size": 504086,
    "timestamp": "2015-04-02T10:49:28.000Z"
   },
   "sound/giftmacher/demonspir1.wav": {
-   "sha256": "b4b731da68c0c51c70664e42973acc187b0612714ddd55b34fc775f40c059638",
    "size": 27328,
    "timestamp": "2015-04-02T10:50:54.000Z"
   },
   "sound/giftmacher/demonspir2.wav": {
-   "sha256": "ecf773f529ef81abf777d0c513b49edb4156d821eee8112ee2389f34dad9872e",
    "size": 65146,
    "timestamp": "2015-04-02T10:50:54.000Z"
   },
   "sound/giftmacher/dias.wav": {
-   "sha256": "2de75ccc9f971c3c56b87c145ac96cfc7d3e13a758c89081133389d13399606f",
    "size": 412204,
    "timestamp": "2017-07-19T12:09:04.000Z"
   },
   "sound/giftmacher/drivshft.wav": {
-   "sha256": "a84800586cff4027335aa94cc05e0f5a0d88ab2404cba7a5ccc40c3581ffb981",
    "size": 385808,
    "timestamp": "2017-07-19T12:09:04.000Z"
   },
   "sound/giftmacher/holy.wav": {
-   "sha256": "915523f2411f5e0361ad147659f46d8ef8dba3edc6b0d44a4edb9fc68c95ae23",
    "size": 377344,
    "timestamp": "2015-04-02T10:48:30.000Z"
   },
   "sound/giftmacher/machine1.wav": {
-   "sha256": "f6f6796964780835f76e1d45fac7e8ee53671e28b63bd280d434dab7e9a03c4b",
    "size": 88438,
    "timestamp": "2017-04-29T21:32:40.000Z"
   },
   "sound/giftmacher/machine2.wav": {
-   "sha256": "d55d50e94c8c5733625954a4186c8651d7fb0fdcc0081502fda03f0df616646c",
    "size": 160412,
    "timestamp": "2017-04-29T21:32:40.000Z"
   },
   "sound/giftmacher/metal1.wav": {
-   "sha256": "24ab5eb01cd0a9b319e82cb77539901f3048424ef5ad22325bd10e215c71cbb4",
    "size": 33672,
    "timestamp": "2015-05-13T21:07:34.000Z"
   },
   "sound/giftmacher/metal2.wav": {
-   "sha256": "41472d40f266c619858b63c1645db483b9ef0f9ecccbfdd5feb407887140bc5e",
    "size": 39816,
    "timestamp": "2015-05-13T21:07:34.000Z"
   },
   "sound/giftmacher/nightmare.wav": {
-   "sha256": "2caac27dfee5758eb293e0c76bf86baf82b0522c6f71281160e805c6ec282f96",
    "size": 34284,
    "timestamp": "2017-07-05T13:20:18.000Z"
   },
   "sound/giftmacher/rumbledrone.wav": {
-   "sha256": "e379dd59cebfb1e2a111bb3ff186fe50a236509c1f59ab856b544f47282480be",
    "size": 201028,
    "timestamp": "2015-05-19T14:36:34.000Z"
   },
   "sound/giftmacher/softdrone.wav": {
-   "sha256": "94c68fd1500df35e51af70f54aa8bc77d49fb081c410b518bc4a3e74695a7aa6",
    "size": 282014,
    "timestamp": "2015-03-31T20:07:50.000Z"
   },
   "sound/giftmacher/steam1.wav": {
-   "sha256": "11d9c93cd94d417b12b6b9a6d06739ebfa021be85f8cb1387923416a53e9609b",
    "size": 76880,
    "timestamp": "2016-04-14T11:33:12.000Z"
   },
   "sound/giftmacher/steam2.wav": {
-   "sha256": "d42a8bb0b3b0201dfd65f941b420506257124844840172dcad8bdc2974e6aa0e",
    "size": 115296,
    "timestamp": "2016-04-14T11:33:12.000Z"
   },
   "sound/giftmacher/steam3.wav": {
-   "sha256": "ecd70bdd3bd06302d7673d4bcd4765ab25c7c3821399261230d07f246eb73bd5",
    "size": 112042,
    "timestamp": "2016-04-14T11:33:12.000Z"
   },
   "sound/giftmacher/telehum.wav": {
-   "sha256": "fe588142678ccf1a87c5b2455748e7c0e7c2890d76e67825df086c87aa99b87f",
    "size": 40166,
    "timestamp": "2011-09-10T14:33:58.000Z"
   },
   "sound/giftmacher/tld_stop.wav": {
-   "sha256": "b58180629cb28e31b5fa0e00fc74c2c75841dbdcb778674509877d40abdf51df",
    "size": 72304,
    "timestamp": "2017-07-19T12:09:04.000Z"
   },
   "sound/giftmacher/train1.wav": {
-   "sha256": "21c94245bd039c9188417707caba9f2cd3dee67be2074ec4aad6e5381f6d5335",
    "size": 78614,
    "timestamp": "2017-04-29T21:32:40.000Z"
   },
   "sound/giftmacher/tunneldrone.wav": {
-   "sha256": "fe061c83bb9f2675340e16d22c67a6a8119c7c81d00fc456a966d94c087f84d0",
    "size": 322140,
    "timestamp": "2015-05-19T14:32:10.000Z"
   },
   "sound/giftmacher/turbine.wav": {
-   "sha256": "36e8cfdfdf2c2a1ec59406591a357942b806d3f4052cdace2c7d4be39d229f8d",
    "size": 92048,
    "timestamp": "2017-04-29T21:32:40.000Z"
   },
   "sound/giftmacher/water1.wav": {
-   "sha256": "0b368a5ab04fc945bbd6474145db8efae8da109591f9b8dda11e665280cbde67",
    "size": 163252,
    "timestamp": "2017-04-29T21:32:40.000Z"
   },
   "sound/giftmacher/water2.wav": {
-   "sha256": "882c374069e6406d2b09b7c1be2cd87fd4e8db93d6b84ef47e1fb1def708ec31",
    "size": 183368,
    "timestamp": "2016-04-14T11:31:56.000Z"
   },
   "sound/giftmacher/wind1.wav": {
-   "sha256": "a4712652f287ab417395e287610d923e51c42667bf5966a0da14844bc4ec0e42",
    "size": 204176,
    "timestamp": "2015-04-17T12:44:30.000Z"
   },
   "sound/giftmacher/wind2.wav": {
-   "sha256": "2451c60ca4967daee0ab911996e64e11a34cfe9148e6a7a2d810ce7b1a090a99",
    "size": 357434,
    "timestamp": "2015-04-17T12:42:32.000Z"
   },
   "sound/giftmacher/wind3.wav": {
-   "sha256": "41decf2ffe971f07420ab67deb227a285246d92eb01f77284920f01cc3652284",
    "size": 158882,
    "timestamp": "2017-07-05T13:20:56.000Z"
   },
   "sound/giftmacher/wind4.wav": {
-   "sha256": "41decf2ffe971f07420ab67deb227a285246d92eb01f77284920f01cc3652284",
    "size": 158882,
    "timestamp": "2017-07-19T12:09:04.000Z"
   },
   "sound/giftmacher/wood1.wav": {
-   "sha256": "24d3f57839910934eb61b74a91cf47ee4ab48b38f58f060ca05bde7547e8813c",
    "size": 352834,
    "timestamp": "2015-10-01T02:42:44.000Z"
   },
   "sound/giftmacher/wood2.wav": {
-   "sha256": "574401233bff93169d452f4af748a289cfaff5d4e6319884e3cfb4dbd205d0a4",
    "size": 352838,
    "timestamp": "2015-10-01T02:43:42.000Z"
   },
   "sound/jam9_otp/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-08-05T18:59:54.000Z"
   },
   "sound/jam9_otp/idle_w2.wav": {
-   "sha256": "24b56a0dbea4fbbd43ed1fbbeff5d946c9269569284659ec72dc665b18076a3a",
    "size": 33212,
    "timestamp": "2017-07-16T13:52:32.000Z"
   },
   "sound/jam9_otp/monsterguts.wav": {
-   "sha256": "5bc6bea31d908ce8e3daf43b7a4e31bfa6da750ca2f9ca33a7a71c9c8e66d744",
    "size": 15130,
    "timestamp": "2011-01-31T14:24:10.000Z"
   },
   "sound/jam9_otp/notnull.wav": {
-   "sha256": "6c09801196face40592eff614d26a38dfbc86dccb37ea537c59f7eadc3eddd15",
    "size": 28716,
    "timestamp": "2012-11-20T23:47:30.000Z"
   },
   "sound/jam9_otp/sewage.wav": {
-   "sha256": "197a5b8be8ca0394264a763b13dcb9001818e3af2ea0a920769e697df19bc4ba",
    "size": 240964,
    "timestamp": "2017-07-29T20:45:30.000Z"
   },
   "sound/jam9_otp/spider3.wav": {
-   "sha256": "682764a952c725d450f5bd484fe8d3bfd45fc9de748d5007444ac44e465cbc66",
    "size": 18892,
    "timestamp": "2011-01-31T14:24:06.000Z"
   },
   "sound/jam9_skacky/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2017-07-21T15:47:10.000Z"
   },
   "sound/jam9_skacky/laura.wav": {
-   "sha256": "d9424145616eeb1e55c3e265d55f95187160c65d38a81b50a60a7c67d4aef319",
    "size": 573330,
    "timestamp": "2017-07-21T16:34:26.000Z"
   },
   "sound/rumble3.wav": {
-   "sha256": "864f373dbd75172e1c8f31373188f38c31a80af46592f6b2e92cf5f576e5e0e1",
    "size": 209242,
    "timestamp": "2012-11-04T07:44:14.000Z"
   },
   "sound/rumbleloop.wav": {
-   "sha256": "fafcaa92b4a2174045e3826885d14e434a409bf559d1a1d519c4d50ec8939789",
    "size": 106060,
    "timestamp": "2017-08-05T20:15:24.000Z"
   },
   "sound/rumbleoff.wav": {
-   "sha256": "46728daf18b142575d50049188030a153c0e3e994dc83ea375c43ba6da171b3c",
    "size": 105990,
    "timestamp": "2017-08-05T20:15:58.000Z"
   },
   "sound/windgust1.wav": {
-   "sha256": "be28de40857304c1a9e169dd483795b2cd23356b81633133c7872e5657111c70",
    "size": 110288,
    "timestamp": "2016-10-10T16:00:22.000Z"
   },
   "sound/windgust2.wav": {
-   "sha256": "b818f61172795942402ff0ca0d1295a91c36a245edc80689c35fe64a8ac1a4e2",
    "size": 110284,
    "timestamp": "2016-10-10T16:00:04.000Z"
   },
   "sound/windgust3.wav": {
-   "sha256": "fdbb85f091cd9447f1500173aff70236abcdb947ba0758711816da59c5293344",
    "size": 110030,
    "timestamp": "2012-11-04T19:58:04.000Z"
   },
   "sound/windgust4.wav": {
-   "sha256": "9a5c5a3da44f981c9deb8b437f57b3e3a35f2bcab318a1a3223f0a18fa4d2101",
    "size": 198502,
    "timestamp": "2016-10-10T15:59:20.000Z"
   },
   "sound/windgust5.wav": {
-   "sha256": "f55fb77a15a80390ef560962f29ad8311c58af1ddf51f39ffebc4784cf837afe",
    "size": 198494,
    "timestamp": "2016-10-10T15:58:40.000Z"
   },
   "sound/windgust6.wav": {
-   "sha256": "27a19679e7164a6e7bb8e4d6bc42cc8c12a5cd56bba45218e2ec5f1dc528da0d",
    "size": 396944,
    "timestamp": "2016-10-10T15:58:42.000Z"
   },
   "sound/woodcreak2a.wav": {
-   "sha256": "24d3f57839910934eb61b74a91cf47ee4ab48b38f58f060ca05bde7547e8813c",
    "size": 352834,
    "timestamp": "2015-10-01T02:42:44.000Z"
   },
   "sound/woodcreak2b.wav": {
-   "sha256": "574401233bff93169d452f4af748a289cfaff5d4e6319884e3cfb4dbd205d0a4",
    "size": 352838,
    "timestamp": "2015-10-01T02:43:42.000Z"
   },
   "sound/woodcreak2c.wav": {
-   "sha256": "02deb62b856b7be5c3304a0bf745f79019b0b408a8cfcc4e1edede397ba09c7d",
    "size": 308746,
    "timestamp": "2015-10-01T02:44:40.000Z"
   },
   "sound/woodcreak2d.wav": {
-   "sha256": "6d35975964b2fa32ece681a9d0cfa13202cde02bc315f32af0690f7437352452",
    "size": 352856,
    "timestamp": "2015-10-01T02:45:32.000Z"
   },
   "sound/woodcreak2e.wav": {
-   "sha256": "54eb41e3f5c2a0103d07e70e83cf82b51014da3673fb770cf6ada3df669c328e",
    "size": 308766,
    "timestamp": "2015-10-01T02:46:16.000Z"
   }
@@ -1160,7 +888,7 @@
  "install": {
   "extract": "{quake}/jam9"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "21d33c8a494b6c569696e156f36ce43485c3ed1db4ae38f2f7722e71db83404b",
  "tags": [
   "author=              Haunter",

@@ -4,12 +4,10 @@
  ],
  "files": {
   "BASE1.dem": {
-   "sha256": "388fa9cb95bc52f632b696ea6fa9c5092b4446406a32b875337132a1af9778f7",
    "size": 2382350,
    "timestamp": "1998-03-06T20:41:30.000Z"
   },
   "base.bsp": {
-   "sha256": "108a86598fafe9c5c36e2848c9747cbbaf93df780d72669138a32260c82d7cfd",
    "size": 3714648,
    "timestamp": "1998-03-04T11:01:58.000Z"
   }
@@ -18,7 +16,7 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff",
  "tags": [
   "author=Denis Gusakov",

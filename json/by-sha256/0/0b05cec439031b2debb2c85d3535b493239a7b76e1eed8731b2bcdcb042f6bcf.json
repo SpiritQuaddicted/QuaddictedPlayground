@@ -4,38 +4,10 @@
  ],
  "files": {
   "alba02.txt": {
-   "sha256": "bf50258a7fc8bfe6b2d60ae9d5c7efbfb9980306d68bb46277d0dd0fdb7fb2ce",
    "size": 5111,
    "timestamp": "1997-07-16T23:39:18.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "maps/alba02.bsp": {
-     "sha256": "fa6f1fd9b46e9cbb6ca32a88e08b365be97683af75a40d3c62613b23379d7a69",
-     "size": 1430836
-    },
-    "progs.dat": {
-     "sha256": "17bd79fcd4cc0715f2c596f15ce17710a433855b81e26d6cfa5284c99c52b06e",
-     "size": 671664
-    },
-    "progs/zombie.mdl": {
-     "sha256": "6fb69a1f5a5a177f370c12af89a018a67c4d6afff392c26635c8d067d4e80285",
-     "size": 186084
-    },
-    "sound/ambience/buzz1.wav": {
-     "sha256": "3627176107ac11de4b0c08332ac3d95650fcfcdc0c2432b25646c6e5b19f40f2",
-     "size": 40354
-    },
-    "sound/ambience/comp1.wav": {
-     "sha256": "9c64cac96e19351634cb8d612756970a6c9aac87062c7fcd16368e5fffa60925",
-     "size": 159396
-    },
-    "sound/ambience/thunder1.wav": {
-     "sha256": "0bfbb1629a5002958926f057c8361effbe83f8f2cd5350a17e0f21d091231de9",
-     "size": 35564
-    }
-   },
-   "sha256": "94b37c4e7ed96fd001308874b1dffa7783bdcb22a1517a6d24127cf5a8533e4b",
    "size": 2524294,
    "timestamp": "1997-07-16T19:53:54.000Z"
   }
@@ -44,7 +16,7 @@
  "install": {
   "extract": "{quake}/alba02/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf",
  "tags": [
   "author=Einar Saukas (QC)",

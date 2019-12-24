@@ -4,107 +4,86 @@
  ],
  "files": {
   "sgq.bat": {
-   "sha256": "b0973dac14dbde6f0663992c3bdb2376f2a902465f4f07949a051b10f3e564e7",
    "size": 32,
    "timestamp": "2004-05-20T00:43:52.000Z"
   },
   "sgq/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2004-06-05T11:08:14.000Z"
   },
   "sgq/Maps/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2004-06-05T11:08:20.000Z"
   },
   "sgq/Maps/intro.bsp": {
-   "sha256": "f01ef3fcdc4209a3076659fa2977ad617e3059298c6ea66df645730b621f49fd",
    "size": 322456,
    "timestamp": "2004-04-30T16:05:06.000Z"
   },
   "sgq/Maps/sg0503.bsp": {
-   "sha256": "4d2aea4b71c2fc894dc4f7ccb7c9a8c05ccd33b6318707c48f2a47a881592686",
    "size": 1325652,
    "timestamp": "2004-06-06T21:58:44.000Z"
   },
   "sgq/Sound/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2004-06-05T11:08:20.000Z"
   },
   "sgq/Sound/ambience/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2004-06-05T11:08:20.000Z"
   },
   "sgq/Sound/ambience/buzz1.wav": {
-   "sha256": "043c756421af44d761921873575c747bfa434defdf608113b1b124124cbc7b28",
    "size": 14018,
    "timestamp": "2000-10-31T15:32:58.000Z"
   },
   "sgq/Sound/ambience/deadsignal2.wav": {
-   "sha256": "abd901ac5d55cd3438ec7b45d0b1958ff54a62892cb65b6654a4a7f1cd7fc43b",
    "size": 18332,
    "timestamp": "2000-10-31T15:32:52.000Z"
   },
   "sgq/Sound/ambience/fl_hum1.wav": {
-   "sha256": "f9e730b79a16746200accff95ce8156086b7051952a3e99ed29138427e30643b",
    "size": 61792,
    "timestamp": "2000-10-31T15:32:52.000Z"
   },
   "sgq/Sound/doors/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2004-06-05T11:08:20.000Z"
   },
   "sgq/Sound/doors/hydro1.wav": {
-   "sha256": "45c9c6f7f783c1ed10592fe55ceb0a68238e39f7c0d6342edc77ae1b7437f28a",
    "size": 20332,
    "timestamp": "2000-10-31T15:33:10.000Z"
   },
   "sgq/Sound/doors/hydro2.wav": {
-   "sha256": "24fbc11da78bd4e31b41ffcb137324da56b3703d64acdf0337b3fdc94e2fd8f9",
    "size": 15216,
    "timestamp": "2000-10-31T15:33:10.000Z"
   },
   "sgq/Sound/doors/stndr1.wav": {
-   "sha256": "55195204038228f577449bf69de10c3b64f8415048b52e978243682c9ee10652",
    "size": 10762,
    "timestamp": "2000-10-31T15:32:58.000Z"
   },
   "sgq/Sound/weapons/": {
-   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "size": 0,
    "timestamp": "2004-06-05T11:08:20.000Z"
   },
   "sgq/Sound/weapons/guncock.wav": {
-   "sha256": "e1c3ad4de641925f8b51916a39b7fb1553163c707826fd1d9cb5942a618b90fb",
    "size": 23030,
    "timestamp": "2004-05-01T10:30:12.000Z"
   },
   "sgq/Sound/weapons/rocket1i.wav": {
-   "sha256": "b83e4e479b015d56bcff46e85062d1e6356228becfe705b730d511ab69bbee40",
    "size": 6382,
    "timestamp": "2004-05-01T10:30:12.000Z"
   },
   "sgq/Sound/weapons/shotgn2.wav": {
-   "sha256": "1c32cf987890b051180e6b3734177ad0f6530c1ef4265f4ac1166cee6efed800",
    "size": 30426,
    "timestamp": "2004-05-01T10:30:12.000Z"
   },
   "sgq/Sound/weapons/spike2.wav": {
-   "sha256": "f4df259d2c22faba729346172b937ad31ac4ab46f88fb0ecb3fc5ff40863dd63",
    "size": 27900,
    "timestamp": "2004-05-01T10:32:32.000Z"
   },
   "sgq/config.cfg": {
-   "sha256": "bb975896af08d2ca33001971fae78c6cf0f2283dd7e52a887a0266045f902d4f",
    "size": 2378,
    "timestamp": "2004-05-03T16:33:58.000Z"
   },
   "sgq/readme1.txt": {
-   "sha256": "bd0e4f2fb159d3d32ad58eaa340edb009de5aff2e201ebc64ea4e4f09afed885",
    "size": 1639,
    "timestamp": "2004-06-05T11:10:52.000Z"
   }
@@ -113,7 +92,7 @@
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "9975267524828f2a8a169bf6fa76fee701f8550fd999e21809678cc38a2bc77e",
  "tags": [
   "author=Ben Horsley",

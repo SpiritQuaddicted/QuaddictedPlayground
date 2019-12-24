@@ -4,559 +4,94 @@
  ],
  "files": {
   "Pak0.pak": {
-   "files": {
-    "chasecam.cfg": {
-     "sha256": "13d568eaec3e199cfc6f01aa62c8118835c89b4467c8fe74f1f5b2b00d6da119",
-     "size": 2423
-    },
-    "default.cfg": {
-     "sha256": "5e2088d68fdb391aca14c5a5af4a92035b4fbcaa98a775594384880234821560",
-     "size": 1918
-    },
-    "demo1.dem": {
-     "sha256": "82be93ac2294aa05faae0283ba669a09acdd034e1011209c7a18210293dc8aec",
-     "size": 280293
-    },
-    "demo2.dem": {
-     "sha256": "ad886bb5f7d9b329713a18b2a9332cc7fb4515bb17aa3a851e2f4ac333882b0c",
-     "size": 169582
-    },
-    "demo3.dem": {
-     "sha256": "6a9e1b7f495e135f10033a109c8a0c927a00ca4ea6235211d221df0b77d8bb49",
-     "size": 137882
-    },
-    "demo4.dem": {
-     "sha256": "d6c5ea7570caa3a47201e868aef79691603f6bca3d593d72117b87004c87a520",
-     "size": 250189
-    },
-    "gfx.wad": {
-     "sha256": "5323a7c882536e17656258fc38b9cc4427a89e4b1f2fa5493b70f66b59178bd7",
-     "size": 112828
-    },
-    "gfx/conback.lmp": {
-     "sha256": "7414a53f6587a185f7fd1cca21caf610559c0857bffe9206d01dec7e34ed9235",
-     "size": 64008
-    },
-    "gfx/help0.lmp": {
-     "sha256": "473d3d7efcbb00f78b3e5c5bb01ed4bf1dc0bbf84ae2ce5049b2a9f09fd4cf7e",
-     "size": 64008
-    },
-    "gfx/help1.lmp": {
-     "sha256": "8f034873ef76f232eca4cf54d4fb7f6edee92c5b3ea5b34a2ceda6ad3573875c",
-     "size": 64008
-    },
-    "gfx/help2.lmp": {
-     "sha256": "ced4a0b4f17c337570f01919c32ad3ff87d022700eed46dc578ebd9a88ba33a1",
-     "size": 64008
-    },
-    "gfx/help3.lmp": {
-     "sha256": "1a715f59d6519902277534a93dc17ffb2fa59455e8bba1f7c9b68931fb2cb1c0",
-     "size": 64008
-    },
-    "gfx/help4.lmp": {
-     "sha256": "3e425bb14b5e2446f12eec33d7828082fdc632c695b8e8e8719c36c8f2e91779",
-     "size": 64008
-    },
-    "gfx/help5.lmp": {
-     "sha256": "e6b318a2019058709ca0d68d67b65e7eee56072c098f44878a812b189459606b",
-     "size": 64008
-    },
-    "maps/smdm1.bsp": {
-     "sha256": "2d2602ef9146ae82a8f06505614a66be48c5d761f7b8216c72da02cf4b177b0b",
-     "size": 749452
-    },
-    "maps/smend.bsp": {
-     "sha256": "1daf4b89b85911db7ff827935c38914575c1294400c5767c92fb0f1106bd5a8a",
-     "size": 515556
-    },
-    "maps/smlevel1.bsp": {
-     "sha256": "51e1651487a2e3d99d8edd910d4ee4eebc749c94317bb531fb2e523c3d01a8bf",
-     "size": 597040
-    },
-    "maps/smlevel2.bsp": {
-     "sha256": "ac832cfdbc530291bb9a8d2765da6257544ead50b5c7808dba3e11cbaecb39c1",
-     "size": 1946736
-    },
-    "maps/smlevel3.bsp": {
-     "sha256": "8b3eb92696d8d56a702f606234fe4cb7b2c3b7f0f9618166c6b1df348a43b934",
-     "size": 1467472
-    },
-    "maps/smlevel4.bsp": {
-     "sha256": "1f137913ba061639708e1ce48a7716d12240cf3f2668dbe188f549a0e179a81a",
-     "size": 1329420
-    },
-    "maps/smsecret.bsp": {
-     "sha256": "3d5d6aa19d37229f226c4b83f5fc9a24353be4766a89bd5f3c5353f8f1c7a1b4",
-     "size": 731636
-    },
-    "maps/smstart.bsp": {
-     "sha256": "8cb6692072cfd70f078db36e7eed8359ef7ed7ac5f6021b60495cfe0f28c0d78",
-     "size": 1178492
-    },
-    "maps/start.bsp": {
-     "sha256": "b83fb017cc0d1d1d0e59b29f72d0673dbc2c57254ce4b81e7edab2119a9aec38",
-     "size": 413480
-    },
-    "progs.dat": {
-     "sha256": "f80f83081d115ec8b85f3dbd3d6c369ee15163bc40eb8eaa6d69b6abb1d32c1c",
-     "size": 820348
-    },
-    "progs/bloodcb.mdl": {
-     "sha256": "83f0de29aa0f9e9f1d383895da374a5313aa2252edb306eb7bd69bd71660321c",
-     "size": 28036
-    },
-    "progs/bomb.mdl": {
-     "sha256": "349773100c1560896ebfaf9566eacda9d38a2fe7cf9d2942fb00b995a0bfd766",
-     "size": 2889
-    },
-    "progs/choke.mdl": {
-     "sha256": "e33aefd92f0fcda89e547dcddf25a282b765322fce9161a56da95055ea673a5c",
-     "size": 2889
-    },
-    "progs/dragon.mdl": {
-     "sha256": "bc712c93083e01fd2a8bab15b62bfbf5920811b936f09e4744f62bb30b9a8a1d",
-     "size": 256692
-    },
-    "progs/lwing.mdl": {
-     "sha256": "2dd6e48dfd79c0cd01732010e287db6ed1c81422b50b2b3a709e2f852c5b67ef",
-     "size": 34181
-    },
-    "progs/null.spr": {
-     "sha256": "dc67fb2f31bd717353b8138f02bdc8ef2d70ace433c9fd91e3adc909fda513a3",
-     "size": 57
-    },
-    "progs/player.mdl": {
-     "sha256": "feb2f7747f6fd17d18eba5f1f594ac4db281fe7a727a6c1acb576ffeae83810c",
-     "size": 191852
-    },
-    "progs/rabbit.mdl": {
-     "sha256": "1a0786f63d9a2f0e274f05ccf8b82ca0df1794a3cc637d0e82c728f2755914df",
-     "size": 92012
-    },
-    "progs/rspike.mdl": {
-     "sha256": "31c04f10de010d94745f0dc603d24c3bb5c4142880543b2ce3f022be1bb8c47f",
-     "size": 4304
-    },
-    "progs/rubble1.mdl": {
-     "sha256": "8650870ea418a2e51ff0cba26c9e9e0ea39f383075e279378009d3ebf010f0ca",
-     "size": 5716
-    },
-    "progs/rubble1a.mdl": {
-     "sha256": "b4116dd10673155069d7d326fe16439596cbfbb2f6c8c5b31001fcf7e70355e1",
-     "size": 5716
-    },
-    "progs/rubble2.mdl": {
-     "sha256": "f50f68f3247678041ae0eb26bd24b9ea8a57cbc2c66a092f8d35d6463b05b977",
-     "size": 16228
-    },
-    "progs/rubble2a.mdl": {
-     "sha256": "16a1b41734ec932fe749051b31bd8b577af097e28bcaa930783fb84f5d51610d",
-     "size": 16228
-    },
-    "progs/rubble3.mdl": {
-     "sha256": "64fe85a3f08f916df89ce670a1668d7dc28eaba000747b5e534423ea1d80dd85",
-     "size": 22228
-    },
-    "progs/rubble3a.mdl": {
-     "sha256": "71ceb28d923fa713eb1537c898e84e1b2bb94c17955fc39946255ea5673dfa0c",
-     "size": 22228
-    },
-    "progs/rwing.mdl": {
-     "sha256": "c10ad21e0f360fe2b197ca8d7c131095a4874e5fb42e3f52ad4ac0c1c46e276d",
-     "size": 38881
-    },
-    "progs/s_blood1.spr": {
-     "sha256": "edd95bb75f7461862fd1f9e5876b66f3dc778548fb2b8db53cd903b55d3b95bf",
-     "size": 3192
-    },
-    "progs/s_bullet.spr": {
-     "sha256": "bce3194039dc74c5545e6255f771494824e01f24b23dd386f2e1333d52ba7f5d",
-     "size": 120
-    },
-    "progs/s_rain.spr": {
-     "sha256": "4c0bf4b61b6cd263d3f0453f7f050c94a30708f3d9604a44d50cfca1c232444b",
-     "size": 33100
-    },
-    "progs/shelcase.mdl": {
-     "sha256": "dc89626ac1857e3f73629ff8246cd012bef5db2308ff9f1ef0a4c44804821bca",
-     "size": 7060
-    },
-    "progs/sight.mdl": {
-     "sha256": "403e45bd6d474734d41bedb59102fc526340b307c408ad889316684f927b4b3d",
-     "size": 11232
-    },
-    "progs/snail.mdl": {
-     "sha256": "276e89f96e9146c55c642de85eb099db4eb08aa569f34ec0883dab319a1baecf",
-     "size": 248864
-    },
-    "progs/snake1.mdl": {
-     "sha256": "8824603b325f37bbba424f55c3ff900c21ccf61c77ba97e636e91ef99202364a",
-     "size": 132028
-    },
-    "progs/snakeman.mdl": {
-     "sha256": "9ea32284a06ca961abe1e08a4f699ddfad1331277fc740d786322b634bcada35",
-     "size": 132028
-    },
-    "progs/spider.mdl": {
-     "sha256": "df40e58bdf6465e68e5ef33cbcb77c42cc99e50c9dd842c8c3906c2fd04bfc8f",
-     "size": 94492
-    },
-    "progs/tail.mdl": {
-     "sha256": "f284d7c91b2426896b845343ff36ef7a435fbf28bbbfecfc4ed07013fc4618b4",
-     "size": 9965
-    },
-    "progs/tomb.mdl": {
-     "sha256": "19babf8fa5256c81245468bcb8af55328ee1726c2ecfe1ef1864975676a6e7f7",
-     "size": 38444
-    },
-    "progs/uzi.mdl": {
-     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414",
-     "size": 52820
-    },
-    "progs/v_rifle1.mdl": {
-     "sha256": "5f3bbdb6cf49b4f73ca00f2b7dd3986c0c8bcc84a9726e20fd58d4e112a51a4a",
-     "size": 61188
-    },
-    "progs/v_rifle2.mdl": {
-     "sha256": "accceb54fe55dfae7ef9bb46e891f47027ff2461d7feb542c13fed61190adb4e",
-     "size": 61188
-    },
-    "quake.rc": {
-     "sha256": "4cda28144230f00e63c25d046859ac4d37ec95f55ae834f80e05cf9edbee750c",
-     "size": 428
-    },
-    "sound/ambient/aog.wav": {
-     "sha256": "e157b5a8144b8dfb34ac0ac913864dea6ecff37415f4c31eada459a8c0b63ac2",
-     "size": 21636
-    },
-    "sound/ambient/equake.wav": {
-     "sha256": "dcc45d2ef0703ecaa022c83cd66ae4992021ac379c11fc9da4401e184a191c93",
-     "size": 47148
-    },
-    "sound/ambient/rain.wav": {
-     "sha256": "a196a2fc8a052368f9e8f7efe853391d1a99dfb1f6afae4fc7038222f2eb6fda",
-     "size": 91202
-    },
-    "sound/ambient/rtd.wav": {
-     "sha256": "18fc4122141023c2271c311c9987ac9fdbb971f93a482d06ef765e008db4b0a4",
-     "size": 12890
-    },
-    "sound/ambient/spark1.wav": {
-     "sha256": "edd25ab7bbc00e8952dedc1d671735f649134481860526bcdcb17f3bf20aa464",
-     "size": 3288
-    },
-    "sound/ambient/thunder2.wav": {
-     "sha256": "c4bf4f36a0362a5506b8479207dde4dcf38d855bb23f53232416ae1411bf4c0a",
-     "size": 108388
-    },
-    "sound/cube/bc_activ.wav": {
-     "sha256": "635b91649a592106f181949245c76b4b41af95222140158d190b356a59e9839d",
-     "size": 36464
-    },
-    "sound/cube/bc_attck.wav": {
-     "sha256": "89a3d06aaee35951257389c269620cc8188d83382055fd7fd1b5570971e64bf6",
-     "size": 6232
-    },
-    "sound/cube/bc_gulp.wav": {
-     "sha256": "64d243d8f1da4930c9689a4c68cc6ff36d99d0c19b68ab7b2ef8780c4354e7d7",
-     "size": 25922
-    },
-    "sound/cube/bc_hngry.wav": {
-     "sha256": "c53d35c94a7fee43c38620798d736d5cf0aeb491ff6dd0923ae126c70714a56a",
-     "size": 37754
-    },
-    "sound/dragon/death.wav": {
-     "sha256": "0fe255bd36c64acf75a53b97851b995517e70468b3818ff0ccecc4c7be5fc055",
-     "size": 16944
-    },
-    "sound/dragon/fire.wav": {
-     "sha256": "a2a678fa4485af0e45edcaba632f0a0248f0f65802f02f10ab0a83ce428b0872",
-     "size": 11998
-    },
-    "sound/dragon/firehit.wav": {
-     "sha256": "09c55af058e624be74d806eb4826a334db038cc2d4410140b80effb160210dcc",
-     "size": 6294
-    },
-    "sound/dragon/idlefly.wav": {
-     "sha256": "f4b73e9887a6920bb9247bc4c121d369d4cf4881ae2a21f5176f289b430081e9",
-     "size": 5596
-    },
-    "sound/dragon/niteact.wav": {
-     "sha256": "bfc89fc5f307448536e87ac1bc235e2959c9c042d58ab71fc55bd52c294fc4db",
-     "size": 17916
-    },
-    "sound/dragon/nitepain.wav": {
-     "sha256": "d4624392b9c5717a91a3d7c51b43a01df949d89878eb7103ce747e26ca0aa126",
-     "size": 12683
-    },
-    "sound/dragon/pain.wav": {
-     "sha256": "e71858c4de3e9ddcad1cba4ec0a6f5ec437b06c813b263ec73f853846d15a984",
-     "size": 13848
-    },
-    "sound/dragon/sight.wav": {
-     "sha256": "b904bc59e7a4aafae9db8171a8274ddd6b9ce126b4d9ca1a3ccff8aaf84a8c84",
-     "size": 27557
-    },
-    "sound/dragon/spawn.wav": {
-     "sha256": "fc495cd1155d4f93594e24ef087dd46244955053c1babf673a14d7b4825b68d6",
-     "size": 12666
-    },
-    "sound/dragon/spit.wav": {
-     "sha256": "ccac1dc5e6edb11092237e24e0749b91f31ce7deb5b63f71791199db67c22314",
-     "size": 12477
-    },
-    "sound/dragon/thunder.wav": {
-     "sha256": "b30e18bbc0a12db2032fa95d5d0504ea63eaa13b3bea34e3b42ec59f3ca4d815",
-     "size": 14764
-    },
-    "sound/shellhit.wav": {
-     "sha256": "17e0784b9c2ca8b5c60ba0ee6fe85f0eb04d0450ec948b6c4652cf64e0912cca",
-     "size": 1598
-    },
-    "sound/snail/ni.wav": {
-     "sha256": "4bd1f1f2fd5182fd2fd8c5c1180d187fda03efa778457676efd2862e26045dd8",
-     "size": 2592
-    },
-    "sound/snail/ni1.wav": {
-     "sha256": "fe9a0d1987e6715f01bad0af6a2b79af91d320c82cc56571082b3dd1e918b6e9",
-     "size": 5248
-    },
-    "sound/snail/ni2.wav": {
-     "sha256": "24328dd87d8580b958a733aa8b163cb110e58046c2956e436658225b6d780a7d",
-     "size": 5846
-    },
-    "sound/snail/ni3.wav": {
-     "sha256": "0451ab80d6f02a299575a017a8729655c9e19fc851ccf77897bacfd2dc048337",
-     "size": 7202
-    },
-    "sound/snail/ni4.wav": {
-     "sha256": "a374ad002201c94849b6ff525764fcf5969e32073afd5d0be5dee5c161f504ea",
-     "size": 7596
-    },
-    "sound/snail/ni5.wav": {
-     "sha256": "09dd1f3b2acb0be7d145b45d9bcc4a6745c37346dbfd2e87fe9631dee4e23660",
-     "size": 4278
-    },
-    "sound/snail/ni6.wav": {
-     "sha256": "baf4c6a0e289c0d59175b76fedd66d8a082af1de039a354ecb75caaf7efa59e9",
-     "size": 4778
-    },
-    "sound/snail/niwong.wav": {
-     "sha256": "7be14f65f860eebe4317b5f2062dba6aac54f515be14339ac20b9dfa100267bf",
-     "size": 14670
-    },
-    "sound/snail/noo.wav": {
-     "sha256": "db84a6db394bb669270c7d55af2f7dceac35653476e772b80233f783f9f24b92",
-     "size": 8266
-    },
-    "sound/snail/peng.wav": {
-     "sha256": "bdd7d3b46b4c193fe12790d3a4769a0d8b1f3d4f14d3a1e616c7319a4b3dd50b",
-     "size": 7040
-    },
-    "sound/wall/wall01.wav": {
-     "sha256": "c338c95767dded603a1a69100c1af0baab42959eaae856f6cab99ffbd140b727",
-     "size": 32804
-    },
-    "sound/weapons/rifle1.wav": {
-     "sha256": "a217f0765df3d8b9f99895e37b7e906cde1d7a1e0ab05a81be4839ffc6893751",
-     "size": 12656
-    },
-    "txt/ambient.txt": {
-     "sha256": "7cf7dd0049c8dba5a3d0e03568778663ecb340eaca5370ece6f8fcb9bf9d7ece",
-     "size": 840
-    },
-    "txt/chasecam.txt": {
-     "sha256": "6181219189f19f79f2c94a18300857edf6f205192c262be388464ba841477d0c",
-     "size": 5940
-    },
-    "txt/choke.txt": {
-     "sha256": "d7a59d39ac95c5fc5ab23da316f63fd1da9f056e71bbe30bc9f124fcc9cea861",
-     "size": 5960
-    },
-    "txt/cranked.txt": {
-     "sha256": "80bd1f1fcb5b6464f80322f2c34faec0219536b63db9636550246f12134e358c",
-     "size": 4080
-    },
-    "txt/deadstuf.txt": {
-     "sha256": "508bf7ae49da9ef1b3fbb05ba74f80c11f66abfc385ffda15d584126f9258441",
-     "size": 1749
-    },
-    "txt/dragons.txt": {
-     "sha256": "338003d21a40fbf8a31f760620a07e92b6b1615fac47656f9c5aca147b727ef6",
-     "size": 7446
-    },
-    "txt/eject.txt": {
-     "sha256": "04ff84fb7680f984d5e5cbc9f0eb568c16ec3582fcec0f55abfb079632efc506",
-     "size": 2244
-    },
-    "txt/flares.txt": {
-     "sha256": "32d94a9b9a6022ced1c86fd98e1b3516eb7a027b6753f025f7eff9869ef1d151",
-     "size": 2649
-    },
-    "txt/gibfount.txt": {
-     "sha256": "6b41bbd6f072c9b8ebfd0afb1baa776c4e5b0f3ba5c635cefbe11c1f456e90da",
-     "size": 2173
-    },
-    "txt/gyrobot.txt": {
-     "sha256": "b19185538e9433b690dfaa5175501790d2f4ce8c32220e822069cccd51749817",
-     "size": 15522
-    },
-    "txt/idglobe2.txt": {
-     "sha256": "b299dc471f61b6964040d3534bf47e617e0e223e83abde059fc73f1c17066554",
-     "size": 1248
-    },
-    "txt/ogresaw.txt": {
-     "sha256": "0d27a6168b50572fa6040ed79a8f039959d4a5242a519622ef0a3915ff537e3a",
-     "size": 2549
-    },
-    "txt/plsrfl20.txt": {
-     "sha256": "aed7841a1f02193f61a24d4da31dd9e775ba386a3ef5e77fd1084bb022873e69",
-     "size": 2367
-    },
-    "txt/rabbit.txt": {
-     "sha256": "e68f8bc25bcf4c83067a4680884a0beb510d29d96b85154c125ede83ad03ab9e",
-     "size": 927
-    },
-    "txt/rain.txt": {
-     "sha256": "2a4a797b2dbebc6a577177b4ed2983dc0b4a870f482d9a1d8524556642402be7",
-     "size": 2116
-    },
-    "txt/skinz.txt": {
-     "sha256": "de63038a0ebfc912b8ec00348326fdb53aaadf914481cfe5ca74aa19f9361947",
-     "size": 3918
-    },
-    "txt/smlevels.txt": {
-     "sha256": "c84e08e3540cfe0d60fa4bf95c52ba521e7bfbea0917d878c10f9eb7aa6bf0c6",
-     "size": 15832
-    },
-    "txt/snakeman.txt": {
-     "sha256": "cc988702d85165b6f9cf05830cf8ebe39a907b140c723799813fa14638c2d7f2",
-     "size": 4744
-    },
-    "txt/spider.txt": {
-     "sha256": "647a43b615b99837464f5a92f188edef7d08506f0d897cece2d1192aff65c2ba",
-     "size": 2604
-    },
-    "txt/walls01.txt": {
-     "sha256": "d7c7a2b26ca415635abdb06c983eae75319924b7ec91ead6e0751ae174b69c8e",
-     "size": 3093
-    },
-    "txt/zer.txt": {
-     "sha256": "f88d82cb989d8acebe31a81e4a1adf54aa60d7cfc6c7e82c7b9b3eae3f09a54a",
-     "size": 11251
-    }
-   },
-   "sha256": "ca243d0a39b179c5b9850fa1563bf5ea52335f4c3c193a8dce88aac055539d9b",
    "size": 13543634,
    "timestamp": "1997-11-08T22:15:46.000Z"
   },
   "ambient.txt": {
-   "sha256": "7cf7dd0049c8dba5a3d0e03568778663ecb340eaca5370ece6f8fcb9bf9d7ece",
    "size": 840,
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
   "chasecam.txt": {
-   "sha256": "6181219189f19f79f2c94a18300857edf6f205192c262be388464ba841477d0c",
    "size": 5940,
    "timestamp": "1997-10-22T00:23:56.000Z"
   },
   "choke.txt": {
-   "sha256": "d7a59d39ac95c5fc5ab23da316f63fd1da9f056e71bbe30bc9f124fcc9cea861",
    "size": 5960,
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
   "cranked.txt": {
-   "sha256": "80bd1f1fcb5b6464f80322f2c34faec0219536b63db9636550246f12134e358c",
    "size": 4080,
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
   "deadstuf.txt": {
-   "sha256": "508bf7ae49da9ef1b3fbb05ba74f80c11f66abfc385ffda15d584126f9258441",
    "size": 1749,
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
   "dragons.txt": {
-   "sha256": "338003d21a40fbf8a31f760620a07e92b6b1615fac47656f9c5aca147b727ef6",
    "size": 7446,
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
   "eject.txt": {
-   "sha256": "04ff84fb7680f984d5e5cbc9f0eb568c16ec3582fcec0f55abfb079632efc506",
    "size": 2244,
    "timestamp": "1997-10-22T00:23:56.000Z"
   },
   "flares.txt": {
-   "sha256": "32d94a9b9a6022ced1c86fd98e1b3516eb7a027b6753f025f7eff9869ef1d151",
    "size": 2649,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "gibfount.txt": {
-   "sha256": "6b41bbd6f072c9b8ebfd0afb1baa776c4e5b0f3ba5c635cefbe11c1f456e90da",
    "size": 2173,
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
   "gyrobot.txt": {
-   "sha256": "b19185538e9433b690dfaa5175501790d2f4ce8c32220e822069cccd51749817",
    "size": 15522,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "idglobe2.txt": {
-   "sha256": "b299dc471f61b6964040d3534bf47e617e0e223e83abde059fc73f1c17066554",
    "size": 1248,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "ogresaw.txt": {
-   "sha256": "0d27a6168b50572fa6040ed79a8f039959d4a5242a519622ef0a3915ff537e3a",
    "size": 2549,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "plsrfl20.txt": {
-   "sha256": "aed7841a1f02193f61a24d4da31dd9e775ba386a3ef5e77fd1084bb022873e69",
    "size": 2367,
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
   "rabbit.txt": {
-   "sha256": "e68f8bc25bcf4c83067a4680884a0beb510d29d96b85154c125ede83ad03ab9e",
    "size": 927,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "rain.txt": {
-   "sha256": "2a4a797b2dbebc6a577177b4ed2983dc0b4a870f482d9a1d8524556642402be7",
    "size": 2116,
    "timestamp": "1997-10-22T00:24:00.000Z"
   },
   "skinz.txt": {
-   "sha256": "de63038a0ebfc912b8ec00348326fdb53aaadf914481cfe5ca74aa19f9361947",
    "size": 3918,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "smlevel.txt": {
-   "sha256": "31e6b7083c0ca5f8c2389a723c42ee99d135000316dcdb72c53c9e3176755a01",
    "size": 15831,
    "timestamp": "1997-11-09T09:56:54.000Z"
   },
   "smlevels.cfg": {
-   "sha256": "fe76218e5b3b3b4b74c370ee0483a37f2c893874edfdffb31f1cb20ead69ee65",
    "size": 433,
    "timestamp": "1997-11-08T06:43:16.000Z"
   },
   "snakeman.txt": {
-   "sha256": "cc988702d85165b6f9cf05830cf8ebe39a907b140c723799813fa14638c2d7f2",
    "size": 4744,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "spider.txt": {
-   "sha256": "647a43b615b99837464f5a92f188edef7d08506f0d897cece2d1192aff65c2ba",
    "size": 2604,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "walls01.txt": {
-   "sha256": "d7c7a2b26ca415635abdb06c983eae75319924b7ec91ead6e0751ae174b69c8e",
    "size": 3093,
    "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "zer.txt": {
-   "sha256": "f88d82cb989d8acebe31a81e4a1adf54aa60d7cfc6c7e82c7b9b3eae3f09a54a",
    "size": 11251,
    "timestamp": "1997-10-22T00:23:58.000Z"
   }
@@ -565,7 +100,7 @@
  "install": {
   "extract": "{quake}/smlevel/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "9c27f016d12f5772e7c5bf9b2a4be50aa87720d32b98f344313baeb34d31afdb",
  "tags": [
   "author=Scott McNutt",

@@ -4,38 +4,10 @@
  ],
  "files": {
   "ovrridn.txt": {
-   "sha256": "c5b3c44018b7d8475c4607e4da5e9478ef7405c4474c31cfa8e1bedddce02fb7",
    "size": 2217,
    "timestamp": "1997-05-21T21:52:38.000Z"
   },
   "pak0.pak": {
-   "files": {
-    "maps/ovrridn.bsp": {
-     "sha256": "8029b85635b2e95c5850439b9b13160239eee949f57194ccff91b72ddb714891",
-     "size": 1515932
-    },
-    "maps/ovrridn2.bsp": {
-     "sha256": "1970659c23778991586c3a966c64c9e15fe86900b0609e61cbe486f3a2ba2e41",
-     "size": 1848048
-    },
-    "progs.dat": {
-     "sha256": "ca3be4df2003e8b8cd7688682507121f7b67f469d21b4734be8644e7ab1101e8",
-     "size": 480868
-    },
-    "progs/grunt.mdl": {
-     "sha256": "4d3fdb5d119a3bf4f69dd72eb0d0896f9215c3c279d8103f8747454334429aac",
-     "size": 146288
-    },
-    "progs/ngrunt.mdl": {
-     "sha256": "3c8d939e8b1d911709b8cba3ee7a78d8889aeb48bcb091dbf806be5ca65731c3",
-     "size": 146288
-    },
-    "progs/sngrunt.mdl": {
-     "sha256": "7c6f2dce582b0b3e4f353881818d3744ee316102980b9371a6b6fffc36b17278",
-     "size": 146288
-    }
-   },
-   "sha256": "a4191fd62ee0b1b10a5f5c007d5b04c7472c893506ddbaf5de0a23b0d521bb6e",
    "size": 4284108,
    "timestamp": "1997-05-21T21:13:32.000Z"
   }
@@ -44,7 +16,7 @@
  "install": {
   "extract": "{quake}/ovrridn/"
  },
- "json_version": "2019.12.24-12.08",
+ "json_version": "2019.12.24-13.03",
  "sha256": "f47bef2f0b959059610a85a60267c594c9f887e11b8ad2c10fac83ab3bb0b2b6",
  "tags": [
   "author=Travis Almand",
