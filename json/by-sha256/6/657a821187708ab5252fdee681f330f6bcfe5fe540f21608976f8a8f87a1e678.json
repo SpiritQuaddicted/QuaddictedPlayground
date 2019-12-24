@@ -4,23 +4,26 @@
  ],
  "files": {
   "ATF.TXT": {
-   "filesize": 6180,
-   "timestamp": "1997-12-10"
+   "sha256": "d0e36047fa3f5db7fc4fab0a7ec6493996931737c5c26c803a5a39ef9ec0c8cb",
+   "size": 6180,
+   "timestamp": "1997-12-10T09:36:52.000Z"
   },
   "PAK0.PAK": {
-   "filesize": 49049358,
-   "timestamp": "1997-12-10"
+   "sha256": "ae12563e4d636ca16ceb5bc7c1b0790024fc0b6bdaebf22b7783291a29b47df0",
+   "size": 49049358,
+   "timestamp": "1997-12-10T10:04:14.000Z"
   },
   "PROGS.DAT": {
-   "filesize": 471808,
-   "timestamp": "1997-12-10"
+   "sha256": "c9d27cdfa2b43e088a0ebd667e12e34e4b79c43087421aaf37129a4682a91f84",
+   "size": 471808,
+   "timestamp": "1997-12-10T05:06:02.000Z"
   }
  },
  "filesize": 17695,
  "install": {
   "extract": "{quake}/atf/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "657a821187708ab5252fdee681f330f6bcfe5fe540f21608976f8a8f87a1e678",
  "tags": [
   "author=ATF Team",

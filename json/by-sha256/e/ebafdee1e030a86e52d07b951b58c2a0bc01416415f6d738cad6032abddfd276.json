@@ -4,23 +4,80 @@
  ],
  "files": {
   "pak0.pak": {
-   "filesize": 11840235,
-   "timestamp": "2006-05-22"
+   "files": {
+    "maps/d1.bsp": {
+     "sha256": "0409974dfda63ef96c4af025bd87883648e66324f188d0e33a795248f32b230f",
+     "size": 1370619
+    },
+    "maps/d2.bsp": {
+     "sha256": "ec92f09168d422c7bce4e22abe08c6aa1b326591c197c9d98958ef56ce1e1fdd",
+     "size": 1529552
+    },
+    "maps/d3.bsp": {
+     "sha256": "2a5efbdc493301b46c4bb576c1a72504647dd674874adf40c38af6f54c1bd606",
+     "size": 1233802
+    },
+    "maps/d4.bsp": {
+     "sha256": "90925abb535d3b4b317f15d137728725948ef944a3456a9ee0a068e1c8409ff7",
+     "size": 1096063
+    },
+    "maps/d5.bsp": {
+     "sha256": "d72733daa1b914820a8d812e0e2148bd8e602018e6542f214829ef6745da0c26",
+     "size": 1004217
+    },
+    "maps/d6.bsp": {
+     "sha256": "cbcd2bd22de48a2fd50233b9994d45b949306e2ecb8a478b380b38eabd8a119f",
+     "size": 1355151
+    },
+    "maps/d7.bsp": {
+     "sha256": "6d754210fcbb169ef5864dd920ba8eb1078abc7905bef921cdc75fd8b45e6f02",
+     "size": 1584212
+    },
+    "maps/ds.bsp": {
+     "sha256": "dbba7945b240a4383e7fe8d403347ddd79c47f058fb45c28f446632851aff16c",
+     "size": 1135295
+    },
+    "maps/start.bsp": {
+     "sha256": "ff7e596e2c6f12a1fc49dcd1e482b6b5896c67d13c10cc38c1191a6f64d8d262",
+     "size": 670206
+    },
+    "progs.dat": {
+     "sha256": "cace0a57bc7f82cc0daf4f5cffedf8a883d733533201d537a6c30b81566b7258",
+     "size": 414408
+    },
+    "progs/renf.mdl": {
+     "sha256": "d0715224e653e4cac0f86b4b2ff3b2bc70d5e895232ec7e753f20db817f34ab6",
+     "size": 160688
+    },
+    "sound/ambience/waterfal.wav": {
+     "sha256": "6dba30c793b844acf1b1f8a7496009b966eef8c89659802302e3432a8e5da601",
+     "size": 19330
+    },
+    "sound/world/ligh_1.wav": {
+     "sha256": "8fd3ad0d8bbf26cd03a5ea686392d02c14b6147e96b5bb936f602311bdaed62c",
+     "size": 265848
+    }
+   },
+   "sha256": "b148bc25c9e790a02c22e53b823e269324c6a77b2255bde53df9720935555dde",
+   "size": 11840235,
+   "timestamp": "2006-05-22T09:53:46.000Z"
   },
   "readme.eng": {
-   "filesize": 535,
-   "timestamp": "2006-05-21"
+   "sha256": "acb06684f64e7d96271ba7d4b48b020ad35e2ad0651cd9b7f7f2d923dbb40b87",
+   "size": 535,
+   "timestamp": "2006-05-21T08:10:12.000Z"
   },
   "readme.rus": {
-   "filesize": 537,
-   "timestamp": "2006-05-21"
+   "sha256": "c2893c3bea8355d1f6f357cd84140ce5d0291553c47ada91c15543ab133d9243",
+   "size": 537,
+   "timestamp": "2006-05-21T08:16:16.000Z"
   }
  },
  "filesize": 5217,
  "install": {
   "extract": "{quake}/digs01/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "ebafdee1e030a86e52d07b951b58c2a0bc01416415f6d738cad6032abddfd276",
  "tags": [
   "author=Digs",

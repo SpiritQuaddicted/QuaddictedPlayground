@@ -3,24 +3,66 @@
   "qfract-beta1.zip"
  ],
  "files": {
+  "fracture/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2001-05-29T19:43:50.000Z"
+  },
   "fracture/pak0.pak": {
-   "filesize": 2616544,
-   "timestamp": "1999-05-13"
+   "files": {
+    "maps/01.bsp": {
+     "sha256": "2d13657fddf42310970092cdc52d0bb7d54f5d69a05f6dd1adcb64a99f7032bc",
+     "size": 1098868
+    },
+    "maps/start.bsp": {
+     "sha256": "f66ab759dac170e541844103e587a3df91526245c8494ad838f0ada65dd9677a",
+     "size": 952548
+    },
+    "progs.dat": {
+     "sha256": "49052790d48e942f9dc261cc23e2f525508ddc41ab8c1893533f05c32a5535dd",
+     "size": 390700
+    },
+    "sound/ambience/machine1.wav": {
+     "sha256": "e6adc6207b2c36e5335a2249eb7f74982af99aba0754078a205e589d4638060c",
+     "size": 57182
+    },
+    "sound/ambience/machine2.wav": {
+     "sha256": "9df6c20b13f1b286159fac92cc27ce29e0b88e71cfa24294ca55075be38df5a6",
+     "size": 22442
+    },
+    "sound/ambience/machine3.wav": {
+     "sha256": "bc0427417aaca5a5c336bda80fbe2b3064282faa2c258d5417e56de7a30e9fd0",
+     "size": 19882
+    },
+    "sound/ambience/whoosh.wav": {
+     "sha256": "d3acc701d59c33d12e6b905a07e4f02443625571219426c248379d8aa1626c8b",
+     "size": 43990
+    },
+    "sound/ambience/wind2.wav": {
+     "sha256": "34248569bb7ab66f5e1d874e15c7a91d89fd2b70d27e5521456b2589581fe1e6",
+     "size": 30408
+    }
+   },
+   "sha256": "c8f96459113c7ecb06f2fd487aa24dccdf91e86d4a556f94d22df8910b32fe58",
+   "size": 2616544,
+   "timestamp": "1999-05-13T16:59:26.000Z"
   },
   "install.txt": {
-   "filesize": 344,
-   "timestamp": "2001-05-29"
+   "sha256": "c29b1cd19df3782cbeb2c61e540e318c63002d28c2393dd70bb25c9cbab4e4c0",
+   "size": 344,
+   "timestamp": "2001-05-29T19:44:50.000Z"
   },
   "readme.txt": {
-   "filesize": 474,
-   "timestamp": "2001-05-29"
+   "sha256": "841ae35aed58ee0949bb0ea7c609972be71a6f5214a35e7c52e5c89c3ffe0413",
+   "size": 474,
+   "timestamp": "2001-05-29T19:45:32.000Z"
   }
  },
  "filesize": 1064,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "08b5e4dde36a924734149e0ee96664b9369590afa51262f48514b7524bfd0e0b",
  "tags": [
   "author=Adam Foster",

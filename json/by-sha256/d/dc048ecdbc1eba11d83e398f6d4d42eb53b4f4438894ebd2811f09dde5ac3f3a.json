@@ -4,19 +4,199 @@
  ],
  "files": {
   "ne_tower.txt": {
-   "filesize": 5970,
-   "timestamp": "2009-07-01"
+   "sha256": "e245ba0627d46ff37f8c0c62dd7449743e17dbcbee14c2c32d636497846c97a5",
+   "size": 5970,
+   "timestamp": "2009-07-01T15:11:16.000Z"
   },
   "pak0.pak": {
-   "filesize": 9990682,
-   "timestamp": "2009-07-01"
+   "files": {
+    "maps/128gr_x.bsp": {
+     "sha256": "1dfd7381e5a3204e39b8ced70358a11a21a98c739032ba8766caac93af19712f",
+     "size": 98436
+    },
+    "maps/128gr_y.bsp": {
+     "sha256": "c634e0dec8ad3e09a8a4f71d834ec39dbca4a627502adb62132e5888fcff8e9d",
+     "size": 97628
+    },
+    "maps/128gr_z.bsp": {
+     "sha256": "79e92a98f5dd383300c15f40a499a55066a96ffb2a25925e7abd3b3176d04398",
+     "size": 103408
+    },
+    "maps/256gr_x.bsp": {
+     "sha256": "a69f70b643786b8cff0c10d688ba987916b567008107bc6063bac9c968074b16",
+     "size": 113952
+    },
+    "maps/hiris1_y.bsp": {
+     "sha256": "e37b9b4663b35caa6f2c7ef9bbd2c769efc253d09437c278e560db724f4e2e91",
+     "size": 25652
+    },
+    "maps/hiris2_y.bsp": {
+     "sha256": "241a14978447e5664a82e9cdb1241c2c3a18f1d5718c93ef3b3c517a2816af32",
+     "size": 25664
+    },
+    "maps/hiris3_y.bsp": {
+     "sha256": "025b0e9cb3d8700ab14b203c57c1e4c464faec9c929091b3110cb9dda0ebffad",
+     "size": 25656
+    },
+    "maps/hiris4_y.bsp": {
+     "sha256": "0212f396c474427c93e5f2d939dac467a53e824183287fb672f831f608a1ea88",
+     "size": 25628
+    },
+    "maps/ne_tower.bsp": {
+     "sha256": "d01310ee943c39d761513e5f4683b58c0320e922fda36e56c48fc894bc76a3e8",
+     "size": 5667548
+    },
+    "progs/ne_tower/32grthin.mdl": {
+     "sha256": "d098ef14503952b865ca1c41ca399a9e195d7d8bcedfd573034a5c02595f685c",
+     "size": 37840
+    },
+    "sound/ambience/wind2.wav": {
+     "sha256": "3dc3ccb29f6c601ad610545a3cf509a488fafb36a214b612b5109ad10c455246",
+     "size": 1282054
+    },
+    "sound/doors/er_stop.wav": {
+     "sha256": "f674272aa55db0cb05651c5edfa76422370d138c44789b179bc6e943a22f0d28",
+     "size": 51846
+    },
+    "sound/doors/er_strt.wav": {
+     "sha256": "afb23446ab200aa3bd540bc1ac517713dbf2d7fc099283254f7b8a4480a90092",
+     "size": 99372
+    },
+    "sound/doors/ir_stop.wav": {
+     "sha256": "c5ae31d19bb638cd61771f365beca5998d5795ff035929863a19148d39907904",
+     "size": 81054
+    },
+    "sound/doors/ir_strt.wav": {
+     "sha256": "8e2767cf7d483ab898c7eb561834b0a7af90669976499dfe42c8f7e09560aeb9",
+     "size": 86616
+    },
+    "sound/necros/tower/button01.wav": {
+     "sha256": "1027118149cd69f58e561a956ec8ba8bea843267cc44674f913f23933b67dfad",
+     "size": 26086
+    },
+    "sound/necros/tower/deep.wav": {
+     "sha256": "3b1c3809233d1bae1196d84db821f401c4e2432ae752a8a4bef2bd4f17e644ce",
+     "size": 401112
+    },
+    "sound/necros/tower/dl_beam.wav": {
+     "sha256": "346287127fa17808a350dc270a52f58db4381b37ef8c243fafd4de3aaffc1ab2",
+     "size": 91664
+    },
+    "sound/necros/tower/g_rez1.wav": {
+     "sha256": "2678e6d5a5e47a7077480d1f067d331ceb0d8451f3cfaf98a213df5213ebb5aa",
+     "size": 171646
+    },
+    "sound/necros/tower/g_rez2.wav": {
+     "sha256": "c6a5c28331fc6a448d9de177764ee917ad069f2756c863b44057e874fb173b59",
+     "size": 43734
+    },
+    "sound/necros/tower/gearopen.wav": {
+     "sha256": "39b73c8ada1b06c7ba07099447b9b0d75911f08df09ced3826bcff136af5b0ee",
+     "size": 49708
+    },
+    "sound/necros/tower/gearopn2.wav": {
+     "sha256": "70afe914f7b256714de02c56d8c4ff05554f3c602a363368ef7a234bd6ea59fd",
+     "size": 52204
+    },
+    "sound/necros/tower/machloop.wav": {
+     "sha256": "30b0390ff4fa000bab0f912d67c283621df3d34707a97d19a4864bc49d4e4c9c",
+     "size": 114314
+    },
+    "sound/necros/tower/machpre.wav": {
+     "sha256": "93bd729920ad9834709e7b7183ffa03f6b18ac6f768df4c359a362bbe68675fd",
+     "size": 221548
+    },
+    "sound/necros/tower/machstop.wav": {
+     "sha256": "e35b2ec09ca186631e36a4c86927d8220ce386d9e00868fa483daa654682f7bd",
+     "size": 124342
+    },
+    "sound/necros/tower/machstrt.wav": {
+     "sha256": "86ed29d33c712852afb3b06fdf23f29b01151d84228717900c8aaa2c9f3f769e",
+     "size": 231396
+    },
+    "sound/necros/tower/mladder.wav": {
+     "sha256": "9a6aeefbdb7aed5a9d5ea23fe9fb0fba4c7923a35e1b49e7c18a7c42b6ea6dbc",
+     "size": 10576
+    },
+    "sound/necros/tower/ne_hum5.wav": {
+     "sha256": "03a29e971736696b4140932e807e3aafe475cbfeca146b497ecc6cd7c742c52c",
+     "size": 61584
+    },
+    "sound/necros/tower/physics/blockhit1.wav": {
+     "sha256": "2c398ff2875279f209c28107e430b3f6d27f592bc2fc3fafc7a27bc5421509a2",
+     "size": 24840
+    },
+    "sound/necros/tower/physics/blockhit2.wav": {
+     "sha256": "500a4f089688f3c40b61c1d18b46696a814c90f3c47a3edd88e2f5014ede9774",
+     "size": 20336
+    },
+    "sound/necros/tower/physics/blockhit3.wav": {
+     "sha256": "44333f5422dd4bca98d332f19b0713eb93ddfec4af5d101f66aeb65a049ca710",
+     "size": 22826
+    },
+    "sound/necros/tower/physics/blockhit4.wav": {
+     "sha256": "b7b4fdcf83e231cfcf608759dcd01b24de0e1076d4c5ffab2d9074309a0e1f50",
+     "size": 22576
+    },
+    "sound/necros/tower/physics/stnhvbrk.wav": {
+     "sha256": "b2673c05206bb375bfb78dad1c164e680804b2e9ac4d8dba4eae2645f39f1f6a",
+     "size": 41478
+    },
+    "sound/necros/tower/physics/stnlibrk.wav": {
+     "sha256": "834a1c97114a579e1cf01078054faa0234da416557c3c8b6999752f4f80d2378",
+     "size": 32096
+    },
+    "sound/necros/tower/rndpebl1.wav": {
+     "sha256": "3c281509e945081ca7c674fb501992a7ce71ac3cce91bd0f48514bc03f60cb86",
+     "size": 14344
+    },
+    "sound/necros/tower/rndpebl2.wav": {
+     "sha256": "63d098044c67ed0a3f8bbc794d91a39908dc93fb7d3fb2da33bd70d93eb64d61",
+     "size": 20652
+    },
+    "sound/necros/tower/rndpebl3.wav": {
+     "sha256": "e11a57fa8437f877ef91292fc3d8e375655f7fb43ce0d5c9f84f37465b61bc1e",
+     "size": 15724
+    },
+    "sound/necros/tower/rndpebl4.wav": {
+     "sha256": "f24c38ba9d26918d5f2a39ba643d96487716dd0293a6dfeb668e89fb236b7caf",
+     "size": 12322
+    },
+    "sound/necros/tower/s1_stop.wav": {
+     "sha256": "9a35adf9361aa033b413762fea7d04b2cf7392b363f2aa187a81905f65a44b61",
+     "size": 16162
+    },
+    "sound/necros/tower/s1_strt.wav": {
+     "sha256": "d36511a654d68c9b30c3f3b23b3a022e5ad5aac75d2862a1fbf35f5567c2843a",
+     "size": 64074
+    },
+    "sound/necros/tower/thit.wav": {
+     "sha256": "4badb57891f6620f55bd465ab8924173408967effc0c5eca5ac7c6916acb9841",
+     "size": 38668
+    },
+    "sound/necros/tower/tlaunch.wav": {
+     "sha256": "c2e43db7a3f9c8b24f29b0209df8d564fa9d5bb964611bd962c692f0b704d539",
+     "size": 45154
+    },
+    "sound/necros/tower/vlingeat.wav": {
+     "sha256": "210f1e7c263fc747f983b0164e07be76b0e13957a8ce9550217965b74c46ac6f",
+     "size": 56720
+    },
+    "sound/necros/tower/wat_cave.wav": {
+     "sha256": "8fd860006e3d2746d6497e95d886e99e62323a38870ee57960eeda430e25e85e",
+     "size": 117614
+    }
+   },
+   "sha256": "df7f22f7764a7994e055c8d71d83b1c9f3e151021e38ae70144f93021149eefa",
+   "size": 9990682,
+   "timestamp": "2009-07-01T15:03:38.000Z"
   }
  },
  "filesize": 5780,
  "install": {
   "extract": "{quake}/ne_tower/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "dc048ecdbc1eba11d83e398f6d4d42eb53b4f4438894ebd2811f09dde5ac3f3a",
  "tags": [
   "author=necros",

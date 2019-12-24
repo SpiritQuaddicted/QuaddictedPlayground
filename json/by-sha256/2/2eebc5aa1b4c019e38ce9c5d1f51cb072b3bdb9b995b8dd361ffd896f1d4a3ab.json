@@ -4,19 +4,87 @@
  ],
  "files": {
   "Pak0.pak": {
-   "filesize": 2262816,
-   "timestamp": "1997-03-06"
+   "files": {
+    "maps/b_bh10.bsp": {
+     "sha256": "3007b06221e67398a3194fa9190bc8f2b087236ff259e43787553b06650dedf3",
+     "size": 3936
+    },
+    "maps/b_bh25.bsp": {
+     "sha256": "54ed7974a414d6e75ec3077a336382d9815107d34fc42ff13ce5c0782ad4c5e2",
+     "size": 3936
+    },
+    "maps/b_explob.bsp": {
+     "sha256": "1b7afa62fa1e6e51bb8f4e6e185532a70983e78cd3a0c53305ec1d8ea710cfc2",
+     "size": 17420
+    },
+    "maps/shadow.bsp": {
+     "sha256": "68b8c3bc4cf17c2daaab077dec68e0f307545473e12aa4d35c0aa06bb671788e",
+     "size": 1476780
+    },
+    "progs/demon.mdl": {
+     "sha256": "fc86ed76ee03cbc80ad963999341d5a634c9421739ec20d7ce9367c04d3ea4b4",
+     "size": 102120
+    },
+    "progs/h_demon.mdl": {
+     "sha256": "8d48117d355ffd648d1b8498966f2ae61ded8d6e0a695b7f296564d8cf235ae0",
+     "size": 34884
+    },
+    "progs/h_knight.mdl": {
+     "sha256": "2df7b7aa12e4a497327473c4ee07fe7d46ade3c7232454c774aaa48dfee2df62",
+     "size": 7156
+    },
+    "progs/h_shal.mdl": {
+     "sha256": "f3ddd93b167bae4528364e5b23c3c06aa95dce81bf3f7c801c8f27d2fc3e10b1",
+     "size": 28036
+    },
+    "progs/h_shams.mdl": {
+     "sha256": "a5fe96718d348b02299fcf04d1e02e0bb973df1519a493b8ee50eda297bf536b",
+     "size": 37060
+    },
+    "progs/h_wizard.mdl": {
+     "sha256": "a4e5899509bc262decc152a6756df8e457d7e6bcf49886cda55a7d62d5acdf23",
+     "size": 14804
+    },
+    "progs/h_zombie.mdl": {
+     "sha256": "d53ae9fa2b43f4150756734011e85639a5d428a2539f7a3e39f01c6353445f7d",
+     "size": 4484
+    },
+    "progs/knight.mdl": {
+     "sha256": "2688f53741a21c1a5d0520b21d99257d884e293175d2707ceeae3823d8848f63",
+     "size": 101404
+    },
+    "progs/shalrath.mdl": {
+     "sha256": "aca8e867c6fb3b3ef8ed5c8fb84629375393b0d7cab9e6a5c0852f8d003f1959",
+     "size": 80648
+    },
+    "progs/shambler.mdl": {
+     "sha256": "2a7ba1a647d15522eccfbc7586ad20128d250eb63055854bbfbf817496c0d25a",
+     "size": 98556
+    },
+    "progs/wizard.mdl": {
+     "sha256": "b2f9a9897231521ef6b4087c81d1018468c50073dacce5f424f83a11e36e5ca3",
+     "size": 64472
+    },
+    "progs/zombie.mdl": {
+     "sha256": "05b8bcaa335c50ad9f74f511767ac2016fdc96cfd60071e2c66d294487be6c2c",
+     "size": 186084
+    }
+   },
+   "sha256": "813417dbe003713fc9e67eec330912b15515edea37f0b0dfb925c959da9183db",
+   "size": 2262816,
+   "timestamp": "1997-03-06T09:09:10.000Z"
   },
   "Shadow1.txt": {
-   "filesize": 4064,
-   "timestamp": "1997-03-06"
+   "sha256": "1ec5309e6fc1317d0ac0de5674b7cfdeacb56b7198c216468655f1b1999f7a11",
+   "size": 4064,
+   "timestamp": "1997-03-06T09:52:56.000Z"
   }
  },
  "filesize": 1012,
  "install": {
   "extract": "{quake}/shadow/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "2eebc5aa1b4c019e38ce9c5d1f51cb072b3bdb9b995b8dd361ffd896f1d4a3ab",
  "tags": [
   "author=Steve Rescoe",

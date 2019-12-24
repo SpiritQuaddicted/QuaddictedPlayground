@@ -4,19 +4,303 @@
  ],
  "files": {
   "Hrimturt.txt": {
-   "filesize": 5352,
-   "timestamp": "2003-07-06"
+   "sha256": "ce4eeab4ee0427dfc44d999bc1a4b7061485f47ea95abc205d401a9b6b730942",
+   "size": 5352,
+   "timestamp": "2003-07-06T23:16:02.000Z"
   },
   "pak0.pak": {
-   "filesize": 11403029,
-   "timestamp": "2003-07-07"
+   "files": {
+    "maps/let.bsp": {
+     "sha256": "7b0ed84dd90454b53becf3829f08200a95ac25527c054a65120a506f17c5c4dd",
+     "size": 1841352
+    },
+    "maps/pow.bsp": {
+     "sha256": "40a69eb588df31a950d060e62f211d7b2d0b0a641ae84954bc87f1e8c77e5b89",
+     "size": 3305152
+    },
+    "progs.dat": {
+     "sha256": "d5c8483f9186fd89bc4e4ddf1fbc416899b36d8f920928fce3199cbfc706e9d4",
+     "size": 768132
+    },
+    "progs/Rubble1.mdl": {
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
+     "size": 69839
+    },
+    "progs/Rubble2.mdl": {
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
+     "size": 200266
+    },
+    "progs/Rubble3.mdl": {
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab",
+     "size": 303486
+    },
+    "progs/beam.mdl": {
+     "sha256": "2165a66ba1d40fa378df735835b014791e769cb8bc56e06977aefdf134bb61d5",
+     "size": 10608
+    },
+    "progs/beamhit.spr": {
+     "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54",
+     "size": 5320
+    },
+    "progs/bolt.mdl": {
+     "sha256": "eb7ed9439d34fcdc6c8a04a0bf57d344a75d208d65b8e3ab455ddda5965bf0b9",
+     "size": 1364
+    },
+    "progs/bs_light.mdl": {
+     "sha256": "6c646ab4291d12aecdad5d9af4c44f4d68fc207c730dbf3ac04e07103cdd2c12",
+     "size": 28707
+    },
+    "progs/csm_cpit.mdl": {
+     "sha256": "17c3aefc3c13035e45aec9befe0bf6722d163637aa56f18c3bec23c838dd5978",
+     "size": 4424
+    },
+    "progs/dedturet.mdl": {
+     "sha256": "7342c6001cae61fb798f99150a06dce16f020af0d939a549e59b291c161b1e65",
+     "size": 362892
+    },
+    "progs/dring.spr": {
+     "sha256": "94adc8ada163983eae9ccb924bd4ef4d8ebb2613bd23705d2e8a7bb73e7657d1",
+     "size": 387832
+    },
+    "progs/enforce2.mdl": {
+     "sha256": "af9095cffbc74edc9d98d4e4e341736e304404df52983be33616da84d6463c87",
+     "size": 224812
+    },
+    "progs/enforcer.mdl": {
+     "sha256": "f83402d6602ce9f39a85033e010f9b66edde2633155c51d671acd7bb76c90faa",
+     "size": 218412
+    },
+    "progs/expl.spr": {
+     "sha256": "553b80901ee3d765c147ecce187a53989ded3991532e02f53c5b0cbb42aad5d4",
+     "size": 127672
+    },
+    "progs/g_beam.mdl": {
+     "sha256": "db2566d26863472c6176c91b2256c12b5fdd28b5e1ba0a3ff2aa9e122ed0cacb",
+     "size": 68996
+    },
+    "progs/h_guard.mdl": {
+     "sha256": "2d9b59874c12ad00e9a0c235e2cd461a45bce1638354fa1eda7430997695390c",
+     "size": 21704
+    },
+    "progs/h_me.mdl": {
+     "sha256": "2fff2f36173080827a298870a956fb11ad30f34aa0342ba5ca2c8bd6509edf57",
+     "size": 12416
+    },
+    "progs/h_servo.mdl": {
+     "sha256": "f6e00f1d618c3586d96984737a6175688b1b8943f0e5c6a0be4cfb59ccbdca3c",
+     "size": 159656
+    },
+    "progs/h_turret.mdl": {
+     "sha256": "cf7d688939f637832e00d70fb6c4e2f2f11a10b55cfe85197283d86fca536418",
+     "size": 142220
+    },
+    "progs/memissil.mdl": {
+     "sha256": "6a7022fa8210771be206034a2b0ebeb59f6fc79719d499ac01811a4ff32eb08a",
+     "size": 59078
+    },
+    "progs/s_null.spr": {
+     "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+     "size": 1080
+    },
+    "progs/servobod.mdl": {
+     "sha256": "c0c6f29d2f972eae2346a4155060f388ba7a4e6dde1511d86ccbcee1e1350b60",
+     "size": 271588
+    },
+    "progs/servodie.mdl": {
+     "sha256": "b3d6a14916980c85d232c675a0b38b3487ba599b023249aecdc94cac702327a5",
+     "size": 444399
+    },
+    "progs/servoleg.mdl": {
+     "sha256": "27b588b8c7ca9e56fb3d71c62d3886d7aaa0f3e9d9e757f855d2d762dd192efc",
+     "size": 178044
+    },
+    "progs/soldier.mdl": {
+     "sha256": "29d578cf1a503aa933f50d03ceaa4143a7b6a8319cc422a9b59f5be39a51e8fa",
+     "size": 320900
+    },
+    "progs/turetgib.mdl": {
+     "sha256": "01caa25c4d2ebcfd4bde7d8db73331001f9d3c4d61504529f9f405c70800c906",
+     "size": 9172
+    },
+    "progs/turret.mdl": {
+     "sha256": "5ceb4d4ac9b14d77698de75969e2233c834c0b0c6affc4c4f5788fa465853268",
+     "size": 753016
+    },
+    "progs/v_beam.mdl": {
+     "sha256": "c00fe7872cb2c88626e63d99c3cc00b83f9968803344cd2021e8fc26bd25ccba",
+     "size": 75588
+    },
+    "progs/v_beam2.mdl": {
+     "sha256": "95b3a260450ca784bda0885da994a5a857cf9948581ed1e68c4b202c51dae670",
+     "size": 75588
+    },
+    "sound/ambient/Mosh.wav": {
+     "sha256": "f170d2f0e34fd4f2a6ecf593e73cb2fa70bff1aaa2de8e8c26cca6e8e04f3148",
+     "size": 67542
+    },
+    "sound/ambient/amb14.wav": {
+     "sha256": "187b28d66dc1a05ea64502be9c6bbab4d1ea7b7465b988262cbddce8defc94cc",
+     "size": 55320
+    },
+    "sound/ambient/amb19.wav": {
+     "sha256": "3ed17a7e847a6e184e2945e7603ee0a992862e66255403b2702a86267cc2338b",
+     "size": 47188
+    },
+    "sound/ambient/amb4.wav": {
+     "sha256": "2133a96270404754f03c5a39fbfd0e7424d58768c59a890fefdeb40c40a9c3e8",
+     "size": 60158
+    },
+    "sound/ambient/fan1.wav": {
+     "sha256": "3ff43e368ce72c82cca539acdcb3390cbbd62224b6f76f154fe7cd3eae55381b",
+     "size": 107854
+    },
+    "sound/ambient/runwater.wav": {
+     "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a",
+     "size": 64764
+    },
+    "sound/me/me_fire1.wav": {
+     "sha256": "2603e46e656da75b80f597a5916ecd62dbd396c3f0036d25b0a5143485076071",
+     "size": 3016
+    },
+    "sound/me/me_fire2.wav": {
+     "sha256": "7e4418c880edcd96c84069d668fe00cd70444b9af2a555611b16a6a98680422c",
+     "size": 7674
+    },
+    "sound/me/me_soff.wav": {
+     "sha256": "4c8e041824c0aacf803b6eb22f0800bdd06ea1ea3290ce1871c2bbc191b64fc2",
+     "size": 5500
+    },
+    "sound/me/me_son.wav": {
+     "sha256": "16ad7f7f93b9814a65317e63090f9873c2209579d9d57bc19b7fdfb52d526d67",
+     "size": 5308
+    },
+    "sound/me/medeath1.wav": {
+     "sha256": "c86be6c64d6a3515c225ccd734322694c1e152027d9375cd26cac5b8c6f8c3af",
+     "size": 11712
+    },
+    "sound/me/medeath2.wav": {
+     "sha256": "fde0b948b861230be1d91859a4d061987bb10fe3c7054595a54a5a872b474560",
+     "size": 20808
+    },
+    "sound/me/meidle.wav": {
+     "sha256": "8170e75a6f424e3d507ca6950a57105aa5216d6a20e493464394d57f593d3bc7",
+     "size": 3908
+    },
+    "sound/me/mepain1.wav": {
+     "sha256": "5f1aad60a8e0acfb81880822412eafeb7cf738f8333e86f240fb9c2ecbcdcb52",
+     "size": 3300
+    },
+    "sound/me/mepain2.wav": {
+     "sha256": "ada3bc3b902924be0bf5f2ed275022d3b86bbc66a6b269af9ca9e614d467efef",
+     "size": 4874
+    },
+    "sound/me/mepain3.wav": {
+     "sha256": "d3cc84b75606ea8ec7311fcceff3cb68c18d220b6c1e362d91ecc695deb5b65e",
+     "size": 6082
+    },
+    "sound/me/mesight1.wav": {
+     "sha256": "a1f1bf4f2e742e755b0ae676278df1bbe7ba9db8918133c4e40b94525b47485d",
+     "size": 8128
+    },
+    "sound/me/mesight2.wav": {
+     "sha256": "69fd72d533823d71cd21af3d97be148b5f2b0f6ae6b57a6c585ff807f81ce63e",
+     "size": 8526
+    },
+    "sound/me/mesight3.wav": {
+     "sha256": "27c6ad5ba5f0e76e071b27918c6c5735e0cbf38bfed85040cc8c1044e32b7ee9",
+     "size": 8666
+    },
+    "sound/mech/mechstep.wav": {
+     "sha256": "253862ad17886c0c0467f2600f185e11fdb49156500919258c7bdf1f51f5bb98",
+     "size": 11310
+    },
+    "sound/mech/metal.wav": {
+     "sha256": "12f478674e401a0e8b3fa696dc87239bd25c75d543eab4cdc7dcb846cd62731f",
+     "size": 5442
+    },
+    "sound/mech/pow_dn.wav": {
+     "sha256": "bcbbdf2a6c196dd3d21cb552e00cd903bde38b94d79860804b5d00f88dc05c3b",
+     "size": 42904
+    },
+    "sound/mech/pow_up.wav": {
+     "sha256": "e0b232135f7db271c3f6e5f6f49eae7d948cfa3afc20d372d5cccb4fa7481663",
+     "size": 32670
+    },
+    "sound/misc/Longexpl.wav": {
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890",
+     "size": 42430
+    },
+    "sound/misc/Quake.wav": {
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266",
+     "size": 34286
+    },
+    "sound/misc/Quakeend.wav": {
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01",
+     "size": 8160
+    },
+    "sound/misc/Shortexp.wav": {
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc",
+     "size": 27562
+    },
+    "sound/misc/Tesla.wav": {
+     "sha256": "05a76add480090c8b15e3e6a33487fa019ab3e579c635e84a5343c4709cefd3d",
+     "size": 22526
+    },
+    "sound/misc/rublexp.wav": {
+     "sha256": "85063f2a4baed6f0944ed41e346959da06472368702e5e458867fc8a755928ba",
+     "size": 42422
+    },
+    "sound/misc/rumble.wav": {
+     "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+     "size": 53068
+    },
+    "sound/misc/shatter.wav": {
+     "sha256": "eb288a2c0c1781a01af7d0cc73f096e216861bd77ee0d88b8bab5156a9963513",
+     "size": 41084
+    },
+    "sound/turret/beamchrg.wav": {
+     "sha256": "d02bd7d2c4754fe3159fac83b4f0898f8b2e1f8996ce7e6cfdaa4a9d75a24fb1",
+     "size": 3962
+    },
+    "sound/turret/beamhit.wav": {
+     "sha256": "35e5e5f28a3695ed27c2b0887a1bf118643d769c457d3642016e887248fa8ca9",
+     "size": 8644
+    },
+    "sound/turret/beammode.wav": {
+     "sha256": "1589cc75daf6c3838ed7e926c205e50ceb4c21338fc1ddacae98d53a37acfbf2",
+     "size": 3664
+    },
+    "sound/turret/plasbult.wav": {
+     "sha256": "dfb145c600c2d447fee8ab89a3afe8e44cf7ae46d770c8eb42903d83a687b122",
+     "size": 18038
+    },
+    "sound/weapons/Arrowhit.wav": {
+     "sha256": "7348632798578416b240951489cf027abcaa04ac7f1190a22581349c8b06ede3",
+     "size": 3644
+    },
+    "sound/weapons/Lncharow.wav": {
+     "sha256": "546ef60ffa1d6f311f24093af551514ef4f4b9832d4481e4ae78fd0bf6e273b2",
+     "size": 2872
+    },
+    "sound/zombie/raised.wav": {
+     "sha256": "a876ebae07f1cd642c980bad864ba8177898d545f8750c57bda24ccece0e2209",
+     "size": 18860
+    },
+    "sound/zombie/trick.wav": {
+     "sha256": "ff4f2c8f9070d76a519c07b7df811c49557319be6e7883944927ad4135cc0fb8",
+     "size": 20946
+    }
+   },
+   "sha256": "a28b449a89793b4ace5640d93032034f4613fbe2b63e67a52f4d37e4716fc39b",
+   "size": 11403029,
+   "timestamp": "2003-07-07T20:52:02.000Z"
   }
  },
  "filesize": 3966,
  "install": {
   "extract": "{quake}/hrimturt"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "04061cf28476eed1eb26d103483531bdfc6efc678eb5833b5b1ad3ba1994f321",
  "tags": [
   "author=Hrimfaxi",

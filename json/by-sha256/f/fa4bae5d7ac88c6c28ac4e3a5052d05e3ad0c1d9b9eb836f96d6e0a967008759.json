@@ -4,59 +4,91 @@
  ],
  "files": {
   "changelog.txt": {
-   "filesize": 63,
-   "timestamp": "2017-07-08"
+   "sha256": "443e00da5d238325a78e5417a8bf67d0096d133bd09efd5b67d574fe6451a6e2",
+   "size": 63,
+   "timestamp": "2017-07-08T19:03:24.000Z"
+  },
+  "contract/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2017-06-27T01:30:24.000Z"
+  },
+  "contract/gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2017-06-27T01:28:52.000Z"
+  },
+  "contract/gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2017-06-27T01:28:52.000Z"
   },
   "contract/gfx/env/purplepeopleeater_bk.tga": {
-   "filesize": 485484,
-   "timestamp": "2003-08-20"
+   "sha256": "4d62797a68bd2ed2369f21e4ecc82cdef573f32897a2db58cc9aefe5ecd12acb",
+   "size": 485484,
+   "timestamp": "2003-08-20T04:29:42.000Z"
   },
   "contract/gfx/env/purplepeopleeater_dn.tga": {
-   "filesize": 788365,
-   "timestamp": "2003-08-20"
+   "sha256": "ba13acbcbd11eaf8e03403c50a331b5884e8c8a4ecf0b05e2b8b22e38519625c",
+   "size": 788365,
+   "timestamp": "2003-08-20T04:29:58.000Z"
   },
   "contract/gfx/env/purplepeopleeater_ft.tga": {
-   "filesize": 487441,
-   "timestamp": "2003-08-20"
+   "sha256": "193f7dff4483ad8af46ff9f6e33039adb14f7a88fcd87ece56a307d1f1a54f14",
+   "size": 487441,
+   "timestamp": "2003-08-20T04:29:22.000Z"
   },
   "contract/gfx/env/purplepeopleeater_lf.tga": {
-   "filesize": 488453,
-   "timestamp": "2003-08-20"
+   "sha256": "0403ca44406044a85ce990afa37a1a578f4ff7ecc6c46eec4ff1b39e41a2586c",
+   "size": 488453,
+   "timestamp": "2003-08-20T04:29:32.000Z"
   },
   "contract/gfx/env/purplepeopleeater_rt.tga": {
-   "filesize": 478420,
-   "timestamp": "2003-08-20"
+   "sha256": "e754009c68b7290036c7817e38a09f264deafb0b8c7c754c6fd1e689935647d4",
+   "size": 478420,
+   "timestamp": "2003-08-20T04:29:14.000Z"
   },
   "contract/gfx/env/purplepeopleeater_up.tga": {
-   "filesize": 115585,
-   "timestamp": "2003-08-20"
+   "sha256": "7200b350c801f8de11c87dc190bfdfb83f4ad200e1625f806b230091f5e3d8a9",
+   "size": 115585,
+   "timestamp": "2003-08-20T04:29:50.000Z"
+  },
+  "contract/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2017-07-08T18:55:28.000Z"
   },
   "contract/maps/contract.bsp": {
-   "filesize": 5860440,
-   "timestamp": "2017-06-27"
+   "sha256": "8357ddec7b601adef8652b7961d4aeb0eadcc2c5d340d74b7ee4912560e4fc44",
+   "size": 5860440,
+   "timestamp": "2017-06-27T09:54:38.000Z"
   },
   "contract/maps/contract.lit": {
-   "filesize": 1932677,
-   "timestamp": "2017-06-27"
+   "sha256": "4f9cd584705bfe94f2c0fdd3a1f8de72bc10b0fafd3e92440e699446f6abfa4c",
+   "size": 1932677,
+   "timestamp": "2017-06-27T09:54:38.000Z"
   },
   "contract/maps/intro.bsp": {
-   "filesize": 763164,
-   "timestamp": "2017-06-26"
+   "sha256": "71301b6046f47c3688ab93bc644e63af6bbcc49c07e24cbb2feae244203da6d7",
+   "size": 763164,
+   "timestamp": "2017-06-26T21:42:24.000Z"
   },
   "contract/maps/intro.lit": {
-   "filesize": 164489,
-   "timestamp": "2017-06-26"
+   "sha256": "07664fe98d08ec2903a74feabb452aa27f3059bc9258d670cd92237f595f624b",
+   "size": 164489,
+   "timestamp": "2017-06-26T21:42:24.000Z"
   },
   "readme.rtf": {
-   "filesize": 2405,
-   "timestamp": "2017-07-08"
+   "sha256": "898bd97393a6018ce90eeb6877db6919b311ed4c36dba433527f0a8d5b3ef7e2",
+   "size": 2405,
+   "timestamp": "2017-07-08T18:59:18.000Z"
   }
  },
  "filesize": 5064,
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "fa4bae5d7ac88c6c28ac4e3a5052d05e3ad0c1d9b9eb836f96d6e0a967008759",
  "tags": [
   "author=Serge Jaeken",

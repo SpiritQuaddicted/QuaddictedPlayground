@@ -4,39 +4,61 @@
  ],
  "files": {
   "maelstromv2_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "size": 319,
+   "timestamp": "2009-04-28T16:51:02.000Z"
+  },
+  "nehahra/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-22T16:57:58.000Z"
   },
   "nehahra/MaelstromV2.txt": {
-   "filesize": 4386,
-   "timestamp": "2005-12-31"
+   "sha256": "18b6c7639f440cd530b0c1dd7cc2e0df7a3ccc8f783fa8e5a8127357ea950505",
+   "size": 4386,
+   "timestamp": "2005-12-31T15:17:06.000Z"
+  },
+  "nehahra/gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-22T16:57:58.000Z"
   },
   "nehahra/gfx/mael.wad": {
-   "filesize": 12,
-   "timestamp": "2005-12-25"
+   "sha256": "88e5ba932ac78afec9fd4dd8107680ae1ae97317aafe29108692edb0d4979836",
+   "size": 12,
+   "timestamp": "2005-12-25T21:05:26.000Z"
   },
   "nehahra/mael.wad": {
-   "filesize": 12,
-   "timestamp": "2005-12-25"
+   "sha256": "88e5ba932ac78afec9fd4dd8107680ae1ae97317aafe29108692edb0d4979836",
+   "size": 12,
+   "timestamp": "2005-12-25T21:05:26.000Z"
+  },
+  "nehahra/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-22T16:57:58.000Z"
   },
   "nehahra/maps/agony.bsp": {
-   "filesize": 2208936,
-   "timestamp": "2005-12-31"
+   "sha256": "fc15643420466756c9e62a6aee7732ea6851fcbbbe9d206f335bdcd10a4652b5",
+   "size": 2208936,
+   "timestamp": "2005-12-31T14:09:36.000Z"
   },
   "nehahra/maps/mael.bsp": {
-   "filesize": 1825824,
-   "timestamp": "2005-12-31"
+   "sha256": "18476e53a1e4809e8cf5b642866af14888afc7ea977c304375aaefdced4349f5",
+   "size": 1825824,
+   "timestamp": "2005-12-31T13:30:04.000Z"
   },
   "nehahra/maps/oval.bsp": {
-   "filesize": 2454504,
-   "timestamp": "2005-12-31"
+   "sha256": "d96f90fd3a96d723b4b0e3d55a99079ee0da0f15c8378baf2d93c0a3ba9eb6d3",
+   "size": 2454504,
+   "timestamp": "2005-12-31T14:53:32.000Z"
   }
  },
  "filesize": 2036,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "af90398351f17dc4ac254e84b6c3503a2c8e43bd82864159aa07dc9247877d56",
  "tags": [
   "author=ijed",

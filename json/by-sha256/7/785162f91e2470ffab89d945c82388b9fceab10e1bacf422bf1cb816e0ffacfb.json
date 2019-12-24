@@ -4,51 +4,76 @@
  ],
  "files": {
   "READ ME gravelpit.txt": {
-   "filesize": 6359,
-   "timestamp": "2014-08-30"
+   "sha256": "459aa58a3e8e3751febd02053a92d031bdc39bb4c18fcd95a1ec82c4d3d0442f",
+   "size": 6359,
+   "timestamp": "2014-08-30T02:15:00.000Z"
+  },
+  "gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2014-08-27T00:05:22.000Z"
+  },
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2014-08-27T00:05:22.000Z"
   },
   "gfx/env/devpun_bk.tga": {
-   "filesize": 616542,
-   "timestamp": "2001-08-15"
+   "sha256": "496e85d5ee0f21a226ac0aed4e7ab28e99930433274df458daa78e28d795633c",
+   "size": 616542,
+   "timestamp": "2001-08-15T20:30:28.000Z"
   },
   "gfx/env/devpun_dn.tga": {
-   "filesize": 685386,
-   "timestamp": "2001-08-14"
+   "sha256": "42b9b44cd4794d963ed043e078adf0eb7e264f43d3f6245f52adca78d37d59a3",
+   "size": 685386,
+   "timestamp": "2001-08-14T21:08:32.000Z"
   },
   "gfx/env/devpun_ft.tga": {
-   "filesize": 533032,
-   "timestamp": "2001-08-15"
+   "sha256": "bb52543bac27f22119dacbc7e53ba4d5d7ac13e288bc22e060367ce2f1955e91",
+   "size": 533032,
+   "timestamp": "2001-08-15T20:31:02.000Z"
   },
   "gfx/env/devpun_lf.tga": {
-   "filesize": 636276,
-   "timestamp": "2001-08-15"
+   "sha256": "18557045511a0b6dc179c72da475f3ca8f7af1997477642e4bc6844a5c67f680",
+   "size": 636276,
+   "timestamp": "2001-08-15T20:31:18.000Z"
   },
   "gfx/env/devpun_rt.tga": {
-   "filesize": 549569,
-   "timestamp": "2001-08-15"
+   "sha256": "71eb8fe46e6cb8180b0c97b8e7359c1e3ee3babca3131515de73d3412f45f87e",
+   "size": 549569,
+   "timestamp": "2001-08-15T20:30:46.000Z"
   },
   "gfx/env/devpun_up.tga": {
-   "filesize": 409899,
-   "timestamp": "2001-08-14"
+   "sha256": "4aed27836328f399de4eac321ec87e640b33c34817818c24ad611e7c615e92f2",
+   "size": 409899,
+   "timestamp": "2001-08-14T18:56:52.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2014-08-29T02:45:32.000Z"
   },
   "maps/gravelpit.bsp": {
-   "filesize": 4571212,
-   "timestamp": "2014-08-30"
+   "sha256": "a86ab01b1700d2cbe9e2b2f063cf6354aad269b6474a7846b8bd4cd968900242",
+   "size": 4571212,
+   "timestamp": "2014-08-30T00:49:14.000Z"
   },
   "maps/gravelpit.lit": {
-   "filesize": 1371992,
-   "timestamp": "2014-08-30"
+   "sha256": "f7c6e42536e593506f8ce9ad5dba0516ff342f32157a664beeb915423c38746b",
+   "size": 1371992,
+   "timestamp": "2014-08-30T00:49:14.000Z"
   },
   "maps/gravelpit.pts": {
-   "filesize": 193561,
-   "timestamp": "2014-08-27"
+   "sha256": "f1acd0ef7e63a1f491823cf31deb980519428b5611fabe0540bfacb08344611a",
+   "size": 193561,
+   "timestamp": "2014-08-27T13:40:00.000Z"
   }
  },
  "filesize": 4357,
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "785162f91e2470ffab89d945c82388b9fceab10e1bacf422bf1cb816e0ffacfb",
  "tags": [
   "author=Daya",

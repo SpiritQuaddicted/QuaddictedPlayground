@@ -3,48 +3,72 @@
   "retro_mfx_fix.zip"
  ],
  "files": {
+  "gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2014-11-29T17:42:30.000Z"
+  },
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2014-11-29T17:42:34.000Z"
+  },
   "gfx/env/red_bk.tga": {
-   "filesize": 619027,
-   "timestamp": "2014-11-29"
+   "sha256": "3462c68f4adacd5aa2321bcc6ccf733e79f574cdb98b08f4df8317bc349ea7e1",
+   "size": 619027,
+   "timestamp": "2014-11-29T17:42:08.000Z"
   },
   "gfx/env/red_dn.tga": {
-   "filesize": 672467,
-   "timestamp": "2014-11-29"
+   "sha256": "8ddba1e1ed2e0bd3ba0a6a8658ef46f0420898c25d8295927fc282df8f24976a",
+   "size": 672467,
+   "timestamp": "2014-11-29T17:42:08.000Z"
   },
   "gfx/env/red_ft.tga": {
-   "filesize": 664453,
-   "timestamp": "2014-11-29"
+   "sha256": "764f9a16e9faa015f1815ddfe29a20a0fa38b1327ad29ef3fe2feb65319a995f",
+   "size": 664453,
+   "timestamp": "2014-11-29T17:42:08.000Z"
   },
   "gfx/env/red_lf.tga": {
-   "filesize": 634654,
-   "timestamp": "2014-11-29"
+   "sha256": "71510165184795e4bd36f51f5824516f7fc1615c452087c261ce7f2f78d7c007",
+   "size": 634654,
+   "timestamp": "2014-11-29T17:42:08.000Z"
   },
   "gfx/env/red_rt.tga": {
-   "filesize": 630646,
-   "timestamp": "2014-11-29"
+   "sha256": "333c1f18a4b8f3b1281aefba222acd9bf318505f9db4b2049cbf4e151255c18a",
+   "size": 630646,
+   "timestamp": "2014-11-29T17:42:08.000Z"
   },
   "gfx/env/red_up.tga": {
-   "filesize": 446254,
-   "timestamp": "2014-11-29"
+   "sha256": "084a9a4ae3f2823a8dd0f2ec1fb1e4ca612d6f5d46afa2d8bf938892a3cb60fe",
+   "size": 446254,
+   "timestamp": "2014-11-29T17:42:08.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2014-11-29T17:41:20.000Z"
   },
   "maps/retro_mfx.bsp": {
-   "filesize": 2676823,
-   "timestamp": "2014-11-24"
+   "sha256": "28ef060cbae31a6ac672c78731444a9ae54c6419236bb76cf93bf4f81a9932a3",
+   "size": 2676823,
+   "timestamp": "2014-11-24T21:46:16.000Z"
   },
   "maps/retro_mfx.lit": {
-   "filesize": 1182323,
-   "timestamp": "2014-11-24"
+   "sha256": "2b123d6c599ffef30642648f14d4ef2a86b43c03328569ab4edb4439e0c5eda7",
+   "size": 1182323,
+   "timestamp": "2014-11-24T21:46:16.000Z"
   },
   "retro_mfx.txt": {
-   "filesize": 150,
-   "timestamp": "2014-11-29"
+   "sha256": "09208ce3c92716476fd14df423b13c97c1401d81cdf430eb8c8afd9c244f3436",
+   "size": 150,
+   "timestamp": "2014-11-29T17:44:26.000Z"
   }
  },
  "filesize": 2584,
  "install": {
   "extract": "{quake}/retrojam1/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "0863678d944f9f0839b43e1b44f9bb21504f020582aaa442ea2d5e6a3c495c0a",
  "tags": [
   "author=mfx",

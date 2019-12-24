@@ -4,27 +4,31 @@
  ],
  "files": {
   "AgX.txt": {
-   "filesize": 4204,
-   "timestamp": "1997-04-21"
+   "sha256": "e1497cbe767171c4b09c632779c612c865c65251db6edca3fb9557030059098f",
+   "size": 4204,
+   "timestamp": "1997-04-21T22:26:06.000Z"
   },
   "agx.bsp": {
-   "filesize": 1890444,
-   "timestamp": "1997-04-21"
+   "sha256": "767029cc7bdae22104a5551eca4cb9ae02c33c6eeb191ece442b9bee3751c12a",
+   "size": 1890444,
+   "timestamp": "1997-04-21T08:55:50.000Z"
   },
   "agx.qed": {
-   "filesize": 300866,
-   "timestamp": "1997-04-21"
+   "sha256": "0fd8f5c6cd5e0e6f563deda6b1ff84ccbf2a2d2c0ff89ba558ff7ad429061bb9",
+   "size": 300866,
+   "timestamp": "1997-04-21T08:55:40.000Z"
   },
   "file_id.diz": {
-   "filesize": 236,
-   "timestamp": "1997-04-21"
+   "sha256": "152a64d15c2193681810af6a903314f4adbaa9c2635a186d083357c084b91413",
+   "size": 236,
+   "timestamp": "1997-04-21T15:50:50.000Z"
   }
  },
  "filesize": 773,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "d68bdf601f525049b1537fe2a0095408b129dd76cf5ea61bf0983fab34ef9570",
  "tags": [
   "author=Dr. Gomez Inigo Bombay",

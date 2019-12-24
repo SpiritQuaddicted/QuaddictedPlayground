@@ -4,23 +4,26 @@
  ],
  "files": {
   "HOUSP.TXT": {
-   "filesize": 6376,
-   "timestamp": "1996-11-20"
+   "sha256": "12f0c30787c96d4252641c09fdf4870b3ca1b914ce4ead4b2a8ae724acb3341d",
+   "size": 6376,
+   "timestamp": "1996-11-20T12:03:34.000Z"
   },
   "PAK0.PAK": {
-   "filesize": 1659132,
-   "timestamp": "1996-11-20"
+   "sha256": "77d46335c74b5f09703351c6a18345e0a8f1c747c2c106b7b8224a9298e5d188",
+   "size": 1659132,
+   "timestamp": "1996-11-20T11:42:34.000Z"
   },
   "SPIDER.TXT": {
-   "filesize": 2615,
-   "timestamp": "1996-10-09"
+   "sha256": "7a9b72c10b4d279d1fd349dbd6130e6088e96a0e5f22e7eb3177506955e57a7f",
+   "size": 2615,
+   "timestamp": "1996-10-09T05:52:48.000Z"
   }
  },
  "filesize": 672,
  "install": {
   "extract": "{quake}/housep/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "e0077b17abd891c78595adeda87b86e153af158271b3abdd79858b0aca1e0411",
  "tags": [
   "author=Scott McNutt",

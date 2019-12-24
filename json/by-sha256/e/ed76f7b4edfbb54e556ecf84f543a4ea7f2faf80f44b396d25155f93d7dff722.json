@@ -4,31 +4,170 @@
  ],
  "files": {
   "GLQuake Nike.lnk": {
-   "filesize": 397,
-   "timestamp": "1998-01-22"
+   "sha256": "729d99e4b88717ab25755f6044b859ec956655259c7766fff57040a19af14ba5",
+   "size": 397,
+   "timestamp": "1998-01-22T13:19:28.000Z"
   },
   "Nike.ico": {
-   "filesize": 2998,
-   "timestamp": "1997-12-22"
+   "sha256": "6094cebc825c5977bb1b84f62b37d32f1401a4a25c28221864b13c9a713fd489",
+   "size": 2998,
+   "timestamp": "1997-12-22T11:24:38.000Z"
   },
   "Pak0.pak": {
-   "filesize": 10608672,
-   "timestamp": "1998-01-20"
+   "files": {
+    "maps/nike.bsp": {
+     "sha256": "fb65195d8460cefc0ee3fc26e6a2d8e28723df69406a736909af71fabc5a5994",
+     "size": 352448
+    },
+    "maps/nikead.bsp": {
+     "sha256": "9cf49e96e0d2ee424ea32b1031013c874dd5b4c64f760d79b1d23b08e60e7df3",
+     "size": 2434808
+    },
+    "maps/nikedb.bsp": {
+     "sha256": "2a03f271458b040b8ed3e1e90d9a9d52d0c62a878f734603219455b09f03dcdc",
+     "size": 1104124
+    },
+    "maps/nikel.bsp": {
+     "sha256": "e99977fa23b7fe7bcf8d4eb6897825074f560e70d602e30392becca3a0ccc4f1",
+     "size": 2105468
+    },
+    "maps/nikerad.bsp": {
+     "sha256": "47819a13b57e8db1776748010593fbf805bfe02a9626bdf1ea2d54d38d8817c7",
+     "size": 2297260
+    },
+    "progs.dat": {
+     "sha256": "b0bcc6c6d35217ce042388a13cc20d5876b528962fe9ea98f5918b4627248378",
+     "size": 554536
+    },
+    "progs/arrow.mdl": {
+     "sha256": "41339f3222ee6fc0cd85a58a7b2a6c4330e284ea39ecb7002d97927244c5250a",
+     "size": 12161
+    },
+    "progs/buzzsaw.mdl": {
+     "sha256": "9b85232f930a7e34ef4cd1abfa266bcfa09b8da9e3f96f875d89e56ff702b403",
+     "size": 28716
+    },
+    "progs/candle.mdl": {
+     "sha256": "f3193191ab17b7186f623ef26d1a1bc66c3db35ed7cc63cbce6f910ec1a601b5",
+     "size": 21476
+    },
+    "progs/lantern.mdl": {
+     "sha256": "362ff3c50031d80b46a11c3d1902fe1cc3d442cd13b7db59f6d46c5655fc9351",
+     "size": 15092
+    },
+    "progs/pendulum.mdl": {
+     "sha256": "0970c838e4246a47d0b39395af03754a06dcb5878830233413e6fc893cf80599",
+     "size": 44128
+    },
+    "progs/rubble1.mdl": {
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
+     "size": 69839
+    },
+    "progs/rubble2.mdl": {
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
+     "size": 200266
+    },
+    "progs/rubble3.mdl": {
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab",
+     "size": 303486
+    },
+    "progs/s_null.spr": {
+     "sha256": "29e9c18546413f0abc9c6f507c61952f33afa6507b52d1c2197b57e3be7870a9",
+     "size": 56
+    },
+    "sound/ambient/diesel.wav": {
+     "sha256": "df01f1198ef4af1a712152d9da47fd4da57a3024d5e6bc86ca7e6ca39d73a494",
+     "size": 1388
+    },
+    "sound/buzz/buzz.wav": {
+     "sha256": "9f6bbc6cd33beb735c81ed86da32356f65fa90aeb2792489aaed97e41b201227",
+     "size": 26568
+    },
+    "sound/buzz/buzz1.wav": {
+     "sha256": "f9aa4cbaef41e71e9711e4d54c3714dd784068ab60993c382e07c684fe456e37",
+     "size": 18828
+    },
+    "sound/misc/duckcover.wav": {
+     "sha256": "f0d73cf0332c4f2e5ff1ce6f691fd3676cb2a205001f71d7eeb5d90c849a0fd6",
+     "size": 676922
+    },
+    "sound/misc/longexpl.wav": {
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890",
+     "size": 42430
+    },
+    "sound/misc/menu.wav": {
+     "sha256": "9a1757c646ac4a5e29799a5c57780e5ed87bdbb204d84e50c55592cd0ab53199",
+     "size": 3518
+    },
+    "sound/misc/mjolhit.wav": {
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78",
+     "size": 33914
+    },
+    "sound/misc/pit.wav": {
+     "sha256": "5090b0bbe6409cd92e47ffc92fa316ea2091972e41868aa2f3342596444daefd",
+     "size": 85068
+    },
+    "sound/misc/quake.wav": {
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266",
+     "size": 34286
+    },
+    "sound/misc/quakeend.wav": {
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01",
+     "size": 8160
+    },
+    "sound/misc/question.wav": {
+     "sha256": "b5a62d4e78d83cb9e2d163d1d3cf012e34a99ace9425681a4917d1b2e4c9aa64",
+     "size": 2944
+    },
+    "sound/misc/rumble.wav": {
+     "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+     "size": 53068
+    },
+    "sound/misc/shortexp.wav": {
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc",
+     "size": 27562
+    },
+    "sound/misc/tesla.wav": {
+     "sha256": "05a76add480090c8b15e3e6a33487fa019ab3e579c635e84a5343c4709cefd3d",
+     "size": 22526
+    },
+    "sound/pendulum/hit.wav": {
+     "sha256": "920bf2c124ddc1b58ef12176332a9909974341c5040ccbcc2ac17b0d675a361d",
+     "size": 6026
+    },
+    "sound/pendulum/swing.wav": {
+     "sha256": "68da54f9541808bdaa1f070218bd53ffce0cfccee46b460fd9181a366440952a",
+     "size": 12960
+    },
+    "sound/weapons/arrowhit.wav": {
+     "sha256": "7348632798578416b240951489cf027abcaa04ac7f1190a22581349c8b06ede3",
+     "size": 3644
+    },
+    "sound/weapons/lncharow.wav": {
+     "sha256": "546ef60ffa1d6f311f24093af551514ef4f4b9832d4481e4ae78fd0bf6e273b2",
+     "size": 2872
+    }
+   },
+   "sha256": "51e7d849782456aa880c477982cb269fd1354bd89d5992e84e16194e732ff1a8",
+   "size": 10608672,
+   "timestamp": "1998-01-20T10:40:42.000Z"
   },
   "custents.txt": {
-   "filesize": 8297,
-   "timestamp": "1996-01-01"
+   "sha256": "ae71304b46fca49e604286637ff12e92a15449003e8479ed054200c26ecd71d6",
+   "size": 8297,
+   "timestamp": "1996-01-01T11:16:14.000Z"
   },
   "nike.txt": {
-   "filesize": 24579,
-   "timestamp": "1998-01-22"
+   "sha256": "ad2f6aea1d34b0e61ec344b8d6a2a160b63428fef86097c5d3431ead9d153766",
+   "size": 24579,
+   "timestamp": "1998-01-22T15:01:42.000Z"
   }
  },
  "filesize": 3896,
  "install": {
   "extract": "{quake}/nike/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "ed76f7b4edfbb54e556ecf84f543a4ea7f2faf80f44b396d25155f93d7dff722",
  "tags": [
   "author=Brenda Ellen Perdion",

@@ -4,35 +4,56 @@
  ],
  "files": {
   "boss_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "size": 319,
+   "timestamp": "2009-04-28T16:14:26.000Z"
+  },
+  "chthon/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-05T16:02:58.000Z"
   },
   "chthon/boss.txt": {
-   "filesize": 2854,
-   "timestamp": "1997-01-29"
+   "sha256": "a551624521c02bda4a2ac6767a06d39b582a1e500e39512a36b0d000de6da811",
+   "size": 2854,
+   "timestamp": "1997-01-29T18:05:00.000Z"
   },
   "chthon/chthon!.txt": {
-   "filesize": 5753,
-   "timestamp": "1996-11-26"
+   "sha256": "6f0792ab7d6334c36637edfbd8b962c92c1c35976b9169fc49bcdd1c95090fa5",
+   "size": 5753,
+   "timestamp": "1996-11-26T09:34:10.000Z"
+  },
+  "chthon/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-05T16:02:58.000Z"
   },
   "chthon/maps/boss.bsp": {
-   "filesize": 344864,
-   "timestamp": "1997-01-29"
+   "sha256": "9ca5c31b92a4eb9e3a8b8dae54a9209a896f6d2bb7286d345de441301c6abeca",
+   "size": 344864,
+   "timestamp": "1997-01-29T16:43:20.000Z"
   },
   "chthon/progs.dat": {
-   "filesize": 418064,
-   "timestamp": "1996-11-25"
+   "sha256": "69a9a54ac1cf8583c954cdd0ef3d205645480b43619c85e97c387b309a1543cd",
+   "size": 418064,
+   "timestamp": "1996-11-25T19:42:22.000Z"
+  },
+  "chthon/progs/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-05T16:03:04.000Z"
   },
   "chthon/progs/h_boss.mdl": {
-   "filesize": 61060,
-   "timestamp": "1996-08-03"
+   "sha256": "30bf06acfcb3b32bf8f940187e712e87355fc7d8cc5ba8f36c128774cf20846d",
+   "size": 61060,
+   "timestamp": "1996-08-03T19:28:54.000Z"
   }
  },
  "filesize": 288,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "61cfe7eb09917acb596e3edabeb88b9d8afdcc4e3a6cb532e834090cd7745934",
  "tags": [
   "author=Tekno Tom",

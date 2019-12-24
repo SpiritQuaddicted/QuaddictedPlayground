@@ -4,31 +4,74 @@
  ],
  "files": {
   "PAK2.PAK": {
-   "filesize": 10467766,
-   "timestamp": "1997-12-02"
+   "sha256": "8f6189ffe0c288984bfce4ffe6051db5b1ad2c8f6213fc4b8dc5b4e164bef2c2",
+   "size": 10467766,
+   "timestamp": "1997-12-02T13:56:58.000Z"
   },
   "Pak1.pak": {
-   "filesize": 9802343,
-   "timestamp": "1997-10-19"
+   "files": {
+    "dd1.dem": {
+     "sha256": "674eef42fc28801001b8861cd2730711000ca9df3c26256e4756f4b03d111121",
+     "size": 112486
+    },
+    "dd2.dem": {
+     "sha256": "898d2c789a922665f6031e165f7cf10ab673f720678d4182d2a5e865feec64e8",
+     "size": 153272
+    },
+    "dd3.dem": {
+     "sha256": "47c896060323fd63aa3645ec98e35a89bee10c0b36a282079923783efdf53b4c",
+     "size": 346188
+    },
+    "maps/k2m1.bsp": {
+     "sha256": "44c4dcda48869319016525b18b7fdb303d3f6c83eb948ee19d280a54707c8b23",
+     "size": 1874500
+    },
+    "maps/k2m2.bsp": {
+     "sha256": "9c2eefa0208bd72db44e64070bb90d5a05de4e9fbefc5b3c6f1364955b670ed8",
+     "size": 2581456
+    },
+    "maps/k2m3.bsp": {
+     "sha256": "c1543c5c4b9c51f7a2f0cd449709fee1536bf2656cd0ba7eab6983a00fff251b",
+     "size": 1093672
+    },
+    "maps/korn.bsp": {
+     "sha256": "d3a50efda282707368cac62a56fa457edcd36c588bce71657d42d6a9ced2c3c2",
+     "size": 1567628
+    },
+    "maps/start.bsp": {
+     "sha256": "b92a53854ba299f90fac1af067aecbf365bf531c1f78d2e189bc7e0414f271f3",
+     "size": 2072396
+    },
+    "quake.rc": {
+     "sha256": "60cf3373020156b2ab7a59a4efd5b69f72d9b28dc83acb64c0d4fa5db66d11e7",
+     "size": 157
+    }
+   },
+   "sha256": "d71c283ed444ca942424a8003e1496d16befbec697815968148554dbd1860a7d",
+   "size": 9802343,
+   "timestamp": "1997-10-19T20:58:04.000Z"
   },
   "README.TXT": {
-   "filesize": 4436,
-   "timestamp": "1998-07-14"
+   "sha256": "d18761045c496b4e3a1f53dc6160395a489189d2bfa1f7ee703d19319ce1e410",
+   "size": 4436,
+   "timestamp": "1998-07-14T10:12:40.000Z"
   },
   "STORYLINE.txt": {
-   "filesize": 3520,
-   "timestamp": "1997-10-19"
+   "sha256": "1d9b70c89ec8e587084c34dbe79a47e7d1691afd95dc9216385b9aab435f00da",
+   "size": 3520,
+   "timestamp": "1997-10-19T21:14:36.000Z"
   },
   "uninstalldd.bat": {
-   "filesize": 310,
-   "timestamp": "1997-10-19"
+   "sha256": "eec595dcbf0319dc62bae542a5dd5218507c17297f4228df553bd64d8f1a28dc",
+   "size": 310,
+   "timestamp": "1997-10-19T17:59:04.000Z"
   }
  },
  "filesize": 8808,
  "install": {
   "extract": "{quake}/dd/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "8d7ede6e224d4e4d194cd89202a2fd648bf7a51be16411e659a4a4ec78ce2fe6",
  "tags": [
   "author=Lethargy Software",

@@ -4,23 +4,26 @@
  ],
  "files": {
   "dgrave.bsp": {
-   "filesize": 1234980,
-   "timestamp": "1996-10-21"
+   "sha256": "21432a0dd0209fb5d63953cbb6974a4f61293c11a84379a3c8f5b547f6438f31",
+   "size": 1234980,
+   "timestamp": "1996-10-21T21:47:18.000Z"
   },
   "dgrave.map": {
-   "filesize": 105318,
-   "timestamp": "1996-10-21"
+   "sha256": "ce33e336d20215e0d682b5120b1bab1685459d3026f77d8e29beae378c74b286",
+   "size": 105318,
+   "timestamp": "1996-10-21T21:39:36.000Z"
   },
   "dgrave.txt": {
-   "filesize": 813,
-   "timestamp": "1996-10-21"
+   "sha256": "79711241cb049e65493f661efdefe7987c7febd0f292cf021d4b341c97669975",
+   "size": 813,
+   "timestamp": "1996-10-21T21:59:16.000Z"
   }
  },
  "filesize": 544,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "c1a4ed85ab365eca39fedecdfb571ff0d93be2be8c9c6aa260047176f64aa167",
  "tags": [
   "author=David Nickerson",

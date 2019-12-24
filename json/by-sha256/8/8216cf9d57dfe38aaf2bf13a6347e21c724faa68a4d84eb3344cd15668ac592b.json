@@ -4,27 +4,37 @@
  ],
  "files": {
   "Pak0.pak": {
-   "filesize": 17496,
-   "timestamp": "1996-12-29"
+   "files": {
+    "maps/b_explob.bsp": {
+     "sha256": "1b7afa62fa1e6e51bb8f4e6e185532a70983e78cd3a0c53305ec1d8ea710cfc2",
+     "size": 17420
+    }
+   },
+   "sha256": "2b093f835a5d9b516b438b6a5ae4cee0f2ceed46d4ef842c3b267f040b9f1596",
+   "size": 17496,
+   "timestamp": "1996-12-29T16:45:24.000Z"
   },
   "VILLAGE.bsp": {
-   "filesize": 1274776,
-   "timestamp": "1996-12-29"
+   "sha256": "03fd8dd9ee8fe6d716bcf61e6d5fc593455ec5eeeeb4663672f7ea8a7e072c81",
+   "size": 1274776,
+   "timestamp": "1996-12-29T18:53:20.000Z"
   },
   "Village.txt": {
-   "filesize": 3710,
-   "timestamp": "1996-12-30"
+   "sha256": "f2c09c024ee25e96a0a33bcf692ca58e670959da9526df8e488fb8345409b8fe",
+   "size": 3710,
+   "timestamp": "1996-12-30T10:11:12.000Z"
   },
   "village_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "size": 319,
+   "timestamp": "2009-04-28T16:51:02.000Z"
   }
  },
  "filesize": 555,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "8216cf9d57dfe38aaf2bf13a6347e21c724faa68a4d84eb3344cd15668ac592b",
  "tags": [
   "author=Steve Rescoe",

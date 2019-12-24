@@ -3,20 +3,27 @@
   "retrojam1_skacky_b.zip"
  ],
  "files": {
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2014-11-23T18:27:52.000Z"
+  },
   "maps/retrojam1_skacky_b.bsp": {
-   "filesize": 2137588,
-   "timestamp": "2014-11-25"
+   "sha256": "f0a9dd7606d1e29e2b345e0958d125bd1b5d31ef291467421c9f0fd94a9882b7",
+   "size": 2137588,
+   "timestamp": "2014-11-25T12:21:22.000Z"
   },
   "maps/retrojam1_skacky_b.lit": {
-   "filesize": 615875,
-   "timestamp": "2014-11-25"
+   "sha256": "8036aba2e7bc83aaaf47155b72ede2ecb93a91612e0bdfd3cf77bc67ae9ef9e2",
+   "size": 615875,
+   "timestamp": "2014-11-25T12:21:22.000Z"
   }
  },
  "filesize": 1058,
  "install": {
   "extract": "{quake}/retrojam1/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "1c0e7ef2a335f6654e8a227209e4e8bbcedfba123da209850072f197c837f20a",
  "tags": [
   "author=Skacky",

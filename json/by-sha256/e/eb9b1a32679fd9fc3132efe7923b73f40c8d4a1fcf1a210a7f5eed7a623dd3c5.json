@@ -4,27 +4,73 @@
  ],
  "files": {
   "Black.bat": {
-   "filesize": 25,
-   "timestamp": "1997-12-17"
+   "sha256": "b47f5e0ee399dafb6fe9a1e0514cf494bf44d1711e39dca28b989c9e94fdd501",
+   "size": 25,
+   "timestamp": "1997-12-17T20:28:00.000Z"
   },
   "Black.txt": {
-   "filesize": 2639,
-   "timestamp": "1997-12-18"
+   "sha256": "07f8cf2e9cb5f480a0837a5dfb65a6e4941e38cb83668f3c3799e18627f21c7e",
+   "size": 2639,
+   "timestamp": "1997-12-18T00:34:56.000Z"
   },
   "Config.cfg": {
-   "filesize": 2104,
-   "timestamp": "1997-12-18"
+   "sha256": "532abbe760e83278d5d94f761953f895ce0641efc82beb4942521380c0c2f0f7",
+   "size": 2104,
+   "timestamp": "1997-12-18T00:29:26.000Z"
   },
   "pak0.pak": {
-   "filesize": 6069047,
-   "timestamp": "1997-12-17"
+   "files": {
+    "demo1.dem": {
+     "sha256": "f974069c3a60c9edab488a4209eb950a0d3ea3fc9dd49657d6b7d29b68ca2237",
+     "size": 187572
+    },
+    "demo2.dem": {
+     "sha256": "1d8e83ea90cd2777419d5b289383e9cbb2c89d7bc177918891929ea2d64af42f",
+     "size": 258636
+    },
+    "demo3.dem": {
+     "sha256": "dc8a632fb44f17a01fd119448fcec4d61d49c6b24c16ef99b5fda03aaca3eafe",
+     "size": 421259
+    },
+    "maps/bfinal.bsp": {
+     "sha256": "cf0422e836e4b0ae9f18904871cdd3c1afb4af278f55cc6818d3b8c0abe63d3a",
+     "size": 509020
+    },
+    "maps/black1.bsp": {
+     "sha256": "a768e04c0c070b33d9bdfadd3c6231f322e460cab8145fb3a41b774a08a9f2bf",
+     "size": 1312280
+    },
+    "maps/black2.bsp": {
+     "sha256": "be60628e359e3e54f5c701a0c8c70b6ef6a3b7ddc33c26a1bedc2c79a40b05cb",
+     "size": 977692
+    },
+    "maps/black3.bsp": {
+     "sha256": "ba4be1a44ab5f0304419f255f09f43b251ed3bc912028644b26414911b4566af",
+     "size": 1082720
+    },
+    "maps/bskill.bsp": {
+     "sha256": "5e2187d7596de5282dcfa4b73d176d0c8f8ede347df691c1e85ed1b281e6667b",
+     "size": 415768
+    },
+    "maps/start.bsp": {
+     "sha256": "0092531cd280e7bf5b1afd00c4330afe9ace693b3a09d6b79c22becbbb3876a3",
+     "size": 903448
+    },
+    "maps/temp.tmp": {
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "size": 0
+    }
+   },
+   "sha256": "519b058e9bebd7b2cfef3561e17a9585d3f0d7cb00fb889cb0e10989c9b9aa52",
+   "size": 6069047,
+   "timestamp": "1997-12-17T20:19:16.000Z"
   }
  },
  "filesize": 2384,
  "install": {
   "extract": "{quake}/black/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "eb9b1a32679fd9fc3132efe7923b73f40c8d4a1fcf1a210a7f5eed7a623dd3c5",
  "tags": [
   "author=J.F.Gustafsson",

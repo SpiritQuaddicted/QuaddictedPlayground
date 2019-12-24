@@ -4,19 +4,111 @@
  ],
  "files": {
   "pak0.pak": {
-   "filesize": 3387829,
-   "timestamp": "1997-08-27"
+   "files": {
+    "maps/starship.bsp": {
+     "sha256": "dda9e6f0953b313709dd40ac620be55ee8a1b09355b0885031d1915d999217f1",
+     "size": 1336868
+    },
+    "progs.dat": {
+     "sha256": "879cbb58056a8127f6e4c0c8a2bce2982122afee39de800e1dd2d33ec5cc8658",
+     "size": 671688
+    },
+    "progs/enforcer.mdl": {
+     "sha256": "7961e469c6f39801f130138017154f7a540dde070139b171ad7c81d1bead9195",
+     "size": 160688
+    },
+    "progs/hknight.mdl": {
+     "sha256": "448a39ca9c63447ad5a859e2e3aeafc4c2d64e7f8ce3ff46bb086cafa7cb83f0",
+     "size": 228400
+    },
+    "progs/knight.mdl": {
+     "sha256": "bf4a676e5b8d07a48585ee9bca07acd88974900326a904b83cf7ddc4958bcb14",
+     "size": 101404
+    },
+    "progs/ogre.mdl": {
+     "sha256": "44832fbc4f21a22f8ef7fe97e713d0f32ee290c6f4866229362181c1ef7dfd01",
+     "size": 162036
+    },
+    "progs/shambler.mdl": {
+     "sha256": "f4f95ccd8c647ef9c83aac6519ed54c3ea11151a398f358c586679d6d5e23711",
+     "size": 98556
+    },
+    "progs/soldier.mdl": {
+     "sha256": "20a99e9cb14f2f954740a72350452a08e575a022e8ba8b01c31f33e899f7b972",
+     "size": 146288
+    },
+    "sound/ambience/thunder1.wav": {
+     "sha256": "6fea03b0328c6922ee9e258ec3b3e9a6442cc4dc6852c033e92ae005d40ff0aa",
+     "size": 213754
+    },
+    "sound/knight/ksight.wav": {
+     "sha256": "02caa75821e39ceb404647a764abbe3955d0139165aa0ec48e956e027c22bb7c",
+     "size": 12075
+    },
+    "sound/knight/sword1.wav": {
+     "sha256": "689077f95be77350ab37a456b3b4a20d889e860db8d73b37f7b64c3fe4d04024",
+     "size": 3541
+    },
+    "sound/knight/sword2.wav": {
+     "sha256": "cd73388fdb044b6bad42713d7b74f4914a5172229df0d6dc3290f35011012949",
+     "size": 6862
+    },
+    "sound/misc/bubbles.wav": {
+     "sha256": "963626e3a7c94501dc35f49366c5f07aaa1b452e606f97733138e6abe84338bf",
+     "size": 18358
+    },
+    "sound/misc/buzzer.wav": {
+     "sha256": "b5cd04c5d98f0aa425f6444a1bb309486a55161a7a592955be28fea51179f4ab",
+     "size": 12638
+    },
+    "sound/misc/coin.wav": {
+     "sha256": "0c7bbb698ede5fa289503b591cd0fc31d46f18503a10dcfbb7dbcc66467e3c2d",
+     "size": 12628
+    },
+    "sound/misc/explo3.wav": {
+     "sha256": "303add67bc345b9d2d5c5ccce8cb0927377c66bb13a80f30bd5313380a801594",
+     "size": 20421
+    },
+    "sound/misc/funny.wav": {
+     "sha256": "1e9b992b7e34c82faf6182d3e0dd005f4d39a5bccc6aa34d02e96479d15a7d8c",
+     "size": 2780
+    },
+    "sound/misc/machine.wav": {
+     "sha256": "8b8748eb75c3de745c993bc45b319b6dd594aa14790d402e48b8dc469cc17e86",
+     "size": 42955
+    },
+    "sound/misc/quake.wav": {
+     "sha256": "d91434f754543be1ef3d743b6a9c639461fae8198983fa05b1c8af2b1018c2f2",
+     "size": 49438
+    },
+    "sound/misc/stop.wav": {
+     "sha256": "e5078f98c3c28dff9c2750008b0923c0f7cee1ad34000cbe5679ec5a5ea38110",
+     "size": 17780
+    },
+    "sound/misc/toilet.wav": {
+     "sha256": "33fe477a427abe693cb758f8a6a7f5b59ab0110859735e0f3420b85ab7da7042",
+     "size": 36838
+    },
+    "sound/soldier/sattck1.wav": {
+     "sha256": "36d251252367ce80a8547002dd2efef84087100781d4e9947efdd6a4e0f0a342",
+     "size": 30413
+    }
+   },
+   "sha256": "de12d74a10590e321225d18e86bc1292d052e7a813af488d0eb0922204798f5e",
+   "size": 3387829,
+   "timestamp": "1997-08-27T04:59:08.000Z"
   },
   "starship.txt": {
-   "filesize": 6067,
-   "timestamp": "1997-08-28"
+   "sha256": "86337e950dc3f703fd8589c81584d3614138f0512dc6e13a509a3be0526e7128",
+   "size": 6067,
+   "timestamp": "1997-08-28T03:33:22.000Z"
   }
  },
  "filesize": 1577,
  "install": {
   "extract": "{quake}/space/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "7d72ad45c6d031c04f27e26fae53c9e332bd7712b29c17d80bcbdfbf3cf1b066",
  "tags": [
   "author=Neil Manke",

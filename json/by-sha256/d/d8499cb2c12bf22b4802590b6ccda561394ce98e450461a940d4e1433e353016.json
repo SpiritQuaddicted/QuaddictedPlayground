@@ -4,55 +4,71 @@
  ],
  "files": {
   "ad_shamsp4.txt": {
-   "filesize": 1450,
-   "timestamp": "2019-01-02"
+   "sha256": "a82c05455058b43d379a948d5157e9e7a67630b51bb9de011d25fb9444bf8996",
+   "size": 1450,
+   "timestamp": "2019-01-02T10:02:32.000Z"
   },
   "maps/ad_shamsp4.bsp": {
-   "filesize": 6617604,
-   "timestamp": "2019-01-02"
+   "sha256": "ffdd6df8b4e055741f2d66ec7022bb61ccf25c46058cab0a2bb808034b6bae29",
+   "size": 6617604,
+   "timestamp": "2019-01-02T18:55:02.000Z"
   },
   "maps/ad_shamsp4.lit": {
-   "filesize": 2122259,
-   "timestamp": "2019-01-02"
+   "sha256": "53a48dfd0a43971f628ab425b0b1179ed6af615189854d914c6ea357047655c0",
+   "size": 2122259,
+   "timestamp": "2019-01-02T18:55:02.000Z"
   },
   "maps/ad_shamsp4.txt": {
-   "filesize": 1450,
-   "timestamp": "2019-01-02"
+   "sha256": "a82c05455058b43d379a948d5157e9e7a67630b51bb9de011d25fb9444bf8996",
+   "size": 1450,
+   "timestamp": "2019-01-02T10:02:42.000Z"
   },
   "progs/mon_sentinel.mdl": {
-   "filesize": 290664,
-   "timestamp": "2018-12-23"
+   "sha256": "573efd78767922b2bbb3e5dab2b16cd8f90c2cb1709ecf4a315a141f4df77d09",
+   "size": 290664,
+   "timestamp": "2018-12-23T09:11:10.000Z"
+  },
+  "sound/sentinel/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-12-23T09:11:56.000Z"
   },
   "sound/sentinel/laser.wav": {
-   "filesize": 9712,
-   "timestamp": "2018-12-23"
+   "sha256": "c5f90e1823a04b48f7f24ac5b8792e1b42030a8b07970db5847dc1e74be094c2",
+   "size": 9712,
+   "timestamp": "2018-12-23T09:11:10.000Z"
   },
   "sound/sentinel/nail.wav": {
-   "filesize": 13750,
-   "timestamp": "2018-12-23"
+   "sha256": "7acc3ac05b7218abc6fef2d2397771d90fce6fa39415e33824be7e771d30e288",
+   "size": 13750,
+   "timestamp": "2018-12-23T09:11:10.000Z"
   },
   "sound/sentinel/widle1.wav": {
-   "filesize": 31802,
-   "timestamp": "2018-12-23"
+   "sha256": "cfe6801999bd068501ecdd07eb5c9396a24c2d264d35522e243e1b4e8066e884",
+   "size": 31802,
+   "timestamp": "2018-12-23T09:11:10.000Z"
   },
   "sound/sentinel/widle2.wav": {
-   "filesize": 31802,
-   "timestamp": "2018-12-23"
+   "sha256": "cfe6801999bd068501ecdd07eb5c9396a24c2d264d35522e243e1b4e8066e884",
+   "size": 31802,
+   "timestamp": "2018-12-23T09:11:10.000Z"
   },
   "sound/sentinel/wpain.wav": {
-   "filesize": 19596,
-   "timestamp": "2018-12-23"
+   "sha256": "bc7b6536a1c67aa89295eeacea2d9b36cb0bf783b5fb7cc6aaf4fa01a0edb3fd",
+   "size": 19596,
+   "timestamp": "2018-12-23T09:11:10.000Z"
   },
   "sound/sentinel/wsight.wav": {
-   "filesize": 27322,
-   "timestamp": "2018-12-23"
+   "sha256": "83bca2103d60c68435e27f0660e3ecd5bffb058e796382e7bdb43efabdfb9889",
+   "size": 27322,
+   "timestamp": "2018-12-23T09:11:10.000Z"
   }
  },
  "filesize": 3396,
  "install": {
   "extract": "{quake}/ad/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "d8499cb2c12bf22b4802590b6ccda561394ce98e450461a940d4e1433e353016",
  "tags": [
   "author=Shambler",

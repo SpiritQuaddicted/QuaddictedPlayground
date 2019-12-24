@@ -3,28 +3,42 @@
   "sm110_pack.zip"
  ],
  "files": {
+  "sm110_pack/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2005-11-06T20:38:56.000Z"
+  },
+  "sm110_pack/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2005-11-06T20:39:20.000Z"
+  },
   "sm110_pack/maps/sm110_drew.bsp": {
-   "filesize": 1233388,
-   "timestamp": "2005-11-06"
+   "sha256": "72f7c3415ef3f9dddfdc4cc4438c2ddc515a42b7490e9ceb5c31bd3d2c37565e",
+   "size": 1233388,
+   "timestamp": "2005-11-06T18:48:22.000Z"
   },
   "sm110_pack/maps/sm110_generic.bsp": {
-   "filesize": 608864,
-   "timestamp": "2005-11-06"
+   "sha256": "e808267779e984a03a005f3d24316a6e414f5542ba4bca6703617d6ccc8817a4",
+   "size": 608864,
+   "timestamp": "2005-11-06T21:10:50.000Z"
   },
   "sm110_pack/maps/sm110_ht.bsp": {
-   "filesize": 432700,
-   "timestamp": "2005-11-06"
+   "sha256": "3bd110e01c0d0dbc7e082fe83bff70c680a37d9d53edbaad43546b7924ef0821",
+   "size": 432700,
+   "timestamp": "2005-11-06T18:09:08.000Z"
   },
   "sm110_pack/maps/sm110_neg!ke.bsp": {
-   "filesize": 926552,
-   "timestamp": "2005-11-03"
+   "sha256": "da762649cb8692a90a5209abce53fd050c5b3a173ae29d6b92864ddca1d1e54d",
+   "size": 926552,
+   "timestamp": "2005-11-03T21:10:42.000Z"
   }
  },
  "filesize": 1206,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "2bb8322fd205839983ef64098ccbf91bd2900536b9d2db46c14baa0a3a263c35",
  "tags": [
   "author=Drew",

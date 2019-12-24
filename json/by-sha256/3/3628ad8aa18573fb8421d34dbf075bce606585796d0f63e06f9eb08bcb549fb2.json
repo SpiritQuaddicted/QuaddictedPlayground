@@ -4,23 +4,26 @@
  ],
  "files": {
   "sm132_generic.bsp": {
-   "filesize": 256016,
-   "timestamp": "2007-01-28"
+   "sha256": "3f659b9d0a237ad9cd930df92bb117b43fccb309241e62909d481f9502415631",
+   "size": 256016,
+   "timestamp": "2007-01-28T17:37:36.000Z"
   },
   "sm132_omus.bsp": {
-   "filesize": 783446,
-   "timestamp": "2007-01-26"
+   "sha256": "9f6134ae9a1942ee2a1f7288dd6c1f845e797d13c597fd650b4bd6542ee28216",
+   "size": 783446,
+   "timestamp": "2007-01-26T04:42:14.000Z"
   },
   "sm132_pack.txt": {
-   "filesize": 1222,
-   "timestamp": "2007-01-29"
+   "sha256": "5ec3e1860f60b9e71399e241b62f9ef471889e9882b314297608e2933b3ca24a",
+   "size": 1222,
+   "timestamp": "2007-01-29T08:49:06.000Z"
   }
  },
  "filesize": 299,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "3628ad8aa18573fb8421d34dbf075bce606585796d0f63e06f9eb08bcb549fb2",
  "tags": [
   "author=Omus",

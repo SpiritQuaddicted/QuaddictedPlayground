@@ -4,59 +4,91 @@
  ],
  "files": {
   "woa_kayne/WoA_Kayne.txt": {
-   "filesize": 3004,
-   "timestamp": "2019-07-15"
+   "sha256": "b8417c3ec68b36d46733c9ee88a4808d7b349f3a280bc2f32a8205ab04bd5af2",
+   "size": 3004,
+   "timestamp": "2019-07-15T15:34:22.000Z"
+  },
+  "woa_kayne/gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-07-15T15:32:28.000Z"
+  },
+  "woa_kayne/gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-07-15T15:32:44.000Z"
   },
   "woa_kayne/gfx/env/ares_bk.tga": {
-   "filesize": 481498,
-   "timestamp": "2019-02-06"
+   "sha256": "907a96e8feaada0ea37d72d99070961883ccdfba8a6b3914dcbb9afc472d18a8",
+   "size": 481498,
+   "timestamp": "2019-02-06T21:55:26.000Z"
   },
   "woa_kayne/gfx/env/ares_dn.tga": {
-   "filesize": 763001,
-   "timestamp": "2019-02-06"
+   "sha256": "fcc51de57b71899ef969b8380ebd22269aa1e9957bba845413cb4f5394cbe49a",
+   "size": 763001,
+   "timestamp": "2019-02-06T21:55:26.000Z"
   },
   "woa_kayne/gfx/env/ares_ft.tga": {
-   "filesize": 490443,
-   "timestamp": "2019-02-06"
+   "sha256": "8c109f48b7240f7138353a19017921660ccef0260945ae4a4792ba12c7bf3730",
+   "size": 490443,
+   "timestamp": "2019-02-06T21:55:26.000Z"
   },
   "woa_kayne/gfx/env/ares_lf.tga": {
-   "filesize": 503381,
-   "timestamp": "2019-02-06"
+   "sha256": "ce0a40f558e72dba7653fe7f693d7e0406afa50aed1fcaac6cda2e857ac55a46",
+   "size": 503381,
+   "timestamp": "2019-02-06T21:55:26.000Z"
   },
   "woa_kayne/gfx/env/ares_rt.tga": {
-   "filesize": 497671,
-   "timestamp": "2019-02-06"
+   "sha256": "a8033bcdb9db86386582caa29e8aa53946821266da730e17b775869a5458cbbf",
+   "size": 497671,
+   "timestamp": "2019-02-06T21:55:26.000Z"
   },
   "woa_kayne/gfx/env/ares_up.tga": {
-   "filesize": 106191,
-   "timestamp": "2019-02-06"
+   "sha256": "d0489c8c9606a31fa3d929c1f2c561a162116333edda74f9236203eeadb1a74b",
+   "size": 106191,
+   "timestamp": "2019-02-06T21:55:24.000Z"
+  },
+  "woa_kayne/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-07-15T16:37:00.000Z"
   },
   "woa_kayne/maps/wrath_of_ahnki.bsp": {
-   "filesize": 18491100,
-   "timestamp": "2019-07-15"
+   "sha256": "1d947579d2df887e6025521dbc4c60ccc1ad7ef8c2764659f3f1ccb95389e944",
+   "size": 18491100,
+   "timestamp": "2019-07-15T19:40:18.000Z"
   },
   "woa_kayne/maps/wrath_of_ahnki.lit": {
-   "filesize": 6465830,
-   "timestamp": "2019-07-15"
+   "sha256": "04463fd6ceda712e4bd29f13d38053a738977df0d8c54ed07762176787b2ee1d",
+   "size": 6465830,
+   "timestamp": "2019-07-15T19:40:18.000Z"
   },
   "woa_kayne/maps/wrath_of_ahnki.pts": {
-   "filesize": 250431,
-   "timestamp": "2019-07-14"
+   "sha256": "0c9ffeef14f14f8f1fb67c64b17ccee412e30bb6ac87447759d7bbc7d9ddc365",
+   "size": 250431,
+   "timestamp": "2019-07-14T15:55:16.000Z"
+  },
+  "woa_kayne/music/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-07-15T15:32:18.000Z"
   },
   "woa_kayne/music/track20.mp3": {
-   "filesize": 8931414,
-   "timestamp": "2019-06-30"
+   "sha256": "82e00e90495c27de1b0f97edd19e781c832ba1321b0c34115d9a1557c24a4684",
+   "size": 8931414,
+   "timestamp": "2019-06-30T14:54:42.000Z"
   },
   "woa_kayne/wrath_of_ahnki.map": {
-   "filesize": 7277174,
-   "timestamp": "2019-07-15"
+   "sha256": "1a842cc6affbe06df61937d09d4efa1611a39347815e681400f3787b63e0ac8d",
+   "size": 7277174,
+   "timestamp": "2019-07-15T15:58:30.000Z"
   }
  },
  "filesize": 20194,
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "45aa1dba3ccf1bcaa2de2840fac600f7195f9ba226d54c370f0e473cf02ec290",
  "tags": [
   "author=Kayne",

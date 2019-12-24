@@ -4,35 +4,56 @@
  ],
  "files": {
   "ad_e3m2.txt": {
-   "filesize": 2084,
-   "timestamp": "2016-05-20"
+   "sha256": "72a458463ca1bd56a8bcbb89b507df1f0bd165117056e66a2765db26f5dbbe67",
+   "size": 2084,
+   "timestamp": "2016-05-20T20:08:28.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2016-05-20T20:28:20.000Z"
   },
   "maps/ad_e3m2.bsp": {
-   "filesize": 2849592,
-   "timestamp": "2016-05-20"
+   "sha256": "a88489e811e2b12f9a7deeaae488185bc332f134ccc7031db34416ba657b32a7",
+   "size": 2849592,
+   "timestamp": "2016-05-20T20:23:00.000Z"
   },
   "maps/ad_e3m2.lit": {
-   "filesize": 972830,
-   "timestamp": "2016-05-20"
+   "sha256": "0ad0f355bafca4f9e2719d76a59e2ccd1f7c8de38ced2768c813991ccdaa1f56",
+   "size": 972830,
+   "timestamp": "2016-05-20T20:23:00.000Z"
   },
   "maps/ad_e3m2.map": {
-   "filesize": 1276609,
-   "timestamp": "2016-05-20"
+   "sha256": "f21582df56db44c9669d39aafb8dd7a3a88f441b6cba1754b5e5f4b5b7dafdc3",
+   "size": 1276609,
+   "timestamp": "2016-05-20T20:19:34.000Z"
+  },
+  "sound/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2016-05-20T20:48:12.000Z"
+  },
+  "sound/ambience/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2016-05-20T20:48:14.000Z"
   },
   "sound/ambience/thunder_01.wav": {
-   "filesize": 304202,
-   "timestamp": "2004-10-10"
+   "sha256": "6499c42d3b29ddd27360aa441e74c37ac21062e1dcca127df9dbe0b84e7a571b",
+   "size": 304202,
+   "timestamp": "2004-10-10T00:15:28.000Z"
   },
   "sound/ambience/thunder_02.wav": {
-   "filesize": 492820,
-   "timestamp": "2004-10-10"
+   "sha256": "7111bf3a508ca97da01b7054f0fdf23a7f06b0617074ada283f6ca73d6e33ef2",
+   "size": 492820,
+   "timestamp": "2004-10-10T01:18:24.000Z"
   }
  },
  "filesize": 2308,
  "install": {
   "extract": "{quake}/ad/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "7a854bcf4780eeaf5ef6cc55acf80a71cceee14494ea80e3bf20cfe25749ded5",
  "tags": [
   "author=mfx",

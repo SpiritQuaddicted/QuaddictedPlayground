@@ -3,56 +3,92 @@
   "maxx2.zip"
  ],
  "files": {
+  "maxx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-01-30T20:44:34.000Z"
+  },
+  "maxx/gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-01-30T11:43:20.000Z"
+  },
+  "maxx/gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-01-30T11:43:20.000Z"
+  },
   "maxx/gfx/env/predit2_bk.tga": {
-   "filesize": 786476,
-   "timestamp": "2018-12-24"
+   "sha256": "fd629e9f37aaf28fcda3d508323098d268ef3bae0bada86193d0b9b1e959b04b",
+   "size": 786476,
+   "timestamp": "2018-12-24T17:58:26.000Z"
   },
   "maxx/gfx/env/predit2_dn.tga": {
-   "filesize": 786476,
-   "timestamp": "2018-12-24"
+   "sha256": "b70ecf153b0281c1ad7ef2de9105997922f7202140ab30d7b93fdde480a4bb34",
+   "size": 786476,
+   "timestamp": "2018-12-24T17:58:00.000Z"
   },
   "maxx/gfx/env/predit2_ft.tga": {
-   "filesize": 786476,
-   "timestamp": "2018-12-24"
+   "sha256": "a112a5b0e083b8dc96d8cafaade4d312d360198cbc61fceb517798bc603a5310",
+   "size": 786476,
+   "timestamp": "2018-12-24T17:57:44.000Z"
   },
   "maxx/gfx/env/predit2_lf.tga": {
-   "filesize": 786476,
-   "timestamp": "2018-12-24"
+   "sha256": "dcc0ad2cdb934ba3efeb1d17041ea1a24c9935f814bc043fad04a0cdabd7d752",
+   "size": 786476,
+   "timestamp": "2018-12-24T17:57:30.000Z"
   },
   "maxx/gfx/env/predit2_rt.tga": {
-   "filesize": 786476,
-   "timestamp": "2018-12-24"
+   "sha256": "85ad81d4a48449af1c2f4526c45eb98c29fbdcd6da7171a2533a6b104c60428e",
+   "size": 786476,
+   "timestamp": "2018-12-24T17:57:18.000Z"
   },
   "maxx/gfx/env/predit2_up.tga": {
-   "filesize": 786476,
-   "timestamp": "2018-12-24"
+   "sha256": "6fdf1b2bb2de250d1612d2288dbf5c69bf54076cbf29c75300d20f0a1d841fee",
+   "size": 786476,
+   "timestamp": "2018-12-24T17:57:02.000Z"
+  },
+  "maxx/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-01-30T11:43:20.000Z"
   },
   "maxx/maps/maxx2.bsp": {
-   "filesize": 6321736,
-   "timestamp": "2019-01-30"
+   "sha256": "52a755804b648a8ecbeb19120493872f3d115017c9d03acf2118916ab8ef3169",
+   "size": 6321736,
+   "timestamp": "2019-01-30T20:41:06.000Z"
   },
   "maxx/maps/maxx2.map": {
-   "filesize": 1653528,
-   "timestamp": "2019-01-30"
+   "sha256": "200d48b26d044dfb024be6bbbf487e3dac5d7a23dc0262e2f766fe04bad163d9",
+   "size": 1653528,
+   "timestamp": "2019-01-30T20:35:00.000Z"
+  },
+  "maxx/music/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-01-30T11:43:20.000Z"
   },
   "maxx/music/track120.mp3": {
-   "filesize": 1715926,
-   "timestamp": "2019-01-30"
+   "sha256": "cf57936c1db1572fa246ed6713de5ff5ea18ca2facbe8055b90427fea5988595",
+   "size": 1715926,
+   "timestamp": "2019-01-30T11:00:20.000Z"
   },
   "maxx/music/track120.ogg": {
-   "filesize": 2654169,
-   "timestamp": "2019-01-03"
+   "sha256": "19c9cf9f4285a275a7727bde63f352012b31ec349ee983a73bd22f0a67b5d945",
+   "size": 2654169,
+   "timestamp": "2019-01-03T21:47:28.000Z"
   },
   "readme_maxx2.txt": {
-   "filesize": 2381,
-   "timestamp": "2019-01-30"
+   "sha256": "5512c98f715ab540be3e12c7515fff684efcffc9d51da82fefa3fa1084d401b0",
+   "size": 2381,
+   "timestamp": "2019-01-30T20:43:10.000Z"
   }
  },
  "filesize": 6861,
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "27b270766996015a6d97aac5a7c31db879692566ecff568f2642db135ecc919a",
  "tags": [
   "author=MortalMaxx",

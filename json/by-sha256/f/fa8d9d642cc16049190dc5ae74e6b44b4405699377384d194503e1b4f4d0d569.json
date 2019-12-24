@@ -4,23 +4,80 @@
  ],
  "files": {
   "babel.pak": {
-   "filesize": 1286781,
-   "timestamp": "1996-10-27"
+   "files": {
+    "maps/babel.bsp": {
+     "sha256": "67a4a2767d4502430aa2540495fd8beda07a5ed995ad7db9aeb1816d8397f2b8",
+     "size": 550372
+    },
+    "progs.dat": {
+     "sha256": "7f1d8008cc8843ebe9f5ead1f9c746f0216881a6805641a9205d9531afa4c73a",
+     "size": 425632
+    },
+    "progs/cyber.mdl": {
+     "sha256": "6e2fd875956e03ea76f16bc69a43749d87ed2e8216a8653234792b8dbb9fc1c2",
+     "size": 84708
+    },
+    "progs/h_cyber.mdl": {
+     "sha256": "53539bc39fc87627a46b75b0d86ade5e6116a0079b032b1df137b2425b7186cc",
+     "size": 60824
+    },
+    "progs/leg_gib.mdl": {
+     "sha256": "210e159ea4c9bf1f2431213fd95902f4ea75ecee6a67a22bed7e93366f1f2732",
+     "size": 33184
+    },
+    "sound/cyber/boom.wav": {
+     "sha256": "72e737f04f1d34044dfd812c6b0e233cd38a91e6b089633e312678756952de87",
+     "size": 15692
+    },
+    "sound/cyber/cybdie.wav": {
+     "sha256": "bd4cd7902712282ef8f2f749e6fcf805c2ac5212994fbb1c22fc0fe0ea5d08e2",
+     "size": 16625
+    },
+    "sound/cyber/cybfire.wav": {
+     "sha256": "0b472a984137667f4788336a4f7c60e07a8893f47317b2a158aeea39920d729f",
+     "size": 15527
+    },
+    "sound/cyber/cybhoof.wav": {
+     "sha256": "8fe56b192838dafdf7ff4737cf1e5555d3295cbca49c1ab83568281ee188153c",
+     "size": 4107
+    },
+    "sound/cyber/cybmet.wav": {
+     "sha256": "3ea23b8d7a68e754211a10a5338b0c8d65df6e2138d4cfe06cc053b9a0f601ae",
+     "size": 8122
+    },
+    "sound/cyber/cybpain.wav": {
+     "sha256": "ff30aba221d16a42d4aeeef69ca416ba76b5cca5ecbcb328cfe38e2377fed6cd",
+     "size": 9555
+    },
+    "sound/cyber/cybsee.wav": {
+     "sha256": "a5ec6d4eaa707ad0246b7a7e7737b1007043ea5e5634f6f63661ecc20c27c459",
+     "size": 13081
+    },
+    "sound/cyber/servo.wav": {
+     "sha256": "b7aac875623f8dca7597eff3dcab5910453d043fd1f9df20da89232ce8bf9306",
+     "size": 48508
+    }
+   },
+   "sha256": "eb68fc639a6252c1eb07664c99c8326efe897c3018af692fdd7868d84cce50a3",
+   "size": 1286781,
+   "timestamp": "1996-10-27T17:43:46.000Z"
   },
   "babel.txt": {
-   "filesize": 2199,
-   "timestamp": "1996-10-27"
+   "sha256": "845d4a8ebf71ea8d2c1d92cedfddb79418175e1bbaa3f2e481b2099f756685aa",
+   "size": 2199,
+   "timestamp": "1996-10-27T17:52:34.000Z"
   },
   "spoiler.txt": {
-   "filesize": 1080,
-   "timestamp": "1996-10-27"
+   "sha256": "54b31d9611829ffe23d4910a127293cafd06c11934e64344cafdaba1e19842b5",
+   "size": 1080,
+   "timestamp": "1996-10-27T17:42:38.000Z"
   }
  },
  "filesize": 505,
  "install": {
   "extract": "{quake}/babel/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "fa8d9d642cc16049190dc5ae74e6b44b4405699377384d194503e1b4f4d0d569",
  "tags": [
   "author=Marc Fontaine",

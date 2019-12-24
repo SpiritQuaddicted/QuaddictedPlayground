@@ -4,23 +4,186 @@
  ],
  "files": {
   "fallen1c_readme.txt": {
-   "filesize": 3442,
-   "timestamp": "2014-11-29"
+   "sha256": "a26847b5e49cfa5aaeec079b7aa34838e7a035ac9a755d9bdcc078f1fa1557ec",
+   "size": 3442,
+   "timestamp": "2014-11-29T18:54:02.000Z"
   },
   "pak0.pak": {
-   "filesize": 26464393,
-   "timestamp": "2014-11-29"
+   "files": {
+    "gfx/env/grimmnight_bk.tga": {
+     "sha256": "59be3026e6030ebcb4f301dc27569da94866569bd264990d5b68c0c0470be470",
+     "size": 3145746
+    },
+    "gfx/env/grimmnight_dn.tga": {
+     "sha256": "6d9b33f83ccf56f92abdf2b1197ce5fa8a3979f8b40793a73219618b8f46c33d",
+     "size": 3145746
+    },
+    "gfx/env/grimmnight_ft.tga": {
+     "sha256": "0e1892d4675a0630cde9a1a1453fb936b5fd4f62c97a91fde60778d94bced01f",
+     "size": 3145772
+    },
+    "gfx/env/grimmnight_lf.tga": {
+     "sha256": "c69dca07d21151d7ea43527494687f3951715d692ed616af3a059f01481204cc",
+     "size": 3145746
+    },
+    "gfx/env/grimmnight_rt.tga": {
+     "sha256": "bf2c9897af366d36efc11de39c051f3345ceeb6d38845be71b712c9403d726e7",
+     "size": 3145772
+    },
+    "gfx/env/grimmnight_up.tga": {
+     "sha256": "e4e35e286d93770157119d60889ff0d2df08fa13ccafa32ea26884e31a1344bc",
+     "size": 3145772
+    },
+    "maps/fallen.bsp": {
+     "sha256": "79e02e2b70d5501b3d0d5ee85ff7b10cb222e84c8b4a722f635ce93dba853224",
+     "size": 2987760
+    },
+    "maps/fallen.lit": {
+     "sha256": "17e9ef7912157fefc5b662c55019c9d8c2eb860a468a7d8e4f7d11f7709cadea",
+     "size": 1263296
+    },
+    "source/fallen.map": {
+     "sha256": "a4a29d3871b8d3e60818b18b6c9f50862a1c6ed11b95a052923451360b6a34b5",
+     "size": 2421159
+    },
+    "source/retrojam1.wad": {
+     "sha256": "20c642029b76d6a86c02ec8cbc4a1dc1a5e2bf0332a9aff1809153733b9a79d9",
+     "size": 916972
+    }
+   },
+   "sha256": "35bc5a81429b5da1403fb9b6e4007cd17331127fb477f1e2cf3389e10f3e3f3d",
+   "size": 26464393,
+   "timestamp": "2014-11-29T18:57:24.000Z"
   },
   "pak1.pak": {
-   "filesize": 733727,
-   "timestamp": "2014-11-29"
+   "files": {
+    "maps/b_batt0.bsp": {
+     "sha256": "0d481a2e2cd7a23e4ef19c19622195007bd6c9a67135ef739b0944a02d46fcd7",
+     "size": 6980
+    },
+    "maps/b_batt1.bsp": {
+     "sha256": "34709c1c06ca34305a8ba1d4799d1cdc07e44ff33f3c7fa11c3d5933cb942579",
+     "size": 6964
+    },
+    "maps/b_bh10.bsp": {
+     "sha256": "d3371655bed274070fa98fb32b408bab4a22fe754f5158c8c94a072749a5d24d",
+     "size": 7124
+    },
+    "maps/b_bh100.bsp": {
+     "sha256": "abdfe383c13da6d5dd7a9409fa5d3db2c4bac78482eb75c2c2b42da7811ec3ca",
+     "size": 7764
+    },
+    "maps/b_bh25.bsp": {
+     "sha256": "2343448faac29720e3a690650b70623852710dcae002917ae5772fa597117e17",
+     "size": 8788
+    },
+    "maps/b_nail0.bsp": {
+     "sha256": "66ea23f1cdd6225afdd1b7cf1247b93d174562193e0807561b96b659429f2bf0",
+     "size": 5604
+    },
+    "maps/b_nail1.bsp": {
+     "sha256": "366ece777ae71ecfebaa9f4bebafe2074b5336e7939900f46bd9521886f9f42d",
+     "size": 6820
+    },
+    "maps/b_rock0.bsp": {
+     "sha256": "56a66aa3d1364a0436ff8ce880268b2a9c2c396ab02f0c6277535d5b99eae31a",
+     "size": 7092
+    },
+    "maps/b_rock1.bsp": {
+     "sha256": "ddd60cec57d8e3954c1ffce616ae862edb784417a6b6622cc001d408383a6cb9",
+     "size": 7636
+    },
+    "maps/b_shell0.bsp": {
+     "sha256": "fe60bd7880da73571e29fa4075968cccb06e913bd2b9475868ce31c69b1a8c19",
+     "size": 5396
+    },
+    "maps/b_shell1.bsp": {
+     "sha256": "6a2c2c3fa6f88d425ae5b9568e5d8224ee901a1d8faa8363b88fff569b7d0e5f",
+     "size": 8436
+    },
+    "progs/backpack.mdl": {
+     "sha256": "1ba9d3176bb2e03a0457427fd9394d8c15eb9ebae8af9462e955e9c6c6068513",
+     "size": 25812
+    },
+    "progs/dog.mdl": {
+     "sha256": "52cf8cb501f4b1ed457961b798eccd86974720af29f559723be82a0886824fd9",
+     "size": 460652
+    },
+    "progs/end3.mdl": {
+     "sha256": "445af16e28fff506ad65fac16b09dad1672e218ffe0183880aff565578b315b8",
+     "size": 19700
+    },
+    "progs/end4.mdl": {
+     "sha256": "cf52525422a102760bfcabd6e8dd5c5df7c2028daea5baa2a1b1717648dd143e",
+     "size": 19220
+    },
+    "progs/grenade.mdl": {
+     "sha256": "256412b0d88c020fb03efc5e914c5dd721c9dfe8d6a36ce4a7b01e7597d7e7d5",
+     "size": 3860
+    },
+    "progs/invisibl.mdl": {
+     "sha256": "d4c5b6316aa02d600951c6a8ec1f4682568b9e877e988cf4cedd77c0e95cf663",
+     "size": 7108
+    },
+    "progs/invulner.mdl": {
+     "sha256": "1274fcabffa89a786b29c9238cf84e95a8557369239b4a9eb813e3dbe37d35ac",
+     "size": 21412
+    },
+    "progs/k_spike.mdl": {
+     "sha256": "ecf293b2e8146a33de7bc8bb3cded80bb785b931012b40dca204db3dad50e776",
+     "size": 5492
+    },
+    "progs/missile.mdl": {
+     "sha256": "5c4b9d831357ad72e5f47c38e13b8e2ab04b80fb9d8ed6ddd3667a5eea9a585a",
+     "size": 8372
+    },
+    "progs/quaddama.mdl": {
+     "sha256": "c5657b558522e46f0833b7827520c1a5c1f1674dffd52c12609779d5bcd75462",
+     "size": 22052
+    },
+    "progs/s_spike.mdl": {
+     "sha256": "945ad552ad86e5193ef9c007dbe23686fbe89be1060063f57ea693b89e5df229",
+     "size": 1396
+    },
+    "progs/spike.mdl": {
+     "sha256": "c5e6afcfbfe35ffde5bda7eaf91e2a583c3f20cf8f3175b4f4e0ad03b358983c",
+     "size": 1396
+    },
+    "progs/v_spike.mdl": {
+     "sha256": "06e8f32092cbc0b5ba4d26227df9ac2d10f3a76d9a63bc7928af147b4ade12d7",
+     "size": 9012
+    },
+    "progs/w_g_key.mdl": {
+     "sha256": "bf5c4ffac0c77e4e039af048ebef10cc8d68644f13956a75fac65577c840cd8e",
+     "size": 10196
+    },
+    "progs/w_s_key.mdl": {
+     "sha256": "d368ad594376bfa4c3c3b77bb467b91d62296a6385c276b2d76cd44891d1a752",
+     "size": 10132
+    },
+    "progs/w_spike.mdl": {
+     "sha256": "40d9d29c58df57ece6892d71d0464022eb5939aa45699e98eae22136b973c4c8",
+     "size": 6356
+    },
+    "progs/zom_gib.mdl": {
+     "sha256": "2175cca881b4a73adf3742933a5d3e91116c774ddd3db9b6ac2a7f863194d4a8",
+     "size": 19768
+    },
+    "quake.rc": {
+     "sha256": "23d89f55c4aeec778b24e215ce38088b1ad23525c006f09a18ea433d93a03380",
+     "size": 1319
+    }
+   },
+   "sha256": "3187c1ca1a70b1a57c64d69c6d04237eca38722b8281200bb9cc209b5c77b9b8",
+   "size": 733727,
+   "timestamp": "2014-11-29T18:38:26.000Z"
   }
  },
  "filesize": 4488,
  "install": {
   "extract": "{quake}//fallen1c"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "21298b607b18a815273ffa93d010d31ca1ea71bf62d66ab7c888bdd38d2d845b",
  "tags": [
   "author=sock",

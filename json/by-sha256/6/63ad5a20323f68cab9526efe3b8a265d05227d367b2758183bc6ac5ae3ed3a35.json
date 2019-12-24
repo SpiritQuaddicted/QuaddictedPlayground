@@ -4,19 +4,135 @@
  ],
  "files": {
   "gmsp1.txt": {
-   "filesize": 4840,
-   "timestamp": "2001-03-26"
+   "sha256": "74df219f0824ea77612099ddb740064c7d7612a8fbeae2de71dd62eba9e523de",
+   "size": 4840,
+   "timestamp": "2001-03-26T01:17:20.000Z"
   },
   "pak0.pak": {
-   "filesize": 8214581,
-   "timestamp": "2001-03-26"
+   "files": {
+    "maps/gmsp1.bsp": {
+     "sha256": "991a89b0f530a2e78022fd7781fd190f5eabec2e959fd46feaa3a6c104cfb7c4",
+     "size": 4747848
+    },
+    "progs.dat": {
+     "sha256": "603cb91c7f717a72cb2ff81d584aacc29e8498cbda8729a781d9964048aa4cab",
+     "size": 747988
+    },
+    "progs/bolt.mdl": {
+     "sha256": "eb7ed9439d34fcdc6c8a04a0bf57d344a75d208d65b8e3ab455ddda5965bf0b9",
+     "size": 1364
+    },
+    "progs/csm_cpit.mdl": {
+     "sha256": "17c3aefc3c13035e45aec9befe0bf6722d163637aa56f18c3bec23c838dd5978",
+     "size": 4424
+    },
+    "progs/enforcer.mdl": {
+     "sha256": "f83402d6602ce9f39a85033e010f9b66edde2633155c51d671acd7bb76c90faa",
+     "size": 218412
+    },
+    "progs/expl.spr": {
+     "sha256": "553b80901ee3d765c147ecce187a53989ded3991532e02f53c5b0cbb42aad5d4",
+     "size": 127672
+    },
+    "progs/frame.mdl": {
+     "sha256": "c033f1d4dabaa36e34b58884d4b45d3a74c587893debaa362c83b286ff7d2c62",
+     "size": 24293
+    },
+    "progs/h_servo.mdl": {
+     "sha256": "f6e00f1d618c3586d96984737a6175688b1b8943f0e5c6a0be4cfb59ccbdca3c",
+     "size": 159656
+    },
+    "progs/rubble1.mdl": {
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
+     "size": 69839
+    },
+    "progs/rubble2.mdl": {
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
+     "size": 200266
+    },
+    "progs/rubble3.mdl": {
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab",
+     "size": 303486
+    },
+    "progs/s_null.spr": {
+     "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+     "size": 1080
+    },
+    "progs/servobod.mdl": {
+     "sha256": "e791ca46d9ea19e870a530e808f6c9d7e472882a4f0fe8103277316de9f09bad",
+     "size": 219324
+    },
+    "progs/servodie.mdl": {
+     "sha256": "4f1c146002f4efaa3cd064167be022286066344a6106ea7d11c7320267211676",
+     "size": 444399
+    },
+    "progs/servoleg.mdl": {
+     "sha256": "27b588b8c7ca9e56fb3d71c62d3886d7aaa0f3e9d9e757f855d2d762dd192efc",
+     "size": 178044
+    },
+    "progs/soldier.mdl": {
+     "sha256": "29d578cf1a503aa933f50d03ceaa4143a7b6a8319cc422a9b59f5be39a51e8fa",
+     "size": 320900
+    },
+    "sound/hjs/air.wav": {
+     "sha256": "7dc55cd06f4d9adf4e9a51d31c3d279eb86b0b082a738e246d463147fc330560",
+     "size": 35308
+    },
+    "sound/hjs/airlock.wav": {
+     "sha256": "b6588065141e6e1eb7880f32566ecea5995f8117e9728fb55444ec7306fdabb1",
+     "size": 37368
+    },
+    "sound/hjs/klaxon1.wav": {
+     "sha256": "1d8b5135adccf4a0eca755ec1849f643415d4260a055a7c05e3d812609ac11e8",
+     "size": 97718
+    },
+    "sound/hjs/stardron.sfk": {
+     "sha256": "3843d62bf8369886c02869895ea9baf101208fdc06d3f2870501271112af3254",
+     "size": 924
+    },
+    "sound/hjs/stardron.wav": {
+     "sha256": "9b5c371ae14595ff7ff6dfc5739d8d4001c5e22da47591d7b8f9af4163a7e5a2",
+     "size": 110130
+    },
+    "sound/mech/mechstep.wav": {
+     "sha256": "253862ad17886c0c0467f2600f185e11fdb49156500919258c7bdf1f51f5bb98",
+     "size": 11310
+    },
+    "sound/mech/metal.wav": {
+     "sha256": "12f478674e401a0e8b3fa696dc87239bd25c75d543eab4cdc7dcb846cd62731f",
+     "size": 5442
+    },
+    "sound/mech/pow_dn.wav": {
+     "sha256": "bcbbdf2a6c196dd3d21cb552e00cd903bde38b94d79860804b5d00f88dc05c3b",
+     "size": 42904
+    },
+    "sound/mech/pow_up.wav": {
+     "sha256": "e0b232135f7db271c3f6e5f6f49eae7d948cfa3afc20d372d5cccb4fa7481663",
+     "size": 32670
+    },
+    "sound/misc/quake.wav": {
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266",
+     "size": 34286
+    },
+    "sound/misc/quakeend.wav": {
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01",
+     "size": 8160
+    },
+    "sound/misc/shortexp.wav": {
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc",
+     "size": 27562
+    }
+   },
+   "sha256": "ea367d5f8285ae6d135f5b99176a767c71130a275cedd24f0733675d191b2362",
+   "size": 8214581,
+   "timestamp": "2001-03-26T00:55:50.000Z"
   }
  },
  "filesize": 3075,
  "install": {
   "extract": "{quake}/gmsp1/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "63ad5a20323f68cab9526efe3b8a265d05227d367b2758183bc6ac5ae3ed3a35",
  "tags": [
   "author=Howard \"GlassMan\" Shaw",

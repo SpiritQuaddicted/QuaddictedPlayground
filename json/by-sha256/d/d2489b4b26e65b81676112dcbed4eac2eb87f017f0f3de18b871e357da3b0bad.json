@@ -4,19 +4,21 @@
  ],
  "files": {
   "PAK1.PAK": {
-   "filesize": 509691,
-   "timestamp": "2000-03-30"
+   "sha256": "72930aa770d91b37742800a6ef266e42111c089ba27a289be2d84ec6d08a7c43",
+   "size": 509691,
+   "timestamp": "2000-03-30T21:16:16.000Z"
   },
   "RDESTATS.TXT": {
-   "filesize": 2174,
-   "timestamp": "2000-03-30"
+   "sha256": "a93364474d3a28d93cba0cb43955da68e27f63738f115ef5452911b28c856970",
+   "size": 2174,
+   "timestamp": "2000-03-30T21:22:28.000Z"
   }
  },
  "filesize": 153,
  "install": {
   "extract": "{quake}/rde/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "d2489b4b26e65b81676112dcbed4eac2eb87f017f0f3de18b871e357da3b0bad",
  "tags": [
   "author=Jesse van Dijk",

@@ -4,19 +4,91 @@
  ],
  "files": {
   "M&M/mines.txt": {
-   "filesize": 6531,
-   "timestamp": "1996-11-24"
+   "sha256": "ad057a5a417a3d664d6b1447479e0ed1ba53a0f91aa20bea7096c835467f1d62",
+   "size": 6531,
+   "timestamp": "1996-11-24T22:17:02.000Z"
   },
   "M&M/pak0.pak": {
-   "filesize": 1848510,
-   "timestamp": "1996-11-23"
+   "files": {
+    "bazooka.qc": {
+     "sha256": "d7603af6666a4730ec95135d0b72a7a362b979556c0a6a510e4f6afc9391fe23",
+     "size": 13090
+    },
+    "maps/m&m.bsp": {
+     "sha256": "553b73765eab68023f69e29a7b72bc07497a3109d57f816adbae4f30efc7835b",
+     "size": 1094072
+    },
+    "progs.dat": {
+     "sha256": "12b706786d4a3c2190794f449d42ab8574f7c82a113246f77789fb43d2930a84",
+     "size": 428548
+    },
+    "progs/bazooka.mdl": {
+     "sha256": "fcee6fd34a295b108ac7adc3da70156b6bb6c4ee6aef4eb06e9f9394611e0376",
+     "size": 143952
+    },
+    "progs/h_babe.mdl": {
+     "sha256": "61b34a2d1599e86932f0e5c1db8ee0054f8e52f02716a7cf889b9b75ab7667b2",
+     "size": 26804
+    },
+    "progs/pulse.mdl": {
+     "sha256": "83ad42783fe9a5dd2e2085bb6dcb3e551db7fd7ac683326943e6c5423f8131e4",
+     "size": 15988
+    },
+    "sound/bazooka/ahaia.wav": {
+     "sha256": "b9a2527347e2272a676390b3a6bce4cf623f233a11b27d932e340ed67e72823d",
+     "size": 7748
+    },
+    "sound/bazooka/die.wav": {
+     "sha256": "0bae4e5baa31c64ba4fc94df64e0dca08c06a732baea03ae4167b75e00318e9b",
+     "size": 9260
+    },
+    "sound/bazooka/dies1.wav": {
+     "sha256": "663fcd16df6c845fc318a6181b2eece0678f9f3980a90ea3d34f0592e61e6087",
+     "size": 8856
+    },
+    "sound/bazooka/dies2.wav": {
+     "sha256": "93f2868e3bbda78b74970a8912e8bad6f50e130692c4ce066aacdb5d51811e48",
+     "size": 9212
+    },
+    "sound/bazooka/dies3.wav": {
+     "sha256": "439d327515f423fe662a8930b6a1d07d693f43331996119e05d32efc5d44457c",
+     "size": 9752
+    },
+    "sound/bazooka/grrr.wav": {
+     "sha256": "8c6609a6ea9d85f10cda8dd2aa2d0fb77f5e9690698cbafbc213eb5d4f2b6f5d",
+     "size": 11356
+    },
+    "sound/bazooka/ooaa.wav": {
+     "sha256": "76d5ae6f0532eb1a43493330c90966be651e05ba9eed2a994a9afaf28c73de78",
+     "size": 4872
+    },
+    "sound/bazooka/step1.wav": {
+     "sha256": "fc485f8365abf042f2abb94ba4a21f077f688419e252a50fe9cfba2f55fd280a",
+     "size": 27042
+    },
+    "sound/bazooka/stepstop.wav": {
+     "sha256": "79ec338698b2f8bfde44e0b5e8e31ca3d34e140ca88a45eb81c7c72b7ca31134",
+     "size": 6102
+    },
+    "sound/bazooka/when.wav": {
+     "sha256": "af1c2534c69cfb3f07e160cd39f66fcfbe9d64580cb9fcfc43520637c6931532",
+     "size": 23194
+    },
+    "sound/bazooka/yeow.wav": {
+     "sha256": "776a81059bc7fd0f8c998f5e8e05837686d1578c8860aad77901665c31370caf",
+     "size": 6474
+    }
+   },
+   "sha256": "14441169a726f7501f0535a7f4942cb6f0fab89839babb5b3b58c30cb09fe451",
+   "size": 1848510,
+   "timestamp": "1996-11-23T13:27:16.000Z"
   }
  },
  "filesize": 746,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "868392383256f2d1e9f6910ef1c69318c064c268321af2d8dd25964db64b5a00",
  "tags": [
   "author=Ed Cope",

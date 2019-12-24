@@ -4,27 +4,31 @@
  ],
  "files": {
   "WHIPPET.BSP": {
-   "filesize": 1211200,
-   "timestamp": "1996-11-02"
+   "sha256": "41709e837a9e1a8f9ce189d16883e8a3616256b7fda5e4e17ebb69cbd57ae4a4",
+   "size": 1211200,
+   "timestamp": "1996-11-02T12:32:04.000Z"
   },
   "WHIPPET.DEM": {
-   "filesize": 746937,
-   "timestamp": "1996-11-02"
+   "sha256": "58068c5673da9c11c68984d900cb47f1ca5ee436e037903df1c97a9bd2badfad",
+   "size": 746937,
+   "timestamp": "1996-11-02T12:49:42.000Z"
   },
   "WHIPPET.MAP": {
-   "filesize": 627046,
-   "timestamp": "1996-11-02"
+   "sha256": "ec9289c3f79624858d058a7adeb1cd5d862e6b022e83d047f1cf92403bfd2fdb",
+   "size": 627046,
+   "timestamp": "1996-11-02T10:22:08.000Z"
   },
   "WHIPPET.TXT": {
-   "filesize": 1307,
-   "timestamp": "1996-11-02"
+   "sha256": "ea3ec98bdab5d004815897d3d6c99c2d99f8072de27c10ee694c3b531d7b224d",
+   "size": 1307,
+   "timestamp": "1996-11-02T12:44:10.000Z"
   }
  },
  "filesize": 714,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "275c11479ce06db5e2813df492ffa2062121c7abf6e77500d2c384ae6706e24a",
  "tags": [
   "author=Marc Roussel",

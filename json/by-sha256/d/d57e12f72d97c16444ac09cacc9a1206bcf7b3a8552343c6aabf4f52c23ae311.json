@@ -3,48 +3,62 @@
   "shamsp1.zip"
  ],
  "files": {
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-07-18T13:53:52.000Z"
+  },
   "gfx/env/verdanis-cool_bk.tga": {
-   "filesize": 703996,
-   "timestamp": "2017-12-28"
+   "sha256": "75ba98f3383cf2e69ee1455a0bee76f5f0f323fb8620705c22ca676af82ac754",
+   "size": 703996,
+   "timestamp": "2017-12-28T20:40:56.000Z"
   },
   "gfx/env/verdanis-cool_dn.tga": {
-   "filesize": 789011,
-   "timestamp": "2017-12-28"
+   "sha256": "8e84e3e20020d4a625f7360debf122191c96069ceba1e9d1c416d09926a0de6a",
+   "size": 789011,
+   "timestamp": "2017-12-28T20:40:58.000Z"
   },
   "gfx/env/verdanis-cool_ft.tga": {
-   "filesize": 689720,
-   "timestamp": "2017-12-28"
+   "sha256": "950d50aa1b173b993aaf225fd29fd793252f972fc05d989eae62ce9e6f333046",
+   "size": 689720,
+   "timestamp": "2017-12-28T20:40:58.000Z"
   },
   "gfx/env/verdanis-cool_lf.tga": {
-   "filesize": 676818,
-   "timestamp": "2017-12-28"
+   "sha256": "ff6f1e5746a8e710114af2a477211315ee910b09654b13639b09d9a91b0c7d8e",
+   "size": 676818,
+   "timestamp": "2017-12-28T20:40:58.000Z"
   },
   "gfx/env/verdanis-cool_rt.tga": {
-   "filesize": 698920,
-   "timestamp": "2017-12-28"
+   "sha256": "eb8495fa7d818849c290e8df52f9fca9091ebdc39dcb0615c8c67271ababb776",
+   "size": 698920,
+   "timestamp": "2017-12-28T20:40:58.000Z"
   },
   "gfx/env/verdanis-cool_up.tga": {
-   "filesize": 503354,
-   "timestamp": "2017-12-28"
+   "sha256": "a1ccac6bd3b1cce725542ff8157da29eb5b0f3119f2e55bef3150e6458359f0d",
+   "size": 503354,
+   "timestamp": "2017-12-28T20:40:58.000Z"
   },
   "maps/shamsp1.bsp": {
-   "filesize": 2549976,
-   "timestamp": "2018-07-20"
+   "sha256": "60345ae8c69e18ec9205279a4bff9df71b19a11ee897da742c4854fec9ea2fb1",
+   "size": 2549976,
+   "timestamp": "2018-07-20T22:43:54.000Z"
   },
   "maps/shamsp1.lit": {
-   "filesize": 943190,
-   "timestamp": "2018-07-20"
+   "sha256": "29da3a4c2921c7d3fbd65c6eb1a4a98349e1781d353fd64a7281d28d565f6827",
+   "size": 943190,
+   "timestamp": "2018-07-20T22:43:54.000Z"
   },
   "maps/shamsp1.txt": {
-   "filesize": 1320,
-   "timestamp": "2018-07-20"
+   "sha256": "660adab244c6e480387f07ccb933a055148f446189c97976e86fea793c7a5f39",
+   "size": 1320,
+   "timestamp": "2018-07-20T21:54:18.000Z"
   }
  },
  "filesize": 3956,
  "install": {
   "extract": "{quake}/id1/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "d57e12f72d97c16444ac09cacc9a1206bcf7b3a8552343c6aabf4f52c23ae311",
  "tags": [
   "author=Shambler",

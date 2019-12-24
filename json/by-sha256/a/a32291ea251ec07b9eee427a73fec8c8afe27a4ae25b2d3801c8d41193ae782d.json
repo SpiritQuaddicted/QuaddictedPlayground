@@ -4,19 +4,21 @@
  ],
  "files": {
   "BADLAND1.TXT": {
-   "filesize": 3050,
-   "timestamp": "1997-06-08"
+   "sha256": "6f3b6210fa2ad5d5e3955ca15690d49f9594220a79b7300cee854b0e156add01",
+   "size": 3050,
+   "timestamp": "1997-06-08T19:16:26.000Z"
   },
   "badland1.bsp": {
-   "filesize": 1582888,
-   "timestamp": "1997-06-09"
+   "sha256": "93f24e94f88ffab21034e9145b7365957e2985b94d1672e2997e6f408d7a6c73",
+   "size": 1582888,
+   "timestamp": "1997-06-09T23:59:00.000Z"
   }
  },
  "filesize": 673,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "a32291ea251ec07b9eee427a73fec8c8afe27a4ae25b2d3801c8d41193ae782d",
  "tags": [
   "author=Chris Spain",

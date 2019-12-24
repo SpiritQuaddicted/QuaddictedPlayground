@@ -3,48 +3,62 @@
   "shamsp2.zip"
  ],
  "files": {
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-08-24T19:42:14.000Z"
+  },
   "gfx/env/arrakisday_bk.tga": {
-   "filesize": 571714,
-   "timestamp": "2018-08-06"
+   "sha256": "424764dadac2afb117aebf1678bb322103543c4c189b3983be9f936bdd0a3a3f",
+   "size": 571714,
+   "timestamp": "2018-08-06T15:49:44.000Z"
   },
   "gfx/env/arrakisday_dn.tga": {
-   "filesize": 770896,
-   "timestamp": "2018-08-06"
+   "sha256": "e29f8cc5069eb9e88f28ee2026b34a458053d9ee4aad1e019ce909041fe35b22",
+   "size": 770896,
+   "timestamp": "2018-08-06T15:49:44.000Z"
   },
   "gfx/env/arrakisday_ft.tga": {
-   "filesize": 541244,
-   "timestamp": "2018-08-06"
+   "sha256": "42a496079a780abfb263af1be4ec0cdfdd7f4214bb7d0668c304398eac5cf227",
+   "size": 541244,
+   "timestamp": "2018-08-06T15:49:44.000Z"
   },
   "gfx/env/arrakisday_lf.tga": {
-   "filesize": 569094,
-   "timestamp": "2018-08-06"
+   "sha256": "e87e2cb9c5c4fd961166d2759e16360310c73637973b7f5262eed2bc263ba1cb",
+   "size": 569094,
+   "timestamp": "2018-08-06T15:49:44.000Z"
   },
   "gfx/env/arrakisday_rt.tga": {
-   "filesize": 518267,
-   "timestamp": "2018-08-06"
+   "sha256": "78b1688a1d6692e106c12e3078fb8785596f0196f174863ccc7a80b7e7fb9150",
+   "size": 518267,
+   "timestamp": "2018-08-06T15:49:44.000Z"
   },
   "gfx/env/arrakisday_up.tga": {
-   "filesize": 203526,
-   "timestamp": "2018-08-06"
+   "sha256": "e523f7922075331933ab9fb409462fe53b62e3765218e597fabf8c62612c0eee",
+   "size": 203526,
+   "timestamp": "2018-08-06T15:49:44.000Z"
   },
   "maps/shamsp2.bsp": {
-   "filesize": 5137336,
-   "timestamp": "2018-08-24"
+   "sha256": "80c42c6654bf830d61b4eedb26d903d15d55743c014c6bc436bd5b269483bcec",
+   "size": 5137336,
+   "timestamp": "2018-08-24T19:35:54.000Z"
   },
   "maps/shamsp2.lit": {
-   "filesize": 1945832,
-   "timestamp": "2018-08-24"
+   "sha256": "16e7715352d5ad7c0ac06a6cde86c5c614567acc3d95a92646814be958d3355e",
+   "size": 1945832,
+   "timestamp": "2018-08-24T19:35:52.000Z"
   },
   "maps/shamsp2.txt": {
-   "filesize": 1459,
-   "timestamp": "2018-08-24"
+   "sha256": "639f9cf2203a1761982419973c2a9d88851a42577925ebe28c27d58a03fa25b0",
+   "size": 1459,
+   "timestamp": "2018-08-24T19:40:34.000Z"
   }
  },
  "filesize": 3892,
  "install": {
   "extract": "{quake}/id1/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "0ad0b87fb45c6dadcb05fb6509ec6519d8608e0dcbdf9ad43380d0e28697b19a",
  "tags": [
   "author=Shambler",

@@ -4,19 +4,21 @@
  ],
  "files": {
   "BASE-X2.bsp": {
-   "filesize": 830352,
-   "timestamp": "2000-02-26"
+   "sha256": "60c6c398a559e3db8d5b43701173ddc74033adbd1c610765244b37b713db0509",
+   "size": 830352,
+   "timestamp": "2000-02-26T06:12:00.000Z"
   },
   "base-x2.txt": {
-   "filesize": 2306,
-   "timestamp": "2000-02-26"
+   "sha256": "43c653bc8b6c3c3a187c9524ee4fb96f2d2db85aad57ad895eb7d3d2d28ada06",
+   "size": 2306,
+   "timestamp": "2000-02-26T06:19:52.000Z"
   }
  },
  "filesize": 318,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "4804aae46737c4dddd5adf906a3b3d10ab3c9038d4852b4fe2e402819d871140",
  "tags": [
   "author=Peter Bisseker (tiddles)",

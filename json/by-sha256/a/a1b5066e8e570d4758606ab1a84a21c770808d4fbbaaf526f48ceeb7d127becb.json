@@ -3,48 +3,118 @@
   "tsd.zip"
  ],
  "files": {
+  "tsd/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2010-06-03T21:22:34.000Z"
+  },
   "tsd/DP BAT File.rar": {
-   "filesize": 299,
-   "timestamp": "2010-05-08"
+   "sha256": "a8ae62cdb5d4756ffca573e3124d0418e79e24c4d151043f58fa646b5350a4b6",
+   "size": 299,
+   "timestamp": "2010-05-08T19:49:06.000Z"
   },
   "tsd/Neh BAT Files.rar": {
-   "filesize": 585,
-   "timestamp": "2010-05-08"
+   "sha256": "4fe4f7545b144b82645cb5e888ec4bb1c02de3592c74fc1f7903adbae0fcc503",
+   "size": 585,
+   "timestamp": "2010-05-08T19:46:54.000Z"
+  },
+  "tsd/docs/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2010-06-03T21:21:34.000Z"
   },
   "tsd/docs/ReadMe First.html": {
-   "filesize": 4380,
-   "timestamp": "2010-05-27"
+   "sha256": "a4c6d07b8b4a29b3e02f89b71e323cafd5875219a57ce4c6f5dd8a583eb68ef5",
+   "size": 4380,
+   "timestamp": "2010-05-27T23:40:54.000Z"
+  },
+  "tsd/docs/gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2010-05-27T23:37:28.000Z"
   },
   "tsd/docs/gfx/Kopia Snowflake.png": {
-   "filesize": 9839,
-   "timestamp": "2005-11-30"
+   "sha256": "3e95f9591e631c824b9b5fe1b09c8b4eb616389f5f4662cecfc8a517ebe86820",
+   "size": 9839,
+   "timestamp": "2005-11-30T21:36:34.000Z"
   },
   "tsd/docs/gfx/MainTitleShade.png": {
-   "filesize": 351,
-   "timestamp": "2005-11-30"
+   "sha256": "b9e5284f0f031a4a944b837f6c021bb5eef067ed9a571fe8b0a3f8e2b4623096",
+   "size": 351,
+   "timestamp": "2005-11-30T21:36:34.000Z"
   },
   "tsd/docs/gfx/Snowflake.png": {
-   "filesize": 8750,
-   "timestamp": "2010-05-27"
+   "sha256": "968370fb1792b73d80d38fed1c9b1e3921a8407ab7bcb4c2457b667dddabc581",
+   "size": 8750,
+   "timestamp": "2010-05-27T23:37:48.000Z"
   },
   "tsd/docs/index.html": {
-   "filesize": 7762,
-   "timestamp": "2005-12-05"
+   "sha256": "71a8ce138efdebc18cbc29419431043e0078959bf468a406d4e98077b94f48c6",
+   "size": 7762,
+   "timestamp": "2005-12-05T12:20:44.000Z"
   },
   "tsd/pak0.pak": {
-   "filesize": 13309526,
-   "timestamp": "2005-11-24"
+   "files": {
+    "Quake.rc": {
+     "sha256": "a9a4e28df3bf8340d3c6470c965891bb40d3098146dfb3dde349ea25a9a6c89b",
+     "size": 579
+    },
+    "autoexec.cfg": {
+     "sha256": "711bdcedda45d54e91bc9cfaed55647470850bfb080484536900a3d6e2950923",
+     "size": 44
+    },
+    "config.cfg": {
+     "sha256": "1dd2e5993f8a6156a6549729cc2ee61d00ecb12638ef6deeaea0acbcd37aa9ea",
+     "size": 1799
+    },
+    "default.cfg": {
+     "sha256": "ae1e3d4b7ff76ed5bbae92b53f5f8ad207b08a4e6e79139018a6e415c3b96c7f",
+     "size": 1954
+    },
+    "maps/vxmas1.bsp": {
+     "sha256": "3e8f3d602a6e5f6e24ea5aafd403410e6065a158af1f429f5ab748dd0c0de643",
+     "size": 3085752
+    },
+    "maps/vxmas2.bsp": {
+     "sha256": "3b096484c2a58bad0ccaa127b84db34796ff0d4f739f26cdc8316887417fb456",
+     "size": 3036524
+    },
+    "maps/vxmas3.bsp": {
+     "sha256": "02b0547dc69aa22d3bb121c0b1f7da72d264661e1cccef01cd4ffd82fba9c32e",
+     "size": 2356332
+    },
+    "sound/Music/TSDCrd.wav": {
+     "sha256": "fc0699cf2c43c0e3327b768543f9e726fa17acda8f67baad908415f7bd778de3",
+     "size": 1132600
+    },
+    "sound/Music/TSDm1.wav": {
+     "sha256": "6e6d602c3dfa4187de100dcfaeaa875440702ee442e8caea3d14d6592f362d21",
+     "size": 965178
+    },
+    "sound/Music/TSDm2.wav": {
+     "sha256": "8195fa6dd546e3b9ed3a7d54d6c044ef2ace4d8c7ff39048b7de2d8b536038b3",
+     "size": 1353270
+    },
+    "sound/Music/TSDm3.wav": {
+     "sha256": "c3243a37536e8ade269ce4bc91f4957158060cac72f949bbddb320a4b838b16e",
+     "size": 1374778
+    }
+   },
+   "sha256": "d8c99612b5b2eafaadc2244b961b2357ba24b6258f4b891390cdaec7158ba651",
+   "size": 13309526,
+   "timestamp": "2005-11-24T19:08:28.000Z"
   },
   "tsd/quake.rc": {
-   "filesize": 896,
-   "timestamp": "2010-05-08"
+   "sha256": "85c07ba08482d94667eccf1f20a6e225ea5bec88a359f5e84042b0c97260b92a",
+   "size": 896,
+   "timestamp": "2010-05-08T20:22:18.000Z"
   }
  },
  "filesize": 6969,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "a1b5066e8e570d4758606ab1a84a21c770808d4fbbaaf526f48ceeb7d127becb",
  "tags": [
   "author=vIE888",

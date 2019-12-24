@@ -4,19 +4,111 @@
  ],
  "files": {
   "metmon1d_readme.txt": {
-   "filesize": 12032,
-   "timestamp": "2014-05-25"
+   "sha256": "0632470262cc27f3a21d1cdea80ecaa5cbe2f28f7909b13afbc94d08e5a305a9",
+   "size": 12032,
+   "timestamp": "2014-05-25T22:12:50.000Z"
   },
   "pak0.pak": {
-   "filesize": 30386924,
-   "timestamp": "2014-05-25"
+   "files": {
+    "gfx/env/moonrise_bk.tga": {
+     "sha256": "3b4e85116e3999d5cded25ca0a5d6fb9c297b3d69749a63daf5af6c37fe21959",
+     "size": 3145772
+    },
+    "gfx/env/moonrise_dn.tga": {
+     "sha256": "a7be41496d25bc9e505b959b08a950c1bb61acc6c8c44ec4e1dd428faeac4ccd",
+     "size": 3145772
+    },
+    "gfx/env/moonrise_ft.tga": {
+     "sha256": "7381c46aa4f5c916f3bc8f82a442a4582834563c0bb0127580053bb274609180",
+     "size": 3145772
+    },
+    "gfx/env/moonrise_lf.tga": {
+     "sha256": "871df5eed200970b8c3246ca10a039f5915c95e8f48bf0692fc22f2f7e5450cd",
+     "size": 3145772
+    },
+    "gfx/env/moonrise_rt.tga": {
+     "sha256": "2cc00bb935ee2f4019f4d99170d38ef3f51c72ff80150cd74911b1038a0cb269",
+     "size": 3145772
+    },
+    "gfx/env/moonrise_up.tga": {
+     "sha256": "0296084074d726170fdc85d2c1176ee64845b6805c174c08aaa63f514fd9cb65",
+     "size": 3145772
+    },
+    "maps/metmon.bsp": {
+     "sha256": "5bcacb81aab029dda90edf79ac3adff8fc5d1292112e591f25037bfb31f2f347",
+     "size": 4617120
+    },
+    "maps/metmon.lit": {
+     "sha256": "acad863f1828d240858cc26ff452ac21158e45f5509e530c59f97148f7197089",
+     "size": 1320542
+    },
+    "maps/metmon.rtlights": {
+     "sha256": "fd55f2021fca20ae5720c0c958bec577a7cfd830316e832614cc27274d2e87f9",
+     "size": 17269
+    },
+    "metmon1d_readme.txt": {
+     "sha256": "0632470262cc27f3a21d1cdea80ecaa5cbe2f28f7909b13afbc94d08e5a305a9",
+     "size": 12032
+    },
+    "sound/metmon/finalswitch.wav": {
+     "sha256": "5c006bb7315e6eb6d2367ae30a78f0abec8ae2a1e2b6a2c9af88354962b0f33f",
+     "size": 66382
+    },
+    "sound/metmon/powercube.wav": {
+     "sha256": "4307c01076cb5e076d27546b17bd6b11e2369a67b59dbbd64f2607d8b262a8c2",
+     "size": 36700
+    },
+    "sound/metmon/powerdown.wav": {
+     "sha256": "8c1c8b8722e32e7a6727bf41d7d54d1534186e83df4a7093bcd5f9e3bb3dcc84",
+     "size": 88310
+    },
+    "sound/metmon/powerup.wav": {
+     "sha256": "690023a6a8a145b78a5c2a2eff2e15e4ea6f606fbeb7469a9a083101df255e99",
+     "size": 77722
+    },
+    "sound/metmon/spheredown.wav": {
+     "sha256": "e0ab1a0f67a2d37a525f7a73e8ee8c3a26f746e027fa1501f6648f5586ea2048",
+     "size": 1118464
+    },
+    "sound/metmon/windgust1.wav": {
+     "sha256": "d6b4a536dd8c403d8fe9a20db1c72c42d32f44b863689ba4f952ad1e0b7c86d9",
+     "size": 110934
+    },
+    "sound/metmon/windgust2.wav": {
+     "sha256": "85ffe34d5ee89659fd6466afa237a27ad3494176a733d9e017843e7651366a2d",
+     "size": 110696
+    },
+    "sound/metmon/windgust3.wav": {
+     "sha256": "fdbb85f091cd9447f1500173aff70236abcdb947ba0758711816da59c5293344",
+     "size": 110030
+    },
+    "sound/metmon/windgust4.wav": {
+     "sha256": "6bf9157f45ddb9ce15c5cad253b53d9ce59e7d20a81d5f1f8d0a510eb4edce5a",
+     "size": 204800
+    },
+    "sound/metmon/windgust5.wav": {
+     "sha256": "e551c6602c35ad4f4871bffd53cb02a668f508f5ef007e7e5b9734c5640f17ac",
+     "size": 204472
+    },
+    "source/metmon.map": {
+     "sha256": "08e7f2e06db1053f37888c8e6d0e0d052cd64f5f78d2d3af46a3b171dfeca4d2",
+     "size": 2612327
+    },
+    "source/metmon.wad": {
+     "sha256": "d670dfb958dcc45f90c12bf2f006d1211f9f17fc7ddef758dcc12edb0a904583",
+     "size": 803072
+    }
+   },
+   "sha256": "70dca4d58a12a3fc3c3bb522c2484490e96f3307862e8e8460552d6e8d21d1a8",
+   "size": 30386924,
+   "timestamp": "2014-05-25T22:27:48.000Z"
   }
  },
  "filesize": 12430,
  "install": {
   "extract": "{quake}/metmon"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "59971ea485de52bfde1377acec02a7040f4737351f35b8b7010686f5c342730b",
  "tags": [
   "author=sock",

@@ -3,40 +3,52 @@
   "winbbcoh.zip"
  ],
  "files": {
+  "wads/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-06-13T03:42:54.000Z"
+  },
   "wads/medieval.wad": {
-   "filesize": 2776400,
-   "timestamp": "2019-05-17"
+   "sha256": "fadf05c78c091a447d95ba2d0b32856f4df158eb828997d7dbd9e804aef400c5",
+   "size": 2776400,
+   "timestamp": "2019-05-17T20:38:28.000Z"
   },
   "wads/misc.wad": {
-   "filesize": 674432,
-   "timestamp": "2019-05-01"
+   "sha256": "f01697cc3ff7d22f7976dce181860c5e1cabe6ff2a212d7655545277d83b69a2",
+   "size": 674432,
+   "timestamp": "2019-05-01T18:38:50.000Z"
   },
   "wads/runic.wad": {
-   "filesize": 1506828,
-   "timestamp": "2018-07-01"
+   "sha256": "28ea95b1a840098c6a3a5bf5f057d40efecce52f225e4f59af94d97bc859e356",
+   "size": 1506828,
+   "timestamp": "2018-07-01T07:19:06.000Z"
   },
   "winbbcoh.bsp": {
-   "filesize": 1844832,
-   "timestamp": "2019-06-11"
+   "sha256": "6084c1762ff071caf11c7ab0d167509d75f1dd59f2e2a5ebb8ab66752c95d2c9",
+   "size": 1844832,
+   "timestamp": "2019-06-11T22:50:32.000Z"
   },
   "winbbcoh.lit": {
-   "filesize": 671852,
-   "timestamp": "2019-06-11"
+   "sha256": "a078f72b196eac3a0a1729d9fe536efbc2cadfe35705635c5934e0e607f7bed9",
+   "size": 671852,
+   "timestamp": "2019-06-11T22:50:32.000Z"
   },
   "winbbcoh.map": {
-   "filesize": 1534387,
-   "timestamp": "2019-06-13"
+   "sha256": "59f095dc2fa0ad5fdbd1e18294769b1ab6ae532c8e091880a65b538448f5c4b0",
+   "size": 1534387,
+   "timestamp": "2019-06-13T03:39:42.000Z"
   },
   "winbbcoh.txt": {
-   "filesize": 1896,
-   "timestamp": "2019-06-13"
+   "sha256": "535ec4a7650298c31ada2ce33b25d11b1d03d2d454bc01fda8788f1dfdd5b69f",
+   "size": 1896,
+   "timestamp": "2019-06-13T03:48:12.000Z"
   }
  },
  "filesize": 3011,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "7a8acbdb483074b350337ab271c38ffa5954d65a5f577f8cb45365ad58bc7905",
  "tags": [
   "author=Windaws",

@@ -4,19 +4,111 @@
  ],
  "files": {
   "contract.html": {
-   "filesize": 13665,
-   "timestamp": "2004-08-31"
+   "sha256": "608ad80c8ebc6357f392100736287da61065491dda3f3dc64a775d3824b9d511",
+   "size": 13665,
+   "timestamp": "2004-08-31T19:21:26.000Z"
   },
   "pak0.pak": {
-   "filesize": 19416397,
-   "timestamp": "2002-06-15"
+   "files": {
+    "demo1.dem": {
+     "sha256": "0e2a43b52f9ea2c76d399e7846c858a9d8eb5582a7f328a71344d918399c18e7",
+     "size": 710825
+    },
+    "kell.cfg": {
+     "sha256": "c6ecdaa1ff9ec383494048608ea44413a5e6ac4268ac34814aed131ce2ec8cfe",
+     "size": 2720
+    },
+    "maps/k1m1.bsp": {
+     "sha256": "2f2d7d7348b9514b31cafa8c7dbb7b2ab3b9594f5591c6092721664167890c4a",
+     "size": 3532008
+    },
+    "maps/k1m10.bsp": {
+     "sha256": "1a1e9d5775e8f8a5a8c8eb5903c730fea18e84ef1821d02237434a3000c29100",
+     "size": 3931224
+    },
+    "maps/k1m2.bsp": {
+     "sha256": "d26fa72536bc3f93d3e57a69d61f8eacd9bddf36ccf2c127a409a146561cea92",
+     "size": 3064084
+    },
+    "maps/k1m3.bsp": {
+     "sha256": "024a98faca1b12bd2903cc2a992a48dc1130b2e4273b09f3c4859abd3dd7151d",
+     "size": 4172532
+    },
+    "maps/start.bsp": {
+     "sha256": "9872a220c9fa4566abc06f636476a0994ee9e3166c83fd5b6390cfb3f813bae8",
+     "size": 3079148
+    },
+    "progs/end1.mdl": {
+     "sha256": "2155d92a5244e4ddb237e46e64e38f09bb47141fcacf4ac1a06df1553f830858",
+     "size": 20820
+    },
+    "progs/end2.mdl": {
+     "sha256": "f46f9a8f6f036fb66210ade338f9e76729d286fe8f73e1ae23a065382567de9a",
+     "size": 40980
+    },
+    "progs/end3.mdl": {
+     "sha256": "c35c0c65e52b5de27175137fafb68751e3132675db529a1e80707eceb5dd6aec",
+     "size": 19924
+    },
+    "progs/end4.mdl": {
+     "sha256": "001a69b25785d05678348ff2edea63e125c8ee07cb379fd03fe66bd720d5962e",
+     "size": 26932
+    },
+    "progs/grenade.mdl": {
+     "sha256": "343c84307bb7c3f6f0e2d23965ef797f9711c26640371c23845f91cfff58da2a",
+     "size": 2244
+    },
+    "progs/quaddama.mdl": {
+     "sha256": "33aa3cb25d9dd2a40fa6082e7a8bcb3102c79fecdef2d945566b28ca6bbc3869",
+     "size": 39992
+    },
+    "progs/tarbaby.mdl": {
+     "sha256": "4936d42d121421090e8353010e0eb9ed89a53871a8e440a960b7cff049f948dc",
+     "size": 98148
+    },
+    "sound/ambience/buzz1.wav": {
+     "sha256": "a4e2f8a7c0ac3c5d8e7ce1485147bc820b1270e3e3f13712b4cc7d2afbeee31d",
+     "size": 273352
+    },
+    "sound/ambience/fl_hum1.wav": {
+     "sha256": "c925d73ef744b0a8c56507ff6fb18888de7ab803ea1f743060f8f9782180dcc7",
+     "size": 220542
+    },
+    "sound/ambience/wind2.wav": {
+     "sha256": "7641643c47254d8bc72331ff90dee511cddfcbf03aaaa43f0cc7f35a4329ecdb",
+     "size": 57040
+    },
+    "sound/misc/menu1.wav": {
+     "sha256": "c404a7d2f09b9e269a9df6d19396efe57b281f8eb79457b69ea4ab88a7d0f55a",
+     "size": 5570
+    },
+    "sound/misc/menu2.wav": {
+     "sha256": "1504f451e4b8e02b8080014f79b11a34bdbcaab0b8e11a0427c0c5a7572ed796",
+     "size": 33108
+    },
+    "sound/misc/menu3.wav": {
+     "sha256": "1ef4281197016a2025b5471143ae5f5b8fd98c0fa8def4ebd6e89fa362753ae9",
+     "size": 16288
+    },
+    "sound/misc/trigger1.wav": {
+     "sha256": "2caac27dfee5758eb293e0c76bf86baf82b0522c6f71281160e805c6ec282f96",
+     "size": 34284
+    },
+    "sound/zombie/idle_w2.wav": {
+     "sha256": "24b56a0dbea4fbbd43ed1fbbeff5d946c9269569284659ec72dc665b18076a3a",
+     "size": 33212
+    }
+   },
+   "sha256": "cdf65d807fa869cf8c4040a8433a5819e3fc67714a6aa7b228a2ae7c8862343e",
+   "size": 19416397,
+   "timestamp": "2002-06-15T16:47:10.000Z"
   }
  },
  "filesize": 7073,
  "install": {
   "extract": "{quake}/contract/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0",
  "tags": [
   "author=Kell",

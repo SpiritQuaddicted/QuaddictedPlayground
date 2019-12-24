@@ -4,23 +4,26 @@
  ],
  "files": {
   "FILE_ID.DIZ": {
-   "filesize": 264,
-   "timestamp": "1997-09-18"
+   "sha256": "d5f71abe184132e9f76e78239868ea2c90ac4437151e52174d812720645b2d19",
+   "size": 264,
+   "timestamp": "1997-09-18T17:43:48.000Z"
   },
   "SE.BSP": {
-   "filesize": 2077984,
-   "timestamp": "1997-08-25"
+   "sha256": "a8d34ec6cee3ee4759caa2710ea1f55d79056b1e7330779161eb03c0722ce71b",
+   "size": 2077984,
+   "timestamp": "1997-08-25T11:51:18.000Z"
   },
   "SE.TXT": {
-   "filesize": 3056,
-   "timestamp": "1997-08-25"
+   "sha256": "485d765bb6f6ec523cbeab59e5da95b2f4181975193708f28ad9150ee7d8c078",
+   "size": 3056,
+   "timestamp": "1997-08-25T13:15:58.000Z"
   }
  },
  "filesize": 863,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "314cf2b4bb4bf68d6e98f87b721e4be62bb1b2d7bd1dbc3ac665d8316f029533",
  "tags": [
   "author=Zied Rieke",

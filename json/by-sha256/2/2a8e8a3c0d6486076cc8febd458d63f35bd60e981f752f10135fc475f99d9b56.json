@@ -4,27 +4,31 @@
  ],
  "files": {
   "dknight/Dknight.txt": {
-   "filesize": 2743,
-   "timestamp": "1997-09-12"
+   "sha256": "08fd2815698df3d3fa51ba4812f9cce70580c6e9a4367409a48f17d8834e88de",
+   "size": 2743,
+   "timestamp": "1997-09-12T02:19:48.000Z"
   },
   "dknight/maps/dknight.bsp": {
-   "filesize": 760260,
-   "timestamp": "1997-09-07"
+   "sha256": "d24f8a9a0e5ca51b78074cfbce71909e8a95ea4c1ae1a31dd68d20bd0eeef5c5",
+   "size": 760260,
+   "timestamp": "1997-09-07T22:42:24.000Z"
   },
   "dknight/progs/hknight.mdl": {
-   "filesize": 275836,
-   "timestamp": "1997-09-07"
+   "sha256": "5f2fb34d5cab42f4abe6cb89192c5026c0cf1ebc25bf96cc743ba1429a7d5f23",
+   "size": 275836,
+   "timestamp": "1997-09-07T22:36:50.000Z"
   },
   "dknight/progs/zombie.mdl": {
-   "filesize": 218680,
-   "timestamp": "1997-09-07"
+   "sha256": "d200a0d4371979b0b0528cb3eb90abdb1723a638f718bce754200425cdeaeffc",
+   "size": 218680,
+   "timestamp": "1997-09-07T22:36:46.000Z"
   }
  },
  "filesize": 609,
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "2a8e8a3c0d6486076cc8febd458d63f35bd60e981f752f10135fc475f99d9b56",
  "tags": [
   "author=Tobias Person aka Tobey",

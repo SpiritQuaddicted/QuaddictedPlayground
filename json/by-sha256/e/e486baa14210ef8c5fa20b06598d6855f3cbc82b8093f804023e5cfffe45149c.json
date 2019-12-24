@@ -4,39 +4,152 @@
  ],
  "files": {
   "bazooka.txt": {
-   "filesize": 4512,
-   "timestamp": "1996-11-26"
+   "sha256": "ea6ec68b8465524d034f9fbb33919e75c22bbc177300f255d53cb1f87dabec9f",
+   "size": 4512,
+   "timestamp": "1996-11-26T15:38:38.000Z"
   },
   "foxyzoo.txt": {
-   "filesize": 3172,
-   "timestamp": "1997-01-14"
+   "sha256": "2208983e629b55ed2306c951d031b3c5775d2062e2cbb48a105aecb975b94078",
+   "size": 3172,
+   "timestamp": "1997-01-14T02:21:10.000Z"
   },
   "manga.txt": {
-   "filesize": 2019,
-   "timestamp": "1996-11-03"
+   "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
+   "size": 2019,
+   "timestamp": "1996-11-03T23:57:58.000Z"
   },
   "pak0.pak": {
-   "filesize": 1706070,
-   "timestamp": "1997-01-14"
+   "files": {
+    "maps/foxyzoo.bsp": {
+     "sha256": "e5284619f297ba038a02e7ef01135cec2167751892983e3efb415730e85d2d3a",
+     "size": 440944
+    },
+    "progs.dat": {
+     "sha256": "3f1ad2a9419c1711e120cc80f67e88b5468bb1360a5df4f45ee2c7aaf3e327da",
+     "size": 461404
+    },
+    "progs/bazooka.mdl": {
+     "sha256": "fcee6fd34a295b108ac7adc3da70156b6bb6c4ee6aef4eb06e9f9394611e0376",
+     "size": 143952
+    },
+    "progs/h_babe.mdl": {
+     "sha256": "61b34a2d1599e86932f0e5c1db8ee0054f8e52f02716a7cf889b9b75ab7667b2",
+     "size": 26804
+    },
+    "progs/manga3.mdl": {
+     "sha256": "81bb691947f88dda5672ab1e1af689098d08a9b5bea9d31c38197db909fe3b76",
+     "size": 96256
+    },
+    "progs/pulse.mdl": {
+     "sha256": "83ad42783fe9a5dd2e2085bb6dcb3e551db7fd7ac683326943e6c5423f8131e4",
+     "size": 15988
+    },
+    "progs/snakeman.mdl": {
+     "sha256": "8824603b325f37bbba424f55c3ff900c21ccf61c77ba97e636e91ef99202364a",
+     "size": 132028
+    },
+    "progs/spider.mdl": {
+     "sha256": "df40e58bdf6465e68e5ef33cbcb77c42cc99e50c9dd842c8c3906c2fd04bfc8f",
+     "size": 94492
+    },
+    "progs/uzi.mdl": {
+     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414",
+     "size": 52820
+    },
+    "sound/bazooka/ahaia.wav": {
+     "sha256": "b9a2527347e2272a676390b3a6bce4cf623f233a11b27d932e340ed67e72823d",
+     "size": 7748
+    },
+    "sound/bazooka/die.wav": {
+     "sha256": "0bae4e5baa31c64ba4fc94df64e0dca08c06a732baea03ae4167b75e00318e9b",
+     "size": 9260
+    },
+    "sound/bazooka/dies1.wav": {
+     "sha256": "663fcd16df6c845fc318a6181b2eece0678f9f3980a90ea3d34f0592e61e6087",
+     "size": 8856
+    },
+    "sound/bazooka/dies2.wav": {
+     "sha256": "93f2868e3bbda78b74970a8912e8bad6f50e130692c4ce066aacdb5d51811e48",
+     "size": 9212
+    },
+    "sound/bazooka/dies3.wav": {
+     "sha256": "439d327515f423fe662a8930b6a1d07d693f43331996119e05d32efc5d44457c",
+     "size": 9752
+    },
+    "sound/bazooka/grrr.wav": {
+     "sha256": "8c6609a6ea9d85f10cda8dd2aa2d0fb77f5e9690698cbafbc213eb5d4f2b6f5d",
+     "size": 11356
+    },
+    "sound/bazooka/ooaa.wav": {
+     "sha256": "76d5ae6f0532eb1a43493330c90966be651e05ba9eed2a994a9afaf28c73de78",
+     "size": 4872
+    },
+    "sound/bazooka/step1.wav": {
+     "sha256": "fc485f8365abf042f2abb94ba4a21f077f688419e252a50fe9cfba2f55fd280a",
+     "size": 27042
+    },
+    "sound/bazooka/stepstop.wav": {
+     "sha256": "79ec338698b2f8bfde44e0b5e8e31ca3d34e140ca88a45eb81c7c72b7ca31134",
+     "size": 6102
+    },
+    "sound/bazooka/when.wav": {
+     "sha256": "af1c2534c69cfb3f07e160cd39f66fcfbe9d64580cb9fcfc43520637c6931532",
+     "size": 23194
+    },
+    "sound/bazooka/yeow.wav": {
+     "sha256": "776a81059bc7fd0f8c998f5e8e05837686d1578c8860aad77901665c31370caf",
+     "size": 6474
+    },
+    "sound/died.wav": {
+     "sha256": "3ce14cdac970a150f567dbd07cf1763f695245c34f5bf4e31ec07bfeb232db30",
+     "size": 24492
+    },
+    "sound/ha.wav": {
+     "sha256": "ba2108ad5070860873887308293efd3a9635a6c4dcb3fb39357a9e16f89f97b5",
+     "size": 2708
+    },
+    "sound/hiyaa.wav": {
+     "sha256": "1446e8afbfdf48a08ca6727604b33585efdd67a6d14b4b1c96bb05c6ccd5ac3a",
+     "size": 36876
+    },
+    "sound/kungfu.wav": {
+     "sha256": "025b6eed19d193bd6be4c4f8f2bc7b9fb14e5c127257e570fd9fc98fd464f2a3",
+     "size": 29008
+    },
+    "sound/ohdju.wav": {
+     "sha256": "346d38c12edad612ec4915d3361ebfbb81b06bee9cdb73eb9b9e0d2cc2ea6d10",
+     "size": 12588
+    },
+    "sound/tchak.wav": {
+     "sha256": "f77d88ab76f7a092a7a5d40fb0aaf9530dc6da8e45559fcf1a1b5ea2aa88029b",
+     "size": 10166
+    }
+   },
+   "sha256": "c159a2540f454d8376f4a63288e42e438e0890ad9cb66b77867ebfc6c7b5dbf6",
+   "size": 1706070,
+   "timestamp": "1997-01-14T03:17:22.000Z"
   },
   "snakeman.txt": {
-   "filesize": 4744,
-   "timestamp": "1996-10-24"
+   "sha256": "cc988702d85165b6f9cf05830cf8ebe39a907b140c723799813fa14638c2d7f2",
+   "size": 4744,
+   "timestamp": "1996-10-24T12:17:36.000Z"
   },
   "spider.txt": {
-   "filesize": 2615,
-   "timestamp": "1996-10-09"
+   "sha256": "7a9b72c10b4d279d1fd349dbd6130e6088e96a0e5f22e7eb3177506955e57a7f",
+   "size": 2615,
+   "timestamp": "1996-10-09T05:52:48.000Z"
   },
   "src.ZIP": {
-   "filesize": 25875,
-   "timestamp": "1997-01-14"
+   "sha256": "4cc79089e63e0d21590016a8c06bff8814364716e81aa17861c7799130f79d72",
+   "size": 25875,
+   "timestamp": "1997-01-14T03:19:50.000Z"
   }
  },
  "filesize": 738,
  "install": {
   "extract": "{quake}/foxyzoo/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "e486baa14210ef8c5fa20b06598d6855f3cbc82b8093f804023e5cfffe45149c",
  "tags": [
   "author=Martin Fuchsr",

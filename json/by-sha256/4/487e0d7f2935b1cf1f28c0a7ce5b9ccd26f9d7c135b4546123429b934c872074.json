@@ -4,19 +4,21 @@
  ],
  "files": {
   "Off.txt": {
-   "filesize": 4415,
-   "timestamp": "1997-04-11"
+   "sha256": "73c6f7734819abcc8f2300729ece7fe9660d2842dd27bae33987726787fd3afc",
+   "size": 4415,
+   "timestamp": "1997-04-11T15:34:06.000Z"
   },
   "off.bsp": {
-   "filesize": 1268888,
-   "timestamp": "1997-04-11"
+   "sha256": "ca2ceb918326689e670ad22ece5580098dcb8ad784fdadf851d9cf6cdfce4e55",
+   "size": 1268888,
+   "timestamp": "1997-04-11T13:48:44.000Z"
   }
  },
  "filesize": 561,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074",
  "tags": [
   "author=Chris Williams",

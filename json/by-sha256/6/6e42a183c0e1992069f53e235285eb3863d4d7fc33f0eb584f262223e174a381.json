@@ -4,27 +4,89 @@
  ],
  "files": {
   "dopa.bat": {
-   "filesize": 27,
-   "timestamp": "2016-04-02"
+   "sha256": "742ae21deb9daa66337732c0e4bce4adba1590195031da7bae4d8cb46a6fbc80",
+   "size": 27,
+   "timestamp": "2016-04-02T14:07:20.000Z"
   },
   "dopa_readme.txt": {
-   "filesize": 1175,
-   "timestamp": "2016-06-22"
+   "sha256": "9477c54121ac677b9e843085b6e97b4b7fa9e961a6227d080ffc1e11a2463c5c",
+   "size": 1175,
+   "timestamp": "2016-06-22T07:47:38.000Z"
   },
   "pak0.pak": {
-   "filesize": 18557329,
-   "timestamp": "2016-06-21"
+   "files": {
+    "demo1.dem": {
+     "sha256": "fe8c4e8bdcb7feddec368bcaf810525191e2f5d9bdb53ba85b0e16e176f77637",
+     "size": 621186
+    },
+    "demo2.dem": {
+     "sha256": "d2bc8f22977c7b51daeb02a4acf642e6d22038538df8950fa280cb81cf2b3a37",
+     "size": 772251
+    },
+    "demo3.dem": {
+     "sha256": "867a1cec5737d8079fb2ee44612bc646012e16cc1f2f95040727776bba05528b",
+     "size": 467188
+    },
+    "maps/e5dm.bsp": {
+     "sha256": "f3c8f59a36921636d105c32cc22ce04af70f7a1e9e35856e87518265c043da1b",
+     "size": 532608
+    },
+    "maps/e5end.bsp": {
+     "sha256": "e46b9b1fcfc9d07c2153f6682660727f98eb53630697f0876db7378bf61455c5",
+     "size": 1022056
+    },
+    "maps/e5m1.bsp": {
+     "sha256": "7027f52d84b3bfdaff4cb895a15f5038ea3547eee9173d24fe68a3561631900c",
+     "size": 1746668
+    },
+    "maps/e5m2.bsp": {
+     "sha256": "69b47a1fca1d3f39e1fc327a88a92bd82f2399f34bc7905d1af98bcee68219d8",
+     "size": 2119616
+    },
+    "maps/e5m3.bsp": {
+     "sha256": "ec7adf4ebce2be8391c9d86a9176b9d02ee721682961496632f52a371681054f",
+     "size": 1321428
+    },
+    "maps/e5m4.bsp": {
+     "sha256": "39da31d0f529697870a63b8d10793a5d6b4d6d15d18cc2c956c92c03e135bfe9",
+     "size": 2328924
+    },
+    "maps/e5m5.bsp": {
+     "sha256": "456f8b79af803ec9297cf5459d5e540d29fcc5879d8ec0edcb6a9d092b2c4936",
+     "size": 2043048
+    },
+    "maps/e5m6.bsp": {
+     "sha256": "9d6b87189cb5f9bed262acd9c891e6915919cad930ce3625d0d6db2fd74a6de0",
+     "size": 1668812
+    },
+    "maps/e5m7.bsp": {
+     "sha256": "42f1a5f0b97336b00d4ceee36d715b2af259aa53b288970adfa0a27b57e9b91c",
+     "size": 1606116
+    },
+    "maps/e5m8.bsp": {
+     "sha256": "fdf2fdc832b9fa45f4b2ae26870b3b2a1cbe9f3c77e113149fc88a0225360fe3",
+     "size": 1129392
+    },
+    "maps/start.bsp": {
+     "sha256": "d633459bf1bc4cb3a9e4adf13e361752cddef915c78c4e0f5dee4546bde7f367",
+     "size": 1177128
+    }
+   },
+   "sha256": "282d916c396595eaf6c4e6b698bc9c73fe24d2a4ccb72758edd37a253df34057",
+   "size": 18557329,
+   "timestamp": "2016-06-21T20:18:06.000Z"
   },
   "quake.rc": {
-   "filesize": 298,
-   "timestamp": "2016-06-22"
+   "sha256": "87b60694fe729f0aca34094cee969fa412bc23465f67e3f7cc0fbb6a55678b16",
+   "size": 298,
+   "timestamp": "2016-06-22T07:46:42.000Z"
   }
  },
  "filesize": 6915,
  "install": {
   "extract": "{quake}/dopa/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "6e42a183c0e1992069f53e235285eb3863d4d7fc33f0eb584f262223e174a381",
  "tags": [
   "author=J.F.Gustafsson",

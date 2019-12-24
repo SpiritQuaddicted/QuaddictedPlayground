@@ -4,23 +4,26 @@
  ],
  "files": {
   "mospq1.txt": {
-   "filesize": 2343,
-   "timestamp": "1999-10-08"
+   "sha256": "46dbb7d67bde686afbf529c203812cc1c4cf77670720edf2203d03f18d886ebf",
+   "size": 2343,
+   "timestamp": "1999-10-08T22:20:30.000Z"
   },
   "pak0.PAK": {
-   "filesize": 4366721,
-   "timestamp": "1999-10-08"
+   "sha256": "1c539214dad331f5a159e5a957d9f61bc88847c4a82e3829441d689dc36d5dd3",
+   "size": 4366721,
+   "timestamp": "1999-10-08T22:23:40.000Z"
   },
   "readme.txt": {
-   "filesize": 420,
-   "timestamp": "1999-10-08"
+   "sha256": "100a87b5f60ace79bb650bc4aba8d96412e662963e4491cf26c113bbdfc01a13",
+   "size": 420,
+   "timestamp": "1999-10-08T22:20:48.000Z"
   }
  },
  "filesize": 1524,
  "install": {
   "extract": "{quake}/mospq1/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "cc614914fc11e452e048301325f520a3cb3da6e530b6789f666f0f070fb45034",
  "tags": [
   "author=Tuomo \"Morpheus\" Tomperi",

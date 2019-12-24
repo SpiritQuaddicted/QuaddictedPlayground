@@ -3,116 +3,509 @@
   "honey.zip"
  ],
  "files": {
+  "honey/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2012-03-31T13:26:48.000Z"
+  },
   "honey/honey.txt": {
-   "filesize": 3235,
-   "timestamp": "2012-03-30"
+   "sha256": "2438370a338edcaf5d3f3e59d43e18e5908432f1f3fc871ae1d5c1bf2598f225",
+   "size": 3235,
+   "timestamp": "2012-03-30T18:48:44.000Z"
+  },
+  "honey/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2012-03-31T13:26:48.000Z"
   },
   "honey/maps/bm_brkceil.bsp": {
-   "filesize": 45316,
-   "timestamp": "2011-09-14"
+   "sha256": "8aad1b77b7a80497d89b33f325d90ba70334be8e0b85a1fe732e35d903800bdd",
+   "size": 45316,
+   "timestamp": "2011-09-14T17:45:22.000Z"
   },
   "honey/maps/bm_brkceil2.bsp": {
-   "filesize": 45292,
-   "timestamp": "2011-09-15"
+   "sha256": "a52088134578967c9a232783229c11f40b5a63022629f41e4e54d994073dc67b",
+   "size": 45292,
+   "timestamp": "2011-09-15T20:55:36.000Z"
   },
   "honey/maps/bm_chain.bsp": {
-   "filesize": 119976,
-   "timestamp": "2012-03-06"
+   "sha256": "c341a11442934a817bf3322926f322596312f40b9ba5e3d5a49947a5d64c21d1",
+   "size": 119976,
+   "timestamp": "2012-03-06T00:57:46.000Z"
   },
   "honey/maps/bm_chain2.bsp": {
-   "filesize": 422040,
-   "timestamp": "2012-03-06"
+   "sha256": "1592e36a5a8eb21bc4ded69fa97d0541d79f5e11bb5dabcc1015ca7f3ae54007",
+   "size": 422040,
+   "timestamp": "2012-03-06T00:57:48.000Z"
   },
   "honey/maps/credits.bsp": {
-   "filesize": 2076952,
-   "timestamp": "2012-03-20"
+   "sha256": "052881300bec24e151162f45bc1a23d3a16d27f25a5da0aedd0e879d63c82c9c",
+   "size": 2076952,
+   "timestamp": "2012-03-20T22:34:42.000Z"
   },
   "honey/maps/h_end.bsp": {
-   "filesize": 3642008,
-   "timestamp": "2012-03-20"
+   "sha256": "9b7f58f4e83ba311cd3a7021db547ae1252ba182b33563e3bce1c18bc5da5037",
+   "size": 3642008,
+   "timestamp": "2012-03-20T02:36:22.000Z"
   },
   "honey/maps/h_hub1.bsp": {
-   "filesize": 3148300,
-   "timestamp": "2012-03-15"
+   "sha256": "86914e1487a7f2606ebc299bad2561de2a8db1327a6642e423fbef5af0bc03b7",
+   "size": 3148300,
+   "timestamp": "2012-03-15T02:01:20.000Z"
   },
   "honey/maps/h_hub2.bsp": {
-   "filesize": 2035576,
-   "timestamp": "2012-03-15"
+   "sha256": "e5f4694dd428f64851688fa7defdb80bf0f426d9c1c08280cf9e8cd15fcfcfcd",
+   "size": 2035576,
+   "timestamp": "2012-03-15T01:59:18.000Z"
   },
   "honey/maps/honey.bsp": {
-   "filesize": 6772020,
-   "timestamp": "2012-03-30"
+   "sha256": "e109d5a620dbbc29cebb1da8d83dfb3fcdff20b0c8cc23a9671a56640d420685",
+   "size": 6772020,
+   "timestamp": "2012-03-30T09:23:50.000Z"
   },
   "honey/maps/saint.bsp": {
-   "filesize": 8696000,
-   "timestamp": "2012-03-30"
+   "sha256": "e1b549229719bfa6ab1c1383030edee9805af4161637f67bcc517372d0a36eeb",
+   "size": 8696000,
+   "timestamp": "2012-03-30T11:20:36.000Z"
   },
   "honey/maps/start.bsp": {
-   "filesize": 5254176,
-   "timestamp": "2012-03-30"
+   "sha256": "39e5d9aacdca1aa31705014fd503e482237fa03c03e678d884b7983f13917462",
+   "size": 5254176,
+   "timestamp": "2012-03-30T05:03:44.000Z"
   },
   "honey/progs.dat": {
-   "filesize": 530464,
-   "timestamp": "2012-03-28"
+   "sha256": "f8d3da4b25c95fbd81976e4b56ce3a3f35bc6924da31a0bb675fac16ec478609",
+   "size": 530464,
+   "timestamp": "2012-03-28T19:22:20.000Z"
+  },
+  "honey/progs/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2012-03-31T13:26:48.000Z"
   },
   "honey/progs/candle.mdl": {
-   "filesize": 24135,
-   "timestamp": "2009-03-22"
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "size": 24135,
+   "timestamp": "2009-03-22T14:53:12.000Z"
   },
   "honey/progs/mogre.mdl": {
-   "filesize": 223236,
-   "timestamp": "2012-03-20"
+   "sha256": "e62133bcf5441f5158e1274153907233ced8e7af24cb5777fd9f67a85deeed92",
+   "size": 223236,
+   "timestamp": "2012-03-20T20:50:08.000Z"
   },
   "honey/progs/s_light2.spr": {
-   "filesize": 1080,
-   "timestamp": "2012-03-26"
+   "sha256": "67944dccc4bc9b757b5c67f34f41892a8b71c6b067bc853c65f5c35fe23594a3",
+   "size": 1080,
+   "timestamp": "2012-03-26T21:09:58.000Z"
   },
   "honey/progs/tree1.mdl": {
-   "filesize": 79768,
-   "timestamp": "2012-01-09"
+   "sha256": "43f2a47f4ff2efec1b78ddcab2043b7fc4b3c371d45a3a6d3577a57622b3d728",
+   "size": 79768,
+   "timestamp": "2012-01-09T18:34:46.000Z"
+  },
+  "honey/sound/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2012-03-31T13:26:48.000Z"
+  },
+  "honey/sound/honey/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2012-03-31T13:26:48.000Z"
   },
   "honey/sound/honey/blaahd.wav": {
-   "filesize": 202702,
-   "timestamp": "2012-01-17"
+   "sha256": "a2d55c25afb3f88bfdbc7481622c5eb3045fd01feaefc8718f802e91e0d1d2a2",
+   "size": 202702,
+   "timestamp": "2012-01-17T16:12:28.000Z"
   },
   "honey/sound/honey/machine.wav": {
-   "filesize": 598018,
-   "timestamp": "2012-01-17"
+   "sha256": "4648dc989baed4d35345317c9d8ef0c2dda10dff30c5c25a5cc3e2dbdca66a36",
+   "size": 598018,
+   "timestamp": "2012-01-17T20:17:18.000Z"
   },
   "honey/sound/honey/muzak4.wav": {
-   "filesize": 5356206,
-   "timestamp": "2008-08-20"
+   "sha256": "1cd024d20010daa67c79cac74745fcd6004732c02b413133b9eab85f61f2b17e",
+   "size": 5356206,
+   "timestamp": "2008-08-20T00:02:58.000Z"
   },
   "honey/sound/honey/q2watr.wav": {
-   "filesize": 202850,
-   "timestamp": "2000-08-20"
+   "sha256": "ad44953f1ae8e73bde31ab6d5cdadda4315965a90ccb468dbd8905c561cf8e76",
+   "size": 202850,
+   "timestamp": "2000-08-20T07:01:42.000Z"
   },
   "honey/sound/honey/ting1.wav": {
-   "filesize": 169026,
-   "timestamp": "2012-02-10"
+   "sha256": "47551160964d61d4614bfa6e18a90c9279f65fdde35335a743106a90757525fc",
+   "size": 169026,
+   "timestamp": "2012-02-10T00:27:22.000Z"
   },
   "honey/sound/honey/ting2.wav": {
-   "filesize": 169072,
-   "timestamp": "2012-02-10"
+   "sha256": "f912af7700c606f69c811ad44c3ca76ec257aa2843d0b1dcf9b33cb20f739aa9",
+   "size": 169072,
+   "timestamp": "2012-02-10T00:27:42.000Z"
   },
   "honey/sound/honey/ting3.wav": {
-   "filesize": 169220,
-   "timestamp": "2012-02-10"
+   "sha256": "2ffbd0aa20f125336cd824c7266a0323171334e45006db3cfc73331c6e155efd",
+   "size": 169220,
+   "timestamp": "2012-02-10T00:28:04.000Z"
   },
   "honey/sound/honey/ting4.wav": {
-   "filesize": 169576,
-   "timestamp": "2012-02-10"
+   "sha256": "c83254976fefb0dfe730b9fa231bbef0cdec8cfa6643724d0a40a450974bc8d0",
+   "size": 169576,
+   "timestamp": "2012-02-10T00:28:50.000Z"
   },
   "honey/src.zip": {
-   "filesize": 3489846,
-   "timestamp": "2012-03-30"
+   "files": {
+    "maps_src/": {
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "size": 0,
+     "timestamp": "2012-03-30T18:48:56.000Z"
+    },
+    "maps_src/bm_brkceil.map": {
+     "sha256": "c800b3168b4100b15185ba70c05bc3ece29de232ff803ee23ab1590cf73b136d",
+     "size": 10371,
+     "timestamp": "2011-09-14T17:45:22.000Z"
+    },
+    "maps_src/bm_brkceil.xmp": {
+     "sha256": "48fd199e88c660c50ec9b333bb8c47d555e9f885a450050e17f66d3677e29366",
+     "size": 7067,
+     "timestamp": "2011-09-14T17:41:32.000Z"
+    },
+    "maps_src/bm_brkceil2.map": {
+     "sha256": "51bd3e59aed823b0fb2131233497ffb0dea8896e692a657a285f99c2c7db9125",
+     "size": 9332,
+     "timestamp": "2011-09-15T20:55:36.000Z"
+    },
+    "maps_src/bm_brkceil2.xmp": {
+     "sha256": "92b48b80ede0a3c4375ac06ee32bf0374562eb3883160cf2245c5e97e018bfca",
+     "size": 7236,
+     "timestamp": "2011-09-15T20:55:24.000Z"
+    },
+    "maps_src/bm_chain.map": {
+     "sha256": "358302cac8e06ddda4d2aca2c11b9ecbccde17848c3aec6f22602425815c8d2b",
+     "size": 116594,
+     "timestamp": "2012-03-06T00:57:46.000Z"
+    },
+    "maps_src/bm_chain.xmp": {
+     "sha256": "7311db476287bf45880fa7d1b57d41751c2c9737ef3c22f3db659c7188f9421b",
+     "size": 81928,
+     "timestamp": "2012-02-28T22:48:18.000Z"
+    },
+    "maps_src/bm_chain2.map": {
+     "sha256": "3f4bcd937aac08d9f2c6bf892a6fb018ca76c6fda890d86979dea3d42bb9bb1f",
+     "size": 64969,
+     "timestamp": "2012-03-06T00:57:48.000Z"
+    },
+    "maps_src/bm_chain2.xmp": {
+     "sha256": "f665ef3cd58808c8e9063a544500cf3f88f2ba65fc3cc2b7bd31496fd81e2fb0",
+     "size": 36490,
+     "timestamp": "2012-03-06T00:57:38.000Z"
+    },
+    "maps_src/credits.map": {
+     "sha256": "7a0bec488f2bc1444a46175d8a451b5c9b998741d3555316cc0a3046398ad2e4",
+     "size": 928222,
+     "timestamp": "2012-03-20T22:34:38.000Z"
+    },
+    "maps_src/credits.xmp": {
+     "sha256": "50a22d633972da76e92069e408cdbdc5a91969318f2ece734820e91a007fc21c",
+     "size": 538784,
+     "timestamp": "2012-02-09T20:21:40.000Z"
+    },
+    "maps_src/h_end.map": {
+     "sha256": "b5b0dbb224d19c74c3cb0a5c19827ea8f21f6b1550e388d1682be3ae649b1dd8",
+     "size": 3624426,
+     "timestamp": "2012-03-19T21:25:36.000Z"
+    },
+    "maps_src/h_end.xmp": {
+     "sha256": "00eeb5ffdea906ba1ce11bb076954a2cafa9b613beb59d6d398160791b8c3a11",
+     "size": 2127300,
+     "timestamp": "2012-03-19T21:24:04.000Z"
+    },
+    "maps_src/h_hub1.map": {
+     "sha256": "6d7d55d4caca4a7b6293606e2f654c476e393143c961bb9a87aacfc70876123d",
+     "size": 2374900,
+     "timestamp": "2012-03-15T01:59:22.000Z"
+    },
+    "maps_src/h_hub1.xmp": {
+     "sha256": "35e2715012670ad9cac8b47d9b6b2907ec7841d06f9feaa7d11c27d505398418",
+     "size": 1396979,
+     "timestamp": "2012-03-14T23:43:56.000Z"
+    },
+    "maps_src/h_hub2.map": {
+     "sha256": "1038b48b731e338c020e072ad336b56d2fd3acb3b249ad17671fcfb701408f4b",
+     "size": 2059420,
+     "timestamp": "2012-03-15T01:57:40.000Z"
+    },
+    "maps_src/h_hub2.xmp": {
+     "sha256": "d9151f4b3d88fbd88fdff1f583b830dfc2ed947aa0d2b7ef656aae09a9f7523f",
+     "size": 1200900,
+     "timestamp": "2012-02-04T17:39:02.000Z"
+    },
+    "maps_src/honey-mapsrc-license.txt": {
+     "sha256": "feb0ebfcd93b854fe6366f59fc76cde21e36717ea31137e4c5049d80fb7d1696",
+     "size": 754,
+     "timestamp": "2012-02-28T01:00:28.000Z"
+    },
+    "maps_src/honey.map": {
+     "sha256": "b3f91a6d602b0325c2f6b80e8ccb9aa28b43bf46ac158a5e605e5f1937b1a137",
+     "size": 8455911,
+     "timestamp": "2012-03-30T09:09:32.000Z"
+    },
+    "maps_src/honey.xmp": {
+     "sha256": "a8e4a76b900cd48aa93a54e62d53f16ae6b702a24e3dfbb551d12c4b0ac2c261",
+     "size": 4877161,
+     "timestamp": "2012-03-30T09:09:06.000Z"
+    },
+    "maps_src/saint.map": {
+     "sha256": "914fe2e19cf7a305e89435f4ff2bc612dcb7e53bc038dc347f907f795252bce6",
+     "size": 9318028,
+     "timestamp": "2012-03-30T09:24:02.000Z"
+    },
+    "maps_src/saint.xmp": {
+     "sha256": "bab9d2acede2fba37249a9735cf928df40a18001c181972fa263a015693ff5c5",
+     "size": 5675756,
+     "timestamp": "2012-03-30T09:08:16.000Z"
+    },
+    "maps_src/start.map": {
+     "sha256": "f535148cf09bd2bf1986003adcca90c4682524cf22e7b842671fb37005cd506c",
+     "size": 4529211,
+     "timestamp": "2012-03-29T19:24:28.000Z"
+    },
+    "maps_src/start.xmp": {
+     "sha256": "0de1fa73c779427e40a43dbf48d0d4e29b1d9795061089a7f2adccd2d71d4b65",
+     "size": 2671292,
+     "timestamp": "2012-03-29T19:23:50.000Z"
+    },
+    "src/": {
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "size": 0,
+     "timestamp": "2012-03-30T18:43:06.000Z"
+    },
+    "src/ai.qc": {
+     "sha256": "2305d443ea79d56637b34bf3f9b7bf806da721815e685802e7ed208354dfbb0d",
+     "size": 17088,
+     "timestamp": "2012-03-20T21:56:42.000Z"
+    },
+    "src/boss.qc": {
+     "sha256": "9d52785c9ce962b9aaf38874b30c2cf6f92e148f8ded9bbfd7a04fbafae14fba",
+     "size": 12445,
+     "timestamp": "2012-02-12T19:11:30.000Z"
+    },
+    "src/buttons.qc": {
+     "sha256": "0eb69da8b204510d2125dfb317018a2e25e76354e3af40cd2d0ca785cd62d794",
+     "size": 4458,
+     "timestamp": "2012-02-05T02:27:52.000Z"
+    },
+    "src/client.qc": {
+     "sha256": "077a37445fbe4708159b1d3d125c5e5b2faddf923574d9f950b60908e6f3583c",
+     "size": 33935,
+     "timestamp": "2012-03-20T21:04:38.000Z"
+    },
+    "src/combat.qc": {
+     "sha256": "fff7fa911b960bc54e0941231e55cc780df76a80dc3993c1163de15404baad88",
+     "size": 6325,
+     "timestamp": "2012-03-20T21:02:46.000Z"
+    },
+    "src/defs.qc": {
+     "sha256": "8a8f34621f9e869359a418e6eea8839ed31497554f88fa404b9f697522ee1fef",
+     "size": 19072,
+     "timestamp": "2012-03-28T19:22:18.000Z"
+    },
+    "src/demon.qc": {
+     "sha256": "e8ce2877230fc8fca3ba220e79d1eba7fd65b9b01c94725ed776610177bfa2da",
+     "size": 11084,
+     "timestamp": "2012-03-20T21:06:14.000Z"
+    },
+    "src/dog.qc": {
+     "sha256": "8fc9ded9588ef78913de19971be3c79d2771335191a5dd699c5c7ea2d3ba4135",
+     "size": 10708,
+     "timestamp": "2012-03-20T21:09:08.000Z"
+    },
+    "src/doors.qc": {
+     "sha256": "881dd8765c3711b1d34c73464b2cf45b1d3858b46f3ec55c1ea8493c2a267ca6",
+     "size": 18421,
+     "timestamp": "2012-03-18T17:00:12.000Z"
+    },
+    "src/endcam.qc": {
+     "sha256": "580fd9f8571a7af58d92f10a76700dad2b5896d62804227ec29956c27d50f68d",
+     "size": 5436,
+     "timestamp": "2012-03-20T22:47:44.000Z"
+    },
+    "src/enforcer.qc": {
+     "sha256": "315c51e8a1d0934ebcd1901a9853bd3ca373c4c8387318bed818a81ee1e8118d",
+     "size": 11890,
+     "timestamp": "2012-03-20T21:09:36.000Z"
+    },
+    "src/fight.qc": {
+     "sha256": "e832ef236b2702026aa465a05b902e0f2debc070db6516f4e4c94074b4a83e48",
+     "size": 8258,
+     "timestamp": "2011-09-21T17:41:34.000Z"
+    },
+    "src/fish.qc": {
+     "sha256": "d19c8da356f56380e7c401eb02d86d54510de3ecc5cb0c30375c4dadcd8227ec",
+     "size": 8857,
+     "timestamp": "2012-03-20T21:10:10.000Z"
+    },
+    "src/hknight.qc": {
+     "sha256": "0ad0a6bf231ba3c1bac97354af2425624b6732a01836e6009bb285c6672a70b0",
+     "size": 19560,
+     "timestamp": "2012-03-20T21:33:08.000Z"
+    },
+    "src/honey_fog.qc": {
+     "sha256": "7c70a256e6c2d7b5345cd02b9b5c9eb6373ea1af5925e5cdd262bf711c248201",
+     "size": 9878,
+     "timestamp": "2012-02-28T23:10:30.000Z"
+    },
+    "src/honey_fog_debug.qc": {
+     "sha256": "0527f944d9118d353485367df11af97fd65bc737648c0019d806f099f6f3a54b",
+     "size": 2738,
+     "timestamp": "2012-03-28T18:37:46.000Z"
+    },
+    "src/honey_misc.qc": {
+     "sha256": "b4a3e3b70f039cc475b702e77f12d2ebc9e241a920ea26997678db3f21bbab03",
+     "size": 26391,
+     "timestamp": "2012-03-14T23:29:58.000Z"
+    },
+    "src/items.qc": {
+     "sha256": "6de5d0f21f94c76aca93f5c0791e2b140f7fc835fe705b5b7687d66b45b59c56",
+     "size": 29473,
+     "timestamp": "2012-03-18T17:11:20.000Z"
+    },
+    "src/knight.qc": {
+     "sha256": "660d393ac0298401e0724e6e761e89f2ee5f5cb5b7998f80a957fd3b0a50459e",
+     "size": 10858,
+     "timestamp": "2012-03-20T21:32:56.000Z"
+    },
+    "src/misc.qc": {
+     "sha256": "1fcd8d61d28a1f85615a4d0718f295eb67129cea153ed1936bf3da5c3c649229",
+     "size": 19397,
+     "timestamp": "2012-03-14T23:25:00.000Z"
+    },
+    "src/models.qc": {
+     "sha256": "d11fd0939293244962c5a40766e1dce246bde98eb0d42c87eb530a58d6eca64d",
+     "size": 8996,
+     "timestamp": "1996-09-26T12:15:40.000Z"
+    },
+    "src/monsters.qc": {
+     "sha256": "53990bedcd3f9bca09be3470a5bb90eae58e862965ac8f456ad28efce5208843",
+     "size": 7666,
+     "timestamp": "2012-03-26T20:09:14.000Z"
+    },
+    "src/newSubs.qc": {
+     "sha256": "fb29622535f9e885e15003b9071ac4099c34e08bdf4e4d4aa08eb7ee1b9643bc",
+     "size": 20773,
+     "timestamp": "2012-03-23T22:02:38.000Z"
+    },
+    "src/ogre.qc": {
+     "sha256": "24eb0885f9d387c20872541d74085f1ddb883861ab892a25aeba7e7efc4efd7d",
+     "size": 19672,
+     "timestamp": "2012-03-26T21:27:50.000Z"
+    },
+    "src/oldone.qc": {
+     "sha256": "0deecf87b5cef98a5365fa335a17ff81ce6ad2eb80f4335e677f9df0d6de49d9",
+     "size": 9529,
+     "timestamp": "2008-08-16T21:38:40.000Z"
+    },
+    "src/plats.qc": {
+     "sha256": "c45b40391be71bec65b7fc0a4181507e8ddc18333c2a0cf986080c212e51699d",
+     "size": 7761,
+     "timestamp": "2010-01-31T12:44:18.000Z"
+    },
+    "src/player.qc": {
+     "sha256": "1ccedc311078d47aac26d46a9bbe35ec63cfaf4972950cc73abd2cbb79966e0f",
+     "size": 17689,
+     "timestamp": "2012-03-09T22:37:28.000Z"
+    },
+    "src/progs.src": {
+     "sha256": "1e1ef456621a6753b7d1f95bf5cb7deec39bcbd877b52d7b790536ab0f6a1f9e",
+     "size": 428,
+     "timestamp": "2012-03-28T18:11:14.000Z"
+    },
+    "src/readme.txt": {
+     "sha256": "d2535b966181ae2c2b37ad7ae55e1a5a1f9d127d0395da93f42364594a59c3a3",
+     "size": 1121,
+     "timestamp": "2012-03-28T18:46:38.000Z"
+    },
+    "src/shalrath.qc": {
+     "sha256": "ba6a453da2105f6229d6decae36f5e81a0bb90cf8205e8a1132cd5b843e16e2a",
+     "size": 8979,
+     "timestamp": "2012-03-20T21:34:06.000Z"
+    },
+    "src/shambler.qc": {
+     "sha256": "10396bd8c51ef11bbc1755945eee23d8ecf03054408e7e312f4b59dfcbcd6d91",
+     "size": 13896,
+     "timestamp": "2012-03-20T21:35:46.000Z"
+    },
+    "src/sknight.qc": {
+     "sha256": "a993e477d22c71681661d3958548280cdf031d6862e3aa630a57867f964757b3",
+     "size": 9164,
+     "timestamp": "2012-03-20T21:40:12.000Z"
+    },
+    "src/sknight_debug.qc": {
+     "sha256": "cc768515520cea22ed8d33d9f8a8d889cc24e447703100717e2f61a32805777b",
+     "size": 5637,
+     "timestamp": "2011-07-30T16:33:06.000Z"
+    },
+    "src/sknight_tbl.qc": {
+     "sha256": "184e4703c3c8de1429fa78168b2534bedea0bc7a0bf14ace7b9541529b0d8eab",
+     "size": 2373,
+     "timestamp": "2011-07-30T16:42:56.000Z"
+    },
+    "src/soldier.qc": {
+     "sha256": "8fa0f2c378bfda1ab802b8c13c3fd995460af4d8b57b182951f946007b994bc8",
+     "size": 11020,
+     "timestamp": "2012-03-26T20:09:22.000Z"
+    },
+    "src/sprites.qc": {
+     "sha256": "c00564e7ca0ab70d7891931ff333461ff90aa6052f46e8ebb02f59de6e03787d",
+     "size": 450,
+     "timestamp": "1996-09-26T12:15:40.000Z"
+    },
+    "src/subs.qc": {
+     "sha256": "8a4b33e05d0dc2ba52923de72f1e0a8dbe6459214b91db6b325cbab35b57b79b",
+     "size": 9070,
+     "timestamp": "2012-03-23T22:02:16.000Z"
+    },
+    "src/tarbaby.qc": {
+     "sha256": "0ad48b14e7313beda1e66536888f0903ffad17a780ba58b02baba8204203ae52",
+     "size": 8777,
+     "timestamp": "2012-03-20T21:37:08.000Z"
+    },
+    "src/triggers.qc": {
+     "sha256": "1abf9ea1e76f20e85e1bff99385114d1831e3943db7682b6f44b6f282c9ad6b0",
+     "size": 17020,
+     "timestamp": "2012-03-15T18:22:12.000Z"
+    },
+    "src/weapons.qc": {
+     "sha256": "ca51c059db8fec044db62361a4b18775eaf52466c836d670d8994cc1ddd336d3",
+     "size": 28884,
+     "timestamp": "2012-03-28T18:37:48.000Z"
+    },
+    "src/wizard.qc": {
+     "sha256": "40217bcbfa50cca863579c1e4f6411ad1a7b370ab485285bf5446c029248ca29",
+     "size": 11912,
+     "timestamp": "2012-03-20T21:37:52.000Z"
+    },
+    "src/world.qc": {
+     "sha256": "eb71f4a8c9368bfc60e52211a5eddf5e49704d71bdf357e0b98ba6ebc8d829a2",
+     "size": 11345,
+     "timestamp": "2012-02-10T00:38:20.000Z"
+    },
+    "src/zombie.qc": {
+     "sha256": "be830c56f323ede59dde17208a448be9f5c42fa4cb0a90cca366d7f5b4201513",
+     "size": 21420,
+     "timestamp": "2012-03-20T21:39:00.000Z"
+    }
+   },
+   "sha256": "4c8a3b06c43a0e931bdad87b66c132cb1649f7f07f427f760329f5bdba80825c",
+   "size": 3489846,
+   "timestamp": "2012-03-30T18:48:58.000Z"
   }
  },
  "filesize": 20980,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "323d08307455a302ace09f33d47e558c73e35c5e0409e81531ad0b27d561b0d9",
  "tags": [
   "author=czg",

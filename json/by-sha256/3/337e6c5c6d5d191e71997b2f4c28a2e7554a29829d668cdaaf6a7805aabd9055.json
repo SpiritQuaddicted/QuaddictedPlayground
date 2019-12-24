@@ -3,36 +3,72 @@
   "doom-pope_tra.zip"
  ],
  "files": {
+  "tra/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-02-16T13:29:02.000Z"
+  },
   "tra/Readme.txt": {
-   "filesize": 285,
-   "timestamp": "2019-02-20"
+   "sha256": "55a153a7265d3bb7544cd0345b1f4a45c54465525de0a12be33b9e8230aea84a",
+   "size": 285,
+   "timestamp": "2019-02-20T00:41:16.000Z"
+  },
+  "tra/Source/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-02-20T00:36:12.000Z"
   },
   "tra/Source/tra.map": {
-   "filesize": 657220,
-   "timestamp": "2019-02-20"
+   "sha256": "cf65c3f96b9c9ce2d067e762491d7034cfb65b6d10fe3eb34dbd06fae0da2c88",
+   "size": 657220,
+   "timestamp": "2019-02-20T00:34:48.000Z"
+  },
+  "tra/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-02-16T13:28:54.000Z"
   },
   "tra/maps/tra.bsp": {
-   "filesize": 1721808,
-   "timestamp": "2019-02-20"
+   "sha256": "cb92d441c051cbbc51134f3d43172857367a6f1e3f7fa61649d4357218d88778",
+   "size": 1721808,
+   "timestamp": "2019-02-20T00:35:54.000Z"
   },
   "tra/progs.dat": {
-   "filesize": 350286,
-   "timestamp": "2018-09-25"
+   "sha256": "f412208cc6380044845951862198db084b9b228bb3474add2bbfcceb9df39ee6",
+   "size": 350286,
+   "timestamp": "2018-09-25T22:32:40.000Z"
+  },
+  "tra/progs/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-02-14T15:18:34.000Z"
   },
   "tra/progs/s_flame.spr": {
-   "filesize": 29224,
-   "timestamp": "2018-08-17"
+   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
+   "size": 29224,
+   "timestamp": "2018-08-17T20:00:44.000Z"
+  },
+  "tra/sound/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-02-14T15:10:08.000Z"
+  },
+  "tra/sound/dump/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-02-14T15:10:08.000Z"
   },
   "tra/sound/dump/water_59_02.wav": {
-   "filesize": 47588,
-   "timestamp": "2018-09-17"
+   "sha256": "497d1f4ed49567058da6e2618097a06c947f8131a8205f2c9c09219296780cad",
+   "size": 47588,
+   "timestamp": "2018-09-17T19:59:10.000Z"
   }
  },
  "filesize": 939,
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "337e6c5c6d5d191e71997b2f4c28a2e7554a29829d668cdaaf6a7805aabd9055",
  "tags": [
   "author=Doom-pope",

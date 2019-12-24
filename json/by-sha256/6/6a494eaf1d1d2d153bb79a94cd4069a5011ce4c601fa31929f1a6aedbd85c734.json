@@ -3,40 +3,211 @@
   "simmer2.zip"
  ],
  "files": {
+  "simmer/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2002-08-12T15:04:20.000Z"
+  },
   "simmer/GLsimmer.bat": {
-   "filesize": 67,
-   "timestamp": "2002-08-11"
+   "sha256": "7e8804f42b509bcf35ccce99348aeccbb25f47e92458f63169335e2fd35cc0d6",
+   "size": 67,
+   "timestamp": "2002-08-11T07:49:20.000Z"
   },
   "simmer/Pak0.pak": {
-   "filesize": 1500888,
-   "timestamp": "2002-08-11"
+   "files": {
+    "gfx/conback.lmp": {
+     "sha256": "03210a3ac0a8fa16688ccdfe72cc20e59e698e0d970d6b4934e2e8e8021569ab",
+     "size": 64008
+    },
+    "progs/beam.mdl": {
+     "sha256": "2165a66ba1d40fa378df735835b014791e769cb8bc56e06977aefdf134bb61d5",
+     "size": 10608
+    },
+    "progs/beamhit.spr": {
+     "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54",
+     "size": 5320
+    },
+    "progs/bs_light.mdl": {
+     "sha256": "6c646ab4291d12aecdad5d9af4c44f4d68fc207c730dbf3ac04e07103cdd2c12",
+     "size": 28707
+    },
+    "progs/buzzsaw.mdl": {
+     "sha256": "9b85232f930a7e34ef4cd1abfa266bcfa09b8da9e3f96f875d89e56ff702b403",
+     "size": 28716
+    },
+    "progs/camera.mdl": {
+     "sha256": "afbb9ddbbb0d9a7509a555289d2517bb94991f6a0c4d8f2b5cf508794485c82c",
+     "size": 33528
+    },
+    "progs/candle.mdl": {
+     "sha256": "f3193191ab17b7186f623ef26d1a1bc66c3db35ed7cc63cbce6f910ec1a601b5",
+     "size": 21476
+    },
+    "progs/csm_cpit.mdl": {
+     "sha256": "17c3aefc3c13035e45aec9befe0bf6722d163637aa56f18c3bec23c838dd5978",
+     "size": 4424
+    },
+    "progs/dedturet.mdl": {
+     "sha256": "8a0f9e57646d4f443b0b28a5d054b5f78d98dc52e3797ef42fb9dec1c6d87b96",
+     "size": 53268
+    },
+    "progs/dring.spr": {
+     "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+     "size": 1080
+    },
+    "progs/frame.mdl": {
+     "sha256": "c033f1d4dabaa36e34b58884d4b45d3a74c587893debaa362c83b286ff7d2c62",
+     "size": 24293
+    },
+    "progs/g_beam.mdl": {
+     "sha256": "db2566d26863472c6176c91b2256c12b5fdd28b5e1ba0a3ff2aa9e122ed0cacb",
+     "size": 68996
+    },
+    "progs/h_turret.mdl": {
+     "sha256": "cd09fc309437b5930d500d4832d1eae7ab7ffa521b0b3eba953e63341326c276",
+     "size": 21812
+    },
+    "progs/lantern.mdl": {
+     "sha256": "362ff3c50031d80b46a11c3d1902fe1cc3d442cd13b7db59f6d46c5655fc9351",
+     "size": 15092
+    },
+    "progs/pendulum.mdl": {
+     "sha256": "0970c838e4246a47d0b39395af03754a06dcb5878830233413e6fc893cf80599",
+     "size": 44128
+    },
+    "progs/rubble1.mdl": {
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
+     "size": 69839
+    },
+    "progs/rubble2.mdl": {
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
+     "size": 200266
+    },
+    "progs/rubble3.mdl": {
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
+     "size": 69839
+    },
+    "progs/s_null.spr": {
+     "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+     "size": 1080
+    },
+    "progs/soldier.mdl": {
+     "sha256": "563057a41f47a8462482bfded02558efe662d427970afd9b877879dd46389bd5",
+     "size": 146288
+    },
+    "progs/turetgib.mdl": {
+     "sha256": "01caa25c4d2ebcfd4bde7d8db73331001f9d3c4d61504529f9f405c70800c906",
+     "size": 9172
+    },
+    "progs/turret.mdl": {
+     "sha256": "e50bc0e32b38751eb8cd618c0996c52e9f7d1033f8d484e18fe1fa6f6b365cdf",
+     "size": 67692
+    },
+    "progs/v_beam.mdl": {
+     "sha256": "c00fe7872cb2c88626e63d99c3cc00b83f9968803344cd2021e8fc26bd25ccba",
+     "size": 75588
+    },
+    "sound/ambience/wind2.wav": {
+     "sha256": "502bf52da66ce8a3ad7826685b6cb759a31004db0ddb213cd48fc9c0a3e2705e",
+     "size": 92444
+    },
+    "sound/ambient/cpu1.wav": {
+     "sha256": "8f0b65a9d7c9495999632d51b6c9b918b3f922a6031404318b76f7c88aa12aa5",
+     "size": 72606
+    },
+    "sound/ambient/gener3.wav": {
+     "sha256": "a6d9025cea55fc1c2b4bf993aa71a836e7d8ae04185b34f879826718fcc07d94",
+     "size": 18260
+    },
+    "sound/ambient/under.wav": {
+     "sha256": "e5ccf747813d6bb9cf40d90dc54dcd9851ff6ecdaf49dc87e0254b36dc2c0c4a",
+     "size": 15722
+    },
+    "sound/buzz/buzz.wav": {
+     "sha256": "9f6bbc6cd33beb735c81ed86da32356f65fa90aeb2792489aaed97e41b201227",
+     "size": 26568
+    },
+    "sound/buzz/buzz1.wav": {
+     "sha256": "f9aa4cbaef41e71e9711e4d54c3714dd784068ab60993c382e07c684fe456e37",
+     "size": 18828
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78",
+     "size": 33914
+    },
+    "sound/misc/longexpl.wav": {
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890",
+     "size": 42430
+    },
+    "sound/misc/quakeend.wav": {
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01",
+     "size": 8160
+    },
+    "sound/misc/rublexp.wav": {
+     "sha256": "85063f2a4baed6f0944ed41e346959da06472368702e5e458867fc8a755928ba",
+     "size": 42422
+    },
+    "sound/misc/shortexp.wav": {
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc",
+     "size": 27562
+    },
+    "sound/turret/beamchrg.wav": {
+     "sha256": "d02bd7d2c4754fe3159fac83b4f0898f8b2e1f8996ce7e6cfdaa4a9d75a24fb1",
+     "size": 3962
+    },
+    "sound/turret/beamhit.wav": {
+     "sha256": "35e5e5f28a3695ed27c2b0887a1bf118643d769c457d3642016e887248fa8ca9",
+     "size": 8644
+    },
+    "sound/turret/beammode.wav": {
+     "sha256": "1589cc75daf6c3838ed7e926c205e50ceb4c21338fc1ddacae98d53a37acfbf2",
+     "size": 3664
+    },
+    "sound/turret/plasbult.wav": {
+     "sha256": "dfb145c600c2d447fee8ab89a3afe8e44cf7ae46d770c8eb42903d83a687b122",
+     "size": 18038
+    }
+   },
+   "sha256": "25b0142c53b736b16b187c2bc6f4baa296ebd7f6c4914d1e80c61639a98c4a6b",
+   "size": 1500888,
+   "timestamp": "2002-08-11T07:46:28.000Z"
+  },
+  "simmer/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2002-08-12T15:04:20.000Z"
   },
   "simmer/maps/simmer2.bsp": {
-   "filesize": 1563968,
-   "timestamp": "2002-08-06"
+   "sha256": "64f1a673500288cc376a3b50cd2b4f9cb97e0732a5207b44455af4aa8f061d53",
+   "size": 1563968,
+   "timestamp": "2002-08-06T02:59:16.000Z"
   },
   "simmer/progs.dat": {
-   "filesize": 713888,
-   "timestamp": "2002-07-17"
+   "sha256": "8e1493714adccb9a1dfd07dafc8a970c4c5769b6a858b4a5622f919fdcae031b",
+   "size": 713888,
+   "timestamp": "2002-07-17T00:54:50.000Z"
   },
   "simmer/readme.htm": {
-   "filesize": 2603,
-   "timestamp": "2002-08-06"
+   "sha256": "453ae1df2f1c07e3240b5f1788847a3bf5315821d1bf42a7f177f9278de36951",
+   "size": 2603,
+   "timestamp": "2002-08-06T02:14:48.000Z"
   },
   "simmer/simmer.bat": {
-   "filesize": 53,
-   "timestamp": "2002-08-06"
+   "sha256": "86891eba640fba2f9373b81e8b52907ab16f44e9383594059f5bcc7ec4e3b7b2",
+   "size": 53,
+   "timestamp": "2002-08-06T02:44:56.000Z"
   },
   "simmer/simmer2.jpg": {
-   "filesize": 48604,
-   "timestamp": "2002-06-29"
+   "sha256": "9fac4ffcfd98654526f8a149d8fdc358a44a6e41ccc8edd5f2bee4ed6dc14f2a",
+   "size": 48604,
+   "timestamp": "2002-06-29T03:40:42.000Z"
   }
  },
  "filesize": 1502,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "6a494eaf1d1d2d153bb79a94cd4069a5011ce4c601fa31929f1a6aedbd85c734",
  "tags": [
   "author=Qubix",

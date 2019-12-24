@@ -4,55 +4,91 @@
  ],
  "files": {
   "gsh_tod.txt": {
-   "filesize": 717,
-   "timestamp": "2018-12-02"
+   "sha256": "a8f43f46567fa03144f9be451fd20191e235228c8f53de5e76341e59a23a41d2",
+   "size": 717,
+   "timestamp": "2018-12-02T19:06:58.000Z"
+  },
+  "id1/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-12-02T21:57:38.000Z"
+  },
+  "id1/gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-12-02T21:57:38.000Z"
+  },
+  "id1/gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-12-02T21:57:50.000Z"
   },
   "id1/gfx/env/grimmnight_bk.tga": {
-   "filesize": 3145746,
-   "timestamp": "2005-08-26"
+   "sha256": "59be3026e6030ebcb4f301dc27569da94866569bd264990d5b68c0c0470be470",
+   "size": 3145746,
+   "timestamp": "2005-08-26T14:05:22.000Z"
   },
   "id1/gfx/env/grimmnight_dn.tga": {
-   "filesize": 3145746,
-   "timestamp": "2005-08-26"
+   "sha256": "6d9b33f83ccf56f92abdf2b1197ce5fa8a3979f8b40793a73219618b8f46c33d",
+   "size": 3145746,
+   "timestamp": "2005-08-26T14:05:24.000Z"
   },
   "id1/gfx/env/grimmnight_ft.tga": {
-   "filesize": 3145772,
-   "timestamp": "2005-08-26"
+   "sha256": "0e1892d4675a0630cde9a1a1453fb936b5fd4f62c97a91fde60778d94bced01f",
+   "size": 3145772,
+   "timestamp": "2005-08-26T14:17:48.000Z"
   },
   "id1/gfx/env/grimmnight_lf.tga": {
-   "filesize": 3145746,
-   "timestamp": "2005-08-26"
+   "sha256": "c69dca07d21151d7ea43527494687f3951715d692ed616af3a059f01481204cc",
+   "size": 3145746,
+   "timestamp": "2005-08-26T14:05:22.000Z"
   },
   "id1/gfx/env/grimmnight_rt.tga": {
-   "filesize": 3145772,
-   "timestamp": "2005-08-26"
+   "sha256": "bf2c9897af366d36efc11de39c051f3345ceeb6d38845be71b712c9403d726e7",
+   "size": 3145772,
+   "timestamp": "2005-08-26T14:28:14.000Z"
   },
   "id1/gfx/env/grimmnight_up.tga": {
-   "filesize": 3145772,
-   "timestamp": "2005-08-26"
+   "sha256": "e4e35e286d93770157119d60889ff0d2df08fa13ccafa32ea26884e31a1344bc",
+   "size": 3145772,
+   "timestamp": "2005-08-26T14:06:52.000Z"
+  },
+  "id1/maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-12-02T18:06:30.000Z"
   },
   "id1/maps/gsh_tod.bsp": {
-   "filesize": 19439532,
-   "timestamp": "2018-12-02"
+   "sha256": "34cf1676c56049862728e9ebe8053b046d57a86c684d7f47c499b821af7bbaf2",
+   "size": 19439532,
+   "timestamp": "2018-12-02T18:05:12.000Z"
   },
   "id1/maps/gsh_tod.lit": {
-   "filesize": 4842371,
-   "timestamp": "2018-12-02"
+   "sha256": "a5fc7547423feaf7e28660a85c6e15518a4e9fe092d16c7cbea5194723e334b3",
+   "size": 4842371,
+   "timestamp": "2018-12-02T18:05:12.000Z"
   },
   "id1/maps/gsh_tod.map": {
-   "filesize": 6264757,
-   "timestamp": "2018-12-02"
+   "sha256": "376976e4e755f74f1e954cc4056c8c4bf274fae29cf8a4943d3a1d828a26c806",
+   "size": 6264757,
+   "timestamp": "2018-12-02T18:04:34.000Z"
+  },
+  "id1/music/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-11-27T21:53:26.000Z"
   },
   "id1/music/track65.ogg": {
-   "filesize": 6931641,
-   "timestamp": "2018-11-06"
+   "sha256": "665be174a9e68be85bba3b7845826d86e656c34e51b4826656e0a79c4e417a9a",
+   "size": 6931641,
+   "timestamp": "2018-11-06T23:14:26.000Z"
   }
  },
  "filesize": 16323,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "b966eeba55bb49af8cfd6dad83a28fec2535174e1ed2a97613e12fab6270ebba",
  "tags": [
   "author=GunSgtHighway",

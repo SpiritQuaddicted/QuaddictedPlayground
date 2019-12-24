@@ -4,27 +4,36 @@
  ],
  "files": {
   "ad_scastle1d_readme.txt": {
-   "filesize": 3427,
-   "timestamp": "2017-01-11"
+   "sha256": "51acc7d8309a50b2a847103fd139d2703f08cf3aeec1319c5f88f1872210a81d",
+   "size": 3427,
+   "timestamp": "2017-01-11T00:06:50.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2017-01-11T01:06:36.000Z"
   },
   "maps/ad_scastle.bsp": {
-   "filesize": 3789328,
-   "timestamp": "2017-01-11"
+   "sha256": "a4cc1f6024c7034d129a90b41a3b4a9a0a752c8ac50af73451d1d31f8fdcb6b2",
+   "size": 3789328,
+   "timestamp": "2017-01-11T01:05:16.000Z"
   },
   "maps/ad_scastle.lit": {
-   "filesize": 1478615,
-   "timestamp": "2017-01-11"
+   "sha256": "34ca9ebcef5dc6595424aca8570904235d9f0d7b4663fcb1e974a02650811fd5",
+   "size": 1478615,
+   "timestamp": "2017-01-11T01:05:16.000Z"
   },
   "maps/ad_scastle.map": {
-   "filesize": 3049357,
-   "timestamp": "2017-01-11"
+   "sha256": "cc5ecac0823b872bcaa9a72f3caecb86501a83869c5312079679975ad86330b2",
+   "size": 3049357,
+   "timestamp": "2017-01-11T01:06:04.000Z"
   }
  },
  "filesize": 2553,
  "install": {
   "extract": "{quake}/ad/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
  "tags": [
   "author=sock",

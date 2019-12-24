@@ -3,44 +3,67 @@
   "mfxsp6.zip"
  ],
  "files": {
+  "gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2013-05-23T23:02:28.000Z"
+  },
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2013-05-23T23:02:28.000Z"
+  },
   "gfx/env/duskebk.tga": {
-   "filesize": 606420,
-   "timestamp": "2004-07-15"
+   "sha256": "06796e1fc73783f1dccb748b4a05703e3454623439727168c47f370e358b0656",
+   "size": 606420,
+   "timestamp": "2004-07-15T16:39:00.000Z"
   },
   "gfx/env/duskedn.tga": {
-   "filesize": 787184,
-   "timestamp": "2004-07-15"
+   "sha256": "9794d0b1b7bf571ff247baeebae5897be3cc0c6bf3428edbcf2782c1f34610c2",
+   "size": 787184,
+   "timestamp": "2004-07-15T16:39:00.000Z"
   },
   "gfx/env/duskeft.tga": {
-   "filesize": 594909,
-   "timestamp": "2004-07-15"
+   "sha256": "e3967e5143dfc8ffaba3dc0fe0c83d0da8d56174de9da0ea09d450a0d62e6742",
+   "size": 594909,
+   "timestamp": "2004-07-15T16:38:00.000Z"
   },
   "gfx/env/duskelf.tga": {
-   "filesize": 585541,
-   "timestamp": "2004-07-15"
+   "sha256": "0b7331135116c4e184df4d9e4824dbf5b435d045718db20a81b0d30ce91cb64a",
+   "size": 585541,
+   "timestamp": "2004-07-15T16:38:00.000Z"
   },
   "gfx/env/duskert.tga": {
-   "filesize": 688109,
-   "timestamp": "2004-07-15"
+   "sha256": "20d94245588988fb390440c531d787c25c2f4b97151bfbd1526fdc3c90e1320a",
+   "size": 688109,
+   "timestamp": "2004-07-15T16:39:00.000Z"
   },
   "gfx/env/duskeup.tga": {
-   "filesize": 470425,
-   "timestamp": "2004-07-15"
+   "sha256": "eba18d5e259e973c649bf16495a34ada1c523faa14ef6462b723476e820d8766",
+   "size": 470425,
+   "timestamp": "2004-07-15T16:39:00.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2013-05-23T23:02:28.000Z"
   },
   "maps/mfxsp6.bsp": {
-   "filesize": 4315660,
-   "timestamp": "2013-05-23"
+   "sha256": "0b49910c9a1731582fc04bb56c0a4c1ca1a7601498bcef9a3258f03e8c85f9c7",
+   "size": 4315660,
+   "timestamp": "2013-05-23T13:29:22.000Z"
   },
   "mfxsp6.txt": {
-   "filesize": 3728,
-   "timestamp": "2013-05-23"
+   "sha256": "8504ba725f53cfd4bb8a9719ac72820edfb22903adee94dd360b8ec39525a3d6",
+   "size": 3728,
+   "timestamp": "2013-05-23T23:03:52.000Z"
   }
  },
  "filesize": 3419,
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "9c37be3d5ebc4174d78b3c77b0da8ceaa679cdf5e83614537ca377888666a3d2",
  "tags": [
   "author=mfx",

@@ -4,19 +4,21 @@
  ],
  "files": {
   "Earthbound.txt": {
-   "filesize": 2319,
-   "timestamp": "1997-04-07"
+   "sha256": "23ae8374571083e75c3b9bd477b92f1f7874634530ff64bbbab890d1abd88b37",
+   "size": 2319,
+   "timestamp": "1997-04-07T23:32:30.000Z"
   },
   "earthbnd.bsp": {
-   "filesize": 1425180,
-   "timestamp": "1997-03-30"
+   "sha256": "30cf30ac09840155b2a464cb77e8f46bc4ba107beb7b4bac927cf6ced2057d97",
+   "size": 1425180,
+   "timestamp": "1997-03-30T22:40:56.000Z"
   }
  },
  "filesize": 632,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "d13591875af5dd921c0789c98b17dd830bb3ea4ef6499cf051d72c576e201a75",
  "tags": [
   "author=Geoff Barry",

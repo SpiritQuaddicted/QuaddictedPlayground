@@ -4,23 +4,26 @@
  ],
  "files": {
   "digs03.bsp": {
-   "filesize": 3740178,
-   "timestamp": "2007-03-21"
+   "sha256": "3605a090a2310844af96369badb60c6dc204442a96c8a3fae94681c11285225b",
+   "size": 3740178,
+   "timestamp": "2007-03-21T16:14:00.000Z"
   },
   "digs03_eng.txt": {
-   "filesize": 1228,
-   "timestamp": "2007-03-20"
+   "sha256": "6413dc06da6de4ba7ea04eff889ecd17de350ba732c1a286290b685ea3a53d48",
+   "size": 1228,
+   "timestamp": "2007-03-20T03:20:26.000Z"
   },
   "digs03_rus.txt": {
-   "filesize": 1365,
-   "timestamp": "2007-03-20"
+   "sha256": "a37285ff257c5fe7fcdb5a00e5e813930ff48a548175ae44a2ca78be40d8491d",
+   "size": 1365,
+   "timestamp": "2007-03-20T03:21:32.000Z"
   }
  },
  "filesize": 1594,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "cdf9ed3596217ff0158222c41999ccbe5861092b8fe53d680e11c916f46a17da",
  "tags": [
   "author=Digs",

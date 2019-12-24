@@ -4,51 +4,287 @@
  ],
  "files": {
   "Bazooka.txt": {
-   "filesize": 4512,
-   "timestamp": "1996-11-26"
+   "sha256": "ea6ec68b8465524d034f9fbb33919e75c22bbc177300f255d53cb1f87dabec9f",
+   "size": 4512,
+   "timestamp": "1996-11-26T15:38:38.000Z"
   },
   "Drone.txt": {
-   "filesize": 3282,
-   "timestamp": "1996-12-25"
+   "sha256": "78cc4b700db62b830ac700afc9a12602a941c18ec4ff0e68ad78b6129fb10ad9",
+   "size": 3282,
+   "timestamp": "1996-12-25T13:50:46.000Z"
   },
   "Pak0.pak": {
-   "filesize": 4138584,
-   "timestamp": "1997-12-04"
+   "files": {
+    "end2.bin": {
+     "sha256": "ff39fc77a23d54cd0100ec96ba6856a31a5ba01f7adfffb1f2bd461cab57a706",
+     "size": 4000
+    },
+    "gfx/conback.lmp": {
+     "sha256": "7414a53f6587a185f7fd1cca21caf610559c0857bffe9206d01dec7e34ed9235",
+     "size": 64008
+    },
+    "maps/hrdtrgt2.bsp": {
+     "sha256": "7a99c442b8ce4f009ba2582030e7f41fcaa26461c04ba740b182a6dc8d8cbe35",
+     "size": 1501420
+    },
+    "progs.dat": {
+     "sha256": "03627cf0c4602b2259a730e36a10c74f605e3e706ef0147c2df77d45bbb46066",
+     "size": 661996
+    },
+    "progs/bazooka.mdl": {
+     "sha256": "fcee6fd34a295b108ac7adc3da70156b6bb6c4ee6aef4eb06e9f9394611e0376",
+     "size": 143952
+    },
+    "progs/drngib1.mdl": {
+     "sha256": "718b8c2842877345426247148dd6ce1ebe7fecc13e969a0fa0ed6dbebc388099",
+     "size": 17204
+    },
+    "progs/drngib2.mdl": {
+     "sha256": "0a386b6381824b01852910519490ac3f6e3309a96091820384ee6b9a5b452e7a",
+     "size": 35656
+    },
+    "progs/drngib3.mdl": {
+     "sha256": "c9d01a6049159bf8ac0328b49a296c4b8851d3e2e432168675f9e8b1b2ac75d7",
+     "size": 42196
+    },
+    "progs/drone1.mdl": {
+     "sha256": "ebd3e614ca2afdead497209fcf79f304218f4cff2bd3bca7d3e3a6c542f63362",
+     "size": 68972
+    },
+    "progs/h_babe.mdl": {
+     "sha256": "61b34a2d1599e86932f0e5c1db8ee0054f8e52f02716a7cf889b9b75ab7667b2",
+     "size": 26804
+    },
+    "progs/manga3.mdl": {
+     "sha256": "81bb691947f88dda5672ab1e1af689098d08a9b5bea9d31c38197db909fe3b76",
+     "size": 96256
+    },
+    "progs/null.spr": {
+     "sha256": "dc67fb2f31bd717353b8138f02bdc8ef2d70ace433c9fd91e3adc909fda513a3",
+     "size": 57
+    },
+    "progs/nun.mdl": {
+     "sha256": "fbf65d2c751fd78b2823379728b4eabdc9102aa51ea622c81a61bc260e09f4dc",
+     "size": 168958
+    },
+    "progs/nunbolt2.mdl": {
+     "sha256": "acc78654c3cb39977741c4f9d218de854383b54b2f24af7a9471dc9408326f63",
+     "size": 29061
+    },
+    "progs/player.mdl": {
+     "sha256": "b2ae33d7722f1fc87efa3ad166db07a52744aa5fd925019154b20128f4503bcb",
+     "size": 800296
+    },
+    "progs/pulse.mdl": {
+     "sha256": "83ad42783fe9a5dd2e2085bb6dcb3e551db7fd7ac683326943e6c5423f8131e4",
+     "size": 15988
+    },
+    "progs/rubble1.mdl": {
+     "sha256": "8650870ea418a2e51ff0cba26c9e9e0ea39f383075e279378009d3ebf010f0ca",
+     "size": 5716
+    },
+    "progs/rubble2.mdl": {
+     "sha256": "f50f68f3247678041ae0eb26bd24b9ea8a57cbc2c66a092f8d35d6463b05b977",
+     "size": 16228
+    },
+    "progs/rubble3.mdl": {
+     "sha256": "64fe85a3f08f916df89ce670a1668d7dc28eaba000747b5e534423ea1d80dd85",
+     "size": 22228
+    },
+    "progs/shelcase.mdl": {
+     "sha256": "f386df0925156b91efb4a7627bd01419580b9282a334cc8a03611ca8357082f3",
+     "size": 7060
+    },
+    "sound/ambient/equake.wav": {
+     "sha256": "dcc45d2ef0703ecaa022c83cd66ae4992021ac379c11fc9da4401e184a191c93",
+     "size": 47148
+    },
+    "sound/ambient/spark1.wav": {
+     "sha256": "edd25ab7bbc00e8952dedc1d671735f649134481860526bcdcb17f3bf20aa464",
+     "size": 3288
+    },
+    "sound/bazooka/ahaia.wav": {
+     "sha256": "b9a2527347e2272a676390b3a6bce4cf623f233a11b27d932e340ed67e72823d",
+     "size": 7748
+    },
+    "sound/bazooka/die.wav": {
+     "sha256": "0bae4e5baa31c64ba4fc94df64e0dca08c06a732baea03ae4167b75e00318e9b",
+     "size": 9260
+    },
+    "sound/bazooka/dies1.wav": {
+     "sha256": "663fcd16df6c845fc318a6181b2eece0678f9f3980a90ea3d34f0592e61e6087",
+     "size": 8856
+    },
+    "sound/bazooka/dies2.wav": {
+     "sha256": "93f2868e3bbda78b74970a8912e8bad6f50e130692c4ce066aacdb5d51811e48",
+     "size": 9212
+    },
+    "sound/bazooka/dies3.wav": {
+     "sha256": "439d327515f423fe662a8930b6a1d07d693f43331996119e05d32efc5d44457c",
+     "size": 9752
+    },
+    "sound/bazooka/grrr.wav": {
+     "sha256": "8c6609a6ea9d85f10cda8dd2aa2d0fb77f5e9690698cbafbc213eb5d4f2b6f5d",
+     "size": 11356
+    },
+    "sound/bazooka/ooaa.wav": {
+     "sha256": "76d5ae6f0532eb1a43493330c90966be651e05ba9eed2a994a9afaf28c73de78",
+     "size": 4872
+    },
+    "sound/bazooka/step1.wav": {
+     "sha256": "fc485f8365abf042f2abb94ba4a21f077f688419e252a50fe9cfba2f55fd280a",
+     "size": 27042
+    },
+    "sound/bazooka/stepstop.wav": {
+     "sha256": "79ec338698b2f8bfde44e0b5e8e31ca3d34e140ca88a45eb81c7c72b7ca31134",
+     "size": 6102
+    },
+    "sound/bazooka/when.wav": {
+     "sha256": "af1c2534c69cfb3f07e160cd39f66fcfbe9d64580cb9fcfc43520637c6931532",
+     "size": 23194
+    },
+    "sound/bazooka/yeow.wav": {
+     "sha256": "776a81059bc7fd0f8c998f5e8e05837686d1578c8860aad77901665c31370caf",
+     "size": 6474
+    },
+    "sound/manga/died.wav": {
+     "sha256": "3ce14cdac970a150f567dbd07cf1763f695245c34f5bf4e31ec07bfeb232db30",
+     "size": 24492
+    },
+    "sound/manga/ha.wav": {
+     "sha256": "ba2108ad5070860873887308293efd3a9635a6c4dcb3fb39357a9e16f89f97b5",
+     "size": 2708
+    },
+    "sound/manga/hiyaa.wav": {
+     "sha256": "1446e8afbfdf48a08ca6727604b33585efdd67a6d14b4b1c96bb05c6ccd5ac3a",
+     "size": 36876
+    },
+    "sound/manga/kungfu.wav": {
+     "sha256": "025b6eed19d193bd6be4c4f8f2bc7b9fb14e5c127257e570fd9fc98fd464f2a3",
+     "size": 29008
+    },
+    "sound/manga/ohdju.wav": {
+     "sha256": "346d38c12edad612ec4915d3361ebfbb81b06bee9cdb73eb9b9e0d2cc2ea6d10",
+     "size": 12588
+    },
+    "sound/manga/tchak.wav": {
+     "sha256": "f77d88ab76f7a092a7a5d40fb0aaf9530dc6da8e45559fcf1a1b5ea2aa88029b",
+     "size": 10166
+    },
+    "sound/nun/death1.wav": {
+     "sha256": "77a3dfddc7ffb1eb65d6ac812ec8e3a642be3cf7a2546fab2f92465086f50391",
+     "size": 9289
+    },
+    "sound/nun/nunch1.wav": {
+     "sha256": "5e276c38920a084811a69e541b2ed6536b1fe1eb378fac724db891db2dfe902d",
+     "size": 6209
+    },
+    "sound/nun/nunch2.wav": {
+     "sha256": "59d2cc8b02ecef0f408c79b25caeb0fce9174acb565abec7c49f9b16a0822cd2",
+     "size": 8751
+    },
+    "sound/nun/nunch3.wav": {
+     "sha256": "04a0baa2ccc6abb70caff4a0acfef64d7908bc804016bdc13892334f200796fc",
+     "size": 4940
+    },
+    "sound/nun/pain1.wav": {
+     "sha256": "b709e973f2e32900690826af4c94cd3cb00ce2f2177e8bf9cbae6660e9e178a2",
+     "size": 5444
+    },
+    "sound/nun/pain2.wav": {
+     "sha256": "0da97d7a436c506a98010d0ea1b6b80186cda4693aa3f3e87d4d7adc3cfe5f84",
+     "size": 4689
+    },
+    "sound/shellhit.wav": {
+     "sha256": "17e0784b9c2ca8b5c60ba0ee6fe85f0eb04d0450ec948b6c4652cf64e0912cca",
+     "size": 1598
+    },
+    "sound/wall/wall01.wav": {
+     "sha256": "c338c95767dded603a1a69100c1af0baab42959eaae856f6cab99ffbd140b727",
+     "size": 32804
+    },
+    "txt/bazooka.txt": {
+     "sha256": "ea6ec68b8465524d034f9fbb33919e75c22bbc177300f255d53cb1f87dabec9f",
+     "size": 4512
+    },
+    "txt/damage.txt": {
+     "sha256": "8684d30ed60b5fb0a843f4308d9b9a7dfcd080689fa73fb28f43fcb9151df72b",
+     "size": 1546
+    },
+    "txt/drone.txt": {
+     "sha256": "78cc4b700db62b830ac700afc9a12602a941c18ec4ff0e68ad78b6129fb10ad9",
+     "size": 3282
+    },
+    "txt/eject.txt": {
+     "sha256": "04ff84fb7680f984d5e5cbc9f0eb568c16ec3582fcec0f55abfb079632efc506",
+     "size": 2244
+    },
+    "txt/gyrobot.txt": {
+     "sha256": "b19185538e9433b690dfaa5175501790d2f4ce8c32220e822069cccd51749817",
+     "size": 15522
+    },
+    "txt/hrdtrgt2.txt": {
+     "sha256": "6f3e7a8e1aaf7e56c4b9367049d1daad7bab5054e13b36dd0ece594ec1b1ad52",
+     "size": 9627
+    },
+    "txt/manga.txt": {
+     "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
+     "size": 2019
+    },
+    "txt/nunsgt.txt": {
+     "sha256": "3eb0e02156e4c88908b9f7e89ed60f0610dfb0374d863b6f6063f783e1af6ded",
+     "size": 1221
+    },
+    "txt/walls01.txt": {
+     "sha256": "d7c7a2b26ca415635abdb06c983eae75319924b7ec91ead6e0751ae174b69c8e",
+     "size": 3093
+    }
+   },
+   "sha256": "f362a910847734257a5b2300f23b1acaa7a78b3148f43cc6e4aa9bb445b01fec",
+   "size": 4138584,
+   "timestamp": "1997-12-04T16:19:06.000Z"
   },
   "damage.txt": {
-   "filesize": 1546,
-   "timestamp": "1997-11-02"
+   "sha256": "8684d30ed60b5fb0a843f4308d9b9a7dfcd080689fa73fb28f43fcb9151df72b",
+   "size": 1546,
+   "timestamp": "1997-11-02T07:21:04.000Z"
   },
   "eject.txt": {
-   "filesize": 2244,
-   "timestamp": "1997-10-22"
+   "sha256": "04ff84fb7680f984d5e5cbc9f0eb568c16ec3582fcec0f55abfb079632efc506",
+   "size": 2244,
+   "timestamp": "1997-10-22T00:23:56.000Z"
   },
   "gyrobot.txt": {
-   "filesize": 15522,
-   "timestamp": "1997-10-22"
+   "sha256": "b19185538e9433b690dfaa5175501790d2f4ce8c32220e822069cccd51749817",
+   "size": 15522,
+   "timestamp": "1997-10-22T00:23:58.000Z"
   },
   "hrdtrgt2.txt": {
-   "filesize": 9627,
-   "timestamp": "1997-12-04"
+   "sha256": "6f3e7a8e1aaf7e56c4b9367049d1daad7bab5054e13b36dd0ece594ec1b1ad52",
+   "size": 9627,
+   "timestamp": "1997-12-04T16:18:18.000Z"
   },
   "manga.txt": {
-   "filesize": 2019,
-   "timestamp": "1996-11-03"
+   "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
+   "size": 2019,
+   "timestamp": "1996-11-03T23:57:58.000Z"
   },
   "nunsgt.txt": {
-   "filesize": 1221,
-   "timestamp": "1997-06-16"
+   "sha256": "3eb0e02156e4c88908b9f7e89ed60f0610dfb0374d863b6f6063f783e1af6ded",
+   "size": 1221,
+   "timestamp": "1997-06-16T23:41:50.000Z"
   },
   "walls01.txt": {
-   "filesize": 3093,
-   "timestamp": "1997-10-22"
+   "sha256": "d7c7a2b26ca415635abdb06c983eae75319924b7ec91ead6e0751ae174b69c8e",
+   "size": 3093,
+   "timestamp": "1997-10-22T00:23:58.000Z"
   }
  },
  "filesize": 1622,
  "install": {
   "extract": "{quake}/hrdtrgt2/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "7a154d9869c79858a43c56cf910d9764037c7099fbad47f1998b47ba6802ab38",
  "tags": [
   "author=Scott McNutt",

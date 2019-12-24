@@ -4,23 +4,130 @@
  ],
  "files": {
   "ivory1b_readme.txt": {
-   "filesize": 6497,
-   "timestamp": "2013-09-28"
+   "sha256": "de21baa8b9eb1ffe155763e9261746c3f2af2b9b2b0f9014037975c054a0f835",
+   "size": 6497,
+   "timestamp": "2013-09-28T08:38:34.000Z"
   },
   "pak0.pak": {
-   "filesize": 14594703,
-   "timestamp": "2013-09-28"
+   "files": {
+    "1024.cfg": {
+     "sha256": "1ca2f03f2f82ae07a5f2a4c323403913fc25e5b013d4ed4bce30706239ebc099",
+     "size": 61
+    },
+    "ivory1b_readme.txt": {
+     "sha256": "de21baa8b9eb1ffe155763e9261746c3f2af2b9b2b0f9014037975c054a0f835",
+     "size": 6497
+    },
+    "maps/ivory.bsp": {
+     "sha256": "6f284a5e02fb3bbb4b8f556e1116a13a95f1d048bb5e1addbeccbaed050ea683",
+     "size": 6350356
+    },
+    "maps/ivory.lit": {
+     "sha256": "540321279da9d9863c7a72769f9d5187ece819ba301556c654240c1f7d57b84b",
+     "size": 1999724
+    },
+    "source/offcut.map": {
+     "sha256": "caffcf69908d3d82265838e209e947f45b590c3fd6a7bc1bcb947a72548ca888",
+     "size": 5068329
+    },
+    "source/offcut.wad": {
+     "sha256": "28cf68aa3607b99c34e9308aaa57beaf6dbcd026af233eb7274d2f820b55b09a",
+     "size": 1169340
+    }
+   },
+   "sha256": "d617de193bc1397c03f5fdce38b0da2416db2e8d6743d325647164ff3453ac43",
+   "size": 14594703,
+   "timestamp": "2013-09-28T12:46:14.000Z"
   },
   "pak1.pak": {
-   "filesize": 194557,
-   "timestamp": "2013-09-28"
+   "files": {
+    "maps/b_batt0.bsp": {
+     "sha256": "0d481a2e2cd7a23e4ef19c19622195007bd6c9a67135ef739b0944a02d46fcd7",
+     "size": 6980
+    },
+    "maps/b_batt1.bsp": {
+     "sha256": "34709c1c06ca34305a8ba1d4799d1cdc07e44ff33f3c7fa11c3d5933cb942579",
+     "size": 6964
+    },
+    "maps/b_bh10.bsp": {
+     "sha256": "d3371655bed274070fa98fb32b408bab4a22fe754f5158c8c94a072749a5d24d",
+     "size": 7124
+    },
+    "maps/b_bh100.bsp": {
+     "sha256": "abdfe383c13da6d5dd7a9409fa5d3db2c4bac78482eb75c2c2b42da7811ec3ca",
+     "size": 7764
+    },
+    "maps/b_bh25.bsp": {
+     "sha256": "2343448faac29720e3a690650b70623852710dcae002917ae5772fa597117e17",
+     "size": 8788
+    },
+    "maps/b_nail0.bsp": {
+     "sha256": "66ea23f1cdd6225afdd1b7cf1247b93d174562193e0807561b96b659429f2bf0",
+     "size": 5604
+    },
+    "maps/b_nail1.bsp": {
+     "sha256": "366ece777ae71ecfebaa9f4bebafe2074b5336e7939900f46bd9521886f9f42d",
+     "size": 6820
+    },
+    "maps/b_rock0.bsp": {
+     "sha256": "56a66aa3d1364a0436ff8ce880268b2a9c2c396ab02f0c6277535d5b99eae31a",
+     "size": 7092
+    },
+    "maps/b_rock1.bsp": {
+     "sha256": "ddd60cec57d8e3954c1ffce616ae862edb784417a6b6622cc001d408383a6cb9",
+     "size": 7636
+    },
+    "maps/b_shell0.bsp": {
+     "sha256": "fe60bd7880da73571e29fa4075968cccb06e913bd2b9475868ce31c69b1a8c19",
+     "size": 5396
+    },
+    "maps/b_shell1.bsp": {
+     "sha256": "6a2c2c3fa6f88d425ae5b9568e5d8224ee901a1d8faa8363b88fff569b7d0e5f",
+     "size": 8436
+    },
+    "progs/backpack.mdl": {
+     "sha256": "1ba9d3176bb2e03a0457427fd9394d8c15eb9ebae8af9462e955e9c6c6068513",
+     "size": 25812
+    },
+    "progs/end1.mdl": {
+     "sha256": "0d5bacc295ef6386b360dd017f0d047316e57bb056bff9242142c1ebac83565a",
+     "size": 18900
+    },
+    "progs/end3.mdl": {
+     "sha256": "445af16e28fff506ad65fac16b09dad1672e218ffe0183880aff565578b315b8",
+     "size": 19700
+    },
+    "progs/invisibl.mdl": {
+     "sha256": "d4c5b6316aa02d600951c6a8ec1f4682568b9e877e988cf4cedd77c0e95cf663",
+     "size": 7108
+    },
+    "progs/quaddama.mdl": {
+     "sha256": "c5657b558522e46f0833b7827520c1a5c1f1674dffd52c12609779d5bcd75462",
+     "size": 22052
+    },
+    "progs/w_g_key.mdl": {
+     "sha256": "bf5c4ffac0c77e4e039af048ebef10cc8d68644f13956a75fac65577c840cd8e",
+     "size": 10196
+    },
+    "progs/w_s_key.mdl": {
+     "sha256": "d368ad594376bfa4c3c3b77bb467b91d62296a6385c276b2d76cd44891d1a752",
+     "size": 10132
+    },
+    "quake.rc": {
+     "sha256": "c89f1c2d59e424d1a41e07b1e7e1260ae00bcb6456d8b0e11cf2c15f6ff77308",
+     "size": 825
+    }
+   },
+   "sha256": "efea04d138e948d9501f770308e65f06dede9aa6cbacfa3c90f569d61e18c4ba",
+   "size": 194557,
+   "timestamp": "2013-09-28T12:46:18.000Z"
   }
  },
  "filesize": 5041,
  "install": {
   "extract": "{quake}/ivory/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "7edef08c19aa8d45dfdef6ceabc155d9dc0c47c0d053e9962f8631b9d6dc917c",
  "tags": [
   "author=sock",

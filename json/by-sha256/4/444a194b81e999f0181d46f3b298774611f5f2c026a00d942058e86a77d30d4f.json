@@ -4,27 +4,189 @@
  ],
  "files": {
   "Gadgets.BAT": {
-   "filesize": 39,
-   "timestamp": "1997-05-03"
+   "sha256": "0af288b13ae2695efc0299019b5b202217c2866bb587ec27f2c7d75a6f1f099e",
+   "size": 39,
+   "timestamp": "1997-05-03T00:57:12.000Z"
   },
   "file_id.DIZ": {
-   "filesize": 231,
-   "timestamp": "1997-05-03"
+   "sha256": "d8fa34a4ee70831f8c2c57845297617af55b26faba61a9c3d93826a98dc798a0",
+   "size": 231,
+   "timestamp": "1997-05-03T01:29:34.000Z"
   },
   "gadgets/auximine.txt": {
-   "filesize": 4443,
-   "timestamp": "1997-05-03"
+   "sha256": "919c146b744e4cdc29082a27f21a5d577f23d17f99b34c97366a2a32d7c30df6",
+   "size": 4443,
+   "timestamp": "1997-05-03T04:02:12.000Z"
   },
   "gadgets/pak0.pak": {
-   "filesize": 3476336,
-   "timestamp": "1997-05-03"
+   "files": {
+    "finale.txt": {
+     "sha256": "b4a44ff483ba4c7189937553e340165d14ecaeea3e31fe0f7cc4aaf53192819b",
+     "size": 611
+    },
+    "gfx/conback.lmp": {
+     "sha256": "3eaee6856ff965bf818fab79c07791e8dd0bb5a3da6ff226c3b00261d57b7ae9",
+     "size": 64008
+    },
+    "maps/auximine.bsp": {
+     "sha256": "f66344543bddb343ab7194bc922c8eece888c723d714b712ccbc24899c5bdd2d",
+     "size": 1377768
+    },
+    "progs.dat": {
+     "sha256": "09ad7a9f0f836d4eda7019ef40ffdfcc89cc9e655c0b5ee4cf2f9fdb2e0c0ba7",
+     "size": 580832
+    },
+    "progs/dragon.mdl": {
+     "sha256": "0bc003d99a05e6a17a3c17e78ec708712419860a96bd7ae003e28efa90f95b87",
+     "size": 56204
+    },
+    "progs/h_boss.mdl": {
+     "sha256": "30bf06acfcb3b32bf8f940187e712e87355fc7d8cc5ba8f36c128774cf20846d",
+     "size": 61060
+    },
+    "progs/kenobi.mdl": {
+     "sha256": "68b5695fd7972bccd7d2c602c5daa392eb2fc4d1025e26264d2d7107b4c6d314",
+     "size": 69731
+    },
+    "progs/rogue.mdl": {
+     "sha256": "ed95cf6488b645563d50fe0c41bbff2fd54b3b2cd23130ab0288e13f34f41fca",
+     "size": 113763
+    },
+    "progs/rubble1.mdl": {
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
+     "size": 69839
+    },
+    "progs/rubble2.mdl": {
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
+     "size": 200266
+    },
+    "progs/rubble3.mdl": {
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab",
+     "size": 303486
+    },
+    "progs/s_null.spr": {
+     "sha256": "29e9c18546413f0abc9c6f507c61952f33afa6507b52d1c2197b57e3be7870a9",
+     "size": 56
+    },
+    "progs/t_drag.mdl": {
+     "sha256": "daa3fb42ac8bca1ea5d46b1be4422b895715021d9efd6e53420f154e864cbf7e",
+     "size": 12736
+    },
+    "progs/w_drag.mdl": {
+     "sha256": "785216ead72dc301b2e6c09b91ff3a399f58400d08523d4078cd47190ce74315",
+     "size": 36636
+    },
+    "sound/dragon/attack.wav": {
+     "sha256": "6a5697e1dd9eca555bfda713101cdda800065e201f00ca333796f1bd4e7217ae",
+     "size": 4920
+    },
+    "sound/dragon/death.wav": {
+     "sha256": "2e11e1f4d01f4e4730a70a3149523768377ce5d718982ad9ca2678bdbdce36f2",
+     "size": 23228
+    },
+    "sound/dragon/hit.wav": {
+     "sha256": "b36e7581fe973d854b6f59947c5fe30b7118c94e7973f93b54a0c17423ce3fdc",
+     "size": 4566
+    },
+    "sound/dragon/idlefly.wav": {
+     "sha256": "f4b73e9887a6920bb9247bc4c121d369d4cf4881ae2a21f5176f289b430081e9",
+     "size": 5596
+    },
+    "sound/dragon/pain.wav": {
+     "sha256": "982f24d1ef9414e3ea280d591e5500328dd491b4a880c41cbe54b5c591096f66",
+     "size": 11342
+    },
+    "sound/dragon/sight.wav": {
+     "sha256": "037799aa0d798d955287d1c901ab566f470a364ae2f9d163fafe12b7d2600868",
+     "size": 44744
+    },
+    "sound/end1.wav": {
+     "sha256": "f568d3c269e101c3d1ebf5bea0fc41790140c8e4b5f1ae201059349730b5bb4a",
+     "size": 7564
+    },
+    "sound/end2.wav": {
+     "sha256": "e026bcc135da7dcccc07c1173dabb8d8313b4a9790c3029201976e8f7265274e",
+     "size": 103668
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78",
+     "size": 33914
+    },
+    "sound/john.wav": {
+     "sha256": "f34d69dcb14164f0e1d9577a180ba8ac02cb5d5736c1e10028a9530b31085ed7",
+     "size": 68366
+    },
+    "sound/kenobi.wav": {
+     "sha256": "bfac7bc768ebf9af1f81a0edf52ddbc1edecdc61ccde924626b99b49f5176b8a",
+     "size": 25168
+    },
+    "sound/misc/foot1.wav": {
+     "sha256": "5913e6df75b7b0e598ac4c231d91a16834229024f009cfa590eb87139324756a",
+     "size": 2474
+    },
+    "sound/misc/foot2.wav": {
+     "sha256": "e2994f408d83837c121d67c8dbf290da11b77e43124b32f8e378a28df05591c7",
+     "size": 1790
+    },
+    "sound/misc/foot3.wav": {
+     "sha256": "ebb0ef6792df57affc57440361759b15fa115b3d0a4f331ce9dba2cb49a47963",
+     "size": 2050
+    },
+    "sound/misc/foot4.wav": {
+     "sha256": "af9824d979fe1fe3cad5c562b6cc348e8e9b7824c88f45c67ad92b28b4b15b62",
+     "size": 1764
+    },
+    "sound/misc/foot5.wav": {
+     "sha256": "e8d6e6eb65cda313dc28eafcc3ebb798de2de1162cbe24a53e33d0703c10806b",
+     "size": 3158
+    },
+    "sound/misc/foot6.wav": {
+     "sha256": "a9d67538c5c3987ab294357d59a8796b201e5f4213ffc59bddc2e0b2bdddb79e",
+     "size": 2858
+    },
+    "sound/misc/foot7.wav": {
+     "sha256": "25a6d796316804be397aaabb41b7199298f2cf3283f5fc9e44981301db5c8a13",
+     "size": 2020
+    },
+    "sound/misc/longexpl.wav": {
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890",
+     "size": 42430
+    },
+    "sound/misc/quake.wav": {
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266",
+     "size": 34286
+    },
+    "sound/misc/quakeend.wav": {
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01",
+     "size": 8160
+    },
+    "sound/misc/shortexp.wav": {
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc",
+     "size": 27562
+    },
+    "sound/misc/tesla.wav": {
+     "sha256": "05a76add480090c8b15e3e6a33487fa019ab3e579c635e84a5343c4709cefd3d",
+     "size": 22526
+    },
+    "sound/subdive.wav": {
+     "sha256": "6ab3b82c7d9f12468a84877232a4b4fa999065efff1b7076e369d9b8f012bcc8",
+     "size": 23348
+    },
+    "sound/waterfal.wav": {
+     "sha256": "6dba30c793b844acf1b1f8a7496009b966eef8c89659802302e3432a8e5da601",
+     "size": 19330
+    }
+   },
+   "sha256": "f0ff4601de6c126cfc3bf3723a9c4bb40679d0bdf0d25c0ac9c6b929b32a0d80",
+   "size": 3476336,
+   "timestamp": "1997-05-03T02:48:00.000Z"
   }
  },
  "filesize": 1311,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "444a194b81e999f0181d46f3b298774611f5f2c026a00d942058e86a77d30d4f",
  "tags": [
   "author=David Kelvin",

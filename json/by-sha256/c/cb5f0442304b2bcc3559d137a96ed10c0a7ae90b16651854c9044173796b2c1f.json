@@ -4,27 +4,31 @@
  ],
  "files": {
   "CURSE1.bsp": {
-   "filesize": 2201920,
-   "timestamp": "1999-10-17"
+   "sha256": "750b2f327940f3a9e70ee3d0a7a3901e2faff35c152e225b6c142c3df8484de6",
+   "size": 2201920,
+   "timestamp": "1999-10-17T15:21:56.000Z"
   },
   "CURSE2.bsp": {
-   "filesize": 2125700,
-   "timestamp": "1999-10-17"
+   "sha256": "fbc3b478ab32978968eb30e842fc3d8943dbc4368d9ede9739c93a2bd12dfb0a",
+   "size": 2125700,
+   "timestamp": "1999-10-17T19:02:12.000Z"
   },
   "CURSE_ST.bsp": {
-   "filesize": 648220,
-   "timestamp": "1999-10-18"
+   "sha256": "f489646bce43e0f6d64712f730770680767aeeee97c6ccc7c27fa07bc41f7bc1",
+   "size": 648220,
+   "timestamp": "1999-10-18T02:14:38.000Z"
   },
   "occursed.txt": {
-   "filesize": 2881,
-   "timestamp": "1999-10-17"
+   "sha256": "cbfd586aa650c52f12815a9fe5c777150ed25cc086429ba8b83da7c17ad9290f",
+   "size": 2881,
+   "timestamp": "1999-10-17T15:22:30.000Z"
   }
  },
  "filesize": 2021,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
  "tags": [
   "author=Tim Elek",

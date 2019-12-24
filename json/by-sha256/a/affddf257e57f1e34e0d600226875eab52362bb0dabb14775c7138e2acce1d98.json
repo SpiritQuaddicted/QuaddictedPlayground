@@ -3,24 +3,32 @@
   "xl3.zip"
  ],
  "files": {
+  "xl3/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-06-17T20:43:54.000Z"
+  },
   "xl3/xl3.bsp": {
-   "filesize": 4088280,
-   "timestamp": "2018-05-24"
+   "sha256": "57819252bea90948dcedb346e1a06fc6fca42045d4d76439d2f13248a7d513d5",
+   "size": 4088280,
+   "timestamp": "2018-05-24T20:09:30.000Z"
   },
   "xl3/xl3.lit": {
-   "filesize": 1918586,
-   "timestamp": "2018-05-24"
+   "sha256": "25a6068c4cd563da2d0796b4d943b9ed16423cead3876f1ed9916308d36ba3d6",
+   "size": 1918586,
+   "timestamp": "2018-05-24T20:09:30.000Z"
   },
   "xl3/xl3_readme.txt": {
-   "filesize": 1638,
-   "timestamp": "2018-05-25"
+   "sha256": "de5f6497b00b742bdc04f03711a4b995659a81b99876c78fb30f98fd336feb53",
+   "size": 1638,
+   "timestamp": "2018-05-25T20:36:46.000Z"
   }
  },
  "filesize": 2051,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "affddf257e57f1e34e0d600226875eab52362bb0dabb14775c7138e2acce1d98",
  "tags": [
   "author=xlarve",

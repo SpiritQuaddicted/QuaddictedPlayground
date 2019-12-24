@@ -4,23 +4,26 @@
  ],
  "files": {
   "garrison.bsp": {
-   "filesize": 902660,
-   "timestamp": "1998-02-24"
+   "sha256": "cfebe5a8445f1b43b5ab337fbeee46009919b7642063d1641fa479aa4031695f",
+   "size": 902660,
+   "timestamp": "1998-02-24T12:25:36.000Z"
   },
   "mymap.bsp": {
-   "filesize": 1227348,
-   "timestamp": "1998-03-01"
+   "sha256": "b4190c1fdd90bfc1204567ef8ec0addd778138df2ae648c5aec9d6a47e3bd3b6",
+   "size": 1227348,
+   "timestamp": "1998-03-01T20:22:04.000Z"
   },
   "mymap.txt": {
-   "filesize": 1915,
-   "timestamp": "1998-04-19"
+   "sha256": "80e22c95b5f74bf72fe57f232803c5013b46382b1ed68bf64df9e7f25f8b7a33",
+   "size": 1915,
+   "timestamp": "1998-04-19T10:48:22.000Z"
   }
  },
  "filesize": 840,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d",
  "tags": [
   "author=Peter Bisseker (tiddles)",

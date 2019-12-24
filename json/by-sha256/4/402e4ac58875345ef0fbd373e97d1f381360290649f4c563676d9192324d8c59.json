@@ -4,43 +4,66 @@
  ],
  "files": {
   "Sickbase.txt": {
-   "filesize": 5377,
-   "timestamp": "2007-10-26"
+   "sha256": "2fcd10da70d17e72425d6d98319ff3132d87344999799928563e9a7b2941b7f2",
+   "size": 5377,
+   "timestamp": "2007-10-26T10:12:16.000Z"
+  },
+  "gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2007-10-20T12:54:02.000Z"
+  },
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2007-10-20T12:54:04.000Z"
   },
   "gfx/env/gehennabk.tga": {
-   "filesize": 673919,
-   "timestamp": "2007-10-20"
+   "sha256": "2579ebbde03e3e6d7e052cffa869980ac43f59f2245d584a9212f3bf09d91d09",
+   "size": 673919,
+   "timestamp": "2007-10-20T12:53:44.000Z"
   },
   "gfx/env/gehennadn.tga": {
-   "filesize": 785761,
-   "timestamp": "2007-10-20"
+   "sha256": "80c1bb4234473c05f856c018659cc67289bfa001fc42e2b1f133d39609aadfa0",
+   "size": 785761,
+   "timestamp": "2007-10-20T12:53:44.000Z"
   },
   "gfx/env/gehennaft.tga": {
-   "filesize": 710441,
-   "timestamp": "2007-10-20"
+   "sha256": "b371a504c6e1cecaba1352ac254759e23f8aee34e9516f33fcbddf2bee9e14ad",
+   "size": 710441,
+   "timestamp": "2007-10-20T12:53:44.000Z"
   },
   "gfx/env/gehennalf.tga": {
-   "filesize": 664379,
-   "timestamp": "2007-10-20"
+   "sha256": "821a2381b1955c846a11dea45855defb6ca91bf7b93021ad4320db5523a367be",
+   "size": 664379,
+   "timestamp": "2007-10-20T12:53:44.000Z"
   },
   "gfx/env/gehennart.tga": {
-   "filesize": 697661,
-   "timestamp": "2007-10-20"
+   "sha256": "6903bcdbb62381122e0df50286460e2cdbad499f1e6194bfc5f12d2e975949b7",
+   "size": 697661,
+   "timestamp": "2007-10-20T12:53:44.000Z"
   },
   "gfx/env/gehennaup.tga": {
-   "filesize": 509867,
-   "timestamp": "2007-10-20"
+   "sha256": "21d744fe6dda2bcff73b713e8e3742522d161a139a8d410cd97b1f760f29ca6e",
+   "size": 509867,
+   "timestamp": "2007-10-20T12:53:44.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2007-10-25T18:22:28.000Z"
   },
   "maps/sickbase.bsp": {
-   "filesize": 9320320,
-   "timestamp": "2007-10-25"
+   "sha256": "f514c0f7447a2f4fe634f4457513c9deb489de6580a8974a6437ac41111dbbc3",
+   "size": 9320320,
+   "timestamp": "2007-10-25T18:15:10.000Z"
   }
  },
  "filesize": 4676,
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "402e4ac58875345ef0fbd373e97d1f381360290649f4c563676d9192324d8c59",
  "tags": [
   "author=RickyT23",

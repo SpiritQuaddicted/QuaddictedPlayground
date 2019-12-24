@@ -4,87 +4,131 @@
  ],
  "files": {
   "arcanum_v11.txt": {
-   "filesize": 200,
-   "timestamp": "2011-05-08"
+   "sha256": "ca219c3abe4c36fc77d5365cd13ceb096a07f682b1819a028cc28a9434e1adf6",
+   "size": 200,
+   "timestamp": "2011-05-08T20:54:18.000Z"
   },
   "arcanumreadme.txt": {
-   "filesize": 3698,
-   "timestamp": "2011-05-04"
+   "sha256": "c48aa774f51e6103a29a1b4573293eccbd70913b3804cfd4b61e82eb3b55e82d",
+   "size": 3698,
+   "timestamp": "2011-05-04T09:26:58.000Z"
+  },
+  "gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2011-05-04T09:00:04.000Z"
+  },
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2011-05-04T09:04:30.000Z"
   },
   "gfx/env/floodland_bk.tga": {
-   "filesize": 103354,
-   "timestamp": "2002-06-30"
+   "sha256": "0373cb3405614102f325e1fc4b373b93211321c077a4819c19e7be7f59f739c0",
+   "size": 103354,
+   "timestamp": "2002-06-30T00:35:28.000Z"
   },
   "gfx/env/floodland_dn.tga": {
-   "filesize": 162355,
-   "timestamp": "2002-10-30"
+   "sha256": "598319c5158caa6e4a715fad40778431de6b3c3950e285961944d83bfd1e044b",
+   "size": 162355,
+   "timestamp": "2002-10-30T16:43:20.000Z"
   },
   "gfx/env/floodland_ft.tga": {
-   "filesize": 402531,
-   "timestamp": "2002-06-29"
+   "sha256": "77f07cf545da75cc08548677359dc65fe17b68f78d092c2a96c0d1eb747335a9",
+   "size": 402531,
+   "timestamp": "2002-06-29T22:38:08.000Z"
   },
   "gfx/env/floodland_lf.tga": {
-   "filesize": 132172,
-   "timestamp": "2002-06-29"
+   "sha256": "4427043aa446d25853c68433641eb39ea8b3ecc07c5284285788cf4d27367537",
+   "size": 132172,
+   "timestamp": "2002-06-29T23:32:46.000Z"
   },
   "gfx/env/floodland_rt.tga": {
-   "filesize": 105680,
-   "timestamp": "2002-06-30"
+   "sha256": "0fdfd155d1dfb1d0a82630c85fd113683abeab55d93429d2719a0c41a64da66c",
+   "size": 105680,
+   "timestamp": "2002-06-30T01:37:36.000Z"
   },
   "gfx/env/floodland_up.tga": {
-   "filesize": 182104,
-   "timestamp": "2002-10-30"
+   "sha256": "ec6d2cb0d06f91532a183a81af7bd4e206c40306e5c4d3c81cc41cd8abd5d944",
+   "size": 182104,
+   "timestamp": "2002-10-30T16:43:16.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2011-05-04T09:24:30.000Z"
   },
   "maps/arcanum1.bsp": {
-   "filesize": 6296820,
-   "timestamp": "2011-05-07"
+   "sha256": "2378d6cca6285c8a5983388d38f4ddafab64a98f79db11e0b3738fd7e7f96725",
+   "size": 6296820,
+   "timestamp": "2011-05-07T22:22:40.000Z"
   },
   "maps/arcanum2.bsp": {
-   "filesize": 6642760,
-   "timestamp": "2011-05-07"
+   "sha256": "856cf91d4e2cf6678d54c446aa1d1dada1884f0461bea56a0e4a0de7e1450969",
+   "size": 6642760,
+   "timestamp": "2011-05-07T22:22:52.000Z"
   },
   "maps/arcanum3.bsp": {
-   "filesize": 7501212,
-   "timestamp": "2011-05-07"
+   "sha256": "946a4b57923dbd4b434c758cf78dfd366a4df4d7c233fc011d4cb34207f158ba",
+   "size": 7501212,
+   "timestamp": "2011-05-07T22:23:00.000Z"
   },
   "maps/arcanum4.bsp": {
-   "filesize": 9295920,
-   "timestamp": "2011-05-07"
+   "sha256": "fcff1848a10fb99f91d885c5a63071f1ed780443aee817a667fab1812c5af8f1",
+   "size": 9295920,
+   "timestamp": "2011-05-07T22:23:12.000Z"
   },
   "maps/arcanum5.bsp": {
-   "filesize": 7646224,
-   "timestamp": "2011-05-07"
+   "sha256": "9957299737852d178f33be0f00b422826d6f646ab6bc73a3abc5f6a94b0d30e7",
+   "size": 7646224,
+   "timestamp": "2011-05-07T22:23:24.000Z"
   },
   "maps/arcstart.bsp": {
-   "filesize": 1956861,
-   "timestamp": "2010-01-22"
+   "sha256": "dc0f4f2e3d3fde1bff42312a0e314bb2f817c8b7702b9e089a0af193dcc5a270",
+   "size": 1956861,
+   "timestamp": "2010-01-22T18:12:36.000Z"
   },
   "maps/arcstart.lit": {
-   "filesize": 462668,
-   "timestamp": "2010-01-22"
+   "sha256": "4c51847fc6a9f7ff7df91560a3b0ed1339a4bfadca40ed09bf37a25b3ebcd71b",
+   "size": 462668,
+   "timestamp": "2010-01-22T18:12:36.000Z"
+  },
+  "sound/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2011-05-04T09:01:50.000Z"
+  },
+  "sound/music/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2011-05-04T09:27:24.000Z"
   },
   "sound/music/earth.wav": {
-   "filesize": 794056,
-   "timestamp": "2009-10-31"
+   "sha256": "6cec516162e754962cbce1cff729d7118b1f25e6cfeae1fe2adca4b259d25542",
+   "size": 794056,
+   "timestamp": "2009-10-31T11:43:58.000Z"
   },
   "sound/music/warp.wav": {
-   "filesize": 1400940,
-   "timestamp": "2008-11-30"
+   "sha256": "55acf963b9bf85a9b9413ac4d947e63089317107e631931780c180990a6386ae",
+   "size": 1400940,
+   "timestamp": "2008-11-30T04:27:22.000Z"
   },
   "sound/music/warpb.wav": {
-   "filesize": 2518936,
-   "timestamp": "2011-04-29"
+   "sha256": "11836c55e7e4a4a43fd85772222b3a3bc4a878240f49b7065c265f2df70a347e",
+   "size": 2518936,
+   "timestamp": "2011-04-29T08:53:30.000Z"
   },
   "sound/music/warpc.wav": {
-   "filesize": 1783948,
-   "timestamp": "2008-11-30"
+   "sha256": "950d5db0f7548e8a2b073847d2d00bbc5f910bcbc676c7a4eb5b3120e59c7632",
+   "size": 1783948,
+   "timestamp": "2008-11-30T04:27:28.000Z"
   }
  },
  "filesize": 18975,
  "install": {
   "extract": "{quake}/drake/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "3dc5df285b1bdbf6240198b0e385e3c67374617225261ae33836ebd252ee52c7",
  "tags": [
   "author=PM",

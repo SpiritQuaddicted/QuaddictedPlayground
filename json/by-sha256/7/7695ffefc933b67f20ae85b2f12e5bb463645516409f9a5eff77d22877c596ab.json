@@ -3,52 +3,77 @@
   "matsp2.zip"
  ],
  "files": {
+  "gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-22T16:59:46.000Z"
+  },
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-22T16:59:46.000Z"
+  },
   "gfx/env/vlcnobk.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
+   "sha256": "efa460f343f847869c07ce9dd10b88a726ee4bcd6cafdde61ed28e8ff0a6405d",
+   "size": 196944,
+   "timestamp": "1999-06-30T15:06:36.000Z"
   },
   "gfx/env/vlcnodn.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
+   "sha256": "ef3bba677bb986a5526a1a0556abae062f7766e4229a2aa007e41eb7abf21528",
+   "size": 196944,
+   "timestamp": "1999-06-30T15:06:36.000Z"
   },
   "gfx/env/vlcnoft.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
+   "sha256": "3d53e28d59b18c502d1de1143b3200c00959c087646f7b9c4a6890ff24e361c0",
+   "size": 196944,
+   "timestamp": "1999-06-30T15:06:36.000Z"
   },
   "gfx/env/vlcnolf.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
+   "sha256": "033623f23ac60dab52a100338614bea458ea29d2488df5db2d26872a55852c73",
+   "size": 196944,
+   "timestamp": "1999-06-30T15:06:36.000Z"
   },
   "gfx/env/vlcnort.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
+   "sha256": "a6bfe982312cf804647f53b6acf906f1a2718e734404d72b2b3b561addacca2a",
+   "size": 196944,
+   "timestamp": "1999-06-30T15:06:36.000Z"
   },
   "gfx/env/vlcnoup.tga": {
-   "filesize": 196944,
-   "timestamp": "1999-06-30"
+   "sha256": "d4591ab405602891f3286a2d97f5641ac6933331990bd554fe3ec26eb6fa6cc1",
+   "size": 196944,
+   "timestamp": "1999-06-30T15:06:36.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2009-04-22T16:59:44.000Z"
   },
   "maps/matsp2.bsp": {
-   "filesize": 3780248,
-   "timestamp": "2003-04-20"
+   "sha256": "4000ec8ac4825313e450238a3780c770ea67f39024b6e1e7e842b4e78e5b73a7",
+   "size": 3780248,
+   "timestamp": "2003-04-20T22:43:34.000Z"
   },
   "maps/matsp2.lit": {
-   "filesize": 1894409,
-   "timestamp": "2003-04-20"
+   "sha256": "023909e49bd04b1e9b0859ec9311309a4e919c83984bb77b554052ca11e49c0e",
+   "size": 1894409,
+   "timestamp": "2003-04-20T20:42:58.000Z"
   },
   "maps/matsp2.txt": {
-   "filesize": 1910,
-   "timestamp": "2003-04-21"
+   "sha256": "b089fa8f36962e15211adb3da4c3bac49673a147d5feda3c51cc54fa4f93daab",
+   "size": 1910,
+   "timestamp": "2003-04-21T13:59:08.000Z"
   },
   "matsp2_quaddictedrepack.txt": {
-   "filesize": 319,
-   "timestamp": "2009-04-28"
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "size": 319,
+   "timestamp": "2009-04-28T16:51:02.000Z"
   }
  },
  "filesize": 1820,
  "install": {
   "extract": "{quake}/id1/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "7695ffefc933b67f20ae85b2f12e5bb463645516409f9a5eff77d22877c596ab",
  "tags": [
   "author=Mateusz 'MaTi' Piaskiewicz",

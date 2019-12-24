@@ -4,23 +4,26 @@
  ],
  "files": {
   "custmap.txt": {
-   "filesize": 2204,
-   "timestamp": "1996-11-20"
+   "sha256": "3defca64f967b43831352af230f68e89f459afe1d3b95ef6644e24927abfc4c0",
+   "size": 2204,
+   "timestamp": "1996-11-20T17:25:10.000Z"
   },
   "placebo.bsp": {
-   "filesize": 1509912,
-   "timestamp": "1996-11-20"
+   "sha256": "cb5ae919548f751530da9141a61c949b87fd69177692f11b0dfcba6ef9798086",
+   "size": 1509912,
+   "timestamp": "1996-11-20T18:01:22.000Z"
   },
   "placebo.txt": {
-   "filesize": 3731,
-   "timestamp": "1996-11-20"
+   "sha256": "138a745c4083f60f069f62856e5593790eb5ac3910612cedba896934fa146d1d",
+   "size": 3731,
+   "timestamp": "1996-11-20T18:16:54.000Z"
   }
  },
  "filesize": 672,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "42a15c54072ab540c5cd9ca801b04d51271e32d190cf6b0b7c127e40c6999899",
  "tags": [
   "author=Martin Hryniewieck",

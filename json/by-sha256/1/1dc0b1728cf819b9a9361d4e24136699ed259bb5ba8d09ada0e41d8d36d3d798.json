@@ -4,19 +4,31 @@
  ],
  "files": {
   "pak0.pak": {
-   "filesize": 1157568,
-   "timestamp": "1996-11-17"
+   "files": {
+    "maps/epoch.bsp": {
+     "sha256": "6896c1fd4517d174c7acc8bc9ee874815fa4b21865fb37a02e4d29fe4f057447",
+     "size": 124420
+    },
+    "maps/epoch1m2.bsp": {
+     "sha256": "e70094b770cf221e8af0dc88aad759ef0099fd259e96d8cddb433e7d85fee1fa",
+     "size": 1033008
+    }
+   },
+   "sha256": "b86298702b13b925c15f386c46872e9eace8939beb13b75cd2aac3830ad22458",
+   "size": 1157568,
+   "timestamp": "1996-11-17T03:40:16.000Z"
   },
   "quard.txt": {
-   "filesize": 3552,
-   "timestamp": "1996-11-17"
+   "sha256": "2f3de452d36937b79950bb73cd0e2e00b6be4ccfa773c048fe92c61d2d911d3f",
+   "size": 3552,
+   "timestamp": "1996-11-17T04:06:50.000Z"
   }
  },
  "filesize": 479,
  "install": {
   "extract": "{quake}/guard/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "1dc0b1728cf819b9a9361d4e24136699ed259bb5ba8d09ada0e41d8d36d3d798",
  "tags": [
   "author=Andrew Smith",

@@ -4,31 +4,666 @@
  ],
  "files": {
   "pak0.pak": {
-   "filesize": 11298992,
-   "timestamp": "2006-07-15"
+   "files": {
+    "demo1.dem": {
+     "sha256": "654155f81720fae233cbe22c9d68eba7c5e3935153499f4892ee5247821984de",
+     "size": 284476
+    },
+    "demo2.dem": {
+     "sha256": "b86242809a14f77400abd0ac9d0fe4f69244fe5bd1d2d8c3676f147290db9fc2",
+     "size": 244822
+    },
+    "demo3.dem": {
+     "sha256": "4f09a01c33f7fcf8857d4023657cc62187354f611dfc471c5e2eebc08b43de01",
+     "size": 585687
+    },
+    "maps/trsp3.bsp": {
+     "sha256": "e0a3448138e9877daad95f17e1372607d3d642fcb6686dff9d7703dbcb94fc74",
+     "size": 3011532
+    },
+    "maps/trsp3end.bsp": {
+     "sha256": "ed9f8521f1b0210b79ee4edf62914017f13625268365044c14519e2da19453cb",
+     "size": 884656
+    },
+    "maps/trsp3st.bsp": {
+     "sha256": "8d4ea39181a2c389eb55fde3f848a8a99ca636ad5c198260db1f5aa59b7c0e3c",
+     "size": 317908
+    },
+    "progs.dat": {
+     "sha256": "eb9292c3f6250991d6a6a6ef6727ecb7647725c18dbd31cb4ce27f08fd8f424d",
+     "size": 718696
+    },
+    "progs/armalegs.mdl": {
+     "sha256": "b33a8f7e4cd3fca9b8c9427d8002a5470da44ce919648e1a0045f3f131f73deb",
+     "size": 106288
+    },
+    "progs/boss2.mdl": {
+     "sha256": "1facc0982b8b8e8dc7bc6fec04f0cce0546b50b08cc2bbcc3108c335a77fc0e1",
+     "size": 629301
+    },
+    "progs/enforce2.mdl": {
+     "sha256": "af9095cffbc74edc9d98d4e4e341736e304404df52983be33616da84d6463c87",
+     "size": 224812
+    },
+    "progs/enforcer.mdl": {
+     "sha256": "c320c3d37993dedb88e9e4c6e824cae03f9df223b795524cf1070e36e00aec7a",
+     "size": 649023
+    },
+    "progs/g_laserg.mdl": {
+     "sha256": "3ea51e8940c4a90018c9364fed078cc03a60d2545cfa572fd3c94f06093352fa",
+     "size": 64840
+    },
+    "progs/h_me.mdl": {
+     "sha256": "2fff2f36173080827a298870a956fb11ad30f34aa0342ba5ca2c8bd6509edf57",
+     "size": 12416
+    },
+    "progs/h_scourg.mdl": {
+     "sha256": "36f7e656c04f19c91c30977bd4c64d81e0aa1a8b942c93a6a2103f74f86b9c92",
+     "size": 27796
+    },
+    "progs/hknight2.mdl": {
+     "sha256": "f8ad2dc18653e36630eae567633d84b2e03a52a6cd8c125edafce1c87ff18c8c",
+     "size": 909361
+    },
+    "progs/k2_spk.mdl": {
+     "sha256": "684936126a27f5d12d09135e5ac17e5dece9b74b1c0a80009b19440fca4e39eb",
+     "size": 17584
+    },
+    "progs/lasrspik.mdl": {
+     "sha256": "26991bd856edc7384e70ce19ccea146a134742d07ee05261cd32d56c72275ace",
+     "size": 11348
+    },
+    "progs/memissil.mdl": {
+     "sha256": "6a7022fa8210771be206034a2b0ebeb59f6fc79719d499ac01811a4ff32eb08a",
+     "size": 59078
+    },
+    "progs/playham.mdl": {
+     "sha256": "c12b9df6aa6b16226c4123630640e61facfc113baf3cf2278d31efa1f1a39fb9",
+     "size": 112356
+    },
+    "progs/proxbomb.mdl": {
+     "sha256": "8827c874c10315b83d4ab7ba15f175ce457c1e41484383459eb2614947195a4c",
+     "size": 12724
+    },
+    "progs/s_bullet.spr": {
+     "sha256": "bce3194039dc74c5545e6255f771494824e01f24b23dd386f2e1333d52ba7f5d",
+     "size": 120
+    },
+    "progs/scor.mdl": {
+     "sha256": "13f3baa6760b38c1a7ba30eea9b581754dd87eeb1875248ce6feb1d1efb3582f",
+     "size": 97396
+    },
+    "progs/shamrock.mdl": {
+     "sha256": "0a8f6b6d751a8bcaf25a44f48f0dd88bb6c06efc0cadb7ae12d844e496522cb9",
+     "size": 45732
+    },
+    "progs/spikmine.mdl": {
+     "sha256": "edf05558cb271d6b08722f1dfee3b5f611f201f5dbd1bb539fd4bf5ea7b313fc",
+     "size": 55572
+    },
+    "progs/tarsbody.mdl": {
+     "sha256": "084d668e60990a1268059ca9d4d5a2979963ccf9c6dad06adb036787246a5943",
+     "size": 133520
+    },
+    "progs/v_hammer.mdl": {
+     "sha256": "d5e44a40cddca47f9b0d98ea8f7ee7d7d37a37dd5d55d90e35672d396536b2b6",
+     "size": 58404
+    },
+    "progs/v_laserg.mdl": {
+     "sha256": "34a9a462eabdc8dfd3b8377a6707d6447858249b6477788e1cf962fcbeb73c61",
+     "size": 51724
+    },
+    "progs/v_prox.mdl": {
+     "sha256": "d164192c6c46aed2c1574e5be24041cea381a70fd7805e198fb37a73acc7f3d9",
+     "size": 58548
+    },
+    "qc/ai.qc": {
+     "sha256": "c54e9f2232c65724a1b7fc44782a02bb5c5f793d7d64e4b694e7898f6421f584",
+     "size": 25496
+    },
+    "qc/amtest.qc": {
+     "sha256": "8dd158020b8c0be6988b0f1fbe03990372fb769442dbaf85248ef8c0e18645ee",
+     "size": 1697
+    },
+    "qc/boss.qc": {
+     "sha256": "674893303bff9280f134066f168b06dd2dd1d58591c42acc2c70c6e2a4b9ba82",
+     "size": 12411
+    },
+    "qc/boss2.qc": {
+     "sha256": "80e67fb24421e8048b215dc1cb005b72158c57d5e7a3552b8e5f9661e204fe99",
+     "size": 6553
+    },
+    "qc/boss2f.qc": {
+     "sha256": "2520d3fcb91c37760a75109bcb4ff41b60ac9cfe4dbce6caca02b4174c614bf6",
+     "size": 1345
+    },
+    "qc/builtin.c": {
+     "sha256": "b8aba0fc0a369b7acc93a623cf622db5da8bed857ced54cc8fce56f53b85144f",
+     "size": 31202
+    },
+    "qc/buttons.qc": {
+     "sha256": "4a3075cd783cdb788948dd1dc79abb63cfb30a016cb3f1a5979814f457dd9f6c",
+     "size": 2910
+    },
+    "qc/client.qc": {
+     "sha256": "5de3f8c18465e511414cc4d54a8287d71b1c98ddaa0755cbe6690fa9e9fcfc99",
+     "size": 47757
+    },
+    "qc/cmdlib.c": {
+     "sha256": "b1c580151d9f1daea00b3dd0a72ea613568c9414b9ca1caaae8d9c4334eaaa0d",
+     "size": 8876
+    },
+    "qc/combat.qc": {
+     "sha256": "f6d0b37c212f313777c4dce0909a19a58c015e34050ee03c57176e317366df6c",
+     "size": 7329
+    },
+    "qc/defs.qc": {
+     "sha256": "cc62dd29caf5ed75332104641fc606a60fc54369b60d935aa01375ec9e68e11c",
+     "size": 17485
+    },
+    "qc/demon.qc": {
+     "sha256": "b20d0e3664ff9ff9e55222ad73507016a832b15a4cb28f93b86e90fa35ea445c",
+     "size": 9904
+    },
+    "qc/dog.qc": {
+     "sha256": "7dd3980dc2f284046f0e516b39d8b7391ac4a87b758b2f89aeb682feab2cc2bc",
+     "size": 9542
+    },
+    "qc/doors.qc": {
+     "sha256": "125ecc6795edfa031b44082217a4f004a630e44e438b9dcb3e374f9d56b6ed9c",
+     "size": 17028
+    },
+    "qc/enforce2.qc": {
+     "sha256": "3f75f7d0a85fe060e208eb31f8b959b205d9102e6e43c01f3e69a2d0f4967e9f",
+     "size": 15889
+    },
+    "qc/enforcer.qc": {
+     "sha256": "9dcfc7cf540b0457fdfa3c0798367ea2de8f5df65c4eb674395d1a64d446e275",
+     "size": 12260
+    },
+    "qc/fight.qc": {
+     "sha256": "d108ca75d6dbe2a4e578df00588a280cc23c1ab4dba3d5e46d64767b1b3089b0",
+     "size": 7217
+    },
+    "qc/fish.qc": {
+     "sha256": "89a6e79d6e7d5b816db511c3a333bfb35694286673a6f665f27a2e2fcb13f2b3",
+     "size": 8377
+    },
+    "qc/flag.qc": {
+     "sha256": "143f0b896c7515dcdaaf5b436d130fe1ffb6fa67cad2a34ad4639724201b3445",
+     "size": 141
+    },
+    "qc/hip_brk.qc": {
+     "sha256": "dc2ec447731f17ff7282c4980b49da8b71589eec4e8b7885fa5650ecf8961eec",
+     "size": 2037
+    },
+    "qc/hip_expl.qc": {
+     "sha256": "060d5467af23b6f5282b5307dc9d465219512ee8dae1f3854753af6543cb5b14",
+     "size": 4984
+    },
+    "qc/hip_part.qc": {
+     "sha256": "e8ea6fd0753e810b7e8ce2094cf3d49608e55f545919c8a5d135c3871f909048",
+     "size": 7131
+    },
+    "qc/hip_push.qc": {
+     "sha256": "d040d311a043b24c6140c8fee9ba0b3bcb2b136dbf2b6b54268324ffe383c6b1",
+     "size": 2265
+    },
+    "qc/hiparma.qc": {
+     "sha256": "d1b52493f14271cf9d7c3fc48e7b2e9083fc199b9bf4634dc8e957d50993911f",
+     "size": 35979
+    },
+    "qc/hipclock.qc": {
+     "sha256": "e9e7b43b1825a6e2f82d27abfe2c8ee7b17fe01c162d9a91f5d38b814f381be6",
+     "size": 1881
+    },
+    "qc/hipcount.qc": {
+     "sha256": "c6aa9486528fa6e00b746d12a4578fb2d871e610a06f79edc11fdd691abf1854",
+     "size": 3898
+    },
+    "qc/hipdecoy.qc": {
+     "sha256": "eaf81dc44c4b02a041f6c5ecf42f85e5aba63213bedddbdb30cbf151301b9793",
+     "size": 3939
+    },
+    "qc/hipdefs.qc": {
+     "sha256": "aea5afeb0f5c3af17c70f77482cea5ee3de60378b06ac371388bbf81d30953c9",
+     "size": 2933
+    },
+    "qc/hipgrem.qc": {
+     "sha256": "c5fa723a4cf8d71ba307d69a244821c2d4c9775de267edf0f8dd627a9b84ee0b",
+     "size": 56092
+    },
+    "qc/hipholes.qc": {
+     "sha256": "aa15d16b7e2080025f58899b3e024cf131000ae337a9a432c34fac7f6045f700",
+     "size": 2654
+    },
+    "qc/hipitems.qc": {
+     "sha256": "fd10dd4ef525c84cf64524b02280e4bbc293fae16738bebf002d44c9bf802269",
+     "size": 23377
+    },
+    "qc/hipmisc.qc": {
+     "sha256": "5582e64668172b14a2c07fabb30fd7ccff503a7ab5a3a41233564269bd8572c1",
+     "size": 13394
+    },
+    "qc/hipmodel.qc": {
+     "sha256": "47dd32c53f6b92393887325e6cae23b61cbf2dee766fd6aa40e0236e3d501008",
+     "size": 3537
+    },
+    "qc/hipquake.qc": {
+     "sha256": "526b8f617fca97f9da5213542c74892ff29ca5700f4305636ab9bfc682ee86e8",
+     "size": 1681
+    },
+    "qc/hiprot.qc": {
+     "sha256": "4cfbd54e7514db7095c64a905232bed478fdd11e320ca9e1f2c54ddd62a5d0ab",
+     "size": 26953
+    },
+    "qc/hiprubbl.qc": {
+     "sha256": "575da38e3c434962657d0b5f265968b8590261e0ebcc7e7b935ac3fa2e28a6ff",
+     "size": 2965
+    },
+    "qc/hipscrge.qc": {
+     "sha256": "3aced2bb3041e025d3880a82530e8c5f1a026994adea75812ee88922372a1585",
+     "size": 16207
+    },
+    "qc/hipspawn.qc": {
+     "sha256": "cb149bf637d2efc207cd61464ee1f1a7212f5428eb1d52ae8febc6e76dd92c4e",
+     "size": 10398
+    },
+    "qc/hipspike.qc": {
+     "sha256": "70c5795112ad4d25c460b99e45f4ddce3a6d4528522e6eee3fb81f9ba9aef8ff",
+     "size": 1717
+    },
+    "qc/hipspr.qc": {
+     "sha256": "f19e5be74eb6f49ce7d995818569d0c712c8ab792100fc6682417c8383390d15",
+     "size": 382
+    },
+    "qc/hipsubs.qc": {
+     "sha256": "8c165a40c63b9ffe0f5d7222dbae458c5a52e1955347718244d2c3bf7b0c7645",
+     "size": 6648
+    },
+    "qc/hiptrain.qc": {
+     "sha256": "8d7cdd9b333a27e9b5ec18a7b5dade6a635d43027a8f44280d38ac39a6fdb865",
+     "size": 4785
+    },
+    "qc/hiptrig.qc": {
+     "sha256": "5ab153ae3001c30dce8abf6056cdb0abb79cb5bf96b5a0852bc30d4b4b5eb159",
+     "size": 6461
+    },
+    "qc/hipwater.qc": {
+     "sha256": "47fbac4f143a2ace2e033fd7bb2c29cc39e1b3a1bb6b16ee7786938d070e0ca3",
+     "size": 1238
+    },
+    "qc/hknight.qc": {
+     "sha256": "055d95c5d2b7d202b31a2408ca9f154fee3fa9661f7c43dcb6376c92378d6c62",
+     "size": 19395
+    },
+    "qc/items.qc": {
+     "sha256": "3b6a3a9cdd8008840ee857463e74098fe88e0c1f66ab4c2a19bcb68ec1539d0f",
+     "size": 29764
+    },
+    "qc/jctest.qc": {
+     "sha256": "0b356238bdae38139e36fb7f9ed5a72e65accee92b48f25035b79ec315a7da06",
+     "size": 222
+    },
+    "qc/knight.qc": {
+     "sha256": "53202927092c04d472a311e5ec8732cdb2ed9224c6520fbe4d126e152b5cee87",
+     "size": 9684
+    },
+    "qc/misc.qc": {
+     "sha256": "2b56f2449d7f4cfcbc0437aa9f9a3ec8a98eeddc06d1f11a17278ac406bdf05b",
+     "size": 17578
+    },
+    "qc/models.qc": {
+     "sha256": "d11fd0939293244962c5a40766e1dce246bde98eb0d42c87eb530a58d6eca64d",
+     "size": 8996
+    },
+    "qc/monsters.qc": {
+     "sha256": "38e181b3a6dfedae2fed2781b588a96e92e1b59c7f4504de45c57a3189060340",
+     "size": 4932
+    },
+    "qc/ogre.qc": {
+     "sha256": "26fe1334e7e502f5b2834d2a19741941ec748d808e104162bb382623d1558ef0",
+     "size": 14687
+    },
+    "qc/oldone.qc": {
+     "sha256": "3ebf15cec4adf547d8859cb54772e9c1c331fd30cb3c82bccb328bb945e5f834",
+     "size": 9537
+    },
+    "qc/plats.qc": {
+     "sha256": "a5338b5e69814d193d06685e9c24a417fe1b94d46e996f87c7788218791901b1",
+     "size": 7693
+    },
+    "qc/player.qc": {
+     "sha256": "3e11eacb62c44a59bb08297dd6bccabd046e569953069bbd5d721c55102b591f",
+     "size": 23619
+    },
+    "qc/progdefs.h": {
+     "sha256": "99e562ac15081804245e7c7018956f2241cffa00a024a954c97183248bd00ea4",
+     "size": 2598
+    },
+    "qc/progs.src": {
+     "sha256": "70981811022300d7289b7dd716348d460aa1779fe70168a295028f04b780a747",
+     "size": 837
+    },
+    "qc/shalrath.qc": {
+     "sha256": "849e0d7efbd62a04ee216f0b451fcc63dc7ea6f2ab877e400670ba0568eae7af",
+     "size": 7899
+    },
+    "qc/shambler.qc": {
+     "sha256": "0c50557b8757d8be3a0876564cfa125e4e8389cae1c55c844871aff5f844c342",
+     "size": 12725
+    },
+    "qc/sknight.qc": {
+     "sha256": "bfc3d406fbe0d707de02c042805d1635c2bce9150899c2689385a72761f9bfdd",
+     "size": 8515
+    },
+    "qc/soldier.qc": {
+     "sha256": "f66da2d85ad5ac42dfe13fd434018e64ca8eddba1e7b3abb747b4577ba072d01",
+     "size": 9825
+    },
+    "qc/sprites.qc": {
+     "sha256": "c00564e7ca0ab70d7891931ff333461ff90aa6052f46e8ebb02f59de6e03787d",
+     "size": 450
+    },
+    "qc/subs.qc": {
+     "sha256": "3dcc59fd6e3eb1390c0e9ebe0878be96063f493d8fec326a8fa7a7666302f5f5",
+     "size": 6378
+    },
+    "qc/sweapons.qc": {
+     "sha256": "31b2cb0cd905b397799b78fff249d8386d4189bd26e749d9566d3602c5539124",
+     "size": 49450
+    },
+    "qc/tarbaby.qc": {
+     "sha256": "4968e4ee45f401c5a703a9c687cddbdb2acd80f3ca2bf95c71f4260a977aae71",
+     "size": 7116
+    },
+    "qc/tarsagon.qc": {
+     "sha256": "6859f3659534a8685207f3c60c9e5a30fb300623b362f6b33b23bdd7a5d6f872",
+     "size": 36585
+    },
+    "qc/temp.qc": {
+     "sha256": "5d9dfc2228d7d81e6f8c9a059c6a8347796ce96cebbf420f3126e24307553a2a",
+     "size": 2340
+    },
+    "qc/triggers.qc": {
+     "sha256": "72db1388edb841295313348a20680f1547cc4f9f9d3c14fc7ec72efa0bd476c8",
+     "size": 15741
+    },
+    "qc/weapons.qc": {
+     "sha256": "79e6bf632cb682c7594c19b347eb3818fbbbd3d5d06447e5342efc0f65e77f9a",
+     "size": 49494
+    },
+    "qc/wizard.qc": {
+     "sha256": "250aa24a63df4d02949abe2cbeee24f9f959d1ecf468c6b3108d0384c7db6d32",
+     "size": 10663
+    },
+    "qc/world.qc": {
+     "sha256": "a829901dd81a624f7f64868e3cccc49833108ebf332e201feabbb94dedb7812b",
+     "size": 12867
+    },
+    "qc/xitems.qc": {
+     "sha256": "de06aade824a441f32958e47eebbbe953871ec79c9c222e0eb7fd60f1ed1bbc3",
+     "size": 20355
+    },
+    "qc/xprogs.src": {
+     "sha256": "fa57956cffe64b4d25798450cd21871191bab2711be050d4ab82d548b7b5f9f2",
+     "size": 841
+    },
+    "qc/xweapons.qc": {
+     "sha256": "795a7050d9f2e98d1cef34a99634277e317b87fcae988cc75570581118153136",
+     "size": 31075
+    },
+    "qc/zombie.qc": {
+     "sha256": "88912bf74ae3b8bdaef9207876f38046866cadb5741e79c636b77b1c2ce527ec",
+     "size": 20738
+    },
+    "quake.rc": {
+     "sha256": "ba663420fe80019bb267b5817de2cc96fc1c42c2c723fd61b97a0ae8553d0d18",
+     "size": 293
+    },
+    "sound/hipweap/laserg.wav": {
+     "sha256": "0b72f74cfb7e751eb121a36c5cb3430d9fc3cd27221c1755ea6435f5c4a76dfa",
+     "size": 9646
+    },
+    "sound/hipweap/laserric.wav": {
+     "sha256": "599e01aa9667eedc5554d47bb569d16dc510871f23800a7b8022f4cc1cbc326c",
+     "size": 13340
+    },
+    "sound/items/armor1.wav": {
+     "sha256": "0b0fbd696b78b696bb945f1d388370c2e08d9b14615112b1858e93189a71e61f",
+     "size": 7714
+    },
+    "sound/items/damage.wav": {
+     "sha256": "4cad42570a9234520c5a2d7a3c0e99f62ad468403d8a36f0e11749bdf64a4c01",
+     "size": 23374
+    },
+    "sound/items/damage2.wav": {
+     "sha256": "3b1d7392be723bb60b6f4e270fed3b371386479b0d44e368fd6464645f8c2812",
+     "size": 33012
+    },
+    "sound/items/damage3.wav": {
+     "sha256": "c04f4787be048d70b6f12be2723a62c212cecc08cfb59d2a21c9077ea478b142",
+     "size": 12894
+    },
+    "sound/items/health1.wav": {
+     "sha256": "600ed4428179dadadaae348e3f5063b4c6430ab1bc563cfc30b641911052fda1",
+     "size": 7958
+    },
+    "sound/items/r_item1.wav": {
+     "sha256": "ef880b20d435e0e89d7c5ebacbbcc4a74b90a870a3c1d10326c5636a92c2a061",
+     "size": 6822
+    },
+    "sound/items/r_item2.wav": {
+     "sha256": "9a66a57e78b8904440dfca8837859bca5840517c941e2d7d2930e7356b0cc17e",
+     "size": 7448
+    },
+    "sound/items/suit.wav": {
+     "sha256": "d5a53795fd14d29585194df23675b7c7911c6ae4d8b49fedfc37bded95aef219",
+     "size": 15854
+    },
+    "sound/items/suit2.wav": {
+     "sha256": "ac7d57aed4be13d18f3568da8d234715169e76be3eafc1a882bcab490838f81f",
+     "size": 33254
+    },
+    "sound/me/me_fire1.wav": {
+     "sha256": "2603e46e656da75b80f597a5916ecd62dbd396c3f0036d25b0a5143485076071",
+     "size": 3016
+    },
+    "sound/me/me_fire2.wav": {
+     "sha256": "7e4418c880edcd96c84069d668fe00cd70444b9af2a555611b16a6a98680422c",
+     "size": 7674
+    },
+    "sound/me/me_soff.wav": {
+     "sha256": "4c8e041824c0aacf803b6eb22f0800bdd06ea1ea3290ce1871c2bbc191b64fc2",
+     "size": 5500
+    },
+    "sound/me/me_son.wav": {
+     "sha256": "16ad7f7f93b9814a65317e63090f9873c2209579d9d57bc19b7fdfb52d526d67",
+     "size": 5308
+    },
+    "sound/me/medeath1.wav": {
+     "sha256": "c86be6c64d6a3515c225ccd734322694c1e152027d9375cd26cac5b8c6f8c3af",
+     "size": 11712
+    },
+    "sound/me/medeath2.wav": {
+     "sha256": "fde0b948b861230be1d91859a4d061987bb10fe3c7054595a54a5a872b474560",
+     "size": 20808
+    },
+    "sound/me/meidle.wav": {
+     "sha256": "8170e75a6f424e3d507ca6950a57105aa5216d6a20e493464394d57f593d3bc7",
+     "size": 3908
+    },
+    "sound/me/mepain1.wav": {
+     "sha256": "5f1aad60a8e0acfb81880822412eafeb7cf738f8333e86f240fb9c2ecbcdcb52",
+     "size": 3300
+    },
+    "sound/me/mepain2.wav": {
+     "sha256": "ada3bc3b902924be0bf5f2ed275022d3b86bbc66a6b269af9ca9e614d467efef",
+     "size": 4874
+    },
+    "sound/me/mepain3.wav": {
+     "sha256": "d3cc84b75606ea8ec7311fcceff3cb68c18d220b6c1e362d91ecc695deb5b65e",
+     "size": 6082
+    },
+    "sound/me/mesight1.wav": {
+     "sha256": "a1f1bf4f2e742e755b0ae676278df1bbe7ba9db8918133c4e40b94525b47485d",
+     "size": 8128
+    },
+    "sound/me/mesight2.wav": {
+     "sha256": "69fd72d533823d71cd21af3d97be148b5f2b0f6ae6b57a6c585ff807f81ce63e",
+     "size": 8526
+    },
+    "sound/me/mesight3.wav": {
+     "sha256": "27c6ad5ba5f0e76e071b27918c6c5735e0cbf38bfed85040cc8c1044e32b7ee9",
+     "size": 8666
+    },
+    "sound/misc/foot1.wav": {
+     "sha256": "5913e6df75b7b0e598ac4c231d91a16834229024f009cfa590eb87139324756a",
+     "size": 2474
+    },
+    "sound/misc/foot2.wav": {
+     "sha256": "e2994f408d83837c121d67c8dbf290da11b77e43124b32f8e378a28df05591c7",
+     "size": 1790
+    },
+    "sound/misc/foot3.wav": {
+     "sha256": "ebb0ef6792df57affc57440361759b15fa115b3d0a4f331ce9dba2cb49a47963",
+     "size": 2050
+    },
+    "sound/misc/foot4.wav": {
+     "sha256": "af9824d979fe1fe3cad5c562b6cc348e8e9b7824c88f45c67ad92b28b4b15b62",
+     "size": 1764
+    },
+    "sound/misc/foot5.wav": {
+     "sha256": "e8d6e6eb65cda313dc28eafcc3ebb798de2de1162cbe24a53e33d0703c10806b",
+     "size": 3158
+    },
+    "sound/misc/foot6.wav": {
+     "sha256": "a9d67538c5c3987ab294357d59a8796b201e5f4213ffc59bddc2e0b2bdddb79e",
+     "size": 2858
+    },
+    "sound/misc/foot7.wav": {
+     "sha256": "25a6d796316804be397aaabb41b7199298f2cf3283f5fc9e44981301db5c8a13",
+     "size": 2020
+    },
+    "sound/misc/longexpl.wav": {
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890",
+     "size": 42430
+    },
+    "sound/misc/shortexp.wav": {
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc",
+     "size": 27562
+    },
+    "sound/scourge/idle.wav": {
+     "sha256": "799076dbfa60e5cbb2f8ab91d351c7a72eed939d5a931dd4e8f5ec926281a284",
+     "size": 20838
+    },
+    "sound/scourge/pain.wav": {
+     "sha256": "a6034d165bd50f406436f4c79cebdb1962e384c4bd48ffe1dd58798649f5589b",
+     "size": 7080
+    },
+    "sound/scourge/pain2.wav": {
+     "sha256": "f5f59b4961d7269aae1ed66ffc6e2156e9fd49bb06eccfc39fc46b2a92d438ec",
+     "size": 11584
+    },
+    "sound/scourge/sight.wav": {
+     "sha256": "e6cea7512fe2035c23f1ad26eebdb40563d8e1d78c71f45ba09bdcf328e1411d",
+     "size": 35254
+    },
+    "sound/scourge/tailswng.wav": {
+     "sha256": "36a0de298b02529fcc5c010baa6b6c222926f59ae8f924311a904898ab9c4c04",
+     "size": 2786
+    },
+    "sound/scourge/walk.wav": {
+     "sha256": "a7dbbbea2b12c661677ad5e8b345356fe731dd36b0f11379fab939f1af3a2dec",
+     "size": 19578
+    },
+    "sound/tarsagon/death.wav": {
+     "sha256": "1afd95da6ab703a9a1b72e84380b4a3e70d7878e8fd83ce90f45c686e8192dc6",
+     "size": 108702
+    },
+    "sound/tarsagon/death2.wav": {
+     "sha256": "1a842953bcaa08280e933267e3241ce6117a5cd34385089958a613020cb8b883",
+     "size": 113888
+    },
+    "sound/tarsagon/footfall.wav": {
+     "sha256": "a15b15661d25849a7d69727841983d1de527ca6c24db073ffff16cd3a09810ad",
+     "size": 15484
+    },
+    "sound/tarsagon/idle.wav": {
+     "sha256": "c2125e999c1f97b54245fab23e0a2a92580e3c545f1c339bb8fef765d078e7cf",
+     "size": 7959
+    },
+    "sound/tarsagon/idle1.wav": {
+     "sha256": "700d31512ec38be95b02988cc3ae474272d3b6e00f09327540cfae353213fd8f",
+     "size": 32746
+    },
+    "sound/tarsagon/idle2.wav": {
+     "sha256": "19e6b320700e5620fab10acf97271e222b0867865c8985a47c6d3abf2f2c6767",
+     "size": 13230
+    },
+    "sound/tarsagon/idle3.wav": {
+     "sha256": "0188519818205f0765815a667ee9a0dae6185f5bb418922fcf23883b05d4cbb5",
+     "size": 20938
+    },
+    "sound/tarsagon/idle4.wav": {
+     "sha256": "e04e6ebc16812c175978838cc2875b72b1cfed32ccef2f94d7c1bac32faf0d34",
+     "size": 25866
+    },
+    "sound/tarsagon/pain.wav": {
+     "sha256": "cec04a92f40bfb4cebef67c0e40e24c78e8bd4ef16d4527156201f2071b90a65",
+     "size": 22474
+    },
+    "sound/tarsagon/repel.wav": {
+     "sha256": "8156b4946524ca9359cef61161712c6a3b4d9ab389b36f428700f85667c9000b",
+     "size": 33442
+    },
+    "sound/tarsagon/servo.wav": {
+     "sha256": "0aed95f20217a15503a09bc450d70a5a89a613ecbfd85e19aed9b7cc794d3f4c",
+     "size": 37684
+    },
+    "sound/tarsagon/sight.wav": {
+     "sha256": "ed618d100d982b347a334f26c4b8c276ad6b90504816829d47b6ca1df3f31f3d",
+     "size": 16506
+    },
+    "sound/tarsagon/sight1.wav": {
+     "sha256": "bb07315ab271b9e0d72317d11b956516eedae8a5e963210b198d1fa7dc87ab6d",
+     "size": 31092
+    },
+    "sound/tarsagon/sight2.wav": {
+     "sha256": "6f938579c27686229e4e8808152331a3e0aef30f82c7369e68801dec7fe400e2",
+     "size": 31092
+    }
+   },
+   "sha256": "c97c05d64d0951cd8ac2369a149d48ff5e46883200cf20a2b6d2773c52ace904",
+   "size": 11298992,
+   "timestamp": "2006-07-15T12:13:20.000Z"
   },
   "trsp3.map": {
-   "filesize": 2965125,
-   "timestamp": "2006-07-12"
+   "sha256": "4e2e5bc043bd9f4ec2ecd5fb2cfbf3cc3fa0e58e70de1d1dfdd0fca8c15dc15f",
+   "size": 2965125,
+   "timestamp": "2006-07-12T14:17:22.000Z"
   },
   "trsp3.txt": {
-   "filesize": 4026,
-   "timestamp": "2006-07-15"
+   "sha256": "2b4ce5a7bea1aafdc1d8ee72760eddb1ceb9b7f11b44c5907e0e2977871253b8",
+   "size": 4026,
+   "timestamp": "2006-07-15T12:22:48.000Z"
   },
   "trsp3end.map": {
-   "filesize": 400194,
-   "timestamp": "2006-07-11"
+   "sha256": "d4e7653b6dc8231cf6f6396252a2415cdf028b1750ed52d0f6e5757b6ad7395d",
+   "size": 400194,
+   "timestamp": "2006-07-11T15:27:30.000Z"
   },
   "trsp3st.map": {
-   "filesize": 149166,
-   "timestamp": "2006-07-10"
+   "sha256": "581b8fd7cb057b0c4cd80f2dcb1774f0a26dc5bd19af7c1625729f23dec94ee9",
+   "size": 149166,
+   "timestamp": "2006-07-10T22:11:30.000Z"
   }
  },
  "filesize": 4258,
  "install": {
   "extract": "{quake}/trsp3/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "636423328ef557ddb8f3b2c5e63f95a7f2f0860a62d548e228d291db3798368f",
  "tags": [
   "author=Trinca",

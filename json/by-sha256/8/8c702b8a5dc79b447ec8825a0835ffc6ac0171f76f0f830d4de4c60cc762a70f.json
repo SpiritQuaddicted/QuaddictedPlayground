@@ -3,288 +3,367 @@
   "copper.zip"
  ],
  "files": {
+  "copper/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2019-05-08T17:44:18.000Z"
+  },
   "copper/PAK0.PAK": {
-   "filesize": 4048317,
-   "timestamp": "2019-06-20"
+   "sha256": "6585197d235de9b551f6049072ee5bb64d2ef0ac3d5a861b0750d63a14dde306",
+   "size": 4048317,
+   "timestamp": "2019-06-20T15:33:54.000Z"
   },
   "copper/copper.def": {
-   "filesize": 88756,
-   "timestamp": "2019-06-20"
+   "sha256": "a1f971ff8ce311678ef354da0630598653ceacc3e8b3ff83cd67de396d2ce314",
+   "size": 88756,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/copper.fgd": {
-   "filesize": 43019,
-   "timestamp": "2019-06-21"
+   "sha256": "db1cbc612d072b2fa0bc804bfefe18060fc1577cd62f5880d3d0619dfb28932d",
+   "size": 43019,
+   "timestamp": "2019-06-21T00:47:04.000Z"
   },
   "copper/copper.txt": {
-   "filesize": 47954,
-   "timestamp": "2019-06-20"
+   "sha256": "e633363df8bc88ca63e38d19174d9445d5614b6ef4a1d140d469118b247e5459",
+   "size": 47954,
+   "timestamp": "2019-06-20T15:44:52.000Z"
   },
   "copper/quake.rc": {
-   "filesize": 1098,
-   "timestamp": "2019-06-17"
+   "sha256": "185da72645d8b26360bc1b4c5d33994f4fcadb2646d1d136262fad3bad5f9835",
+   "size": 1098,
+   "timestamp": "2019-06-17T20:06:22.000Z"
+  },
+  "copper/src/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2018-12-08T20:37:58.000Z"
   },
   "copper/src/ai.qc": {
-   "filesize": 30754,
-   "timestamp": "2019-06-20"
+   "sha256": "704cd0ca42db90da6f1b1be917120a63b9ee95384a705c0b4e82eb17d267da44",
+   "size": 30754,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/buttons.qc": {
-   "filesize": 4698,
-   "timestamp": "2019-06-20"
+   "sha256": "be68e38f230d0c5d5851dccf1fac307054b4b2b946894e021ae4e83212dc1bce",
+   "size": 4698,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/client.qc": {
-   "filesize": 38340,
-   "timestamp": "2019-06-20"
+   "sha256": "e44151f6f1a05ee3266fd4c0898ce0634298886a95bfe87d1da1c42804a3a2fe",
+   "size": 38340,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/combat.qc": {
-   "filesize": 15406,
-   "timestamp": "2019-06-20"
+   "sha256": "8510b7b8a02da6637ad2f9512a3b1dbe0562a6bbd3ec1c7120ed5c276fec7964",
+   "size": 15406,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/constants.qc": {
-   "filesize": 8387,
-   "timestamp": "2019-06-20"
+   "sha256": "46bbce5bb625881d3f05824f9622b06ed88fc298881d896fb06cde14bc111ec6",
+   "size": 8387,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/defs.qc": {
-   "filesize": 17023,
-   "timestamp": "2019-06-20"
+   "sha256": "053ad65f18311cf29933338b4e109163babcf309ba1270bd55ed6bac72df14c9",
+   "size": 17023,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/dev.qc": {
-   "filesize": 4784,
-   "timestamp": "2019-06-20"
+   "sha256": "f17a19a4f05b55b2a1b18ca68cbadb411b35bb2e6c8a2c04046faeef7d09a8b7",
+   "size": 4784,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/doors.qc": {
-   "filesize": 26339,
-   "timestamp": "2019-06-20"
+   "sha256": "26a59229adcae409aa22ee19da4c7fca156ea2088d6b3667cdd411ef224b36f5",
+   "size": 26339,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/explobox.qc": {
-   "filesize": 6106,
-   "timestamp": "2019-06-20"
+   "sha256": "ef53c31038481494f1c477922c288de4fcc1253b03ddf5d5fb9bffb74813a9fd",
+   "size": 6106,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/fly.qc": {
-   "filesize": 4967,
-   "timestamp": "2019-06-20"
+   "sha256": "cd24f1285b4fdd73d4294b17f624e15f3f2b3ddc13e701ff42a4010e929ea307",
+   "size": 4967,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/fog.qc": {
-   "filesize": 9360,
-   "timestamp": "2019-06-20"
+   "sha256": "49c80a52d0475d49650a9989bebe776359f0b789521eee6cb74f8c14bc7e4d02",
+   "size": 9360,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/fx.qc": {
-   "filesize": 17543,
-   "timestamp": "2019-06-20"
+   "sha256": "006edf831ec0623786040967600f521788bc562e3dd6661d485d7b3bb5531d6e",
+   "size": 17543,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/impulse.qc": {
-   "filesize": 5084,
-   "timestamp": "2019-06-20"
+   "sha256": "f706a88c4a026a99245c22852bce0190a6c1601b6135f46c84d4a603d515d1de",
+   "size": 5084,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/item_backpack.qc": {
-   "filesize": 7157,
-   "timestamp": "2019-06-20"
+   "sha256": "df5f84b43af8e98ed055070e026883e25b74c7a630edfc7b0464152bf8f3a76b",
+   "size": 7157,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/item_health_armor.qc": {
-   "filesize": 7685,
-   "timestamp": "2019-06-20"
+   "sha256": "69557ff956fde880ef08fcb48dace1eebee3b45a1425fdf6d900cca1c8431f9a",
+   "size": 7685,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/item_keys_runes.qc": {
-   "filesize": 10256,
-   "timestamp": "2019-06-20"
+   "sha256": "e05f7030b4366a8182f8722e2f23d4728c5524239f716ea2612d5461573c05e9",
+   "size": 10256,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/item_powerups.qc": {
-   "filesize": 7296,
-   "timestamp": "2019-06-20"
+   "sha256": "17678f6b3c4ea47b0e6c4a87fadc9ceca0b7d7022d26d6a7d640a53fcef344d9",
+   "size": 7296,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/item_weap_ammo.qc": {
-   "filesize": 13942,
-   "timestamp": "2019-06-20"
+   "sha256": "37e29deb5a29ef9e3c1b93639f86e265eb36e0b9d390e656a804208122127166",
+   "size": 13942,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/items.qc": {
-   "filesize": 19976,
-   "timestamp": "2019-06-20"
+   "sha256": "5f1e5218ac8858652356af777777d94baaf88f4b6e3330090e1695f384fafdb4",
+   "size": 19976,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/lights.qc": {
-   "filesize": 20064,
-   "timestamp": "2019-06-20"
+   "sha256": "515d48d719d34bc5fa948456e6b3cee3bb0223aa57d3684b618133f7d0d746f9",
+   "size": 20064,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_boss.qc": {
-   "filesize": 14630,
-   "timestamp": "2019-06-20"
+   "sha256": "c1f3377e5e869ba342347cd9650735e3ede6403caa6c22c36e0d1e24b6e7d34f",
+   "size": 14630,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_demon.qc": {
-   "filesize": 15588,
-   "timestamp": "2019-06-20"
+   "sha256": "1980d902e8a3289be924d4c1710609a59946dc890171d792461ffb361d66be8e",
+   "size": 15588,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_dog.qc": {
-   "filesize": 11472,
-   "timestamp": "2019-06-20"
+   "sha256": "e78a4060818de158e13751514919bd7d23250b88d6b2002d091980f7dee7c024",
+   "size": 11472,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_enforcer.qc": {
-   "filesize": 12190,
-   "timestamp": "2019-06-20"
+   "sha256": "20ec31e8389a7b5dafb1ec9db12c6905dce7cdc699dc556502cd81dd9967df0a",
+   "size": 12190,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_fish.qc": {
-   "filesize": 10479,
-   "timestamp": "2019-06-20"
+   "sha256": "04b124e3b9d5cbf89cea2569ecbcc3c429083d85711c2cf6e8879dde26dfa6b8",
+   "size": 10479,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_hknight.qc": {
-   "filesize": 19865,
-   "timestamp": "2019-06-20"
+   "sha256": "2a73ad8f35cae98ab0ccee6fada310e60a31c0afc20ac8b52581a9f7bb140e2a",
+   "size": 19865,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_knight.qc": {
-   "filesize": 11755,
-   "timestamp": "2019-06-20"
+   "sha256": "59c691803cd5b4f9150f075466bc4933044604aa9e56714401a725a8ba41fbb2",
+   "size": 11755,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_ogre.qc": {
-   "filesize": 18715,
-   "timestamp": "2019-06-20"
+   "sha256": "65e1b76fa80b402901cb65a8f40835192b7fb18f8fca23892f560860e417c921",
+   "size": 18715,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_oldone.qc": {
-   "filesize": 12361,
-   "timestamp": "2019-06-20"
+   "sha256": "b3af65c6f52c75cfe178ce3239f0f80742e338d02b0ddbba99820dccf8767c85",
+   "size": 12361,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_shalrath.qc": {
-   "filesize": 12103,
-   "timestamp": "2019-06-20"
+   "sha256": "33dc9050501eb1ad1d23be9489108b0f1a911f35186fa75df4f474566635f9a4",
+   "size": 12103,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_shambler.qc": {
-   "filesize": 16668,
-   "timestamp": "2019-06-20"
+   "sha256": "7b480fc7e5ee5af4e7f1fb213056dfd7a98906345a8ae76918ac5dc2fd337706",
+   "size": 16668,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_soldier.qc": {
-   "filesize": 11987,
-   "timestamp": "2019-06-20"
+   "sha256": "66aa1c5185adb841de7224de5c5b08e5f064b3d7a0fd540e9333c1786cade1df",
+   "size": 11987,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_tarbaby.qc": {
-   "filesize": 10960,
-   "timestamp": "2019-06-20"
+   "sha256": "8f56780ed2f45f5d6b82605096f364e44c3eeddffb043df13da9a69b4ec0db83",
+   "size": 10960,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_wizard.qc": {
-   "filesize": 11906,
-   "timestamp": "2019-06-20"
+   "sha256": "e7263b0bb848017b0bb9dfd546b915941436325c1ad9cfa5f450ca5a5f7c1ad4",
+   "size": 11906,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/m_zombie.qc": {
-   "filesize": 24205,
-   "timestamp": "2019-06-20"
+   "sha256": "abc0922102846ae8fc6fac4f4b9fa360a7e9890b9929017b19fb9ab535736dc1",
+   "size": 24205,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/maths.qc": {
-   "filesize": 5580,
-   "timestamp": "2019-06-20"
+   "sha256": "ec0dbc107be14a43342c2583945348c824008dcb11d70c510b9560d336fcae44",
+   "size": 5580,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/meat.qc": {
-   "filesize": 5176,
-   "timestamp": "2019-06-20"
+   "sha256": "33c09ead0566340499b0300f1484782be97ab03e12c97416b6eeb1966b7921a7",
+   "size": 5176,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/misc.qc": {
-   "filesize": 21868,
-   "timestamp": "2019-06-20"
+   "sha256": "3e96fd2b45146aa3dc1ea1821443c5164982f932bff2cf27cee64311e1f27e13",
+   "size": 21868,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/monsters.qc": {
-   "filesize": 10651,
-   "timestamp": "2019-06-20"
+   "sha256": "b780552a2c74b8cd69c59924b15fc1607fe60989ae890f8b9810d80d160c6d98",
+   "size": 10651,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/plats.qc": {
-   "filesize": 23801,
-   "timestamp": "2019-06-20"
+   "sha256": "6f511898653b32a4b1e5929521627061710c85d3d6932b896b8a553e91de2f93",
+   "size": 23801,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/player.qc": {
-   "filesize": 18641,
-   "timestamp": "2019-06-20"
+   "sha256": "eebe87adf9fceb058c6f49d32c49437b628b2a94d0dda7d9f18d9d7ea3a3b732",
+   "size": 18641,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/progs.src": {
-   "filesize": 1014,
-   "timestamp": "2019-06-09"
+   "sha256": "65b1ecf869e9ba39c671e6595d425c20c8120d30d0d4e57f7a76f74c47e4ac35",
+   "size": 1014,
+   "timestamp": "2019-06-09T21:57:22.000Z"
   },
   "copper/src/projectiles.qc": {
-   "filesize": 13593,
-   "timestamp": "2019-06-20"
+   "sha256": "903646a45f13097021941ec8e6e24bdb5142933d7f396fd94d6751d5a8395663",
+   "size": 13593,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/qc2def.py": {
-   "filesize": 1734,
-   "timestamp": "2019-06-08"
+   "sha256": "834188c6cd46fb0a06489adb8a2da1966d2cf3d42c9b60d1d4b0b70d409ff26d",
+   "size": 1734,
+   "timestamp": "2019-06-08T16:25:28.000Z"
   },
   "copper/src/qc2fgd.py": {
-   "filesize": 1249,
-   "timestamp": "2019-05-17"
+   "sha256": "86cc0dc7a0e7147c93be7e7f7229dcec4129a2d857f2f8ac43d6fde374aea989",
+   "size": 1249,
+   "timestamp": "2019-05-17T12:47:48.000Z"
   },
   "copper/src/sound.qc": {
-   "filesize": 9334,
-   "timestamp": "2019-06-20"
+   "sha256": "24c5f782366d5a84dd025236b56bdb79e9b818892231c59fe7a8d3f12b02d1ad",
+   "size": 9334,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/subs.qc": {
-   "filesize": 2519,
-   "timestamp": "2019-06-20"
+   "sha256": "933638b453ae3888f5a3fc750214e9286ff378ba9efd1c61ef54786bde25b1aa",
+   "size": 2519,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/subs_move.qc": {
-   "filesize": 4151,
-   "timestamp": "2019-06-20"
+   "sha256": "e2cd4351a8cee64e8ae084952aab178a16c96a1284a52b7a560be0d412c80bfd",
+   "size": 4151,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/subs_tgt.qc": {
-   "filesize": 10291,
-   "timestamp": "2019-06-20"
+   "sha256": "bc3d69200eda4e6ad16f1a0e48caaf08c89bd0ed58a13c8f2eab780bac9632b7",
+   "size": 10291,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/t_ctrl.qc": {
-   "filesize": 12459,
-   "timestamp": "2019-06-20"
+   "sha256": "a105cf615207f522b4f7e47250ba22101800b17e9cfe529f39cf8ce93df2c4c2",
+   "size": 12459,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/t_level.qc": {
-   "filesize": 12888,
-   "timestamp": "2019-06-20"
+   "sha256": "0b42b8bfe27542a09e745f3e5a228e1d44c2df81b734ada18dbf582385558ebb",
+   "size": 12888,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/t_tele.qc": {
-   "filesize": 12156,
-   "timestamp": "2019-06-20"
+   "sha256": "371e6c0d7e82bf24ba7207e7d046d449e5f5cec40389cb40bae33ec166a9cc0c",
+   "size": 12156,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/t_void.qc": {
-   "filesize": 12434,
-   "timestamp": "2019-06-20"
+   "sha256": "0118e6b5fa4934639bd59c3fecaa3a974a58cfae8a493b6c6d64020a17fbac81",
+   "size": 12434,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/test.qc": {
-   "filesize": 329,
-   "timestamp": "2019-06-20"
+   "sha256": "1db99110de27d9e6fe20330cbfefde0d443455a85a12ae8443d9ea295e66c3f1",
+   "size": 329,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/triggers.qc": {
-   "filesize": 28409,
-   "timestamp": "2019-06-20"
+   "sha256": "37f2c117f675881637900f646628b3bd15eb758af1ac1bd9d8555a3249497300",
+   "size": 28409,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/utility.qc": {
-   "filesize": 12719,
-   "timestamp": "2019-06-20"
+   "sha256": "475f949717bef98a89dc2c471a9e9715b2ae96c861a9636ce0fc9c9637bc0330",
+   "size": 12719,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/w_axe.qc": {
-   "filesize": 3218,
-   "timestamp": "2019-06-20"
+   "sha256": "db14162e695a9a10960ab6a5bf9ab525e3a87609d2889cb434eb5c7a71616178",
+   "size": 3218,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/w_lightning.qc": {
-   "filesize": 5468,
-   "timestamp": "2019-06-20"
+   "sha256": "560368eaeb520ee7613dea7364174f2b0c270b2e9035f34a82291bdad4842367",
+   "size": 5468,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/w_nails.qc": {
-   "filesize": 4405,
-   "timestamp": "2019-06-20"
+   "sha256": "20090adbf60a4ecb9570e5e4c1339d83e5bf776be08c33c0cc6d8cd3c710c935",
+   "size": 4405,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/w_rockets.qc": {
-   "filesize": 3663,
-   "timestamp": "2019-06-20"
+   "sha256": "acbb94b43416cf9c04200387a61837285a8d611c9643f69431b3aa10701e9b78",
+   "size": 3663,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/w_shotguns.qc": {
-   "filesize": 4285,
-   "timestamp": "2019-06-20"
+   "sha256": "46388a8e154771dd49e8637b8773dc4327e8902abaf6fd0fd0e72a719f1d0390",
+   "size": 4285,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/walls.qc": {
-   "filesize": 7996,
-   "timestamp": "2019-06-20"
+   "sha256": "0577941d14cd52e24d312516d95c3e1aee16afb23edaa4e167f548417a6b7f29",
+   "size": 7996,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/weapons.qc": {
-   "filesize": 11182,
-   "timestamp": "2019-06-20"
+   "sha256": "a04c3f7f5dc70e5e02992d4e79862e124dbe61289e3914a95e03f68696478bed",
+   "size": 11182,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   },
   "copper/src/world.qc": {
-   "filesize": 12052,
-   "timestamp": "2019-06-20"
+   "sha256": "5d26d618acf1b79ccf1377d614a42c88087c1e1c11b6616381e3d4d11190fe34",
+   "size": 12052,
+   "timestamp": "2019-06-20T15:33:10.000Z"
   }
  },
  "filesize": 3064,
  "install": {
   "extract": "{quake}//"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "8c702b8a5dc79b447ec8825a0835ffc6ac0171f76f0f830d4de4c60cc762a70f",
  "tags": [
   "author=Lunaran",

@@ -4,27 +4,92 @@
  ],
  "files": {
   "deadstuf.zip": {
-   "filesize": 233014,
-   "timestamp": "1997-06-02"
+   "files": {
+    "DEADSTUF.TXT": {
+     "sha256": "508bf7ae49da9ef1b3fbb05ba74f80c11f66abfc385ffda15d584126f9258441",
+     "size": 1749,
+     "timestamp": "1997-05-25T16:29:04.000Z"
+    },
+    "PROGS.DAT": {
+     "sha256": "9c25a3cd04f98231bc3a375f41a50d4330c4f793a2274706d5e1be8f3ccdb167",
+     "size": 420376,
+     "timestamp": "1997-05-24T21:05:30.000Z"
+    },
+    "SOURCE.ZIP": {
+     "sha256": "38735310146a33ec3601e55ad7657624c4d8eff2c771017355428e63dbcc00db",
+     "size": 107295,
+     "timestamp": "1997-05-25T16:22:18.000Z"
+    }
+   },
+   "sha256": "5b2199ecfe5f96d316ab930018858b335b784becde34999378dedecb3e567b41",
+   "size": 233014,
+   "timestamp": "1997-06-02T10:26:10.000Z"
   },
   "fromhell.txt": {
-   "filesize": 4578,
-   "timestamp": "1997-10-01"
+   "sha256": "2a2b994c9262711f0c4482883149d930b859e4fa141e90437bd69c2202ef98bd",
+   "size": 4578,
+   "timestamp": "1997-10-01T10:44:32.000Z"
   },
   "pak0.pak": {
-   "filesize": 2255108,
-   "timestamp": "1997-10-01"
+   "files": {
+    "glquake/enforcer.ms2": {
+     "sha256": "2f789bbd31106af20017d01650ed75310a99e4f0608015f425644b7fad422164",
+     "size": 7616
+    },
+    "maps/b_explob.bsp": {
+     "sha256": "1b7afa62fa1e6e51bb8f4e6e185532a70983e78cd3a0c53305ec1d8ea710cfc2",
+     "size": 17420
+    },
+    "maps/fromhell.bsp": {
+     "sha256": "4cc87c482b4993972773385b1ea970fd9f40a845f3625baca8b0be23f3b04378",
+     "size": 1705044
+    },
+    "progs.dat": {
+     "sha256": "9c25a3cd04f98231bc3a375f41a50d4330c4f793a2274706d5e1be8f3ccdb167",
+     "size": 420376
+    },
+    "progs/enforcer.mdl": {
+     "sha256": "e3751edc424e730a08b3f4c9569d31729188af34d2ed4f2efe38533c75461fe8",
+     "size": 104320
+    }
+   },
+   "sha256": "0dc24c9fce7911be59ca08890f2b646df5c72c70b5d3a7c772fd57a03b805ada",
+   "size": 2255108,
+   "timestamp": "1997-10-01T10:24:02.000Z"
   },
   "sexdroid.zip": {
-   "filesize": 90987,
-   "timestamp": "1997-06-23"
+   "files": {
+    "DroidBat.bat": {
+     "sha256": "fcc834d2c2c2b091ed1f879bb9b0856c839f99e448158dfd4f29a374c82e07b0",
+     "size": 37,
+     "timestamp": "1997-06-13T20:04:44.000Z"
+    },
+    "Progs/Enforcer.mdl": {
+     "sha256": "43e1a051cf4fd186c0d77a742568472fcc4b326e720d1cb616df89bf8f2e5844",
+     "size": 182648,
+     "timestamp": "1997-06-22T17:50:32.000Z"
+    },
+    "Progs/h_mega.MDL": {
+     "sha256": "4d0dda2063720d98c5f9c72bcf2905c26d079ff2cb8778f7f808f8b530ff5a1a",
+     "size": 19012,
+     "timestamp": "1997-06-13T15:51:46.000Z"
+    },
+    "Sexdroid.txt": {
+     "sha256": "b1ff8ec5f34d1ca553f3ca6f6e496d3dd7242c5eabe8f49be136f24de237a03a",
+     "size": 2776,
+     "timestamp": "1997-06-22T21:46:26.000Z"
+    }
+   },
+   "sha256": "30d5d8c1bf1dfdf84ee9e97146bb37752b2b653883f8874c29683e42a99551ce",
+   "size": 90987,
+   "timestamp": "1997-06-23T13:12:26.000Z"
   }
  },
  "filesize": 1189,
  "install": {
   "extract": "{quake}/fromhell/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "ea7da982ae07dd76f53b9277624b533ca1afd97fb91a2806a577ab30d540fca8",
  "tags": [
   "author=Pete Burrows",

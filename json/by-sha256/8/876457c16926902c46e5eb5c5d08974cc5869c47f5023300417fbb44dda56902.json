@@ -4,23 +4,26 @@
  ],
  "files": {
   "UNDRHALL.BSP": {
-   "filesize": 485604,
-   "timestamp": "1980-01-01"
+   "sha256": "e3ea72f16a72543d73c1bcf3d791a7bc0664efb5194c866930f30ed14dba4748",
+   "size": 485604,
+   "timestamp": "1980-01-01T09:24:06.000Z"
   },
   "UNDRHALL.MAP": {
-   "filesize": 274446,
-   "timestamp": "1980-01-01"
+   "sha256": "ee52e0ed5dfb4686d6191eb363358ce03477c075d814742b880f0ba9ce1ca7d0",
+   "size": 274446,
+   "timestamp": "1980-01-01T09:23:46.000Z"
   },
   "UNDRHALL.TXT": {
-   "filesize": 1935,
-   "timestamp": "1997-06-30"
+   "sha256": "74815d637ad4e40bb853b72fb9d6774134dcc873b332cd768ef2420e7c3786e8",
+   "size": 1935,
+   "timestamp": "1997-06-30T02:39:04.000Z"
   }
  },
  "filesize": 220,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "876457c16926902c46e5eb5c5d08974cc5869c47f5023300417fbb44dda56902",
  "tags": [
   "author=Dylan Barber",

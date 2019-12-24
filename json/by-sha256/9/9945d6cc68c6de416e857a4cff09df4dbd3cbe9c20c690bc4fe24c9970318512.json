@@ -4,23 +4,61 @@
  ],
  "files": {
   "Alk05.bat": {
-   "filesize": 43,
-   "timestamp": "2000-02-07"
+   "sha256": "9103fccb13ba659e8d6787f8743bf76e53c744b0f265a61fc342e6ef2b8f0819",
+   "size": 43,
+   "timestamp": "2000-02-07T23:00:32.000Z"
+  },
+  "alk05/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2000-02-10T15:12:40.000Z"
   },
   "alk05/alk05.txt": {
-   "filesize": 5304,
-   "timestamp": "2000-02-10"
+   "sha256": "d39764984dece7c38f3844866de1f65d66ca82ded87572f2ebd065f92f2e0d41",
+   "size": 5304,
+   "timestamp": "2000-02-10T15:11:50.000Z"
   },
   "alk05/pak0.pak": {
-   "filesize": 3336236,
-   "timestamp": "2000-02-10"
+   "files": {
+    "alk05.txt": {
+     "sha256": "d39764984dece7c38f3844866de1f65d66ca82ded87572f2ebd065f92f2e0d41",
+     "size": 5304
+    },
+    "maps/alk05.bsp": {
+     "sha256": "29d52e40efae3cd02e7383600db97bc1e745e49aee71ee87ca532383602d7c89",
+     "size": 2620600
+    },
+    "progs.dat": {
+     "sha256": "c28f5d31d2a9ea83e9ce0aea20c749d1f35e4ef066655caf52ec4f6633127774",
+     "size": 423736
+    },
+    "progs/snakeman.mdl": {
+     "sha256": "8824603b325f37bbba424f55c3ff900c21ccf61c77ba97e636e91ef99202364a",
+     "size": 132028
+    },
+    "progs/uzi.mdl": {
+     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414",
+     "size": 52820
+    },
+    "sound/snakeman/sdeath.wav": {
+     "sha256": "bfa18b48ff82d753c3ed458d0d61152ef3f6672fb65d711990fbca0c5dadca56",
+     "size": 66836
+    },
+    "sound/snakeman/spain.wav": {
+     "sha256": "15b84d6adb80e4ceace4226b5185c578a752adb36f213f2488e80ad2192378aa",
+     "size": 34452
+    }
+   },
+   "sha256": "84c21e370d51b118b8a6d5cf7b09dd1c7b89a42d771836c71c59109de6b8d6de",
+   "size": 3336236,
+   "timestamp": "2000-02-10T15:12:06.000Z"
   }
  },
  "filesize": 1378,
  "install": {
   "extract": "{quake}/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "9945d6cc68c6de416e857a4cff09df4dbd3cbe9c20c690bc4fe24c9970318512",
  "tags": [
   "author=Shaun [Kona] Ross",

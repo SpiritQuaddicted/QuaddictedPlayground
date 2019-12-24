@@ -4,23 +4,26 @@
  ],
  "files": {
   "nar_cat.bsp": {
-   "filesize": 3673060,
-   "timestamp": "2015-12-05"
+   "sha256": "b145b2becb1441c5cf542107fe0948929cb87746e7bb788bfa568823030d50b2",
+   "size": 3673060,
+   "timestamp": "2015-12-05T20:59:34.000Z"
   },
   "nar_cat.lit": {
-   "filesize": 942194,
-   "timestamp": "2015-12-05"
+   "sha256": "1cd4095a46d2a09e1bbf48d8fb48e5736578d683c5539344faa2a013ab701919",
+   "size": 942194,
+   "timestamp": "2015-12-05T20:59:34.000Z"
   },
   "nar_cat.txt": {
-   "filesize": 3209,
-   "timestamp": "2015-12-05"
+   "sha256": "25653fb12b05de5b75aee5234f3ac4a7f1dbc9290591f277af399fa19d8b33bd",
+   "size": 3209,
+   "timestamp": "2015-12-05T21:30:28.000Z"
   }
  },
  "filesize": 1459,
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "f3e7ff877d8f00e287b7202a3db578415fc80240e0be2de9ab56d7e1643ff558",
  "tags": [
   "author=nadzia (narnar)",

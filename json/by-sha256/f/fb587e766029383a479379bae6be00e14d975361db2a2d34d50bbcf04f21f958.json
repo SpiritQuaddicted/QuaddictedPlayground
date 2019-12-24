@@ -4,19 +4,21 @@
  ],
  "files": {
   "Pak0.PAK": {
-   "filesize": 9362153,
-   "timestamp": "2003-05-07"
+   "sha256": "cb3fb290baefac27b365ae4ade8bce683abf6cfc2cf55156180e34c6d7096920",
+   "size": 9362153,
+   "timestamp": "2003-05-07T20:07:48.000Z"
   },
   "add2.txt": {
-   "filesize": 873,
-   "timestamp": "2003-05-07"
+   "sha256": "f98bc65d02178de59c57b4d4c863ff20c680648cc839d1e07b942c7f5bbd1941",
+   "size": 873,
+   "timestamp": "2003-05-07T20:08:50.000Z"
   }
  },
  "filesize": 4137,
  "install": {
   "extract": "{quake}/add2/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "fb587e766029383a479379bae6be00e14d975361db2a2d34d50bbcf04f21f958",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",

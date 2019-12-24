@@ -3,44 +3,82 @@
   "lthsp3.zip"
  ],
  "files": {
+  "glquake/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2001-01-10T15:42:42.000Z"
+  },
   "lthsp3.txt": {
-   "filesize": 3058,
-   "timestamp": "2001-01-16"
+   "sha256": "703de80a7322a888691209b6c23cf2532d879f41eb98f5a1563783bc7343c6a4",
+   "size": 3058,
+   "timestamp": "2001-01-16T21:14:34.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2000-12-05T17:14:52.000Z"
   },
   "maps/lthsp3.bsp": {
-   "filesize": 1353376,
-   "timestamp": "2001-01-16"
+   "sha256": "0a9b8ea8d169e4543cab221c0dd744bebf82b2044192fcdd809b93813413d54d",
+   "size": 1353376,
+   "timestamp": "2001-01-16T21:08:46.000Z"
   },
   "maps/lthsp3.lit": {
-   "filesize": 811487,
-   "timestamp": "2001-01-16"
+   "sha256": "fa71031a48e5f377219be8dd18722d3ff2b5f1adef4edeb6df0a8e11d96c4529",
+   "size": 811487,
+   "timestamp": "2001-01-16T21:08:46.000Z"
   },
   "progs.dat": {
-   "filesize": 417372,
-   "timestamp": "2001-01-15"
+   "sha256": "ea095513e4d08902711c90c874ac79bf9e89350059d6c2a2640e8383746cdd51",
+   "size": 417372,
+   "timestamp": "2001-01-15T16:11:52.000Z"
+  },
+  "progs/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2000-12-05T00:18:50.000Z"
   },
   "progs/arrow.mdl": {
-   "filesize": 21739,
-   "timestamp": "2000-08-26"
+   "sha256": "711571c64f104b6670dc602dcde08ec66b472861f8def49c3d1257008c0d6dbc",
+   "size": 21739,
+   "timestamp": "2000-08-26T17:13:48.000Z"
   },
   "progs/bowman.mdl": {
-   "filesize": 437468,
-   "timestamp": "2001-01-08"
+   "sha256": "a336e6817f07a636bcf678e04c8592f50def86bc90b3fecbeae20836e01449df",
+   "size": 437468,
+   "timestamp": "2001-01-08T21:47:58.000Z"
+  },
+  "qc/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2000-12-21T11:07:30.000Z"
+  },
+  "sound/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2001-01-08T21:46:26.000Z"
+  },
+  "sound/bowman/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2001-01-08T21:47:14.000Z"
   },
   "sound/bowman/a-fire.WAV": {
-   "filesize": 16380,
-   "timestamp": "1996-12-25"
+   "sha256": "6fcce60fdaefd5b1a061186ebd8b573445ed44719e46a39b157047e9489a5c13",
+   "size": 16380,
+   "timestamp": "1996-12-25T18:14:36.000Z"
   },
   "sound/bowman/a-hit.WAV": {
-   "filesize": 75580,
-   "timestamp": "2000-07-09"
+   "sha256": "057e64dc03c73dcc6b95377217a9a64d0984074b0f61e6727fc878f5ee38b449",
+   "size": 75580,
+   "timestamp": "2000-07-09T23:51:02.000Z"
   }
  },
  "filesize": 1010,
  "install": {
   "extract": "{quake}/lthsp3/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "7516df2038b292bb8cfeff0bfe6104989a215c76c8ef5a73d95182fa5deefe16",
  "tags": [
   "author=The Lieutenant",

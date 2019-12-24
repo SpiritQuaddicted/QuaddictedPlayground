@@ -4,47 +4,162 @@
  ],
  "files": {
   "lunsp1.txt": {
-   "filesize": 5768,
-   "timestamp": "2005-06-27"
+   "sha256": "30ead361ec5717d1aa83a49dbe183e12183f2bd8baed19d150c4b5428568ca41",
+   "size": 5768,
+   "timestamp": "2005-06-27T02:13:00.000Z"
   },
   "pak0.pak": {
-   "filesize": 6957786,
-   "timestamp": "2005-06-27"
+   "files": {
+    "lunsp1.txt": {
+     "sha256": "30ead361ec5717d1aa83a49dbe183e12183f2bd8baed19d150c4b5428568ca41",
+     "size": 5768
+    },
+    "maps/lunsp1.bsp": {
+     "sha256": "579ea0636572e2ffe623f458d6f14101b53e215bd0cf50743aebec95b23526b0",
+     "size": 4799520
+    },
+    "progs.dat": {
+     "sha256": "545ba489dab65cba938b9cda7795878ed80e7218db000a30fb7f91f4a46ed6dd",
+     "size": 444692
+    },
+    "progs/axegrunt.mdl": {
+     "sha256": "9a1094db9a9a1018fef5103ac9641ea2ade6fe493bd9b44fe59576ae5f51a2b2",
+     "size": 191852
+    },
+    "progs/boss.mdl": {
+     "sha256": "7b823975ab3765f5f490f175c33c26df9350e862a820e50255b2f81621ca5e7c",
+     "size": 211836
+    },
+    "progs/enforcer.mdl": {
+     "sha256": "82bdcd3b2bba43872e2d0488118df4bde6b0122c8ceb489c1d90008431c792d6",
+     "size": 276136
+    },
+    "progs/h_mega.mdl": {
+     "sha256": "499672202f3c38a8ab706d213d484adf2788b32d22c4fd8c2d61009786befa4e",
+     "size": 32508
+    },
+    "progs/laser2.mdl": {
+     "sha256": "bf2a07924612bc136d63d881fddb82926dbb66af12ecd3716389e96ffde90759",
+     "size": 11348
+    },
+    "progs/lavaball.mdl": {
+     "sha256": "6abc446260a90c3c2a0182f510f42a19a6f4da2c721f70201f4dc9a576b28e1a",
+     "size": 8788
+    },
+    "sound/ambience/buzz1.wav": {
+     "sha256": "07d1ca11d700121413f62993b477de5d29435c1d407d024a6778b60775df0fb7",
+     "size": 253670
+    },
+    "sound/ambience/fl_hum1.wav": {
+     "sha256": "c531b57b6859ba0a2ced84325a5b8845877557e84b26a59938f33bdbc9160e91",
+     "size": 50152
+    },
+    "sound/doors/lundoor1.wav": {
+     "sha256": "763bf8b16a79eff3a1dcc11eaed7581fe7c8d963f1ec0ed102fad3ea130b8fcf",
+     "size": 124748
+    },
+    "sound/doors/lundoor2.wav": {
+     "sha256": "44c0c99f81b4a047e6cb7260e41871018c9d4e7fcb9fe5b4bf33ef5f5e6db0c1",
+     "size": 80232
+    },
+    "sound/enforcer/me_fire1.wav": {
+     "sha256": "eb601f114e636ae62c255d9b6567dd83682400e428d20f9f9087967bebf88e1f",
+     "size": 35136
+    },
+    "sound/enforcer/ue_die1.wav": {
+     "sha256": "df6fa72f6b54f58c03430a2f9de837cd752c3e2090d52e5a3574759fb94e501d",
+     "size": 50988
+    },
+    "sound/enforcer/ue_die2.wav": {
+     "sha256": "6b606f051603226c71df2f5f699c5b1f2041febb9da9aedc2366ce2c5f058cc8",
+     "size": 43192
+    },
+    "sound/enforcer/ue_die3.wav": {
+     "sha256": "3e2267a6996e7b80e7f590c3219a46665ef68c3652d428d6e757d76d62fd1505",
+     "size": 45058
+    },
+    "sound/enforcer/ue_fire1.wav": {
+     "sha256": "04fc98e42709c9a5d1a8bbd52aff9114b4922da324e30d21859bcf8209e55b4f",
+     "size": 26306
+    },
+    "sound/enforcer/ue_pain1.wav": {
+     "sha256": "1c253421e2e841f0c5ae0b53167c21260fffeebda2d5eadbcf2e24417668f98f",
+     "size": 33530
+    },
+    "sound/enforcer/ue_pain2.wav": {
+     "sha256": "6c04ce0b1340bad65a2a032c021cc94b9a55645adb0f4789dab9611c559f2db6",
+     "size": 36056
+    },
+    "sound/enforcer/ue_pain3.wav": {
+     "sha256": "3fa2c91e936e493a2ac5dc8e625b027d0024144f176174c0264a6a538fd91ed6",
+     "size": 27162
+    },
+    "sound/enforcer/ue_site1.wav": {
+     "sha256": "d57a6987bcd84ad008c41299a58ce7b84cd82fdfac929f37101e484829a12742",
+     "size": 46266
+    },
+    "sound/enforcer/ue_site2.wav": {
+     "sha256": "c4308c42f3e35c98753c47ed5be6b6e2f76631e8e3b6951d1bb535ea030db18a",
+     "size": 22662
+    },
+    "sound/enforcer/ue_site3.wav": {
+     "sha256": "fab4607eb2d36c3e6bb947e348a8c7c0ea4729da65c1c953a7c00060124c79be",
+     "size": 32432
+    },
+    "sound/enforcer/ue_site4.wav": {
+     "sha256": "fbd7ee02ccc2dd3ed093c1b31bfc7199b7d8c93490fe6709da31e18e1a969639",
+     "size": 33640
+    },
+    "sound/enforcer/ue_site5.wav": {
+     "sha256": "4bfc80e04d56996b8b4c1929bb14b8d0b2916db9750106525159b9bd930d0ea6",
+     "size": 32432
+    }
+   },
+   "sha256": "efb787f75257996a3fc85ae6bcf6c563c57b2db9f0fb1b5d8d0c8e41cf15ce64",
+   "size": 6957786,
+   "timestamp": "2005-06-27T02:35:26.000Z"
   },
   "src/ai.qc": {
-   "filesize": 15265,
-   "timestamp": "2005-06-26"
+   "sha256": "997121b71c8d824f877827253f3e8d48610d0966b5c0157ecde5111ed8e89083",
+   "size": 15265,
+   "timestamp": "2005-06-26T17:11:34.000Z"
   },
   "src/axegrunt.qc": {
-   "filesize": 8693,
-   "timestamp": "2005-06-24"
+   "sha256": "f108b46dcbec9fb04fb8e2dbe6de4b4659ae461bb17a323fc6139c792ff71f8a",
+   "size": 8693,
+   "timestamp": "2005-06-24T04:54:00.000Z"
   },
   "src/boss.qc": {
-   "filesize": 14935,
-   "timestamp": "2005-06-26"
+   "sha256": "9c932ea14d43bebcb565a315dcacbff4f30fea0ee599cd2922b14feb56e32f7d",
+   "size": 14935,
+   "timestamp": "2005-06-26T02:14:24.000Z"
   },
   "src/client.qc": {
-   "filesize": 32664,
-   "timestamp": "2005-06-23"
+   "sha256": "cc08fe743dc6343ba259c1888b3658004857a55bed1e265c27bb74c83dbfba6c",
+   "size": 32664,
+   "timestamp": "2005-06-23T02:19:20.000Z"
   },
   "src/combat.qc": {
-   "filesize": 6780,
-   "timestamp": "2005-06-14"
+   "sha256": "5c41a1205d18f3329cf643411d690f38e04d7ce662b5776d63e1005d94f123f5",
+   "size": 6780,
+   "timestamp": "2005-06-14T14:19:56.000Z"
   },
   "src/enforcer.qc": {
-   "filesize": 25196,
-   "timestamp": "2005-06-26"
+   "sha256": "625329aa78e37bb79e70e39885386bd5156db1edee69d5113dad72938bd4bca4",
+   "size": 25196,
+   "timestamp": "2005-06-26T17:11:12.000Z"
   },
   "src/items.qc": {
-   "filesize": 30451,
-   "timestamp": "2005-06-24"
+   "sha256": "48a52e111537c7e3ee59e823fbe91a6e3ee385d55fd4ec94dad581c0eba1e756",
+   "size": 30451,
+   "timestamp": "2005-06-24T02:26:58.000Z"
   }
  },
  "filesize": 3253,
  "install": {
   "extract": "{quake}/lunsp1/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "11837c6bc4f279e7d8e755f1d7fbec9099b81668cb0c676c90ce0276c0c1361c",
  "tags": [
   "author=Matt \"Lunaran\"  Breit",

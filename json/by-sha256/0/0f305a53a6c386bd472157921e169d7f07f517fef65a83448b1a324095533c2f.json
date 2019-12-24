@@ -4,19 +4,127 @@
  ],
  "files": {
   "Borg.txt": {
-   "filesize": 2472,
-   "timestamp": "1997-05-29"
+   "sha256": "865bbe25e2c90339508a3f4f2a35cd149b89abaaabd73ba39d2a63150095b762",
+   "size": 2472,
+   "timestamp": "1997-05-29T22:53:52.000Z"
   },
   "Pak0.pak": {
-   "filesize": 2890715,
-   "timestamp": "1997-05-29"
+   "files": {
+    "config.cfg": {
+     "sha256": "671d0c87bed390c6472429e2fcd16e33a2f731598e73924fea336a3dd5ca3bf5",
+     "size": 2157
+    },
+    "maps.zip": {
+     "sha256": "c3ab4c7a4a1d0513fbd5bfbc5ced521fff16c7a6b87830985fc2f70560b64f6a",
+     "size": 386980
+    },
+    "maps/borg.bsp": {
+     "sha256": "73e27aefa594b4504277c4720e2bdcb8c9b4a455c07f002432277dda5db3320c",
+     "size": 950292
+    },
+    "progs.zip": {
+     "sha256": "215685a92f84e66a0ca0bc1571cccfa064d9f8bfb396428f2b24cfa3500f79af",
+     "size": 290486
+    },
+    "progs/enforcer.mdl": {
+     "sha256": "51344e15b4f31af1abc9883ab3a094f8fac7551f68e6caafeebddbd0607c0a7f",
+     "size": 160688
+    },
+    "progs/player.mdl": {
+     "sha256": "be5dc5498f67842bbfd52aee8fff37539a73ff634e1b99a452d4826cc6264128",
+     "size": 191852
+    },
+    "progs/soldier.mdl": {
+     "sha256": "5e00c959c231513f55ee7ca2a7cfa9726cab71e0d14f0b020d71d50f6f8357c2",
+     "size": 146288
+    },
+    "sound.zip": {
+     "sha256": "fbafa41ed9f5ac9cfda4cd69ca377435dfd18c146dea6a79ade2eb39fad24e22",
+     "size": 19992
+    },
+    "sound/ambience/2010.wav": {
+     "sha256": "dd3308495ba8e4a6b1bd94e9cc59040a524d046988a101647fb6fb9ed9034e9e",
+     "size": 29948
+    },
+    "sound/ambience/swamp1.wav": {
+     "sha256": "ff6f7ae79a9f28d0b60bd4fbb8f965fff145174a9c827c678202b4d4180e4fee",
+     "size": 253748
+    },
+    "sound/ambience/swamp2.wav": {
+     "sha256": "7f0a6bfb374a80527b0b1593101b2bb820cdf4a135c4d89149768a3fb359a381",
+     "size": 135268
+    },
+    "sound/enforcer/death1.wav": {
+     "sha256": "f62aad2ae903808a0caecfc6bdfe13e5fdebb1df14d330c6ac4eda9b577b25bf",
+     "size": 9290
+    },
+    "sound/enforcer/enfstop.wav": {
+     "sha256": "3f967a5e85b705e1bff8c91e34e3d6263aa3fdb96d7db9df9891b7774d7b779c",
+     "size": 8642
+    },
+    "sound/enforcer/sight1.wav": {
+     "sha256": "92dc64154602e29e95d40aa68d3544fe21cb21ce24192f1e8ffefc6b5d31b8cc",
+     "size": 5870
+    },
+    "sound/enforcer/sight2.wav": {
+     "sha256": "923b1306fa0e4bfa837c79d6b3ba522f60da2ec3c14ad56ffc361b420000dfca",
+     "size": 15188
+    },
+    "sound/enforcer/sight3.wav": {
+     "sha256": "8e7b85016feb13a32c426c42679fd4afe84c474ef8a4adf3a5dfc46199b3a36d",
+     "size": 16746
+    },
+    "sound/enforcer/sight4.wav": {
+     "sha256": "815e05c3b14858209fee01316848c117ad89af9f0aab190fc0ca0239367373ac",
+     "size": 5166
+    },
+    "sound/extra/borg07.wav": {
+     "sha256": "a4f16f6615a0a371513825545c95cdc87aaa8a7557a8a34b2be086eeaac762cf",
+     "size": 24176
+    },
+    "sound/extra/death2.wav": {
+     "sha256": "c0647da55a224bbca4429b80d2c707c4095869b7ec0eaf54b4291560f4f2028a",
+     "size": 16010
+    },
+    "sound/extra/obey2.wav": {
+     "sha256": "47f766a6e76cdcba2a3c160697f1695c26a25042fbd5aaccb5c3b5fb53c66e08",
+     "size": 55810
+    },
+    "sound/extra/sight4.wav": {
+     "sha256": "6e6759de79e8b263a32fe48560c24d5e684e694504afd3e38b8d6d978940590b",
+     "size": 15106
+    },
+    "sound/misc/r_tele1.wav": {
+     "sha256": "790cb1c4f8d48310f62b4fa8e316bd437fe6536514e42a755f3aa4faae309da7",
+     "size": 34215
+    },
+    "sound/misc/r_tele2.wav": {
+     "sha256": "3d9fae26422150cb7114b84a397988d2b318a89f20d5a5d4a6428c5b36d8c0f1",
+     "size": 15120
+    },
+    "sound/misc/r_tele3.wav": {
+     "sha256": "0dcf033325869e889d5426ccd0fb3beecdbdd054d20b377b6c31ffb137ced8a9",
+     "size": 21027
+    },
+    "sound/misc/water1.wav": {
+     "sha256": "4ab83731ca2cd47606681f5da5af283136af88d829c49b7e890734519df57a0c",
+     "size": 66258
+    },
+    "sound/soldier/sight1.wav": {
+     "sha256": "d897e69d6669fed4ecd6bfd24a05fba80b450ec4da1cfca157d7916da3a6f8e0",
+     "size": 12716
+    }
+   },
+   "sha256": "e0e7d8fb574b50d03455830a3a743b7707cce8e9cd270152ff6d18d14ce7b939",
+   "size": 2890715,
+   "timestamp": "1997-05-29T22:21:28.000Z"
   }
  },
  "filesize": 1757,
  "install": {
   "extract": "{quake}/borg/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "0f305a53a6c386bd472157921e169d7f07f517fef65a83448b1a324095533c2f",
  "tags": [
   "author=GreenHornet aka.",

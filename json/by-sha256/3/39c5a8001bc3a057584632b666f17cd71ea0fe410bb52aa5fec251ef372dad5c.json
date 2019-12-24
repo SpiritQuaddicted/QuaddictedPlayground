@@ -3,48 +3,72 @@
   "thehand.zip"
  ],
  "files": {
+  "gfx/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2007-12-16T22:16:30.000Z"
+  },
+  "gfx/env/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2007-12-16T22:16:30.000Z"
+  },
   "gfx/env/tramontobk.tga": {
-   "filesize": 640140,
-   "timestamp": "2003-02-13"
+   "sha256": "e7478aa0deab77b93ea6642e525932ede3088ca875442ccd25d44cbe87d1893a",
+   "size": 640140,
+   "timestamp": "2003-02-13T00:55:34.000Z"
   },
   "gfx/env/tramontodn.tga": {
-   "filesize": 783088,
-   "timestamp": "2003-02-13"
+   "sha256": "88e33878ee6100e1e4bac752c099a79f4bc0227c62303d91fe050741e0e05410",
+   "size": 783088,
+   "timestamp": "2003-02-13T00:56:22.000Z"
   },
   "gfx/env/tramontoft.tga": {
-   "filesize": 710845,
-   "timestamp": "2003-02-12"
+   "sha256": "55b3c37de07bb6ba1f854678ca7d3bc9852cdc0f7b3230cc1efbcaa2bf3b30ab",
+   "size": 710845,
+   "timestamp": "2003-02-12T22:16:14.000Z"
   },
   "gfx/env/tramontolf.tga": {
-   "filesize": 701996,
-   "timestamp": "2003-02-13"
+   "sha256": "315d06acd66c60cc06a8033be07328e5e0d13e3b00c7ed4e90f3b82879a98054",
+   "size": 701996,
+   "timestamp": "2003-02-13T00:55:08.000Z"
   },
   "gfx/env/tramontort.tga": {
-   "filesize": 721740,
-   "timestamp": "2003-02-13"
+   "sha256": "b742ef4e4d35085e04bb94e051e4ebca69961d48885f0e9afd2650b69013db58",
+   "size": 721740,
+   "timestamp": "2003-02-13T00:56:06.000Z"
   },
   "gfx/env/tramontoup.tga": {
-   "filesize": 649528,
-   "timestamp": "2003-02-13"
+   "sha256": "4e33284abc24c9418e9144a41d33c8360c9d6a0d4788b957682b9d1280b950ed",
+   "size": 649528,
+   "timestamp": "2003-02-13T00:55:46.000Z"
+  },
+  "maps/": {
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "size": 0,
+   "timestamp": "2007-12-16T22:16:30.000Z"
   },
   "maps/thehand.bsp": {
-   "filesize": 7333140,
-   "timestamp": "2007-12-16"
+   "sha256": "7bd4f8fc107a21e36e4f85ee48f860ac3c449c45b5ad54512002269e1683a6ae",
+   "size": 7333140,
+   "timestamp": "2007-12-16T19:52:14.000Z"
   },
   "maps/thehand.lit": {
-   "filesize": 2896496,
-   "timestamp": "2007-12-16"
+   "sha256": "2cee7e8eca0dbd42bcf1b77172314d314630f50e84ff9767196a11cff123ce7e",
+   "size": 2896496,
+   "timestamp": "2007-12-16T19:52:14.000Z"
   },
   "thehand.txt": {
-   "filesize": 5403,
-   "timestamp": "2007-12-16"
+   "sha256": "4b1bedbd715ce5d270d6040b1d8316e40cb934af54b03faf42cbc5f6f6762464",
+   "size": 5403,
+   "timestamp": "2007-12-16T21:49:00.000Z"
   }
  },
  "filesize": 5524,
  "install": {
   "extract": "{quake}/quoth/"
  },
- "json_version": "2019.12.24-11.15",
+ "json_version": "2019.12.24-12.08",
  "sha256": "39c5a8001bc3a057584632b666f17cd71ea0fe410bb52aa5fec251ef372dad5c",
  "tags": [
   "author=RickyT23",
