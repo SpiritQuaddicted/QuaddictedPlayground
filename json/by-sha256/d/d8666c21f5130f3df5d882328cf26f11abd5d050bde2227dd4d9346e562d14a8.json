@@ -16,13 +16,15 @@
  "install": {
   "extract": "{quake}/seaview/"
  },
- "json_version": "2019.12.23-21.29",
+ "json_version": "2019.12.24-11.15",
  "sha256": "d8666c21f5130f3df5d882328cf26f11abd5d050bde2227dd4d9346e562d14a8",
  "tags": [
   "author=Daryl Deep",
   "commandline=-game seaview",
   "game=quake",
   "releasedate=1997-12-12",
+  "tag=base",
+  "tag=submarine",
   "title=Seaview"
  ],
  "urls": [

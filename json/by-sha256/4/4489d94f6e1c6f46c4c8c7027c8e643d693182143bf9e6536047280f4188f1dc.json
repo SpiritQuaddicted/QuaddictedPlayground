@@ -52,7 +52,7 @@
  "install": {
   "extract": "{quake}/id1/maps/"
  },
- "json_version": "2019.12.23-21.29",
+ "json_version": "2019.12.24-11.15",
  "sha256": "4489d94f6e1c6f46c4c8c7027c8e643d693182143bf9e6536047280f4188f1dc",
  "tags": [
   "author=Hrimfaxi",
@@ -68,6 +68,12 @@
   "startmap=q1tm2_lev",
   "startmap=q1tm2_pushplay",
   "startmap=q1tm2_remnent",
+  "tag=base",
+  "tag=contest",
+  "tag=dm",
+  "tag=medium",
+  "tag=small",
+  "tag=turtlemap",
   "title=Quake Turtlemap 2"
  ],
  "urls": [

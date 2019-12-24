@@ -40,13 +40,17 @@
  "install": {
   "extract": "{quake}/fdtd/"
  },
- "json_version": "2019.12.23-21.29",
+ "json_version": "2019.12.24-11.15",
  "sha256": "f0ee456ed8d0fa9a68fbdbe5c1d8f027dfd4a59267e7c3aafcae9a774b470c2e",
  "tags": [
   "author=Iceman",
   "commandline=-game fdtd",
   "game=quake",
   "releasedate=1997-03-17",
+  "tag=experimental",
+  "tag=small",
+  "tag=tiny",
+  "tag=wood",
   "title=From Dark to Dune"
  ],
  "urls": [
