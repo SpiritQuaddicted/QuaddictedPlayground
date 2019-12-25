@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="//www.quaddicted.com/static/style.css" />
+		<script src="//www.quaddicted.com/static/sorttable.js" type="text/javascript"></script>
+
+		<!-- table filter -->
+		<script type="text/javascript">
+			function filter (phrase, _id){
+				var words = phrase.toLowerCase().split(" ");
+				var table = document.getElementById(_id);
+				var ele;
+				for (var r = 1; r < table.rows.length; r++){
+					ele = table.rows[r].innerHTML.replace(/<[^>]+>/g,"");
+						var displayStyle = 'none';
+						for (var i = 0; i < words.length; i++) {
+							if (ele.toLowerCase().indexOf(words[i])>=0)
+								displayStyle = '';
+							else {
+								displayStyle = 'none';
+							break;
+							}
+						}
+					table.rows[r].style.display = displayStyle;
+				}
+			}
+		</script>
+		<!-- get parameters for the filter from the url -->
+		<script type="text/javascript">
+
+			function gup( name )
+			{
+				name = name.replace(/[\[]/,"\\[").replace(/[\]]/,"\\]");
+				var regexS = "[\?&]"+name+"=([^&#]*)";
+				var regex = new RegExp( regexS );
+				var results = regex.exec( window.location.href );
+				if( results == null )
+					return "";
+				else
+					return results[1];
+			}
+
+			function fillfilterfromurl() {
+				var urlparams = gup( 'filtered' );
+				if (urlparams){
+					urlparams = decodeURIComponent(urlparams.replace(/\+/g, ' '));
+					var fillurlparams = document.getElementById('filterinput');
+					fillurlparams.value = urlparams;
+					filter(urlparams, 'files', '1');
+				}
+			}
+		</script>
+	</head>
+	<body onload="fillfilterfromurl();">
+		<p>
+			<form>
+				<b>Instant Filter:</b> <input name="filtered" onkeyup="filter(this.value, 'files', '1')" type="text" id="filterinput" size="50" /><noscript> (enable Javascript for this to work)</noscript>
+			</form>
+		</p>
+		<table class="sortable filelisting" id="files">
+			<tr>
+				<th><a>Author(s)</a><small>⇅</small></th>
+				<th><a>Title</a><small>⇅</small></th>
+				<th><a>Size</a><small>⇅</small></th>
+				<th><a>Date DMY</a><small>⇅</small></th>
+				<th><a>Rating</a><small>⇅</small></th>
+				<th><a>Com#</a><small>⇅</small></th>
+				<th><a>Users'</a><small>⇅</small></th>
+				<th><a>Tags</a><small>⇅</small></th>
+			</tr>
+
+			{% for entry in entries %}
+			<tr>
+				<td class="author"><a href='/archive/?filtered={{ entry.author }}' rel="nofollow">{{ entry.author }}</a></td>
+				<td class="title"><a href="{{ entry.sha256 }}.html">{{ entry.filename }} - {{ entry.title }}</a></td>
+				<td class="size" style="white-space: nowrap;"><a href="/files/by-sha256/{{ entry.sha256[0] }}/{{ entry.sha256 }}/{{ entry.filename }}">{{ entry.filesize }} KB</a></td>
+				<td style="text-align:center;">{{ entry.releasedate }}</td>
+				<td class="ratingtd" sorttable_customkey="{{ entry.rating }}">&hearts;&hearts;&hearts;&hearts;&hearts;</td>
+				<td style="text-align:center;"><a href="{{ entry.filename }}.html#comments">{{ entry.num_comments }}</a></td>
+				<td class="userrating">TODO ({{ entry.num_ratings }})</td>
+				<td class="tags">{{ entry.tags }}</td>
+			</tr>
+			{% endfor %}
+		</table>
+	</body>
+</html>
