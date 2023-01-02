@@ -86,6 +86,28 @@ def show_files():
     entries = query_db(query)
     return render_template("files.html", entries=entries)
 
+@app.route("/archive/<username>")
+@cached()
+def show_details():
+    query = """
+	SELECT * FROM files LEFT OUTER JOIN (
+	    SELECT
+		file_id
+		, GROUP_CONCAT(
+		      CASE
+			WHEN key != 'tag' THEN key || '='  -- TODO remove once all generic 'tag' keys are gone
+			ELSE ''
+		      END
+		    || value
+		) AS tags
+		FROM tags
+		WHERE key NOT IN ('author', 'title', 'releasedate', 'commandline', 'dependency', 'game', 'link', 'startmap')
+		GROUP BY file_id
+	) AS tags ON tags.file_id = files.id ORDER BY files.filename;
+	"""
+
+    entries = query_db(query)
+    return render_template("details.html", entries=entries)
 
 if __name__ == "__main__":
     app.run(debug=True)
