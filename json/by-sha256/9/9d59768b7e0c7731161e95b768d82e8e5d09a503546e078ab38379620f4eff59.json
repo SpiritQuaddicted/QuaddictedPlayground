@@ -1,47 +1,110 @@
 {
- "filename": [
-  "smqe08a_pack.zip"
- ],
+ "bytes": 2134,
  "files": {
   "smqe08a_negke.bsp": {
-   "size": 260888,
+   "bytes": 260888,
+   "sha256": "d41b7925346e83fc522b92275b2b410553c75223da259ba16750e318b4e3cead",
    "timestamp": "2008-08-18T00:19:46.000Z"
   },
   "smqe08a_pack.txt": {
-   "size": 1395,
+   "bytes": 1395,
+   "sha256": "f17560cb2d1b06e077523f37751db11fdde98bd3e3b06a7dd235496ecb7204fb",
    "timestamp": "2008-08-19T03:20:48.000Z"
   },
   "smqe08a_rudl.zip": {
-   "size": 1435486,
+   "bytes": 1435486,
+   "files": {
+    "dreamscaperudl.txt": {
+     "bytes": 86,
+     "sha256": "f43879420d265ebb00aecd133611a5e15e1a0ca3efe8102ad0efe3f0a059eb38",
+     "timestamp": "2008-08-16T13:44:52.000Z"
+    },
+    "gfx/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2008-08-16T13:37:12.000Z"
+    },
+    "gfx/env/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2008-08-16T13:37:14.000Z"
+    },
+    "gfx/env/hellsky5bk.tga": {
+     "bytes": 786450,
+     "sha256": "73fd32d337e782645fd34afecdb2e31ffdc52ee66952a2cb11470e04a221ed02",
+     "timestamp": "2008-06-08T11:49:10.000Z"
+    },
+    "gfx/env/hellsky5dn.tga": {
+     "bytes": 786450,
+     "sha256": "4d86789ac951b1019c2fbee01c2ffc9c17cef913373983fefb571be62823998d",
+     "timestamp": "2008-06-08T11:49:28.000Z"
+    },
+    "gfx/env/hellsky5ft.tga": {
+     "bytes": 786450,
+     "sha256": "e20e37f9f341b04359018ce26fbc04dc285c11e29a515c5c19668cc859d09c6e",
+     "timestamp": "2008-06-08T11:49:44.000Z"
+    },
+    "gfx/env/hellsky5lf.tga": {
+     "bytes": 786450,
+     "sha256": "9321c94054b90c2229b549e30b108faac59f8f0c3358d6ecf30fa7475dbe2684",
+     "timestamp": "2008-06-08T11:49:56.000Z"
+    },
+    "gfx/env/hellsky5rt.tga": {
+     "bytes": 786450,
+     "sha256": "b136d1dba1fd5bf1dbb25b7edae9a5c16fb0db89e26cd0f093c638e716d20aaa",
+     "timestamp": "2008-06-08T11:50:08.000Z"
+    },
+    "gfx/env/hellsky5up.tga": {
+     "bytes": 786450,
+     "sha256": "1f6bf0d77a8fea3db187d1988ec4b24a702aca218d8bd2c2b01fdbffbf72597e",
+     "timestamp": "2008-06-08T11:50:22.000Z"
+    },
+    "maps/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2008-08-16T13:37:58.000Z"
+    },
+    "maps/dreamscaperudl.bsp": {
+     "bytes": 851212,
+     "sha256": "8154aeffbfd9121ec8dae31f66c84b76b63ff26dec89fb326aa40de1cd866059",
+     "timestamp": "2008-08-16T13:42:22.000Z"
+    }
+   },
+   "sha256": "24e2f44591e0bdd35e262616c0ad7fb7422d716f057aae469b10156641473ae6",
    "timestamp": "2008-08-16T14:16:36.000Z"
   },
   "smqe08a_textfish.bsp": {
-   "size": 1350372,
+   "bytes": 1350372,
+   "sha256": "55db583f72fd15eba91cf579493ca30fc96e2c90fff350c3a5632d952ee8862b",
    "timestamp": "2008-08-17T00:17:34.000Z"
   },
   "smqe08a_zwiffle.bsp": {
-   "size": 422652,
+   "bytes": 422652,
+   "sha256": "1cf9e5a60cf7ede7f1d06bbe936df3c144973eb84592168612fedb70b758e28e",
    "timestamp": "2008-08-19T03:13:26.000Z"
   }
  },
- "filesize": 2134,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "9d59768b7e0c7731161e95b768d82e8e5d09a503546e078ab38379620f4eff59",
  "tags": [
   "author=TextFish",
   "author=Zwiffle",
   "author=negke",
   "author=rudl",
+  "filename=smqe08a_pack.zip",
   "game=quake",
-  "releasedate=2008-08-19",
+  "game_mode=singleplayer",
+  "release_date=2008-08-19",
   "startmap=smqe08a_negke",
   "startmap=smqe08a_rudl",
   "startmap=smqe08a_textfish",
   "startmap=smqe08a_zwiffle",
-  "title=Speedmapping pack QExpo2008 #1 - Dreamscape"
+  "theme=traps",
+  "title=Speedmapping pack QExpo2008 #1 - Dreamscape",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqe08a_pack.zip",

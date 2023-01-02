@@ -1,35 +1,37 @@
 {
- "filename": [
-  "demonslair.zip"
- ],
+ "bytes": 406,
  "files": {
   "demons-lair.txt": {
-   "size": 2270,
+   "bytes": 2270,
+   "sha256": "abf5512369f4b49126dd6e9ebfa330d1038c805199e5501716d874c979f9d9df",
    "timestamp": "1999-09-02T17:45:36.000Z"
   },
   "demons.bsp": {
-   "size": 1023984,
+   "bytes": 1023984,
+   "sha256": "65e06467dd9fe43f862508bcf35e1604249f0ae8a3fee3a6c92276ac8131931b",
    "timestamp": "1999-09-02T17:12:16.000Z"
   }
  },
- "filesize": 406,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0e59751801a4d3ed1153c56f393081c2e25ff2ada94fb2ba9ed905027ead8676",
  "tags": [
   "author=Peter Bisseker (tiddles)",
+  "filename=demonslair.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990906.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1999-09-02",
+  "map_size=medium",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=hard",
+  "release_date=1999-09-02",
   "startmap=demons",
-  "tag=coop",
-  "tag=hard",
-  "tag=medium",
-  "tag=metal",
-  "title=The Demons Lair"
+  "theme=metal",
+  "title=The Demons Lair",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/demonslair.zip",

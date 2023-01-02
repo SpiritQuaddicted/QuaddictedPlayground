@@ -1,24 +1,25 @@
 {
- "filename": [
-  "sm83_ray_qwd.zip"
- ],
+ "bytes": 1300,
  "files": {
   "sm83_ray.qwd": {
-   "size": 5174578,
+   "bytes": 5174578,
+   "sha256": "d8de36a299edcddda465c85b1600cd7925488593962e4d0d2ef510197eee9a58",
    "timestamp": "2004-03-02T19:43:34.000Z"
   }
  },
- "filesize": 1300,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "5b3f175698da787a4acafc83c83b6a7cd643ef715be80335f42fb5602997d127",
  "tags": [
   "author=NotoriousRay",
+  "filename=sm83_ray_qwd.zip",
   "game=quake",
-  "releasedate=2005-08-06",
-  "title=Title"
+  "game_mode=singleplayer",
+  "release_date=2005-08-06",
+  "title=Title",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_ray_qwd.zip",

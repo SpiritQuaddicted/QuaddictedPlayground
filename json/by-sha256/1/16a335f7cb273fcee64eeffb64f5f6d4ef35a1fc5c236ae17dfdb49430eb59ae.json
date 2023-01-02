@@ -1,31 +1,33 @@
 {
- "filename": [
-  "simmer1.zip"
- ],
+ "bytes": 332,
  "files": {
   "readme.htm": {
-   "size": 2302,
+   "bytes": 2302,
+   "sha256": "6348af49e26f46affb26f26c0591bcaf998d57d13d9b72218ac002dd11348887",
    "timestamp": "2002-05-26T01:52:24.000Z"
   },
   "simmer1.bsp": {
-   "size": 836604,
+   "bytes": 836604,
+   "sha256": "31c63b9bdebb8e2eae582bca78be32c21cc2ffe23fd8ad95278b9ef68ba6f0d3",
    "timestamp": "2002-05-25T19:01:26.000Z"
   }
  },
- "filesize": 332,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "16a335f7cb273fcee64eeffb64f5f6d4ef35a1fc5c236ae17dfdb49430eb59ae",
  "tags": [
   "author=Qubix",
+  "filename=simmer1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=simmer1)",
-  "releasedate=2002-05-25",
-  "tag=idbase",
-  "tag=small",
-  "title=Security Base"
+  "map_size=small",
+  "release_date=2002-05-25",
+  "theme=idbase",
+  "title=Security Base",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/simmer1.zip",

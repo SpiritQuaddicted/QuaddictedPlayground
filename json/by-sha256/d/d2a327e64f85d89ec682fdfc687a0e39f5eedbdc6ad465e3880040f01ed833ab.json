@@ -1,39 +1,43 @@
 {
- "filename": [
-  "sm_dq1.zip"
- ],
+ "bytes": 900,
  "files": {
   "sm_dq1.bsp": {
-   "size": 1494876,
+   "bytes": 1494876,
+   "sha256": "aff1c643fec6f734e7c51198446aa25abf7d477a3db5cb875740106e1e775812",
    "timestamp": "2018-09-11T20:49:42.000Z"
   },
   "sm_dq1.lit": {
-   "size": 535112,
+   "bytes": 535112,
+   "sha256": "e6679f43196d01b8e1273660f953976901fe2e8457241e9430b94d515f072bfe",
    "timestamp": "2018-09-11T20:49:42.000Z"
   },
   "sm_dq1.map": {
-   "size": 1178818,
+   "bytes": 1178818,
+   "sha256": "71f654693242a425c7dabbf78f0e7cbfed6a8f11905b44be1d5a3f6630173894",
    "timestamp": "2018-09-11T20:49:58.000Z"
   },
   "sm_dq1.txt": {
-   "size": 337,
+   "bytes": 337,
+   "sha256": "bca3a07dd65826816fbe01ac057530a4391dba7077b3d8644c12c028430e0068",
    "timestamp": "2018-09-11T20:55:10.000Z"
   }
  },
- "filesize": 900,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "d2a327e64f85d89ec682fdfc687a0e39f5eedbdc6ad465e3880040f01ed833ab",
  "tags": [
   "author=DraQu",
+  "filename=sm_dq1.zip",
   "game=quake",
-  "releasedate=2018-09-11",
-  "tag=madfox",
-  "tag=medieval",
-  "tag=small",
-  "title=Eye Sore"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=madfox",
+  "release_date=2018-09-11",
+  "theme=medieval",
+  "title=Eye Sore",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm_dq1.zip",

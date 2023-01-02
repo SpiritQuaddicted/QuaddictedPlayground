@@ -1,41 +1,44 @@
 {
- "filename": [
-  "royalwar.zip"
- ],
+ "bytes": 458,
  "files": {
   "Enterrw.bsp": {
-   "size": 531468,
+   "bytes": 531468,
+   "sha256": "5d6ac4c0c1051a5197c95d799e07dacbfccd7d9ccb83e714d1a2661317b3a8be",
    "timestamp": "1997-01-30T11:42:12.000Z"
   },
   "Royalwar.bsp": {
-   "size": 552192,
+   "bytes": 552192,
+   "sha256": "7a5d25979064ade7ffd2f2634e0010ba192c77179529b5ff1a5976790853661a",
    "timestamp": "1997-01-30T12:06:22.000Z"
   },
   "Royalwar.txt": {
-   "size": 6415,
+   "bytes": 6415,
+   "sha256": "4e0091a593627eeb2baf266dedf8388e24c9aec85818f7a95e1f90cd34752c9d",
    "timestamp": "1997-01-30T12:13:06.000Z"
   }
  },
- "filesize": 458,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "00f6db770a65f176f14a2651489892f8d2e2f9ac01455828fad1f7675e62af59",
  "tags": [
   "author=Scott McNutt",
+  "filename=royalwar.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsr.htm#royalwar)",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/p_r.htm)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1997-01-30",
+  "map_size=small",
+  "nonspecific_tag=start map",
+  "release_date=1997-01-30",
   "startmap=enterrw",
-  "tag=dm",
-  "tag=small",
-  "tag=start map",
-  "tag=wizard",
-  "title=Royal Warriors"
+  "theme=wizard",
+  "title=Royal Warriors",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/royalwar.zip",

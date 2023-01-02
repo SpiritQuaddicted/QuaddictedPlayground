@@ -1,36 +1,39 @@
 {
- "filename": [
-  "pypain.zip"
- ],
+ "bytes": 232,
  "files": {
   "pypain.bsp": {
-   "size": 698806,
+   "bytes": 698806,
+   "sha256": "d7f90ce3e2cf1b2f19dd5af5c03ee4f300f25ec26f8ad9d199b7a04e090a4bd2",
    "timestamp": "2006-10-25T20:04:52.000Z"
   },
   "pypain.txt": {
-   "size": 294,
+   "bytes": 294,
+   "sha256": "8df9bea50827d83eeecb63e28b1c70ce635e38024e450fcca6c56cabdbe2d9ac",
    "timestamp": "2006-10-29T17:19:34.000Z"
   },
   "pypain_quaddictedrepack.txt": {
-   "size": 145,
+   "bytes": 145,
+   "sha256": "12eff6e9f5b016e7a9d877ff259f62838c37e29d65b3aab1f7e21edf110db134",
    "timestamp": "2011-04-22T18:54:00.000Z"
   }
  },
- "filesize": 232,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "259eb255ef525d7ec25f96ec4f4214d09a9d733ca7d21b06a0764500c4ca814c",
  "tags": [
   "author=Omus",
+  "filename=pypain.zip",
   "game=quake",
-  "releasedate=2006-10-29",
-  "tag=maze",
-  "tag=pyramid",
-  "tag=small",
-  "tag=traps",
-  "title=Pyramid of Pain"
+  "game_mode=singleplayer",
+  "map_layout=maze",
+  "map_size=small",
+  "release_date=2006-10-29",
+  "theme=pyramid",
+  "theme=traps",
+  "title=Pyramid of Pain",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pypain.zip",

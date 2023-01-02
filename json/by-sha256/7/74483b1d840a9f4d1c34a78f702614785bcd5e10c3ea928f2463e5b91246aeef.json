@@ -1,31 +1,33 @@
 {
- "filename": [
-  "juracave.zip"
- ],
+ "bytes": 785,
  "files": {
   "juracave.bsp": {
-   "size": 1792728,
+   "bytes": 1792728,
+   "sha256": "de286fb2547a1080f25e6586c560b1bb4184500c38babdd91e10fc9d361c594e",
    "timestamp": "1998-01-16T22:36:38.000Z"
   },
   "juracave.txt": {
-   "size": 1714,
+   "bytes": 1714,
+   "sha256": "becbfa102eb708862030cf84261bb636dfc5b39f0d676e34107f4e693fe67881",
    "timestamp": "1998-01-16T23:44:48.000Z"
   }
  },
- "filesize": 785,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "74483b1d840a9f4d1c34a78f702614785bcd5e10c3ea928f2463e5b91246aeef",
  "tags": [
   "author=EraserX",
+  "filename=juracave.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
-  "releasedate=1998-01-16",
-  "tag=metal",
-  "tag=small",
-  "title=The Jurassic Cave"
+  "map_size=small",
+  "release_date=1998-01-16",
+  "theme=metal",
+  "title=The Jurassic Cave",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/juracave.zip",

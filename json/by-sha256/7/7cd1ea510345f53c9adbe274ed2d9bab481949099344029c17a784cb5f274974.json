@@ -1,58 +1,66 @@
 {
- "filename": [
-  "sm56_pack.zip"
- ],
+ "bytes": 1754,
  "files": {
   "SM56_PuLSaR.bsp": {
-   "size": 457532,
+   "bytes": 457532,
+   "sha256": "7a9effe80a6d87a465169ea7d01038cdfeb3e60ad41f0d03c0396f55a805e006",
    "timestamp": "1997-06-14T08:23:12.000Z"
   },
   "sm56_czg.bsp": {
-   "size": 568580,
+   "bytes": 568580,
+   "sha256": "5e10650f8de205f1714ad75a3ea4dd0c0c8c91d77e5921e6e47c4b63c8c2ecac",
    "timestamp": "2001-09-20T10:03:52.000Z"
   },
   "sm56_hrim.bsp": {
-   "size": 385760,
+   "bytes": 385760,
+   "sha256": "f876770f7a37425fc3e956c94c1294a7738518335db8ce9bed4b0a8fb4ea9039",
    "timestamp": "2003-11-08T13:52:44.000Z"
   },
   "sm56_lev.bsp": {
-   "size": 390700,
+   "bytes": 390700,
+   "sha256": "b3a7185f01cccae7037f2ffc0d56a00e02dde0ea66d8ce72c6378ff4328ffcfb",
    "timestamp": "2003-11-04T11:25:44.000Z"
   },
   "sm56_lev.txt": {
-   "size": 1786,
+   "bytes": 1786,
+   "sha256": "95254278ef7f13da8da6f6fde26e796e6e6245a746ed782615c85f0811642ccb",
    "timestamp": "2003-11-06T11:13:06.000Z"
   },
   "sm56_moz1.bsp": {
-   "size": 306832,
+   "bytes": 306832,
+   "sha256": "9032a7229e04f526cbfcd1717c8a7c21b29eeaaf699ecd632088771da36e6535",
    "timestamp": "2001-09-05T08:10:10.000Z"
   },
   "sm56_moz2.bsp": {
-   "size": 290560,
+   "bytes": 290560,
+   "sha256": "d1795f0f24eaa5ee47a9dc0fe7b289be894dc27ee312523907b97a2730aa7303",
    "timestamp": "2001-09-05T08:31:54.000Z"
   },
   "sm56_pack.txt": {
-   "size": 1926,
+   "bytes": 1926,
+   "sha256": "6ac64bef3153e2aca1c8454767588f46028efdd14e2eaca4c4d2f0f186f4a5c3",
    "timestamp": "2001-09-05T10:08:56.000Z"
   },
   "sm56_rpg.bsp": {
-   "size": 630488,
+   "bytes": 630488,
+   "sha256": "7225f5301c24a8104a7f342bca470850fbfda5ec5ca33fe8ebf848100a217a6e",
    "timestamp": "2003-11-06T16:36:02.000Z"
   },
   "sm56_scampie.bsp": {
-   "size": 385364,
+   "bytes": 385364,
+   "sha256": "7ec7470ca9ef1609e822eac77e895bccdcf6f1297ad0f05a88d09f2b727fa65b",
    "timestamp": "2001-09-05T08:48:14.000Z"
   },
   "sm56_xen.bsp": {
-   "size": 807592,
+   "bytes": 807592,
+   "sha256": "e657fcf66e392ab727809298e8c159177736eb054a3951571941f173f15eeb07",
    "timestamp": "2003-11-09T01:34:54.000Z"
   }
  },
- "filesize": 1754,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7cd1ea510345f53c9adbe274ed2d9bab481949099344029c17a784cb5f274974",
  "tags": [
   "author=CZG",
@@ -63,9 +71,11 @@
   "author=RPG",
   "author=Scampie",
   "author=Xenon",
+  "filename=sm56_pack.zip",
   "game=quake",
-  "link=[Func news thread](http://celephais.net/board/view_thread.php?id=9161)",
-  "releasedate=2003-11-09",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=9161)",
+  "release_date=2003-11-09",
   "startmap=sm56_czg",
   "startmap=sm56_hrim",
   "startmap=sm56_lev",
@@ -75,8 +85,9 @@
   "startmap=sm56_rpg",
   "startmap=sm56_scampie",
   "startmap=sm56_xen",
-  "tag=qtwid",
-  "title=Speedmapping pack 56 - Episode 2 (The 4 Seasons of Quake #2)"
+  "theme=quake the way id did",
+  "title=Speedmapping pack 56 - Episode 2 (The 4 Seasons of Quake #2)",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm56_pack.zip",

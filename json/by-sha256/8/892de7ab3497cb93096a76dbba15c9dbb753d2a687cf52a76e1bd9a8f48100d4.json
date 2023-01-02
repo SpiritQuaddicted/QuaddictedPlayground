@@ -1,29 +1,30 @@
 {
- "filename": [
-  "ih1m5.zip"
- ],
+ "bytes": 481,
  "files": {
   "IH1M5.BSP": {
-   "size": 1184936,
+   "bytes": 1184936,
+   "sha256": "8ecfcc323604484329b0d3167f008b61e6cf595992ff26efe607985d6b67f3b8",
    "timestamp": "1999-07-23T00:19:26.000Z"
   }
  },
- "filesize": 481,
  "install": {
-  "extract": "{quake}/badpak/maps/"
+  "extract": "{base}/badpak/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "892de7ab3497cb93096a76dbba15c9dbb753d2a687cf52a76e1bd9a8f48100d4",
  "tags": [
   "author=Ironhammer",
   "commandline=-game badpak",
   "dependency=badpak",
+  "filename=ih1m5.zip",
   "game=quake",
-  "releasedate=1999-07-23",
-  "tag=badpak",
-  "tag=base",
-  "tag=small",
-  "title=Ih1m5"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=badpak",
+  "release_date=1999-07-23",
+  "theme=base",
+  "title=Ih1m5",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ih1m5.zip",

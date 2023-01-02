@@ -1,33 +1,35 @@
 {
- "filename": [
-  "sisters.zip"
- ],
+ "bytes": 732,
  "files": {
   "Sisters.txt": {
-   "size": 2776,
+   "bytes": 2776,
+   "sha256": "0a0cf73fcc5a3528b6a19e7324a09aee6852e59a3aa937041f516c10647bc43a",
    "timestamp": "1997-09-22T17:54:40.000Z"
   },
   "sisters.bsp": {
-   "size": 1625652,
+   "bytes": 1625652,
+   "sha256": "94cb15dce94654796391bc0267d2760fbd0e1a89ae1a5dffb884e5be5b37ede5",
    "timestamp": "1997-09-24T13:34:04.000Z"
   }
  },
- "filesize": 732,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "136dd8256544580760ab242cf2c5b8c8b0f0b290e5bc1ae174be14c77bfa024c",
  "tags": [
   "author=Bill Graham/billcat",
+  "filename=sisters.zip",
   "game=quake",
-  "releasedate=1997-09-22",
-  "tag=medieval",
-  "tag=medium",
-  "tag=non linear",
-  "tag=water",
-  "tag=wizard",
-  "title=Vampire Sisters"
+  "game_mode=singleplayer",
+  "map_layout=non-linear",
+  "map_size=medium",
+  "release_date=1997-09-22",
+  "theme=medieval",
+  "theme=water",
+  "theme=wizard",
+  "title=Vampire Sisters",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sisters.zip",

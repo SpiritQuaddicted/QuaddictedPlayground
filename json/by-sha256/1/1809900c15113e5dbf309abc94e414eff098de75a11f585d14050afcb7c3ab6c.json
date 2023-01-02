@@ -1,38 +1,42 @@
 {
- "filename": [
-  "catatonic.zip"
- ],
+ "bytes": 2629,
  "files": {
   "catatonic.bsp": {
-   "size": 4618836,
+   "bytes": 4618836,
+   "sha256": "e601beb0b79bd1c5004dd4e50a6f494cc7ee10b5cdbe67647e99885b91f2e729",
    "timestamp": "2012-08-17T01:09:32.000Z"
   },
   "catatonic.lit": {
-   "size": 3721430,
+   "bytes": 3721430,
+   "sha256": "84f3d86a090b24b866b712f274499db883430c46e111750050e23026e4492358",
    "timestamp": "2012-08-17T00:05:04.000Z"
   },
   "catatonic.txt": {
-   "size": 907,
+   "bytes": 907,
+   "sha256": "2d8aa3f12baff40e41852968be7b3980cba2a75f933b8e719832facbb2ff8949",
    "timestamp": "2012-08-17T02:52:40.000Z"
   }
  },
- "filesize": 2629,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1809900c15113e5dbf309abc94e414eff098de75a11f585d14050afcb7c3ab6c",
  "tags": [
   "author=RickyT23",
+  "filename=catatonic.zip",
   "game=quake",
-  "releasedate=2012-08-17",
-  "tag=big",
-  "tag=dark",
-  "tag=fog",
-  "tag=hordes",
-  "tag=medium",
-  "tag=metal",
-  "title=Catatonic Fits of Despair"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.rickyt23.com",
+  "map_size=large",
+  "map_size=medium",
+  "nonspecific_tag=dark",
+  "playstyle=hordes",
+  "release_date=2012-08-17",
+  "theme=fog",
+  "theme=metal",
+  "title=Catatonic Fits of Despair",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/catatonic.zip",

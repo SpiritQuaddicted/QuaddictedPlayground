@@ -1,40 +1,45 @@
 {
- "filename": [
-  "q1shw2sp.zip"
- ],
+ "bytes": 564,
  "files": {
   "q1shw2sp.bsp": {
-   "size": 902188,
+   "bytes": 902188,
+   "sha256": "adaebea302b9429ba7929af894a60cbe0322d081a382d3b64fa481e8f06fa537",
    "timestamp": "2011-05-13T18:31:52.000Z"
   },
   "q1shw2sp.lit": {
-   "size": 320189,
+   "bytes": 320189,
+   "sha256": "0335583f7d479f6fb24a833dcf255529370c13c5af7a006f612eed6e47cde6b5",
    "timestamp": "2011-05-13T18:31:52.000Z"
   },
   "q1shw2sp.map": {
-   "size": 536107,
+   "bytes": 536107,
+   "sha256": "20bfb365ece59db1eb111ba68d3469f20177458bc0fa9a1983b6a3a7cb221d56",
    "timestamp": "2011-05-13T18:31:20.000Z"
   },
   "q1shw2sp.txt": {
-   "size": 3333,
+   "bytes": 3333,
+   "sha256": "39704a7cbab0ef06aaba55e7d74816c3571481c10760aca418506ac5af9127f1",
    "timestamp": "2011-05-13T18:31:42.000Z"
   }
  },
- "filesize": 564,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8b7670d4a55723e138d72f0001496fee466f5a5c0916051c72646d8372ba05b2",
  "tags": [
   "author=ShadoW &amp; negke",
+  "filename=q1shw2sp.zip",
   "game=quake",
-  "releasedate=2011-05-13",
-  "tag=dm",
-  "tag=metal",
-  "tag=small",
-  "tag=source",
-  "title=Deep Scars (single player version)"
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.shadowsdomain.wordpress.com",
+  "map_size=small",
+  "release_date=2011-05-13",
+  "source=included",
+  "theme=metal",
+  "title=Deep Scars (single player version)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1shw2sp.zip",

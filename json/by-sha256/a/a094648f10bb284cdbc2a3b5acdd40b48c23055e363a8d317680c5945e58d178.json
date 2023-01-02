@@ -1,35 +1,38 @@
 {
- "filename": [
-  "jamie.zip"
- ],
+ "bytes": 517,
  "files": {
   "jamie1.bsp": {
-   "size": 1180132,
+   "bytes": 1180132,
+   "sha256": "669c9c2b7cc83519c4caa60874116afc29427a70b76385070ac110864afb54b3",
    "timestamp": "1997-09-21T15:50:00.000Z"
   },
   "jamie1.map": {
-   "size": 255759,
+   "bytes": 255759,
+   "sha256": "21bd00be09e6ef55d3e6777873ee76482e44d7c331c0b94fbfb73e2f030b6703",
    "timestamp": "1997-09-21T02:21:14.000Z"
   },
   "jamie1.txt": {
-   "size": 1721,
+   "bytes": 1721,
+   "sha256": "f2ba197bff9a9d832f221facf1936004bb8a00c7d5d2b2dd5c7f97169fde1063",
    "timestamp": "1997-09-30T23:11:54.000Z"
   }
  },
- "filesize": 517,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "a094648f10bb284cdbc2a3b5acdd40b48c23055e363a8d317680c5945e58d178",
  "tags": [
   "author=marilyn",
+  "filename=jamie.zip",
   "game=quake",
-  "releasedate=1997-09-30",
+  "game_mode=singleplayer",
+  "release_date=1997-09-30",
+  "source=included",
   "startmap=jamie1",
-  "tag=source",
-  "tag=wizard",
-  "title=welcome fuckhead(there is a story.too long)"
+  "theme=wizard",
+  "title=welcome fuckhead(there is a story.too long)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jamie.zip",

@@ -1,34 +1,36 @@
 {
- "filename": [
-  "atrocity.zip"
- ],
+ "bytes": 794,
  "files": {
   "ATROCITY.BSP": {
-   "size": 1936292,
+   "bytes": 1936292,
+   "sha256": "cd7dfe16c00b7f43ecbdb5efff2d5936e35a3edf876077acd60b8a1c48a9cdaa",
    "timestamp": "1997-08-15T02:10:32.000Z"
   },
   "ATROCITY.txt": {
-   "size": 3444,
+   "bytes": 3444,
+   "sha256": "be3e211f49c9b244fdb840c34a21a662b38bfef98023981012a19d60f3a6ae1c",
    "timestamp": "1997-08-15T05:59:56.000Z"
   }
  },
- "filesize": 794,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e1a3252a45eab8983250e6c4a45ffbb6a227dadd10a28e482267952ae1bd11ab",
  "tags": [
   "author=Jeff Aranyi",
+  "filename=atrocity.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsa.htm#atrocity)",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east13l.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
-  "releasedate=1997-08-15",
-  "tag=bricks",
-  "tag=medium",
-  "tag=realism",
-  "title=Atrocity"
+  "map_size=medium",
+  "release_date=1997-08-15",
+  "theme=bricks",
+  "theme=realism",
+  "title=Atrocity",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/atrocity.zip",

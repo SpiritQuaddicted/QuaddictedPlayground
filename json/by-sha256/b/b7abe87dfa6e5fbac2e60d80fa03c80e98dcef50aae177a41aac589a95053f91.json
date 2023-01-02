@@ -1,31 +1,33 @@
 {
- "filename": [
-  "3ssewage.zip"
- ],
+ "bytes": 595,
  "files": {
   "SEWAGE.BSP": {
-   "size": 1579144,
+   "bytes": 1579144,
+   "sha256": "79b68dae7d2fca7f2c46ced87850dec23841e784a827c8aebe1671c75f8c91e0",
    "timestamp": "1997-12-21T01:32:14.000Z"
   },
   "SEWAGE.TXT": {
-   "size": 2030,
+   "bytes": 2030,
+   "sha256": "0579d940aa756dbc2a7831876ec30e3d9c4902f4eef747a22be083e52e206606",
    "timestamp": "1997-12-21T02:12:50.000Z"
   }
  },
- "filesize": 595,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b7abe87dfa6e5fbac2e60d80fa03c80e98dcef50aae177a41aac589a95053f91",
  "tags": [
   "author=Trace Stuart",
+  "filename=3ssewage.zip",
   "game=quake",
-  "releasedate=1997-12-21",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=plant",
+  "release_date=1997-12-21",
   "startmap=sewage",
-  "tag=plant",
-  "tag=small",
-  "title=Sector 3 - The Sewage Plant"
+  "title=Sector 3 - The Sewage Plant",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/3ssewage.zip",

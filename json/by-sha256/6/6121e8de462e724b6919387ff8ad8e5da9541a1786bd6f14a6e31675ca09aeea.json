@@ -1,35 +1,37 @@
 {
- "filename": [
-  "frcastl2.zip"
- ],
+ "bytes": 363,
  "files": {
   "frcastl2.TXT": {
-   "size": 916,
+   "bytes": 916,
+   "sha256": "6d54422b489772ad5adcdf9eb72ac00cd3e765b870647f7eddc19f5748fa8311",
    "timestamp": "1996-10-30T22:12:50.000Z"
   },
   "frcastl2.bsp": {
-   "size": 884008,
+   "bytes": 884008,
+   "sha256": "3dc1ce4cec38703c2d63ec917b7836a1ec8701b1a86f3020f15dc12a12a415a8",
    "timestamp": "1996-10-30T22:01:06.000Z"
   }
  },
- "filesize": 363,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6121e8de462e724b6919387ff8ad8e5da9541a1786bd6f14a6e31675ca09aeea",
  "tags": [
   "author=Robert Carter",
+  "filename=frcastl2.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsf.htm#fcastle)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/d_f.htm)",
-  "releasedate=1996-10-30",
-  "tag=castle",
-  "tag=dark",
-  "tag=dm",
-  "tag=small",
-  "tag=wizard",
-  "title=Fear Castle v.2"
+  "map_size=small",
+  "nonspecific_tag=dark",
+  "release_date=1996-10-30",
+  "theme=castle",
+  "theme=wizard",
+  "title=Fear Castle v.2",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/frcastl2.zip",

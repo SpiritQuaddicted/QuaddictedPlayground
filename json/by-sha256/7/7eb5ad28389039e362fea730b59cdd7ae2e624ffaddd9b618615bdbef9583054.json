@@ -1,0 +1,663 @@
+{
+ "bytes": 5055,
+ "files": {
+  "dfl_godfreys/config.cfg": {
+   "bytes": 2597,
+   "sha256": "8360efbff13dbab1a78ef70f540fdf77ace0ac593c6e3576294195eeb6135f87",
+   "timestamp": "2021-02-24T14:11:26.000Z"
+  },
+  "dfl_godfreys/dfl_godfreys.txt": {
+   "bytes": 2321,
+   "sha256": "cd20f954b79cf52653b32ef0078a275ae61d93742fbaf821de20ac4581dcb9d4",
+   "timestamp": "2021-02-24T14:05:42.000Z"
+  },
+  "dfl_godfreys/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-24T13:56:24.000Z"
+  },
+  "dfl_godfreys/maps/debris/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:10.000Z"
+  },
+  "dfl_godfreys/maps/debris/brick01.bsp": {
+   "bytes": 7912,
+   "sha256": "c11880924b195ed38908cbf50f9cd16f071918df0a94a19c7254b93dddb1e62d",
+   "timestamp": "2019-01-11T22:18:38.000Z"
+  },
+  "dfl_godfreys/maps/debris/wood1.bsp": {
+   "bytes": 7584,
+   "sha256": "c39390e3757553352941fcc255da6498be4c25a87575871e360a0166fac592bc",
+   "timestamp": "2019-03-11T18:37:26.000Z"
+  },
+  "dfl_godfreys/maps/dfl_godfreys.bsp": {
+   "bytes": 4984792,
+   "sha256": "6a99c2d88e6c7932bf636f44d1477d295c4fdad8aae832357dad88b50a89ff35",
+   "timestamp": "2021-02-24T13:54:28.000Z"
+  },
+  "dfl_godfreys/maps/dfl_godfreys.lit": {
+   "bytes": 3207500,
+   "sha256": "86329578f3e0fec33e9e378b52eb57ef4be5cdd7ebacd47d0a7ffda011924d9c",
+   "timestamp": "2021-02-24T13:54:28.000Z"
+  },
+  "dfl_godfreys/progs.dat": {
+   "bytes": 629374,
+   "sha256": "958d1e69318d8fcc9b87cf5ec4caf7bc054fef4380d8b4c146b125deaa314294",
+   "timestamp": "2020-12-30T09:04:30.000Z"
+  },
+  "dfl_godfreys/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:10.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:10.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/m_cells1.mdl": {
+   "bytes": 3252,
+   "sha256": "1cdfc2b54dd883efe9215499603e341bfa72e800740a2e874e9bcf3b0afc68ba",
+   "timestamp": "2020-12-13T18:10:26.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/m_cells2.mdl": {
+   "bytes": 4532,
+   "sha256": "8cb54159eeaa410b98478e9190bd2d33340d3a2e98a61d32ce1afaf4e99031a0",
+   "timestamp": "2020-12-04T18:39:30.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/m_nails1.mdl": {
+   "bytes": 3252,
+   "sha256": "ac361970fb1cbbb87ad4593afecd6d8973a65ea4f14e5f7b565c8f38c181fa9d",
+   "timestamp": "2020-12-04T18:39:34.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/m_nails2.mdl": {
+   "bytes": 4532,
+   "sha256": "0870b633f95bda895074e8d423631ee8805c3923f36a1c7f09938710783e8f99",
+   "timestamp": "2020-12-04T18:39:36.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/m_rock1.mdl": {
+   "bytes": 3252,
+   "sha256": "146955794f29c02f6570eed83e1d4b0013b0b4341897bcbc91cc9ffea6957ff4",
+   "timestamp": "2020-12-04T18:39:40.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/m_rock2.mdl": {
+   "bytes": 4532,
+   "sha256": "59988afc3603b83ccfadf0a9af423a113bf15ed969d4a62db9073e3061bc0fdc",
+   "timestamp": "2020-12-04T18:39:44.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/m_shell1.mdl": {
+   "bytes": 3252,
+   "sha256": "696594c11dd6dbd2e60ac6923d82a55f8f5b16e93b93f7914abe5fd4df74299f",
+   "timestamp": "2020-12-04T18:39:46.000Z"
+  },
+  "dfl_godfreys/progs/a_mdls/m_shell2.mdl": {
+   "bytes": 4532,
+   "sha256": "b558ee2dfd0078c7e3075079fb40368f53e7dfb162aaefcd20e53f562e405b1b",
+   "timestamp": "2020-12-13T18:25:06.000Z"
+  },
+  "dfl_godfreys/progs/candle.mdl": {
+   "bytes": 24135,
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2018-10-10T19:27:08.000Z"
+  },
+  "dfl_godfreys/progs/debris.mdl": {
+   "bytes": 270552,
+   "sha256": "714b4fc3ce6675f0f4edc6ed7022e817f3922cde1877eb5418e4ddf60d798724",
+   "timestamp": "2019-11-06T20:33:52.000Z"
+  },
+  "dfl_godfreys/progs/enforcer.mdl": {
+   "bytes": 472208,
+   "sha256": "3345599ba081d346c163f5c239815bd65b134ccf342601f42a31e60a45044f39",
+   "timestamp": "2020-12-24T17:15:22.000Z"
+  },
+  "dfl_godfreys/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2019-05-17T10:20:46.000Z"
+  },
+  "dfl_godfreys/progs/g_shotty.mdl": {
+   "bytes": 23380,
+   "sha256": "b919bbcba3f7f03fb8b82fa6d3b1464ca41e81cf29417cfea0de09658c698cfb",
+   "timestamp": "2019-05-17T11:07:18.000Z"
+  },
+  "dfl_godfreys/progs/h_boss.mdl": {
+   "bytes": 63532,
+   "sha256": "320aff68d374f002ed468bf17ddeca4d95f59ef68c7dd3a17287fef2da1f0b46",
+   "timestamp": "2020-02-02T13:43:06.000Z"
+  },
+  "dfl_godfreys/progs/h_mdls/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:10.000Z"
+  },
+  "dfl_godfreys/progs/h_mdls/m_h100.mdl": {
+   "bytes": 17992,
+   "sha256": "2e7fac7418838a721d80e80370000f3e400b21248b22c8d3555588d4f8437a5b",
+   "timestamp": "2020-12-13T18:59:04.000Z"
+  },
+  "dfl_godfreys/progs/h_mdls/m_h15.mdl": {
+   "bytes": 3252,
+   "sha256": "1f4b0791be3156763c15521fbf2e747744ce3355d90d630b01c2227770314771",
+   "timestamp": "2020-12-13T18:32:00.000Z"
+  },
+  "dfl_godfreys/progs/h_mdls/m_h25.mdl": {
+   "bytes": 14792,
+   "sha256": "6f792b9a80f34e31bceb4258e1d2c8f22d405a7ae1198b31bb285f502c720cfe",
+   "timestamp": "2020-12-14T13:00:00.000Z"
+  },
+  "dfl_godfreys/progs/h_mdls/pd_vial.mdl": {
+   "bytes": 24396,
+   "sha256": "aab843270d62a97b563b274d08c67c8d5de697e766ba1e928f190b7c7baaf108",
+   "timestamp": "2020-12-15T10:02:30.000Z"
+  },
+  "dfl_godfreys/progs/h_ogre.mdl": {
+   "bytes": 42048,
+   "sha256": "52760ce1f6e8f657e782846571baf9fde80859f5342d07a684fa8218f96f68db",
+   "timestamp": "2020-12-26T18:40:10.000Z"
+  },
+  "dfl_godfreys/progs/lspike.mdl": {
+   "bytes": 1684,
+   "sha256": "59264317258f19955b967177f0dbc5be1733e4ca07c4c7b3cc333bb88bc0c46e",
+   "timestamp": "2020-11-17T09:06:04.000Z"
+  },
+  "dfl_godfreys/progs/mervup.mdl": {
+   "bytes": 32948,
+   "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899",
+   "timestamp": "2020-06-06T23:04:40.000Z"
+  },
+  "dfl_godfreys/progs/ogre.mdl": {
+   "bytes": 315696,
+   "sha256": "bbfc76137aa7beb3d16231499e041d51e156ef619607c660efa46438cce45891",
+   "timestamp": "2020-12-26T11:26:04.000Z"
+  },
+  "dfl_godfreys/progs/pd_armor_sh.mdl": {
+   "bytes": 31508,
+   "sha256": "46b9de8235f07190e18d67e147ed00be6dc322cd112ccde33bf4fc1f9a77e074",
+   "timestamp": "2020-12-12T09:28:32.000Z"
+  },
+  "dfl_godfreys/progs/pd_base_key.mdl": {
+   "bytes": 21219,
+   "sha256": "320ec52018f501f8fe428dd46f44693787e545289be883a49f3bd6476974cf46",
+   "timestamp": "2019-11-15T19:29:12.000Z"
+  },
+  "dfl_godfreys/progs/pd_bpack.mdl": {
+   "bytes": 216452,
+   "sha256": "cf13d3a5239b9f6028b2a848f564769d97fcec164b56f266bbcf2657af5127df",
+   "timestamp": "2020-12-04T16:13:00.000Z"
+  },
+  "dfl_godfreys/progs/pd_rune_key.mdl": {
+   "bytes": 46335,
+   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
+   "timestamp": "2019-11-15T19:40:24.000Z"
+  },
+  "dfl_godfreys/progs/pd_wiz_key.mdl": {
+   "bytes": 21907,
+   "sha256": "36b50211f687813b85648a46bd32a1d543a8f2af84e9d4223f8b5843f885e1bc",
+   "timestamp": "2019-11-15T19:33:36.000Z"
+  },
+  "dfl_godfreys/progs/s_flame.spr": {
+   "bytes": 29224,
+   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
+   "timestamp": "2018-10-01T21:43:54.000Z"
+  },
+  "dfl_godfreys/progs/s_null.spr": {
+   "bytes": 1080,
+   "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+   "timestamp": "2019-10-03T22:17:30.000Z"
+  },
+  "dfl_godfreys/progs/soldier.mdl": {
+   "bytes": 320900,
+   "sha256": "e3321220ed34292da63fac94af63360c6544c055edd1eceed35d75eb26685e9b",
+   "timestamp": "2020-12-24T17:16:30.000Z"
+  },
+  "dfl_godfreys/progs/spark.mdl": {
+   "bytes": 9588,
+   "sha256": "74dc6734e0ce30447942a10e9ec78c7cf43eafb86f290cc772b2a8874702b858",
+   "timestamp": "2019-06-03T20:21:02.000Z"
+  },
+  "dfl_godfreys/progs/spike.mdl": {
+   "bytes": 4416,
+   "sha256": "8c70353304b2d111260102565745a5504144568f932787906eaf50de742aa62c",
+   "timestamp": "2020-11-23T08:27:06.000Z"
+  },
+  "dfl_godfreys/progs_dump-devkit-readme.txt": {
+   "bytes": 5611,
+   "sha256": "59be3f7ae9636a369eb991cbb946604fb0d988711de4ebd5426b028a8ae2749b",
+   "timestamp": "2020-12-28T13:37:52.000Z"
+  },
+  "dfl_godfreys/quakec src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:12.000Z"
+  },
+  "dfl_godfreys/quakec src/LICENSE": {
+   "bytes": 18431,
+   "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "dfl_godfreys/quakec src/README.md": {
+   "bytes": 239,
+   "sha256": "2be824d72bdef25ec9f90b9b55b63a24334282d53d83ec79ac273249821bc79c",
+   "timestamp": "2020-08-13T08:17:06.000Z"
+  },
+  "dfl_godfreys/quakec src/ai.qc": {
+   "bytes": 16106,
+   "sha256": "afe7fd0dab4c5acbb35b6dc2e25f9f019b45a714b07f3c677a2e77124cc296c6",
+   "timestamp": "2020-11-07T20:52:04.000Z"
+  },
+  "dfl_godfreys/quakec src/boss.qc": {
+   "bytes": 13622,
+   "sha256": "f3a9aa39d57adda1b897908fd26c28e0151eaaa2920ed6a082b18b46b94a33e3",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/boss2.qc": {
+   "bytes": 15987,
+   "sha256": "4aa8179663b52698079673aa46f263f9e2769e3d657a725897023bfc414c331b",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/buttons.qc": {
+   "bytes": 3249,
+   "sha256": "1a814605af733bb3fc6ae250d7af5cb0b2d40bd3b37f5522b6d928126dd6eac9",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/changelog.txt": {
+   "bytes": 9966,
+   "sha256": "3cd20bfb967d6cdfc724b1da9caaf77365c158d73c092d5ae932fe337f183324",
+   "timestamp": "2020-12-30T09:24:22.000Z"
+  },
+  "dfl_godfreys/quakec src/client.qc": {
+   "bytes": 42633,
+   "sha256": "d0ecb904610a814c60e20194b1fc42287f36e9ad23ff04f2ad60a332a6e005b4",
+   "timestamp": "2020-12-07T21:33:04.000Z"
+  },
+  "dfl_godfreys/quakec src/combat.qc": {
+   "bytes": 7192,
+   "sha256": "c1b5774a0b11c50cf5e6508e11349aa38c6bc8b468fad60fe7c0a4a1d30c9cc0",
+   "timestamp": "2020-12-07T21:09:34.000Z"
+  },
+  "dfl_godfreys/quakec src/custom_mdls.qc": {
+   "bytes": 2167,
+   "sha256": "3798f019c4c7151be89ccbebb560120101e69357a1da645a497b90fcb9bbbba3",
+   "timestamp": "2020-09-18T16:20:28.000Z"
+  },
+  "dfl_godfreys/quakec src/customsounds.qc": {
+   "bytes": 5564,
+   "sha256": "26bce1b876f3a8a709a2b61298d1f65de5f568f24ac66db713e8585afc694f5d",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/cutscene.qc": {
+   "bytes": 30669,
+   "sha256": "b9ec452e62de479c53c05ac56a943c79d89ac7d6ee3d3bb3c68fb203656ac5cd",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/defs.qc": {
+   "bytes": 25275,
+   "sha256": "01844d4c5c8ab85a9e4276900c1aed7e6d5a4260aa4e646f6dc8d057d06ee4a8",
+   "timestamp": "2020-12-19T09:17:10.000Z"
+  },
+  "dfl_godfreys/quakec src/demon.qc": {
+   "bytes": 14554,
+   "sha256": "c86075c879715287caad3d5a014eef446ad77b438fd0756905f0f95dd202bd33",
+   "timestamp": "2020-12-21T11:32:46.000Z"
+  },
+  "dfl_godfreys/quakec src/doelightning.qc": {
+   "bytes": 4955,
+   "sha256": "4b6233156f3792d7529d714de7f992c066a927d5f9109d9947caa2a7a2341c57",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/doeplats.qc": {
+   "bytes": 14879,
+   "sha256": "dcca85f99b803fbbafea7ecd0b12ae8cf02e9dc48422a28e6d70335f749eafe3",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/dog.qc": {
+   "bytes": 14108,
+   "sha256": "ca8ce0d87fd1eda73eeeee13ace5eebd0bc183f7dc610cc1d6fce01c163bcb08",
+   "timestamp": "2020-12-21T10:24:20.000Z"
+  },
+  "dfl_godfreys/quakec src/doors.qc": {
+   "bytes": 18041,
+   "sha256": "539a978d92e7120db67fb89116f94744bd82333751a575c364955e8e0895cea1",
+   "timestamp": "2020-12-18T15:51:34.000Z"
+  },
+  "dfl_godfreys/quakec src/dtmisc.qc": {
+   "bytes": 29848,
+   "sha256": "8392b74d997a79b88866506c47215b50adc7a05bbb0c8bfc9cbbf5bbfb33881e",
+   "timestamp": "2020-12-30T09:04:26.000Z"
+  },
+  "dfl_godfreys/quakec src/dtquake.qc": {
+   "bytes": 2654,
+   "sha256": "170b5464e0092f6a2f261910108381fd93fdb7fb5dd7bc047863f7bcc462dd9a",
+   "timestamp": "2020-11-27T20:06:16.000Z"
+  },
+  "dfl_godfreys/quakec src/elevatr.qc": {
+   "bytes": 3624,
+   "sha256": "eb6a260d53ca8f7b69f20a8cc42341c597d5e06ea18bca86e6aabff71bbc892b",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/enforcer.qc": {
+   "bytes": 24697,
+   "sha256": "55419fb7e3c912b0e47396304e3abe2fa219be8ba9b9da361d44c03dafc7b61d",
+   "timestamp": "2020-12-21T12:13:48.000Z"
+  },
+  "dfl_godfreys/quakec src/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "dfl_godfreys/quakec src/fish.qc": {
+   "bytes": 11627,
+   "sha256": "2a2a72686b7177527bbfa43304fcc126b8f66ff4724f1b0da57f93f2ebe693a5",
+   "timestamp": "2020-12-21T13:08:16.000Z"
+  },
+  "dfl_godfreys/quakec src/func_bob.qc": {
+   "bytes": 5676,
+   "sha256": "5fe11638fd89f509759c83748c519b98dc5fe5856b09fab1f6247518b9836143",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/func_fall2.qc": {
+   "bytes": 5632,
+   "sha256": "11cb67e867005f519f2df4e382f6330aa2218f3c10a612911caa22cf6d69ae99",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/hipcount.qc": {
+   "bytes": 5217,
+   "sha256": "da5c096495966fa9ef5315ba00b315987349a817c889b974d8a91f506e6aee1d",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/hippart.qc": {
+   "bytes": 7983,
+   "sha256": "730ed584b4de9dd49283502419a8bcafb99e2f1a3d146e05afee0ab2547751c3",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/hiptrig.qc": {
+   "bytes": 6260,
+   "sha256": "e0292ef23ab7c669257e30525897fa1ae64e3c0870002863e5fa98e8de95aca1",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/hknight.qc": {
+   "bytes": 23977,
+   "sha256": "1c84fb40236ba7b067081570db4e0dcc1a669416efafc5c4dd99d1ffd488768f",
+   "timestamp": "2020-12-21T12:19:02.000Z"
+  },
+  "dfl_godfreys/quakec src/items.qc": {
+   "bytes": 67829,
+   "sha256": "a14256e3807beeeebb309c59092820445b226069f2927e373c08b4608b8afed8",
+   "timestamp": "2020-12-21T12:11:32.000Z"
+  },
+  "dfl_godfreys/quakec src/keydata.qc": {
+   "bytes": 5639,
+   "sha256": "5902993c9755a2851ef424e48572a9806d20d3aae67a8f9d01446c4aad09a91a",
+   "timestamp": "2020-08-13T08:17:06.000Z"
+  },
+  "dfl_godfreys/quakec src/keylock.qc": {
+   "bytes": 5884,
+   "sha256": "26751c63554a6e73da84138ee45871f501d3bb5250cbfa137a524087bc204e39",
+   "timestamp": "2020-08-13T08:17:06.000Z"
+  },
+  "dfl_godfreys/quakec src/knight.qc": {
+   "bytes": 14633,
+   "sha256": "8048aafb27c52ad8fb92bec060401a9702c0cf9918b34e2bdc49ae2b423705a1",
+   "timestamp": "2020-12-21T12:35:38.000Z"
+  },
+  "dfl_godfreys/quakec src/lights.qc": {
+   "bytes": 15369,
+   "sha256": "eb7bcc93ccdb36c7df4aa49bb370f4d37eb598cbc51c8a9c2ff668769194bcae",
+   "timestamp": "2020-12-18T08:52:26.000Z"
+  },
+  "dfl_godfreys/quakec src/math.qc": {
+   "bytes": 1813,
+   "sha256": "9d5303c03ed58760bedbeb3f017ddebd5bc0c27de43a1e62ea3b5ae8bab2b927",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "dfl_godfreys/quakec src/misc.qc": {
+   "bytes": 39913,
+   "sha256": "fe61ad291552bea62f41c977ec823c96a8342bd026241a1bdae564942cfcaaa6",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/misc_model.qc": {
+   "bytes": 1712,
+   "sha256": "1a070d9cc274f76c2032b2cc459a002df8ce76103aa9f318d100e577a204df21",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/mobot.qc": {
+   "bytes": 13931,
+   "sha256": "b9e698b47980f8ca795cdc928b7e107a2897ad3578cc172eab45dcc38c96982b",
+   "timestamp": "2020-12-04T11:35:48.000Z"
+  },
+  "dfl_godfreys/quakec src/monsters.qc": {
+   "bytes": 10018,
+   "sha256": "335d8da10275b61aa57b939a022eb8995d3a745609ef83d321bf52731e94ef11",
+   "timestamp": "2020-10-17T10:57:24.000Z"
+  },
+  "dfl_godfreys/quakec src/newflags.qc": {
+   "bytes": 5870,
+   "sha256": "192bf31eb0f13e6e55342801a42608caf797bfdfbdf27750c78ae67b1c1c5568",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "dfl_godfreys/quakec src/ogre.qc": {
+   "bytes": 39928,
+   "sha256": "37aaeb400bd87453aa8d3d5b9d399dcb7e9ca90b911d018167152d8058e7e860",
+   "timestamp": "2020-12-21T12:37:12.000Z"
+  },
+  "dfl_godfreys/quakec src/oldone.qc": {
+   "bytes": 10263,
+   "sha256": "71f269418437ca5dc5cdb1ebe917a1a7252fde104ca92011c0079fa7769aa740",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/oldone2.qc": {
+   "bytes": 14736,
+   "sha256": "6a3cb7559241c34c69ca053780b8d2e156eef260e0e54a2d575ca3a690aaf357",
+   "timestamp": "2020-11-27T23:12:36.000Z"
+  },
+  "dfl_godfreys/quakec src/plats.qc": {
+   "bytes": 14266,
+   "sha256": "545511c895c06cc2676cfa33f953415b4ee33ad72f2292c7d0b70026fa77d3ac",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/player.qc": {
+   "bytes": 20579,
+   "sha256": "5612eef978278acf038f2a24b9050f237ea966a79a02fe79e78f4687b527c541",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/progs.src": {
+   "bytes": 1907,
+   "sha256": "9f39f79f6601938cb94f93831f5dbf7e14b974a25f7d86554cc417aba66f20d9",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/rotate.qc": {
+   "bytes": 31330,
+   "sha256": "63103ad2bb9f6cf0479863d22188bfef46acc674d27ec00863b9c7f098d3c6af",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/rubicon2.qc": {
+   "bytes": 28533,
+   "sha256": "6ef16da656ddbbe1550284da2f594be13623a1ac3ff5f0034df7c862e62d4e29",
+   "timestamp": "2020-12-21T13:45:34.000Z"
+  },
+  "dfl_godfreys/quakec src/shalrath.qc": {
+   "bytes": 13109,
+   "sha256": "a0f1b2be13a2a3cb3ba41b413669ed67419a8a3a26108771fe910065192cbb46",
+   "timestamp": "2020-12-21T12:39:04.000Z"
+  },
+  "dfl_godfreys/quakec src/shambler.qc": {
+   "bytes": 18148,
+   "sha256": "96c483b3af04299fd0368c430022082141ba10af96a1dc25771dfb4bc830b513",
+   "timestamp": "2020-12-21T12:44:04.000Z"
+  },
+  "dfl_godfreys/quakec src/soldier.qc": {
+   "bytes": 18710,
+   "sha256": "220d51eeb811a417c47eb999ca4b0d69c417444265f941913d1badbd898d9f99",
+   "timestamp": "2020-12-21T12:45:44.000Z"
+  },
+  "dfl_godfreys/quakec src/subs.qc": {
+   "bytes": 14185,
+   "sha256": "d0e5649ffd317bf70b4c85d686d7f7035ce68a7c616733039788746974a9554c",
+   "timestamp": "2020-10-17T10:57:24.000Z"
+  },
+  "dfl_godfreys/quakec src/tarbaby.qc": {
+   "bytes": 9855,
+   "sha256": "c81c6071648a0acb0d5f7dac6fc49b78661d43bc114ab3c11194bdeec9b199d2",
+   "timestamp": "2020-12-21T12:58:04.000Z"
+  },
+  "dfl_godfreys/quakec src/triggers.qc": {
+   "bytes": 39079,
+   "sha256": "1d057a55361fe573a3035524b44571a7f12cfd2b8be83f9c65948cf0932feb35",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "dfl_godfreys/quakec src/weapons.qc": {
+   "bytes": 38077,
+   "sha256": "b1ba08d39931a7cd06adb497016be6a4cbbc585d507f1a86e8aa967ddda6b0a0",
+   "timestamp": "2020-12-18T09:14:40.000Z"
+  },
+  "dfl_godfreys/quakec src/wizard.qc": {
+   "bytes": 15610,
+   "sha256": "0ecf27e676b25de687da14413f82f535d6614719099fdd8775f6d7793c7d64b3",
+   "timestamp": "2020-12-21T13:04:04.000Z"
+  },
+  "dfl_godfreys/quakec src/world.qc": {
+   "bytes": 20871,
+   "sha256": "7be5e3b9e534fdd61250d1376b5c66531642b57d9edf996c7e8f365ea0e17b57",
+   "timestamp": "2020-12-21T09:55:24.000Z"
+  },
+  "dfl_godfreys/quakec src/zombie.qc": {
+   "bytes": 33395,
+   "sha256": "053eab38bec4d63e2c020b28bdf27a580de513c206d41b59cff7e49fa833e89c",
+   "timestamp": "2020-12-21T13:12:32.000Z"
+  },
+  "dfl_godfreys/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:12.000Z"
+  },
+  "dfl_godfreys/sound/break/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:12.000Z"
+  },
+  "dfl_godfreys/sound/break/pd_bricks1.wav": {
+   "bytes": 61786,
+   "sha256": "3829842a9cb395f99d07546be38263eaf0ee5bbed71841aa8c93864d55a7fb94",
+   "timestamp": "2019-03-27T13:52:22.000Z"
+  },
+  "dfl_godfreys/sound/break/pd_metal1.wav": {
+   "bytes": 44146,
+   "sha256": "c0111b94231bc3870cbb95ec03f13b2b44ac407a5d18b35668ccf231303cc8aa",
+   "timestamp": "2019-03-27T16:05:02.000Z"
+  },
+  "dfl_godfreys/sound/break/pd_metal2.wav": {
+   "bytes": 70722,
+   "sha256": "ce8250482e831c270cc3c8e9211b74a627b3e29159c2c8ee720dd11cafd365c1",
+   "timestamp": "2019-03-27T16:47:12.000Z"
+  },
+  "dfl_godfreys/sound/break/pd_stones1.wav": {
+   "bytes": 75150,
+   "sha256": "632d15db23ff70c23c199595b41a153ded67f664de46b7d0cbfa0228f071156e",
+   "timestamp": "2019-03-27T15:43:52.000Z"
+  },
+  "dfl_godfreys/sound/break/pd_wood1.wav": {
+   "bytes": 34526,
+   "sha256": "621865f52fc27fb10108027ce3eea18aaf17181751a3ba1ceee0c9c99da9f375",
+   "timestamp": "2019-03-27T13:49:08.000Z"
+  },
+  "dfl_godfreys/sound/break/pd_wood2.wav": {
+   "bytes": 33342,
+   "sha256": "77282f2c533b9aec72b232aace9078534db3f255f418efafdf769c7361a28e05",
+   "timestamp": "2019-03-27T13:47:40.000Z"
+  },
+  "dfl_godfreys/sound/dump/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:12.000Z"
+  },
+  "dfl_godfreys/sound/dump/elec22k.wav": {
+   "bytes": 82784,
+   "sha256": "dd63a8517e33bbe7a75cd0d6ccb16835b73f83af8d31c0ae0277b7304f7d502b",
+   "timestamp": "2019-05-28T00:37:32.000Z"
+  },
+  "dfl_godfreys/sound/dump/pd_armor1_sh.wav": {
+   "bytes": 12410,
+   "sha256": "3b80fc8000fe624ffbe4f119faf41a77406b83bd350020c7782bc03fd51a1799",
+   "timestamp": "2020-12-04T16:09:06.000Z"
+  },
+  "dfl_godfreys/sound/dump/pd_magic_01.wav": {
+   "bytes": 125944,
+   "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
+   "timestamp": "2020-12-11T09:15:52.000Z"
+  },
+  "dfl_godfreys/sound/dump/pd_quake_end.wav": {
+   "bytes": 37248,
+   "sha256": "3ecb621fbf5a3f2ab090ebc0f3036069292181b11ab366689b3dfa0f19dd372a",
+   "timestamp": "2020-11-28T12:22:12.000Z"
+  },
+  "dfl_godfreys/sound/dump/pd_quake_full.wav": {
+   "bytes": 156278,
+   "sha256": "872e0b0847fd366c59341d672cba9da0faaf85a881f8d4d5471a664923c8440e",
+   "timestamp": "2020-11-28T12:59:34.000Z"
+  },
+  "dfl_godfreys/sound/dump/pd_quake_loop1.wav": {
+   "bytes": 159956,
+   "sha256": "52a330a12c35191347008f4c546b1c83b4e387f3f33c9b60c3a5e8e545b0517e",
+   "timestamp": "2020-11-28T12:19:44.000Z"
+  },
+  "dfl_godfreys/sound/dump/rumble.wav": {
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+   "timestamp": "2019-05-31T18:51:26.000Z"
+  },
+  "dfl_godfreys/sound/dump/spark.wav": {
+   "bytes": 14684,
+   "sha256": "55ba43047ffc794bc65b1002b351b3a13bc271346cb060e01c093f56dd960e7f",
+   "timestamp": "2019-06-03T20:21:06.000Z"
+  },
+  "dfl_godfreys/sound/dump/water_59_02.wav": {
+   "bytes": 40038,
+   "sha256": "25aa667940a737e46da0a829d9cb94922972b9b19726664d1a1133a666dc1439",
+   "timestamp": "2020-12-27T10:50:38.000Z"
+  },
+  "dfl_godfreys/sound/oldone2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-02-23T14:47:12.000Z"
+  },
+  "dfl_godfreys/sound/oldone2/pd_pop2.wav": {
+   "bytes": 42108,
+   "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
+   "timestamp": "2020-01-02T14:39:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "7eb5ad28389039e362fea730b59cdd7ae2e624ffaddd9b618615bdbef9583054",
+ "tags": [
+  "author=DragonsForLunch",
+  "commandline=-game dfl_godfreys",
+  "exceeds_quake_limits=yes",
+  "filename=dfl_godfreys.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=62027)",
+  "map_size=medium",
+  "nonspecific_tag=1996",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=lighting",
+  "nonspecific_tag=models",
+  "nonspecific_tag=progs_dump",
+  "nonspecific_tag=sounds",
+  "nonspecific_tag=textures",
+  "release_date=2021-02-24",
+  "source=included",
+  "theme=bricks",
+  "theme=castle",
+  "theme=medieval",
+  "title=Godfreys Demesne",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/dfl_godfreys.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7eb5ad28389039e362fea730b59cdd7ae2e624ffaddd9b618615bdbef9583054/dfl_godfreys.zip"
+ ]
+}

@@ -1,37 +1,40 @@
 {
- "filename": [
-  "brt08hip.zip"
- ],
+ "bytes": 591,
  "files": {
   "brt08hip.bsp": {
-   "size": 1484988,
+   "bytes": 1484988,
+   "sha256": "22cfd75cffcfaff6e9e876c4589dda59b09a22663e854f7383cf1e3843ac03a6",
    "timestamp": "1999-04-06T22:05:18.000Z"
   },
   "brt08hip.txt": {
-   "size": 2056,
+   "bytes": 2056,
+   "sha256": "ed0c3fe2d1f96fb6ab133cebad5a31ef6cd7895c7b0b8afa206a9d722765a5af",
    "timestamp": "2002-01-22T01:34:44.000Z"
   }
  },
- "filesize": 591,
  "install": {
-  "extract": "{quake}/hipnotic/maps/"
+  "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6308785a00050879ca77a0146a88677e4ff51caa0113a2e36c8f5cb20c88789d",
  "tags": [
   "author=QBrt",
   "commandline=-hipnotic",
   "dependency=hipnotic",
+  "filename=brt08hip.zip",
   "game=quake",
-  "releasedate=2002-01-22",
-  "tag=blue",
-  "tag=bricks",
-  "tag=hipnotic",
-  "tag=medieval",
-  "tag=red",
-  "tag=small",
-  "tag=soa",
-  "title=brt08hip"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.xs4all.nl/~brt/",
+  "map_size=small",
+  "release_date=2002-01-22",
+  "theme=blue",
+  "theme=bricks",
+  "theme=dissolution of eternity",
+  "theme=medieval",
+  "theme=red",
+  "theme=scourge of armagon",
+  "title=brt08hip",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/brt08hip.zip",

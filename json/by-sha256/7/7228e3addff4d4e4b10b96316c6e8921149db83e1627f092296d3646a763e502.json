@@ -1,31 +1,32 @@
 {
- "filename": [
-  "toa.zip"
- ],
+ "bytes": 1077,
  "files": {
   "readme.txt": {
-   "size": 778,
+   "bytes": 778,
+   "sha256": "6796720f89f47c6d2b273df3943060882d607dc8ea08596214198f80ba7bc128",
    "timestamp": "2009-04-15T23:55:14.000Z"
   },
   "toa.bsp": {
-   "size": 2476788,
+   "bytes": 2476788,
+   "sha256": "3d8382033e8d39cbccdb1512374cf8d72017fff5a0ab7d84180b3cda022fa1ad",
    "timestamp": "2009-04-15T17:34:54.000Z"
   }
  },
- "filesize": 1077,
  "install": {
-  "extract": "{quake}/id1/maps"
+  "extract": "{base}/id1/maps"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7228e3addff4d4e4b10b96316c6e8921149db83e1627f092296d3646a763e502",
  "tags": [
   "author=DeathMethod",
+  "filename=toa.zip",
   "game=quake",
-  "releasedate=2009-04-15",
-  "tag=egyptian",
-  "tag=medium",
-  "tag=temple",
-  "title=Temple Of Anubis: Judgement Of The Dead"
+  "game_mode=singleplayer",
+  "release_date=2009-04-15",
+  "theme=egyptian",
+  "theme=temple",
+  "title=Temple Of Anubis: Judgement Of The Dead",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/toa.zip",

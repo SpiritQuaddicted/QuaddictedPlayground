@@ -1,34 +1,36 @@
 {
- "filename": [
-  "biliousoutpostfinal.zip"
- ],
+ "bytes": 479,
  "files": {
   "BiliousOutpost.bsp": {
-   "size": 1216788,
+   "bytes": 1216788,
+   "sha256": "c42163274b589676e15ffee71a5774ac4ac0004362b4137c389776741c3ab666",
    "timestamp": "2017-05-02T00:21:26.000Z"
   },
   "BiliousOutpost.txt": {
-   "size": 149,
+   "bytes": 149,
+   "sha256": "b7d999af31b5346bdd7dd6eac9a332b0b2f5b5b8ed22d380413802bc86ee41a4",
    "timestamp": "2017-04-29T18:01:34.000Z"
   }
  },
- "filesize": 479,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "3acfe9f528c187a8494ffda90742187d1fb66877a070edb0177317e394c1d238",
  "tags": [
   "author=F14m3z",
+  "filename=biliousoutpostfinal.zip",
   "game=quake",
-  "releasedate=2017-04-29",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=broken_injector",
+  "playstyle=speedrunning",
+  "release_date=2017-04-29",
   "startmap=BiliousOutpost",
-  "tag=bricks",
-  "tag=broken_injector",
-  "tag=medieval",
-  "tag=small",
-  "tag=speedrunning",
-  "title=Bilious Outpost"
+  "theme=bricks",
+  "theme=medieval",
+  "title=Bilious Outpost",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/biliousoutpostfinal.zip",

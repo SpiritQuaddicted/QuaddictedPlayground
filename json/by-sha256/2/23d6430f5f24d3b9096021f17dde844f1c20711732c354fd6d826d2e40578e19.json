@@ -1,36 +1,39 @@
 {
- "filename": [
-  "kysenty3.zip"
- ],
+ "bytes": 495,
  "files": {
   "KYSENTY3.BSP": {
-   "size": 1160768,
+   "bytes": 1160768,
+   "sha256": "ae9a3ec721afc866e6a819934e25a54acc70ee964d5ddb1fa554f8a927a88bc3",
    "timestamp": "1996-08-31T06:46:14.000Z"
   },
   "KYSENTY3.MAP": {
-   "size": 236259,
+   "bytes": 236259,
+   "sha256": "85cf25f26b12572eb937cec672992957cd8bacb8060dad33bcc447ed130773ad",
    "timestamp": "1996-08-31T02:09:42.000Z"
   },
   "KYSENTY3.TXT": {
-   "size": 4679,
+   "bytes": 4679,
+   "sha256": "42eafa8cb9cff8e98d741ed917b4ef9e350c85ef6797595ed8b9c28f5763906c",
    "timestamp": "1996-08-31T09:58:30.000Z"
   }
  },
- "filesize": 495,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "23d6430f5f24d3b9096021f17dde844f1c20711732c354fd6d826d2e40578e19",
  "tags": [
   "author=Kayos",
+  "filename=kysenty3.zip",
   "game=quake",
-  "releasedate=1996-08-31",
-  "tag=bicks",
-  "tag=doom2",
-  "tag=small",
-  "tag=source",
-  "title=Entryway III - Quaked"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=bicks",
+  "release_date=1996-08-31",
+  "source=included",
+  "theme=doom 2",
+  "title=Entryway III - Quaked",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kysenty3.zip",

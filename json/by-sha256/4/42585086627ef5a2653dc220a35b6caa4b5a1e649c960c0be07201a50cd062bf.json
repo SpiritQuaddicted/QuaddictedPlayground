@@ -1,30 +1,33 @@
 {
- "filename": [
-  "castleod.zip"
- ],
+ "bytes": 678,
  "files": {
   "castleod.bsp": {
-   "size": 1520252,
+   "bytes": 1520252,
+   "sha256": "0cc49be8c0f2d2a84189b8ef417874beb9b65d59a0dbd12cb8c252a5b7a8d1ba",
    "timestamp": "2014-07-16T19:15:08.000Z"
   },
   "castleod.txt": {
-   "size": 837,
+   "bytes": 837,
+   "sha256": "cad67c91107f97496d0a58e96ee2a3740695c4d48e0f81e0787647ebee942eeb",
    "timestamp": "2014-07-17T17:25:32.000Z"
   }
  },
- "filesize": 678,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "42585086627ef5a2653dc220a35b6caa4b5a1e649c960c0be07201a50cd062bf",
  "tags": [
   "author=JCorvinus",
+  "filename=castleod.zip",
   "game=quake",
-  "releasedate=2014-07-17",
-  "tag=small",
-  "tag=wizard",
-  "title=Castle of Depravity"
+  "game_mode=singleplayer",
+  "link:homepage=http://jcorvinus.itch.io/",
+  "map_size=small",
+  "release_date=2014-07-17",
+  "theme=wizard",
+  "title=Castle of Depravity",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/castleod.zip",

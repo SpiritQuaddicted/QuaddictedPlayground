@@ -1,0 +1,47 @@
+{
+ "bytes": 953,
+ "files": {
+  "e1m5drake.MAP": {
+   "bytes": 915154,
+   "sha256": "4704e5e2b27267ffcecc72ab7c11b43e495f089c88fe954a2e94bbb53c4b54be",
+   "timestamp": "2021-07-04T16:45:08.000Z"
+  },
+  "e1m5drake.bsp": {
+   "bytes": 2108844,
+   "sha256": "71c96cc554c947f100a1b6f385083e6d0ebe78c4dd8cfd5751c8e593905b2416",
+   "timestamp": "2021-07-02T19:21:56.000Z"
+  },
+  "e1m5drake.txt": {
+   "bytes": 4249,
+   "sha256": "e4f925a1a8dae50d58bc32a088c7f2373788f53c658d17f658f0fd584f4a4939",
+   "timestamp": "2021-07-06T18:28:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/drake/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "5fa847862d7bef141489c862c02a4f253face15450f039df23a3e6cc344cf69b",
+ "tags": [
+  "author=id &amp; huanlopan",
+  "commandline=-game drake",
+  "dependency=drakebeta2021",
+  "exceeds_quake_limits=yes",
+  "filename=e1m5drake.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Drake beta 2021](https://www.quaddicted.com/filebase/drakebeta2021.zip)",
+  "map_size=medium",
+  "nonspecific_tag=drake",
+  "release_date=2021-07-06",
+  "theme=medieval",
+  "theme=remix",
+  "theme=terracotta",
+  "title=Gloom Keep [Drake remix]",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/e1m5drake.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5fa847862d7bef141489c862c02a4f253face15450f039df23a3e6cc344cf69b/e1m5drake.zip"
+ ]
+}

@@ -1,70 +1,82 @@
 {
- "filename": [
-  "snaut-cloisterfuck.zip"
- ],
+ "bytes": 5938,
  "files": {
   "gfx/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-10-17T06:48:28.000Z"
   },
   "gfx/env/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-11-01T02:09:12.000Z"
   },
   "gfx/env/mpa99bk.tga": {
-   "size": 4194322,
+   "bytes": 4194322,
+   "sha256": "408482e724469bedec67767758f29ca7c79979938e5a687e9a1de7f18d0ecd6e",
    "timestamp": "2018-11-01T02:06:54.000Z"
   },
   "gfx/env/mpa99dn.tga": {
-   "size": 4194322,
+   "bytes": 4194322,
+   "sha256": "59b4406418303c3935701d6bfadfdf68b99eae6d1144cda42338c1acea629155",
    "timestamp": "2018-11-01T02:07:06.000Z"
   },
   "gfx/env/mpa99ft.tga": {
-   "size": 4194322,
+   "bytes": 4194322,
+   "sha256": "8723bc6ee1734fd1798e259f1ae578578292875ba7e5185bb70f9d4013df6c72",
    "timestamp": "2018-11-01T02:07:18.000Z"
   },
   "gfx/env/mpa99lf.tga": {
-   "size": 4194322,
+   "bytes": 4194322,
+   "sha256": "8240518e6cb8cf6b839354e9bf1f239f0cb28f3068933993ad3d644df96a76c5",
    "timestamp": "2018-11-01T02:07:28.000Z"
   },
   "gfx/env/mpa99rt.tga": {
-   "size": 4194322,
+   "bytes": 4194322,
+   "sha256": "798544ac6a4dd2c85be10fdc298264a3da4eafcd013deb83dbcfe5f67fb580ca",
    "timestamp": "2018-11-01T02:07:40.000Z"
   },
   "gfx/env/mpa99up.tga": {
-   "size": 4194322,
+   "bytes": 4194322,
+   "sha256": "37ca034fb2119bb7f87e2dfc324ff7b9b277ab2b63a511886c2e3122329333ce",
    "timestamp": "2018-11-01T02:07:52.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-11-01T02:44:54.000Z"
   },
   "maps/snaut-cloisterfuck.bsp": {
-   "size": 9450856,
+   "bytes": 9450856,
+   "sha256": "959e26713c68e65b3c87425aba6f6013f102f9e4e0e36cff4828487c695e4ca0",
    "timestamp": "2018-11-09T14:51:10.000Z"
   },
   "maps/snaut-cloisterfuck.lit": {
-   "size": 3359099,
+   "bytes": 3359099,
+   "sha256": "c2d6cf2f8e0473ba8e62bac9590fcff7d4d323a711d60ad66c1a1bd76df942f3",
    "timestamp": "2018-11-09T14:51:10.000Z"
   },
   "readme.txt": {
-   "size": 2958,
+   "bytes": 2958,
+   "sha256": "96a0ab54baaf176c1a20e8b23fd7483db6f59d0a51babf55246b5feb540572e0",
    "timestamp": "2018-11-01T03:33:20.000Z"
   }
  },
- "filesize": 5938,
  "install": {
-  "extract": "{quake}/id1/"
+  "extract": "{base}/id1/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "097b8130879b7f77944552e8f86f9d20647605ea67c4a09e183d36882249ad8c",
  "tags": [
   "author=Shamblernaut",
+  "filename=snaut-cloisterfuck.zip",
   "game=quake",
-  "releasedate=2018-11-09",
-  "tag=large",
-  "tag=mixtex",
-  "title=Cloisterfuck"
+  "game_mode=singleplayer",
+  "map_size=large",
+  "release_date=2018-11-09",
+  "theme=mixtex",
+  "title=Cloisterfuck",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/snaut-cloisterfuck.zip",

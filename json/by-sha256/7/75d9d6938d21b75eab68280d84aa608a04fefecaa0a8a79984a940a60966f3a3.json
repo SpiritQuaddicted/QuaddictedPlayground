@@ -1,0 +1,43 @@
+{
+ "bytes": 193,
+ "files": {
+  "do1.bsp": {
+   "bytes": 370284,
+   "sha256": "ae2ac339b39bbac2015c34998044d028d1d194bc1c9adaf8a242d9c1ee38b8ce",
+   "timestamp": "2021-06-18T18:30:38.000Z"
+  },
+  "do1.map": {
+   "bytes": 171229,
+   "sha256": "298971633793881c9346e81d9074b5ddfa6674c6c58e20121eff50640447d004",
+   "timestamp": "2021-06-18T18:30:08.000Z"
+  },
+  "do1.txt": {
+   "bytes": 1464,
+   "sha256": "731e85de6ba3a93be79587ade4b4e13afb33de4cfbe91060e88e4b5fda8d8ea6",
+   "timestamp": "2021-06-17T09:38:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "75d9d6938d21b75eab68280d84aa608a04fefecaa0a8a79984a940a60966f3a3",
+ "tags": [
+  "author=c0j",
+  "filename=dark_oddyssey_qmap.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2021-06-18",
+  "source=included",
+  "startmap=do1",
+  "theme=bricks",
+  "theme=medieval",
+  "title=Dark Oddyssey",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/dark_oddyssey_qmap.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/75d9d6938d21b75eab68280d84aa608a04fefecaa0a8a79984a940a60966f3a3/dark_oddyssey_qmap.zip"
+ ]
+}

@@ -1,35 +1,39 @@
 {
- "filename": [
-  "quarantine02.zip"
- ],
+ "bytes": 1392,
  "files": {
   "quarantine02.bsp": {
-   "size": 3555364,
+   "bytes": 3555364,
+   "sha256": "4895301608b19ce440a062c6831e1d0b617a8b99576a23b9172b897dfd53c374",
    "timestamp": "2013-04-09T21:23:32.000Z"
   },
   "quarantine02.txt": {
-   "size": 2361,
+   "bytes": 2361,
+   "sha256": "d7f5b2aeeac995fe2025a853d42d4313583e560de34ff987a2973321f5ebf468",
    "timestamp": "2013-04-09T21:26:20.000Z"
   }
  },
- "filesize": 1392,
  "install": {
-  "extract": "{quake}/quoth/maps/"
+  "extract": "{base}/quoth/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1636dbcb20da95bdf404d1405ffa29f0798e3f1f0a7fbe9a1e4271bb239142ef",
  "tags": [
   "author=RickyT23",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "filename=quarantine02.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.rickyt23.com",
   "link=[func](http://www.celephais.net/board/view_thread.php?id=60921)",
-  "releasedate=2013-04-09",
-  "tag=base",
-  "tag=glass",
-  "tag=medium",
-  "tag=quoth",
-  "title=Quarantine"
+  "map_size=medium",
+  "mod=quoth",
+  "nonspecific_tag=glass",
+  "release_date=2013-04-09",
+  "theme=base",
+  "theme=quoth",
+  "title=Quarantine",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quarantine02.zip",

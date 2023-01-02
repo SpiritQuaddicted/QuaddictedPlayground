@@ -1,32 +1,35 @@
 {
- "filename": [
-  "cross_2.zip"
- ],
+ "bytes": 121,
  "files": {
   "cross.bsp": {
-   "size": 309568,
+   "bytes": 309568,
+   "sha256": "f83d5d0715ba5b08f4d97f0a67338249738a0470197f8b99883e9f7e8d5682c8",
    "timestamp": "1997-12-29T19:18:48.000Z"
   },
   "cross.txt": {
-   "size": 1903,
+   "bytes": 1903,
+   "sha256": "78ad7a17f517514f01dbece476fb64289c1eb9e883ccfcaa062fe01cbeb17a93",
    "timestamp": "1998-05-01T18:32:20.000Z"
   }
  },
- "filesize": 121,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ac3ddf44268c79ce8de8cf765eeb69e7ab2f5c06627e6f27a2d416b1e207d7b9",
  "tags": [
   "author=Peter Bisseker (tiddles)",
+  "filename=cross_2.zip",
   "game=quake",
-  "releasedate=1998-05-01",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1998-05-01",
   "startmap=cross",
-  "tag=dm",
-  "tag=small",
-  "tag=wizard",
-  "title=Crossfire"
+  "theme=no exit",
+  "theme=wizard",
+  "title=Crossfire",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cross_2.zip",

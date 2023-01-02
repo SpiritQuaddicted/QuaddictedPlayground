@@ -1,48 +1,53 @@
 {
- "filename": [
-  "sm81_pack.zip"
- ],
+ "bytes": 1283,
  "files": {
   "sm81_pack.txt": {
-   "size": 1475,
+   "bytes": 1475,
+   "sha256": "52ecca822e01759e27088ebef23cb28eb9e79f921228618e1b25304463405670",
    "timestamp": "2004-03-21T01:12:46.000Z"
   },
   "sm81_paintyj.bsp": {
-   "size": 1570048,
+   "bytes": 1570048,
+   "sha256": "2e478191d80f96c54e38425ae5fd5fc5417a906b0693e568db30c36ba07f5d2b",
    "timestamp": "2004-06-05T19:47:12.000Z"
   },
   "sm81_speedy.bsp": {
-   "size": 1347256,
+   "bytes": 1347256,
+   "sha256": "9f800f227845f677b754c49b0e3de29a0677cd38bb1fab5e6f35224fa23e85d3",
    "timestamp": "2004-06-06T06:29:16.000Z"
   },
   "sm81_starbuck.bsp": {
-   "size": 523308,
+   "bytes": 523308,
+   "sha256": "8ce75b096b772078a832b42dfc08d3c36d49bffb14c2b9201d2c9e2bc4aff274",
    "timestamp": "2004-06-06T00:33:38.000Z"
   },
   "sm81_zwiffle.bsp": {
-   "size": 449892,
+   "bytes": 449892,
+   "sha256": "aacc5d1292463904c6f4a3a148460dac4d5b96d53e37ddb8f6c39901f6253656",
    "timestamp": "2004-06-05T20:04:36.000Z"
   }
  },
- "filesize": 1283,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e97055b7df1972ee417c36a66a63dac3d143bd4073329d88bf46a3566a85d4e7",
  "tags": [
   "author=Paintsniffing Joe",
   "author=Speedy",
   "author=Starbuck",
   "author=Zwiffle",
+  "filename=sm81_pack.zip",
   "game=quake",
-  "releasedate=2004-06-06",
+  "game_mode=singleplayer",
+  "release_date=2004-06-06",
   "startmap=sm81_paintyj",
   "startmap=sm81_speedy",
   "startmap=sm81_starbuck",
   "startmap=sm81_zwiffle",
-  "tag=spd",
-  "title=Speedmapping pack 81 - Massive Scale"
+  "theme=spd",
+  "title=Speedmapping pack 81 - Massive Scale",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm81_pack.zip",

@@ -1,51 +1,59 @@
 {
- "filename": [
-  "sm147_pack.zip"
- ],
+ "bytes": 717,
  "files": {
   "sm147_drew.bsp": {
-   "size": 372472,
+   "bytes": 372472,
+   "sha256": "d90780633b6c5295319dc6487255371e5db7b679d3196b1316e3852a7abcf966",
    "timestamp": "2008-11-09T14:32:16.000Z"
   },
   "sm147_lurker.bsp": {
-   "size": 221136,
+   "bytes": 221136,
+   "sha256": "55ffd0cd9d54038ffb356ec2eafcd4620c354e32ded8b1392bbfc88e058f1028",
    "timestamp": "2008-11-16T13:19:46.000Z"
   },
   "sm147_pack.txt": {
-   "size": 1364,
+   "bytes": 1364,
+   "sha256": "dad44341b516ec7700f290483eec4fdfcd5f18d5555b2bdb7189bccf721a083c",
    "timestamp": "2008-11-17T18:19:06.000Z"
   },
   "sm147_st3ady.bsp": {
-   "size": 616716,
+   "bytes": 616716,
+   "sha256": "d407ac56325e11192586aa7702523575a99694461fe2c4d9c91b79bfd95fdac3",
    "timestamp": "2008-11-17T17:53:52.000Z"
   },
   "sm147_trinca.bsp": {
-   "size": 535792,
+   "bytes": 535792,
+   "sha256": "2cff74ba65395622d5c8b8435b689bcba3eb770c0f89ecceb7228ab34e2d82a6",
    "timestamp": "2008-11-11T09:22:32.000Z"
   },
   "sm147_trinca.map": {
-   "size": 563481,
+   "bytes": 563481,
+   "sha256": "40ac25ca70c94a4242b323c2029c600c23bc66784c75f7366b3aaf8383446912",
    "timestamp": "2008-11-11T09:21:00.000Z"
   }
  },
- "filesize": 717,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6860f5a603a2fd84026ec1dead9bb7c058943c3885402f26b1f191c37c27e6fa",
  "tags": [
   "author=Drew",
   "author=Trinca",
   "author=lurker",
   "author=st3ady",
+  "filename=sm147_pack.zip",
   "game=quake",
-  "releasedate=2008-11-17",
+  "game_mode=singleplayer",
+  "mod=quoth",
+  "release_date=2008-11-17",
   "startmap=sm147_drew",
   "startmap=sm147_lurker",
   "startmap=sm147_st3ady",
   "startmap=sm147_trinca",
-  "title=Speedmapping pack 147 - Unlikely escape"
+  "theme=quoth",
+  "title=Speedmapping pack 147 - Unlikely escape",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm147_pack.zip",

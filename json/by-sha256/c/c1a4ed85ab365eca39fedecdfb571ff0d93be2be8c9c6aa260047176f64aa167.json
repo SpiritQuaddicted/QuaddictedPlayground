@@ -1,39 +1,42 @@
 {
- "filename": [
-  "dgrave.zip"
- ],
+ "bytes": 544,
  "files": {
   "dgrave.bsp": {
-   "size": 1234980,
+   "bytes": 1234980,
+   "sha256": "21432a0dd0209fb5d63953cbb6974a4f61293c11a84379a3c8f5b547f6438f31",
    "timestamp": "1996-10-21T21:47:18.000Z"
   },
   "dgrave.map": {
-   "size": 105318,
+   "bytes": 105318,
+   "sha256": "ce33e336d20215e0d682b5120b1bab1685459d3026f77d8e29beae378c74b286",
    "timestamp": "1996-10-21T21:39:36.000Z"
   },
   "dgrave.txt": {
-   "size": 813,
+   "bytes": 813,
+   "sha256": "79711241cb049e65493f661efdefe7987c7febd0f292cf021d4b341c97669975",
    "timestamp": "1996-10-21T21:59:16.000Z"
   }
  },
- "filesize": 544,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c1a4ed85ab365eca39fedecdfb571ff0d93be2be8c9c6aa260047176f64aa167",
  "tags": [
   "author=David Nickerson",
+  "filename=dgrave.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd1.htm)",
-  "releasedate=1996-10-21",
-  "tag=church",
-  "tag=graveyard",
-  "tag=no exit",
-  "tag=rock",
-  "tag=small",
-  "tag=source",
-  "title=Dave\\'s Graves"
+  "map_size=small",
+  "release_date=1996-10-21",
+  "source=included",
+  "theme=church",
+  "theme=graveyard",
+  "theme=no exit",
+  "theme=rock",
+  "title=Dave\\'s Graves",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dgrave.zip",

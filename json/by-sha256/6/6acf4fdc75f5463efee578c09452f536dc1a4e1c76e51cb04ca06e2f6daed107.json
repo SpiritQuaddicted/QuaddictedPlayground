@@ -1,32 +1,35 @@
 {
- "filename": [
-  "maze.zip"
- ],
+ "bytes": 82,
  "files": {
   "MAZE.bsp": {
-   "size": 207324,
+   "bytes": 207324,
+   "sha256": "f7f61ce7275e8240bac4fb633b42ff1e80dff06952bdb25bfba886d51bf3b17b",
    "timestamp": "1997-03-14T12:58:58.000Z"
   },
   "maze.txt": {
-   "size": 1478,
+   "bytes": 1478,
+   "sha256": "6adaf59f72536884803789b7feab1eb5cd1002cc8cffcc19f0160a2a52c6d7fc",
    "timestamp": "1997-03-14T13:23:38.000Z"
   }
  },
- "filesize": 82,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6acf4fdc75f5463efee578c09452f536dc1a4e1c76e51cb04ca06e2f6daed107",
  "tags": [
   "author=George Grotans",
+  "filename=maze.zip",
   "game=quake",
-  "releasedate=1997-03-14",
-  "tag=maze",
-  "tag=small",
-  "tag=wiard",
-  "tag=wizard",
-  "title=Maze 1"
+  "game_mode=singleplayer",
+  "link:homepage=http://innergroove33.8m.com",
+  "map_layout=maze",
+  "map_size=small",
+  "nonspecific_tag=wiard",
+  "release_date=1997-03-14",
+  "theme=wizard",
+  "title=Maze 1",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/maze.zip",

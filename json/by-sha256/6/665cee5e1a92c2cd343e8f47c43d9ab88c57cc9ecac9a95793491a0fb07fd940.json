@@ -1,30 +1,33 @@
 {
- "filename": [
-  "qkdme1m1.zip"
- ],
+ "bytes": 389,
  "files": {
   "qkdme1m1.bsp": {
-   "size": 969952,
+   "bytes": 969952,
+   "sha256": "9cf14f5e04cc87c828995ad6c8110acb5b3018dacc0e4b876c15d8a103d224e5",
    "timestamp": "1998-02-27T09:58:08.000Z"
   },
   "qkdme1m1.txt": {
-   "size": 1889,
+   "bytes": 1889,
+   "sha256": "4eed6b79e63fa40cb14e63ad67c2d045ddae7f11dd923538837546761cc612f8",
    "timestamp": "2000-01-13T18:48:24.000Z"
   }
  },
- "filesize": 389,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "665cee5e1a92c2cd343e8f47c43d9ab88c57cc9ecac9a95793491a0fb07fd940",
  "tags": [
   "author=DAV",
+  "filename=qkdme1m1.zip",
   "game=quake",
-  "releasedate=1998-02-27",
-  "tag=doom",
-  "tag=port",
-  "title=Doom E1M1"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.planetquake.com/davlevels/",
+  "nonspecific_tag=port",
+  "release_date=1998-02-27",
+  "theme=doom",
+  "title=Doom E1M1",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkdme1m1.zip",

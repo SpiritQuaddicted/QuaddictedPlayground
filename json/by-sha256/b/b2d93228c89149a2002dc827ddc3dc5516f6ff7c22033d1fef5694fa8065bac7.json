@@ -1,29 +1,33 @@
 {
- "filename": [
-  "sm87_maps.zip"
- ],
+ "bytes": 303,
  "files": {
   "sm87_jacek.bsp": {
-   "size": 265220,
+   "bytes": 265220,
+   "sha256": "c4b14f9986a0290f853e330cd31d46b05569835178d3b058c2ac74487a38ea9d",
    "timestamp": "2004-07-31T20:23:02.000Z"
   },
   "sm87_zwiffle.bsp": {
-   "size": 391996,
+   "bytes": 391996,
+   "sha256": "d367ab8861b5ac1312379a0590f0b5ba33cb9e6683ecfb0c97c67c080d8c5df9",
    "timestamp": "2004-07-31T17:35:02.000Z"
   }
  },
- "filesize": 303,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b2d93228c89149a2002dc827ddc3dc5516f6ff7c22033d1fef5694fa8065bac7",
  "tags": [
   "author=Jacek",
   "author=Zwiffle",
+  "filename=sm87_maps.zip",
   "game=quake",
-  "releasedate=2005-08-06",
-  "title=Bees"
+  "game_mode=singleplayer",
+  "release_date=2005-08-06",
+  "startmap=sm87_jacek",
+  "startmap=sm87_zwiffle",
+  "title=Bees",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm87_maps.zip",

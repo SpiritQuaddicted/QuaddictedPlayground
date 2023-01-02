@@ -1,39 +1,41 @@
 {
- "filename": [
-  "mappi.zip"
- ],
+ "bytes": 1916,
  "files": {
   "mappi.bsp": {
-   "size": 5057800,
+   "bytes": 5057800,
+   "sha256": "4398745ca0f89b415d4c65f860b83b327e3e661dc6aa2807bacde097eb4b4f4b",
    "timestamp": "2010-08-13T12:00:22.000Z"
   },
   "mappi.txt": {
-   "size": 2605,
+   "bytes": 2605,
+   "sha256": "ec815b9dbbc97ef7a224673f1258bed8b1f81e001993482a5c2c72df1ae17e73",
    "timestamp": "2010-08-13T12:00:32.000Z"
   }
  },
- "filesize": 1916,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "3cce1df2650d97762752922ce94cc825e730727ddba67dab78af7aefacab82c7",
  "tags": [
   "author=negke",
+  "filename=mappi.zip",
   "game=quake",
-  "releasedate=2010-08-13",
-  "tag=chthon",
-  "tag=classic",
-  "tag=deceptively oldschool",
-  "tag=epic",
-  "tag=huge",
-  "tag=metal",
-  "tag=mustplay",
-  "tag=negke wizardry",
-  "tag=oldschool",
-  "tag=red",
-  "tag=terracotta",
-  "title=Red Slammer"
+  "game_mode=singleplayer",
+  "link:homepage=http://negke.quaddicted.com",
+  "map_size=huge",
+  "nonspecific_tag=chthon",
+  "nonspecific_tag=deceptively oldschool",
+  "nonspecific_tag=epic",
+  "nonspecific_tag=negke wizardry",
+  "release_date=2010-08-13",
+  "theme=classic",
+  "theme=metal",
+  "theme=oldschool",
+  "theme=red",
+  "theme=terracotta",
+  "title=Red Slammer",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mappi.zip",

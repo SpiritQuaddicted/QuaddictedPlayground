@@ -1,39 +1,43 @@
 {
- "filename": [
-  "dwroae_m3a.zip"
- ],
+ "bytes": 5437,
  "files": {
   "dwroae_m3a.bsp": {
-   "size": 9839390,
+   "bytes": 9839390,
+   "sha256": "1d7708ef561d46d1cbf27e0aafcf9a1272b97530daa9b953f5a1236e9118734b",
    "timestamp": "2016-02-20T13:34:14.000Z"
   },
   "dwroae_m3a.lit": {
-   "size": 4585988,
+   "bytes": 4585988,
+   "sha256": "fe546932e581e89aaaa87c8f248af02121f6211be9cdb21786d8b468e073c3ac",
    "timestamp": "2016-02-20T13:34:14.000Z"
   },
   "dwroae_m3a.txt": {
-   "size": 1529,
+   "bytes": 1529,
+   "sha256": "30a47ee1f31eb18101dd19cff74f7c607c8a5c55209d295be1a70f2b173c4419",
    "timestamp": "2016-02-20T13:24:00.000Z"
   }
  },
- "filesize": 5437,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "cc9b729496b1ee883b31dd9be20206eb55490295c1386d6e7b91d024008fe101",
  "tags": [
   "author=DeeDoubleU",
+  "exceeds_quake_limits=yes",
+  "filename=dwroae_m3a.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61289)",
-  "releasedate=2016-02-20",
-  "tag=base",
-  "tag=ikbase",
-  "tag=large",
-  "tag=limits",
-  "tag=secrets",
-  "tag=traps",
-  "title=Root of all Evil: Infernal Science (Part 1)"
+  "map_size=large",
+  "release_date=2016-02-20",
+  "theme=base",
+  "theme=exploration",
+  "theme=ikbase",
+  "theme=secrets",
+  "theme=traps",
+  "title=Root of all Evil: Infernal Science (Part 1)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dwroae_m3a.zip",

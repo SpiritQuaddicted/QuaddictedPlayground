@@ -1,0 +1,51 @@
+{
+ "bytes": 3280,
+ "files": {
+  "bmfbrsp1.bsp": {
+   "bytes": 5425968,
+   "sha256": "879504c24438376fbfc974f7dcfa95ed174d44face4a8d1bbfe8be605d5151d0",
+   "timestamp": "2020-08-25T21:15:10.000Z"
+  },
+  "bmfbrsp1.lit": {
+   "bytes": 1412396,
+   "sha256": "7725e745c030cb9d42e30dfe5c452d6942d39b180ad865e2599e0bb5e41d4b2b",
+   "timestamp": "2020-08-25T21:15:10.000Z"
+  },
+  "bmfbrsp1.map": {
+   "bytes": 2220529,
+   "sha256": "8b790aa677f9e219a70034b5aa933fafde38cdc576298bd027cebdca41e130df",
+   "timestamp": "2020-08-25T21:25:16.000Z"
+  },
+  "bmfbrsp1.txt": {
+   "bytes": 1250,
+   "sha256": "e15fbadd8ad2e687747de06e1881bd63fde99cf5b3aa97e107e3c4f4f7a68c23",
+   "timestamp": "2020-08-26T11:21:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "cf57728e2f358d2d00883584e2455e37eecea7741015cbadbce22f4543b88f29",
+ "tags": [
+  "author=bmFbr",
+  "exceeds_quake_limits=yes",
+  "filename=bmfbrsp1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61939)",
+  "map_size=medium",
+  "nonspecific_tag=cathedral",
+  "release_date=2020-08-25",
+  "source=included",
+  "theme=base",
+  "theme=lava",
+  "theme=wizard",
+  "title=The Doomed Cathedral",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/bmfbrsp1.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cf57728e2f358d2d00883584e2455e37eecea7741015cbadbce22f4543b88f29/bmfbrsp1.zip"
+ ]
+}

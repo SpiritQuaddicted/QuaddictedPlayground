@@ -1,37 +1,39 @@
 {
- "filename": [
-  "haunt.zip"
- ],
+ "bytes": 504,
  "files": {
   "Haunt.txt": {
-   "size": 14531,
+   "bytes": 14531,
+   "sha256": "ceaf4c1d85b344d04ecea8a247f3037510f2b1665d8c9153886d1686577f4eb4",
    "timestamp": "1997-11-20T17:27:36.000Z"
   },
   "haunt.bsp": {
-   "size": 1194000,
+   "bytes": 1194000,
+   "sha256": "dc4bd6b4a2f7b6bef41c24c596c41ae33a272dca357abbebf214254c8cbc98ba",
    "timestamp": "1997-11-20T17:26:10.000Z"
   }
  },
- "filesize": 504,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e85e21d96e7805669968f84015398c021685aa931fbb80c0167ffdb7c7f7408e",
  "tags": [
   "author=Tiarnan Breffni",
+  "filename=haunt.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981128.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-11-20",
-  "tag=cavern",
-  "tag=dark",
-  "tag=hard",
-  "tag=large",
-  "tag=lava",
-  "tag=traps",
-  "tag=wizard",
-  "title=Haunted Revenge"
+  "map_size=large",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=hard",
+  "release_date=1997-11-20",
+  "theme=cavern",
+  "theme=lava",
+  "theme=traps",
+  "theme=wizard",
+  "title=Haunted Revenge",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/haunt.zip",

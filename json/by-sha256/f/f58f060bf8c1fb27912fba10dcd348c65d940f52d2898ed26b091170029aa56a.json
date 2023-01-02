@@ -1,48 +1,107 @@
 {
- "filename": [
-  "tefdbl.zip"
- ],
+ "bytes": 1454,
  "files": {
   "PAK0.PAK": {
-   "size": 3269870,
+   "bytes": 3269870,
+   "files": {
+    "maps/tef_sc.bsp": {
+     "bytes": 1082456,
+     "sha256": "daac611f2fe0a14d2379e1b3ed6fd339f672c1f5eb939316482b7bdb9641150b"
+    },
+    "maps/tef_ww.bsp": {
+     "bytes": 1238048,
+     "sha256": "6f78f060cde00816c88289705958c5e11045ad034ba2ec4086b43aa28ce6b07c"
+    },
+    "progs.dat": {
+     "bytes": 457088,
+     "sha256": "18c4aae735f4e974c0e379622dfd30ceb9266b7c2aaf8cd645418b1a3d1c18d4"
+    },
+    "progs/manga3.mdl": {
+     "bytes": 96256,
+     "sha256": "81bb691947f88dda5672ab1e1af689098d08a9b5bea9d31c38197db909fe3b76"
+    },
+    "progs/snakeman.mdl": {
+     "bytes": 132028,
+     "sha256": "8824603b325f37bbba424f55c3ff900c21ccf61c77ba97e636e91ef99202364a"
+    },
+    "progs/spider.mdl": {
+     "bytes": 94492,
+     "sha256": "df40e58bdf6465e68e5ef33cbcb77c42cc99e50c9dd842c8c3906c2fd04bfc8f"
+    },
+    "progs/uzi.mdl": {
+     "bytes": 52820,
+     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414"
+    },
+    "sound/died.wav": {
+     "bytes": 24492,
+     "sha256": "3ce14cdac970a150f567dbd07cf1763f695245c34f5bf4e31ec07bfeb232db30"
+    },
+    "sound/ha.wav": {
+     "bytes": 2708,
+     "sha256": "ba2108ad5070860873887308293efd3a9635a6c4dcb3fb39357a9e16f89f97b5"
+    },
+    "sound/hiyaa.wav": {
+     "bytes": 36876,
+     "sha256": "1446e8afbfdf48a08ca6727604b33585efdd67a6d14b4b1c96bb05c6ccd5ac3a"
+    },
+    "sound/kungfu.wav": {
+     "bytes": 29008,
+     "sha256": "025b6eed19d193bd6be4c4f8f2bc7b9fb14e5c127257e570fd9fc98fd464f2a3"
+    },
+    "sound/ohdju.wav": {
+     "bytes": 12588,
+     "sha256": "346d38c12edad612ec4915d3361ebfbb81b06bee9cdb73eb9b9e0d2cc2ea6d10"
+    },
+    "sound/tchak.wav": {
+     "bytes": 10166,
+     "sha256": "f77d88ab76f7a092a7a5d40fb0aaf9530dc6da8e45559fcf1a1b5ea2aa88029b"
+    }
+   },
+   "sha256": "ce42338d172bb7d7cd2f54ebff95f8ebb3f794b300abb9ef7a67f470084c32e8",
    "timestamp": "1996-12-02T10:31:32.000Z"
   },
   "SNAKEMAN.TXT": {
-   "size": 4744,
+   "bytes": 4744,
+   "sha256": "cc988702d85165b6f9cf05830cf8ebe39a907b140c723799813fa14638c2d7f2",
    "timestamp": "1996-10-24T12:17:36.000Z"
   },
   "manga.txt": {
-   "size": 2019,
+   "bytes": 2019,
+   "sha256": "2e3c3b3e22ddcbb1ad804b6ae33144a4daee18ced4d8d17720e2412a4498ea2a",
    "timestamp": "1996-11-03T23:57:58.000Z"
   },
   "spider.txt": {
-   "size": 2615,
+   "bytes": 2615,
+   "sha256": "7a9b72c10b4d279d1fd349dbd6130e6088e96a0e5f22e7eb3177506955e57a7f",
    "timestamp": "1996-10-09T05:52:48.000Z"
   },
   "tefdbl1.txt": {
-   "size": 8042,
+   "bytes": 8042,
+   "sha256": "08cfb5133e37d097433a1084eb895e64744d13dc02ba79e7d7afda047408db04",
    "timestamp": "1996-12-02T20:48:26.000Z"
   }
  },
- "filesize": 1454,
  "install": {
-  "extract": "{quake}/tefdbl/"
+  "extract": "{base}/tefdbl/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "f58f060bf8c1fb27912fba10dcd348c65d940f52d2898ed26b091170029aa56a",
  "tags": [
   "author=T.H. Johansen (TJ)",
   "commandline=-game tefdbl",
+  "filename=tefdbl.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelst.htm#tefdbl)",
-  "releasedate=1996-12-02",
+  "map_size=medium",
+  "nonspecific_tag=mod",
+  "nonspecific_tag=weird monsters",
+  "release_date=1996-12-02",
   "startmap=tef_sc",
-  "tag=brick",
-  "tag=medium",
-  "tag=mod",
-  "tag=weird monsters",
-  "tag=wizard",
-  "title=Spawn City / Water World"
+  "theme=brick",
+  "theme=wizard",
+  "title=Spawn City / Water World",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tefdbl.zip",

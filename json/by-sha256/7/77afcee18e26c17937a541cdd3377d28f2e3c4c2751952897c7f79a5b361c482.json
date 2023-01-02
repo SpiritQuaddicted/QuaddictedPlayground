@@ -1,39 +1,42 @@
 {
- "filename": [
-  "dm17.zip"
- ],
+ "bytes": 457,
  "files": {
   "DM17.BSP": {
-   "size": 1200684,
+   "bytes": 1200684,
+   "sha256": "3467c82a8b002970658f7c1f584c1be38192440bbc79f9004a9386e63d87d556",
    "timestamp": "1996-11-10T00:11:50.000Z"
   },
   "dm17.txt": {
-   "size": 1937,
+   "bytes": 1937,
+   "sha256": "669ea5ff9bfcdef5b31101dacd7ca2434703626398330576610adabdd8e40a65",
    "timestamp": "1996-11-10T00:10:54.000Z"
   },
   "dm17_quaddictedrepack.txt": {
-   "size": 319,
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
  },
- "filesize": 457,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "77afcee18e26c17937a541cdd3377d28f2e3c4c2751952897c7f79a5b361c482",
  "tags": [
   "author=TexGamer",
+  "filename=dm17.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd2.htm)",
-  "releasedate=1996-11-10",
-  "tag=dark",
-  "tag=dm",
-  "tag=mandatory secret",
-  "tag=small",
-  "tag=textures",
-  "tag=wizard",
-  "title=Warmup"
+  "map_size=small",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=textures",
+  "release_date=1996-11-10",
+  "theme=mandatory secret",
+  "theme=wizard",
+  "title=Warmup",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm17.zip",

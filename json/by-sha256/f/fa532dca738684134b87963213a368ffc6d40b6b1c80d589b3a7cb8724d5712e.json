@@ -1,38 +1,41 @@
 {
- "filename": [
-  "crusade5.zip"
- ],
+ "bytes": 361,
  "files": {
   "crusade5.bsp": {
-   "size": 897024,
+   "bytes": 897024,
+   "sha256": "5e7ea9b2b357b46e300e00588d1c0bc41bdceae83dd4998848da41a282101cab",
    "timestamp": "1997-03-02T21:40:42.000Z"
   },
   "crusade5.txt": {
-   "size": 1789,
+   "bytes": 1789,
+   "sha256": "e65c318306feb953e2743a5ae401b6fde2fe366fe5877c90b1252f75dbd70b30",
    "timestamp": "1997-03-02T22:06:46.000Z"
   },
   "crusade5_quaddictedrepack.txt": {
-   "size": 319,
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
  },
- "filesize": 361,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "fa532dca738684134b87963213a368ffc6d40b6b1c80d589b3a7cb8724d5712e",
  "tags": [
   "author=Simon Brown",
+  "filename=crusade5.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsc.htm)",
-  "releasedate=1997-03-02",
-  "tag=indiana jones",
-  "tag=puzzles",
-  "tag=rock",
-  "tag=small",
-  "tag=tribute",
-  "title=Crusade 5"
+  "map_size=small",
+  "nonspecific_tag=indiana jones",
+  "nonspecific_tag=tribute",
+  "release_date=1997-03-02",
+  "theme=puzzles",
+  "theme=rock",
+  "title=Crusade 5",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/crusade5.zip",

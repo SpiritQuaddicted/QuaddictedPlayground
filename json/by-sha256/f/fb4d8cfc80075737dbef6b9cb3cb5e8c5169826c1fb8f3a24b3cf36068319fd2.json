@@ -1,0 +1,2139 @@
+{
+ "bytes": 11044,
+ "files": {
+  "modjam2.png": {
+   "bytes": 3813552,
+   "sha256": "931267bd485e0b4749cc26f15ed1da18a24be1eaf907ca694a5d83e0ba73a42d",
+   "timestamp": "2022-02-28T04:29:40.000Z"
+  },
+  "modjam2_4lt/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/README.md": {
+   "bytes": 1591,
+   "sha256": "c13d5055ddd7b5b9abcc28667be65c0403d9e02262aec7b2a522442bc0b839d9",
+   "timestamp": "2022-01-26T00:48:14.000Z"
+  },
+  "modjam2_4lt/asset-src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/asset-src/LICENSE.md": {
+   "bytes": 129,
+   "sha256": "8435272e340776938a2bdfd63e37d88671fcf0a3c823c31a713b1e42ab07f797",
+   "timestamp": "2022-01-26T00:54:04.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/Base.xcf": {
+   "bytes": 2632,
+   "sha256": "fbc7544f8a8722563142a768ce90d9207cee26f5fdc999ee176a4779c4ac76a0",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/Sphere-Off.xcf": {
+   "bytes": 15079,
+   "sha256": "5c4898b431aa1babc3496e1de5d549ea3206d5e4c82ae18ecaef69734ebdf578",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/Sphere.png": {
+   "bytes": 6151,
+   "sha256": "2dc510bb5dacd336c5394a82aab1c0211fc6f2b9d6b09d51b4ff60d2f607714b",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/Sphere.xcf": {
+   "bytes": 17264,
+   "sha256": "dc5dc3e7c4f710673f332ca99d542c071dd77809c7c2b9c89dbe751e4990e4d2",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/ball-turret.blend": {
+   "bytes": 936748,
+   "sha256": "39c04875c1824680e978dc117d10bf0085f28dad56f88809464ad43cc2da007d",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/barrel-off.png": {
+   "bytes": 13008,
+   "sha256": "92f006a5fe1f28bcd89c12907f0b0ccff1e3b5c7b777a97af0121f1bc411d387",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/barrel.png": {
+   "bytes": 14605,
+   "sha256": "18a612092b6ea25bc498a504809ae40d7bb07ee4f04d4e6855a1de4cc522d375",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/base.png": {
+   "bytes": 1731,
+   "sha256": "c66ae7852f2a0ce486a54247c54f06e855fecd751b357bd2ab93f347534cfeff",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/blender/turret-base.blend": {
+   "bytes": 830780,
+   "sha256": "35e99977daf72c004151ca9393815ccf3b3b835a809092e6ef23f4b0bf530b33",
+   "timestamp": "2022-01-26T00:51:58.000Z"
+  },
+  "modjam2_4lt/asset-src/mapsrc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/asset-src/mapsrc/mj2022_4lt_course.map": {
+   "bytes": 461180,
+   "sha256": "9ce5af07c6b1ef69f764ee4bf063c7f25f55c53fa0bd57ba59cbb99497da48a8",
+   "timestamp": "2022-01-26T00:54:38.000Z"
+  },
+  "modjam2_4lt/asset-src/mapsrc/mj2022_4lt_test.map": {
+   "bytes": 12904,
+   "sha256": "cf0e8446bffc54367ff91dfaa6aee0c9ab3eeeb285d37be8d1e9173ee1259a67",
+   "timestamp": "2022-01-26T00:54:38.000Z"
+  },
+  "modjam2_4lt/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/maps/mj2022_4lt_course.bsp": {
+   "bytes": 977124,
+   "sha256": "ab972ad28b1cbfaba088502bac623b33697a8c94b9a8c0658942381ca19ec60b",
+   "timestamp": "2022-01-25T04:08:18.000Z"
+  },
+  "modjam2_4lt/maps/mj2022_4lt_course.lit": {
+   "bytes": 665216,
+   "sha256": "00f14f3f5f2ec606ac52ee7ce70b345372aa8433b68d433f3a7f7c8709b09546",
+   "timestamp": "2022-01-25T04:08:18.000Z"
+  },
+  "modjam2_4lt/maps/mj2022_4lt_test.bsp": {
+   "bytes": 96008,
+   "sha256": "ba9d24d79d4926d0cd21ffda4f1744d56af41375ad955bc1e47ae26c8bdbc782",
+   "timestamp": "2022-01-22T02:24:54.000Z"
+  },
+  "modjam2_4lt/mj_4lt.fgd": {
+   "bytes": 19727,
+   "sha256": "22395c5fbe35b5a411f18495a8a43672237336641ff9bf2904a219fe6d4b08b1",
+   "timestamp": "2022-01-23T21:46:08.000Z"
+  },
+  "modjam2_4lt/progs.dat": {
+   "bytes": 339262,
+   "sha256": "62a58e7d349fd4e3b938863ee3736c3b47e7e4e863fad63913497553bddd4294",
+   "timestamp": "2022-01-25T22:43:12.000Z"
+  },
+  "modjam2_4lt/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/progs/4lt/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/progs/4lt/barrel.mdl": {
+   "bytes": 299460,
+   "sha256": "d11405d2441f31e0ace176727d422267cce34807255bfe3b5fd6f87b3e9bf197",
+   "timestamp": "2022-01-24T09:50:30.000Z"
+  },
+  "modjam2_4lt/progs/4lt/base.mdl": {
+   "bytes": 153312,
+   "sha256": "000b3fdc51584d99a6b747233dab40260bce809ffebb75d39a1427fdb8d9eeba",
+   "timestamp": "2022-01-19T03:39:02.000Z"
+  },
+  "modjam2_4lt/qc-mod-jam-4lt_src-master.zip": {
+   "bytes": 117195,
+   "files": {
+    "qc-mod-jam-4lt_src-master/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/.gitignore": {
+     "bytes": 20,
+     "sha256": "80e26a4cf037eb447a55423dc11f1610abbad5faffb6599639bad0bef5f2af61",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/4lt_math.qc": {
+     "bytes": 2926,
+     "sha256": "75d02e6a95d26c85c9107c07aded4b0459874bf2647e371c6b3bdf1a118bab08",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/4lt_turret.qc": {
+     "bytes": 12011,
+     "sha256": "69f81f2c9ecbe71950739e874ade53d0c1473d71e30886f35c13fbda370f4482",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/Makefile": {
+     "bytes": 586,
+     "sha256": "9f6485abce1b63bcdf80b25e311639575d320b59b538918865d590c5295409bf",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/README.md": {
+     "bytes": 1372,
+     "sha256": "ddcebe4766e1a25c0684d9df4a4a50f1fba72551719ce79da66e6405d13afa2c",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/ai.qc": {
+     "bytes": 15161,
+     "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/boss.qc": {
+     "bytes": 12796,
+     "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/buttons.qc": {
+     "bytes": 3021,
+     "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/client.qc": {
+     "bytes": 34383,
+     "sha256": "23ff6c1163231e4e9a6807ec1171c69d2e17ef292ea95aaa79b0579855597e30",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/combat.qc": {
+     "bytes": 6646,
+     "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/defs.qc": {
+     "bytes": 18095,
+     "sha256": "bfce1470264d171c2f9cdc56a04af5c1e7c2db943ecdcc48aadd1050ea36633d",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/demon.qc": {
+     "bytes": 10244,
+     "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/dog.qc": {
+     "bytes": 9911,
+     "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/doors.qc": {
+     "bytes": 17921,
+     "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/enforcer.qc": {
+     "bytes": 11080,
+     "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/fight.qc": {
+     "bytes": 7568,
+     "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/fish.qc": {
+     "bytes": 7939,
+     "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/hknight.qc": {
+     "bytes": 18738,
+     "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/items.qc": {
+     "bytes": 29697,
+     "sha256": "0642cc55f3dbf277a26a606d37d47b5f40f4075b1140a45fee76773cd91cc956",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/knight.qc": {
+     "bytes": 9954,
+     "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/misc.qc": {
+     "bytes": 15735,
+     "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/mj_4lt.fgd": {
+     "bytes": 19727,
+     "sha256": "22395c5fbe35b5a411f18495a8a43672237336641ff9bf2904a219fe6d4b08b1",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/monsters.qc": {
+     "bytes": 4914,
+     "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/ogre.qc": {
+     "bytes": 15176,
+     "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/oldone.qc": {
+     "bytes": 9965,
+     "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/plats.qc": {
+     "bytes": 8036,
+     "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/player.qc": {
+     "bytes": 18712,
+     "sha256": "18a7d377e022f68ece064dcf42fcbfaee3c11b64fc72b1cfb6ff28c552b8137c",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/progs.src": {
+     "bytes": 488,
+     "sha256": "7ded061abccc6c1b94bf0b8391dfc6b031d815b0f12f00ad3c6ed73b63eb5737",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/shalrath.qc": {
+     "bytes": 8177,
+     "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/shambler.qc": {
+     "bytes": 13092,
+     "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/soldier.qc": {
+     "bytes": 10109,
+     "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/subs.qc": {
+     "bytes": 6376,
+     "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/tarbaby.qc": {
+     "bytes": 7338,
+     "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/triggers.qc": {
+     "bytes": 14859,
+     "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/weapons.qc": {
+     "bytes": 26462,
+     "sha256": "164c52ff1be923d2fbb3e3d2922286322da71fb27be4e596208dfd47d0d58aec",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/wizard.qc": {
+     "bytes": 11072,
+     "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/world.qc": {
+     "bytes": 11430,
+     "sha256": "7820b99133f1a238645edcaa59cd0a9dba0dba4c81db81f0a88a68511dde1d61",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    },
+    "qc-mod-jam-4lt_src-master/zombie.qc": {
+     "bytes": 20616,
+     "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+     "timestamp": "2022-01-25T15:03:08.000Z"
+    }
+   },
+   "sha256": "874728bc7ec328a150d778b1acee34b6412f226842fef237f4c08dab31ac10df",
+   "timestamp": "2022-01-26T00:50:42.000Z"
+  },
+  "modjam2_4lt/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/sound/4lt/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T03:52:54.000Z"
+  },
+  "modjam2_4lt/sound/4lt/beep_f.wav": {
+   "bytes": 9858,
+   "sha256": "2e45b3ef609324867f86fd724988cac81c28633a093dde7190d99c37ca7bcc83",
+   "timestamp": "2021-07-30T00:47:08.000Z"
+  },
+  "modjam2_4lt/sound/4lt/beep_s.wav": {
+   "bytes": 4900,
+   "sha256": "d1fe774d2fcaec1912f60be2026a5c7c0f1e65fd060b7c818495be6d75bd9552",
+   "timestamp": "2021-07-30T00:47:08.000Z"
+  },
+  "modjam2_Main_Readme.txt": {
+   "bytes": 1011,
+   "sha256": "8e1460941b01bbe02bbe2589b010d94df795cf169b4b10c16c9f526c94982f4d",
+   "timestamp": "2022-02-28T04:30:56.000Z"
+  },
+  "modjam2_asaki/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-28T07:59:18.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-28T07:59:18.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/ai.qc": {
+   "bytes": 15318,
+   "sha256": "4dbf5ce5132b8984e81892473b683f6fdf3492f32d334f67a290e163647dbbea",
+   "timestamp": "2022-02-10T07:17:08.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T21:46:54.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/client.qc": {
+   "bytes": 35352,
+   "sha256": "8afac313dbcb47767dcba85eef0e259f1eee51535e33495c96c2f01d0b2be909",
+   "timestamp": "2022-02-18T03:15:50.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/combat.qc": {
+   "bytes": 7034,
+   "sha256": "8fe4eb560db1ad3b80519dc14a834515259276fcb1e437212f2e82e3d734bcf5",
+   "timestamp": "2022-02-17T07:07:28.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/defs.qc": {
+   "bytes": 18095,
+   "sha256": "bfce1470264d171c2f9cdc56a04af5c1e7c2db943ecdcc48aadd1050ea36633d",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T21:47:56.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-03T21:59:10.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T21:58:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T21:48:06.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T22:21:58.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/items.qc": {
+   "bytes": 29697,
+   "sha256": "0642cc55f3dbf277a26a606d37d47b5f40f4075b1140a45fee76773cd91cc956",
+   "timestamp": "2019-01-03T21:36:52.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T22:05:18.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/la_neko.qc": {
+   "bytes": 18015,
+   "sha256": "7f96532331106545bf1f5eaa93178f6deb7ee86f80e5a0bc184982b9fe244051",
+   "timestamp": "2022-02-18T03:02:02.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/la_pre.qc": {
+   "bytes": 5138,
+   "sha256": "5e5b9a4bdbdd5893c310adf9b1071ee42b35283097538fbe0da2479c81a55cc6",
+   "timestamp": "2022-02-18T03:11:22.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-01-03T21:46:26.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-03T22:16:04.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T21:47:18.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T22:08:04.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T21:47:08.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/player.qc": {
+   "bytes": 18712,
+   "sha256": "18a7d377e022f68ece064dcf42fcbfaee3c11b64fc72b1cfb6ff28c552b8137c",
+   "timestamp": "2019-01-03T21:52:16.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/progs.src": {
+   "bytes": 485,
+   "sha256": "5b5eb5ce5a03c58598f618f447850e8bb6049a7ad950854751957772fda73569",
+   "timestamp": "2022-02-17T08:53:24.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T22:00:40.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/triggers.qc": {
+   "bytes": 14953,
+   "sha256": "e15b886627615d809c85afeb955d9ccd31f2e9a9d689e2802918e429bb5438d0",
+   "timestamp": "2022-02-18T03:57:42.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/weapons.qc": {
+   "bytes": 26696,
+   "sha256": "8efdcc695e37be7ee9da08810f7e3328fbef666837db6adfff801e57db873595",
+   "timestamp": "2022-02-18T02:28:58.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/world.qc": {
+   "bytes": 11645,
+   "sha256": "c67d34e176859c407be2dbceadfa9c1bce588641ca989334b2ee15689c7b0772",
+   "timestamp": "2022-02-17T07:27:26.000Z"
+  },
+  "modjam2_asaki/mod_jam_progs/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T21:48:20.000Z"
+  },
+  "modjam2_asaki/neko.txt": {
+   "bytes": 3849,
+   "sha256": "9b1d55df0d8961edf084daf5888dfe19847436c4f6c8207802afa5c47b5cf578",
+   "timestamp": "2022-02-20T08:15:30.000Z"
+  },
+  "modjam2_asaki/progs.dat": {
+   "bytes": 347498,
+   "sha256": "98aa6cc74311752288326587af95413c5270d398ee5bf85287febad5071b1994",
+   "timestamp": "2022-02-18T03:58:02.000Z"
+  },
+  "modjam2_asaki/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-18T03:02:32.000Z"
+  },
+  "modjam2_asaki/sound/la_neko/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-28T07:59:18.000Z"
+  },
+  "modjam2_asaki/sound/la_neko/Sound.txt": {
+   "bytes": 207,
+   "sha256": "72ec328b2fa3fbd0557e341fc8d1927edc3432342d436d36bcda1f094640c591",
+   "timestamp": "1998-01-30T02:07:30.000Z"
+  },
+  "modjam2_asaki/sound/la_neko/awake.wav": {
+   "bytes": 17922,
+   "sha256": "9121844d6f46154f3176b43603d45a6ea5d7cb645bd16f0e20770d26db205ca7",
+   "timestamp": "1998-01-30T02:06:18.000Z"
+  },
+  "modjam2_asaki/sound/la_neko/idle1.wav": {
+   "bytes": 17178,
+   "sha256": "157eee651f4fc9df627c7a0d55d6a7b5c76464ac2d69f9f71c8d46743bfe5153",
+   "timestamp": "1998-01-30T02:06:32.000Z"
+  },
+  "modjam2_asaki/sound/la_neko/idle2.wav": {
+   "bytes": 10656,
+   "sha256": "1a7cbfe1bedcd32a1bcc1632cba9fb301629158f1ad0e005a4f4f0d16f964638",
+   "timestamp": "1998-01-30T02:06:26.000Z"
+  },
+  "modjam2_asaki/sound/la_neko/idle3.wav": {
+   "bytes": 28906,
+   "sha256": "2e25e1e0ab946e6bf726ce465fd1aaf1c6e560974a8404f5970c17cdc11e2b1e",
+   "timestamp": "1997-08-11T19:15:02.000Z"
+  },
+  "modjam2_asaki/sound/la_neko/null.wav": {
+   "bytes": 1782,
+   "sha256": "f0d88f774f6a98e3b1ebb72fb83f75e13ca0d36cd0a57982ac0e0d7acf75fc70",
+   "timestamp": "2022-02-16T08:18:52.000Z"
+  },
+  "modjam2_asaki/sound/la_neko/sleep.wav": {
+   "bytes": 39448,
+   "sha256": "8dd00a38f5659ab373de54e4a1b9dad61e5bca6c3aed46c1cfbddfd451e4ab53",
+   "timestamp": "1998-01-30T02:06:02.000Z"
+  },
+  "modjam2_asaki/sprites/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-28T07:59:18.000Z"
+  },
+  "modjam2_asaki/sprites/!la_neko.spr": {
+   "bytes": 41796,
+   "sha256": "bc91e1b5aeb3d3df2621b7e45b73feb19ff33c7491a670e5cf965b4ae251dbda",
+   "timestamp": "2022-01-24T06:01:12.000Z"
+  },
+  "modjam2_asaki/sprites/la_laser.spr": {
+   "bytes": 864,
+   "sha256": "8f8278477b70e7df6a58c5e99bb8938c0b0cde517b591cb55066b67c3943552f",
+   "timestamp": "2022-01-27T06:06:08.000Z"
+  },
+  "modjam2_bmfbr/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:33:40.000Z"
+  },
+  "modjam2_bmfbr/bmfbr_skaarj.fgd": {
+   "bytes": 22260,
+   "sha256": "7f60a13ad71e54c087600f81c47b1d375b5bcda6dd1dcbbf1a8927780340819e",
+   "timestamp": "2022-02-20T16:05:50.000Z"
+  },
+  "modjam2_bmfbr/bmfbr_skaarj.txt": {
+   "bytes": 1852,
+   "sha256": "45eee30e780b132cbca0004f479475b4f9c23d15adc9367d28ba389da5dc84d7",
+   "timestamp": "2022-02-20T16:12:20.000Z"
+  },
+  "modjam2_bmfbr/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:33:12.000Z"
+  },
+  "modjam2_bmfbr/maps/bmfbr_skaarj.bsp": {
+   "bytes": 69484,
+   "sha256": "978084fc3bfa1b6becec5180172c950a757a8faaaf2b20323855e47899cc0ebb",
+   "timestamp": "2022-02-20T15:50:10.000Z"
+  },
+  "modjam2_bmfbr/maps/bmfbr_skaarj.map": {
+   "bytes": 3609,
+   "sha256": "9f3a972dba3416c3703bfc9369dcf515a6e662b8c67d39dedd8c8d70b3c0ff4a",
+   "timestamp": "2022-02-20T15:53:06.000Z"
+  },
+  "modjam2_bmfbr/progs.dat": {
+   "bytes": 366514,
+   "sha256": "f3b2a1c04194ec4c283717fa1655877c403fea452471730c184c6d573ec76c19",
+   "timestamp": "2022-02-20T15:54:40.000Z"
+  },
+  "modjam2_bmfbr/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:33:12.000Z"
+  },
+  "modjam2_bmfbr/progs/big_bullet.mdl": {
+   "bytes": 14336,
+   "sha256": "bd3d1c4b1e577842602466ef4ba4ca4d8dc6ccbfb6f555eb4851d43769f87b72",
+   "timestamp": "2020-09-18T07:00:50.000Z"
+  },
+  "modjam2_bmfbr/progs/skaarj.mdl": {
+   "bytes": 723772,
+   "sha256": "c5dad02956e088fd8150e39f32edc6d4e1718571ca8519522f33900325730353",
+   "timestamp": "2022-01-15T17:28:20.000Z"
+  },
+  "modjam2_bmfbr/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:33:12.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:33:12.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/amb1sk.wav": {
+   "bytes": 46904,
+   "sha256": "6bdca88528d55db9d4e6f1984383281860986c8a1ac55eac3ea65dfee18548ff",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/blade1s.wav": {
+   "bytes": 9274,
+   "sha256": "adea40b4e6c5114f439d8b634f16bf5bb4b22a7f0d0e1a40827a70faf6e9f4a9",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/chalnge1s.wav": {
+   "bytes": 21920,
+   "sha256": "96e9a922ff18e3f67505a0e04685e1a8755c5172a424a5d6378250ec53ec0ae0",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/chalnge3s.wav": {
+   "bytes": 26634,
+   "sha256": "65840649468479fffc15e809979632bf4331f4227d8908dcf903bb61a04c7a62",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/claw2s.wav": {
+   "bytes": 6578,
+   "sha256": "2aaf8d2ac80c71c349ceb602497797ef5514f63732128a3e82f026cd3eb38bed",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/clawhit1s.wav": {
+   "bytes": 23488,
+   "sha256": "5fdcd0648191cb30698c294426c6b6aa816cf72e2f7a64f3da7e20a9c6ac4529",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/death1sk.wav": {
+   "bytes": 21802,
+   "sha256": "21653891ade3b0fe09d35f1a4d0e35b57e09a854b494c961a095f57f394d2803",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/death2sk.wav": {
+   "bytes": 26104,
+   "sha256": "cb6ce374458992bc012d6778da1e65d0e01488ed2b8f134abd9a99d1c03ae600",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/hairflp2sk.wav": {
+   "bytes": 14944,
+   "sha256": "1ded669506eedae6f5c154ae3060b6875bc2354ba541e4ad4df718fce9fac739",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/injur1sk.wav": {
+   "bytes": 18510,
+   "sha256": "c8928781a662ff6ce2ea7e8979fa5cf99fd45f91905134c06b284e8f5d073438",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/injur2sk.wav": {
+   "bytes": 18106,
+   "sha256": "8ce65f3d5b5237dab0174dfd462a28cfe04030f6df5b1dfb9925de4fdfea8279",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/lunge1sk.wav": {
+   "bytes": 15166,
+   "sha256": "f0af5e540fbefcd747b84b4878af5526e8349be760212aab8a7a7b584c9d8f40",
+   "timestamp": "2022-01-31T18:48:20.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/roam11s.wav": {
+   "bytes": 39978,
+   "sha256": "541b0cb275fd144d756a110b86601b71b7ed115292f4e91315e116920183b696",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/skrjimp.wav": {
+   "bytes": 29182,
+   "sha256": "3fb48ffec6b417cf074ce90630b90c9d08ecdadd206ed8d22028d5bbbae09c75",
+   "timestamp": "2022-02-02T19:11:18.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/skrjshot.wav": {
+   "bytes": 34670,
+   "sha256": "3f56fd5679a6b2e147badef9bb20d37bb95e91dfb68313c1a841659e60bb316e",
+   "timestamp": "2022-02-02T19:10:44.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/syl07sk.wav": {
+   "bytes": 8328,
+   "sha256": "e530bd526740d948182d92f8ac4de6303b607916a7238a40ef73c9f37eafca96",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/syl09sk.wav": {
+   "bytes": 10200,
+   "sha256": "d19c506e43f3714d3bb184924eda400215719ce10fc3aa103e77b5a824a238c2",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/syl11sk.wav": {
+   "bytes": 9976,
+   "sha256": "d3569f64f88fb022abe795c1d3ea241a4e3a06a472130ec65da68fb8dbe24c84",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/syl12sk.wav": {
+   "bytes": 10168,
+   "sha256": "25d86af59325c5a116ab4d43fd86c44606d3db15409cd4ebd80968d589db0db2",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/syl13sk.wav": {
+   "bytes": 9720,
+   "sha256": "54fe1232e1270ff5b9b3c298d8d3e88f259597cafc2679c9abf30b85a1a911c3",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/sound/skaarj/syl15sk.wav": {
+   "bytes": 9480,
+   "sha256": "20f512f6a7fcc0a5add8480fcec638e1ead913417fb8e3ebb6e731177a5aa98c",
+   "timestamp": "2022-01-29T21:46:42.000Z"
+  },
+  "modjam2_bmfbr/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:33:12.000Z"
+  },
+  "modjam2_bmfbr/source/ai.qc": {
+   "bytes": 15161,
+   "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+   "timestamp": "2019-01-03T21:48:38.000Z"
+  },
+  "modjam2_bmfbr/source/bmfbr_skaarj.qc": {
+   "bytes": 28712,
+   "sha256": "1f3d2ad1c18cd0e3f9cea9f33c75f767aa05d6bbd6361c6f382a8bd6c5134cfc",
+   "timestamp": "2022-02-20T15:45:16.000Z"
+  },
+  "modjam2_bmfbr/source/bmfbr_skaarj_ai.qc": {
+   "bytes": 10816,
+   "sha256": "983ca45a2fe343b0b25724211c4d6b3e26c0b353f92d1676c6035ed63b36875f",
+   "timestamp": "2022-02-20T15:49:02.000Z"
+  },
+  "modjam2_bmfbr/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T21:46:54.000Z"
+  },
+  "modjam2_bmfbr/source/client.qc": {
+   "bytes": 34204,
+   "sha256": "d4ac80ee80d610ba62bcd43f266b53a9b66a37915ce41b358a2fa7cb323bb6dd",
+   "timestamp": "2019-01-03T21:51:36.000Z"
+  },
+  "modjam2_bmfbr/source/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/defs.qc": {
+   "bytes": 18095,
+   "sha256": "bfce1470264d171c2f9cdc56a04af5c1e7c2db943ecdcc48aadd1050ea36633d",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T21:47:56.000Z"
+  },
+  "modjam2_bmfbr/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-03T21:59:10.000Z"
+  },
+  "modjam2_bmfbr/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T21:58:36.000Z"
+  },
+  "modjam2_bmfbr/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T21:48:06.000Z"
+  },
+  "modjam2_bmfbr/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T22:21:58.000Z"
+  },
+  "modjam2_bmfbr/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/items.qc": {
+   "bytes": 29697,
+   "sha256": "0642cc55f3dbf277a26a606d37d47b5f40f4075b1140a45fee76773cd91cc956",
+   "timestamp": "2019-01-03T21:36:52.000Z"
+  },
+  "modjam2_bmfbr/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T22:05:18.000Z"
+  },
+  "modjam2_bmfbr/source/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-01-03T21:46:26.000Z"
+  },
+  "modjam2_bmfbr/source/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-03T22:16:04.000Z"
+  },
+  "modjam2_bmfbr/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T21:47:18.000Z"
+  },
+  "modjam2_bmfbr/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T22:08:04.000Z"
+  },
+  "modjam2_bmfbr/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T21:47:08.000Z"
+  },
+  "modjam2_bmfbr/source/player.qc": {
+   "bytes": 18712,
+   "sha256": "18a7d377e022f68ece064dcf42fcbfaee3c11b64fc72b1cfb6ff28c552b8137c",
+   "timestamp": "2019-01-03T21:52:16.000Z"
+  },
+  "modjam2_bmfbr/source/progs.src": {
+   "bytes": 479,
+   "sha256": "8095c8caccd00d2cc10d23273a36242b2b2f908ba79756b4f38e88844d15c01a",
+   "timestamp": "2022-02-20T15:55:46.000Z"
+  },
+  "modjam2_bmfbr/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T22:00:40.000Z"
+  },
+  "modjam2_bmfbr/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-03T21:45:48.000Z"
+  },
+  "modjam2_bmfbr/source/weapons.qc": {
+   "bytes": 26462,
+   "sha256": "164c52ff1be923d2fbb3e3d2922286322da71fb27be4e596208dfd47d0d58aec",
+   "timestamp": "2019-01-03T22:10:54.000Z"
+  },
+  "modjam2_bmfbr/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam2_bmfbr/source/world.qc": {
+   "bytes": 11430,
+   "sha256": "7820b99133f1a238645edcaa59cd0a9dba0dba4c81db81f0a88a68511dde1d61",
+   "timestamp": "2019-01-03T21:47:38.000Z"
+  },
+  "modjam2_bmfbr/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T21:48:20.000Z"
+  },
+  "modjam2_dumptruck/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:34:36.000Z"
+  },
+  "modjam2_dumptruck/chthon_plus_readme.txt": {
+   "bytes": 3040,
+   "sha256": "caff6d02172b850230b64af74eacac9c9d4b6fcc4d16ae97b3306c068661ed3b",
+   "timestamp": "2022-02-19T20:37:12.000Z"
+  },
+  "modjam2_dumptruck/fgd/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:34:14.000Z"
+  },
+  "modjam2_dumptruck/fgd/chthon+.fgd": {
+   "bytes": 20018,
+   "sha256": "dd1a68b3899266a21413840ef5c0a838145962ca1c7ed28125cb59c2fced8373",
+   "timestamp": "2022-02-19T10:59:08.000Z"
+  },
+  "modjam2_dumptruck/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:34:14.000Z"
+  },
+  "modjam2_dumptruck/maps/chthon_plus_demo.bsp": {
+   "bytes": 236732,
+   "sha256": "63274e4c289545a66c78803fcc2615c8c4e03bc23aa38a97ab30502a85239cbe",
+   "timestamp": "2022-02-19T20:38:56.000Z"
+  },
+  "modjam2_dumptruck/maps/chthon_plus_demo.lit": {
+   "bytes": 277736,
+   "sha256": "198ca5ad2f123139349c5b58f196e1f2d5f2aad5fe3a20fba7ee49e5f626c4d3",
+   "timestamp": "2022-02-19T20:38:56.000Z"
+  },
+  "modjam2_dumptruck/maps/chthon_plus_demo.map": {
+   "bytes": 69965,
+   "sha256": "052f1f8eddfbe65b99c34dec8fbfbebd0dafa9dc69dde356de2dab0aae206676",
+   "timestamp": "2022-02-19T20:38:50.000Z"
+  },
+  "modjam2_dumptruck/progs.dat": {
+   "bytes": 357746,
+   "sha256": "2607343562d9705a7a69500e64fc14d249e6d485943e0f3a548fdf3816d4f465",
+   "timestamp": "2022-02-19T15:48:54.000Z"
+  },
+  "modjam2_dumptruck/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:34:14.000Z"
+  },
+  "modjam2_dumptruck/progs/h_boss.mdl": {
+   "bytes": 63532,
+   "sha256": "320aff68d374f002ed468bf17ddeca4d95f59ef68c7dd3a17287fef2da1f0b46",
+   "timestamp": "2020-02-02T12:43:06.000Z"
+  },
+  "modjam2_dumptruck/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:34:14.000Z"
+  },
+  "modjam2_dumptruck/sound/chthon/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:34:14.000Z"
+  },
+  "modjam2_dumptruck/sound/chthon/chth_equake.wav": {
+   "bytes": 124330,
+   "sha256": "5c836c643c0fa1c2dc41ea635e56bca7368eacebe5dc1ef10e4847fd121f78e6",
+   "timestamp": "2022-02-14T19:47:52.000Z"
+  },
+  "modjam2_dumptruck/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:34:14.000Z"
+  },
+  "modjam2_dumptruck/source/ai.qc": {
+   "bytes": 15161,
+   "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/chthon-plus.qc": {
+   "bytes": 32919,
+   "sha256": "7d89c1fd55fe4291267a31c5a63b206defd4e5bd44d56891faa5ca7466a23bee",
+   "timestamp": "2022-02-19T15:54:14.000Z"
+  },
+  "modjam2_dumptruck/source/client.qc": {
+   "bytes": 34243,
+   "sha256": "bf72c33a11731c96ad0858ffd0d945cfee6c466cecdf88bf10cfefa5dffb3af3",
+   "timestamp": "2022-02-14T19:17:48.000Z"
+  },
+  "modjam2_dumptruck/source/combat.qc": {
+   "bytes": 6922,
+   "sha256": "3f632d73fd1c73a93782e4cd4825b01159f650e74b69a53693a808c6fbf20637",
+   "timestamp": "2022-02-19T15:29:52.000Z"
+  },
+  "modjam2_dumptruck/source/defs.qc": {
+   "bytes": 18088,
+   "sha256": "d1cab40a2a2306fb61dbaf3cec4388a867141cc7db0701b0387ed666df41766c",
+   "timestamp": "2022-02-07T20:41:44.000Z"
+  },
+  "modjam2_dumptruck/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/items.qc": {
+   "bytes": 29697,
+   "sha256": "0642cc55f3dbf277a26a606d37d47b5f40f4075b1140a45fee76773cd91cc956",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/player.qc": {
+   "bytes": 18712,
+   "sha256": "18a7d377e022f68ece064dcf42fcbfaee3c11b64fc72b1cfb6ff28c552b8137c",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/progs.src": {
+   "bytes": 572,
+   "sha256": "87c552d640b5087e73a30a991ee78f9b01d65de37326872cd32505fa8ae51f7c",
+   "timestamp": "2022-02-19T15:34:26.000Z"
+  },
+  "modjam2_dumptruck/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2022-02-16T08:55:32.000Z"
+  },
+  "modjam2_dumptruck/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/weapons.qc": {
+   "bytes": 26462,
+   "sha256": "164c52ff1be923d2fbb3e3d2922286322da71fb27be4e596208dfd47d0d58aec",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/world.qc": {
+   "bytes": 11430,
+   "sha256": "7820b99133f1a238645edcaa59cd0a9dba0dba4c81db81f0a88a68511dde1d61",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_dumptruck/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2022-02-07T18:31:48.000Z"
+  },
+  "modjam2_matboe/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:38:48.000Z"
+  },
+  "modjam2_matboe/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T23:05:00.000Z"
+  },
+  "modjam2_matboe/maps/matboe_modjam2022.bsp": {
+   "bytes": 3193216,
+   "sha256": "8aef61d62d36838d41a2cac1819a7b217ff4919c385b271f08dd9ad81ef2c21d",
+   "timestamp": "2022-02-19T02:52:32.000Z"
+  },
+  "modjam2_matboe/maps/matboe_modjam2022.lit": {
+   "bytes": 859388,
+   "sha256": "4003406b7fb1fd84ac90150d64f1af167f38735e761606d50886d9e2bc0e513f",
+   "timestamp": "2022-02-19T02:51:46.000Z"
+  },
+  "modjam2_matboe/progs.dat": {
+   "bytes": 429114,
+   "sha256": "ae87bde567ffc4d821de3ed3220f960b956c9ff3ef7e8a4800e31aaaae0dcf50",
+   "timestamp": "2022-02-24T13:11:40.000Z"
+  },
+  "modjam2_matboe/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:38:48.000Z"
+  },
+  "modjam2_matboe/progs/h_player.mdl": {
+   "bytes": 15613,
+   "sha256": "665eb7087183b3c6a155f4977fb172d31a279897214aaf6dd526c1e211e915ca",
+   "timestamp": "2022-02-18T02:42:18.000Z"
+  },
+  "modjam2_matboe/progs/matboe_gib1_mini.mdl": {
+   "bytes": 6501,
+   "sha256": "0b729fbb45aace9330d5d6712f134846e2469aa9356e9abe7845941da9ef68c7",
+   "timestamp": "2021-02-20T22:41:26.000Z"
+  },
+  "modjam2_matboe/progs/matboe_gib2_mini.mdl": {
+   "bytes": 17553,
+   "sha256": "34e0b313c8b0aac95d88680ca484272189ccaa6dcd3db5ae9899b8cab00d638a",
+   "timestamp": "2021-02-20T22:41:42.000Z"
+  },
+  "modjam2_matboe/progs/matboe_gib3_mini.mdl": {
+   "bytes": 22933,
+   "sha256": "c8a55378af97b03c70ba3a3fbda1c38bda3dc01c29130a082075bee1bbec039d",
+   "timestamp": "2021-02-20T22:41:34.000Z"
+  },
+  "modjam2_matboe/progs/matboe_h_mini_shambler.mdl": {
+   "bytes": 38125,
+   "sha256": "361eadecd532bde13d051ade7d1e83f832f8b4ca919f9d32329c9356b715cc2e",
+   "timestamp": "2021-02-20T22:41:16.000Z"
+  },
+  "modjam2_matboe/progs/matboe_mini_shambler.mdl": {
+   "bytes": 480543,
+   "sha256": "04a502aebc34ed9cded84e42d84f34b176c31abf283852bd9a5f6c1b63b30655",
+   "timestamp": "2022-01-26T13:25:52.000Z"
+  },
+  "modjam2_matboe/progs/matboe_shambler.mdl": {
+   "bytes": 714830,
+   "sha256": "96dc557d48da3ddbb35795f769b60e69af39a43091928fac0bcf9bba633a1970",
+   "timestamp": "2022-02-03T11:54:02.000Z"
+  },
+  "modjam2_matboe/readme.txt": {
+   "bytes": 12479,
+   "sha256": "d6db254ad1d3303907b7adb4ae82b810550994820914593fd9812cf23f122c3c",
+   "timestamp": "2022-02-24T07:17:52.000Z"
+  },
+  "modjam2_matboe/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:38:48.000Z"
+  },
+  "modjam2_matboe/sound/matboe/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:38:48.000Z"
+  },
+  "modjam2_matboe/sound/matboe/matboe_mini_sham_bump.wav": {
+   "bytes": 14688,
+   "sha256": "23704600640542793089848c35c50cfa0e6cb5e74e08c224544940b20657db07",
+   "timestamp": "2022-02-02T09:18:42.000Z"
+  },
+  "modjam2_matboe/sound/matboe/matboe_mini_sham_bump2.wav": {
+   "bytes": 22242,
+   "sha256": "da6d1812898510aa3a94d429fe6c7d5e58faa740e6fa06c2bb664fe51b7ad9d7",
+   "timestamp": "2022-02-02T09:18:44.000Z"
+  },
+  "modjam2_matboe/sound/matboe/matboe_mini_sham_growl.wav": {
+   "bytes": 30340,
+   "sha256": "25c96c6eb9a07e02244a90aaf524e9f475222aee3164841f4c66fefbe589131a",
+   "timestamp": "2022-02-02T09:18:42.000Z"
+  },
+  "modjam2_matboe/sound/matboe/matboe_mini_sham_idle.wav": {
+   "bytes": 73358,
+   "sha256": "d7c06cbfa537d92f71db46949bff00ebc4988cb2393ee78ea523a86b9e525f8d",
+   "timestamp": "2022-02-02T09:18:44.000Z"
+  },
+  "modjam2_matboe/sound/matboe/matboe_mini_sham_scream.wav": {
+   "bytes": 130592,
+   "sha256": "31ecbf9fbbf8406e6d191b23a03a547ed9dc23c7881cfc23eaf9d3b42a655cf3",
+   "timestamp": "2022-02-02T09:18:44.000Z"
+  },
+  "modjam2_matboe/sound/matboe/matboe_mini_sham_scream2.wav": {
+   "bytes": 87190,
+   "sha256": "da527e65f9a6538e7348159e2f572fcaf70c48ebfc7f85d3d5d1437d2a0354cb",
+   "timestamp": "2022-02-02T09:18:42.000Z"
+  },
+  "modjam2_matboe/sound/matboe/matboe_sham1_roar.wav": {
+   "bytes": 141680,
+   "sha256": "db9695082f2f12a98fb4d496dac9d7a8374b5bef141044381106cd5e1710cdf5",
+   "timestamp": "2022-02-02T09:18:42.000Z"
+  },
+  "modjam2_matboe/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:38:48.000Z"
+  },
+  "modjam2_matboe/source/ai.qc": {
+   "bytes": 15161,
+   "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+   "timestamp": "2019-01-03T21:48:38.000Z"
+  },
+  "modjam2_matboe/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T21:46:54.000Z"
+  },
+  "modjam2_matboe/source/client.qc": {
+   "bytes": 34204,
+   "sha256": "d4ac80ee80d610ba62bcd43f266b53a9b66a37915ce41b358a2fa7cb323bb6dd",
+   "timestamp": "2019-01-03T21:51:34.000Z"
+  },
+  "modjam2_matboe/source/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/defs.qc": {
+   "bytes": 18095,
+   "sha256": "bfce1470264d171c2f9cdc56a04af5c1e7c2db943ecdcc48aadd1050ea36633d",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T21:47:56.000Z"
+  },
+  "modjam2_matboe/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-03T21:59:10.000Z"
+  },
+  "modjam2_matboe/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T21:58:36.000Z"
+  },
+  "modjam2_matboe/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T21:48:06.000Z"
+  },
+  "modjam2_matboe/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T22:21:58.000Z"
+  },
+  "modjam2_matboe/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/items.qc": {
+   "bytes": 29697,
+   "sha256": "0642cc55f3dbf277a26a606d37d47b5f40f4075b1140a45fee76773cd91cc956",
+   "timestamp": "2019-01-03T21:36:52.000Z"
+  },
+  "modjam2_matboe/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T22:05:18.000Z"
+  },
+  "modjam2_matboe/source/matboe/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:38:48.000Z"
+  },
+  "modjam2_matboe/source/matboe/matboe_ai.qc": {
+   "bytes": 26482,
+   "sha256": "31f99e930e321385b3594e619744a1f985f43d8e8f02ea5b4cf63c034a281a02",
+   "timestamp": "2022-02-24T08:12:22.000Z"
+  },
+  "modjam2_matboe/source/matboe/matboe_defs.qc": {
+   "bytes": 3098,
+   "sha256": "a64af8508ef9e4af40f521fd1273abd60df763ced02d8d8e73480bc2a0153572",
+   "timestamp": "2022-02-24T04:44:32.000Z"
+  },
+  "modjam2_matboe/source/matboe/matboe_enf.qc": {
+   "bytes": 15763,
+   "sha256": "bf89aaf49a82a55d396fe14d216fbf51ab84dc940931518abfa3fe068fadf451",
+   "timestamp": "2022-02-24T08:02:38.000Z"
+  },
+  "modjam2_matboe/source/matboe/matboe_extras.qc": {
+   "bytes": 26534,
+   "sha256": "ba1089bd2f9319d9b085d4ceca31e8932a2481f319a7c9f4033a8af626e8d402",
+   "timestamp": "2022-02-24T13:11:28.000Z"
+  },
+  "modjam2_matboe/source/matboe/matboe_hijack.qc": {
+   "bytes": 13951,
+   "sha256": "ec088ac13675124d70a815b6046b6ff9268e40f2a163af000feec4a7de83f5f7",
+   "timestamp": "2022-02-19T01:32:30.000Z"
+  },
+  "modjam2_matboe/source/matboe/matboe_mama_sham.qc": {
+   "bytes": 30748,
+   "sha256": "0d4d5d14896bd0f03f9edd8b63777d10c987d5d915fcd2cf2479f59a151e914b",
+   "timestamp": "2022-02-24T13:11:30.000Z"
+  },
+  "modjam2_matboe/source/matboe/matboe_mini_sham.qc": {
+   "bytes": 18498,
+   "sha256": "b5a35a5190e83d066f8a1099182d9051baf69d6ddeb7cffbfe7e70f2fdde6513",
+   "timestamp": "2022-02-24T07:02:46.000Z"
+  },
+  "modjam2_matboe/source/matboe/matboe_soldier.qc": {
+   "bytes": 17087,
+   "sha256": "66d2c95fbde71ec4b1db3c808796afc1e1904d6350b7b6ec00e7167b29d708e8",
+   "timestamp": "2022-02-24T07:59:06.000Z"
+  },
+  "modjam2_matboe/source/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-01-03T21:46:26.000Z"
+  },
+  "modjam2_matboe/source/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-03T22:16:04.000Z"
+  },
+  "modjam2_matboe/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T21:47:18.000Z"
+  },
+  "modjam2_matboe/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T22:08:04.000Z"
+  },
+  "modjam2_matboe/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T21:47:06.000Z"
+  },
+  "modjam2_matboe/source/player.qc": {
+   "bytes": 18712,
+   "sha256": "18a7d377e022f68ece064dcf42fcbfaee3c11b64fc72b1cfb6ff28c552b8137c",
+   "timestamp": "2019-01-03T21:52:16.000Z"
+  },
+  "modjam2_matboe/source/progs.src": {
+   "bytes": 730,
+   "sha256": "c88b376a13aa8012f02d9f678442504d9d64a928c2f9807ecccc407768a0a7cc",
+   "timestamp": "2022-02-19T11:06:16.000Z"
+  },
+  "modjam2_matboe/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T22:00:38.000Z"
+  },
+  "modjam2_matboe/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-03T21:45:48.000Z"
+  },
+  "modjam2_matboe/source/weapons.qc": {
+   "bytes": 26462,
+   "sha256": "164c52ff1be923d2fbb3e3d2922286322da71fb27be4e596208dfd47d0d58aec",
+   "timestamp": "2022-02-24T07:07:56.000Z"
+  },
+  "modjam2_matboe/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_matboe/source/world.qc": {
+   "bytes": 11430,
+   "sha256": "7820b99133f1a238645edcaa59cd0a9dba0dba4c81db81f0a88a68511dde1d61",
+   "timestamp": "2022-02-24T07:07:50.000Z"
+  },
+  "modjam2_matboe/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T21:48:18.000Z"
+  },
+  "modjam2_snaut/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T17:39:28.000Z"
+  },
+  "modjam2_snaut/README.TXT": {
+   "bytes": 2482,
+   "sha256": "ab8f00a991906dfcd2a96eb486ef881fe5e27f477dc36854951939a2987d02a9",
+   "timestamp": "2022-02-27T14:42:28.000Z"
+  },
+  "modjam2_snaut/progs.dat": {
+   "bytes": 345714,
+   "sha256": "c0b2460b3efc5d44af135242f38f9fc14884714b485e50467dcc0e9dfc67f462",
+   "timestamp": "2022-02-27T14:46:24.000Z"
+  },
+  "modjam2_snaut/progs.lno": {
+   "bytes": 83892,
+   "sha256": "41799e48e4226b7fcaa1904b6a569bb72d4766b67602bfb5da76b40ddaaa3eb9",
+   "timestamp": "2022-02-27T14:46:24.000Z"
+  },
+  "modjam2_snaut/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T17:39:06.000Z"
+  },
+  "modjam2_snaut/progs/hb_mimic.mdl": {
+   "bytes": 85468,
+   "sha256": "10cc9340bc4247e04f2c444d331d626bf4584d1e5a35bf748078f86b4b87824e",
+   "timestamp": "2022-02-18T17:01:16.000Z"
+  },
+  "modjam2_snaut/progs/m_h100.mdl": {
+   "bytes": 17992,
+   "sha256": "b4c84d42ad06a5e86b197aeeac636443724012fa2fe2db273ee5f7dadf05e2f4",
+   "timestamp": "2022-02-22T08:59:46.000Z"
+  },
+  "modjam2_snaut/progs/m_h15.mdl": {
+   "bytes": 3252,
+   "sha256": "b5677ad7f60db5dce5dd89308ad8c5259ad9d7855f6509c0abeef9a373c0201b",
+   "timestamp": "2022-02-18T17:29:12.000Z"
+  },
+  "modjam2_snaut/progs/m_h25.mdl": {
+   "bytes": 16870,
+   "sha256": "685bf968e288859b7e58c48745131b62c885a0c9a637b1a885b763851b1f214f",
+   "timestamp": "2022-02-18T17:28:36.000Z"
+  },
+  "modjam2_snaut/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T17:39:06.000Z"
+  },
+  "modjam2_snaut/sound/mimic/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T17:39:06.000Z"
+  },
+  "modjam2_snaut/sound/mimic/mimic_alert1.wav": {
+   "bytes": 4174,
+   "sha256": "da929564efbf3719cef501ae63cd520b05c3b368717ad70cf2d65ed85b22961b",
+   "timestamp": "2022-02-18T14:54:26.000Z"
+  },
+  "modjam2_snaut/sound/mimic/mimic_alert2.wav": {
+   "bytes": 5198,
+   "sha256": "9d65e4e3ad2714f17b1ba8785fdc744c9a378f1e2a93c7a9c2232ae385cabe53",
+   "timestamp": "2022-02-18T15:09:44.000Z"
+  },
+  "modjam2_snaut/sound/mimic/mimic_attack1.wav": {
+   "bytes": 5198,
+   "sha256": "e351646b68af38f69002d120d5ca9d620f725cd7c1acad2f26608c5326f9bb76",
+   "timestamp": "2022-02-18T15:10:46.000Z"
+  },
+  "modjam2_snaut/sound/mimic/mimic_attack2.wav": {
+   "bytes": 4174,
+   "sha256": "3e65bf8960a17d7b3dd810657cf7bcc43414000b457d0135e93f5abcd0d960d0",
+   "timestamp": "2022-02-18T15:11:22.000Z"
+  },
+  "modjam2_snaut/sound/mimic/mimic_attack3.wav": {
+   "bytes": 5198,
+   "sha256": "d345dae1d8865b6b1aad26b32e3d38c82edd57b14276eb34495376d5661d81db",
+   "timestamp": "2022-02-18T15:11:58.000Z"
+  },
+  "modjam2_snaut/sound/mimic/mimic_death1.wav": {
+   "bytes": 6222,
+   "sha256": "a7126f5ddf428ac4f23ab4d1836f2fd9a48c9fbbcfe61df3784241ad253f8b2d",
+   "timestamp": "2022-02-18T15:12:40.000Z"
+  },
+  "modjam2_snaut/sound/mimic/mimic_death2.wav": {
+   "bytes": 6222,
+   "sha256": "7160473dd1792cf6ffc1c65c59de600af1c68ecb0f2374e5db9837ad61972a85",
+   "timestamp": "2022-02-18T15:13:52.000Z"
+  },
+  "modjam2_snaut/sound/mimic/mimic_pain.wav": {
+   "bytes": 5198,
+   "sha256": "66d6b754bb9a439318af9c8cedeb5f742fe703baefbb4187e2b09b2856b42be5",
+   "timestamp": "2022-02-18T15:15:38.000Z"
+  },
+  "modjam2_snaut/src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T17:39:06.000Z"
+  },
+  "modjam2_snaut/src/ai.qc": {
+   "bytes": 15757,
+   "sha256": "440aff680b44dd001c4f94a76a43cf3b47d21e5969d3e7fdef5e82986e9c4154",
+   "timestamp": "2022-02-18T15:24:12.000Z"
+  },
+  "modjam2_snaut/src/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T21:46:54.000Z"
+  },
+  "modjam2_snaut/src/chomps.qc": {
+   "bytes": 15166,
+   "sha256": "a7242f297eec17473d723f6144c28647deddeae7c7c41eaa4cb82d9f969c875e",
+   "timestamp": "2022-02-22T09:09:04.000Z"
+  },
+  "modjam2_snaut/src/client.qc": {
+   "bytes": 34300,
+   "sha256": "d075b2f10eb2828eed07b77c3e0629a86a2642c58a6d9ec5fddb2da58f00fb22",
+   "timestamp": "2022-02-17T16:06:58.000Z"
+  },
+  "modjam2_snaut/src/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/defs.qc": {
+   "bytes": 18183,
+   "sha256": "70c61dbf90a9f455a29d68adf476df8ce351279ab3344d7571e7d32409469f3a",
+   "timestamp": "2022-02-27T14:40:04.000Z"
+  },
+  "modjam2_snaut/src/defs.qc.bak": {
+   "bytes": 18121,
+   "sha256": "69ff9ec1464be927e9339eb05cc24b37e376a2de3682797e126a94ccb9181ae5",
+   "timestamp": "2022-02-17T19:43:16.000Z"
+  },
+  "modjam2_snaut/src/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T21:47:56.000Z"
+  },
+  "modjam2_snaut/src/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2022-02-17T19:28:02.000Z"
+  },
+  "modjam2_snaut/src/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T21:58:36.000Z"
+  },
+  "modjam2_snaut/src/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T21:48:06.000Z"
+  },
+  "modjam2_snaut/src/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T22:21:58.000Z"
+  },
+  "modjam2_snaut/src/fteqcc64": {
+   "bytes": 749832,
+   "sha256": "4fa7a67349f4dada41645ccd946b8261cfc52210a8bbfb0d7d82e6d207fb83bd",
+   "timestamp": "2021-12-27T16:07:08.000Z"
+  },
+  "modjam2_snaut/src/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/items.qc": {
+   "bytes": 30234,
+   "sha256": "a5bd4b154fde47456aa4409656c8be70cb137e8a7a2f6c111be237a7be071156",
+   "timestamp": "2022-02-27T14:38:40.000Z"
+  },
+  "modjam2_snaut/src/items.qc.bak": {
+   "bytes": 30192,
+   "sha256": "e67b37559dfd8b78f9c4bf13526f01d58b61e0bbdedad85323ee3993e382231c",
+   "timestamp": "2022-02-22T08:53:36.000Z"
+  },
+  "modjam2_snaut/src/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T22:05:18.000Z"
+  },
+  "modjam2_snaut/src/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-01-03T21:46:26.000Z"
+  },
+  "modjam2_snaut/src/monsters.qc": {
+   "bytes": 4967,
+   "sha256": "0b4d069966468b6b3b239d564a2a1f2cd3903d3bfcc59ffb61ab68049fc00cd5",
+   "timestamp": "2022-02-17T19:17:10.000Z"
+  },
+  "modjam2_snaut/src/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T21:47:18.000Z"
+  },
+  "modjam2_snaut/src/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T22:08:04.000Z"
+  },
+  "modjam2_snaut/src/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T21:47:06.000Z"
+  },
+  "modjam2_snaut/src/player.qc": {
+   "bytes": 18712,
+   "sha256": "18a7d377e022f68ece064dcf42fcbfaee3c11b64fc72b1cfb6ff28c552b8137c",
+   "timestamp": "2019-01-03T21:52:16.000Z"
+  },
+  "modjam2_snaut/src/progs.src": {
+   "bytes": 484,
+   "sha256": "cd6f8910392be736ccd8f6865096f59919477b4fc84a989fc1dde2da030216ee",
+   "timestamp": "2022-02-17T16:08:42.000Z"
+  },
+  "modjam2_snaut/src/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T22:00:38.000Z"
+  },
+  "modjam2_snaut/src/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-03T21:45:48.000Z"
+  },
+  "modjam2_snaut/src/weapons.qc": {
+   "bytes": 26462,
+   "sha256": "164c52ff1be923d2fbb3e3d2922286322da71fb27be4e596208dfd47d0d58aec",
+   "timestamp": "2019-01-03T22:10:52.000Z"
+  },
+  "modjam2_snaut/src/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T23:17:34.000Z"
+  },
+  "modjam2_snaut/src/world.qc": {
+   "bytes": 11430,
+   "sha256": "7820b99133f1a238645edcaa59cd0a9dba0dba4c81db81f0a88a68511dde1d61",
+   "timestamp": "2019-01-03T21:47:36.000Z"
+  },
+  "modjam2_snaut/src/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T21:48:18.000Z"
+  },
+  "modjam2_zungryware/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-28T05:05:08.000Z"
+  },
+  "modjam2_zungryware/README.txt": {
+   "bytes": 1610,
+   "sha256": "604d7e81af005de839edd4173682000706858c83588bf4e57a89f0f18b8e11d0",
+   "timestamp": "2022-02-28T05:05:08.000Z"
+  },
+  "modjam2_zungryware/demo1.dem": {
+   "bytes": 452620,
+   "sha256": "21581c551aa2fd7dca968446db0ca2fcad72751e1128c6da84aa368185631409",
+   "timestamp": "2022-02-14T00:12:14.000Z"
+  },
+  "modjam2_zungryware/demo2.dem": {
+   "bytes": 12234,
+   "sha256": "e46dd3174c754fb1b828d1970aa76d4990eabf70865e273e6d50e8c03aef48f8",
+   "timestamp": "2022-02-14T00:48:28.000Z"
+  },
+  "modjam2_zungryware/demo3.dem": {
+   "bytes": 12234,
+   "sha256": "e46dd3174c754fb1b828d1970aa76d4990eabf70865e273e6d50e8c03aef48f8",
+   "timestamp": "2022-02-14T00:48:28.000Z"
+  },
+  "modjam2_zungryware/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:36:26.000Z"
+  },
+  "modjam2_zungryware/maps/devil_demo.bsp": {
+   "bytes": 1115624,
+   "sha256": "d7f445f7dc88c565c9e68a6dd929cefe1c499ec62cb31c08fe13b3e093c2f80d",
+   "timestamp": "2022-02-14T00:06:26.000Z"
+  },
+  "modjam2_zungryware/maps/devil_demo.map": {
+   "bytes": 935673,
+   "sha256": "d2e5a1881d2401ff75a6f41312ce02551b0b1277737e57623f127a1ecd117c4b",
+   "timestamp": "2022-02-14T01:03:10.000Z"
+  },
+  "modjam2_zungryware/maps/start.bsp": {
+   "bytes": 230400,
+   "sha256": "e17058d8d05dea3ea252669a5dd7fe7a1a765e4d7cfdee5c1f6c4cdc4afc5d41",
+   "timestamp": "2022-02-07T23:35:56.000Z"
+  },
+  "modjam2_zungryware/maps/start.map": {
+   "bytes": 163343,
+   "sha256": "0b9f1be3e4360855a42c9d61339872de20f202ea25f90ee3a7d4a0883ee71be9",
+   "timestamp": "2022-02-07T15:48:28.000Z"
+  },
+  "modjam2_zungryware/progs.dat": {
+   "bytes": 350474,
+   "sha256": "dec44a4e1e4ea42a058d702b160f080962c239b04ac9c60913a1856ae32204d2",
+   "timestamp": "2022-02-11T17:06:30.000Z"
+  },
+  "modjam2_zungryware/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:36:26.000Z"
+  },
+  "modjam2_zungryware/progs/devil.mdl": {
+   "bytes": 439420,
+   "sha256": "1df8b559a9998acfea68811f2028d32508b860c2a0d0ac178f25a13313a476bc",
+   "timestamp": "2022-02-14T12:24:14.000Z"
+  },
+  "modjam2_zungryware/progs/dynamite.mdl": {
+   "bytes": 19812,
+   "sha256": "37c212b22b1e4a3d06391c71cfabf768b28debc5f80f9140c67612b67fb33d7f",
+   "timestamp": "2022-02-11T16:21:34.000Z"
+  },
+  "modjam2_zungryware/progs/h_devil.mdl": {
+   "bytes": 23524,
+   "sha256": "f1d9de6b913e3fc7df236b1f09a223551f46184068f8efd7ed02001b86d77689",
+   "timestamp": "2022-02-07T04:35:40.000Z"
+  },
+  "modjam2_zungryware/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:36:26.000Z"
+  },
+  "modjam2_zungryware/sound/devil/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:36:26.000Z"
+  },
+  "modjam2_zungryware/sound/devil/death.wav": {
+   "bytes": 90452,
+   "sha256": "3be634babbf26ffcb74f7468a73614fdc3b063c808f2f725124784942072a20f",
+   "timestamp": "2022-02-04T21:48:16.000Z"
+  },
+  "modjam2_zungryware/sound/devil/idle.wav": {
+   "bytes": 60250,
+   "sha256": "a5d69207fc170256f6ac89304861f84bf81bac42979edff4539d8955a7b4976e",
+   "timestamp": "2022-02-04T20:12:12.000Z"
+  },
+  "modjam2_zungryware/sound/devil/pain.wav": {
+   "bytes": 52760,
+   "sha256": "f4ac8d6cb16ee69d364d82f7ff575cab4b54cf00931f910e8832d526d2ca7646",
+   "timestamp": "2022-02-04T22:03:56.000Z"
+  },
+  "modjam2_zungryware/sound/devil/ram.wav": {
+   "bytes": 8612,
+   "sha256": "98949415943855014272aa69184ebd8e5f0b3a9bbec069557177026819af2d2d",
+   "timestamp": "2022-02-04T22:56:16.000Z"
+  },
+  "modjam2_zungryware/sound/devil/rustle.wav": {
+   "bytes": 28462,
+   "sha256": "13b981e1fd2a91cc44e924865dda8ce27659e92c2644bbe84828d45612fa9b03",
+   "timestamp": "2022-02-04T22:45:28.000Z"
+  },
+  "modjam2_zungryware/sound/devil/sight.wav": {
+   "bytes": 68588,
+   "sha256": "4324587e31790afc02275b9d887ceb9d9c381fc4eb8e175fac23fde120b6e7a6",
+   "timestamp": "2022-02-07T13:23:18.000Z"
+  },
+  "modjam2_zungryware/sound/devil/swipe.wav": {
+   "bytes": 53106,
+   "sha256": "3f81035995e9b07a585e8072835949a7e6cfd0dfec5aab468e4c0913476c1e9a",
+   "timestamp": "2022-01-24T23:43:28.000Z"
+  },
+  "modjam2_zungryware/sound/devil/throw.wav": {
+   "bytes": 24616,
+   "sha256": "f7722192dc0d2f4ce4152c599fcb5350aedcaf1374ed280cd14891acadf6a05a",
+   "timestamp": "2022-02-06T19:12:44.000Z"
+  },
+  "modjam2_zungryware/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-27T01:36:26.000Z"
+  },
+  "modjam2_zungryware/source/ai.qc": {
+   "bytes": 15406,
+   "sha256": "3605733b0404db727e66385c23d2581e167bec3816c4c1360185636a4c9de939",
+   "timestamp": "2022-02-07T15:21:20.000Z"
+  },
+  "modjam2_zungryware/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T12:46:54.000Z"
+  },
+  "modjam2_zungryware/source/client.qc": {
+   "bytes": 34300,
+   "sha256": "5e8b6ea8e0e949fd27fe71240d993ff2aacc6686a9e2803b29a8f98cb6378515",
+   "timestamp": "2022-02-07T15:21:04.000Z"
+  },
+  "modjam2_zungryware/source/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/defs.qc": {
+   "bytes": 18095,
+   "sha256": "bfce1470264d171c2f9cdc56a04af5c1e7c2db943ecdcc48aadd1050ea36633d",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T12:47:56.000Z"
+  },
+  "modjam2_zungryware/source/devil.qc": {
+   "bytes": 23304,
+   "sha256": "9693b67407bd393665577a6a888c2fc21490a79e699a08f711c0c28261ae340f",
+   "timestamp": "2022-02-11T17:06:28.000Z"
+  },
+  "modjam2_zungryware/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-03T12:59:10.000Z"
+  },
+  "modjam2_zungryware/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T12:58:36.000Z"
+  },
+  "modjam2_zungryware/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T12:48:06.000Z"
+  },
+  "modjam2_zungryware/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T13:21:58.000Z"
+  },
+  "modjam2_zungryware/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/items.qc": {
+   "bytes": 29697,
+   "sha256": "0642cc55f3dbf277a26a606d37d47b5f40f4075b1140a45fee76773cd91cc956",
+   "timestamp": "2019-01-03T12:36:52.000Z"
+  },
+  "modjam2_zungryware/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T13:05:18.000Z"
+  },
+  "modjam2_zungryware/source/mathlib.qc": {
+   "bytes": 2674,
+   "sha256": "5b6846ad8a3d2c16fb01964a8aa23027e446e6086fd0bafcb385eb28c7d37413",
+   "timestamp": "2022-02-05T21:18:30.000Z"
+  },
+  "modjam2_zungryware/source/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-01-03T12:46:26.000Z"
+  },
+  "modjam2_zungryware/source/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-03T13:16:04.000Z"
+  },
+  "modjam2_zungryware/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T12:47:18.000Z"
+  },
+  "modjam2_zungryware/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T13:08:04.000Z"
+  },
+  "modjam2_zungryware/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T12:47:08.000Z"
+  },
+  "modjam2_zungryware/source/player.qc": {
+   "bytes": 18712,
+   "sha256": "18a7d377e022f68ece064dcf42fcbfaee3c11b64fc72b1cfb6ff28c552b8137c",
+   "timestamp": "2019-01-03T12:52:16.000Z"
+  },
+  "modjam2_zungryware/source/progs.src": {
+   "bytes": 488,
+   "sha256": "b0e6f4c693807e8074eb5026dd7f89ae1d25fc2e111e3933f8093e543d68eef2",
+   "timestamp": "2022-02-07T15:05:18.000Z"
+  },
+  "modjam2_zungryware/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T13:00:40.000Z"
+  },
+  "modjam2_zungryware/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-03T12:45:48.000Z"
+  },
+  "modjam2_zungryware/source/weapons.qc": {
+   "bytes": 26462,
+   "sha256": "164c52ff1be923d2fbb3e3d2922286322da71fb27be4e596208dfd47d0d58aec",
+   "timestamp": "2019-01-03T13:10:54.000Z"
+  },
+  "modjam2_zungryware/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T14:17:36.000Z"
+  },
+  "modjam2_zungryware/source/world.qc": {
+   "bytes": 11430,
+   "sha256": "7820b99133f1a238645edcaa59cd0a9dba0dba4c81db81f0a88a68511dde1d61",
+   "timestamp": "2019-01-03T12:47:38.000Z"
+  },
+  "modjam2_zungryware/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T12:48:20.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "fb4d8cfc80075737dbef6b9cb3cb5e8c5169826c1fb8f3a24b3cf36068319fd2",
+ "tags": [
+  "author=4LT",
+  "author=Asaki",
+  "author=Shamblernaut",
+  "author=ZungryWare",
+  "author=bmFbr",
+  "author=dumptruck_ds",
+  "author=matboe",
+  "filename=modjam2_ai.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://khreathor.xyz",
+  "link=[Func_Msgboard thread](https://celephais.net/board/view_thread.php?id=62159)",
+  "map_size=small",
+  "nonspecific_tag=ai",
+  "nonspecific_tag=joke",
+  "nonspecific_tag=mod",
+  "nonspecific_tag=monsters",
+  "release_date=2022-02-28",
+  "title=Modding Jam 2022",
+  "type=mapjam",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/modjam2_ai.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fb4d8cfc80075737dbef6b9cb3cb5e8c5169826c1fb8f3a24b3cf36068319fd2/modjam2_ai.zip"
+ ]
+}

@@ -1,37 +1,42 @@
 {
- "filename": [
-  "rings2.zip"
- ],
+ "bytes": 246,
  "files": {
   "Rings2.map": {
-   "size": 261437,
+   "bytes": 261437,
+   "sha256": "7e725987fef6cb9ae02a60700c776ae5abb8dc5e32b01846ad9d227172a09364",
    "timestamp": "1997-07-05T18:40:58.000Z"
   },
   "rings2.bsp": {
-   "size": 520640,
+   "bytes": 520640,
+   "sha256": "65e4e3121d3ad72be3d7e72d8d35a261836a4cf2079d171fbd814060e6ddaa06",
    "timestamp": "1997-07-05T18:04:18.000Z"
   },
   "rings2.txt": {
-   "size": 1511,
+   "bytes": 1511,
+   "sha256": "22a9eee5d1680766b08253be678883eaad7cdc729c3d1e12155b002bfb96cfa1",
    "timestamp": "1997-07-05T18:49:46.000Z"
   }
  },
- "filesize": 246,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "08449d5b2f09d2b6f63b04908228d4462f767be119b706255bf36d1d9df2133c",
  "tags": [
   "author=David White (NiX)",
+  "filename=rings2.zip",
   "game=quake",
-  "releasedate=1997-07-05",
-  "tag=ads",
-  "tag=arena",
-  "tag=deathmatch",
-  "tag=small",
-  "tag=source",
-  "title=Rings2"
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "map_layout=arena",
+  "map_size=small",
+  "map_size=tiny",
+  "nonspecific_tag=ads",
+  "release_date=1997-07-05",
+  "source=included",
+  "theme=medieval",
+  "title=Rings2",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rings2.zip",

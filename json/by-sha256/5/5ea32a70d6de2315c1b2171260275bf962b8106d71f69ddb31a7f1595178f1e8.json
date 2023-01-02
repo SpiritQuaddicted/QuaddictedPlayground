@@ -1,0 +1,105 @@
+{
+ "bytes": 8571,
+ "files": {
+  "du_sm1_dunlop.bsp": {
+   "bytes": 3441760,
+   "sha256": "95bcbb8ee7e72491e562064bb2b2968ae954d4e01c29fafee2fa51e7f143a186",
+   "timestamp": "2020-04-22T18:57:44.000Z"
+  },
+  "du_sm1_dunlop.lit": {
+   "bytes": 2374280,
+   "sha256": "1499062427b5d99816b665e07eedec17970f9152ba073e847905140c10e30f81",
+   "timestamp": "2020-04-22T18:57:46.000Z"
+  },
+  "du_sm1_dunlop.map": {
+   "bytes": 4747228,
+   "sha256": "af2ffa09b4cd256775e922fc300f92a1e24ef767745d9dc2829414da9264321d",
+   "timestamp": "2020-04-22T18:57:46.000Z"
+  },
+  "du_sm1_grawert.bsp": {
+   "bytes": 4108288,
+   "sha256": "6d80d5bb6146c040f673e2c3a5d82491d2924462379064f079495b19a08e1dc6",
+   "timestamp": "2020-04-22T18:57:46.000Z"
+  },
+  "du_sm1_grawert.lit": {
+   "bytes": 2116976,
+   "sha256": "08221ce591e602f378099ecc05a27d9c91d47ec0420af478d495eb0c5c4c39c5",
+   "timestamp": "2020-04-22T18:57:46.000Z"
+  },
+  "du_sm1_grawert.map": {
+   "bytes": 1897590,
+   "sha256": "105b3fe3e3e50d09e97e6dac97d4257ee20ca70d9d2a2458fac5a6ca3e49865b",
+   "timestamp": "2020-04-22T18:57:46.000Z"
+  },
+  "du_sm1_oniscu.bsp": {
+   "bytes": 1951676,
+   "sha256": "19084bc0a1959bb3065332be1a4c92244098970a6b4090d80cd2590d80767db5",
+   "timestamp": "2020-04-22T18:57:46.000Z"
+  },
+  "du_sm1_oniscu.lit": {
+   "bytes": 1447034,
+   "sha256": "cb1adfcfbea3d7c315323cf88054825db8bbdcdafdf5ddabf90948793b01fdac",
+   "timestamp": "2020-04-22T18:57:48.000Z"
+  },
+  "du_sm1_oniscu.map": {
+   "bytes": 1369880,
+   "sha256": "d5bb4718c5645f972d4175f336c6e7a9ca20ab3cb991a9293dc0155585eb1a5a",
+   "timestamp": "2020-04-22T18:57:48.000Z"
+  },
+  "du_sm1_poster.png": {
+   "bytes": 1462123,
+   "sha256": "8f45e508f13c3a82e748382d68de92dd42b872c2b697c69426fb9efa5e24c5ee",
+   "timestamp": "2020-04-22T18:57:44.000Z"
+  },
+  "du_sm1_readme.txt": {
+   "bytes": 835,
+   "sha256": "ea3a77a4e3c1a1ef021556e7d9aa5e65e25b760850c590fdd9bdb93f0737f326",
+   "timestamp": "2020-04-22T18:57:44.000Z"
+  },
+  "du_sm1_yoder.bsp": {
+   "bytes": 1390304,
+   "sha256": "a9d65559e5618272245211079f15bbe0f4a4f2f62e88d0d0e254e957938403fd",
+   "timestamp": "2020-04-22T18:57:44.000Z"
+  },
+  "du_sm1_yoder.lit": {
+   "bytes": 849362,
+   "sha256": "0a5f8f5e08889715929f7f5d50519bc4a16dd6057a722edde6660010cd53af27",
+   "timestamp": "2020-04-22T18:57:44.000Z"
+  },
+  "du_sm1_yoder.map": {
+   "bytes": 1003703,
+   "sha256": "d40e037bb9aeb53b30b4577b7ef50a8405556ec4c74c64b1feb673444bffe04f",
+   "timestamp": "2020-04-22T18:57:44.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "5ea32a70d6de2315c1b2171260275bf962b8106d71f69ddb31a7f1595178f1e8",
+ "tags": [
+  "author=Dunlop",
+  "author=Grawert",
+  "author=Oniscu",
+  "author=Yoder",
+  "filename=du_sm1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61871)",
+  "map_size=medium",
+  "nonspecific_tag=czg",
+  "release_date=2020-04-22",
+  "source=included",
+  "startmap=du_sm1_dunlop",
+  "startmap=du_sm1_grawert",
+  "startmap=du_sm1_oniscu",
+  "startmap=du_sm1_yoder",
+  "theme=metal",
+  "title=Disconcerting Unease Speedmap Pack",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/du_sm1.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5ea32a70d6de2315c1b2171260275bf962b8106d71f69ddb31a7f1595178f1e8/du_sm1.zip"
+ ]
+}

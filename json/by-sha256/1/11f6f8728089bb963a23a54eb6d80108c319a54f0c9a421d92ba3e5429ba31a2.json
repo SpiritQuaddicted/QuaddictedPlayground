@@ -1,0 +1,118 @@
+{
+ "bytes": 16879,
+ "files": {
+  "zigisp1/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T19:06:38.000Z"
+  },
+  "zigisp1/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T18:55:40.000Z"
+  },
+  "zigisp1/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T18:55:40.000Z"
+  },
+  "zigisp1/gfx/env/greenepbk.tga": {
+   "bytes": 1903418,
+   "sha256": "5d8243aa71ba09cee5adb3b92dda4113802cdb1d52ec0215e10ad745554336dc",
+   "timestamp": "2020-08-11T21:00:06.000Z"
+  },
+  "zigisp1/gfx/env/greenepdn.tga": {
+   "bytes": 1658460,
+   "sha256": "bc17e95ad775e0d37b0a3696bab9b63d37cdb77890611642ecbf4ffdb8add482",
+   "timestamp": "2020-08-11T21:00:40.000Z"
+  },
+  "zigisp1/gfx/env/greenepft.tga": {
+   "bytes": 2304381,
+   "sha256": "b2cbccc4c98636c942d0c28bfd379e7a19298c7c4d0b47a5bd2b197c9ece28ea",
+   "timestamp": "2020-08-11T21:01:48.000Z"
+  },
+  "zigisp1/gfx/env/greeneplf.tga": {
+   "bytes": 2080218,
+   "sha256": "acae6db3b16776520d6cbd10b234df3e9bd88f5b005d3240ceee1d7f898b44bf",
+   "timestamp": "2020-08-11T20:59:40.000Z"
+  },
+  "zigisp1/gfx/env/greeneprt.tga": {
+   "bytes": 1986124,
+   "sha256": "d46c949b0a16c86cc42729f9bc485c0c02136bf74899b0ca6ce77b48730e9789",
+   "timestamp": "2020-08-11T21:01:08.000Z"
+  },
+  "zigisp1/gfx/env/greenepup.tga": {
+   "bytes": 1675693,
+   "sha256": "61918514a781e2c53fcaf4382e0e93f8221362477faa79af179b810bfd8cba94",
+   "timestamp": "2020-08-11T21:00:58.000Z"
+  },
+  "zigisp1/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T19:06:38.000Z"
+  },
+  "zigisp1/maps/zigisp1.bsp": {
+   "bytes": 19622668,
+   "sha256": "f12d154d79b60192dc43ba2094e652f1ce3ee1a4e38dfe28f87f4afd54c4659d",
+   "timestamp": "2020-08-31T18:32:30.000Z"
+  },
+  "zigisp1/maps/zigisp1.lit": {
+   "bytes": 3798476,
+   "sha256": "042b757d254f31251cb4c50698332baa4ac3dfc36d03ee516abdb651df95bf59",
+   "timestamp": "2020-08-31T18:32:30.000Z"
+  },
+  "zigisp1/maps/zigisp1.map": {
+   "bytes": 12561585,
+   "sha256": "86760a4a333cce49bb10c5221f33e398a532eba9be50d1672d8b8aa535a77aaa",
+   "timestamp": "2020-08-31T17:32:36.000Z"
+  },
+  "zigisp1/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T18:55:40.000Z"
+  },
+  "zigisp1/music/track148.ogg": {
+   "bytes": 4068697,
+   "sha256": "05397b0216f6277fec9caebc135f650d0f433ac8f58090e3811040290fbc5a50",
+   "timestamp": "2020-08-23T09:34:00.000Z"
+  },
+  "zigisp1/zigisp1.txt": {
+   "bytes": 2342,
+   "sha256": "0a02461ededaf388485e3c6291a6734fb300d82a320753b0f4168d879e0c302b",
+   "timestamp": "2020-09-01T18:32:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "11f6f8728089bb963a23a54eb6d80108c319a54f0c9a421d92ba3e5429ba31a2",
+ "tags": [
+  "author=zigi",
+  "bsp_format=bsp2",
+  "commandline=-game zigisp1",
+  "exceeds_quake_limits=yes",
+  "filename=zigisp1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61941)",
+  "map_size=large",
+  "music=custom",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=skybox",
+  "release_date=2020-09-01",
+  "source=included",
+  "theme=bricks",
+  "theme=fortress",
+  "theme=medieval",
+  "theme=secrets",
+  "theme=swamp",
+  "theme=water",
+  "title=A Verdant Dawn",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/zigisp1.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/11f6f8728089bb963a23a54eb6d80108c319a54f0c9a421d92ba3e5429ba31a2/zigisp1.zip"
+ ]
+}

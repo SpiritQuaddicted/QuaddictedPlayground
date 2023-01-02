@@ -1,33 +1,35 @@
 {
- "filename": [
-  "oldhouse.zip"
- ],
+ "bytes": 192,
  "files": {
   "OLDHOUSE.BSP": {
-   "size": 468072,
+   "bytes": 468072,
+   "sha256": "4a9fe4d253378caec9226a66b9b5ce8644cf66f809dc844c24a09dd532deb876",
    "timestamp": "1997-08-27T21:42:58.000Z"
   },
   "OLDHOUSE.TXT": {
-   "size": 3800,
+   "bytes": 3800,
+   "sha256": "284d5f4d1ab2c2fc4473f4352a1e3baf7ea65e5c23595687336d6ed3a9604d47",
    "timestamp": "1997-09-08T09:37:08.000Z"
   }
  },
- "filesize": 192,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c4ad266e618f5aa744a5b366f7affe636d4a91cf6b73b519f35a57b7103f5a2c",
  "tags": [
   "author=Mika Piirainen &amp; Jouko Maksimainen",
+  "filename=oldhouse.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelso.htm)",
-  "releasedate=1997-09-08",
-  "tag=realism",
-  "tag=small",
-  "tag=start map",
-  "tag=wizard",
-  "title=The Old House - the beginning"
+  "map_size=small",
+  "nonspecific_tag=start map",
+  "release_date=1997-09-08",
+  "theme=realism",
+  "theme=wizard",
+  "title=The Old House - the beginning",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oldhouse.zip",

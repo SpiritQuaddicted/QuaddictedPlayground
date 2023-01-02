@@ -1,42 +1,46 @@
 {
- "filename": [
-  "sm43_pack.zip"
- ],
+ "bytes": 1061,
  "files": {
   "sm43_necros.bsp": {
-   "size": 631152,
+   "bytes": 631152,
+   "sha256": "8e6adae8d392a86a306abdaa4272752fed1910d436506f218d631272c2d15380",
    "timestamp": "2003-08-02T19:03:12.000Z"
   },
   "sm43_necros.txt": {
-   "size": 1928,
+   "bytes": 1928,
+   "sha256": "193b65d4b1b9d22ef9a8c6c23adecea992cce6f062b46cd83d06154ce9e1a7f1",
    "timestamp": "2003-08-02T18:47:56.000Z"
   },
   "sm43_pack.txt": {
-   "size": 1863,
+   "bytes": 1863,
+   "sha256": "677bbeaf50ea195c62f6d8eaa48507c9a366ba81bec2322b9d7027ce92911226",
    "timestamp": "2003-08-03T01:23:16.000Z"
   },
   "sm43_preach.bsp": {
-   "size": 763996,
+   "bytes": 763996,
+   "sha256": "1f12e38e15709c8a2f1fd300e6431d118b3aff91027cb73514ba19ef7550f13f",
    "timestamp": "2003-08-03T00:24:20.000Z"
   },
   "sm43_ray.bsp": {
-   "size": 437272,
+   "bytes": 437272,
+   "sha256": "779a10c06e7fdec6016ff1d386287403f71c97a1526bf1d755160864ec03ed4a",
    "timestamp": "2003-08-02T19:07:08.000Z"
   },
   "sm43_scampie.bsp": {
-   "size": 218180,
+   "bytes": 218180,
+   "sha256": "879b756e09c7d3d4f6ce7559478ff5467feb8aa69d534cd57fb64bedd3d8bd6d",
    "timestamp": "2001-09-16T19:17:06.000Z"
   },
   "sm43_starbuck.bsp": {
-   "size": 554932,
+   "bytes": 554932,
+   "sha256": "c91f772874a0de8091ea35f779212653ce86cbaae1a7eaf35e7d2d3b71422d0c",
    "timestamp": "2003-08-03T11:39:12.000Z"
   }
  },
- "filesize": 1061,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "610f563a4cfac198fd9b3e8f67bd98111b700a131b9773ee826c652f52503363",
  "tags": [
   "author=NotoriousRay",
@@ -44,13 +48,16 @@
   "author=Scampie",
   "author=Starbuck",
   "author=necros",
+  "filename=sm43_pack.zip",
   "game=quake",
-  "releasedate=2003-08-03",
+  "game_mode=singleplayer",
+  "release_date=2003-08-03",
   "startmap=sm43_necros",
   "startmap=sm43_preach",
   "startmap=sm43_ray",
   "startmap=sm43_starbuck",
-  "title=Speedmapping pack 43 - Unthemed"
+  "title=Speedmapping pack 43 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm43_pack.zip",

@@ -1,60 +1,69 @@
 {
- "filename": [
-  "glorious.zip"
- ],
+ "bytes": 10842,
  "files": {
   "glorious.bsp": {
-   "size": 4396536,
+   "bytes": 4396536,
+   "sha256": "67115c749e8294f7b393635502fea0103791365e43bcc95024dc86e4cd156401",
    "timestamp": "2018-10-29T21:48:44.000Z"
   },
   "glorious.lit": {
-   "size": 3255476,
+   "bytes": 3255476,
+   "sha256": "4188a10308cd46f1b5ebb054672610c3d05e9a7bb48efd034d34b3761442374b",
    "timestamp": "2018-10-29T21:48:44.000Z"
   },
   "glorious_readme.txt": {
-   "size": 2915,
+   "bytes": 2915,
+   "sha256": "5729944da298f0646e9d9742c468ac2031ab8e8cecc41dd9125e298ca846d753",
    "timestamp": "2018-10-29T22:50:20.000Z"
   },
   "glorious_src/Q.wad": {
-   "size": 5288732,
+   "bytes": 5288732,
+   "sha256": "1e52f8fc5915c197692cdba45c6fd26a6ff842797aeb886923e542fc283203b5",
    "timestamp": "1997-04-27T20:51:14.000Z"
   },
   "glorious_src/glorious.map": {
-   "size": 1990848,
+   "bytes": 1990848,
+   "sha256": "cab7e0d73d2955f9c26cc457d1f3dc6b3bc7d80449919cd5033ca4ff186980d4",
    "timestamp": "2018-10-28T15:56:08.000Z"
   },
   "glorious_src/hipnotic.wad": {
-   "size": 1368140,
+   "bytes": 1368140,
+   "sha256": "d4961a7d6e0724929b2f9b8d463eb1039e8a300a736521d8427dd2703c1a01f0",
    "timestamp": "2007-06-25T23:00:00.000Z"
   },
   "glorious_src/q2TEX00.wad": {
-   "size": 13559020,
+   "bytes": 13559020,
+   "sha256": "b56eb08f6caecceacf13c4aee5b15d0cbca0c60fc35f08fbb819b333fc5e1d3e",
    "timestamp": "2006-05-08T01:50:56.000Z"
   },
   "glorious_src/rogue.wad": {
-   "size": 2443192,
+   "bytes": 2443192,
+   "sha256": "c2aa75f7fe48a14f73dccd8fd32b20d246ab52991da00b3c0cc9dde6fc831d9d",
    "timestamp": "2006-04-14T18:50:18.000Z"
   }
  },
- "filesize": 10842,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4f493955768b232e1b1c17714d874a59a7201d1185d9b447fdf6f4cc084ce72e",
  "tags": [
   "author=aDaya",
+  "exceeds_quake_limits=yes",
+  "filename=glorious.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://arthurbiver.neocities.org",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61646)",
-  "releasedate=2018-10-29",
-  "tag=egypt",
-  "tag=greek",
-  "tag=large",
-  "tag=limits",
-  "tag=source",
-  "tag=temple",
-  "tag=textures",
-  "title=A Once Glorious City"
+  "map_size=large",
+  "nonspecific_tag=greek",
+  "nonspecific_tag=textures",
+  "release_date=2018-10-29",
+  "source=included",
+  "theme=egypt",
+  "theme=temple",
+  "title=A Once Glorious City",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/glorious.zip",

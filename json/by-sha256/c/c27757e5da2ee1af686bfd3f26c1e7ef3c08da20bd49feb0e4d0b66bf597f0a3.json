@@ -1,36 +1,39 @@
 {
- "filename": [
-  "lfsp7.zip"
- ],
+ "bytes": 918,
  "files": {
   "lfsp7.bsp": {
-   "size": 2356800,
+   "bytes": 2356800,
+   "sha256": "7382e8b51b3fc9ceb1d67b9f7c17c9fb3e7f7c8ed1ddefd383463bd434fb9e51",
    "timestamp": "2004-01-04T17:43:46.000Z"
   },
   "lfsp7.txt": {
-   "size": 1197,
+   "bytes": 1197,
+   "sha256": "4eddbd2c3b898cd43faa5b1de482078bee8a8ecd8d1a23bc05039c6ff283c039",
    "timestamp": "2004-01-04T18:06:14.000Z"
   }
  },
- "filesize": 918,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c27757e5da2ee1af686bfd3f26c1e7ef3c08da20bd49feb0e4d0b66bf597f0a3",
  "tags": [
   "author=Leafface",
+  "filename=lfsp7.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://hosted.planetquake.gamespy.com/bsa",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev030302.html)",
-  "releasedate=2004-01-04",
-  "tag=episode",
-  "tag=jumping",
-  "tag=large",
-  "tag=metal",
-  "tag=puzzle",
-  "tag=runic",
-  "tag=traps",
-  "title=The Huntdown"
+  "map_size=large",
+  "playstyle=jumping",
+  "release_date=2004-01-04",
+  "theme=metal",
+  "theme=puzzle",
+  "theme=runic",
+  "theme=traps",
+  "title=The Huntdown",
+  "type=episode",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lfsp7.zip",

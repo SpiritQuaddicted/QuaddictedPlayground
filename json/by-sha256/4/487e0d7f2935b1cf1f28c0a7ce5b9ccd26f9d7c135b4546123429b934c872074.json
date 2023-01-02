@@ -1,38 +1,39 @@
 {
- "filename": [
-  "offspring.zip"
- ],
+ "bytes": 561,
  "files": {
   "Off.txt": {
-   "size": 4415,
+   "bytes": 4415,
+   "sha256": "73c6f7734819abcc8f2300729ece7fe9660d2842dd27bae33987726787fd3afc",
    "timestamp": "1997-04-11T15:34:06.000Z"
   },
   "off.bsp": {
-   "size": 1268888,
+   "bytes": 1268888,
+   "sha256": "ca2ceb918326689e670ad22ece5580098dcb8ad784fdadf851d9cf6cdfce4e55",
    "timestamp": "1997-04-11T13:48:44.000Z"
   }
  },
- "filesize": 561,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "487e0d7f2935b1cf1f28c0a7ce5b9ccd26f9d7c135b4546123429b934c872074",
  "tags": [
   "author=Chris Williams",
   "commandline=-hipnotic",
+  "filename=offspring.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelso.htm)",
-  "releasedate=1997-04-11",
+  "map_size=small",
+  "nonspecific_tag=textures",
+  "release_date=1997-04-11",
   "startmap=off",
-  "tag=armagon",
-  "tag=boss",
-  "tag=hipnotic",
-  "tag=small",
-  "tag=soa",
-  "tag=textures",
-  "tag=traps",
-  "title=Offspring"
+  "theme=boss",
+  "theme=dissolution of eternity",
+  "theme=scourge of armagon",
+  "theme=traps",
+  "title=Offspring",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/offspring.zip",

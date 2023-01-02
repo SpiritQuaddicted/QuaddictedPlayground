@@ -1,41 +1,45 @@
 {
- "filename": [
-  "combat.zip"
- ],
+ "bytes": 817,
  "files": {
   "Quake Combat School.txt": {
-   "size": 6238,
+   "bytes": 6238,
+   "sha256": "c245115ea7bdc6c53520f21868f119d487e56844eed9c08cb94542d9b2a6e37b",
    "timestamp": "1997-03-01T00:57:48.000Z"
   },
   "qcs.bsp": {
-   "size": 1159576,
+   "bytes": 1159576,
+   "sha256": "aa5e1263a277ea09f6b85cdf82ce9b369e0c7e9e5c1fd72405e8b2c05ff119f0",
    "timestamp": "1997-03-01T00:05:48.000Z"
   },
   "qcs2.bsp": {
-   "size": 736196,
+   "bytes": 736196,
+   "sha256": "971c4b3f76a9907326c679f6b9e73c0427b7820409bb72c1167b2d91b3edb8bf",
    "timestamp": "1997-02-28T23:25:22.000Z"
   }
  },
- "filesize": 817,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "611e7978b372a400724d3b5eee7005e6334a49d9674a3f47f83e053c633ea635",
  "tags": [
   "author=Ace",
+  "filename=combat.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsc.htm#combat)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/p_r.htm)",
-  "releasedate=1997-03-01",
+  "map_layout=arena",
+  "map_size=small",
+  "nonspecific_tag=roger-staines",
+  "release_date=1997-03-01",
   "startmap=qcs",
-  "tag=arena",
-  "tag=base",
-  "tag=metal",
-  "tag=mixtex",
-  "tag=small",
-  "tag=wizard",
-  "title=Quake Combat School"
+  "theme=base",
+  "theme=metal",
+  "theme=mixtex",
+  "theme=wizard",
+  "title=Quake Combat School",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/combat.zip",

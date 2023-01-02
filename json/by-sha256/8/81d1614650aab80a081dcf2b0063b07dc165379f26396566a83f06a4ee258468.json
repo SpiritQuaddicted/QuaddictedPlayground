@@ -1,47 +1,53 @@
 {
- "filename": [
-  "hub.zip"
- ],
+ "bytes": 1044,
  "files": {
   "HUB.bsp": {
-   "size": 1359008,
+   "bytes": 1359008,
+   "sha256": "c21735d70f0d66acb13e9cba6373b44b5b28e62097067d395bef88e8a9bbb124",
    "timestamp": "1997-07-31T03:58:34.000Z"
   },
   "HUBSKILL.bsp": {
-   "size": 393128,
+   "bytes": 393128,
+   "sha256": "00018a48df81b35616043de69bcb9c7d786c15e85238cc4c7742c650ae73de02",
    "timestamp": "1997-07-31T00:33:10.000Z"
   },
   "hub.dmm": {
-   "size": 468000,
+   "bytes": 468000,
+   "sha256": "38bdf8603c0d06846b00d7184770cbf0cbfa68cd4251b581e708058615380c69",
    "timestamp": "1997-07-31T01:38:32.000Z"
   },
   "hub.txt": {
-   "size": 2348,
+   "bytes": 2348,
+   "sha256": "a514c1bbf736a4038c1c593727d4a58a364f5b43e8444a1f74cb36f61f130134",
    "timestamp": "1997-07-31T00:49:20.000Z"
   },
   "hubskill.dmm": {
-   "size": 66258,
+   "bytes": 66258,
+   "sha256": "67531d919d20dc63f7361cf159168cb226e0c109964312a9e4bb0e0bcda49add",
    "timestamp": "1997-07-31T00:32:20.000Z"
   }
  },
- "filesize": 1044,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "81d1614650aab80a081dcf2b0063b07dc165379f26396566a83f06a4ee258468",
  "tags": [
   "author=Richard Neff",
+  "filename=hub.zip",
   "game=quake",
-  "releasedate=1997-07-31",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.net-tech-group.com/quake2/quake1.htm",
+  "map_size=medium",
+  "nonspecific_tag=start",
+  "release_date=1997-07-31",
+  "source=included",
   "startmap=hubskill",
-  "tag=castle",
-  "tag=medium",
-  "tag=metal",
-  "tag=source",
-  "tag=start",
-  "tag=wizard",
-  "title=The Hub"
+  "theme=castle",
+  "theme=metal",
+  "theme=wizard",
+  "title=The Hub",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hub.zip",

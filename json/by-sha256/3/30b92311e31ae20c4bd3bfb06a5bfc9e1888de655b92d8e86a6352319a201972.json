@@ -1,30 +1,205 @@
 {
- "filename": [
-  "quoth2pt2patch.zip"
- ],
+ "bytes": 2777,
  "files": {
   "launch.bat": {
-   "size": 6927,
+   "bytes": 6927,
+   "sha256": "92cfd5f74e2b2455d754cf2b91f4dac54eeefd82de11a6744efa69d71fd3e9f6",
    "timestamp": "2014-05-03T11:23:28.000Z"
   },
   "pak2.pak": {
-   "size": 8021749,
+   "bytes": 8021749,
+   "files": {
+    "base.dem": {
+     "bytes": 1166121,
+     "sha256": "f861f97f1575aa21efb675f8477fe96313f2ceec270273044fc34bdb8277c098"
+    },
+    "default.cfg": {
+     "bytes": 2025,
+     "sha256": "3227f12ce7edbb4235d5b8b4d3f69206a9b8fd8715f939ca0601325e52ea15a4"
+    },
+    "gfx/env/moonbk.tga": {
+     "bytes": 440145,
+     "sha256": "215264c71fcfdcda4fd9470adb3b1e1e803cd5af1d8df035c3244646dbfeac2f"
+    },
+    "gfx/env/moondn.tga": {
+     "bytes": 603,
+     "sha256": "4a83e798c3d0637f03b1effe28df9998bf249831b3dccecef074ff5cd8b631df"
+    },
+    "gfx/env/moonft.tga": {
+     "bytes": 410588,
+     "sha256": "4fbbdf05866d78de6ab4bfc9867227007fc87073cc96678e0c08bbc6d9717ce5"
+    },
+    "gfx/env/moonlf.tga": {
+     "bytes": 421955,
+     "sha256": "ea304d8972653bd38c0aee88e6dd434d719360c423344d16b5db9c398af260d7"
+    },
+    "gfx/env/moonrt.tga": {
+     "bytes": 453367,
+     "sha256": "8ee2a2b97267326d4831d96c879c6238a63c485fc8865d91503adb6d7da878bd"
+    },
+    "gfx/env/moonup.tga": {
+     "bytes": 1335652,
+     "sha256": "91e764d1d7780818e58f1c30d7c8825df2adbf17c7da630acfa3dd70b29d27db"
+    },
+    "gfx/help0.lmp": {
+     "bytes": 64008,
+     "sha256": "faa7c77704959d1ad9bb5280449b22e8c4b9425fc628b4f2037900c49e73fc9e"
+    },
+    "optout.cfg": {
+     "bytes": 1564,
+     "sha256": "51efd87218e766df5c8b5c643ccabcecacfa855ee60deaf8dde8420a02c157c8"
+    },
+    "progs.dat": {
+     "bytes": 723936,
+     "sha256": "940b86822b2ff00d4488839e61de516fbc381f1ac19d132356b1c00d3ee4bcf9"
+    },
+    "progs/bolt3.mdl": {
+     "bytes": 15772,
+     "sha256": "6fabed3901bab1b145e418300d333c30016070e57ede07476884283a5ef7e380"
+    },
+    "progs/box_l.bsp": {
+     "bytes": 21639,
+     "sha256": "9a20404c31446ffc497113892dc293b0e59c6bb2cd9ab4a1f0bee11cc1f61a5c"
+    },
+    "progs/box_s.bsp": {
+     "bytes": 21541,
+     "sha256": "47b3f0a947272241184b9f65aa46d694fdd8facb8a9a36509d6f11f844f3917f"
+    },
+    "progs/c_ham.mdl": {
+     "bytes": 76800,
+     "sha256": "6bdd3e6b4c8253e6aeb6e293093b88fe6b3a9254135d285c8574acb6be9de9e1"
+    },
+    "progs/c_lance.mdl": {
+     "bytes": 44164,
+     "sha256": "6925fa7f462edb6c863bef65dcbe7d5c69544454c6fc1435a98c2890b08cc757"
+    },
+    "progs/c_light.mdl": {
+     "bytes": 76388,
+     "sha256": "9f0cdcc8e56d0614e058a3e922f3f64b0de33ab2ba6fe390c4154a3cbeceff5b"
+    },
+    "progs/c_nail.mdl": {
+     "bytes": 45336,
+     "sha256": "afe38a23bd9d6ec01a386047c3030f95732a986211eb0c6aafa83e12eb300a53"
+    },
+    "progs/c_nail2.mdl": {
+     "bytes": 81136,
+     "sha256": "c2e9e328af078538722ba4894801b5e4c5334a4629faff83b11510aa0a987b21"
+    },
+    "progs/c_rock.mdl": {
+     "bytes": 74404,
+     "sha256": "058de704ba8b0c2a47c2b83fd1b767a8220b9af87460bf114b14528db57ce096"
+    },
+    "progs/c_rock2.mdl": {
+     "bytes": 73544,
+     "sha256": "c922fdbfcd8175d196cc16f2134c8d9852c788ca76c198337aa71bf0bfde5e56"
+    },
+    "progs/c_shot2.mdl": {
+     "bytes": 42636,
+     "sha256": "02226bf370133fb1c4479c56a9a3c544cb89a0e87ba4cabe3247f9ddc9994b9a"
+    },
+    "progs/dspike.mdl": {
+     "bytes": 25324,
+     "sha256": "c2c89f690e21e34bee37db5011493f3457240e22fcaa3cdcdf04ef4bf9f44ae1"
+    },
+    "progs/gib.mdl": {
+     "bytes": 41984,
+     "sha256": "61e67473a09faa15e0624fc96224c484315e2eca8904492abe75d29f19ea1159"
+    },
+    "progs/grenade.mdl": {
+     "bytes": 51272,
+     "sha256": "0244bf38ec29f251b425bc1cc4f1a0e003316b3699c869cea38ec553e1f96acc"
+    },
+    "progs/h_zombie.mdl": {
+     "bytes": 7656,
+     "sha256": "d45e10e4002fb17b2a1aa4077d1d4e599babd5083c0f7da914f8e98b61cb2537"
+    },
+    "progs/polyp.mdl": {
+     "bytes": 343144,
+     "sha256": "a135ee3b29dd230d06babc0e80c691b35e33599a48eb152d2c2c4902d424d4ec"
+    },
+    "progs/s_vp_pll.spr": {
+     "bytes": 272700,
+     "sha256": "024935ca88793c432ac5d6c6f52a51cb82638c86e9c27cac8d87e926673012db"
+    },
+    "progs/slime.mdl": {
+     "bytes": 25976,
+     "sha256": "53b07ceca49f5c637dc5bbe1cf1393db74e3d057624039efb8d7fd2341b5466a"
+    },
+    "progs/spike.mdl": {
+     "bytes": 3128,
+     "sha256": "aa9165056656a1d0810d741c91e5e14b1aebf3020a95ebc0dc1f48a3a1243074"
+    },
+    "progs/waterfall.mdl": {
+     "bytes": 43588,
+     "sha256": "c4bf6157c6f3a580a6cc7a76c8d5ea6a9af00f9c53b0615bf47b6574dc5bd54c"
+    },
+    "progs/zombie.mdl": {
+     "bytes": 845237,
+     "sha256": "ee9db9fb4e224227574067dffb1b9c49af5b9536f8cea0527282d851aab81e73"
+    },
+    "quake.rc": {
+     "bytes": 1248,
+     "sha256": "dac6aec78b770451be757493c744ffd4a3ef9fb64be379044d1de57936a746be"
+    },
+    "sound/ambience/grinder.wav": {
+     "bytes": 264572,
+     "sha256": "70789db5c6e505292dd6031241aff19bd7b327677033cac5f98c1dcfeed5c6db"
+    },
+    "sound/ambience/teeth.wav": {
+     "bytes": 51600,
+     "sha256": "9649cc3a15c66b851da286bfbfe085196e851a9a493c299b03d9874dc04431e4"
+    },
+    "sound/doors/er_stop.wav": {
+     "bytes": 51846,
+     "sha256": "f674272aa55db0cb05651c5edfa76422370d138c44789b179bc6e943a22f0d28"
+    },
+    "sound/doors/er_strt.wav": {
+     "bytes": 99372,
+     "sha256": "afb23446ab200aa3bd540bc1ac517713dbf2d7fc099283254f7b8a4480a90092"
+    },
+    "sound/doors/ir_stop.wav": {
+     "bytes": 81054,
+     "sha256": "c5ae31d19bb638cd61771f365beca5998d5795ff035929863a19148d39907904"
+    },
+    "sound/doors/ir_strt.wav": {
+     "bytes": 86616,
+     "sha256": "8e2767cf7d483ab898c7eb561834b0a7af90669976499dfe42c8f7e09560aeb9"
+    },
+    "sound/misc/quake.wav": {
+     "bytes": 34286,
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266"
+    },
+    "sound/misc/quakeend.wav": {
+     "bytes": 8160,
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01"
+    },
+    "sound/misc/wfend.wav": {
+     "bytes": 9060,
+     "sha256": "1d8381b51b40e54a47ee76a9115b95a49285fc59385ff20b941b0fc8b7cd16b7"
+    },
+    "sound/misc/wfstart.wav": {
+     "bytes": 77838,
+     "sha256": "c85b517926832c1a7ef3a04de2995a7bd58a161620b4341a3f57d556c50d7ea0"
+    }
+   },
+   "sha256": "be17936386a4f842d59cb8f509348acce924e6da64ec4b999f7079cdca9cbd83",
    "timestamp": "2014-05-03T11:24:10.000Z"
   },
   "quoth.cfg": {
-   "size": 321,
+   "bytes": 321,
+   "sha256": "85c8ff594b6c024dead6c907e403613b0680763c53b524d293f366ac17c8d2a1",
    "timestamp": "2013-11-11T23:22:18.000Z"
   },
   "quoth2_2.txt": {
-   "size": 2417,
+   "bytes": 2417,
+   "sha256": "3a3cbb20b40865815195bc6f00fe9a86c318504596d2f5c269e6733b5f877a76",
    "timestamp": "2014-05-04T02:05:10.000Z"
   }
  },
- "filesize": 2777,
  "install": {
-  "extract": "{quake}/quoth/"
+  "extract": "{base}/quoth/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "30b92311e31ae20c4bd3bfb06a5bfc9e1888de655b92d8e86a6352319a201972",
  "tags": [
   "author=Kell",
@@ -32,10 +207,14 @@
   "author=necros",
   "commandline=-game quoth -quoth",
   "dependency=quoth",
+  "filename=quoth2pt2patch.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://tomeofpreach.wordpress.com/quoth/",
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61017)",
-  "releasedate=2014-05-04",
-  "title=[NUKED]"
+  "release_date=2014-05-04",
+  "title=[NUKED]",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2patch.zip",

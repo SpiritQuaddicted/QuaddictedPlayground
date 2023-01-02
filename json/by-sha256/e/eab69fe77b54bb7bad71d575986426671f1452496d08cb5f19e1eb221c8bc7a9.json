@@ -1,62 +1,71 @@
 {
- "filename": [
-  "sm142_pack.zip"
- ],
+ "bytes": 929,
  "files": {
   "sm142_bam.bsp": {
-   "size": 171376,
+   "bytes": 171376,
+   "sha256": "a7b4e5e99fcc12304bcdcbdcd3986ce21743f2eacfe734c6e72b5246c5a273c6",
    "timestamp": "2008-05-23T02:12:56.000Z"
   },
   "sm142_bam.map": {
-   "size": 99278,
+   "bytes": 99278,
+   "sha256": "ef418e6a1556737db028c82b368acc136e34fc67096df5bb1adc2f088f997285",
    "timestamp": "2008-05-23T02:12:44.000Z"
   },
   "sm142_bam2.bsp": {
-   "size": 382864,
+   "bytes": 382864,
+   "sha256": "32c30bd9c252fecc7f5f6e8381504021c22299c805eb790f908a30a6fb06463e",
    "timestamp": "2008-06-02T02:22:10.000Z"
   },
   "sm142_bam2.map": {
-   "size": 107925,
+   "bytes": 107925,
+   "sha256": "2980112460179da065cdcfba6dd278fdbce635b7a05087430d07ad8c103ed870",
    "timestamp": "2008-06-02T02:22:02.000Z"
   },
   "sm142_negke.bsp": {
-   "size": 356932,
+   "bytes": 356932,
+   "sha256": "d3711aad594c0d288e5f936e2e67de525244f6537c1bbd78b27bb8ca980a6743",
    "timestamp": "2008-06-01T19:40:52.000Z"
   },
   "sm142_pack.txt": {
-   "size": 1614,
+   "bytes": 1614,
+   "sha256": "31e3874dfdabec6f1d8357a1ee6ae7ab906443cddb5e7b94a6e1d6365ea41733",
    "timestamp": "2008-06-02T09:40:08.000Z"
   },
   "sm142_spd.bsp": {
-   "size": 165340,
+   "bytes": 165340,
+   "sha256": "521d57ffd55355f9d89d8d21abc83b99719bb9438c0447503c7025f4e670c5a9",
    "timestamp": "2008-05-26T00:14:18.000Z"
   },
   "sm142_spd2.bsp": {
-   "size": 594533,
+   "bytes": 594533,
+   "sha256": "1dd67da62f7291d0edba1af155bc894bd468fb5b532a760c8e28c486c2dfa4ff",
    "timestamp": "2008-06-02T04:49:46.000Z"
   },
   "sm142_spd2.txt": {
-   "size": 105,
+   "bytes": 105,
+   "sha256": "d2c0c39c47ec8b8cafa334465aeac189857d6a233356e7dd052e5b5a18f826a0",
    "timestamp": "2008-06-02T00:11:06.000Z"
   },
   "sm142_spirit.bsp": {
-   "size": 278276,
+   "bytes": 278276,
+   "sha256": "9e94a8c538fc44592905975b7b7339e697eaf05c07647b150996548e615920b9",
    "timestamp": "2008-05-31T19:52:02.000Z"
   },
   "sm142_spirit.map": {
-   "size": 92625,
+   "bytes": 92625,
+   "sha256": "95afdc9afe64b481f87b273b212e94bff59caa023603a620c2c9be501b0e30a7",
    "timestamp": "2008-05-31T19:51:58.000Z"
   },
   "sm142_zwiffle.bsp": {
-   "size": 347932,
+   "bytes": 347932,
+   "sha256": "e4453dc1e27458c07a612693c1ffb84e541f6aba72a1a6614983c00e7b455bcb",
    "timestamp": "2008-06-01T19:04:18.000Z"
   }
  },
- "filesize": 929,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "eab69fe77b54bb7bad71d575986426671f1452496d08cb5f19e1eb221c8bc7a9",
  "tags": [
   "author=Speedy",
@@ -64,8 +73,10 @@
   "author=Zwiffle",
   "author=bambuz",
   "author=negke",
+  "filename=sm142_pack.zip",
   "game=quake",
-  "releasedate=2008-06-02",
+  "game_mode=singleplayer",
+  "release_date=2008-06-02",
   "startmap=sm142_bam",
   "startmap=sm142_bam2",
   "startmap=sm142_negke",
@@ -73,8 +84,9 @@
   "startmap=sm142_spd2",
   "startmap=sm142_spirit",
   "startmap=sm142_zwiffle",
-  "tag=spd",
-  "title=Speedmapping pack 142 - Netherworld assembly line"
+  "theme=spd",
+  "title=Speedmapping pack 142 - Netherworld assembly line",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm142_pack.zip",

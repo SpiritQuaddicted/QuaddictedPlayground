@@ -1,40 +1,43 @@
 {
- "filename": [
-  "jjspq2.zip"
- ],
+ "bytes": 410,
  "files": {
   "JJSPQ2.bsp": {
-   "size": 1024520,
+   "bytes": 1024520,
+   "sha256": "8cb7605df13ceff4ecee54f7b1c815a4855aa239cbd03193a0b74c00a02c4f84",
    "timestamp": "1999-12-19T02:32:10.000Z"
   },
   "jjspq2.txt": {
-   "size": 5402,
+   "bytes": 5402,
+   "sha256": "bb7d58f416bfdbeefca6fb42e2d7952db47b4d60111a3b686dbf11392a263da6",
    "timestamp": "1999-12-19T20:28:08.000Z"
   }
  },
- "filesize": 410,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "89a405335b5654142bcf1b402f4f22bd8a487ae8d9a93fbcccd3cda6c5ce82fe",
  "tags": [
   "author=Vigil",
+  "filename=jjspq2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://vigil.quaddicted.com",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/02-dec-1999/jjspq2.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev991220.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=unseen)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1999-12-19",
-  "tag=dapak style",
-  "tag=medium",
-  "tag=mixtex",
-  "tag=outdoor",
-  "tag=planetquake-map-of-the-week",
-  "tag=space map",
-  "tag=stone",
-  "title=Unseen Assailant"
+  "map_size=medium",
+  "nonspecific_tag=dapak style",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-12-19",
+  "theme=mixtex",
+  "theme=outdoor",
+  "theme=space",
+  "theme=stone",
+  "title=Unseen Assailant",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jjspq2.zip",

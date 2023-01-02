@@ -1,36 +1,39 @@
 {
- "filename": [
-  "noturn.zip"
- ],
+ "bytes": 358,
  "files": {
   "noturn.bsp": {
-   "size": 808048,
+   "bytes": 808048,
+   "sha256": "4860cc165b6ce0d20b028613d092b030da423cb6ff93c49b33ea6985dd043516",
    "timestamp": "1998-01-15T22:06:50.000Z"
   },
   "noturn.qed": {
-   "size": 341098,
+   "bytes": 341098,
+   "sha256": "eb22a65036891f8299681d9ada541cabb6ffbbce127261842e845caf96ad0843",
    "timestamp": "1998-01-15T22:01:16.000Z"
   },
   "noturn.txt": {
-   "size": 221,
+   "bytes": 221,
+   "sha256": "c17eea7073d46ac4e629b54f742d6a69fb111a1ee4096039631e49bb3bc1fa2d",
    "timestamp": "1998-01-15T22:13:06.000Z"
   }
  },
- "filesize": 358,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "bbab99a3e4af05e96f47f6a8a124abf99de724d916d1a0e5c0385febb8e65379",
  "tags": [
   "author=Geoffrey Overdorff",
+  "filename=noturn.zip",
   "game=quake",
-  "releasedate=1998-01-15",
-  "tag=base",
-  "tag=hard",
-  "tag=metal",
-  "tag=ugly",
-  "title=No Turning Back"
+  "game_mode=singleplayer",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=ugly",
+  "release_date=1998-01-15",
+  "theme=base",
+  "theme=metal",
+  "title=No Turning Back",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/noturn.zip",

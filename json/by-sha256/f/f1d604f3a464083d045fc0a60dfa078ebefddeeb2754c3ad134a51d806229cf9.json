@@ -1,33 +1,35 @@
 {
- "filename": [
-  "dotd4.zip"
- ],
+ "bytes": 729,
  "files": {
   "DOTD4.bsp": {
-   "size": 1714616,
+   "bytes": 1714616,
+   "sha256": "3b95fb8abd6485bf49051075d35be340ac2479cb6999b3f82f80df1faed4216f",
    "timestamp": "1999-12-08T18:38:34.000Z"
   },
   "dotd4.txt": {
-   "size": 1961,
+   "bytes": 1961,
+   "sha256": "c2dd3a207a19e8252f8750eef6a174549b79307430ec0eb47c225a1892321702",
    "timestamp": "1999-12-04T12:12:00.000Z"
   }
  },
- "filesize": 729,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "f1d604f3a464083d045fc0a60dfa078ebefddeeb2754c3ad134a51d806229cf9",
  "tags": [
   "author=Thehuge",
+  "filename=dotd4.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/02-dec-1999/dawn.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev991207.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1999-12-04",
-  "tag=base",
-  "tag=large",
-  "title=Dawn of the Dead"
+  "map_size=large",
+  "release_date=1999-12-04",
+  "theme=base",
+  "title=Dawn of the Dead",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dotd4.zip",

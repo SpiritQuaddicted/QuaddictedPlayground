@@ -1,29 +1,31 @@
 {
- "filename": [
-  "heresp3.zip"
- ],
+ "bytes": 1039,
  "files": {
   "heresp3.bsp": {
-   "size": 2651028,
+   "bytes": 2651028,
+   "sha256": "61a5308c258fefa27751d255a4dae41eb99fff946ddb278b7e2c74a70c283077",
    "timestamp": "2005-07-17T10:23:18.000Z"
   }
  },
- "filesize": 1039,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "155f89dd095392d26e2d0007debebbb238def6a18ecc4ce5109c45de976a0905",
  "tags": [
   "author=Here",
+  "filename=heresp3.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://here.planetquake.gamespy.com/",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev050902.html#2ndreview)",
-  "releasedate=2005-07-17",
-  "tag=catacombs",
-  "tag=medieval",
-  "tag=small",
-  "tag=textures",
-  "title=The Castle of Pain"
+  "map_size=small",
+  "nonspecific_tag=catacombs",
+  "nonspecific_tag=textures",
+  "release_date=2005-07-17",
+  "theme=medieval",
+  "title=The Castle of Pain",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/heresp3.zip",

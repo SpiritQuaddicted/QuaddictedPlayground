@@ -1,36 +1,42 @@
 {
- "filename": [
-  "perssp2.zip"
- ],
+ "bytes": 780,
  "files": {
   "PERSSP2.BSP": {
-   "size": 2081952,
+   "bytes": 2081952,
+   "sha256": "b5577cea9b91435e1345897c748779b06f26577f8941ee4c835669aede7c884b",
    "timestamp": "2001-02-27T12:52:26.000Z"
   },
   "PERSSP2.TXT": {
-   "size": 5665,
+   "bytes": 5665,
+   "sha256": "a62d701780adeecd664dd89cbf274964203b063a53cbdb515f6a847c4cd74197",
    "timestamp": "2001-02-27T12:33:28.000Z"
   }
  },
- "filesize": 780,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "88189149ec9b35054858f22b56657bbcd8f770f98b36726f05d87c881203a584",
  "tags": [
   "author=Fern (aka Fr3n)",
+  "filename=perssp2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.suspenlute.com/",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/16-feb-2001/perssp2.php)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=119)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev010123.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=2001-02-27",
-  "tag=egyptian",
-  "tag=hard",
-  "tag=small",
-  "tag=temple",
-  "title=Return to Dust"
+  "map_size=small",
+  "nonspecific_tag=difficult",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=textures",
+  "release_date=2001-02-27",
+  "theme=egyptian",
+  "theme=temple",
+  "theme=traps",
+  "title=Return to Dust",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/perssp2.zip",

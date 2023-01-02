@@ -1,47 +1,52 @@
 {
- "filename": [
-  "sm12_pack.zip"
- ],
+ "bytes": 487,
  "files": {
   "sm12_aard.bsp": {
-   "size": 249988,
+   "bytes": 249988,
+   "sha256": "15eb89f5b17ef9820e79f5bd52208479e86c59c3784fafd90625278a17a157f0",
    "timestamp": "2001-05-06T00:21:40.000Z"
   },
   "sm12_bear.bsp": {
-   "size": 557820,
+   "bytes": 557820,
+   "sha256": "1b52785176ee76d6ba4995677dbe8aa1d266f998f2941ebb39c4e848b7694c01",
    "timestamp": "2001-05-05T23:05:10.000Z"
   },
   "sm12_pack.txt": {
-   "size": 2163,
+   "bytes": 2163,
+   "sha256": "928f9d454e9723092b6c2d58e65129febd48135ccf58680c07cb374de3656332",
    "timestamp": "2001-05-06T20:57:08.000Z"
   },
   "sm12_ray.bsp": {
-   "size": 305508,
+   "bytes": 305508,
+   "sha256": "2974bf14f51806d665968e257b4596f56d370fd2c71aeb97c45263ea4114fe02",
    "timestamp": "2001-05-05T23:03:54.000Z"
   },
   "sm12_scampie.bsp": {
-   "size": 252944,
+   "bytes": 252944,
+   "sha256": "8e60e5c5f41f93db797de2af41f026aff2b9c392e8a90f7efd68a691be44a61c",
    "timestamp": "2001-05-05T16:19:24.000Z"
   }
  },
- "filesize": 487,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1f9c672005d74851c7f78791c11b97d50003bf63a593855cba0a8b79c6ad9979",
  "tags": [
   "author=Aardappel",
   "author=Cybear",
   "author=NotoriousRay",
   "author=Scampie",
+  "filename=sm12_pack.zip",
   "game=quake",
-  "releasedate=2001-05-06",
+  "game_mode=singleplayer",
+  "release_date=2001-05-06",
   "startmap=sm12_aard",
   "startmap=sm12_bear",
   "startmap=sm12_ray",
   "startmap=sm12_scampie",
-  "title=Speedmapping pack 12 - Unthemed"
+  "title=Speedmapping pack 12 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm12_pack.zip",

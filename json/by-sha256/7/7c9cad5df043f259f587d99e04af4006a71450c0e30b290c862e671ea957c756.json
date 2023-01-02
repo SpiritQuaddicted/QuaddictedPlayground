@@ -1,30 +1,58 @@
 {
- "filename": [
-  "level5.zip"
- ],
+ "bytes": 1183,
  "files": {
   "pak0.pak": {
-   "size": 3056185,
+   "bytes": 3056185,
+   "files": {
+    "demo1.dem": {
+     "bytes": 130932,
+     "sha256": "a204b73e25a922e4fbf6dc52e465f3042ab633e5460ef489903fb14ce9d195be"
+    },
+    "demo2.dem": {
+     "bytes": 198207,
+     "sha256": "052dd2509bcb1ee6da472c3cc3a09e69c31efd2917a0553b378dfd741396ec6f"
+    },
+    "maps/level5.bsp": {
+     "bytes": 1836152,
+     "sha256": "1923d9bb2dea3e8b27bbd9f6f055eae2d50e8939deaef4f60116831445ac8423"
+    },
+    "maps/start.bsp": {
+     "bytes": 472592,
+     "sha256": "c6b90f8be173fdc117a935cd05ef483a173f3a0966dc32c357e6d5c1041f55d5"
+    },
+    "progs.dat": {
+     "bytes": 417608,
+     "sha256": "17e49a869f754d237669cfdae6aa3675e77d76886ec3ca654d40efcb1cda25ce"
+    },
+    "quake.rc": {
+     "bytes": 298,
+     "sha256": "a33d6bc621bbf8a9350e5bbed78ed3d9a9ab471c38ebbfd9f926ec4ef5b7101a"
+    }
+   },
+   "sha256": "59fa7273df4000fab1e74b72ab1313173f05a3057f54f205bc7ab57c9c86c97e",
    "timestamp": "1998-05-19T08:42:46.000Z"
   },
   "readme.txt": {
-   "size": 2006,
+   "bytes": 2006,
+   "sha256": "904a4ed1680fd274a6905114a8a70d51e6171aff7cecb3b004977d69f4c7af16",
    "timestamp": "1998-05-19T17:18:10.000Z"
   }
  },
- "filesize": 1183,
  "install": {
-  "extract": "{quake}/level5/"
+  "extract": "{base}/level5/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7c9cad5df043f259f587d99e04af4006a71450c0e30b290c862e671ea957c756",
  "tags": [
   "author=Kevin Rogers",
+  "filename=level5.zip",
   "game=quake",
-  "releasedate=1998-05-19",
-  "tag=base",
-  "tag=large",
-  "title=The 5th Level"
+  "game_mode=singleplayer",
+  "map_size=large",
+  "release_date=1998-05-19",
+  "theme=base",
+  "title=The 5th Level",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/level5.zip",

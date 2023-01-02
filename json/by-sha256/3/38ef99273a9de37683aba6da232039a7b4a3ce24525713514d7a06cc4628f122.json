@@ -1,37 +1,39 @@
 {
- "filename": [
-  "metro.zip"
- ],
+ "bytes": 866,
  "files": {
   "Metro.bsp": {
-   "size": 2063660,
+   "bytes": 2063660,
+   "sha256": "f082cb02aed6e2b20a9e7e22c3872411804bd13767df1a6ba1a76fbf78ff7add",
    "timestamp": "1997-07-15T05:40:56.000Z"
   },
   "metro.txt": {
-   "size": 3591,
+   "bytes": 3591,
+   "sha256": "ede831aeb5f0bd73284cb860eca36b8a91fd541c03d6eb1c3c181ce03585f7b4",
    "timestamp": "1997-07-28T07:57:22.000Z"
   }
  },
- "filesize": 866,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "38ef99273a9de37683aba6da232039a7b4a3ce24525713514d7a06cc4628f122",
  "tags": [
   "author=Chris Mayers",
+  "filename=metro.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsm1.htm)",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east13b.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/g_i.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-07-28",
-  "tag=bricks",
-  "tag=medium",
-  "tag=realism",
-  "tag=textures",
-  "title=Hive, part II"
+  "map_size=medium",
+  "nonspecific_tag=textures",
+  "release_date=1997-07-28",
+  "theme=bricks",
+  "theme=realism",
+  "title=Hive, part II",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/metro.zip",

@@ -1,50 +1,60 @@
 {
- "filename": [
-  "village.zip"
- ],
+ "bytes": 555,
  "files": {
   "Pak0.pak": {
-   "size": 17496,
+   "bytes": 17496,
+   "files": {
+    "maps/b_explob.bsp": {
+     "bytes": 17420,
+     "sha256": "1b7afa62fa1e6e51bb8f4e6e185532a70983e78cd3a0c53305ec1d8ea710cfc2"
+    }
+   },
+   "sha256": "2b093f835a5d9b516b438b6a5ae4cee0f2ceed46d4ef842c3b267f040b9f1596",
    "timestamp": "1996-12-29T16:45:24.000Z"
   },
   "VILLAGE.bsp": {
-   "size": 1274776,
+   "bytes": 1274776,
+   "sha256": "03fd8dd9ee8fe6d716bcf61e6d5fc593455ec5eeeeb4663672f7ea8a7e072c81",
    "timestamp": "1996-12-29T18:53:20.000Z"
   },
   "Village.txt": {
-   "size": 3710,
+   "bytes": 3710,
+   "sha256": "f2c09c024ee25e96a0a33bcf692ca58e670959da9526df8e488fb8345409b8fe",
    "timestamp": "1996-12-30T10:11:12.000Z"
   },
   "village_quaddictedrepack.txt": {
-   "size": 319,
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
  },
- "filesize": 555,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8216cf9d57dfe38aaf2bf13a6347e21c724faa68a4d84eb3344cd15668ac592b",
  "tags": [
   "author=Steve Rescoe",
+  "filename=village.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsv-z.htm#village)",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/v_z.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Tronyn's Top 10: Medieval](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a2.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=1996-12-30",
-  "tag=medieval",
-  "tag=medium",
-  "tag=models",
-  "tag=planetquake-map-of-the-week",
-  "tag=realism",
-  "tag=textures",
-  "tag=town",
-  "tag=village",
-  "title=Village of Dread"
+  "map_size=medium",
+  "nonspecific_tag=models",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=textures",
+  "release_date=1996-12-30",
+  "theme=medieval",
+  "theme=realism",
+  "theme=town",
+  "theme=village",
+  "title=Village of Dread",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/village.zip",

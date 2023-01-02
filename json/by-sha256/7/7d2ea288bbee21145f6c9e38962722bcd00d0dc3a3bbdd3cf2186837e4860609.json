@@ -1,31 +1,33 @@
 {
- "filename": [
-  "temple.zip"
- ],
+ "bytes": 127,
  "files": {
   "TEMPLE.bsp": {
-   "size": 346892,
+   "bytes": 346892,
+   "sha256": "52057a29653ab84e492cd755996afc6373ab98c470013c3452d8f7e5f8864d02",
    "timestamp": "1997-09-06T16:30:06.000Z"
   },
   "temple.txt": {
-   "size": 1476,
+   "bytes": 1476,
+   "sha256": "00c1a2ad7848daf3fe78a31bcc104eeeeccafd5587ff8a5e244d99cde03678d0",
    "timestamp": "1997-09-06T17:04:00.000Z"
   }
  },
- "filesize": 127,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7d2ea288bbee21145f6c9e38962722bcd00d0dc3a3bbdd3cf2186837e4860609",
  "tags": [
   "author=HS Xsniper (Michael Rogers)",
+  "filename=temple.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelst.htm)",
-  "releasedate=1997-09-06",
-  "tag=mixtex",
-  "tag=small",
-  "title=The Temple Of Doom"
+  "map_size=small",
+  "release_date=1997-09-06",
+  "theme=mixtex",
+  "title=The Temple Of Doom",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/temple.zip",

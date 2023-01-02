@@ -1,46 +1,50 @@
 {
- "filename": [
-  "mce.zip"
- ],
+ "bytes": 2370,
  "files": {
   "mce.bsp": {
-   "size": 5396000,
+   "bytes": 5396000,
+   "sha256": "66c235da615c6b36d0d82183b4f5eca2f5d872e3a220ff38fcf0116c6bf8d51b",
    "timestamp": "2013-02-22T01:10:24.000Z"
   },
   "mce.map": {
-   "size": 3164460,
+   "bytes": 3164460,
+   "sha256": "d18b951fa5fc5b97920ea7cc6745f0b590ae2529ab8e1800a56d759891f48fc1",
    "timestamp": "2013-02-22T01:10:20.000Z"
   },
   "mce.txt": {
-   "size": 3546,
+   "bytes": 3546,
+   "sha256": "ecd403900b5f01d69a77cc033f4c96236b15392ae502aa72e90fd0649b7bca87",
    "timestamp": "2013-02-22T01:13:00.000Z"
   }
  },
- "filesize": 2370,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "53cb70901c7e10d72a05a427dea8b3c07c07d659294cf5f47ea4796422d4026a",
  "tags": [
   "author=negke",
+  "filename=mce.zip",
   "game=quake",
-  "releasedate=2013-02-22",
-  "tag=building",
-  "tag=escher",
-  "tag=experimental",
-  "tag=exploration",
-  "tag=hacks",
-  "tag=house",
-  "tag=medieval",
-  "tag=nonlinear",
-  "tag=puzzles",
-  "tag=rax",
-  "tag=realism",
-  "tag=small",
-  "tag=source",
-  "tag=unique",
-  "title=Ascending &amp; Descending"
+  "game_mode=singleplayer",
+  "link:homepage=http://negke.quaddicted.com",
+  "map_layout=non-linear",
+  "map_size=small",
+  "nonspecific_tag=building",
+  "nonspecific_tag=escher",
+  "nonspecific_tag=hacks",
+  "nonspecific_tag=rax",
+  "nonspecific_tag=unique",
+  "release_date=2013-02-22",
+  "source=included",
+  "theme=experimental",
+  "theme=exploration",
+  "theme=house",
+  "theme=medieval",
+  "theme=puzzles",
+  "theme=realism",
+  "title=Ascending &amp; Descending",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mce.zip",

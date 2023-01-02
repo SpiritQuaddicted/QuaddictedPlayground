@@ -1,49 +1,55 @@
 {
- "filename": [
-  "sm52_pack.zip"
- ],
+ "bytes": 513,
  "files": {
   "sm52_ewerd.bsp": {
-   "size": 85872,
+   "bytes": 85872,
+   "sha256": "b9c1897359d691b1d1e8b0c71df07646821bf93176cb1c034dd75848558899a9",
    "timestamp": "2003-10-04T18:08:58.000Z"
   },
   "sm52_necros.bsp": {
-   "size": 628736,
+   "bytes": 628736,
+   "sha256": "891e8beeb10bbb32c189875bc2448b9023afc14bd9e900518e64fb2268a3aa0b",
    "timestamp": "2003-10-04T18:33:10.000Z"
   },
   "sm52_necros.txt": {
-   "size": 2045,
+   "bytes": 2045,
+   "sha256": "39509c631fec2cc2d1939aafa3f719c742f00d151e910107fe665141544115ef",
    "timestamp": "2003-10-04T18:38:50.000Z"
   },
   "sm52_pack.txt": {
-   "size": 1665,
+   "bytes": 1665,
+   "sha256": "cd5f84c5fcc6bb1df24863655023821921ebb857d33525725ba453df973ff552",
    "timestamp": "2003-10-05T00:12:56.000Z"
   },
   "sm52_ray.bsp": {
-   "size": 383180,
+   "bytes": 383180,
+   "sha256": "5e2ea4a2d3b169a84957c9b74bed95c46208242692093b14171be7930bf58d75",
    "timestamp": "2003-10-04T19:03:16.000Z"
   },
   "sm52_starbuck.bsp": {
-   "size": 351496,
+   "bytes": 351496,
+   "sha256": "b84c130f562d91f985909d09f7e12ab9a7459e838d2b53af887a28bc2590036a",
    "timestamp": "2003-10-04T23:45:44.000Z"
   }
  },
- "filesize": 513,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8f7f7b32f9901d11a3904f50a883fa14dfcb6d8df1a0e64c16050b3136b494d2",
  "tags": [
   "author=E-werd",
   "author=NotoriousRay",
   "author=Starbuck",
   "author=necros",
+  "filename=sm52_pack.zip",
   "game=quake",
-  "releasedate=2003-10-05",
+  "game_mode=singleplayer",
+  "release_date=2003-10-05",
   "startmap=sm52_ewerd",
   "startmap=sm52_necros",
-  "title=Speedmapping pack 52 - Unthemed"
+  "title=Speedmapping pack 52 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm52_pack.zip",

@@ -1,34 +1,36 @@
 {
- "filename": [
-  "butcher.zip"
- ],
+ "bytes": 647,
  "files": {
   "BUTCHER.BSP": {
-   "size": 1486152,
+   "bytes": 1486152,
+   "sha256": "2b6944f752900407fde997ff51fbb6fd26ff80fc2cf2f04ef18982e113c12b66",
    "timestamp": "1997-01-10T18:22:24.000Z"
   },
   "BUTCHER.TXT": {
-   "size": 2763,
+   "bytes": 2763,
+   "sha256": "64b318b2b9c6ce5916977ad23654f9a88d22d6069527de90b628ffe9df1d4f67",
    "timestamp": "1997-01-10T22:42:34.000Z"
   }
  },
- "filesize": 647,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1b5e5ea93829e3ca7347ced65f7a88bcde8b40aa2d518e549606388c4f6502f0",
  "tags": [
   "author=Chris Williams",
+  "filename=butcher.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
-  "releasedate=1997-01-10",
-  "tag=base",
-  "tag=medium",
-  "tag=mixtex",
-  "tag=traps",
-  "tag=wizard",
-  "title=Butcher Base"
+  "map_size=medium",
+  "release_date=1997-01-10",
+  "theme=base",
+  "theme=mixtex",
+  "theme=traps",
+  "theme=wizard",
+  "title=Butcher Base",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/butcher.zip",

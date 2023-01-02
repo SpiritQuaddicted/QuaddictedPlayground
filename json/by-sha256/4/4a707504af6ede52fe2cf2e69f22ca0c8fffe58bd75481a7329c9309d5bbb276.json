@@ -1,35 +1,37 @@
 {
- "filename": [
-  "morbid_1.zip"
- ],
+ "bytes": 594,
  "files": {
   "Morbid_1.bsp": {
-   "size": 1427120,
+   "bytes": 1427120,
+   "sha256": "8b80604c81ffadc18a1c8d9e3a7e67d3925374bcf6f0ab301294348ad671deea",
    "timestamp": "1997-08-09T19:34:46.000Z"
   },
   "morbid_1.txt": {
-   "size": 5401,
+   "bytes": 5401,
+   "sha256": "f55b6bc8099c3fa789a5493ca73a6c3c9116b8a57a25d06d19ea0e30fb7d260c",
    "timestamp": "1997-08-11T15:43:28.000Z"
   }
  },
- "filesize": 594,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4a707504af6ede52fe2cf2e69f22ca0c8fffe58bd75481a7329c9309d5bbb276",
  "tags": [
   "author=Daniel Vogt (MoRbId)",
+  "filename=morbid_1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsm2.htm)",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east13i.htm)",
-  "releasedate=1997-08-11",
-  "tag=base",
-  "tag=doom",
-  "tag=medium",
-  "tag=metal",
-  "tag=tech",
-  "title=Morbidity: 1"
+  "map_size=medium",
+  "release_date=1997-08-11",
+  "theme=base",
+  "theme=doom",
+  "theme=metal",
+  "theme=tech",
+  "title=Morbidity: 1",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/morbid_1.zip",

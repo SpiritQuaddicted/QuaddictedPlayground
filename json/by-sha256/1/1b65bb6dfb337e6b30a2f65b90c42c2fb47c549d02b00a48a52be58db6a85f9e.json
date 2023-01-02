@@ -1,627 +1,778 @@
 {
- "filename": [
-  "n3sp02_13.zip"
- ],
+ "bytes": 7699,
  "files": {
   "Readme.txt": {
-   "size": 3721,
+   "bytes": 3721,
+   "sha256": "695a23b3f3487255c0abf58c052c8b37723d6533ff4646fafc9ca7e286f9fe31",
    "timestamp": "2001-07-26T14:06:46.000Z"
   },
   "autoexec.cfg": {
-   "size": 218,
+   "bytes": 218,
+   "sha256": "6cabf285db781f5deabe990af0381fa477acbab5cf2dcab438c0a91e719be633",
    "timestamp": "2001-07-23T22:03:18.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "maps/n3sp02.bsp": {
-   "size": 4390184,
+   "bytes": 4390184,
+   "sha256": "c85c2868df5b80af07bd8dda9f9b652525b39fe9377cdce49a3fe32472a3f54c",
    "timestamp": "2001-07-25T13:37:14.000Z"
   },
   "maps/n3sp02_2.bsp": {
-   "size": 1898456,
+   "bytes": 1898456,
+   "sha256": "d93c455fe9d4f91aaf3f8316018977ed3c8ac7645d9168655fb10da9bf0a4437",
    "timestamp": "2001-07-25T15:13:28.000Z"
   },
   "progs.dat": {
-   "size": 778652,
+   "bytes": 778652,
+   "sha256": "e7c94b161b7a1351ea463eff880b766344372450f8db6a2529de8025325f52b3",
    "timestamp": "2001-07-25T15:12:52.000Z"
   },
   "progs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:28.000Z"
   },
   "progs/H_bsham.mdl": {
-   "size": 37447,
+   "bytes": 37447,
+   "sha256": "28f210b7a891c8a430c39932700ae116331cb673f68a9f8963c663932bf583d5",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/Rubble1.mdl": {
-   "size": 68840,
+   "bytes": 68840,
+   "sha256": "c23df0bd2a092cc17342778ea66f1414d4b12eab59197e5a3e69c49946165973",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/Rubble2.mdl": {
-   "size": 200266,
+   "bytes": 200266,
+   "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/Rubble3.mdl": {
-   "size": 303080,
+   "bytes": 303080,
+   "sha256": "6075d85e87bd10b1729a5dd7d49d168ba902d2a1b2e07512d3b43e02c539684c",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/S_null.spr": {
-   "size": 1080,
+   "bytes": 1080,
+   "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/arrow.mdl": {
-   "size": 12161,
+   "bytes": 12161,
+   "sha256": "41339f3222ee6fc0cd85a58a7b2a6c4330e284ea39ecb7002d97927244c5250a",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/babysham.MDL": {
-   "size": 98556,
+   "bytes": 98556,
+   "sha256": "8e86cddcb2f52107ed6d39f7b16ef8c4d9cd90184387e078af2dea8a1f9439d2",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/beam.mdl": {
-   "size": 10608,
+   "bytes": 10608,
+   "sha256": "2165a66ba1d40fa378df735835b014791e769cb8bc56e06977aefdf134bb61d5",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/beamhit.spr": {
-   "size": 5320,
+   "bytes": 5320,
+   "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/bolt.MDL": {
-   "size": 1364,
+   "bytes": 1364,
+   "sha256": "eb7ed9439d34fcdc6c8a04a0bf57d344a75d208d65b8e3ab455ddda5965bf0b9",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/bs_light.mdl": {
-   "size": 28707,
+   "bytes": 28707,
+   "sha256": "6c646ab4291d12aecdad5d9af4c44f4d68fc207c730dbf3ac04e07103cdd2c12",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/buzzsaw.mdl": {
-   "size": 28716,
+   "bytes": 28716,
+   "sha256": "9b85232f930a7e34ef4cd1abfa266bcfa09b8da9e3f96f875d89e56ff702b403",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/camera.MDL": {
-   "size": 33528,
+   "bytes": 33528,
+   "sha256": "afbb9ddbbb0d9a7509a555289d2517bb94991f6a0c4d8f2b5cf508794485c82c",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/candle.mdl": {
-   "size": 21476,
+   "bytes": 21476,
+   "sha256": "f3193191ab17b7186f623ef26d1a1bc66c3db35ed7cc63cbce6f910ec1a601b5",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/dring.spr": {
-   "size": 5320,
+   "bytes": 5320,
+   "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/expl.spr": {
-   "size": 127672,
+   "bytes": 127672,
+   "sha256": "553b80901ee3d765c147ecce187a53989ded3991532e02f53c5b0cbb42aad5d4",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/g_beam.mdl": {
-   "size": 1268,
+   "bytes": 1268,
+   "sha256": "ea78e271945dc7116e2b2c33f1177ec4bb47bd368235024f78931e1ecac22098",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/holder.mdl": {
-   "size": 63784,
+   "bytes": 63784,
+   "sha256": "aaac3cf2af9824822a38621ec87a4ddd238ad995d686a666c40048d755b14bef",
    "timestamp": "2001-07-23T19:02:42.000Z"
   },
   "progs/holder2.mdl": {
-   "size": 230336,
+   "bytes": 230336,
+   "sha256": "3cc60120d531532607dfb712e34289ba43bc1b4b162f4c19c04d7db71f7e2e3f",
    "timestamp": "2001-07-23T19:02:42.000Z"
   },
   "progs/lantern.mdl": {
-   "size": 15092,
+   "bytes": 15092,
+   "sha256": "362ff3c50031d80b46a11c3d1902fe1cc3d442cd13b7db59f6d46c5655fc9351",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/lantern0.mdl": {
-   "size": 75816,
+   "bytes": 75816,
+   "sha256": "743cfe888265af813d4d75b961d9ab907fc94e0e20dbe4288e7f14635e61517a",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/lantern1.mdl": {
-   "size": 88040,
+   "bytes": 88040,
+   "sha256": "49197da97a7c660660ad3b292ef9da4f8bbb64f897d0c85953c41d4ff9fbea8b",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/pendulum.mdl": {
-   "size": 44128,
+   "bytes": 44128,
+   "sha256": "0970c838e4246a47d0b39395af03754a06dcb5878830233413e6fc893cf80599",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/tree2.spr": {
-   "size": 65592,
+   "bytes": 65592,
+   "sha256": "c5731dfebe0891c3b5a8819e83b6045ee96c87a5c3b1502bc15fb00d4b6e9a84",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "progs/tree2_0.tga": {
-   "size": 262188,
+   "bytes": 262188,
+   "sha256": "c9661d622243dc0d5ea46caeedc7b864bebcbefdb427335c187dfc7d389fde1d",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "progs/tree4.spr": {
-   "size": 65592,
+   "bytes": 65592,
+   "sha256": "eb6423b369a512f592d818a78a7231ff8434c947cb1eeaefb8d17e7132e6fef4",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/tree4_0.tga": {
-   "size": 262188,
+   "bytes": 262188,
+   "sha256": "1b92cc5a76aefbb5c8e763ee137240ebe91f4dc26c677e386076c712800e4685",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/tree5.spr": {
-   "size": 65592,
+   "bytes": 65592,
+   "sha256": "0223731792c5285755e06adf95e3b82766ac5ecb4fccf8478d85ff6e7a8862fd",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/tree5_0.tga": {
-   "size": 262188,
+   "bytes": 262188,
+   "sha256": "28f95d3ddecfe93e4c1a3158d2ab1e0f00f683cdd035c07fed78f907c8cd7046",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/trmd1.spr": {
-   "size": 65868,
+   "bytes": 65868,
+   "sha256": "908dcc6a21219086c48cd158a35bb0fa420ea5e7633098d2a4c121c92785fb23",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/trmd1_0.TGA": {
-   "size": 262188,
+   "bytes": 262188,
+   "sha256": "0be161837974bf6a6e28100cb081b0dff05cfdb657be0f846eda4d0c15b6221d",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/trmd2.spr": {
-   "size": 65868,
+   "bytes": 65868,
+   "sha256": "1ae84cdbe7ae15702822866b0648fae8e2e58832a5fcc75cc57e6d8667baba56",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/trmd2_0.TGA": {
-   "size": 262188,
+   "bytes": 262188,
+   "sha256": "4157ad63d5f95b795fe14df061be221195881aea0e72b297038cd676e91ee192",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/trmd5.spr": {
-   "size": 65868,
+   "bytes": 65868,
+   "sha256": "53094bc8ff0139072be51cd9d9c65c6b4a819e441bd3b733b85823e72aa77182",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/trmd5_0.TGA": {
-   "size": 262188,
+   "bytes": 262188,
+   "sha256": "1b4deeaa7a3bec048faf5fae1eaf97485028881203ec1fdfa6edec0312980e11",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "progs/v_beam.mdl": {
-   "size": 4132,
+   "bytes": 4132,
+   "sha256": "cc7b307848f98b189aa3220ab9f1bf3971dca65d5129d57c6ab29f7e7c4e823f",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "progs/v_beam2.MDL": {
-   "size": 1220,
+   "bytes": 1220,
+   "sha256": "cd4b147e6a7344da45bfe6cf615097fc4d3a41008a1772d5be0b074980f13187",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "scripts/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-25T20:10:38.000Z"
   },
   "scripts/textures.txt": {
-   "size": 993,
+   "bytes": 993,
+   "sha256": "a43b8ba4db4c591d34f136afd9bac90e23b66fadb7144e1251ad90d66fab7f9e",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "setup.cfg": {
-   "size": 245,
+   "bytes": 245,
+   "sha256": "a937ddc16525953ba992c68c5d1976116ea141b736e68c3aa1e4b895c9ac2b51",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "sound/ambience/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "sound/ambience/fire1.wav": {
-   "size": 54510,
+   "bytes": 54510,
+   "sha256": "b57275bb29f4f4b35670f3349f5c5f0ab1c755b55f8ef3a796fdc688011b9b34",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambience/water1.wav": {
-   "size": 140390,
+   "bytes": 140390,
+   "sha256": "7b5fba7e130f0b92908ab57e968ed6c0489ef88970f0ea0899c97f06ca88842b",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambience/wind2.wav": {
-   "size": 203804,
+   "bytes": 203804,
+   "sha256": "16ac61cb30c6c484df6cccef7b3b0001de670caf094a09b7d4835dc8a4f80e6b",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "sound/ambient/cricket1.wav": {
-   "size": 11593,
+   "bytes": 11593,
+   "sha256": "c778b764963e789ddd88fee582ccc47d6040e1fa14e6b7ef89d6963602483fac",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/cricket2.wav": {
-   "size": 16555,
+   "bytes": 16555,
+   "sha256": "84f923a32cad1c1e4638fa5457b4e99750cdb3a7601118187b2990d3fc78775b",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/cricket3.wav": {
-   "size": 15197,
+   "bytes": 15197,
+   "sha256": "6747415b87d350ac476f8d7d2c280395f107aa9c5390b7a00365581e90d42426",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/cricket4.wav": {
-   "size": 22490,
+   "bytes": 22490,
+   "sha256": "2ba1ac9838ad25db17b91975d30a3f44686e475d32f343a717fcf8806b892650",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/croak1.wav": {
-   "size": 53811,
+   "bytes": 53811,
+   "sha256": "4d3d517b6a71f1a04550184cda98a9a3e532178857df4ee0248a24c13e54e271",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/croak2.wav": {
-   "size": 64801,
+   "bytes": 64801,
+   "sha256": "1fe255bb065c49c6169084ee02f28ccba92c2cc1541a620e38ba0f305419cf1f",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/croak3.wav": {
-   "size": 54591,
+   "bytes": 54591,
+   "sha256": "d841435e6e4ee47844113605757ea252457d5cf84afab7c3fc906285bb5a109a",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/croak4.wav": {
-   "size": 55807,
+   "bytes": 55807,
+   "sha256": "80c4ca9fa20c766f5348cbf1b1b475e2eb5dc1daafb9bfe28f11de4f103e177f",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/croak5.wav": {
-   "size": 84543,
+   "bytes": 84543,
+   "sha256": "d8625859358782906a67e8d05e6f5187a0e62bd5381068c85351abcb9908fb93",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/falls.wav": {
-   "size": 43266,
+   "bytes": 43266,
+   "sha256": "ac942e7c91ef996c8843abb1c801be20bc269b031f71c436a916ddee1baa44ac",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/fly1.wav": {
-   "size": 77929,
+   "bytes": 77929,
+   "sha256": "c2a845473f75356751ed0ff4b8a693d1e79537bf4c5899ae84b694832d9b6e73",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/fly2.wav": {
-   "size": 42557,
+   "bytes": 42557,
+   "sha256": "84d7831256f3f7127cf36946a72e69f1014b48d3ad05a28b0efc162947550bec",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/frogs1.wav": {
-   "size": 79630,
+   "bytes": 79630,
+   "sha256": "37fa22bb8e7fe60051db7ba9c2906b048433a130afa6505c7e4d0df0da4ad625",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/frogs2.wav": {
-   "size": 80218,
+   "bytes": 80218,
+   "sha256": "6eb60b6fc9180d830eeefaf23e82034941e0252619933f666563226c0f2b6ff1",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/rain.wav": {
-   "size": 106800,
+   "bytes": 106800,
+   "sha256": "d76d5d85129441d31850a5f12efd7f43e650c1ba1165f26063e46ded526b6841",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/scare1.wav": {
-   "size": 123775,
+   "bytes": 123775,
+   "sha256": "d2df4babcca9887842c90678269a452e742451c9724e82fb17b56defd0c6b09c",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/ambient/scare2.wav": {
-   "size": 118863,
+   "bytes": 118863,
+   "sha256": "66e9c1712d7622ffda6137b19ba55f0f885ed0eef4650a6a518c284cfc1abe34",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/ambient/scream1.wav": {
-   "size": 89467,
+   "bytes": 89467,
+   "sha256": "d95443d8c804417aaca0bad377db6f910705d261c04f49288f477696b5626da6",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/scream2.wav": {
-   "size": 114813,
+   "bytes": 114813,
+   "sha256": "56cced63af30a55e2fcb6f2e3bcc47482cf942823e25d6006484432278c40f6d",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/scream3.wav": {
-   "size": 102525,
+   "bytes": 102525,
+   "sha256": "f69b3bd682ae7e200a39512e82034c7d8d35395829789ba68758ad786e536832",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/swamp.wav": {
-   "size": 68728,
+   "bytes": 68728,
+   "sha256": "eb2cdbca42eae40029e79407774443c66b74652103920129a62bf9a76f0fb7b6",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/swampb1.wav": {
-   "size": 62207,
+   "bytes": 62207,
+   "sha256": "f0f0d393832d370fd21fe7e61f39a4937face7d4eff6e3529802c45af90a58c9",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/swampb2.wav": {
-   "size": 63561,
+   "bytes": 63561,
+   "sha256": "a586e88f03e6f75b80e31db6fab676595df23987fa49182b8c4b4dd74c3e8d72",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/swampb3.wav": {
-   "size": 67583,
+   "bytes": 67583,
+   "sha256": "2e59408a8a3deb80bd27b44cff567c2b38bc1c98223493e8b810eafc27be8881",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/swampb4.wav": {
-   "size": 49455,
+   "bytes": 49455,
+   "sha256": "6a024dc7e6f52593e5810531448865d552a62a0f926fc7af480e2d4256198f9f",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/tech1.wav": {
-   "size": 20068,
+   "bytes": 20068,
+   "sha256": "3b10468031015b749a58bcefa6581e70950b15242a28f7eeafb421afd3780802",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/thunder1.wav": {
-   "size": 75677,
+   "bytes": 75677,
+   "sha256": "b6536e474d711ff6a4c314fca3cebd588b093a6eeed790347a338eb1d8abff79",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/thunder2.wav": {
-   "size": 62777,
+   "bytes": 62777,
+   "sha256": "81bb91fda28ace3e973024c01435b34792c570592074ac7946507b6807292cbe",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/thunder3.wav": {
-   "size": 71939,
+   "bytes": 71939,
+   "sha256": "3e86b22a5f9a02baf8e772a4ff825f3a81b2716ee3b6c3eec9a192782f4f51f8",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/trumble1.wav": {
-   "size": 121393,
+   "bytes": 121393,
+   "sha256": "f0f3d57d19bb37d257777286cc2d8976d61352b3a82b2c18d18e77633e6b823a",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/trumble2.wav": {
-   "size": 113969,
+   "bytes": 113969,
+   "sha256": "c19f2aa532fd822af844d036d6ee5a5c60b78c6f8b37819ecbb7fd112dfc710d",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/ambient/wave.wav": {
-   "size": 129228,
+   "bytes": 129228,
+   "sha256": "1b18f41a701de7ffa39c6ddcf1f624d6518a8c2a3dc37443d96c5dbc65dc182a",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/buttons/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "sound/buttons/airbut1.wav": {
-   "size": 23813,
+   "bytes": 23813,
+   "sha256": "b4fbb39f1bc38cb119cf86c63f766957bc49c590ce2a0f25792858294593957c",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/buttons/switch02.wav": {
-   "size": 13686,
+   "bytes": 13686,
+   "sha256": "05b786080366cb77ec46ddd1b418358322b64b8878bbde8ccb2fdcc8dfaa38dc",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/buttons/switch04.wav": {
-   "size": 22577,
+   "bytes": 22577,
+   "sha256": "79895e391e812d42254e32474634e11ad64cc18a6e978f8d5900f6af76f69ffa",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/buttons/switch21.wav": {
-   "size": 16240,
+   "bytes": 16240,
+   "sha256": "4c589c3ad2d24357d90961c7a5e508880af09b6e10221bec853368e606a87bf4",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "sound/doors/airdoor1.wav": {
-   "size": 13654,
+   "bytes": 13654,
+   "sha256": "2b6a4970a20b58d5b8ece4b3780ba3b8325aa1509e838abd8140151cf5c862fb",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/airdoor2.wav": {
-   "size": 8594,
+   "bytes": 8594,
+   "sha256": "1b4f8421f59f53c9af9a670e0794c02386515eb3e36c76f84634218851f2c169",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/basesec1.wav": {
-   "size": 80302,
+   "bytes": 80302,
+   "sha256": "4cee6f14d1979c68f574c6d38d4df043e5bc56cf06510cc33b70c845baae5ca8",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/basesec2.wav": {
-   "size": 59740,
+   "bytes": 59740,
+   "sha256": "b1938993283abea8343465f415577bd8ee9568f4635135b86a16015e35da62f3",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/ddoor1.wav": {
-   "size": 222690,
+   "bytes": 222690,
+   "sha256": "72603b1946b959dea8bc333623516432607ff28ba6f76b88ae1f7025ab444814",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/ddoor2.wav": {
-   "size": 59740,
+   "bytes": 59740,
+   "sha256": "b568f309573a0ed60969ec146a8c7294cbd386538d3edffe97a7d0fc2f5c5710",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/doormv1.wav": {
-   "size": 47360,
+   "bytes": 47360,
+   "sha256": "c9002cb5bc4db02bd2676c831d30f309efb988df8151cd3b252312b8124ab7e3",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/drclos4.wav": {
-   "size": 61214,
+   "bytes": 61214,
+   "sha256": "0115f37ed70d2d798b6e3a9977b15ffd9680ee9bab1fa9093c1caa2f54b7d77a",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/hydro1.wav": {
-   "size": 33896,
+   "bytes": 33896,
+   "sha256": "ea5f2fbadb76ee2c193e32175c8e40dc5a72e0f0a0ca019192a4842137b450b0",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/hydro2.wav": {
-   "size": 36728,
+   "bytes": 36728,
+   "sha256": "771b0024d9de6d636fd5ccb206d9dc81b8e93084fb34cf22965866fcbf7f9eb6",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/latch2.wav": {
-   "size": 61639,
+   "bytes": 61639,
+   "sha256": "9927efea6fc525b4a97d40162c5530b0396fb1256b642f31f848c3a3f7a6feec",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/rockmv.wav": {
-   "size": 52095,
+   "bytes": 52095,
+   "sha256": "7794e5253e854969396839ba633f1afaa7b20d07381f8d2f8cc1b52d57180c14",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/rockstp.wav": {
-   "size": 89215,
+   "bytes": 89215,
+   "sha256": "b5b681e6dcba62f8377fe4f19ab3551c8f773c83b7eea89df37d9bc80f4c96db",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/stndr1.wav": {
-   "size": 80302,
+   "bytes": 80302,
+   "sha256": "4cee6f14d1979c68f574c6d38d4df043e5bc56cf06510cc33b70c845baae5ca8",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/stndr2.wav": {
-   "size": 59740,
+   "bytes": 59740,
+   "sha256": "b1938993283abea8343465f415577bd8ee9568f4635135b86a16015e35da62f3",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/doors/winch2.wav": {
-   "size": 155383,
+   "bytes": 155383,
+   "sha256": "601fbb99f62d9b8ab796b74e565d82b22c3d915148c4d77982cf46bdfab6a70c",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "sound/misc/conc1.wav": {
-   "size": 10032,
+   "bytes": 10032,
+   "sha256": "e1f0c9d77ed0813f5cccd7c9cc6b365fbcca47d2c07945f1bfecf40d417dd5ca",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/conc2.wav": {
-   "size": 9578,
+   "bytes": 9578,
+   "sha256": "fa8ea4a6fd4936d961447bb8ec4ad56a791d2c9a5fc6fddee2c1a53adbd0f18c",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/glass1.wav": {
-   "size": 41343,
+   "bytes": 41343,
+   "sha256": "4859f09b5982ff08d0f32a89e97750480dd81cf06a7408d05d977f9771040262",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/metal1.wav": {
-   "size": 18319,
+   "bytes": 18319,
+   "sha256": "8d1dd334e1a45f33cc732726a311c9da9bdd84dc21fdbbbe49487d814a0fa092",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/metal2.wav": {
-   "size": 55089,
+   "bytes": 55089,
+   "sha256": "8d6c56fbeebcba83ac82dc6f7195ce7ec02bd689131d87ac044be580f1e26f76",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/ogre1.wav": {
-   "size": 55098,
+   "bytes": 55098,
+   "sha256": "64ef7b8e17d726524da8f5f1d4c0bfad90e6c38d6e564963ac8480fe30e3e96d",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/ogre2.wav": {
-   "size": 46910,
+   "bytes": 46910,
+   "sha256": "bc791b9de11dfbca9ee46ea4a2c9947fe4eb01258b826115a8158debd233dfde",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/ogre3.wav": {
-   "size": 85510,
+   "bytes": 85510,
+   "sha256": "2e39e8c3ecb50cb3cd31a96fdfc54d8bb6798092301d992ff7ba356e23d10332",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/ogre4.wav": {
-   "size": 55188,
+   "bytes": 55188,
+   "sha256": "3d377f105e57d2e65b8730e60bc9276b883c7a1a9a8b8b9822d6ff2bdb5e54f4",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/misc/ogre5.wav": {
-   "size": 96530,
+   "bytes": 96530,
+   "sha256": "6fc8917571b6d5ab15aafe9a7127c96e7fa93292bd5b7ff769e33d586268ed5d",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/rock2.wav": {
-   "size": 26120,
+   "bytes": 26120,
+   "sha256": "630378aacb5596f11a12347a66693dfb824e5acff1ce29d5b1fbc052028e5578",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/rock3.wav": {
-   "size": 38280,
+   "bytes": 38280,
+   "sha256": "76091c58ef33f1b47894d74a1b5d772f5646113b292161d798a9bb7cac143110",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/rock4.wav": {
-   "size": 44680,
+   "bytes": 44680,
+   "sha256": "602c47ddda862c84db180de277238c990d66e479e6a2e337ba93d2fd6cdeebdb",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/rubhit.wav": {
-   "size": 5552,
+   "bytes": 5552,
+   "sha256": "2ad0ee533317bd0d0f77ecf13308510cc9d30f9b12075eb89bc4d2400966b19b",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/rumble.wav": {
-   "size": 53068,
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/smlglass.wav": {
-   "size": 43386,
+   "bytes": 43386,
+   "sha256": "0a59a82be4f91111710b6d4de251fc57e09cd2d7e8930099b7ef7722c2882bfe",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/wood1.wav": {
-   "size": 6328,
+   "bytes": 6328,
+   "sha256": "ffb140531c32ad996c89e0850fa5f95b3fad90719e5563809097200b313fdce5",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/wood2.wav": {
-   "size": 6528,
+   "bytes": 6528,
+   "sha256": "f4fc69f1d6a8a0f805ca234afcc3f8246bb161d9ce954c9d55479fb1e7a32a6d",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/wood3.wav": {
-   "size": 6116,
+   "bytes": 6116,
+   "sha256": "c2b6a0ce8a7ba03bca6897b8bfe3e23507633f37a81e4a6da22703e6eb55ebab",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/wood4.wav": {
-   "size": 6842,
+   "bytes": 6842,
+   "sha256": "81e5b8052a46e7588b5f5e32174b636234ac9742d8520ad2c47aaa8a554b26e5",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/woodbrk1.wav": {
-   "size": 6766,
+   "bytes": 6766,
+   "sha256": "377e9493ac9e432f5fc30c84aa03198a7479647c00f8e3da9299129c02eee44b",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/woodbrk2.wav": {
-   "size": 41049,
+   "bytes": 41049,
+   "sha256": "3db7b982edc3cb50cd5eec765655a8e6de19569561dc762043a4e02e94a3fb83",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/woodbrk3.wav": {
-   "size": 34123,
+   "bytes": 34123,
+   "sha256": "e20446262a9041d5ce7d09773caeba27f40055c24e155e956db1a390f2bc13be",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/misc/woodbrk4.wav": {
-   "size": 59446,
+   "bytes": 59446,
+   "sha256": "e9cb93ad62a29429ca1670829ff38fd45374e671f2cffbee0d8ab1d98da443af",
    "timestamp": "2001-07-23T21:41:14.000Z"
   },
   "sound/plats/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "sound/plats/medplat1.wav": {
-   "size": 77946,
+   "bytes": 77946,
+   "sha256": "4716f39d2eddec285e0c42bb44418e879b0817b49d034421ee878a445088cf1b",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/plats/medplat2.wav": {
-   "size": 19552,
+   "bytes": 19552,
+   "sha256": "b1921fbb976160d65e9f80274e11b03f4e7d2df16a674a6b63677ffad01736ae",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/plats/plat1.wav": {
-   "size": 19986,
+   "bytes": 19986,
+   "sha256": "f780d9dd0f08f1e5359da68cbd50030dcf13878731129c8f03c3900f304bcef7",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/plats/plat2.wav": {
-   "size": 49402,
+   "bytes": 49402,
+   "sha256": "90e689700689b8818c96b74deea34d3cd8dbebc0e7fa7dba8b3adebf64db14a7",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/plats/train1.wav": {
-   "size": 116542,
+   "bytes": 116542,
+   "sha256": "1dc6ca3656f912537145eddb7226571716f85b7c16bd955704902d800a751731",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/plats/train2.wav": {
-   "size": 58457,
+   "bytes": 58457,
+   "sha256": "ae9d8ca2d7fe35e3fcca69765d3717162d477c348943715392bf80abdf109522",
    "timestamp": "2001-07-23T21:41:12.000Z"
   },
   "sound/shams/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-07-23T22:56:30.000Z"
   },
   "sound/shams/melee1.wav": {
-   "size": 4716,
+   "bytes": 4716,
+   "sha256": "deb02da9b630c02c4d41da7e5a4da5172705b46d558a4c39da02d780c2e23e9b",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "sound/shams/melee2.wav": {
-   "size": 5964,
+   "bytes": 5964,
+   "sha256": "73215ccd59e4ef387b4422bf39bf4d362556c79347405b947bdc8123702a40ee",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "sound/shams/sattck1.wav": {
-   "size": 8036,
+   "bytes": 8036,
+   "sha256": "efa18dec8f6d5066b8d494a232ca9c98c27a4a9130130086a9b0a27ffccb34ed",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "sound/shams/sboom.wav": {
-   "size": 11672,
+   "bytes": 11672,
+   "sha256": "6c64dafb52536ae35f9d50cd5f6c5c636f3403b83cac4d1e55e62e913e2ca79b",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "sound/shams/sdeath.wav": {
-   "size": 21104,
+   "bytes": 21104,
+   "sha256": "a1d2e4aaba1caa4fd23e27205f1fa0c74d4233dbdf394ccdee2d94067fe7de33",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "sound/shams/shurt2.wav": {
-   "size": 4300,
+   "bytes": 4300,
+   "sha256": "2353467dedad5c51e49abdeb3fe2bcad670e8a2a51c61518a139115fe769d153",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "sound/shams/sidle.wav": {
-   "size": 5644,
+   "bytes": 5644,
+   "sha256": "41ee41cfd1a28a3d6165adc1e131a9da9cee25a8dd915b07ac3a121632fc42cb",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "sound/shams/smack.wav": {
-   "size": 5300,
+   "bytes": 5300,
+   "sha256": "18d5dd0a3362890d39fa67410bdc04a57777bac8273659860cf656aa428849d5",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "sound/shams/ssight.wav": {
-   "size": 25544,
+   "bytes": 25544,
+   "sha256": "79091ffb4d4f4c60ac5d89ed4f5aa1e77da0e8d4b2469e27b508db8b8898dde2",
    "timestamp": "2001-07-23T21:41:16.000Z"
   },
   "textures.rs": {
-   "size": 993,
+   "bytes": 993,
+   "sha256": "a43b8ba4db4c591d34f136afd9bac90e23b66fadb7144e1251ad90d66fab7f9e",
    "timestamp": "2001-07-23T21:41:14.000Z"
   }
  },
- "filesize": 7699,
  "install": {
-  "extract": "{quake}/n3sp02/"
+  "extract": "{base}/n3sp02/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1b65bb6dfb337e6b30a2f65b90c42c2fb47c549d02b00a48a52be58db6a85f9e",
  "tags": [
   "author=necros",
   "commandline=-game n3sp02",
+  "filename=n3sp02_13.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://necros.quaddicted.com",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev010726.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=n3sp02)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=2001-07-26",
+  "release_date=2001-07-26",
   "startmap=n3sp02",
-  "tag=castle",
-  "tag=medieval",
-  "title=Castle Necrosis"
+  "theme=castle",
+  "theme=medieval",
+  "title=Castle Necrosis",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/n3sp02_13.zip",

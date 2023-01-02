@@ -1,62 +1,70 @@
 {
- "filename": [
-  "sm67_pack.zip"
- ],
+ "bytes": 1856,
  "files": {
   "sm67_headthump.bsp": {
-   "size": 757832,
+   "bytes": 757832,
+   "sha256": "3f509d64dd9228746099b9f076c68c1073b09660380d668a1251beaac1f0ed0a",
    "timestamp": "2004-02-14T07:54:18.000Z"
   },
   "sm67_headthump.txt": {
-   "size": 1656,
+   "bytes": 1656,
+   "sha256": "5e31f143a68e96ada34658944c8fa01e4fbe9a3596e27fcb6056d8e663d2b288",
    "timestamp": "2004-02-14T08:47:18.000Z"
   },
   "sm67_jacek.bsp": {
-   "size": 640492,
+   "bytes": 640492,
+   "sha256": "34093e392214c64cf8db44f9e1d737827fa51bb0042ba843005c39abda852734",
    "timestamp": "2004-02-12T22:16:18.000Z"
   },
   "sm67_jacek2.bsp": {
-   "size": 303856,
+   "bytes": 303856,
+   "sha256": "3a38626e4947a0c20d16e1266ac1f6fc40183711715327a4267c2d3282525f03",
    "timestamp": "2004-02-13T23:14:54.000Z"
   },
   "sm67_pack.txt": {
-   "size": 1622,
+   "bytes": 1622,
+   "sha256": "f04aa441a5739545daa8501f0cde78c65f62525f196b7839080b04b3194804b6",
    "timestamp": "2001-09-14T12:04:32.000Z"
   },
   "sm67_xen.bsp": {
-   "size": 1514316,
+   "bytes": 1514316,
+   "sha256": "cb6bfabc01062ca6879d250af4936f7f8bd04bf7d6331afac33624180a533ef3",
    "timestamp": "2004-02-15T02:58:40.000Z"
   },
   "sm67_zwiffle.bsp": {
-   "size": 482484,
+   "bytes": 482484,
+   "sha256": "b4ebd98b37824c8f696ab8bfdfaee5d610254a681ba71327e684ba7bc63da7dc",
    "timestamp": "2004-02-14T15:30:14.000Z"
   },
   "sm67_zwiffle2.bsp": {
-   "size": 843952,
+   "bytes": 843952,
+   "sha256": "e4bf9cd6d74bb7c40939b0b24ea6732dc93bd1566af7e3892fa7ff6806b71854",
    "timestamp": "2004-02-14T18:06:38.000Z"
   }
  },
- "filesize": 1856,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "a9b689a85614f06e64fb42ffdeb65ecf33dea8d61db70d0fc32de2565e03d316",
  "tags": [
   "author=HeadThump",
   "author=Jacek",
   "author=Xenon",
   "author=Zwiffle",
+  "filename=sm67_pack.zip",
   "game=quake",
-  "releasedate=2004-02-15",
+  "game_mode=singleplayer",
+  "playstyle=speedrunning",
+  "release_date=2004-02-15",
   "startmap=sm67_headthump",
   "startmap=sm67_jacek",
   "startmap=sm67_jacek2",
   "startmap=sm67_xen",
   "startmap=sm67_zwiffle",
   "startmap=sm67_zwiffle2",
-  "tag=speedrunning",
-  "title=Speedmapping pack 67 - Quantity over Quality"
+  "title=Speedmapping pack 67 - Quantity over Quality",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm67_pack.zip",

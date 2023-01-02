@@ -1,33 +1,35 @@
 {
- "filename": [
-  "scoop.zip"
- ],
+ "bytes": 710,
  "files": {
   "Scoop.bsp": {
-   "size": 1652036,
+   "bytes": 1652036,
+   "sha256": "655fd200d2b01baa36077dae0dc72774fdfc30b86b2dafb1970861619bdfc8a4",
    "timestamp": "1997-07-29T14:44:28.000Z"
   },
   "scoop.txt": {
-   "size": 1225,
+   "bytes": 1225,
+   "sha256": "0688f2496ca01e811725f8f08f599381d5fe9982bc99c624edc315adb9a5e224",
    "timestamp": "1997-07-29T15:31:36.000Z"
   }
  },
- "filesize": 710,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "045b84d733e162b70293909bcb6a817fbe4254429cb2fb9a93800b3a531c9cc8",
  "tags": [
   "author=J.F.Gustafsson",
+  "filename=scoop.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-07-29",
-  "tag=base",
-  "tag=outdoor",
-  "tag=small",
-  "tag=tank",
-  "title=Scoop of chaos"
+  "map_size=small",
+  "nonspecific_tag=tank",
+  "release_date=1997-07-29",
+  "theme=base",
+  "theme=outdoor",
+  "title=Scoop of chaos",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/scoop.zip",

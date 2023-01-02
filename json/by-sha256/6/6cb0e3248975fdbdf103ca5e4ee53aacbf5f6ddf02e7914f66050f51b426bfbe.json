@@ -1,47 +1,59 @@
 {
- "filename": [
-  "smqe1.zip"
- ],
+ "bytes": 1175,
  "files": {
   "smqe1_entar.bsp": {
-   "size": 634704,
+   "bytes": 634704,
+   "sha256": "2111d7f22ac97ededdefd309912d10efa7d545be0518c957f70240083d4a1130",
    "timestamp": "2005-08-11T13:50:56.000Z"
   },
   "smqe1_entar.lit": {
-   "size": 212939,
+   "bytes": 212939,
+   "sha256": "ee5bf7d3840f50160e4ab39e5d40faa9d32d55f1b6417795a76ea683912e8c48",
    "timestamp": "2005-08-11T13:50:56.000Z"
   },
   "smqe1_entar.txt": {
-   "size": 398,
+   "bytes": 398,
+   "sha256": "4207b82467cdd1e32e5d8bb061cd5606255f6707ac9dc18d99034daf3298caa8",
    "timestamp": "2005-08-11T13:29:14.000Z"
   },
   "smqe1_neg!ke.bsp": {
-   "size": 1508460,
+   "bytes": 1508460,
+   "sha256": "2b541149a370f61c0d224f3482f81a7646a662ee516c43aa383d614b54e23313",
    "timestamp": "2005-08-14T02:26:16.000Z"
   },
   "smqe1_preach.bsp": {
-   "size": 512612,
+   "bytes": 512612,
+   "sha256": "a5121902de922dc9ee78c6fb2318b5f02abffbb895f75eb40f688b0750b19c22",
    "timestamp": "2005-08-13T22:55:10.000Z"
   },
   "smqe1_zwiffle.bsp": {
-   "size": 297072,
+   "bytes": 297072,
+   "sha256": "dc8edf7a323b912717a4c07e066146d6b7d5dcdb5c07ef84eda8d823a394921b",
    "timestamp": "2005-08-13T16:52:14.000Z"
   }
  },
- "filesize": 1175,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6cb0e3248975fdbdf103ca5e4ee53aacbf5f6ddf02e7914f66050f51b426bfbe",
  "tags": [
   "author=Entar",
   "author=Preach",
   "author=Zwiffle",
   "author=negke",
+  "filename=smqe1.zip",
   "game=quake",
-  "releasedate=2005-08-14",
-  "title=Speedmapping pack QExpo 2005 - The Emerald City"
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "release_date=2005-08-14",
+  "startmap=smqe1_entar",
+  "startmap=smqe1_neg!ke",
+  "startmap=smqe1_preach",
+  "startmap=smqe1_zwiffle",
+  "title=Speedmapping pack QExpo 2005 - The Emerald City",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqe1.zip",

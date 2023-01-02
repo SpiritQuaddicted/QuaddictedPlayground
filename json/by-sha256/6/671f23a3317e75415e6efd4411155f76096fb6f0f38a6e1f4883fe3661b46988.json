@@ -1,41 +1,44 @@
 {
- "filename": [
-  "qmine.zip"
- ],
+ "bytes": 894,
  "files": {
   "Qmine.txt": {
-   "size": 1783,
+   "bytes": 1783,
+   "sha256": "f1bbceb929f91761210ab4b68d8626199f03a9c078aeb1a03bcd18ce10f613f4",
    "timestamp": "1997-09-07T08:01:30.000Z"
   },
   "qmine.bsp": {
-   "size": 2217820,
+   "bytes": 2217820,
+   "sha256": "8535b7a23aff2884542eb310fdeb405c546f3f14aca2137f857f27cc818de8a8",
    "timestamp": "1997-09-06T23:25:38.000Z"
   },
   "qmine.map": {
-   "size": 548288,
+   "bytes": 548288,
+   "sha256": "c4a10d05522247d4b6dff004a72d49e09e67053984ec9472dd162c3e4883665c",
    "timestamp": "1997-09-06T12:33:30.000Z"
   }
  },
- "filesize": 894,
  "install": {
-  "extract": "{quake}/hipnotic/maps/"
+  "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "671f23a3317e75415e6efd4411155f76096fb6f0f38a6e1f4883fe3661b46988",
  "tags": [
   "author=DD",
   "commandline=-hipnotic",
   "dependency=hipnotic",
+  "filename=qmine.zip",
   "game=quake",
-  "releasedate=1997-09-07",
-  "tag=blue",
-  "tag=hipnotic",
-  "tag=hourse",
-  "tag=mine",
-  "tag=small",
-  "tag=soa",
-  "tag=source",
-  "title=Qmine"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=hourse",
+  "release_date=1997-09-07",
+  "source=included",
+  "theme=blue",
+  "theme=dissolution of eternity",
+  "theme=mine",
+  "theme=scourge of armagon",
+  "title=Qmine",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qmine.zip",

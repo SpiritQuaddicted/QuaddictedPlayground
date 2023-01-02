@@ -1,34 +1,36 @@
 {
- "filename": [
-  "mexx4.zip"
- ],
+ "bytes": 489,
  "files": {
   "MEXX4.BSP": {
-   "size": 1186712,
+   "bytes": 1186712,
+   "sha256": "59a4af0e646e4e63d1769099dd6c1607e69cac59a2c02bb2b3842905c29db519",
    "timestamp": "1996-11-15T15:40:14.000Z"
   },
   "MEXX4.TXT": {
-   "size": 2695,
+   "bytes": 2695,
+   "sha256": "c66808dd239b810094374c3b004ae90fba55782d668434c5cdeeef8351385dd0",
    "timestamp": "1996-11-15T15:40:00.000Z"
   }
  },
- "filesize": 489,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "61c031b2d7bcf6e94b7f716d6cbf964fa29d07dcdedf59301c07524bb18b45be",
  "tags": [
   "author=Marcus Dromowicz",
+  "filename=mexx4.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsm1.htm#mexx4)",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1996-11-15",
-  "tag=medieval",
-  "tag=medium",
-  "tag=traps",
-  "title=Nurgle's Vault"
+  "map_size=medium",
+  "release_date=1996-11-15",
+  "theme=medieval",
+  "theme=traps",
+  "title=Nurgle's Vault",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mexx4.zip",

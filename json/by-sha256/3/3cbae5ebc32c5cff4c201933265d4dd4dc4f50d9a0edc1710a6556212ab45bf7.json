@@ -1,0 +1,4779 @@
+{
+ "bytes": 58823,
+ "files": {
+  "modjam_adaya/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-23T00:28:44.000Z"
+  },
+  "modjam_adaya/README!!!.txt": {
+   "bytes": 4995,
+   "sha256": "aa4845e0e3773e314aed8bcd060409106f125ff2188f7a935729fc415612206b",
+   "timestamp": "2019-02-23T00:26:20.000Z"
+  },
+  "modjam_adaya/gfx.wad": {
+   "bytes": 126244,
+   "sha256": "ba1811634fe30a143a00e38f7c7cf737121d625349d3e5540eae75d92d314a42",
+   "timestamp": "2019-01-30T19:35:22.000Z"
+  },
+  "modjam_adaya/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-23T00:48:44.000Z"
+  },
+  "modjam_adaya/maps/compile.bat": {
+   "bytes": 703,
+   "sha256": "fc0c1e4522883cbd03a995715e5976e00b6241b4ef67b696603804817377d53f",
+   "timestamp": "2019-02-03T23:34:20.000Z"
+  },
+  "modjam_adaya/maps/run.bat": {
+   "bytes": 95,
+   "sha256": "d2976edbcdd05413a4b4f5d10f6a30b9d748659f00c578bc97b0ed0f25b3533d",
+   "timestamp": "2019-02-03T23:38:26.000Z"
+  },
+  "modjam_adaya/maps/test.bsp": {
+   "bytes": 196900,
+   "sha256": "e798c0777e8b1667fc3215c9bd90fded3613a1e774f01def01efc44cd4d23cc1",
+   "timestamp": "2019-02-03T23:34:30.000Z"
+  },
+  "modjam_adaya/maps/test.map": {
+   "bytes": 33366,
+   "sha256": "22a79ca1fa02dc3e4212822a809f0e464a10da1f983b4dfb8e9d3fc4f4e10651",
+   "timestamp": "2019-02-04T19:13:34.000Z"
+  },
+  "modjam_adaya/maps/test.prt": {
+   "bytes": 9723,
+   "sha256": "1978214b388ada44a6037bc2f136c5fcd62854ba5ee934c06b7454e5d8e85a8f",
+   "timestamp": "2019-02-03T23:34:20.000Z"
+  },
+  "modjam_adaya/pak0.pak": {
+   "bytes": 3375374,
+   "files": {
+    "progs/armor.mdl": {
+     "bytes": 44076,
+     "sha256": "2c3ed470f75c2ed1fabca5a0ae3f152865e07e2aeabeb9f94b80bbc979d074fa"
+    },
+    "progs/bfgblst.spr": {
+     "bytes": 16500,
+     "sha256": "c8e0c255110c35e8b055a0a68fb4471b9dd0adf34ec5d9caeb3dce996ac5d722"
+    },
+    "progs/bfgexpl.spr": {
+     "bytes": 393372,
+     "sha256": "93db88bffe5ba26c4d8886ac11ca32bc7da12b7b5bfb31242069592be6d53dd3"
+    },
+    "progs/butcher.mdl": {
+     "bytes": 162036,
+     "sha256": "3de16efabfa80692984c0f8f742157d28991abf664d80d9250b3fdd4b0d5e9b2"
+    },
+    "progs/g_chain.mdl": {
+     "bytes": 50628,
+     "sha256": "caeb28e0a2a5cd18a83eb0681e76664b903a7aa850ce6662d4abef0678efbce8"
+    },
+    "progs/g_hot.mdl": {
+     "bytes": 57156,
+     "sha256": "908dba6ec48d48640d0b813a6cdb9c0e6d3517cff2ec892837f720b0741104e1"
+    },
+    "progs/g_shotcl.mdl": {
+     "bytes": 335236,
+     "sha256": "29b71ebd225844dfaeda7ee829e3d111b123977f2511821835578cd2e8536eeb"
+    },
+    "progs/h_but.mdl": {
+     "bytes": 14900,
+     "sha256": "b93958802085ea972acdf7e9c008774a807e99ab1dc4c0bdd70bddabbccece17"
+    },
+    "progs/h_nail.mdl": {
+     "bytes": 11828,
+     "sha256": "6b8222563698bb2a5759322fc1fd03713ce59fb4c62847abedfe5c626c985e4e"
+    },
+    "progs/h_shell.mdl": {
+     "bytes": 11828,
+     "sha256": "15c3f8c45a52d866981ba1ebd3c5ed2797e91d149acc5852dd7642a43d4d7a84"
+    },
+    "progs/hermes.mdl": {
+     "bytes": 62276,
+     "sha256": "55b702432f6c4cf4c21df1142ac45eae63cbd158dfd92442176f26e91f5ea770"
+    },
+    "progs/kronos.mdl": {
+     "bytes": 62276,
+     "sha256": "3a6be59da8623882cc6d50381f7237942cdf424e97d20953cde382697ef237aa"
+    },
+    "progs/kronos1.mdl": {
+     "bytes": 62276,
+     "sha256": "ad6b0e2e2b1299a97c59f00bbfa0e9c93ceeac4034d2a95391d61e90aed4573b"
+    },
+    "progs/lspike.mdl": {
+     "bytes": 1684,
+     "sha256": "75a3f036a04bf5843488758f90fc2416d8a96ed5493460444c4fe2e6ce9956e4"
+    },
+    "progs/nailinf.mdl": {
+     "bytes": 160688,
+     "sha256": "c67399daabb0905113dd77cc79a79592111c63c0097ba33b84eeb6d9144ace7c"
+    },
+    "progs/s_light4.spr": {
+     "bytes": 2124,
+     "sha256": "b265c5d1311d0cfb552a4f60234a5d14817ad0ed4211f24b544200e712e1c1f7"
+    },
+    "progs/shelltrp.mdl": {
+     "bytes": 399572,
+     "sha256": "332fb8a227e10c124d1b091a28352c1f875c6f1936c56d041066ea85819c5310"
+    },
+    "progs/v_chain.mdl": {
+     "bytes": 86004,
+     "sha256": "b0bef898fbced4aaa976a953836ec38018bb014582753534ec353709de5ac0e1"
+    },
+    "progs/v_hot.mdl": {
+     "bytes": 60228,
+     "sha256": "7d51ecfbd37d7bbc6f9702f8a9a4766261a9a9d537880ac6c0450ad0c4ce054f"
+    },
+    "progs/v_shotcl.mdl": {
+     "bytes": 76404,
+     "sha256": "fc1388687f000a9d09da9879dadd51e43ad929359da0eb2f77e0a305969f09bf"
+    },
+    "sound/butcher/flak.wav": {
+     "bytes": 17720,
+     "sha256": "36b1e2fae9c717e92364d5c67d4e00d25ed9f6dacf798d656bfaf7fd72e233b2"
+    },
+    "sound/butcher/ogdrag.wav": {
+     "bytes": 12396,
+     "sha256": "e7cf55df89c831567f8bf7b02e57b987e3b57eb34bfe48225167f2af6b640c11"
+    },
+    "sound/butcher/ogdth.wav": {
+     "bytes": 12052,
+     "sha256": "0587d14849b0fec40eeea6dc4d61db548a8d760e17cbee07f572e5de081c5a5b"
+    },
+    "sound/butcher/ogidle.wav": {
+     "bytes": 61810,
+     "sha256": "40ecc9597a7c2fa5d65f203dd022379bf3b85bfe4a19612181f5dd29f831d1f8"
+    },
+    "sound/butcher/ogidle2.wav": {
+     "bytes": 12292,
+     "sha256": "14d217d02c7a3898d835cda4ee00c80afe722943d0d538a0b7b95e7b3cb8230d"
+    },
+    "sound/butcher/ogpain1.wav": {
+     "bytes": 7730,
+     "sha256": "c8f157894e5651a2f599994d489520c539549dc5cb51d803e0ad60364b0c205a"
+    },
+    "sound/butcher/ogpain2.wav": {
+     "bytes": 9108,
+     "sha256": "77a09d54447b3ce0b3a304545f613da813b29365de2d0c168c07ccdc1d6b04e7"
+    },
+    "sound/butcher/ogpain3.wav": {
+     "bytes": 10930,
+     "sha256": "041d603a4c53633324dc28f937d80e51c70fb3f80fbd18f41a8b160ef7596f2a"
+    },
+    "sound/butcher/ogsawatk.wav": {
+     "bytes": 16154,
+     "sha256": "f24f86055999053273798d54f646064f3053414dfb14167d611aa1cb6dbbb51b"
+    },
+    "sound/butcher/ogwake.wav": {
+     "bytes": 8420,
+     "sha256": "fd327b2b1f56656b3573262486b2756494d6812dbf5bf6b1e5bd939da3ed4297"
+    },
+    "sound/items/armor1.wav": {
+     "bytes": 6494,
+     "sha256": "259c57ed9a96e2794933fb1e5ddabddbdc87069968590d6e3ac69895c18282d3"
+    },
+    "sound/items/armor2.wav": {
+     "bytes": 7704,
+     "sha256": "081c3f62f9a94969f75947b51c785d40a6d24b16d39f529804b5c85404f7cae6"
+    },
+    "sound/items/armor3.wav": {
+     "bytes": 9252,
+     "sha256": "c51e305d5a2b42f6b9b9dfd82fc1870e086a0b2ab8c04dbe3c00a1e04784f98f"
+    },
+    "sound/items/clock1.wav": {
+     "bytes": 38168,
+     "sha256": "ee475af2135a5c9d8b2afab199c2131d95070b9e3a56e3571adf3f00b95c50b9"
+    },
+    "sound/items/clock2.wav": {
+     "bytes": 70976,
+     "sha256": "8b40b62f88303d16cfc6fef6b7ad1be584c50764c2883075eab77bd220fb155b"
+    },
+    "sound/items/clock3.wav": {
+     "bytes": 130248,
+     "sha256": "a04c45553280fbb992308fb0aade8ac8e74ec4e4c2ab8400a69de8bad642fc25"
+    },
+    "sound/items/haste1.wav": {
+     "bytes": 13420,
+     "sha256": "267bcedfe84a50bc1f5257d5cc7cd401465bd012682b328546e5af61f8fc29cb"
+    },
+    "sound/items/haste2.wav": {
+     "bytes": 31622,
+     "sha256": "c8e298dab6c215bffc237cd6681dae38c803250e1c199db9b61f523500ce3e13"
+    },
+    "sound/misc/demwhis.wav": {
+     "bytes": 41860,
+     "sha256": "ebe61eef38623168a0601d06abbc7d59f99f222df6f4b7552640c7bd872f65ae"
+    },
+    "sound/nailinf/death.wav": {
+     "bytes": 18898,
+     "sha256": "b9bbb261c4f58c7857f368e7482a6706b1a4105b3ad4e41a700d1025d29d38c6"
+    },
+    "sound/nailinf/idle1.wav": {
+     "bytes": 14894,
+     "sha256": "3ec1439123c6f122838ea8d7a26db9ddf45f60e8b2eb851382c8f3aa191c5b17"
+    },
+    "sound/nailinf/nailshrd.wav": {
+     "bytes": 41464,
+     "sha256": "dd2e7b5cd674d61c4e26d20cf4162586bda9aec30ec9a33526d7ca089f8c468e"
+    },
+    "sound/nailinf/pain1.wav": {
+     "bytes": 5118,
+     "sha256": "81038879b6d933fe59d29059b5d0655b6e9bbd96c11f902c5d6fd5e3acb0a333"
+    },
+    "sound/nailinf/pain2.wav": {
+     "bytes": 5680,
+     "sha256": "a8eba9496de56151703e9a8b93dc9f0ab7e161ae351acd0082feda567959ebb1"
+    },
+    "sound/nailinf/prepfire.wav": {
+     "bytes": 8818,
+     "sha256": "e76bdc8040c3c467bc9f765f0d91508c4aba7aecfa92a1c954400e01d37688c5"
+    },
+    "sound/nailinf/sight1.wav": {
+     "bytes": 18618,
+     "sha256": "6f6f9f5c2d92b87abae4c2fc78c92b3e96f20a5d9e53eacf9eebb283bd4558da"
+    },
+    "sound/nailinf/sight2.wav": {
+     "bytes": 15670,
+     "sha256": "42dbf9e02a96ba2e6cd2bee0adf9dae22292c572d9c00bc499a699e6ea4da9cf"
+    },
+    "sound/nailinf/sight3.wav": {
+     "bytes": 14522,
+     "sha256": "38851d768386b7096548b082235da9921966905678ca84027567e59b6e603bc1"
+    },
+    "sound/nailinf/sight4.wav": {
+     "bytes": 19798,
+     "sha256": "0583212c3dd33bede0fd9e2963a04c8320add72c523305dafc6f3dd3b28cda59"
+    },
+    "sound/shelltrp/death1.wav": {
+     "bytes": 14392,
+     "sha256": "a75e4b75af69296ee5a273bf1ff62a60321b97e48d10ee333ca08b46be22ea0e"
+    },
+    "sound/shelltrp/idle1.wav": {
+     "bytes": 58092,
+     "sha256": "aae8911895b15e66c40f7a2d3b687ad19af0e278bdfe874798d2c8d9061b2470"
+    },
+    "sound/shelltrp/pain1.wav": {
+     "bytes": 11560,
+     "sha256": "e46f4d79a901c0398dfef501b6b5682129c0721f8bbb87822123c90a8a3fc050"
+    },
+    "sound/shelltrp/pain2.wav": {
+     "bytes": 16882,
+     "sha256": "e970b2107f4557869d9930077f3e8177db050a39a84421a00ac8921b09d5864f"
+    },
+    "sound/shelltrp/pump.wav": {
+     "bytes": 6390,
+     "sha256": "eec07407720f84a37e600f22eb0265549d350add8af972dc507ed0306c20a121"
+    },
+    "sound/shelltrp/shotgn.wav": {
+     "bytes": 22148,
+     "sha256": "2e676451c8c64d14bf8f9dde8213d3cc9ba48b3a4dfbf3b392b5ae6fd86d2c1f"
+    },
+    "sound/shelltrp/sight1.wav": {
+     "bytes": 25442,
+     "sha256": "6f44f881ba084bf2fcb613f46bf106de75d96119ee8c23f5f000d1692aad4468"
+    },
+    "sound/shelltrp/sight2.wav": {
+     "bytes": 16560,
+     "sha256": "f1cc4fb4aebde3174bfc659dc21d82eddcfbcb244ff6cc217831f368641ccdd3"
+    },
+    "sound/shelltrp/sight3.wav": {
+     "bytes": 22928,
+     "sha256": "5780dcc29d54533106acd161710445b07481d962129a219dd433cd516b571f71"
+    },
+    "sound/shelltrp/sight4.wav": {
+     "bytes": 49950,
+     "sha256": "cec85ed6a38bdc1670e9b9a98ddb4bf41327762baf9e7dc55a45782070fef482"
+    },
+    "sound/weapons/acell1.wav": {
+     "bytes": 8800,
+     "sha256": "fe0c36bc9e541ad620bd1725318311f3eab13442d3b9726d9b3108e6b39d17e9"
+    },
+    "sound/weapons/acell2.wav": {
+     "bytes": 10920,
+     "sha256": "56fbe4f9e61516931aa3048993c28c5398d2035e6372c69da8925ea60cdedd7c"
+    },
+    "sound/weapons/anail1.wav": {
+     "bytes": 4950,
+     "sha256": "ee61c5455fc13216173e44a58ce13a522ba74d354bbb5707177131daec2376c1"
+    },
+    "sound/weapons/anail2.wav": {
+     "bytes": 7300,
+     "sha256": "fdb33dade14269d4d5e7de03e30c087b057e00f9635a1411a12fca70b7bc91db"
+    },
+    "sound/weapons/arocket1.wav": {
+     "bytes": 9502,
+     "sha256": "2a0c639fb760088b883f083d951d82780bc918008192a032cdcd54fc06ff0a77"
+    },
+    "sound/weapons/arocket2.wav": {
+     "bytes": 11610,
+     "sha256": "c11a4db332a96d844461072082c42d331e7eb69b8681ae49724a3c11a209f98e"
+    },
+    "sound/weapons/ashell1.wav": {
+     "bytes": 4970,
+     "sha256": "110caa401cbad16cf3fc78b0d60c27c11640d355a425cf4a18dbcb58954c13e3"
+    },
+    "sound/weapons/ashell2.wav": {
+     "bytes": 8308,
+     "sha256": "e7f7c5545944f2c8ca518ffbf6af542be4bbb22ff0aa2d039c5f64bef6e83f57"
+    },
+    "sound/weapons/chain1.wav": {
+     "bytes": 9552,
+     "sha256": "655018e0b1ebd61283db23ff324574948295e3a9ca43337e49c8d49938666210"
+    },
+    "sound/weapons/chain2.wav": {
+     "bytes": 19022,
+     "sha256": "bbc5dcc50a31fb7c44d8c8f3cfa1c919e0c15875140f9ab3a9768ecfab0ebb8a"
+    },
+    "sound/weapons/chain2z.wav": {
+     "bytes": 19090,
+     "sha256": "b4be4c88effc6d0605b34cbcb772d79b7dbccf8c902f5bc76a17bf3131b32e95"
+    },
+    "sound/weapons/chain3.wav": {
+     "bytes": 2676,
+     "sha256": "61183aad8e0f3c4716f4243a74728fee29fde7db9ca08b522ddc98834c10998a"
+    },
+    "sound/weapons/hot1.wav": {
+     "bytes": 3252,
+     "sha256": "2b21217fbc4d5f4f862f69f31a58473dd29f23110d321a1a3afcaf7e504d672a"
+    },
+    "sound/weapons/hot2.wav": {
+     "bytes": 29170,
+     "sha256": "25cd7092c9b4987f923f534957a312852b920f185af63c73e84b765e7889d3bc"
+    },
+    "sound/weapons/hot3.wav": {
+     "bytes": 50978,
+     "sha256": "c6b312455b7678b0ebf0f55753cc39b9e07178ec5d5fea2605310eca6e52a915"
+    },
+    "sound/weapons/hot4.wav": {
+     "bytes": 10698,
+     "sha256": "254ba8798743618faf4d4738ff779cbd686dcda7c0da1a3d639290aa88dd02a0"
+    },
+    "sound/weapons/mjoltink.wav": {
+     "bytes": 3050,
+     "sha256": "aaead2e80ab122ac8835b41966317bcf995faf7a136e6bee1202fa3bf253ece4"
+    },
+    "sound/weapons/pkup2.wav": {
+     "bytes": 10118,
+     "sha256": "3be3ba31de2818cb915a4a4cf4721b1271a0983f1e9ad3df1142793809dd5570"
+    },
+    "sound/weapons/pkup3.wav": {
+     "bytes": 9276,
+     "sha256": "13098a619b250590b51cc0a609e18a396a3fa79576abb3c72742534c9083cfb5"
+    },
+    "sound/weapons/pkup4.wav": {
+     "bytes": 8090,
+     "sha256": "5f2e794af6199386e7bbfdd5961a3cb67ecac41b87e5d2336f15f95f09f1b865"
+    },
+    "sound/weapons/pkup5.wav": {
+     "bytes": 23018,
+     "sha256": "c3131e35745097fd1ab966e3334544f3af49e2a96c2ca0dd428e960de5562b28"
+    },
+    "sound/weapons/pkup6.wav": {
+     "bytes": 11140,
+     "sha256": "a23f96837b00b8ba574d6edfe7421f47e2115b6a6b5dedc9761eea0cece0f823"
+    },
+    "sound/weapons/pkup7.wav": {
+     "bytes": 9594,
+     "sha256": "a1b429e7759d70fb68fb90561ebb7a3addb0291628e225c8650bf9a52ff2882c"
+    },
+    "sound/weapons/pkup8.wav": {
+     "bytes": 15798,
+     "sha256": "2b8e586ae22b5138b7e2d46d76ed4c47dedd3bda14e0e1a64dd8a6a734fe0745"
+    },
+    "sound/weapons/pkup81.wav": {
+     "bytes": 10040,
+     "sha256": "708f7935c4b5d291703697400be66776417a19cd4a6db7871db85875d904e605"
+    },
+    "sound/weapons/pkup9.wav": {
+     "bytes": 33732,
+     "sha256": "cc2a7dcc1d16b17a598e2472b69f941c603dec77131853d8884d20a1ccea8046"
+    },
+    "sound/weapons/shotcyc1.wav": {
+     "bytes": 18242,
+     "sha256": "c069f126338f166129ce9eb8065999dc4348028f92ac5af72075843885b8ff48"
+    },
+    "sound/weapons/shotcyc2.wav": {
+     "bytes": 3372,
+     "sha256": "8446a93c88c9574d63f3d4c3c395894da50343b55b7a1a97354f93e75eb7a122"
+    },
+    "sound/weapons/shotcyc3.wav": {
+     "bytes": 6190,
+     "sha256": "8fcfb6080be436f6ffb5b1310ba100d39a184e20aac1588050a6d62001334f68"
+    }
+   },
+   "sha256": "8c94fe82bdbc9b4bc9b795541436f9f4af178407afbafd84c1baae66f81b5585",
+   "timestamp": "2019-02-09T00:51:34.000Z"
+  },
+  "modjam_adaya/progs.dat": {
+   "bytes": 596360,
+   "sha256": "0eaf52296bc645477fc3fe5e581c54423f3ff82715bba963cd4d2b01e23ce274",
+   "timestamp": "2019-02-23T00:25:58.000Z"
+  },
+  "modjam_adaya/progs.lno": {
+   "bytes": 177496,
+   "sha256": "b7bf051508f084fa358c5738dfee83ab9d0a71124a6b4b46645199fdd73a4076",
+   "timestamp": "2019-02-10T21:23:18.000Z"
+  },
+  "modjam_adaya/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/progs/armor.mdl": {
+   "bytes": 44076,
+   "sha256": "2c3ed470f75c2ed1fabca5a0ae3f152865e07e2aeabeb9f94b80bbc979d074fa",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/bfgblst.spr": {
+   "bytes": 16500,
+   "sha256": "c8e0c255110c35e8b055a0a68fb4471b9dd0adf34ec5d9caeb3dce996ac5d722",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/bfgexpl.spr": {
+   "bytes": 393372,
+   "sha256": "93db88bffe5ba26c4d8886ac11ca32bc7da12b7b5bfb31242069592be6d53dd3",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/butcher.mdl": {
+   "bytes": 162036,
+   "sha256": "3de16efabfa80692984c0f8f742157d28991abf664d80d9250b3fdd4b0d5e9b2",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/g_chain.mdl": {
+   "bytes": 50628,
+   "sha256": "caeb28e0a2a5cd18a83eb0681e76664b903a7aa850ce6662d4abef0678efbce8",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/g_hot.mdl": {
+   "bytes": 57156,
+   "sha256": "908dba6ec48d48640d0b813a6cdb9c0e6d3517cff2ec892837f720b0741104e1",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/g_shotcl.mdl": {
+   "bytes": 335236,
+   "sha256": "29b71ebd225844dfaeda7ee829e3d111b123977f2511821835578cd2e8536eeb",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/h_but.mdl": {
+   "bytes": 14900,
+   "sha256": "b93958802085ea972acdf7e9c008774a807e99ab1dc4c0bdd70bddabbccece17",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/h_nail.mdl": {
+   "bytes": 11828,
+   "sha256": "6b8222563698bb2a5759322fc1fd03713ce59fb4c62847abedfe5c626c985e4e",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/h_shell.mdl": {
+   "bytes": 11828,
+   "sha256": "15c3f8c45a52d866981ba1ebd3c5ed2797e91d149acc5852dd7642a43d4d7a84",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/hermes.mdl": {
+   "bytes": 62276,
+   "sha256": "55b702432f6c4cf4c21df1142ac45eae63cbd158dfd92442176f26e91f5ea770",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/kronos.mdl": {
+   "bytes": 62276,
+   "sha256": "3a6be59da8623882cc6d50381f7237942cdf424e97d20953cde382697ef237aa",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/kronos1.mdl": {
+   "bytes": 62276,
+   "sha256": "ad6b0e2e2b1299a97c59f00bbfa0e9c93ceeac4034d2a95391d61e90aed4573b",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/lspike.mdl": {
+   "bytes": 1684,
+   "sha256": "75a3f036a04bf5843488758f90fc2416d8a96ed5493460444c4fe2e6ce9956e4",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/nailinf.mdl": {
+   "bytes": 160688,
+   "sha256": "c67399daabb0905113dd77cc79a79592111c63c0097ba33b84eeb6d9144ace7c",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/s_light4.spr": {
+   "bytes": 2124,
+   "sha256": "b265c5d1311d0cfb552a4f60234a5d14817ad0ed4211f24b544200e712e1c1f7",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/shelltrp.mdl": {
+   "bytes": 399572,
+   "sha256": "332fb8a227e10c124d1b091a28352c1f875c6f1936c56d041066ea85819c5310",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/v_chain.mdl": {
+   "bytes": 86004,
+   "sha256": "b0bef898fbced4aaa976a953836ec38018bb014582753534ec353709de5ac0e1",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/v_hot.mdl": {
+   "bytes": 60228,
+   "sha256": "7d51ecfbd37d7bbc6f9702f8a9a4766261a9a9d537880ac6c0450ad0c4ce054f",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/progs/v_shotcl.mdl": {
+   "bytes": 76404,
+   "sha256": "fc1388687f000a9d09da9879dadd51e43ad929359da0eb2f77e0a305969f09bf",
+   "timestamp": "2019-02-09T01:10:32.000Z"
+  },
+  "modjam_adaya/quake.rc": {
+   "bytes": 390,
+   "sha256": "e054713d0b6db79c54cecc00355198553aed78dcafd47c2845f1bace11597358",
+   "timestamp": "2019-02-10T21:22:10.000Z"
+  },
+  "modjam_adaya/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/sound/butcher/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/sound/butcher/flak.wav": {
+   "bytes": 17720,
+   "sha256": "36b1e2fae9c717e92364d5c67d4e00d25ed9f6dacf798d656bfaf7fd72e233b2",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogdrag.wav": {
+   "bytes": 12396,
+   "sha256": "e7cf55df89c831567f8bf7b02e57b987e3b57eb34bfe48225167f2af6b640c11",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogdth.wav": {
+   "bytes": 12052,
+   "sha256": "0587d14849b0fec40eeea6dc4d61db548a8d760e17cbee07f572e5de081c5a5b",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogidle.wav": {
+   "bytes": 61810,
+   "sha256": "40ecc9597a7c2fa5d65f203dd022379bf3b85bfe4a19612181f5dd29f831d1f8",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogidle2.wav": {
+   "bytes": 12292,
+   "sha256": "14d217d02c7a3898d835cda4ee00c80afe722943d0d538a0b7b95e7b3cb8230d",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogpain1.wav": {
+   "bytes": 7730,
+   "sha256": "c8f157894e5651a2f599994d489520c539549dc5cb51d803e0ad60364b0c205a",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogpain2.wav": {
+   "bytes": 9108,
+   "sha256": "77a09d54447b3ce0b3a304545f613da813b29365de2d0c168c07ccdc1d6b04e7",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogpain3.wav": {
+   "bytes": 10930,
+   "sha256": "041d603a4c53633324dc28f937d80e51c70fb3f80fbd18f41a8b160ef7596f2a",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogsawatk.wav": {
+   "bytes": 16154,
+   "sha256": "f24f86055999053273798d54f646064f3053414dfb14167d611aa1cb6dbbb51b",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/butcher/ogwake.wav": {
+   "bytes": 8420,
+   "sha256": "fd327b2b1f56656b3573262486b2756494d6812dbf5bf6b1e5bd939da3ed4297",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/items/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/sound/items/armor1.wav": {
+   "bytes": 6494,
+   "sha256": "259c57ed9a96e2794933fb1e5ddabddbdc87069968590d6e3ac69895c18282d3",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/items/armor2.wav": {
+   "bytes": 7704,
+   "sha256": "081c3f62f9a94969f75947b51c785d40a6d24b16d39f529804b5c85404f7cae6",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/items/armor3.wav": {
+   "bytes": 9252,
+   "sha256": "c51e305d5a2b42f6b9b9dfd82fc1870e086a0b2ab8c04dbe3c00a1e04784f98f",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/items/clock1.wav": {
+   "bytes": 38168,
+   "sha256": "ee475af2135a5c9d8b2afab199c2131d95070b9e3a56e3571adf3f00b95c50b9",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/items/clock2.wav": {
+   "bytes": 70976,
+   "sha256": "8b40b62f88303d16cfc6fef6b7ad1be584c50764c2883075eab77bd220fb155b",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/items/clock3.wav": {
+   "bytes": 130248,
+   "sha256": "a04c45553280fbb992308fb0aade8ac8e74ec4e4c2ab8400a69de8bad642fc25",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/items/haste1.wav": {
+   "bytes": 13420,
+   "sha256": "267bcedfe84a50bc1f5257d5cc7cd401465bd012682b328546e5af61f8fc29cb",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/items/haste2.wav": {
+   "bytes": 31622,
+   "sha256": "c8e298dab6c215bffc237cd6681dae38c803250e1c199db9b61f523500ce3e13",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/misc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/sound/misc/demwhis.wav": {
+   "bytes": 41860,
+   "sha256": "ebe61eef38623168a0601d06abbc7d59f99f222df6f4b7552640c7bd872f65ae",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/sound/nailinf/death.wav": {
+   "bytes": 18898,
+   "sha256": "b9bbb261c4f58c7857f368e7482a6706b1a4105b3ad4e41a700d1025d29d38c6",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/idle1.wav": {
+   "bytes": 14894,
+   "sha256": "3ec1439123c6f122838ea8d7a26db9ddf45f60e8b2eb851382c8f3aa191c5b17",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/nailshrd.wav": {
+   "bytes": 41464,
+   "sha256": "dd2e7b5cd674d61c4e26d20cf4162586bda9aec30ec9a33526d7ca089f8c468e",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/pain1.wav": {
+   "bytes": 5118,
+   "sha256": "81038879b6d933fe59d29059b5d0655b6e9bbd96c11f902c5d6fd5e3acb0a333",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/pain2.wav": {
+   "bytes": 5680,
+   "sha256": "a8eba9496de56151703e9a8b93dc9f0ab7e161ae351acd0082feda567959ebb1",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/prepfire.wav": {
+   "bytes": 8818,
+   "sha256": "e76bdc8040c3c467bc9f765f0d91508c4aba7aecfa92a1c954400e01d37688c5",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/sight1.wav": {
+   "bytes": 18618,
+   "sha256": "6f6f9f5c2d92b87abae4c2fc78c92b3e96f20a5d9e53eacf9eebb283bd4558da",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/sight2.wav": {
+   "bytes": 15670,
+   "sha256": "42dbf9e02a96ba2e6cd2bee0adf9dae22292c572d9c00bc499a699e6ea4da9cf",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/sight3.wav": {
+   "bytes": 14522,
+   "sha256": "38851d768386b7096548b082235da9921966905678ca84027567e59b6e603bc1",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/nailinf/sight4.wav": {
+   "bytes": 19798,
+   "sha256": "0583212c3dd33bede0fd9e2963a04c8320add72c523305dafc6f3dd3b28cda59",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/death1.wav": {
+   "bytes": 14392,
+   "sha256": "a75e4b75af69296ee5a273bf1ff62a60321b97e48d10ee333ca08b46be22ea0e",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/idle1.wav": {
+   "bytes": 58092,
+   "sha256": "aae8911895b15e66c40f7a2d3b687ad19af0e278bdfe874798d2c8d9061b2470",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/pain1.wav": {
+   "bytes": 11560,
+   "sha256": "e46f4d79a901c0398dfef501b6b5682129c0721f8bbb87822123c90a8a3fc050",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/pain2.wav": {
+   "bytes": 16882,
+   "sha256": "e970b2107f4557869d9930077f3e8177db050a39a84421a00ac8921b09d5864f",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/pump.wav": {
+   "bytes": 6390,
+   "sha256": "eec07407720f84a37e600f22eb0265549d350add8af972dc507ed0306c20a121",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/shotgn.wav": {
+   "bytes": 22148,
+   "sha256": "2e676451c8c64d14bf8f9dde8213d3cc9ba48b3a4dfbf3b392b5ae6fd86d2c1f",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/sight1.wav": {
+   "bytes": 25442,
+   "sha256": "6f44f881ba084bf2fcb613f46bf106de75d96119ee8c23f5f000d1692aad4468",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/sight2.wav": {
+   "bytes": 16560,
+   "sha256": "f1cc4fb4aebde3174bfc659dc21d82eddcfbcb244ff6cc217831f368641ccdd3",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/sight3.wav": {
+   "bytes": 22928,
+   "sha256": "5780dcc29d54533106acd161710445b07481d962129a219dd433cd516b571f71",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/shelltrp/sight4.wav": {
+   "bytes": 49950,
+   "sha256": "cec85ed6a38bdc1670e9b9a98ddb4bf41327762baf9e7dc55a45782070fef482",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/sound/weapons/acell1.wav": {
+   "bytes": 8800,
+   "sha256": "fe0c36bc9e541ad620bd1725318311f3eab13442d3b9726d9b3108e6b39d17e9",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/acell2.wav": {
+   "bytes": 10920,
+   "sha256": "56fbe4f9e61516931aa3048993c28c5398d2035e6372c69da8925ea60cdedd7c",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/anail1.wav": {
+   "bytes": 4950,
+   "sha256": "ee61c5455fc13216173e44a58ce13a522ba74d354bbb5707177131daec2376c1",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/anail2.wav": {
+   "bytes": 7300,
+   "sha256": "fdb33dade14269d4d5e7de03e30c087b057e00f9635a1411a12fca70b7bc91db",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/arocket1.wav": {
+   "bytes": 9502,
+   "sha256": "2a0c639fb760088b883f083d951d82780bc918008192a032cdcd54fc06ff0a77",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/arocket2.wav": {
+   "bytes": 11610,
+   "sha256": "c11a4db332a96d844461072082c42d331e7eb69b8681ae49724a3c11a209f98e",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/ashell1.wav": {
+   "bytes": 4970,
+   "sha256": "110caa401cbad16cf3fc78b0d60c27c11640d355a425cf4a18dbcb58954c13e3",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/ashell2.wav": {
+   "bytes": 8308,
+   "sha256": "e7f7c5545944f2c8ca518ffbf6af542be4bbb22ff0aa2d039c5f64bef6e83f57",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/chain1.wav": {
+   "bytes": 9552,
+   "sha256": "655018e0b1ebd61283db23ff324574948295e3a9ca43337e49c8d49938666210",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/chain2.wav": {
+   "bytes": 19022,
+   "sha256": "bbc5dcc50a31fb7c44d8c8f3cfa1c919e0c15875140f9ab3a9768ecfab0ebb8a",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/chain2z.wav": {
+   "bytes": 19090,
+   "sha256": "b4be4c88effc6d0605b34cbcb772d79b7dbccf8c902f5bc76a17bf3131b32e95",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/chain3.wav": {
+   "bytes": 2676,
+   "sha256": "61183aad8e0f3c4716f4243a74728fee29fde7db9ca08b522ddc98834c10998a",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/hot1.wav": {
+   "bytes": 3252,
+   "sha256": "2b21217fbc4d5f4f862f69f31a58473dd29f23110d321a1a3afcaf7e504d672a",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/hot2.wav": {
+   "bytes": 29170,
+   "sha256": "25cd7092c9b4987f923f534957a312852b920f185af63c73e84b765e7889d3bc",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/hot3.wav": {
+   "bytes": 50978,
+   "sha256": "c6b312455b7678b0ebf0f55753cc39b9e07178ec5d5fea2605310eca6e52a915",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/hot4.wav": {
+   "bytes": 10698,
+   "sha256": "254ba8798743618faf4d4738ff779cbd686dcda7c0da1a3d639290aa88dd02a0",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/mjoltink.wav": {
+   "bytes": 3050,
+   "sha256": "aaead2e80ab122ac8835b41966317bcf995faf7a136e6bee1202fa3bf253ece4",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup2.wav": {
+   "bytes": 10118,
+   "sha256": "3be3ba31de2818cb915a4a4cf4721b1271a0983f1e9ad3df1142793809dd5570",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup3.wav": {
+   "bytes": 9276,
+   "sha256": "13098a619b250590b51cc0a609e18a396a3fa79576abb3c72742534c9083cfb5",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup4.wav": {
+   "bytes": 8090,
+   "sha256": "5f2e794af6199386e7bbfdd5961a3cb67ecac41b87e5d2336f15f95f09f1b865",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup5.wav": {
+   "bytes": 23018,
+   "sha256": "c3131e35745097fd1ab966e3334544f3af49e2a96c2ca0dd428e960de5562b28",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup6.wav": {
+   "bytes": 11140,
+   "sha256": "a23f96837b00b8ba574d6edfe7421f47e2115b6a6b5dedc9761eea0cece0f823",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup7.wav": {
+   "bytes": 9594,
+   "sha256": "a1b429e7759d70fb68fb90561ebb7a3addb0291628e225c8650bf9a52ff2882c",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup8.wav": {
+   "bytes": 15798,
+   "sha256": "2b8e586ae22b5138b7e2d46d76ed4c47dedd3bda14e0e1a64dd8a6a734fe0745",
+   "timestamp": "2019-02-09T01:10:38.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup81.wav": {
+   "bytes": 10040,
+   "sha256": "708f7935c4b5d291703697400be66776417a19cd4a6db7871db85875d904e605",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/pkup9.wav": {
+   "bytes": 33732,
+   "sha256": "cc2a7dcc1d16b17a598e2472b69f941c603dec77131853d8884d20a1ccea8046",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/shotcyc1.wav": {
+   "bytes": 18242,
+   "sha256": "c069f126338f166129ce9eb8065999dc4348028f92ac5af72075843885b8ff48",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/shotcyc2.wav": {
+   "bytes": 3372,
+   "sha256": "8446a93c88c9574d63f3d4c3c395894da50343b55b7a1a97354f93e75eb7a122",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/sound/weapons/shotcyc3.wav": {
+   "bytes": 6190,
+   "sha256": "8fcfb6080be436f6ffb5b1310ba100d39a184e20aac1588050a6d62001334f68",
+   "timestamp": "2019-02-09T01:10:36.000Z"
+  },
+  "modjam_adaya/src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-23T00:28:12.000Z"
+  },
+  "modjam_adaya/src/ai.qc": {
+   "bytes": 19769,
+   "sha256": "3779993bcded0ed162863b7c623ac379b37d28c8be64a315970acc463dd12ea7",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/amtest.qc": {
+   "bytes": 2653,
+   "sha256": "01d7d017fc613cfa5b2ed4630e804ea392633a5acbf042c6ac05708e66b4ec3b",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/boss.qc": {
+   "bytes": 17569,
+   "sha256": "009fb13b589e8b82ab5e988ac1b35b5a5df0989b1d2ede5d4d4789b9ec0544b7",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/butcher.qc": {
+   "bytes": 19476,
+   "sha256": "2bd254be6255e049a8d4f2faa2062e26570fe08645b8bff42c6d150c1d071ce1",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/butcher1.qc": {
+   "bytes": 19474,
+   "sha256": "090912690d83cdcd51339c463bd9a8f6d2d61da79729815c6ea34ea3bdbd6ee3",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/buttons.qc": {
+   "bytes": 3930,
+   "sha256": "11ae6ce91d7b50022ac04106aa73f06865d308f99b4414eaefcc7331e9682082",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/client.qc": {
+   "bytes": 80261,
+   "sha256": "ce0f13a4c191ff08f545fd59be985df7e81511926437e0728e399b1462ddccfb",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/combat.qc": {
+   "bytes": 18722,
+   "sha256": "bc3c5f9eeb8c2f30478f77de77d90aaf729983f6d1c8fc54f92281fe6566b976",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/debug.qc": {
+   "bytes": 5675,
+   "sha256": "a13007288d4e188623294c0d6c5e8a5f92c48a0ed3784f0d2846ece2344c3fa8",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/defs.qc": {
+   "bytes": 45904,
+   "sha256": "4985b2701e4d0373c82cd1e41fc523724d5d1e8509ce49f440ad116a73094038",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/demon.qc": {
+   "bytes": 14019,
+   "sha256": "d1545a9cc74e4174ddcf39d947c4fa33a8dc154351fa0c33be6e9a128974f73b",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/directives.qh": {
+   "bytes": 555,
+   "sha256": "acacadad9777e4f3611b3fa584a5593f6901ff698a3c8af6c0bbba8f6a0c9fa2",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/dog.qc": {
+   "bytes": 14209,
+   "sha256": "44c5eeba491df6f37e4ef5f9c86c08216ad0bd2fffd2c7efe15cdda2d02a4074",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/doors.qc": {
+   "bytes": 19435,
+   "sha256": "3032bb068308f01c943d70e407bce1be1b8abe5077599293f51635b4bc00205c",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/enforcer.qc": {
+   "bytes": 15390,
+   "sha256": "55f539e08a2067a0b8bce34e6c4ab003d3fb3e16889437d6ea26fde197a04ced",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/fight.qc": {
+   "bytes": 8844,
+   "sha256": "857ae639e76378bd741e038d3cfb9e08ea576c97d613f65cd678b9d40b010fc5",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/fish.qc": {
+   "bytes": 12612,
+   "sha256": "d53444864cb9476693eec91912e9d482d477aadca97e3a63ec6baa5a4e970fbf",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/flag.qc": {
+   "bytes": 1029,
+   "sha256": "7a9ed6765bd818b845af6600a094737a2345aee0c8a9990171d40d11faf7b8f8",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/frikbot/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:30.000Z"
+  },
+  "modjam_adaya/src/frikbot/bot.qc": {
+   "bytes": 34848,
+   "sha256": "fcd36a6f9b60f8069017644ec568ad95c4dc517c16999b558495d256b9eea9c5",
+   "timestamp": "2001-10-13T13:37:14.000Z"
+  },
+  "modjam_adaya/src/frikbot/bot_ai.qc": {
+   "bytes": 23842,
+   "sha256": "9cb6f18ad234c784c26913e8c4f3b7c6493f49917622d0e1316877fcdc44c00c",
+   "timestamp": "2001-08-01T10:36:44.000Z"
+  },
+  "modjam_adaya/src/frikbot/bot_ed.qc": {
+   "bytes": 36730,
+   "sha256": "0ff8753508cded550bd1002413c928bf7f408bac45baadf6d4ce38ac66bb217f",
+   "timestamp": "2001-11-02T16:26:24.000Z"
+  },
+  "modjam_adaya/src/frikbot/bot_fight.qc": {
+   "bytes": 9639,
+   "sha256": "b033fee77fe157c733d48eac5b37a42fe1d3bd2bbfa04bb62adc440de7765678",
+   "timestamp": "2001-08-01T10:36:02.000Z"
+  },
+  "modjam_adaya/src/frikbot/bot_misc.qc": {
+   "bytes": 15211,
+   "sha256": "bca13bb4f9a11a0d2f40feb5048f53b0611eddfc06bd55853642093bc3005cfa",
+   "timestamp": "2001-10-23T21:34:48.000Z"
+  },
+  "modjam_adaya/src/frikbot/bot_move.qc": {
+   "bytes": 11950,
+   "sha256": "ac06858ffe5f1c3f33652318e18cb562a6638fbd84d7c85df88d110e4bca1001",
+   "timestamp": "2001-08-05T23:08:18.000Z"
+  },
+  "modjam_adaya/src/frikbot/bot_phys.qc": {
+   "bytes": 17649,
+   "sha256": "0b9d48cea3cbea4483795cb317e05b84dcffa20ab5ed91de27afbdbddea93dc0",
+   "timestamp": "2001-08-01T10:36:36.000Z"
+  },
+  "modjam_adaya/src/frikbot/bot_way.qc": {
+   "bytes": 20667,
+   "sha256": "6bca6f92fb5b52ea761afe32bf6d35afc611267f36b0becdccc0f861e009d23b",
+   "timestamp": "2001-10-23T21:27:52.000Z"
+  },
+  "modjam_adaya/src/frikbot/map_dm1.qc": {
+   "bytes": 2439,
+   "sha256": "22026e08b6e0a2b20937168d12be1667c34adc095e47b76f53de51addeba431b",
+   "timestamp": "2001-08-05T22:49:54.000Z"
+  },
+  "modjam_adaya/src/frikbot/map_dm2.qc": {
+   "bytes": 4794,
+   "sha256": "abd039b872c9f66f497964eb08d2de450612bd905f7cb6ae72ae9199ded9aa55",
+   "timestamp": "2001-08-05T23:01:34.000Z"
+  },
+  "modjam_adaya/src/frikbot/map_dm3.qc": {
+   "bytes": 7646,
+   "sha256": "210045bcf2062373b60d34db64bc3d73eb6f6b3f39a9ca7a18beb87aebcb16d2",
+   "timestamp": "2001-07-25T22:13:46.000Z"
+  },
+  "modjam_adaya/src/frikbot/map_dm4.qc": {
+   "bytes": 2343,
+   "sha256": "ca3a307e31fb410ad4080087397601a7b943867ab04122ccb70b035d4e00f442",
+   "timestamp": "2001-05-19T02:52:42.000Z"
+  },
+  "modjam_adaya/src/frikbot/map_dm5.qc": {
+   "bytes": 2564,
+   "sha256": "8c50ad11bbe4060c0d9415c3901a71bfaa2fe81a1a84167fba52b43a0f39a0e0",
+   "timestamp": "2001-08-05T22:49:48.000Z"
+  },
+  "modjam_adaya/src/frikbot/map_dm6.qc": {
+   "bytes": 3429,
+   "sha256": "6af9ce65bbc1d199f650201a9a8e8f56cd75d0bc65bfce36a3108853587c6d01",
+   "timestamp": "2001-08-06T06:41:20.000Z"
+  },
+  "modjam_adaya/src/hknight.qc": {
+   "bytes": 24722,
+   "sha256": "30a57b65af67348c9a9d59ddadaa0380b02c5ffa01632612c535f8c00cade5e8",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/info.qc": {
+   "bytes": 10576,
+   "sha256": "df53a520393ca873c0ea897262b3c2a4c7a5a59886348fccc0490883f74f40fc",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/items.qc": {
+   "bytes": 61234,
+   "sha256": "fef5000df9e172acc5b8bf113acbcc7b262a1bc8207ef0db3a8ea01739dd4be6",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/jctest.qc": {
+   "bytes": 1117,
+   "sha256": "a144a3673918fa8f1a808417323c49e074db6080796664f68dfbbecc313861bd",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/knight.qc": {
+   "bytes": 13804,
+   "sha256": "25adc968908b9e1484267dd11cacb97f8b18f08bb25fe9484a8ff417063b6136",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/misc.qc": {
+   "bytes": 19496,
+   "sha256": "dd9348d7df42b9e62163a5350271af6916d04e741e05a78b7920e646b67b76ee",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/models.qc": {
+   "bytes": 10459,
+   "sha256": "d5c7f44257be7e9167dd3aa91103e15d2354558215778634e282401e1b7b259f",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/monsters.qc": {
+   "bytes": 12571,
+   "sha256": "f8d3b14dcee99090b29bd7a94c6b7d225c80e984c8549091586487aaccfa59c4",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/motd.qc": {
+   "bytes": 2898,
+   "sha256": "a1c5caf1d9e0955b25433ff5adc718971f559ab0fe54980a126caa3328b482d1",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/nailinf.qc": {
+   "bytes": 13919,
+   "sha256": "af5f5cb6ba67e5371637921b631d73ebdf68633559d871a5e4ffb8bdc85f0c21",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/ogre.qc": {
+   "bytes": 21699,
+   "sha256": "9ff92cfce3f55e7e4fe83d33076eb77f2751e8d6a509c69b4dd665c2f76500b8",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/oldone.qc": {
+   "bytes": 11713,
+   "sha256": "dfec0f7cf6d556cb204817de6208954b347cb4f664d49959037700244803521c",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/plats.qc": {
+   "bytes": 9905,
+   "sha256": "786c9bfe9ffb4f02c4e95b93c8f527be76d311582014e55119db9e94d7b052d8",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/player.qc": {
+   "bytes": 28977,
+   "sha256": "13bb8303220fa91466433b3deb3986dbb4d0faa35eba496af4fbb85398dc8f85",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/progdefs.h": {
+   "bytes": 2598,
+   "sha256": "99e562ac15081804245e7c7018956f2241cffa00a024a954c97183248bd00ea4",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/progs.src": {
+   "bytes": 51862,
+   "sha256": "93ac4c3824db200620444bb8fd2ef83bccb966cb1b5a1ea57abd970ec51de7f8",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/resume.qc": {
+   "bytes": 3036,
+   "sha256": "4de836eec6acf8c21254428d3268db26ba4b9d534bc601196c446baa890db0fc",
+   "timestamp": "2019-02-23T00:27:24.000Z"
+  },
+  "modjam_adaya/src/rules.qc": {
+   "bytes": 7421,
+   "sha256": "8ff0f8fc16809a9f35b094988f9d82004170ba3babf99b8a0445cc1a4077d3ce",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/shalrath.qc": {
+   "bytes": 11601,
+   "sha256": "a95bb2f20088865385848f99b7c36cde52b848ad43de3d635290c70b1c344f50",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/shambler.qc": {
+   "bytes": 17268,
+   "sha256": "8f22fd16c05324c075a25d4a17c86be6cb767092d696fe3e094e327995ac930a",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/shelltrooper.qc": {
+   "bytes": 14555,
+   "sha256": "a531524f92f81a8ff1d91cd8fe59614c737615d7c8c0f42c4b3c9e3b7811004f",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/skins.qc": {
+   "bytes": 7470,
+   "sha256": "7c9f50d866919f933d2df5e3387576f3f7e7e661bf39fdd58c76966de45d6cc0",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/soldier.qc": {
+   "bytes": 14149,
+   "sha256": "2627c1fa25fc577c892688cfe67a0598b032da9f461f7a82d36c0c7bcf0f8355",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/sprites.qc": {
+   "bytes": 1330,
+   "sha256": "f77e1d3e8f1f59c3b6340e64028a5fe2968ceb522d9258b051f03eb738f8279d",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/subs.qc": {
+   "bytes": 7983,
+   "sha256": "f631dd5bdfcfc904759844297243c955abac8421dd89c1b1578ffe09af1c7eb9",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/tarbaby.qc": {
+   "bytes": 10908,
+   "sha256": "29274c4f75001f4a7c5fac19fd28a3d7389fe95bc2736c132a9240ad4af3300b",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/triggers.qc": {
+   "bytes": 22730,
+   "sha256": "e2fc6a257ab4411e7626ae202a863f96a9fc8edf49aa82d9a0e16fdde9b8613c",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/weapons.qc": {
+   "bytes": 56748,
+   "sha256": "a57d8329a5f34408562b2b657b9f3faf19345b76190121b059edd6873e0d043f",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/wizard.qc": {
+   "bytes": 12189,
+   "sha256": "ffbf1dc8c08117f9a169225109c0aea2d1333d883a8fbfd37946a17929340bdd",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/world.qc": {
+   "bytes": 40765,
+   "sha256": "2f21fbba461abf50fce6a60659cc7d5da13aed4bd68bd82c2df46523c82f9f92",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_adaya/src/zombie.qc": {
+   "bytes": 27791,
+   "sha256": "244cc9cc76e469dc8a0325cf95780769706b44cc0b0cf19116086fc1a2acdd84",
+   "timestamp": "2019-02-23T00:27:26.000Z"
+  },
+  "modjam_bloodshot/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-23T00:45:18.000Z"
+  },
+  "modjam_bloodshot/Bloodshot Readme.txt": {
+   "bytes": 220,
+   "sha256": "ff44cd45e4757a236750e7e1658a0233c2b11e36f5c4eb74dcd190159242ba51",
+   "timestamp": "2019-02-11T06:58:22.000Z"
+  },
+  "modjam_bloodshot/progs.dat": {
+   "bytes": 350494,
+   "sha256": "eda50899a9c945895c75bb35db6bfa7b202c719d61e82d23d6fc1509a1a23681",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:46.000Z"
+  },
+  "modjam_bloodshot/progs/bloodshot/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:46.000Z"
+  },
+  "modjam_bloodshot/progs/bloodshot/h_shams_mini.mdl": {
+   "bytes": 37060,
+   "sha256": "d66a977dd2feeb6d7217cf0b69aa4c8e32b8106205f0cf41dab3c5cdcbbccfe6",
+   "timestamp": "2019-01-21T23:34:14.000Z"
+  },
+  "modjam_bloodshot/progs/bloodshot/shambler_mini.mdl": {
+   "bytes": 98556,
+   "sha256": "f853134896e335b065e746d49e4e36becf5f85a99c4e8fc097e71fd4bc550a8f",
+   "timestamp": "2019-01-21T22:48:52.000Z"
+  },
+  "modjam_bloodshot/progs/bloodshot/sheepmis.mdl": {
+   "bytes": 132633,
+   "sha256": "c4d43d92c4a5c5b3d432163cb9f5640fb3d5581fd190f299be13d69321ebbc6d",
+   "timestamp": "2019-02-02T03:10:16.000Z"
+  },
+  "modjam_bloodshot/progs/bloodshot/v_hand.mdl": {
+   "bytes": 120132,
+   "sha256": "22b020731e46d8f40c97137e60f159b432b2c9970636e27cc5139b4870d41542",
+   "timestamp": "2019-01-21T21:56:14.000Z"
+  },
+  "modjam_bloodshot/progs/g_rock.mdl": {
+   "bytes": 1327764,
+   "sha256": "f7206efb4d896ef326ed855cabe96686584aceb6c8ff040f5e0dd3b2581f7aa9",
+   "timestamp": "2019-02-02T00:50:52.000Z"
+  },
+  "modjam_bloodshot/progs/v_rock.mdl": {
+   "bytes": 102484,
+   "sha256": "17465bbf9e14b8382817806f55bb13275862b6f40efebe7800098b4bb1f6e66f",
+   "timestamp": "2019-02-02T00:39:16.000Z"
+  },
+  "modjam_bloodshot/progs/v_shot.mdl": {
+   "bytes": 72364,
+   "sha256": "fe2b8353ee1b23f9eb32c4cc715c1fca3bea858346fd1eb6ae5f54c06d556331",
+   "timestamp": "2019-02-02T02:08:40.000Z"
+  },
+  "modjam_bloodshot/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:46.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:46.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:46.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/melee1.wav": {
+   "bytes": 6846,
+   "sha256": "5cbd1ffed6a48fe69b118f49f69bdf83a6b9e50c641fffe127b517bdb3e6609e",
+   "timestamp": "2019-01-21T23:05:00.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/melee2.wav": {
+   "bytes": 9306,
+   "sha256": "a7d7bb055fa0b264ea84a4db3fc37ad36e8ac0a463da2094a485761fda2283a8",
+   "timestamp": "2019-01-21T23:04:52.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/sattck1.wav": {
+   "bytes": 8036,
+   "sha256": "efa18dec8f6d5066b8d494a232ca9c98c27a4a9130130086a9b0a27ffccb34ed",
+   "timestamp": "2019-01-21T22:43:30.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/sboom.wav": {
+   "bytes": 11672,
+   "sha256": "6c64dafb52536ae35f9d50cd5f6c5c636f3403b83cac4d1e55e62e913e2ca79b",
+   "timestamp": "2019-01-21T22:43:30.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/sdeath.wav": {
+   "bytes": 36408,
+   "sha256": "d3cb3955c2a6c408b6399803107097ebdfd0317fc12cd7488f06a9a6ecb4e39d",
+   "timestamp": "2019-01-21T23:00:20.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/shurt2.wav": {
+   "bytes": 4272,
+   "sha256": "fc46e266c89a93b9ec03fed4ce5b90483dae33e19af192c89b62c3cf7d3d8c82",
+   "timestamp": "2019-01-21T23:00:06.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/sidle.wav": {
+   "bytes": 8154,
+   "sha256": "4df6348d375cb1d024cd540e958e0f6dd6381ac6b242228f10a5d4a83e79f553",
+   "timestamp": "2019-01-21T22:59:52.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/smack.wav": {
+   "bytes": 5300,
+   "sha256": "18d5dd0a3362890d39fa67410bdc04a57777bac8273659860cf656aa428849d5",
+   "timestamp": "2019-01-21T22:43:30.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/shambler/ssight.wav": {
+   "bytes": 28330,
+   "sha256": "efbc38f7c08a2c7da71ee293c0b4da80121a09cdb2b0c810dc00a534257fe1b6",
+   "timestamp": "2019-01-21T23:31:18.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/sheep/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:46.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/sheep/gbfire.wav": {
+   "bytes": 13526,
+   "sha256": "175a3a792ae7286744e62694ea2eb637c511006c8933c32e6da0bdffc684525d",
+   "timestamp": "2019-02-02T01:49:36.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/sheep/sheep2.wav": {
+   "bytes": 18434,
+   "sha256": "10a2a1f8043eea5c1e6f3320dd614e6ddf7b57ab0843440d6b3a53e8136b13fa",
+   "timestamp": "2019-02-02T01:32:26.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/sheep/sheepfly.wav": {
+   "bytes": 35900,
+   "sha256": "0fa32a909d987730050a78978b9f21639fe34345e02abbf84c912d0a9c969ba0",
+   "timestamp": "2019-02-02T01:32:26.000Z"
+  },
+  "modjam_bloodshot/sound/bloodshot/spawn.wav": {
+   "bytes": 31716,
+   "sha256": "52e61e116b9a676c57c6256dd3c89663f2f5e6de32c9bfd38c9219daeb5ebc6c",
+   "timestamp": "2019-02-02T01:57:42.000Z"
+  },
+  "modjam_bloodshot/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-23T00:45:26.000Z"
+  },
+  "modjam_bloodshot/source/ai.qc": {
+   "bytes": 15821,
+   "sha256": "922654e0c53a647bd252528461451b9b5fcf46c5810b60de5494340432f6b216",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/client.qc": {
+   "bytes": 34311,
+   "sha256": "5cb5ee75682316afc7e417c2adefd5b9175fa11a04a20025056bbc2057111ac4",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/custom_defs.qc": {
+   "bytes": 1877,
+   "sha256": "d37bb8030c438203a5b000b6a5eb501e9a8f932e44744192f60d2086f5531a4b",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/defs.qc": {
+   "bytes": 18095,
+   "sha256": "bfce1470264d171c2f9cdc56a04af5c1e7c2db943ecdcc48aadd1050ea36633d",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/items.qc": {
+   "bytes": 29697,
+   "sha256": "79b4bf8e35512ba764a574ee44030bdb4796f7e096c10e1b4adf32d85d8aeec4",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-02-23T00:45:12.000Z"
+  },
+  "modjam_bloodshot/source/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/player.qc": {
+   "bytes": 18823,
+   "sha256": "e386d0811da57eb7a14c04d3ed2f400ef4c88a1e3f0aee79346c0b62c247b349",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/progs.src": {
+   "bytes": 556,
+   "sha256": "4cf6538a137068debaa3f40b5e30bb97db8d04588e309a4823ade41a409b7b13",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/shambler.qc": {
+   "bytes": 13093,
+   "sha256": "128c074b12024a289421f367e1056eb94d76d7b351150d99ac7964145ae994a3",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/shambler_baby.qc": {
+   "bytes": 12938,
+   "sha256": "fb57e9a1d4069de1a9c39e0353753ee5835f3232cb50daf1bda6498c77c4aca1",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/sheepilator.qc": {
+   "bytes": 2009,
+   "sha256": "e6c540cf7a392e4798498486b5159bb9be8cf6718ba45734e3c2b53e574364ba",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/spawnmaster.qc": {
+   "bytes": 248,
+   "sha256": "ef9230ff943963086390cdbd6090cf963dfe96b0154934bc590e1e8121df1ff6",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/tarbaby_baby.qc": {
+   "bytes": 3833,
+   "sha256": "e6ae3a1886e3812c748d0b9b7654f2cdd73968fc02cc434f8d2a63060f4644d8",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/weapons.qc": {
+   "bytes": 28069,
+   "sha256": "b4537fee6c37fc2c6b4825a755a48b9e5a66a440e00ea8b9b5695cf60c341513",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/world.qc": {
+   "bytes": 11480,
+   "sha256": "8c896f17e5ce52e231947b73f42f8da21e7a49230826474647c8d38a3f6ac52f",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_bloodshot/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-02-23T00:45:14.000Z"
+  },
+  "modjam_ish/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T05:57:22.000Z"
+  },
+  "modjam_ish/config.cfg": {
+   "bytes": 2983,
+   "sha256": "bcb2f487f1066511d1a5cdf80a5a0b1b3df0dbc9ba81378fe6685b4cbf2197c0",
+   "timestamp": "2019-02-09T19:41:58.000Z"
+  },
+  "modjam_ish/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:08.000Z"
+  },
+  "modjam_ish/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:08.000Z"
+  },
+  "modjam_ish/gfx/env/Blood Valley.txt": {
+   "bytes": 4963,
+   "sha256": "063ce64216fcf683d95c61ad5a5f993f4f31b3f5f177583ede91edc5b619668e",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/gfx/env/blood-valley_bk.tga": {
+   "bytes": 786476,
+   "sha256": "9f728c7976032a14f1dbedd52fd8eb7ad2d3e37cce37c28db12bf838040117fd",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/gfx/env/blood-valley_dn.tga": {
+   "bytes": 786476,
+   "sha256": "7175f565b467317844c3487d37e697e192bdf3f1c9ca30cb6c05494cb179b4fd",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/gfx/env/blood-valley_ft.tga": {
+   "bytes": 786476,
+   "sha256": "f4623218b6c5018de999cfbebf50c18eaacd919039f7e9c802a41aac52b3f07f",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/gfx/env/blood-valley_lf.tga": {
+   "bytes": 786476,
+   "sha256": "5308d469e8b2a6d40088bf618818329da537e78d36f7ac59e03f2de2d8258bba",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/gfx/env/blood-valley_rt.tga": {
+   "bytes": 786476,
+   "sha256": "36c9c146b7164dc49bf5c40b973a79a69cc6ea042571436716007391933d1612",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/gfx/env/blood-valley_up.tga": {
+   "bytes": 786476,
+   "sha256": "5660709ddd418d8b57ea66fada80bf7581a393855b32e792d969e0aa0c12842c",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/gfx/env/license.txt": {
+   "bytes": 273,
+   "sha256": "027a646bf82f8703f866e58d4da45c67851f1d7fc129f722825e5c267b300293",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/gfx/env/mp_bloodvalley.shader": {
+   "bytes": 369,
+   "sha256": "8edbeb0777252c8818ec9b20c83fddb7c95a80f70d9c6c589fc191855f9e8878",
+   "timestamp": "2019-02-06T20:15:26.000Z"
+  },
+  "modjam_ish/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-23T00:50:18.000Z"
+  },
+  "modjam_ish/maps/ironguard.bsp": {
+   "bytes": 4348756,
+   "sha256": "36eac532bb58f249e1846c7cd85c33d4e912db564eab885bcff20d71e4ccd52d",
+   "timestamp": "2019-02-09T19:41:26.000Z"
+  },
+  "modjam_ish/maps/ironguard.lit": {
+   "bytes": 2114576,
+   "sha256": "155295f428bb02e87ce70b5ef87e271771339e6e96e6e8a7d01e94ab329d920f",
+   "timestamp": "2019-02-09T19:41:26.000Z"
+  },
+  "modjam_ish/maps/ironguard.map": {
+   "bytes": 2115346,
+   "sha256": "f79e4f3a0595bc5d59392fcb0c4255c33c223cbb7b0e3f91de3c164dd1018b5f",
+   "timestamp": "2019-02-09T19:40:12.000Z"
+  },
+  "modjam_ish/modjam_ish_readme.txt": {
+   "bytes": 3139,
+   "sha256": "887cadac9e7c333f720225d5af502bcd1666fe47e3e2633e85c667de1b0c35fe",
+   "timestamp": "2019-02-09T18:36:32.000Z"
+  },
+  "modjam_ish/progs.dat": {
+   "bytes": 335018,
+   "sha256": "d1ea8d881370a9dbb071ef74b3c2ba27f32efd4b9b6a6cfe02b3172fad4b15bd",
+   "timestamp": "2019-02-06T22:03:54.000Z"
+  },
+  "modjam_ish/progs.lno": {
+   "bytes": 82524,
+   "sha256": "2195356bda46d7b763ed80822a4ea4ade22ff5b2d15ecc31255a9226e948246b",
+   "timestamp": "2019-02-06T22:03:54.000Z"
+  },
+  "modjam_ish/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:08.000Z"
+  },
+  "modjam_ish/progs/flareproj.mdl": {
+   "bytes": 138416,
+   "sha256": "5e453e09a0d46bd7927bd023519a01583d138c04fdb6ceeec0338c8ee397523e",
+   "timestamp": "2019-02-04T16:53:42.000Z"
+  },
+  "modjam_ish/readmay.txt": {
+   "bytes": 3139,
+   "sha256": "d07531e93125900fb6b37a98be27c00ef79655b0c9f8d89446295e1968c58649",
+   "timestamp": "2019-02-09T18:35:58.000Z"
+  },
+  "modjam_ish/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:08.000Z"
+  },
+  "modjam_ish/sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:08.000Z"
+  },
+  "modjam_ish/sound/weapons/flare_bounce.wav": {
+   "bytes": 25292,
+   "sha256": "ae85d604959951fbac231330d9317b9f28ef24f93e0a834a2c75b0bb5ba0c9b4",
+   "timestamp": "2019-01-25T08:35:20.000Z"
+  },
+  "modjam_ish/sound/weapons/flare_bounce_var1.wav": {
+   "bytes": 55892,
+   "sha256": "f2cd331217e0db0368ca4b5e00c7c83fd7231c79a7c1e1dbe3b3efe883f55fb9",
+   "timestamp": "2019-01-25T08:35:40.000Z"
+  },
+  "modjam_ish/sound/weapons/flare_burn.wav": {
+   "bytes": 912080,
+   "sha256": "d9cbe16a003d3a0130a6975d24f372adfe4dda798da0d064499d18dc37f0393e",
+   "timestamp": "2019-01-26T14:56:34.000Z"
+  },
+  "modjam_ish/sound/weapons/flare_water.wav": {
+   "bytes": 67888,
+   "sha256": "1a4fbd985c86565f2e3eedd2c5186b935e17fdedf12c9964a5233d31522e8531",
+   "timestamp": "2019-01-31T19:55:54.000Z"
+  },
+  "modjam_ish/sound/weapons/flaregun.wav": {
+   "bytes": 162124,
+   "sha256": "ef1cb07f996af70720c1deb5b5d339baa4a455c23337498f4256bd82274ff05d",
+   "timestamp": "2019-01-25T05:17:58.000Z"
+  },
+  "modjam_ish/sound/weapons/hellothere.wav": {
+   "bytes": 636972,
+   "sha256": "846b97f7c66d26d72b0d9ac61f5e4da8ec3aa92226674e5296bbae6d7bb18098",
+   "timestamp": "2019-02-01T05:49:30.000Z"
+  },
+  "modjam_ish/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:08.000Z"
+  },
+  "modjam_ish/source/ai.qc": {
+   "bytes": 15161,
+   "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/client.qc": {
+   "bytes": 34204,
+   "sha256": "d4ac80ee80d610ba62bcd43f266b53a9b66a37915ce41b358a2fa7cb323bb6dd",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/defs.qc": {
+   "bytes": 18095,
+   "sha256": "bfce1470264d171c2f9cdc56a04af5c1e7c2db943ecdcc48aadd1050ea36633d",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/ish_flare.qc": {
+   "bytes": 8413,
+   "sha256": "dfe892769253fdad6e5b05fa4697bd95d6027ea14ee1b3df99acd60fe3ccd719",
+   "timestamp": "2019-02-04T18:49:20.000Z"
+  },
+  "modjam_ish/source/items.qc": {
+   "bytes": 29794,
+   "sha256": "ec641645d4d9641eb58b6ed5034ada342fe0924272c192f0ff1fdfecfbecbc11",
+   "timestamp": "2019-01-31T11:22:34.000Z"
+  },
+  "modjam_ish/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/misc.qc": {
+   "bytes": 15807,
+   "sha256": "2f4f1e04bd7fe31c8fdfaacaab9a26f8695e42ee194071014d96ba5aa9be82e5",
+   "timestamp": "2019-02-01T05:01:40.000Z"
+  },
+  "modjam_ish/source/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/player.qc": {
+   "bytes": 18712,
+   "sha256": "18a7d377e022f68ece064dcf42fcbfaee3c11b64fc72b1cfb6ff28c552b8137c",
+   "timestamp": "2019-01-31T10:56:42.000Z"
+  },
+  "modjam_ish/source/progs.src": {
+   "bytes": 460,
+   "sha256": "7a231519f6556bbff5f61d6e70d2a4a85a8540768b723e1e0df7898e7cb76881",
+   "timestamp": "2019-01-28T08:06:00.000Z"
+  },
+  "modjam_ish/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/weapons.qc": {
+   "bytes": 26804,
+   "sha256": "e951104518eab198e75fc9a54cdd2e041e20eaf326d5113e3133491c5586029b",
+   "timestamp": "2019-01-31T19:56:28.000Z"
+  },
+  "modjam_ish/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_ish/source/world.qc": {
+   "bytes": 11625,
+   "sha256": "36270b47b3c7f5cac72e8117b516076d0028862ad15688e069049f4948db5a38",
+   "timestamp": "2019-02-06T22:03:36.000Z"
+  },
+  "modjam_ish/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-11T11:13:14.000Z"
+  },
+  "modjam_jcr/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T02:41:58.000Z"
+  },
+  "modjam_jcr/gfx.wad": {
+   "bytes": 126244,
+   "sha256": "380865e6bce0f790dc1adddab9e317900191e392a8601784f8aa194acbeca105",
+   "timestamp": "2019-02-08T01:42:32.000Z"
+  },
+  "modjam_jcr/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:16.000Z"
+  },
+  "modjam_jcr/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T02:03:10.000Z"
+  },
+  "modjam_jcr/gfx/env/problem-child_bk.tga": {
+   "bytes": 786450,
+   "sha256": "a5ae7cad5cb83f779a820e7db4f357048a93852b3395afd58fcacbe445995a45",
+   "timestamp": "2003-04-12T07:10:06.000Z"
+  },
+  "modjam_jcr/gfx/env/problem-child_dn.tga": {
+   "bytes": 786450,
+   "sha256": "9aeca652b2bafe830225aeefaea47f885a8b4a1c7d1e9e80599129c05c20e7ff",
+   "timestamp": "2003-04-12T07:41:24.000Z"
+  },
+  "modjam_jcr/gfx/env/problem-child_ft.tga": {
+   "bytes": 786450,
+   "sha256": "51cc6a623b39d01d2c524990c88fbe3e9fadef4fcd8320188e95898cb8ed5558",
+   "timestamp": "2003-04-12T06:15:56.000Z"
+  },
+  "modjam_jcr/gfx/env/problem-child_lf.tga": {
+   "bytes": 786450,
+   "sha256": "3b78e1ca4de3283674538917cecd531e022eb07b92c6c6ef44e962fdb63c4cb4",
+   "timestamp": "2003-04-12T06:37:32.000Z"
+  },
+  "modjam_jcr/gfx/env/problem-child_rt.tga": {
+   "bytes": 786450,
+   "sha256": "ea024f1e555b5ab5e8f9147ebe451cbb30db82cd9da72ff59445e452be139d01",
+   "timestamp": "2003-04-12T06:02:28.000Z"
+  },
+  "modjam_jcr/gfx/env/problem-child_up.tga": {
+   "bytes": 786450,
+   "sha256": "17e8953db0db2ef8dd22224902cc2927c32e8bee0507aa01dd2cea91ab28640e",
+   "timestamp": "2003-04-12T07:25:22.000Z"
+  },
+  "modjam_jcr/jcrREADME.txt": {
+   "bytes": 3882,
+   "sha256": "6f77b170971461761775eb910df6c4866a5c1863316731eb07dddb28ae4e497d",
+   "timestamp": "2019-02-14T02:36:38.000Z"
+  },
+  "modjam_jcr/jcrboot.fgd": {
+   "bytes": 19129,
+   "sha256": "4b656f61092e103816ec47dcc50f86d15a7049c8c5750612fcce65ee9c2d04a7",
+   "timestamp": "2019-02-14T02:41:58.000Z"
+  },
+  "modjam_jcr/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T02:02:14.000Z"
+  },
+  "modjam_jcr/maps/modjam_jcr.bsp": {
+   "bytes": 3040868,
+   "sha256": "8688b95b7f0db9b365a957ec02c8392377b3584d5919e9eb6cac467cbe32f83f",
+   "timestamp": "2019-02-10T00:32:46.000Z"
+  },
+  "modjam_jcr/maps/modjam_jcr.lit": {
+   "bytes": 1654163,
+   "sha256": "6ea3dc9a0145e4cdea3a25f19331d31608bec4b5ae46b66b39f2fbb13f41294b",
+   "timestamp": "2019-02-10T00:32:46.000Z"
+  },
+  "modjam_jcr/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T02:02:20.000Z"
+  },
+  "modjam_jcr/music/track222.mp3": {
+   "bytes": 3457680,
+   "sha256": "34f5c81f6027401cd71ecb41d6ec6d4768c4184acc51e74fd76af4c5c733c375",
+   "timestamp": "2019-02-06T12:42:56.000Z"
+  },
+  "modjam_jcr/music/track222.ogg": {
+   "bytes": 3286616,
+   "sha256": "832cd17ab885e6b0dd631b118874ae17b170988886d58609c9e4572bf8b05810",
+   "timestamp": "2019-02-06T12:27:56.000Z"
+  },
+  "modjam_jcr/progs.dat": {
+   "bytes": 343902,
+   "sha256": "b5831ff494d2c2ee5ad6ef6086e9301b9347037de806de16524fe49c77de5364",
+   "timestamp": "2019-02-14T02:23:18.000Z"
+  },
+  "modjam_jcr/progs.lno": {
+   "bytes": 83704,
+   "sha256": "8e737d8bccd09fc0db9da7cda5492303ec925841a9e82f748018c81b18644c90",
+   "timestamp": "2019-02-14T02:23:18.000Z"
+  },
+  "modjam_jcr/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T03:11:58.000Z"
+  },
+  "modjam_jcr/progs/jboots.mdl": {
+   "bytes": 48980,
+   "sha256": "929d1b9aec30b465993895fcaaf30f2211233b6db24e5db131f175380d5edfb8",
+   "timestamp": "2019-02-14T02:39:22.000Z"
+  },
+  "modjam_jcr/progs/soldier_elite.mdl": {
+   "bytes": 212172,
+   "sha256": "63cc64c18521f63d525ed696606263053953e036938716c49545c58dc89a7099",
+   "timestamp": "2019-02-14T03:06:40.000Z"
+  },
+  "modjam_jcr/qc_src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T02:02:42.000Z"
+  },
+  "modjam_jcr/qc_src/ai.qc": {
+   "bytes": 15161,
+   "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+   "timestamp": "2019-01-03T21:48:38.000Z"
+  },
+  "modjam_jcr/qc_src/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_jcr/qc_src/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T21:46:54.000Z"
+  },
+  "modjam_jcr/qc_src/client.qc": {
+   "bytes": 35214,
+   "sha256": "272f68903d6eec20aa2373b65b3dbc2a60b0e86958ac5363fb116ed2a0e80ebb",
+   "timestamp": "2019-02-09T22:57:22.000Z"
+  },
+  "modjam_jcr/qc_src/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_jcr/qc_src/defs.qc": {
+   "bytes": 18339,
+   "sha256": "d2fdbea5d43a256d3af3b56e6546c00fa95bb9b682b2b6691aec45550af8cbad",
+   "timestamp": "2019-02-08T01:47:42.000Z"
+  },
+  "modjam_jcr/qc_src/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T21:47:56.000Z"
+  },
+  "modjam_jcr/qc_src/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-03T21:59:10.000Z"
+  },
+  "modjam_jcr/qc_src/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T21:58:36.000Z"
+  },
+  "modjam_jcr/qc_src/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_jcr/qc_src/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T21:48:06.000Z"
+  },
+  "modjam_jcr/qc_src/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T22:21:58.000Z"
+  },
+  "modjam_jcr/qc_src/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_jcr/qc_src/items.qc": {
+   "bytes": 31157,
+   "sha256": "08afc7d70e843e651f212195c538c5c328f34fdbf6ff6cac4f2de40201f5b42e",
+   "timestamp": "2019-02-14T00:37:10.000Z"
+  },
+  "modjam_jcr/qc_src/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T22:05:18.000Z"
+  },
+  "modjam_jcr/qc_src/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-01-03T21:46:26.000Z"
+  },
+  "modjam_jcr/qc_src/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-03T22:16:04.000Z"
+  },
+  "modjam_jcr/qc_src/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T21:47:18.000Z"
+  },
+  "modjam_jcr/qc_src/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T22:08:04.000Z"
+  },
+  "modjam_jcr/qc_src/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T21:47:08.000Z"
+  },
+  "modjam_jcr/qc_src/player.qc": {
+   "bytes": 18723,
+   "sha256": "3467fb46460e9ebf377e984dcf477603d315f69cbadea52f57d8371377da7cc9",
+   "timestamp": "2019-01-23T03:17:22.000Z"
+  },
+  "modjam_jcr/qc_src/progs.src": {
+   "bytes": 460,
+   "sha256": "5bf48b7f8f07a2761790fa841bb6a12857815f3a87f343c4ec26b52e75e26ae8",
+   "timestamp": "2019-02-13T23:08:34.000Z"
+  },
+  "modjam_jcr/qc_src/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T22:00:40.000Z"
+  },
+  "modjam_jcr/qc_src/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_jcr/qc_src/soldier.qc": {
+   "bytes": 10238,
+   "sha256": "3dc1d39b3eb943a8cc8f9e5d76eb53ea7cb77c2cb0213339f2057a2191247778",
+   "timestamp": "2019-02-14T02:24:52.000Z"
+  },
+  "modjam_jcr/qc_src/soldier_elite.qc": {
+   "bytes": 11870,
+   "sha256": "3a7d0a05b4c5b6ac2e2b30995cada6e5def8e6d470a4ef07d6b4eadefa773c04",
+   "timestamp": "2019-02-14T00:09:22.000Z"
+  },
+  "modjam_jcr/qc_src/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_jcr/qc_src/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_jcr/qc_src/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-03T21:45:48.000Z"
+  },
+  "modjam_jcr/qc_src/weapons.qc": {
+   "bytes": 26991,
+   "sha256": "cc4d346d0e63f8fca1f7cf299d8bcc107b612c90352d6527ecee566c00828fc1",
+   "timestamp": "2019-02-08T01:47:06.000Z"
+  },
+  "modjam_jcr/qc_src/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_jcr/qc_src/world.qc": {
+   "bytes": 11738,
+   "sha256": "1d2250a02f77c3b64ee92b4268f0047409c88b82a7a4ca6a5e8d70942acdf527",
+   "timestamp": "2019-02-09T23:00:36.000Z"
+  },
+  "modjam_jcr/qc_src/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T21:48:20.000Z"
+  },
+  "modjam_jcr/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:18.000Z"
+  },
+  "modjam_jcr/sound/items/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T02:02:46.000Z"
+  },
+  "modjam_jcr/sound/items/jbootsdry.wav": {
+   "bytes": 2400,
+   "sha256": "6481151bfc35b256d646fbd4d81fca5c217c9f1c33113012648baddb3f4d3f54",
+   "timestamp": "2019-01-23T01:42:28.000Z"
+  },
+  "modjam_jcr/sound/items/jbootsgot.wav": {
+   "bytes": 21176,
+   "sha256": "4d04c60240de4e0a5683606ca478fbdc30b6d178d0b01cedf6ab1145bfc36be2",
+   "timestamp": "2019-01-17T02:31:20.000Z"
+  },
+  "modjam_jcr/sound/player/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T02:02:50.000Z"
+  },
+  "modjam_jcr/sound/player/344315__musiclegends__powerup22.wav": {
+   "bytes": 43518,
+   "sha256": "cd3c42a4aa99ff9ddaee4de5f59de3e96117a5bd7a46c81fa25e43f41840c887",
+   "timestamp": "2019-01-24T03:23:22.000Z"
+  },
+  "modjam_jcr/sound/player/metal_i1.wav": {
+   "bytes": 47864,
+   "sha256": "ab490d2a834e23d353a18a81111e55bb93a9ac5d63bddc81441c7b6eadf47ce2",
+   "timestamp": "2018-01-01T15:42:16.000Z"
+  },
+  "modjam_jcr/sound/player/nofire.wav": {
+   "bytes": 1400,
+   "sha256": "217c42718548de32b5df972d117ffc1a0e1dde5f03a7a173bd91d0b4551248c9",
+   "timestamp": "2018-01-01T15:42:20.000Z"
+  },
+  "modjam_jcr/sound/player/plyrjmpJB0.wav": {
+   "bytes": 5400,
+   "sha256": "fbbaf3f8f99d490252adf6022543640bf6b00ee27078ee1e13f5069114b2b635",
+   "timestamp": "2019-02-09T01:16:18.000Z"
+  },
+  "modjam_jcr/sound/player/plyrjmpJB1.wav": {
+   "bytes": 19938,
+   "sha256": "fec12323e107509f6e6c8bbfa22ea5c7bcaa77b3837644020eb420de06e83ef0",
+   "timestamp": "2019-02-09T23:07:52.000Z"
+  },
+  "modjam_jcr/sound/player/plyrjmpJB1_old.wav": {
+   "bytes": 106952,
+   "sha256": "526a63e7ed8284b7a3b1182e900ce7f2db2dc56af78122a4407efdce6ddc1dab",
+   "timestamp": "2019-01-23T01:44:48.000Z"
+  },
+  "modjam_jcr/sound/player/plyrjmpjb1_bingbingwahoo.wav": {
+   "bytes": 29328,
+   "sha256": "f5f16580c47cd8423b2bd0c6c4019ad05d06331b8396b4dd0e77cb1cb82303f0",
+   "timestamp": "2019-01-24T03:22:38.000Z"
+  },
+  "modjam_jcr/sound/player/resist_rocket.wav": {
+   "bytes": 19938,
+   "sha256": "1e5170aaf1d6f144e7ea77c251d15ee85c9a70eb1f50b12e4ba5a93971ad1955",
+   "timestamp": "2018-01-01T15:42:20.000Z"
+  },
+  "modjam_jcr/sound/player/spark.wav": {
+   "bytes": 13270,
+   "sha256": "14d74e6c01df6db6f92b8684527b31a7544de8d4dd9d123ebae554989e76facc",
+   "timestamp": "2018-01-01T15:42:18.000Z"
+  },
+  "modjam_jcr/src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T02:02:52.000Z"
+  },
+  "modjam_jcr/src/modjam_jcr.map": {
+   "bytes": 1501145,
+   "sha256": "5149b26ad9803e98e1cabeda214a6ed3db218d4715f60743ea21dcf6518fcbf9",
+   "timestamp": "2019-02-10T00:31:08.000Z"
+  },
+  "modjam_khre/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T05:56:14.000Z"
+  },
+  "modjam_khre/finger.png": {
+   "bytes": 1667889,
+   "sha256": "48c91be8902a9a29b1255e0d1477d69df73658e9d0c3534fc453e6d13cf8f887",
+   "timestamp": "2019-01-17T03:54:58.000Z"
+  },
+  "modjam_khre/finger_readme.txt": {
+   "bytes": 2566,
+   "sha256": "c5897b99c4667c2eab976316192ab6bceaed3c721f2aec60d377e5362051c229",
+   "timestamp": "2019-02-14T05:55:38.000Z"
+  },
+  "modjam_khre/progs.dat": {
+   "bytes": 332166,
+   "sha256": "b3508bdbb9d8db0b635f66cdc93a66188367bef13e46a4fe5302424e3d493345",
+   "timestamp": "2019-02-14T05:42:00.000Z"
+  },
+  "modjam_khre/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T05:20:06.000Z"
+  },
+  "modjam_khre/progs/v_finger.mdl": {
+   "bytes": 59344,
+   "sha256": "eae5d2d422a6dae76d930c4a234d12b0fc4f3ae1677c29a2d8d102fbac258a99",
+   "timestamp": "2019-02-14T04:04:28.000Z"
+  },
+  "modjam_khre/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T05:20:06.000Z"
+  },
+  "modjam_khre/source/ai.qc": {
+   "bytes": 15161,
+   "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+   "timestamp": "2019-01-03T21:48:38.000Z"
+  },
+  "modjam_khre/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T21:46:54.000Z"
+  },
+  "modjam_khre/source/client.qc": {
+   "bytes": 34244,
+   "sha256": "f4fbc773abfeba800077c979748a22d42d00a04877ec74dccd8be9e49ce6a088",
+   "timestamp": "2019-02-14T05:18:08.000Z"
+  },
+  "modjam_khre/source/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/defs.qc": {
+   "bytes": 18153,
+   "sha256": "2f8d71d97404429ece25888ccfc820ecfdec2f3d246ab0ab57cef7861700f493",
+   "timestamp": "2019-02-14T05:43:08.000Z"
+  },
+  "modjam_khre/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T21:47:56.000Z"
+  },
+  "modjam_khre/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-03T21:59:10.000Z"
+  },
+  "modjam_khre/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T21:58:36.000Z"
+  },
+  "modjam_khre/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T21:48:06.000Z"
+  },
+  "modjam_khre/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T22:21:58.000Z"
+  },
+  "modjam_khre/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/items.qc": {
+   "bytes": 29697,
+   "sha256": "0642cc55f3dbf277a26a606d37d47b5f40f4075b1140a45fee76773cd91cc956",
+   "timestamp": "2019-01-03T21:36:52.000Z"
+  },
+  "modjam_khre/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T22:05:18.000Z"
+  },
+  "modjam_khre/source/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-01-03T21:46:26.000Z"
+  },
+  "modjam_khre/source/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-03T22:16:04.000Z"
+  },
+  "modjam_khre/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T21:47:18.000Z"
+  },
+  "modjam_khre/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T22:08:04.000Z"
+  },
+  "modjam_khre/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T21:47:08.000Z"
+  },
+  "modjam_khre/source/player.qc": {
+   "bytes": 19777,
+   "sha256": "6c5daa7c893680d7a570e8f50d804e26841938446bfe265cf0139b424946075a",
+   "timestamp": "2019-02-14T05:17:54.000Z"
+  },
+  "modjam_khre/source/progs.src": {
+   "bytes": 442,
+   "sha256": "5a2f4c7edb7013e575eff969d7d2b4a6f7b719661323e77ee046864e1f3e6be5",
+   "timestamp": "2019-01-17T03:01:00.000Z"
+  },
+  "modjam_khre/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T22:00:40.000Z"
+  },
+  "modjam_khre/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-03T21:45:48.000Z"
+  },
+  "modjam_khre/source/weapons.qc": {
+   "bytes": 27837,
+   "sha256": "8f8b506e101b2e6f489c82e49504e3dc7fc91293f59a988f32fef22d455c07f3",
+   "timestamp": "2019-02-14T05:41:54.000Z"
+  },
+  "modjam_khre/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_khre/source/world.qc": {
+   "bytes": 11471,
+   "sha256": "917deabd95f5cd58262b37c29b426e66ba22dd09f9a2e42fa89ad875ea9174a3",
+   "timestamp": "2019-01-17T03:36:26.000Z"
+  },
+  "modjam_khre/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T21:48:20.000Z"
+  },
+  "modjam_mix/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T08:32:36.000Z"
+  },
+  "modjam_mix/finger_readme.txt": {
+   "bytes": 2566,
+   "sha256": "c5897b99c4667c2eab976316192ab6bceaed3c721f2aec60d377e5362051c229",
+   "timestamp": "2019-02-14T05:55:38.000Z"
+  },
+  "modjam_mix/jcrREADME.txt": {
+   "bytes": 3882,
+   "sha256": "6f77b170971461761775eb910df6c4866a5c1863316731eb07dddb28ae4e497d",
+   "timestamp": "2019-02-14T02:36:38.000Z"
+  },
+  "modjam_mix/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T08:27:50.000Z"
+  },
+  "modjam_mix/maps/ironguard.bsp": {
+   "bytes": 4348756,
+   "sha256": "36eac532bb58f249e1846c7cd85c33d4e912db564eab885bcff20d71e4ccd52d",
+   "timestamp": "2019-02-09T19:41:26.000Z"
+  },
+  "modjam_mix/maps/ironguard.lit": {
+   "bytes": 2114576,
+   "sha256": "155295f428bb02e87ce70b5ef87e271771339e6e96e6e8a7d01e94ab329d920f",
+   "timestamp": "2019-02-09T19:41:26.000Z"
+  },
+  "modjam_mix/maps/ironguard.map": {
+   "bytes": 2115346,
+   "sha256": "f79e4f3a0595bc5d59392fcb0c4255c33c223cbb7b0e3f91de3c164dd1018b5f",
+   "timestamp": "2019-02-09T19:40:12.000Z"
+  },
+  "modjam_mix/maps/modjam_jcr.bsp": {
+   "bytes": 3040868,
+   "sha256": "8688b95b7f0db9b365a957ec02c8392377b3584d5919e9eb6cac467cbe32f83f",
+   "timestamp": "2019-02-10T00:32:46.000Z"
+  },
+  "modjam_mix/maps/modjam_jcr.lit": {
+   "bytes": 1654163,
+   "sha256": "6ea3dc9a0145e4cdea3a25f19331d31608bec4b5ae46b66b39f2fbb13f41294b",
+   "timestamp": "2019-02-10T00:32:46.000Z"
+  },
+  "modjam_mix/maps/modjam_scrama.bsp": {
+   "bytes": 253468,
+   "sha256": "a46248f4887e5fbe01a5deda7e7f123e314c54f35f6db69660a682c12e2f37d8",
+   "timestamp": "2019-01-25T21:48:34.000Z"
+  },
+  "modjam_mix/maps/modjam_scrama.lit": {
+   "bytes": 65033,
+   "sha256": "1bf59ac11659d84c007db3263ca0403f92bfae5252b2ef5c225d2fcbe4612e6e",
+   "timestamp": "2019-01-25T21:48:34.000Z"
+  },
+  "modjam_mix/maps/modjam_scrama.map": {
+   "bytes": 82788,
+   "sha256": "14502e8a8c32e697d8ea5ae4ef308025ff46df2f7bfd9dc8c08d5d3fe862a8c6",
+   "timestamp": "2019-01-25T21:48:26.000Z"
+  },
+  "modjam_mix/mj_scrama_tfgun.txt": {
+   "bytes": 1429,
+   "sha256": "8aba048452c2137713e1502c02d2b15432b3cccefc32fcb04abaf5e9def7afb7",
+   "timestamp": "2019-02-14T03:36:40.000Z"
+  },
+  "modjam_mix/modjam_ish_readme.txt": {
+   "bytes": 3139,
+   "sha256": "887cadac9e7c333f720225d5af502bcd1666fe47e3e2633e85c667de1b0c35fe",
+   "timestamp": "2019-02-09T18:36:32.000Z"
+  },
+  "modjam_mix/modjam_mix_readme.txt": {
+   "bytes": 1235,
+   "sha256": "957546f998e1a2037ed8302e572be63fb31f91fc77dc3a75a7ef8eb098fe9f74",
+   "timestamp": "2019-02-14T15:24:14.000Z"
+  },
+  "modjam_mix/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T08:27:06.000Z"
+  },
+  "modjam_mix/music/track222.mp3": {
+   "bytes": 3457680,
+   "sha256": "34f5c81f6027401cd71ecb41d6ec6d4768c4184acc51e74fd76af4c5c733c375",
+   "timestamp": "2019-02-06T12:42:56.000Z"
+  },
+  "modjam_mix/music/track222.ogg": {
+   "bytes": 3286616,
+   "sha256": "832cd17ab885e6b0dd631b118874ae17b170988886d58609c9e4572bf8b05810",
+   "timestamp": "2019-02-06T12:27:56.000Z"
+  },
+  "modjam_mix/progs.dat": {
+   "bytes": 358982,
+   "sha256": "5e450d8c17def1d124e29980c32558cf265275ddd0fca08e182c4c2a1ea2ba4c",
+   "timestamp": "2019-02-14T15:25:04.000Z"
+  },
+  "modjam_mix/progs.lno": {
+   "bytes": 87576,
+   "sha256": "0cb552d392a0a6e8edb251736859e1c19772bdb7d78e5b6f6d6046a6ea8a41d3",
+   "timestamp": "2019-02-14T08:11:10.000Z"
+  },
+  "modjam_mix/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T08:15:44.000Z"
+  },
+  "modjam_mix/progs/flareproj.mdl": {
+   "bytes": 138416,
+   "sha256": "5e453e09a0d46bd7927bd023519a01583d138c04fdb6ceeec0338c8ee397523e",
+   "timestamp": "2019-02-04T16:53:42.000Z"
+  },
+  "modjam_mix/progs/g_tfgun.mdl": {
+   "bytes": 297912,
+   "sha256": "ca5e9f516d4c120a12072ceb8f730980f6981a5fd5d422bb3e4608b285081bfa",
+   "timestamp": "2019-02-14T03:20:58.000Z"
+  },
+  "modjam_mix/progs/jboots.mdl": {
+   "bytes": 48980,
+   "sha256": "929d1b9aec30b465993895fcaaf30f2211233b6db24e5db131f175380d5edfb8",
+   "timestamp": "2019-02-14T02:39:22.000Z"
+  },
+  "modjam_mix/progs/soldier_elite.mdl": {
+   "bytes": 212172,
+   "sha256": "63cc64c18521f63d525ed696606263053953e036938716c49545c58dc89a7099",
+   "timestamp": "2019-02-14T03:06:40.000Z"
+  },
+  "modjam_mix/progs/v_finger.mdl": {
+   "bytes": 59344,
+   "sha256": "eae5d2d422a6dae76d930c4a234d12b0fc4f3ae1677c29a2d8d102fbac258a99",
+   "timestamp": "2019-02-14T04:04:28.000Z"
+  },
+  "modjam_mix/progs/v_tfgun.mdl": {
+   "bytes": 191924,
+   "sha256": "7b6d8b6ad8f9d8d5625a3a20db21bad4184bb9bb3f903bfbebfbaa47e03eebd8",
+   "timestamp": "2019-02-14T03:20:24.000Z"
+  },
+  "modjam_mix/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T07:31:00.000Z"
+  },
+  "modjam_mix/sound/items/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T07:31:00.000Z"
+  },
+  "modjam_mix/sound/items/jbootsdry.wav": {
+   "bytes": 2400,
+   "sha256": "6481151bfc35b256d646fbd4d81fca5c217c9f1c33113012648baddb3f4d3f54",
+   "timestamp": "2019-01-23T01:42:28.000Z"
+  },
+  "modjam_mix/sound/items/jbootsgot.wav": {
+   "bytes": 21176,
+   "sha256": "4d04c60240de4e0a5683606ca478fbdc30b6d178d0b01cedf6ab1145bfc36be2",
+   "timestamp": "2019-01-17T02:31:20.000Z"
+  },
+  "modjam_mix/sound/player/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T07:31:00.000Z"
+  },
+  "modjam_mix/sound/player/344315__musiclegends__powerup22.wav": {
+   "bytes": 43518,
+   "sha256": "cd3c42a4aa99ff9ddaee4de5f59de3e96117a5bd7a46c81fa25e43f41840c887",
+   "timestamp": "2019-01-24T03:23:22.000Z"
+  },
+  "modjam_mix/sound/player/metal_i1.wav": {
+   "bytes": 47864,
+   "sha256": "ab490d2a834e23d353a18a81111e55bb93a9ac5d63bddc81441c7b6eadf47ce2",
+   "timestamp": "2018-01-01T15:42:16.000Z"
+  },
+  "modjam_mix/sound/player/nofire.wav": {
+   "bytes": 1400,
+   "sha256": "217c42718548de32b5df972d117ffc1a0e1dde5f03a7a173bd91d0b4551248c9",
+   "timestamp": "2018-01-01T15:42:20.000Z"
+  },
+  "modjam_mix/sound/player/plyrjmpJB0.wav": {
+   "bytes": 5400,
+   "sha256": "fbbaf3f8f99d490252adf6022543640bf6b00ee27078ee1e13f5069114b2b635",
+   "timestamp": "2019-02-09T01:16:18.000Z"
+  },
+  "modjam_mix/sound/player/plyrjmpJB1.wav": {
+   "bytes": 19938,
+   "sha256": "fec12323e107509f6e6c8bbfa22ea5c7bcaa77b3837644020eb420de06e83ef0",
+   "timestamp": "2019-02-09T23:07:52.000Z"
+  },
+  "modjam_mix/sound/player/plyrjmpJB1_old.wav": {
+   "bytes": 106952,
+   "sha256": "526a63e7ed8284b7a3b1182e900ce7f2db2dc56af78122a4407efdce6ddc1dab",
+   "timestamp": "2019-01-23T01:44:48.000Z"
+  },
+  "modjam_mix/sound/player/plyrjmpjb1_bingbingwahoo.wav": {
+   "bytes": 29328,
+   "sha256": "f5f16580c47cd8423b2bd0c6c4019ad05d06331b8396b4dd0e77cb1cb82303f0",
+   "timestamp": "2019-01-24T03:22:38.000Z"
+  },
+  "modjam_mix/sound/player/resist_rocket.wav": {
+   "bytes": 19938,
+   "sha256": "1e5170aaf1d6f144e7ea77c251d15ee85c9a70eb1f50b12e4ba5a93971ad1955",
+   "timestamp": "2018-01-01T15:42:20.000Z"
+  },
+  "modjam_mix/sound/player/spark.wav": {
+   "bytes": 13270,
+   "sha256": "14d74e6c01df6db6f92b8684527b31a7544de8d4dd9d123ebae554989e76facc",
+   "timestamp": "2018-01-01T15:42:18.000Z"
+  },
+  "modjam_mix/sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T08:15:44.000Z"
+  },
+  "modjam_mix/sound/weapons/flare_bounce.wav": {
+   "bytes": 25292,
+   "sha256": "ae85d604959951fbac231330d9317b9f28ef24f93e0a834a2c75b0bb5ba0c9b4",
+   "timestamp": "2019-01-25T08:35:20.000Z"
+  },
+  "modjam_mix/sound/weapons/flare_bounce_var1.wav": {
+   "bytes": 55892,
+   "sha256": "f2cd331217e0db0368ca4b5e00c7c83fd7231c79a7c1e1dbe3b3efe883f55fb9",
+   "timestamp": "2019-01-25T08:35:40.000Z"
+  },
+  "modjam_mix/sound/weapons/flare_burn.wav": {
+   "bytes": 912080,
+   "sha256": "d9cbe16a003d3a0130a6975d24f372adfe4dda798da0d064499d18dc37f0393e",
+   "timestamp": "2019-01-26T14:56:34.000Z"
+  },
+  "modjam_mix/sound/weapons/flare_water.wav": {
+   "bytes": 67888,
+   "sha256": "1a4fbd985c86565f2e3eedd2c5186b935e17fdedf12c9964a5233d31522e8531",
+   "timestamp": "2019-01-31T19:55:54.000Z"
+  },
+  "modjam_mix/sound/weapons/flaregun.wav": {
+   "bytes": 162124,
+   "sha256": "ef1cb07f996af70720c1deb5b5d339baa4a455c23337498f4256bd82274ff05d",
+   "timestamp": "2019-01-25T05:17:58.000Z"
+  },
+  "modjam_mix/sound/weapons/hellothere.wav": {
+   "bytes": 636972,
+   "sha256": "846b97f7c66d26d72b0d9ac61f5e4da8ec3aa92226674e5296bbae6d7bb18098",
+   "timestamp": "2019-02-01T05:49:30.000Z"
+  },
+  "modjam_mix/sound/weapons/telegun_out.wav": {
+   "bytes": 15284,
+   "sha256": "277e55dfb37874b69896591221cd99cb5b846768453d4a5990f8a5c2a06223aa",
+   "timestamp": "2019-02-13T06:03:40.000Z"
+  },
+  "modjam_mix/sound/weapons/telegun_target.wav": {
+   "bytes": 16244,
+   "sha256": "7d9307bdb34d1faa5ade2ee02504ee39bb730687f2328a5757bd9279998f0d95",
+   "timestamp": "2019-02-13T06:02:32.000Z"
+  },
+  "modjam_mix/sound/weapons/transmission.wav": {
+   "bytes": 220112,
+   "sha256": "d6599899499bf4c7acb10a5fc76e19b8d79b90e9f866277ebbb45b6b9421a5e8",
+   "timestamp": "2019-02-13T04:57:40.000Z"
+  },
+  "modjam_mix/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T08:15:44.000Z"
+  },
+  "modjam_mix/source/ai.qc": {
+   "bytes": 15161,
+   "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+   "timestamp": "2019-01-03T21:48:38.000Z"
+  },
+  "modjam_mix/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_mix/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T21:46:54.000Z"
+  },
+  "modjam_mix/source/client.qc": {
+   "bytes": 39146,
+   "sha256": "c40787600d20eee860d50887787b9f647a59678f3b8d8455d8b5fa19e8e76524",
+   "timestamp": "2019-02-14T15:17:52.000Z"
+  },
+  "modjam_mix/source/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_mix/source/defs.qc": {
+   "bytes": 18504,
+   "sha256": "e7b28a861d7970d6e97877235e500fd8491329dcb5a700f0ca149dfd24194b24",
+   "timestamp": "2019-02-14T15:24:32.000Z"
+  },
+  "modjam_mix/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T21:47:56.000Z"
+  },
+  "modjam_mix/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-03T21:59:10.000Z"
+  },
+  "modjam_mix/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T21:58:36.000Z"
+  },
+  "modjam_mix/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_mix/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T21:48:06.000Z"
+  },
+  "modjam_mix/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T22:21:58.000Z"
+  },
+  "modjam_mix/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_mix/source/ish_flare.qc": {
+   "bytes": 8472,
+   "sha256": "b7c9a853ee0131df212c43586fc402f1f9731d66d64f511b89a036d85f657876",
+   "timestamp": "2019-02-14T08:11:02.000Z"
+  },
+  "modjam_mix/source/items.qc": {
+   "bytes": 31387,
+   "sha256": "927a2d00a15b75263593c54fda4033a15cd323d7d3d50f8679b763418ed4557b",
+   "timestamp": "2019-02-14T07:45:44.000Z"
+  },
+  "modjam_mix/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T22:05:18.000Z"
+  },
+  "modjam_mix/source/misc.qc": {
+   "bytes": 15807,
+   "sha256": "2f4f1e04bd7fe31c8fdfaacaab9a26f8695e42ee194071014d96ba5aa9be82e5",
+   "timestamp": "2019-02-14T07:46:22.000Z"
+  },
+  "modjam_mix/source/mj_scrama_tfgun.qc": {
+   "bytes": 3983,
+   "sha256": "8e9dd978513026f87102796fa90eb195c9269e548d1e9406b72bd671f72b0551",
+   "timestamp": "2019-02-25T01:56:18.000Z"
+  },
+  "modjam_mix/source/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-03T22:16:04.000Z"
+  },
+  "modjam_mix/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T21:47:18.000Z"
+  },
+  "modjam_mix/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T22:08:04.000Z"
+  },
+  "modjam_mix/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T21:47:08.000Z"
+  },
+  "modjam_mix/source/player.qc": {
+   "bytes": 20706,
+   "sha256": "64acf17f32d88f5fe8d550213963ec01679e232733ba005c8218b327c3cc453c",
+   "timestamp": "2019-02-14T07:46:46.000Z"
+  },
+  "modjam_mix/source/progs.src": {
+   "bytes": 494,
+   "sha256": "60fae2c3b3765ff958fb9d246c74598f3dfa644689e977ea389307fc5ec86c39",
+   "timestamp": "2019-02-14T08:08:46.000Z"
+  },
+  "modjam_mix/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T22:00:40.000Z"
+  },
+  "modjam_mix/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_mix/source/soldier.qc": {
+   "bytes": 10238,
+   "sha256": "3dc1d39b3eb943a8cc8f9e5d76eb53ea7cb77c2cb0213339f2057a2191247778",
+   "timestamp": "2019-02-14T07:46:58.000Z"
+  },
+  "modjam_mix/source/soldier_elite.qc": {
+   "bytes": 11870,
+   "sha256": "3a7d0a05b4c5b6ac2e2b30995cada6e5def8e6d470a4ef07d6b4eadefa773c04",
+   "timestamp": "2019-02-14T00:09:22.000Z"
+  },
+  "modjam_mix/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_mix/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_mix/source/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-03T21:45:48.000Z"
+  },
+  "modjam_mix/source/weapons.qc": {
+   "bytes": 30350,
+   "sha256": "6fbd62a64753e65c79d79cae03f2e45498e4fe18eeb3abec5e64cb47706557e7",
+   "timestamp": "2019-02-14T15:25:02.000Z"
+  },
+  "modjam_mix/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T23:17:36.000Z"
+  },
+  "modjam_mix/source/world.qc": {
+   "bytes": 12014,
+   "sha256": "7cc59e01da879600398592daa2bd28a7861f8d2aa26ec2172f372199aca1eb15",
+   "timestamp": "2019-02-14T07:57:04.000Z"
+  },
+  "modjam_mix/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T21:48:20.000Z"
+  },
+  "modjam_redfield/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/aeons_readme.txt": {
+   "bytes": 5652,
+   "sha256": "818ac7be7b6d49f68523ec8d596b5dd42941517cb09217f1fd03f202bfe9f43c",
+   "timestamp": "2019-02-09T09:00:06.000Z"
+  },
+  "modjam_redfield/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "17940fdaf3a6e7e2c1d572acff7588df96ddb5a95baeb6268e6b663d14c324fd",
+   "timestamp": "2019-02-08T17:10:44.000Z"
+  },
+  "modjam_redfield/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/gfx/env/desert_night_bk.tga": {
+   "bytes": 786476,
+   "sha256": "852c1d5cfd0d0d4819d0190739f41fcb321524c31f5e6fa8c19b1baaf0b81f41",
+   "timestamp": "2019-02-01T03:06:16.000Z"
+  },
+  "modjam_redfield/gfx/env/desert_night_dn.tga": {
+   "bytes": 786476,
+   "sha256": "dfe4319b1941a48e11cc6ac1e97fdb260af42695bf4d72fd4a86c91dd0bbd813",
+   "timestamp": "2019-02-01T03:06:30.000Z"
+  },
+  "modjam_redfield/gfx/env/desert_night_ft.tga": {
+   "bytes": 786476,
+   "sha256": "383e9d9735828a2833f46e79a1e58f6ee6e81c5cb9fd944eaaf287ae4a0b4008",
+   "timestamp": "2019-02-01T03:06:42.000Z"
+  },
+  "modjam_redfield/gfx/env/desert_night_lf.tga": {
+   "bytes": 786476,
+   "sha256": "e06c58f215c9906d76bf4bfe4968e50f5aab149f8f0fddae69ec3b8de4c19626",
+   "timestamp": "2019-02-01T03:06:56.000Z"
+  },
+  "modjam_redfield/gfx/env/desert_night_rt.tga": {
+   "bytes": 786476,
+   "sha256": "d3a108cbd1965f3bdf7c95eb16ceb3b5acb11ed4bae51dd19548ed94ec56d2f4",
+   "timestamp": "2019-02-01T03:07:06.000Z"
+  },
+  "modjam_redfield/gfx/env/desert_night_up.tga": {
+   "bytes": 786476,
+   "sha256": "d70f08c5dbe7a0b0576843c2f8a79464722bf6e64a90ae15e9c69d0a2a7aeaa1",
+   "timestamp": "2019-02-01T03:07:18.000Z"
+  },
+  "modjam_redfield/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/maps/beyond.bsp": {
+   "bytes": 20568520,
+   "sha256": "4ddfe0c8f45ffd9e424b37aeed9628b5f8808d1b16796c5773136322e20fddc9",
+   "timestamp": "2019-02-09T16:19:42.000Z"
+  },
+  "modjam_redfield/maps/beyond.lit": {
+   "bytes": 4866206,
+   "sha256": "ea9cd2ddc812c3a34e15421272546c1fa6e4bb378aeaa4383c67004b4b1833c2",
+   "timestamp": "2019-02-09T16:19:42.000Z"
+  },
+  "modjam_redfield/progs.dat": {
+   "bytes": 383526,
+   "sha256": "7b808c7204d6e5072e0c7e1da2c98f2d3cf1eb5426de808995f14cda658db274",
+   "timestamp": "2019-02-09T08:41:54.000Z"
+  },
+  "modjam_redfield/progs.lno": {
+   "bytes": 97088,
+   "sha256": "a747fc2adf6031073d196ef2f51fb431ca635421979ffaecc21ae44d617ca464",
+   "timestamp": "2019-02-09T08:41:54.000Z"
+  },
+  "modjam_redfield/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/progs/alarm.mdl": {
+   "bytes": 18548,
+   "sha256": "0c4a621772ba497186bd79f4604149a6526f408da07f955a285135b805168bc7",
+   "timestamp": "2019-01-19T01:16:46.000Z"
+  },
+  "modjam_redfield/progs/alarmbulb.mdl": {
+   "bytes": 78220,
+   "sha256": "fbeed17209df265e7620258742876d3ad0e7328829e334fe7915baba29361589",
+   "timestamp": "2019-01-20T23:49:56.000Z"
+  },
+  "modjam_redfield/progs/alice.mdl": {
+   "bytes": 261300,
+   "sha256": "b91d427481820f95a2ca5d2b9e778f5cb7fba3a95670848c7232e22855860abe",
+   "timestamp": "2018-06-10T07:41:30.000Z"
+  },
+  "modjam_redfield/progs/animcurtain.mdl": {
+   "bytes": 79956,
+   "sha256": "d8952739dfad16215ada9db0930ceb8a68c8f656370dc24cbcca843a7c851e2d",
+   "timestamp": "2019-01-27T04:48:28.000Z"
+  },
+  "modjam_redfield/progs/animcurtain2B.mdl": {
+   "bytes": 76476,
+   "sha256": "86992821c91d18e932d8848233b856b99960b40bf457e4df39bebcab91c504ef",
+   "timestamp": "2019-02-07T01:58:28.000Z"
+  },
+  "modjam_redfield/progs/bigq.mdl": {
+   "bytes": 338572,
+   "sha256": "81c0186aa30d830785882072cf12edb6c09d63ebfea87bd8a7bfc52b49a32d7a",
+   "timestamp": "2019-02-07T04:31:50.000Z"
+  },
+  "modjam_redfield/progs/candle.mdl": {
+   "bytes": 21476,
+   "sha256": "f3193191ab17b7186f623ef26d1a1bc66c3db35ed7cc63cbce6f910ec1a601b5",
+   "timestamp": "2019-01-13T17:21:28.000Z"
+  },
+  "modjam_redfield/progs/curtains.mdl": {
+   "bytes": 724496,
+   "sha256": "9f3d580318398509e13dabc504dde429c47fe6c5c3de3a95a870a5f017976838",
+   "timestamp": "2019-01-27T00:41:02.000Z"
+  },
+  "modjam_redfield/progs/dragon.mdl": {
+   "bytes": 262688,
+   "sha256": "a2b307fc2c9975091c523eab3c8cd23c92f4d6d921435382c989ef03994d8095",
+   "timestamp": "2019-01-11T23:46:18.000Z"
+  },
+  "modjam_redfield/progs/drggib01.mdl": {
+   "bytes": 34076,
+   "sha256": "7f8b783a0abad2836e6e188de84a32a821c412c07f1659d9c8c218b2c7b00151",
+   "timestamp": "2019-01-13T03:02:46.000Z"
+  },
+  "modjam_redfield/progs/drggib02.mdl": {
+   "bytes": 42788,
+   "sha256": "331b076a410148efffa0339f4197d7a9ff99f0758906b7485cfbc6975377c819",
+   "timestamp": "2019-01-13T02:56:46.000Z"
+  },
+  "modjam_redfield/progs/drggib03.mdl": {
+   "bytes": 31028,
+   "sha256": "f04e63535f592af645068bfe37b3223985d0638aeb5fc93a80c3f75ce3b9b1f8",
+   "timestamp": "2019-01-13T04:24:26.000Z"
+  },
+  "modjam_redfield/progs/fireball.mdl": {
+   "bytes": 9236,
+   "sha256": "891c3742a74da931aef94ff92b814bcb02aaa75820afa6e6c28ddbf60d91dbfd",
+   "timestamp": "2019-01-13T18:55:38.000Z"
+  },
+  "modjam_redfield/progs/ghostfan.mdl": {
+   "bytes": 31632,
+   "sha256": "aec17991a03e566d62d28546139e2ce6cb177082b13104bc8b097ad185d80936",
+   "timestamp": "2019-01-30T01:12:30.000Z"
+  },
+  "modjam_redfield/progs/moonbeam1.mdl": {
+   "bytes": 46136,
+   "sha256": "7728995acfbc49c533369f7cc80eb9874146688d77b66637e7cc26286f50ad58",
+   "timestamp": "2019-01-27T21:24:34.000Z"
+  },
+  "modjam_redfield/progs/moonbeam2.mdl": {
+   "bytes": 46136,
+   "sha256": "41d6ab7d6adb9ae72541fb8d80f96fe55ea4f13d29df3a6b418e32f5e89f38fa",
+   "timestamp": "2019-01-27T21:57:24.000Z"
+  },
+  "modjam_redfield/progs/moonbeam3.mdl": {
+   "bytes": 48192,
+   "sha256": "aafd1822043bc5f93a7589cbeb718c88fa2e694435b2d5ce6900bde279c57980",
+   "timestamp": "2019-02-05T02:10:36.000Z"
+  },
+  "modjam_redfield/progs/plasma.mdl": {
+   "bytes": 54972,
+   "sha256": "1125877c12b76c06281263b16985893a014682bd4c5102adbf07aae320e0bd55",
+   "timestamp": "2019-01-12T01:32:28.000Z"
+  },
+  "modjam_redfield/progs/plasmabeam.mdl": {
+   "bytes": 18944,
+   "sha256": "c6b7f2bd0452b5eb34e6b4cceadc9491c02f03a827046cbb81d69b6c1917141d",
+   "timestamp": "2019-01-14T20:46:30.000Z"
+  },
+  "modjam_redfield/progs/portal1.mdl": {
+   "bytes": 24320,
+   "sha256": "29d6062d3a4ec5c90f6094a1cbaeb0ac6cab56138a8a9aa0797b2f45cbea0e1c",
+   "timestamp": "2019-01-20T20:06:38.000Z"
+  },
+  "modjam_redfield/progs/portal2.mdl": {
+   "bytes": 20504,
+   "sha256": "fce543ee7737232e5b8df952f9f5304357435a763367641e92f60daecd6b1fa3",
+   "timestamp": "2019-01-20T20:08:52.000Z"
+  },
+  "modjam_redfield/progs/raven.mdl": {
+   "bytes": 352772,
+   "sha256": "bf0c6ba3bb161ab99cb6a9bac5adc563ad7ee90bd75638e86f97965c7d7a5c75",
+   "timestamp": "2019-02-07T02:04:28.000Z"
+  },
+  "modjam_redfield/progs/ring.mdl": {
+   "bytes": 72816,
+   "sha256": "25d317764a096169ce6e6df8fe3eaba4e15fec9cacbc52a198f950a31ffc3e47",
+   "timestamp": "2019-02-08T22:58:32.000Z"
+  },
+  "modjam_redfield/progs/rtcw_statue.mdl": {
+   "bytes": 117444,
+   "sha256": "bcc36cbe184e9916e672c87c1c4559be0fd6a55fdb1359f7d952bad2be781744",
+   "timestamp": "2018-09-03T23:23:06.000Z"
+  },
+  "modjam_redfield/progs/smlplate.mdl": {
+   "bytes": 220868,
+   "sha256": "13c46601895c1df2acd23de7f4b4bd1d595743ea3e3240410204053cc5837aa8",
+   "timestamp": "2019-02-07T15:44:12.000Z"
+  },
+  "modjam_redfield/progs/smlteacup.mdl": {
+   "bytes": 24996,
+   "sha256": "7e00b272c34d9c0de418f69196342d8d1ff8d0bbeeb321135d043efc424567b6",
+   "timestamp": "2019-02-07T16:58:46.000Z"
+  },
+  "modjam_redfield/progs/smlteapot.mdl": {
+   "bytes": 248900,
+   "sha256": "ba69271ced24cf02e5e1cf6eac4d7b840585008d2a6d66624a3cd7cc00c26635",
+   "timestamp": "2019-02-07T06:04:38.000Z"
+  },
+  "modjam_redfield/progs/sword.mdl": {
+   "bytes": 37060,
+   "sha256": "a72818767602e676cb08aa19db1780df9ee71b1f5c650f24c4f7ad2f761360d2",
+   "timestamp": "2019-01-13T18:39:38.000Z"
+  },
+  "modjam_redfield/progs/tubel.mdl": {
+   "bytes": 1316548,
+   "sha256": "9be3f44764ece662449bbe92c4b56d50fb46bf8d8f6e09fbc4830e18165bacd1",
+   "timestamp": "2019-01-23T05:36:34.000Z"
+  },
+  "modjam_redfield/progs/tuber.mdl": {
+   "bytes": 1316548,
+   "sha256": "bc98b3a809c2b585266f9669e958144b2b493a107598ed939be3ee7b192f4273",
+   "timestamp": "2019-01-23T05:27:32.000Z"
+  },
+  "modjam_redfield/progs/v_boomstick.mdl": {
+   "bytes": 132900,
+   "sha256": "56d827d4748f4be0201f137df01578e49c9523497a687fe92230bebd694f6286",
+   "timestamp": "2019-02-05T06:00:00.000Z"
+  },
+  "modjam_redfield/red_Quake.fgd": {
+   "bytes": 25815,
+   "sha256": "7faa5accd38752f5e1a12c47a0de28fcb018cb0a9e7851417642f5716c40803b",
+   "timestamp": "2019-02-08T17:45:18.000Z"
+  },
+  "modjam_redfield/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/sound/ambience/alarm1.wav": {
+   "bytes": 44290,
+   "sha256": "bd3359a1e2ad44bfeaa161b18bb454292d3d2e69f525acbdd490774138781ef9",
+   "timestamp": "2019-01-19T23:02:46.000Z"
+  },
+  "modjam_redfield/sound/ambience/betlaugh.wav": {
+   "bytes": 156250,
+   "sha256": "30006cbc2dbc69af0f827489c4e661c065cc4235f2fc053c16dffb082e649794",
+   "timestamp": "2019-02-05T03:40:06.000Z"
+  },
+  "modjam_redfield/sound/ambience/bigmachine_loop.wav": {
+   "bytes": 92830,
+   "sha256": "af0738ef0040b9f169290648d14c798619c9e3871c160881e278477b8f15ae03",
+   "timestamp": "2018-06-30T00:28:16.000Z"
+  },
+  "modjam_redfield/sound/ambience/breathe.wav": {
+   "bytes": 223384,
+   "sha256": "61d9e3efa3d8450504968c2dce999f47199e2a29278a66f11197e94b0bf1bb6f",
+   "timestamp": "2019-02-05T04:03:34.000Z"
+  },
+  "modjam_redfield/sound/ambience/cave1.wav": {
+   "bytes": 58474,
+   "sha256": "67ae91b6ffe7e426fb09370273fdadec599cf560ac8e417e9632920b2962c846",
+   "timestamp": "2019-02-08T02:35:38.000Z"
+  },
+  "modjam_redfield/sound/ambience/cave2.wav": {
+   "bytes": 63658,
+   "sha256": "71899be554b574ddd27d286ff2ec864dbabdba12b16ae72abdedf22cf96781ae",
+   "timestamp": "2019-02-08T02:36:42.000Z"
+  },
+  "modjam_redfield/sound/ambience/chant.wav": {
+   "bytes": 407448,
+   "sha256": "b585b2c19e868fd32b21278819b92460ffb0efc048665e4d5dfe1c15240fa8d8",
+   "timestamp": "2019-02-08T15:39:52.000Z"
+  },
+  "modjam_redfield/sound/ambience/comehere.wav": {
+   "bytes": 88476,
+   "sha256": "bdc1f72faead6370a1ff04521b217b7614adc2397d83cf273e30f9a0f3f83346",
+   "timestamp": "2019-01-21T23:33:44.000Z"
+  },
+  "modjam_redfield/sound/ambience/follow.wav": {
+   "bytes": 97284,
+   "sha256": "357d496b0ac0e6822635f71d13736886528fc44a814c6015fc5d2d4dd1595334",
+   "timestamp": "2019-02-07T06:18:22.000Z"
+  },
+  "modjam_redfield/sound/ambience/hurry.wav": {
+   "bytes": 90312,
+   "sha256": "492bbf00068dade9b5937ec2c7bbca82d9ed5f681ae1b0fe639669bd5880dd83",
+   "timestamp": "2019-02-05T01:14:30.000Z"
+  },
+  "modjam_redfield/sound/ambience/lava2.wav": {
+   "bytes": 135136,
+   "sha256": "3c7072df150e23f90e0d5a0809a8021026064f3da74a6d887563db8c40df56a4",
+   "timestamp": "2019-02-08T02:33:28.000Z"
+  },
+  "modjam_redfield/sound/ambience/machine_loop1.wav": {
+   "bytes": 529358,
+   "sha256": "13895ce4c7a7679d14bf44786d805afc8f263a118a6ce17f32ef5b0478214411",
+   "timestamp": "2019-01-19T22:59:18.000Z"
+  },
+  "modjam_redfield/sound/ambience/vent1.wav": {
+   "bytes": 153876,
+   "sha256": "0ac26f5ec7c080562c73ca3dae0fe0a705136912b641919f91f3f701875a76bb",
+   "timestamp": "2019-01-13T06:09:18.000Z"
+  },
+  "modjam_redfield/sound/ambience/wat_amb.wav": {
+   "bytes": 301216,
+   "sha256": "7982ccea4d68f50ed082569a1fb3138685ed56bf0f9395e21738f047f7817675",
+   "timestamp": "2019-02-08T02:34:14.000Z"
+  },
+  "modjam_redfield/sound/ambience/windgust2.wav": {
+   "bytes": 110696,
+   "sha256": "85ffe34d5ee89659fd6466afa237a27ad3494176a733d9e017843e7651366a2d",
+   "timestamp": "2019-01-27T18:37:28.000Z"
+  },
+  "modjam_redfield/sound/dragon/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/sound/dragon/active.wav": {
+   "bytes": 16118,
+   "sha256": "5c8762ad62bcb65e1a6fa3362393141a8564fca3ad28ea896a18545c5ebfe6ad",
+   "timestamp": "2019-01-12T00:09:30.000Z"
+  },
+  "modjam_redfield/sound/dragon/attack.wav": {
+   "bytes": 24688,
+   "sha256": "3b3d3eb1e9e67c7641ead96926959e8ccd86bd4ec6e63e77ef5944616ee3dbc9",
+   "timestamp": "2019-01-12T00:09:30.000Z"
+  },
+  "modjam_redfield/sound/dragon/death.wav": {
+   "bytes": 63766,
+   "sha256": "55eb476a990e479c06b4c9a12b71c595d8ada35e813e512986709650ef0e54d1",
+   "timestamp": "2019-01-12T00:09:30.000Z"
+  },
+  "modjam_redfield/sound/dragon/pain.wav": {
+   "bytes": 28302,
+   "sha256": "60a99d79b6922a14e27ed63313e82ff17b127bda008bd614d8e9ed86f0f2cc3a",
+   "timestamp": "2019-01-12T00:09:30.000Z"
+  },
+  "modjam_redfield/sound/dragon/see.wav": {
+   "bytes": 39640,
+   "sha256": "e8202c360287700da28f96d6a14fef6bdea04374ea911f2b3e41183cd8a136ba",
+   "timestamp": "2019-01-12T00:09:30.000Z"
+  },
+  "modjam_redfield/sound/misc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/sound/misc/alice_quote.wav": {
+   "bytes": 41024,
+   "sha256": "1eefa5508f33461c78ef09a37cce8c910fa909d30938215a12d1fff0b8cd6c78",
+   "timestamp": "2019-02-08T02:28:42.000Z"
+  },
+  "modjam_redfield/sound/misc/portal.wav": {
+   "bytes": 172454,
+   "sha256": "e2de11846db8cf516c7a1a73903cf470a7b974fd2bb36785d19b56c78ba35482",
+   "timestamp": "2019-02-08T18:32:40.000Z"
+  },
+  "modjam_redfield/sound/misc/quake.wav": {
+   "bytes": 34286,
+   "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266",
+   "timestamp": "2019-02-04T19:18:18.000Z"
+  },
+  "modjam_redfield/sound/misc/quakeend.wav": {
+   "bytes": 8160,
+   "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01",
+   "timestamp": "2019-02-04T19:18:22.000Z"
+  },
+  "modjam_redfield/sound/plasma/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/sound/plasma/explode.wav": {
+   "bytes": 29598,
+   "sha256": "7a95a8337c7ad87faccc1cae98ad7840352b08608fba08aff87a1b33610f9190",
+   "timestamp": "2019-01-12T01:35:34.000Z"
+  },
+  "modjam_redfield/sound/plasma/fire.wav": {
+   "bytes": 22422,
+   "sha256": "7350d1e99f93a79bee84e94561e080dcb8448a3549a42742633cf604377a5097",
+   "timestamp": "2019-01-12T01:35:34.000Z"
+  },
+  "modjam_redfield/sound/plasma/flight.wav": {
+   "bytes": 17494,
+   "sha256": "a03b46f31df3495a1b7a2b2f1a09f3e5223d4c0ab65aa0ed936e1445e893adeb",
+   "timestamp": "2019-01-12T01:35:34.000Z"
+  },
+  "modjam_redfield/sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:54:32.000Z"
+  },
+  "modjam_redfield/sound/weapons/boomsound.wav": {
+   "bytes": 27340,
+   "sha256": "40a1224f934d8405e41bef6f427056a640efb43976490cb582ddcf2d7ce12d28",
+   "timestamp": "2019-01-11T19:44:02.000Z"
+  },
+  "modjam_redfield/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-23T00:52:20.000Z"
+  },
+  "modjam_redfield/source/ai.qc": {
+   "bytes": 15269,
+   "sha256": "9febe2406e7d6d9335542ea66ef1bd259f23e62d43417a2707589ef25e3a4697",
+   "timestamp": "2019-01-12T00:13:42.000Z"
+  },
+  "modjam_redfield/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/client.qc": {
+   "bytes": 34836,
+   "sha256": "a73692a77585a77218d9c35842f34068474fdb1b27c7a94b7a7f577dfb69985d",
+   "timestamp": "2019-02-08T16:51:52.000Z"
+  },
+  "modjam_redfield/source/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/defs.qc": {
+   "bytes": 18686,
+   "sha256": "5905cb1f6abf8eac2143628c3ddca0e448d5aebf7f23c98352f4771102018e3c",
+   "timestamp": "2019-02-05T05:29:02.000Z"
+  },
+  "modjam_redfield/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/dragon.qc": {
+   "bytes": 23534,
+   "sha256": "b4cef873a6ea0b68469488309da2f08c251e1e7437a8838359a71a108aec05e2",
+   "timestamp": "2019-02-08T18:21:52.000Z"
+  },
+  "modjam_redfield/source/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/extras_fx.qc": {
+   "bytes": 6005,
+   "sha256": "1fcaf727095f7cc2dbd66a3279ae272f71fdbc16aec3ba808a2a92aaa1d355d2",
+   "timestamp": "2019-02-04T20:25:42.000Z"
+  },
+  "modjam_redfield/source/extras_triggers.qc": {
+   "bytes": 3297,
+   "sha256": "f2c548797cf4815e08c8912cfb2ef15b6eda37d930e10976333ec8b5abe873c3",
+   "timestamp": "2019-02-06T04:57:58.000Z"
+  },
+  "modjam_redfield/source/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/hiprot.qc": {
+   "bytes": 28071,
+   "sha256": "ee45f3d491f46bd724fbca8fa5e054200aca1180251e8decb352d5161c0b4945",
+   "timestamp": "2019-01-15T00:24:34.000Z"
+  },
+  "modjam_redfield/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/invis_sw.qc": {
+   "bytes": 6266,
+   "sha256": "309f1f500bec81f90a93b49bba07e66866bd4509eb5282dbc97f6a0628989185",
+   "timestamp": "2019-02-09T06:25:24.000Z"
+  },
+  "modjam_redfield/source/items.qc": {
+   "bytes": 29861,
+   "sha256": "d0d08891858f56cdb8aaeb4f635631f47fce04357db8ff6db14bd1b667d669db",
+   "timestamp": "2019-01-25T20:58:12.000Z"
+  },
+  "modjam_redfield/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/misc.qc": {
+   "bytes": 23171,
+   "sha256": "2baedbbe204b88cab6032cbeb324b3d1e2990050da6f1e470bb6f803ef146c01",
+   "timestamp": "2019-02-08T22:51:10.000Z"
+  },
+  "modjam_redfield/source/monsters.qc": {
+   "bytes": 6264,
+   "sha256": "35f5ff66aaa8b63ad77a8fa55f709342849dcfa529b6213709ebda2a36daeb02",
+   "timestamp": "2019-02-05T00:56:40.000Z"
+  },
+  "modjam_redfield/source/new_ai.qc": {
+   "bytes": 3872,
+   "sha256": "246d1559882eec5bb9fb95282add9668f2559f87eea9dc8460b056ca960a3d31",
+   "timestamp": "2019-01-12T00:32:50.000Z"
+  },
+  "modjam_redfield/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/player.qc": {
+   "bytes": 19645,
+   "sha256": "078a73675016792c182518d505c33d20812006877770777fb16ecd1ec66ce37c",
+   "timestamp": "2019-01-25T06:12:56.000Z"
+  },
+  "modjam_redfield/source/progs.src": {
+   "bytes": 702,
+   "sha256": "761caeea130e68afbfc60d35879304979e0053df27901e4fa10f650660de59a1",
+   "timestamp": "2019-02-05T05:27:10.000Z"
+  },
+  "modjam_redfield/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/subs.qc": {
+   "bytes": 6990,
+   "sha256": "730b593a5cdf142f9b2c76304c11a90c3a2a47e108153800d9396a72593e6724",
+   "timestamp": "2019-01-15T00:31:00.000Z"
+  },
+  "modjam_redfield/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/triggers.qc": {
+   "bytes": 15603,
+   "sha256": "ac89245f72dbe88e3f66ea1132038e5c6b72083274fd967909fa75259cef0738",
+   "timestamp": "2019-02-08T17:42:58.000Z"
+  },
+  "modjam_redfield/source/weapons.qc": {
+   "bytes": 31909,
+   "sha256": "c908549568b3c223b15a8ee6669b107ef0ed7b1ef0b660385497f378fdd59721",
+   "timestamp": "2019-02-09T08:41:44.000Z"
+  },
+  "modjam_redfield/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_redfield/source/world.qc": {
+   "bytes": 11840,
+   "sha256": "2af5dc6744a199657a0364e2297e711f3ff23bbaa4bf237a5d773b8be917d1ca",
+   "timestamp": "2019-02-08T05:55:26.000Z"
+  },
+  "modjam_redfield/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-11T08:00:16.000Z"
+  },
+  "modjam_scrama/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-25T01:59:10.000Z"
+  },
+  "modjam_scrama/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-14T03:25:20.000Z"
+  },
+  "modjam_scrama/maps/modjam_scrama.bsp": {
+   "bytes": 253468,
+   "sha256": "a46248f4887e5fbe01a5deda7e7f123e314c54f35f6db69660a682c12e2f37d8",
+   "timestamp": "2019-01-25T21:48:34.000Z"
+  },
+  "modjam_scrama/maps/modjam_scrama.lit": {
+   "bytes": 65033,
+   "sha256": "1bf59ac11659d84c007db3263ca0403f92bfae5252b2ef5c225d2fcbe4612e6e",
+   "timestamp": "2019-01-25T21:48:34.000Z"
+  },
+  "modjam_scrama/maps/modjam_scrama.map": {
+   "bytes": 82788,
+   "sha256": "14502e8a8c32e697d8ea5ae4ef308025ff46df2f7bfd9dc8c08d5d3fe862a8c6",
+   "timestamp": "2019-01-25T21:48:26.000Z"
+  },
+  "modjam_scrama/mj_scrama_tfgun.txt": {
+   "bytes": 1498,
+   "sha256": "fd7942dadba8b17b2d3c9e64670e65218419bbbaf1afd2aa73d7b031a2006891",
+   "timestamp": "2019-02-14T16:22:46.000Z"
+  },
+  "modjam_scrama/modjam_scrama.dem": {
+   "bytes": 1151931,
+   "sha256": "3f4501ffe987eb10497b2becec1b2c905488c807338712e0915cb1f1ebf258a7",
+   "timestamp": "2019-02-14T03:33:52.000Z"
+  },
+  "modjam_scrama/progs.dat": {
+   "bytes": 334554,
+   "sha256": "f7027fe8e88c62568310fd2ee8a50a69ce40ff011a3d0a38b62901e1bed6ee62",
+   "timestamp": "2019-02-25T01:58:10.000Z"
+  },
+  "modjam_scrama/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-09T06:39:42.000Z"
+  },
+  "modjam_scrama/progs/g_tfgun.mdl": {
+   "bytes": 297912,
+   "sha256": "ca5e9f516d4c120a12072ceb8f730980f6981a5fd5d422bb3e4608b285081bfa",
+   "timestamp": "2019-02-14T03:20:58.000Z"
+  },
+  "modjam_scrama/progs/v_tfgun.mdl": {
+   "bytes": 191924,
+   "sha256": "7b6d8b6ad8f9d8d5625a3a20db21bad4184bb9bb3f903bfbebfbaa47e03eebd8",
+   "timestamp": "2019-02-14T03:20:24.000Z"
+  },
+  "modjam_scrama/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T07:49:10.000Z"
+  },
+  "modjam_scrama/sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T06:02:32.000Z"
+  },
+  "modjam_scrama/sound/weapons/telegun_out.wav": {
+   "bytes": 15284,
+   "sha256": "277e55dfb37874b69896591221cd99cb5b846768453d4a5990f8a5c2a06223aa",
+   "timestamp": "2019-02-13T06:03:40.000Z"
+  },
+  "modjam_scrama/sound/weapons/telegun_target.wav": {
+   "bytes": 16244,
+   "sha256": "7d9307bdb34d1faa5ade2ee02504ee39bb730687f2328a5757bd9279998f0d95",
+   "timestamp": "2019-02-13T06:02:32.000Z"
+  },
+  "modjam_scrama/sound/weapons/transmission.wav": {
+   "bytes": 220112,
+   "sha256": "d6599899499bf4c7acb10a5fc76e19b8d79b90e9f866277ebbb45b6b9421a5e8",
+   "timestamp": "2019-02-13T04:57:40.000Z"
+  },
+  "modjam_scrama/src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-09T06:39:42.000Z"
+  },
+  "modjam_scrama/src/ai.qc": {
+   "bytes": 15161,
+   "sha256": "23b5fe699b8d8e140849c5d3c920235a94b9c307808157f6ce8b93f3f16d64c0",
+   "timestamp": "2019-01-03T19:48:38.000Z"
+  },
+  "modjam_scrama/src/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-03T19:46:54.000Z"
+  },
+  "modjam_scrama/src/client.qc": {
+   "bytes": 34237,
+   "sha256": "64755bfc674e603fe570a1fe34b80101816b292841620b01059c81b6872d32fe",
+   "timestamp": "2019-01-25T21:15:26.000Z"
+  },
+  "modjam_scrama/src/combat.qc": {
+   "bytes": 6646,
+   "sha256": "e5da0f2e6beaf4c9f1b3ecb73a643add9d3b95f286852589315040b9a77e886b",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/defs.qc": {
+   "bytes": 18206,
+   "sha256": "e8d2c62bbead824e366db007ad16b002e8f32e1afe08554218d47ddcbc6e934f",
+   "timestamp": "2019-02-13T06:19:32.000Z"
+  },
+  "modjam_scrama/src/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-03T19:47:58.000Z"
+  },
+  "modjam_scrama/src/dog.qc": {
+   "bytes": 9911,
+   "sha256": "e320ce8aa965d636f887acc89cd4a69ca1e431a15c7907ff35dff5d57d5e5d53",
+   "timestamp": "2019-01-03T19:59:12.000Z"
+  },
+  "modjam_scrama/src/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-03T19:58:36.000Z"
+  },
+  "modjam_scrama/src/enforcer.qc": {
+   "bytes": 11080,
+   "sha256": "05c437d4c64b2d5c0138e611c75b70e5933eb524371475c38834ab0359e52f2e",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-03T19:48:06.000Z"
+  },
+  "modjam_scrama/src/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-03T20:21:58.000Z"
+  },
+  "modjam_scrama/src/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/items.qc": {
+   "bytes": 29926,
+   "sha256": "2ce02e7da6d92b1411670b2ef06db1c4e6e3941d889a3bd37a5fbfe451921927",
+   "timestamp": "2019-01-25T21:10:28.000Z"
+  },
+  "modjam_scrama/src/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-03T20:05:18.000Z"
+  },
+  "modjam_scrama/src/misc.qc": {
+   "bytes": 15735,
+   "sha256": "cf235c259b81f675f4ebc2f890514e34e2d84e76385159e883037ecea650f6b0",
+   "timestamp": "2019-01-03T19:46:28.000Z"
+  },
+  "modjam_scrama/src/mj_scrama_tfgun.qc": {
+   "bytes": 3983,
+   "sha256": "8e9dd978513026f87102796fa90eb195c9269e548d1e9406b72bd671f72b0551",
+   "timestamp": "2019-02-25T01:56:18.000Z"
+  },
+  "modjam_scrama/src/monsters.qc": {
+   "bytes": 4914,
+   "sha256": "9e0382bb03be8632b0368b82219fbee29fe2295139784127e3c94f64bd910310",
+   "timestamp": "2019-01-03T20:16:04.000Z"
+  },
+  "modjam_scrama/src/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-03T19:47:20.000Z"
+  },
+  "modjam_scrama/src/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-03T20:08:04.000Z"
+  },
+  "modjam_scrama/src/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-03T19:47:08.000Z"
+  },
+  "modjam_scrama/src/player.qc": {
+   "bytes": 19630,
+   "sha256": "f80687f830adc609d500e8460fe1926df5c95f371ce250d3e1b070912b872336",
+   "timestamp": "2019-02-10T05:35:16.000Z"
+  },
+  "modjam_scrama/src/progs.src": {
+   "bytes": 462,
+   "sha256": "b90d55e9798dc3525428b7986b8b8e2f17264f2c46219a11be84190c146ac2cc",
+   "timestamp": "2019-01-25T21:07:02.000Z"
+  },
+  "modjam_scrama/src/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-03T20:00:42.000Z"
+  },
+  "modjam_scrama/src/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/soldier.qc": {
+   "bytes": 10109,
+   "sha256": "a331742f9022e5ba548af65e4c49c696a9a015d641ade494e3025590068a536c",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/triggers.qc": {
+   "bytes": 14859,
+   "sha256": "f67690567b2918cb57f79e6da0b8b7b954e834fb6b5ffa8eace485b50815a334",
+   "timestamp": "2019-01-03T19:45:50.000Z"
+  },
+  "modjam_scrama/src/weapons.qc": {
+   "bytes": 27882,
+   "sha256": "9925c1075f34d232539023d77d7f38ab3f3b28da7e7546a2ec4bedc9ddc7e788",
+   "timestamp": "2019-02-14T16:26:56.000Z"
+  },
+  "modjam_scrama/src/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-07T21:17:36.000Z"
+  },
+  "modjam_scrama/src/world.qc": {
+   "bytes": 11470,
+   "sha256": "6e49dcc01b01df9809c5c84abcfbb258726225e9ce4edf757d47f7caf86e1bc5",
+   "timestamp": "2019-01-25T20:33:44.000Z"
+  },
+  "modjam_scrama/src/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-03T19:48:22.000Z"
+  },
+  "modjam_snaut/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "a83165b829270d006ca7bba255372d674629c4ee83a70e3439966efc6e5dfa20",
+   "timestamp": "2019-01-29T02:23:08.000Z"
+  },
+  "modjam_snaut/gfx/qplaque.lmp": {
+   "bytes": 4616,
+   "sha256": "7423c2096350e7a7d6cb5b5845556048a3a5f11a7bd3921ed20025823e7f862a",
+   "timestamp": "2019-02-06T02:08:02.000Z"
+  },
+  "modjam_snaut/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/maps/e1m1.bsp": {
+   "bytes": 1353724,
+   "sha256": "114a6bf406da74484571475a94e15fd8af2e8ece71b50cbc6c754748614fbf8a",
+   "timestamp": "2019-02-08T01:01:04.000Z"
+  },
+  "modjam_snaut/maps/e1m1.map": {
+   "bytes": 795059,
+   "sha256": "ead14a97c28d5717ea7051e8383aed0d2a0741bb03a9a96ac1f682acf4ec0cfb",
+   "timestamp": "2019-02-08T01:01:02.000Z"
+  },
+  "modjam_snaut/maps/e2m1.bsp": {
+   "bytes": 1290076,
+   "sha256": "549a27c628b8c43214654de6abb329d94fad4bd0d458c99ea9de71b54614c7e8",
+   "timestamp": "2019-02-08T02:31:36.000Z"
+  },
+  "modjam_snaut/maps/e2m1.map": {
+   "bytes": 910614,
+   "sha256": "9d0d3694514188fdf3f483b64007721d2c7b2bbdf75bdd9fa6d1fcc240eb5d82",
+   "timestamp": "2019-02-08T02:31:34.000Z"
+  },
+  "modjam_snaut/maps/e3m1.bsp": {
+   "bytes": 2176240,
+   "sha256": "bed4cf34c442574ff5ecd29771ae44c0c8d3c43db9fd6a1c84b2f6af07f91f2c",
+   "timestamp": "2019-02-08T20:13:00.000Z"
+  },
+  "modjam_snaut/maps/e3m1.map": {
+   "bytes": 730753,
+   "sha256": "cdb2389eaa3dec5b284001f8eb4dd904ed0a4d263a0ace92f7564937b28fd0d2",
+   "timestamp": "2019-02-08T20:12:58.000Z"
+  },
+  "modjam_snaut/maps/e4m1.bsp": {
+   "bytes": 2444776,
+   "sha256": "59b78b2d59da9a0b4551bd8474b6d0836bd5d3bf2717322ac2a65ea177ca3571",
+   "timestamp": "2019-02-09T03:24:28.000Z"
+  },
+  "modjam_snaut/maps/e4m1.map": {
+   "bytes": 982070,
+   "sha256": "f66a49f45b30bb114bf5437b7074b50fb7f767b3224e89745d8b27f7255f959b",
+   "timestamp": "2019-02-09T03:24:26.000Z"
+  },
+  "modjam_snaut/progs.dat": {
+   "bytes": 408770,
+   "sha256": "3e8fdac4c78022bbb46838ef91edcdce3cc435969e2870eed106711482c31f67",
+   "timestamp": "2019-02-09T02:28:44.000Z"
+  },
+  "modjam_snaut/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/progs/barrel.mdl": {
+   "bytes": 15056,
+   "sha256": "a1819fdf41ee61d8e45a4fab2871654eddd74594babd20bc3b3886573cebd885",
+   "timestamp": "2019-01-23T04:52:38.000Z"
+  },
+  "modjam_snaut/progs/barrel_sm.mdl": {
+   "bytes": 15056,
+   "sha256": "15a4847353daf68fcfc9bc205b75875e1c1baefcde2080cde586099480211269",
+   "timestamp": "2019-01-23T05:12:52.000Z"
+  },
+  "modjam_snaut/progs/beam.mdl": {
+   "bytes": 8897,
+   "sha256": "316547848733f13c7ff5b4e7bb1cced51ad9b811efd8f184ba59c809a70b48cc",
+   "timestamp": "2019-01-17T04:49:18.000Z"
+  },
+  "modjam_snaut/progs/boar.mdl": {
+   "bytes": 708067,
+   "sha256": "988fddae01ff384a29667912f9fa74c2bfd8553d8d9eb76701aaa6f28288498a",
+   "timestamp": "2019-01-28T21:04:22.000Z"
+  },
+  "modjam_snaut/progs/bone_rune.spr": {
+   "bytes": 16440,
+   "sha256": "74ce9916a0c98b515c8ec166ac2c6cc6e4a1eb6f238f714d281287c3c54bd0d4",
+   "timestamp": "2019-01-20T05:18:40.000Z"
+  },
+  "modjam_snaut/progs/bone_shard.mdl": {
+   "bytes": 6612,
+   "sha256": "fd34b3f1ef40266f9f89533bfb053a7c26ffd1ea7e1e27d4da57d051538114cb",
+   "timestamp": "2019-01-28T11:09:10.000Z"
+  },
+  "modjam_snaut/progs/book.mdl": {
+   "bytes": 6188,
+   "sha256": "3d6570c5916af9c8c8e329faa7b79d221f2035e9bfea95fad7897ec5da5f7f47",
+   "timestamp": "2019-01-17T04:25:06.000Z"
+  },
+  "modjam_snaut/progs/demon.mdl": {
+   "bytes": 163644,
+   "sha256": "fefa10c72b3e6d987916a8c66ce09df1763e20762816e9397b5089411fb56d51",
+   "timestamp": "2019-01-28T20:08:04.000Z"
+  },
+  "modjam_snaut/progs/enforcer.mdl": {
+   "bytes": 218412,
+   "sha256": "e53ae4f4214686244c44dc1f8081174686aa2f21aa819ab4fd03c5fb32179f37",
+   "timestamp": "2019-01-28T20:08:42.000Z"
+  },
+  "modjam_snaut/progs/fire_mana.mdl": {
+   "bytes": 6348,
+   "sha256": "f3ae9ba00a9c8dc522d2191b60dc3be49a4fc05881f4ef82a797797ccb5471eb",
+   "timestamp": "2019-01-17T04:03:00.000Z"
+  },
+  "modjam_snaut/progs/fire_rune.spr": {
+   "bytes": 16440,
+   "sha256": "022c28a789ebce27f1f6da85d3a4cd4920da2798e0a986c8e6bf6bf75438784e",
+   "timestamp": "2019-01-20T05:17:30.000Z"
+  },
+  "modjam_snaut/progs/fish.mdl": {
+   "bytes": 151416,
+   "sha256": "626aec22ccd39777182266ea741e4ced3421d366ed5234e82ce57ad0196642bb",
+   "timestamp": "2019-01-28T20:08:56.000Z"
+  },
+  "modjam_snaut/progs/flies.mdl": {
+   "bytes": 1606511,
+   "sha256": "c949e95232b733ceae6b86e2491a6a539900803d2254a9e11d4bbae8a48ff8f2",
+   "timestamp": "2019-01-16T09:31:00.000Z"
+  },
+  "modjam_snaut/progs/gib1.mdl": {
+   "bytes": 14784,
+   "sha256": "86c186d01ba43f6e5453740ff8767bf3fb62958a387d34cf3b05487e529705e7",
+   "timestamp": "2019-02-03T11:15:24.000Z"
+  },
+  "modjam_snaut/progs/gib2.mdl": {
+   "bytes": 42432,
+   "sha256": "ca377730a73827f957f705d9dbe12cca161d9b47c9b41bae1751166fc4036017",
+   "timestamp": "2019-02-03T13:10:24.000Z"
+  },
+  "modjam_snaut/progs/gib3.mdl": {
+   "bytes": 64896,
+   "sha256": "9d0214ef4fe3549b308ec97b2544146f6bc8e8997fbd719dd9e86bdce2aa65cd",
+   "timestamp": "2019-02-03T11:15:40.000Z"
+  },
+  "modjam_snaut/progs/gib_knfoot_l.mdl": {
+   "bytes": 18288,
+   "sha256": "8ffcc7ce931662f2eefa0703642b140e18a99c02252ffa3ddeb71f6ebbbe360f",
+   "timestamp": "2016-01-10T06:45:12.000Z"
+  },
+  "modjam_snaut/progs/gib_knfoot_r.mdl": {
+   "bytes": 18288,
+   "sha256": "4d503f422ac01a8565453ba4bd8268338c3a9802480785eebd27fc0487e46753",
+   "timestamp": "2016-01-10T06:45:12.000Z"
+  },
+  "modjam_snaut/progs/h_dcrossbow.mdl": {
+   "bytes": 19296,
+   "sha256": "ab814d7b80e72f9920237cc4bab1153797f2ad6704d809acb875638160035eb8",
+   "timestamp": "2019-01-28T21:05:02.000Z"
+  },
+  "modjam_snaut/progs/h_demon.mdl": {
+   "bytes": 98496,
+   "sha256": "c2661c4010f969b9a4ca8c3624d31834caa5f1dfa1320661da261e29d3821ef8",
+   "timestamp": "2019-01-28T20:09:08.000Z"
+  },
+  "modjam_snaut/progs/h_hellkn.mdl": {
+   "bytes": 41856,
+   "sha256": "470d5944cbc781e7cf883835029051f022b669a93d3da44db6616aede4752853",
+   "timestamp": "2019-01-28T20:10:06.000Z"
+  },
+  "modjam_snaut/progs/h_hells_enforcer.mdl": {
+   "bytes": 13176,
+   "sha256": "a4039cfaa558235026582f4df1efd9cdd0e8bc7c0b65aca14100205e6fb9851a",
+   "timestamp": "2019-01-30T10:23:12.000Z"
+  },
+  "modjam_snaut/progs/h_knight.mdl": {
+   "bytes": 18816,
+   "sha256": "db43ebb4f861109b72d8c45f3ef937b41580f0647386e20d7f606e3446ad3838",
+   "timestamp": "2019-01-28T20:10:38.000Z"
+  },
+  "modjam_snaut/progs/h_mega.mdl": {
+   "bytes": 31104,
+   "sha256": "4ce9743a687d2aa2900566be3fca39ca30d1595ac5b424e46647a054a47a7989",
+   "timestamp": "2019-01-28T20:10:46.000Z"
+  },
+  "modjam_snaut/progs/h_ogre.mdl": {
+   "bytes": 42048,
+   "sha256": "33a57c2d7ed180d2e84d9675eeb164992c1f87f5225875335753c8f480e7b8b4",
+   "timestamp": "2019-01-28T20:11:20.000Z"
+  },
+  "modjam_snaut/progs/h_player.mdl": {
+   "bytes": 40896,
+   "sha256": "2e71c72287de7efb8ee58dc6c105fe82fd6143f1b7754591e04781bf5cf7609d",
+   "timestamp": "2019-01-28T20:11:54.000Z"
+  },
+  "modjam_snaut/progs/h_shal.mdl": {
+   "bytes": 75264,
+   "sha256": "50d3d85fadf5f949f0704353584e1d5d6ed204cecdf370c4a58d5ee86cdbeb28",
+   "timestamp": "2019-01-28T20:12:06.000Z"
+  },
+  "modjam_snaut/progs/h_shams.mdl": {
+   "bytes": 106800,
+   "sha256": "f6a3cfe471528e9bdb39d272f454c40ab8f1059ea5406284c18ba8967e8050e1",
+   "timestamp": "2019-01-28T20:12:26.000Z"
+  },
+  "modjam_snaut/progs/h_wizard.mdl": {
+   "bytes": 42048,
+   "sha256": "420be9eb1dec98c42bda3cdd7e31220c43bffe63af28314fe1529a71f8c42984",
+   "timestamp": "2019-01-28T20:12:34.000Z"
+  },
+  "modjam_snaut/progs/h_zombie.mdl": {
+   "bytes": 9600,
+   "sha256": "4ae2f04c30e290596f51fdd58dbd4c40e3bb7c50aa823b29317cadd10046551a",
+   "timestamp": "2019-01-28T20:12:46.000Z"
+  },
+  "modjam_snaut/progs/hells_enforcer.mdl": {
+   "bytes": 2237065,
+   "sha256": "74afaab3f3402162e55e80a2581685f7369284c9d118a40d363f6cfbf5298112",
+   "timestamp": "2019-01-30T10:22:54.000Z"
+  },
+  "modjam_snaut/progs/hknight.mdl": {
+   "bytes": 275836,
+   "sha256": "041ce55933e0af6be189caf3d3a103afbab9864b293aa94421d310aa1d0fad54",
+   "timestamp": "2019-01-28T20:13:16.000Z"
+  },
+  "modjam_snaut/progs/ice_expl1.spr": {
+   "bytes": 164076,
+   "sha256": "bf7317d811349602db7a020da3e77065ffd8158a3104e83ddca3b166566df18c",
+   "timestamp": "2019-01-13T04:28:18.000Z"
+  },
+  "modjam_snaut/progs/ice_fragment1.mdl": {
+   "bytes": 6676,
+   "sha256": "77cce64b96768f6cb67181d9db5c027d45a0928b6ae56e50785d6207bfff2e82",
+   "timestamp": "2019-02-03T13:11:40.000Z"
+  },
+  "modjam_snaut/progs/ice_fragment2.mdl": {
+   "bytes": 4852,
+   "sha256": "d1d0034ac7d3e89f332af1d2831d7720aedfef7378feef449bed90ef983ae36a",
+   "timestamp": "2019-02-03T13:11:16.000Z"
+  },
+  "modjam_snaut/progs/ice_fragment3.mdl": {
+   "bytes": 5716,
+   "sha256": "10ba9305c8d1bb5269a356d91a7f84a0597ba00563edb6c20bbffdc42ed55b06",
+   "timestamp": "2019-02-03T13:09:30.000Z"
+  },
+  "modjam_snaut/progs/ice_mana.mdl": {
+   "bytes": 6348,
+   "sha256": "8669e78e32edc02a0a0263da3d22dc96d78312435032176cb5a3f8c15bda49be",
+   "timestamp": "2019-01-17T04:03:08.000Z"
+  },
+  "modjam_snaut/progs/ice_shard.mdl": {
+   "bytes": 9700,
+   "sha256": "ca5982082e1a0cdbf3dd2bc89f5fec825b107f301c09ad747c9ac4badecb3c23",
+   "timestamp": "2019-01-18T04:35:34.000Z"
+  },
+  "modjam_snaut/progs/it_skull.mdl": {
+   "bytes": 22929,
+   "sha256": "64f5fb9ac4ddfed99c4fa4b260863aa06cf72a2d8e0da8016bb3180764be1955",
+   "timestamp": "2019-01-30T16:49:38.000Z"
+  },
+  "modjam_snaut/progs/knight.mdl": {
+   "bytes": 156072,
+   "sha256": "0eb350b05253a1ca3393ed27dac355fba1bc404300a219c7d89a1d84bd447a27",
+   "timestamp": "2019-01-28T20:13:30.000Z"
+  },
+  "modjam_snaut/progs/mon_dcrossbow.mdl": {
+   "bytes": 1283964,
+   "sha256": "e30fb49350530f7eae9a299de70b542694585f1bcf20b397a4230cf580ed314f",
+   "timestamp": "2019-01-28T21:04:42.000Z"
+  },
+  "modjam_snaut/progs/ogre.mdl": {
+   "bytes": 264476,
+   "sha256": "9340785de69885667702fc5312c46f855a7884240cede310575ffc05a868f8d7",
+   "timestamp": "2019-01-28T20:14:02.000Z"
+  },
+  "modjam_snaut/progs/proj_bolt1.mdl": {
+   "bytes": 1556,
+   "sha256": "890f6cd6faf7c36954185c4566a2cca619e627d5b365f05e1bffc7e12ac00ace",
+   "timestamp": "2017-06-26T03:32:02.000Z"
+  },
+  "modjam_snaut/progs/rat.mdl": {
+   "bytes": 172776,
+   "sha256": "57b80e695ebe9568b4e58864f1594282a392e0a479def1caeb97ef7b4a442d0d",
+   "timestamp": "2019-01-24T08:05:22.000Z"
+  },
+  "modjam_snaut/progs/ring_of_serpents.mdl": {
+   "bytes": 14800,
+   "sha256": "897b3e0b4333f6ac644b2934ac35f1126050317060cee541f9c57ede380a5167",
+   "timestamp": "2019-01-17T04:16:46.000Z"
+  },
+  "modjam_snaut/progs/scroll.mdl": {
+   "bytes": 21428,
+   "sha256": "2c553a2fa9184bb6b33843bfe68bbc83ae3068f08cb0cbc9656ad2ff47a8b353",
+   "timestamp": "2019-01-17T04:16:20.000Z"
+  },
+  "modjam_snaut/progs/shalrath.mdl": {
+   "bytes": 124116,
+   "sha256": "61c0370af6a2ef8e91263c8973b60083847b7737e9b8b8d829118699fafc2896",
+   "timestamp": "2019-01-28T20:14:14.000Z"
+  },
+  "modjam_snaut/progs/shambler.mdl": {
+   "bytes": 133980,
+   "sha256": "e89e1682993c364201b14c03e7884df41d713f8ee184de503c34144af967721a",
+   "timestamp": "2019-01-28T20:14:24.000Z"
+  },
+  "modjam_snaut/progs/sheep.mdl": {
+   "bytes": 534280,
+   "sha256": "37a4a10f677135bcd0fea9b6dbfea360c426a73efa92c9ae5b273c9ad8f76351",
+   "timestamp": "2019-01-27T05:33:02.000Z"
+  },
+  "modjam_snaut/progs/skull.mdl": {
+   "bytes": 22929,
+   "sha256": "6d98633d9aeb2d41258158f1b010d53ca37b332d99ba131f1cc6a9ac72d8ea48",
+   "timestamp": "2019-01-25T19:58:32.000Z"
+  },
+  "modjam_snaut/progs/skull_pike_1.mdl": {
+   "bytes": 50565,
+   "sha256": "73fc039c9f12a449510553f723398cbcd2381b3b8065a43d876fed766aa18a03",
+   "timestamp": "2019-01-25T19:58:48.000Z"
+  },
+  "modjam_snaut/progs/skull_pike_2.mdl": {
+   "bytes": 34599,
+   "sha256": "72dc6706bc4a33132238cc6453a5de76db0553612504c5339e9fe00d13f6e4aa",
+   "timestamp": "2019-01-25T19:59:02.000Z"
+  },
+  "modjam_snaut/progs/snake_statue.mdl": {
+   "bytes": 70541,
+   "sha256": "bd9b0821d0443c0c74c06cec6a00cc75530c520d432df8c232e9b087d3ab807b",
+   "timestamp": "2019-01-27T06:53:02.000Z"
+  },
+  "modjam_snaut/progs/snake_venom.mdl": {
+   "bytes": 16228,
+   "sha256": "a1b7c82d4094ceebd23229cac619026277ca873b967899510880b262dfb53e0a",
+   "timestamp": "2019-01-17T03:59:10.000Z"
+  },
+  "modjam_snaut/progs/souls.mdl": {
+   "bytes": 43364,
+   "sha256": "c33011e8f4ebea22180db2545555697abf3afe70c14e1a8fbda6672a4a2b6d80",
+   "timestamp": "2019-01-16T02:29:18.000Z"
+  },
+  "modjam_snaut/progs/splnter1.mdl": {
+   "bytes": 1664,
+   "sha256": "5f3859e85c7980c00f1e583221345930cd7c34c4591f5e3f71f309e9d8cd181b",
+   "timestamp": "2019-01-23T04:55:10.000Z"
+  },
+  "modjam_snaut/progs/splnter2.mdl": {
+   "bytes": 1324,
+   "sha256": "f31384f66cd447eb78a1c7c6b9a13b0932bad4606e46437a396db928af79d4f3",
+   "timestamp": "2019-01-23T04:55:16.000Z"
+  },
+  "modjam_snaut/progs/splnter3.mdl": {
+   "bytes": 2632,
+   "sha256": "fba546bfc8992ef686ea5303a3a4a998ae8e9fc08feb7496d3106722301af941",
+   "timestamp": "2019-01-23T04:55:20.000Z"
+  },
+  "modjam_snaut/progs/splnter4.mdl": {
+   "bytes": 2160,
+   "sha256": "0e152420aa8f4922237cd3156406b6ad8dceaa38fee4519d7a25da9115690828",
+   "timestamp": "2019-01-23T04:55:26.000Z"
+  },
+  "modjam_snaut/progs/sword.mdl": {
+   "bytes": 37060,
+   "sha256": "a88063c83b55a6f14c9f7360b7ea426145ad1a62042656a50b372fe7f57605e1",
+   "timestamp": "2019-01-21T04:32:12.000Z"
+  },
+  "modjam_snaut/progs/tarbaby.mdl": {
+   "bytes": 177024,
+   "sha256": "e77000a66bd3aff0a35e04e0fa4e85ade7ea7b7b748054df0853cc67e51c56c2",
+   "timestamp": "2019-01-28T20:23:00.000Z"
+  },
+  "modjam_snaut/progs/v_book1.mdl": {
+   "bytes": 351577,
+   "sha256": "c2a33c2ed409da9ceb575f0f166b03b1f4677b51ea94600a57976f709a831e28",
+   "timestamp": "2019-01-29T16:28:34.000Z"
+  },
+  "modjam_snaut/progs/v_book2.mdl": {
+   "bytes": 351577,
+   "sha256": "5f0ed4ee4eca50dba2e5c9d1ba94fabfd077c22bcb0ed4e11dd2ee038990f474",
+   "timestamp": "2019-01-29T16:29:50.000Z"
+  },
+  "modjam_snaut/progs/v_book3.mdl": {
+   "bytes": 351577,
+   "sha256": "434d89994c20199d3bb9664470c9fffe44f3b642ab16c0aefa90381f2b1bf5fe",
+   "timestamp": "2019-01-29T16:30:00.000Z"
+  },
+  "modjam_snaut/progs/v_book4.mdl": {
+   "bytes": 351577,
+   "sha256": "ad3bee95a04a509cc3605227c602e437ff5f4837d9688c0dfd4bfa09600d2ce8",
+   "timestamp": "2019-01-29T16:30:12.000Z"
+  },
+  "modjam_snaut/progs/v_book5.mdl": {
+   "bytes": 351577,
+   "sha256": "6c02b95c9e6053862d93f3b124f8599ae282e3a59b7924d1a7c80ba65457214c",
+   "timestamp": "2019-01-29T16:30:20.000Z"
+  },
+  "modjam_snaut/progs/v_book6.mdl": {
+   "bytes": 351577,
+   "sha256": "f589c5e47e5629c766efe3c3c2ba33bfd7c5bbf8bd5a335098601c92ffd05a27",
+   "timestamp": "2019-01-29T22:04:30.000Z"
+  },
+  "modjam_snaut/progs/v_book7.mdl": {
+   "bytes": 351577,
+   "sha256": "754a150379b24e1db0fc96c44bb5ca4ccb3e7e46fce2dcbaee558ad79eb81a2e",
+   "timestamp": "2019-01-29T22:04:24.000Z"
+  },
+  "modjam_snaut/progs/v_book8.mdl": {
+   "bytes": 351577,
+   "sha256": "c951fe315c94209b50abe1301811a54c878b5cbb9e7a038bb115feca2a4bbc12",
+   "timestamp": "2019-01-29T16:30:48.000Z"
+  },
+  "modjam_snaut/progs/v_wraith.mdl": {
+   "bytes": 127827,
+   "sha256": "81d11f509dbf0c3c43eb730d500cd10838fb5c5d4b2afc6a68fbc82f4889724c",
+   "timestamp": "2019-02-09T02:02:22.000Z"
+  },
+  "modjam_snaut/progs/voreling.mdl": {
+   "bytes": 45332,
+   "sha256": "af233d21d6f0ea66267ba1c562ba223e1077bd07894333327ce12a6202938411",
+   "timestamp": "2015-07-06T00:19:56.000Z"
+  },
+  "modjam_snaut/progs/voreling_rune.spr": {
+   "bytes": 16440,
+   "sha256": "f5ca790a14bc486d7eab0aa982f2a96f0f123a37a8c8e4488dc4189c68a9ed6c",
+   "timestamp": "2019-01-11T01:15:48.000Z"
+  },
+  "modjam_snaut/progs/w_dcrossbow.mdl": {
+   "bytes": 20792,
+   "sha256": "2512be798d037ec6fd159b619a7d30f9d97c86d5a98675050ccb4da57d94196d",
+   "timestamp": "2019-02-03T11:51:36.000Z"
+  },
+  "modjam_snaut/progs/wizard.mdl": {
+   "bytes": 126456,
+   "sha256": "9c300823e6f0eb188acd036bdf6cc61722dbb2f747595c7413bcaf7ec8cb65a5",
+   "timestamp": "2019-02-04T20:30:46.000Z"
+  },
+  "modjam_snaut/progs/wraith.mdl": {
+   "bytes": 133676,
+   "sha256": "9a809f65f6899bd1219278b4e2a7e00f22d9fd00449b3112dfb92bf032391f83",
+   "timestamp": "2019-01-29T14:51:36.000Z"
+  },
+  "modjam_snaut/progs/zombie.mdl": {
+   "bytes": 218680,
+   "sha256": "28bf7f728db3565fb902fd9f8106bd2a0e8bf4a8374a555d91a5e1ffead1892a",
+   "timestamp": "2019-01-28T20:15:12.000Z"
+  },
+  "modjam_snaut/readme.txt": {
+   "bytes": 7965,
+   "sha256": "d786d74f7e5d9206665a52f6c1653f6b0a586144f56116621666c8560339d0bc",
+   "timestamp": "2019-02-09T05:56:08.000Z"
+  },
+  "modjam_snaut/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/barrel/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/barrel/wood_impact.wav": {
+   "bytes": 21218,
+   "sha256": "5b32561bced64e19841f126e107cd244af4f440b2e4c61bd6b34f5432b5e17a4",
+   "timestamp": "2019-01-23T05:15:40.000Z"
+  },
+  "modjam_snaut/sound/boar/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/boar/pig_alert.wav": {
+   "bytes": 17082,
+   "sha256": "8ee9c616fdaf4e10351f749c112b7e9d156d29fcf9e0d518c0fb82ec1ad193cd",
+   "timestamp": "2019-01-20T03:15:56.000Z"
+  },
+  "modjam_snaut/sound/boar/pig_idle.wav": {
+   "bytes": 585708,
+   "sha256": "f5324bab2c7240e5342affb94a8a93320288d6a9e568b279f151cc92d7840e7a",
+   "timestamp": "2019-01-20T03:13:26.000Z"
+  },
+  "modjam_snaut/sound/boar/pig_pain.wav": {
+   "bytes": 22830,
+   "sha256": "bacc38e6dd51f3d8f6e36cfd8734747f59467a536de5602be99aa93dcbbfc7ca",
+   "timestamp": "2019-01-20T03:14:56.000Z"
+  },
+  "modjam_snaut/sound/boar/snort.wav": {
+   "bytes": 7150,
+   "sha256": "5af4c6e77675a0f27bcb62779205538e2e6ce4971a84361a494840c555c6b408",
+   "timestamp": "2019-01-16T00:18:24.000Z"
+  },
+  "modjam_snaut/sound/boar/snort2.wav": {
+   "bytes": 16376,
+   "sha256": "c8df6c3268bd3f2c8ddf0f9db33b410e61b550b2b6c1fc5ad0b4d20383dabe83",
+   "timestamp": "2019-01-16T00:18:24.000Z"
+  },
+  "modjam_snaut/sound/dknight/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/dknight/dcross_idle.wav": {
+   "bytes": 176610,
+   "sha256": "a7eba673532dad555f879ba77091e3cb9e44558608b83c36d8639e51d71b660a",
+   "timestamp": "2012-11-07T23:17:06.000Z"
+  },
+  "modjam_snaut/sound/flies/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/flies/buzz.wav": {
+   "bytes": 21754,
+   "sha256": "957f1781514ab8e37909ea16813763357839c3d78e6eba2e5b630d3c92c389c4",
+   "timestamp": "2019-01-16T00:18:24.000Z"
+  },
+  "modjam_snaut/sound/henforcer/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/henforcer/henf_alert.wav": {
+   "bytes": 28870,
+   "sha256": "e9fdeca700c923f616c0e5a65e26d4cc281c6c6719dc058293b65319cf20659d",
+   "timestamp": "2019-01-20T03:25:16.000Z"
+  },
+  "modjam_snaut/sound/henforcer/henf_die.wav": {
+   "bytes": 163038,
+   "sha256": "1b8c7c77e72fb85ceec583609bce15bab1a714e148103b5d6179c0809b5b70e3",
+   "timestamp": "2019-01-20T03:22:26.000Z"
+  },
+  "modjam_snaut/sound/henforcer/henf_idle.wav": {
+   "bytes": 54598,
+   "sha256": "9c4e8d0e59487e7cc5e804355d99a7b63b8980ce4da8808f87f4fcca603c178e",
+   "timestamp": "2019-01-20T03:18:50.000Z"
+  },
+  "modjam_snaut/sound/henforcer/henf_magic.wav": {
+   "bytes": 16628,
+   "sha256": "35ea2c9f341678f41f8dfd225b05b35c22efde744ce30bbc48ff2fddfd6edbd8",
+   "timestamp": "2019-01-20T03:45:22.000Z"
+  },
+  "modjam_snaut/sound/henforcer/henf_pain1.wav": {
+   "bytes": 28488,
+   "sha256": "f59728b85b8cf72f42b8686bc59810bbf2134638d07d9a0ee29c1d88fd8dff59",
+   "timestamp": "2019-01-20T03:32:48.000Z"
+  },
+  "modjam_snaut/sound/henforcer/henf_pain2.wav": {
+   "bytes": 36676,
+   "sha256": "b17ed6344c7b25444381d25d30931f98e2597e90bc79bb886375293b68ddd8da",
+   "timestamp": "2019-01-20T03:31:06.000Z"
+  },
+  "modjam_snaut/sound/rat/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/rat/death.wav": {
+   "bytes": 9206,
+   "sha256": "008e5068b60724954da3a03dfee5d9f7ed439ff1e417996b78834c1e88aa963c",
+   "timestamp": "2019-01-24T03:14:08.000Z"
+  },
+  "modjam_snaut/sound/sheep/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/sheep/sheep1.wav": {
+   "bytes": 19768,
+   "sha256": "8f0ffc73cc6a4c02ad409b942d329f6a581d3cee6551af2233473d4e9fa7a131",
+   "timestamp": "2019-01-16T00:18:14.000Z"
+  },
+  "modjam_snaut/sound/sheep/sheep2.wav": {
+   "bytes": 18434,
+   "sha256": "10a2a1f8043eea5c1e6f3320dd614e6ddf7b57ab0843440d6b3a53e8136b13fa",
+   "timestamp": "2019-01-16T00:18:14.000Z"
+  },
+  "modjam_snaut/sound/sheep/sheep3.wav": {
+   "bytes": 26744,
+   "sha256": "66c8d531d91694714c959be16e318148adecb813817ef080e2176d4630672a36",
+   "timestamp": "2019-01-16T00:18:14.000Z"
+  },
+  "modjam_snaut/sound/sheep/sheepdie.wav": {
+   "bytes": 35900,
+   "sha256": "0fa32a909d987730050a78978b9f21639fe34345e02abbf84c912d0a9c969ba0",
+   "timestamp": "2019-01-16T00:18:14.000Z"
+  },
+  "modjam_snaut/sound/statue/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/statue/death.wav": {
+   "bytes": 13472,
+   "sha256": "b030aeac3d806bc77fddaed4bb32684cfd2bbd707fe85e2500a3346c5931ec68",
+   "timestamp": "2019-01-14T03:10:18.000Z"
+  },
+  "modjam_snaut/sound/statue/idle.wav": {
+   "bytes": 17722,
+   "sha256": "3567914304c8fcf224e31bc302039432cd17833daabc2ed9f83053b01fef4f7c",
+   "timestamp": "2019-01-14T03:10:18.000Z"
+  },
+  "modjam_snaut/sound/statue/pain.wav": {
+   "bytes": 8012,
+   "sha256": "9193f4e976675042409db103f7e3b26f667a56e913e96a37f223f1c606323246",
+   "timestamp": "2019-01-14T03:10:18.000Z"
+  },
+  "modjam_snaut/sound/statue/see.wav": {
+   "bytes": 6664,
+   "sha256": "58ca56c21040117cd37c99b648af0195f70a51d0d03ba5665e5f8981d8de255c",
+   "timestamp": "2019-01-14T03:10:18.000Z"
+  },
+  "modjam_snaut/sound/voreling/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/voreling/attackmunch.wav": {
+   "bytes": 17798,
+   "sha256": "be7d018ae5b5f906a6cf2e4b12138f7c1407c98c3485599cb4442ceb59ee1c94",
+   "timestamp": "2015-07-01T21:13:04.000Z"
+  },
+  "modjam_snaut/sound/voreling/attacktear.wav": {
+   "bytes": 8918,
+   "sha256": "2aa7029f8be106777c0e51e4b237ad705c120bcab74c5695547af29475b1f5fb",
+   "timestamp": "2015-07-01T21:13:50.000Z"
+  },
+  "modjam_snaut/sound/voreling/death.wav": {
+   "bytes": 17694,
+   "sha256": "119475b1b21df8c965a526be27a266035b3b8cde44df3759eb4a40a83f730baf",
+   "timestamp": "2015-07-01T21:12:04.000Z"
+  },
+  "modjam_snaut/sound/voreling/hiss2.wav": {
+   "bytes": 22468,
+   "sha256": "7d9ca51e9078dc3b66ce9a1783bef2c2d60587a1c4e1b4ae2571af0294f20010",
+   "timestamp": "2013-08-07T17:57:38.000Z"
+  },
+  "modjam_snaut/sound/voreling/idle.wav": {
+   "bytes": 28354,
+   "sha256": "8c9ef55e309a43b1df1f08b66192b4ab262ba07e9315d3a70f4a9cf9dee9d51a",
+   "timestamp": "2015-07-01T21:16:16.000Z"
+  },
+  "modjam_snaut/sound/voreling/jumpland.wav": {
+   "bytes": 4518,
+   "sha256": "078af531f8d493aae57b71b8bdcef4c5f9b9b8394be9bc1e113873458ec09525",
+   "timestamp": "2015-07-01T21:15:42.000Z"
+  },
+  "modjam_snaut/sound/voreling/miss.wav": {
+   "bytes": 14582,
+   "sha256": "9640df8ca3d5181a0a1c310c052deafc5e82afb469faf68511698664f4e46dae",
+   "timestamp": "2015-06-26T22:35:10.000Z"
+  },
+  "modjam_snaut/sound/voreling/pain.wav": {
+   "bytes": 15522,
+   "sha256": "5035bd555e9a6439c87e6b661a2da86633f7234503d52551e68f61e9504af86d",
+   "timestamp": "2015-07-01T21:15:10.000Z"
+  },
+  "modjam_snaut/sound/voreling/sight.wav": {
+   "bytes": 44162,
+   "sha256": "ccca790ed18e3705c083259f48db7d46d26310cf80c16cd2bad191d333fec5ba",
+   "timestamp": "2015-07-01T21:14:34.000Z"
+  },
+  "modjam_snaut/sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-13T01:53:18.000Z"
+  },
+  "modjam_snaut/sound/weapons/bolt_hit1.wav": {
+   "bytes": 12698,
+   "sha256": "07d2b6078f7936781a641f88e6ed02ab84f248da8f19e73713c1a71ac56cf42c",
+   "timestamp": "2013-02-19T06:07:58.000Z"
+  },
+  "modjam_snaut/sound/weapons/bolt_hit2.wav": {
+   "bytes": 10658,
+   "sha256": "27ef878b7dfc0878140a19e3a0227ba389e5d0dc2b86df386852e2da2ebc5c93",
+   "timestamp": "2013-02-19T06:07:56.000Z"
+  },
+  "modjam_snaut/sound/weapons/bolt_hit3.wav": {
+   "bytes": 11600,
+   "sha256": "06298d7bc8d7bce64f9473ae9530e0b42ea3de0ca5895f3476f9b00b5ed566f9",
+   "timestamp": "2013-02-19T06:07:54.000Z"
+  },
+  "modjam_snaut/sound/weapons/bolt_hit4.wav": {
+   "bytes": 15460,
+   "sha256": "814b1a71efc9b58c90ad7f116c47e6f3dceeb8eae6d0ecbca5f1cd02dd247cb6",
+   "timestamp": "2013-02-19T06:30:12.000Z"
+  },
+  "modjam_snaut/sound/weapons/bones_ambient.wav": {
+   "bytes": 225284,
+   "sha256": "227a95fdd9125809c1b37cce042b5fb7e25de8eba6e83046afa2dc1d5b5ad254",
+   "timestamp": "2019-01-13T01:02:52.000Z"
+  },
+  "modjam_snaut/sound/weapons/book_pages.wav": {
+   "bytes": 22094,
+   "sha256": "4d05c5e358c345ed57aa5b2e09ef7a268670fe0a51c73547f52ebe2de9407f91",
+   "timestamp": "2019-01-13T01:08:00.000Z"
+  },
+  "modjam_snaut/sound/weapons/crossbow_fire.wav": {
+   "bytes": 26536,
+   "sha256": "2a6ba54090412a53471c59b3edf6e8559d424dab25729e67a78f9ada5e13e8ac",
+   "timestamp": "2013-02-22T18:25:18.000Z"
+  },
+  "modjam_snaut/sound/weapons/crossbow_rdy.wav": {
+   "bytes": 37532,
+   "sha256": "321eac310a291cd9cdcbd2dcafb27687a12057e778e12704d8b4388d4eb6e4df",
+   "timestamp": "2013-02-22T18:29:14.000Z"
+  },
+  "modjam_snaut/sound/weapons/frost_shoot.wav": {
+   "bytes": 294556,
+   "sha256": "eadbdf7f5c39d554f3d5b561e5c571a50d48454b9564650034ae0c16a547568e",
+   "timestamp": "2019-01-13T02:35:34.000Z"
+  },
+  "modjam_snaut/sound/weapons/ice_cannon_charge.wav": {
+   "bytes": 91766,
+   "sha256": "1671272719fc8be0876a6ea3b6d30af140b891be3965feedc1ee36a5ee41319a",
+   "timestamp": "2019-01-13T01:08:56.000Z"
+  },
+  "modjam_snaut/sound/weapons/ice_cannon_hit.wav": {
+   "bytes": 12220,
+   "sha256": "0ce4f0f9123fc5f98676573c8543e390ed6fed07e1dab88fff903535500e8b82",
+   "timestamp": "2019-01-13T01:09:34.000Z"
+  },
+  "modjam_snaut/sound/weapons/ice_cannon_shot.wav": {
+   "bytes": 32046,
+   "sha256": "eadc80602ddf7d2476917757bab20f716697c9bdbe46913f40a74438cd9c815a",
+   "timestamp": "2019-01-13T03:04:18.000Z"
+  },
+  "modjam_snaut/sound/weapons/ice_shatter-old1.wav": {
+   "bytes": 27292,
+   "sha256": "395bdb545de8529cbe45782c2c2561a9f0674ba675a0035bd905a639d56d515d",
+   "timestamp": "2011-01-24T18:04:56.000Z"
+  },
+  "modjam_snaut/sound/weapons/ice_shatter.wav": {
+   "bytes": 27292,
+   "sha256": "32cc8d09fc32f8831f3408720a6d6a697cad2091f9e350db3c00f692f876dc89",
+   "timestamp": "2019-01-19T03:22:58.000Z"
+  },
+  "modjam_snaut/sound/weapons/launch_fireball.wav": {
+   "bytes": 33468,
+   "sha256": "334d6f891b444bd9178b240279b662a5ecf58a1c315e88390b21e9455660b7f4",
+   "timestamp": "2019-01-13T01:11:06.000Z"
+  },
+  "modjam_snaut/sound/weapons/petrify_monster.wav": {
+   "bytes": 33374,
+   "sha256": "05d2eac341dca34a0c1421b1652f2650b32ef4fada8405ef7dcd2e279a8d5de0",
+   "timestamp": "2019-01-13T01:12:40.000Z"
+  },
+  "modjam_snaut/sound/weapons/petrify_monster2.wav": {
+   "bytes": 36002,
+   "sha256": "738a63a4e2f0a15812728be3bddf51ec4fc2c0528b347341bd5aa0507e7d829f",
+   "timestamp": "2019-01-13T01:13:12.000Z"
+  },
+  "modjam_snaut/sound/weapons/punch_ice1.wav": {
+   "bytes": 20758,
+   "sha256": "3208b8e1bb24baf957aa88f9df78e7c86e10404da0ca97fefcb29de58eb37634",
+   "timestamp": "2019-01-13T01:13:36.000Z"
+  },
+  "modjam_snaut/sound/weapons/punch_ice2.wav": {
+   "bytes": 9098,
+   "sha256": "408403becca8090726aabf989665a3474a5aede6804956e9baf1922b76eb0090",
+   "timestamp": "2019-01-13T01:14:10.000Z"
+  },
+  "modjam_snaut/sound/weapons/ric1.wav": {
+   "bytes": 4444,
+   "sha256": "d9eee495beea8be3f0945b8bc71550325a21a8e1ec5758dca549a0b741e72a72",
+   "timestamp": "2019-01-16T00:18:14.000Z"
+  },
+  "modjam_snaut/sound/weapons/ric2.wav": {
+   "bytes": 6716,
+   "sha256": "29c1ca1870fca8d83d5f993b2e887705892e331f827c84882dccf3b3671de52a",
+   "timestamp": "2019-01-16T00:18:14.000Z"
+  },
+  "modjam_snaut/sound/weapons/ric3.wav": {
+   "bytes": 8956,
+   "sha256": "03b1fd6a337804136802afed06ce59f0ac2eb2eefb7c948f291c1a32faa90142",
+   "timestamp": "2019-01-16T00:18:14.000Z"
+  },
+  "modjam_snaut/sound/weapons/rune_cast.wav": {
+   "bytes": 132344,
+   "sha256": "c8b07437d6123ab20339acfab5c595dacf82a012685733c715c36322c5e59b30",
+   "timestamp": "2019-01-13T01:14:46.000Z"
+  },
+  "modjam_snaut/sound/weapons/serpent_trade_cast.wav": {
+   "bytes": 183466,
+   "sha256": "aad0642168e926d5ba91d1487e62705366b0305589c4c58b33df4379280ba00a",
+   "timestamp": "2019-01-13T01:22:08.000Z"
+  },
+  "modjam_snaut/sound/weapons/skel_rune.wav": {
+   "bytes": 499140,
+   "sha256": "9846a6cbef8c24257f8fac7e8291341bbe70072fa1c1c3965b378ea87c533d62",
+   "timestamp": "2019-01-13T01:15:36.000Z"
+  },
+  "modjam_snaut/sound/weapons/skull_attack.wav": {
+   "bytes": 22084,
+   "sha256": "ecf4c9142693e3d4bb6e2137b51cea1600149e71bd6aec50826bd65b7f0b55e3",
+   "timestamp": "2019-01-24T16:52:22.000Z"
+  },
+  "modjam_snaut/sound/weapons/summon_vorelings.wav": {
+   "bytes": 121686,
+   "sha256": "3023f8fde984a719b376b5bd6d8f2e64f2b8ca77cfaa01ce1cbf61064afaa5d2",
+   "timestamp": "2019-01-13T01:16:32.000Z"
+  },
+  "modjam_snaut/sound/weapons/sword_swing.wav": {
+   "bytes": 11808,
+   "sha256": "38a28bc6d4ea8b7b7d4177f7babaf8016de65acd0bffc83deb7374e2ca25f3b6",
+   "timestamp": "2019-01-19T03:14:10.000Z"
+  },
+  "modjam_snaut/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-02-23T00:53:44.000Z"
+  },
+  "modjam_snaut/source/ai.qc": {
+   "bytes": 17510,
+   "sha256": "669192530c751a0f756b3055b6b0ac8a8eef6f6d0287adb89a56800ace10eaa7",
+   "timestamp": "2019-01-30T19:22:40.000Z"
+  },
+  "modjam_snaut/source/boss.qc": {
+   "bytes": 12796,
+   "sha256": "f2b1278d61487f6333b919f7d3bd74f722a177b43aad2535cb15694965bc7932",
+   "timestamp": "2018-04-08T06:17:34.000Z"
+  },
+  "modjam_snaut/source/buttons.qc": {
+   "bytes": 3021,
+   "sha256": "cf5562557d39c41db2f6136e507e6b95d9e3efa0a6af78df08f6749706091a2c",
+   "timestamp": "2019-01-04T04:46:54.000Z"
+  },
+  "modjam_snaut/source/client.qc": {
+   "bytes": 39337,
+   "sha256": "de7d2f34b8fb41397619e1187a994fe18755b974fa1933ee6fbd5fb6fff51be2",
+   "timestamp": "2019-02-08T03:55:38.000Z"
+  },
+  "modjam_snaut/source/combat.qc": {
+   "bytes": 6715,
+   "sha256": "c2dd3609d14fda1102a84057dec053b63e14bafe473f1d706991e5acd0f1e274",
+   "timestamp": "2019-02-03T11:54:22.000Z"
+  },
+  "modjam_snaut/source/defs.qc": {
+   "bytes": 18649,
+   "sha256": "a4a2811411a2a3c274ac3b2647dba31b13b41de9d7f208979394df372cb530dd",
+   "timestamp": "2019-01-29T21:06:36.000Z"
+  },
+  "modjam_snaut/source/demon.qc": {
+   "bytes": 10244,
+   "sha256": "2e7d48522aaef30686e78338b11f00fc3a57841abed60a23aa5677105e89adc9",
+   "timestamp": "2019-01-04T04:47:56.000Z"
+  },
+  "modjam_snaut/source/dog.qc": {
+   "bytes": 11557,
+   "sha256": "cbc7e0a42db8bccb3b7dcbb1d5c7675d689acd6752c2fe935c19e83f47135f47",
+   "timestamp": "2019-01-28T21:31:36.000Z"
+  },
+  "modjam_snaut/source/doors.qc": {
+   "bytes": 17921,
+   "sha256": "84671dbf67df1e0299db2c3b25844abca4e504206eeec7cc959c9229eea21b42",
+   "timestamp": "2019-01-04T04:58:36.000Z"
+  },
+  "modjam_snaut/source/enforcer.qc": {
+   "bytes": 16971,
+   "sha256": "5711959b82b7663922599d39fe197cc32c770fc8bfb625f9bc14ae3aa09c472c",
+   "timestamp": "2019-01-20T04:25:48.000Z"
+  },
+  "modjam_snaut/source/fight.qc": {
+   "bytes": 7696,
+   "sha256": "09552ae7c98fbede206034b62116a2cf35199578da3802e8d1abca0a4c30b399",
+   "timestamp": "2019-01-11T02:44:04.000Z"
+  },
+  "modjam_snaut/source/fish.qc": {
+   "bytes": 7939,
+   "sha256": "5573f8dacf3f6d7a2821f881cee90aaa1f2bbf7bc59395befa3a1a63173aa31a",
+   "timestamp": "2019-01-04T05:21:58.000Z"
+  },
+  "modjam_snaut/source/hknight.qc": {
+   "bytes": 18738,
+   "sha256": "44672dd9d98aa42e48192cf2d6a0804413d04531341d713cd87d7f8ac85ab650",
+   "timestamp": "2018-04-08T06:17:34.000Z"
+  },
+  "modjam_snaut/source/items.qc": {
+   "bytes": 33536,
+   "sha256": "70cc0c4ee5047d4dddc138ba12a2c002550a56d235e323b8f55fa85f8345c538",
+   "timestamp": "2019-01-30T21:15:32.000Z"
+  },
+  "modjam_snaut/source/knight.qc": {
+   "bytes": 9954,
+   "sha256": "0d74091b6b711228d520c1df2bea056f8d5f90b377f67613167d482aab23a077",
+   "timestamp": "2019-01-04T05:05:18.000Z"
+  },
+  "modjam_snaut/source/mathlib.qc": {
+   "bytes": 10746,
+   "sha256": "c7904b7f6e86ba0632c104909921890b971bba10c3e44ca56eace68772afa450",
+   "timestamp": "2019-01-23T00:39:38.000Z"
+  },
+  "modjam_snaut/source/misc.qc": {
+   "bytes": 16991,
+   "sha256": "8e6ef5791774acfc0dbfb0a2afa26c596b1da71f1849d8edf43a18bb56373927",
+   "timestamp": "2019-02-03T11:45:44.000Z"
+  },
+  "modjam_snaut/source/monsters.qc": {
+   "bytes": 5285,
+   "sha256": "df05dc85b745e3d8dfd3f656566fab1e5e797abd0d95ba0320db5458b0d450b0",
+   "timestamp": "2019-02-04T19:58:44.000Z"
+  },
+  "modjam_snaut/source/ogre.qc": {
+   "bytes": 15176,
+   "sha256": "ff0f64a47ea239c2100cba4d33b6c2a57325e4c75a5ba6e389d8a3c35869a3db",
+   "timestamp": "2019-01-04T04:47:18.000Z"
+  },
+  "modjam_snaut/source/oldone.qc": {
+   "bytes": 9965,
+   "sha256": "8cd5e6e13a2450362a1e3810873bcc238396de894465fcb9734b1cc71900d0be",
+   "timestamp": "2019-01-04T05:08:04.000Z"
+  },
+  "modjam_snaut/source/plats.qc": {
+   "bytes": 8036,
+   "sha256": "e217fc3324ea009539884b995ba666b53d4bbb8dcc9214a0b6ec8a40f01f706d",
+   "timestamp": "2019-01-04T04:47:06.000Z"
+  },
+  "modjam_snaut/source/player.qc": {
+   "bytes": 18423,
+   "sha256": "999867be3bd4a32b5ca2b9a66f53d1e459df3291d1155fe934ff67d2ac8a114a",
+   "timestamp": "2019-02-09T02:28:40.000Z"
+  },
+  "modjam_snaut/source/progs.src": {
+   "bytes": 564,
+   "sha256": "7852b9ed86908e5ea8cc9ffea0e60c1bdc7f5e2e54bf119147fed0c12d337568",
+   "timestamp": "2019-01-28T04:06:02.000Z"
+  },
+  "modjam_snaut/source/rat.qc": {
+   "bytes": 1925,
+   "sha256": "616ab3433f020dc219187d709fd82892c67f5e6629b0105f3d2b23361a6804ab",
+   "timestamp": "2019-02-03T12:02:54.000Z"
+  },
+  "modjam_snaut/source/shalrath.qc": {
+   "bytes": 8177,
+   "sha256": "19a79584ac48758965a3c52e7a1739ea634bfe7b56356753021d5481407e9fd0",
+   "timestamp": "2019-01-04T05:00:38.000Z"
+  },
+  "modjam_snaut/source/shambler.qc": {
+   "bytes": 13092,
+   "sha256": "0c0275940fc2857186c656a9380d3ca91272150585994ab8432f5fc10a82ea41",
+   "timestamp": "2018-04-08T06:17:34.000Z"
+  },
+  "modjam_snaut/source/sheep.qc": {
+   "bytes": 9979,
+   "sha256": "7ad62cae1f6de011a5c4c3267038da7011f6198d4fcbdd4b0cf8841d3c662eb9",
+   "timestamp": "2019-01-28T04:46:30.000Z"
+  },
+  "modjam_snaut/source/soldier.qc": {
+   "bytes": 27190,
+   "sha256": "4481e30a34274cecd7f56a1205459e77ecc5026763dfa2920d2b64da2ddd9991",
+   "timestamp": "2019-02-02T00:07:50.000Z"
+  },
+  "modjam_snaut/source/subs.qc": {
+   "bytes": 6376,
+   "sha256": "ac977e10b2348a3675a25f3a12ddf365be3c885a71fba421d30cc22acad7551d",
+   "timestamp": "2018-04-08T06:17:34.000Z"
+  },
+  "modjam_snaut/source/tarbaby.qc": {
+   "bytes": 7338,
+   "sha256": "f9109dafa4af8c4ed8733f317bb6151f1672fb7a374abb2fca6b9e710fbe8144",
+   "timestamp": "2018-04-08T06:17:34.000Z"
+  },
+  "modjam_snaut/source/triggers.qc": {
+   "bytes": 14861,
+   "sha256": "bd6be67868bf761e4169561f28472b1d107e26f3f9f9f448543bab7a59e5ef7a",
+   "timestamp": "2019-01-12T00:30:32.000Z"
+  },
+  "modjam_snaut/source/voreling.qc": {
+   "bytes": 8779,
+   "sha256": "5cb5a9b40cf8ca8a091226228adbd28500ddfc5f604da2da1dee41c3cc4ee217",
+   "timestamp": "2019-01-30T16:45:34.000Z"
+  },
+  "modjam_snaut/source/weapons.qc": {
+   "bytes": 50477,
+   "sha256": "b4e690784dca2d8eee9d07e334fcb47d9117280b5fe7f32e8d21002da1685276",
+   "timestamp": "2019-02-08T03:54:06.000Z"
+  },
+  "modjam_snaut/source/wizard.qc": {
+   "bytes": 11072,
+   "sha256": "6dc95cca764693a3962d6a9b3a4c26fbc6a77e3c79394550c1314bdc761f2ccf",
+   "timestamp": "2018-04-08T06:17:34.000Z"
+  },
+  "modjam_snaut/source/world.qc": {
+   "bytes": 14440,
+   "sha256": "82156660f8e25b33a43a9135aeb45b2452b49d8b1d197562d85b9d83872be0ad",
+   "timestamp": "2019-02-03T13:06:10.000Z"
+  },
+  "modjam_snaut/source/zombie.qc": {
+   "bytes": 20616,
+   "sha256": "7eb669f6d9abda9ec4c8dec9be6dc37fa76d5647054920e01d24d5776425dda7",
+   "timestamp": "2019-01-04T04:48:18.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "3cbae5ebc32c5cff4c201933265d4dd4dc4f50d9a0edc1710a6556212ab45bf7",
+ "tags": [
+  "author=BloodShot",
+  "author=JCR",
+  "author=Redfield",
+  "author=Scrama",
+  "author=Shamblernaut",
+  "author=aDaya",
+  "author=ish",
+  "author=khreathor",
+  "commandline=-game modjam_mix",
+  "filename=modjam_2019.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61689)",
+  "nonspecific_tag=items",
+  "nonspecific_tag=jump boots",
+  "nonspecific_tag=jumpmod",
+  "nonspecific_tag=mod",
+  "nonspecific_tag=weapons",
+  "release_date=2019-02-14",
+  "source=included",
+  "theme=doom 3",
+  "theme=exploration",
+  "title=Modding Jam 2019",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/modjam_2019.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/3cbae5ebc32c5cff4c201933265d4dd4dc4f50d9a0edc1710a6556212ab45bf7/modjam_2019.zip"
+ ]
+}

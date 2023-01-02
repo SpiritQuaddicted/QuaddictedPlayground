@@ -1,28 +1,84 @@
 {
- "filename": [
-  "alba01.zip"
- ],
+ "bytes": 1161,
  "files": {
   "alba01.txt": {
-   "size": 10327,
+   "bytes": 10327,
+   "sha256": "0c9886fcb78ee1fbc0f44f593382b450594cb020457bdd655294152017330d62",
    "timestamp": "1997-06-25T00:56:04.000Z"
   },
   "pak0.pak": {
-   "size": 2603985,
+   "bytes": 2603985,
+   "files": {
+    "maps/alba01.bsp": {
+     "bytes": 1519196,
+     "sha256": "c2dee0ddd16ee82bb7a4f2a01366532103e1169edffb8afa8ef7471f2b251ea0"
+    },
+    "progs.dat": {
+     "bytes": 436696,
+     "sha256": "114935c3c7e43a410015f9a5e07c3a8bbf3b2e9adc87557946cfd3110fcef163"
+    },
+    "progs/h_guard.mdl": {
+     "bytes": 5428,
+     "sha256": "51218d5499e577e3117f68736b112723f68ee8cadf826f6da938900b7fd7bfd6"
+    },
+    "progs/soldier.mdl": {
+     "bytes": 146288,
+     "sha256": "4e50357c755967c9304dedfacfcb378bbc1cef88e3683f14b3cdbe754e89d852"
+    },
+    "progs/zombie.mdl": {
+     "bytes": 186084,
+     "sha256": "6fb69a1f5a5a177f370c12af89a018a67c4d6afff392c26635c8d067d4e80285"
+    },
+    "sound/ambience/comp1.wav": {
+     "bytes": 159396,
+     "sha256": "9c64cac96e19351634cb8d612756970a6c9aac87062c7fcd16368e5fffa60925"
+    },
+    "sound/ambience/fl_hum1.wav": {
+     "bytes": 29760,
+     "sha256": "556fa888915da5a1c97c119d8107098388ec1a6f1dcb444d77f9b3a77388b001"
+    },
+    "sound/soldier/death1.wav": {
+     "bytes": 7887,
+     "sha256": "69704ef04e5965c2f389f74d2b2141b7f0fe62ce127c947ae57c384afd550950"
+    },
+    "sound/soldier/idle.wav": {
+     "bytes": 28289,
+     "sha256": "211095255a871bf2865d64f9b58547a32f56551cfea3a68888d5b92979c25737"
+    },
+    "sound/soldier/pain1.wav": {
+     "bytes": 19417,
+     "sha256": "dcb43299debeaeef3afcd56feaa97a3f11bb030c7c208f32568572d97c36174f"
+    },
+    "sound/soldier/pain2.wav": {
+     "bytes": 12512,
+     "sha256": "ab45be6c38e4a7b86921414d2eb6151fb279b8856581b4660437ceba99b503ae"
+    },
+    "sound/soldier/sattck1.wav": {
+     "bytes": 30413,
+     "sha256": "36d251252367ce80a8547002dd2efef84087100781d4e9947efdd6a4e0f0a342"
+    },
+    "sound/soldier/sight1.wav": {
+     "bytes": 21775,
+     "sha256": "1b5fdb89eaf30cf8b73812892480d0655074cf03e2cdd6a8883045bd0a243d56"
+    }
+   },
+   "sha256": "aeb25233550642fdb8234fdaf590f582d1bfc0ba24d14cc9c25df4fb6a1cded0",
    "timestamp": "1997-06-25T00:18:30.000Z"
   }
  },
- "filesize": 1161,
  "install": {
-  "extract": "{quake}/alba01/"
+  "extract": "{base}/alba01/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4b97bb3058b22101f1cc72bb389ddc7296ce35b7aa22456bd0dd3bc22b59f5fc",
  "tags": [
   "author=Einar Saukas (QC)",
   "author=Neil Manke",
   "commandline=-game alba01",
+  "filename=alba01.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://manke.planethalflife.gamespy.com/",
   "link=[Crash's](http://www.quake2.com/crash/levelsa.htm)",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/12-oct-2000/alba.php)",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east.htm)",
@@ -30,17 +86,18 @@
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=alba)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-06-25",
-  "tag=canyon",
-  "tag=dark",
-  "tag=medieval",
-  "tag=monsters",
-  "tag=planetquake-map-of-the-week",
-  "tag=skin",
-  "tag=small",
-  "tag=story",
-  "tag=textures",
-  "title=Road to Inverurie"
+  "map_size=small",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=skin",
+  "nonspecific_tag=textures",
+  "release_date=1997-06-25",
+  "theme=canyon",
+  "theme=medieval",
+  "theme=story",
+  "title=Road to Inverurie",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alba01.zip",

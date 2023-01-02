@@ -1,42 +1,63 @@
 {
- "filename": [
-  "housp.zip"
- ],
+ "bytes": 672,
  "files": {
   "HOUSP.TXT": {
-   "size": 6376,
+   "bytes": 6376,
+   "sha256": "12f0c30787c96d4252641c09fdf4870b3ca1b914ce4ead4b2a8ae724acb3341d",
    "timestamp": "1996-11-20T12:03:34.000Z"
   },
   "PAK0.PAK": {
-   "size": 1659132,
+   "bytes": 1659132,
+   "files": {
+    "maps/enterhos.bsp": {
+     "bytes": 491164,
+     "sha256": "5e0f7f3ac40faf70315667c9e1c063f3a33d64dd5a6ca0b2fe74ded01e987fb5"
+    },
+    "maps/housp.bsp": {
+     "bytes": 652236,
+     "sha256": "a43b9ddf7aa0e2176243621c0640f4fd726db228a98ecbcd3a5718746dbfe316"
+    },
+    "progs.dat": {
+     "bytes": 420972,
+     "sha256": "89fdff934b6e1e41b071559aed5939f3d70e7a0808a3ea19ca0469ce1f58ee4e"
+    },
+    "progs/spider.mdl": {
+     "bytes": 94492,
+     "sha256": "df40e58bdf6465e68e5ef33cbcb77c42cc99e50c9dd842c8c3906c2fd04bfc8f"
+    }
+   },
+   "sha256": "77d46335c74b5f09703351c6a18345e0a8f1c747c2c106b7b8224a9298e5d188",
    "timestamp": "1996-11-20T11:42:34.000Z"
   },
   "SPIDER.TXT": {
-   "size": 2615,
+   "bytes": 2615,
+   "sha256": "7a9b72c10b4d279d1fd349dbd6130e6088e96a0e5f22e7eb3177506955e57a7f",
    "timestamp": "1996-10-09T05:52:48.000Z"
   }
  },
- "filesize": 672,
  "install": {
-  "extract": "{quake}/housep/"
+  "extract": "{base}/housep/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e0077b17abd891c78595adeda87b86e153af158271b3abdd79858b0aca1e0411",
  "tags": [
   "author=Scott McNutt",
   "commandline=-game housep",
+  "filename=housp.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsh.htm#houstraps)",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
-  "releasedate=1996-11-20",
+  "map_size=small",
+  "nonspecific_tag=custom",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=start",
+  "release_date=1996-11-20",
   "startmap=enterhos",
-  "tag=custom",
-  "tag=monsters",
-  "tag=small",
-  "tag=start",
-  "tag=traps",
-  "tag=wizard",
-  "title=House of Traps (Spider)"
+  "theme=traps",
+  "theme=wizard",
+  "title=House of Traps (Spider)",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/housp.zip",

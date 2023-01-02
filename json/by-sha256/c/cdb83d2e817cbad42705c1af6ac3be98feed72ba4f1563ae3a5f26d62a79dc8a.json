@@ -1,38 +1,41 @@
 {
- "filename": [
-  "sm44_pack.zip"
- ],
+ "bytes": 714,
  "files": {
   "sm44_bp.bsp": {
-   "size": 255352,
+   "bytes": 255352,
+   "sha256": "128ce0d7ed7c965be8ed2457e528706fa7732ba55167e3845ab77cc890c3d931",
    "timestamp": "2003-08-10T13:52:40.000Z"
   },
   "sm44_ewerd.bsp": {
-   "size": 322588,
+   "bytes": 322588,
+   "sha256": "15c89c2cc7af00d1070b9fcb84e366190ae7a12b7bca9a12397394b238a3b785",
    "timestamp": "2003-08-10T16:59:40.000Z"
   },
   "sm44_pack.txt": {
-   "size": 1600,
+   "bytes": 1600,
+   "sha256": "df0fe86be24ad6d7551de00ed41f60de5702b71ec66832e38c7611a7f1160127",
    "timestamp": "2001-09-10T18:27:58.000Z"
   },
   "sm44_ray.bsp": {
-   "size": 934176,
+   "bytes": 934176,
+   "sha256": "e041280a6b46f199cfdfc72efd9023725731813ea6b963c6e42797b94d071339",
    "timestamp": "2003-08-10T18:09:22.000Z"
   },
   "sm44_sb.bsp": {
-   "size": 408460,
+   "bytes": 408460,
+   "sha256": "8e53d31a717162153526fcc6d705462112f0cf14a95ec4fb3a60078cd99b20eb",
    "timestamp": "2003-08-10T22:59:36.000Z"
   },
   "sm44_scampie.bsp": {
-   "size": 292744,
+   "bytes": 292744,
+   "sha256": "bb911d69736cbe9e3fde76608d7094f230e7fe83d8cc271db45a2cb183335ddf",
    "timestamp": "2001-09-10T17:57:48.000Z"
   }
  },
- "filesize": 714,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "cdb83d2e817cbad42705c1af6ac3be98feed72ba4f1563ae3a5f26d62a79dc8a",
  "tags": [
   "author=Blackpope",
@@ -40,12 +43,17 @@
   "author=NotoriousRay",
   "author=Scampie",
   "author=Starbuck",
+  "filename=sm44_pack.zip",
   "game=quake",
-  "releasedate=2003-08-10",
+  "game_mode=singleplayer",
+  "release_date=2003-08-10",
+  "startmap=sm44_bp",
   "startmap=sm44_ewerd",
   "startmap=sm44_ray",
   "startmap=sm44_sb",
-  "title=Speedmapping pack 44 - Unthemed"
+  "startmap=sm44_scampie",
+  "title=Speedmapping pack 44 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm44_pack.zip",

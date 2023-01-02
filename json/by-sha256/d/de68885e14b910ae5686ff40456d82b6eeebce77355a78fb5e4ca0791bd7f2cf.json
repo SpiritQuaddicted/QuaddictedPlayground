@@ -1,59 +1,69 @@
 {
- "filename": [
-  "flee.zip"
- ],
+ "bytes": 2889,
  "files": {
   "Flee.bat": {
-   "size": 27,
+   "bytes": 27,
+   "sha256": "4b8002b84b63959b7a42af6fb54c5aa9d94bd4442551d10ecd6d862b336ffefd",
    "timestamp": "1998-01-03T20:05:58.000Z"
   },
   "flee/flee.txt": {
-   "size": 5464,
+   "bytes": 5464,
+   "sha256": "1a2200286f57f19b3e9b267f7617b380fb8794b9af867262eda8ebe9bb434e5b",
    "timestamp": "1998-01-03T20:01:28.000Z"
   },
   "flee/maps/flee0.bsp": {
-   "size": 374612,
+   "bytes": 374612,
+   "sha256": "42f14310fddb62038b22c6e67ef4f47ab792d4dc5e70ffca36d75deb2a78d3a0",
    "timestamp": "1998-01-03T18:01:48.000Z"
   },
   "flee/maps/flee1.bsp": {
-   "size": 2178360,
+   "bytes": 2178360,
+   "sha256": "c6aae9dc89062d7af8789d853ffbb2fe527b8cb66e00a103f4a2b942faf44f19",
    "timestamp": "1997-12-08T03:39:30.000Z"
   },
   "flee/maps/flee2.bsp": {
-   "size": 2175468,
+   "bytes": 2175468,
+   "sha256": "586ff695aff45a7e758f6ad5a71e81a8ba0d1f2f3900059818c120fd9d4c3d24",
    "timestamp": "1998-01-03T13:21:06.000Z"
   },
   "flee/maps/flee3.bsp": {
-   "size": 2209364,
+   "bytes": 2209364,
+   "sha256": "27b28027e6368784261dd62e4ae230196489a428cb87bf56f5f6367355fe406c",
    "timestamp": "1997-12-07T18:36:28.000Z"
   },
   "flee/progs.dat": {
-   "size": 416068,
+   "bytes": 416068,
+   "sha256": "c061ba1078d36cdbc023b7bcfd83df4f1566aec6154fd576986d3739d84934e8",
    "timestamp": "1997-12-17T13:43:52.000Z"
   }
  },
- "filesize": 2889,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "de68885e14b910ae5686ff40456d82b6eeebce77355a78fb5e4ca0791bd7f2cf",
  "tags": [
-  "author=Flee",
+  "author=Jay Vanover",
   "commandline=-game flee",
+  "filename=flee.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981209.html)",
-  "releasedate=1998-01-03",
+  "map_size=medium",
+  "nonspecific_tag=hub",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=start",
+  "release_date=1998-01-03",
   "startmap=flee0",
-  "tag=episode",
-  "tag=hub",
-  "tag=medium",
-  "tag=metal",
-  "tag=monsters",
-  "tag=start",
-  "tag=traps",
-  "tag=wizard",
-  "title=Jay Vanover"
+  "startmap=flee1",
+  "startmap=flee2",
+  "startmap=flee3",
+  "theme=metal",
+  "theme=traps",
+  "theme=wizard",
+  "title=Flee",
+  "type=episode",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/flee.zip",

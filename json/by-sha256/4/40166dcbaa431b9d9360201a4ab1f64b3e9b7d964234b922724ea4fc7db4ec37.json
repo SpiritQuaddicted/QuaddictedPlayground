@@ -1,42 +1,46 @@
 {
- "filename": [
-  "sm84_pack.zip"
- ],
+ "bytes": 917,
  "files": {
   "sm84_frik.bsp": {
-   "size": 473116,
+   "bytes": 473116,
+   "sha256": "d4393e2def99ecfb2ba5fb91c19fe92a83f6da46fb9092427ad4c8edba85618a",
    "timestamp": "2004-07-10T18:42:46.000Z"
   },
   "sm84_jacek.bsp": {
-   "size": 333856,
+   "bytes": 333856,
+   "sha256": "705d700bf7457962afd98b94433aedfb9373e794fd3f831b167f59a5faf179cd",
    "timestamp": "2004-07-10T18:42:20.000Z"
   },
   "sm84_jacek2.bsp": {
-   "size": 71548,
+   "bytes": 71548,
+   "sha256": "acc456391eead7398ecc7cfd4923e2a69964d635e9516818b3a6c0aac592ef52",
    "timestamp": "2004-07-10T19:15:40.000Z"
   },
   "sm84_moz.bsp": {
-   "size": 678072,
+   "bytes": 678072,
+   "sha256": "5fdb0cc3e3257ec962ec816f7f02b97f00a10efd0c655347f08943a36329ce61",
    "timestamp": "2004-07-10T23:06:42.000Z"
   },
   "sm84_pack.txt": {
-   "size": 1646,
+   "bytes": 1646,
+   "sha256": "5ae4ce52e6335811b913528b8d61979680b3b9e3cac9ba7b9b757c22b9a485db",
    "timestamp": "2004-03-16T19:31:02.000Z"
   },
   "sm84_pope.bsp": {
-   "size": 410248,
+   "bytes": 410248,
+   "sha256": "5f88628bf3d6db47a360d9f3eea89e123e182edecd6e166da034109228eb4570",
    "timestamp": "2004-03-16T18:10:36.000Z"
   },
   "sm84_scampie.bsp": {
-   "size": 360996,
+   "bytes": 360996,
+   "sha256": "437bc61655cc29b95ff117ca5997efa8bf609d66e46289917909c0f12547a199",
    "timestamp": "2004-03-16T18:52:58.000Z"
   }
  },
- "filesize": 917,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "40166dcbaa431b9d9360201a4ab1f64b3e9b7d964234b922724ea4fc7db4ec37",
  "tags": [
   "author=BlackPope",
@@ -44,15 +48,18 @@
   "author=Jacek",
   "author=Moz",
   "author=Scampie",
+  "filename=sm84_pack.zip",
   "game=quake",
-  "releasedate=2004-07-10",
+  "game_mode=singleplayer",
+  "release_date=2004-07-10",
   "startmap=sm84_frik",
   "startmap=sm84_jacek",
   "startmap=sm84_jacek2",
   "startmap=sm84_moz",
   "startmap=sm84_pope",
   "startmap=sm84_scampie",
-  "title=Speedmapping pack 84 - Oldschool maps"
+  "title=Speedmapping pack 84 - Oldschool maps",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm84_pack.zip",

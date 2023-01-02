@@ -1,32 +1,34 @@
 {
- "filename": [
-  "wtot.zip"
- ],
+ "bytes": 279,
  "files": {
   "wtot.bsp": {
-   "size": 632112,
+   "bytes": 632112,
+   "sha256": "cf3ac8970e1933d4f40d0231c772a25b48653f9daf8c4eb8151849b645f79da2",
    "timestamp": "1997-05-03T23:18:54.000Z"
   },
   "wtot.txt": {
-   "size": 2918,
+   "bytes": 2918,
+   "sha256": "6f47097e1e5099b293c8c456468de41dd85c2bcb2534c64a68b29a37d4055b40",
    "timestamp": "1997-10-27T16:10:36.000Z"
   }
  },
- "filesize": 279,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "875a060f45c0e7600b4585f7d04055d22cbe5951fc58f6036ae8251317bbec8b",
  "tags": [
   "author=Dick Nelson",
+  "filename=wtot.zip",
   "game=quake",
-  "releasedate=1997-10-27",
-  "tag=metal",
-  "tag=runic",
-  "tag=small",
-  "tag=traps",
-  "title=Welcome to Ogre tower"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1997-10-27",
+  "theme=metal",
+  "theme=runic",
+  "theme=traps",
+  "title=Welcome to Ogre tower",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wtot.zip",

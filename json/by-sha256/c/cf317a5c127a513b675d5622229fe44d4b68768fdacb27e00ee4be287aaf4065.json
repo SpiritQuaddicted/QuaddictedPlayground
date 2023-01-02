@@ -1,38 +1,41 @@
 {
- "filename": [
-  "vrkcoop1.zip"
- ],
+ "bytes": 2541,
  "files": {
   "vrkcoop1-server.cfg": {
-   "size": 2147,
+   "bytes": 2147,
+   "sha256": "e10b8e68a908f4cb6df1375cc2fa3630101ab9d1d9c034d09008b7968833e9c9",
    "timestamp": "2019-03-06T13:45:06.000Z"
   },
   "vrkcoop1.bsp": {
-   "size": 7912668,
+   "bytes": 7912668,
+   "sha256": "063a89185e10e322458a8b47929cbdd0b6134a53f6181b31702564791fe8d9f1",
    "timestamp": "2019-03-06T13:41:06.000Z"
   },
   "vrkcoop1.txt": {
-   "size": 2544,
+   "bytes": 2544,
+   "sha256": "b26dafb9c4253e7aba47edf44134c3212c20f44adaacbbbd13a612c3497b4e14",
    "timestamp": "2019-03-06T13:56:54.000Z"
   }
  },
- "filesize": 2541,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "cf317a5c127a513b675d5622229fe44d4b68768fdacb27e00ee4be287aaf4065",
  "tags": [
   "author=VuRkka",
+  "filename=vrkcoop1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61696)",
-  "releasedate=2019-03-06",
-  "tag=blue",
-  "tag=coop",
-  "tag=medieval",
-  "tag=medium",
-  "tag=puzzles",
-  "title=Forever Lost"
+  "map_size=medium",
+  "nonspecific_tag=coop",
+  "release_date=2019-03-06",
+  "theme=blue",
+  "theme=medieval",
+  "theme=puzzles",
+  "title=Forever Lost",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/vrkcoop1.zip",

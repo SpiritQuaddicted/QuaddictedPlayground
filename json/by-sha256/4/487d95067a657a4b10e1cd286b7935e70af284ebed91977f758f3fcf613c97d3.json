@@ -1,44 +1,50 @@
 {
- "filename": [
-  "lpqsp2.zip"
- ],
+ "bytes": 1456,
  "files": {
   "lpqsp2.bsp": {
-   "size": 2854172,
+   "bytes": 2854172,
+   "sha256": "17348c55bc2b7586b650ba6e7ffaa25f010794b8b6f8541cde00db052e9ffeea",
    "timestamp": "2017-08-13T17:33:46.000Z"
   },
   "lpqsp2.lit": {
-   "size": 1154072,
+   "bytes": 1154072,
+   "sha256": "e97d5598ec92a5e596a899781be4629b62bfea4757bd73b0dda74f6ec960a576",
    "timestamp": "2017-08-13T17:33:46.000Z"
   },
   "lpqsp2.txt": {
-   "size": 2028,
+   "bytes": 2028,
+   "sha256": "dbf2a8cea3046ef5c9996e14f1fa48909c948976d679a26fd1e5c5e7569ad74c",
    "timestamp": "2017-08-13T17:44:10.000Z"
   }
  },
- "filesize": 1456,
  "install": {
-  "extract": "{quake}/ad/maps/"
+  "extract": "{base}/ad/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "487d95067a657a4b10e1cd286b7935e70af284ebed91977f758f3fcf613c97d3",
  "tags": [
   "author=Lane Powell",
   "commandline=-game ad",
   "dependency=ad_v1_50final",
+  "exceeds_quake_limits=yes",
+  "filename=lpqsp2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61499)",
-  "releasedate=2017-08-13",
-  "tag=ad space",
-  "tag=arcanedimensions",
-  "tag=base",
-  "tag=coagula",
-  "tag=limits",
-  "tag=metal",
-  "tag=rubicon",
-  "tag=small",
-  "tag=void",
-  "title=Threat Assessment"
+  "map_size=small",
+  "mod=arcanedimensions",
+  "mod=rubicon",
+  "nonspecific_tag=ad space",
+  "playstyle=hordes",
+  "release_date=2017-08-13",
+  "theme=arcane dimensions",
+  "theme=base",
+  "theme=coagula",
+  "theme=metal",
+  "theme=rubicon",
+  "theme=void",
+  "title=Threat Assessment",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lpqsp2.zip",

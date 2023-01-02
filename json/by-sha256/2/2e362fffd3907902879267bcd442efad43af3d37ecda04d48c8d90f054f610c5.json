@@ -1,43 +1,48 @@
 {
- "filename": [
-  "q1shw1sp.zip"
- ],
+ "bytes": 825,
  "files": {
   "q1shw1sp.bsp": {
-   "size": 1281360,
+   "bytes": 1281360,
+   "sha256": "e917b90cc3616a6bc637a7cdb626c52f13425a483bb49617b75fb4a186486541",
    "timestamp": "2011-01-20T16:41:04.000Z"
   },
   "q1shw1sp.lit": {
-   "size": 430280,
+   "bytes": 430280,
+   "sha256": "a0281edf0dfad96e2c01ccc55e5f43aa9a4e3015b9ce99f7430bff57ed1eb23e",
    "timestamp": "2011-01-20T16:41:04.000Z"
   },
   "q1shw1sp.map": {
-   "size": 916235,
+   "bytes": 916235,
+   "sha256": "f3ab37ff1c4d5ba6af9ad7e2de5b8434951111084ef7b91323dfa9b8477623d1",
    "timestamp": "2011-01-20T16:41:50.000Z"
   },
   "q1shw1sp.txt": {
-   "size": 2590,
+   "bytes": 2590,
+   "sha256": "4801f428da386e8976b7eac0dcad01b6ba5ce116b388c51de8b9ddf85385a609",
    "timestamp": "2011-01-20T16:41:22.000Z"
   }
  },
- "filesize": 825,
  "install": {
-  "extract": "{quake}/id1/maps"
+  "extract": "{base}/id1/maps"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "2e362fffd3907902879267bcd442efad43af3d37ecda04d48c8d90f054f610c5",
  "tags": [
   "author=ShadoW &amp; negke",
+  "filename=q1shw1sp.zip",
   "game=quake",
-  "releasedate=2011-01-20",
-  "tag=dm",
-  "tag=metal",
-  "tag=mixtex",
-  "tag=oldschool",
-  "tag=small",
-  "tag=source",
-  "tag=stone",
-  "title=Devastation (single player version)"
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link:homepage=http://shadowsdomain.wordpress.com",
+  "map_size=small",
+  "release_date=2011-01-20",
+  "source=included",
+  "theme=metal",
+  "theme=mixtex",
+  "theme=oldschool",
+  "theme=stone",
+  "title=Devastation (single player version)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1shw1sp.zip",

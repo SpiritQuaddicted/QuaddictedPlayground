@@ -1,32 +1,34 @@
 {
- "filename": [
-  "pagan.zip"
- ],
+ "bytes": 159,
  "files": {
   "PAGAN.BSP": {
-   "size": 361396,
+   "bytes": 361396,
+   "sha256": "215579d15c568a875ed3c48d19f0618cd9ff0b27146461fd1c007fc77565e8be",
    "timestamp": "1997-03-04T16:36:22.000Z"
   },
   "PAGAN.TXT": {
-   "size": 1301,
+   "bytes": 1301,
+   "sha256": "07e8ac10f11d0ee81ad05752b6cf9293670c42239205f39851c3e180cd6ff33f",
    "timestamp": "1997-09-07T17:59:46.000Z"
   }
  },
- "filesize": 159,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "2f57754b7f414f9c1f2330cda71735433279d3e680fbdb32152b171f84199ba4",
  "tags": [
   "author=Fredrik Martinsson",
+  "filename=pagan.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsp1.htm)",
-  "releasedate=1997-09-07",
-  "tag=medieval",
-  "tag=small",
-  "tag=wizard",
-  "title=Pagan"
+  "map_size=small",
+  "release_date=1997-09-07",
+  "theme=medieval",
+  "theme=wizard",
+  "title=Pagan",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pagan.zip",

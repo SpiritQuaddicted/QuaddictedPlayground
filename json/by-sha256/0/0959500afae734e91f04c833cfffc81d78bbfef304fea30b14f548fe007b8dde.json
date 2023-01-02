@@ -1,35 +1,37 @@
 {
- "filename": [
-  "sadlark6.zip"
- ],
+ "bytes": 979,
  "files": {
   "sadlark6.bsp": {
-   "size": 2323068,
+   "bytes": 2323068,
+   "sha256": "3e0a6d2464deff2eac18742340d25275af7ec3b6a95c5c669e9e3cbcb915cb8f",
    "timestamp": "1997-09-09T22:42:00.000Z"
   },
   "sadlark6.txt": {
-   "size": 2208,
+   "bytes": 2208,
+   "sha256": "6e6be44219ca9a7e6ebe8f5b51f094d3152ff0b05c248391d3ae8162bd11f3ef",
    "timestamp": "1997-09-10T12:19:12.000Z"
   }
  },
- "filesize": 979,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0959500afae734e91f04c833cfffc81d78bbfef304fea30b14f548fe007b8dde",
  "tags": [
   "author=Jonas N.P. Lindstrom",
+  "filename=sadlark6.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelss.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1997-09-10",
-  "tag=large",
-  "tag=metal",
-  "tag=traps",
-  "title=The sacrifice of flesh"
+  "map_size=large",
+  "release_date=1997-09-10",
+  "theme=metal",
+  "theme=traps",
+  "title=The sacrifice of flesh",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark6.zip",

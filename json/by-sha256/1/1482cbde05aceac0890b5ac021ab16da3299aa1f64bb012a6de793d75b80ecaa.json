@@ -1,65 +1,221 @@
 {
- "filename": [
-  "schist.zip"
- ],
+ "bytes": 5194,
  "files": {
   "Pak0.PAK": {
-   "size": 13568209,
+   "bytes": 13568209,
+   "files": {
+    "demo1.dem": {
+     "bytes": 202768,
+     "sha256": "f06aca6276a107b75f75f05d7fe098b1499d864e2dbedfff5e3ed22db62a9523"
+    },
+    "demo2.dem": {
+     "bytes": 204550,
+     "sha256": "05d6943309acc0ca4847494df89c897f5e08f4a13dd0f3ec490a41a51b7a50b6"
+    },
+    "demo3.dem": {
+     "bytes": 241561,
+     "sha256": "01d08c37276fe4d758004be6224c12970901d973f8a1ab804b674b256d554ccd"
+    },
+    "gfx/conback.lmp": {
+     "bytes": 64008,
+     "sha256": "2766ce5ce91556f9b67d8723b3adf5540c21aae8f0e522af067fccc41d57cd6b"
+    },
+    "maps/end.bsp": {
+     "bytes": 639692,
+     "sha256": "34a307843721a0e0699076be73400d4703534fe23a97af973e40e8688a89a3fe"
+    },
+    "maps/schist1.bsp": {
+     "bytes": 2102068,
+     "sha256": "3573f75dcf513193f67d8e1bbb99bd96c24041f103068b8a7045483432afe194"
+    },
+    "maps/schist2.bsp": {
+     "bytes": 2303316,
+     "sha256": "b4d36f26f1b3437d5d7e705c94de0df8fbee32e3300ca6d5a35f0b486d5e8bca"
+    },
+    "maps/schist3.bsp": {
+     "bytes": 2399484,
+     "sha256": "dd9ebab15810b78d9ef90c587c3b840c58709ce8d59d326441bbe9e137edb977"
+    },
+    "maps/schist4.bsp": {
+     "bytes": 1939240,
+     "sha256": "d2da5a61dc70716b1b4087fc892085da483e3d6035266939293490dc9ad869b1"
+    },
+    "maps/schistdm.bsp": {
+     "bytes": 965520,
+     "sha256": "e3d88b5d321603a307196479169e21f7d31d0771836e278da5a6c0aca77c64af"
+    },
+    "maps/start.bsp": {
+     "bytes": 852116,
+     "sha256": "57e55129b3ccf50fefc86213f64df0568bb9c36ebe77c710e5c5bfd78631ba0a"
+    },
+    "progs.dat": {
+     "bytes": 554104,
+     "sha256": "17f98436e60eda75974c493c2fa90e3fdba52d4eccd21a385f7c44a58c5d5edc"
+    },
+    "progs/candle.mdl": {
+     "bytes": 35908,
+     "sha256": "61b882f3d9d8306aa12117290370d86128d2e9413940fd40c8c1fe63f8bef8d1"
+    },
+    "progs/lantern.mdl": {
+     "bytes": 74488,
+     "sha256": "8df8fca0d877692b450c0a6bd8202368b7d9e3d2365b2a161cac6f4ceb26efce"
+    },
+    "progs/rubble1.mdl": {
+     "bytes": 69839,
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866"
+    },
+    "progs/rubble2.mdl": {
+     "bytes": 200266,
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77"
+    },
+    "progs/rubble3.mdl": {
+     "bytes": 303486,
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab"
+    },
+    "progs/s_null.spr": {
+     "bytes": 56,
+     "sha256": "29e9c18546413f0abc9c6f507c61952f33afa6507b52d1c2197b57e3be7870a9"
+    },
+    "sound/electro.wav": {
+     "bytes": 15023,
+     "sha256": "013d6ce1d6ad55aaa077e4bd622d182193c713ea019eb7c62b242e943062b6b9"
+    },
+    "sound/fanblow.wav": {
+     "bytes": 12890,
+     "sha256": "b242140bfc7b92006433bf5efcca88efb7dbf838b14f0beedcb14bcc914f05b9"
+    },
+    "sound/hit.wav": {
+     "bytes": 6026,
+     "sha256": "920bf2c124ddc1b58ef12176332a9909974341c5040ccbcc2ac17b0d675a361d"
+    },
+    "sound/hum1.wav": {
+     "bytes": 16688,
+     "sha256": "d6d54c5e878a6f2bfe73676b8bf2108ce0f47edb44529d85cb1c4a6a80d4fbdb"
+    },
+    "sound/humming.wav": {
+     "bytes": 7672,
+     "sha256": "bd13a2f20d22fd462762d4115b38d250143b5378e8f1cd997aee92a230b0b079"
+    },
+    "sound/longexpl.wav": {
+     "bytes": 42430,
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890"
+    },
+    "sound/newhum1.wav": {
+     "bytes": 35258,
+     "sha256": "d2c07398d1a6ecada4987780bdac04460d4faa578a2e829f7bca8f5edf8100a3"
+    },
+    "sound/player/pain1.wav": {
+     "bytes": 38956,
+     "sha256": "f69ee57b5cea2f9eefcffaa945b7219257db701a909e7f1b2b7e9ab715d58d29"
+    },
+    "sound/player/pain6.wav": {
+     "bytes": 23468,
+     "sha256": "de4071f8b44b9dda2c6723adfacfae0fff2eda86cfbf4e8925fb39bc112e80dc"
+    },
+    "sound/player/udeath.wav": {
+     "bytes": 18733,
+     "sha256": "1526ce953f9d6785d2072559b7016b524f7727df47556395653e0f66314b74c6"
+    },
+    "sound/quake.wav": {
+     "bytes": 34286,
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266"
+    },
+    "sound/quakeend.wav": {
+     "bytes": 8160,
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01"
+    },
+    "sound/riftpowr.wav": {
+     "bytes": 3822,
+     "sha256": "60c3ae33de894708a26b5c17891be8225d54909a297efe081d9f22c5ea74e06f"
+    },
+    "sound/rumble.wav": {
+     "bytes": 53068,
+     "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a"
+    },
+    "sound/shortexp.wav": {
+     "bytes": 27562,
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc"
+    },
+    "sound/soldier/sattck1.wav": {
+     "bytes": 30413,
+     "sha256": "36d251252367ce80a8547002dd2efef84087100781d4e9947efdd6a4e0f0a342"
+    },
+    "sound/swing.wav": {
+     "bytes": 12960,
+     "sha256": "68da54f9541808bdaa1f070218bd53ffce0cfccee46b460fd9181a366440952a"
+    },
+    "sound/wallbrk.wav": {
+     "bytes": 26008,
+     "sha256": "96766396572574531fb0c12b890d0956aa9c5f9605f0de6bca5e0be2cfdd710f"
+    }
+   },
+   "sha256": "917bf534ababb16f3d3e363341f07a9a7149c3baf637e76a5168f4ee68758ee9",
    "timestamp": "1997-11-10T16:46:44.000Z"
   },
   "end.txt": {
-   "size": 2295,
+   "bytes": 2295,
+   "sha256": "7953f030d09c23b1a96e49a08245ce9d2e326cedb994aa6e4a9920f7ad9073bb",
    "timestamp": "1997-11-09T21:02:14.000Z"
   },
   "lantern.txt": {
-   "size": 1955,
+   "bytes": 1955,
+   "sha256": "81cd1f4318937633c6085c48ad06053ba5ae45ca1e969bda8144e243c5cb3f99",
    "timestamp": "1997-11-09T22:00:18.000Z"
   },
   "readme.txt": {
-   "size": 5568,
+   "bytes": 5568,
+   "sha256": "f59ccab66e4832ad30ebbf38e09e0e3afec383c6ad5f8e6908d7632b50603c2e",
    "timestamp": "1997-11-10T16:52:20.000Z"
   },
   "schist1.txt": {
-   "size": 2244,
+   "bytes": 2244,
+   "sha256": "ab3b22a84ff13afd636f7f3fcff7a0007d1792a991dffd0cdaa86803c419232e",
    "timestamp": "1997-11-09T07:25:22.000Z"
   },
   "schist2.txt": {
-   "size": 2244,
+   "bytes": 2244,
+   "sha256": "608a04d02f764d274790e82c62a9f91031fbbf7f3895336c002ab04c7923e7a0",
    "timestamp": "1997-11-09T21:03:26.000Z"
   },
   "schist3.txt": {
-   "size": 2136,
+   "bytes": 2136,
+   "sha256": "962f8f67b3e205baedc138f660ecd64f3c70811464cc02aa87b8a2156ec45fa9",
    "timestamp": "1997-11-10T16:48:24.000Z"
   },
   "schist4.txt": {
-   "size": 2425,
+   "bytes": 2425,
+   "sha256": "913f9737c90af49acb74998009c0694c28e3a3aeef6be678d469551dc51b0563",
    "timestamp": "1997-11-09T18:59:38.000Z"
   },
   "schistdm.txt": {
-   "size": 1988,
+   "bytes": 1988,
+   "sha256": "f6789aa5a979f700b12ced583dfdcb6f6ffcdc8c112e4c1373aa82ae5e413981",
    "timestamp": "1997-11-09T12:59:52.000Z"
   },
   "start.txt": {
-   "size": 2376,
+   "bytes": 2376,
+   "sha256": "2ceb9fc45bc81c734ee0cf8fa863ea9247c364fb8556487e9034a4f1e20bf4c3",
    "timestamp": "1997-11-09T07:26:18.000Z"
   }
  },
- "filesize": 5194,
  "install": {
-  "extract": "{quake}/schist/"
+  "extract": "{base}/schist/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1482cbde05aceac0890b5ac021ab16da3299aa1f64bb012a6de793d75b80ecaa",
  "tags": [
   "author=Noel Weer",
   "commandline=-game schist",
+  "filename=schist.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981225.html)",
-  "releasedate=1997-11-10",
+  "nonspecific_tag=ice",
+  "release_date=1997-11-10",
   "startmap=start",
-  "tag=episode",
-  "tag=ice",
-  "title=Schist"
+  "title=Schist",
+  "type=episode",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/schist.zip",

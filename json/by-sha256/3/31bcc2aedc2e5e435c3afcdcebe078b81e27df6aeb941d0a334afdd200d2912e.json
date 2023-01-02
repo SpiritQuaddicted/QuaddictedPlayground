@@ -1,34 +1,36 @@
 {
- "filename": [
-  "escape09.zip"
- ],
+ "bytes": 588,
  "files": {
   "escape.bsp": {
-   "size": 1384984,
+   "bytes": 1384984,
+   "sha256": "03b4275bd0cf47523d0d3e24f393bc54035b85a7713961f5779e11ebe529c961",
    "timestamp": "1997-01-24T00:22:44.000Z"
   },
   "escape.txt": {
-   "size": 2624,
+   "bytes": 2624,
+   "sha256": "9e6fc34f42f65192713fc043162676b9b0176433a954ea8cb065077034793695",
    "timestamp": "1997-01-24T02:03:36.000Z"
   }
  },
- "filesize": 588,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "31bcc2aedc2e5e435c3afcdcebe078b81e27df6aeb941d0a334afdd200d2912e",
  "tags": [
   "author=Gonzoj",
+  "filename=escape09.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelse.htm)",
-  "releasedate=1997-01-24",
+  "map_size=small",
+  "nonspecific_tag=textures",
+  "release_date=1997-01-24",
   "startmap=escape",
-  "tag=prison",
-  "tag=realism",
-  "tag=small",
-  "tag=textures",
-  "title=Escape"
+  "theme=prison",
+  "theme=realism",
+  "title=Escape",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/escape09.zip",

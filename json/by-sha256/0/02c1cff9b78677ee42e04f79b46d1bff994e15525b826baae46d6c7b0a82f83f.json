@@ -1,38 +1,41 @@
 {
- "filename": [
-  "sm76_pack.zip"
- ],
+ "bytes": 930,
  "files": {
   "sm76_czg.bsp": {
-   "size": 286584,
+   "bytes": 286584,
+   "sha256": "6489083d2ebad545063576441e253e681f0dc66020df59484d9c806ff3ef79ce",
    "timestamp": "2004-03-16T17:27:46.000Z"
   },
   "sm76_drew.bsp": {
-   "size": 331224,
+   "bytes": 331224,
+   "sha256": "c69c5190a05ed9c3e9cb6e08875a3bd494100208fff64099760361c0be357dc8",
    "timestamp": "2004-04-23T19:25:22.000Z"
   },
   "sm76_headthump.bsp": {
-   "size": 1291272,
+   "bytes": 1291272,
+   "sha256": "35aa91b62ca626ba9e5c00f9f0671516f8023ec1df4ab5a3439caff5d28f1ee7",
    "timestamp": "2004-04-24T14:27:02.000Z"
   },
   "sm76_pack.txt": {
-   "size": 1587,
+   "bytes": 1587,
+   "sha256": "bf92b85edcae746797e26acc9ccc9b10f6ff9b5e565f91c1658067e2d616369f",
    "timestamp": "2004-03-16T18:30:26.000Z"
   },
   "sm76_scampie.bsp": {
-   "size": 486328,
+   "bytes": 486328,
+   "sha256": "9c35eb1a9d9ea4079888d04bdd9dbcca458687a191b0b93acdfccfcd9736ab91",
    "timestamp": "2004-03-16T18:18:36.000Z"
   },
   "sm76_zwiffle.bsp": {
-   "size": 331348,
+   "bytes": 331348,
+   "sha256": "5198e0f3a346d3e23c8a51af107ebe1d470975e848d703a4827006bf3f22b59e",
    "timestamp": "2004-04-24T16:34:18.000Z"
   }
  },
- "filesize": 930,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "02c1cff9b78677ee42e04f79b46d1bff994e15525b826baae46d6c7b0a82f83f",
  "tags": [
   "author=CZG",
@@ -40,14 +43,17 @@
   "author=HeadThump",
   "author=Scampie",
   "author=Zwiffle",
+  "filename=sm76_pack.zip",
   "game=quake",
-  "releasedate=2004-04-24",
+  "game_mode=singleplayer",
+  "release_date=2004-04-24",
   "startmap=sm76_czg",
   "startmap=sm76_drew",
   "startmap=sm76_headthump",
   "startmap=sm76_scampie",
   "startmap=sm76_zwiffle",
-  "title=Speedmapping pack 76 - 100 min timelimit enforced"
+  "title=Speedmapping pack 76 - 100 min timelimit enforced",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm76_pack.zip",

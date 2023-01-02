@@ -1,0 +1,883 @@
+{
+ "bytes": 164386,
+ "files": {
+  "docs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-20T21:16:30.000Z"
+  },
+  "docs/bm_5th.txt": {
+   "bytes": 2401,
+   "sha256": "f986973633681ef9e1c09a6502a8b806442b27222e3aa7572abc941a56165153",
+   "timestamp": "2021-01-20T13:23:00.000Z"
+  },
+  "docs/bm_bmfbr.txt": {
+   "bytes": 1632,
+   "sha256": "30ee3606843a2e3f9f852d8bbf175f918e8b823c2de638520b6a5bafd9394ae5",
+   "timestamp": "2021-01-14T19:20:48.000Z"
+  },
+  "docs/bm_chrisholden.txt": {
+   "bytes": 1537,
+   "sha256": "af6f31fa24f62dd82ed3092df24fbd23148313c3f0159d484812596e0b085268",
+   "timestamp": "2021-01-17T23:30:12.000Z"
+  },
+  "docs/bm_dfl.txt": {
+   "bytes": 2141,
+   "sha256": "9b034a276db4dfeae17e0ecb4f67dd70455553dfc9beb51a059dab51833994b6",
+   "timestamp": "2021-01-16T18:40:50.000Z"
+  },
+  "docs/bm_gnemeth.txt": {
+   "bytes": 3719,
+   "sha256": "40660427be9b5ddcce4786abbc92a997c6cf546ab218e028cf7546511408bb4b",
+   "timestamp": "2021-01-18T07:03:12.000Z"
+  },
+  "docs/bm_greenwood.txt": {
+   "bytes": 1598,
+   "sha256": "a1ea8a846ae5b63ed111e8d6c7202a229f5235a8e87f3eea4cb09b12a6a5d51c",
+   "timestamp": "2021-01-16T23:00:48.000Z"
+  },
+  "docs/bm_ish.txt": {
+   "bytes": 1288,
+   "sha256": "921fcc8d191a671fa7068d94e32289bc6f8a3bb62f71117db9a329c3775b2941",
+   "timestamp": "2021-01-17T16:27:36.000Z"
+  },
+  "docs/bm_mh_readme.txt": {
+   "bytes": 1341,
+   "sha256": "10ec080a85c5d68c568013196cb7937a6f2ecae51bb1d0348e85158e78b99ed8",
+   "timestamp": "2021-01-18T19:50:54.000Z"
+  },
+  "docs/bm_pinchy.txt": {
+   "bytes": 2704,
+   "sha256": "83358d7b17824b8aa76186dd3d89adad16a37e4f4e2ccf4ee60695e561d41165",
+   "timestamp": "2021-01-18T12:20:12.000Z"
+  },
+  "docs/bm_qmaster.txt": {
+   "bytes": 270,
+   "sha256": "fdea3e956e4bfab0cd09bdfd9733b515cfa3bc50c3a41dfe2ec4e649a314e74b",
+   "timestamp": "2021-01-18T14:37:32.000Z"
+  },
+  "docs/bm_quasiotter_readme.txt": {
+   "bytes": 5918,
+   "sha256": "90a67f0a6eb336d49662ff326b4c56ec38d8fe25832762c6234d899f0387460d",
+   "timestamp": "2021-01-18T05:15:32.000Z"
+  },
+  "docs/bm_raped readme.txt": {
+   "bytes": 450,
+   "sha256": "11f533a22cf1a6a815804f6bf61737260dac8d29af23a1ee2487434ef2ec4dbc",
+   "timestamp": "2021-01-18T13:26:52.000Z"
+  },
+  "docs/bm_zigi.txt": {
+   "bytes": 2097,
+   "sha256": "e3d2761829b5ae3a261592989ef49e3c5e43d43983fac052a535c9d98d202d89",
+   "timestamp": "2021-01-17T00:21:42.000Z"
+  },
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-17T21:42:30.000Z"
+  },
+  "gfx/conback.lmp": {
+   "bytes": 131080,
+   "sha256": "7cd69dd2f1362ba12aeb9b3ed8f5dac3c4e5dc89750040c041fc589d0dba4d26",
+   "timestamp": "2021-01-08T18:27:56.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-17T21:42:32.000Z"
+  },
+  "gfx/env/bluebone_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "e162aa226757d52a8c8deb5cd100bee33730d341f5ea082ba64c7efd1e60e941",
+   "timestamp": "2020-11-30T17:40:22.000Z"
+  },
+  "gfx/env/bluebone_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "4a3b0381d3fbc3518b4473cf7bc3f0e45ef8541bc041ac1fdd2159ddc9f83134",
+   "timestamp": "2020-11-30T17:40:26.000Z"
+  },
+  "gfx/env/bluebone_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "6c959bb4511710313b0b77976ac77f1e4a48c48a955557c1d7f77c9d7bc5d57a",
+   "timestamp": "2020-11-30T17:40:28.000Z"
+  },
+  "gfx/env/bluebone_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "1d538fd56a06604598191a8217527a2bb343b390bb2f564704c689b8e52f93d5",
+   "timestamp": "2020-11-30T17:40:38.000Z"
+  },
+  "gfx/env/bluebone_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "9c072a267963864d535348d30d8d34ba572fb13243af366fd5f06f8436a6fd16",
+   "timestamp": "2020-11-30T17:40:36.000Z"
+  },
+  "gfx/env/bluebone_up.tga": {
+   "bytes": 3145772,
+   "sha256": "644c052515279a292448ce39fa8f5a585c4ae241dac131850dd4839a83015090",
+   "timestamp": "2020-11-30T17:40:32.000Z"
+  },
+  "gfx/env/d4sky03_bk.tga": {
+   "bytes": 3485809,
+   "sha256": "f0493dc2d36cd3621c59e70083a6be91eefd4c279d49ed5e325dd7b8497368ea",
+   "timestamp": "2019-12-16T23:53:14.000Z"
+  },
+  "gfx/env/d4sky03_dn.tga": {
+   "bytes": 3942026,
+   "sha256": "0f194e24031d2a3fee1ba0b21c387520b42c17fb0476b2e8270ac7986692fdb5",
+   "timestamp": "2019-12-16T23:53:14.000Z"
+  },
+  "gfx/env/d4sky03_ft.tga": {
+   "bytes": 3455972,
+   "sha256": "1efcfddd245351c0a0cc1937957ac9a9fe160ffc2c335a41a3b5b8538526e24a",
+   "timestamp": "2019-12-16T23:53:14.000Z"
+  },
+  "gfx/env/d4sky03_lf.tga": {
+   "bytes": 3474236,
+   "sha256": "2ebcc8e14e470510b407a8c29f997cd98667ca64745410a21d1b22396a14fd12",
+   "timestamp": "2019-12-16T23:53:14.000Z"
+  },
+  "gfx/env/d4sky03_rt.tga": {
+   "bytes": 3631024,
+   "sha256": "a6d17d9dfe972453fa0eaa011c9c874443a38ce5d1695eeb31c5bd902f075feb",
+   "timestamp": "2019-12-16T23:53:14.000Z"
+  },
+  "gfx/env/d4sky03_up.tga": {
+   "bytes": 3498377,
+   "sha256": "6ff553fc146f29db584cf46a705340a9bf856cea25ca289937e47b5605fb4872",
+   "timestamp": "2019-12-16T23:53:14.000Z"
+  },
+  "gfx/env/darkstorm_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "e88b9a5b902f3a29b7463dfb26df3f72cc8a4a8c7b2b8a5c2140cb28b81af08f",
+   "timestamp": "2021-01-14T19:04:54.000Z"
+  },
+  "gfx/env/darkstorm_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "197294ca341589d0a7a899802214be2bb71176dea171fbe54a370b94cd309eae",
+   "timestamp": "2021-01-14T19:05:06.000Z"
+  },
+  "gfx/env/darkstorm_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "339764a60050f0f6add78974f44cbb24dc003fed661717e03b0f58a3d934704b",
+   "timestamp": "2021-01-14T19:05:16.000Z"
+  },
+  "gfx/env/darkstorm_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "805345e65621475930567c6a22a67106a74d95ede58c5e51e6a8da51dc14f8a4",
+   "timestamp": "2021-01-14T19:05:26.000Z"
+  },
+  "gfx/env/darkstorm_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "3e8078fa11e98b8c0026716587743dc82b7fb3c1980a6412f80e9d9b3577d1a0",
+   "timestamp": "2021-01-14T19:05:36.000Z"
+  },
+  "gfx/env/darkstorm_up.tga": {
+   "bytes": 3145772,
+   "sha256": "8e03556c3b3832a0842f191dc5c4828a914304b94e76689e97e5687f44e1cc0d",
+   "timestamp": "2021-01-14T19:05:44.000Z"
+  },
+  "gfx/env/emer_bk.tga": {
+   "bytes": 3145746,
+   "sha256": "9153b6eda8839ceb75734fb0a289e93ef401c5b81de9aad3bae2815304ebe324",
+   "timestamp": "2020-12-15T09:39:10.000Z"
+  },
+  "gfx/env/emer_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "6f5ab9a9fe7a08ea29db74f83e649c75be2d14c3d219a357c3a9cbbf4685ebf3",
+   "timestamp": "2020-12-15T10:01:42.000Z"
+  },
+  "gfx/env/emer_ft.tga": {
+   "bytes": 3145746,
+   "sha256": "75e623145d13295a0343246ac1330c0a34af19fc54002d433d7176b1e08313f7",
+   "timestamp": "2020-12-15T09:39:10.000Z"
+  },
+  "gfx/env/emer_lf.tga": {
+   "bytes": 3145746,
+   "sha256": "40b405b61bd0e3c3e040a3eae7391102050121ccd98b8f004332a40125291483",
+   "timestamp": "2020-12-15T09:39:10.000Z"
+  },
+  "gfx/env/emer_rt.tga": {
+   "bytes": 3145746,
+   "sha256": "ae5a4bd47ddfb04fd4f21bc4b0b1d4e53ec3fcca4e80b7b8c4901f78df6a3a90",
+   "timestamp": "2020-12-15T09:39:10.000Z"
+  },
+  "gfx/env/emer_up.tga": {
+   "bytes": 3145772,
+   "sha256": "e5908f881875b3901af8e2d7307aabde9296769f45b026259d8aa6d00b615c6d",
+   "timestamp": "2020-12-15T09:56:20.000Z"
+  },
+  "gfx/env/flatrock_bk.tga": {
+   "bytes": 786476,
+   "sha256": "7da0f1480e50cc4c1033d44069631c92f48a913f79f012c96d46366c8fdee4c6",
+   "timestamp": "2015-07-11T00:33:42.000Z"
+  },
+  "gfx/env/flatrock_dn.tga": {
+   "bytes": 786476,
+   "sha256": "7c330cdbfe09bed0bb47dc115ed7f971ac89a42afdda413eb13044e42eede79f",
+   "timestamp": "2015-07-11T00:32:04.000Z"
+  },
+  "gfx/env/flatrock_ft.tga": {
+   "bytes": 786476,
+   "sha256": "9f3e8661d63f724f87491d0f8786eceb2589b73554be94133cfcfd92e639f3c0",
+   "timestamp": "2015-07-11T00:31:42.000Z"
+  },
+  "gfx/env/flatrock_lf.tga": {
+   "bytes": 786476,
+   "sha256": "1814b679a7c688b8aeb63058b1a7d3c2cd215d3596e6abda35f2550eb92b0c57",
+   "timestamp": "2015-07-11T00:31:20.000Z"
+  },
+  "gfx/env/flatrock_rt.tga": {
+   "bytes": 786476,
+   "sha256": "f8caa274b8a22f689951473d90953a4161b4da6f0997669a40dc4a3b17b490a3",
+   "timestamp": "2015-07-11T00:30:56.000Z"
+  },
+  "gfx/env/flatrock_up.tga": {
+   "bytes": 786476,
+   "sha256": "b89d7f43f85e7b998826543531d0eda6c04562f3a1fcd58c8fe46579b24b7a6e",
+   "timestamp": "2015-07-11T00:54:04.000Z"
+  },
+  "gfx/env/hw_blue/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-18T13:24:32.000Z"
+  },
+  "gfx/env/hw_blue/blue_bk.tga": {
+   "bytes": 684446,
+   "sha256": "6d23395c65625c57e7bd83e4dfba70e936a648e7d2bb4f9a2b38575076dc5ee9",
+   "timestamp": "2008-12-28T12:20:18.000Z"
+  },
+  "gfx/env/hw_blue/blue_dn.tga": {
+   "bytes": 704086,
+   "sha256": "338d2b8244b9bfd0d9ddd68b4f75bc84e8bda8e365ed92076797d8bb4197fa7e",
+   "timestamp": "2008-12-28T12:20:06.000Z"
+  },
+  "gfx/env/hw_blue/blue_ft.tga": {
+   "bytes": 733664,
+   "sha256": "bad86da1ff9412fc0fb3c0bf40a0d2f8e8e39d44b53de5ba68ba6a78d2806bd5",
+   "timestamp": "2008-12-28T12:19:56.000Z"
+  },
+  "gfx/env/hw_blue/blue_lf.tga": {
+   "bytes": 657879,
+   "sha256": "42934e00b4cc800ed9fba6613f72bf0c18e72b641aa64e39ad93c286ff9dc589",
+   "timestamp": "2008-12-28T12:20:32.000Z"
+  },
+  "gfx/env/hw_blue/blue_rt.tga": {
+   "bytes": 706483,
+   "sha256": "63b1b09f1e68574fe824922ee976518c62e2bb3a08c36509f712ee76212dd174",
+   "timestamp": "2008-12-28T12:20:46.000Z"
+  },
+  "gfx/env/hw_blue/blue_up.tga": {
+   "bytes": 472593,
+   "sha256": "8b7451f3d9409f044278032c7e15e05f29e36f904999cb8f09c719e53c31e57d",
+   "timestamp": "2008-12-28T12:20:54.000Z"
+  },
+  "gfx/env/hw_blue/hw_blue.shader": {
+   "bytes": 329,
+   "sha256": "ca6fd61cf221601674b8df253b84653a8cff33f5386f7863bbb852c18150a902",
+   "timestamp": "2008-12-28T12:23:48.000Z"
+  },
+  "gfx/env/hw_blue/license.txt": {
+   "bytes": 283,
+   "sha256": "3c6a08e5dccedb87f67aaa50feb964c98fbde4bb4888c64c56bc35e5fd256b43",
+   "timestamp": "2008-12-28T11:25:48.000Z"
+  },
+  "gfx/env/vrkorabk.tga": {
+   "bytes": 4194348,
+   "sha256": "79cd08ceeb7ff674f4e18f281b9289de128ce88b8982ca47b87f5742584c5208",
+   "timestamp": "2020-02-28T19:00:02.000Z"
+  },
+  "gfx/env/vrkoradn.tga": {
+   "bytes": 4194348,
+   "sha256": "cb39310a9f9933295198362cad6ba3aecd28fc3609c4ff85bc4f54a0f1d941ca",
+   "timestamp": "2020-02-28T19:00:36.000Z"
+  },
+  "gfx/env/vrkoraft.tga": {
+   "bytes": 4194348,
+   "sha256": "7f7c796bd63021ce582cf0ff7d4e2485ebdfd40dba409faaa59479ae61247f58",
+   "timestamp": "2020-02-28T19:01:00.000Z"
+  },
+  "gfx/env/vrkoralf.tga": {
+   "bytes": 4194348,
+   "sha256": "ca1f2782b5b25a6f13c59326998f365217de43ed98d9ba8e3aa996618945788e",
+   "timestamp": "2020-02-28T19:01:18.000Z"
+  },
+  "gfx/env/vrkorart.tga": {
+   "bytes": 4194348,
+   "sha256": "326266c10e8824aeaf06254149d81dd57e21d33a60f92aee9f953418811748d4",
+   "timestamp": "2020-02-28T19:01:36.000Z"
+  },
+  "gfx/env/vrkoraup.tga": {
+   "bytes": 4194348,
+   "sha256": "faf1c4912a86714c037f84998e177fba8c4b59d3dd28120e1d6d3b94a524cb45",
+   "timestamp": "2020-02-28T19:01:54.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-20T21:30:26.000Z"
+  },
+  "maps/bm_5th.bsp": {
+   "bytes": 1879808,
+   "sha256": "b66c1fa74b165e39867f08f6fd650bedc2116a8823a1e80be81c209c700848c5",
+   "timestamp": "2021-01-20T14:19:02.000Z"
+  },
+  "maps/bm_5th.lit": {
+   "bytes": 472328,
+   "sha256": "88482ca7d279f5f89216bf57b8aa501f01b2b7c45958401f16983fd6c5b4e349",
+   "timestamp": "2021-01-20T14:19:02.000Z"
+  },
+  "maps/bm_bmfbr.bsp": {
+   "bytes": 17259088,
+   "sha256": "e3788d0ea794c0bd5af4b57311db475291e7782748cef648089fde0260e8d0f9",
+   "timestamp": "2021-01-16T13:10:48.000Z"
+  },
+  "maps/bm_bmfbr.lit": {
+   "bytes": 920048,
+   "sha256": "d0001a6b51c1008f8baa962c4ee73f6d29651d334f76ed95bdf389c0260905b7",
+   "timestamp": "2021-01-16T13:10:48.000Z"
+  },
+  "maps/bm_chrisholden.bsp": {
+   "bytes": 16343152,
+   "sha256": "e3096cf7d65e0e16339ee3bb3e2823e3359608016eaa1dac865398fe48ef19a5",
+   "timestamp": "2021-01-17T23:18:46.000Z"
+  },
+  "maps/bm_chrisholden.lit": {
+   "bytes": 6186524,
+   "sha256": "ab315f070261dedbd147f2eccd9cefc1132d862526008581c10aeba9aa6a6b02",
+   "timestamp": "2021-01-17T23:18:46.000Z"
+  },
+  "maps/bm_dfl.bsp": {
+   "bytes": 13399148,
+   "sha256": "68a0e8ebd8549eb0905cc6a246c6f6aaeced45bb162600896b3aefaeee1f577c",
+   "timestamp": "2021-01-16T18:32:48.000Z"
+  },
+  "maps/bm_dfl.lit": {
+   "bytes": 3405356,
+   "sha256": "57f458b253e36cc1074946ee102eecbaf2ef9a23a762a75918ea3781878824c6",
+   "timestamp": "2021-01-16T18:32:48.000Z"
+  },
+  "maps/bm_gnemeth.bsp": {
+   "bytes": 4360520,
+   "sha256": "6f66a2551ae2df94046bf2ddd1c35c764c9f00abfcfe6554bcd2b82431603f27",
+   "timestamp": "2021-01-18T06:56:56.000Z"
+  },
+  "maps/bm_gnemeth.lit": {
+   "bytes": 1968806,
+   "sha256": "3b4720972b7e125501be61e4037d95a6de0c6359f34c8abbf6e60d48acf860d6",
+   "timestamp": "2021-01-18T06:56:56.000Z"
+  },
+  "maps/bm_greenwood.bsp": {
+   "bytes": 1109064,
+   "sha256": "6a49b6cb32ced984aa3a8064499605b4f42861d52d8424c33547bc18a000ccec",
+   "timestamp": "2021-01-16T22:31:10.000Z"
+  },
+  "maps/bm_greenwood.lit": {
+   "bytes": 287870,
+   "sha256": "49deb35a1b84546753fcccfabc754f705c9ac1c6b44947934cf131792a1535eb",
+   "timestamp": "2021-01-16T22:31:10.000Z"
+  },
+  "maps/bm_ish.bsp": {
+   "bytes": 2657832,
+   "sha256": "a2e551307ebf2e482684a47aedf6890c954ab9315fa726c234a0f5990aaa6527",
+   "timestamp": "2021-01-17T16:08:48.000Z"
+  },
+  "maps/bm_ish.lit": {
+   "bytes": 1113008,
+   "sha256": "159d63160e9866a9ab3663cc24f85f65bbea40c3c93937a3045dbd95ad467e32",
+   "timestamp": "2021-01-17T16:08:48.000Z"
+  },
+  "maps/bm_mh.bsp": {
+   "bytes": 1383620,
+   "sha256": "b5e32b47df54b259c68ed0de89b425f0b72a3e7a91789e1da0c2c200f1953314",
+   "timestamp": "2021-01-18T19:46:16.000Z"
+  },
+  "maps/bm_myki.bsp": {
+   "bytes": 3074560,
+   "sha256": "cf8b02fc3f42c832dfcda01ca30b8e0908a59e8a3e2cbc3a6420b4670c69f993",
+   "timestamp": "2021-01-20T21:14:18.000Z"
+  },
+  "maps/bm_myki.lit": {
+   "bytes": 797831,
+   "sha256": "cd7005140207be904f56b6ac7aa8553e724dfde42680cc88fe860daf14db7731",
+   "timestamp": "2021-01-20T19:24:10.000Z"
+  },
+  "maps/bm_pinchy.bsp": {
+   "bytes": 3552688,
+   "sha256": "eb607b6aabc35066b603d8e95e5b609a0c3a081f1cb0b93c08b4c5a01d134fb5",
+   "timestamp": "2021-01-20T15:22:58.000Z"
+  },
+  "maps/bm_pinchy.lit": {
+   "bytes": 2004470,
+   "sha256": "6558973a8f5ca1d725cc6ad4ee6dda7df19650652c4c11a223cc35b28ce59e09",
+   "timestamp": "2021-01-20T15:22:58.000Z"
+  },
+  "maps/bm_qmaster.bsp": {
+   "bytes": 5709404,
+   "sha256": "6b688ad2f00b32d347675f1552c38377c982ca6b57cee8d99af952561c801fa4",
+   "timestamp": "2021-01-18T14:34:52.000Z"
+  },
+  "maps/bm_qmaster.lit": {
+   "bytes": 2747831,
+   "sha256": "19963ecb5d2d3c16226e5b4f5fc8c3e203ebf4bd9ca9677838c361b41df4e6ea",
+   "timestamp": "2021-01-18T14:34:52.000Z"
+  },
+  "maps/bm_quasiotter.bsp": {
+   "bytes": 419840,
+   "sha256": "7370798ba9c5251bae499c7945dfa408b6ec015717e45486f86e8135a58953f7",
+   "timestamp": "2021-01-18T04:45:06.000Z"
+  },
+  "maps/bm_quasiotter.lit": {
+   "bytes": 45788,
+   "sha256": "977f0569ecde5bf1d058ca84bae61231bab285091c91d940a0f4ce8a83fa24d7",
+   "timestamp": "2021-01-18T04:45:06.000Z"
+  },
+  "maps/bm_raped.bsp": {
+   "bytes": 2863764,
+   "sha256": "d0598deebde67fbcdc15425509a1a2b71f3ee7ab6ac17046afb6cb6e99ef69ea",
+   "timestamp": "2021-01-18T14:05:52.000Z"
+  },
+  "maps/bm_raped.lit": {
+   "bytes": 836786,
+   "sha256": "042cafbce2ab8c65fd727c64be07eceaf9f4baf4e1d39f3aa3b7f685eef6ddba",
+   "timestamp": "2021-01-18T14:05:52.000Z"
+  },
+  "maps/bm_shades.bsp": {
+   "bytes": 21716892,
+   "sha256": "a7d4f18a9f703edddfb4d145a6dbf66e4e34907c10571c6116dbeab93f1bf7e1",
+   "timestamp": "2021-01-17T21:46:32.000Z"
+  },
+  "maps/bm_shades.lit": {
+   "bytes": 430253,
+   "sha256": "5db30172ccd0209840047bf9d70409852ef0d62ec73860a658859b04e4f86d3e",
+   "timestamp": "2021-01-17T21:46:30.000Z"
+  },
+  "maps/bm_zigi.bsp": {
+   "bytes": 1863612,
+   "sha256": "ec91d93205e96648e1e8aceef253966c56a3519acd89b836619dd66ec47f7637",
+   "timestamp": "2021-01-12T18:48:22.000Z"
+  },
+  "maps/bm_zigi.lit": {
+   "bytes": 1694801,
+   "sha256": "a595ddba414e29d45d2d81c62b85aa46428b606afe84bd3c7eafafbbe6e36ee0",
+   "timestamp": "2021-01-12T18:48:22.000Z"
+  },
+  "maps/brkpinchy/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-20T21:15:44.000Z"
+  },
+  "maps/brkpinchy/bluemetal.bsp": {
+   "bytes": 36332,
+   "sha256": "e16af42a903bb2f899d9674b34c86e4cd447d2a5c94c0c46c0777b7b011a275a",
+   "timestamp": "2021-01-17T15:04:10.000Z"
+  },
+  "maps/brkpinchy/bluemetal.map": {
+   "bytes": 1018,
+   "sha256": "ec5890375c26e17c926aee777274932cdd95909bfb7a6ff3f4d1b44b7d2ba450",
+   "timestamp": "2021-01-17T13:43:52.000Z"
+  },
+  "maps/src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-20T21:16:24.000Z"
+  },
+  "maps/src/bluemonday_ish.map": {
+   "bytes": 1145555,
+   "sha256": "209b5773918ed98de3ab9b9693cdde1aa7a2f3b674e840a3105f9a45ad3aa22e",
+   "timestamp": "2021-01-17T16:07:24.000Z"
+  },
+  "maps/src/bm_5th.map": {
+   "bytes": 1368625,
+   "sha256": "41816967779ad7a35aa801bc6065661b058c88dc1ed1a6c040c7036a0bbab855",
+   "timestamp": "2021-01-20T14:18:50.000Z"
+  },
+  "maps/src/bm_chrisholden.map": {
+   "bytes": 4692458,
+   "sha256": "3b678ace3b22a740baf09ca82a94173033526e4ba4ac96dd9aea18beca9a0601",
+   "timestamp": "2021-01-17T23:17:04.000Z"
+  },
+  "maps/src/bm_gnemeth.map": {
+   "bytes": 5251750,
+   "sha256": "09b9fc19f9d7e6e62a977a9d777412a5246766ee4247c8ee32fefb30cafd64c1",
+   "timestamp": "2021-01-18T13:36:08.000Z"
+  },
+  "maps/src/bm_mh.map": {
+   "bytes": 596507,
+   "sha256": "959a543fdfa1d1f327eef2e92786695714e15cf321de09b05ba99cd065c82764",
+   "timestamp": "2021-01-18T19:50:02.000Z"
+  },
+  "maps/src/bm_myki.map": {
+   "bytes": 2929537,
+   "sha256": "02cc5147438c8a8b5e7020313e4709a816e058f268de48b7ebd729a338ee55ab",
+   "timestamp": "2021-01-20T19:23:44.000Z"
+  },
+  "maps/src/bm_pinchy.map": {
+   "bytes": 3944439,
+   "sha256": "a5cf2f145985e6009194fcc3c36095205dcbeeb7dbeb5b2c87a95743b42a6156",
+   "timestamp": "2021-01-20T15:22:14.000Z"
+  },
+  "maps/src/bm_qmaster.map": {
+   "bytes": 2857228,
+   "sha256": "962834fafa53df259a3940eab61027c4ce4d05f5e6c5eff9c9ff88c43fab4eaa",
+   "timestamp": "2021-01-18T14:34:26.000Z"
+  },
+  "maps/src/bm_quasiotter.map": {
+   "bytes": 88703,
+   "sha256": "755b986ab80557ea2b05f1c8c98efdc276aa7f717a65e9f7be5788e97cb6ba02",
+   "timestamp": "2021-01-18T04:44:32.000Z"
+  },
+  "maps/src/bm_raped.jmf": {
+   "bytes": 4168053,
+   "sha256": "356344fa93b4d82eede59592ca2ca80fa5ddf302c6de830336a7827556d36fe7",
+   "timestamp": "2021-01-18T14:05:34.000Z"
+  },
+  "maps/src/bm_raped.map": {
+   "bytes": 1715575,
+   "sha256": "67bed0c3609ce4ff3c7225acc67ed00b0a9d586cc4b5d85f5921ce8a1ed49978",
+   "timestamp": "2021-01-18T14:05:36.000Z"
+  },
+  "maps/src/bm_zigi.map": {
+   "bytes": 763753,
+   "sha256": "6029b95b756e1adf9acfa3c259bc7dd9a6fb9c9d594d8ff3a4cc7a9d15006de1",
+   "timestamp": "2021-01-12T18:47:34.000Z"
+  },
+  "maps/start.bsp": {
+   "bytes": 14315784,
+   "sha256": "c8f1e3f2514773377a07552e9408103677307e6545bb375dbabc50b8007185fc",
+   "timestamp": "2021-01-20T21:29:26.000Z"
+  },
+  "maps/start.lit": {
+   "bytes": 515306,
+   "sha256": "85774c7e911547b7c9f1ded7c148c8884684ea2c83750eefc71d6edfc04b35d5",
+   "timestamp": "2021-01-20T21:29:26.000Z"
+  },
+  "models/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-17T21:42:52.000Z"
+  },
+  "models/glowsphere.mdl": {
+   "bytes": 793764,
+   "sha256": "38a8a7401520718fafa7a3d1fe376c7b105ce7edf2100e0ce2daa264422f21ed",
+   "timestamp": "2020-03-09T10:38:40.000Z"
+  },
+  "models/tree.mdl": {
+   "bytes": 517456,
+   "sha256": "f42ac9a8325945c92c8edb9487565c4139620daa97892e538e9001ac78e6893c",
+   "timestamp": "2021-01-03T19:46:58.000Z"
+  },
+  "models/treeBig.mdl": {
+   "bytes": 517456,
+   "sha256": "4850309b0812d8a9bcc9aebf0244172c22fad1c7b09cb9ed5da0b05897530fa8",
+   "timestamp": "2021-01-03T19:48:48.000Z"
+  },
+  "music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-20T21:15:54.000Z"
+  },
+  "music/Track84.ogg": {
+   "bytes": 2018887,
+   "sha256": "6dc894a88bf70f7b8be97439148017af049a6c9fd90f46c7c32fa3236acebf1a",
+   "timestamp": "2021-01-18T11:53:10.000Z"
+  },
+  "music/track107.ogg": {
+   "bytes": 4288381,
+   "sha256": "959cc98c9b38e6abb8b75d0bd44cd8d40c8381a78da67a68ce8d0c77fbe0a5a4",
+   "timestamp": "2021-01-17T22:43:14.000Z"
+  },
+  "music/track111.mp3": {
+   "bytes": 3056400,
+   "sha256": "9487b7f0c3897a5d0fab6b9a00bc2366268890acf231d4d4317b5073ce689e4e",
+   "timestamp": "2021-01-07T23:52:30.000Z"
+  },
+  "music/track120.mp3": {
+   "bytes": 3839999,
+   "sha256": "0ddc51cbb283439be2cf5e85ea2f576cf0490080d87885de5ece50609f45d325",
+   "timestamp": "2021-01-18T02:36:44.000Z"
+  },
+  "music/track120.ogg": {
+   "bytes": 1679628,
+   "sha256": "63cbddce4dfb8396bfc0b91f18ec54064d8c6a4f7b494238346270e2db2d5667",
+   "timestamp": "2021-01-18T03:15:02.000Z"
+  },
+  "music/track127.ogg": {
+   "bytes": 6766482,
+   "sha256": "a662cfbc00ab539e803c0ab20ae1356b2a24b686c36fd8dc424cf9f4f300e52a",
+   "timestamp": "2021-01-17T20:47:36.000Z"
+  },
+  "music/track47.ogg": {
+   "bytes": 11337158,
+   "sha256": "2f8651b4c9f35ccc01c2966a485520faa19821c5b282cb48df53db56019328b9",
+   "timestamp": "2021-01-18T05:08:16.000Z"
+  },
+  "music/track72.ogg": {
+   "bytes": 3089741,
+   "sha256": "91cb1a5669fb94692a629b116705a215c5717fb1b5dbffcc5a906c1217feeb32",
+   "timestamp": "2020-10-21T03:55:18.000Z"
+  },
+  "music/track78.ogg": {
+   "bytes": 4238887,
+   "sha256": "752c1f96a1e9b1fa4ab745c30e7a27ee31be1db3f65f7ad713368c10fae91d81",
+   "timestamp": "2021-01-09T19:56:10.000Z"
+  },
+  "music/track79.ogg": {
+   "bytes": 1942694,
+   "sha256": "d832a19b30a7aa33089268cb7d2268c4472fb523054ce83ab5f4f18e3adad743",
+   "timestamp": "2021-01-16T17:43:24.000Z"
+  },
+  "music/track87.mp3": {
+   "bytes": 8275978,
+   "sha256": "f08a615f1185e8b732fa3585c1af08e45bb03a4c0d6014f8a6ab957000890279",
+   "timestamp": "2012-04-02T22:06:08.000Z"
+  },
+  "music/track96.mp3": {
+   "bytes": 11598216,
+   "sha256": "d225a7e774d51b241f1825157d698748fe76359b39a5373cc54bb767ca835a79",
+   "timestamp": "2020-12-01T06:26:48.000Z"
+  },
+  "music/track96.ogg": {
+   "bytes": 8579319,
+   "sha256": "5649de4fe72978f9204e97de76f517a4207a11d927286ab1bedaf17cc5b4479c",
+   "timestamp": "2020-12-01T06:28:40.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-16T22:38:28.000Z"
+  },
+  "progs/flamew.mdl": {
+   "bytes": 64572,
+   "sha256": "89a21d93b6837ea07b9440a0eb9782490fbacdba7f677b8e1260c2372c75ed92",
+   "timestamp": "2021-01-16T19:04:42.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-18T20:25:04.000Z"
+  },
+  "sound/ish/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-17T16:20:42.000Z"
+  },
+  "sound/ish/tainmove.aup": {
+   "bytes": 1378,
+   "sha256": "fa3e60207162853173cbe8b34d6359f3bcfa8815ba7f02dadea8162528ea555e",
+   "timestamp": "2021-01-17T10:10:00.000Z"
+  },
+  "sound/ish/tainmove_data/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-17T16:20:42.000Z"
+  },
+  "sound/ish/tainmove_data/e00/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-17T16:20:42.000Z"
+  },
+  "sound/ish/tainmove_data/e00/d00/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-17T16:20:42.000Z"
+  },
+  "sound/ish/tainmove_data/e00/d00/e00000ce.au": {
+   "bytes": 785504,
+   "sha256": "bc4656bdc5f0291c2e36f297b362f6e47dee89df14e35767720e0000c867f2b4",
+   "timestamp": "2021-01-17T10:03:50.000Z"
+  },
+  "sound/ish/tainmove_data/e00/d00/e0000cc7.au": {
+   "bytes": 6944,
+   "sha256": "f3ef9efc7eaaf57f06bd42a30b5afb7f4b69e9733f7bbb9bf4d93b147d825515",
+   "timestamp": "2021-01-17T10:03:24.000Z"
+  },
+  "sound/ish/tmove.wav": {
+   "bytes": 195192,
+   "sha256": "b2008a69326e404ab26723315f4b417f511f19f6fbb75ddb4494dacfd224477a",
+   "timestamp": "2021-01-17T10:25:28.000Z"
+  },
+  "sound/ish/tstop.wav": {
+   "bytes": 57356,
+   "sha256": "51423d5b262cdb1e40a378eac916b1dca59357b0c07afbd3dbf393af4ac28495",
+   "timestamp": "2021-01-17T10:24:18.000Z"
+  },
+  "sound/skree.wav": {
+   "bytes": 193580,
+   "sha256": "017a9d4e800296d41a18ce7e28424eccbf01ac990d326c64e74e86e60d09b8b3",
+   "timestamp": "2021-01-18T20:25:04.000Z"
+  },
+  "source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-18T13:24:32.000Z"
+  },
+  "source/bluemonday_ish.map": {
+   "bytes": 1145555,
+   "sha256": "209b5773918ed98de3ab9b9693cdde1aa7a2f3b674e840a3105f9a45ad3aa22e",
+   "timestamp": "2021-01-17T16:07:24.000Z"
+  },
+  "source/bm_pinchy.map": {
+   "bytes": 3987471,
+   "sha256": "d1b29c19e51c651c9a25a9db2d04b9059448beec952a362856be12908d06e417",
+   "timestamp": "2021-01-18T11:54:26.000Z"
+  },
+  "textures/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-01-18T05:13:28.000Z"
+  },
+  "textures/#water_warm.tga": {
+   "bytes": 16402,
+   "sha256": "b318f0e1813835605698216b383808acf2ff6477885a60faba1283d9c70067cb",
+   "timestamp": "2021-01-17T22:49:46.000Z"
+  },
+  "textures/blu_bulb_01.tga": {
+   "bytes": 3145772,
+   "sha256": "aeea0aa62a64b6dc0d008b79a900adf2b51cc13eca471f9445a7c52ec43caf9b",
+   "timestamp": "2021-01-09T00:26:08.000Z"
+  },
+  "textures/blu_bulb_01b.tga": {
+   "bytes": 3145772,
+   "sha256": "4c486f85412e3260d30770161f86446d3d67f33ab035101fb2ae9c7ff6de60d2",
+   "timestamp": "2021-01-09T01:16:06.000Z"
+  },
+  "textures/blu_entry_01.tga": {
+   "bytes": 3145772,
+   "sha256": "7ae98dfe4e847e0fbd8b263cad2346333e5657afef29482775f25ce248189b96",
+   "timestamp": "2021-01-06T19:10:44.000Z"
+  },
+  "textures/blu_floor_01.tga": {
+   "bytes": 3145772,
+   "sha256": "fe46399f3454ee755ea189bb5a5f5f63fed1edc033f61f86fb319e84b6d1c1fe",
+   "timestamp": "2021-01-06T19:10:44.000Z"
+  },
+  "textures/blu_floor_02.tga": {
+   "bytes": 3145772,
+   "sha256": "e085dea113d32a8b42a4a125d568248e7416327733e2bd2674b0018e5ce0380f",
+   "timestamp": "2021-01-09T00:26:08.000Z"
+  },
+  "textures/blu_portal.tga": {
+   "bytes": 196652,
+   "sha256": "68c15d70e2c0c9472c4b9b9a9402d61cac699f8809e78b5d17124433170d2039",
+   "timestamp": "2021-01-13T22:35:52.000Z"
+  },
+  "textures/blu_wall_01.tga": {
+   "bytes": 3145772,
+   "sha256": "7901fb76ee8b4dbb0b2277db88b526c10d6aba846ea0eb30d526b6d25254d97c",
+   "timestamp": "2021-01-06T19:10:44.000Z"
+  },
+  "textures/blu_wall_02.tga": {
+   "bytes": 3145772,
+   "sha256": "c6ddd74e008a05bdebba2a6a291546a07756250332d0b5e038ae6898041ab651",
+   "timestamp": "2021-01-09T00:26:08.000Z"
+  },
+  "textures/bm_bek.tga": {
+   "bytes": 262162,
+   "sha256": "20e53695e460fd06260391de69f38a0c1f084ecd705addb681f2b84885857a7f",
+   "timestamp": "2021-01-16T02:40:38.000Z"
+  },
+  "textures/bm_cop_pig.tga": {
+   "bytes": 16402,
+   "sha256": "8267c4777ad8b323d4d806ffe98b45334d7330f8f9ce2d0a9be078e3dd62761b",
+   "timestamp": "2021-01-16T02:18:24.000Z"
+  },
+  "textures/bm_icekirby.tga": {
+   "bytes": 3116,
+   "sha256": "fea2ae0dbfddff562aa5da0d54060a31a3a8e5a7a38ee65504215870959b1695",
+   "timestamp": "2021-01-17T05:01:24.000Z"
+  },
+  "textures/bm_maksim_by_marikedrawinge.tga": {
+   "bytes": 43052,
+   "sha256": "58227c625cbc26b83d0c5909e47faa498b346cdfb4850b94450f1dad9c61aa34",
+   "timestamp": "2021-01-16T03:00:22.000Z"
+  },
+  "textures/bm_sebastian.tga": {
+   "bytes": 98348,
+   "sha256": "9c4199228bc7a1ee5c5c23519e921777c79f400333ebf7dd6e05c84051634dae",
+   "timestamp": "2021-01-18T01:00:08.000Z"
+  },
+  "textures/bm_water_warm.tga": {
+   "bytes": 16402,
+   "sha256": "b318f0e1813835605698216b383808acf2ff6477885a60faba1283d9c70067cb",
+   "timestamp": "2021-01-17T22:49:46.000Z"
+  },
+  "what even is a blue monday.txt": {
+   "bytes": 2231,
+   "sha256": "4dfe89b92ce639587dc8139bc48bed1240aceaad13ab5b8843f08c0a6416d0c5",
+   "timestamp": "2021-01-20T21:34:10.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/bluemonday/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "7163676fa0cfbb5e74f3a8d1e829335c660062f67bb78c2cef5235088faee8fd",
+ "tags": [
+  "author=Chris Holden",
+  "author=DragonsForLunch",
+  "author=FifthElephant",
+  "author=Greenwood",
+  "author=Mista Heita",
+  "author=Myki",
+  "author=Pinchy",
+  "author=Qmaster",
+  "author=Quasiotter",
+  "author=Shadesmaster",
+  "author=alex_mmc &amp; Skorly",
+  "author=bmFbr",
+  "author=gnemeth",
+  "author=ish",
+  "author=onetruepurple",
+  "author=zigi",
+  "bsp_format=bsp2",
+  "commandline=-quoth -game bluemonday",
+  "dependency=quoth2pt2full_2",
+  "exceeds_quake_limits=yes",
+  "filename=bluemonday_v2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=62011)",
+  "link=[ModDB](https://www.moddb.com/mods/blue-monday-jam)",
+  "map_size=large",
+  "map_size=medium",
+  "map_size=small",
+  "mod=quoth",
+  "music=custom",
+  "nonspecific_tag=alien",
+  "nonspecific_tag=external textures",
+  "nonspecific_tag=makkon",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=stecki",
+  "nonspecific_tag=textures",
+  "release_date=2021-01-20",
+  "source=included",
+  "startmap=bm_5th",
+  "startmap=bm_bmfbr",
+  "startmap=bm_chrisholden",
+  "startmap=bm_dfl",
+  "startmap=bm_gnemeth",
+  "startmap=bm_greenwood",
+  "startmap=bm_ish",
+  "startmap=bm_mh",
+  "startmap=bm_myki",
+  "startmap=bm_pinchy",
+  "startmap=bm_qmaster",
+  "startmap=bm_quasiotter",
+  "startmap=bm_raped",
+  "startmap=bm_shades",
+  "startmap=bm_zigi",
+  "startmap=start",
+  "theme=base",
+  "theme=blue",
+  "theme=bricks",
+  "theme=ikblue",
+  "theme=metal",
+  "theme=quoth",
+  "title=Blue Monday Jam",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/bluemonday_v2.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/7163676fa0cfbb5e74f3a8d1e829335c660062f67bb78c2cef5235088faee8fd/bluemonday_v2.zip"
+ ]
+}

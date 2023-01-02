@@ -1,47 +1,52 @@
 {
- "filename": [
-  "sm17_pack.zip"
- ],
+ "bytes": 413,
  "files": {
   "sm17_ap.bsp": {
-   "size": 251796,
+   "bytes": 251796,
+   "sha256": "b0e41c391db61497b42694d91bb2306219d82ba97f42c2e54afa4f13a32bf8ac",
    "timestamp": "2001-05-25T21:33:46.000Z"
   },
   "sm17_bear.bsp": {
-   "size": 405012,
+   "bytes": 405012,
+   "sha256": "96083d37a25e7c36ab4dd255dac8e82539bc0641358b4409287adad5c67d144c",
    "timestamp": "2001-05-25T23:14:16.000Z"
   },
   "sm17_pack.txt": {
-   "size": 2167,
+   "bytes": 2167,
+   "sha256": "0a6e04cb92867625b35645ae65518e621d9e223cbe89dcd74a9d9fe75b8f693d",
    "timestamp": "2001-05-28T20:09:46.000Z"
   },
   "sm17_ray.bsp": {
-   "size": 322288,
+   "bytes": 322288,
+   "sha256": "61e128d7cb003ad7ff5b516ffca9e91e3a675d1372e46ecb2f0a0bc254951e76",
    "timestamp": "2001-05-25T16:47:30.000Z"
   },
   "sm17_xenon.bsp": {
-   "size": 190456,
+   "bytes": 190456,
+   "sha256": "33de37c34c810008c4a282bbf64e06806ebe0e99576dec2db4bf0ded9bbdd0cd",
    "timestamp": "2001-05-25T21:53:00.000Z"
   }
  },
- "filesize": 413,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "16f7a4c953643e20da73c94d007050b6d64c07f1c6e994c0c4162e034420b368",
  "tags": [
   "author=Apollo",
   "author=Cybear",
   "author=NororiousRay",
   "author=XeNoN",
+  "filename=sm17_pack.zip",
   "game=quake",
-  "releasedate=2001-05-28",
+  "game_mode=singleplayer",
+  "release_date=2001-05-28",
   "startmap=sm17_ap",
   "startmap=sm17_bear",
   "startmap=sm17_ray",
   "startmap=sm17_xenon",
-  "title=Speedmapping pack 17 - Unthemed"
+  "title=Speedmapping pack 17 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm17_pack.zip",

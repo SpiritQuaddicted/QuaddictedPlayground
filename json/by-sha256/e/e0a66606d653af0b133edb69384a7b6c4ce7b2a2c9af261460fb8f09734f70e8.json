@@ -1,0 +1,104 @@
+{
+ "bytes": 45441,
+ "files": {
+  "cimmerian/cimmerian_readme.txt": {
+   "bytes": 1614,
+   "sha256": "04ea9d0c655fe1e26d45f75a3e176c6b4159efbd63958dcc2ae651f24337ab2e",
+   "timestamp": "2021-09-01T13:31:44.000Z"
+  },
+  "cimmerian/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-09-01T13:59:06.000Z"
+  },
+  "cimmerian/maps/cn1.bsp": {
+   "bytes": 2522800,
+   "sha256": "af59edda12723c18f7c2c171b3ff336593f2ff38ad1e0f15feee1a67d9c6ece5",
+   "timestamp": "2021-08-24T15:17:10.000Z"
+  },
+  "cimmerian/maps/cn1.lit": {
+   "bytes": 428837,
+   "sha256": "de41bc0c38dcaf6166eae178d67b3b35fd9cb4b52485ea48d5901b2e37b067ab",
+   "timestamp": "2021-08-24T15:17:10.000Z"
+  },
+  "cimmerian/maps/cn1.map": {
+   "bytes": 706934,
+   "sha256": "1f242ab70958b158504cdf45e31a70d219f91bef104232525a6837bdd9858ef0",
+   "timestamp": "2021-08-24T15:16:54.000Z"
+  },
+  "cimmerian/maps/cn2.bsp": {
+   "bytes": 2637480,
+   "sha256": "711f61551f60b62af25995d46074825ed746f084f8d2056be5f3dad116d441e2",
+   "timestamp": "2021-08-30T21:43:08.000Z"
+  },
+  "cimmerian/maps/cn2.map": {
+   "bytes": 1357485,
+   "sha256": "992c56a3e6b59008bfe6bb0a1dba3591bafb1e203efabccde800f6c2262813df",
+   "timestamp": "2021-08-30T21:42:46.000Z"
+  },
+  "cimmerian/maps/cn3.bsp": {
+   "bytes": 3463648,
+   "sha256": "8a6da223f3f485764cb5556226ad8e8cc7649f7a3eee8e99ba0bd0fc02c019bc",
+   "timestamp": "2021-09-01T13:57:34.000Z"
+  },
+  "cimmerian/maps/cn3.map": {
+   "bytes": 2920134,
+   "sha256": "c7ca921fd819ad4fd1a8d6e4149805e9369dba235629486e86fc2498600878be",
+   "timestamp": "2021-09-01T13:55:06.000Z"
+  },
+  "cimmerian/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-09-01T13:23:32.000Z"
+  },
+  "cimmerian/music/track156.ogg": {
+   "bytes": 11398570,
+   "sha256": "f4fa201789cbb740a7631e2f9b709eb908ceb4da0717d4f8cca8140d5f5b9490",
+   "timestamp": "2021-03-03T19:54:44.000Z"
+  },
+  "cimmerian/music/track157.ogg": {
+   "bytes": 15914422,
+   "sha256": "ee6f5fa9b8b2e196f258f35150fea0df319496de3949f34524755b29e5839d86",
+   "timestamp": "2021-03-03T19:54:46.000Z"
+  },
+  "cimmerian/music/track158.ogg": {
+   "bytes": 15018219,
+   "sha256": "db3e0eb40e5c81f65b53117100c1cf947033247172e7121e3779cbcee397d2f2",
+   "timestamp": "2021-03-03T19:54:50.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "e0a66606d653af0b133edb69384a7b6c4ce7b2a2c9af261460fb8f09734f70e8",
+ "tags": [
+  "author=Sonnenblume",
+  "commandline=-game cimmerian",
+  "exceeds_quake_limits=yes",
+  "filename=cimmeriannight.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=62093)",
+  "map_size=large",
+  "map_size=medium",
+  "map_size=small",
+  "music=custom",
+  "nonspecific_tag=e4m4",
+  "release_date=2021-09-01",
+  "source=included",
+  "startmap=cn1",
+  "startmap=cn2",
+  "startmap=cn3",
+  "theme=base",
+  "theme=medieval",
+  "theme=wizard",
+  "title=Cimmerian Night",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/cimmeriannight.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e0a66606d653af0b133edb69384a7b6c4ce7b2a2c9af261460fb8f09734f70e8/cimmeriannight.zip"
+ ]
+}

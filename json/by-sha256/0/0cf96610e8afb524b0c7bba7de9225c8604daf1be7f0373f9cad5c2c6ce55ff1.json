@@ -1,31 +1,35 @@
 {
- "filename": [
-  "watertor.zip"
- ],
+ "bytes": 267,
  "files": {
   "watertor.bsp": {
-   "size": 629068,
+   "bytes": 629068,
+   "sha256": "0b809e8ae1efdd078fafa387011126d9984ace2b996d31e2a662bbe173d5ab01",
    "timestamp": "1997-07-10T10:05:22.000Z"
   },
   "watertor.txt": {
-   "size": 2629,
+   "bytes": 2629,
+   "sha256": "f1d761738e8645ce2a6e24c6acf60a06ea5c6cedb25d6db994126b0ee98c1238",
    "timestamp": "1997-07-10T11:38:02.000Z"
   }
  },
- "filesize": 267,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0cf96610e8afb524b0c7bba7de9225c8604daf1be7f0373f9cad5c2c6ce55ff1",
  "tags": [
   "author=Benjamin S. Clower",
+  "filename=watertor.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsv-z.htm)",
-  "releasedate=1997-07-10",
-  "tag=brick",
-  "tag=water",
-  "title=Water Torture"
+  "map_size=small",
+  "release_date=1997-07-10",
+  "theme=brick",
+  "theme=water",
+  "theme=wizard",
+  "title=Water Torture",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/watertor.zip",

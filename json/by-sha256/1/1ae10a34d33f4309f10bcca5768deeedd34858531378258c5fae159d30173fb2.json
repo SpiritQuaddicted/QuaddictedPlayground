@@ -1,0 +1,51 @@
+{
+ "bytes": 610,
+ "files": {
+  "BFM.bsp": {
+   "bytes": 1019620,
+   "sha256": "b73f51b4e001ecf464ae17659361e45414189160e27f90cfba6b15e79f22db63",
+   "timestamp": "2022-11-20T17:24:58.000Z"
+  },
+  "BFM.lit": {
+   "bytes": 367109,
+   "sha256": "6ecc6dd0de556945e402ba9e42d1bde33265f056d4852efe54ca70568b154710",
+   "timestamp": "2022-11-20T17:24:58.000Z"
+  },
+  "BFM.map": {
+   "bytes": 863089,
+   "sha256": "0c6e801e756cd7f77a4387a894858a18a1f8a0032d091bdb536f01d58eb3b4c8",
+   "timestamp": "2022-11-20T17:24:52.000Z"
+  },
+  "BFM.txt": {
+   "bytes": 2121,
+   "sha256": "6e0ba77d65801f7555607212ff365101d6ae3b6b02a11f10baec5acb82b7cd50",
+   "timestamp": "2022-11-20T16:42:38.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "1ae10a34d33f4309f10bcca5768deeedd34858531378258c5fae159d30173fb2",
+ "tags": [
+  "author=Vi3D",
+  "filename=bfmv1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=debut",
+  "nonspecific_tag=vanilla",
+  "release_date=2022-11-20",
+  "source=included",
+  "startmap=BFM",
+  "theme=brick",
+  "theme=id1",
+  "theme=wizard",
+  "title=Babby's First Map",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/bfmv1.zip",
+  "https://www.quaddicted.com/files/by-sha256/1/1ae10a34d33f4309f10bcca5768deeedd34858531378258c5fae159d30173fb2/bfmv1.zip"
+ ]
+}

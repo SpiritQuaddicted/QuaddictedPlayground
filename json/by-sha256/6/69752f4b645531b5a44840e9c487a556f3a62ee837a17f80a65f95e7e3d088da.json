@@ -1,0 +1,87 @@
+{
+ "bytes": 55144,
+ "files": {
+  "aesop_power1.1.txt": {
+   "bytes": 6146,
+   "sha256": "2c51cfba0bff8691da1e8e6b4ca5a4d34475c41e68d22f70073627ec074a7f95",
+   "timestamp": "2022-10-23T14:42:30.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-10-23T10:28:08.000Z"
+  },
+  "gfx/env/sky_day4bk.tga": {
+   "bytes": 4194854,
+   "sha256": "57698e6a36faa9c8dd6396524cddf30ba1bafcdfdbd06b4733024be1a20c5ca7",
+   "timestamp": "2022-05-12T17:16:16.000Z"
+  },
+  "gfx/env/sky_day4ft.tga": {
+   "bytes": 4194854,
+   "sha256": "b7abd14a640f4af6de47e183bd53284778ac8cdf05cdb44b550a8600a50fdb82",
+   "timestamp": "2022-05-12T17:16:22.000Z"
+  },
+  "gfx/env/sky_day4lf.tga": {
+   "bytes": 4194854,
+   "sha256": "2a91f3d28efcc42e6475d6f8fa5b7d70aa0290b076586871d1fefb2ae6fe10ba",
+   "timestamp": "2022-05-12T17:16:24.000Z"
+  },
+  "gfx/env/sky_day4rt.tga": {
+   "bytes": 4194854,
+   "sha256": "a99454a3c8fbca4fbb07957d259710f7e79dd0595c60f14c850f5d1c83874433",
+   "timestamp": "2022-05-12T17:16:26.000Z"
+  },
+  "gfx/env/sky_day4up.tga": {
+   "bytes": 4194854,
+   "sha256": "4d7be60ff3bde403ab983095814c43f8687ad5c7cac830353c1afaf51c6f8945",
+   "timestamp": "2022-05-12T17:16:28.000Z"
+  },
+  "maps/aesop_power.bsp": {
+   "bytes": 88373056,
+   "sha256": "dc1184cdab381c39dd0d8018cf094479291630821ac219706bb54209cc51b1b0",
+   "timestamp": "2022-10-23T14:05:10.000Z"
+  },
+  "maps/aesop_power.lit": {
+   "bytes": 17077616,
+   "sha256": "ece923b0c8f44a2fc865bac0c96de043c539cd6f31a172ab26ca09c7731b0afc",
+   "timestamp": "2022-10-23T14:05:10.000Z"
+  },
+  "music/track33.mp3": {
+   "bytes": 11313109,
+   "sha256": "8397ec6a2a9627ba0191332e9449345d8fa11eb4cbe776fb5f50910f532e743a",
+   "timestamp": "2022-05-20T19:01:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/alk1.1/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "69752f4b645531b5a44840e9c487a556f3a62ee837a17f80a65f95e7e3d088da",
+ "tags": [
+  "author=Aesopolis",
+  "commandline=-game alk1.1",
+  "dependency=alkaline1.1",
+  "exceeds_quake_limits=yes",
+  "filename=aesop_power1.1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/power-structure.132/)",
+  "map_size=large",
+  "music=custom",
+  "nonspecific_tag=alk",
+  "nonspecific_tag=alkaline",
+  "nonspecific_tag=darksouls",
+  "nonspecific_tag=makkon",
+  "release_date=2022-10-23",
+  "startmap=aesop_power",
+  "theme=base",
+  "theme=industrial",
+  "theme=tech",
+  "title=Power Structure v1.1",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/aesop_power1.1.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/69752f4b645531b5a44840e9c487a556f3a62ee837a17f80a65f95e7e3d088da/aesop_power1.1.zip"
+ ]
+}

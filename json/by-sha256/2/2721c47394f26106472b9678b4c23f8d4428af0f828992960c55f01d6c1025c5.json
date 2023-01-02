@@ -1,41 +1,44 @@
 {
- "filename": [
-  "omlabx.zip"
- ],
+ "bytes": 2736,
  "files": {
   "OMLABX.WAD": {
-   "size": 806428,
+   "bytes": 806428,
+   "sha256": "12c82b55b39dd0f19ca0b39b88333004cd459c0accb549b132d2e8c9186daaec",
    "timestamp": "2008-05-18T15:07:34.000Z"
   },
   "omlabx.bsp": {
-   "size": 6014288,
+   "bytes": 6014288,
+   "sha256": "840323b8d1be82cd9d030f8105ab7965a196220086af3c3463cd065926d1e6ce",
    "timestamp": "2008-05-18T14:44:50.000Z"
   },
   "omlabx.txt": {
-   "size": 1780,
+   "bytes": 1780,
+   "sha256": "aa826da344b4c7c3068298b3f82ac484a34f887e5c6a0ea38c3b22bc89918c05",
    "timestamp": "2008-05-18T15:05:16.000Z"
   }
  },
- "filesize": 2736,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "2721c47394f26106472b9678b4c23f8d4428af0f828992960c55f01d6c1025c5",
  "tags": [
   "author=ORL",
+  "exceeds_quake_limits=yes",
+  "filename=omlabx.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080530.html#2ndreview)",
-  "releasedate=2008-05-18",
-  "tag=base",
-  "tag=green",
-  "tag=hard",
-  "tag=huge",
-  "tag=large",
-  "tag=limits",
-  "tag=textures",
-  "tag=traps",
-  "title=Laboratory X"
+  "map_size=huge",
+  "map_size=large",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=textures",
+  "release_date=2008-05-18",
+  "theme=base",
+  "theme=green",
+  "theme=traps",
+  "title=Laboratory X",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/omlabx.zip",

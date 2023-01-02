@@ -1,36 +1,38 @@
 {
- "filename": [
-  "supply.zip"
- ],
+ "bytes": 589,
  "files": {
   "supply.bsp": {
-   "size": 1633928,
+   "bytes": 1633928,
+   "sha256": "93c2373726ba5cbce7e6f1dd6f469769310172b802e6c1960107f52eda6b28d1",
    "timestamp": "1997-03-27T09:18:48.000Z"
   },
   "supply.txt": {
-   "size": 3751,
+   "bytes": 3751,
+   "sha256": "353b452c3579413fc3845650799a00866e251d834b2cfe98398e3c81f037e7b3",
    "timestamp": "1997-03-27T20:03:54.000Z"
   }
  },
- "filesize": 589,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8f43a9c93753f996036964d4634944036d824cc1227abf3ff3b74e00d78914dc",
  "tags": [
   "author=Darren (Rex_Noctu) Johnson",
+  "filename=supply.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelss.htm)",
-  "releasedate=1997-03-27",
-  "tag=base",
-  "tag=crates",
-  "tag=dark",
-  "tag=dm",
-  "tag=maze",
-  "tag=medium",
-  "tag=outdoor",
-  "title=Supply Base"
+  "map_layout=maze",
+  "map_size=medium",
+  "nonspecific_tag=dark",
+  "release_date=1997-03-27",
+  "theme=base",
+  "theme=crates",
+  "theme=outdoor",
+  "title=Supply Base",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/supply.zip",

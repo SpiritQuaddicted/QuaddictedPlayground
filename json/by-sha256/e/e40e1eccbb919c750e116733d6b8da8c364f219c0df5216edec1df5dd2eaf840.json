@@ -1,36 +1,38 @@
 {
- "filename": [
-  "disturb.zip"
- ],
+ "bytes": 423,
  "files": {
   "DISTURB.TXT": {
-   "size": 3342,
+   "bytes": 3342,
+   "sha256": "f70e641e61d60ae45dc9674efbd548b3212eeed20772dfca97ab84dd68adaf3e",
    "timestamp": "1997-03-22T12:21:56.000Z"
   },
   "disturb.bsp": {
-   "size": 975252,
+   "bytes": 975252,
+   "sha256": "45080fa5cf3ed3682dbf5de00753b8dcc3771caa3c21e949ad7c83c939c45e57",
    "timestamp": "1997-03-20T21:23:40.000Z"
   }
  },
- "filesize": 423,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e40e1eccbb919c750e116733d6b8da8c364f219c0df5216edec1df5dd2eaf840",
  "tags": [
   "author=marty",
+  "filename=disturb.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd1.htm#disturb)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/d_f.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1997-03-22",
-  "tag=dm",
-  "tag=lava",
-  "tag=metal",
-  "tag=runic",
-  "tag=small",
-  "title=The Disturbed"
+  "map_size=small",
+  "release_date=1997-03-22",
+  "theme=lava",
+  "theme=metal",
+  "theme=runic",
+  "title=The Disturbed",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/disturb.zip",

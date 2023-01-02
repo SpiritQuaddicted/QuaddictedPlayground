@@ -1,0 +1,157 @@
+{
+ "bytes": 6565,
+ "files": {
+  "pak0.pak": {
+   "bytes": 18477212,
+   "files": {
+    "gfx/env/deubk.tga": {
+     "bytes": 786450,
+     "sha256": "0777779dd36dcaf44a180b8ddf6135c562fb25ebb1707616cab2247e78416cc8"
+    },
+    "gfx/env/deudn.tga": {
+     "bytes": 786450,
+     "sha256": "3464ada3df673379f46cf31b889b076a52dcd079f4993a0a12c0f7a3a21c2331"
+    },
+    "gfx/env/deuft.tga": {
+     "bytes": 786450,
+     "sha256": "f95219e9bbdd25c339c5dbb8f3bb927c8f379987c0276474826eed4dde4b5d8a"
+    },
+    "gfx/env/deulf.tga": {
+     "bytes": 786450,
+     "sha256": "f24b7a01b3ecd3cd0011b5d6ac9112ce721bc899fa26242b501a8f83390d49e4"
+    },
+    "gfx/env/deurt.tga": {
+     "bytes": 786450,
+     "sha256": "55652278a6b55df50cbdc0b56e8c27e1d3842557efd06db5921d6fdb235ddd6c"
+    },
+    "gfx/env/deuup.tga": {
+     "bytes": 786450,
+     "sha256": "9c7b8e56b652a3f2ccb582d40d1f65c11a54d5a3d1af385873603ee419b15025"
+    },
+    "maps/gorge858.map": {
+     "bytes": 1479898,
+     "sha256": "ecd70046723294ab1bd6221a6d3c7f0e926faa3c9aceaa0a2d26a222d0d5fa45"
+    },
+    "maps/q1gorge.bsp": {
+     "bytes": 8574960,
+     "sha256": "258cd15a632e9970fa7e04b5fff9127a6774dd46f558c72f35a2d79d895d66ab"
+    },
+    "maps/q1gorge.lit": {
+     "bytes": 1666316,
+     "sha256": "0342a7778ed4d3e2eb7e93347b754aa9808c661004859f3a644cbc455e0f119a"
+    },
+    "progs.dat": {
+     "bytes": 352766,
+     "sha256": "901d1d8c731848de356f9cfc3803fc9e9aa08531bec944454f6e802f48d02bfd"
+    },
+    "progs.lno": {
+     "bytes": 85896,
+     "sha256": "e99e08c54baf22ce044fca543869241240af062eb4dfc879b89196fd7203c4ba"
+    },
+    "progs/bubel.mdl": {
+     "bytes": 109235,
+     "sha256": "f9c9842956ca54e1067a2a476b21454d516910986aa63f722768bb0082ad1c57"
+    },
+    "progs/misin.mdl": {
+     "bytes": 429764,
+     "sha256": "77db69edafd2918d6338c372caa6a1ecb4129a6654a49758f171151dd4299868"
+    },
+    "progs/tree3.mdl": {
+     "bytes": 137832,
+     "sha256": "7d8742450d22cafdf685b948314c5fa7d456b9a624406d2fa8022dfa8aad702e"
+    },
+    "progs/tree4.mdl": {
+     "bytes": 87908,
+     "sha256": "033354ad919b04c37398a57d10fb74ae73cabef8b9f0c0ebf7b836047aee03f3"
+    },
+    "progs/tree6.mdl": {
+     "bytes": 157084,
+     "sha256": "55cfce4e704e93e3a285822e2b0d33869cfbc07fda5d09789941cb3307b64536"
+    },
+    "progs/tubel.mdl": {
+     "bytes": 170397,
+     "sha256": "1d6d047e651b2ebd7e00b13d73dd5be446b360e1a5e1b8796ba496d250b60488"
+    },
+    "progs/wubel.mdl": {
+     "bytes": 158740,
+     "sha256": "b2f0a27ae49a7eebbbdc4f5d9d09d97b477f2d3fa42fe1163431e4fc4a38bf79"
+    },
+    "q1gorge.txt": {
+     "bytes": 1784,
+     "sha256": "18dda74c71636194cd08ced0d1c4ac907fbe5bb27ec55004e3c70ddf7e0b0e08"
+    },
+    "qcc/q1gorge_qcc.zip": {
+     "bytes": 146156,
+     "sha256": "1bcab653a9b3e55c77640f75f1740547ff67bd90d11664fe2441e4fd0366c2c2"
+    },
+    "sound/equake/rumble.wav": {
+     "bytes": 53068,
+     "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a"
+    },
+    "sound/sin/atk.wav": {
+     "bytes": 17176,
+     "sha256": "1f316bfedf73c322e6251397606234d8b48ac7aedb40bb60f45563d179856665"
+    },
+    "sound/sin/death.wav": {
+     "bytes": 32854,
+     "sha256": "f666cdc6766f7636a5c85dd63e68dd6fa573efd54869c5cc0f57dd1a8e9fc31f"
+    },
+    "sound/sin/death1.wav": {
+     "bytes": 9121,
+     "sha256": "cf30e73392c6cf504e890b5f2a11ce1de74c2480248fe5d59f869541dfaa537b"
+    },
+    "sound/sin/iksfire.wav": {
+     "bytes": 14212,
+     "sha256": "8b12d997a1f15e6a580337ba632b10979eac6d6880069d16af67bddb507c5ad3"
+    },
+    "sound/sin/pain1.wav": {
+     "bytes": 21452,
+     "sha256": "7b76a34d9ef74c01fb8961db5fb862ff3497ac706073185c7af51f47c8839b9c"
+    },
+    "sound/sin/pain2.wav": {
+     "bytes": 29306,
+     "sha256": "d651c83af105244da1e89cd307ed0473b1e881f71b8d86a07969dfcb59767c41"
+    },
+    "sound/sin/pain3.wav": {
+     "bytes": 20754,
+     "sha256": "53c7ec0de897d95874e46f6d694d9969f85f1ce1c09c91257ada0b35508340f4"
+    }
+   },
+   "sha256": "36d3c47ddd5a2848496a6f0787f98dcb08be46bbbfb764d80b76e142b66f8319",
+   "timestamp": "2022-08-02T22:03:12.000Z"
+  },
+  "q1gorge.txt": {
+   "bytes": 1937,
+   "sha256": "d20a1a8144a4f29f24b8fe13a25e431a68db244648abe8841d91d1b7f9ee33e8",
+   "timestamp": "2022-08-02T23:02:44.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/q1gorge/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "dd700f32518fc592a9f47d022d4b939d5fef17f1b400b33ee77041a7a0ffe007",
+ "tags": [
+  "author=Madfox",
+  "commandline=-game q1gorge",
+  "exceeds_quake_limits=yes",
+  "filename=q1gorge.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=https://home.kpn.nl/lo2kf8/quake/gorge/the_gorge.html",
+  "link=[Download via author](http://home.kpn.nl/lo2kf8/quake/gorge/q1gorge.zip)",
+  "link=[More screenshots](https://home.kpn.nl/lo2kf8/quake/gorge/the_gorge.html)",
+  "map_size=large",
+  "nonspecific_tag=sin",
+  "release_date=2022-07-30",
+  "startmap=q1gorge",
+  "theme=base",
+  "theme=cave",
+  "title=The Gorge",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/q1gorge.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dd700f32518fc592a9f47d022d4b939d5fef17f1b400b33ee77041a7a0ffe007/q1gorge.zip"
+ ]
+}

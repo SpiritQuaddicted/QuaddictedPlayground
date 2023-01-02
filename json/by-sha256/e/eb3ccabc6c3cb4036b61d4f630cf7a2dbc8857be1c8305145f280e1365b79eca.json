@@ -1,44 +1,48 @@
 {
- "filename": [
-  "limbo2.zip"
- ],
+ "bytes": 1301,
  "files": {
   "limbo2.bsp": {
-   "size": 1849592,
+   "bytes": 1849592,
+   "sha256": "2683321509606620db34fcb76f07364f421bdc827786d67242d5c5101a1c1d02",
    "timestamp": "2017-07-16T16:35:54.000Z"
   },
   "limbo2.jmf": {
-   "size": 3702900,
+   "bytes": 3702900,
+   "sha256": "8876516a7845e2cdac72f297140aeeb1a7e086c2691af49017286626aa4914b9",
    "timestamp": "2017-07-16T16:35:46.000Z"
   },
   "limbo2.map": {
-   "size": 1407484,
+   "bytes": 1407484,
+   "sha256": "1d62fe63657b3a42742585942fcc9ce3bb4b1807538caa2d485ac3ff71872642",
    "timestamp": "2017-07-16T16:35:46.000Z"
   },
   "limbo2.txt": {
-   "size": 2508,
+   "bytes": 2508,
+   "sha256": "d8264e0979e8fd908f3d96b438d4c543ceabe8e02d9c730ef9c5c337ccc5fa26",
    "timestamp": "2017-07-16T16:45:18.000Z"
   }
  },
- "filesize": 1301,
  "install": {
-  "extract": "{quake}/hipnotic/maps/"
+  "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "eb3ccabc6c3cb4036b61d4f630cf7a2dbc8857be1c8305145f280e1365b79eca",
  "tags": [
   "author=Qmaster",
   "commandline=-hipnotic",
   "dependency=hipnotic",
+  "filename=limbo2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61479)",
-  "releasedate=2017-07-16",
-  "tag=hipnotic",
-  "tag=medium",
-  "tag=metal",
-  "tag=soa",
-  "tag=source",
-  "title=Return to Limbo - I"
+  "map_size=medium",
+  "release_date=2017-07-16",
+  "source=included",
+  "theme=dissolution of eternity",
+  "theme=metal",
+  "theme=scourge of armagon",
+  "title=Return to Limbo - I",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/limbo2.zip",

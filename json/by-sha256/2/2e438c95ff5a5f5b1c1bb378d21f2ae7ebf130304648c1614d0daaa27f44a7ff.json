@@ -1,35 +1,37 @@
 {
- "filename": [
-  "my_level.zip"
- ],
+ "bytes": 1879,
  "files": {
   "BASE1.dem": {
-   "size": 2382350,
+   "bytes": 2382350,
+   "sha256": "388fa9cb95bc52f632b696ea6fa9c5092b4446406a32b875337132a1af9778f7",
    "timestamp": "1998-03-06T20:41:30.000Z"
   },
   "base.bsp": {
-   "size": 3714648,
+   "bytes": 3714648,
+   "sha256": "108a86598fafe9c5c36e2848c9747cbbaf93df780d72669138a32260c82d7cfd",
    "timestamp": "1998-03-04T11:01:58.000Z"
   }
  },
- "filesize": 1879,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "2e438c95ff5a5f5b1c1bb378d21f2ae7ebf130304648c1614d0daaa27f44a7ff",
  "tags": [
   "author=Denis Gusakov",
+  "filename=my_level.zip",
   "game=quake",
-  "releasedate=1998-05-21",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "nonspecific_tag=mech",
+  "nonspecific_tag=submarine",
+  "release_date=1998-05-21",
   "startmap=base",
-  "tag=base",
-  "tag=crates",
-  "tag=large",
-  "tag=mech",
-  "tag=realism",
-  "tag=submarine",
-  "title=Lost Underground Base"
+  "theme=base",
+  "theme=crates",
+  "theme=realism",
+  "title=Lost Underground Base",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/my_level.zip",

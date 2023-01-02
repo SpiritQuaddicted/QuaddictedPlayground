@@ -1,33 +1,35 @@
 {
- "filename": [
-  "mission.zip"
- ],
+ "bytes": 589,
  "files": {
   "mission.bsp": {
-   "size": 1383320,
+   "bytes": 1383320,
+   "sha256": "00d6cdab846dde97c4c820abeac5bee1b94a67a5ab529e7455def4276a46f964",
    "timestamp": "1996-12-20T01:23:34.000Z"
   },
   "mission.txt": {
-   "size": 4314,
+   "bytes": 4314,
+   "sha256": "c76fcac2bcfbc0614cf3195898d9d152f467adcbce79ab8dcc98b4f0024fd303",
    "timestamp": "1996-12-20T03:31:10.000Z"
   }
  },
- "filesize": 589,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "2ebde0df61ad72b2f4a6f563e7243f15d5d10ec3952bfa56106dea777c50ba68",
  "tags": [
-  "author=Jamis Eichenauer",
+  "author=(Hidden)",
+  "filename=mission.zip",
   "game=quake",
-  "releasedate=1996-12-20",
-  "tag=base",
-  "tag=cave",
-  "tag=dm",
-  "tag=mixtex",
-  "tag=small",
-  "title=MiSsIoN: ImPosSiBlE"
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1996-12-20",
+  "theme=base",
+  "theme=cave",
+  "theme=mixtex",
+  "title=MiSsIoN: ImPosSiBlE",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mission.zip",

@@ -1,0 +1,63 @@
+{
+ "bytes": 1349,
+ "files": {
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-30T02:19:54.000Z"
+  },
+  "maps/vfe1m1.bsp": {
+   "bytes": 2618644,
+   "sha256": "1011b1880a2157138b39dd5d0322cb65aa795db0b1320c3ebd087104eb25b973",
+   "timestamp": "2020-01-30T05:46:56.000Z"
+  },
+  "maps/vfe1m1.lit": {
+   "bytes": 541886,
+   "sha256": "e0377208abb77bd0e25cad556549aa31b4e701c113698a48643318dfae441163",
+   "timestamp": "2020-01-30T05:46:56.000Z"
+  },
+  "readme.txt": {
+   "bytes": 1379,
+   "sha256": "66646a435e5b68ad85dd4c51a15242f95ec39b16e11b3acf1d064436044eed55",
+   "timestamp": "2020-01-30T02:43:52.000Z"
+  },
+  "src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-30T21:52:16.000Z"
+  },
+  "src/vfe1m1.map": {
+   "bytes": 1253909,
+   "sha256": "3b73eee860143188c074e92f8cc514b55e5586d9ef28d8b13939a443ee9a4a34",
+   "timestamp": "2020-01-30T05:55:58.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "d5204ca4d97a1fdc80d32bd1087492e3be8a84d45bdf87f928d7a420e54dd01d",
+ "tags": [
+  "author=Markie Music",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "dependency=ad_v1_70patch1",
+  "filename=vfe1m1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61833)",
+  "map_size=small",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "release_date=2020-01-30",
+  "source=included",
+  "theme=arcane dimensions",
+  "theme=base",
+  "theme=remake",
+  "title=The Containment Centre"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/vfe1m1.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/d5204ca4d97a1fdc80d32bd1087492e3be8a84d45bdf87f928d7a420e54dd01d/vfe1m1.zip"
+ ]
+}

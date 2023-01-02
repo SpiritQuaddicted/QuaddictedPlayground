@@ -1,35 +1,37 @@
 {
- "filename": [
-  "tol.zip"
- ],
+ "bytes": 254,
  "files": {
   "TOL.BSP": {
-   "size": 626060,
+   "bytes": 626060,
+   "sha256": "8930806b66d74cff3f6fe27463732f968b2648e97e69c367476891275cdb04fc",
    "timestamp": "1997-07-02T16:32:46.000Z"
   },
   "TOL.TXT": {
-   "size": 2156,
+   "bytes": 2156,
+   "sha256": "2d3564057b7a4be4a591c00f73b8f1ab1ea769e4189f669885f172b2968cc54e",
    "timestamp": "1997-07-02T16:41:32.000Z"
   }
  },
- "filesize": 254,
  "install": {
-  "extract": "{quake}/hipnotic/maps/"
+  "extract": "{base}/hipnotic/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb",
  "tags": [
   "author=John Parr",
   "commandline=-hipnotic",
   "dependency=hipnotic",
+  "filename=tol.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelst.htm)",
-  "releasedate=1997-06-03",
-  "tag=hipnotic",
-  "tag=small",
-  "tag=soa",
-  "tag=stone",
-  "title=Temple of Lightning"
+  "map_size=small",
+  "release_date=1997-06-03",
+  "theme=dissolution of eternity",
+  "theme=scourge of armagon",
+  "theme=stone",
+  "title=Temple of Lightning",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tol.zip",

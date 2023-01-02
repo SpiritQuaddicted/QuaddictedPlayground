@@ -1,35 +1,37 @@
 {
- "filename": [
-  "harmsway.zip"
- ],
+ "bytes": 886,
  "files": {
   "harmsway.bsp": {
-   "size": 2136848,
+   "bytes": 2136848,
+   "sha256": "abc1888a395a6d4ad726c224615bd5beaacf8345adca730b8ea49d32f8e1d3b7",
    "timestamp": "1997-10-18T21:44:36.000Z"
   },
   "harmsway.txt": {
-   "size": 9482,
+   "bytes": 9482,
+   "sha256": "cf44d461d99946228a443b56f731d53c2da53aee2aa26cc40a6389f12e43506f",
    "timestamp": "1997-10-20T09:33:20.000Z"
   }
  },
- "filesize": 886,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "869ef02f0fc0a26f3d0cb06324b6453016b94d58ed3a8a5e00213c29350be59b",
  "tags": [
   "author=Brian Morgan (Duley)",
+  "filename=harmsway.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/llevl.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-10-20",
-  "tag=base",
-  "tag=medium",
-  "tag=planetquake-map-of-the-week",
-  "title=Harm's Way"
+  "map_size=medium",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-10-20",
+  "theme=base",
+  "title=Harm's Way",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/harmsway.zip",

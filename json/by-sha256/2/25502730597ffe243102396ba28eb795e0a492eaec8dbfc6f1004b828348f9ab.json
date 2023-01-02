@@ -1,32 +1,35 @@
 {
- "filename": [
-  "qkfort.zip"
- ],
+ "bytes": 572,
  "files": {
   "qkfort.bsp": {
-   "size": 1459044,
+   "bytes": 1459044,
+   "sha256": "77d553efd3cdddf7ffc6b0bd0ba23fd60b96493be71719c3e3056066c7f16d06",
    "timestamp": "1998-07-23T12:42:06.000Z"
   },
   "qkfort.txt": {
-   "size": 2046,
+   "bytes": 2046,
+   "sha256": "64fbb729682d7e25946e6843992d5e1f43cd46b3cf2805faaa164fac90c516eb",
    "timestamp": "2000-01-13T18:48:46.000Z"
   }
  },
- "filesize": 572,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "25502730597ffe243102396ba28eb795e0a492eaec8dbfc6f1004b828348f9ab",
  "tags": [
   "author=DAV",
+  "filename=qkfort.zip",
   "game=quake",
-  "releasedate=1998-07-23",
-  "tag=base",
-  "tag=medium",
-  "tag=realism",
-  "tag=wizard",
-  "title=Fortress"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.planetquake.com/davlevels/",
+  "map_size=medium",
+  "release_date=1998-07-23",
+  "theme=base",
+  "theme=realism",
+  "theme=wizard",
+  "title=Fortress",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkfort.zip",

@@ -1,0 +1,85 @@
+{
+ "bytes": 5611,
+ "files": {
+  "gfx/env/mars_bk.tga": {
+   "bytes": 786450,
+   "sha256": "c89b8882101cea7dce890e1afb75048ce6f525de3d05e8edffee264c894b14c0",
+   "timestamp": "2000-08-01T00:45:16.000Z"
+  },
+  "gfx/env/mars_dn.tga": {
+   "bytes": 786450,
+   "sha256": "79be864fb91098e7e162938b56608557e4767852ee1a0c7212f58714242137c0",
+   "timestamp": "2000-08-01T00:45:18.000Z"
+  },
+  "gfx/env/mars_ft.tga": {
+   "bytes": 786450,
+   "sha256": "d328319bc92b57cb74934dc6ec29c773994603ada8c0d7663407c0539f53a516",
+   "timestamp": "2000-08-01T00:45:16.000Z"
+  },
+  "gfx/env/mars_lf.tga": {
+   "bytes": 786450,
+   "sha256": "81e0331ef5883d70ba9588cee8f52e0984b6a403491242ba4268e207e86d74cb",
+   "timestamp": "2000-08-01T00:45:16.000Z"
+  },
+  "gfx/env/mars_rt.tga": {
+   "bytes": 786450,
+   "sha256": "11ed1e93813b4faf407631709e257c3a551ab868e37aca9ab34ba6e4b81f32db",
+   "timestamp": "2000-08-01T00:45:16.000Z"
+  },
+  "gfx/env/mars_up.tga": {
+   "bytes": 786450,
+   "sha256": "6c50889b41d1760827c2871952fa9944c99499c1d9a9f6ba735cea5ef5f89087",
+   "timestamp": "2000-08-01T00:45:16.000Z"
+  },
+  "maps/mhsp01.bsp": {
+   "bytes": 6151716,
+   "sha256": "60d9d23eba4e722d0e0297cd21d2800e244d27fa7b669ab967308f57673aa7de",
+   "timestamp": "2020-08-30T03:55:46.000Z"
+  },
+  "maps/mhsp01.lit": {
+   "bytes": 1921544,
+   "sha256": "c8f861f6dd7d66435de218a488daa0c34f4f62b9bf8e61a66400a11825acaa72",
+   "timestamp": "2020-08-30T03:55:44.000Z"
+  },
+  "mhsp01_readme.txt": {
+   "bytes": 1794,
+   "sha256": "140318fb073d7eb88f1538e0dda65fdfcadf15510df606f836c69f6e061d92c9",
+   "timestamp": "2020-08-30T05:16:44.000Z"
+  },
+  "source/mhsp01.map": {
+   "bytes": 3370156,
+   "sha256": "9990a3abfa774e8e5b5a03bccb07ff9bd53f8b6d9687992dfd43484a53a2e559",
+   "timestamp": "2020-08-30T03:55:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "4d1307c8d2d97d7f0734412cef329f5e36c74c85837a2f3aae274aa7240f6d16",
+ "tags": [
+  "author=Mista Heita",
+  "commandline=-game quoth -quoth",
+  "dependency=quoth2pt2full_2",
+  "exceeds_quake_limits=yes",
+  "filename=mhsp01.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61940)",
+  "map_size=medium",
+  "mod=quoth",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=textures",
+  "release_date=2020-08-30",
+  "source=included",
+  "theme=base",
+  "theme=orange",
+  "theme=quoth",
+  "title=Blood Colored Rust",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/mhsp01.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/4d1307c8d2d97d7f0734412cef329f5e36c74c85837a2f3aae274aa7240f6d16/mhsp01.zip"
+ ]
+}

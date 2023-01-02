@@ -1,0 +1,78 @@
+{
+ "bytes": 10647,
+ "files": {
+  "ad_candles.txt": {
+   "bytes": 3023,
+   "sha256": "ebb5cd9cdd184a1aded2847bd3de84a68fbb9b0c2863eec1cd7180374987c4ad",
+   "timestamp": "2020-10-31T10:46:40.000Z"
+  },
+  "maps/ad_candles.bsp": {
+   "bytes": 17313768,
+   "sha256": "7d4a961430290b555c918e5ae69cac0d11472e0ff4e74e1637644b7faf0b4f2c",
+   "timestamp": "2020-10-31T10:21:14.000Z"
+  },
+  "maps/ad_candles.lit": {
+   "bytes": 2791094,
+   "sha256": "b1995eed93dbfad337eb3558f446f32895c6372e941282462647cd4dfd8c6be7",
+   "timestamp": "2020-10-31T10:21:14.000Z"
+  },
+  "progs/bats.mdl": {
+   "bytes": 280372,
+   "sha256": "dd18b3f13ea8aca31406f8aa67dadf69a9b9056eec5f624e41bd8b7116e752f9",
+   "timestamp": "2019-10-02T14:35:12.000Z"
+  },
+  "sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-23T22:55:58.000Z"
+  },
+  "sound/ambience/baby1b_22k.wav": {
+   "bytes": 1573824,
+   "sha256": "a7e23bae2b5bb68211f68c792c0ff62aa4abb45a44d6899835e48c5cf753d115",
+   "timestamp": "2019-07-14T15:22:10.000Z"
+  },
+  "sound/ambience/baby2a_22k.wav": {
+   "bytes": 1134876,
+   "sha256": "9450e3a06134e1bd665650602cf91a797babd3952d9cfa066ee8458d20f05f2e",
+   "timestamp": "2019-07-14T15:22:10.000Z"
+  },
+  "sound/ambience/bell.wav": {
+   "bytes": 479030,
+   "sha256": "c0b40d51c986dfe06b997e09f84d382ff148eeb5a4c57101b6236b84f741e252",
+   "timestamp": "2019-10-20T22:15:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "5b3bff1ea764b2239521c8a6bb3382620ee6c8ebe12264ab11b44ffd54bd2c72",
+ "tags": [
+  "author=Comrade Beep",
+  "bsp_format=bsp2",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "exceeds_quake_limits=yes",
+  "filename=ad_candles.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=e1m2",
+  "nonspecific_tag=medieum",
+  "nonspecific_tag=models",
+  "nonspecific_tag=sounds",
+  "release_date=2020-10-31",
+  "theme=arcane dimensions",
+  "theme=medieval",
+  "theme=remake",
+  "theme=remix",
+  "title=Candles of the Damned",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_candles.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5b3bff1ea764b2239521c8a6bb3382620ee6c8ebe12264ab11b44ffd54bd2c72/ad_candles.zip"
+ ]
+}

@@ -1,29 +1,33 @@
 {
- "filename": [
-  "icbm.zip"
- ],
+ "bytes": 644,
  "files": {
   "icbm.bsp": {
-   "size": 1533840,
+   "bytes": 1533840,
+   "sha256": "b4aaca751c6d1a8ee72cf857778cad52f0a681863cc55618ec592551864672e7",
    "timestamp": "1997-05-25T15:48:10.000Z"
   }
  },
- "filesize": 644,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "5b0e769752b2d2ef2a25561bf666855912bb6a0d9eadbf153d2c5daf6ce481ed",
  "tags": [
   "author=Timothy R. Jervis",
+  "filename=icbm.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsi.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1997-05-25",
-  "tag=base",
-  "tag=rocket",
-  "tag=small",
-  "title=The Abandoned Silo"
+  "map_size=small",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=rocket",
+  "release_date=1997-05-25",
+  "theme=base",
+  "theme=realism",
+  "title=The Abandoned Silo",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/icbm.zip",

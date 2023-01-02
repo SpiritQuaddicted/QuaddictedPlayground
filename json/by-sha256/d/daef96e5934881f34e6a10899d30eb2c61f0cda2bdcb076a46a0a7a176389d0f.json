@@ -1,54 +1,63 @@
 {
- "filename": [
-  "e1m5quotha.zip"
- ],
+ "bytes": 1987,
  "files": {
   "e1m5quoth_crystal.bsp": {
-   "size": 49084,
+   "bytes": 49084,
+   "sha256": "d7185f398ee88a78e1bb9aefe2277209f2896b6948295e15138f899859d89c52",
    "timestamp": "2012-06-15T01:55:06.000Z"
   },
   "e1m5quoth_plat.bsp": {
-   "size": 48728,
+   "bytes": 48728,
+   "sha256": "87adda25c305c95b06dbfee955fee5192d2f0477e8b9501b3898064849e00423",
    "timestamp": "2012-06-15T01:56:18.000Z"
   },
   "e1m5quoth_pusher.bsp": {
-   "size": 47044,
+   "bytes": 47044,
+   "sha256": "1c4d9afbd67ed808e0bf3d2432e33e5fc409037a8170a586a3ab88cf4c04d16e",
    "timestamp": "2008-06-19T17:30:30.000Z"
   },
   "e1m5quoth_skewer.bsp": {
-   "size": 49124,
+   "bytes": 49124,
+   "sha256": "6693f66e252cb4459b18ba1f5e594d2ddfa8fff1baa9682a5f250a15de7a3655",
    "timestamp": "2008-06-19T17:00:22.000Z"
   },
   "e1m5quotha.bsp": {
-   "size": 5060868,
+   "bytes": 5060868,
+   "sha256": "057a3ade4c7e01db02471b72c67738216394f51a8fa63be5b80c9eada72d255b",
    "timestamp": "2012-06-15T23:44:16.000Z"
   },
   "e1m5quotha.txt": {
-   "size": 2418,
+   "bytes": 2418,
+   "sha256": "59b7104ef0355d87216602fcc6a9f31c7f8cbf5b6af62bd12b116b714e067cc1",
    "timestamp": "2012-06-16T00:04:40.000Z"
   }
  },
- "filesize": 1987,
  "install": {
-  "extract": "{quake}/quoth/maps/"
+  "extract": "{base}/quoth/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "daef96e5934881f34e6a10899d30eb2c61f0cda2bdcb076a46a0a7a176389d0f",
  "tags": [
   "author=Kell",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "filename=e1m5quotha.zip",
   "game=quake",
-  "releasedate=2012-06-16",
-  "tag=e1m5",
-  "tag=knave",
-  "tag=medium",
-  "tag=quoth",
-  "tag=remake",
-  "tag=remix",
-  "tag=secrets",
-  "tag=super secret",
-  "title=Gloomier Keep"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "mod=quoth",
+  "nonspecific_tag=atmospheric",
+  "nonspecific_tag=e1m5",
+  "nonspecific_tag=moody",
+  "release_date=2012-06-16",
+  "theme=knave",
+  "theme=quoth",
+  "theme=remake",
+  "theme=remix",
+  "theme=secrets",
+  "theme=super secret",
+  "title=Gloomier Keep",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e1m5quotha.zip",

@@ -1,0 +1,275 @@
+{
+ "bytes": 11267,
+ "files": {
+  "q25limit/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-06-23T08:18:02.000Z"
+  },
+  "q25limit/pak0.pak": {
+   "bytes": 38694238,
+   "files": {
+    "maps/q25l4lt.bsp": {
+     "bytes": 1218968,
+     "sha256": "47e8ea4182df6a150ee2ec5860ce2c712d09618794dcfb502cecf673c7fa201b"
+    },
+    "maps/q25lboxf.bsp": {
+     "bytes": 1063220,
+     "sha256": "d2379763e10660ae5c48517b4e4810afc9763776184f1487967c443c1be14ca0"
+    },
+    "maps/q25ldfl.bsp": {
+     "bytes": 1446148,
+     "sha256": "e8138d125e21cb422686d3b07716aafd1d67068ab037127c2fd0676fd25d9973"
+    },
+    "maps/q25ldoom.bsp": {
+     "bytes": 1492380,
+     "sha256": "5f8157da6ad080a1808ad02093029bba2ccd1f9f4a99b3977ee0b2c97a598ec5"
+    },
+    "maps/q25lgree.bsp": {
+     "bytes": 1387788,
+     "sha256": "a2e711323a915890814d355ab4c9f85b1b32ed768e0dbcb997616a736c86dee5"
+    },
+    "maps/q25lgrue.bsp": {
+     "bytes": 1520752,
+     "sha256": "951a33ccd8666545ac452ef710eb011edf18027b594d51ed1ff8ae19c4361e73"
+    },
+    "maps/q25lil8r.bsp": {
+     "bytes": 1352228,
+     "sha256": "58d4eb3dc5c8baaab615ed0831f5c13ffbcd1f1f88c71c49e859c3c315030d6e"
+    },
+    "maps/q25ljcr.bsp": {
+     "bytes": 1368456,
+     "sha256": "f30a340303d1a10f87a1d05231c418db48f068162d54e55f8ef40eb134a85715"
+    },
+    "maps/q25ljcr2.bsp": {
+     "bytes": 1435904,
+     "sha256": "dd88e6dad254579ac014ca651e25d67d47429b6e2c7d7a7b47f01eab4403c956"
+    },
+    "maps/q25lkoni.bsp": {
+     "bytes": 1061716,
+     "sha256": "73475c5df1da8b6b82a6435d91416bb1200909c88868a4145dde906ab099ed3b"
+    },
+    "maps/q25lmark.bsp": {
+     "bytes": 1521816,
+     "sha256": "f4be08c23947eef30a03d520f8c63f89529dda1326d660d155393a81d434cfe3"
+    },
+    "maps/q25lmike.bsp": {
+     "bytes": 1390148,
+     "sha256": "7f394dcf34efdea4ba8485ea8571cda2d02b1da9ac4ab6d0b9efd3869fd61df3"
+    },
+    "maps/q25lpief.bsp": {
+     "bytes": 821768,
+     "sha256": "e6d139b954e137400ae6f7dc66dabe86f130fc43933f42aee0ef28fadeadbaf2"
+    },
+    "maps/q25lskor.bsp": {
+     "bytes": 1407288,
+     "sha256": "b0dc0ca62b742fcb1b0a866d53b67f1c0738da4d71683d757536d7f3b78d7f43"
+    },
+    "maps/q25lsoli.bsp": {
+     "bytes": 1433572,
+     "sha256": "f33db6ef97876236e2ab15243e83a60e19d521807af062ca0e2f368ef9c3b111"
+    },
+    "maps/q25lspud.bsp": {
+     "bytes": 1764468,
+     "sha256": "510b2e48994b6bbf99bb49f59974d2d826271809140a30007f0f27c1af10a1d6"
+    },
+    "maps/start.bsp": {
+     "bytes": 1832836,
+     "sha256": "88c5934c911a5d431bc9ccd73609bfcce1519d3d0082cb66fa887dde6b05a92a"
+    },
+    "progs.dat": {
+     "bytes": 336646,
+     "sha256": "79ed9d30d98ca0f9c3238ce43ad1c2573a2ff1b8251e475d63756477b81ce1e0"
+    },
+    "src/q25_limits_4lt.map": {
+     "bytes": 778169,
+     "sha256": "b6bbe84e339b9e11201963f203d01fba44a9fe1a7f2ed44575a06198fced971e"
+    },
+    "src/q25_limits_boxfigs.map": {
+     "bytes": 268055,
+     "sha256": "8237a8a74841da9e81a6004e7dbc8022eaeaf7ae0a162ccf6fe2335acb27f720"
+    },
+    "src/q25_limits_dfl.map": {
+     "bytes": 1206428,
+     "sha256": "d79d3f816cd16070c9070029c9b4855fd390bea17f7641df2cc69a2905e9d621"
+    },
+    "src/q25_limits_doompope.map": {
+     "bytes": 1771412,
+     "sha256": "c39321d0df7b4797907b9edd97f8681fc2072d560ec1244e43cb77454863f3dc"
+    },
+    "src/q25_limits_grue.map": {
+     "bytes": 1236427,
+     "sha256": "0ac069f3dcc9fcf6fd598186f110387de0ecd68ed36a24eb2d842e6ecd96721b"
+    },
+    "src/q25_limits_il8r.map": {
+     "bytes": 1193030,
+     "sha256": "ef4c66fc0f571044ff2fe0b9a05807ce0da01af288996363a268f470f52c7fd3"
+    },
+    "src/q25_limits_jcr.map": {
+     "bytes": 690306,
+     "sha256": "bd7e167fcfa5026cd0d466b4d23a57da565b95b95a7a62b4d9b3a526ba9cdc39"
+    },
+    "src/q25_limits_jcr2.map": {
+     "bytes": 1056967,
+     "sha256": "00272c4dc5da5a412dd330e13209372797a7f1ccd55a0226d4edbf70c2a250b7"
+    },
+    "src/q25_limits_konig.map": {
+     "bytes": 512132,
+     "sha256": "6a66a9f7bad66100b54b399c40ce9d9327149a60125352cc5a40cc4f8c47f09a"
+    },
+    "src/q25_limits_markie.map": {
+     "bytes": 2099601,
+     "sha256": "ca5b35df492c37988fd9451f7fb1341b3eb7853f72d5d081140d86b4bfea00cc"
+    },
+    "src/q25_limits_mikec.map": {
+     "bytes": 865667,
+     "sha256": "c581ed4ac2bd7851802c483210d0e0810b4f14eade6c1485520669b91a15c48d"
+    },
+    "src/q25_limits_pieface.map": {
+     "bytes": 564860,
+     "sha256": "66de278bf57db0db16747089996e7dc4c500ac6135da957a787b0c0ef5d7ffbe"
+    },
+    "src/q25_limits_spud.map": {
+     "bytes": 1447112,
+     "sha256": "d9d2345fa09c273ca509f2b730678a907e32867f613206cdd6b682181ebb5ed2"
+    },
+    "src/start.map": {
+     "bytes": 1145910,
+     "sha256": "6439f21c8fe093307948016c890a5ba3b151092f799189d84d71b191c770b7a8"
+    }
+   },
+   "sha256": "5e0106cd81376f46b10f9c18c7973e393c26ac73f6110121bd07f92113a991d1",
+   "timestamp": "2021-06-23T08:18:02.000Z"
+  },
+  "q25limit/q25_limit_install.txt": {
+   "bytes": 693,
+   "sha256": "dbbd30bbaa397f7e7971d7b85da8d84afa2ad31f5838e3f50d43576bd51f5e65",
+   "timestamp": "2021-06-22T13:45:50.000Z"
+  },
+  "q25limit/readme/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-06-22T13:20:46.000Z"
+  },
+  "q25limit/readme/maps_readme.txt": {
+   "bytes": 271,
+   "sha256": "7cea098c702fa25854d112da485027ff85dbef401d85ce50242f22e945884ca8",
+   "timestamp": "2021-06-17T13:01:48.000Z"
+  },
+  "q25limit/readme/q25_limits_4lt.txt": {
+   "bytes": 678,
+   "sha256": "bfdef7c244b8994a83b01ee39d414ec0ca5c2fe2d078bbdc3ab4bbd3fac4cad5",
+   "timestamp": "2021-05-09T09:31:52.000Z"
+  },
+  "q25limit/readme/q25_limits_dfl.txt": {
+   "bytes": 1761,
+   "sha256": "0d92d403b5b13a23480b4aa542bc7992508f723887fa5545755d025df002a80e",
+   "timestamp": "2021-06-02T21:51:10.000Z"
+  },
+  "q25limit/readme/q25_limits_greenwood.txt": {
+   "bytes": 1245,
+   "sha256": "22a71d6c5bd89474666af97b82b1fbeed5efd456fd0c04730192d56f9e55412f",
+   "timestamp": "2021-06-16T14:32:56.000Z"
+  },
+  "q25limit/readme/q25_limits_grue.txt": {
+   "bytes": 1947,
+   "sha256": "c509fa40cb943d4af8f3267eaf138d0fca5cb9af70e6ac50029dd2ba5cbbebd2",
+   "timestamp": "2021-06-10T17:17:08.000Z"
+  },
+  "q25limit/readme/q25_limits_jcr.txt": {
+   "bytes": 2447,
+   "sha256": "9c417502cc3923d9c5d1cbe49d5c17bca15e6d828dc2c78add193e3c6b5549c9",
+   "timestamp": "2021-06-16T12:52:10.000Z"
+  },
+  "q25limit/readme/q25_limits_konig.txt": {
+   "bytes": 1880,
+   "sha256": "5d878242fbf2082675b63807b3e63c1f337dc4ae7a25bb308fa1686b5a753fcf",
+   "timestamp": "2021-06-12T01:51:32.000Z"
+  },
+  "q25limit/readme/q25_limits_markie.txt": {
+   "bytes": 1215,
+   "sha256": "c9dfac39085ccd2237594d6fb9583c3bb2b3bf511612e2b6e6ad3f1e9bd302b7",
+   "timestamp": "2021-06-03T12:14:06.000Z"
+  },
+  "q25limit/readme/q25_limits_pieface.txt": {
+   "bytes": 1468,
+   "sha256": "a4b6eb372d0e4d33dcf65d097e3d8d2974f68186afc4382e4032efae31780841",
+   "timestamp": "2021-06-16T18:47:04.000Z"
+  },
+  "q25limit/readme/q25_limits_spud.txt": {
+   "bytes": 3407,
+   "sha256": "7fb3b5a859ffb29d2663d053077fc3e1f32587bebb73f1ea2dfc7983ff10b5c2",
+   "timestamp": "2021-06-12T23:11:20.000Z"
+  },
+  "q25limit/readme/start.txt": {
+   "bytes": 1800,
+   "sha256": "82429eab4052cbf8cd8ed312863f01f59a2219aac7432cd5aab9408ea1c0fc78",
+   "timestamp": "2021-06-22T00:45:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "9cc7dbee0c4133830f8045206457dc21fd0dd67524f956e9cdc4eb6f22adf2d9",
+ "tags": [
+  "author=4LT",
+  "author=BoxFigs",
+  "author=Doom Pope",
+  "author=DragonsForLunch",
+  "author=Greenwood",
+  "author=Grue",
+  "author=JCR",
+  "author=Markie",
+  "author=Mike C",
+  "author=Pieface",
+  "author=Rhoq",
+  "author=Skorly",
+  "author=Solipsist",
+  "author=Spud",
+  "author=iLike80sRock",
+  "commandline=-game q25limit",
+  "filename=q25_limits_v1.2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=62064)",
+  "map_size=large",
+  "map_size=medium",
+  "map_size=small",
+  "nonspecific_tag=start",
+  "release_date=2021-06-22",
+  "source=included",
+  "startmap=q25l4lt",
+  "startmap=q25lboxf",
+  "startmap=q25ldfl",
+  "startmap=q25ldoom",
+  "startmap=q25lgree",
+  "startmap=q25lgrue",
+  "startmap=q25lil8r",
+  "startmap=q25ljcr",
+  "startmap=q25ljcr2",
+  "startmap=q25lmark",
+  "startmap=q25lmike",
+  "startmap=q25lpief",
+  "startmap=q25lskor",
+  "startmap=q25lsoli",
+  "startmap=q25lspud",
+  "startmap=start",
+  "theme=base",
+  "theme=egypt",
+  "theme=knave",
+  "theme=medieval",
+  "theme=metal",
+  "theme=oldschool",
+  "theme=runic",
+  "theme=wizard",
+  "title=Q25 Limits Jam",
+  "type=episode",
+  "type=mapjam",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/q25_limits_v1.2.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/9cc7dbee0c4133830f8045206457dc21fd0dd67524f956e9cdc4eb6f22adf2d9/q25_limits_v1.2.zip"
+ ]
+}

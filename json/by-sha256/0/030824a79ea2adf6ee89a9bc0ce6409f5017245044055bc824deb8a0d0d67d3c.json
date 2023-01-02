@@ -1,41 +1,46 @@
 {
- "filename": [
-  "mstalk1d.zip"
- ],
+ "bytes": 2217,
  "files": {
   "mstalk.bsp": {
-   "size": 2970188,
+   "bytes": 2970188,
+   "sha256": "d1deb420037f22f23a7669ddc5a0fe359f930faaab49b245fc9eeefa976d635f",
    "timestamp": "2013-05-11T19:21:54.000Z"
   },
   "mstalk.lit": {
-   "size": 1230638,
+   "bytes": 1230638,
+   "sha256": "786f0fdb4e4f648048f21e5ee26e154b50f5abefbb36ca43b7ac30ade10ae160",
    "timestamp": "2013-05-11T19:21:54.000Z"
   },
   "mstalk.map": {
-   "size": 2430459,
+   "bytes": 2430459,
+   "sha256": "085a7593bd6f1e82817a6ac560e132c2f28937f4a41f05ff387b5486d8344c07",
    "timestamp": "2013-05-11T18:53:32.000Z"
   },
   "mstalk1d_readme.txt": {
-   "size": 6291,
+   "bytes": 6291,
+   "sha256": "51c0e45fe9639029800ed32c9cb24c03fec14d06dda328ca7171a4bd78050fb1",
    "timestamp": "2013-05-11T19:27:56.000Z"
   }
  },
- "filesize": 2217,
  "install": {
-  "extract": "{quake}/id1/maps"
+  "extract": "{base}/id1/maps"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "030824a79ea2adf6ee89a9bc0ce6409f5017245044055bc824deb8a0d0d67d3c",
  "tags": [
   "author=sock",
+  "filename=mstalk1d.zip",
   "game=quake",
-  "releasedate=2013-05-11",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.simonoc.com",
+  "map_size=medium",
+  "release_date=2013-05-11",
+  "source=included",
   "startmap=mstalk",
-  "tag=medium",
-  "tag=metal",
-  "tag=runic",
-  "tag=source",
-  "title=Midnight Stalker (v.2)"
+  "theme=metal",
+  "theme=runic",
+  "title=Midnight Stalker (v.2)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mstalk1d.zip",

@@ -1,903 +1,1122 @@
 {
- "filename": [
-  "ad_sepulcher.zip"
- ],
+ "bytes": 30238,
  "files": {
   "ad_quake.def": {
-   "size": 290898,
+   "bytes": 290898,
+   "sha256": "0b7261073c373c37f54b25276d7a3318856e16ebd353a3a6d431f931d35b424e",
    "timestamp": "2017-06-15T19:01:08.000Z"
   },
   "ad_sepulcher_readme.txt": {
-   "size": 23413,
+   "bytes": 23413,
+   "sha256": "1cb2f16ea10059d69a0f8a1e65e311f6f472249d2a7dd95f27d8ac071a4e0441",
    "timestamp": "2017-06-17T00:16:16.000Z"
   },
   "effectinfo.txt": {
-   "size": 143565,
+   "bytes": 143565,
+   "sha256": "526c0bb000a139be5028a90483c08d66fdf50a785798d17667400e984322f637",
    "timestamp": "2017-06-14T11:19:28.000Z"
   },
   "gfx/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-06-08T16:58:10.000Z"
   },
   "gfx/conchars.tga": {
-   "size": 65580,
+   "bytes": 65580,
+   "sha256": "6dbfcc084e12e7c053c49f257f0a2276014a46ee92d194008893a39416e9e486",
    "timestamp": "2017-06-08T13:37:30.000Z"
   },
   "gfx/mainmenu2.lmp": {
-   "size": 30728,
+   "bytes": 30728,
+   "sha256": "a3fd168c6454eeaeea9e248df568e5942a7f850bc5478f8946a0b6516a2ce6c4",
    "timestamp": "2017-04-22T14:41:04.000Z"
   },
   "gfx/p_mod.lmp": {
-   "size": 6920,
+   "bytes": 6920,
+   "sha256": "3080226ebf497787e7ee1d7bc2917ae220340b7da4af58ff1a0f89f02b5c03d0",
    "timestamp": "2017-06-08T13:50:36.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-06-17T00:32:32.000Z"
   },
   "maps/ad_chapters.bsp": {
-   "size": 6487328,
+   "bytes": 6487328,
+   "sha256": "3fa373b7b2351ab54663cb3c3ce27c99c298e46e12db7292349ffcb156ff2c99",
    "timestamp": "2017-06-17T00:04:24.000Z"
   },
   "maps/ad_chapters.lit": {
-   "size": 803117,
+   "bytes": 803117,
+   "sha256": "1fe0ca6b20aaa72976430e508c67cc50010d7e88719730acf538dbd3b7de791e",
    "timestamp": "2017-06-17T00:04:24.000Z"
   },
   "maps/ad_chapters.map": {
-   "size": 2673776,
+   "bytes": 2673776,
+   "sha256": "c88bc5bd2976cc0fd3a5254af24db4e2e7eaa91eca560324d74d12aec76fafd0",
    "timestamp": "2017-06-17T00:13:28.000Z"
   },
   "maps/ad_sep.wad": {
-   "size": 4573556,
+   "bytes": 4573556,
+   "sha256": "7e1d28ce2c164be73b291be88d01be08b0e1dde4fa613b2a5eed3eddfa1f3d44",
    "timestamp": "2017-06-10T13:17:20.000Z"
   },
   "maps/ad_sepulcher.bsp": {
-   "size": 42445856,
+   "bytes": 42445856,
+   "sha256": "515562dd35193bc9f2b9a46dcdeadbab37a168f5c8b3e32ae18b108dccb81234",
    "timestamp": "2017-06-17T00:30:54.000Z"
   },
   "maps/ad_sepulcher.lit": {
-   "size": 8391902,
+   "bytes": 8391902,
+   "sha256": "881ca425dec22678551268276dad0d1a536eaed69da4a95b9419fb9499b8b979",
    "timestamp": "2017-06-17T00:30:54.000Z"
   },
   "maps/ad_sepulcher.map": {
-   "size": 31618895,
+   "bytes": 31618895,
+   "sha256": "ee616292fd929b67fe1e2160f175b9138d75ffe0f3c0ff372ff303f1f52e022c",
    "timestamp": "2017-06-17T00:31:54.000Z"
   },
   "maps/bmodels/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-06-15T20:45:20.000Z"
   },
   "maps/bmodels/sep_chain2.map": {
-   "size": 80569,
+   "bytes": 80569,
+   "sha256": "7d86dc46adc6a01b96b811021484c1e6cbfb61424f1037be59525d6f1ff2c420",
    "timestamp": "2016-08-29T13:38:20.000Z"
   },
   "maps/bmodels/sep_chain3.map": {
-   "size": 41124,
+   "bytes": 41124,
+   "sha256": "ef40d6b17d8b9fc880e4a8180336554f37dabfbc8a30b78c485793aaa5dd753b",
    "timestamp": "2016-08-29T13:47:08.000Z"
   },
   "my_progs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-06-16T23:22:16.000Z"
   },
   "my_progs/ai_ammoresist.qc": {
-   "size": 6432,
+   "bytes": 6432,
+   "sha256": "3e2abad07354b7fd1a3a739125d9fc09961a09ee990819b3964aa199758c8c5b",
    "timestamp": "2016-10-31T14:29:52.000Z"
   },
   "my_progs/ai_checkattack.qc": {
-   "size": 76183,
+   "bytes": 76183,
+   "sha256": "534a3e87e63242d9cc3d1e6cd5532121da68a42f5383b8aff5ae02b9925454a6",
    "timestamp": "2017-05-19T21:33:02.000Z"
   },
   "my_progs/ai_combat.qc": {
-   "size": 19422,
+   "bytes": 19422,
+   "sha256": "29adb738cfcf1c12decf2830402e884e33335de701955cf4ea2d79c1ec2d5504",
    "timestamp": "2017-05-25T11:15:10.000Z"
   },
   "my_progs/ai_enemytarget.qc": {
-   "size": 7373,
+   "bytes": 7373,
+   "sha256": "47dfa9b675c3b179fe3397a22daa364ffcf8005ed26e2ab808dc07f0444f051d",
    "timestamp": "2017-05-04T16:02:22.000Z"
   },
   "my_progs/ai_explosion.qc": {
-   "size": 11144,
+   "bytes": 11144,
+   "sha256": "37dc96977610129ba1b461407209d83faf32e04e523c06abb0c9cbd7771760b8",
    "timestamp": "2016-11-18T14:16:06.000Z"
   },
   "my_progs/ai_gibs.qc": {
-   "size": 26891,
+   "bytes": 26891,
+   "sha256": "9be240bfbe62274f580fc8330608c85efa37d2910a0ee76ea043d9b969f0d88e",
    "timestamp": "2017-06-14T10:52:56.000Z"
   },
   "my_progs/ai_minions.qc": {
-   "size": 10236,
+   "bytes": 10236,
+   "sha256": "3e7bd34dfe0e73a11e6907d5ac69cb609eee19dff533689ea7c8eabe52500136",
    "timestamp": "2016-07-12T19:56:42.000Z"
   },
   "my_progs/ai_pathcorner.qc": {
-   "size": 18071,
+   "bytes": 18071,
+   "sha256": "ebc7c73b77902b29ae38f20cfeaea6689802a87007b2fffa286e6b4223a4e7d1",
    "timestamp": "2017-05-01T10:42:00.000Z"
   },
   "my_progs/ai_states.qc": {
-   "size": 6408,
+   "bytes": 6408,
+   "sha256": "cd1c2830ef6a02a8e56c858711480bd32aa76a076939ddd885d192c8469af2f1",
    "timestamp": "2017-05-12T07:57:08.000Z"
   },
   "my_progs/ai_subs.qc": {
-   "size": 41674,
+   "bytes": 41674,
+   "sha256": "744fc191e595f4498c937690ebfdcb001d16d44a589b85bed0571304c80484fd",
    "timestamp": "2017-05-12T07:55:06.000Z"
   },
   "my_progs/ai_tether.qc": {
-   "size": 4955,
+   "bytes": 4955,
+   "sha256": "f6cdcc08f9802867adf0e85dcb124678258de3024c241598c1ea61c27df2c75c",
    "timestamp": "2017-04-04T09:30:34.000Z"
   },
   "my_progs/breakable.qc": {
-   "size": 61585,
+   "bytes": 61585,
+   "sha256": "b25e5e353e0b08c8c45cf98b403dcba256ad5283d46c5c91e594092ddeeb62a9",
    "timestamp": "2017-06-14T09:27:10.000Z"
   },
   "my_progs/client.qc": {
-   "size": 49292,
+   "bytes": 49292,
+   "sha256": "12707a7f69adba8a3b3a72b4091f04bcfbd5f5b819b50e25af157c7b56cc9812",
    "timestamp": "2017-06-15T09:48:50.000Z"
   },
   "my_progs/client_camera.qc": {
-   "size": 12792,
+   "bytes": 12792,
+   "sha256": "77587bc6f82fc6f710ecc8b131cf34bb58343b1fd397795f73c44fd45b2f516f",
    "timestamp": "2017-04-30T12:49:20.000Z"
   },
   "my_progs/client_debuff.qc": {
-   "size": 12834,
+   "bytes": 12834,
+   "sha256": "5536e07d639bb300bb0ff383ea62fbef43748e1563bc65b1d3f8b9a583156e54",
    "timestamp": "2016-07-16T07:14:24.000Z"
   },
   "my_progs/client_info.qc": {
-   "size": 5737,
+   "bytes": 5737,
+   "sha256": "5f5d21c742a0699efea94e41987f322d5aba7eefe9c04c704e9048f8267b1cdd",
    "timestamp": "2016-11-30T11:15:14.000Z"
   },
   "my_progs/client_power.qc": {
-   "size": 10609,
+   "bytes": 10609,
+   "sha256": "6c4a4e8a55a22e6ff66eb60a8e31cb88ebf1a25ba502e27691ce0940661a3a2b",
    "timestamp": "2017-04-05T12:48:04.000Z"
   },
   "my_progs/defs.qc": {
-   "size": 27851,
+   "bytes": 27851,
+   "sha256": "83bb1337eae02434f129808164c6cdccfa57e43c7abb96a691f844bde12ebeaf",
    "timestamp": "2017-04-19T10:27:50.000Z"
   },
   "my_progs/defscustom.qc": {
-   "size": 79390,
+   "bytes": 79390,
+   "sha256": "9a246b720d74465e75b3c818f5784f3ca64e04dca4a79d1445fa56946433ac3d",
    "timestamp": "2017-06-14T16:07:28.000Z"
   },
   "my_progs/dpextensions.qc": {
-   "size": 121928,
+   "bytes": 121928,
+   "sha256": "67d8c7d70622b6efdc5b24553f3820393fc8c0392ebf521d537bb93031636b74",
    "timestamp": "2014-04-28T06:49:22.000Z"
   },
   "my_progs/estate.qc": {
-   "size": 6432,
+   "bytes": 6432,
+   "sha256": "8c87d664519d7e54388c6ae62c4dea4da5b0b8b3ebe1ca08fd46c0ffebdd7277",
    "timestamp": "2016-11-30T22:09:08.000Z"
   },
   "my_progs/func.qc": {
-   "size": 30652,
+   "bytes": 30652,
+   "sha256": "9e352400ffdfd50f2999827a09b06b46cd471272fdcda0d81d96ddf3302f798f",
    "timestamp": "2017-04-09T15:18:32.000Z"
   },
   "my_progs/func_buttons.qc": {
-   "size": 9186,
+   "bytes": 9186,
+   "sha256": "8288fa918c0036c81151b742506e83b093e37486cb0274d95ad8af98934aff77",
    "timestamp": "2016-11-30T18:30:04.000Z"
   },
   "my_progs/func_doors.qc": {
-   "size": 24524,
+   "bytes": 24524,
+   "sha256": "4459fc1434371b0ce98c5df466eed565aaca04b557fb840141f824a727085f02",
    "timestamp": "2017-05-01T19:01:04.000Z"
   },
   "my_progs/func_doorsecret.qc": {
-   "size": 13488,
+   "bytes": 13488,
+   "sha256": "5fb4d7e3fcb00c627981616f62e61e199a5b5b52747b6ebb0968240e502d65c1",
    "timestamp": "2016-11-28T11:22:28.000Z"
   },
   "my_progs/func_plats.qc": {
-   "size": 11074,
+   "bytes": 11074,
+   "sha256": "cf067f8c81194d5ff76a2f396f9d9d84b10758809646e506691d7fddf15b1989",
    "timestamp": "2016-11-30T18:30:04.000Z"
   },
   "my_progs/func_trains.qc": {
-   "size": 21065,
+   "bytes": 21065,
+   "sha256": "e0223ee5d4cdb7584c31c28d591ee4f4e6efb4633321520de6891be987969df6",
    "timestamp": "2016-11-28T11:21:40.000Z"
   },
   "my_progs/globalfog.qc": {
-   "size": 12693,
+   "bytes": 12693,
+   "sha256": "30e2a6bd445c9ab7718f60f1b897daafd87146251231dd1f6ba2d86ac567db08",
    "timestamp": "2017-06-06T14:57:52.000Z"
   },
   "my_progs/hiprot.qc": {
-   "size": 31854,
+   "bytes": 31854,
+   "sha256": "cb4f34c44f28890396374e7077a8ed9dcee8d9910330d02709cbf2575e1ab696",
    "timestamp": "2016-10-25T19:21:00.000Z"
   },
   "my_progs/items.qc": {
-   "size": 127813,
+   "bytes": 127813,
+   "sha256": "fd0e0fb96cfa9041b887346e1833acbf37a1155c0326c9d3f7a356fd4f0d8c3d",
    "timestamp": "2017-05-12T10:12:00.000Z"
   },
   "my_progs/lights.qc": {
-   "size": 20794,
+   "bytes": 20794,
+   "sha256": "c4591e12117433c50a24efe8a10bf4b77cd41524db7f46b0578e8d6b1bfd3e61",
    "timestamp": "2017-03-31T18:00:14.000Z"
   },
   "my_progs/mathlib.qc": {
-   "size": 15327,
+   "bytes": 15327,
+   "sha256": "c3ff0594718b76c2e7a77e14b109800688568e5f538a82c460d152736ee07b7a",
    "timestamp": "2015-07-19T17:50:02.000Z"
   },
   "my_progs/misc.qc": {
-   "size": 57934,
+   "bytes": 57934,
+   "sha256": "1fd11f9df7d471b28effef52dc1b3de7af7eba7e8b4f9f0a27dd814d8b132858",
    "timestamp": "2017-06-03T19:44:28.000Z"
   },
   "my_progs/misc_targetdummy.qc": {
-   "size": 14053,
+   "bytes": 14053,
+   "sha256": "28bf8ce50823601ece2ea9a2b0c971a546f722bdc4300136183950932ef2b542",
    "timestamp": "2016-08-22T12:36:12.000Z"
   },
   "my_progs/misc_textbook.qc": {
-   "size": 26258,
+   "bytes": 26258,
+   "sha256": "fe80f59b7875e57d3f53b354ae70cc160eafb30441167516d2d7975181d4b83f",
    "timestamp": "2017-03-26T21:22:10.000Z"
   },
   "my_progs/mon_boil.qc": {
-   "size": 18657,
+   "bytes": 18657,
+   "sha256": "8e5f91ca4c24b90dd54a465e218a41121069fe12423f53d1b7266624589dd511",
    "timestamp": "2017-06-14T10:28:42.000Z"
   },
   "my_progs/mon_bossboglord.qc": {
-   "size": 22588,
+   "bytes": 22588,
+   "sha256": "34079a7832a59d5e9452244444ca7f4e9933ca9c1d59f9c85b5e805060fa87c3",
    "timestamp": "2017-04-30T15:31:10.000Z"
   },
   "my_progs/mon_bosseidolon.qc": {
-   "size": 38718,
+   "bytes": 38718,
+   "sha256": "411dc15fcb8fc4512e8bac7fb579d532c98ad279c5ea1669763260ce0c68f5ab",
    "timestamp": "2016-11-13T13:33:40.000Z"
   },
   "my_progs/mon_bossfiretop.qc": {
-   "size": 16361,
+   "bytes": 16361,
+   "sha256": "d5fe512d0a8580538d33a41b82b72fe4e8fed97adadfe18f23abf9ba0eed2e0b",
    "timestamp": "2016-11-12T09:56:40.000Z"
   },
   "my_progs/mon_bossicegolem.qc": {
-   "size": 46197,
+   "bytes": 46197,
+   "sha256": "16d2b01698ca34335624001bbf82754a65c164d473ace9047577c96cfc8b71b5",
    "timestamp": "2016-12-08T12:14:54.000Z"
   },
   "my_progs/mon_bossidchthon.qc": {
-   "size": 19503,
+   "bytes": 19503,
+   "sha256": "c4174a69caf34eee229f44521e85d5a64c5a52954322cd007cf232db6c80a4cc",
    "timestamp": "2016-11-02T18:08:56.000Z"
   },
   "my_progs/mon_bossidshub.qc": {
-   "size": 11431,
+   "bytes": 11431,
+   "sha256": "f24c7949fc092638752f95d89faefca7b6e4653b05ab5e57f970b40e414f2781",
    "timestamp": "2016-11-02T08:12:18.000Z"
   },
   "my_progs/mon_bossnour.qc": {
-   "size": 40684,
+   "bytes": 40684,
+   "sha256": "a483062a8392451a317e3278b5d5923acbed74ee4deab299cb902f92b95691b9",
    "timestamp": "2016-11-13T14:19:28.000Z"
   },
   "my_progs/mon_bossxxchthon.qc": {
-   "size": 20349,
+   "bytes": 20349,
+   "sha256": "3eb561e3b5c4a34e20aecd1b582915129db5dbba2aa703a702527f3a8b5bde7b",
    "timestamp": "2016-11-13T13:34:00.000Z"
   },
   "my_progs/mon_bossxxshub.qc": {
-   "size": 18537,
+   "bytes": 18537,
+   "sha256": "62970bce2cb83c99512570ad29549b19e1bb630b48bd8848820e2d1d70391cc0",
    "timestamp": "2016-11-13T13:34:24.000Z"
   },
   "my_progs/mon_centurion.qc": {
-   "size": 13375,
+   "bytes": 13375,
+   "sha256": "daf09a543673956f926322ef338dcd665e6ea3c9dd1a5a5a029170bff52f19ea",
    "timestamp": "2017-04-28T17:42:44.000Z"
   },
   "my_progs/mon_dcrossbow.qc": {
-   "size": 37661,
+   "bytes": 37661,
+   "sha256": "7b3d0b06db2d5da993f3776a4bd03fc4cc72580d5654b85963308eec5c26f103",
    "timestamp": "2017-05-01T14:53:18.000Z"
   },
   "my_progs/mon_demon.qc": {
-   "size": 13937,
+   "bytes": 13937,
+   "sha256": "04bfbb60a2daca6abbb0f00e56e3873b919cf6e852b7a1d3ebec7e9512dda359",
    "timestamp": "2016-08-21T11:38:28.000Z"
   },
   "my_progs/mon_dfury.qc": {
-   "size": 39146,
+   "bytes": 39146,
+   "sha256": "05201108c1e2ee4e57253015817af9a075f0b475a36fd22a78f6e861ba8b8c83",
    "timestamp": "2017-05-11T15:57:00.000Z"
   },
   "my_progs/mon_dguard.qc": {
-   "size": 28155,
+   "bytes": 28155,
+   "sha256": "1e9a0db98ddcb7d35c4dd1215d5cd0e750b67f4f3f441604a762c0f5640f4882",
    "timestamp": "2016-12-12T18:20:58.000Z"
   },
   "my_progs/mon_dknight.qc": {
-   "size": 36371,
+   "bytes": 36371,
+   "sha256": "7fc43fe6fb7f3cefab3c14e33fba8774f290c1bb2a9310170a4360083e114892",
    "timestamp": "2016-12-12T18:21:38.000Z"
   },
   "my_progs/mon_dog.qc": {
-   "size": 17519,
+   "bytes": 17519,
+   "sha256": "2e75a6bf2c5df0fa2758d23f731836dc1394a220ea4169dded5c8425e6366163",
    "timestamp": "2016-12-12T18:21:48.000Z"
   },
   "my_progs/mon_drole.qc": {
-   "size": 24297,
+   "bytes": 24297,
+   "sha256": "47b5320242f06182388a57f0d8acf26cb66d4e099fd77c1d8e415b0c2d473706",
    "timestamp": "2016-12-12T18:21:56.000Z"
   },
   "my_progs/mon_dsergeant.qc": {
-   "size": 33124,
+   "bytes": 33124,
+   "sha256": "aae109aeaf703ed514aade15da5eff61625386aaecb085aa831cdd7367dd7262",
    "timestamp": "2016-12-12T18:22:08.000Z"
   },
   "my_progs/mon_eel.qc": {
-   "size": 7903,
+   "bytes": 7903,
+   "sha256": "cc6b347f9b15d6cf1a0c34607fb91c3741de5bad01da99a038dbaadfd7818bbb",
    "timestamp": "2017-05-15T20:52:08.000Z"
   },
   "my_progs/mon_enforcer.qc": {
-   "size": 18815,
+   "bytes": 18815,
+   "sha256": "c220cf9ba91a78132757418120e80493723f8258d9ebbe55082a9aabb784d68e",
    "timestamp": "2017-04-28T17:43:24.000Z"
   },
   "my_progs/mon_fish.qc": {
-   "size": 8969,
+   "bytes": 8969,
+   "sha256": "0e80724c0c45b25ae856a835a279c75cf331eda764cdd3c3bf6258e8f3ddd0da",
    "timestamp": "2016-07-28T08:04:02.000Z"
   },
   "my_progs/mon_freddie.qc": {
-   "size": 24832,
+   "bytes": 24832,
+   "sha256": "d7fa45b25d50bf5ecb9137e8b0d8e720d1dd08bb6015a9ef4f4b00ac5d78f2be",
    "timestamp": "2016-12-12T18:22:42.000Z"
   },
   "my_progs/mon_gargoyle.qc": {
-   "size": 23457,
+   "bytes": 23457,
+   "sha256": "6693e27e6ba66d01f5be686be023c78c946643f7a3c08b34acdc2b7a61805382",
    "timestamp": "2016-12-12T18:23:06.000Z"
   },
   "my_progs/mon_gaunt.qc": {
-   "size": 19230,
+   "bytes": 19230,
+   "sha256": "3f5d4f291a3eb203fcd3f410774bf7f4a2911ddaf8ba83d69cc853a78965efb6",
    "timestamp": "2016-12-12T18:23:18.000Z"
   },
   "my_progs/mon_golem.qc": {
-   "size": 35089,
+   "bytes": 35089,
+   "sha256": "31da2a0d8629b44dd09975e11d43b05dad5d63e2fcfadcbf3b99b44e65713ca8",
    "timestamp": "2016-12-20T17:21:40.000Z"
   },
   "my_progs/mon_hknight.qc": {
-   "size": 36833,
+   "bytes": 36833,
+   "sha256": "41da0f651f075d646edf2010acaa2767059abf1a2d73c14678dd14770ddac026",
    "timestamp": "2016-10-29T22:05:06.000Z"
   },
   "my_progs/mon_hogre.qc": {
-   "size": 23451,
+   "bytes": 23451,
+   "sha256": "27d4d8ee8087adc9327ae749338eaa644115a909bd2373e551e62f9635ff0ec8",
    "timestamp": "2016-12-12T18:33:44.000Z"
   },
   "my_progs/mon_hogreham.qc": {
-   "size": 22561,
+   "bytes": 22561,
+   "sha256": "fdeb3e1cbe46b86936120c9a83b49ae33cf3cb229dcea61cc7fceb307f69deb1",
    "timestamp": "2016-12-13T07:35:00.000Z"
   },
   "my_progs/mon_hogremac.qc": {
-   "size": 23284,
+   "bytes": 23284,
+   "sha256": "88690dcb7c3df6b55982cdd0dd0f5c7568f2117aff833255287780261d7a28c9",
    "timestamp": "2016-12-12T18:34:06.000Z"
   },
   "my_progs/mon_jim.qc": {
-   "size": 21021,
+   "bytes": 21021,
+   "sha256": "effe2c10fd1cc9c4f001cdcd50795685c62ca45c2d171338e4b0cf0977d219a2",
    "timestamp": "2017-04-08T18:51:16.000Z"
   },
   "my_progs/mon_knight.qc": {
-   "size": 22135,
+   "bytes": 22135,
+   "sha256": "bc62e62819647c04679abb123c81faf3dafbf3cbce0207799f73f9a9080f171c",
    "timestamp": "2016-12-12T18:34:28.000Z"
   },
   "my_progs/mon_lostsoul.qc": {
-   "size": 22419,
+   "bytes": 22419,
+   "sha256": "f2309fadb690273d5280a21b8df15afd5e0ff457ac1e8595696df0bec04c5fd3",
    "timestamp": "2016-11-09T09:38:56.000Z"
   },
   "my_progs/mon_minotaur.qc": {
-   "size": 33574,
+   "bytes": 33574,
+   "sha256": "4cd2386fb1171f429c8ff1872b063e31a5fd59bd8180354b95814f338960c48c",
    "timestamp": "2016-12-12T18:35:06.000Z"
   },
   "my_progs/mon_ogre.qc": {
-   "size": 27608,
+   "bytes": 27608,
+   "sha256": "ca3fb63a58c5ec03b35848ef1ea6f52f76e089d52947b24aa9d001220ec98b4c",
    "timestamp": "2017-03-07T11:59:50.000Z"
   },
   "my_progs/mon_pyro.qc": {
-   "size": 17940,
+   "bytes": 17940,
+   "sha256": "2688da420ecbdf092589cca707cb6ea86ab3b893876cb2f6c509a04d9941a6f0",
    "timestamp": "2016-12-12T18:35:38.000Z"
   },
   "my_progs/mon_scorpion.qc": {
-   "size": 21614,
+   "bytes": 21614,
+   "sha256": "91f028e7ff73abc54954827f7f341bae013d290385946cf798bd4aaecee61b37",
    "timestamp": "2016-12-12T18:35:46.000Z"
   },
   "my_progs/mon_seeker.qc": {
-   "size": 29142,
+   "bytes": 29142,
+   "sha256": "55bc9f6991dc8577e34a2e958edbbd066fc94231de64c22187af06d6718982f6",
    "timestamp": "2016-12-12T18:36:02.000Z"
   },
   "my_progs/mon_shalrath.qc": {
-   "size": 15223,
+   "bytes": 15223,
+   "sha256": "b5ecdbd65b0b8d8252df6d4c01d390d01e65f79fa29132f12228c7af5590182a",
    "timestamp": "2016-12-18T13:10:44.000Z"
   },
   "my_progs/mon_shambler.qc": {
-   "size": 21074,
+   "bytes": 21074,
+   "sha256": "da1827ac3ab468f52fcf6a81d1ab62485362e92e2e10a2e32fea9f74b0125768",
    "timestamp": "2017-05-14T16:38:50.000Z"
   },
   "my_progs/mon_skullwiz.qc": {
-   "size": 35997,
+   "bytes": 35997,
+   "sha256": "52b5b3599a7cb930e8a98fa45dd30be6f7f71587815765a9b2ba73675b21b781",
    "timestamp": "2017-02-19T14:01:38.000Z"
   },
   "my_progs/mon_soldier.qc": {
-   "size": 21220,
+   "bytes": 21220,
+   "sha256": "b191d7d512bda673c3675e94139a5ed3b7a5a2e6056d8a659858be6a8f18a895",
    "timestamp": "2017-05-19T21:36:28.000Z"
   },
   "my_progs/mon_spider.qc": {
-   "size": 29895,
+   "bytes": 29895,
+   "sha256": "38d0ab35eb361b4e8d5647e90837d46113d189eb9b0673e05c6814d4fa3afbbc",
    "timestamp": "2017-05-12T07:59:18.000Z"
   },
   "my_progs/mon_swampling.qc": {
-   "size": 24923,
+   "bytes": 24923,
+   "sha256": "58bdca8f7efaf7b9368f5d4d37f9f128d55afb15e071f46a68b4b4b74ab7ebde",
    "timestamp": "2017-05-12T07:59:20.000Z"
   },
   "my_progs/mon_tarbaby.qc": {
-   "size": 10677,
+   "bytes": 10677,
+   "sha256": "976f5b2f311a0d3a6f7685448fc4656bcffc4fada5daabb1d5fcbc04cda89dd9",
    "timestamp": "2017-05-04T09:47:22.000Z"
   },
   "my_progs/mon_voreling.qc": {
-   "size": 26902,
+   "bytes": 26902,
+   "sha256": "fe18ac3d7f6e2d8fc23c320e2bf2ad8e8558a6bc3d08225730fa65f0ea622e5a",
    "timestamp": "2017-05-12T07:59:42.000Z"
   },
   "my_progs/mon_wizard.qc": {
-   "size": 13754,
+   "bytes": 13754,
+   "sha256": "42ce0ec66c3f78e7d9f0a0e6d9f0c1ce8faf1e206a10f95272a56e4752d94d34",
    "timestamp": "2017-05-01T14:41:22.000Z"
   },
   "my_progs/mon_wraith.qc": {
-   "size": 35376,
+   "bytes": 35376,
+   "sha256": "592bebac240c2540e964ae1b2fc8a758c2b7f34289e6dc84e720221c818ad309",
    "timestamp": "2017-02-19T14:01:32.000Z"
   },
   "my_progs/mon_zombie.qc": {
-   "size": 32107,
+   "bytes": 32107,
+   "sha256": "07bc5b852b78a0dd2c3f40195c3cded3b58ea8ea7fba50f20dcc6ed5a26de365",
    "timestamp": "2017-03-06T23:09:14.000Z"
   },
   "my_progs/mon_zombiek.qc": {
-   "size": 40010,
+   "bytes": 40010,
+   "sha256": "441b8b710e01efd46992744a1bcf139695312886aaebc118ee14bfbc97cff055",
    "timestamp": "2017-03-06T23:08:26.000Z"
   },
   "my_progs/monsters.qc": {
-   "size": 45965,
+   "bytes": 45965,
+   "sha256": "6431a6267ee67baf430e22ed28af4247da809fe29a05145a23638c5b7562b8cb",
    "timestamp": "2017-06-08T22:48:50.000Z"
   },
   "my_progs/part_emitter.qc": {
-   "size": 68053,
+   "bytes": 68053,
+   "sha256": "1d7da1d230184ec5bbcbb52f10d1359db9badb71de6064a1f24491b734d8d3dd",
    "timestamp": "2017-05-09T10:44:48.000Z"
   },
   "my_progs/part_generate.qc": {
-   "size": 37076,
+   "bytes": 37076,
+   "sha256": "209b669d7c820fb0e92c4bb95a207d49d681996908d853d92f25b9a825598628",
    "timestamp": "2017-04-21T15:21:28.000Z"
   },
   "my_progs/part_manage.qc": {
-   "size": 24113,
+   "bytes": 24113,
+   "sha256": "6b9dbe62d6e060afc3ea18878e81bc2d4781870f4f69de8f9cf69f70d0a70e96",
    "timestamp": "2017-05-09T10:23:38.000Z"
   },
   "my_progs/player.qc": {
-   "size": 23970,
+   "bytes": 23970,
+   "sha256": "3771e0f15808f1f0cafe05a81349dfaffe570d1857edfb9fc199303da762b3f5",
    "timestamp": "2016-11-08T18:33:52.000Z"
   },
   "my_progs/progs.src": {
-   "size": 1671,
+   "bytes": 1671,
+   "sha256": "1e7f24007a9bdb3620e4e6352d41fca84a190d28ca7da46d32aa682d45242162",
    "timestamp": "2017-06-14T15:57:34.000Z"
   },
   "my_progs/projectiles.qc": {
-   "size": 54222,
+   "bytes": 54222,
+   "sha256": "ae43fb401ea90b50b0b7f1232e4c57175ecdf2edd3c06432e31ed5129581a783",
    "timestamp": "2017-06-14T09:28:30.000Z"
   },
   "my_progs/qc_highlight.xml": {
-   "size": 6348,
+   "bytes": 6348,
+   "sha256": "a7b326723cc1e4025e867ea5da00f54c944705600d740538aeb52f63cd027ab5",
    "timestamp": "2015-09-16T15:30:42.000Z"
   },
   "my_progs/settings.qc": {
-   "size": 30447,
+   "bytes": 30447,
+   "sha256": "c8eda583a3d2d26cc6901103b090a2748b90dda369a8a8f06dfd3aa19471aef7",
    "timestamp": "2017-06-13T09:55:26.000Z"
   },
   "my_progs/sounds.qc": {
-   "size": 15780,
+   "bytes": 15780,
+   "sha256": "4c86ee0383bede1a49888e57783acfb00ac56ab16df4a17d8fb6ce8c9ac6b507",
    "timestamp": "2017-04-21T15:57:42.000Z"
   },
   "my_progs/sprites.qc": {
-   "size": 476,
+   "bytes": 476,
+   "sha256": "579f48b397914b02f8fb86dc24f23d4e63a4cd857df1f0eaefd6c83e9c49e238",
    "timestamp": "2009-05-28T21:16:02.000Z"
   },
   "my_progs/subs.qc": {
-   "size": 29595,
+   "bytes": 29595,
+   "sha256": "321d68a04c4041c72e9396787e72947e7c7150620271f761af891f4167349e97",
    "timestamp": "2017-05-25T11:20:32.000Z"
   },
   "my_progs/subs_soc.qc": {
-   "size": 13630,
+   "bytes": 13630,
+   "sha256": "3b4ed9f1dfab16bb8ca7d5902a98671a9dccd116368e25628981e751cf616ada",
    "timestamp": "2017-06-14T13:12:52.000Z"
   },
   "my_progs/targets.qc": {
-   "size": 28588,
+   "bytes": 28588,
+   "sha256": "9144327e093b450075c1d5268a665a3948b905cb8bcbe8b54a4959d3e261b993",
    "timestamp": "2017-06-11T19:22:58.000Z"
   },
   "my_progs/traps.qc": {
-   "size": 24383,
+   "bytes": 24383,
+   "sha256": "a9a538e79774859d46da38b4eebb9bcd84955f7de3f753d2240d113159929f55",
    "timestamp": "2017-03-21T11:14:46.000Z"
   },
   "my_progs/traps_pendulum.qc": {
-   "size": 17047,
+   "bytes": 17047,
+   "sha256": "36327c36e3defa26eef04cb01d3807c5c50b7716ccd528ad64311bf227e8005d",
    "timestamp": "2016-04-04T10:16:36.000Z"
   },
   "my_progs/traps_sawblade.qc": {
-   "size": 9783,
+   "bytes": 9783,
+   "sha256": "6f51f405ce4e64871c73a190f8c999b12b78ac6ebf8a824b067b028f22eb801c",
    "timestamp": "2016-08-21T12:03:02.000Z"
   },
   "my_progs/triggers.qc": {
-   "size": 73569,
+   "bytes": 73569,
+   "sha256": "bf279577f629af378da877a8798cd31b5c26443e43d43f383438e597f68d5af2",
    "timestamp": "2017-06-06T15:20:54.000Z"
   },
   "my_progs/triggers_states.qc": {
-   "size": 12939,
+   "bytes": 12939,
+   "sha256": "b98668c8974094344a73730aa0a20abe56fa8d53ce87be87c1af924658ea6a9b",
    "timestamp": "2017-04-22T08:42:52.000Z"
   },
   "my_progs/weapons.qc": {
-   "size": 36705,
+   "bytes": 36705,
+   "sha256": "e83c70dea6fa11fce08d8ac7435d553da6f225849465fe9a652321c33a15bb56",
    "timestamp": "2017-05-11T20:11:14.000Z"
   },
   "my_progs/world.qc": {
-   "size": 30998,
+   "bytes": 30998,
+   "sha256": "ac65e85c9811ba9391452a87702d7214a31f17de627657c3283a633732e317b3",
    "timestamp": "2017-06-14T11:06:48.000Z"
   },
   "particles/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-06-14T16:33:58.000Z"
   },
   "particles/fte_weather.cfg": {
-   "size": 2222,
+   "bytes": 2222,
+   "sha256": "85052256a5f27226da3d508e60d01fa9af17134fc42a209a4dfad7e26a745c93",
    "timestamp": "2017-06-14T16:37:22.000Z"
   },
   "progs.dat": {
-   "size": 1604704,
+   "bytes": 1604704,
+   "sha256": "3fc9b9d8a07646b8e7449d4b7d6cdcef13493044716a12555a94eaae9000e768",
    "timestamp": "2017-06-16T13:04:50.000Z"
   },
   "progs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-05-06T14:35:20.000Z"
   },
   "progs/artifact_sharp.mdl": {
-   "size": 49248,
+   "bytes": 49248,
+   "sha256": "505fc06618d7cecb83c03ad7d7762011ff8cff025eecf007b200d87fcc2483cf",
    "timestamp": "2017-05-03T22:37:08.000Z"
   },
   "progs/gib_blclaw1.mdl": {
-   "size": 32860,
+   "bytes": 32860,
+   "sha256": "303c38aea48534d4ce34f3c2082a21c7408c1e4a4cd848bc7e4acadfaaddbdc0",
    "timestamp": "2017-04-30T14:20:06.000Z"
   },
   "progs/gib_blclaw1b.mdl": {
-   "size": 32860,
+   "bytes": 32860,
+   "sha256": "c22db765c594ee28a0863cf70e354c651a2b9282e1df7e3a57b35ce62932920d",
    "timestamp": "2017-04-30T14:19:24.000Z"
   },
   "progs/gib_blclaw2.mdl": {
-   "size": 32860,
+   "bytes": 32860,
+   "sha256": "c7d70c4c067aa297fbebc3d26a2068a62f307c7f00f8d15d0bf76ed9519967c8",
    "timestamp": "2017-04-30T14:20:14.000Z"
   },
   "progs/gib_blclaw2b.mdl": {
-   "size": 32860,
+   "bytes": 32860,
+   "sha256": "96a96606a74eb3093d88f1f946d66caf77bd57fde0a4ec44840c95fa12130551",
    "timestamp": "2017-04-30T14:19:32.000Z"
   },
   "progs/gib_blfoot1.mdl": {
-   "size": 32860,
+   "bytes": 32860,
+   "sha256": "74e05efa33fc9036399a1f1d484a3816129fe0e379aee579b923cf3316e5ab84",
    "timestamp": "2017-04-30T14:20:22.000Z"
   },
   "progs/gib_blfoot1b.mdl": {
-   "size": 32860,
+   "bytes": 32860,
+   "sha256": "2d23324414f3f1a25ee24afe914679d07df244c9c0e48139331f084b8c369054",
    "timestamp": "2017-04-30T14:19:40.000Z"
   },
   "progs/gib_blfoot2.mdl": {
-   "size": 32860,
+   "bytes": 32860,
+   "sha256": "c2ce3b46d8762b042d201608271c3441b975b93e6329790ca5cba61294f71e45",
    "timestamp": "2017-04-30T14:20:30.000Z"
   },
   "progs/gib_blfoot2b.mdl": {
-   "size": 32860,
+   "bytes": 32860,
+   "sha256": "de945be28e0b05dc380a0a2cfff6907f14a5e4b9756385874fddd712df095bb6",
    "timestamp": "2017-04-30T14:20:00.000Z"
   },
   "progs/gib_swampleg.mdl": {
-   "size": 4820,
+   "bytes": 4820,
+   "sha256": "2b549fd3a74b0fd6b94c71c9e397b466e2c7f823917ffe717ce1af43769e1961",
    "timestamp": "2017-02-28T16:29:24.000Z"
   },
   "progs/gib_swamplegp.mdl": {
-   "size": 4820,
+   "bytes": 4820,
+   "sha256": "b5cf22240bf6474cc8ea57c40ddb70f80e792c23cb87835bee94825cb645578a",
    "timestamp": "2017-02-28T16:29:32.000Z"
   },
   "progs/h_boglord.mdl": {
-   "size": 98400,
+   "bytes": 98400,
+   "sha256": "119279b2ffdf928d34ef1470ae6c14f875cb59edc6d8b107a90bbea122c9acdc",
    "timestamp": "2017-04-30T14:22:06.000Z"
   },
   "progs/h_boglordb.mdl": {
-   "size": 98400,
+   "bytes": 98400,
+   "sha256": "25af0d0ea45857e64549686bb58e5f69a0754ff6e43c26ce735e58aaac3d534e",
    "timestamp": "2017-04-30T14:22:12.000Z"
   },
   "progs/misc_book1c.mdl": {
-   "size": 40096,
+   "bytes": 40096,
+   "sha256": "92b976437673f56cb890f0e1b90a550ea00939d01ee12b0df0f218b35b42953e",
    "timestamp": "2017-02-16T18:25:46.000Z"
   },
   "progs/misc_player.mdl": {
-   "size": 562960,
+   "bytes": 562960,
+   "sha256": "83bbcf4cb5858aa9ac03323b461b3e3b09a28f56e212645472219d7d0b0979d8",
    "timestamp": "2017-05-06T14:13:56.000Z"
   },
   "progs/mon_boil.mdl": {
-   "size": 307068,
+   "bytes": 307068,
+   "sha256": "b8a79df258bf71f273dc29887c3782377bf890d43e32b690ebf2ef707eead6de",
    "timestamp": "2016-07-09T19:09:02.000Z"
   },
   "progs/mon_bossboglord.mdl": {
-   "size": 401092,
+   "bytes": 401092,
+   "sha256": "6fb5e0aa99fc9269b21e3a7c86e7ed70bf1f7e0150b629a39a4cf6647d0c9a1f",
    "timestamp": "2017-04-29T11:44:28.000Z"
   },
   "progs/mon_swampling.mdl": {
-   "size": 45332,
+   "bytes": 45332,
+   "sha256": "c7b379fcc17af3fbfaff1976ea8c14e9562093495dac01cd647c50863c4dec50",
    "timestamp": "2017-02-22T13:23:28.000Z"
   },
   "progs/mon_swamplingp.mdl": {
-   "size": 45332,
+   "bytes": 45332,
+   "sha256": "f1bd1496b4b9c90493f469bf81c6da0a1697290cd6374db15fd459ebab649cea",
    "timestamp": "2017-02-22T22:59:50.000Z"
   },
   "progs/proj_blord1b.mdl": {
-   "size": 11472,
+   "bytes": 11472,
+   "sha256": "6c05b0f8790b77d3362166b2b304379942f56d498ae8fc365dbee6fcd6031f67",
    "timestamp": "2017-04-29T19:34:42.000Z"
   },
   "progs/proj_blord1s.mdl": {
-   "size": 8284,
+   "bytes": 8284,
+   "sha256": "5527dd12f00911fb333c2424994c0a95881caa72612d5e8236c8ce75530f6ae0",
    "timestamp": "2017-04-29T19:35:04.000Z"
   },
   "progs/proj_blord2b.mdl": {
-   "size": 11472,
+   "bytes": 11472,
+   "sha256": "fce6943e84bac672bf110d986ce2ed1ccb511128cb28508fb6aca53c7655806b",
    "timestamp": "2017-04-29T22:38:38.000Z"
   },
   "progs/proj_blord2s.mdl": {
-   "size": 8284,
+   "bytes": 8284,
+   "sha256": "a0d0ac315e46f784c35a0eac902f625e0337e79275b9f02ecb56002848202734",
    "timestamp": "2017-04-29T22:21:02.000Z"
   },
   "progs/proj_blordbeam1.mdl": {
-   "size": 12244,
+   "bytes": 12244,
+   "sha256": "e01c569bf66e75acdcbbfdbb50062eb24dd09f0415e6cb79148eab960f6a6f0f",
    "timestamp": "2016-07-21T21:27:02.000Z"
   },
   "progs/proj_blordbeam2.mdl": {
-   "size": 12244,
+   "bytes": 12244,
+   "sha256": "8644a309e4f88774ab5537c94a429a2aec090e45f6ce4a687682481d87afff52",
    "timestamp": "2017-04-29T22:21:10.000Z"
   },
   "progs/proj_blordbolt1.mdl": {
-   "size": 7868,
+   "bytes": 7868,
+   "sha256": "2ea0a49a8a75d1174151c36851ae21212b4df2df3473be5e73cc4cf293332d0f",
    "timestamp": "2016-10-12T12:29:10.000Z"
   },
   "progs/proj_blordbolt2.mdl": {
-   "size": 7868,
+   "bytes": 7868,
+   "sha256": "919dda70fe618cd37f57ef1e0dbc00b339ed082e2661ca024febee3ed49576f2",
    "timestamp": "2017-04-29T22:20:50.000Z"
   },
   "progs/proj_swampling.mdl": {
-   "size": 7468,
+   "bytes": 7468,
+   "sha256": "99ac7959a5f931d9ce5f611088eb0fbcbdd0c6f083bd4c56c9d0aab3f4c64bb2",
    "timestamp": "2017-02-22T22:50:48.000Z"
   },
   "quake.rc": {
-   "size": 5744,
+   "bytes": 5744,
+   "sha256": "6e1a8058a4d97f54de4fc494bfd36b9c47e6580c462f21a713945b5b920d53ce",
    "timestamp": "2017-06-13T14:04:54.000Z"
   },
   "sound/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-05-02T08:34:44.000Z"
   },
   "sound/ambience/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-04-30T15:18:46.000Z"
   },
   "sound/ambience/rain1_nl.wav": {
-   "size": 154394,
+   "bytes": 154394,
+   "sha256": "45d8c08ff4a9a2dd6ff8362fea7c22f9c3ea64a3a8d7b6c81c8cad88265f327a",
    "timestamp": "2017-03-29T18:15:10.000Z"
   },
   "sound/ambience/rain2_fade.wav": {
-   "size": 198550,
+   "bytes": 198550,
+   "sha256": "3cf300a4f785d416656838bd3a68120bf6a48d16f928ca74e2e0890ec9f8b426",
    "timestamp": "2017-03-30T10:21:44.000Z"
   },
   "sound/ambience/rain2_nl.wav": {
-   "size": 66250,
+   "bytes": 66250,
+   "sha256": "f2735ae8a7b1ae5ab5ce3b8ed66d8c61d00a65f2e66d8c565f4abe718d57ab67",
    "timestamp": "2017-03-30T13:54:20.000Z"
   },
   "sound/boglord/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-04-30T15:04:26.000Z"
   },
   "sound/boglord/attack2.wav": {
-   "size": 8036,
+   "bytes": 8036,
+   "sha256": "efa18dec8f6d5066b8d494a232ca9c98c27a4a9130130086a9b0a27ffccb34ed",
    "timestamp": "2015-06-23T22:29:56.000Z"
   },
   "sound/boglord/bangdoor1.wav": {
-   "size": 30968,
+   "bytes": 30968,
+   "sha256": "b267e602e76fe1d8e854e2873e06008af15612ed1a31ec41feeb4461d52fc478",
    "timestamp": "2016-07-20T00:23:30.000Z"
   },
   "sound/boglord/bangdoor2.wav": {
-   "size": 39828,
+   "bytes": 39828,
+   "sha256": "f904a5423580c118de1d732fff714565f1dd8d8d1556b3b58bf39d2c59fa4272",
    "timestamp": "2016-07-20T00:24:06.000Z"
   },
   "sound/boglord/bolt_fire.wav": {
-   "size": 114694,
+   "bytes": 114694,
+   "sha256": "a7f694a649a3228c583802fd1b6bc562b72f12072741a233fba5a00972cba029",
    "timestamp": "2015-10-26T19:38:42.000Z"
   },
   "sound/boglord/death1.wav": {
-   "size": 39758,
+   "bytes": 39758,
+   "sha256": "a9e0e36b1a51d88a5b542dd2c1f79f1dbea402b3ceb18ee13606c03126f1a874",
    "timestamp": "2016-07-18T14:02:04.000Z"
   },
   "sound/boglord/idle1.wav": {
-   "size": 15532,
+   "bytes": 15532,
+   "sha256": "5339e3429b0510f7e8016e6ece9895df6f202b5809f739b317211a081401f202",
    "timestamp": "2016-07-18T14:03:42.000Z"
   },
   "sound/boglord/idle2.wav": {
-   "size": 18586,
+   "bytes": 18586,
+   "sha256": "52f8bddb2d5095f4077eb1f753d75bce94f906f1b3064067a54c875ae16d1a5c",
    "timestamp": "2016-07-18T14:17:34.000Z"
   },
   "sound/boglord/melee1.wav": {
-   "size": 9326,
+   "bytes": 9326,
+   "sha256": "e2f5808115d0a93dde1063db6f2d38f6ab7ff333f83d95741a8948f44ae4ace9",
    "timestamp": "2016-07-18T14:11:38.000Z"
   },
   "sound/boglord/melee2.wav": {
-   "size": 11746,
+   "bytes": 11746,
+   "sha256": "e299e39467c9f94730c21d1321455fdccf3aefbb0352d528b6d413639210e715",
    "timestamp": "2016-07-18T14:11:38.000Z"
   },
   "sound/boglord/melee3.wav": {
-   "size": 18776,
+   "bytes": 18776,
+   "sha256": "c066200b5ddb81aa0c0cc0462939681703549ac15dd6aa83db8a23ae54ce6317",
    "timestamp": "2016-07-21T14:53:44.000Z"
   },
   "sound/boglord/pain1.wav": {
-   "size": 11094,
+   "bytes": 11094,
+   "sha256": "6ca5a44043add6b389827e5aca8bc0c9e9c7b0cc0c7b4a5d3df292a78da0064f",
    "timestamp": "2016-07-18T14:07:34.000Z"
   },
   "sound/boglord/pain2.wav": {
-   "size": 11094,
+   "bytes": 11094,
+   "sha256": "7e11818fbae5354177add1e236b6f3e0f4665d50193154fbb15fead4bb4d7908",
    "timestamp": "2016-07-18T14:09:26.000Z"
   },
   "sound/boglord/sboom.wav": {
-   "size": 22172,
+   "bytes": 22172,
+   "sha256": "89899521eac11f922cdd4606a0fe08bc080a63a73ec4b4a502027e33f08b225b",
    "timestamp": "2016-10-12T12:08:22.000Z"
   },
   "sound/boglord/sight.wav": {
-   "size": 28734,
+   "bytes": 28734,
+   "sha256": "8b020b0f07a7461f5f520b8385e38828d66b3cb1fc46d7db08b845fa8ff62ad8",
    "timestamp": "2016-07-18T14:00:24.000Z"
   },
   "sound/boglord/slime_explode.wav": {
-   "size": 38026,
+   "bytes": 38026,
+   "sha256": "716844219b3321df91347494634772f87a72b603cfaa4abe531ab6e8cf07b765",
    "timestamp": "2015-06-30T12:39:10.000Z"
   },
   "sound/boglord/slime_miss.wav": {
-   "size": 14582,
+   "bytes": 14582,
+   "sha256": "9640df8ca3d5181a0a1c310c052deafc5e82afb469faf68511698664f4e46dae",
    "timestamp": "2015-06-26T11:35:10.000Z"
   },
   "sound/boglord/thud.wav": {
-   "size": 22140,
+   "bytes": 22140,
+   "sha256": "f5d7b5f65e24d6a5edd04404b93a8c5a2db45cc6c142012638f050158bb783ba",
    "timestamp": "2016-07-18T13:58:48.000Z"
   },
   "sound/boglord/thud2.wav": {
-   "size": 105882,
+   "bytes": 105882,
+   "sha256": "7e8826a38df07d0d2b85d6d39b8b664bb2ef8a0686846573802b77811682e957",
    "timestamp": "2016-07-20T00:24:12.000Z"
   },
   "sound/gibs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-04-30T15:04:02.000Z"
   },
   "sound/gibs/stonedeath.wav": {
-   "size": 76750,
+   "bytes": 76750,
+   "sha256": "26d0eb67357d292043fd494b1646f8ce005ba692d98610429bceedfc831d2325",
    "timestamp": "2016-12-13T09:20:52.000Z"
   },
   "sound/items/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-05-02T08:34:46.000Z"
   },
   "sound/items/backpack_ammo.wav": {
-   "size": 17740,
+   "bytes": 17740,
+   "sha256": "4f1df82518beee326068e407b6713c32c4b40fe4a99ac94b9be0ca46c107810f",
    "timestamp": "2017-05-02T08:22:54.000Z"
   },
   "sound/items/backpack_armour.wav": {
-   "size": 19934,
+   "bytes": 19934,
+   "sha256": "4ed1112921417e18e4ceb2cb29b8f0702c945c2bc2e37403fefca19b069d8f17",
    "timestamp": "2017-05-02T08:22:58.000Z"
   },
   "sound/swampling/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-04-30T15:38:54.000Z"
   },
   "sound/swampling/attackmunch.wav": {
-   "size": 17798,
+   "bytes": 17798,
+   "sha256": "be7d018ae5b5f906a6cf2e4b12138f7c1407c98c3485599cb4442ceb59ee1c94",
    "timestamp": "2015-07-01T10:13:06.000Z"
   },
   "sound/swampling/attacktear.wav": {
-   "size": 8918,
+   "bytes": 8918,
+   "sha256": "2aa7029f8be106777c0e51e4b237ad705c120bcab74c5695547af29475b1f5fb",
    "timestamp": "2015-07-01T10:13:52.000Z"
   },
   "sound/swampling/death.wav": {
-   "size": 17694,
+   "bytes": 17694,
+   "sha256": "119475b1b21df8c965a526be27a266035b3b8cde44df3759eb4a40a83f730baf",
    "timestamp": "2015-07-01T10:12:04.000Z"
   },
   "sound/swampling/idle1.wav": {
-   "size": 132044,
+   "bytes": 132044,
+   "sha256": "418eae21e001c1ae065df9357ebf2ad331f761062d75f345f12e99d9aec8cfb5",
    "timestamp": "2017-02-23T06:17:42.000Z"
   },
   "sound/swampling/idle2.wav": {
-   "size": 70444,
+   "bytes": 70444,
+   "sha256": "4026b4b56ffa9a207e1457e03ec94a8eb9042cfebf1c042fa291ba2bbbf1c4b5",
    "timestamp": "2017-02-23T06:17:54.000Z"
   },
   "sound/swampling/idle3.wav": {
-   "size": 171644,
+   "bytes": 171644,
+   "sha256": "fa54eaf040baf965f994b328bfb1a55cd90d1741d57ed580c1d44c51e9c125f8",
    "timestamp": "2017-02-23T06:17:10.000Z"
   },
   "sound/swampling/jumpland.wav": {
-   "size": 4518,
+   "bytes": 4518,
+   "sha256": "078af531f8d493aae57b71b8bdcef4c5f9b9b8394be9bc1e113873458ec09525",
    "timestamp": "2015-07-01T10:15:42.000Z"
   },
   "sound/swampling/miss.wav": {
-   "size": 14582,
+   "bytes": 14582,
+   "sha256": "9640df8ca3d5181a0a1c310c052deafc5e82afb469faf68511698664f4e46dae",
    "timestamp": "2015-06-26T11:35:10.000Z"
   },
   "sound/swampling/pain3.wav": {
-   "size": 67244,
+   "bytes": 67244,
+   "sha256": "4b186834bbec7d2ef9873f55d5df980da3b3fd2f19f76e54fd835d1aaf40fedd",
    "timestamp": "2017-02-22T18:39:48.000Z"
   },
   "sound/swampling/sight2.wav": {
-   "size": 88044,
+   "bytes": 88044,
+   "sha256": "6989ba3aca0c5f5e12d30d9958c6ab169f5c6c96f36f4843a9a19bab0e5d0c4c",
    "timestamp": "2017-02-22T18:38:12.000Z"
   },
   "sound/swampling/spit4.wav": {
-   "size": 76848,
+   "bytes": 76848,
+   "sha256": "6855555e2a188ed9ae0a1cd307c7715e54c6f3c10ac0fee9edbba2edf1a48d16",
    "timestamp": "2017-02-23T06:28:58.000Z"
   },
   "sound/zombie/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-04-30T15:42:28.000Z"
   },
   "sound/zombie/boil_explode.wav": {
-   "size": 38012,
+   "bytes": 38012,
+   "sha256": "210dac94ab0e4efb5eb3bdbfa5d7100094b1bfef917a8d5abb2ae186252c0a27",
    "timestamp": "2016-07-09T14:28:18.000Z"
   },
   "sound/zombie/boil_idle1.wav": {
-   "size": 33204,
+   "bytes": 33204,
+   "sha256": "e2b717040d436ba2a659ceb1e5b74dfeaad57577297a9827957733e00ce7cb34",
    "timestamp": "2016-07-09T10:52:18.000Z"
   },
   "sound/zombie/boil_idle2.wav": {
-   "size": 33206,
+   "bytes": 33206,
+   "sha256": "8bd584597f2c54e6f8ecca5c0a83e44b0b5a09a745026e41cc2cad8ded6f729a",
    "timestamp": "2016-07-09T10:52:16.000Z"
   },
   "sound/zombie/boil_sight.wav": {
-   "size": 33192,
+   "bytes": 33192,
+   "sha256": "0e285e98dc66cd49af507dae9ab5281aaec55eaf9d401810a8d230d93539123a",
    "timestamp": "2016-07-09T11:03:06.000Z"
   },
   "sound/zombie/boil_squirt.wav": {
-   "size": 14582,
+   "bytes": 14582,
+   "sha256": "9640df8ca3d5181a0a1c310c052deafc5e82afb469faf68511698664f4e46dae",
    "timestamp": "2015-06-26T11:35:10.000Z"
   },
   "sound/zombie/boil_windup.wav": {
-   "size": 22094,
+   "bytes": 22094,
+   "sha256": "3790791943ea03add95bc303df34470c534f9c2c76e4343831609eaee761633d",
    "timestamp": "2016-07-09T11:24:40.000Z"
   },
   "sound/zombie/zk_sight.wav": {
-   "size": 26916,
+   "bytes": 26916,
+   "sha256": "8fe4d5fea16bd7c3661a968d26782ea8c4741157e16e22f33317619229b10637",
    "timestamp": "2016-05-11T11:02:26.000Z"
   },
   "textures/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-06-08T11:13:26.000Z"
   },
   "textures/{dutcweb1.tga": {
-   "size": 131090,
+   "bytes": 131090,
+   "sha256": "8922bb11d99fc05d2ffeab2c2d99b04dba9d0fc5165fdd9a0ccd921f066f668c",
    "timestamp": "2017-06-08T11:08:00.000Z"
   },
   "textures/{dutcweb2.tga": {
-   "size": 131090,
+   "bytes": 131090,
+   "sha256": "a0377ffeac458bf27bbd86d2bc22ff17d973bd0328a4d048fb3136573c12723d",
    "timestamp": "2017-06-08T11:08:04.000Z"
   },
   "textures/{dutcweb3.tga": {
-   "size": 131090,
+   "bytes": 131090,
+   "sha256": "61710c94a64a506b75f36578904dbece6f666bc25ad2665333fe00b1c4b04f70",
    "timestamp": "2017-06-08T11:08:08.000Z"
   },
   "textures/{dutcweb5.tga": {
-   "size": 131090,
+   "bytes": 131090,
+   "sha256": "a0959d05f9bd1f4aa632b1642885261a2cbbef7d6d6d7ab677bb803ac1a00ef8",
    "timestamp": "2017-06-08T11:08:12.000Z"
   },
   "textures/{dweb1b.tga": {
-   "size": 65554,
+   "bytes": 65554,
+   "sha256": "7f2f310b5393519fbfdf70e07cab318504ad88c67dcce1e9988e376d5fc9c94a",
    "timestamp": "2017-06-08T11:10:32.000Z"
   },
   "textures/{dweb2b.tga": {
-   "size": 65554,
+   "bytes": 65554,
+   "sha256": "d95f6ebbcc21b2cb7164743b517aa69287101aa2640d5a8b249c409dcdc20333",
    "timestamp": "2017-06-08T11:10:40.000Z"
   },
   "textures/{dweb3b.tga": {
-   "size": 65554,
+   "bytes": 65554,
+   "sha256": "24cde40cf3791f0e054ccd2ad81353ec711bd95a7de1af58a1ad561d9d104ef1",
    "timestamp": "2017-06-08T11:10:44.000Z"
   },
   "textures/{dweb5b.tga": {
-   "size": 65554,
+   "bytes": 65554,
+   "sha256": "5b1fc4683289a850f5c16afa56660b710212bf18d4c047bf134529dac784d2c9",
    "timestamp": "2017-06-08T11:10:50.000Z"
   },
   "textures/{vinehang2b.tga": {
-   "size": 262162,
+   "bytes": 262162,
+   "sha256": "4268dc2a183582d00c363a9fcd1965c026632150383d40b520fbd54f8751eaa7",
    "timestamp": "2017-06-08T11:12:48.000Z"
   }
  },
- "filesize": 30238,
  "install": {
-  "extract": "{quake}/ad/"
+  "extract": "{base}/ad/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "dbf409d7cc4ee70f2ff804644d9d708bba25aacfe4fcbeed98c8cc11fa23e1bb",
  "tags": [
   "author=Giftmacher",
   "author=Sock",
   "commandline=-game ad",
+  "exceeds_quake_limits=yes",
+  "filename=ad_sepulcher.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.simonoc.com/",
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61462)",
-  "releasedate=2017-06-17",
-  "tag=arcane dimensions",
-  "tag=e1m3",
-  "tag=exploration",
-  "tag=large",
-  "tag=limits",
-  "tag=medieval",
-  "tag=monsters",
-  "tag=necropolis",
-  "tag=quake_awards_2018_winner",
-  "tag=remix",
-  "tag=source",
-  "tag=swamp",
-  "title=The Forgotten Sepulcher"
+  "map_size=large",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=arcane dimensions",
+  "nonspecific_tag=e1m3",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=necropolis",
+  "nonspecific_tag=quake_awards_2018_winner",
+  "release_date=2017-06-17",
+  "source=included",
+  "theme=exploration",
+  "theme=medieval",
+  "theme=remix",
+  "theme=swamp",
+  "title=The Forgotten Sepulcher",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_sepulcher.zip",

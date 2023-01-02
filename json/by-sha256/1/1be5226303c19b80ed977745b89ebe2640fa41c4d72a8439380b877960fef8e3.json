@@ -1,37 +1,39 @@
 {
- "filename": [
-  "canabode.zip"
- ],
+ "bytes": 879,
  "files": {
   "canabode.bsp": {
-   "size": 2184500,
+   "bytes": 2184500,
+   "sha256": "f236f8f5dac8dddc086b4f6bac0bf4f995c8e93c4cbcb7a4b053b30985a5fd3b",
    "timestamp": "1997-12-19T00:35:40.000Z"
   },
   "canabode.txt": {
-   "size": 1858,
+   "bytes": 1858,
+   "sha256": "cbb5a1134104c785f7c3f767857853e5c011711bda8001afa137efebfaf4f8ed",
    "timestamp": "1997-12-17T23:07:52.000Z"
   }
  },
- "filesize": 879,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1be5226303c19b80ed977745b89ebe2640fa41c4d72a8439380b877960fef8e3",
  "tags": [
   "author=Ozzy Farinas",
+  "filename=canabode.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990311.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-12-13",
-  "tag=canyon",
-  "tag=cave",
-  "tag=dark",
-  "tag=medieval",
-  "tag=medium",
-  "tag=outdoor",
-  "tag=traps",
-  "title=Canyon's Abode"
+  "map_size=medium",
+  "nonspecific_tag=dark",
+  "release_date=1997-12-13",
+  "theme=canyon",
+  "theme=cave",
+  "theme=medieval",
+  "theme=outdoor",
+  "theme=traps",
+  "title=Canyon's Abode",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/canabode.zip",

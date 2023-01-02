@@ -1,27 +1,28 @@
 {
- "filename": [
-  "sm108_neg!ke.zip"
- ],
+ "bytes": 400,
  "files": {
   "sm108_neg!ke.bsp": {
-   "size": 1025400,
+   "bytes": 1025400,
+   "sha256": "86cf23eb37723e36fe291d30351cb8bffe42d7ba73c211996f4c68c92849a0b8",
    "timestamp": "2005-10-22T00:26:16.000Z"
   }
  },
- "filesize": 400,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "bfcec076b0434c1dcadb2bd596a2aa8171688e73713c2fc8aa420c6ed8ebb13b",
  "tags": [
   "author=negke",
+  "filename=sm108_neg!ke.zip",
   "game=quake",
-  "releasedate=2005-10-22",
-  "tag=blood",
-  "tag=flesh",
-  "tag=zer",
-  "title=Speedmapping pack 108 - Zerst\u00f6rer"
+  "game_mode=singleplayer",
+  "nonspecific_tag=flesh",
+  "release_date=2005-10-22",
+  "theme=blood",
+  "theme=zerst\u00f6rer",
+  "title=Speedmapping pack 108 - Zerst\u00f6rer",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm108_neg!ke.zip",

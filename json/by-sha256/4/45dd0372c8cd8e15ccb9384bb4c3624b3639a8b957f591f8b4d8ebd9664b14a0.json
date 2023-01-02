@@ -1,0 +1,54 @@
+{
+ "bytes": 482,
+ "files": {
+  "dfl_flood/ReadMe.txt": {
+   "bytes": 1847,
+   "sha256": "80a56a17a3c3e7b5b94605a05cad3ea2bd11f5bb25e247d29f884579a5051c25",
+   "timestamp": "2020-10-30T16:11:10.000Z"
+  },
+  "dfl_flood/combat1.log": {
+   "bytes": 1920,
+   "sha256": "8c020fa2b7eecb60e8942510cc0fbe0358603c56beed7a72e395cdea1a0d79a9",
+   "timestamp": "2020-10-30T15:56:06.000Z"
+  },
+  "dfl_flood/combat1.map": {
+   "bytes": 266177,
+   "sha256": "70ad66e569f112272058eaf477fcdc83b9fc9084f2ad5dddba586d7dd005b2c8",
+   "timestamp": "2020-10-30T15:55:46.000Z"
+  },
+  "dfl_flood/combat1.pts": {
+   "bytes": 56062,
+   "sha256": "7d2d8208d7fa95cbc4aae903cb238a7d890b337d26552d0042adbbda7c64a94c",
+   "timestamp": "2020-10-30T15:56:04.000Z"
+  },
+  "dfl_flood/dfl_flood.bsp": {
+   "bytes": 1024828,
+   "sha256": "b8e56b2664c0eda8f3dd8fc3e18ecf94c93d55571b82002e123b09c6918d2415",
+   "timestamp": "2020-10-30T15:56:06.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "45dd0372c8cd8e15ccb9384bb4c3624b3639a8b957f591f8b4d8ebd9664b14a0",
+ "tags": [
+  "author=Dragons For Lunch",
+  "filename=dfl_flood.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61972)",
+  "map_size=small",
+  "release_date=2020-10-30",
+  "source=included",
+  "startmap=dfl_flood/dfl_flood",
+  "theme=bricks",
+  "theme=medieval",
+  "title=Flooded Ruins",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/dfl_flood.zip",
+  "https://www.quaddicted.com/files/by-sha256/4/45dd0372c8cd8e15ccb9384bb4c3624b3639a8b957f591f8b4d8ebd9664b14a0/dfl_flood.zip"
+ ]
+}

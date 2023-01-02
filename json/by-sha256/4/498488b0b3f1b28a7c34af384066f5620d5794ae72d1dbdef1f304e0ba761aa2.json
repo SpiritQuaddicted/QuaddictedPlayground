@@ -1,34 +1,36 @@
 {
- "filename": [
-  "catacomb.zip"
- ],
+ "bytes": 550,
  "files": {
   "catacomb.bsp": {
-   "size": 1280316,
+   "bytes": 1280316,
+   "sha256": "838168d269e9689ba72df58ed021923fd1ee26e6e9155098b8272e79f97ae36f",
    "timestamp": "1996-10-17T21:25:58.000Z"
   },
   "catacomb.txt": {
-   "size": 4752,
+   "bytes": 4752,
+   "sha256": "c10e682b72f46c6654983d501d42237d3122da007e7e6b82c4a4da06225f8d02",
    "timestamp": "1996-10-17T19:11:02.000Z"
   }
  },
- "filesize": 550,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "498488b0b3f1b28a7c34af384066f5620d5794ae72d1dbdef1f304e0ba761aa2",
  "tags": [
   "author=Mike Melzer",
+  "filename=catacomb.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsc.htm)",
-  "releasedate=1996-10-17",
-  "tag=catacombs",
-  "tag=mandatory secret",
-  "tag=mine",
-  "tag=mixtex",
-  "tag=small",
-  "title=The Catacombs"
+  "map_size=small",
+  "nonspecific_tag=catacombs",
+  "release_date=1996-10-17",
+  "theme=mandatory secret",
+  "theme=mine",
+  "theme=mixtex",
+  "title=The Catacombs",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/catacomb.zip",

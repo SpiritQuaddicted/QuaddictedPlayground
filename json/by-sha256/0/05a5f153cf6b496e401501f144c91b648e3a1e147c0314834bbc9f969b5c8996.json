@@ -1,0 +1,1388 @@
+{
+ "bytes": 100785,
+ "files": {
+  "jokejam/demo1.dem": {
+   "bytes": 1100957,
+   "sha256": "2e960a255b30678ad2196e0eb3234aeb7e7de629514536586d2cd57f11703bb5",
+   "timestamp": "2020-03-31T12:44:42.000Z"
+  },
+  "jokejam/demo2.dem": {
+   "bytes": 1312542,
+   "sha256": "d4dc1fc62b9651fc070dfff8cd6323e0b6c0635f4c738774d5c10bcc071a13d7",
+   "timestamp": "2020-03-31T12:59:02.000Z"
+  },
+  "jokejam/demo3.dem": {
+   "bytes": 500165,
+   "sha256": "a1029ecff67ff203a08606d88b9fb444e2a914427846d14af96c0cc0983364a7",
+   "timestamp": "2020-03-31T12:50:50.000Z"
+  },
+  "jokejam/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-30T11:41:38.000Z"
+  },
+  "jokejam/gfx/conback.bmp": {
+   "bytes": 65080,
+   "sha256": "c9ae3d9ccc7a90cb9ab202dd1c2aeb7cb4ecf496c32e042f8ad66704cd7643f6",
+   "timestamp": "2020-03-30T11:40:56.000Z"
+  },
+  "jokejam/gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "0cb8c56ea4a9467563b975fc407c1a4c3fbc6c00982ea956b66a93787041c42f",
+   "timestamp": "2020-03-30T11:41:38.000Z"
+  },
+  "jokejam/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T20:01:28.000Z"
+  },
+  "jokejam/gfx/env/intheclouds_bk.tga": {
+   "bytes": 575025,
+   "sha256": "46728836729b8e692e03f573be06036599d7135e27cd320432757ded61c77f20",
+   "timestamp": "2020-03-29T19:53:22.000Z"
+  },
+  "jokejam/gfx/env/intheclouds_dn.tga": {
+   "bytes": 436519,
+   "sha256": "f698a2be0effd53ad399d707de850f89993a709d685f4ba808808538ef7ee806",
+   "timestamp": "2020-03-29T19:53:22.000Z"
+  },
+  "jokejam/gfx/env/intheclouds_ft.tga": {
+   "bytes": 534713,
+   "sha256": "63b5ef18c0c1f38e832a5b8c9cc75081fcce2776182d21383f58c6753e8075f9",
+   "timestamp": "2020-03-29T19:53:22.000Z"
+  },
+  "jokejam/gfx/env/intheclouds_lf.tga": {
+   "bytes": 508530,
+   "sha256": "63421b48964a2fc0347b42b6cc2a9f7bdeb017719d462793f752549d4054eebe",
+   "timestamp": "2020-03-29T19:53:22.000Z"
+  },
+  "jokejam/gfx/env/intheclouds_rt.tga": {
+   "bytes": 575213,
+   "sha256": "2ab0360278823ad34074fae40d064951f70785448218fe578aa124fa0f5a3f89",
+   "timestamp": "2020-03-29T19:53:22.000Z"
+  },
+  "jokejam/gfx/env/intheclouds_up.tga": {
+   "bytes": 215489,
+   "sha256": "2837d0ae6f86c6914cb6f4b30b232a1c67b52343202d95b83d2dee54c8257731",
+   "timestamp": "2020-03-29T19:53:22.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:57:08.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/readme.txt": {
+   "bytes": 1269,
+   "sha256": "c26fb88910e6cb97a87da538843b37e52217000f4430ec2e14ac1fa3c8b3da3f",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/sea_bk.tga": {
+   "bytes": 638948,
+   "sha256": "170e42c30f1f8e2deaed683473d3c67bf0e885edeb8ec9b00ff6769320d57502",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/sea_dn.tga": {
+   "bytes": 532743,
+   "sha256": "4637e458d2d91cb7c5802816a01b4669efa49a2d97a58bcb98a0c9e3d9c1de61",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/sea_ft.tga": {
+   "bytes": 525586,
+   "sha256": "fb3c3d3004ad5a56c744aee3de8bff6439786a3b0a168ccdf4fab38a3e13bec5",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/sea_lf.tga": {
+   "bytes": 532231,
+   "sha256": "a5f9b8137797aa04d488c23892e35585c460cd002658e0ae4127b9223d2ec6c1",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/sea_rt.tga": {
+   "bytes": 550838,
+   "sha256": "c2ca54b53cad775da7e63bacae2fc281333609148faa90ee60608d8eb201d5f2",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/sea_up.tga": {
+   "bytes": 564066,
+   "sha256": "800926692ec9480339ff1dabe529dabab91f982ec3ed5a2f46731be6cf701497",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/gfx/env/sor_sea/sor_sea.shader": {
+   "bytes": 328,
+   "sha256": "9bb25e623501b4afa8aa627c7eff041e043a728be7fb6beebb2a277f40578645",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/gfx/env/vrkorabk.tga": {
+   "bytes": 4194348,
+   "sha256": "79cd08ceeb7ff674f4e18f281b9289de128ce88b8982ca47b87f5742584c5208",
+   "timestamp": "2020-02-28T11:00:04.000Z"
+  },
+  "jokejam/gfx/env/vrkoradn.tga": {
+   "bytes": 4194348,
+   "sha256": "cb39310a9f9933295198362cad6ba3aecd28fc3609c4ff85bc4f54a0f1d941ca",
+   "timestamp": "2020-02-28T11:00:38.000Z"
+  },
+  "jokejam/gfx/env/vrkoraft.tga": {
+   "bytes": 4194348,
+   "sha256": "7f7c796bd63021ce582cf0ff7d4e2485ebdfd40dba409faaa59479ae61247f58",
+   "timestamp": "2020-02-28T11:01:02.000Z"
+  },
+  "jokejam/gfx/env/vrkoralf.tga": {
+   "bytes": 4194348,
+   "sha256": "ca1f2782b5b25a6f13c59326998f365217de43ed98d9ba8e3aa996618945788e",
+   "timestamp": "2020-02-28T11:01:20.000Z"
+  },
+  "jokejam/gfx/env/vrkorart.tga": {
+   "bytes": 4194348,
+   "sha256": "326266c10e8824aeaf06254149d81dd57e21d33a60f92aee9f953418811748d4",
+   "timestamp": "2020-02-28T11:01:38.000Z"
+  },
+  "jokejam/gfx/env/vrkoraup.tga": {
+   "bytes": 4194348,
+   "sha256": "faf1c4912a86714c037f84998e177fba8c4b59d3dd28120e1d6d3b94a524cb45",
+   "timestamp": "2020-02-28T11:01:56.000Z"
+  },
+  "jokejam/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-04-01T07:54:36.000Z"
+  },
+  "jokejam/maps/brkpinchy/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart1.bsp": {
+   "bytes": 29572,
+   "sha256": "7a783a1b5f9ef682d174747c327774540e1ac3619d94f4d1c9bff8a39695f98a",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart1.map": {
+   "bytes": 764,
+   "sha256": "15cb5b0488921251cceb8ccd74cc99b7b1a3e20068ee4cb2082df8c53faad86b",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart2.bsp": {
+   "bytes": 29664,
+   "sha256": "e66bb78705620c48345c4ab04c44e74b358fd36e47e99c101a52ed7a229e10f8",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart2.map": {
+   "bytes": 777,
+   "sha256": "6a598b5bd256422ae4af5770bb59a4f6e71e4c23fd1b278f7adc155cd518fb29",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart3.bsp": {
+   "bytes": 29840,
+   "sha256": "e6025d1b9787d5a9ea39a9e6a64d68296ff681759756f42d6c5b32529eae7115",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart3.map": {
+   "bytes": 808,
+   "sha256": "eb7817de824127c2da715ae11437c0ab804ddab6f43a184f390f157e0785c939",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart4.bsp": {
+   "bytes": 29672,
+   "sha256": "5ebf9d34e6040e7f9db218869731b3dbb3f10421d0cb11846be8a63c5990d82c",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart4.map": {
+   "bytes": 796,
+   "sha256": "e41d7deb728356e513bde68126ee89e0c1dba74af30d2bc630c9fd8dde48d4b5",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart5.bsp": {
+   "bytes": 14404,
+   "sha256": "372be59c2d87d6bebffb3f5868e533e8c9ac099761705b5a04a8db53a93c393d",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/brkpinchy/qmart5.map": {
+   "bytes": 1294,
+   "sha256": "1bd0fa470ab5e24ceb5884f7160b4ad5afed9273001f45f22c5b6ab093d8c567",
+   "timestamp": "2020-03-29T21:28:06.000Z"
+  },
+  "jokejam/maps/debris/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T20:00:58.000Z"
+  },
+  "jokejam/maps/debris/brick01.bsp": {
+   "bytes": 7912,
+   "sha256": "c11880924b195ed38908cbf50f9cd16f071918df0a94a19c7254b93dddb1e62d",
+   "timestamp": "2019-01-11T23:18:38.000Z"
+  },
+  "jokejam/maps/debris/glass_brk.bsp": {
+   "bytes": 24020,
+   "sha256": "dc7079387dfd32d42055e53414a8943708308e1e6dad79ff57766a9d4b820396",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/maps/debris/wood1.bsp": {
+   "bytes": 7584,
+   "sha256": "c39390e3757553352941fcc255da6498be4c25a87575871e360a0166fac592bc",
+   "timestamp": "2019-03-11T19:37:26.000Z"
+  },
+  "jokejam/maps/jokejam_artistical.bsp": {
+   "bytes": 11925664,
+   "sha256": "66e3525609877718a8ccac957c8b4ef9feef28eac0eef1e42c4955b13a51dd16",
+   "timestamp": "2020-04-01T05:59:32.000Z"
+  },
+  "jokejam/maps/jokejam_artistical.lit": {
+   "bytes": 9964496,
+   "sha256": "4004b371589f69b960e6cde1c410777943c0c8f45b89c1ef7a9d73c7bad98e04",
+   "timestamp": "2020-04-01T05:59:22.000Z"
+  },
+  "jokejam/maps/jokejam_bonus.bsp": {
+   "bytes": 511548,
+   "sha256": "972bdb5a0738e75e2ee75f37e6f7280d53dcf298b47ddedd13fd52ce1f31b2d0",
+   "timestamp": "2020-04-01T07:52:28.000Z"
+  },
+  "jokejam/maps/jokejam_bonus.lit": {
+   "bytes": 481706,
+   "sha256": "56fbc8b6df0d8aaced189c6a33d09e07a5281a89371d310236abf4ba29a61f57",
+   "timestamp": "2020-04-01T07:52:28.000Z"
+  },
+  "jokejam/maps/jokejam_boxfigs.bsp": {
+   "bytes": 916684,
+   "sha256": "31479543d0c0ff49869c3311b18e9296948ed5c117c7a6ba10a13c55b11e4324",
+   "timestamp": "2020-03-29T19:35:50.000Z"
+  },
+  "jokejam/maps/jokejam_greenwood.bsp": {
+   "bytes": 1631504,
+   "sha256": "359b45c5ea569b5b7a40ec85196e993fa2073943a4c0dfe195a3a6bef34c9756",
+   "timestamp": "2020-03-31T14:56:18.000Z"
+  },
+  "jokejam/maps/jokejam_greenwood2.bsp": {
+   "bytes": 2636072,
+   "sha256": "a7b520745a8e392020ead28df10ce822eb7150d1f1a9f45a85747a57f9845572",
+   "timestamp": "2020-03-31T15:42:28.000Z"
+  },
+  "jokejam/maps/jokejam_markie.bsp": {
+   "bytes": 4792396,
+   "sha256": "063b4f6f2888ebdfe2222610db8f617f21e49a5c7282b69ed5c1485f66fdb29d",
+   "timestamp": "2020-03-31T17:30:46.000Z"
+  },
+  "jokejam/maps/jokejam_markie.lit": {
+   "bytes": 1300604,
+   "sha256": "9cd7bf5214f3495b0b9fa95f122401dda3e36a8ba4653d1e5761a0ea49a4338d",
+   "timestamp": "2020-03-31T17:30:46.000Z"
+  },
+  "jokejam/maps/jokejam_nolcoz.bsp": {
+   "bytes": 6479856,
+   "sha256": "d5da8cb3eed323a5da68c7b99ec88a5ccb54e982ff16a194e3b8ee26824a2083",
+   "timestamp": "2020-03-29T19:53:22.000Z"
+  },
+  "jokejam/maps/jokejam_nolcoz.lit": {
+   "bytes": 2018819,
+   "sha256": "0f671db967c00364ca99b3deaec23611617a8e56fca22c7d7af9682ee1635610",
+   "timestamp": "2020-03-29T19:53:22.000Z"
+  },
+  "jokejam/maps/jokejam_omni.bsp": {
+   "bytes": 2898500,
+   "sha256": "8ee0a33cd1783af955f0ba4425f4c36956470699b39f9f59f03245578ba75b8b",
+   "timestamp": "2020-03-31T19:11:26.000Z"
+  },
+  "jokejam/maps/jokejam_omni.lit": {
+   "bytes": 2028695,
+   "sha256": "18ee26e4de311d939475dd345b71d31326c60e8f742a3d0da0cd5b98390c90fa",
+   "timestamp": "2020-03-31T19:11:26.000Z"
+  },
+  "jokejam/maps/jokejam_pinchy.bsp": {
+   "bytes": 2392696,
+   "sha256": "578da5c688e568556a811c0fa91390c5d93716ed509ff5d0cee9f383f1d3b7aa",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/maps/jokejam_pinchy.lit": {
+   "bytes": 848792,
+   "sha256": "406c5296f708d15274e622ab4509c4d109f1bf8b749684f6786fd101e6147346",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/maps/jokejam_quasiotter.bsp": {
+   "bytes": 1341880,
+   "sha256": "fb67ff5651c516130c4eaad94ac564759cb04202b370aae3c8d974eba8ca5efe",
+   "timestamp": "2020-04-01T00:00:14.000Z"
+  },
+  "jokejam/maps/jokejam_quasiotter.lit": {
+   "bytes": 646091,
+   "sha256": "fe9a276ec5da64e0055b8341ca8f039eaa09c2cea858f3156d5d2c9eb03d0248",
+   "timestamp": "2020-03-31T23:59:16.000Z"
+  },
+  "jokejam/maps/jokejam_scampi.bsp": {
+   "bytes": 27989012,
+   "sha256": "6198c7108408fbc9800ab8ce31c480110b21024398921607c4c0f161c35ca326",
+   "timestamp": "2020-03-29T19:54:10.000Z"
+  },
+  "jokejam/maps/jokejam_scampi.lit": {
+   "bytes": 10062902,
+   "sha256": "9e577e9ba6253d65b45d3ce0e55f13cff66f8634c99b7453f8de8900c62ceaee",
+   "timestamp": "2020-03-29T19:54:10.000Z"
+  },
+  "jokejam/maps/jokejam_ssw.bsp": {
+   "bytes": 2541196,
+   "sha256": "e72e2d275af4dddc963b6e15e17bce78b58be6650474055d7af7a2ec443dfcba",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/maps/jokejam_ssw.lit": {
+   "bytes": 610016,
+   "sha256": "9cfde549eca82f6505350daf0386e808b3147640429beb7cacc42f95e11b61b0",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/maps/jokejam_zigi.bsp": {
+   "bytes": 2950128,
+   "sha256": "bb66c8945a42a37828a4fb4421334b96827032a2a3162fe961ea676fa198dd3f",
+   "timestamp": "2020-03-22T06:01:06.000Z"
+  },
+  "jokejam/maps/jokejam_zigi.lit": {
+   "bytes": 1057838,
+   "sha256": "32245e9e7932441a93debbdf93519d7b82b567a0640ce778d3e1f5b950367e95",
+   "timestamp": "2020-03-22T06:01:06.000Z"
+  },
+  "jokejam/maps/mapsrc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-04-01T07:54:36.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_artistical.map": {
+   "bytes": 2470580,
+   "sha256": "f3a007a7df37d734aa7832232b6fccd4141797f53cb8a94aa4ba77e8c1076dba",
+   "timestamp": "2020-04-01T05:58:32.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_bonus.map": {
+   "bytes": 230411,
+   "sha256": "d239789ecdc72c9e108f1f16e2499b57570dee28b84e673e4aced77b4359f9c6",
+   "timestamp": "2020-04-01T07:52:24.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_boxfigs.map": {
+   "bytes": 371541,
+   "sha256": "1bb3d27874c127b42d5b476de10207c002cae3aeb4b5bff572c61b0678c65c55",
+   "timestamp": "2020-03-29T19:35:52.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_markie.map": {
+   "bytes": 2900109,
+   "sha256": "9055588569b0d81a87dc7ca181eb5c8f1e79f2fc15432fea0bd0267e2796471c",
+   "timestamp": "2020-03-31T17:30:46.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_nolcoz.map": {
+   "bytes": 3229833,
+   "sha256": "24f84fc4ef041111b26e034847051e264dd52e57cc035ee871cbe4ee6d73a8c2",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_omni.map": {
+   "bytes": 1716007,
+   "sha256": "5f65fdd91a0c4572170d8dfb1341a50200c36c3503f59aea506d855f580973c1",
+   "timestamp": "2020-03-27T21:48:00.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_pinchy.map": {
+   "bytes": 2412877,
+   "sha256": "c1f0048ae35bfb651a4e07362c0ae58ad5f848930407e08c13a7ae827a4ca6a4",
+   "timestamp": "2020-03-29T19:53:16.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_quasiotter.map": {
+   "bytes": 492926,
+   "sha256": "58410da5d730b1d0200c26762ab76224570e30e92b8f4cc8ed8b04afc90e152e",
+   "timestamp": "2020-03-29T19:54:04.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_scampi.map": {
+   "bytes": 22265361,
+   "sha256": "79334b078a5c03a2506899a4597608c75c50f4da503bcb2b44dc2d1309fb6854",
+   "timestamp": "2020-03-29T19:54:12.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_ssw.map": {
+   "bytes": 1573308,
+   "sha256": "efe49993d6f0b69315fd8411b2cdae98e1edbb1504916f198da3a8ee19da91d6",
+   "timestamp": "2020-03-29T19:53:40.000Z"
+  },
+  "jokejam/maps/mapsrc/jokejam_ssw.wad": {
+   "bytes": 1038748,
+   "sha256": "d069c7c8760f461d22677529bc48eacb2cfe4e5645496cb992dbed83dade90c7",
+   "timestamp": "2020-03-29T19:53:40.000Z"
+  },
+  "jokejam/maps/mapsrc/start.map": {
+   "bytes": 159680,
+   "sha256": "ed5596c9c1c5ae7ef7548b6a03c249ecd12b9928ade02d2e31a34643f85376ba",
+   "timestamp": "2020-04-01T07:47:46.000Z"
+  },
+  "jokejam/maps/start.bsp": {
+   "bytes": 2394584,
+   "sha256": "98b7ff1beee7a9b63ebff292007ee97ab1b7ea546260cd01b830a58d13e42dc0",
+   "timestamp": "2020-04-01T07:48:02.000Z"
+  },
+  "jokejam/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-04-01T07:55:12.000Z"
+  },
+  "jokejam/music/Track84.ogg": {
+   "bytes": 1059590,
+   "sha256": "36899249d72ad75f39b124bea7fee74d476981de95689003496a09376cfdc309",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/music/track14.mp3": {
+   "bytes": 1757182,
+   "sha256": "ed14250bbe4edcb2da680df087442a38112f147f4061fe4c8f6b26c613f0b39c",
+   "timestamp": "2020-03-31T17:48:54.000Z"
+  },
+  "jokejam/music/track18.mp3": {
+   "bytes": 10240044,
+   "sha256": "56b90615bf39d7d91f620f0bae19c765f3371debfc63af7a460e6af375c33ce5",
+   "timestamp": "2020-03-31T23:05:00.000Z"
+  },
+  "jokejam/music/track18.ogg": {
+   "bytes": 8813688,
+   "sha256": "cbe70705334d035d2dd0340bfdc79a370c51b8e0f2bf422d31bd06ef00ecc9e5",
+   "timestamp": "2020-03-31T23:04:58.000Z"
+  },
+  "jokejam/music/track19.mp3": {
+   "bytes": 6254382,
+   "sha256": "3a4f2c14105cf7c425f23623715de3f14c69ccacc5fbd6a2d5a78e233b6b62c1",
+   "timestamp": "2018-08-22T23:11:24.000Z"
+  },
+  "jokejam/music/track76.mp3": {
+   "bytes": 4782592,
+   "sha256": "fc4abffcc6dfbdb1d73b09abceb0e1c80fda89089dbe5eced68cd863b2f16318",
+   "timestamp": "2020-03-29T19:47:30.000Z"
+  },
+  "jokejam/music/track77.mp3": {
+   "bytes": 7614959,
+   "sha256": "59e1d13fb7cb4644aec554403f93659efbd89f0b0a835c88c4b57c13a5b8dff4",
+   "timestamp": "2020-03-21T03:20:44.000Z"
+  },
+  "jokejam/music/track92.ogg": {
+   "bytes": 4775098,
+   "sha256": "d4bf60288a379ed83200c8aa848f68d5626febac030f9a9a7e224161ace13c27",
+   "timestamp": "2020-03-29T19:53:52.000Z"
+  },
+  "jokejam/progs.dat": {
+   "bytes": 553270,
+   "sha256": "88c4a1f78506c36762ddeef8d9836a3f29db8ac6457947eb12c85c4cfd80638c",
+   "timestamp": "2020-04-01T08:12:28.000Z"
+  },
+  "jokejam/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T20:01:28.000Z"
+  },
+  "jokejam/progs/candle.mdl": {
+   "bytes": 24135,
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2018-10-10T20:27:08.000Z"
+  },
+  "jokejam/progs/confetti.spr": {
+   "bytes": 7319,
+   "sha256": "fd9d72f6f2d3eb6ba8d8c3e114c064548ecafd1cf37c82c56df83b7d06ef9447",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/confetti2.spr": {
+   "bytes": 8432,
+   "sha256": "a21c7e252836cdea91816d0b72d3fe1080a4e2313709c34c1a7d8d39c9bbb6b7",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/crit_hit_anim.spr": {
+   "bytes": 25264,
+   "sha256": "73c8362619c5ea530371ce0d2ef2c1ab77c6ea3918347675994efd0582c1da7e",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/debris.mdl": {
+   "bytes": 270552,
+   "sha256": "714b4fc3ce6675f0f4edc6ed7022e817f3922cde1877eb5418e4ddf60d798724",
+   "timestamp": "2019-11-06T21:33:52.000Z"
+  },
+  "jokejam/progs/demon.mdl": {
+   "bytes": 163644,
+   "sha256": "b7b6c294162740e12ba2b2c366543cc71bb20b335889506b6ff18ad24e13ec89",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/enforcer.mdl": {
+   "bytes": 276136,
+   "sha256": "ce27261806f7cbf161e0fbe43a05091e870866468296b2bf86d764040294e458",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2019-05-17T11:20:46.000Z"
+  },
+  "jokejam/progs/g_shotty.mdl": {
+   "bytes": 23380,
+   "sha256": "b919bbcba3f7f03fb8b82fa6d3b1464ca41e81cf29417cfea0de09658c698cfb",
+   "timestamp": "2019-05-17T12:07:18.000Z"
+  },
+  "jokejam/progs/gw/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:47:32.000Z"
+  },
+  "jokejam/progs/gw/misc_lightpost.mdl": {
+   "bytes": 44717,
+   "sha256": "bb226da110f4005ddbfd965ac52e4fa61192831bbbca4ec1f93529978a78e359",
+   "timestamp": "2020-03-29T19:47:30.000Z"
+  },
+  "jokejam/progs/gw/misc_lighttube.mdl": {
+   "bytes": 97042,
+   "sha256": "27fbc5b7625e6297507778c7e48c4d26303c7e15cb0febf4d7592a844522fc77",
+   "timestamp": "2020-03-29T19:47:30.000Z"
+  },
+  "jokejam/progs/gw/misc_oscill.mdl": {
+   "bytes": 50660,
+   "sha256": "cdc96265a646f9e9fb4c1717fa90edb13e42130fadc4dc774b60aeb94b89eac4",
+   "timestamp": "2020-03-29T19:47:30.000Z"
+  },
+  "jokejam/progs/gw/misc_smoke.mdl": {
+   "bytes": 31792,
+   "sha256": "8d39b97460c9967ee36b33ea1ef1e92e89277fc410b44f054c5e06b8dc8a079c",
+   "timestamp": "2020-03-29T19:47:30.000Z"
+  },
+  "jokejam/progs/gw/pallet.mdl": {
+   "bytes": 509927,
+   "sha256": "1b9c50111cedb48559424870b46a3d19cb1ac5b43ef3f165fbe928a3f7e90883",
+   "timestamp": "2020-03-29T19:47:32.000Z"
+  },
+  "jokejam/progs/h_boss.mdl": {
+   "bytes": 63532,
+   "sha256": "320aff68d374f002ed468bf17ddeca4d95f59ef68c7dd3a17287fef2da1f0b46",
+   "timestamp": "2020-02-02T14:43:06.000Z"
+  },
+  "jokejam/progs/hknight.mdl": {
+   "bytes": 275836,
+   "sha256": "da725d46544f6ef3af915b8209ddab97eb67508339d4eaaf323ea7f9f166907b",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/knight.mdl": {
+   "bytes": 156072,
+   "sha256": "09c1fdf9f816bfcce19950b818bbf0a5f0034f609c6bf4f8c39cd18d31c92b96",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/misc_madfish.mdl": {
+   "bytes": 84104,
+   "sha256": "30c19dadb42a53c7ccd35f992c5841aee13a86796157ea5e0453a4cb1586a1be",
+   "timestamp": "2020-03-22T01:29:48.000Z"
+  },
+  "jokejam/progs/nolcoz/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:58:38.000Z"
+  },
+  "jokejam/progs/nolcoz/misc_flame_big.mdl": {
+   "bytes": 244895,
+   "sha256": "09adba1308cdf22d2f07e226cb13a35e51f4d54866f84f41e2074dc7a40371d5",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/progs/nolcoz/misc_lightpost.mdl": {
+   "bytes": 44717,
+   "sha256": "bb226da110f4005ddbfd965ac52e4fa61192831bbbca4ec1f93529978a78e359",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/progs/nolcoz/snakeman.mdl": {
+   "bytes": 132028,
+   "sha256": "8824603b325f37bbba424f55c3ff900c21ccf61c77ba97e636e91ef99202364a",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/progs/nolcoz/snakeman_down.mdl": {
+   "bytes": 210288,
+   "sha256": "039d9bec87c56227c4dc0a610cc83c13b32272e31cec2c9bf85ca9ca9139c3b3",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/progs/nolcoz/snakeman_old.mdl": {
+   "bytes": 210288,
+   "sha256": "1f564907c923158a7d7dfdaab6dabaa209d41f1120f4f6d547b4e4221e907a2f",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/progs/nolcoz/snakeman_wide.mdl": {
+   "bytes": 210288,
+   "sha256": "589e974e2c0ade91abc247f53d2de0fe5d4427252da9ad619a96554db4edcd91",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/progs/ogre.mdl": {
+   "bytes": 213256,
+   "sha256": "ad905e0ada351561d9a9adf65ea2b221487617660dfcb72052140375500b019f",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/pd_base_key.mdl": {
+   "bytes": 21219,
+   "sha256": "320ec52018f501f8fe428dd46f44693787e545289be883a49f3bd6476974cf46",
+   "timestamp": "2019-11-15T20:29:12.000Z"
+  },
+  "jokejam/progs/pd_rune_key.mdl": {
+   "bytes": 46335,
+   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
+   "timestamp": "2019-11-15T20:40:24.000Z"
+  },
+  "jokejam/progs/pd_wiz_key.mdl": {
+   "bytes": 21907,
+   "sha256": "36b50211f687813b85648a46bd32a1d543a8f2af84e9d4223f8b5843f885e1bc",
+   "timestamp": "2019-11-15T20:33:36.000Z"
+  },
+  "jokejam/progs/player.mdl": {
+   "bytes": 249280,
+   "sha256": "11ce8f1eb6205f2ae36b8cf34d1636b00e6582d5b8719dc5f4a6bde0cd64280e",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/s_explod1.spr": {
+   "bytes": 18972,
+   "sha256": "37bc3d90965d846cbd8bc83cd4891d357a70816bb6af9ee6dfe471efed79a5ed",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/s_explod2.spr": {
+   "bytes": 632,
+   "sha256": "a7a3c4b33d82fc9dd2b88b4f0b53ed6bbf08839d85a0bcaccf54363a4712d4de",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/s_flame.spr": {
+   "bytes": 29224,
+   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
+   "timestamp": "2018-10-01T22:43:54.000Z"
+  },
+  "jokejam/progs/s_null.spr": {
+   "bytes": 1080,
+   "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+   "timestamp": "2019-10-03T23:17:30.000Z"
+  },
+  "jokejam/progs/shalrath.mdl": {
+   "bytes": 124116,
+   "sha256": "d0ba23889599933d462de8b87b29a93843e608f8789eb22c8212d3a7878af025",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/shambler.mdl": {
+   "bytes": 133980,
+   "sha256": "bd88f8811bc89933f34eb74d6ce8f98dfeffa0ef426b3067944451383d5fea1c",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/soldier.mdl": {
+   "bytes": 204492,
+   "sha256": "b4cedc316769599c4e50ea8d5ecb5b6331d1b8ab64d9105c845906ca955b7ea4",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/progs/spark.mdl": {
+   "bytes": 9588,
+   "sha256": "74dc6734e0ce30447942a10e9ec78c7cf43eafb86f290cc772b2a8874702b858",
+   "timestamp": "2019-06-03T21:21:02.000Z"
+  },
+  "jokejam/promo/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:51:00.000Z"
+  },
+  "jokejam/promo/jokejam_promo.gif": {
+   "bytes": 5816916,
+   "sha256": "0c58c860411ed6dc812fb9c3b2f0c110761d4755a25a5369e891a00788e73c31",
+   "timestamp": "2020-02-13T23:08:04.000Z"
+  },
+  "jokejam/promo/jokejam_promo_static.png": {
+   "bytes": 1577561,
+   "sha256": "8467beb66027cfa2a1571ef696edc35d080eeb53d5f4498ef696456d57d9d963",
+   "timestamp": "2020-02-13T23:11:10.000Z"
+  },
+  "jokejam/quake.rc": {
+   "bytes": 383,
+   "sha256": "ef8abcf3a0b28de78da338e938fb6a6f08942a526798bf5ec82df4c2f184974b",
+   "timestamp": "2020-03-31T13:03:38.000Z"
+  },
+  "jokejam/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-31T16:26:18.000Z"
+  },
+  "jokejam/sound/break/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:22:20.000Z"
+  },
+  "jokejam/sound/break/pd_bricks1.wav": {
+   "bytes": 61786,
+   "sha256": "3829842a9cb395f99d07546be38263eaf0ee5bbed71841aa8c93864d55a7fb94",
+   "timestamp": "2019-03-27T14:52:22.000Z"
+  },
+  "jokejam/sound/break/pd_metal1.wav": {
+   "bytes": 44146,
+   "sha256": "c0111b94231bc3870cbb95ec03f13b2b44ac407a5d18b35668ccf231303cc8aa",
+   "timestamp": "2019-03-27T17:05:02.000Z"
+  },
+  "jokejam/sound/break/pd_metal2.wav": {
+   "bytes": 70722,
+   "sha256": "ce8250482e831c270cc3c8e9211b74a627b3e29159c2c8ee720dd11cafd365c1",
+   "timestamp": "2019-03-27T17:47:12.000Z"
+  },
+  "jokejam/sound/break/pd_stones1.wav": {
+   "bytes": 75150,
+   "sha256": "632d15db23ff70c23c199595b41a153ded67f664de46b7d0cbfa0228f071156e",
+   "timestamp": "2019-03-27T16:43:52.000Z"
+  },
+  "jokejam/sound/break/pd_wood1.wav": {
+   "bytes": 34526,
+   "sha256": "621865f52fc27fb10108027ce3eea18aaf17181751a3ba1ceee0c9c99da9f375",
+   "timestamp": "2019-03-27T14:49:08.000Z"
+  },
+  "jokejam/sound/break/pd_wood2.wav": {
+   "bytes": 33342,
+   "sha256": "77282f2c533b9aec72b232aace9078534db3f255f418efafdf769c7361a28e05",
+   "timestamp": "2019-03-27T14:47:40.000Z"
+  },
+  "jokejam/sound/clown/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T20:01:28.000Z"
+  },
+  "jokejam/sound/clown/ClownHorn1.wav": {
+   "bytes": 12306,
+   "sha256": "7d15fd3473095a3412cc05839fb6c8e899c56524f9f86328005ffce6320d427f",
+   "timestamp": "2020-03-21T03:46:16.000Z"
+  },
+  "jokejam/sound/clown/ClownHorn2.wav": {
+   "bytes": 12224,
+   "sha256": "acfc204b592b9fcbdc9d0587855a10e7e32b065a032fc0e3a5f29d48f1eaf008",
+   "timestamp": "2020-03-21T03:46:26.000Z"
+  },
+  "jokejam/sound/clown/LaughAlt2.wav": {
+   "bytes": 26442,
+   "sha256": "71a17e1fa4e8b6376e5b6937fa554ac3e6c9165acaf457b8eec6dc2d236e24a5",
+   "timestamp": "2020-03-21T03:44:40.000Z"
+  },
+  "jokejam/sound/clown/LaughAlt3.wav": {
+   "bytes": 19236,
+   "sha256": "4fb65517de8620b99b8f990615442a9d011fdd9e1ad29246e531658d0a3d5629",
+   "timestamp": "2020-03-21T03:45:32.000Z"
+  },
+  "jokejam/sound/clown/Tadaa1.wav": {
+   "bytes": 37910,
+   "sha256": "11a19c4385f83561859ac3d0d99dd93ad6336715ca328437b23cce626c159f2f",
+   "timestamp": "2020-03-21T03:46:00.000Z"
+  },
+  "jokejam/sound/clown/laugh02.wav": {
+   "bytes": 29884,
+   "sha256": "75d6bf6be3f7aadff6478ad867c5f5f7a36c849734eb6bcd5ec7a3a42e612483",
+   "timestamp": "2020-03-21T03:45:10.000Z"
+  },
+  "jokejam/sound/clown/laugh03.wav": {
+   "bytes": 42072,
+   "sha256": "636d5cb018c5be4b66f2d680cda89e9374d7c0db1a995c98f9cf6c83c6e93736",
+   "timestamp": "2020-03-21T03:45:18.000Z"
+  },
+  "jokejam/sound/dump/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:22:20.000Z"
+  },
+  "jokejam/sound/dump/elec22k.wav": {
+   "bytes": 82784,
+   "sha256": "dd63a8517e33bbe7a75cd0d6ccb16835b73f83af8d31c0ae0277b7304f7d502b",
+   "timestamp": "2019-05-28T01:37:32.000Z"
+  },
+  "jokejam/sound/dump/rumble.wav": {
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+   "timestamp": "2019-05-31T19:51:26.000Z"
+  },
+  "jokejam/sound/dump/spark.wav": {
+   "bytes": 14684,
+   "sha256": "55ba43047ffc794bc65b1002b351b3a13bc271346cb060e01c093f56dd960e7f",
+   "timestamp": "2019-06-03T21:21:06.000Z"
+  },
+  "jokejam/sound/dump/water_59_02.wav": {
+   "bytes": 47588,
+   "sha256": "497d1f4ed49567058da6e2618097a06c947f8131a8205f2c9c09219296780cad",
+   "timestamp": "2018-10-01T22:43:54.000Z"
+  },
+  "jokejam/sound/nolcoz/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:58:38.000Z"
+  },
+  "jokejam/sound/nolcoz/amb_t1.wav": {
+   "bytes": 581234,
+   "sha256": "410d068f5018159cedd62abb7812a9e28df2125d56339654e64b8d18ed80c62a",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/death_f1.wav": {
+   "bytes": 15370,
+   "sha256": "a97f1c2763f67d02fea285b73d0298ca16beedc990b5b21a7ffa0eff3daa0812",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/death_f2.wav": {
+   "bytes": 9868,
+   "sha256": "8a5b2c66000e587cf48df875c4449be9f7023ce2cef95a4ec4925f43f5df5ea0",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/death_f3.wav": {
+   "bytes": 9094,
+   "sha256": "b3562dbdf5be3eea43f1ad93b73f4c829c865ebba367392527f149aadbd2907b",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/death_m1.wav": {
+   "bytes": 12844,
+   "sha256": "11e336e5dce7d68b8cd304fe4aa7935a51da08f27cddfb2ddfcfb52b10e3111a",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/death_o1.wav": {
+   "bytes": 25290,
+   "sha256": "07575373cefd5e038d26a59c1fd767eb2d62c813a1adca1aa7cf8913ffa9434c",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/death_o2.wav": {
+   "bytes": 20388,
+   "sha256": "05495ad46605fb7b0a8e3a0c60bb490eafa7a0ba28ba5ba05b92fe6e3640a507",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/death_o3.wav": {
+   "bytes": 16876,
+   "sha256": "23dce753a579dd3aaa08e69ded075b4138f694f514550f795f3283fc151cbfae",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/death_o4.wav": {
+   "bytes": 14996,
+   "sha256": "43e88240ace9dc599df8312899556e2249930eef6c9a19553422cb7d0ee1118c",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/music01.wav": {
+   "bytes": 1414790,
+   "sha256": "4cebec616509d66776a22a6e01d45fe54d54b1a92d40f16d7186b95a7a71a5c8",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/music02.wav": {
+   "bytes": 2433606,
+   "sha256": "094a1c03331d752c85803ff6d268738bdc3327e4ca553bd3f12d67c289f9ec0f",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/music_03.wav": {
+   "bytes": 61538,
+   "sha256": "d81d56d92c7dd89121fcf035fe969d72e875bbcabf6844e6020a6e52290e1ec1",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_a1.wav": {
+   "bytes": 19390,
+   "sha256": "c5e547845efb8637145e2cbc9cf882cdeb6a5bc22fb9b3c892f6dfe68e267b33",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_a2.wav": {
+   "bytes": 9762,
+   "sha256": "281c4402d70e75a34b079bdd113dcf2e195d953085d22bbe40aefa1df535512a",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_a3.wav": {
+   "bytes": 16386,
+   "sha256": "fc9c5fb27eb43abde1579b8d8c84ed27504138091ef4520c9265f6b55a9374ec",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_b1.wav": {
+   "bytes": 17142,
+   "sha256": "383fcfd2d29f3afeacf22f808e2f1229fa0765a3c2b795450e80280587239b36",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_b2.wav": {
+   "bytes": 18184,
+   "sha256": "a1584d4cd3eadd0a41cfec6f9932b9210c51013fdb2b907fb3c99f0d4f58d3bf",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_c1.wav": {
+   "bytes": 16950,
+   "sha256": "fdf1d545e93a0ced995636e3bb1370bfc98997c203812fadfe3f1c2e8dfd79f3",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_c2.wav": {
+   "bytes": 17562,
+   "sha256": "31d53893839d097b9c4c3ca5747fc1347079230b400e87ff166b92fd8779c11a",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_d1.wav": {
+   "bytes": 22254,
+   "sha256": "0b353122d4f8d19acd2467e797cebfd8b9dd23a48497fe6a2f6ff0b4d9964421",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_d2.wav": {
+   "bytes": 19894,
+   "sha256": "34e0d48d581e1a04bb28c24648c2d39c1a34d11fec7b1cd4101ae43f20dbe6fa",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_e1.wav": {
+   "bytes": 9226,
+   "sha256": "df29abf429b1aa68bb59cdf1e8fa32a69c5f14daf5631ff30f42c78da34beebf",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_e2.wav": {
+   "bytes": 23354,
+   "sha256": "364cb80d5f8f097dd3fe369a37303fa782ba7001103657233962f5a6650ae092",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_f1.wav": {
+   "bytes": 20636,
+   "sha256": "637cdb37abc7941483f618682113b2981893837032bb16aa9a01c9a12ba8f8af",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_f2.wav": {
+   "bytes": 21986,
+   "sha256": "3f56f25eb18e842f1a67d4e66ba7b776177192900a8e44a0bbf896c2b3932ced",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_g1.wav": {
+   "bytes": 37490,
+   "sha256": "568e3d6f94946d4647f71bd47cfad8ceb8532f834c5cc5aa2c18c3d12a15f3ab",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_h1.wav": {
+   "bytes": 24612,
+   "sha256": "5a1fc8a6c7f2db8523f2cd0b8039a6b8dc9c0d613154f2a4297f5f7b0a9a92cc",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st1_h2.wav": {
+   "bytes": 24840,
+   "sha256": "f389d67b7e678cb4919e86ebe6f5cff6373ca814f2f7741b7211efb8416e08db",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_a1.wav": {
+   "bytes": 17048,
+   "sha256": "cc2f80b96bf5068b4b28aa44cc38837e9bfc4634666b258e5ea64e57caef6106",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_a2.wav": {
+   "bytes": 7654,
+   "sha256": "ac481d6be9d305ed3c5bbeddf151e77eebad7f12bd2684daa1556da236fb0d02",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_a3.wav": {
+   "bytes": 21432,
+   "sha256": "867115c882017c89706aa1cf63f1c094a0ff38f41a49fa08d55df63d34c5be1f",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_a4.wav": {
+   "bytes": 28942,
+   "sha256": "3a2cf9d7eca82caa4176e5da084228e46390b986da231f135bbb13c00c54fc8b",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_a5.wav": {
+   "bytes": 13104,
+   "sha256": "6448dcd854f65be634b163407d655308583bd594a734f2ffd80a4f3e637548ea",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_b1.wav": {
+   "bytes": 11638,
+   "sha256": "d7b3e9d9640c3137e6289479bf9ec16e0856a8730674b6c328c574f057de1ddc",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_b2.wav": {
+   "bytes": 10030,
+   "sha256": "28422d781e3f034ea2cabbbdbd03f0b4d9bcaecacfa78906fdbd2a60855c21f5",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_c1.wav": {
+   "bytes": 8830,
+   "sha256": "8836e6044371b47d321194a967e1c0d17bd3d10e080aa8930e3b354b399de182",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_c2.wav": {
+   "bytes": 17044,
+   "sha256": "47687a46ba4714e148808077f9cf2605625008c7d80af0e5f91b6898fc6002aa",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_d1.wav": {
+   "bytes": 13342,
+   "sha256": "253e762ff90f8f1259310680d53700e06966daac195487b6da0d238bf2193725",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_d2.wav": {
+   "bytes": 16000,
+   "sha256": "74d6976aaac6fd766ec270432e5170f556c949d3fac26cf105e1d8de869a113e",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_e1.wav": {
+   "bytes": 8388,
+   "sha256": "809c36bbcb8c3e7ea2d4dac6e9ab4c51439e104a10951286e6796d2dd7554cd1",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_e2.wav": {
+   "bytes": 22900,
+   "sha256": "08d75b9fe7814972d45f5dde223f60db45a2c5904bc0117f0274d75e46fede56",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_f1.wav": {
+   "bytes": 12942,
+   "sha256": "7269e3565cda052098706ee8c8d8da5c5187ba54c159f3b7982711c98781196f",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_f2.wav": {
+   "bytes": 13970,
+   "sha256": "881720e56971c0fac96f609baaf717c8f3fd6bdf054615b30b8f44165b126695",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_g1.wav": {
+   "bytes": 23216,
+   "sha256": "615dbd7300a393ae7961991624474fe3f823ff51367a0374d244ffc1bdb8bc2c",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_h1.wav": {
+   "bytes": 24434,
+   "sha256": "ffce9b5e7ec90811b6a45e7ff2f11c0f0bbee3b0ee3e9f03bce981af67892c84",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_h2.wav": {
+   "bytes": 19090,
+   "sha256": "fdce4f99cb7562ea4f06d02b1a705c5f30d8e80f5c1098c93f0a6a44b28493f9",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/st2_i1.wav": {
+   "bytes": 10866,
+   "sha256": "967c23dade6e82263e7ec598c8818f6a1b3111ba8b560a50e6f6c9fde1eeac32",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_f1.wav": {
+   "bytes": 6664,
+   "sha256": "14e7bf11d6ad4337fd619cd81e1fd3b510d08f243472a81bd7b79dadc687ee7f",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_f2.wav": {
+   "bytes": 22020,
+   "sha256": "912b3e0e6bef688046543db71be7fb6a7fe4fcd06e54c7ada25e4cc93bb6bb21",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_f3.wav": {
+   "bytes": 10106,
+   "sha256": "b1899f9a25bba5db15c49b43241d8df4f1c31d3ae399a99a5f2384cf89563e29",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_f4.wav": {
+   "bytes": 6796,
+   "sha256": "2bec0e64e11bb18bcf10cb982d43cc768ddac43180394a7ac529871e2dc697b4",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_f5.wav": {
+   "bytes": 20034,
+   "sha256": "df1282b31ff9341cf4485d6176b8cd4209d84caa07e76293d2face6f8b3b7554",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_f6.wav": {
+   "bytes": 11032,
+   "sha256": "0b1d8e4bfe5fb5b0834f378bc0552516083a9337d07fe479f59324f4b53e3696",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_f7.wav": {
+   "bytes": 23476,
+   "sha256": "c10edfaf845aeee1c22343591d2d9b38f0937a1d46c54333128de69c7bf15eb9",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_f8.wav": {
+   "bytes": 12356,
+   "sha256": "b19a66f79d35bd2080f9cb8a2da0b29139982de4ab0bdd9a70802fafbf990077",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_m1.wav": {
+   "bytes": 12684,
+   "sha256": "2e058e8d7e0a9fb56dd57932b397ed34bd1c39e970fb1394498b86561aec59e8",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_m2.wav": {
+   "bytes": 11610,
+   "sha256": "3b58a5190266ecd9f75908cf746d5598dd4cd644c6a383359c46997693ab5a6a",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_m3.wav": {
+   "bytes": 10866,
+   "sha256": "89860ee27c3c340ff450b0e3ac21c00966724c6a29dd59e6042ef589f0a58827",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_m4.wav": {
+   "bytes": 15082,
+   "sha256": "427f8e9ca6a3059081a0aa178c93e4faaf797d9d95ecab04028825f09905c76a",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_m5.wav": {
+   "bytes": 21360,
+   "sha256": "e414e8dbd6bfc06e2a88195315a40692defeee41369a97470ef2f24f0d450cce",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o1.wav": {
+   "bytes": 31796,
+   "sha256": "ef9aec7a3120b9a97bb1a0c33fc4789c43b71863e85ef23f06ef303dc9e9e4c8",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o10.wav": {
+   "bytes": 18842,
+   "sha256": "7dada50b87c3ce84f6e785b6b6351630cb3576cb64178eb8b248109847b36309",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o11.wav": {
+   "bytes": 29314,
+   "sha256": "616a99d7869dd207319462be9aa16c2efbe210f14791575b8292db6cc8894242",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o12.wav": {
+   "bytes": 20014,
+   "sha256": "d688daa2fd412fbb239652c11d037ff15ca23713e82bd0996501c95210d05163",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o2.wav": {
+   "bytes": 15544,
+   "sha256": "b50a490bb2a900f41155c03ac700a84036d3620c2e8d5bc1cb945f796229fdd9",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o3.wav": {
+   "bytes": 22904,
+   "sha256": "8d3272a2b2499297bf8d0e1b8f6c6a5d9e89ce1605cc228a1c3cceb744132890",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o4.wav": {
+   "bytes": 17476,
+   "sha256": "e03d790ffd1ee0c1c3da9d358ce62006e773c2be47257a9b380205b073ae6ffd",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o5.wav": {
+   "bytes": 20420,
+   "sha256": "1b93c2224bbdae6660900197ffad79d33411eae6afc764d57c2d50096852fa21",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o6.wav": {
+   "bytes": 16088,
+   "sha256": "6192678a4429a06496e9b4f5cdeff3f05397df26f38363113d1478b5b7f1f7da",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o7.wav": {
+   "bytes": 23976,
+   "sha256": "aca3ced910cf433258d5cb6728983c824b1ff8c5f06863955ea5c4690ece1b6f",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o8.wav": {
+   "bytes": 16906,
+   "sha256": "17f80368235efbe367324cf632ac794a65805975784b1caeb48acf8d5fff7386",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/nolcoz/ta_o9.wav": {
+   "bytes": 30230,
+   "sha256": "df8d095c9cbf57a63af0de0bb94b511605a19b796fb43a69f02d64d8b51a5316",
+   "timestamp": "2020-03-29T19:53:26.000Z"
+  },
+  "jokejam/sound/oldone2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:22:20.000Z"
+  },
+  "jokejam/sound/oldone2/pd_pop2.wav": {
+   "bytes": 42108,
+   "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
+   "timestamp": "2020-01-02T15:39:36.000Z"
+  },
+  "jokejam/sound/omni/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-31T16:26:14.000Z"
+  },
+  "jokejam/sound/omni/QuakeTheme8bit.wav": {
+   "bytes": 1589142,
+   "sha256": "9b311db891bc0beab83a6fac5810e4a66dafdb4bfba565a89b72785e86e22094",
+   "timestamp": "2020-03-27T21:15:12.000Z"
+  },
+  "jokejam/sound/omni/frog.wav": {
+   "bytes": 21020,
+   "sha256": "f408bab04bb8ab7750c33f14072e36f731c9ae44b278168498f218c37480ea4c",
+   "timestamp": "2020-03-19T23:01:52.000Z"
+  },
+  "jokejam/sound/omni/sound117.wav": {
+   "bytes": 22564,
+   "sha256": "556acff0f2e5f9f7522031c22ef0a28e9977104814033c245c765b21adad2ac5",
+   "timestamp": "2020-03-16T18:42:38.000Z"
+  },
+  "jokejam/sound/omni/supplies.wav": {
+   "bytes": 78930,
+   "sha256": "5afe6ed83b21cc73176f55ed7e63402a0cf8da17e3a659d9306edf6f68a2c42e",
+   "timestamp": "2020-03-19T22:59:30.000Z"
+  },
+  "jokejam/sound/pinchy/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T19:57:08.000Z"
+  },
+  "jokejam/sound/pinchy/security-alarm.wav": {
+   "bytes": 63886,
+   "sha256": "1bc52160c24cc5ed50023c613e9a9b8eb7e8b98d175a31ee4fbdcd25b821f04e",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/sound/pinchy/shopping-cart.wav": {
+   "bytes": 110424,
+   "sha256": "f017d7782d16849704c0fcfd499ef27aa61bab122370ce9bbdfac11b3f9cfeb9",
+   "timestamp": "2020-03-29T19:53:14.000Z"
+  },
+  "jokejam/sound/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T20:46:34.000Z"
+  },
+  "jokejam/sound/sound/markie/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T20:01:50.000Z"
+  },
+  "jokejam/sound/sound/markie/eatsound.wav": {
+   "bytes": 36830,
+   "sha256": "2206a4206a08bcef345f8b1dbe22181c587982b431618721d8ae451fd85bd1cd",
+   "timestamp": "2020-03-29T19:53:52.000Z"
+  },
+  "jokejam/sound/tutorial/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-29T20:00:58.000Z"
+  },
+  "jokejam/sound/tutorial/c_win_v1.wav": {
+   "bytes": 37176,
+   "sha256": "86f9194a14d6eb52ad64ab5753108b2990e8384436c9eeed752edb524a551bb9",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/sound/tutorial/c_win_v2.wav": {
+   "bytes": 27486,
+   "sha256": "0aa78086921d4928b941869d738553cce1aa088d66ccbd799476168a0343cda3",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/sound/tutorial/drumroll.wav": {
+   "bytes": 60286,
+   "sha256": "66ecd45781d4ab73964c05da97da504686a5c34dda2011420fc080e069d210c3",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/sound/tutorial/glass_brk.wav": {
+   "bytes": 17118,
+   "sha256": "b344fa4c9ec3e5d331caf345a334abb85b21d8d09f31ff0d0f5f7220a3773c39",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/sound/tutorial/light_switch.wav": {
+   "bytes": 8360,
+   "sha256": "2a552a8ec9a920515211547dc64183e5af3032bb739a4fc67c816cee31c96595",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/sound/tutorial/null.wav": {
+   "bytes": 1244,
+   "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/sound/tutorial/q1carny.wav": {
+   "bytes": 521398,
+   "sha256": "57bd2a645cac8ddaed20563d0333fdcaae7a59d241dc7b795a9437c9a667dcb6",
+   "timestamp": "2020-03-29T19:53:40.000Z"
+  },
+  "jokejam/sound/tutorial/slippery.wav": {
+   "bytes": 7026,
+   "sha256": "89cc8d73407220cf06d5b3f149c0c49713ecfda70aee152f6b5ebe1a7c3f5d5f",
+   "timestamp": "2020-03-29T19:53:40.000Z"
+  },
+  "jokejam/sound/tutorial/tape_insert.wav": {
+   "bytes": 8764,
+   "sha256": "826516f6401bbb925ff4315ad1ab43a43d3ef07a01ed2e1abbe8df70cc1ade63",
+   "timestamp": "2020-03-29T19:53:40.000Z"
+  },
+  "jokejam/txt/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-31T16:26:30.000Z"
+  },
+  "jokejam/txt/hangarover.txt": {
+   "bytes": 1529,
+   "sha256": "2053ef53bf119083a543e6f8f1f7ea334047305b5e0e8670b16e52618778529f",
+   "timestamp": "2020-03-29T19:47:32.000Z"
+  },
+  "jokejam/txt/jj_pinchy.txt": {
+   "bytes": 3402,
+   "sha256": "e56736b8aa1e5fe24b5930d3f29f4b6ff71580fa5f6bd50bec71c0314074a5ac",
+   "timestamp": "2020-03-29T22:06:24.000Z"
+  },
+  "jokejam/txt/jjam_ssw readme.txt": {
+   "bytes": 3060,
+   "sha256": "c929a1b9dbc7af758f67a6ad84dfec2523f0458fcb4204bc2535dcb9b662c7d6",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/txt/jjam_ssw.log": {
+   "bytes": 2936,
+   "sha256": "1db0da35a59c30a50168113f69282346f0f1b3c66ca67c3735c2cbdaf67cdb26",
+   "timestamp": "2020-03-29T19:53:38.000Z"
+  },
+  "jokejam/txt/jokejam_omni_readme.txt": {
+   "bytes": 196,
+   "sha256": "27bd3ee05bdfa7963b4ea99c48556744260fdd960dac80ad46af59f5b354ebda",
+   "timestamp": "2020-03-27T22:05:18.000Z"
+  },
+  "jokejam/txt/jokejam_readme.txt": {
+   "bytes": 1549,
+   "sha256": "4fa87eb6296e63b0d6c45eeead449dc869c53e9fa56306addaa41e2c055d4233",
+   "timestamp": "2020-04-01T07:57:34.000Z"
+  },
+  "jokejam/txt/jokejam_scampi.txt": {
+   "bytes": 2665,
+   "sha256": "437888cf20137337124e9216a85d68223e0b46136d13d5201e6a214ef58c9b6d",
+   "timestamp": "2020-03-29T19:54:12.000Z"
+  },
+  "jokejam/txt/jokejam_zigi.txt": {
+   "bytes": 2193,
+   "sha256": "082a488fe5895e045abeb3fbcad6bb92c4632b153e9df6950d519b21a144a05f",
+   "timestamp": "2020-03-23T08:38:38.000Z"
+  },
+  "jokejam/txt/planetcrates.txt": {
+   "bytes": 1307,
+   "sha256": "c451c0a21fafbec8410b572968f0cc0064334240d365cc33e4452905741e3d24",
+   "timestamp": "2020-03-31T13:26:06.000Z"
+  },
+  "jokejam/txt/quasiotter_jokejam_readme.txt": {
+   "bytes": 2152,
+   "sha256": "8db71549717d4675071e4cbf7b5e0641050c13590836e4af8cdfa99ba1cb0f38",
+   "timestamp": "2020-03-29T19:54:04.000Z"
+  },
+  "jokejam/txt/readme_nolcoz.txt": {
+   "bytes": 2453,
+   "sha256": "8ebfd99702086d0ed71bc495b2e09967af208b895c73386dea6f90dd78aa7d1b",
+   "timestamp": "2020-03-29T19:53:24.000Z"
+  },
+  "jokejam_readme.txt": {
+   "bytes": 1549,
+   "sha256": "4fa87eb6296e63b0d6c45eeead449dc869c53e9fa56306addaa41e2c055d4233",
+   "timestamp": "2020-04-01T07:57:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "05a5f153cf6b496e401501f144c91b648e3a1e147c0314834bbc9f969b5c8996",
+ "tags": [
+  "author=Artistical",
+  "author=BoxFigs",
+  "author=Greenwood",
+  "author=Markie Music",
+  "author=Nolcoz",
+  "author=Pinchy",
+  "author=Scampi",
+  "author=ZungryWare",
+  "author=omni",
+  "author=quasiotter",
+  "author=starshipwaters",
+  "author=zigi",
+  "commandline=-game jokejam",
+  "exceeds_quake_limits=yes",
+  "filename=jokejam_v1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61861)",
+  "map_size=medium",
+  "map_size=small",
+  "music=custom",
+  "nonspecific_tag=demos",
+  "nonspecific_tag=humor",
+  "nonspecific_tag=joke",
+  "nonspecific_tag=models",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=sounds",
+  "nonspecific_tag=textures",
+  "release_date=2020-04-01",
+  "source=included",
+  "startmap=jokejam_artistical",
+  "startmap=jokejam_bonus",
+  "startmap=jokejam_boxfigs",
+  "startmap=jokejam_greenwood",
+  "startmap=jokejam_greenwood2",
+  "startmap=jokejam_markie",
+  "startmap=jokejam_nolcoz",
+  "startmap=jokejam_omni",
+  "startmap=jokejam_pinchy",
+  "startmap=jokejam_quasiotter",
+  "startmap=jokejam_scampi",
+  "startmap=jokejam_ssw",
+  "startmap=jokejam_zigi",
+  "startmap=start",
+  "theme=realism",
+  "title=Quake April Fools Mega Jokemap Extravaganza Incorporated (Jokejam)",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/jokejam_v1.zip",
+  "https://www.quaddicted.com/files/by-sha256/0/05a5f153cf6b496e401501f144c91b648e3a1e147c0314834bbc9f969b5c8996/jokejam_v1.zip"
+ ]
+}

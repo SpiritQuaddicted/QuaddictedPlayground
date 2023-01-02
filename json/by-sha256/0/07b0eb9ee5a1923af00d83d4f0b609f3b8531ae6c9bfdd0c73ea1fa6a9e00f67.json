@@ -1,35 +1,37 @@
 {
- "filename": [
-  "dma1.zip"
- ],
+ "bytes": 209,
  "files": {
   "DMA1.bsp": {
-   "size": 457744,
+   "bytes": 457744,
+   "sha256": "bba6c96917049743c60d43c06aa264ab03259dc6c40b9f15abd524e5101d4c77",
    "timestamp": "1997-02-09T20:42:24.000Z"
   },
   "DMA1.txt": {
-   "size": 4821,
+   "bytes": 4821,
+   "sha256": "a15b1d91cb54695e92b2a7f61146d1206a428b7d8a885c1aa27d1d811a853604",
    "timestamp": "1997-02-09T21:02:06.000Z"
   }
  },
- "filesize": 209,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "07b0eb9ee5a1923af00d83d4f0b609f3b8531ae6c9bfdd0c73ea1fa6a9e00f67",
  "tags": [
   "author=Dennis ;} Coolrip ]Q[ MtS",
+  "filename=dma1.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd2.htm#dma1)",
-  "releasedate=1997-02-09",
-  "tag=arena",
-  "tag=dm",
-  "tag=lava",
-  "tag=mandatory secret",
-  "tag=metal",
-  "tag=small",
-  "title=DM Arena1 (The Blood Bath)"
+  "map_layout=arena",
+  "map_size=small",
+  "release_date=1997-02-09",
+  "theme=lava",
+  "theme=mandatory secret",
+  "theme=metal",
+  "title=DM Arena1 (The Blood Bath)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dma1.zip",

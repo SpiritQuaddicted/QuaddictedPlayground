@@ -1,38 +1,42 @@
 {
- "filename": [
-  "e2m10glq.zip"
- ],
+ "bytes": 286,
  "files": {
   "e2m10.bsp": {
-   "size": 574952,
+   "bytes": 574952,
+   "sha256": "e49f78ea9688502f7114762263fd31dd8e6a8dbb21dbfc8f6fa467ded5ea6654",
    "timestamp": "2001-09-01T09:48:46.000Z"
   },
   "e2m10.map": {
-   "size": 282987,
+   "bytes": 282987,
+   "sha256": "37692856a643da28e3ed10e04e6effcf6ef76c9a8721f5e0cc40f96696a499bb",
    "timestamp": "1998-06-19T09:06:34.000Z"
   },
   "e2m10.txt": {
-   "size": 2478,
+   "bytes": 2478,
+   "sha256": "c3b24270a33803ea43d90f59fee51506ee0da46a884d7d4a0443c191ffef9197",
    "timestamp": "2001-09-01T11:51:24.000Z"
   }
  },
- "filesize": 286,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "f19af7b3fd83817d3b4262d733fc9e460c104852bbeb5535489383103a7b5385",
  "tags": [
   "author=John Romero",
+  "filename=e2m10glq.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://rome.ro",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=80)",
-  "releasedate=2001-09-01",
+  "map_size=small",
+  "nonspecific_tag=id",
+  "release_date=2001-09-01",
+  "source=included",
   "startmap=e2m10",
-  "tag=id",
-  "tag=small",
-  "tag=source",
-  "tag=wizard",
-  "title=Lost Entrance of the Dismal Oubliette [transparent water]"
+  "theme=wizard",
+  "title=Lost Entrance of the Dismal Oubliette [transparent water]",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/e2m10glq.zip",

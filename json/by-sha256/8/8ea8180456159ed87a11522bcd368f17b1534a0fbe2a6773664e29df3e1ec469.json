@@ -1,39 +1,39 @@
 {
- "filename": [
-  "gmsp3tw.zip"
- ],
+ "bytes": 2279,
  "files": {
   "gmsp3tw.bsp": {
-   "size": 5610160,
+   "bytes": 5610160,
+   "sha256": "dfb49ce30627f69ef54a71aebdc4b00964f6e95eab5494b85532e1df031772d0",
    "timestamp": "2004-06-01T08:32:56.000Z"
   },
   "gmsp3tw.txt": {
-   "size": 5220,
+   "bytes": 5220,
+   "sha256": "d6541d3e6e68b4de2ce8a1be736971585a18dc7420a9e037726a773719867be8",
    "timestamp": "2004-06-01T22:04:00.000Z"
   }
  },
- "filesize": 2279,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8ea8180456159ed87a11522bcd368f17b1534a0fbe2a6773664e29df3e1ec469",
  "tags": [
   "author=Howard \"GlassMan\" Shaw",
+  "filename=gmsp3tw.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.glassman.mistral.co.uk/",
   "link=[Tronyn's Top 10: Medieval](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a2.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev031012.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
-  "releasedate=2004-06-01",
-  "tag=castle",
-  "tag=classic",
-  "tag=glquake",
-  "tag=hard",
-  "tag=large",
-  "tag=medieval",
-  "tag=mustplay",
-  "tag=textures",
-  "title=Day of the Lords [transparent water]"
+  "map_size=large",
+  "nonspecific_tag=glquake",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=textures",
+  "release_date=2004-06-01",
+  "theme=medieval",
+  "title=Day of the Lords [transparent water]",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gmsp3tw.zip",

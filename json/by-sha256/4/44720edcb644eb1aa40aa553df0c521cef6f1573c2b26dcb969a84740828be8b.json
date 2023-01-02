@@ -1,82 +1,96 @@
 {
- "filename": [
-  "sm161_pack.zip"
- ],
+ "bytes": 1123,
  "files": {
   "sm161_ericw.bsp": {
-   "size": 465312,
+   "bytes": 465312,
+   "sha256": "92727d64d2ba0e7eb7dafef2f2a28fe342d303be27b934c1a3d20a554ab8c8b2",
    "timestamp": "2010-09-27T00:23:12.000Z"
   },
   "sm161_ericw.map": {
-   "size": 50991,
+   "bytes": 50991,
+   "sha256": "0cd94c1919dd024940e5a035b69cf6f01c8f57bfc4e98795a1de66ecefcc91b6",
    "timestamp": "2010-09-27T00:23:08.000Z"
   },
   "sm161_ijed.bsp": {
-   "size": 295936,
+   "bytes": 295936,
+   "sha256": "23c5da2bad1acb1d66e5689c45d62cb58cb7d565d31d2c7758a2adb51ab35fd1",
    "timestamp": "2010-09-29T10:45:10.000Z"
   },
   "sm161_pack.txt": {
-   "size": 1771,
+   "bytes": 1771,
+   "sha256": "9e274faadb1eb6d79a378153e633d45985f88286dd54b5e5bd5f696aac6fc05b",
    "timestamp": "2010-10-01T22:05:24.000Z"
   },
   "sm161_ricky.bsp": {
-   "size": 512808,
+   "bytes": 512808,
+   "sha256": "d224e94a1bc9e9dccd08f5ef5a6c37ce277817cb7eee12876653fc45cc77c232",
    "timestamp": "2010-09-30T22:21:02.000Z"
   },
   "sm161_spirit.bsp": {
-   "size": 430220,
+   "bytes": 430220,
+   "sha256": "860d5fa4722c6a4c318bc6fce560f8b187d2fe52bdef29b18df49cdf5e9fd2b2",
    "timestamp": "2010-10-01T17:55:58.000Z"
   },
   "sm161_spirit.lit": {
-   "size": 451067,
+   "bytes": 451067,
+   "sha256": "a0e4b5f2d211651b1caf726c0a728b7d0410a417a50788bf2664aa3902a5df2d",
    "timestamp": "2010-10-01T17:55:40.000Z"
   },
   "sm161_spirit.map": {
-   "size": 57291,
+   "bytes": 57291,
+   "sha256": "c750bac81868aaf24fd70e7c6992988e7146927e3fb6512703f805b4cf4b305d",
    "timestamp": "2010-10-01T17:56:04.000Z"
   },
   "sm161_spirit.rad": {
-   "size": 46,
+   "bytes": 46,
+   "sha256": "242e201494af88fe0d77d134349221968f6309a6b1533d1770cf7805be084de1",
    "timestamp": "2010-10-01T17:56:08.000Z"
   },
   "sm161_trinca.bsp": {
-   "size": 542132,
+   "bytes": 542132,
+   "sha256": "43fd44bc8b0ea2c89111a5664cf33b0e19f0063fe04ef1083afcdd2fb207aa51",
    "timestamp": "2010-09-28T19:53:04.000Z"
   },
   "sm161_trinca1.map": {
-   "size": 66081,
+   "bytes": 66081,
+   "sha256": "53b3b138394beb916d24ab4634fb7ac89ef1798688b61d9ea621986d3c3bf659",
    "timestamp": "2010-09-28T19:52:48.000Z"
   },
   "sm161_zqf.bsp": {
-   "size": 413520,
+   "bytes": 413520,
+   "sha256": "9c243fbbe14549828c0dee3a954df69ac13eed0f0f059a75666f9b203d56f7e0",
    "timestamp": "2010-09-26T17:24:26.000Z"
   },
   "sm161_zqf.map": {
-   "size": 54013,
+   "bytes": 54013,
+   "sha256": "7fe7104f930f9ee11dcbe3bd305c541d132692207d35411766932d7e73fdaf40",
    "timestamp": "2010-09-26T17:24:22.000Z"
   },
   "sm161_zqf2.bsp": {
-   "size": 196512,
+   "bytes": 196512,
+   "sha256": "b2ae0ab23c39a58d203a76314cc2a4ba8fea53ac57965b3a7c1d7acc7dbb34f6",
    "timestamp": "2010-09-29T10:44:56.000Z"
   },
   "sm161_zqf2.map": {
-   "size": 40841,
+   "bytes": 40841,
+   "sha256": "fdb21283f5d66b1fc2b2985acd4b0afa3b18afcc3c24c1419e29c51293ff02ab",
    "timestamp": "2010-09-28T11:18:42.000Z"
   },
   "sm161_zwiffle.bsp": {
-   "size": 448172,
+   "bytes": 448172,
+   "sha256": "4148d2ee261932079db0e20e8e99382dd828730815b3f9a648350b979f36c8df",
    "timestamp": "2010-09-30T08:28:58.000Z"
   },
   "sm161_zwiffle.map": {
-   "size": 40016,
+   "bytes": 40016,
+   "sha256": "393e34e52dcb981cc00443445d6ef78cfbd93ca7c88d985d5543ac798f83e2db",
    "timestamp": "2010-09-26T18:25:48.000Z"
   }
  },
- "filesize": 1123,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "44720edcb644eb1aa40aa553df0c521cef6f1573c2b26dcb969a84740828be8b",
  "tags": [
   "author=RickyT23",
@@ -86,8 +100,11 @@
   "author=Zwiffle",
   "author=ericw",
   "author=ijed",
+  "filename=sm161_pack.zip",
   "game=quake",
-  "releasedate=2010-10-01",
+  "game_mode=singleplayer",
+  "mod=quoth",
+  "release_date=2010-10-01",
   "startmap=sm161_ericw",
   "startmap=sm161_ijed",
   "startmap=sm161_ricky",
@@ -96,8 +113,11 @@
   "startmap=sm161_zqf",
   "startmap=sm161_zqf2",
   "startmap=sm161_zwiffle",
-  "tag=quoth",
-  "title=Speedmapping pack 161 - 50 brushes"
+  "theme=quoth",
+  "theme=void",
+  "theme=zerst\u00f6rer",
+  "title=Speedmapping pack 161 - 50 brushes",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm161_pack.zip",

@@ -1,46 +1,51 @@
 {
- "filename": [
-  "sm42_pack.zip"
- ],
+ "bytes": 1631,
  "files": {
   "sm42_daz.bsp": {
-   "size": 424028,
+   "bytes": 424028,
+   "sha256": "1f318a8279cb5a2f37c778ecee60886f0ee31884c836a8a608361f525a217043",
    "timestamp": "2003-07-20T01:46:10.000Z"
   },
   "sm42_gibbie.bsp": {
-   "size": 836020,
+   "bytes": 836020,
+   "sha256": "5ef0cea10a4d05d3e09d6d4cc34edf3d13f0ee42ef18495c4cb83ca89a4a8c9c",
    "timestamp": "2003-07-20T03:20:22.000Z"
   },
   "sm42_inertia.bsp": {
-   "size": 285996,
+   "bytes": 285996,
+   "sha256": "68511ed85632e24ee443965ac868b97e4988681ca2847dc5ce041793beb5a0cd",
    "timestamp": "2003-07-19T22:22:06.000Z"
   },
   "sm42_pack.txt": {
-   "size": 1758,
+   "bytes": 1758,
+   "sha256": "d99e65aa094713098d8737003b8b11b05051cff88e1fadace606f342add84f13",
    "timestamp": "2003-07-19T23:12:20.000Z"
   },
   "sm42_ray.bsp": {
-   "size": 515820,
+   "bytes": 515820,
+   "sha256": "83c2bd719fce1a541491a10a0e66b3739c81b525704e4a382fe75cc402bac449",
    "timestamp": "2003-07-19T22:14:12.000Z"
   },
   "sm42_speedy.bsp": {
-   "size": 524904,
+   "bytes": 524904,
+   "sha256": "1425c068cf4276f7aed304ac6806ee7e169ae2cc699cc88eb9f5943236af4ecf",
    "timestamp": "2003-07-20T05:25:24.000Z"
   },
   "sm42_starbuck.bsp": {
-   "size": 554456,
+   "bytes": 554456,
+   "sha256": "11ae339e8825db30880b585bb3d39ef8ff6d9ecb3484713e15485b58e6a90a4c",
    "timestamp": "2003-07-20T02:42:44.000Z"
   },
   "sm42_xen.bsp": {
-   "size": 1160440,
+   "bytes": 1160440,
+   "sha256": "d74468093f75c40aad8f8b387abc85abf3d3d56ee99c99ca9cf9694cfbe00840",
    "timestamp": "2003-07-20T03:31:26.000Z"
   }
  },
- "filesize": 1631,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "baf08e299f34007cc037b3c9f50a3a2ded62300c0ebad062a86404a05d65196d",
  "tags": [
   "author=DaZ",
@@ -50,17 +55,20 @@
   "author=Xen",
   "author=gibbie",
   "author=inertia",
+  "filename=sm42_pack.zip",
   "game=quake",
-  "releasedate=2003-07-20",
+  "game_mode=singleplayer",
+  "release_date=2003-07-20",
   "startmap=sm42_daz",
   "startmap=sm42_gibbie",
-  "startmap=sm42_intertia",
+  "startmap=sm42_inertia",
   "startmap=sm42_ray",
   "startmap=sm42_speedy",
   "startmap=sm42_starbuck",
   "startmap=sm42_xen",
-  "tag=spd",
-  "title=Speedmapping pack 42 - Unthemed"
+  "theme=spd",
+  "title=Speedmapping pack 42 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm42_pack.zip",

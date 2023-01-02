@@ -1,30 +1,33 @@
 {
- "filename": [
-  "qkpit.zip"
- ],
+ "bytes": 357,
  "files": {
   "qkpit.bsp": {
-   "size": 1054196,
+   "bytes": 1054196,
+   "sha256": "519ae9828af050a60701b83b196750c9c66a5392ef4d6b6cd0f21fdc97fdf55c",
    "timestamp": "1998-02-26T21:19:32.000Z"
   },
   "qkpit.txt": {
-   "size": 1863,
+   "bytes": 1863,
+   "sha256": "44968861049ff3d71fc362481062aaa45a1a88b6154702a00a7ac26adff0e371",
    "timestamp": "2000-01-13T18:49:48.000Z"
   }
  },
- "filesize": 357,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ca7d3815176f8023ff6552b611dee3d781e65473b002ea19434140c657bb6254",
  "tags": [
   "author=DAV",
+  "filename=qkpit.zip",
   "game=quake",
-  "releasedate=2000-01-13",
-  "tag=corridors",
-  "tag=short",
-  "title=Pit"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.planetquake.com/davlevels/",
+  "map_size=small",
+  "nonspecific_tag=corridors",
+  "release_date=2000-01-13",
+  "title=Pit",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkpit.zip",

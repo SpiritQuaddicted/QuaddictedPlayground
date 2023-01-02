@@ -1,0 +1,91 @@
+{
+ "bytes": 11824,
+ "files": {
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-08-30T00:18:08.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-08-30T00:18:24.000Z"
+  },
+  "gfx/env/moonrise_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "3b4e85116e3999d5cded25ca0a5d6fb9c297b3d69749a63daf5af6c37fe21959",
+   "timestamp": "2015-05-13T13:04:28.000Z"
+  },
+  "gfx/env/moonrise_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "a7be41496d25bc9e505b959b08a950c1bb61acc6c8c44ec4e1dd428faeac4ccd",
+   "timestamp": "2015-05-13T13:04:28.000Z"
+  },
+  "gfx/env/moonrise_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "7381c46aa4f5c916f3bc8f82a442a4582834563c0bb0127580053bb274609180",
+   "timestamp": "2015-05-13T13:04:28.000Z"
+  },
+  "gfx/env/moonrise_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "871df5eed200970b8c3246ca10a039f5915c95e8f48bf0692fc22f2f7e5450cd",
+   "timestamp": "2015-05-13T13:04:28.000Z"
+  },
+  "gfx/env/moonrise_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "2cc00bb935ee2f4019f4d99170d38ef3f51c72ff80150cd74911b1038a0cb269",
+   "timestamp": "2015-05-13T13:04:28.000Z"
+  },
+  "gfx/env/moonrise_up.tga": {
+   "bytes": 3145772,
+   "sha256": "0296084074d726170fdc85d2c1176ee64845b6805c174c08aaa63f514fd9cb65",
+   "timestamp": "2015-05-13T13:04:28.000Z"
+  },
+  "mahogany_readme.txt": {
+   "bytes": 2685,
+   "sha256": "5a2a3ac8f4c0554509b55ca6425c66d6ef6c1c8e8a9079af555ab4c203b4787b",
+   "timestamp": "2018-08-30T11:51:08.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-08-30T11:53:58.000Z"
+  },
+  "maps/mahogany.bsp": {
+   "bytes": 14862716,
+   "sha256": "630dd39e600fba5f85774044671e662d54b22bfee4705bb38847ec534987c257",
+   "timestamp": "2018-08-30T11:32:18.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/mahagony/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "92fa1bcdfa251d4447e2b6f4ebd12ff5fa1803a4cf6ee351d21edbcdd12443a4",
+ "tags": [
+  "author=Poorchop",
+  "bsp_format=bsp2",
+  "commandline=-game mahagony",
+  "exceeds_quake_limits=yes",
+  "filename=mahoganyb1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=library",
+  "nonspecific_tag=mountain",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=textures",
+  "release_date=2018-08-30",
+  "startmap=mahagony",
+  "theme=canyon",
+  "theme=castle",
+  "theme=knave",
+  "title=Rich Mahogany and Human Leather-Bound Books",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/mahoganyb1.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/92fa1bcdfa251d4447e2b6f4ebd12ff5fa1803a4cf6ee351d21edbcdd12443a4/mahoganyb1.zip"
+ ]
+}

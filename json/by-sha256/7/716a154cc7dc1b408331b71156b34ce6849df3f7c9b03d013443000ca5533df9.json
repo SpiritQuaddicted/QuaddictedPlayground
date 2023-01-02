@@ -1,42 +1,47 @@
 {
- "filename": [
-  "4fiffy3.zip"
- ],
+ "bytes": 525,
  "files": {
   "!!READ!!.BAT": {
-   "size": 16081,
+   "bytes": 16081,
+   "sha256": "8bd564c88ba839f92f0e980f56fd0ee7cb7cecb5df90d6f23fd3d33d1c44e6c0",
    "timestamp": "1997-04-21T05:01:54.000Z"
   },
   "FIFFY3.BSP": {
-   "size": 811760,
+   "bytes": 811760,
+   "sha256": "f2d886ba301c4b3f8b39fa98c5cac78e31ffe666a5c78d8c5989a32e9dcd3096",
    "timestamp": "1997-04-19T19:49:48.000Z"
   },
   "FIFFY3.DEM": {
-   "size": 977821,
+   "bytes": 977821,
+   "sha256": "06e45b9683bded66b0c0e0b7b284059b19135ececeaa3075e54f7cead234be3d",
    "timestamp": "1997-04-20T17:20:06.000Z"
   },
   "FILE_ID.DIZ": {
-   "size": 761,
+   "bytes": 761,
+   "sha256": "72ba9ef5d822f864e372f69ecb24ae50ebe777ad9ecc234d1cb6d8aa907d144c",
    "timestamp": "1997-04-20T18:01:04.000Z"
   }
  },
- "filesize": 525,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "716a154cc7dc1b408331b71156b34ce6849df3f7c9b03d013443000ca5533df9",
  "tags": [
   "author=George J. Fiffy II",
+  "filename=4fiffy3.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://members.aol.com/georgef551",
   "link=[Crash's](http://www.quake2.com/crash/levels0-9.htm#4fiffy3)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-04-21",
+  "map_size=small",
+  "release_date=1997-04-21",
   "startmap=fiffy3",
-  "tag=small",
-  "tag=traps",
-  "tag=wizard",
-  "title=REoL TOUGH: Damnation!"
+  "theme=traps",
+  "theme=wizard",
+  "title=REoL TOUGH: Damnation!",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/4fiffy3.zip",

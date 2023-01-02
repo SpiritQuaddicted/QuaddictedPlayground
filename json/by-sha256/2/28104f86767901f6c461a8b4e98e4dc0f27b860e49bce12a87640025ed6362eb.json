@@ -1,44 +1,96 @@
 {
- "filename": [
-  "middle.zip"
- ],
+ "bytes": 1999,
  "files": {
   "middle.txt": {
-   "size": 1771,
+   "bytes": 1771,
+   "sha256": "a520d9b8a664acb44326e1af7b9d983b1bde50f246e639ed6f4868835003570d",
    "timestamp": "1997-11-03T17:40:46.000Z"
   },
   "pak0.pak": {
-   "size": 3999142,
+   "bytes": 3999142,
+   "files": {
+    "maps/med.bsp": {
+     "bytes": 2645152,
+     "sha256": "5116c1c40f787eadc2c8bb3364e48ce8f6394883dbef5f03880259388c5a520e"
+    },
+    "maps/temp.tmp": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "progs.dat": {
+     "bytes": 413236,
+     "sha256": "4c2378e32c7a276246aa4fc35f6f2a1c6df573cbac241eae20cab4f506c8eff2"
+    },
+    "sound/ambience/jungle1.wav": {
+     "bytes": 23830,
+     "sha256": "d73382a6e607eab8f643a2cd53fcc0975d5ef8c4f799993d0ae3f0f5c043ef66"
+    },
+    "sound/ambience/jungle2.wav": {
+     "bytes": 37530,
+     "sha256": "9514e93629a3e9a253fa46ec3753de495486607dcc950ff9acab16e5b63166dc"
+    },
+    "sound/ambience/jungle3.wav": {
+     "bytes": 43810,
+     "sha256": "e9d71720ae96b57527a11aba9b5cc808e44055376c576d7269182ae95d50b59b"
+    },
+    "sound/ambience/jungle4.wav": {
+     "bytes": 20058,
+     "sha256": "7455ce3be8a0ee26d5f947bc4e33a2b7adf78da376a25c2f5e28b5833a0dc618"
+    },
+    "sound/ambience/jungle5.wav": {
+     "bytes": 199148,
+     "sha256": "43eb9e320b62744174c346bff579df9f2db9063ace1ee97864d8d1d0b06d42cd"
+    },
+    "sound/ambience/jungle6.wav": {
+     "bytes": 49990,
+     "sha256": "f4849e1dfb32032b8492d11ec99092cb1a5e98910c31c5fe1126cf9b402bf436"
+    },
+    "sound/ambience/jungle7.wav": {
+     "bytes": 420996,
+     "sha256": "38078a257e32b43bce750446732ee4badaadbc3679b777831ba9fad1711681f0"
+    },
+    "sound/ambience/light1.wav": {
+     "bytes": 78602,
+     "sha256": "6e6dd73760e70648b759fbd1f859017268475e76ffe66b4764d6ec90f7d29e95"
+    },
+    "sound/ambience/light2.wav": {
+     "bytes": 66010,
+     "sha256": "3d4a06d6df05dffc49e3c2ba1b256d055fb7e8700310b36525f84e14aaf34048"
+    }
+   },
+   "sha256": "cb8bbea6af8f6d07a2a62516f396db253929126ec11227d1a9b4e055773581bc",
    "timestamp": "1997-11-03T13:54:02.000Z"
   }
  },
- "filesize": 1999,
  "install": {
-  "extract": "{quake}/middle/"
+  "extract": "{base}/middle/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "28104f86767901f6c461a8b4e98e4dc0f27b860e49bce12a87640025ed6362eb",
  "tags": [
   "author=Jean-Marc Gruninger",
   "commandline=-game middle",
+  "filename=middle.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Quaddicted Advent Calendar 2013](https://www.quaddicted.com/quake_advent_calendar_2013/19-24#nd_december_-_ericw)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990328.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=middle)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
-  "releasedate=1997-11-03",
+  "nonspecific_tag=cathedral",
+  "nonspecific_tag=evasion",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=realistic",
+  "nonspecific_tag=textures",
+  "playstyle=stealth",
+  "release_date=1997-11-03",
   "startmap=med",
-  "tag=cathedral",
-  "tag=classic",
-  "tag=evasion",
-  "tag=hard",
-  "tag=medieval",
-  "tag=planetquake-map-of-the-week",
-  "tag=realistic",
-  "tag=stealth",
-  "tag=textures",
-  "title=The Middle Evil"
+  "theme=classic",
+  "theme=medieval",
+  "title=The Middle Evil",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/middle.zip",

@@ -1,34 +1,37 @@
 {
- "filename": [
-  "perssp1.zip"
- ],
+ "bytes": 388,
  "files": {
   "PERSSP1.BSP": {
-   "size": 954000,
+   "bytes": 954000,
+   "sha256": "adff6ebc45099f93b65dab227977316a072e439053e5879c5586ca3ac7b883f0",
    "timestamp": "2000-10-29T05:58:44.000Z"
   },
   "PERSSP1.TXT": {
-   "size": 1258,
+   "bytes": 1258,
+   "sha256": "b66ba82346741c48cd98a1fccf2eba31adc5d73e768de52fd00e640b62c13aa5",
    "timestamp": "2000-10-29T05:37:40.000Z"
   }
  },
- "filesize": 388,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "892436305b1b557f677c30aa349d2f086c5ffa36e619c6145dee68137766c3b3",
  "tags": [
   "author=Perselicas (Fern (aka Fr3n))",
+  "filename=perssp1.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.suspenlute.com/",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/13-nov-2000/perssp1.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev001031.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
-  "releasedate=2000-10-29",
-  "tag=medieval",
-  "tag=small",
-  "tag=tech",
-  "title=Perssp1"
+  "map_size=small",
+  "release_date=2000-10-29",
+  "theme=medieval",
+  "theme=tech",
+  "title=Perssp1",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/perssp1.zip",

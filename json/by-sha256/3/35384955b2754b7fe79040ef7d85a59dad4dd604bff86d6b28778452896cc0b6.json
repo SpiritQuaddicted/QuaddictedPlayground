@@ -1,32 +1,34 @@
 {
- "filename": [
-  "discord2.zip"
- ],
+ "bytes": 426,
  "files": {
   "discord2.bsp": {
-   "size": 1002360,
+   "bytes": 1002360,
+   "sha256": "418c0d484320e6812470ea8cccd17cdc25aa598041a48c57bd3ebdc48aa8f45d",
    "timestamp": "1998-04-20T13:04:08.000Z"
   },
   "discord2.txt": {
-   "size": 1686,
+   "bytes": 1686,
+   "sha256": "9281f22bbf4e22e3978cd5c3e7cc5d9f3d352b3901e93bb82db62234491a6657",
    "timestamp": "1998-04-20T13:20:08.000Z"
   }
  },
- "filesize": 426,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "35384955b2754b7fe79040ef7d85a59dad4dd604bff86d6b28778452896cc0b6",
  "tags": [
   "author=Creed",
+  "filename=discord2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990120.html)",
-  "releasedate=1998-04-20",
-  "tag=medium",
-  "tag=metal",
-  "tag=non-linear",
-  "title=Discordia II"
+  "map_size=medium",
+  "nonspecific_tag=non-linear",
+  "release_date=1998-04-20",
+  "theme=metal",
+  "title=Discordia II",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/discord2.zip",

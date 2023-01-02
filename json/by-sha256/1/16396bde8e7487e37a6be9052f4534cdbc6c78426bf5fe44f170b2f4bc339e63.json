@@ -1,31 +1,33 @@
 {
- "filename": [
-  "ickle.zip"
- ],
+ "bytes": 251,
  "files": {
   "ickle.bsp": {
-   "size": 622036,
+   "bytes": 622036,
+   "sha256": "cf2ffcde42156ca6e636d556b293db0466ac400962d46c12545c1141c99f520d",
    "timestamp": "1998-02-07T20:34:10.000Z"
   },
   "ickle.txt": {
-   "size": 2425,
+   "bytes": 2425,
+   "sha256": "375797f6ffc7329c80c64b06afaa9f27b01c9a61609e1caae360dfd878114eef",
    "timestamp": "1998-02-09T17:41:00.000Z"
   }
  },
- "filesize": 251,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "16396bde8e7487e37a6be9052f4534cdbc6c78426bf5fe44f170b2f4bc339e63",
  "tags": [
   "author=Alex Moore",
+  "filename=ickle.zip",
   "game=quake",
-  "releasedate=1998-02-09",
-  "tag=cave",
-  "tag=small",
-  "tag=wizard",
-  "title=Ickle"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1998-02-09",
+  "theme=cave",
+  "theme=wizard",
+  "title=Ickle",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ickle.zip",

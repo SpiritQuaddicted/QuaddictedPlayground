@@ -1,32 +1,35 @@
 {
- "filename": [
-  "sm100t_neg!ke.zip"
- ],
+ "bytes": 1049,
  "files": {
   "sm100t_neg!ke.bsp": {
-   "size": 2628980,
+   "bytes": 2628980,
+   "sha256": "aa64b97156428710ef95e781ea94d371713dc50e1d50f3bded623d4c6cacf6fc",
    "timestamp": "2005-07-27T12:09:06.000Z"
   },
   "sm100t_neg!ke.txt": {
-   "size": 1944,
+   "bytes": 1944,
+   "sha256": "602cacfe063505ab9357644c46fae490da03ce3261c89435f4938c559352b89c",
    "timestamp": "2005-07-27T12:11:12.000Z"
   }
  },
- "filesize": 1049,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "60892632e26d8c57485c8176152be23a63e7c60f160b7795af02952de91188c8",
  "tags": [
   "author=negke",
+  "filename=sm100t_neg!ke.zip",
   "game=quake",
-  "releasedate=2005-07-27",
-  "tag=knave",
-  "tag=library",
-  "tag=medium",
-  "tag=turtle",
-  "title=Down the ratbit hole"
+  "game_mode=singleplayer",
+  "link:homepage=http://negke.quaddicted.com",
+  "map_size=medium",
+  "nonspecific_tag=library",
+  "nonspecific_tag=turtle",
+  "release_date=2005-07-27",
+  "theme=knave",
+  "title=Down the ratbit hole",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm100t_neg!ke.zip",

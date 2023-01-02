@@ -1,38 +1,41 @@
 {
- "filename": [
-  "sm22_pack.zip"
- ],
+ "bytes": 463,
  "files": {
   "sm22_aard.bsp": {
-   "size": 321116,
+   "bytes": 321116,
+   "sha256": "abb6ee99ac0e7a1ef87d03982f3d5e9984941fe0a02ad98e8b6e90e7776d2774",
    "timestamp": "2001-06-24T00:21:00.000Z"
   },
   "sm22_ap.bsp": {
-   "size": 268448,
+   "bytes": 268448,
+   "sha256": "d9157885770cf11ddca299a259c6cd39cc5270baeb31c70af73277b06dd2c91d",
    "timestamp": "2001-06-23T23:41:02.000Z"
   },
   "sm22_basil.bsp": {
-   "size": 128580,
+   "bytes": 128580,
+   "sha256": "12133acad75b0920b53e36d4bcf8850ba7be3e663e21f9f85bfe8bd5afd740d4",
    "timestamp": "2001-06-24T15:28:00.000Z"
   },
   "sm22_bear.bsp": {
-   "size": 271628,
+   "bytes": 271628,
+   "sha256": "eec32a0945dc4a516ad143b89ae462baede7beeaa5e2bda4276709ee35663a03",
    "timestamp": "2001-06-24T00:01:00.000Z"
   },
   "sm22_elek.bsp": {
-   "size": 430400,
+   "bytes": 430400,
+   "sha256": "633fdfb26b23440a3749b9ab90c2db49ec978c023257d76b9c8f90cc253ef5b8",
    "timestamp": "2001-06-23T18:56:52.000Z"
   },
   "sm22_pack.txt": {
-   "size": 2309,
+   "bytes": 2309,
+   "sha256": "fadb39836ed9a9b386fa99711ab957a03a0b004a2ba218c057b8743aed0795fb",
    "timestamp": "2001-06-24T14:51:18.000Z"
   }
  },
- "filesize": 463,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "de9834802392122ebb19aa4418ca4e2e4331f71369878002e84f1b40d77bdc4f",
  "tags": [
   "author=Aardappel",
@@ -40,14 +43,17 @@
   "author=Basil",
   "author=Cybear",
   "author=Elek",
+  "filename=sm22_pack.zip",
   "game=quake",
-  "releasedate=2001-06-24",
+  "game_mode=singleplayer",
+  "release_date=2001-06-24",
   "startmap=sm22_aard",
   "startmap=sm22_ap",
   "startmap=sm22_basil",
   "startmap=sm22_bear",
   "startmap=sm22_elek",
-  "title=Speedmapping pack 22 - Speedrunning map"
+  "title=Speedmapping pack 22 - Speedrunning map",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm22_pack.zip",

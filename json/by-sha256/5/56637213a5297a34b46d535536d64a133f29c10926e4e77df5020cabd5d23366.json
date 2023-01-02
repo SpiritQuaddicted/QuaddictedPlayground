@@ -1,32 +1,34 @@
 {
- "filename": [
-  "junk.zip"
- ],
+ "bytes": 905,
  "files": {
   "junk.bsp": {
-   "size": 2281728,
+   "bytes": 2281728,
+   "sha256": "563a1ce9e8d568b47c4753006cec1efe28fbac2d6d797af693652eee4512245a",
    "timestamp": "1997-11-02T12:37:06.000Z"
   },
   "junk.txt": {
-   "size": 2326,
+   "bytes": 2326,
+   "sha256": "093606daae599a1b30a8912d9e174bfdc2f2af219b86bacccbf49b7da27bb407",
    "timestamp": "1997-11-02T15:00:28.000Z"
   }
  },
- "filesize": 905,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "56637213a5297a34b46d535536d64a133f29c10926e4e77df5020cabd5d23366",
  "tags": [
   "author=Rodney Johnstone",
+  "filename=junk.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981128.html)",
-  "releasedate=1997-11-02",
-  "tag=base",
-  "tag=dark",
-  "tag=reactor",
-  "title=Junk"
+  "nonspecific_tag=dark",
+  "nonspecific_tag=reactor",
+  "release_date=1997-11-02",
+  "theme=base",
+  "title=Junk",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/junk.zip",

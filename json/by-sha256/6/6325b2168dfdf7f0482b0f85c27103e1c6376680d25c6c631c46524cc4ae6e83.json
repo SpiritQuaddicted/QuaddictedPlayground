@@ -1,42 +1,46 @@
 {
- "filename": [
-  "sm54_pack.zip"
- ],
+ "bytes": 1144,
  "files": {
   "sm54_czg.bsp": {
-   "size": 679380,
+   "bytes": 679380,
+   "sha256": "94d35f87e5d0978bed489febeda12fea3c4d5657a30bc2a205c02d1236005584",
    "timestamp": "2003-10-19T00:03:18.000Z"
   },
   "sm54_grahf.bsp": {
-   "size": 447620,
+   "bytes": 447620,
+   "sha256": "6911506ff58166d7ccd5139ee4dda69c669c9bb64e019edc927194c5119969c5",
    "timestamp": "2003-10-18T23:26:02.000Z"
   },
   "sm54_inertia.bsp": {
-   "size": 328976,
+   "bytes": 328976,
+   "sha256": "96845aa7cf4ed1d8daa04fb25d606778ca5ac04ea797ef12715d1827b23c588e",
    "timestamp": "2003-10-18T23:00:52.000Z"
   },
   "sm54_moz.bsp": {
-   "size": 603680,
+   "bytes": 603680,
+   "sha256": "018ff86f272a23f74c6b458a08c79076bc8b5550183e583be0855776addaee8a",
    "timestamp": "2003-10-18T23:09:20.000Z"
   },
   "sm54_necros.bsp": {
-   "size": 624944,
+   "bytes": 624944,
+   "sha256": "4f2b3f489044c6ce2bbc4a6d34cbf8defc028e0c5faf5b689a63c8e886f48b4c",
    "timestamp": "2003-10-18T16:54:30.000Z"
   },
   "sm54_pack.txt": {
-   "size": 2048,
+   "bytes": 2048,
+   "sha256": "dd8bbe57e3630f8c1b85b980c0b715fba1c86f7f38fe2361341eedf4b90a0560",
    "timestamp": "2003-10-18T23:44:26.000Z"
   },
   "sm54_starbuck.bsp": {
-   "size": 317660,
+   "bytes": 317660,
+   "sha256": "061dd52261c43d1e35313988a66a1a3a26aced970e98c72a05d1df01320fd08c",
    "timestamp": "2003-10-18T21:55:10.000Z"
   }
  },
- "filesize": 1144,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6325b2168dfdf7f0482b0f85c27103e1c6376680d25c6c631c46524cc4ae6e83",
  "tags": [
   "author=CZG",
@@ -45,15 +49,18 @@
   "author=Starbuck",
   "author=inertia",
   "author=necros",
+  "filename=sm54_pack.zip",
   "game=quake",
-  "releasedate=2003-10-19",
+  "game_mode=singleplayer",
+  "release_date=2003-10-19",
   "startmap=sm54_czg",
   "startmap=sm54_grahf",
   "startmap=sm54_inertia",
   "startmap=sm54_moz",
   "startmap=sm54_necros",
   "startmap=sm54_starbuck",
-  "title=Speedmapping pack 54 - Unthemed"
+  "title=Speedmapping pack 54 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm54_pack.zip",

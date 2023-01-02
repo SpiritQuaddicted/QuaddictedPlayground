@@ -1,40 +1,48 @@
 {
- "filename": [
-  "ikspq2.zip"
- ],
+ "bytes": 427,
  "files": {
   "IKSPQ2.BSP": {
-   "size": 1131056,
+   "bytes": 1131056,
+   "sha256": "7a8f57d8284d9013a568dac265be4713d4a213b2a9a0b6da21405d0ee363ec31",
    "timestamp": "1997-05-15T20:23:18.000Z"
   },
   "IKSPQ2.TXT": {
-   "size": 5852,
+   "bytes": 5852,
+   "sha256": "18e52c53acca94e7e08d6d49a55f1271ee8f567d1020225147469fe2e631742b",
    "timestamp": "1997-05-19T11:56:56.000Z"
   }
  },
- "filesize": 427,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7130910ec50336f132f3a41a8047e4b5f3642160ee43b9aed6c3cdcc0c79d18e",
  "tags": [
   "author=Iikka \"Fingers\" Ker\u00e4nen",
+  "dependency=ikspq1",
+  "dependency=ikspq3",
+  "dependency=ikspq4",
+  "dependency=ikspq5",
+  "dependency=ikstart",
+  "filename=ikspq2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://ikq.planetquake.gamespy.com",
   "link=[Crash's](http://www.quake2.com/crash/levelsi.htm#ikspq2)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=96)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=ik2)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=1997-05-19",
-  "tag=blue",
-  "tag=ikblue",
-  "tag=medium",
-  "tag=mustplay",
-  "tag=planetquake-map-of-the-week",
-  "tag=series",
-  "tag=temple",
-  "title=Temple of the Thousand-Faced Moon"
+  "map_size=medium",
+  "nonspecific_tag=mustplay",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=series",
+  "release_date=1997-05-19",
+  "theme=blue",
+  "theme=ikblue",
+  "theme=temple",
+  "title=Temple of the Thousand-Faced Moon",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq2.zip",

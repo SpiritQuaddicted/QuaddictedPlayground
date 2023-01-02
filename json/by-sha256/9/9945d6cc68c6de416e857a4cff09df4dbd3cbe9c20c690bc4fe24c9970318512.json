@@ -1,47 +1,82 @@
 {
- "filename": [
-  "alk05.zip"
- ],
+ "bytes": 1378,
  "files": {
   "Alk05.bat": {
-   "size": 43,
+   "bytes": 43,
+   "sha256": "9103fccb13ba659e8d6787f8743bf76e53c744b0f265a61fc342e6ef2b8f0819",
    "timestamp": "2000-02-07T23:00:32.000Z"
   },
   "alk05/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2000-02-10T15:12:40.000Z"
   },
   "alk05/alk05.txt": {
-   "size": 5304,
+   "bytes": 5304,
+   "sha256": "d39764984dece7c38f3844866de1f65d66ca82ded87572f2ebd065f92f2e0d41",
    "timestamp": "2000-02-10T15:11:50.000Z"
   },
   "alk05/pak0.pak": {
-   "size": 3336236,
+   "bytes": 3336236,
+   "files": {
+    "alk05.txt": {
+     "bytes": 5304,
+     "sha256": "d39764984dece7c38f3844866de1f65d66ca82ded87572f2ebd065f92f2e0d41"
+    },
+    "maps/alk05.bsp": {
+     "bytes": 2620600,
+     "sha256": "29d52e40efae3cd02e7383600db97bc1e745e49aee71ee87ca532383602d7c89"
+    },
+    "progs.dat": {
+     "bytes": 423736,
+     "sha256": "c28f5d31d2a9ea83e9ce0aea20c749d1f35e4ef066655caf52ec4f6633127774"
+    },
+    "progs/snakeman.mdl": {
+     "bytes": 132028,
+     "sha256": "8824603b325f37bbba424f55c3ff900c21ccf61c77ba97e636e91ef99202364a"
+    },
+    "progs/uzi.mdl": {
+     "bytes": 52820,
+     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414"
+    },
+    "sound/snakeman/sdeath.wav": {
+     "bytes": 66836,
+     "sha256": "bfa18b48ff82d753c3ed458d0d61152ef3f6672fb65d711990fbca0c5dadca56"
+    },
+    "sound/snakeman/spain.wav": {
+     "bytes": 34452,
+     "sha256": "15b84d6adb80e4ceace4226b5185c578a752adb36f213f2488e80ad2192378aa"
+    }
+   },
+   "sha256": "84c21e370d51b118b8a6d5cf7b09dd1c7b89a42d771836c71c59109de6b8d6de",
    "timestamp": "2000-02-10T15:12:06.000Z"
   }
  },
- "filesize": 1378,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "9945d6cc68c6de416e857a4cff09df4dbd3cbe9c20c690bc4fe24c9970318512",
  "tags": [
   "author=Shaun [Kona] Ross",
   "commandline=-game alk05",
+  "filename=alk05.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.electricescape.com/etherealhell/",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=47)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev000210.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=alk05)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=2000-02-10",
-  "tag=base",
-  "tag=medium",
-  "tag=monsters",
-  "tag=orange",
-  "tag=planetquake-map-of-the-week",
-  "tag=quake2",
-  "title=The Savage Sanguine"
+  "map_size=medium",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2000-02-10",
+  "theme=base",
+  "theme=orange",
+  "theme=quake 2",
+  "title=The Savage Sanguine",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/alk05.zip",

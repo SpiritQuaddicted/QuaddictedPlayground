@@ -1,36 +1,39 @@
 {
- "filename": [
-  "evspq1.zip"
- ],
+ "bytes": 943,
  "files": {
   "evspq1.bsp": {
-   "size": 2366096,
+   "bytes": 2366096,
+   "sha256": "d9c14c82e7dbdc6c7300d635872a5344dcf12473f7a82598d36f67a5dcb62bb5",
    "timestamp": "2003-12-19T19:03:40.000Z"
   },
   "evspq1.txt": {
-   "size": 1697,
+   "bytes": 1697,
+   "sha256": "6812c5492ac7bd2f3662914e2c81259a974ec84e11e07df89e6e24dd8aa0e62a",
    "timestamp": "2003-12-19T02:00:36.000Z"
   }
  },
- "filesize": 943,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "d15ef66d712b9ed9a4b78d4467cca700c625397dcaa46affb5480dd71e2ff7dc",
  "tags": [
   "author=Evan Wagner",
+  "filename=evspq1.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://evanwagner.tripod.com/windlash/",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev040109.html#2ndreview)",
-  "releasedate=2003-12-19",
-  "tag=crypt",
-  "tag=easy",
-  "tag=gothic",
-  "tag=medium",
-  "tag=metal",
-  "tag=outdoors",
-  "tag=simple",
-  "title=A Subtle Dagger"
+  "map_size=medium",
+  "nonspecific_tag=crypt",
+  "nonspecific_tag=easy",
+  "nonspecific_tag=simple",
+  "release_date=2003-12-19",
+  "theme=gothic",
+  "theme=metal",
+  "theme=outdoors",
+  "title=A Subtle Dagger",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/evspq1.zip",

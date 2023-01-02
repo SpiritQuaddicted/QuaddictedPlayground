@@ -1,52 +1,58 @@
 {
- "filename": [
-  "sm24_pack.zip"
- ],
+ "bytes": 738,
  "files": {
   "sm24_aard.bsp": {
-   "size": 918360,
+   "bytes": 918360,
+   "sha256": "eace83f70fe4fbdbf18523263187c5e4048dad3926d221755fff91f4f1053cf0",
    "timestamp": "2001-07-14T22:48:20.000Z"
   },
   "sm24_nane.bsp": {
-   "size": 395316,
+   "bytes": 395316,
+   "sha256": "91566d10f3b1b19bf17c94b4b61129858f64b590d5c05eb793454af968ffd7c4",
    "timestamp": "2001-07-14T22:18:06.000Z"
   },
   "sm24_pack.txt": {
-   "size": 2156,
+   "bytes": 2156,
+   "sha256": "d831abb4181b40e8260522a25fc3eca0960925dfcd5a7a7f8c1cf7887ce646bf",
    "timestamp": "2001-07-15T10:14:28.000Z"
   },
   "sm24_than.bsp": {
-   "size": 518592,
+   "bytes": 518592,
+   "sha256": "1c9d9613e7cafab65482e7d97f2785bd5a03070f0f95c4c51c68aa4fdbca1c07",
    "timestamp": "2001-07-14T22:33:40.000Z"
   },
   "sm24_than.map": {
-   "size": 132531,
+   "bytes": 132531,
+   "sha256": "45a3a04aae43c1823b5b7ad36fe225260c5a7429abb73ecde69deedb3e6b6bca",
    "timestamp": "2001-07-14T22:33:10.000Z"
   },
   "sm24_xenon.bsp": {
-   "size": 600512,
+   "bytes": 600512,
+   "sha256": "0d1921659b669c2a9c1003d6a581c4737129da373970d6b85f9a96421d78fc34",
    "timestamp": "2001-07-14T22:38:16.000Z"
   }
  },
- "filesize": 738,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "def262a0b642c05517c9d3b402544e42880c99a856ab143fe007fc96dc821082",
  "tags": [
   "author=Aardappel",
   "author=NaNe",
   "author=XeNoN",
   "author=than",
+  "filename=sm24_pack.zip",
   "game=quake",
-  "releasedate=2001-07-15",
+  "game_mode=singleplayer",
+  "playstyle=horde",
+  "release_date=2001-07-15",
   "startmap=sm24_aard",
   "startmap=sm24_nane",
   "startmap=sm24_than",
   "startmap=sm24_xenon",
-  "tag=horde",
-  "title=Speedmapping pack 24 - Metal at night"
+  "title=Speedmapping pack 24 - Metal at night",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm24_pack.zip",

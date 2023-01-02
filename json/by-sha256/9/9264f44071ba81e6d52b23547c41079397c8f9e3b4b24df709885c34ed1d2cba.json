@@ -1,36 +1,40 @@
 {
- "filename": [
-  "fmb3.zip"
- ],
+ "bytes": 955,
  "files": {
   "fmb3.bsp": {
-   "size": 1850532,
+   "bytes": 1850532,
+   "sha256": "8ebfeb1bbd12becb915237d7576fec1c4ae8e30af4b1a8a6a9a093e7547c569d",
    "timestamp": "1998-04-15T09:05:10.000Z"
   },
   "fmb3.txt": {
-   "size": 3248,
+   "bytes": 3248,
+   "sha256": "48ff8fb2b070fae6201956ad4c3a5328060eb5b3cfbd5a3dc95f74a30fbafee9",
    "timestamp": "1998-04-15T19:28:16.000Z"
   },
   "fmb3_st.bsp": {
-   "size": 272080,
+   "bytes": 272080,
+   "sha256": "79cc2ca21f6ee0db09abf3b342a3e9af87e9c0566d45de01481d8e2b489db123",
    "timestamp": "1998-04-15T19:47:50.000Z"
   }
  },
- "filesize": 955,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "9264f44071ba81e6d52b23547c41079397c8f9e3b4b24df709885c34ed1d2cba",
  "tags": [
   "author=Mike Woodham",
+  "filename=fmb3.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.mikewoodham.com/",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981122.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1998-04-15",
+  "release_date=1998-04-15",
   "startmap=fmb3_st",
-  "tag=traps",
-  "title=For My Babies 3"
+  "theme=traps",
+  "title=For My Babies 3",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fmb3.zip",

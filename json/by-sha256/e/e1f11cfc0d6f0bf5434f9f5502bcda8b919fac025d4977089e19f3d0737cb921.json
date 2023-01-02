@@ -1,28 +1,30 @@
 {
- "filename": [
-  "supermaze.zip"
- ],
+ "bytes": 227,
  "files": {
   "supermaze.bsp": {
-   "size": 1003156,
+   "bytes": 1003156,
+   "sha256": "8c370a3a58287f3255bc003d91cec8968aa91a45def4126bbd57f354ec26bfe8",
    "timestamp": "2007-02-21T17:35:00.000Z"
   }
  },
- "filesize": 227,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e1f11cfc0d6f0bf5434f9f5502bcda8b919fac025d4977089e19f3d0737cb921",
  "tags": [
   "author=Unknown",
+  "filename=supermaze.zip",
   "game=quake",
-  "releasedate=2007-02-21",
-  "tag=dark",
-  "tag=maze",
-  "tag=stupid",
-  "tag=ugly",
-  "title=Maze of torture"
+  "game_mode=singleplayer",
+  "map_layout=maze",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=stupid",
+  "nonspecific_tag=ugly",
+  "release_date=2007-02-21",
+  "startmap=supermaze",
+  "title=Maze of torture",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/supermaze.zip",

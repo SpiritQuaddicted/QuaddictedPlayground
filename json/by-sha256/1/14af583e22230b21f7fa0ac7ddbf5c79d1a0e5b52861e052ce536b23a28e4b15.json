@@ -1,42 +1,44 @@
 {
- "filename": [
-  "epoch.zip"
- ],
+ "bytes": 748,
  "files": {
   "EPOCH.BSP": {
-   "size": 1732040,
+   "bytes": 1732040,
+   "sha256": "8db40805e40d86598c874b560c2f7f28523039343f06e811fa12fe5ce765fb72",
    "timestamp": "1997-02-27T15:14:08.000Z"
   },
   "EPOCH.TXT": {
-   "size": 3490,
+   "bytes": 3490,
+   "sha256": "d033e7b7af664db0a36eb590639d52957414c519cef5bd2226cf5b2cde69f3c4",
    "timestamp": "1997-02-27T15:52:20.000Z"
   }
  },
- "filesize": 748,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "14af583e22230b21f7fa0ac7ddbf5c79d1a0e5b52861e052ce536b23a28e4b15",
  "tags": [
   "author=Andrew Smith",
+  "filename=epoch.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelse.htm#epoch)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=84)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/d_f.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1997-02-27",
-  "tag=base",
-  "tag=caverns",
-  "tag=dm",
-  "tag=large",
-  "tag=medieval",
-  "tag=necropolis",
-  "tag=planetquake-map-of-the-week",
-  "tag=wizard",
-  "title=The Epoch Turning"
+  "map_size=large",
+  "nonspecific_tag=necropolis",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-02-27",
+  "theme=base",
+  "theme=caverns",
+  "theme=medieval",
+  "theme=wizard",
+  "title=The Epoch Turning",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/epoch.zip",

@@ -1,33 +1,36 @@
 {
- "filename": [
-  "burgtx12.zip"
- ],
+ "bytes": 1066,
  "files": {
   "Burgth.txt": {
-   "size": 2540,
+   "bytes": 2540,
+   "sha256": "cff5f5e1718aa7fcb97c0f4a182bb0b257698aca11454a30385fa4d33f1a11c5",
    "timestamp": "2005-11-11T00:25:40.000Z"
   },
   "burgtx12.bsp": {
-   "size": 2681284,
+   "bytes": 2681284,
+   "sha256": "2b63dfad0b0e6d6cc0f2c121f8ccbc072ace2eeff9185376242bad49c2f52f60",
    "timestamp": "2005-11-10T05:52:22.000Z"
   }
  },
- "filesize": 1066,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b951df48ca68557293284ad52e4dfd38154f992cc305834a96ab2efd97414038",
  "tags": [
   "author=MadFox",
+  "filename=burgtx12.zip",
   "game=quake",
-  "releasedate=2005-11-11",
-  "tag=castle",
-  "tag=exploration",
-  "tag=large",
-  "tag=medieval",
-  "tag=wizard",
-  "title=Burgt"
+  "game_mode=singleplayer",
+  "link:homepage=http://members.home.nl/gimli/gimli20.htm",
+  "map_size=large",
+  "release_date=2005-11-11",
+  "theme=castle",
+  "theme=exploration",
+  "theme=medieval",
+  "theme=wizard",
+  "title=Burgt",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/burgtx12.zip",

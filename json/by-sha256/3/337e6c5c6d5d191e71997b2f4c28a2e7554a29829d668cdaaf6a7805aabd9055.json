@@ -1,75 +1,87 @@
 {
- "filename": [
-  "doom-pope_tra.zip"
- ],
+ "bytes": 939,
  "files": {
   "tra/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-16T13:29:02.000Z"
   },
   "tra/Readme.txt": {
-   "size": 285,
+   "bytes": 285,
+   "sha256": "55a153a7265d3bb7544cd0345b1f4a45c54465525de0a12be33b9e8230aea84a",
    "timestamp": "2019-02-20T00:41:16.000Z"
   },
   "tra/Source/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-20T00:36:12.000Z"
   },
   "tra/Source/tra.map": {
-   "size": 657220,
+   "bytes": 657220,
+   "sha256": "cf65c3f96b9c9ce2d067e762491d7034cfb65b6d10fe3eb34dbd06fae0da2c88",
    "timestamp": "2019-02-20T00:34:48.000Z"
   },
   "tra/maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-16T13:28:54.000Z"
   },
   "tra/maps/tra.bsp": {
-   "size": 1721808,
+   "bytes": 1721808,
+   "sha256": "cb92d441c051cbbc51134f3d43172857367a6f1e3f7fa61649d4357218d88778",
    "timestamp": "2019-02-20T00:35:54.000Z"
   },
   "tra/progs.dat": {
-   "size": 350286,
+   "bytes": 350286,
+   "sha256": "f412208cc6380044845951862198db084b9b228bb3474add2bbfcceb9df39ee6",
    "timestamp": "2018-09-25T22:32:40.000Z"
   },
   "tra/progs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-14T15:18:34.000Z"
   },
   "tra/progs/s_flame.spr": {
-   "size": 29224,
+   "bytes": 29224,
+   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
    "timestamp": "2018-08-17T20:00:44.000Z"
   },
   "tra/sound/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-14T15:10:08.000Z"
   },
   "tra/sound/dump/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-02-14T15:10:08.000Z"
   },
   "tra/sound/dump/water_59_02.wav": {
-   "size": 47588,
+   "bytes": 47588,
+   "sha256": "497d1f4ed49567058da6e2618097a06c947f8131a8205f2c9c09219296780cad",
    "timestamp": "2018-09-17T19:59:10.000Z"
   }
  },
- "filesize": 939,
  "install": {
-  "extract": "{quake}//"
+  "extract": "{base}//"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "337e6c5c6d5d191e71997b2f4c28a2e7554a29829d668cdaaf6a7805aabd9055",
  "tags": [
   "author=Doom-pope",
   "commandline=-game tra",
+  "filename=doom-pope_tra.zip",
   "game=quake",
-  "releasedate=2019-02-20",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2019-02-20",
+  "source=included",
   "startmap=tra",
-  "tag=base",
-  "tag=brick",
-  "tag=medieval",
-  "tag=small",
-  "tag=source",
-  "title=The Realm of Apocrypha"
+  "theme=base",
+  "theme=brick",
+  "theme=medieval",
+  "title=The Realm of Apocrypha",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/doom-pope_tra.zip",

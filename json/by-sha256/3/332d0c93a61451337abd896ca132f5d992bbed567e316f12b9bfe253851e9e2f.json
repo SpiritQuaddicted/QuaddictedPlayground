@@ -1,0 +1,42 @@
+{
+ "bytes": 1386,
+ "files": {
+  "church.jpg": {
+   "bytes": 130271,
+   "sha256": "b39a5d16dc3be6e7e9f79a69e4454d17e153b96faa15a8c6679f85a214961243",
+   "timestamp": "2001-09-05T16:32:00.000Z"
+  },
+  "gemch01.bsp": {
+   "bytes": 3493864,
+   "sha256": "424601d12da682c4e4d3780494a18a65e0fa26c912f6f2cd1774ebe21a07f8a0",
+   "timestamp": "2001-10-04T08:21:18.000Z"
+  },
+  "gemch01.txt": {
+   "bytes": 2205,
+   "sha256": "bf897038076dcd596105835a54e2d0c698266289ec1ef9db331daae91425c323",
+   "timestamp": "2001-10-04T18:52:44.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "332d0c93a61451337abd896ca132f5d992bbed567e316f12b9bfe253851e9e2f",
+ "tags": [
+  "author=Gemein",
+  "filename=gemch01.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=https://vfov.com",
+  "playstyle=nomonsters",
+  "release_date=2001-10-04",
+  "startmap=gemch01",
+  "theme=medieval",
+  "title=Gem Church",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/gemch01.zip",
+  "https://www.quaddicted.com/files/by-sha256/3/332d0c93a61451337abd896ca132f5d992bbed567e316f12b9bfe253851e9e2f/gemch01.zip"
+ ]
+}

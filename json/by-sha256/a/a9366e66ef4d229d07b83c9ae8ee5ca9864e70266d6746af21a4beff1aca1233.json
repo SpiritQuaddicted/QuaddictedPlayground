@@ -1,38 +1,41 @@
 {
- "filename": [
-  "dark04b.zip"
- ],
+ "bytes": 976,
  "files": {
   "DARK04B.TXT": {
-   "size": 3669,
+   "bytes": 3669,
+   "sha256": "00bc8254eb9e44c4ef13045a00ba653d9ac2768859ddff3f5fa25aaa46d71d0a",
    "timestamp": "1996-12-02T09:01:16.000Z"
   },
   "DARKBASE.BSP": {
-   "size": 1411980,
+   "bytes": 1411980,
+   "sha256": "bce3ddd753377e9d4bedb875692a33e2cd90e921862c1cb7f413cdfe5f4d7b7f",
    "timestamp": "1996-11-29T00:49:50.000Z"
   },
   "DARKHALL.BSP": {
-   "size": 945792,
+   "bytes": 945792,
+   "sha256": "f91a0781faa0e33326cf7b32235e65ac6ab03a94b0c16f45cdb29190604d216b",
    "timestamp": "1996-12-01T10:12:12.000Z"
   }
  },
- "filesize": 976,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "a9366e66ef4d229d07b83c9ae8ee5ca9864e70266d6746af21a4beff1aca1233",
  "tags": [
   "author=Ray",
+  "filename=dark04b.zip",
   "game=quake",
-  "releasedate=1996-12-02",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1996-12-02",
   "startmap=darkbase",
   "startmap=darkhall",
-  "tag=base",
-  "tag=dm",
-  "tag=metal",
-  "tag=small",
-  "title=Dark 0.4 beta deathmatch maps for Quake"
+  "theme=base",
+  "theme=metal",
+  "title=Dark 0.4 beta deathmatch maps for Quake",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dark04b.zip",

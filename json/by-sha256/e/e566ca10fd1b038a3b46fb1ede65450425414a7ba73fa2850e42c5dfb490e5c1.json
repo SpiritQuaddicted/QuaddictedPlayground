@@ -1,33 +1,36 @@
 {
- "filename": [
-  "qkwall.zip"
- ],
+ "bytes": 458,
  "files": {
   "qkwall.bsp": {
-   "size": 1152272,
+   "bytes": 1152272,
+   "sha256": "8a03fa257a63d513688eb8a275e22fc8382ad7e53d67964ddcf3073d4d985bb9",
    "timestamp": "1998-02-02T12:31:32.000Z"
   },
   "qkwall.txt": {
-   "size": 1988,
+   "bytes": 1988,
+   "sha256": "719cade69d3e2b74e84377d1a37d3a55ee81dff1de85bdfa0ec1e65061ac72cf",
    "timestamp": "2000-01-13T18:51:34.000Z"
   }
  },
- "filesize": 458,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e566ca10fd1b038a3b46fb1ede65450425414a7ba73fa2850e42c5dfb490e5c1",
  "tags": [
   "author=DAV",
+  "filename=qkwall.zip",
   "game=quake",
-  "releasedate=2000-01-13",
-  "tag=castle",
-  "tag=medium",
-  "tag=outdoor",
-  "tag=realism",
-  "tag=wizard",
-  "title=Wall Fortress"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.planetquake.com/davlevels/",
+  "map_size=medium",
+  "release_date=2000-01-13",
+  "theme=castle",
+  "theme=outdoor",
+  "theme=realism",
+  "theme=wizard",
+  "title=Wall Fortress",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkwall.zip",

@@ -1,34 +1,36 @@
 {
- "filename": [
-  "avatar.zip"
- ],
+ "bytes": 562,
  "files": {
   "Avatar.bsp": {
-   "size": 1282740,
+   "bytes": 1282740,
+   "sha256": "123bd6b8f22504250cf376c0649eed1d91eed17bf920368b74483558a0703465",
    "timestamp": "1997-12-19T02:37:50.000Z"
   },
   "Avatar.txt": {
-   "size": 2212,
+   "bytes": 2212,
+   "sha256": "c41c0e0a3ddb83eb17e3e35c5f478efe54ee2b2a10f91467b9f1259a3a8ba844",
    "timestamp": "1997-12-19T02:12:00.000Z"
   }
  },
- "filesize": 562,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "315ab499542bffeb6af00ff440ab5b00384815405dda9b6e041d52f5c30e15be",
  "tags": [
   "author=Ben Watson",
+  "filename=avatar.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
-  "releasedate=1997-12-18",
-  "tag=bricks",
-  "tag=medium",
-  "tag=mediun",
-  "tag=textures",
-  "title=Avatar"
+  "map_size=medium",
+  "nonspecific_tag=mediun",
+  "nonspecific_tag=textures",
+  "release_date=1997-12-18",
+  "theme=bricks",
+  "title=Avatar",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/avatar.zip",

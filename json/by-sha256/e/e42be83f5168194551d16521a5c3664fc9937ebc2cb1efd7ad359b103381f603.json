@@ -1,34 +1,36 @@
 {
- "filename": [
-  "czg_moon.zip"
- ],
+ "bytes": 513,
  "files": {
   "czg_moon.bsp": {
-   "size": 1622652,
+   "bytes": 1622652,
+   "sha256": "22291f54a486496f398b9abec504b941566954b3716465af1d86ae16419da56e",
    "timestamp": "2001-03-30T19:56:02.000Z"
   },
   "czg_moon.txt": {
-   "size": 907,
+   "bytes": 907,
+   "sha256": "c9122024ea0cc10f8c6b9c742c294c3a430c719069e1ff9f70a5f568a774fb0d",
    "timestamp": "2001-03-30T20:08:12.000Z"
   }
  },
- "filesize": 513,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e42be83f5168194551d16521a5c3664fc9937ebc2cb1efd7ad359b103381f603",
  "tags": [
   "author=czg",
+  "filename=czg_moon.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=2001-03-30",
-  "tag=100b",
-  "tag=blue",
-  "tag=small",
-  "tag=space",
-  "tag=void",
-  "title=CZG's moonshot"
+  "map_size=small",
+  "release_date=2001-03-30",
+  "theme=100b",
+  "theme=blue",
+  "theme=space",
+  "theme=void",
+  "title=CZG's moonshot",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/czg_moon.zip",

@@ -1,26 +1,28 @@
 {
- "filename": [
-  "sm57_pulsar_se.zip"
- ],
+ "bytes": 540,
  "files": {
   "sm57_PuLSaR_se.bsp": {
-   "size": 1304712,
+   "bytes": 1304712,
+   "sha256": "22dbde5fd24e006ada1303bfd070859f705d21140d9bb48e05fdd07e7abb8a0a",
    "timestamp": "1997-07-05T22:55:30.000Z"
   }
  },
- "filesize": 540,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ee9239c38113515930738cbe7e9816a1c8759708058c5e8aa486c4534605610f",
  "tags": [
   "author=PuLSaR",
+  "filename=sm57_pulsar_se.zip",
   "game=quake",
-  "releasedate=2003-12-30",
-  "tag=metal",
-  "tag=small",
-  "title=The Lair of DOOMestic Animals"
+  "game_mode=singleplayer",
+  "link:homepage=http://pulsar.quaddicted.com",
+  "map_size=small",
+  "release_date=2003-12-30",
+  "theme=metal",
+  "title=The Lair of DOOMestic Animals",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm57_pulsar_se.zip",

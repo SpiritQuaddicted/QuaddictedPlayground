@@ -1,33 +1,35 @@
 {
- "filename": [
-  "chessp1.zip"
- ],
+ "bytes": 455,
  "files": {
   "chessp1.bsp": {
-   "size": 1063692,
+   "bytes": 1063692,
+   "sha256": "372cdf7047455c6d73bba8117a63ef7b1d0a33d338f9372a55422b6f2044e5a3",
    "timestamp": "1999-01-21T05:20:26.000Z"
   },
   "chessp1.txt": {
-   "size": 3635,
+   "bytes": 3635,
+   "sha256": "c66426d6d37d95014f57db529626bb3c7f5964f92f43262b4a76e1c5e685b4dd",
    "timestamp": "1999-01-21T06:10:46.000Z"
   }
  },
- "filesize": 455,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "70e87024e43b7c187bb80f5242656d5645301f87a21d925e6fd8cc794e81e7fa",
  "tags": [
   "author=cheshire",
+  "filename=chessp1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990122.html)",
-  "releasedate=1999-01-21",
-  "tag=hard",
-  "tag=metal",
-  "tag=small",
-  "tag=traps",
-  "title=Shrine of Skank"
+  "map_size=small",
+  "nonspecific_tag=hard",
+  "release_date=1999-01-21",
+  "theme=metal",
+  "theme=traps",
+  "title=Shrine of Skank",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/chessp1.zip",

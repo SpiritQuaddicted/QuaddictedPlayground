@@ -1,30 +1,33 @@
 {
- "filename": [
-  "sm108_bam.zip"
- ],
+ "bytes": 158,
  "files": {
   "y18.bsp": {
-   "size": 309252,
+   "bytes": 309252,
+   "sha256": "1274128cca59bdc2b4442d5805527bf7da609d9e44b486e37af126f16ad0b7e1",
    "timestamp": "2005-10-13T21:46:28.000Z"
   },
   "y18.map": {
-   "size": 166919,
+   "bytes": 166919,
+   "sha256": "1272cb54924a1da3d9c3b59f05598ebb0e52ac875e0ab2e824b70a34987f5f42",
    "timestamp": "2005-10-13T21:43:24.000Z"
   }
  },
- "filesize": 158,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "cd259f44ca1a7d64be5b8758880b0a4370f522549b87dd6dbaaa000fd210aeda",
  "tags": [
   "author=bambuz",
+  "filename=sm108_bam.zip",
   "game=quake",
-  "releasedate=2005-10-13",
-  "tag=cavern",
-  "tag=lava",
-  "title=Speedmapping pack 108 - Unthemed"
+  "game_mode=singleplayer",
+  "release_date=2005-10-13",
+  "startmap=y18",
+  "theme=cavern",
+  "theme=lava",
+  "title=Speedmapping pack 108 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm108_bam.zip",

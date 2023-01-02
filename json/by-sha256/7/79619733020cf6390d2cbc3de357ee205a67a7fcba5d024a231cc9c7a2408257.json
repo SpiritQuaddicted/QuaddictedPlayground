@@ -1,29 +1,30 @@
 {
- "filename": [
-  "dark.zip"
- ],
+ "bytes": 397,
  "files": {
   "DARK.BSP": {
-   "size": 958992,
+   "bytes": 958992,
+   "sha256": "24d139f846f93ef523b3964f21fcc1ed6283e2543851b0c9450eee744b8bed62",
    "timestamp": "1996-10-14T23:21:16.000Z"
   }
  },
- "filesize": 397,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "79619733020cf6390d2cbc3de357ee205a67a7fcba5d024a231cc9c7a2408257",
  "tags": [
   "author=Unknown",
+  "filename=dark.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd1.htm)",
-  "releasedate=1996-10-14",
-  "tag=arena",
-  "tag=small",
-  "tag=snow",
-  "tag=wizard",
-  "title=Dark Hell"
+  "map_layout=arena",
+  "map_size=small",
+  "release_date=1996-10-14",
+  "theme=snow",
+  "theme=wizard",
+  "title=Dark Hell",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dark.zip",

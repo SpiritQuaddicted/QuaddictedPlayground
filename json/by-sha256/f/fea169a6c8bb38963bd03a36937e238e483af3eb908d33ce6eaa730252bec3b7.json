@@ -1,41 +1,45 @@
 {
- "filename": [
-  "tww.zip"
- ],
+ "bytes": 538,
  "files": {
   "SHRAKLIC.TXT": {
-   "size": 8527,
+   "bytes": 8527,
+   "sha256": "85388e8a00de8f12e4e0517cc2a0b66b8e64a1002d70058e4e564509babaf889",
    "timestamp": "1997-02-19T16:40:58.000Z"
   },
   "tww.bsp": {
-   "size": 1132208,
+   "bytes": 1132208,
+   "sha256": "f6845b54d23fa39aef7b3443807bbac693017c829244640926d1891f964bf6cb",
    "timestamp": "1996-10-22T13:35:22.000Z"
   },
   "tww.map": {
-   "size": 406406,
+   "bytes": 406406,
+   "sha256": "12dff9b6db1b6470da8157a9d20dc4c9d9107fa0757ea82f1fee0b4c38df9127",
    "timestamp": "1996-10-22T13:25:26.000Z"
   },
   "tww.txt": {
-   "size": 488,
+   "bytes": 488,
+   "sha256": "4b342472965bb2c56cd21b8f1371a942de66a688fe5fe09f123887c60041efbd",
    "timestamp": "1997-03-12T13:58:20.000Z"
   }
  },
- "filesize": 538,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "fea169a6c8bb38963bd03a36937e238e483af3eb908d33ce6eaa730252bec3b7",
  "tags": [
   "author=Ludovic Texier",
+  "filename=tww.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelst.htm#tww)",
-  "releasedate=1997-03-12",
-  "tag=base",
-  "tag=dm",
-  "tag=small",
-  "tag=source",
-  "title=The Warefare Warehouse"
+  "map_size=small",
+  "release_date=1997-03-12",
+  "source=included",
+  "theme=base",
+  "title=The Warfare Warehouse",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tww.zip",

@@ -1,46 +1,51 @@
 {
- "filename": [
-  "sm173_pack.zip"
- ],
+ "bytes": 1994,
  "files": {
   "sm173_Cocerello.txt": {
-   "size": 2266,
+   "bytes": 2266,
+   "sha256": "98192dce3874dd358ebbe710c6f7a1cc85ab613fbe9e73f886c49474600717fb",
    "timestamp": "2013-12-19T10:54:56.000Z"
   },
   "sm173_coce.bsp": {
-   "size": 910168,
+   "bytes": 910168,
+   "sha256": "0fc9e99ca25af728bd4c66704b09008895c15860e8bd4618677e6cc68e46620a",
    "timestamp": "2013-12-19T10:40:06.000Z"
   },
   "sm173_digs.bsp": {
-   "size": 1018984,
+   "bytes": 1018984,
+   "sha256": "ecc27ab45d3e3acd2277b57aee97c7785326fd04beffe830d61fac0fd6cfc198",
    "timestamp": "2013-12-17T06:21:26.000Z"
   },
   "sm173_doomer.bsp": {
-   "size": 1603437,
+   "bytes": 1603437,
+   "sha256": "aedc1543a996cddf780e0e7e41f10c92e6ec71d08ed6c528b3dbe3ac20535b46",
    "timestamp": "2013-12-18T17:42:48.000Z"
   },
   "sm173_doomer.txt": {
-   "size": 1791,
+   "bytes": 1791,
+   "sha256": "9c6ade5150a9351527bf4790727ba6c39b1db9ea322bbd87c46410c57c73034e",
    "timestamp": "2013-12-18T17:55:42.000Z"
   },
   "sm173_pack.JPG": {
-   "size": 215271,
+   "bytes": 215271,
+   "sha256": "d95150b39a02868c82e5aa600c337dbdfa63bf7d030b1769e7de0a3fba58b321",
    "timestamp": "2013-12-19T11:43:54.000Z"
   },
   "sm173_pack.txt": {
-   "size": 1646,
+   "bytes": 1646,
+   "sha256": "20967a7268214d705eab02a3c606ceda7ef3c3c0d2ff0b26d8bacdb1e69c2ed7",
    "timestamp": "2013-12-19T11:27:52.000Z"
   },
   "sm173_skacky.bsp": {
-   "size": 1434305,
+   "bytes": 1434305,
+   "sha256": "03c78a5d2b69b78a5030503cff953b53ec815548c1a5d3c03686d7725e61d739",
    "timestamp": "2013-12-17T18:18:48.000Z"
   }
  },
- "filesize": 1994,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "54576b1fb6adfac936c014ff471afefbac3cd9ecb362089234b960741223ac9c",
  "tags": [
   "author=Cocerello",
@@ -48,20 +53,23 @@
   "author=doomer",
   "author=skacky",
   "dependency=quoth",
+  "filename=sm173_pack.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[func](http://www.celephais.net/board/view_thread.php?id=60984)",
-  "releasedate=2013-12-19",
+  "mod=quoth",
+  "nonspecific_tag=digs",
+  "nonspecific_tag=doomer",
+  "nonspecific_tag=skacky",
+  "release_date=2013-12-19",
   "startmap=sm173_coce",
   "startmap=sm173_digs",
   "startmap=sm173_doomer",
   "startmap=sm173_skacky",
-  "tag=cocerello",
-  "tag=digs",
-  "tag=doomer",
-  "tag=qtwid",
-  "tag=quoth",
-  "tag=skacky",
-  "title=Speedmapping pack 173 - Quake The Way Id Did"
+  "theme=quake the way id did",
+  "theme=quoth",
+  "title=Speedmapping pack 173 - Quake The Way Id Did",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm173_pack.zip",

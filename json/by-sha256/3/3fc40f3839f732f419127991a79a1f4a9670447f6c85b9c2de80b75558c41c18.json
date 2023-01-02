@@ -1,53 +1,60 @@
 {
- "filename": [
-  "sm150_pack.zip"
- ],
+ "bytes": 451,
  "files": {
   "sm150_ericw.bsp": {
-   "size": 664608,
+   "bytes": 664608,
+   "sha256": "11d1e8f0fe866d14910cbe33128ec869e6f684689b330aaabbc6020cfdcf581c",
    "timestamp": "2008-12-15T12:26:08.000Z"
   },
   "sm150_nahk.bsp": {
-   "size": 164656,
+   "bytes": 164656,
+   "sha256": "4c62e6f0937f185e71e3085a477e46b9f8b0c5a9e42f6794ec2901909b219078",
    "timestamp": "2008-12-14T18:13:36.000Z"
   },
   "sm150_nahk.map": {
-   "size": 71793,
+   "bytes": 71793,
+   "sha256": "9397e207536150eae5992aa13f65124d471fc96459961c4507110a36b82ef15c",
    "timestamp": "2008-12-14T18:13:30.000Z"
   },
   "sm150_pack.txt": {
-   "size": 1270,
+   "bytes": 1270,
+   "sha256": "03b9b9e938c0a0883377d2d12ca71839b5ddd0ec46921adb899007341fbef389",
    "timestamp": "2008-12-15T12:27:54.000Z"
   },
   "sm150_spirit.blend": {
-   "size": 380188,
+   "bytes": 380188,
+   "sha256": "c08c64642e8ab52bcb4b0c939eed2797a66470b905571b4f044847ec9ac5ae43",
    "timestamp": "2008-12-15T12:25:40.000Z"
   },
   "sm150_spirit.bsp": {
-   "size": 102276,
+   "bytes": 102276,
+   "sha256": "1d06b5944944a680254865d50be8c7cf1d24a170203303decb595e644c601dd8",
    "timestamp": "2008-12-15T12:24:24.000Z"
   },
   "sm150_spirit.map": {
-   "size": 57117,
+   "bytes": 57117,
+   "sha256": "69e66d1725089cab13399dc889088c2a79989454eb280551978eb4b64048027b",
    "timestamp": "2008-12-15T12:24:16.000Z"
   }
  },
- "filesize": 451,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "3fc40f3839f732f419127991a79a1f4a9670447f6c85b9c2de80b75558c41c18",
  "tags": [
   "author=NahkahiiR",
   "author=Spirit",
   "author=ericw",
+  "filename=sm150_pack.zip",
   "game=quake",
-  "releasedate=2008-12-15",
+  "game_mode=singleplayer",
+  "release_date=2008-12-15",
   "startmap=sm150_ericw",
   "startmap=sm150_nahk",
   "startmap=sm150_spirit",
-  "title=Speedmapping pack 150 - 150"
+  "title=Speedmapping pack 150 - 150",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm150_pack.zip",

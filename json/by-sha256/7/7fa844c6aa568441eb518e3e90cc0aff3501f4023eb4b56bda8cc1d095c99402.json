@@ -1,35 +1,37 @@
 {
- "filename": [
-  "martim6.zip"
- ],
+ "bytes": 896,
  "files": {
   "MARTIM6.BSP": {
-   "size": 2025600,
+   "bytes": 2025600,
+   "sha256": "c9e8752e0f46c02b5c9810f18da9518e72e42ab4f605a7b7fa1cffc5ddc859e0",
    "timestamp": "1997-04-10T21:31:06.000Z"
   },
   "MARTIM6.TXT": {
-   "size": 2582,
+   "bytes": 2582,
+   "sha256": "cb64a7a9cf18b3a28c20e77b7df27b486ef447f6034369ff32f94d198a1b8922",
    "timestamp": "1997-04-13T19:03:04.000Z"
   }
  },
- "filesize": 896,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7fa844c6aa568441eb518e3e90cc0aff3501f4023eb4b56bda8cc1d095c99402",
  "tags": [
   "author=Tim van Hal &amp; Marco van Schriek",
+  "filename=martim6.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsm1.htm#martim6)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
-  "releasedate=1997-04-13",
-  "tag=hub",
-  "tag=large",
-  "tag=traps",
-  "tag=wizard",
-  "title=Lucifer's Path"
+  "map_size=large",
+  "nonspecific_tag=hub",
+  "release_date=1997-04-13",
+  "theme=traps",
+  "theme=wizard",
+  "title=Lucifer's Path",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/martim6.zip",

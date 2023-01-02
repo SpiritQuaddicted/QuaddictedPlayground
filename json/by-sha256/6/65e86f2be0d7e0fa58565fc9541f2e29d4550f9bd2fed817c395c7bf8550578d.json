@@ -1,36 +1,39 @@
 {
- "filename": [
-  "celscape.zip"
- ],
+ "bytes": 235,
  "files": {
   "celscape.bsp": {
-   "size": 572972,
+   "bytes": 572972,
+   "sha256": "a58298ce13e822bfddb75f68256576bc5ccd67d37fe1981ad6742815be0d9e26",
    "timestamp": "2002-01-26T18:28:38.000Z"
   },
   "celscape.txt": {
-   "size": 2197,
+   "bytes": 2197,
+   "sha256": "c63d5e242729a7c313270c7a43f4f842eb74f3d4757dbc19bfde92b26246fe40",
    "timestamp": "2002-01-26T22:29:12.000Z"
   },
   "celscape.unix": {
-   "size": 2130,
+   "bytes": 2130,
+   "sha256": "0e7958d687b121ad6e8a3606035fabf784b3b338f03eb827aa58e3bede2b4cf8",
    "timestamp": "2002-01-26T20:18:40.000Z"
   }
  },
- "filesize": 235,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "65e86f2be0d7e0fa58565fc9541f2e29d4550f9bd2fed817c395c7bf8550578d",
  "tags": [
   "author=The Void (tim)",
+  "filename=celscape.zip",
   "game=quake",
-  "releasedate=2002-01-01",
-  "tag=base",
-  "tag=brick",
-  "tag=prison",
-  "tag=small",
-  "title=Cell Escape"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2002-01-01",
+  "theme=base",
+  "theme=brick",
+  "theme=prison",
+  "title=Cell Escape",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/celscape.zip",

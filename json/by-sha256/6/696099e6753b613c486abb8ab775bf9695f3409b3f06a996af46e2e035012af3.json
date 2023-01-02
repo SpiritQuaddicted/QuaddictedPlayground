@@ -1,53 +1,59 @@
 {
- "filename": [
-  "sm103_pack.zip"
- ],
+ "bytes": 1205,
  "files": {
   "sm102_generic.bsp": {
-   "size": 606932,
+   "bytes": 606932,
+   "sha256": "ce873ba373bffdb1a8540abe26f7e0f30f9a0413d9d69c8441e272780d7a7ebb",
    "timestamp": "2005-08-29T09:59:26.000Z"
   },
   "sm103_generic1.bsp": {
-   "size": 473368,
+   "bytes": 473368,
+   "sha256": "727909978c884e51cc9ca40ad05bb77732a5eeb04e4703cf8f06aac37573522b",
    "timestamp": "2005-09-01T20:09:26.000Z"
   },
   "sm103_generic2.bsp": {
-   "size": 77952,
+   "bytes": 77952,
+   "sha256": "2deb3eb95d85cc3c52b3bb8da3435f4e8b660d3387dfaa0183fc18d23542fdac",
    "timestamp": "2005-09-01T20:09:26.000Z"
   },
   "sm103_neg!ke.bsp": {
-   "size": 509416,
+   "bytes": 509416,
+   "sha256": "04c7ee04c7893c08d9010ec98b5df31795a0191a43e3c849060baeb2b7d09834",
    "timestamp": "2005-09-03T23:55:16.000Z"
   },
   "sm103_starbuck.bsp": {
-   "size": 1191748,
+   "bytes": 1191748,
+   "sha256": "35b1ed822c984ea39d52bb7a20ad64de58718e50f974c3cb7ad1047f8c451b52",
    "timestamp": "2005-09-04T15:17:52.000Z"
   },
   "sm103_zwiffle.bsp": {
-   "size": 430184,
+   "bytes": 430184,
+   "sha256": "a789e01dfcfb7343abb87017af9fa416b44494a6e9229813a7e32dfe8fdee28d",
    "timestamp": "2005-09-03T20:01:58.000Z"
   }
  },
- "filesize": 1205,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "696099e6753b613c486abb8ab775bf9695f3409b3f06a996af46e2e035012af3",
  "tags": [
   "author=Starbuck",
   "author=Zwiffle",
   "author=generic",
   "author=negke",
+  "filename=sm103_pack.zip",
   "game=quake",
-  "releasedate=2005-09-04",
+  "game_mode=singleplayer",
+  "release_date=2005-09-04",
   "startmap=sm102_generic",
   "startmap=sm103_generic1",
   "startmap=sm103_generic2",
   "startmap=sm103_neg!ke",
   "startmap=sm103_starbuck",
   "startmap=sm103_zwiffle",
-  "title=Speedmapping pack 103 - Autumn"
+  "title=Speedmapping pack 103 - Autumn",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm103_pack.zip",

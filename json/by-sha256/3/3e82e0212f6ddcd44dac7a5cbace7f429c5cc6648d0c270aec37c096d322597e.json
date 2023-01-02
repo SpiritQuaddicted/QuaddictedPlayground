@@ -1,41 +1,45 @@
 {
- "filename": [
-  "sm33_pack.zip"
- ],
+ "bytes": 571,
  "files": {
   "sm33_ap.bsp": {
-   "size": 170084,
+   "bytes": 170084,
+   "sha256": "a72b9d951c20ff5910b2af48784302fe726f8bcea952a9a15f66a1f836a08b94",
    "timestamp": "2001-09-09T10:39:18.000Z"
   },
   "sm33_pack.txt": {
-   "size": 1820,
+   "bytes": 1820,
+   "sha256": "5dbd079cc7069118d29472a8f58bf61e1e99e2b22a70844e0f7bc1ab11e0a737",
    "timestamp": "2001-09-18T22:09:06.000Z"
   },
   "sm33_sb.bsp": {
-   "size": 1046020,
+   "bytes": 1046020,
+   "sha256": "8d7b0ce3ca1d49bbaaecf3f8af69f2fd00d221460f44e0201b78f918a4f92487",
    "timestamp": "2001-09-08T01:54:36.000Z"
   },
   "sm33_than.bsp": {
-   "size": 508592,
+   "bytes": 508592,
+   "sha256": "a334161a013aab721c03b98dc6960d49650af15583ff620fef661c012e69ba3d",
    "timestamp": "2001-09-09T23:54:10.000Z"
   }
  },
- "filesize": 571,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "3e82e0212f6ddcd44dac7a5cbace7f429c5cc6648d0c270aec37c096d322597e",
  "tags": [
   "author=Apollo",
   "author=Starbuck",
   "author=than",
+  "filename=sm33_pack.zip",
   "game=quake",
-  "releasedate=2001-09-18",
+  "game_mode=singleplayer",
+  "release_date=2001-09-18",
   "startmap=sm33_ap",
   "startmap=sm33_sb",
   "startmap=sm33_than",
-  "title=Speedmapping pack 33 - Unthemed"
+  "title=Speedmapping pack 33 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm33_pack.zip",

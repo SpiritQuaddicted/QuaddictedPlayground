@@ -1,36 +1,39 @@
 {
- "filename": [
-  "fmb8.zip"
- ],
+ "bytes": 1218,
  "files": {
   "FMB8.TXT": {
-   "size": 3090,
+   "bytes": 3090,
+   "sha256": "2768580241fdc1512cd6cf2fe1346059e7c7f5665ad93720f8f0179b09bbe1d6",
    "timestamp": "2000-12-02T11:18:02.000Z"
   },
   "fmb8.bsp": {
-   "size": 2907004,
+   "bytes": 2907004,
+   "sha256": "5a492e6901c22437178e19d68e7cd7caf53fba24b7a3ec823aaaeb30097afd58",
    "timestamp": "2000-12-02T11:16:54.000Z"
   }
  },
- "filesize": 1218,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "db002144a727be2c9a4b309d59e821038d2bb3e2fb0436503a08913131a4315b",
  "tags": [
   "author=Mike Woodham &amp; Tronyn",
+  "filename=fmb8.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.mikewoodham.com",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/14-dec-2001/fmb8.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev001125.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=fmb8)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
-  "releasedate=2000-12-02",
-  "tag=egyptian",
-  "tag=large",
-  "tag=temple",
-  "title=For My Babies 8"
+  "map_size=large",
+  "release_date=2000-12-02",
+  "theme=egyptian",
+  "theme=temple",
+  "title=For My Babies 8",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fmb8.zip",

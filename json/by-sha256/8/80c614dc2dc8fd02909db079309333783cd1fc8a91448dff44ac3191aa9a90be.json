@@ -1,31 +1,33 @@
 {
- "filename": [
-  "2fact2ns.zip"
- ],
+ "bytes": 987,
  "files": {
   "2Fact2NS.txt": {
-   "size": 3741,
+   "bytes": 3741,
+   "sha256": "9e7a94906f3ede97546d6982290b83d6bedf9f70aff0a4da85a5d575ae98de40",
    "timestamp": "1997-10-24T15:20:40.000Z"
   },
   "2fact2NS.bsp": {
-   "size": 2416644,
+   "bytes": 2416644,
+   "sha256": "4a4ee71f8d5e9a3dcf47dc47354e52354e406d7fb3a056385ab76fed9e5f119f",
    "timestamp": "1997-10-24T04:14:52.000Z"
   }
  },
- "filesize": 987,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "80c614dc2dc8fd02909db079309333783cd1fc8a91448dff44ac3191aa9a90be",
  "tags": [
   "author=Chris Sanders",
+  "filename=2fact2ns.zip",
   "game=quake",
-  "releasedate=1997-10-24",
-  "tag=navy seals",
-  "tag=realism",
-  "tag=small",
-  "title=2 Factions"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=navy seals",
+  "release_date=1997-10-24",
+  "theme=realism",
+  "title=2 Factions",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/2fact2ns.zip",

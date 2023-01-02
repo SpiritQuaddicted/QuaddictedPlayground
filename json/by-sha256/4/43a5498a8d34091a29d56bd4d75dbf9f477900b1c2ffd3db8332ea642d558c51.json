@@ -1,45 +1,51 @@
 {
- "filename": [
-  "gl4fify2.zip"
- ],
+ "bytes": 449,
  "files": {
   "!!READ!!.BAT": {
-   "size": 16156,
+   "bytes": 16156,
+   "sha256": "13b74c49865cbd07c7d020d489c32f767c36f847d3284b4e5ddb49e5109402ca",
    "timestamp": "1997-02-24T16:45:14.000Z"
   },
   "DEMO1.DEM": {
-   "size": 721970,
+   "bytes": 721970,
+   "sha256": "6d86c5fd95fc7722b9b9f081d5f0d538f9b7a4fad27e5d0d5d908ba16add58a8",
    "timestamp": "1997-02-24T15:20:58.000Z"
   },
   "FIFFY2.BSP": {
-   "size": 760368,
+   "bytes": 760368,
+   "sha256": "73baf17a147a737170d9f6cf8802aa0215d8ebf01639bb7fbf0be677ede488fd",
    "timestamp": "1997-11-30T13:57:42.000Z"
   },
   "FILE_ID.DIZ": {
-   "size": 896,
+   "bytes": 896,
+   "sha256": "8dd36b04bb1040d8ff1cb583352c0a3c1dd703c34cdf67144238b720127bf0e4",
    "timestamp": "1997-02-24T15:34:14.000Z"
   },
   "Readme.txt": {
-   "size": 305,
+   "bytes": 305,
+   "sha256": "db651e38a22b14e502b9a42f0e9d283959b6b37315239cafe89e3e67074fbe38",
    "timestamp": "1997-11-30T14:06:04.000Z"
   }
  },
- "filesize": 449,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "43a5498a8d34091a29d56bd4d75dbf9f477900b1c2ffd3db8332ea642d558c51",
  "tags": [
   "author=George J. Fiffy II",
+  "filename=gl4fify2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://members.aol.com/georgef551",
   "link=[Crash's](http://www.quake2.com/crash/levels0-9.htm#fortress)",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
-  "releasedate=1997-11-30",
+  "map_size=small",
+  "release_date=1997-11-30",
   "startmap=fiffy2",
-  "tag=small",
-  "tag=wizard",
-  "title=REoL TOUGH: Fortress! (watervised)"
+  "theme=wizard",
+  "title=REoL TOUGH: Fortress! (watervised)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gl4fify2.zip",

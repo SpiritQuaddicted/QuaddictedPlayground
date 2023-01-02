@@ -1,35 +1,38 @@
 {
- "filename": [
-  "sm122_pack.zip"
- ],
+ "bytes": 517,
  "files": {
   "sm122_bambuz.bsp": {
-   "size": 414080,
+   "bytes": 414080,
+   "sha256": "069851869e9647ab161b1aa48c2d139961a408ef12171cdc357a309c44728382",
    "timestamp": "2006-04-04T23:54:54.000Z"
   },
   "sm122_generic.bsp": {
-   "size": 951380,
+   "bytes": 951380,
+   "sha256": "3e123a0a829a07c61f10185e34dd3819107f8cf8ad892d15e6e9e86f65dd415c",
    "timestamp": "2006-04-04T02:52:10.000Z"
   },
   "sm122_pack.txt": {
-   "size": 1324,
+   "bytes": 1324,
+   "sha256": "e1663f61c8314b9b3369f90eb386c5b58d4b1dcc7064d4b7026bc9e981416027",
    "timestamp": "2006-04-05T00:49:16.000Z"
   }
  },
- "filesize": 517,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "10485659a6511916fc75ed52258b45dada1dd28e17163f4c1d1130d9b675d471",
  "tags": [
   "author=bambuz",
   "author=generic",
+  "filename=sm122_pack.zip",
   "game=quake",
-  "releasedate=2006-04-05",
+  "game_mode=singleplayer",
+  "release_date=2006-04-05",
   "startmap=sm122_bambuz",
   "startmap=sm122_generic",
-  "title=Speedmapping pack 122 - EVIL DEAD PRISON RAPE BREAK OUT MASTURBATORY HAPPY TIME!"
+  "title=Speedmapping pack 122 - EVIL DEAD PRISON RAPE BREAK OUT MASTURBATORY HAPPY TIME!",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm122_pack.zip",

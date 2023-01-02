@@ -1,34 +1,54 @@
 {
- "filename": [
-  "temple2.zip"
- ],
+ "bytes": 822,
  "files": {
   "PAK0.PAK": {
-   "size": 2382294,
+   "bytes": 2382294,
+   "files": {
+    "demo1.dem": {
+     "bytes": 587024,
+     "sha256": "fa48d670f66cb656f63e5592216875ddc79e590b1caffbc075e3f5c548d51001"
+    },
+    "maps/temple.bsp": {
+     "bytes": 1333028,
+     "sha256": "e53470a29f5605d2c49856081e6800a4c08dd13cf8933f5ea0a37f29a0eb2275"
+    },
+    "progs.dat": {
+     "bytes": 420484,
+     "sha256": "a1ffbc1eabb64322ad691c141da09e21429b87cc4893f6f6984470849f8472bf"
+    },
+    "sound/ambience/thunder1.wav": {
+     "bytes": 41490,
+     "sha256": "c91c0ed95b95ec4341936f03f8958ac22475e38ce57be77ba839efe90925c3a5"
+    }
+   },
+   "sha256": "5a6cb17190ae456b6e2a2e93f38617574e8892918bf2582e6a0c9559eed44585",
    "timestamp": "1997-10-21T14:15:16.000Z"
   },
   "TEMPLE.TXT": {
-   "size": 3258,
+   "bytes": 3258,
+   "sha256": "787b73895c1a6a2253d94f088cc6b4328018867598e1ff81d04154e199e8e76b",
    "timestamp": "1997-10-21T14:28:36.000Z"
   }
  },
- "filesize": 822,
  "install": {
-  "extract": "{quake}/temple/"
+  "extract": "{base}/temple/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "117844ed26d81c7d40e6faf45cfad4787a71b864707290b6584bfcc625637765",
  "tags": [
   "author=Fredrik 'PeyloW' Olsson",
   "commandline=-game temple",
+  "filename=temple2.zip",
   "game=quake",
-  "releasedate=1997-10-21",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1997-10-21",
   "startmap=start",
-  "tag=dungeon",
-  "tag=small",
-  "tag=traps",
-  "tag=wizard",
-  "title=Temple of Tourment"
+  "theme=dungeon",
+  "theme=traps",
+  "theme=wizard",
+  "title=Temple of Tourment",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/temple2.zip",

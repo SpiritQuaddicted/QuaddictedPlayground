@@ -1,35 +1,38 @@
 {
- "filename": [
-  "sm123_pack.zip"
- ],
+ "bytes": 466,
  "files": {
   "sm123_neg!ke.bsp": {
-   "size": 311960,
+   "bytes": 311960,
+   "sha256": "d4fa8e3b2316eef9739d542a9e2c0fb16e8a097dd15c7785a90925cd1390338c",
    "timestamp": "2006-04-11T11:18:08.000Z"
   },
   "sm123_pack.txt": {
-   "size": 1285,
+   "bytes": 1285,
+   "sha256": "d9dbaa5075f9e7507a4c52e5a88bcaac18f692c34d0f4e58a1f7f964d87d261c",
    "timestamp": "2006-04-11T10:27:04.000Z"
   },
   "sm123_trinca.bsp": {
-   "size": 1039148,
+   "bytes": 1039148,
+   "sha256": "e6163ca844a41ef87a3bc90bfb9a2757e114d4365536cc448f9202773fc22011",
    "timestamp": "2006-04-08T18:46:04.000Z"
   }
  },
- "filesize": 466,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "5e012b3d8026aaf88951b0cd2c5b2d1cfe396f9d22dc1e9dc153d1ddbe70f228",
  "tags": [
   "author=Trinca",
   "author=negke",
+  "filename=sm123_pack.zip",
   "game=quake",
-  "releasedate=2006-04-11",
+  "game_mode=singleplayer",
+  "release_date=2006-04-11",
   "startmap=sm123_neg!ke",
   "startmap=sm123_trinca",
-  "title=Speedmapping pack 123 - A tribute to the Dopefish"
+  "title=Speedmapping pack 123 - A tribute to the Dopefish",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm123_pack.zip",

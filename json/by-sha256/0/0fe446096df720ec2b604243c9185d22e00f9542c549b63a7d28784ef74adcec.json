@@ -1,33 +1,35 @@
 {
- "filename": [
-  "deso.zip"
- ],
+ "bytes": 373,
  "files": {
   "DESO.BSP": {
-   "size": 883108,
+   "bytes": 883108,
+   "sha256": "18dadda6e36d83c4b4ca0aa580ce05b2d1f5b452a124578dc2b104c0bea2f908",
    "timestamp": "1996-08-05T21:11:44.000Z"
   },
   "DESO.TXT": {
-   "size": 2053,
+   "bytes": 2053,
+   "sha256": "ced2ba0feaf75a419d03740038fb5da9b6aa4a105bc4a679649b30e84f87dcde",
    "timestamp": "1996-08-05T22:14:56.000Z"
   }
  },
- "filesize": 373,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0fe446096df720ec2b604243c9185d22e00f9542c549b63a7d28784ef74adcec",
  "tags": [
   "author=Jim Lowell",
+  "filename=deso.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd1.htm#deso)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/g_i.htm)",
-  "releasedate=1996-08-05",
-  "tag=lava",
-  "tag=medieval",
-  "tag=small",
-  "title=House of Desolution"
+  "map_size=small",
+  "release_date=1996-08-05",
+  "theme=lava",
+  "theme=medieval",
+  "title=House of Desolution",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/deso.zip",

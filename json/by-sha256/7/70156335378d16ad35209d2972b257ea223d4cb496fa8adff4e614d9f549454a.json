@@ -1,33 +1,36 @@
 {
- "filename": [
-  "fmb6.zip"
- ],
+ "bytes": 1513,
  "files": {
   "fmb6.bsp": {
-   "size": 3462252,
+   "bytes": 3462252,
+   "sha256": "3c457755722264d9b566fb7a955781e0eaad0f9d3b4b49e1b5c12eb511b5c192",
    "timestamp": "1999-11-06T10:33:20.000Z"
   },
   "fmb6.txt": {
-   "size": 4694,
+   "bytes": 4694,
+   "sha256": "c020ca4bff123b2e10faee28896845426c37e3cee04feaa0bd86285abe7d5a08",
    "timestamp": "1999-11-22T20:35:22.000Z"
   }
  },
- "filesize": 1513,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "70156335378d16ad35209d2972b257ea223d4cb496fa8adff4e614d9f549454a",
  "tags": [
   "author=Mike Woodham",
+  "filename=fmb6.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.mikewoodham.com",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/01-nov-1999/fmb6.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev991124.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=fmb6)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1999-11-22",
-  "tag=metal",
-  "title=For My Babies 6"
+  "release_date=1999-11-22",
+  "theme=metal",
+  "title=For My Babies 6",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fmb6.zip",

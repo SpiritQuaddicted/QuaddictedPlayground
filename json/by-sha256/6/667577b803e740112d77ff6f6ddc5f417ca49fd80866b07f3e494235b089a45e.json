@@ -1,0 +1,48 @@
+{
+ "bytes": 1408,
+ "files": {
+  "berthe.bsp": {
+   "bytes": 1461640,
+   "sha256": "622e8ac3061a8cede4440fe770eb94b40e6c4f1d83477e3c3c291314683db032",
+   "timestamp": "2020-09-23T04:54:24.000Z"
+  },
+  "berthe.map": {
+   "bytes": 675167,
+   "sha256": "b2abadb52ea505fc438d7ba38458b8d6bf0627295c453b8d66a82e3027714271",
+   "timestamp": "2020-09-23T06:20:26.000Z"
+  },
+  "berthe.txt": {
+   "bytes": 2859,
+   "sha256": "e6c623ff3777b5db6e3edc182b05280970675a7db2bdd6c70720707777084935",
+   "timestamp": "2020-09-23T05:46:14.000Z"
+  },
+  "music/track16.ogg": {
+   "bytes": 745420,
+   "sha256": "8d54ea9bc6eced27b5ab5aef88d3ce886e36ef69be928f448097fbf25227d617",
+   "timestamp": "2020-09-22T02:40:38.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "667577b803e740112d77ff6f6ddc5f417ca49fd80866b07f3e494235b089a45e",
+ "tags": [
+  "author=Leonardi",
+  "filename=berthe.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61948)",
+  "map_size=small",
+  "music=custom",
+  "release_date=2020-09-23",
+  "source=included",
+  "theme=base",
+  "title=Berthe, Mistress of Novices",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/berthe.zip",
+  "https://www.quaddicted.com/files/by-sha256/6/667577b803e740112d77ff6f6ddc5f417ca49fd80866b07f3e494235b089a45e/berthe.zip"
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "bytes": 4835,
+ "files": {
+  "quakeDVM.txt": {
+   "bytes": 145,
+   "sha256": "a4da756fc2192d89fab0712dfa5b1597bf56b406a9992a33cbc89446d488c4aa",
+   "timestamp": "2022-03-03T18:50:26.000Z"
+  },
+  "quakedvm.bsp": {
+   "bytes": 11049264,
+   "sha256": "35a255cc8ab521e46ff9e4089d00382f8a1569113aa677b8db6f2c9ee7bd2434",
+   "timestamp": "2022-03-01T03:10:56.000Z"
+  },
+  "quakedvm.lit": {
+   "bytes": 9077936,
+   "sha256": "a67efb3b48887f231ee37ca0895a1ce93d97af9cefc640b1d44b448a241dc7df",
+   "timestamp": "2022-03-01T03:10:56.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "cd02509f5f501d503de9f40f0ab7b201009920660d37566a4cbf3c6eefdb8457",
+ "tags": [
+  "author=Luigiman2020",
+  "filename=quakedvm.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=school",
+  "release_date=2022-03-03",
+  "startmap=quakedvm",
+  "theme=realism",
+  "title=Quake DVM",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/quakedvm.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cd02509f5f501d503de9f40f0ab7b201009920660d37566a4cbf3c6eefdb8457/quakedvm.zip"
+ ]
+}

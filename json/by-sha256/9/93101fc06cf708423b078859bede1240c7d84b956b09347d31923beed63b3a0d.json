@@ -1,31 +1,33 @@
 {
- "filename": [
-  "ttot.zip"
- ],
+ "bytes": 238,
  "files": {
   "TTOT.BSP": {
-   "size": 537776,
+   "bytes": 537776,
+   "sha256": "41428790e651a1f6b076d7d9feb655da7aa19be09f17db537e17b8e83bbf9fd2",
    "timestamp": "1996-12-16T10:07:54.000Z"
   },
   "TTOT.TXT": {
-   "size": 3246,
+   "bytes": 3246,
+   "sha256": "2217e6ed6355bbf4ec8d42d801ef26872a5e695051a5ccd209d09655c20e0158",
    "timestamp": "1997-02-18T17:01:02.000Z"
   }
  },
- "filesize": 238,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "93101fc06cf708423b078859bede1240c7d84b956b09347d31923beed63b3a0d",
  "tags": [
   "author=Juha Koiste",
+  "filename=ttot.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelst.htm)",
-  "releasedate=1996-12-17",
-  "tag=small",
-  "tag=wizard",
-  "title=The Temple of Torment"
+  "map_size=small",
+  "release_date=1996-12-17",
+  "theme=wizard",
+  "title=The Temple of Torment",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ttot.zip",

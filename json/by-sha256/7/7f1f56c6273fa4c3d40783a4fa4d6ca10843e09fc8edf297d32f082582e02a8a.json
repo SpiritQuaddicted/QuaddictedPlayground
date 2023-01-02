@@ -1,51 +1,57 @@
 {
- "filename": [
-  "sm117_pack.zip"
- ],
+ "bytes": 1495,
  "files": {
   "sm117_adamllis.bsp": {
-   "size": 820388,
+   "bytes": 820388,
+   "sha256": "7262aefd9e9fa818eab630568154a331c7c34fdbfccd522031881ac31f479c81",
    "timestamp": "2006-01-23T09:35:06.000Z"
   },
   "sm117_ankh.bsp": {
-   "size": 1407016,
+   "bytes": 1407016,
+   "sha256": "c55cf205cc515362c47c99cefbcc40f15e2816c16cdcf03d1727c5b14cc4bca5",
    "timestamp": "2006-01-21T20:50:54.000Z"
   },
   "sm117_ankh.txt": {
-   "size": 576,
+   "bytes": 576,
+   "sha256": "42502adcf1d7124f2bfd2eaef4fe68032eeb5b364e5cb83190afde680d1d7972",
    "timestamp": "2006-01-21T21:10:20.000Z"
   },
   "sm117_neg!ke.bsp": {
-   "size": 1302164,
+   "bytes": 1302164,
+   "sha256": "67098d4c6547c62ad93fbbd603b0b93bae20d4a06c504ee998bcbb9bcf3f155c",
    "timestamp": "2006-01-22T23:21:42.000Z"
   },
   "sm117_pack.txt": {
-   "size": 1470,
+   "bytes": 1470,
+   "sha256": "6d175c30ae013ad7f553295ad5075a351218117ec59df5c2d0c56e24b13c6ac1",
    "timestamp": "2006-01-23T10:07:04.000Z"
   },
   "sm117_trinca.bsp": {
-   "size": 881896,
+   "bytes": 881896,
+   "sha256": "1244fe904f23b7a515d2d83aa335f7401d98e7197273c20e1c9095fd1a9d0307",
    "timestamp": "2006-01-18T13:38:24.000Z"
   }
  },
- "filesize": 1495,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7f1f56c6273fa4c3d40783a4fa4d6ca10843e09fc8edf297d32f082582e02a8a",
  "tags": [
   "author=Ankh",
   "author=Trinca",
   "author=adamllis",
   "author=negke",
+  "filename=sm117_pack.zip",
   "game=quake",
-  "releasedate=2006-01-23",
+  "game_mode=singleplayer",
+  "release_date=2006-01-23",
   "startmap=sm117_adamllis",
   "startmap=sm117_ankh",
   "startmap=sm117_neg!ke",
   "startmap=sm117_trinca",
-  "title=Speedmapping pack 117 - M.C. Escher/Ogre Massacre"
+  "title=Speedmapping pack 117 - M.C. Escher/Ogre Massacre",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm117_pack.zip",

@@ -1,31 +1,33 @@
 {
- "filename": [
-  "rjty.zip"
- ],
+ "bytes": 348,
  "files": {
   "rjty.bsp": {
-   "size": 731036,
+   "bytes": 731036,
+   "sha256": "2eea514c01fff01b391a3827226989de064348ec77e5557f835ba9fecb12c0d3",
    "timestamp": "1997-04-12T00:56:26.000Z"
   },
   "rjty.txt": {
-   "size": 1921,
+   "bytes": 1921,
+   "sha256": "3568fd410d9cf302ee0b2b3ba28933ad8d9ab91e926c552701835903a0c2a9ca",
    "timestamp": "1997-04-12T01:08:24.000Z"
   }
  },
- "filesize": 348,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "9e8790cdcbf4ff9cbb9b5bb189fee3166753f9267000eddcb04c4cf8d5240f8b",
  "tags": [
   "author=Tyler McNamee",
+  "filename=rjty.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsr.htm)",
-  "releasedate=1997-04-12",
-  "tag=small",
-  "tag=stone",
-  "title=Tyger's Lair"
+  "map_size=small",
+  "release_date=1997-04-12",
+  "theme=stone",
+  "title=Tyger's Lair",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rjty.zip",

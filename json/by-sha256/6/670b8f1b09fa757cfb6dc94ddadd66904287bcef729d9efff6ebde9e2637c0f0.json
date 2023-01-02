@@ -1,37 +1,40 @@
 {
- "filename": [
-  "kuro.zip"
- ],
+ "bytes": 97,
  "files": {
   "KURO.BSP": {
-   "size": 200396,
+   "bytes": 200396,
+   "sha256": "8c8e82d4f53e0154e252669d454d5d9f4ce8d40aaadf737ea4dce897883cc15d",
    "timestamp": "1995-12-22T18:43:28.000Z"
   },
   "KURO.MAP": {
-   "size": 83141,
+   "bytes": 83141,
+   "sha256": "44b00897ccbdcea1d8f7a7968fa0062479803a5a41319b0d69db4eeaf53a742b",
    "timestamp": "1995-12-22T18:40:20.000Z"
   },
   "KURO.TXT": {
-   "size": 2312,
+   "bytes": 2312,
+   "sha256": "7fca6bd5279409cd5b4b0fcaca2b516aef194941ca7f83fee206461b9369221e",
    "timestamp": "1995-12-22T22:48:34.000Z"
   }
  },
- "filesize": 97,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "670b8f1b09fa757cfb6dc94ddadd66904287bcef729d9efff6ebde9e2637c0f0",
  "tags": [
   "author=Chris",
+  "filename=kuro.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsk.htm)",
-  "releasedate=1996-12-22",
-  "tag=metal",
-  "tag=small",
-  "tag=source",
-  "tag=wizard",
-  "title=Kuro"
+  "map_size=small",
+  "release_date=1996-12-22",
+  "source=included",
+  "theme=metal",
+  "theme=wizard",
+  "title=Kuro",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kuro.zip",

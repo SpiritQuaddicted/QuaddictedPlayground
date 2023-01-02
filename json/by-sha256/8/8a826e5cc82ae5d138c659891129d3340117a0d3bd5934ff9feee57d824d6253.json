@@ -1,35 +1,37 @@
 {
- "filename": [
-  "church.zip"
- ],
+ "bytes": 423,
  "files": {
   "CHURCH.TXT": {
-   "size": 1017,
+   "bytes": 1017,
+   "sha256": "2a3460ef9067f886178cee3c862bc850e489b190715ae459e423f30e31ed6edf",
    "timestamp": "1996-11-22T16:18:44.000Z"
   },
   "church.bsp": {
-   "size": 983248,
+   "bytes": 983248,
+   "sha256": "18a529ec989d582ddf11990fd2dbda07d506b5525276c92efa24d91bb3651418",
    "timestamp": "1996-11-22T15:01:50.000Z"
   }
  },
- "filesize": 423,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8a826e5cc82ae5d138c659891129d3340117a0d3bd5934ff9feee57d824d6253",
  "tags": [
   "author=Anders Gustafsson",
+  "filename=church.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsc.htm#church)",
-  "releasedate=1996-11-22",
-  "tag=blue",
-  "tag=brick",
-  "tag=dm",
-  "tag=medieval",
-  "tag=no exit",
-  "tag=small",
-  "title=Church"
+  "map_size=small",
+  "release_date=1996-11-22",
+  "theme=blue",
+  "theme=brick",
+  "theme=medieval",
+  "theme=no exit",
+  "title=Church",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/church.zip",

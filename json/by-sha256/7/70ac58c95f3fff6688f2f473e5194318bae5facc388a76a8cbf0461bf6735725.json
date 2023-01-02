@@ -1,36 +1,38 @@
 {
- "filename": [
-  "lostwrld.zip"
- ],
+ "bytes": 869,
  "files": {
   "lostwrld.bsp": {
-   "size": 2030384,
+   "bytes": 2030384,
+   "sha256": "301691c656488825d6a025d44bffe22248a251eda615264b434746c4952a5845",
    "timestamp": "1997-03-28T21:22:16.000Z"
   },
   "lostwrld.txt": {
-   "size": 4911,
+   "bytes": 4911,
+   "sha256": "a16a710e095b1f3d76d85eb6c98058cc8047d80483be568820c90589834ba4d1",
    "timestamp": "1997-03-28T22:11:14.000Z"
   }
  },
- "filesize": 869,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "70ac58c95f3fff6688f2f473e5194318bae5facc388a76a8cbf0461bf6735725",
  "tags": [
   "author=Matt Sefton",
+  "filename=lostwrld.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsl.htm#lostwrld)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=108)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/j_l.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-03-28",
-  "tag=medieval",
-  "tag=medium",
-  "tag=planetquake-map-of-the-week",
-  "title=The Lost World"
+  "map_size=medium",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-03-28",
+  "theme=medieval",
+  "title=The Lost World",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lostwrld.zip",

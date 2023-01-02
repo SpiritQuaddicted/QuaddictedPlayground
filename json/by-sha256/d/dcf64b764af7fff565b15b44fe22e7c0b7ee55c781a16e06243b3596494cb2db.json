@@ -1,34 +1,37 @@
 {
- "filename": [
-  "cave.zip"
- ],
+ "bytes": 1273,
  "files": {
   "cave1.txt": {
-   "size": 1546,
+   "bytes": 1546,
+   "sha256": "a79ed92b69c687ef28119bf06417fafb60c722f52526e8ee87c88114c1f9c7ac",
    "timestamp": "2004-08-28T21:19:08.000Z"
   },
   "cave351.bsp": {
-   "size": 3051836,
+   "bytes": 3051836,
+   "sha256": "2957b27685859d6563461989a17457c8e5c3317c2b8ffb5319f1f6325a6da12f",
    "timestamp": "2004-08-28T06:22:38.000Z"
   }
  },
- "filesize": 1273,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "dcf64b764af7fff565b15b44fe22e7c0b7ee55c781a16e06243b3596494cb2db",
  "tags": [
   "author=MadFox",
+  "filename=cave.zip",
   "game=quake",
-  "releasedate=2004-08-28",
+  "game_mode=singleplayer",
+  "link:homepage=http://members.home.nl/gimli/gimli20.htm",
+  "map_size=large",
+  "release_date=2004-08-28",
   "startmap=cave351",
-  "tag=castle",
-  "tag=cave",
-  "tag=exploration",
-  "tag=large",
-  "tag=traps",
-  "title=In the Cave"
+  "theme=castle",
+  "theme=cave",
+  "theme=exploration",
+  "theme=traps",
+  "title=In the Cave",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cave.zip",

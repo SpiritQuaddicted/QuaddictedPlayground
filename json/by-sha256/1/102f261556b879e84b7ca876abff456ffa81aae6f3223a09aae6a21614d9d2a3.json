@@ -1,32 +1,34 @@
 {
- "filename": [
-  "twelve.zip"
- ],
+ "bytes": 723,
  "files": {
   "twelve.bsp": {
-   "size": 1767284,
+   "bytes": 1767284,
+   "sha256": "df6fed468efe16a9b0678d356956d9d140a8f19a18e56d8027c074d27a2cf180",
    "timestamp": "1998-04-15T13:34:24.000Z"
   },
   "twelve.txt": {
-   "size": 3291,
+   "bytes": 3291,
+   "sha256": "096b8882f2c01fa1c3011654fff853d3c27880a9ade7e9b7c8261303405385cc",
    "timestamp": "1998-04-17T15:14:58.000Z"
   }
  },
- "filesize": 723,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "102f261556b879e84b7ca876abff456ffa81aae6f3223a09aae6a21614d9d2a3",
  "tags": [
   "author=Pingu",
+  "filename=twelve.zip",
   "game=quake",
-  "releasedate=1998-04-17",
-  "tag=base",
-  "tag=castle",
-  "tag=medium",
-  "tag=wizard",
-  "title=Twelve Minutes"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "release_date=1998-04-17",
+  "theme=base",
+  "theme=castle",
+  "theme=wizard",
+  "title=Twelve Minutes",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/twelve.zip",

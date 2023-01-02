@@ -1,78 +1,91 @@
 {
- "filename": [
-  "digs09.zip"
- ],
+ "bytes": 5858,
  "files": {
   "digs09.txt": {
-   "size": 1974,
+   "bytes": 1974,
+   "sha256": "5f6def0423a690e1dea6ce7b49ba0ca0dd191c8711b882b2699bf208faa1e7d9",
    "timestamp": "2018-10-27T09:05:54.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-10-27T08:28:50.000Z"
   },
   "maps/digs09.bsp": {
-   "size": 13560424,
+   "bytes": 13560424,
+   "sha256": "306f0de5e06daa0abce52ab305f50ff6b71d01f2a094d4da9378ae99693dacbb",
    "timestamp": "2018-10-27T02:36:12.000Z"
   },
   "maps/digs09.lit": {
-   "size": 3779648,
+   "bytes": 3779648,
+   "sha256": "d1587bf376949df42c050269858e0d7a842a94161c83e9457367e38a7d191870",
    "timestamp": "2018-10-26T19:18:18.000Z"
   },
   "progs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-10-27T08:29:08.000Z"
   },
   "progs/mushroom3.mdl": {
-   "size": 10804,
+   "bytes": 10804,
+   "sha256": "bd9cffc12706bc004b1913f929e9d0cf32fb21234e5a2f63dc59f3e7537d9e71",
    "timestamp": "2018-07-20T08:05:52.000Z"
   },
   "progs/smoke.mdl": {
-   "size": 31808,
+   "bytes": 31808,
+   "sha256": "beea4c1bf2e1b0de51074ba3ad70ee19e72ead9929f31cf9eba64ef0d7b0594d",
    "timestamp": "2013-09-15T14:26:36.000Z"
   },
   "sound/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-10-27T08:29:14.000Z"
   },
   "sound/drip.wav": {
-   "size": 43770,
+   "bytes": 43770,
+   "sha256": "fa26cdd5e22dc40c83cd5e26e1701e0abf85bab0d78b3e5ac800a640e3a00463",
    "timestamp": "2018-07-28T17:56:46.000Z"
   },
   "sound/mill.wav": {
-   "size": 1222494,
+   "bytes": 1222494,
+   "sha256": "670705155f638a85918051ac2a32f9f189290782c9d0ed1f2e03c5c40a42a0b8",
    "timestamp": "2018-10-06T19:58:32.000Z"
   },
   "sound/scream.wav": {
-   "size": 35696,
+   "bytes": 35696,
+   "sha256": "4e657c67062f4706d5dd6cb10d67ce54a2334201d987d33b81189563c444e7e8",
    "timestamp": "2018-06-22T11:38:42.000Z"
   }
  },
- "filesize": 5858,
  "install": {
-  "extract": "{quake}/quoth/"
+  "extract": "{base}/quoth/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ee161e8ea5a1d10465fd0632f8a68b72d4d3b547de58403a6ce000cf86549a40",
  "tags": [
   "author=digs",
+  "bsp_format=bsp2",
   "commandline=-game quoth -quoth",
   "dependency=quoth2pt2full_2",
+  "exceeds_quake_limits=yes",
+  "filename=digs09.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://digspt.ru/quake",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61645)",
-  "releasedate=2018-10-27",
-  "tag=bsp2",
-  "tag=canyon",
-  "tag=house",
-  "tag=large",
-  "tag=limits",
-  "tag=mill",
-  "tag=quoth",
-  "tag=realism",
-  "tag=textures",
-  "tag=valley",
-  "tag=village",
-  "title=The Zombie's House"
+  "map_size=large",
+  "mod=quoth",
+  "nonspecific_tag=mill",
+  "nonspecific_tag=textures",
+  "nonspecific_tag=valley",
+  "release_date=2018-10-27",
+  "theme=canyon",
+  "theme=house",
+  "theme=quoth",
+  "theme=realism",
+  "theme=village",
+  "title=The Zombie's House",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs09.zip",

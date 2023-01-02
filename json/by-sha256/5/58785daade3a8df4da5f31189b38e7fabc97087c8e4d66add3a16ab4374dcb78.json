@@ -1,53 +1,60 @@
 {
- "filename": [
-  "thepit.zip"
- ],
+ "bytes": 1045,
  "files": {
   "ThePit.bsp": {
-   "size": 1585824,
+   "bytes": 1585824,
+   "sha256": "83e40d35273b15f80e4a2e128e212cdc5c0d2180161a7811cf4e947d759cc07a",
    "timestamp": "1998-02-10T23:51:52.000Z"
   },
   "ThePit.map": {
-   "size": 376921,
+   "bytes": 376921,
+   "sha256": "88c3a551cee436e591772905f98d4fc081a0477cd3ba62b0d6edb2c01610db89",
    "timestamp": "1998-02-10T22:22:52.000Z"
   },
   "ThePit.rmf": {
-   "size": 636376,
+   "bytes": 636376,
+   "sha256": "31709497c7656385ecd8e983dec49f23ba535b94c2bf854e6a727c43fe6f1ca3",
    "timestamp": "1998-02-06T16:12:30.000Z"
   },
   "ThePit.txt": {
-   "size": 3232,
+   "bytes": 3232,
+   "sha256": "10a8ad223835472b34b7589e9152220432841c3722e9426a358d85e7c04bbf09",
    "timestamp": "1998-02-11T00:09:30.000Z"
   },
   "ThePit1.dem": {
-   "size": 762827,
+   "bytes": 762827,
+   "sha256": "03710816628de490ea3048f5c1796415b4003f07e2f03b60ccb962ed7eb094c6",
    "timestamp": "1998-02-11T00:40:44.000Z"
   },
   "ThePit2.dem": {
-   "size": 525355,
+   "bytes": 525355,
+   "sha256": "a1787601d7ddd84df368952027cdefca1eda674a681de65f3a7f5b05052022f4",
    "timestamp": "1998-02-11T00:44:52.000Z"
   },
   "ThePit3.dem": {
-   "size": 1041282,
+   "bytes": 1041282,
+   "sha256": "a8443e74008d71a19827f296b720d2f7ad56cd94af314ef5052e6d0199649ef8",
    "timestamp": "1998-02-11T00:48:54.000Z"
   }
  },
- "filesize": 1045,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "58785daade3a8df4da5f31189b38e7fabc97087c8e4d66add3a16ab4374dcb78",
  "tags": [
   "author=Mike Biggerstaff (Miko)",
+  "filename=thepit.zip",
   "game=quake",
-  "releasedate=1998-02-11",
-  "tag=demo",
-  "tag=mixtex",
-  "tag=small",
-  "tag=source",
-  "tag=tower",
-  "title=ThePit"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1998-02-11",
+  "source=included",
+  "theme=mixtex",
+  "theme=tower",
+  "title=ThePit",
+  "type=demo",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/thepit.zip",

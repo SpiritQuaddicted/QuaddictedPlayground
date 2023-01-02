@@ -1,82 +1,94 @@
 {
- "filename": [
-  "bindingtower2.zip"
- ],
+ "bytes": 8894,
  "files": {
   "bindingtower.txt": {
-   "size": 1683,
+   "bytes": 1683,
+   "sha256": "523d83dc1b35fa63b4dba4cf1c46e5293c949e8ff0433040048ebbb972879695",
    "timestamp": "2019-05-13T19:41:06.000Z"
   },
   "gfx/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-06-10T11:17:54.000Z"
   },
   "gfx/env/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-06-10T11:17:54.000Z"
   },
   "gfx/env/adgreenskybk.tga": {
-   "size": 1520289,
+   "bytes": 1520289,
+   "sha256": "6a7fa2cdc97237658a3f2c73a8a5d879feadf4a31e84fb8585aeba96f3f8fb61",
    "timestamp": "2015-11-28T11:58:10.000Z"
   },
   "gfx/env/adgreenskydn.tga": {
-   "size": 1565620,
+   "bytes": 1565620,
+   "sha256": "d4fabe617a431169df1bbc37e48404fc34718a1bbf5a1ee45d5b3a0ddda5cc6c",
    "timestamp": "2015-11-28T12:03:10.000Z"
   },
   "gfx/env/adgreenskyft.tga": {
-   "size": 1704063,
+   "bytes": 1704063,
+   "sha256": "c6cfbbd8b09846eaea719a5e65744cdd4fddced0c277f4584c743f2639882d50",
    "timestamp": "2015-11-28T11:58:36.000Z"
   },
   "gfx/env/adgreenskylf.tga": {
-   "size": 1576943,
+   "bytes": 1576943,
+   "sha256": "c83f24917ccb67af83602236d03e57096f73b36b7fc64da6206afe989944b4a4",
    "timestamp": "2015-12-20T09:10:46.000Z"
   },
   "gfx/env/adgreenskyrt.tga": {
-   "size": 1706213,
+   "bytes": 1706213,
+   "sha256": "7b85287d2ce5e4d3a9ce63a560183086e812ceca9232d07eb61f63a24d678e10",
    "timestamp": "2015-11-28T11:59:02.000Z"
   },
   "gfx/env/adgreenskyup.tga": {
-   "size": 1798684,
+   "bytes": 1798684,
+   "sha256": "703e4449b5b9ff967610dbc81d7e27c089788927d82fdb31267490cfb30ed0e3",
    "timestamp": "2015-12-20T09:36:08.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2019-06-10T11:17:54.000Z"
   },
   "maps/bindingtower.bsp": {
-   "size": 14849528,
+   "bytes": 14849528,
+   "sha256": "dc2b3cb35f1578dc1bf82d82f5f66c03a80c0b9810060dfb875533461660e4a6",
    "timestamp": "2019-06-10T16:43:38.000Z"
   },
   "maps/bindingtower.map": {
-   "size": 5134865,
+   "bytes": 5134865,
+   "sha256": "f20e51e8d33a70d7ec971cbb2eb1fa1544382abc4fdedfdb07126165c96aa384",
    "timestamp": "2019-06-10T16:19:54.000Z"
   }
  },
- "filesize": 8894,
  "install": {
-  "extract": "{quake}/id1/"
+  "extract": "{base}/id1/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "2361901d5875e912062e7c0b264cd08875b2c3f6e43bfa7ab417bfb0fc986305",
  "tags": [
   "author=Albert van Zyl",
+  "bsp_format=bsp2",
+  "exceeds_quake_limits=yes",
+  "filename=bindingtower2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61739)",
-  "releasedate=2019-06-10",
+  "map_size=large",
+  "nonspecific_tag=forest",
+  "nonspecific_tag=nature",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=trees",
+  "release_date=2019-06-10",
   "startmap=bindingtower",
-  "tag=bsp2",
-  "tag=castle",
-  "tag=forest",
-  "tag=large",
-  "tag=limits",
-  "tag=medieval",
-  "tag=nature",
-  "tag=outdoor",
-  "tag=skybox",
-  "tag=tower",
-  "tag=trees",
-  "tag=wizard",
-  "title=Binding Tower"
+  "theme=castle",
+  "theme=medieval",
+  "theme=outdoor",
+  "theme=tower",
+  "theme=wizard",
+  "title=Binding Tower",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bindingtower2.zip",

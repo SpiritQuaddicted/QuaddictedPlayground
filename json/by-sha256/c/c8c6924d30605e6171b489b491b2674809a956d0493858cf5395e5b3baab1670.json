@@ -1,0 +1,54 @@
+{
+ "bytes": 1363,
+ "files": {
+  "sbtf_cop16.bsp": {
+   "bytes": 3063108,
+   "sha256": "017e8b5022913247db58972e67d09f4ced0d4b0967ccd50d125b4457498741e3",
+   "timestamp": "2021-09-10T22:10:30.000Z"
+  },
+  "sbtf_cop16.lit": {
+   "bytes": 1461176,
+   "sha256": "4fd8bbd35ab492217f2f8ce52893a7f05ad1ceb6845e2603fa209043f049c98b",
+   "timestamp": "2021-09-10T22:10:30.000Z"
+  },
+  "sbtf_cop16.map": {
+   "bytes": 2420606,
+   "sha256": "66c9c35243157c6aece15d8445e40808696f8c26607b0387e5de472263a4de86",
+   "timestamp": "2021-09-10T22:09:28.000Z"
+  },
+  "sbtf_cop16.txt": {
+   "bytes": 5492,
+   "sha256": "102d12644be6e8b0111f6e1d18179bd242249852db1f4bd06a009929584951b1",
+   "timestamp": "2021-09-10T22:28:38.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/maps"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "c8c6924d30605e6171b489b491b2674809a956d0493858cf5395e5b3baab1670",
+ "tags": [
+  "author=The Solipsist",
+  "commandline=-game copper",
+  "dependency=copper_v1_16",
+  "exceeds_quake_limits=yes",
+  "filename=sbtf_cop16.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "mod=copper",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=spacehulk",
+  "release_date=2021-09-10",
+  "source=included",
+  "theme=base",
+  "theme=exploration",
+  "title=Swarm Breach Torrent Fight",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sbtf_cop16.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c8c6924d30605e6171b489b491b2674809a956d0493858cf5395e5b3baab1670/sbtf_cop16.zip"
+ ]
+}

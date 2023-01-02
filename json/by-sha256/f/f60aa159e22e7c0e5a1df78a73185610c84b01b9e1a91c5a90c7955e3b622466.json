@@ -1,26 +1,33 @@
 {
- "filename": [
-  "ikspq5.zip"
- ],
+ "bytes": 857,
  "files": {
   "IKSPQ5.BSP": {
-   "size": 2087904,
+   "bytes": 2087904,
+   "sha256": "641b2480600ff7d8b2ebb43db6500d1f67bc08088b9212a9e3f8e6c503659ff4",
    "timestamp": "1997-11-21T10:05:24.000Z"
   },
   "IKSPQ5.TXT": {
-   "size": 4989,
+   "bytes": 4989,
+   "sha256": "38945886a47eb01f1b71cf7216a26a028e73f739c0a99f4f7c86ed9f347aebf5",
    "timestamp": "1997-11-21T12:55:28.000Z"
   }
  },
- "filesize": 857,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "f60aa159e22e7c0e5a1df78a73185610c84b01b9e1a91c5a90c7955e3b622466",
  "tags": [
   "author=Iikka \"Fingers\" Ker\u00e4nen",
+  "dependency=ikspq1",
+  "dependency=ikspq2",
+  "dependency=ikspq3",
+  "dependency=ikspq4",
+  "dependency=ikstart",
+  "filename=ikspq5.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://ikq.planetquake.gamespy.com",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east14c.htm)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=99)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/llevl.htm)",
@@ -28,14 +35,13 @@
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=ik5)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1997-11-21",
-  "tag=base",
-  "tag=classic",
-  "tag=ikbase",
-  "tag=mustplay",
-  "tag=planetquake-map-of-the-week",
-  "tag=series",
-  "title=The Secret Installation"
+  "nonspecific_tag=mustplay",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-11-21",
+  "theme=base",
+  "theme=ikbase",
+  "title=The Secret Installation",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq5.zip",

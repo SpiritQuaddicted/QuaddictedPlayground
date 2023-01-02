@@ -1,34 +1,36 @@
 {
- "filename": [
-  "sadlark4.zip"
- ],
+ "bytes": 1121,
  "files": {
   "sadlark4.bsp": {
-   "size": 2531176,
+   "bytes": 2531176,
+   "sha256": "bf46ee2778787f3b4f369f4afefa3a08760bf80ceef5159e32353e054ebc2697",
    "timestamp": "1997-07-04T18:02:56.000Z"
   },
   "sadlark4.txt": {
-   "size": 2146,
+   "bytes": 2146,
+   "sha256": "7359571e2107540347d552ea7121e2ce25462ca0cddf6404615f90552a2b4230",
    "timestamp": "1997-07-30T18:20:58.000Z"
   }
  },
- "filesize": 1121,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "839539de67a3b1f82b4d14f52af06bf56541e18e6f9ca27752ad02f3aab094d9",
  "tags": [
   "author=Jonas N.P. Lindstrom",
+  "filename=sadlark4.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelss.htm)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
-  "releasedate=1997-07-30",
-  "tag=exploration",
-  "tag=medium",
-  "tag=traps",
-  "tag=wizard",
-  "title=The domain of Sadlark"
+  "map_size=medium",
+  "release_date=1997-07-30",
+  "theme=exploration",
+  "theme=traps",
+  "theme=wizard",
+  "title=The domain of Sadlark",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark4.zip",

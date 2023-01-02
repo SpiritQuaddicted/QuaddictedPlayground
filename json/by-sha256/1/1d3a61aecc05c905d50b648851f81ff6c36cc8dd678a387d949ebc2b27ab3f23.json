@@ -1,26 +1,163 @@
 {
- "filename": [
-  "sm36.zip"
- ],
+ "bytes": 2358,
  "files": {
   "pak0.PAK": {
-   "size": 4746020,
+   "bytes": 4746020,
+   "files": {
+    "maps/sm36.bsp": {
+     "bytes": 3637380,
+     "sha256": "81e1841dc4aaa9191b416cc0244b138c0ca1433bbd584e9ab908ca88198601f2"
+    },
+    "progs.dat": {
+     "bytes": 442892,
+     "sha256": "d1e13b81c71ce1b7dd6c1186b0b50f22611c3259b9aa9460c5b6cd8114c3b91e"
+    },
+    "progs/enforce2.mdl": {
+     "bytes": 224812,
+     "sha256": "af9095cffbc74edc9d98d4e4e341736e304404df52983be33616da84d6463c87"
+    },
+    "progs/h_me.mdl": {
+     "bytes": 12416,
+     "sha256": "2fff2f36173080827a298870a956fb11ad30f34aa0342ba5ca2c8bd6509edf57"
+    },
+    "progs/memissil.mdl": {
+     "bytes": 59078,
+     "sha256": "6a7022fa8210771be206034a2b0ebeb59f6fc79719d499ac01811a4ff32eb08a"
+    },
+    "sound/ambient/amb14.wav": {
+     "bytes": 55320,
+     "sha256": "187b28d66dc1a05ea64502be9c6bbab4d1ea7b7465b988262cbddce8defc94cc"
+    },
+    "sound/ambient/amb19.wav": {
+     "bytes": 47188,
+     "sha256": "3ed17a7e847a6e184e2945e7603ee0a992862e66255403b2702a86267cc2338b"
+    },
+    "sound/ambient/amb4.wav": {
+     "bytes": 60158,
+     "sha256": "2133a96270404754f03c5a39fbfd0e7424d58768c59a890fefdeb40c40a9c3e8"
+    },
+    "sound/ambient/fan1.wav": {
+     "bytes": 107854,
+     "sha256": "3ff43e368ce72c82cca539acdcb3390cbbd62224b6f76f154fe7cd3eae55381b"
+    },
+    "sound/me/me_fire1.wav": {
+     "bytes": 3016,
+     "sha256": "2603e46e656da75b80f597a5916ecd62dbd396c3f0036d25b0a5143485076071"
+    },
+    "sound/me/me_fire2.wav": {
+     "bytes": 7674,
+     "sha256": "7e4418c880edcd96c84069d668fe00cd70444b9af2a555611b16a6a98680422c"
+    },
+    "sound/me/me_soff.wav": {
+     "bytes": 5500,
+     "sha256": "4c8e041824c0aacf803b6eb22f0800bdd06ea1ea3290ce1871c2bbc191b64fc2"
+    },
+    "sound/me/me_son.wav": {
+     "bytes": 5308,
+     "sha256": "16ad7f7f93b9814a65317e63090f9873c2209579d9d57bc19b7fdfb52d526d67"
+    },
+    "sound/me/medeath1.wav": {
+     "bytes": 11712,
+     "sha256": "c86be6c64d6a3515c225ccd734322694c1e152027d9375cd26cac5b8c6f8c3af"
+    },
+    "sound/me/medeath2.wav": {
+     "bytes": 20808,
+     "sha256": "fde0b948b861230be1d91859a4d061987bb10fe3c7054595a54a5a872b474560"
+    },
+    "sound/me/meidle.wav": {
+     "bytes": 3908,
+     "sha256": "8170e75a6f424e3d507ca6950a57105aa5216d6a20e493464394d57f593d3bc7"
+    },
+    "sound/me/mepain1.wav": {
+     "bytes": 3300,
+     "sha256": "5f1aad60a8e0acfb81880822412eafeb7cf738f8333e86f240fb9c2ecbcdcb52"
+    },
+    "sound/me/mepain2.wav": {
+     "bytes": 4874,
+     "sha256": "ada3bc3b902924be0bf5f2ed275022d3b86bbc66a6b269af9ca9e614d467efef"
+    },
+    "sound/me/mepain3.wav": {
+     "bytes": 6082,
+     "sha256": "d3cc84b75606ea8ec7311fcceff3cb68c18d220b6c1e362d91ecc695deb5b65e"
+    },
+    "sound/me/mesight1.wav": {
+     "bytes": 8128,
+     "sha256": "a1f1bf4f2e742e755b0ae676278df1bbe7ba9db8918133c4e40b94525b47485d"
+    },
+    "sound/me/mesight2.wav": {
+     "bytes": 8526,
+     "sha256": "69fd72d533823d71cd21af3d97be148b5f2b0f6ae6b57a6c585ff807f81ce63e"
+    },
+    "sound/me/mesight3.wav": {
+     "bytes": 8666,
+     "sha256": "27c6ad5ba5f0e76e071b27918c6c5735e0cbf38bfed85040cc8c1044e32b7ee9"
+    }
+   },
+   "sha256": "d5e967aaa7cd3afec886489a2080b5a9e19bd0cf91b880dda529761266c25ea9",
    "timestamp": "2002-10-08T00:28:32.000Z"
   },
   "sm36.txt": {
-   "size": 11648,
+   "bytes": 11648,
+   "sha256": "01554b5644bab77306926d00926a67b42bc351804d2937f980932f6bc336d341",
    "timestamp": "2002-10-07T23:41:26.000Z"
   },
   "sm36_source.zip": {
-   "size": 450831,
+   "bytes": 450831,
+   "files": {
+    "sm36_bear.map": {
+     "bytes": 107542,
+     "sha256": "59eac903a848d601eac62bb0329c5f8ae3ceff6d9d2ac534f8b02a7936d1171b",
+     "timestamp": "2001-09-30T04:34:26.000Z"
+    },
+    "sm36_misyu.map": {
+     "bytes": 177861,
+     "sha256": "c3fb22352870c257ec4fbd8447832263a083178f1a55aaa0fd6b52c3ae67e13a",
+     "timestamp": "2001-09-29T23:43:46.000Z"
+    },
+    "sm36_necros.map": {
+     "bytes": 117448,
+     "sha256": "3cc591e27aab644fb1ce807187f266613aa6da6a7969d3c6b629d99c6d6f7a2b",
+     "timestamp": "2001-09-30T19:10:04.000Z"
+    },
+    "sm36_ray.map": {
+     "bytes": 179477,
+     "sha256": "981ad165b181f31eb1abd6aede0217058cdc506b627da914ba224bf62980ed75",
+     "timestamp": "2001-09-30T15:10:30.000Z"
+    },
+    "sm36_source.txt": {
+     "bytes": 182,
+     "sha256": "989aed98adeae52c22e7cec1d6e63175c62d41d1ff7d77f8ee858f574510d708",
+     "timestamp": "2002-10-07T23:45:22.000Z"
+    },
+    "sm36_vig.map": {
+     "bytes": 124344,
+     "sha256": "0890fc33813d0ec32848ffa5e4bf532a29c6a730e74e5c008536f0d66ef0cabe",
+     "timestamp": "2001-10-03T00:00:00.000Z"
+    },
+    "sm36_xenon.map": {
+     "bytes": 44119,
+     "sha256": "6f2fb1187606e8254f75f29985fb907fbe2fe1dd81621b0e78fe07458a9ae02a",
+     "timestamp": "2002-10-07T23:38:22.000Z"
+    },
+    "sm36b.map": {
+     "bytes": 1609487,
+     "sha256": "7b2d4e0762ad8bc3c9ba7204b16a05417ecfe198cf2a87161852fd84603d0320",
+     "timestamp": "2001-12-23T18:14:02.000Z"
+    },
+    "sm36c.map": {
+     "bytes": 1864456,
+     "sha256": "c07d7a80d0d7826daf2e9b315c4693aba7f2a23b3490b8b410915cbced43f8ae",
+     "timestamp": "2002-10-07T23:34:48.000Z"
+    }
+   },
+   "sha256": "745965a882e6aca5c47deb757f5753142c391d6d87969df211afde1b778a3cd6",
    "timestamp": "2002-10-07T23:45:36.000Z"
   }
  },
- "filesize": 2358,
  "install": {
-  "extract": "{quake}/sm36/"
+  "extract": "{base}/sm36/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1d3a61aecc05c905d50b648851f81ff6c36cc8dd678a387d949ebc2b27ab3f23",
  "tags": [
   "author=Misyu",
@@ -28,13 +165,16 @@
   "author=Xen",
   "author=necros",
   "commandline=-game sm36",
+  "filename=sm36.zip",
   "game=quake",
-  "releasedate=2002-10-08",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "release_date=2002-10-08",
   "startmap=sm36",
-  "tag=base",
-  "tag=chainmap",
-  "tag=large",
-  "title=Subterranean Siege"
+  "theme=base",
+  "title=Subterranean Siege",
+  "type=chainmap",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm36.zip",

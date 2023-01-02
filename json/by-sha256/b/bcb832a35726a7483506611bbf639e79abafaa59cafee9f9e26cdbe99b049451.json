@@ -1,39 +1,45 @@
 {
- "filename": [
-  "iam1.zip"
- ],
+ "bytes": 771,
  "files": {
   "iam1.bsp": {
-   "size": 1907248,
+   "bytes": 1907248,
+   "sha256": "3b3c5c2821099299c14cef8b24a41b2efc052b42f2de3332a9c2a1dce2842ce5",
    "timestamp": "1997-05-20T08:56:00.000Z"
   },
   "iam1.txt": {
-   "size": 4045,
+   "bytes": 4045,
+   "sha256": "4acd1a0c72190a43a5878d18409c76f77cb6462d4a22a816416468558fd82eb9",
    "timestamp": "1997-05-23T20:22:12.000Z"
   }
  },
- "filesize": 771,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "bcb832a35726a7483506611bbf639e79abafaa59cafee9f9e26cdbe99b049451",
  "tags": [
   "author=Martin R. Goedtke  (Iam)",
+  "filename=iam1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsi.htm#iam1)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=93)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/m_o.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=1997-05-23",
-  "tag=boss",
-  "tag=brick",
-  "tag=chthon",
-  "tag=medium",
-  "tag=metal",
-  "tag=shub",
-  "title=Myworld is Yourworld"
+  "map_size=medium",
+  "nonspecific_tag=chthon",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=mustplay",
+  "nonspecific_tag=shub",
+  "playstyle=tricks",
+  "release_date=1997-05-23",
+  "theme=boss",
+  "theme=brick",
+  "theme=metal",
+  "theme=traps",
+  "title=Myworld is Yourworld",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/iam1.zip",

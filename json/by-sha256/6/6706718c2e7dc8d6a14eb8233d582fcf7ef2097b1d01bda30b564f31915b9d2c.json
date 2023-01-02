@@ -1,27 +1,29 @@
 {
- "filename": [
-  "j1.zip"
- ],
+ "bytes": 119,
  "files": {
   "j1.bsp": {
-   "size": 376120,
+   "bytes": 376120,
+   "sha256": "73a3daf294cd28ba902d3e37b503107d15badf448fb2f5fc621e53cf76ef3289",
    "timestamp": "1999-01-10T20:39:08.000Z"
   }
  },
- "filesize": 119,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6706718c2e7dc8d6a14eb8233d582fcf7ef2097b1d01bda30b564f31915b9d2c",
  "tags": [
   "author=phlamethrower",
+  "filename=j1.zip",
   "game=quake",
-  "releasedate=1999-01-10",
-  "tag=arena",
-  "tag=outdoor",
-  "tag=small",
-  "title=The Arena"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.quote-egnufeb-quote-greaterthan-colon-hash-comma-underscore-at.info/quake/jsp.php",
+  "map_layout=arena",
+  "map_size=small",
+  "release_date=1999-01-10",
+  "theme=outdoor",
+  "title=The Arena",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/j1.zip",

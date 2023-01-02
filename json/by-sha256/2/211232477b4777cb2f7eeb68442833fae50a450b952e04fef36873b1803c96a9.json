@@ -1,31 +1,33 @@
 {
- "filename": [
-  "dw_bizbazfinal.zip"
- ],
+ "bytes": 1114,
  "files": {
   "dw_bizbazfinal.bsp": {
-   "size": 2766677,
+   "bytes": 2766677,
+   "sha256": "a83cf639969274646d4137a5b923c14153c2d12b11f36b741cc37d75af91692a",
    "timestamp": "2017-12-16T01:31:22.000Z"
   },
   "dw_bizbazfinal.txt": {
-   "size": 5043,
+   "bytes": 5043,
+   "sha256": "a2b8b31b560922376d06aa4011940da8e296cdcd0b7456df349a702bd234dbec",
    "timestamp": "2017-12-23T21:47:16.000Z"
   }
  },
- "filesize": 1114,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "211232477b4777cb2f7eeb68442833fae50a450b952e04fef36873b1803c96a9",
  "tags": [
   "author=Doug Wheeler aka Bullseye8841",
+  "filename=dw_bizbazfinal.zip",
   "game=quake",
-  "releasedate=2017-12-24",
-  "tag=city",
-  "tag=medieval",
-  "tag=small",
-  "title=The Bizarre Bazaar"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2017-12-24",
+  "theme=city",
+  "theme=medieval",
+  "title=The Bizarre Bazaar",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dw_bizbazfinal.zip",

@@ -1,38 +1,40 @@
 {
- "filename": [
-  "stone.zip"
- ],
+ "bytes": 761,
  "files": {
   "stone.bsp": {
-   "size": 1760772,
+   "bytes": 1760772,
+   "sha256": "9c1a87d93762586cafd1e3a33fc9f07422921455af157bb3c29bd05d92a2c134",
    "timestamp": "1997-04-11T02:41:16.000Z"
   },
   "stone.txt": {
-   "size": 2603,
+   "bytes": 2603,
+   "sha256": "139cdd3c56dc214539ad0a8af95340a44c096ea166811a7fbd68754f3f0671d1",
    "timestamp": "1997-04-11T07:28:48.000Z"
   }
  },
- "filesize": 761,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "69a55432666ff71cc176665e748108cf5b8c73fbe33ebbf0076aed2758ba1f84",
  "tags": [
   "author=Brian Morgan (Duley)",
+  "filename=stone.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelss.htm#stone)",
-  "releasedate=1997-04-11",
-  "tag=castle",
-  "tag=dm",
-  "tag=exploration",
-  "tag=medieval",
-  "tag=medium",
-  "tag=metal",
-  "tag=runic",
-  "tag=terracotta",
-  "tag=wizard",
-  "title=The Stone of Tear"
+  "map_size=medium",
+  "release_date=1997-04-11",
+  "theme=castle",
+  "theme=exploration",
+  "theme=medieval",
+  "theme=metal",
+  "theme=runic",
+  "theme=terracotta",
+  "theme=wizard",
+  "title=The Stone of Tear",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/stone.zip",

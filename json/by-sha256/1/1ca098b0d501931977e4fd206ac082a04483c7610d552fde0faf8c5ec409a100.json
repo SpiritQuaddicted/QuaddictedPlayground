@@ -1,25 +1,26 @@
 {
- "filename": [
-  "sm65_czg2.zip"
- ],
+ "bytes": 389,
  "files": {
   "sm65_czg2.bsp": {
-   "size": 858000,
+   "bytes": 858000,
+   "sha256": "320e4b5d36b5d88cb074afb0eafbb826b1c412f678c97a415e6b9b30b64fb308",
    "timestamp": "2001-09-16T00:10:32.000Z"
   }
  },
- "filesize": 389,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1ca098b0d501931977e4fd206ac082a04483c7610d552fde0faf8c5ec409a100",
  "tags": [
-  "author=some Speedmap by czg",
+  "author=czg",
+  "filename=sm65_czg2.zip",
   "game=quake",
-  "releasedate=2005-08-06",
-  "tag=deathmatch",
-  "title=Title"
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "release_date=2005-08-06",
+  "title=Title",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm65_czg2.zip",

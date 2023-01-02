@@ -1,32 +1,34 @@
 {
- "filename": [
-  "kyshell.zip"
- ],
+ "bytes": 739,
  "files": {
   "KYSHELL.BSP": {
-   "size": 1741268,
+   "bytes": 1741268,
+   "sha256": "6a758a088b9fa25f951d022da8372efb60a3c085ec1f94ab502c26903151c6cd",
    "timestamp": "1997-01-25T13:21:18.000Z"
   },
   "KYSHELL.TXT": {
-   "size": 4288,
+   "bytes": 4288,
+   "sha256": "01a4012bf3c5e1785a8bd067725dd381d1f765e96cdc79569c41c16f02136d9b",
    "timestamp": "1997-01-25T15:08:30.000Z"
   }
  },
- "filesize": 739,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "bf0094e22a5d9a28ab252c479f6f369847b96eeadfdcc84f9e895937b0178d39",
  "tags": [
   "author=Kayos",
+  "filename=kyshell.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsk.htm#kyshell)",
-  "releasedate=1997-01-25",
-  "tag=medium",
-  "tag=mixtex",
-  "tag=traps",
-  "title=HellSpawn"
+  "map_size=medium",
+  "release_date=1997-01-25",
+  "theme=mixtex",
+  "theme=traps",
+  "title=HellSpawn",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kyshell.zip",

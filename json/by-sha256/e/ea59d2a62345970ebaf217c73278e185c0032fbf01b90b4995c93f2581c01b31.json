@@ -1,46 +1,51 @@
 {
- "filename": [
-  "nazihell.zip"
- ],
+ "bytes": 486,
  "files": {
   "nazihell.bsp": {
-   "size": 861628,
+   "bytes": 861628,
+   "sha256": "1dc21cae184d71d51d74c70dfe89f23c084154763969390d2b686b1e9bd039e9",
    "timestamp": "1996-11-17T13:39:50.000Z"
   },
   "nazihell.txt": {
-   "size": 157,
+   "bytes": 157,
+   "sha256": "11cda518b2ce6464d5e659105ae63c9d386c625b9f0003ea2afad2b87256b138",
    "timestamp": "1996-11-17T12:56:06.000Z"
   },
   "pic1.jpg": {
-   "size": 33289,
+   "bytes": 33289,
+   "sha256": "329bb2301496c4b1f82bbce63d19c71e06840c0c9eb0e5e4b618ab892d413ec0",
    "timestamp": "1996-11-13T20:07:08.000Z"
   },
   "pic2.jpg": {
-   "size": 33950,
+   "bytes": 33950,
+   "sha256": "ecbd63a1f54dfa3d93f159c1605f915a00a346751a52c5be97035c4f8794b980",
    "timestamp": "1996-11-13T20:07:32.000Z"
   },
   "pic3.jpg": {
-   "size": 52394,
+   "bytes": 52394,
+   "sha256": "79aa4c4dada86a4d06f0a0c845403181008b782d65837affd54b1d886e3bceb5",
    "timestamp": "1996-11-13T20:08:32.000Z"
   }
  },
- "filesize": 486,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ea59d2a62345970ebaf217c73278e185c0032fbf01b90b4995c93f2581c01b31",
  "tags": [
   "author=ET",
+  "filename=nazihell.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsn.htm)",
-  "releasedate=1996-11-17",
-  "tag=house",
-  "tag=no exit",
-  "tag=realism",
-  "tag=small",
-  "tag=wizard",
-  "title=Nazihell"
+  "map_size=small",
+  "release_date=1996-11-17",
+  "theme=house",
+  "theme=no exit",
+  "theme=realism",
+  "theme=wizard",
+  "title=Nazihell",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/nazihell.zip",

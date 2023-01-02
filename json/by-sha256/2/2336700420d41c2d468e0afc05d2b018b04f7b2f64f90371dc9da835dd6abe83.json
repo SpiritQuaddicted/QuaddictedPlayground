@@ -1,0 +1,780 @@
+{
+ "bytes": 27159,
+ "files": {
+  "ad_1_7p1_gtk.def": {
+   "bytes": 317473,
+   "sha256": "9c792d14147d3ae2647394ed7a557456ec60f0889298832c64475841b60c11b3",
+   "timestamp": "2018-02-01T12:21:30.000Z"
+  },
+  "ad_1_7p1_jack.fgd": {
+   "bytes": 155846,
+   "sha256": "eb60f86de853348bb8bce26861ef1e03f3c53b838052a5958bee2da355065acb",
+   "timestamp": "2018-02-02T11:42:44.000Z"
+  },
+  "ad_1_7p1_tb.fgd": {
+   "bytes": 155742,
+   "sha256": "5fc9ce2c47afd4040a251702c8943acffcfdc77d5b54f926dcb0f437e206283c",
+   "timestamp": "2018-02-02T11:42:20.000Z"
+  },
+  "ad_changelog.txt": {
+   "bytes": 28993,
+   "sha256": "123ec385e129c9d032575d76c4f3bd828bb2cb88e5957c872cdd48d96d1119ba",
+   "timestamp": "2018-02-02T08:55:32.000Z"
+  },
+  "ad_v1_70P1_credits.txt": {
+   "bytes": 12164,
+   "sha256": "c8d4bdf0b97075bd3a703d80822f5d9d45a072babfba7586cf70c5dd4b430c47",
+   "timestamp": "2018-01-07T09:01:12.000Z"
+  },
+  "ad_v1_70P1_documentation.txt": {
+   "bytes": 151643,
+   "sha256": "07cf94abd6b05a6efdce61b3c45d1f95a5554f8432904ab197a7aed981672409",
+   "timestamp": "2018-01-22T14:56:00.000Z"
+  },
+  "ad_v1_70P1_readme.txt": {
+   "bytes": 7567,
+   "sha256": "59aacf82b53acb389ef7b835786aa5323e6b28e0440250259872639434d38116",
+   "timestamp": "2018-02-02T08:13:34.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-02-01T20:29:06.000Z"
+  },
+  "maps/ad_ac.bsp": {
+   "bytes": 8666624,
+   "sha256": "81174268a4817be5e86d1862b1a31bcec33c5465a28963eab438146344a61a95",
+   "timestamp": "2018-01-09T13:54:04.000Z"
+  },
+  "maps/ad_ac.lit": {
+   "bytes": 2948405,
+   "sha256": "1418dba74e92d03cce8a4f31e93c793045ca5a48a3656eafe2501f0e53d43f95",
+   "timestamp": "2018-01-09T13:54:04.000Z"
+  },
+  "maps/ad_chapters.bsp": {
+   "bytes": 6482708,
+   "sha256": "f3e9e3e82a89b15bffc3763f419e8d438cfa9bb7b80f8b755f437c9c29063b99",
+   "timestamp": "2018-01-03T15:12:50.000Z"
+  },
+  "maps/ad_chapters.lit": {
+   "bytes": 816110,
+   "sha256": "ee9c97d7eac5f9d79bfe58d3cebc3bd6dcfbf67242417afbf853a1b1966293d8",
+   "timestamp": "2018-01-03T15:12:50.000Z"
+  },
+  "maps/ad_sepulcher.bsp": {
+   "bytes": 42216960,
+   "sha256": "09880e7e9bebab934a3743057b9c3da2d4fa519db538d087f6db444df527b8e0",
+   "timestamp": "2018-02-01T19:43:14.000Z"
+  },
+  "maps/ad_sepulcher.lit": {
+   "bytes": 8401922,
+   "sha256": "2eefd3f3a474d5b792c679397f26c9589e7243ad799d6092d9d7fecd99577ed7",
+   "timestamp": "2018-02-01T19:43:12.000Z"
+  },
+  "my_progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-02-02T14:27:48.000Z"
+  },
+  "my_progs/ai_ammoresist.qc": {
+   "bytes": 6493,
+   "sha256": "69fe6f15700ce297931a95e10a800c703e2d611a4bcf1ea02d89e87264ee1fb4",
+   "timestamp": "2017-10-25T16:57:48.000Z"
+  },
+  "my_progs/ai_checkattack.qc": {
+   "bytes": 90301,
+   "sha256": "8fd95a1a29ba1a4f325412595d551b1e91ab3b77750d95d2fd67900fbfa40019",
+   "timestamp": "2018-01-25T16:24:10.000Z"
+  },
+  "my_progs/ai_combat.qc": {
+   "bytes": 20742,
+   "sha256": "0dbd1740667eb3d24007abe661b2206b73245b839ec9cc804395e84f874afe34",
+   "timestamp": "2018-01-25T14:23:10.000Z"
+  },
+  "my_progs/ai_enemytarget.qc": {
+   "bytes": 7373,
+   "sha256": "47dfa9b675c3b179fe3397a22daa364ffcf8005ed26e2ab808dc07f0444f051d",
+   "timestamp": "2017-05-04T16:02:22.000Z"
+  },
+  "my_progs/ai_explosion.qc": {
+   "bytes": 11443,
+   "sha256": "365cf6aaead1e1a3a9a671ee07f962543e2c7927dede80f787cb13311d20acd1",
+   "timestamp": "2017-11-15T06:55:22.000Z"
+  },
+  "my_progs/ai_gibs.qc": {
+   "bytes": 28396,
+   "sha256": "8cc1360ad89f4e14ad5e2685175b605119d1ea0fc9d450ca3ec41883154cc626",
+   "timestamp": "2017-11-20T10:57:10.000Z"
+  },
+  "my_progs/ai_minions.qc": {
+   "bytes": 10236,
+   "sha256": "3e7bd34dfe0e73a11e6907d5ac69cb609eee19dff533689ea7c8eabe52500136",
+   "timestamp": "2016-07-12T19:56:42.000Z"
+  },
+  "my_progs/ai_pathcorner.qc": {
+   "bytes": 18049,
+   "sha256": "094764bde058cc9daed9b66bb17d793e489b68c0626007c4f0b955ad90fc306a",
+   "timestamp": "2017-10-22T10:10:36.000Z"
+  },
+  "my_progs/ai_states.qc": {
+   "bytes": 6408,
+   "sha256": "cd1c2830ef6a02a8e56c858711480bd32aa76a076939ddd885d192c8469af2f1",
+   "timestamp": "2017-12-14T20:47:00.000Z"
+  },
+  "my_progs/ai_subs.qc": {
+   "bytes": 45177,
+   "sha256": "f607b103f37c6b107ac4840b0d51049311dcdab4732c8a744c857b09f3a4bd59",
+   "timestamp": "2018-01-25T11:46:08.000Z"
+  },
+  "my_progs/ai_tether.qc": {
+   "bytes": 4955,
+   "sha256": "f6cdcc08f9802867adf0e85dcb124678258de3024c241598c1ea61c27df2c75c",
+   "timestamp": "2017-04-04T09:30:34.000Z"
+  },
+  "my_progs/breakable.qc": {
+   "bytes": 62218,
+   "sha256": "66e0bba591be84fc5647614d476353cc4dafeca162eea27fc0a93fdc6f87a241",
+   "timestamp": "2018-01-18T18:34:50.000Z"
+  },
+  "my_progs/client.qc": {
+   "bytes": 44330,
+   "sha256": "8127195f7b5a89e77490673a78ec95cdfbb1babcfefa859dcac4783fe650cee5",
+   "timestamp": "2018-01-19T11:57:16.000Z"
+  },
+  "my_progs/client_camera.qc": {
+   "bytes": 12792,
+   "sha256": "77587bc6f82fc6f710ecc8b131cf34bb58343b1fd397795f73c44fd45b2f516f",
+   "timestamp": "2017-04-30T12:49:20.000Z"
+  },
+  "my_progs/client_debuff.qc": {
+   "bytes": 12834,
+   "sha256": "5536e07d639bb300bb0ff383ea62fbef43748e1563bc65b1d3f8b9a583156e54",
+   "timestamp": "2016-07-16T07:14:24.000Z"
+  },
+  "my_progs/client_info.qc": {
+   "bytes": 5739,
+   "sha256": "3592678f02d02ce7660843e6c3752b0e3eb1c83cb5e48168fd9381e12cb991ae",
+   "timestamp": "2018-01-08T17:44:02.000Z"
+  },
+  "my_progs/client_mapvar.qc": {
+   "bytes": 13239,
+   "sha256": "9c4a866651ca3eb72385bbf7024050018707c4b920edf7b850f8407e8685ab23",
+   "timestamp": "2017-11-08T17:17:40.000Z"
+  },
+  "my_progs/client_power.qc": {
+   "bytes": 10609,
+   "sha256": "6c4a4e8a55a22e6ff66eb60a8e31cb88ebf1a25ba502e27691ce0940661a3a2b",
+   "timestamp": "2017-04-05T12:48:04.000Z"
+  },
+  "my_progs/defs.qc": {
+   "bytes": 29064,
+   "sha256": "cda56745d102f93bc65f86ce55c5e36af9a45735946b036b8f4165901a1dd5a5",
+   "timestamp": "2018-01-23T18:47:02.000Z"
+  },
+  "my_progs/defscustom.qc": {
+   "bytes": 87317,
+   "sha256": "3df278a5f60092323a236f87a7a6efb27b67af8c71cdc02d760c25a5703a8196",
+   "timestamp": "2018-01-29T13:44:24.000Z"
+  },
+  "my_progs/dpextensions.qc": {
+   "bytes": 121928,
+   "sha256": "67d8c7d70622b6efdc5b24553f3820393fc8c0392ebf521d537bb93031636b74",
+   "timestamp": "2014-04-28T06:49:22.000Z"
+  },
+  "my_progs/estate.qc": {
+   "bytes": 6457,
+   "sha256": "bee66bd1f8efd98f27cb936cdd9d712d8c1e67b07eca775d7fc8e7a486e85256",
+   "timestamp": "2018-02-02T13:41:38.000Z"
+  },
+  "my_progs/func.qc": {
+   "bytes": 31668,
+   "sha256": "9ab725744ca4f5ac0ac63a7c8e8b1c8ed5ad0df21a460ff4b25695a039c0ec2b",
+   "timestamp": "2017-11-28T14:17:16.000Z"
+  },
+  "my_progs/func_buttons.qc": {
+   "bytes": 9235,
+   "sha256": "15f373a4c707a6f973bf214a031945aff65069679ed120ccdfdc70b2b9c9da9b",
+   "timestamp": "2018-01-27T14:46:24.000Z"
+  },
+  "my_progs/func_doors.qc": {
+   "bytes": 28601,
+   "sha256": "dbbff45e617544f009e98fe7ead90c45b8387e3fb7d704c137aeefaf970dd8d5",
+   "timestamp": "2018-01-29T16:22:04.000Z"
+  },
+  "my_progs/func_doorsecret.qc": {
+   "bytes": 13552,
+   "sha256": "45b03e87b66111577ba64d9b028297e456c9a2b4a0a6070052cbad1638cd99dd",
+   "timestamp": "2017-08-28T12:57:38.000Z"
+  },
+  "my_progs/func_insvolume.qc": {
+   "bytes": 10573,
+   "sha256": "8579610e80d79a09aa72ae92c6b7c79019490488ca9c194de38d938b08621881",
+   "timestamp": "2018-01-27T20:14:12.000Z"
+  },
+  "my_progs/func_plats.qc": {
+   "bytes": 11139,
+   "sha256": "d25128c8efad0db57cf44fd9dfd87e5e1781d8cb670fc59d954e56fd9145c3a7",
+   "timestamp": "2017-08-28T12:57:24.000Z"
+  },
+  "my_progs/func_pswitch.qc": {
+   "bytes": 8260,
+   "sha256": "49af94c2714196eb09454e87ba921d206741315d8b6195d55ab24b205f8d4299",
+   "timestamp": "2018-01-27T15:19:56.000Z"
+  },
+  "my_progs/func_trains.qc": {
+   "bytes": 21096,
+   "sha256": "305d98f2daa1dbb07934e9310570a4518ccc9ef69f06945aec86ad23878ab31f",
+   "timestamp": "2017-12-29T09:33:30.000Z"
+  },
+  "my_progs/globalfog.qc": {
+   "bytes": 12147,
+   "sha256": "95aa6370d76e9ab446dbbdd358b2832ecdc319c0533688644f38a2ebb0358b3f",
+   "timestamp": "2018-01-27T11:03:10.000Z"
+  },
+  "my_progs/hiprot.qc": {
+   "bytes": 31978,
+   "sha256": "1585b8127efda1faba1a5212bbf30890df85ac7c4a9ca7028aad34162f7e8f1a",
+   "timestamp": "2017-08-28T13:11:52.000Z"
+  },
+  "my_progs/items.qc": {
+   "bytes": 130945,
+   "sha256": "8659422aacdccdc329d5b86313b3cfd7c17df70096d129bf129cafc4ecc56f99",
+   "timestamp": "2018-02-02T16:52:48.000Z"
+  },
+  "my_progs/lights.qc": {
+   "bytes": 20534,
+   "sha256": "95ccdf31bb670a41adbda5d3bd82df4b4fb2a43f63f423b581e1836d57bc04cf",
+   "timestamp": "2017-06-22T08:49:38.000Z"
+  },
+  "my_progs/mathlib.qc": {
+   "bytes": 15327,
+   "sha256": "c3ff0594718b76c2e7a77e14b109800688568e5f538a82c460d152736ee07b7a",
+   "timestamp": "2015-07-19T17:50:02.000Z"
+  },
+  "my_progs/misc.qc": {
+   "bytes": 60868,
+   "sha256": "bb90b8d98b36d2168249116ab5ad89c1e6a3579566ac2cceca312a26649f7eae",
+   "timestamp": "2018-01-22T10:28:30.000Z"
+  },
+  "my_progs/misc_targetdummy.qc": {
+   "bytes": 14057,
+   "sha256": "ae9ecbae6de8eb05be5c304c20f3b2edf30c999b89bc693c10f64e3a75e77d79",
+   "timestamp": "2017-10-05T16:36:42.000Z"
+  },
+  "my_progs/misc_textbook.qc": {
+   "bytes": 26260,
+   "sha256": "d7c88149190e1f0a8db69288e5e505ca18c0204149024c75c73c35a028be1304",
+   "timestamp": "2017-11-21T13:26:14.000Z"
+  },
+  "my_progs/mon_boil.qc": {
+   "bytes": 19320,
+   "sha256": "09a8c35ef30ea4eea143a72f3c75f8d0018865c33f6221f5733d2b5de0f5601b",
+   "timestamp": "2018-01-01T08:48:32.000Z"
+  },
+  "my_progs/mon_bossboglord.qc": {
+   "bytes": 23017,
+   "sha256": "d7be96b2e88820a4d0764fbe94b0c90f58e903295ed4824bfd9a888c3707ce13",
+   "timestamp": "2018-01-02T11:06:26.000Z"
+  },
+  "my_progs/mon_bosseidolon.qc": {
+   "bytes": 39572,
+   "sha256": "e2686b4998e5c3055da0f5894797f5e2ad332182b32ed2ecdd9e4214eae96096",
+   "timestamp": "2018-01-02T11:07:06.000Z"
+  },
+  "my_progs/mon_bossfiretop.qc": {
+   "bytes": 14361,
+   "sha256": "a8bc1886018e3f4d0d3ff654f40cd75fb666d016f02988527f47b461896ccc36",
+   "timestamp": "2018-01-25T17:35:24.000Z"
+  },
+  "my_progs/mon_bossicegolem.qc": {
+   "bytes": 46360,
+   "sha256": "3e7adf31f8db605fb0d3c010186acfda7a2adf391ac867eeeb9b9629595d335d",
+   "timestamp": "2018-01-24T17:43:52.000Z"
+  },
+  "my_progs/mon_bossidchthon.qc": {
+   "bytes": 19607,
+   "sha256": "c34d63c1af36ce583586cf9b406b9834dc579b152789f4808e4f8a22ca2b0397",
+   "timestamp": "2018-01-02T11:02:04.000Z"
+  },
+  "my_progs/mon_bossidshub.qc": {
+   "bytes": 11540,
+   "sha256": "550ffaa5575daaeefc18fe0e3aeb791876ec5e4d9cc7e7f1e80476e84ca739f9",
+   "timestamp": "2018-01-02T11:02:30.000Z"
+  },
+  "my_progs/mon_bossnour.qc": {
+   "bytes": 42294,
+   "sha256": "7ea32235f960bfead4cbcf09db5bef5643c3670947c2c6a5cd010dd826fc4691",
+   "timestamp": "2018-01-02T11:08:58.000Z"
+  },
+  "my_progs/mon_bossxxchthon.qc": {
+   "bytes": 20429,
+   "sha256": "7f462492ae63495efe313dd456b03aed0b0a97884300ed13c505a792a37eb989",
+   "timestamp": "2018-01-02T11:03:30.000Z"
+  },
+  "my_progs/mon_bossxxshub.qc": {
+   "bytes": 18646,
+   "sha256": "9dfd45e0030b3a24d87420e2f6a33bb6cfb315ca9b06b81dbdf2dc803f756fc8",
+   "timestamp": "2018-01-02T11:04:06.000Z"
+  },
+  "my_progs/mon_centurion.qc": {
+   "bytes": 13624,
+   "sha256": "d8b9a9ad4239008945915d4b6bebb20e15e0d89702c1ea7cde745f2350ead166",
+   "timestamp": "2018-01-01T08:49:10.000Z"
+  },
+  "my_progs/mon_dcrossbow.qc": {
+   "bytes": 38021,
+   "sha256": "d7f6e536556ab8e8366ba6e417bd52f2ed29026ff800a371e688c2d9543d4571",
+   "timestamp": "2018-01-02T07:52:58.000Z"
+  },
+  "my_progs/mon_demon.qc": {
+   "bytes": 14076,
+   "sha256": "aa0c69383ded731b3d848139dcb1bf38f80bf984c315e71384042451b2394e74",
+   "timestamp": "2018-01-02T07:53:34.000Z"
+  },
+  "my_progs/mon_dfury.qc": {
+   "bytes": 39431,
+   "sha256": "80d753bc9db90f41fdc1732293cbb358419c98d67ba9cd8009907dad58e25838",
+   "timestamp": "2018-01-02T08:34:02.000Z"
+  },
+  "my_progs/mon_dguard.qc": {
+   "bytes": 28368,
+   "sha256": "e274443a340e87977fba2551c57153532aa1a0938e0150a5d16ffce91bc8758e",
+   "timestamp": "2018-01-02T07:54:10.000Z"
+  },
+  "my_progs/mon_dguardquoth.qc": {
+   "bytes": 18822,
+   "sha256": "702ba8cc9ec66914c9d51123c5f78e8d0450336638ef2b51f81e50a01174eb9f",
+   "timestamp": "2018-01-02T07:55:14.000Z"
+  },
+  "my_progs/mon_dknight.qc": {
+   "bytes": 36627,
+   "sha256": "1247ddc63ed3c6d84670de7037db77c17a1ab0796b87fd1ae852d0e384875530",
+   "timestamp": "2018-01-02T08:00:12.000Z"
+  },
+  "my_progs/mon_dlord.qc": {
+   "bytes": 22948,
+   "sha256": "65e5b391ed63c790cd7e28cda0682b155c724f96f655aacd0e008595662a7c49",
+   "timestamp": "2018-01-02T08:24:48.000Z"
+  },
+  "my_progs/mon_dog.qc": {
+   "bytes": 17997,
+   "sha256": "c3ca9e571037010c14c62db0c4f3378995fea94afcc8bfcf680876110c430af0",
+   "timestamp": "2018-01-02T08:36:22.000Z"
+  },
+  "my_progs/mon_drole.qc": {
+   "bytes": 25314,
+   "sha256": "829080e9c6e7e70464b0188e77ce8af79394bc3de616239c2f253ca25d27bc27",
+   "timestamp": "2018-01-04T07:59:48.000Z"
+  },
+  "my_progs/mon_dsergeant.qc": {
+   "bytes": 33416,
+   "sha256": "574028ed63322384b1ae121965c4e4790ccf63673cca4309932fe6113ae0f144",
+   "timestamp": "2018-01-02T08:34:38.000Z"
+  },
+  "my_progs/mon_eel.qc": {
+   "bytes": 8517,
+   "sha256": "b71cc496a79e04f8c68bbfef88b66b21447734a8a27d9ac1e5cbd9b3f02931fe",
+   "timestamp": "2018-01-02T09:21:16.000Z"
+  },
+  "my_progs/mon_enforcer.qc": {
+   "bytes": 19806,
+   "sha256": "91807ab6574bf974d1c8c8bc627fd0bdc4f17f00a5fe5c9452ffc2f272d68939",
+   "timestamp": "2018-01-02T09:23:30.000Z"
+  },
+  "my_progs/mon_fish.qc": {
+   "bytes": 9545,
+   "sha256": "50736b57304c1fdf926830057aff16b72eb4fba33e1c8d51c8afa8f28e9e13d2",
+   "timestamp": "2018-01-02T09:24:18.000Z"
+  },
+  "my_progs/mon_freddie.qc": {
+   "bytes": 25125,
+   "sha256": "b3f07ab952d246c4b21cf55efdd33d93c42c16c6eeb2488abb728f76015b7508",
+   "timestamp": "2018-01-02T09:24:46.000Z"
+  },
+  "my_progs/mon_gargoyle.qc": {
+   "bytes": 24190,
+   "sha256": "6e597a98af16b4b4c8cb7393896565daec2c28d4683a87086552d417399acbdd",
+   "timestamp": "2018-01-09T17:21:06.000Z"
+  },
+  "my_progs/mon_gaunt.qc": {
+   "bytes": 19770,
+   "sha256": "97eda355d9395405162bccbb7076a7e328c7bf579d8ba17aa5725e60e88c0e7b",
+   "timestamp": "2018-01-09T17:21:08.000Z"
+  },
+  "my_progs/mon_golem.qc": {
+   "bytes": 35251,
+   "sha256": "0074198d1181b420707ab08bb9263c9568dc445a951a8d9bcc6c705782630071",
+   "timestamp": "2018-01-02T09:28:24.000Z"
+  },
+  "my_progs/mon_hknight.qc": {
+   "bytes": 37468,
+   "sha256": "971e8a38e2079d423ceb3b9846fd5e94edec55e21357a925696024a52e4a9cf1",
+   "timestamp": "2018-01-02T09:35:04.000Z"
+  },
+  "my_progs/mon_hogre.qc": {
+   "bytes": 23790,
+   "sha256": "0e7b5c4817403b2a87a1d00a9fa2a6f5b72be55375204e71bc5f3da68d2c2730",
+   "timestamp": "2018-01-02T09:31:58.000Z"
+  },
+  "my_progs/mon_hogreham.qc": {
+   "bytes": 22848,
+   "sha256": "3cd848ecca71e1d53301753b37bf1338ab15e9b120e7df5b357f877a2aa4bb7e",
+   "timestamp": "2018-01-02T09:32:24.000Z"
+  },
+  "my_progs/mon_hogremac.qc": {
+   "bytes": 23615,
+   "sha256": "9e5da5ed412240be92505559ddda2f53055aebea69234561283777b1ac77f396",
+   "timestamp": "2018-01-02T09:32:54.000Z"
+  },
+  "my_progs/mon_jim.qc": {
+   "bytes": 21177,
+   "sha256": "edf9541ab81e6143455c6d4ee35efe310db5f60926653b03bf04b4fe156b2809",
+   "timestamp": "2018-01-02T09:36:58.000Z"
+  },
+  "my_progs/mon_knight.qc": {
+   "bytes": 22686,
+   "sha256": "82897ffcad37878ba44fe024e4e4a1a08135cf1dab588dab0d94e1aabf5309bb",
+   "timestamp": "2018-01-02T09:34:34.000Z"
+  },
+  "my_progs/mon_lostsoul.qc": {
+   "bytes": 22743,
+   "sha256": "ced33488ec212443f155d2cfa3b533bb0f25fe9d872d1f264534198478bc4d5e",
+   "timestamp": "2018-01-02T09:38:16.000Z"
+  },
+  "my_progs/mon_minotaur.qc": {
+   "bytes": 33871,
+   "sha256": "7733ffd4101a7336d209477694e2cf1cd7c9f48ce7b93c5fc8c814f4436e0162",
+   "timestamp": "2018-01-02T09:39:18.000Z"
+  },
+  "my_progs/mon_ogre.qc": {
+   "bytes": 32534,
+   "sha256": "652fd88bb3728b844caea65a71d82d90f5077203f0788ea2ff89a52937126d72",
+   "timestamp": "2018-01-02T09:40:50.000Z"
+  },
+  "my_progs/mon_pyro.qc": {
+   "bytes": 18146,
+   "sha256": "4ee8957a37cb7da317b3e7dbdf5a4133e28d172beb8533d0ecc953fbe414efd9",
+   "timestamp": "2018-01-02T10:02:30.000Z"
+  },
+  "my_progs/mon_scorpion.qc": {
+   "bytes": 21767,
+   "sha256": "4865429120c8fa53d752eb838e69359ac5a30014ef859bc9796213636b93eefc",
+   "timestamp": "2018-01-02T10:03:34.000Z"
+  },
+  "my_progs/mon_seeker.qc": {
+   "bytes": 29293,
+   "sha256": "c1ce76b2084b2388f03cf14254dc84f8418c09dfead55f142c5b433ebab139ee",
+   "timestamp": "2018-01-02T10:04:12.000Z"
+  },
+  "my_progs/mon_sentinel.qc": {
+   "bytes": 10125,
+   "sha256": "c8f080e4f0c6b05fd41e71db401688941473d20017ccd3ba720a2203dc86d104",
+   "timestamp": "2018-01-02T10:04:52.000Z"
+  },
+  "my_progs/mon_shalrath.qc": {
+   "bytes": 16287,
+   "sha256": "6aea59b4277d9606f3026025af648857860a1d5e849c2b96f1935fc5363bbeba",
+   "timestamp": "2018-01-02T10:05:32.000Z"
+  },
+  "my_progs/mon_shambler.qc": {
+   "bytes": 22769,
+   "sha256": "881b2053a09279c9e48e24f3d26b87109cd546f1047f36620e457300c8cff730",
+   "timestamp": "2018-01-02T10:07:16.000Z"
+  },
+  "my_progs/mon_skullwiz.qc": {
+   "bytes": 36136,
+   "sha256": "2f9dc31d9ab32941a0ea343df936f2be284cc08bdebf1e5eb1202d0a8737bd3b",
+   "timestamp": "2018-01-02T10:08:12.000Z"
+  },
+  "my_progs/mon_soldier.qc": {
+   "bytes": 21921,
+   "sha256": "dd282154b841ce10b12e78f8ac52503bc85f795234944a9e3ca9f9b1293477b8",
+   "timestamp": "2018-01-02T10:10:52.000Z"
+  },
+  "my_progs/mon_spider.qc": {
+   "bytes": 29981,
+   "sha256": "3853278e5e846473856471727e335afc361e8354e8a36cad68a798023bbe888e",
+   "timestamp": "2018-01-02T10:12:06.000Z"
+  },
+  "my_progs/mon_swampling.qc": {
+   "bytes": 25015,
+   "sha256": "4dc2a1bca8ae67a3e9e35b35ab7e7bb9bbd43c6d9c259e886c7a006847b37815",
+   "timestamp": "2018-01-02T10:13:06.000Z"
+  },
+  "my_progs/mon_tarbaby.qc": {
+   "bytes": 10726,
+   "sha256": "aec78c01d631a05fa003b653285f21d9d8e1cfc3f50f4f24aff7ad89d889aa31",
+   "timestamp": "2018-01-02T10:13:40.000Z"
+  },
+  "my_progs/mon_voreling.qc": {
+   "bytes": 27059,
+   "sha256": "d9074c79c31cca36fa58d5dc6336364e401d3e4fcbfc95edd2bc0e04a3b7826c",
+   "timestamp": "2018-01-02T10:14:22.000Z"
+  },
+  "my_progs/mon_wizard.qc": {
+   "bytes": 14856,
+   "sha256": "71af1cc14804ea3e560b11eb7e1a05c639f394894ee758c692890ef7d1d309f3",
+   "timestamp": "2018-01-02T10:54:44.000Z"
+  },
+  "my_progs/mon_wraith.qc": {
+   "bytes": 35367,
+   "sha256": "71fb0990116677e574fea462aa38c6d17ab0fc1dc21a5267a288680a8edc7d91",
+   "timestamp": "2018-01-02T10:56:14.000Z"
+  },
+  "my_progs/mon_xmas_elf.qc": {
+   "bytes": 17262,
+   "sha256": "e8ec4058fa0216d046bfa4589b2bfbc26320b5b47e7b751bae9d250a8b130903",
+   "timestamp": "2018-01-02T11:11:14.000Z"
+  },
+  "my_progs/mon_xmas_raindeer.qc": {
+   "bytes": 12082,
+   "sha256": "6d4296db8842bb49114d56e7f736614d543f02786c31e4764e9433d681e49fca",
+   "timestamp": "2018-01-02T11:11:40.000Z"
+  },
+  "my_progs/mon_xmas_santa.qc": {
+   "bytes": 17734,
+   "sha256": "7f2344eba2e0f09be0ee138a414bef8599d9bc3522c800bd2a9728b8aba280d2",
+   "timestamp": "2018-01-02T11:12:34.000Z"
+  },
+  "my_progs/mon_xmas_snowman.qc": {
+   "bytes": 11428,
+   "sha256": "e728997b9a6726495b55c6fbb5f106479e8208505be7da62291367daa58f3e29",
+   "timestamp": "2018-01-02T11:12:06.000Z"
+  },
+  "my_progs/mon_zombie.qc": {
+   "bytes": 33456,
+   "sha256": "d7dc84d49ff6d126380e8868a66c0fe190811aafcc8dc8ed106dcbf5641b0942",
+   "timestamp": "2018-01-09T15:21:36.000Z"
+  },
+  "my_progs/mon_zombiek.qc": {
+   "bytes": 41679,
+   "sha256": "3b0374ec57c671ce619841e83cff92b403d1b9ff0196bb32e3386d97ebbb5329",
+   "timestamp": "2018-01-09T15:21:36.000Z"
+  },
+  "my_progs/monsters.qc": {
+   "bytes": 47002,
+   "sha256": "7ab404efad127dc3aca386bed24511bef200493e5785b9efb9f4964420906e4b",
+   "timestamp": "2018-01-22T15:02:18.000Z"
+  },
+  "my_progs/part_emitter.qc": {
+   "bytes": 68134,
+   "sha256": "1765c3cc07d0d0789626a32104ff421aeb103acb5bbf374389b462c1d2eddcbc",
+   "timestamp": "2017-12-13T09:45:20.000Z"
+  },
+  "my_progs/part_generate.qc": {
+   "bytes": 37796,
+   "sha256": "232ffe408664b0d03f459a34fa161f6d7c7a38894b28bc3dcef9143f8583c06e",
+   "timestamp": "2017-12-13T10:20:56.000Z"
+  },
+  "my_progs/part_manage.qc": {
+   "bytes": 24113,
+   "sha256": "ea4144a30641e76ba1943ccc90318ef317e96e627021a0f0367f801083e01d8d",
+   "timestamp": "2018-01-21T09:32:00.000Z"
+  },
+  "my_progs/player.qc": {
+   "bytes": 24506,
+   "sha256": "74b7659ed2bc2d35c4f4bf4b32b58118cd459b48c35222d981a213de300f901f",
+   "timestamp": "2018-01-07T10:24:04.000Z"
+  },
+  "my_progs/progs.src": {
+   "bytes": 1904,
+   "sha256": "09621d3a9d849cc5f418b52dc401cc15b220ad79e3debb3d109e3d9d8bdf3fcb",
+   "timestamp": "2018-01-27T14:23:54.000Z"
+  },
+  "my_progs/projectiles.qc": {
+   "bytes": 68182,
+   "sha256": "10f1b904d0fdeddf6f06f3165c43cb73146460c8103162650ade012b6ef5401a",
+   "timestamp": "2017-12-29T12:41:32.000Z"
+  },
+  "my_progs/pushable.qc": {
+   "bytes": 19823,
+   "sha256": "03b3bf9240db6e9532e45a3efc159129709f9ce095c3238daae32daddd5b07ec",
+   "timestamp": "2018-02-02T14:20:26.000Z"
+  },
+  "my_progs/qc_highlight.xml": {
+   "bytes": 6348,
+   "sha256": "a7b326723cc1e4025e867ea5da00f54c944705600d740538aeb52f63cd027ab5",
+   "timestamp": "2015-09-16T15:30:42.000Z"
+  },
+  "my_progs/settings.qc": {
+   "bytes": 37012,
+   "sha256": "bf9eef1d50e1b46addf1fbcd5be38d1f6fa39fda17719397dc5d3dd1f365683c",
+   "timestamp": "2018-02-02T14:28:14.000Z"
+  },
+  "my_progs/sounds.qc": {
+   "bytes": 16906,
+   "sha256": "120584f225695768b57af7b087b47e5fa2a3bfe0367e49393a019090fcf6b646",
+   "timestamp": "2018-01-21T10:36:34.000Z"
+  },
+  "my_progs/sprites.qc": {
+   "bytes": 476,
+   "sha256": "579f48b397914b02f8fb86dc24f23d4e63a4cd857df1f0eaefd6c83e9c49e238",
+   "timestamp": "2009-05-28T21:16:02.000Z"
+  },
+  "my_progs/subs.qc": {
+   "bytes": 30995,
+   "sha256": "88304ff0a1f7f3c31bf873a5274e834a45d5bf679fd58244aca50f64b53f8bae",
+   "timestamp": "2018-01-25T16:27:08.000Z"
+  },
+  "my_progs/subs_soc.qc": {
+   "bytes": 13973,
+   "sha256": "3942c9c3faa12ec6c559d735532d8480f46e28cc4e3fb5e172347b51c52d1332",
+   "timestamp": "2018-02-02T13:30:36.000Z"
+  },
+  "my_progs/targets.qc": {
+   "bytes": 32180,
+   "sha256": "27ab64d44a60184f84add51e86f0355ed88950a5c259e3d7c98ed1d7ba2d3fe4",
+   "timestamp": "2018-01-08T19:55:34.000Z"
+  },
+  "my_progs/traps.qc": {
+   "bytes": 24383,
+   "sha256": "a9a538e79774859d46da38b4eebb9bcd84955f7de3f753d2240d113159929f55",
+   "timestamp": "2017-03-21T11:14:46.000Z"
+  },
+  "my_progs/traps_pendulum.qc": {
+   "bytes": 17047,
+   "sha256": "36327c36e3defa26eef04cb01d3807c5c50b7716ccd528ad64311bf227e8005d",
+   "timestamp": "2016-04-04T10:16:36.000Z"
+  },
+  "my_progs/traps_sawblade.qc": {
+   "bytes": 9783,
+   "sha256": "6f51f405ce4e64871c73a190f8c999b12b78ac6ebf8a824b067b028f22eb801c",
+   "timestamp": "2016-08-21T12:03:02.000Z"
+  },
+  "my_progs/triggers.qc": {
+   "bytes": 78985,
+   "sha256": "56a63962361d437d2f27ef10818631bad50dfa8571b13da983b711323998ad5a",
+   "timestamp": "2018-02-01T15:21:48.000Z"
+  },
+  "my_progs/triggers_states.qc": {
+   "bytes": 12938,
+   "sha256": "ee9fed46aa525f292bcac0b9e8230ddfe4e93d6ea2826b9ed9d3d1c39bfa17d2",
+   "timestamp": "2017-11-02T20:15:52.000Z"
+  },
+  "my_progs/weapons.qc": {
+   "bytes": 41015,
+   "sha256": "139ff30c8de5864b87b09493d8b92f359bc73613356b52e9a8f38ba46b44c4b4",
+   "timestamp": "2018-01-25T14:27:16.000Z"
+  },
+  "my_progs/world.qc": {
+   "bytes": 31576,
+   "sha256": "1f4b8dfd4fe0b529fba8b07d441fb6c1c36ce87e88b92af685c7e7518b445980",
+   "timestamp": "2018-01-27T11:08:50.000Z"
+  },
+  "progs.dat": {
+   "bytes": 1736788,
+   "sha256": "0ea3595fee966bd97bf78b33a7793967dc412fdda84a338c112113126bcac564",
+   "timestamp": "2018-02-02T16:57:32.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-01-09T10:53:10.000Z"
+  },
+  "progs/g_light.mdl": {
+   "bytes": 41396,
+   "sha256": "5f82b1469ec36524688e122981a5b15232f01ab6d1fea3bdadafd68b1f8f7002",
+   "timestamp": "2016-10-09T17:06:40.000Z"
+  },
+  "progs/g_nail2.mdl": {
+   "bytes": 25092,
+   "sha256": "d393edc7877f7a8a6568d9f60b91376e9c121e174e1720857a82554e47e9f0c4",
+   "timestamp": "2016-10-09T17:24:12.000Z"
+  },
+  "progs/g_shadaxe.mdl": {
+   "bytes": 398968,
+   "sha256": "19d6f210a771748da589282e63a222c6c9c41a21085ed3f57f70d7f5aa20bd66",
+   "timestamp": "2016-12-12T06:02:56.000Z"
+  },
+  "progs/g_shot2.mdl": {
+   "bytes": 15876,
+   "sha256": "8ae318a3e697e4c85f60a4e5997b673e8e48f17e295551c2b0b5d0c643b3ac24",
+   "timestamp": "2018-01-05T12:51:24.000Z"
+  },
+  "progs/v_light.mdl": {
+   "bytes": 22212,
+   "sha256": "7d5708699359a37f9dec8742ecb91fe382764ec338a0d94917ca7f2101cd45fc",
+   "timestamp": "2016-10-07T23:07:44.000Z"
+  },
+  "progs/v_nail.mdl": {
+   "bytes": 47140,
+   "sha256": "4c619b5e36282194cd7d41d5594b2804bac1997822e69d9ad3903137a531ad30",
+   "timestamp": "2018-01-06T21:24:54.000Z"
+  },
+  "progs/v_nail2.mdl": {
+   "bytes": 48964,
+   "sha256": "d073c7fad7dee2c4664aa401d744024b623abcd65e60a4c7066721b988838aff",
+   "timestamp": "2018-01-06T21:04:36.000Z"
+  },
+  "progs/v_rock.mdl": {
+   "bytes": 37420,
+   "sha256": "99125057c1ca5cbbe1dbb5e9978baaa9f4f60a6eb976d9eb06d97497e7b7d7be",
+   "timestamp": "2017-12-31T14:02:04.000Z"
+  },
+  "progs/v_rock2.mdl": {
+   "bytes": 39668,
+   "sha256": "78fc36ddbd33fb77192ef100547f1a1a0f70a38fdaac7094df67f2df33ca9237",
+   "timestamp": "2018-01-06T20:16:50.000Z"
+  },
+  "progs/v_shadaxe0.mdl": {
+   "bytes": 97860,
+   "sha256": "598f555a854590a749eee83870a869ebfa8dfd3c84ad447b7fe3fb796ea1da80",
+   "timestamp": "2016-12-12T04:57:28.000Z"
+  },
+  "progs/v_shadaxe1.mdl": {
+   "bytes": 97860,
+   "sha256": "2ffbb3026a21d70a73a091222cc4f2ea2ba6abd706fbffc276f027b9475abfaa",
+   "timestamp": "2016-12-12T04:57:44.000Z"
+  },
+  "progs/v_shadaxe2.mdl": {
+   "bytes": 97860,
+   "sha256": "cd2a7a188f73c5b841183885663470c53c3af5646491f44811a4a0f192381ed7",
+   "timestamp": "2016-12-12T04:57:54.000Z"
+  },
+  "progs/v_shadaxe3.mdl": {
+   "bytes": 97860,
+   "sha256": "b1c0dd11ce314003de5051f8a3b9581ee3eda5ea347d3d3371eea43051820197",
+   "timestamp": "2016-12-12T04:58:06.000Z"
+  },
+  "progs/v_shadaxe4.mdl": {
+   "bytes": 97860,
+   "sha256": "81108f8b2484d24e54e9ab3ee5b707be5ea28adb142159412aa773ae01e593c1",
+   "timestamp": "2016-12-12T04:58:16.000Z"
+  },
+  "progs/v_shadaxe5.mdl": {
+   "bytes": 97860,
+   "sha256": "0d3ca1664ee82ab2aed6261c262fdc455db981ecd2d62371595e520756d7bb22",
+   "timestamp": "2016-12-12T04:58:28.000Z"
+  },
+  "progs/v_shot.mdl": {
+   "bytes": 22260,
+   "sha256": "bf79b703708665b9e65556bf68c0fe9d177097b2b96b11563d7b8bf84485a81b",
+   "timestamp": "2017-12-31T15:40:08.000Z"
+  },
+  "quake.rc": {
+   "bytes": 6181,
+   "sha256": "c34e315ee5c39ab517c6c7972e27546218cc1dd71f914bf3c172f653ceb7502b",
+   "timestamp": "2018-01-22T14:55:12.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "2336700420d41c2d468e0afc05d2b018b04f7b2f64f90371dc9da835dd6abe83",
+ "tags": [
+  "author=sock",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "filename=ad_v1_70patch1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2018-01-07",
+  "startmap=ac",
+  "title=Arcane Dimensions 1.70 Patch 1"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_v1_70patch1.zip",
+  "https://www.quaddicted.com/files/by-sha256/2/2336700420d41c2d468e0afc05d2b018b04f7b2f64f90371dc9da835dd6abe83/ad_v1_70patch1.zip"
+ ]
+}

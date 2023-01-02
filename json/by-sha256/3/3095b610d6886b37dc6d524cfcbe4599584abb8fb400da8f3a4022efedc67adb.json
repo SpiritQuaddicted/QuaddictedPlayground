@@ -1,33 +1,35 @@
 {
- "filename": [
-  "seraphim.zip"
- ],
+ "bytes": 1350,
  "files": {
   "seraphim.bsp": {
-   "size": 3195852,
+   "bytes": 3195852,
+   "sha256": "305dcb2354dd21cc824ef7f2ba86818dec4a063c82461f1fb48d046d896292fd",
    "timestamp": "1997-11-23T11:12:44.000Z"
   },
   "seraphim.txt": {
-   "size": 6326,
+   "bytes": 6326,
+   "sha256": "cd2db61c3c11714fad86460b45cf98f48fe3ee00f55d634b34079a4b8bba3ec3",
    "timestamp": "1997-11-23T14:05:58.000Z"
   }
  },
- "filesize": 1350,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "3095b610d6886b37dc6d524cfcbe4599584abb8fb400da8f3a4022efedc67adb",
  "tags": [
   "author=Peter van Wingerden",
+  "filename=seraphim.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-11-23",
-  "tag=medium",
-  "tag=nonlinear",
-  "tag=puzzles",
-  "tag=traps",
-  "title=The House of Seraphim"
+  "map_layout=non-linear",
+  "map_size=medium",
+  "release_date=1997-11-23",
+  "theme=puzzles",
+  "theme=traps",
+  "title=The House of Seraphim",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/seraphim.zip",

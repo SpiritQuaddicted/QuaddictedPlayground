@@ -1,34 +1,37 @@
 {
- "filename": [
-  "finally.zip"
- ],
+ "bytes": 1707,
  "files": {
   "finally.bsp": {
-   "size": 3507900,
+   "bytes": 3507900,
+   "sha256": "f9bd9320a594898896a0fccaae5e4fd3cd836412e1ee08f780e66ff315d7ab15",
    "timestamp": "2015-11-18T16:49:12.000Z"
   },
   "finally.lit": {
-   "size": 1183958,
+   "bytes": 1183958,
+   "sha256": "8d920d982f194a6ec99d60518b1d8d50d1b0ab775f259364b194608507246bb9",
    "timestamp": "2015-11-18T16:49:12.000Z"
   },
   "finally.txt": {
-   "size": 5513,
+   "bytes": 5513,
+   "sha256": "759e15a2add37e4cf4ab93b992884d150b0f7e8e1b76a5924407d1e67880d982",
    "timestamp": "2015-11-18T17:25:04.000Z"
   }
  },
- "filesize": 1707,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ddf8106ef7dabf30c9b2fe396742bcc40fecaef4afb20f2439e7f2637566bfaa",
  "tags": [
   "author=nadzia (narnar)",
+  "filename=finally.zip",
   "game=quake",
-  "releasedate=2015-11-18",
-  "tag=medium",
-  "tag=wizard",
-  "title=Finally"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "release_date=2015-11-18",
+  "theme=wizard",
+  "title=Finally",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/finally.zip",

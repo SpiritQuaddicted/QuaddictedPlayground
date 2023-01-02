@@ -1,51 +1,56 @@
 {
- "filename": [
-  "cursed.zip"
- ],
+ "bytes": 2021,
  "files": {
   "CURSE1.bsp": {
-   "size": 2201920,
+   "bytes": 2201920,
+   "sha256": "750b2f327940f3a9e70ee3d0a7a3901e2faff35c152e225b6c142c3df8484de6",
    "timestamp": "1999-10-17T15:21:56.000Z"
   },
   "CURSE2.bsp": {
-   "size": 2125700,
+   "bytes": 2125700,
+   "sha256": "fbc3b478ab32978968eb30e842fc3d8943dbc4368d9ede9739c93a2bd12dfb0a",
    "timestamp": "1999-10-17T19:02:12.000Z"
   },
   "CURSE_ST.bsp": {
-   "size": 648220,
+   "bytes": 648220,
+   "sha256": "f489646bce43e0f6d64712f730770680767aeeee97c6ccc7c27fa07bc41f7bc1",
    "timestamp": "1999-10-18T02:14:38.000Z"
   },
   "occursed.txt": {
-   "size": 2881,
+   "bytes": 2881,
+   "sha256": "cbfd586aa650c52f12815a9fe5c777150ed25cc086429ba8b83da7c17ad9290f",
    "timestamp": "1999-10-17T15:22:30.000Z"
   }
  },
- "filesize": 2021,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "cb5f0442304b2bcc3559d137a96ed10c0a7ae90b16651854c9044173796b2c1f",
  "tags": [
   "author=Tim Elek",
+  "filename=cursed.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://tertiary.planetquake.gamespy.com",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/06-march-2000/occursed.php)",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/chech3.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev991016.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1999-10-18",
+  "map_size=small",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=hexen",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-10-18",
   "startmap=curse_st",
-  "tag=dark",
-  "tag=hexen",
-  "tag=medieval",
-  "tag=planetquake-map-of-the-week",
-  "tag=small",
-  "tag=story",
-  "tag=temple",
-  "tag=tomb",
-  "tag=village",
-  "title=The Occursed"
+  "theme=medieval",
+  "theme=story",
+  "theme=temple",
+  "theme=tomb",
+  "theme=village",
+  "title=The Occursed",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cursed.zip",

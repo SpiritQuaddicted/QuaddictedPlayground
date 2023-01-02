@@ -1,0 +1,874 @@
+{
+ "bytes": 237973,
+ "files": {
+  "gsh_adoria/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-12-14T15:55:00.000Z"
+  },
+  "gsh_adoria/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:32:58.000Z"
+  },
+  "gsh_adoria/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:32:58.000Z"
+  },
+  "gsh_adoria/gfx/env/GalaxyTex_bk.tga": {
+   "bytes": 50331692,
+   "sha256": "3fb9de494afdd676a8c52d3afe0763a2c6322b8b01a5897cf30c7cc2f445ac84",
+   "timestamp": "2020-02-10T22:53:28.000Z"
+  },
+  "gsh_adoria/gfx/env/GalaxyTex_dn.tga": {
+   "bytes": 50331692,
+   "sha256": "3e853caf4ed3ed4879df57b3cfce7688a2d78926a8ea0758003d19ddc8e55de6",
+   "timestamp": "2020-02-10T22:54:40.000Z"
+  },
+  "gsh_adoria/gfx/env/GalaxyTex_ft.tga": {
+   "bytes": 50331692,
+   "sha256": "81e82ba28275d07d1344a11d5b079d0400af1bdd8136e78aac79eb7647f0f34e",
+   "timestamp": "2020-02-10T22:52:24.000Z"
+  },
+  "gsh_adoria/gfx/env/GalaxyTex_lf.tga": {
+   "bytes": 50331692,
+   "sha256": "9c3d6b425249ec6bf56ccf9f033ee33154003968ca35258fda7df585b99398f9",
+   "timestamp": "2020-02-10T22:53:00.000Z"
+  },
+  "gsh_adoria/gfx/env/GalaxyTex_rt.tga": {
+   "bytes": 50331692,
+   "sha256": "8c92fd7f07ff67bccdc4a60b33fcdad5e9085f5f7bd62880a28dd120ca3f35e4",
+   "timestamp": "2020-02-10T22:51:46.000Z"
+  },
+  "gsh_adoria/gfx/env/GalaxyTex_up.tga": {
+   "bytes": 50331692,
+   "sha256": "9aea3524ec5b5898943b504812edfa1beaf6e61aa98ab69fe4399ef2ab19b328",
+   "timestamp": "2020-02-10T22:54:16.000Z"
+  },
+  "gsh_adoria/gsh_adoria_readme.txt": {
+   "bytes": 1244,
+   "sha256": "5a499639396b3df828d5c9454f21a3a0eb4bbed39b9aedc9446aa44f7a3f3b32",
+   "timestamp": "2020-12-14T15:49:56.000Z"
+  },
+  "gsh_adoria/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-12-14T15:54:54.000Z"
+  },
+  "gsh_adoria/maps/adoria_pt1.bsp": {
+   "bytes": 78182752,
+   "sha256": "2bc711104dc05fadd22c8b7a31c596e343007601bdfe11e54c0968df57f04e2c",
+   "timestamp": "2020-12-14T15:38:32.000Z"
+  },
+  "gsh_adoria/maps/adoria_pt1.lit": {
+   "bytes": 13684106,
+   "sha256": "a64bafd590d4f1225c5840e83d502758339d3a874e6681531827dd3e98f8903e",
+   "timestamp": "2020-12-14T15:38:32.000Z"
+  },
+  "gsh_adoria/maps/debris/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:53:56.000Z"
+  },
+  "gsh_adoria/maps/debris/brick01.bsp": {
+   "bytes": 7912,
+   "sha256": "c11880924b195ed38908cbf50f9cd16f071918df0a94a19c7254b93dddb1e62d",
+   "timestamp": "2019-01-11T23:18:38.000Z"
+  },
+  "gsh_adoria/maps/debris/glass1.bsp": {
+   "bytes": 13928,
+   "sha256": "6345d590e22e8584585e8aec9660b7323f99c5fb71a0a2f9f5b358d9ddebbacd",
+   "timestamp": "2019-10-30T21:04:38.000Z"
+  },
+  "gsh_adoria/maps/debris/glass2.bsp": {
+   "bytes": 14468,
+   "sha256": "f8eb2c41cbe30d93e978cff92d5d4231321b5d08ac28740563317e663be6491f",
+   "timestamp": "2020-02-12T21:38:24.000Z"
+  },
+  "gsh_adoria/maps/debris/jail1.bsp": {
+   "bytes": 7640,
+   "sha256": "76f4d62dc03035d4ab447fe39d6811d4331ecf59c5fdaf68eb11111d8379a7b4",
+   "timestamp": "2019-10-30T21:02:38.000Z"
+  },
+  "gsh_adoria/maps/debris/wood1.bsp": {
+   "bytes": 7584,
+   "sha256": "c39390e3757553352941fcc255da6498be4c25a87575871e360a0166fac592bc",
+   "timestamp": "2019-03-11T19:37:26.000Z"
+  },
+  "gsh_adoria/maps/start.bsp": {
+   "bytes": 20371556,
+   "sha256": "7b9c260a6cd235d62a44af17535664d3de42aa0ce9b259e0ec49350ccc3ce483",
+   "timestamp": "2020-12-14T15:54:30.000Z"
+  },
+  "gsh_adoria/maps/start.lit": {
+   "bytes": 1013414,
+   "sha256": "492c6fd320e57aacb875b3a08617c3e68b6f0ec2858fa027bd8aab66a8031844",
+   "timestamp": "2020-12-14T15:54:30.000Z"
+  },
+  "gsh_adoria/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:32:58.000Z"
+  },
+  "gsh_adoria/music/track01.wav": {
+   "bytes": 5087476,
+   "sha256": "3ff1405e6504c8448d589cfaf4b9f40cb20a7562cf08527cd1b9afaac6e91eb4",
+   "timestamp": "2020-02-05T18:29:50.000Z"
+  },
+  "gsh_adoria/music/track02.wav": {
+   "bytes": 36181426,
+   "sha256": "43ec1d537ec61cc0587f27bbc1c901ba3927cf29764e7b1a6fd63b60a12a0cc8",
+   "timestamp": "2020-01-27T21:10:48.000Z"
+  },
+  "gsh_adoria/music/track03.wav": {
+   "bytes": 13308608,
+   "sha256": "71cb6c69655dfb441f5ff43383ff0f42ad96e70ca3fe630174a416c62df017f4",
+   "timestamp": "2020-01-27T21:00:22.000Z"
+  },
+  "gsh_adoria/music/track05.wav": {
+   "bytes": 9149910,
+   "sha256": "5e91fe2923ba982d18bc2435e1ac4739255d125cbe09f49954fee08778f8cb34",
+   "timestamp": "2020-01-27T21:04:06.000Z"
+  },
+  "gsh_adoria/music/track06.wav": {
+   "bytes": 26557960,
+   "sha256": "19779a6b83c9fa057d30b077cbdad48a9470ef19af4cf5fabedcb578782206ad",
+   "timestamp": "2020-01-27T21:25:48.000Z"
+  },
+  "gsh_adoria/music/track07.wav": {
+   "bytes": 48021940,
+   "sha256": "5bb1e0d90bd6616e333dcfca6c846c0caa2081121a01f1690437f36d715a0903",
+   "timestamp": "2020-01-27T21:16:18.000Z"
+  },
+  "gsh_adoria/music/track10.wav": {
+   "bytes": 25611456,
+   "sha256": "ebb1a87461cee79c71fab4b97af3dfb3c1e0cd5c355315aa4e26d64a4bac7838",
+   "timestamp": "2020-02-25T18:23:08.000Z"
+  },
+  "gsh_adoria/music/track11.wav": {
+   "bytes": 17607930,
+   "sha256": "5d2f714adee3a898905a13e1dfcf2b3fcef9de656dcd2eb719d0b6ff360e5283",
+   "timestamp": "2020-02-17T21:40:50.000Z"
+  },
+  "gsh_adoria/music/track12.wav": {
+   "bytes": 12018800,
+   "sha256": "69188632c14394f1bf69c0b85772c9e05f8be65f4216522040d710c0669c3a39",
+   "timestamp": "2020-02-25T18:40:20.000Z"
+  },
+  "gsh_adoria/progs.dat": {
+   "bytes": 619886,
+   "sha256": "72e29d6d611ef2827fc9d121aa9f9ffb6034180e8e6df57e7acee55842ba645c",
+   "timestamp": "2020-11-03T17:25:00.000Z"
+  },
+  "gsh_adoria/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:32:00.000Z"
+  },
+  "gsh_adoria/progs/candle.mdl": {
+   "bytes": 24135,
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2018-10-10T20:27:08.000Z"
+  },
+  "gsh_adoria/progs/debris.mdl": {
+   "bytes": 270552,
+   "sha256": "714b4fc3ce6675f0f4edc6ed7022e817f3922cde1877eb5418e4ddf60d798724",
+   "timestamp": "2019-11-06T21:33:52.000Z"
+  },
+  "gsh_adoria/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2019-05-17T11:20:46.000Z"
+  },
+  "gsh_adoria/progs/g_shotty.mdl": {
+   "bytes": 23380,
+   "sha256": "b919bbcba3f7f03fb8b82fa6d3b1464ca41e81cf29417cfea0de09658c698cfb",
+   "timestamp": "2019-05-17T12:07:18.000Z"
+  },
+  "gsh_adoria/progs/h_boss.mdl": {
+   "bytes": 63532,
+   "sha256": "320aff68d374f002ed468bf17ddeca4d95f59ef68c7dd3a17287fef2da1f0b46",
+   "timestamp": "2020-02-02T14:43:06.000Z"
+  },
+  "gsh_adoria/progs/lspike.mdl": {
+   "bytes": 1684,
+   "sha256": "75a3f036a04bf5843488758f90fc2416d8a96ed5493460444c4fe2e6ce9956e4",
+   "timestamp": "2020-09-14T09:58:38.000Z"
+  },
+  "gsh_adoria/progs/mervup.mdl": {
+   "bytes": 32948,
+   "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899",
+   "timestamp": "2020-06-07T00:04:40.000Z"
+  },
+  "gsh_adoria/progs/pd_base_key.mdl": {
+   "bytes": 21219,
+   "sha256": "320ec52018f501f8fe428dd46f44693787e545289be883a49f3bd6476974cf46",
+   "timestamp": "2019-11-15T20:29:12.000Z"
+  },
+  "gsh_adoria/progs/pd_rune_key.mdl": {
+   "bytes": 46335,
+   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
+   "timestamp": "2019-11-15T20:40:24.000Z"
+  },
+  "gsh_adoria/progs/pd_wiz_key.mdl": {
+   "bytes": 21907,
+   "sha256": "36b50211f687813b85648a46bd32a1d543a8f2af84e9d4223f8b5843f885e1bc",
+   "timestamp": "2019-11-15T20:33:36.000Z"
+  },
+  "gsh_adoria/progs/s_flame.spr": {
+   "bytes": 29224,
+   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
+   "timestamp": "2018-10-01T22:43:54.000Z"
+  },
+  "gsh_adoria/progs/s_null.spr": {
+   "bytes": 1080,
+   "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+   "timestamp": "2019-10-03T23:17:30.000Z"
+  },
+  "gsh_adoria/progs/spark.mdl": {
+   "bytes": 9588,
+   "sha256": "74dc6734e0ce30447942a10e9ec78c7cf43eafb86f290cc772b2a8874702b858",
+   "timestamp": "2019-06-03T21:21:02.000Z"
+  },
+  "gsh_adoria/progs_dump-mod-template-readme.txt": {
+   "bytes": 3317,
+   "sha256": "cc090fcf7f0c35c90616929bea21ea6bd4d804a48ae29a0ba556bca7b46059c3",
+   "timestamp": "2020-10-24T01:31:44.000Z"
+  },
+  "gsh_adoria/quakec src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:32:02.000Z"
+  },
+  "gsh_adoria/quakec src/LICENSE": {
+   "bytes": 18431,
+   "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b",
+   "timestamp": "2019-01-12T10:20:30.000Z"
+  },
+  "gsh_adoria/quakec src/README.md": {
+   "bytes": 239,
+   "sha256": "2be824d72bdef25ec9f90b9b55b63a24334282d53d83ec79ac273249821bc79c",
+   "timestamp": "2020-08-13T09:17:06.000Z"
+  },
+  "gsh_adoria/quakec src/ai.qc": {
+   "bytes": 15906,
+   "sha256": "d414d01496a62ae793fa11b02191751e014f8de8605a607bedc985148fe2f9dd",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/boss.qc": {
+   "bytes": 13464,
+   "sha256": "3685c4e46c0dc370139656527e203fb1a10259df78c66931adb26d5b64e5b642",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/boss2.qc": {
+   "bytes": 15987,
+   "sha256": "4aa8179663b52698079673aa46f263f9e2769e3d657a725897023bfc414c331b",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/buttons.qc": {
+   "bytes": 3098,
+   "sha256": "2d619b0e3ebf7fe99e6aee21080b6034d5e15dfc477d12650332469a2b97d549",
+   "timestamp": "2019-09-16T18:38:18.000Z"
+  },
+  "gsh_adoria/quakec src/changelog.txt": {
+   "bytes": 8839,
+   "sha256": "cd63e98ee7c225b8e2bb89923ca6780a151d6a8122d270a7b1a86029ba8de116",
+   "timestamp": "2020-10-21T09:42:30.000Z"
+  },
+  "gsh_adoria/quakec src/client.qc": {
+   "bytes": 41348,
+   "sha256": "8a77c9009c146aac25f0f75cfcbdcf2d06d16cde3ac1dfc789cde2a6a8d5a22d",
+   "timestamp": "2020-10-14T09:11:20.000Z"
+  },
+  "gsh_adoria/quakec src/combat.qc": {
+   "bytes": 7192,
+   "sha256": "c1b5774a0b11c50cf5e6508e11349aa38c6bc8b468fad60fe7c0a4a1d30c9cc0",
+   "timestamp": "2020-10-17T11:57:24.000Z"
+  },
+  "gsh_adoria/quakec src/custom_mdls.qc": {
+   "bytes": 2167,
+   "sha256": "3798f019c4c7151be89ccbebb560120101e69357a1da645a497b90fcb9bbbba3",
+   "timestamp": "2020-09-18T17:20:28.000Z"
+  },
+  "gsh_adoria/quakec src/customsounds.qc": {
+   "bytes": 5564,
+   "sha256": "26bce1b876f3a8a709a2b61298d1f65de5f568f24ac66db713e8585afc694f5d",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/cutscene.qc": {
+   "bytes": 29599,
+   "sha256": "ce86446a24fd7b31a1db054529ef3a92ae31d5170d959f45a7b78aed4b5d5535",
+   "timestamp": "2020-09-12T12:24:48.000Z"
+  },
+  "gsh_adoria/quakec src/defs.qc": {
+   "bytes": 25117,
+   "sha256": "7bd0672be101420d0d77bff38a7b6003ae81703b2c0b168a708efb3c4b1eae10",
+   "timestamp": "2020-10-17T11:57:24.000Z"
+  },
+  "gsh_adoria/quakec src/demon.qc": {
+   "bytes": 12015,
+   "sha256": "66b9bc7e9f80f1abaa9e866628b5652c5a9ae21661b5a4c76c6f217d703ed357",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/doelightning.qc": {
+   "bytes": 4474,
+   "sha256": "fd89193644310cdc266883238d875771dc92080c9d4107778eb674b053f83e6b",
+   "timestamp": "2019-09-16T18:38:18.000Z"
+  },
+  "gsh_adoria/quakec src/doeplats.qc": {
+   "bytes": 14748,
+   "sha256": "1e83d3bf54bc86de787d0da97ca03c3cbd6ab2a9c11ac351bb0cd4bc002da42f",
+   "timestamp": "2020-09-12T12:24:48.000Z"
+  },
+  "gsh_adoria/quakec src/dog.qc": {
+   "bytes": 11531,
+   "sha256": "399f3b9e065fa67c0f3d40c05833657b4b5ffc6cc1b6c34db1807d2e4cf4f34b",
+   "timestamp": "2020-09-18T17:36:04.000Z"
+  },
+  "gsh_adoria/quakec src/doors.qc": {
+   "bytes": 17747,
+   "sha256": "5e165fde2e10f4210a32097e44fe1df2925038194d1bbf3bc402d930c0f4f564",
+   "timestamp": "2020-10-16T20:51:00.000Z"
+  },
+  "gsh_adoria/quakec src/dtmisc.qc": {
+   "bytes": 25655,
+   "sha256": "bcc5fc45aff88252cc754f3791b9d914e3c7b98157cb5b6101232b7fe86658d9",
+   "timestamp": "2020-10-13T21:29:50.000Z"
+  },
+  "gsh_adoria/quakec src/dtquake.qc": {
+   "bytes": 2517,
+   "sha256": "662b64eecd07c98a53256478d8660f4c5056bb96924a559f0a4f470c36d478c5",
+   "timestamp": "2019-09-21T19:26:12.000Z"
+  },
+  "gsh_adoria/quakec src/elevatr.qc": {
+   "bytes": 3475,
+   "sha256": "a3c7ce63e511cf293078a3e1c9f2604c848f42d83615260e515737bfb2b89319",
+   "timestamp": "2019-09-16T18:38:18.000Z"
+  },
+  "gsh_adoria/quakec src/enforcer.qc": {
+   "bytes": 20386,
+   "sha256": "30dfbaaf99fd7fe0434a8a7edfeae3879361af91d609aad3fdd97f2414b06186",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-12T10:20:30.000Z"
+  },
+  "gsh_adoria/quakec src/fish.qc": {
+   "bytes": 9331,
+   "sha256": "5e11dbfa3507e3d5f5f9640ddffc9345ac12279f905043df1590b83e55b0e55f",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/fteqcc.ini": {
+   "bytes": 22551,
+   "sha256": "a0fc2f1a2baa4495ed908903bf242228d8754c4c986f28008317b7c04a6a01ae",
+   "timestamp": "2020-09-26T17:07:36.000Z"
+  },
+  "gsh_adoria/quakec src/func_bob.qc": {
+   "bytes": 5167,
+   "sha256": "be9e296336957287ddd1f5ee02463114abbbb0b2d4d0dbd13f2288b807505fd4",
+   "timestamp": "2019-09-21T19:26:12.000Z"
+  },
+  "gsh_adoria/quakec src/func_fall2.qc": {
+   "bytes": 5390,
+   "sha256": "ddc8a4e1b27ed1149b1ec8ea31f3fd842ae128dce4e6584cd561c3e897465029",
+   "timestamp": "2020-10-13T21:29:50.000Z"
+  },
+  "gsh_adoria/quakec src/hipcount.qc": {
+   "bytes": 5073,
+   "sha256": "e3786751ed3ad44cfde990655746281bb17c67c88a42fbc9eda2f736851913c0",
+   "timestamp": "2019-09-21T19:26:12.000Z"
+  },
+  "gsh_adoria/quakec src/hippart.qc": {
+   "bytes": 7673,
+   "sha256": "65cba84bc1e656e58e0edd14e6d8dbbe7aa9cefa3d09fb416d0485329f348e56",
+   "timestamp": "2019-09-21T19:26:12.000Z"
+  },
+  "gsh_adoria/quakec src/hiptrig.qc": {
+   "bytes": 5453,
+   "sha256": "3131319332111c37fada92710e12246ecae3eef0dd18a29b77f63a58cc5075e5",
+   "timestamp": "2020-09-16T08:29:42.000Z"
+  },
+  "gsh_adoria/quakec src/hknight.qc": {
+   "bytes": 21210,
+   "sha256": "81e5aeb4d7bc4b733b98517fc1654e75c66ae25c1602b6891b2cc4cfaab934af",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/items.qc": {
+   "bytes": 46018,
+   "sha256": "863cb858f3d544e7011981ab8ec34548b632cc6749b68ce822bd02c32f17cf53",
+   "timestamp": "2020-10-16T21:34:42.000Z"
+  },
+  "gsh_adoria/quakec src/keydata.qc": {
+   "bytes": 5639,
+   "sha256": "5902993c9755a2851ef424e48572a9806d20d3aae67a8f9d01446c4aad09a91a",
+   "timestamp": "2020-08-13T09:17:06.000Z"
+  },
+  "gsh_adoria/quakec src/keylock.qc": {
+   "bytes": 5884,
+   "sha256": "26751c63554a6e73da84138ee45871f501d3bb5250cbfa137a524087bc204e39",
+   "timestamp": "2020-08-13T09:17:06.000Z"
+  },
+  "gsh_adoria/quakec src/knight.qc": {
+   "bytes": 11974,
+   "sha256": "15bc4fe0ed72f9a6425ecdde394a0b7f624e56331f0a8e64edd7a8e8ab8862e5",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/lights.qc": {
+   "bytes": 13406,
+   "sha256": "70f87a362eff0fc7eedebd42f2faee03ee0968e9f833c86edf14c8f613e89f36",
+   "timestamp": "2019-09-16T18:38:18.000Z"
+  },
+  "gsh_adoria/quakec src/math.qc": {
+   "bytes": 1813,
+   "sha256": "9d5303c03ed58760bedbeb3f017ddebd5bc0c27de43a1e62ea3b5ae8bab2b927",
+   "timestamp": "2019-01-12T10:20:30.000Z"
+  },
+  "gsh_adoria/quakec src/misc.qc": {
+   "bytes": 30119,
+   "sha256": "5e7f0ffb297efd30b173ef0901fa97c6340b069008304ea63bfe3c2c6b5198aa",
+   "timestamp": "2020-10-10T23:51:34.000Z"
+  },
+  "gsh_adoria/quakec src/misc_model.qc": {
+   "bytes": 1474,
+   "sha256": "1f8de07dfb117fc379c10667251302e713f4238f3655e5260caa5b94894309c8",
+   "timestamp": "2019-09-16T18:38:18.000Z"
+  },
+  "gsh_adoria/quakec src/mobot.qc": {
+   "bytes": 12775,
+   "sha256": "c03533aef6bb81b36b529b3fb664c0bee7b1fb2bcf9a1e959758bd06efe99bb7",
+   "timestamp": "2020-10-15T10:22:20.000Z"
+  },
+  "gsh_adoria/quakec src/monsters.qc": {
+   "bytes": 10018,
+   "sha256": "335d8da10275b61aa57b939a022eb8995d3a745609ef83d321bf52731e94ef11",
+   "timestamp": "2020-10-17T11:57:24.000Z"
+  },
+  "gsh_adoria/quakec src/newflags.qc": {
+   "bytes": 5870,
+   "sha256": "192bf31eb0f13e6e55342801a42608caf797bfdfbdf27750c78ae67b1c1c5568",
+   "timestamp": "2019-09-16T18:38:18.000Z"
+  },
+  "gsh_adoria/quakec src/ogre.qc": {
+   "bytes": 33029,
+   "sha256": "d3d7f6742d979e7ff56c9be41fdddad326ba6f0ee71ad94ff969d8cf4ed0573c",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/oldone.qc": {
+   "bytes": 10047,
+   "sha256": "5030902d6b80f8e588f2ba8e9250d603eebecfc8925becb95cae4bec3aeb42f9",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/oldone2.qc": {
+   "bytes": 14736,
+   "sha256": "6a3cb7559241c34c69ca053780b8d2e156eef260e0e54a2d575ca3a690aaf357",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/plats.qc": {
+   "bytes": 13013,
+   "sha256": "be4378cbbaa7428e8563f74359bcf4cd553e86c0600c37f71195ea24fa8eb9f1",
+   "timestamp": "2020-10-15T13:17:16.000Z"
+  },
+  "gsh_adoria/quakec src/player.qc": {
+   "bytes": 19924,
+   "sha256": "0a704ec096dcd8d4dc371a9437cc09a2d77b39c87e5c68ad6d2ad28147a0f7a6",
+   "timestamp": "2020-10-14T09:00:04.000Z"
+  },
+  "gsh_adoria/quakec src/progs.src": {
+   "bytes": 1907,
+   "sha256": "9f39f79f6601938cb94f93831f5dbf7e14b974a25f7d86554cc417aba66f20d9",
+   "timestamp": "2020-10-13T21:44:12.000Z"
+  },
+  "gsh_adoria/quakec src/rotate.qc": {
+   "bytes": 30386,
+   "sha256": "84c13ea7c81abd8e808b6f63b6054be08f85220e19826472f35dcb2bb3fe107f",
+   "timestamp": "2020-08-13T09:17:06.000Z"
+  },
+  "gsh_adoria/quakec src/rubicon2.qc": {
+   "bytes": 25287,
+   "sha256": "bd24d007189a74e38ff4aaabf8bee4b9e26aa0a3ae6a8df51eeaa759e8e17ca0",
+   "timestamp": "2020-10-20T18:37:30.000Z"
+  },
+  "gsh_adoria/quakec src/shalrath.qc": {
+   "bytes": 10308,
+   "sha256": "26e607257320be706036396f139a7fb57e3a357eb2921e8e0016db1adf8f2248",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/shambler.qc": {
+   "bytes": 15317,
+   "sha256": "202ac5005a09d7dfb3a67d181fcdaced66af8990909be658816a272ea31c0aec",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/soldier.qc": {
+   "bytes": 15239,
+   "sha256": "1ae4fd554ca118973ecbb7a0d7892be3196e6288701b0aca6cc421cef7f9c54e",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/subs.qc": {
+   "bytes": 14185,
+   "sha256": "d0e5649ffd317bf70b4c85d686d7f7035ce68a7c616733039788746974a9554c",
+   "timestamp": "2020-10-17T11:57:24.000Z"
+  },
+  "gsh_adoria/quakec src/tarbaby.qc": {
+   "bytes": 7641,
+   "sha256": "25049e8a6d8a0d75973b06af1f01519f3d3d43d76cdc9267a1f5eb4f2e178447",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/triggers.qc": {
+   "bytes": 34670,
+   "sha256": "d0a4f8d0a81185f65769a170a1266e57331e5b422403b62ba9f08bc897db6ee9",
+   "timestamp": "2020-10-14T09:06:52.000Z"
+  },
+  "gsh_adoria/quakec src/weapons.qc": {
+   "bytes": 37367,
+   "sha256": "5604fa94506245c0f35b1b440286b15b2ea13d79a67096f730896370b943c9e7",
+   "timestamp": "2020-10-13T21:44:12.000Z"
+  },
+  "gsh_adoria/quakec src/wizard.qc": {
+   "bytes": 12969,
+   "sha256": "25522f4266f7e6b8db9cdde6f08d16d7fed9ee6692b1ad225233b460dc5e26d8",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/quakec src/world.qc": {
+   "bytes": 14546,
+   "sha256": "e85373b2abed93f2cc55f8d31ea1216fe86ec5f93be94cdc96642d1d41c288f8",
+   "timestamp": "2020-10-14T09:11:36.000Z"
+  },
+  "gsh_adoria/quakec src/zombie.qc": {
+   "bytes": 30377,
+   "sha256": "9c13ae5da536346b34d59a28aa10a2e59ad64b95832efb186e07367826b6539a",
+   "timestamp": "2020-10-13T21:46:06.000Z"
+  },
+  "gsh_adoria/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:33:26.000Z"
+  },
+  "gsh_adoria/sound/break/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-03T17:47:00.000Z"
+  },
+  "gsh_adoria/sound/break/glbreak_2.wav": {
+   "bytes": 61680,
+   "sha256": "28282600f666d32a58c07eaf14a2d8b6d2418d4fc25549cb5d38c44d8f97b7af",
+   "timestamp": "2019-11-07T19:08:00.000Z"
+  },
+  "gsh_adoria/sound/break/pd_bricks1.wav": {
+   "bytes": 61786,
+   "sha256": "3829842a9cb395f99d07546be38263eaf0ee5bbed71841aa8c93864d55a7fb94",
+   "timestamp": "2019-03-27T14:52:22.000Z"
+  },
+  "gsh_adoria/sound/break/pd_metal1.wav": {
+   "bytes": 44146,
+   "sha256": "c0111b94231bc3870cbb95ec03f13b2b44ac407a5d18b35668ccf231303cc8aa",
+   "timestamp": "2019-03-27T17:05:02.000Z"
+  },
+  "gsh_adoria/sound/break/pd_metal2.wav": {
+   "bytes": 70722,
+   "sha256": "ce8250482e831c270cc3c8e9211b74a627b3e29159c2c8ee720dd11cafd365c1",
+   "timestamp": "2019-03-27T17:47:12.000Z"
+  },
+  "gsh_adoria/sound/break/pd_stones1.wav": {
+   "bytes": 75150,
+   "sha256": "632d15db23ff70c23c199595b41a153ded67f664de46b7d0cbfa0228f071156e",
+   "timestamp": "2019-03-27T16:43:52.000Z"
+  },
+  "gsh_adoria/sound/break/pd_wood1.wav": {
+   "bytes": 34526,
+   "sha256": "621865f52fc27fb10108027ce3eea18aaf17181751a3ba1ceee0c9c99da9f375",
+   "timestamp": "2019-03-27T14:49:08.000Z"
+  },
+  "gsh_adoria/sound/break/pd_wood2.wav": {
+   "bytes": 33342,
+   "sha256": "77282f2c533b9aec72b232aace9078534db3f255f418efafdf769c7361a28e05",
+   "timestamp": "2019-03-27T14:47:40.000Z"
+  },
+  "gsh_adoria/sound/dump/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:32:02.000Z"
+  },
+  "gsh_adoria/sound/dump/elec22k.wav": {
+   "bytes": 82784,
+   "sha256": "dd63a8517e33bbe7a75cd0d6ccb16835b73f83af8d31c0ae0277b7304f7d502b",
+   "timestamp": "2019-05-28T01:37:32.000Z"
+  },
+  "gsh_adoria/sound/dump/rumble.wav": {
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+   "timestamp": "2019-05-31T19:51:26.000Z"
+  },
+  "gsh_adoria/sound/dump/spark.wav": {
+   "bytes": 14684,
+   "sha256": "55ba43047ffc794bc65b1002b351b3a13bc271346cb060e01c093f56dd960e7f",
+   "timestamp": "2019-06-03T21:21:06.000Z"
+  },
+  "gsh_adoria/sound/dump/water_59_02.wav": {
+   "bytes": 47588,
+   "sha256": "497d1f4ed49567058da6e2618097a06c947f8131a8205f2c9c09219296780cad",
+   "timestamp": "2018-10-01T22:43:54.000Z"
+  },
+  "gsh_adoria/sound/guns/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-09T23:06:46.000Z"
+  },
+  "gsh_adoria/sound/guns/acden1.wav": {
+   "bytes": 44148,
+   "sha256": "14b843c96612112309203bb50935d1bc6eb67cbed8f9ecd17452fe68b56da6c5",
+   "timestamp": "2019-10-06T15:20:08.000Z"
+  },
+  "gsh_adoria/sound/guns/captlog.wav": {
+   "bytes": 308846,
+   "sha256": "b540632a5eed98e895d40d8c6560eb41aaf557019e860c2b65fd4dae43cb7d67",
+   "timestamp": "2020-03-23T19:54:08.000Z"
+  },
+  "gsh_adoria/sound/guns/cardmiss.wav": {
+   "bytes": 92784,
+   "sha256": "d533b9e571fe67b3d44c70cb2e5d311b3e395e50e8103d3060d842ad5900086b",
+   "timestamp": "2020-03-23T19:55:06.000Z"
+  },
+  "gsh_adoria/sound/guns/exitvoice.wav": {
+   "bytes": 261418,
+   "sha256": "12f6077079c1c6cfcc822eda9c63eabc9eda9c1ff3d16fdbe71f1c8397f9727a",
+   "timestamp": "2020-03-23T19:55:54.000Z"
+  },
+  "gsh_adoria/sound/guns/falsealarm.wav": {
+   "bytes": 189548,
+   "sha256": "441910658c8ce73a83433ec6b75f02b780371dc66a54230d45f5bd5d42543a3b",
+   "timestamp": "2019-12-03T22:42:34.000Z"
+  },
+  "gsh_adoria/sound/guns/gen1.wav": {
+   "bytes": 104450,
+   "sha256": "409100f9c38b1c4d68300b9db81ac6aa5281644a6b4de14006b4074f8caff377",
+   "timestamp": "2019-12-04T17:49:10.000Z"
+  },
+  "gsh_adoria/sound/guns/gen2.wav": {
+   "bytes": 90790,
+   "sha256": "0ac11f8ddf702c9969bacd11a1063276df0112cf4342168e35f0182315edbb61",
+   "timestamp": "2019-12-04T17:49:32.000Z"
+  },
+  "gsh_adoria/sound/guns/gen3.wav": {
+   "bytes": 90566,
+   "sha256": "114f3499c59d236cde6fa81df0f810f37a43d3aa5e582e7d1d12ea0fea872649",
+   "timestamp": "2019-12-04T17:48:48.000Z"
+  },
+  "gsh_adoria/sound/guns/gendown.wav": {
+   "bytes": 110648,
+   "sha256": "d18ac14fb68de0f752558127e69432bc89e486d4ad9e6206ce7dd1975cfd9817",
+   "timestamp": "2019-12-04T17:52:10.000Z"
+  },
+  "gsh_adoria/sound/guns/keyb1.wav": {
+   "bytes": 14988,
+   "sha256": "ca5da261d9562f39a085e6bb2c9db93d40e7727ab71dc6e65430e7a352c7ef88",
+   "timestamp": "2020-02-04T20:22:48.000Z"
+  },
+  "gsh_adoria/sound/guns/landing.wav": {
+   "bytes": 159546,
+   "sha256": "ad248804dc88563222f54625a7cc1b24b7b0869266e74230fff2497a9abdff32",
+   "timestamp": "2019-05-13T20:40:54.000Z"
+  },
+  "gsh_adoria/sound/guns/narat1.wav": {
+   "bytes": 551396,
+   "sha256": "08a16cc36d7ff608d093577bd8b6010ab0f14d100f2f762a28aed870611a3a35",
+   "timestamp": "2020-01-14T19:09:00.000Z"
+  },
+  "gsh_adoria/sound/guns/narat2.wav": {
+   "bytes": 242696,
+   "sha256": "0a440158c5ad608bd4fe6be7ae1a443ec540dd1fa0942a82f246d550cea0e948",
+   "timestamp": "2020-01-14T19:09:18.000Z"
+  },
+  "gsh_adoria/sound/guns/narat3.wav": {
+   "bytes": 110396,
+   "sha256": "8dfa8e243715da1c5fe83050a16af5f8b5c424c3f4c2b432d9eef13279f257f1",
+   "timestamp": "2020-01-14T19:09:56.000Z"
+  },
+  "gsh_adoria/sound/guns/narat4.wav": {
+   "bytes": 286796,
+   "sha256": "f7972145003d5d33a1911ff44ebc7be381da2be355e9700a0049e27420d5b504",
+   "timestamp": "2020-01-14T19:10:08.000Z"
+  },
+  "gsh_adoria/sound/guns/narat5.wav": {
+   "bytes": 450334,
+   "sha256": "48ad42fbdbbce155897ef651af19dbc4c1280a66eca58de7fd9792d7f6dca269",
+   "timestamp": "2020-01-14T19:10:30.000Z"
+  },
+  "gsh_adoria/sound/guns/narat6.wav": {
+   "bytes": 490758,
+   "sha256": "99c2e34cf13540906763c995801ecbe9ca12b721409907467a2a2273830faa16",
+   "timestamp": "2020-01-14T19:10:40.000Z"
+  },
+  "gsh_adoria/sound/guns/narat7.wav": {
+   "bytes": 286796,
+   "sha256": "b5a5028aba3334ce94f9e6e3fc448d8bba3c643dec82d304325d2ff5c98f856b",
+   "timestamp": "2020-01-14T19:10:50.000Z"
+  },
+  "gsh_adoria/sound/guns/narat8.wav": {
+   "bytes": 184026,
+   "sha256": "5a50385fa76104542a9964d35cba97ff8f05d883fbb8f9d3ab87ba42513fcaaf",
+   "timestamp": "2020-03-23T20:03:24.000Z"
+  },
+  "gsh_adoria/sound/guns/narat9.wav": {
+   "bytes": 198690,
+   "sha256": "c6b90f471ba991c8a2be0dc8fb87767cf90f08d9a8489024c4bcb111644495b7",
+   "timestamp": "2020-03-23T20:03:16.000Z"
+  },
+  "gsh_adoria/sound/guns/prisontalk.wav": {
+   "bytes": 1047668,
+   "sha256": "a1489d33ff5d9a3893022ca6aec429343c23329372d98d48da590e891c341788",
+   "timestamp": "2020-02-17T23:16:52.000Z"
+  },
+  "gsh_adoria/sound/guns/prit.wav": {
+   "bytes": 1047668,
+   "sha256": "a1489d33ff5d9a3893022ca6aec429343c23329372d98d48da590e891c341788",
+   "timestamp": "2020-02-17T23:16:52.000Z"
+  },
+  "gsh_adoria/sound/guns/quakedoors.wav": {
+   "bytes": 1308990,
+   "sha256": "6bf5ddddc62dfa2920b7c5e3ebb8ca51917d36a92636301726b40ffabd72d35e",
+   "timestamp": "2020-01-28T10:18:26.000Z"
+  },
+  "gsh_adoria/sound/guns/quakemother.wav": {
+   "bytes": 154644,
+   "sha256": "6806ded2ea0050873ed8cff7c936c71303032ea0178c55184af4907304997704",
+   "timestamp": "2020-02-05T23:15:22.000Z"
+  },
+  "gsh_adoria/sound/guns/quaketape2.wav": {
+   "bytes": 1356220,
+   "sha256": "d8203a0864ee07a54c626080c3a1d84b6913d46fddd8740f441a48f56c365158",
+   "timestamp": "2020-10-12T21:11:10.000Z"
+  },
+  "gsh_adoria/sound/guns/quakevoice1.wav": {
+   "bytes": 86542,
+   "sha256": "3913642391efbb30af2cf101643ecbc5b2d64c862957c7fc0f509306b96cee13",
+   "timestamp": "2020-10-12T19:50:50.000Z"
+  },
+  "gsh_adoria/sound/guns/quakevoice2.wav": {
+   "bytes": 135724,
+   "sha256": "a6c323c87150e5ffd3a2388e021622c2534b7bac31169f86d44816a2a58a9cff",
+   "timestamp": "2020-10-12T19:49:40.000Z"
+  },
+  "gsh_adoria/sound/guns/quakevoice3.wav": {
+   "bytes": 118854,
+   "sha256": "16925713f5309a91ae3b28040f37c9e6182b79fd58b5679dfa8ec78462f68c45",
+   "timestamp": "2020-10-12T19:51:40.000Z"
+  },
+  "gsh_adoria/sound/guns/recycfood.wav": {
+   "bytes": 176694,
+   "sha256": "09bb94d105c4a42d0dc6e65fc0c04b293534afddcf7d6db2a2fbd9b2e933be3d",
+   "timestamp": "2020-01-28T23:07:22.000Z"
+  },
+  "gsh_adoria/sound/guns/redalert.wav": {
+   "bytes": 13020,
+   "sha256": "86068df9ceed3ce784f73b10103f8a2357725a97db4d74fdaee38d0ae21e8466",
+   "timestamp": "2019-10-30T20:43:00.000Z"
+  },
+  "gsh_adoria/sound/guns/shaabsrecord.wav": {
+   "bytes": 1575984,
+   "sha256": "9e1f16a7d7dffe6b830627971ed958a22e7c14aea29f21688cebe6491f80ae32",
+   "timestamp": "2020-02-04T20:25:10.000Z"
+  },
+  "gsh_adoria/sound/guns/shake.wav": {
+   "bytes": 595512,
+   "sha256": "97d3075a77b397ea9819b32ccc01a6c22945a30389a3e3ec9df6efe66d7b0c24",
+   "timestamp": "2020-02-25T19:24:22.000Z"
+  },
+  "gsh_adoria/sound/guns/shipint.wav": {
+   "bytes": 2543860,
+   "sha256": "486624c35497ed22b75b02465a2e531cd16d97420e309abe9366ddd65859ec25",
+   "timestamp": "2020-01-14T19:12:52.000Z"
+  },
+  "gsh_adoria/sound/guns/shower.wav": {
+   "bytes": 1325634,
+   "sha256": "835352dc4b1df8648ebe97d325cd108842aae408389d640a9b38a6d41149e7ee",
+   "timestamp": "2020-03-09T23:32:34.000Z"
+  },
+  "gsh_adoria/sound/guns/startengine.wav": {
+   "bytes": 721060,
+   "sha256": "ebfc16d6b3d77ca9f497e7dad2655f85adbe70e7650e80343cf1c3256aad992c",
+   "timestamp": "2020-04-06T21:20:32.000Z"
+  },
+  "gsh_adoria/sound/guns/toilet.wav": {
+   "bytes": 228176,
+   "sha256": "718fad8ecc677a3dc32c379ff4789a0415b1d616193cfa38d331d6c5c35a8a1e",
+   "timestamp": "2019-05-16T20:46:22.000Z"
+  },
+  "gsh_adoria/sound/guns/travelltom.wav": {
+   "bytes": 970346,
+   "sha256": "de400c31c35da73b997df2b53b0c7a15357d7485786efdd5d54be86716ab9761",
+   "timestamp": "2020-02-25T19:22:14.000Z"
+  },
+  "gsh_adoria/sound/guns/uacjob2.wav": {
+   "bytes": 111056,
+   "sha256": "b06a749f055459679591a877f4ddb56aea67dc7a4f26e03224a5362fecb2d795",
+   "timestamp": "2019-10-05T15:23:50.000Z"
+  },
+  "gsh_adoria/sound/guns/veganfd.wav": {
+   "bytes": 167868,
+   "sha256": "9ba8fb57e7b3465bee7ef028ffc4f84f5f6d7ea84f1b17a138a063507fce9432",
+   "timestamp": "2020-02-05T19:03:44.000Z"
+  },
+  "gsh_adoria/sound/guns/welc2b11.wav": {
+   "bytes": 33222,
+   "sha256": "7a6cf76b943128f9f1ac86de5658bbbaf47edc407ebc0374ee10587f2745baeb",
+   "timestamp": "2019-01-16T22:16:54.000Z"
+  },
+  "gsh_adoria/sound/oldone2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-29T20:32:02.000Z"
+  },
+  "gsh_adoria/sound/oldone2/pd_pop2.wav": {
+   "bytes": 42108,
+   "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
+   "timestamp": "2020-01-02T15:39:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "e2efb10efeb36af3d4b6b9e1ddeac537c8bb9b4773f701a1c1e8317785cad419",
+ "tags": [
+  "author=GunSgtHighway",
+  "bsp_format=bsp2",
+  "commandline=-heapsize 512000 -game gsh_adoria",
+  "exceeds_quake_limits=yes",
+  "filename=gsh_adoria.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61993)",
+  "link=[Screenshot 1](http://www.quaketastic.com/files/gsh_adoria/scr_prev/a1.jpg)",
+  "link=[Screenshot 2](http://www.quaketastic.com/files/gsh_adoria/scr_prev/a2.jpg)",
+  "link=[Screenshot 3](http://www.quaketastic.com/files/gsh_adoria/scr_prev/a3.jpg)",
+  "link=[Screenshot 4](http://www.quaketastic.com/files/gsh_adoria/scr_prev/a4.jpg)",
+  "link=[Smaller skybox](http://www.quaketastic.com/files/texture_wads/andoria_smaller_skybox.zip)",
+  "link=[Trailer](https://www.youtube.com/watch?v=iYw9XtcLhxg)",
+  "map_size=large",
+  "music=custom",
+  "nonspecific_tag=hangar",
+  "nonspecific_tag=progs_dump",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=sounds",
+  "nonspecific_tag=spaceship",
+  "nonspecific_tag=textures",
+  "nonspecific_tag=uac",
+  "release_date=2020-12-17",
+  "source=included",
+  "startmap=adoria_pt1",
+  "startmap=start",
+  "theme=base",
+  "theme=doom",
+  "theme=realism",
+  "theme=space",
+  "title=Adoria",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/gsh_adoria.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e2efb10efeb36af3d4b6b9e1ddeac537c8bb9b4773f701a1c1e8317785cad419/gsh_adoria.zip"
+ ]
+}

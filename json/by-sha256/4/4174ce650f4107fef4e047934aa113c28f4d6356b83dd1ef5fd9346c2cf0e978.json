@@ -1,35 +1,290 @@
 {
- "filename": [
-  "hrim_sp1.zip"
- ],
+ "bytes": 3722,
  "files": {
   "Hrim_sp1.txt": {
-   "size": 7976,
+   "bytes": 7976,
+   "sha256": "edc435a9720cf838a3b7dd728725c5a673a486f525f9631131e67b1624a569a2",
    "timestamp": "2003-04-10T02:34:08.000Z"
   },
   "pak0.pak": {
-   "size": 8745383,
+   "bytes": 8745383,
+   "files": {
+    "maps/hrim_sp1.bsp": {
+     "bytes": 5624208,
+     "sha256": "1cd37d9deb28bfc4dd5079e33a94e1b10a0f8b16b9984abd783016c62efd469e"
+    },
+    "progs.dat": {
+     "bytes": 657288,
+     "sha256": "ca0cc005dbc98fdd9de749373564ae6311cd96bcfcfba4ee1708bdcc683fb914"
+    },
+    "progs/dragon.mdl": {
+     "bytes": 207552,
+     "sha256": "ba9c6ce0d14b2e42c891da0b195c7801d1a1bf3534ee599edb243c3d385c4b0b"
+    },
+    "progs/drggib01.mdl": {
+     "bytes": 36550,
+     "sha256": "2dcce0ee000aa827fb4a621ce94ca5d325ef1df7ebc16aff876eeea523b90083"
+    },
+    "progs/drggib02.mdl": {
+     "bytes": 42788,
+     "sha256": "03801327858a4df0312f5b1ec231b2396487c5a1c2e148bf1797945c0f954151"
+    },
+    "progs/drggib03.mdl": {
+     "bytes": 30740,
+     "sha256": "b3c8a344124ff5b1c95bb81b887546267e066d40914ab40a25e708ebbec2a489"
+    },
+    "progs/fireball.mdl": {
+     "bytes": 9076,
+     "sha256": "8b9cef5c7ebff01a836d056eeee45278cfbb91c92dc4bba4d4a8d664e8d99b32"
+    },
+    "progs/grem.mdl": {
+     "bytes": 150616,
+     "sha256": "bdc4443c3a0d0bb30b4302bb7b1d9759344690c6148bea08a747436191325763"
+    },
+    "progs/h_boss.mdl": {
+     "bytes": 61060,
+     "sha256": "30bf06acfcb3b32bf8f940187e712e87355fc7d8cc5ba8f36c128774cf20846d"
+    },
+    "progs/h_grem.mdl": {
+     "bytes": 15380,
+     "sha256": "b6b3713105cedd0f6cef824ebf2bb994503bc2769c4b4177994393f88bb2bae5"
+    },
+    "progs/h_hellkn.mdl": {
+     "bytes": 30552,
+     "sha256": "d1556063b3a932b3b26375e5789c911cae76aef39ec2550a7e1d82d0cad832a9"
+    },
+    "progs/h_imp.mdl": {
+     "bytes": 22780,
+     "sha256": "5d561fbf497c040194b6f7eb0541283a9b57658b9f243cf82e78ff6eb9dbba66"
+    },
+    "progs/h_knight.mdl": {
+     "bytes": 13400,
+     "sha256": "464825291ecfd070153877ee4a7fa83f97379b2cb9871b4609979161d926ba0c"
+    },
+    "progs/h_ogre.mdl": {
+     "bytes": 28888,
+     "sha256": "2c0a6d80c28b94c335164561cb07ab95fef251ae52562686ca422f565394cabb"
+    },
+    "progs/hknight.mdl": {
+     "bytes": 275836,
+     "sha256": "ff5e8e7e0339d70fa0edca83a0d082cfc934ae6f60bbbd8f310f32c438646485"
+    },
+    "progs/imp.mdl": {
+     "bytes": 377028,
+     "sha256": "dba84c4742f403dc6335341d1743433e7632b9b435c817ae521d90bfb53f0bfc"
+    },
+    "progs/knight.mdl": {
+     "bytes": 208068,
+     "sha256": "3d78003704446856390cb38df9e7d9fa4847b53e68914b8300b06412ca6f08f0"
+    },
+    "progs/ogre.mdl": {
+     "bytes": 213256,
+     "sha256": "2bd7b6633d2c95627cca8b216ad2c84057e800778a94e0fa97f3a14f86420732"
+    },
+    "progs/rireball.mdl": {
+     "bytes": 10140,
+     "sha256": "820612feb9912c6c03dd27210d6fbe5e3d01d631fe229f61a4ac490a62b2eb90"
+    },
+    "progs/rubble1.mdl": {
+     "bytes": 17204,
+     "sha256": "ad7c35515ed5eb99daa117499b1fa75050fec4dcfd9fceea68fc84f0751a259d"
+    },
+    "progs/rubble2.mdl": {
+     "bytes": 18500,
+     "sha256": "8d96f07382a6cf988fd01a37d2e640aa77741b73177f44642c38d4b7d2f87d51"
+    },
+    "progs/rubble3.mdl": {
+     "bytes": 17012,
+     "sha256": "21e37e54e18f642f876dd689e967b277adebd9b847e306805d357f5df1b2514f"
+    },
+    "progs/statgib1.mdl": {
+     "bytes": 6501,
+     "sha256": "6f05c4e70092f782e1948e6d7815a9b6bb9d4df5e22d65431cf00d204048765f"
+    },
+    "progs/statgib2.mdl": {
+     "bytes": 16228,
+     "sha256": "f7e96c3c511b0cac8939aa75fa8fb512dac252252710b1421a9a0624670169c5"
+    },
+    "progs/statgib3.mdl": {
+     "bytes": 22228,
+     "sha256": "eef48ccea13117f123b286276a5d250980657ca016f8dd6cce28e541b0360ed4"
+    },
+    "progs/tree2.mdl": {
+     "bytes": 112335,
+     "sha256": "82a16b3ce4e9370f0ff4231506da2cdd53d0596193862747f84a3f04ec481d2a"
+    },
+    "progs/treebush.mdl": {
+     "bytes": 52279,
+     "sha256": "00b4f4d3f8c7562f0d2d1699fe1f85a242b3d25d935c693265ea858e6e758173"
+    },
+    "sound/dragon/death.wav": {
+     "bytes": 18358,
+     "sha256": "645baa1cccaf1dfbcd628d17fd8ea290f42f1bc40903e26c79a536a6d1528a2a"
+    },
+    "sound/dragon/death2.wav": {
+     "bytes": 16944,
+     "sha256": "0fe255bd36c64acf75a53b97851b995517e70468b3818ff0ccecc4c7be5fc055"
+    },
+    "sound/dragon/fire.wav": {
+     "bytes": 11998,
+     "sha256": "a2a678fa4485af0e45edcaba632f0a0248f0f65802f02f10ab0a83ce428b0872"
+    },
+    "sound/dragon/firehit.wav": {
+     "bytes": 6294,
+     "sha256": "09c55af058e624be74d806eb4826a334db038cc2d4410140b80effb160210dcc"
+    },
+    "sound/dragon/idle.wav": {
+     "bytes": 12252,
+     "sha256": "161fccc2acb1040d7dcad116f18eb795cc03f4d96ee8a94ba37440cde33e6f24"
+    },
+    "sound/dragon/idle2.wav": {
+     "bytes": 13848,
+     "sha256": "e71858c4de3e9ddcad1cba4ec0a6f5ec437b06c813b263ec73f853846d15a984"
+    },
+    "sound/dragon/idlefly.wav": {
+     "bytes": 5596,
+     "sha256": "f4b73e9887a6920bb9247bc4c121d369d4cf4881ae2a21f5176f289b430081e9"
+    },
+    "sound/dragon/niteact.wav": {
+     "bytes": 18808,
+     "sha256": "17a1141f43c4953685b828db18b131c463583999f0d9bc621d8cc35746a5e4fc"
+    },
+    "sound/dragon/niteact2.wav": {
+     "bytes": 17916,
+     "sha256": "bfc89fc5f307448536e87ac1bc235e2959c9c042d58ab71fc55bd52c294fc4db"
+    },
+    "sound/dragon/nitepain.wav": {
+     "bytes": 12683,
+     "sha256": "d4624392b9c5717a91a3d7c51b43a01df949d89878eb7103ce747e26ca0aa126"
+    },
+    "sound/dragon/pain.wav": {
+     "bytes": 8376,
+     "sha256": "5c41f639d3d59cb12cf8c37f2f80279ed4268ce9afadd7f36d26b4fa40664ada"
+    },
+    "sound/dragon/pain2.wav": {
+     "bytes": 6496,
+     "sha256": "0017ddb63a5dc282982c7459099c810d7c6d9bc3ecb9acef5b5228795a92cc7d"
+    },
+    "sound/dragon/sight.wav": {
+     "bytes": 27557,
+     "sha256": "b904bc59e7a4aafae9db8171a8274ddd6b9ce126b4d9ca1a3ccff8aaf84a8c84"
+    },
+    "sound/dragon/sight2.wav": {
+     "bytes": 15205,
+     "sha256": "197238a35261e6792c40a4da38ba7b3827116ac1af5f143e092768346605b470"
+    },
+    "sound/dragon/spawn.wav": {
+     "bytes": 12666,
+     "sha256": "fc495cd1155d4f93594e24ef087dd46244955053c1babf673a14d7b4825b68d6"
+    },
+    "sound/dragon/spit.wav": {
+     "bytes": 12477,
+     "sha256": "ccac1dc5e6edb11092237e24e0749b91f31ce7deb5b63f71791199db67c22314"
+    },
+    "sound/dragon/thunder.wav": {
+     "bytes": 14764,
+     "sha256": "b30e18bbc0a12db2032fa95d5d0504ea63eaa13b3bea34e3b42ec59f3ca4d815"
+    },
+    "sound/grem/attack.wav": {
+     "bytes": 4326,
+     "sha256": "4bc0f357667de80b3562455b04f9b73399082ec0d04200b2c7b8792de78e24a3"
+    },
+    "sound/grem/death.wav": {
+     "bytes": 15470,
+     "sha256": "198003ef0624e9cf184c16eb96a715ccdb741100bfa4ace4f70dbe7eb4d91247"
+    },
+    "sound/grem/idle.wav": {
+     "bytes": 11622,
+     "sha256": "ea7aec1e3e3d18c22848624b1afc24a58f8e4df60a039a96b18a4de0579634d4"
+    },
+    "sound/grem/pain1.wav": {
+     "bytes": 3078,
+     "sha256": "1d909972c66b8e67f50867c141cbbb55796cfcda7314811b40e18f725e39256d"
+    },
+    "sound/grem/pain2.wav": {
+     "bytes": 4068,
+     "sha256": "ddb2935dcb951f8d3c381657a04e26c4df742cb0cb8e08a39e94ec7c402d0323"
+    },
+    "sound/grem/pain3.wav": {
+     "bytes": 3318,
+     "sha256": "88cb89b31186d7183a09867cc4ab244519c7f9184e391cb39edb6d10e021f2ac"
+    },
+    "sound/grem/sight1.wav": {
+     "bytes": 12606,
+     "sha256": "c20f1f90cbb72dfa80bef8d845a76c2772b55235970bc7d801af57ad34351877"
+    },
+    "sound/imp/death.wav": {
+     "bytes": 8448,
+     "sha256": "a8b0e037b88829b978d3dbd3d5e657c7f775c73662d554f6247a387ba333d4bb"
+    },
+    "sound/imp/fist.wav": {
+     "bytes": 5492,
+     "sha256": "6362b59ded89655fa8b8877ed2639eca1a7aae1847306bbc3843fa98bedcbdaf"
+    },
+    "sound/imp/pain.wav": {
+     "bytes": 10842,
+     "sha256": "100eacded51635de912cee171f093e869d24589c44f68887497fe751cf9b1e4d"
+    },
+    "sound/imp/up.wav": {
+     "bytes": 12500,
+     "sha256": "874b533da43f713a1be27fbccadda8b6392fa8e689c8c4d17dac4b0d380f5822"
+    },
+    "sound/misc/quake.wav": {
+     "bytes": 53068,
+     "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a"
+    },
+    "sound/misc/quakeend.wav": {
+     "bytes": 8160,
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01"
+    },
+    "sound/statue/death.wav": {
+     "bytes": 13472,
+     "sha256": "b030aeac3d806bc77fddaed4bb32684cfd2bbd707fe85e2500a3346c5931ec68"
+    },
+    "sound/statue/idle.wav": {
+     "bytes": 17722,
+     "sha256": "3567914304c8fcf224e31bc302039432cd17833daabc2ed9f83053b01fef4f7c"
+    },
+    "sound/statue/pain.wav": {
+     "bytes": 8012,
+     "sha256": "9193f4e976675042409db103f7e3b26f667a56e913e96a37f223f1c606323246"
+    },
+    "sound/statue/see.wav": {
+     "bytes": 6664,
+     "sha256": "58ca56c21040117cd37c99b648af0195f70a51d0d03ba5665e5f8981d8de255c"
+    },
+    "sound/wall/wall01.wav": {
+     "bytes": 32804,
+     "sha256": "c338c95767dded603a1a69100c1af0baab42959eaae856f6cab99ffbd140b727"
+    }
+   },
+   "sha256": "077091c20cd11010caeece2c577ed9e1119866f273f5af63a02fdd69d10a5d04",
    "timestamp": "2003-04-11T09:58:14.000Z"
   }
  },
- "filesize": 3722,
  "install": {
-  "extract": "{quake}/hrim_sp1/"
+  "extract": "{base}/hrim_sp1/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4174ce650f4107fef4e047934aa113c28f4d6356b83dd1ef5fd9346c2cf0e978",
  "tags": [
   "author=Hrimfaxi",
   "commandline=-game hrim_sp1",
+  "filename=hrim_sp1.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.hrimfaxi.dk",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev030414.html)",
-  "releasedate=2003-04-11",
-  "tag=dragon",
-  "tag=large",
-  "tag=metal",
-  "tag=monsters",
-  "tag=runic",
-  "title=Frying obstacles"
+  "map_size=large",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=multiple exits",
+  "release_date=2003-04-11",
+  "theme=dragon",
+  "theme=metal",
+  "theme=runic",
+  "theme=super secret",
+  "title=Frying obstacles",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hrim_sp1.zip",

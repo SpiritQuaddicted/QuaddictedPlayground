@@ -1,36 +1,38 @@
 {
- "filename": [
-  "outpost2.zip"
- ],
+ "bytes": 853,
  "files": {
   "Outpost.txt": {
-   "size": 1911,
+   "bytes": 1911,
+   "sha256": "abbf632f0172b3d8b86e6061304fc39d1cb53dc3cc4b3aa42708b85dee190bcb",
    "timestamp": "1997-09-10T19:39:02.000Z"
   },
   "outpost.bsp": {
-   "size": 1972296,
+   "bytes": 1972296,
+   "sha256": "b559a62280b6006999a91de73511826396f2ef737c0af2aad6e68aea09c13923",
    "timestamp": "1997-03-11T23:27:12.000Z"
   }
  },
- "filesize": 853,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "16eb0535906162df08b0e8549283e365a89cdbb98cf45ebc1e0b99489f9deafb",
  "tags": [
   "author=Benson \"El-Magoo\" Russell",
+  "filename=outpost2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelso.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/j_l.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1997-09-10",
+  "release_date=1997-09-10",
   "startmap=outpost",
-  "tag=castle",
-  "tag=medieval",
-  "title=The Keldjoran Outpost"
+  "theme=castle",
+  "theme=medieval",
+  "title=The Keldjoran Outpost",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/outpost2.zip",

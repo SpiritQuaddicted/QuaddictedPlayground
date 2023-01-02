@@ -1,35 +1,37 @@
 {
- "filename": [
-  "flecksp1.zip"
- ],
+ "bytes": 516,
  "files": {
   "flecksp1.bsp": {
-   "size": 1315616,
+   "bytes": 1315616,
+   "sha256": "9b256aa2cd4bd5a731723b774ec57e50cc3e4d282ee46120b22bdefedb976c85",
    "timestamp": "2004-03-12T14:31:34.000Z"
   },
   "flecksp1.txt": {
-   "size": 1158,
+   "bytes": 1158,
+   "sha256": "03ac51e4f57069d446685666df6a50876763252a7c2db8ac0a231dfb454bdb99",
    "timestamp": "2004-03-12T14:49:40.000Z"
   }
  },
- "filesize": 516,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "217c0c1d31d9946327719a0bcfffa5db1fda0822c2b0b15acfe90dfae4a69a9e",
  "tags": [
   "author=Justin Fleck",
+  "filename=flecksp1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev040318.html)",
-  "releasedate=2004-03-12",
-  "tag=bw",
-  "tag=hard",
-  "tag=medium",
-  "tag=metal",
-  "tag=speedrunning",
-  "tag=textures",
-  "title=Azure Influx"
+  "map_size=medium",
+  "nonspecific_tag=bw",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=textures",
+  "playstyle=speedrunning",
+  "release_date=2004-03-12",
+  "theme=metal",
+  "title=Azure Influx",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/flecksp1.zip",

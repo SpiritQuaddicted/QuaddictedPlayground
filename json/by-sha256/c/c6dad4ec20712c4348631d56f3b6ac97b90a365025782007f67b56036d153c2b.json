@@ -1,46 +1,51 @@
 {
- "filename": [
-  "sm49_pack.zip"
- ],
+ "bytes": 1819,
  "files": {
   "sm49_daz.bsp": {
-   "size": 987728,
+   "bytes": 987728,
+   "sha256": "6bc424b07de4cbc53630b9e0fc3f8e2fb817972e5240a05f97c3fcb73bd416d5",
    "timestamp": "2003-09-13T23:38:36.000Z"
   },
   "sm49_ewerd.bsp": {
-   "size": 192520,
+   "bytes": 192520,
+   "sha256": "a4461408895bb36927ddc5b316cdc0388e2b7fde99d8171c0dcf18d8aab3e11e",
    "timestamp": "2003-09-13T19:21:00.000Z"
   },
   "sm49_harb.bsp": {
-   "size": 762412,
+   "bytes": 762412,
+   "sha256": "2e5baff52af678c8ae53349cea0e0ef5c3df20f59203cc7546654e2de51d9ee1",
    "timestamp": "2003-09-14T00:32:42.000Z"
   },
   "sm49_metl.bsp": {
-   "size": 628696,
+   "bytes": 628696,
+   "sha256": "9a2ae494a78a645fa1b33f61d740cc5321795268f044c218af6a71ace4dc96f4",
    "timestamp": "2003-09-13T16:52:24.000Z"
   },
   "sm49_pack.txt": {
-   "size": 2108,
+   "bytes": 2108,
+   "sha256": "299245f86e6555b42bd65f00cf28c2bbd9925d35927e4d9a18733350c3cfcc8d",
    "timestamp": "2001-09-13T20:45:00.000Z"
   },
   "sm49_ray.bsp": {
-   "size": 832660,
+   "bytes": 832660,
+   "sha256": "5a558c124cac09351b568ee13f97e073f540d09bd64a10edcbe8b8a3e621c645",
    "timestamp": "2003-09-13T19:54:20.000Z"
   },
   "sm49_scampie.bsp": {
-   "size": 292116,
+   "bytes": 292116,
+   "sha256": "484347d41a737f8f34cd641529fb30b03b8c87da8965b8199279b142a2caa238",
    "timestamp": "2001-09-13T19:36:06.000Z"
   },
   "sm49_starbuck.bsp": {
-   "size": 1138848,
+   "bytes": 1138848,
+   "sha256": "8868d0f6d5f6b0d0c59e914cf0b95feeffbca27c7b34e568aaa4dc857ef78678",
    "timestamp": "2003-09-14T01:16:00.000Z"
   }
  },
- "filesize": 1819,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c6dad4ec20712c4348631d56f3b6ac97b90a365025782007f67b56036d153c2b",
  "tags": [
   "author=DaZ",
@@ -50,9 +55,16 @@
   "author=NotoriousRay",
   "author=Scampie",
   "author=Starbuck",
+  "filename=sm49_pack.zip",
   "game=quake",
-  "link=[Func](http://celephais.net/board/view_thread.php?id=7143)",
-  "releasedate=2003-09-14",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=7143)",
+  "nonspecific_tag=funny-bad",
+  "nonspecific_tag=hotdog",
+  "nonspecific_tag=hotdoh",
+  "nonspecific_tag=joke",
+  "nonspecific_tag=parody",
+  "release_date=2003-09-14",
   "startmap=sm49_daz",
   "startmap=sm49_ewerd",
   "startmap=sm49_harb",
@@ -60,11 +72,8 @@
   "startmap=sm49_ray",
   "startmap=sm49_scampie",
   "startmap=sm49_starbuck",
-  "tag=funny-bad",
-  "tag=hotdog",
-  "tag=hotdoh",
-  "tag=parody",
-  "title=Speedmapping pack 49 - Crappy maps"
+  "title=Speedmapping pack 49 - Crappy maps",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm49_pack.zip",

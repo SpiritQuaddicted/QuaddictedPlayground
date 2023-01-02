@@ -1,45 +1,50 @@
 {
- "filename": [
-  "redrum.zip"
- ],
+ "bytes": 653,
  "files": {
   "RR.jpg": {
-   "size": 15546,
+   "bytes": 15546,
+   "sha256": "796b8aeeb36e8f30ce0edc91dfd248e4af17798e2ab0e5d5a2bfc267e5020c80",
    "timestamp": "1997-07-20T20:27:58.000Z"
   },
   "RR2.jpg": {
-   "size": 10958,
+   "bytes": 10958,
+   "sha256": "b41028b79fc9291633d961c4e4593a37813184ad7b53e84bc9d7a81d19081cc4",
    "timestamp": "1997-07-20T20:27:50.000Z"
   },
   "RR3.jpg": {
-   "size": 14833,
+   "bytes": 14833,
+   "sha256": "207c4f1aa10c76a4adf55a47fc3d016402c9ade2b7dda31be5d3bc1c37c113a7",
    "timestamp": "1997-07-20T20:26:54.000Z"
   },
   "redrum.bsp": {
-   "size": 1694888,
+   "bytes": 1694888,
+   "sha256": "1e4ecf5dbaadd7f602aaefe8dd58f6983af408f3e4367efc037d6c8f83abb51a",
    "timestamp": "1997-07-03T07:48:38.000Z"
   },
   "redrum.txt": {
-   "size": 2381,
+   "bytes": 2381,
+   "sha256": "6d23601c491d959ccf68aad741fb211bb7d428c1e4fd67b64a1a7fe5f4430003",
    "timestamp": "1997-09-03T19:39:34.000Z"
   }
  },
- "filesize": 653,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "badb3fa50d2c468d5c8b106d65479f446b1796806e8607582313c5af5c3802da",
  "tags": [
   "author=Steve Wilson",
+  "filename=redrum.zip",
   "game=quake",
-  "releasedate=1997-09-03",
-  "tag=dm",
-  "tag=small",
-  "tag=textures",
-  "tag=wiard",
-  "tag=wizard",
-  "title=The Red Room"
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=textures",
+  "nonspecific_tag=wiard",
+  "release_date=1997-09-03",
+  "theme=wizard",
+  "title=The Red Room",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/redrum.zip",

@@ -1,35 +1,38 @@
 {
- "filename": [
-  "bridges_2.zip"
- ],
+ "bytes": 318,
  "files": {
   "bridges.bsp": {
-   "size": 756576,
+   "bytes": 756576,
+   "sha256": "aed2b135496ff9a2f71ccb3b1bcc39ccc668f9e7ec6c9be79361de4d729948c2",
    "timestamp": "1998-06-24T10:37:26.000Z"
   },
   "bridges.txt": {
-   "size": 615,
+   "bytes": 615,
+   "sha256": "48823c3e89621f880b0ef6a1f7f0e198745289ba15b75fcf79a92fea0d5d1dab",
    "timestamp": "1999-12-05T23:14:22.000Z"
   },
   "bridges_2_quaddictedrepack.txt": {
-   "size": 319,
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   }
  },
- "filesize": 318,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "a7b63ce7d956a3bdf3d9fc2a1179d9338bff18833ae1c74dcce8c08ab1abf0fa",
  "tags": [
   "author=George Grotans",
+  "filename=bridges_2.zip",
   "game=quake",
-  "releasedate=1999-12-05",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1999-12-05",
   "startmap=bridges",
-  "tag=lava",
-  "tag=small",
-  "title=Bridges"
+  "theme=lava",
+  "title=Bridges",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bridges_2.zip",

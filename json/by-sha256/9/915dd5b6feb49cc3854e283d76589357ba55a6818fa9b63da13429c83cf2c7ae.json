@@ -1,36 +1,39 @@
 {
- "filename": [
-  "terror.zip"
- ],
+ "bytes": 619,
  "files": {
   "terror.bsp": {
-   "size": 2009572,
+   "bytes": 2009572,
+   "sha256": "04283256bb024ba6a09204c0b818592180b1ca0876b134c2d23355b6e739b006",
    "timestamp": "2003-03-30T22:31:32.000Z"
   },
   "terror.txt": {
-   "size": 888,
+   "bytes": 888,
+   "sha256": "6b79b55bfdc2d58b6420c7c9d7448d2d89279511c21418cc93bee22fa5b1605d",
    "timestamp": "2003-05-07T20:16:28.000Z"
   }
  },
- "filesize": 619,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "915dd5b6feb49cc3854e283d76589357ba55a6818fa9b63da13429c83cf2c7ae",
  "tags": [
   "author=Dustin \"Tronyn\" Geeraert",
+  "filename=terror.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://tronyn.planetquake.gamespy.com",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=131)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=2003-05-07",
-  "tag=abstract",
-  "tag=castle",
-  "tag=coagula",
-  "tag=medieval",
-  "tag=space map",
-  "tag=terracotta",
-  "title=The Terracotta Terror"
+  "release_date=2003-05-07",
+  "theme=abstract",
+  "theme=castle",
+  "theme=coagula",
+  "theme=medieval",
+  "theme=space",
+  "theme=terracotta",
+  "title=The Terracotta Terror",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/terror.zip",

@@ -1,45 +1,50 @@
 {
- "filename": [
-  "sm47_pack.zip"
- ],
+ "bytes": 707,
  "files": {
   "sm47_necros.bsp": {
-   "size": 1026960,
+   "bytes": 1026960,
+   "sha256": "cb44ba9549cb63927d0b54065f298209524ab0a7789f37e1ec4646a50acfa5ae",
    "timestamp": "2003-08-30T20:24:16.000Z"
   },
   "sm47_necros.txt": {
-   "size": 1989,
+   "bytes": 1989,
+   "sha256": "a01b95dd00bfbec8704f7918b7e05146e41f18d37f990339cc0968c8c1cc5cfa",
    "timestamp": "2003-08-30T20:30:16.000Z"
   },
   "sm47_pack.txt": {
-   "size": 1519,
+   "bytes": 1519,
+   "sha256": "7af8b1fe4b91f7482554f5afd0c54d010a886659942074c9f3e7f7bfdf52a7d0",
    "timestamp": "2001-09-13T21:41:04.000Z"
   },
   "sm47_scampie.bsp": {
-   "size": 172800,
+   "bytes": 172800,
+   "sha256": "18e3e7c6eaa31ed28901a11dbc6edf6feacfc7c6964bf86b4dc7b2ff841f2a95",
    "timestamp": "2001-09-13T20:22:52.000Z"
   },
   "sm47_starbuck.bsp": {
-   "size": 1016152,
+   "bytes": 1016152,
+   "sha256": "4744a78bfe3ac03305a3ee71fa36fd9d409b641912aa528f4e766fe1a0bc3d94",
    "timestamp": "2003-08-31T02:22:40.000Z"
   }
  },
- "filesize": 707,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "63fab34a263a2fa817e82d7871a7ef5a80225058f1520bf9a1aa5947066db93a",
  "tags": [
   "author=Necros",
   "author=Scampie",
   "author=Starbuck",
+  "filename=sm47_pack.zip",
   "game=quake",
-  "releasedate=2003-08-31",
+  "game_mode=singleplayer",
+  "release_date=2003-08-31",
   "startmap=sm47_necros",
   "startmap=sm47_scampie",
   "startmap=sm47_starbuck",
-  "title=Speedmapping pack 47 - Unthemed"
+  "title=Speedmapping pack 47 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm47_pack.zip",

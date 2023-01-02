@@ -1,35 +1,38 @@
 {
- "filename": [
-  "nesp16.zip"
- ],
+ "bytes": 1309,
  "files": {
   "nesp16.bsp": {
-   "size": 3687408,
+   "bytes": 3687408,
+   "sha256": "3b2be37f492c6d940a38ab9340d9762920723f4ffd47e4f06b0488abf1468e74",
    "timestamp": "2004-01-25T10:40:04.000Z"
   },
   "nesp16.txt": {
-   "size": 4454,
+   "bytes": 4454,
+   "sha256": "2975ca73f267d9118cdc3df9a274218846afcf38397b2810361c883b36b16aaa",
    "timestamp": "2004-01-25T10:20:42.000Z"
   }
  },
- "filesize": 1309,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "5152922606ca8fe13c6154ec49bb92d6528c5ab99a57a2b59663dba7762314b5",
  "tags": [
   "author=necros",
+  "filename=nesp16.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://necros.planetquake.gamespy.com",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev040128.html#2ndreview)",
-  "releasedate=2004-01-25",
-  "tag=abstract",
-  "tag=experimental",
-  "tag=geocomp",
-  "tag=hard",
-  "tag=metal",
-  "tag=small",
-  "title=R_speeds be damned!"
+  "map_size=small",
+  "nonspecific_tag=geocomp",
+  "nonspecific_tag=hard",
+  "release_date=2004-01-25",
+  "theme=abstract",
+  "theme=experimental",
+  "theme=metal",
+  "title=R_speeds be damned!",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/nesp16.zip",

@@ -1,35 +1,37 @@
 {
- "filename": [
-  "ethell.zip"
- ],
+ "bytes": 155,
  "files": {
   "ETHELL.TXT": {
-   "size": 2210,
+   "bytes": 2210,
+   "sha256": "bec0eeaa8d4d165c06e35f447bc63b0a569e8c86776152c4d8b9075667e168c9",
    "timestamp": "1996-10-25T11:59:50.000Z"
   },
   "ethell.bsp": {
-   "size": 365236,
+   "bytes": 365236,
+   "sha256": "753b2b1bbd11b46b8569244c030edab9c4cb77272aa21e6164c2b24599de9fbb",
    "timestamp": "1996-10-25T11:48:26.000Z"
   }
  },
- "filesize": 155,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "60407fe802829555a49467b766726f7b329ab569e988e98f2e2e042e1c863f7c",
  "tags": [
   "author=ET",
+  "filename=ethell.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelse.htm)",
-  "releasedate=1996-10-25",
-  "tag=dark",
-  "tag=elder world",
-  "tag=small",
-  "tag=tiny",
-  "tag=traps",
-  "tag=wizard",
-  "title=Et's Level Of HELL"
+  "map_size=small",
+  "map_size=tiny",
+  "nonspecific_tag=dark",
+  "release_date=1996-10-25",
+  "theme=elder world",
+  "theme=traps",
+  "theme=wizard",
+  "title=Et's Level Of HELL",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ethell.zip",

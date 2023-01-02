@@ -1,40 +1,51 @@
 {
- "filename": [
-  "ikspq1.zip"
- ],
+ "bytes": 322,
  "files": {
   "IKSPQ1.BSP": {
-   "size": 739196,
+   "bytes": 739196,
+   "sha256": "c9e9848c141e4036061b9c9929f1436e2b2bfc3c911117d61bd3dc34891b0ff5",
    "timestamp": "1997-05-26T22:29:02.000Z"
   },
   "IKSPQ1.TXT": {
-   "size": 4458,
+   "bytes": 4458,
+   "sha256": "cf6862890e19f6b4fd60eafa584f00ec67e8cb70f05e07df4b9c19ea974dd92f",
    "timestamp": "1997-05-27T11:01:36.000Z"
   }
  },
- "filesize": 322,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "af28951822241067c7a3533ed0b2d0a9a6f5b0983d1b34deea9d951165221f8b",
  "tags": [
   "author=Iikka \"Fingers\" Ker\u00e4nen",
+  "dependency=ikspq2",
+  "dependency=ikspq3",
+  "dependency=ikspq4",
+  "dependency=ikspq5",
+  "dependency=ikstart",
+  "filename=ikspq1.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link:homepage=http://ikq.planetquake.gamespy.com",
   "link=[Crash's](http://www.quake2.com/crash/levelsi.htm#ikspq1)",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=95)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=ik1)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=1997-05-27",
-  "tag=castle",
-  "tag=mandatory secret",
-  "tag=medieval",
-  "tag=series",
-  "tag=small",
-  "tag=wizard",
-  "title=Before Nightfall"
+  "map_size=small",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=series",
+  "nonspecific_tag=textures",
+  "release_date=1997-05-27",
+  "theme=castle",
+  "theme=mandatory secret",
+  "theme=medieval",
+  "theme=wizard",
+  "title=Before Nightfall",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq1.zip",

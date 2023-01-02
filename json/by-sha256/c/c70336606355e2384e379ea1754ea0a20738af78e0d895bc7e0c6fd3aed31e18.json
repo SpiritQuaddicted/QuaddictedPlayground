@@ -1,35 +1,38 @@
 {
- "filename": [
-  "cogs.zip"
- ],
+ "bytes": 635,
  "files": {
   "cogs-redme.txt": {
-   "size": 541,
+   "bytes": 541,
+   "sha256": "a0d1eaccf81e09b2872af6e8f7c27b69d08059d3fc1110f4d0800c3764d49b80",
    "timestamp": "2008-04-27T01:12:14.000Z"
   },
   "cogs.bsp": {
-   "size": 1576520,
+   "bytes": 1576520,
+   "sha256": "4a0442f25cd1da361b027165c2a0203dd8d3999c4299c478708ac470188a368f",
    "timestamp": "2008-04-25T23:10:00.000Z"
   }
  },
- "filesize": 635,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c70336606355e2384e379ea1754ea0a20738af78e0d895bc7e0c6fd3aed31e18",
  "tags": [
   "author=Speedy",
+  "filename=cogs.zip",
   "game=quake",
-  "releasedate=2008-04-25",
-  "tag=experimental",
-  "tag=medium",
-  "tag=metal",
-  "tag=speedy",
-  "tag=stealth",
-  "tag=traps",
-  "tag=unique",
-  "title=Cogs Of Conflict"
+  "game_mode=singleplayer",
+  "link:homepage=http://speeds.quaddicted.com",
+  "map_size=medium",
+  "nonspecific_tag=speedy",
+  "nonspecific_tag=unique",
+  "playstyle=stealth",
+  "release_date=2008-04-25",
+  "theme=experimental",
+  "theme=metal",
+  "theme=traps",
+  "title=Cogs Of Conflict",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cogs.zip",

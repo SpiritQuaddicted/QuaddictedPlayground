@@ -1,56 +1,63 @@
 {
- "filename": [
-  "rstart11.zip"
- ],
+ "bytes": 4053,
  "files": {
   "dxmf.bsp": {
-   "size": 1920508,
+   "bytes": 1920508,
+   "sha256": "ef2338f2571f2871e3ab33cf850924c5c2a40a895c2180de2404519d9106b53e",
    "timestamp": "1997-09-25T12:37:16.000Z"
   },
   "rstart.bsp": {
-   "size": 211676,
+   "bytes": 211676,
+   "sha256": "da9c34a5482794f68a6c71f7ab035d4ab01d96cb0c49b03316bb897dcf738377",
    "timestamp": "1997-09-24T19:20:58.000Z"
   },
   "rstart.txt": {
-   "size": 4851,
+   "bytes": 4851,
+   "sha256": "93167cde767ac0834ef292382c7993fcb13842558d541926d930f4c4737a8e7b",
    "timestamp": "1997-09-27T00:21:52.000Z"
   },
   "s6.bsp": {
-   "size": 1740716,
+   "bytes": 1740716,
+   "sha256": "bddb173cca01cd3f2d5b380cc16582b0b3a3c3ebeafa3bb17a75b403cb93d3ba",
    "timestamp": "1997-09-25T16:24:08.000Z"
   },
   "s7.bsp": {
-   "size": 1693028,
+   "bytes": 1693028,
+   "sha256": "90727448380d8fe5c0a247938d674bf8b0b78175e3b5783e3ba1d138fcfe164c",
    "timestamp": "1997-09-27T17:03:26.000Z"
   },
   "se.bsp": {
-   "size": 2095324,
+   "bytes": 2095324,
+   "sha256": "dd88404c20467dd61207a1c0056ab49b9827760fc15e873f5582247ad6a096dc",
    "timestamp": "1997-09-25T11:58:36.000Z"
   },
   "se2.bsp": {
-   "size": 1893056,
+   "bytes": 1893056,
+   "sha256": "43cddad7f26fcb949bf145edce8b53621da479de39473f0bc187eb52777a3fc7",
    "timestamp": "1997-09-26T22:35:00.000Z"
   }
  },
- "filesize": 4053,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4f667c04c4d9ce68c191ec340d405171685f950c11b36caa9b558669a8ba4032",
  "tags": [
   "author=Zied Rieke",
+  "filename=rstart11.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990402.html)",
-  "releasedate=1997-09-27",
+  "map_layout=non-linear",
+  "map_size=medium",
+  "nonspecific_tag=start map",
+  "release_date=1997-09-27",
   "startmap=rstart",
-  "tag=episode",
-  "tag=idbase",
-  "tag=medium",
-  "tag=non linear",
-  "tag=start map",
-  "tag=traps",
-  "title=Reload"
+  "theme=idbase",
+  "theme=traps",
+  "title=Reload",
+  "type=episode",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rstart11.zip",

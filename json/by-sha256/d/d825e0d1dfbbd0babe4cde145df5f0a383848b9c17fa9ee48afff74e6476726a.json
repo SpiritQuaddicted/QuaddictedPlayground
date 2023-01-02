@@ -1,35 +1,37 @@
 {
- "filename": [
-  "pyramid.zip"
- ],
+ "bytes": 490,
  "files": {
   "PYRAMID.BSP": {
-   "size": 1164816,
+   "bytes": 1164816,
+   "sha256": "cbd8f256ed2887fc237eecd17c73cce386e253a0e3c29cda7c7963c324d15ba7",
    "timestamp": "1996-12-30T10:04:48.000Z"
   },
   "PYRAMID.TXT": {
-   "size": 3062,
+   "bytes": 3062,
+   "sha256": "1daf779b175ad8326852d3eca3d3da4cbf8a68344cc456a8a3f852795594bde6",
    "timestamp": "1996-12-31T09:03:30.000Z"
   }
  },
- "filesize": 490,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "d825e0d1dfbbd0babe4cde145df5f0a383848b9c17fa9ee48afff74e6476726a",
  "tags": [
   "author=Ted Stahl",
+  "filename=pyramid.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsp2.htm)",
-  "releasedate=1996-12-31",
-  "tag=egyptian",
-  "tag=outdoor",
-  "tag=pyramid",
-  "tag=small",
-  "tag=terracota",
-  "tag=textures",
-  "title=The Great Pyramid of Seth"
+  "map_size=small",
+  "nonspecific_tag=terracota",
+  "nonspecific_tag=textures",
+  "release_date=1996-12-31",
+  "theme=egyptian",
+  "theme=outdoor",
+  "theme=pyramid",
+  "title=The Great Pyramid of Seth",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/pyramid.zip",

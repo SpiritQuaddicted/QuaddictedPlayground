@@ -1,45 +1,50 @@
 {
- "filename": [
-  "area51.2.zip"
- ],
+ "bytes": 1624,
  "files": {
   "area51.txt": {
-   "size": 2289,
+   "bytes": 2289,
+   "sha256": "b944df0725e9171993519bb27c0c2c9dcceb453cc22caa1f82817abbba7e82e0",
    "timestamp": "1997-12-06T23:18:28.000Z"
   },
   "level_1.bsp": {
-   "size": 2503203,
+   "bytes": 2503203,
+   "sha256": "691f19a36c1761b947d4fe5873acbb3aec302a2a3f38072c10c394bf09894d22",
    "timestamp": "1997-12-04T19:07:52.000Z"
   },
   "level_2.bsp": {
-   "size": 1261564,
+   "bytes": 1261564,
+   "sha256": "afec5fa27ee625f76e6d1cb0840231784d4b815e8860102e6eb665ad1b066202",
    "timestamp": "1997-11-30T23:05:38.000Z"
   },
   "level_3.bsp": {
-   "size": 790224,
+   "bytes": 790224,
+   "sha256": "2bb8a77764783eaf225640d3836740c3e678a44ea0dde050583af320c5f6ff26",
    "timestamp": "1997-12-06T23:06:36.000Z"
   }
  },
- "filesize": 1624,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c300e8a65a54fe2c58ec00537a1a66793c0097c229735ce683601e0c8ec371b9",
  "tags": [
   "author=Anders Gustavsson",
+  "filename=area51.2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1997-12-06",
+  "map_size=small",
+  "nonspecific_tag=alien",
+  "nonspecific_tag=campaign",
+  "nonspecific_tag=grey",
+  "nonspecific_tag=textures",
+  "release_date=1997-12-06",
   "startmap=level_1",
-  "tag=alien",
-  "tag=base",
-  "tag=campaign",
-  "tag=exploration",
-  "tag=grey",
-  "tag=small",
-  "tag=textures",
-  "title=Area 51"
+  "theme=base",
+  "theme=exploration",
+  "title=Area 51",
+  "type=episode",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/area51.2.zip",

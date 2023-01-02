@@ -1,39 +1,41 @@
 {
- "filename": [
-  "oblivion.zip"
- ],
+ "bytes": 1113,
  "files": {
   "oblivion.bsp": {
-   "size": 2551836,
+   "bytes": 2551836,
+   "sha256": "02c4e67a6cead79780d2b9393131969b4a7852c4410e175a7f99d355a1d15fa7",
    "timestamp": "2000-07-04T23:52:08.000Z"
   },
   "oblivion.txt": {
-   "size": 7855,
+   "bytes": 7855,
+   "sha256": "7aea45daf64e3bf74772393a8e0dcc1c0831a30d1811e4054e2cf251c3a03568",
    "timestamp": "2000-07-04T23:59:36.000Z"
   }
  },
- "filesize": 1113,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e680c4580038f45a4b4e27ede87d8ef603edca46665912d77aa847fa0b768a7c",
  "tags": [
   "author=Rick Lipsey",
+  "filename=oblivion.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/09-jul-2000/oblivion.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev000707.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
-  "releasedate=2000-07-04",
-  "tag=blue",
-  "tag=castle",
-  "tag=etal",
-  "tag=interconnected",
-  "tag=large",
-  "tag=metal",
-  "tag=planetquake-map-of-the-week",
-  "title=Castle of Oblivion"
+  "map_size=large",
+  "nonspecific_tag=etal",
+  "nonspecific_tag=interconnected",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2000-07-04",
+  "theme=blue",
+  "theme=castle",
+  "theme=metal",
+  "title=Castle of Oblivion",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oblivion.zip",

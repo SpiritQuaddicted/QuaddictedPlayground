@@ -1,29 +1,37 @@
 {
- "filename": [
-  "chess.zip"
- ],
+ "bytes": 129,
  "files": {
   "chess.bsp": {
-   "size": 303788,
+   "bytes": 303788,
+   "sha256": "c9fd091eca33bce72a821fc6c19b6dcbe6192b65d8926517240113e2b71dd51b",
    "timestamp": "1997-02-24T00:09:24.000Z"
   },
   "chess.txt": {
-   "size": 1560,
+   "bytes": 1560,
+   "sha256": "ed3916aa76e56f964c7e44c53ccf017f95a1872f64324313f0634bead3997cdd",
    "timestamp": "1997-06-11T12:49:16.000Z"
   }
  },
- "filesize": 129,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6122c61df5a414c7b523febe4df4f13976cd738ad7ad4a90560782e93447d49b",
  "tags": [
   "author=David Ottvall",
+  "filename=chess.zip",
   "game=quake",
-  "releasedate=1997-06-11",
-  "tag=chess",
-  "title=Chess"
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "map_size=tiny",
+  "nonspecific_tag=chess",
+  "release_date=1997-06-11",
+  "theme=medieval",
+  "theme=no exit",
+  "theme=terracotta",
+  "title=Chess",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/chess.zip",

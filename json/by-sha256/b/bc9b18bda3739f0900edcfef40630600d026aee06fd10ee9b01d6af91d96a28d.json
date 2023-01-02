@@ -1,31 +1,33 @@
 {
- "filename": [
-  "bldstone.zip"
- ],
+ "bytes": 457,
  "files": {
   "bldston.bsp": {
-   "size": 1045356,
+   "bytes": 1045356,
+   "sha256": "cfd52d777b09b437cc3ff937619914cafd4edf91c073e22b54c5df31de98058e",
    "timestamp": "1997-01-18T23:28:52.000Z"
   },
   "bldston.txt": {
-   "size": 1671,
+   "bytes": 1671,
+   "sha256": "5ef44375b143d3e9ecb55d8e194424f7a04f1ae0c231cea585b42c69bec51f58",
    "timestamp": "1997-02-06T20:11:22.000Z"
   }
  },
- "filesize": 457,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "bc9b18bda3739f0900edcfef40630600d026aee06fd10ee9b01d6af91d96a28d",
  "tags": [
   "author=Drakkon (C.D. Roberts)",
+  "filename=bldstone.zip",
   "game=quake",
-  "releasedate=1997-02-06",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "release_date=1997-02-06",
   "startmap=bldston",
-  "tag=medium",
-  "tag=mixtex",
-  "title=Bloodstone"
+  "theme=mixtex",
+  "title=Bloodstone",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/bldstone.zip",

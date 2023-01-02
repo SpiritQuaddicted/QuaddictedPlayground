@@ -1,42 +1,46 @@
 {
- "filename": [
-  "sm37_pack.zip"
- ],
+ "bytes": 1129,
  "files": {
   "sm37_asaki.bsp": {
-   "size": 155344,
+   "bytes": 155344,
+   "sha256": "cd32d73d21636ec3adee89e775b277b5e31f0f4337fbfcfcf7dd6f3c6d02e8c2",
    "timestamp": "2001-10-20T18:24:14.000Z"
   },
   "sm37_fr3n.bsp": {
-   "size": 441780,
+   "bytes": 441780,
+   "sha256": "92001968b84bda320f4c334f7525cf03311b52d9b6377a63f1fdf65af8e856f6",
    "timestamp": "2001-10-20T16:52:24.000Z"
   },
   "sm37_metl.bsp": {
-   "size": 482360,
+   "bytes": 482360,
+   "sha256": "208cb28d01a1c4c5c2437b3b0b5938b26e63e9135b7c64c89d14312e583c65c6",
    "timestamp": "2001-10-20T16:45:10.000Z"
   },
   "sm37_pack.txt": {
-   "size": 2979,
+   "bytes": 2979,
+   "sha256": "8ad2b73b3f6396614c3ded38b908498c416880b52f820cc1c6affebe2c7bcf2b",
    "timestamp": "2001-10-21T18:32:36.000Z"
   },
   "sm37_sb.bsp": {
-   "size": 789340,
+   "bytes": 789340,
+   "sha256": "ee19931007e7c589a263795051be9f782871471b5b237c7eba4ae9c1f11c1d55",
    "timestamp": "2001-10-20T12:49:54.000Z"
   },
   "sm37_than.bsp": {
-   "size": 456512,
+   "bytes": 456512,
+   "sha256": "a20beab6e23347eb9f604f90f5251c885c1685b35e7c252066f2cb49ef98b8c1",
    "timestamp": "2001-10-20T22:51:04.000Z"
   },
   "sm37_xenon.bsp": {
-   "size": 657368,
+   "bytes": 657368,
+   "sha256": "85ed4443245ba458fcd7ee37113ccc2e52faf1e7a7912b5bc27f2d1862e545a1",
    "timestamp": "2001-10-21T00:27:42.000Z"
   }
  },
- "filesize": 1129,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "147f17076b0a06d7904662a72dfd8264d9f07205ad47175565394e6b3dcbfbca",
  "tags": [
   "author=Asaki",
@@ -44,16 +48,20 @@
   "author=XeNoN",
   "author=metlslime",
   "author=than",
+  "filename=sm37_pack.zip",
   "game=quake",
-  "releasedate=2001-10-21",
+  "game_mode=singleplayer",
+  "mod=rubicon",
+  "release_date=2001-10-21",
   "startmap=sm37_asaki",
   "startmap=sm37_fr3n",
   "startmap=sm37_metl",
   "startmap=sm37_sb",
   "startmap=sm37_than",
   "startmap=sm37_xenon",
-  "tag=rubicon",
-  "title=Speedmapping pack 37 - Unthemed"
+  "theme=rubicon",
+  "title=Speedmapping pack 37 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm37_pack.zip",

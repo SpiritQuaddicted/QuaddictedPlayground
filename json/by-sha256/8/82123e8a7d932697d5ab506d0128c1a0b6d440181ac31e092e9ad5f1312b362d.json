@@ -1,36 +1,39 @@
 {
- "filename": [
-  "vrksp1.zip"
- ],
+ "bytes": 2506,
  "files": {
   "vrksp1.bsp": {
-   "size": 5237292,
+   "bytes": 5237292,
+   "sha256": "2cf33058cdf0ab3d24698ef5ac685a37864d3b0c82fb55eae8c463bd60963156",
    "timestamp": "2019-01-25T01:35:14.000Z"
   },
   "vrksp1.lit": {
-   "size": 1336757,
+   "bytes": 1336757,
+   "sha256": "7ad9e77fdf1e4277ca47c36f52fdbf2876051fbcbb2d23c606dcd87b205fb5de",
    "timestamp": "2019-01-25T01:35:14.000Z"
   },
   "vrksp1.txt": {
-   "size": 1949,
+   "bytes": 1949,
+   "sha256": "0f46fa26f77396f8c209fb6801f173e840dcf26147911ef003590712920f002e",
    "timestamp": "2019-01-25T02:02:30.000Z"
   }
  },
- "filesize": 2506,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "82123e8a7d932697d5ab506d0128c1a0b6d440181ac31e092e9ad5f1312b362d",
  "tags": [
   "author=VuRkka",
+  "filename=vrksp1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61680)",
-  "releasedate=2019-01-25",
-  "tag=metal",
-  "tag=runic",
-  "tag=small",
-  "title=Blackened Call"
+  "map_size=small",
+  "release_date=2019-01-25",
+  "theme=metal",
+  "theme=runic",
+  "title=Blackened Call",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/vrksp1.zip",

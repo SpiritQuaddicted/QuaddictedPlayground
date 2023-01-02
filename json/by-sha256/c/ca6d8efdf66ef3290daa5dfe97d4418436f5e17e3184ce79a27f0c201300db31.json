@@ -1,0 +1,118 @@
+{
+ "bytes": 11398,
+ "files": {
+  "README - ad_mfk_dreamdem.txt": {
+   "bytes": 3984,
+   "sha256": "0a65fc979bebf98340ecb4f2d202bd2bda4b1fe3005635c3ec3e7b50c3b23c59",
+   "timestamp": "2022-03-09T19:59:50.000Z"
+  },
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-03-07T21:53:18.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-03-07T21:53:18.000Z"
+  },
+  "gfx/env/nightsky_bk.tga": {
+   "bytes": 260266,
+   "sha256": "55124578c3e489afc79a2484a0f4b7ac66d4ec7e32d22a21bb690ab81645a090",
+   "timestamp": "2008-12-28T13:21:36.000Z"
+  },
+  "gfx/env/nightsky_dn.tga": {
+   "bytes": 49422,
+   "sha256": "6ed43e9b8ccf1fdd5c8101f2f578cc119fba0d088aba2ee62555493a64af68b5",
+   "timestamp": "2008-12-28T13:21:24.000Z"
+  },
+  "gfx/env/nightsky_ft.tga": {
+   "bytes": 327085,
+   "sha256": "d9a30d0c988176b7f218841cdd54c3e4c8605024a81fd1f39634a4630ddaea1a",
+   "timestamp": "2008-12-28T13:21:16.000Z"
+  },
+  "gfx/env/nightsky_lf.tga": {
+   "bytes": 260278,
+   "sha256": "d6c1111d84c91d85f70a7c6b3844789204e51882ea130ef79fa72afa95724c15",
+   "timestamp": "2008-12-28T13:21:48.000Z"
+  },
+  "gfx/env/nightsky_rt.tga": {
+   "bytes": 345011,
+   "sha256": "57548b3f26c823eba5144f7890f9ebe565ed2fa70c6e45e3c16308981b0670fc",
+   "timestamp": "2008-12-28T13:21:56.000Z"
+  },
+  "gfx/env/nightsky_up.tga": {
+   "bytes": 346359,
+   "sha256": "93f561562c151e730b16f363a7d79fd38b0abb4ad4591c1929546d540ad1dea0",
+   "timestamp": "2008-12-28T13:22:04.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-03-09T19:56:14.000Z"
+  },
+  "maps/ad_mfk_dreamdem.bsp": {
+   "bytes": 12395420,
+   "sha256": "e447ce2e7334ff2c90d0293bc088f9b7bb0d9d26860e31afcda71e48cbda97c8",
+   "timestamp": "2022-03-10T17:31:30.000Z"
+  },
+  "maps/ad_mfk_dreamdem.lit": {
+   "bytes": 2375075,
+   "sha256": "e15567a2c736318e758ce3e3931561fe3e3f34e81f4919cb0c8bc20134aa2ef8",
+   "timestamp": "2022-03-10T17:31:30.000Z"
+  },
+  "maps/ad_mfk_dreamdem.map": {
+   "bytes": 7077340,
+   "sha256": "9fbddad3f9793253b3dc3c7e93f08a054d4eb30b78f3d6146fc617ddd7d02fbf",
+   "timestamp": "2022-03-10T17:24:14.000Z"
+  },
+  "music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-03-07T21:53:18.000Z"
+  },
+  "music/track91.ogg": {
+   "bytes": 5125462,
+   "sha256": "fcb517e9251f9937064602538f362874d1fc18300b152cd06ee3ad8adc3f22e3",
+   "timestamp": "2022-03-06T18:40:00.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-03-07T21:53:18.000Z"
+  },
+  "sound/water_flow1.wav": {
+   "bytes": 321650,
+   "sha256": "25de33cafc0d563627945622df6b2c58f8d7da929d7141771db730c6f93fbd39",
+   "timestamp": "2022-03-05T19:46:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "ca6d8efdf66ef3290daa5dfe97d4418436f5e17e3184ce79a27f0c201300db31",
+ "tags": [
+  "author=Mittens for Kittens",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "filename=ad_mfk_dreamdem (v1.1).zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=arcane dimensions",
+  "release_date=2022-03-11",
+  "source=included",
+  "startmap=ad_mfk_dreamdem",
+  "theme=desert",
+  "theme=ikblue",
+  "theme=wizard",
+  "title=The Dreamer's Demesne",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_mfk_dreamdem (v1.1).zip",
+  "https://www.quaddicted.com/files/by-sha256/c/ca6d8efdf66ef3290daa5dfe97d4418436f5e17e3184ce79a27f0c201300db31/ad_mfk_dreamdem (v1.1).zip"
+ ]
+}

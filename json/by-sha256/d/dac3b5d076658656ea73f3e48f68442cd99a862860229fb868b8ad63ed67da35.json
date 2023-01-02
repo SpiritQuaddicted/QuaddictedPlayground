@@ -1,38 +1,40 @@
 {
- "filename": [
-  "ghost.zip"
- ],
+ "bytes": 561,
  "files": {
   "ghost.bsp": {
-   "size": 1310492,
+   "bytes": 1310492,
+   "sha256": "b20715417647ecc679733941268d5f7f4b98431491d4e74b29ec59a6cff0997e",
    "timestamp": "1997-08-18T22:17:42.000Z"
   },
   "ghost.txt": {
-   "size": 4006,
+   "bytes": 4006,
+   "sha256": "d0abc28693415789b1e6f42d023ec15c39d846c1ff69ec76cbfb40e8a2d965f3",
    "timestamp": "1997-08-18T23:21:58.000Z"
   }
  },
- "filesize": 561,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "dac3b5d076658656ea73f3e48f68442cd99a862860229fb868b8ad63ed67da35",
  "tags": [
   "author=Roger Staines",
+  "filename=ghost.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsg.htm)",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east13m.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/g_i.htm)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1997-08-18",
-  "tag=medium",
-  "tag=modes",
-  "tag=town",
-  "tag=western",
-  "tag=wood",
-  "title=Ghost Town"
+  "map_size=medium",
+  "nonspecific_tag=modes",
+  "nonspecific_tag=western",
+  "nonspecific_tag=wood",
+  "release_date=1997-08-18",
+  "theme=town",
+  "title=Ghost Town",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ghost.zip",

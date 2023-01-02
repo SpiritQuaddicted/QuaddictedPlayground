@@ -1,32 +1,35 @@
 {
- "filename": [
-  "digs05.zip"
- ],
+ "bytes": 1505,
  "files": {
   "digs05.bsp": {
-   "size": 3707028,
+   "bytes": 3707028,
+   "sha256": "6a684cf623d2092524ab300a52bdd6894131dde6a32648e315a5639b5979f930",
    "timestamp": "2011-01-04T08:57:00.000Z"
   },
   "digs05.txt": {
-   "size": 1375,
+   "bytes": 1375,
+   "sha256": "f540b98a7103676998fef2b794fa38347355e6d4c8dec479415b508a86bf44bf",
    "timestamp": "2011-01-04T08:24:28.000Z"
   }
  },
- "filesize": 1505,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "be1f61c01389b1ab5b5b316f6de60882e1535c272aa38d15c671cd87d8c91c91",
  "tags": [
   "author=Digs",
+  "filename=digs05.zip",
   "game=quake",
-  "releasedate=2011-01-04",
-  "tag=abstract",
-  "tag=base",
-  "tag=ikbase",
-  "tag=large",
-  "title=The Anomaly"
+  "game_mode=singleplayer",
+  "link:homepage=http://digspt.ru/quake/",
+  "map_size=large",
+  "release_date=2011-01-04",
+  "theme=abstract",
+  "theme=base",
+  "theme=ikbase",
+  "title=The Anomaly",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/digs05.zip",

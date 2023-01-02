@@ -1,48 +1,52 @@
 {
- "filename": [
-  "amphitoa.zip"
- ],
+ "bytes": 3462,
  "files": {
   "amphitoa.TXT": {
-   "size": 9445,
+   "bytes": 9445,
+   "sha256": "35ffec52965f3207094ba88042c5fe1cc8edee5bd1de8c9c3096c02462c63db1",
    "timestamp": "2018-07-27T19:51:22.000Z"
   },
   "amphitoa.bsp": {
-   "size": 5396240,
+   "bytes": 5396240,
+   "sha256": "e9a2fa02cedac658dda72ea3c06098739016c20cf997c4db1645db7aa830cdd1",
    "timestamp": "2018-07-27T17:21:50.000Z"
   },
   "amphitoa.lit": {
-   "size": 3243788,
+   "bytes": 3243788,
+   "sha256": "5b8d29e8561b4ebc951e41e1e5bbaa0a637156be3196e9c982f9563fb2c47785",
    "timestamp": "2018-07-27T17:21:50.000Z"
   },
   "amphitoa.map": {
-   "size": 2965624,
+   "bytes": 2965624,
+   "sha256": "5197b06a79b7e49e1e5490107d6ead968aa64e5d1c78ffc4d0de1a262d4a954d",
    "timestamp": "2018-07-27T17:07:56.000Z"
   }
  },
- "filesize": 3462,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ec0193f569dd41815ed760ac8e755a7122b870d5212bef23d9d232cce10a8bde",
  "tags": [
   "author=Esrael",
+  "exceeds_quake_limits=yes",
+  "filename=amphitoa.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61606)",
-  "releasedate=2018-07-27",
-  "tag=bricks",
-  "tag=dm",
-  "tag=hard",
-  "tag=limits",
-  "tag=medieval",
-  "tag=medium",
-  "tag=routes",
-  "tag=small",
-  "tag=source",
-  "tag=tricks",
-  "tag=wizard",
-  "title=Amphitheater Of Abaddon"
+  "map_size=medium",
+  "map_size=small",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=routes",
+  "playstyle=tricks",
+  "release_date=2018-07-27",
+  "source=included",
+  "theme=bricks",
+  "theme=medieval",
+  "theme=wizard",
+  "title=Amphitheater Of Abaddon",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/amphitoa.zip",

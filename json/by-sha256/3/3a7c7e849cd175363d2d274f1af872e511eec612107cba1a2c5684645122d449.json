@@ -1,39 +1,43 @@
 {
- "filename": [
-  "darkness.zip"
- ],
+ "bytes": 636,
  "files": {
   "Q1.bsp": {
-   "size": 1416920,
+   "bytes": 1416920,
+   "sha256": "58ef08109634852a117490acca7b5bb5eb0382eb4931c9decf1cc02415050af3",
    "timestamp": "1999-03-24T20:17:52.000Z"
   },
   "Readme.txt": {
-   "size": 1378,
+   "bytes": 1378,
+   "sha256": "f793a9dc5897f96863b54377f2f197a5cf922a194c0155dce456630602fcdabc",
    "timestamp": "1999-03-24T22:27:06.000Z"
   },
   "darkness_quaddictedrepack.txt": {
-   "size": 319,
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:51:02.000Z"
   }
  },
- "filesize": 636,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "3a7c7e849cd175363d2d274f1af872e511eec612107cba1a2c5684645122d449",
  "tags": [
   "author=Tim Elek",
+  "filename=darkness.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://tertiary.planetquake.gamespy.com",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/11-sep-2000/tdw.php)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=73)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990415.html)",
-  "releasedate=1999-03-24",
+  "map_size=medium",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-03-24",
   "startmap=q1",
-  "tag=medieval",
-  "tag=medium",
-  "tag=planetquake-map-of-the-week",
-  "title=The Darkness Within"
+  "theme=medieval",
+  "title=The Darkness Within",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/darkness.zip",

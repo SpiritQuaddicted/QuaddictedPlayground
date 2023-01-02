@@ -1,49 +1,55 @@
 {
- "filename": [
-  "in_ovo.zip"
- ],
+ "bytes": 2640,
  "files": {
   "INOVO.txt": {
-   "size": 4906,
+   "bytes": 4906,
+   "sha256": "8779ba0ee1de77b3cfb1c18474c0d25f3547251b0cdca990b1e3f6d21038da19",
    "timestamp": "2006-05-16T09:18:18.000Z"
   },
   "ejm2.bsp": {
-   "size": 1856028,
+   "bytes": 1856028,
+   "sha256": "2688cff82ab23168a267e6b492346f22267a3fb6cabbf7a580860b1e77186b4a",
    "timestamp": "2004-08-29T15:48:46.000Z"
   },
   "ejm2dm.bsp": {
-   "size": 1846360,
+   "bytes": 1846360,
+   "sha256": "09ec9f0cec10d9d490e7a44ff04bb142f85d3d23630c1a31509ae3ca65fa360e",
    "timestamp": "2004-09-18T11:25:34.000Z"
   },
   "ejm3.bsp": {
-   "size": 693412,
+   "bytes": 693412,
+   "sha256": "03c476ee1c3d3f50b4becf5ca069acc4e97a0f00a4338fcf039daf5a118001ef",
    "timestamp": "2004-10-26T17:06:24.000Z"
   },
   "in_ovo_quaddictedrepack.txt": {
-   "size": 319,
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
    "timestamp": "2009-04-28T16:14:26.000Z"
   },
   "sg13.bsp": {
-   "size": 1846516,
+   "bytes": 1846516,
+   "sha256": "1f19115d996fc7f6909f59bf4a0597bbcf80788f1ccfb85efd060011474ab1ea",
    "timestamp": "2003-09-04T16:47:16.000Z"
   }
  },
- "filesize": 2640,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "2643a299ea199e1030ae9039bbcb11eafced38c0560db5273a384af37fb9ac1f",
  "tags": [
   "author=Jaromir Bergmann",
+  "filename=in_ovo.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev060723.html)",
-  "releasedate=2006-05-16",
+  "map_size=large",
+  "release_date=2006-05-16",
   "startmap=sg13",
-  "tag=base",
-  "tag=large",
-  "tag=metal",
-  "title=In Ovo"
+  "theme=base",
+  "theme=metal",
+  "title=In Ovo",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/in_ovo.zip",

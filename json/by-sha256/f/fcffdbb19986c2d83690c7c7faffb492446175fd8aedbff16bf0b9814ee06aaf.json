@@ -1,44 +1,78 @@
 {
- "filename": [
-  "jzspq.zip"
- ],
+ "bytes": 626,
  "files": {
   "jzspq/CONFIG.CFG": {
-   "size": 7283,
+   "bytes": 7283,
+   "sha256": "e9c029a7a5078d3066464d2e8a5744bb4233a65af6034bf846526387eaab5e07",
    "timestamp": "1997-12-25T16:32:46.000Z"
   },
   "jzspq/Pak0.PAK": {
-   "size": 2259644,
+   "bytes": 2259644,
+   "files": {
+    "demo1.dem": {
+     "bytes": 29402,
+     "sha256": "5e9ca61a7742b83308aaecb3fdc012dede45684429c0baf8313b63ca8ce90aa5"
+    },
+    "demo2.dem": {
+     "bytes": 560710,
+     "sha256": "c43952a3149a634f39eb27517c97f05e31b66ca99f977011f2cdc5bd61c5b082"
+    },
+    "demo3.dem": {
+     "bytes": 295395,
+     "sha256": "25d4656796c0068c10dfb9422d5df01031578b694fff385ab2a7605e92c22254"
+    },
+    "maps/jzdoom.bsp": {
+     "bytes": 613412,
+     "sha256": "44c6eb34873935cc325666ec63489c086f90b32c08da34735d54be014e08743c"
+    },
+    "maps/jzwolf.bsp": {
+     "bytes": 615660,
+     "sha256": "eb9288e8d9a207b9734dbeadbf49d792d1e8c03a6fc8457d62f0f257a5e6ce91"
+    },
+    "maps/start.bsp": {
+     "bytes": 144312,
+     "sha256": "42d60885e10ccf4fcacf592cd3148075d5a4896a222fb1ec58ec255238524859"
+    },
+    "quake.rc": {
+     "bytes": 293,
+     "sha256": "ba663420fe80019bb267b5817de2cc96fc1c42c2c723fd61b97a0ae8553d0d18"
+    }
+   },
+   "sha256": "44c9eeeeafd04ddc99a39fa3fcef8b4f7c519b918e5557c76abf86d645d5b98e",
    "timestamp": "1997-12-20T23:11:04.000Z"
   },
   "jzspq/jzspq.pif": {
-   "size": 967,
+   "bytes": 967,
+   "sha256": "9eb3fa75c1b5630c670c6f61d9f8cce592ca04f49f717a2f91a05b2645a6e71c",
    "timestamp": "1997-12-25T16:32:48.000Z"
   },
   "jzspq/jzspq.txt": {
-   "size": 2696,
+   "bytes": 2696,
+   "sha256": "39c80ef43930d309cec3bcf171e2cc1cb514f3813ff4a7c08f639a58930b705a",
    "timestamp": "1997-12-26T18:12:02.000Z"
   }
  },
- "filesize": 626,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "fcffdbb19986c2d83690c7c7faffb492446175fd8aedbff16bf0b9814ee06aaf",
  "tags": [
   "author=Jason Zukowski",
   "commandline=-game jzspq",
+  "filename=jzspq.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
-  "releasedate=1997-12-26",
+  "map_size=small",
+  "nonspecific_tag=start",
+  "nonspecific_tag=wolfenstein",
+  "release_date=1997-12-26",
   "startmap=start",
-  "tag=doom2",
-  "tag=episode",
-  "tag=small",
-  "tag=start",
-  "tag=wolfenstein",
-  "title=Wolfenstein/Doom version 1.1"
+  "theme=doom 2",
+  "title=Wolfenstein/Doom version 1.1",
+  "type=episode",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jzspq.zip",

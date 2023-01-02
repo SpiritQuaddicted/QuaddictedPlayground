@@ -1,35 +1,47 @@
 {
- "filename": [
-  "tfl4.zip"
- ],
+ "bytes": 978,
  "files": {
   "pak0.pak": {
-   "size": 2503064,
+   "bytes": 2503064,
+   "files": {
+    "maps/start.bsp": {
+     "bytes": 2089140,
+     "sha256": "024f56f3b84a26354fed3abba0bee23e2545c452455e081a0a746aeffefbbfbc"
+    },
+    "progs.dat": {
+     "bytes": 413784,
+     "sha256": "138d1b2d0219f05539c925ed21db3b965ea8bd61da00fe5b68d4c69a80de57ab"
+    }
+   },
+   "sha256": "4024f475e6c7d9721bda272ff23ec7ec9e1ef3b2acf17790f3450a6eec00a801",
    "timestamp": "1997-11-25T14:25:22.000Z"
   },
   "tfl4.txt": {
-   "size": 2078,
+   "bytes": 2078,
+   "sha256": "2018bf646d0912431df06706ad2c5524bec94c96d3bb755ff906854a913b588f",
    "timestamp": "1997-11-25T15:05:12.000Z"
   }
  },
- "filesize": 978,
  "install": {
-  "extract": "{quake}/tfl4/"
+  "extract": "{base}/tfl4/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1b0abee2da830f78fe6d34a44eab218355f4e2a87a65aadba9d4cc465e7cf66f",
  "tags": [
   "author=Anders \"Backspace\" Persson",
   "commandline=-game tfl4",
+  "filename=tfl4.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east14g.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990215.html)",
-  "releasedate=1997-11-25",
+  "map_size=large",
+  "release_date=1997-11-25",
   "startmap=start",
-  "tag=base",
-  "tag=idbase",
-  "tag=large",
-  "title=The Final Level"
+  "theme=base",
+  "theme=idbase",
+  "title=The Final Level",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tfl4.zip",

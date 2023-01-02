@@ -1,33 +1,35 @@
 {
- "filename": [
-  "out232.zip"
- ],
+ "bytes": 524,
  "files": {
   "out232.bsp": {
-   "size": 1394748,
+   "bytes": 1394748,
+   "sha256": "a5f46ebb87002ab1a9d108cf13f2f417a2ec9318e739011a2fd77d0208d312be",
    "timestamp": "2011-03-01T22:20:26.000Z"
   },
   "out232.txt": {
-   "size": 131,
+   "bytes": 131,
+   "sha256": "d311a3f2d3cf7a84e64d6216b49059c90baffcb384020cbd4a25e439d9101edd",
    "timestamp": "2011-03-01T22:20:52.000Z"
   }
  },
- "filesize": 524,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "d4cb35ab46e86df462bee0bf32c36999ef370da5ecc1c8f4c7eac32549f5a33f",
  "tags": [
   "author=NCMark",
+  "filename=out232.zip",
   "game=quake",
-  "releasedate=2011-03-01",
-  "tag=base",
-  "tag=canyon",
-  "tag=easy",
-  "tag=medium",
-  "tag=realism",
-  "title=Mountain Base"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "nonspecific_tag=easy",
+  "release_date=2011-03-01",
+  "theme=base",
+  "theme=canyon",
+  "theme=realism",
+  "title=Mountain Base",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/out232.zip",

@@ -1,44 +1,48 @@
 {
- "filename": [
-  "prison.zip"
- ],
+ "bytes": 762,
  "files": {
   "SWEN.BSP": {
-   "size": 679804,
+   "bytes": 679804,
+   "sha256": "aa5c5bb39c6835fe09c680dee9f68e80db4a4f69b79527b6178d8bdda1f23f2c",
    "timestamp": "1996-10-23T21:39:24.000Z"
   },
   "SWEN.TXT": {
-   "size": 1725,
+   "bytes": 1725,
+   "sha256": "4070bb9c78beef1263c4d74e96437f9b9d85cc14dfabee6897461bb50e7c6e9e",
    "timestamp": "1996-11-20T23:47:42.000Z"
   },
   "SWEN1.BSP": {
-   "size": 1194320,
+   "bytes": 1194320,
+   "sha256": "3773dfcdacfd3b24aefa3f4b8658a6a9f1442415ba51aa807be7494fad829aac",
    "timestamp": "1996-10-24T10:43:58.000Z"
   },
   "SWEN1.TXT": {
-   "size": 1576,
+   "bytes": 1576,
+   "sha256": "03ac4bc607ad21e41db7a6e5bbe7c5f12f43be7347aa3db2af860e21a41b0ea2",
    "timestamp": "1996-10-26T20:08:50.000Z"
   }
  },
- "filesize": 762,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "859a3e03c2e9c1d64cf8db36e963624cb7aa5ddd18d95d75942c50e25351da51",
  "tags": [
   "author=Swen Klemund",
+  "filename=prison.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsp2.htm)",
-  "releasedate=1996-11-20",
+  "nonspecific_tag=textures",
+  "release_date=1996-11-20",
   "startmap=swen",
   "startmap=swen1",
-  "tag=house",
-  "tag=metal",
-  "tag=realism",
-  "tag=textures",
-  "tag=wizard",
-  "title=My Home &amp; Prison"
+  "theme=house",
+  "theme=metal",
+  "theme=realism",
+  "theme=wizard",
+  "title=My Home &amp; Prison",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/prison.zip",

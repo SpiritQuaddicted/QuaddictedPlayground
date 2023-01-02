@@ -1,34 +1,37 @@
 {
- "filename": [
-  "brt08q1.zip"
- ],
+ "bytes": 591,
  "files": {
   "brt08q1.bsp": {
-   "size": 1484272,
+   "bytes": 1484272,
+   "sha256": "af91c972f092a140503578f4932db03a6f6415ec44130e0250ab2ffb70d25244",
    "timestamp": "1999-04-06T15:45:18.000Z"
   },
   "brt08q1.txt": {
-   "size": 1820,
+   "bytes": 1820,
+   "sha256": "e22dd3b23fbb14391e2ad0ed65acbc857c871ce26cb3910e1717ee2d46ef1c0a",
    "timestamp": "2002-01-22T01:34:58.000Z"
   }
  },
- "filesize": 591,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "153911dcf01f1019e8ff2896d41c40876a3e83a117611b6150979d9bf0bc14af",
  "tags": [
   "author=QBrt",
+  "filename=brt08q1.zip",
   "game=quake",
-  "releasedate=2002-01-22",
-  "tag=blue",
-  "tag=bricks",
-  "tag=cave",
-  "tag=medieval",
-  "tag=red",
-  "tag=small",
-  "title=brt08q1"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.xs4all.nl/~brt/",
+  "map_size=small",
+  "release_date=2002-01-22",
+  "theme=blue",
+  "theme=bricks",
+  "theme=cave",
+  "theme=medieval",
+  "theme=red",
+  "title=brt08q1",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/brt08q1.zip",

@@ -1,454 +1,671 @@
 {
- "filename": [
-  "retrojam6.zip"
- ],
+ "bytes": 52615,
  "files": {
   "retrojam6/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-01-01T23:54:36.000Z"
   },
   "retrojam6/a0.sav": {
-   "size": 111423,
+   "bytes": 111423,
+   "sha256": "439a2827b4587baf2024d940bbbde9ff3169c5ce2c453607399467f51cd509de",
    "timestamp": "2017-01-01T23:54:36.000Z"
   },
   "retrojam6/a1.sav": {
-   "size": 107399,
+   "bytes": 107399,
+   "sha256": "16ffcf7909212524eb2b4b0cb40a9999a2eb71553e9ad68781cd966c32944eee",
    "timestamp": "2017-01-01T23:53:06.000Z"
   },
   "retrojam6/a2.sav": {
-   "size": 107298,
+   "bytes": 107298,
+   "sha256": "890de84342217288d20451ecdd581259fb13d933bc18ec1c04e94125cd2b9a6d",
    "timestamp": "2017-01-01T23:51:36.000Z"
   },
   "retrojam6/gfx/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-01-01T12:37:02.000Z"
   },
   "retrojam6/gfx/env/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-01-01T20:19:26.000Z"
   },
   "retrojam6/gfx/env/desert_bk.tga": {
-   "size": 701188,
+   "bytes": 701188,
+   "sha256": "f1f711036366b486e074d0ef142c0719f5c3d42dd0eb76e1c98a7d35a8a39457",
    "timestamp": "2017-01-01T20:19:26.000Z"
   },
   "retrojam6/gfx/env/desert_dn.tga": {
-   "size": 779658,
+   "bytes": 779658,
+   "sha256": "2793a401717ce1206f91a8fb299df4e3c333e135511c1f5ed4d60a37f6e9f766",
    "timestamp": "2017-01-01T20:19:26.000Z"
   },
   "retrojam6/gfx/env/desert_ft.tga": {
-   "size": 631806,
+   "bytes": 631806,
+   "sha256": "49f9b6cef91ece307739a3b4413ba3104f5502b995117512f1f83d1bbc4d6334",
    "timestamp": "2017-01-01T20:19:26.000Z"
   },
   "retrojam6/gfx/env/desert_lf.tga": {
-   "size": 655314,
+   "bytes": 655314,
+   "sha256": "4d7226db424e55d993c7b30bed74106f3091a3b56345ca73bfa4ba7ecf04a41d",
    "timestamp": "2017-01-01T20:19:26.000Z"
   },
   "retrojam6/gfx/env/desert_rt.tga": {
-   "size": 649417,
+   "bytes": 649417,
+   "sha256": "6978740a2bc4b7bb4cf87d0a3ace4b302a28bbdbf2a4dae009f19b860ffaa93d",
    "timestamp": "2017-01-01T20:19:26.000Z"
   },
   "retrojam6/gfx/env/desert_up.tga": {
-   "size": 341983,
+   "bytes": 341983,
+   "sha256": "88f8980804bfbe03147a79b2186697af75631057ceb172d36c294f0eb16941b2",
    "timestamp": "2017-01-01T20:19:26.000Z"
   },
   "retrojam6/gfx/env/grimmnight_bk.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "59be3026e6030ebcb4f301dc27569da94866569bd264990d5b68c0c0470be470",
    "timestamp": "2017-01-01T17:58:30.000Z"
   },
   "retrojam6/gfx/env/grimmnight_dn.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "6d9b33f83ccf56f92abdf2b1197ce5fa8a3979f8b40793a73219618b8f46c33d",
    "timestamp": "2017-01-01T17:58:30.000Z"
   },
   "retrojam6/gfx/env/grimmnight_ft.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "0e1892d4675a0630cde9a1a1453fb936b5fd4f62c97a91fde60778d94bced01f",
    "timestamp": "2017-01-01T17:58:30.000Z"
   },
   "retrojam6/gfx/env/grimmnight_lf.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "c69dca07d21151d7ea43527494687f3951715d692ed616af3a059f01481204cc",
    "timestamp": "2017-01-01T17:58:30.000Z"
   },
   "retrojam6/gfx/env/grimmnight_rt.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "bf2c9897af366d36efc11de39c051f3345ceeb6d38845be71b712c9403d726e7",
    "timestamp": "2017-01-01T17:58:30.000Z"
   },
   "retrojam6/gfx/env/grimmnight_up.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "e4e35e286d93770157119d60889ff0d2df08fa13ccafa32ea26884e31a1344bc",
    "timestamp": "2017-01-01T17:58:30.000Z"
   },
   "retrojam6/gfx/env/l_swampn_bk.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "3b83c2aeccb2ec2b6a7e7de05e4eb1f120437c575769b93533708093be6d7acb",
    "timestamp": "2015-01-12T13:51:56.000Z"
   },
   "retrojam6/gfx/env/l_swampn_dn.tga": {
-   "size": 3146268,
+   "bytes": 3146268,
+   "sha256": "64ea5b085c2758138760da154c77e3c90eb0831c68e75bac4c03cd03ae2e28c1",
    "timestamp": "2015-02-05T11:39:50.000Z"
   },
   "retrojam6/gfx/env/l_swampn_ft.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "f8149a22f17e241f3cc50ddc2587b3d8d6e72bb26f7a47d5045b08ed436863af",
    "timestamp": "2015-01-12T13:48:26.000Z"
   },
   "retrojam6/gfx/env/l_swampn_lf.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "fdf2a49932e8ee9c06b9a50fa6dcff3d29bdde55aa209d1658346cf236ca1dd8",
    "timestamp": "2015-01-12T13:49:24.000Z"
   },
   "retrojam6/gfx/env/l_swampn_rt.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "a2c65a9eafab955cfe898aa28e3563714354a08725068df84f390eebfc6ca20d",
    "timestamp": "2015-01-12T13:47:44.000Z"
   },
   "retrojam6/gfx/env/l_swampn_up.tga": {
-   "size": 3146269,
+   "bytes": 3146269,
+   "sha256": "aa5c65d4c106b17e695629023db1e6b304ec5b4f15e646a1a94b38c47ef9017e",
    "timestamp": "2015-02-05T11:41:18.000Z"
   },
   "retrojam6/gfx/env/moonhigh_bk.tga": {
-   "size": 1048620,
+   "bytes": 1048620,
+   "sha256": "5f361bf5a352c1df5a6caef9cf42bd35fed8406c6949af480b0425c193c18b3a",
    "timestamp": "2014-03-19T06:38:56.000Z"
   },
   "retrojam6/gfx/env/moonhigh_dn.tga": {
-   "size": 1048620,
+   "bytes": 1048620,
+   "sha256": "02e2b36863c1181a85aa675c53fc14a301f38dc6e0c6735098bb6d8723af02b3",
    "timestamp": "2014-03-19T06:36:50.000Z"
   },
   "retrojam6/gfx/env/moonhigh_ft.tga": {
-   "size": 1048620,
+   "bytes": 1048620,
+   "sha256": "3158735bdd6f4f467a5b29639aa4f622d1136ea463967684b739b0002bec6526",
    "timestamp": "2014-03-19T06:38:36.000Z"
   },
   "retrojam6/gfx/env/moonhigh_lf.tga": {
-   "size": 1048620,
+   "bytes": 1048620,
+   "sha256": "5cdaabd99655152689e40832643690d7b1c5f8e414f3126a7c0c9224f2250704",
    "timestamp": "2014-03-19T06:58:06.000Z"
   },
   "retrojam6/gfx/env/moonhigh_rt.tga": {
-   "size": 1048620,
+   "bytes": 1048620,
+   "sha256": "e08a374ac19c8b8cffa6c939515cde9570b44bbc044c12d06b0c5d94aa7469bc",
    "timestamp": "2014-03-19T06:58:26.000Z"
   },
   "retrojam6/gfx/env/moonhigh_up.tga": {
-   "size": 1048620,
+   "bytes": 1048620,
+   "sha256": "c0465fd6a0b069e5ff78f3e561084bf3e23b796cac9b5214a6cd4045310d36fe",
    "timestamp": "2015-10-28T16:08:10.000Z"
   },
   "retrojam6/gfx/env/mysticbk.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "aa12edc5ce603de9da0ff8687b4dc2642a0430ebc184ad2ff55de4b99065cc5e",
    "timestamp": "2017-01-01T12:53:14.000Z"
   },
   "retrojam6/gfx/env/mysticdn.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "cd18b758b837cae95139d3bc7500e518f0253f7ee3c103d718b26f910934dbf7",
    "timestamp": "2017-01-01T12:53:14.000Z"
   },
   "retrojam6/gfx/env/mysticft.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "649955b8cb064c5968c4c648dd0ace8e6e4ed45667d7be135451c6c6c8931a31",
    "timestamp": "2017-01-01T12:53:14.000Z"
   },
   "retrojam6/gfx/env/mysticlf.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "426f6cf33cb9836a61096cdeb158b7d7f8b98b01620709883bb7fe7691c2c638",
    "timestamp": "2017-01-01T12:53:14.000Z"
   },
   "retrojam6/gfx/env/mysticrt.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "811cc02f3d6ea04c4fccf1b71e0fdf52f2604cf2c175136539f5bd4ffaa351b1",
    "timestamp": "2017-01-01T12:53:14.000Z"
   },
   "retrojam6/gfx/env/mysticup.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "8559bbaf13d3444b497aa715c53cff53b9722d321c801e8b42cd06179022d689",
    "timestamp": "2017-01-01T12:53:14.000Z"
   },
   "retrojam6/gfx/env/stormydays_90bk.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "c81e6989c52170220598f5d0ff276d2486ebdca67daa257755371ca2765343f5",
    "timestamp": "2017-01-01T13:01:18.000Z"
   },
   "retrojam6/gfx/env/stormydays_90dn.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "d8b5a620b36782905bd466c8ad5f7c2d8d796a994aa7399edfb02cd50d4cbe71",
    "timestamp": "2017-01-01T13:01:18.000Z"
   },
   "retrojam6/gfx/env/stormydays_90ft.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "20bb6daf7a6d309cb5e66dcb2c8e8ebf2fe78dd64c0c1cdced5349580e35c6e5",
    "timestamp": "2017-01-01T13:01:18.000Z"
   },
   "retrojam6/gfx/env/stormydays_90lf.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "d898c7641be8fbb8eff1e3b32a8a4e6f02e13154ed7a88cc90ceabedae1fa235",
    "timestamp": "2017-01-01T13:01:18.000Z"
   },
   "retrojam6/gfx/env/stormydays_90rt.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "4d68b33f5da78b7fa5c4d4eb61d41b8520a24ce5a70de85f5edb909e52f65bf4",
    "timestamp": "2017-01-01T13:01:18.000Z"
   },
   "retrojam6/gfx/env/stormydays_90up.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "ff935f48b9a318dbd4883bc633d1f852e814bf9043d843dff47cee33124221e7",
    "timestamp": "2017-01-01T13:01:18.000Z"
   },
   "retrojam6/gfx/env/stormydays_bk.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "d898c7641be8fbb8eff1e3b32a8a4e6f02e13154ed7a88cc90ceabedae1fa235",
    "timestamp": "2015-09-01T18:23:54.000Z"
   },
   "retrojam6/gfx/env/stormydays_dn.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "70fe4ba19d17e46d62b70582916924e7c20229ecfc5c1bf700bcb6ccb9c563d4",
    "timestamp": "2015-09-01T18:23:54.000Z"
   },
   "retrojam6/gfx/env/stormydays_ft.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "4d68b33f5da78b7fa5c4d4eb61d41b8520a24ce5a70de85f5edb909e52f65bf4",
    "timestamp": "2015-09-01T18:23:54.000Z"
   },
   "retrojam6/gfx/env/stormydays_lf.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "20bb6daf7a6d309cb5e66dcb2c8e8ebf2fe78dd64c0c1cdced5349580e35c6e5",
    "timestamp": "2015-09-01T18:23:54.000Z"
   },
   "retrojam6/gfx/env/stormydays_rt.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "c81e6989c52170220598f5d0ff276d2486ebdca67daa257755371ca2765343f5",
    "timestamp": "2015-09-01T18:23:54.000Z"
   },
   "retrojam6/gfx/env/stormydays_up.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "672d5c37dcfcd47604a4be21c748b6927e89b3e8fc6571653d5c38475e1572d1",
    "timestamp": "2015-09-01T18:23:54.000Z"
   },
   "retrojam6/maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-01-02T00:15:04.000Z"
   },
   "retrojam6/maps/retrojam6_bloodshot.bsp": {
-   "size": 5324456,
+   "bytes": 5324456,
+   "sha256": "5a0204c4b3d7735a14898c5715ae1dfeb3fdda426ce65a6108f1bcb765dd2d98",
    "timestamp": "2016-12-30T12:58:22.000Z"
   },
   "retrojam6/maps/retrojam6_bloodshot.lit": {
-   "size": 2821478,
+   "bytes": 2821478,
+   "sha256": "b8d72a6e4aef51278117890963b344e915fb75dd77c6bcd93dfd087b4dd83e6d",
    "timestamp": "2016-12-30T12:34:14.000Z"
   },
   "retrojam6/maps/retrojam6_bloodshot.vis": {
-   "size": 10712047,
+   "bytes": 10712047,
+   "sha256": "53a524c055171625c62d49266f9e85d173f5926a0896716d252e728a2ed371cf",
    "timestamp": "2016-12-30T12:57:04.000Z"
   },
   "retrojam6/maps/retrojam6_breezeep.bsp": {
-   "size": 1942632,
+   "bytes": 1942632,
+   "sha256": "5bd5fa2bc4196a2da2e2fb2a594ce1b511b2c17ffe3a4e45e036b667ec1041fb",
    "timestamp": "2017-01-01T15:16:40.000Z"
   },
   "retrojam6/maps/retrojam6_breezeep.lit": {
-   "size": 694628,
+   "bytes": 694628,
+   "sha256": "2776cbd025ee70cae391c1aa6abfdd0fc2706e86cf7beab9560ac12dd4b09ba9",
    "timestamp": "2017-01-01T15:16:40.000Z"
   },
   "retrojam6/maps/retrojam6_danzadan.bsp": {
-   "size": 2464156,
+   "bytes": 2464156,
+   "sha256": "0707075f83499e57fce14154801fbc206e7af1f3db0abc6dbd9551f1c829703e",
    "timestamp": "2017-01-01T15:57:36.000Z"
   },
   "retrojam6/maps/retrojam6_danzadan.lit": {
-   "size": 817865,
+   "bytes": 817865,
+   "sha256": "ef179c44d99e5262ef719799bdd57cd41c0790a9da56be85aafb6ce0ee778dff",
    "timestamp": "2017-01-01T15:57:36.000Z"
   },
   "retrojam6/maps/retrojam6_doomer.bsp": {
-   "size": 1281372,
+   "bytes": 1281372,
+   "sha256": "61c5f26625d262fdc4e4d89f837c6af39a30a0e1138e3a90ca32739107728907",
    "timestamp": "2017-01-01T12:55:26.000Z"
   },
   "retrojam6/maps/retrojam6_dumptruck_ds_revised.bsp": {
-   "size": 2313760,
+   "bytes": 2313760,
+   "sha256": "c28977bfb6825fea49f9982d7a27a14b3a91d53e30119aa285f8e1cd28d18101",
    "timestamp": "2017-01-01T13:02:42.000Z"
   },
   "retrojam6/maps/retrojam6_dumptruck_ds_revised.lit": {
-   "size": 1024145,
+   "bytes": 1024145,
+   "sha256": "0e6d32b5c70e5a73e5f6daa417d993d87c4403b2de4a692eb370ec72e54c7bc2",
    "timestamp": "2017-01-01T13:02:42.000Z"
   },
   "retrojam6/maps/retrojam6_fifth.bsp": {
-   "size": 2923352,
+   "bytes": 2923352,
+   "sha256": "7ef01dc55d7bcedfd2cd1ee2a941bf97b88ab2c13e5c0274f32a579d4c35c32c",
    "timestamp": "2017-01-01T23:20:00.000Z"
   },
   "retrojam6/maps/retrojam6_fifth.lit": {
-   "size": 1499687,
+   "bytes": 1499687,
+   "sha256": "517cb7cc7b2e2f3d9989d8e9e7d92b652ff322fdd7156beeffaf0b3cfd311cd0",
    "timestamp": "2017-01-01T23:20:00.000Z"
   },
   "retrojam6/maps/retrojam6_ionous.bsp": {
-   "size": 1097467,
+   "bytes": 1097467,
+   "sha256": "8ea4444a168e037976d0c4089814dd51718f5af99160e6014b246e1371b647d7",
    "timestamp": "2017-01-01T12:58:38.000Z"
   },
   "retrojam6/maps/retrojam6_khreathor.bsp": {
-   "size": 4925488,
+   "bytes": 4925488,
+   "sha256": "3497553f46491474714e00651fd4b64396a403ea0e7c1d1699b15b376250136a",
    "timestamp": "2017-01-01T22:37:50.000Z"
   },
   "retrojam6/maps/retrojam6_khreathor.lit": {
-   "size": 1424537,
+   "bytes": 1424537,
+   "sha256": "63d572566981ef8ccc432766d4e595fc8d2ec2bac29e22f01af1b4882369f401",
    "timestamp": "2017-01-01T22:37:50.000Z"
   },
   "retrojam6/maps/retrojam6_lp.bsp": {
-   "size": 1835338,
+   "bytes": 1835338,
+   "sha256": "8f7379ee9b1f311756f218ca9b5fae34aba2576725bd7c5b12c8fa68f757543c",
    "timestamp": "2017-01-01T12:56:40.000Z"
   },
   "retrojam6/maps/retrojam6_mjb.bsp": {
-   "size": 5408860,
+   "bytes": 5408860,
+   "sha256": "04be45e36ee6c7ffc81eade6cc060ca4dc53cc7c235813879d7b780a4576eda7",
    "timestamp": "2017-01-01T12:53:06.000Z"
   },
   "retrojam6/maps/retrojam6_mjb.lit": {
-   "size": 2788664,
+   "bytes": 2788664,
+   "sha256": "96d767e83c19ef7945bf390271ea8977bf1e8ab15fe75e35e84ad48693fe7346",
    "timestamp": "2017-01-01T12:53:06.000Z"
   },
   "retrojam6/maps/retrojam6_mukor.bsp": {
-   "size": 6462436,
+   "bytes": 6462436,
+   "sha256": "510161f4af896f20b807edf90d54c572e13eb2be1d95d6e7f1c3d0b4ff27c52e",
    "timestamp": "2017-01-01T19:28:54.000Z"
   },
   "retrojam6/maps/retrojam6_mukor.lit": {
-   "size": 1982729,
+   "bytes": 1982729,
+   "sha256": "f8c9630793a6ab71d842fa9821bc43441d4dee794bd2a0c4c153e515e9d2e91c",
    "timestamp": "2017-01-01T19:28:54.000Z"
   },
   "retrojam6/maps/retrojam6_nait.bsp": {
-   "size": 2928344,
+   "bytes": 2928344,
+   "sha256": "a65957e8e3b79af54662605a44b7c0128dae992e97d8483de396e26f3f766ef9",
    "timestamp": "2017-01-01T23:39:26.000Z"
   },
   "retrojam6/maps/retrojam6_newhouse.bsp": {
-   "size": 3100324,
+   "bytes": 3100324,
+   "sha256": "dd1980886fa0ae369f4c4d610230eac6b1a8b8a25e802bb19b3b2b1d46681c0e",
    "timestamp": "2017-01-01T13:04:44.000Z"
   },
   "retrojam6/maps/retrojam6_newhouse.lit": {
-   "size": 3067799,
+   "bytes": 3067799,
+   "sha256": "01d24a1f98119ad8b4aac052448165220adb157b7d6febb30e8b3f48e2f9ca09",
    "timestamp": "2017-01-01T13:04:44.000Z"
   },
   "retrojam6/maps/retrojam6_oasis.bsp": {
-   "size": 1379512,
+   "bytes": 1379512,
+   "sha256": "12d4650d6498527f70e44a4670881298fa86ed3603e4a19aa6a773204e6f6591",
    "timestamp": "2017-01-01T17:57:56.000Z"
   },
   "retrojam6/maps/retrojam6_otp.bsp": {
-   "size": 1595736,
+   "bytes": 1595736,
+   "sha256": "471f9f366d153a08b5494354e61c860483d3ff7434f58931b17748149ccd9e85",
    "timestamp": "2017-01-01T19:14:46.000Z"
   },
   "retrojam6/maps/retrojam6_otp.lit": {
-   "size": 558707,
+   "bytes": 558707,
+   "sha256": "f32a9f752d93c2aeed6a7b66dcb0b55c4a9bb7a2877c524caa02de31b05486ca",
    "timestamp": "2017-01-01T19:14:48.000Z"
   },
   "retrojam6/maps/retrojam6_pulsar.bsp": {
-   "size": 1789188,
+   "bytes": 1789188,
+   "sha256": "cd698fe11e224bcd02a4feb1eea3261e24fece3b289e1a327d8049aa5f3a32c9",
    "timestamp": "2017-01-01T12:54:32.000Z"
   },
   "retrojam6/maps/retrojam6_pulsar.lit": {
-   "size": 592277,
+   "bytes": 592277,
+   "sha256": "6e47b162cb9fd5dcc59cf58e52f9e6686c2ac4133baf3b4f718905dab4aafb07",
    "timestamp": "2017-01-01T12:54:32.000Z"
   },
   "retrojam6/maps/retrojam6_skacky.bsp": {
-   "size": 6174008,
+   "bytes": 6174008,
+   "sha256": "5851470f81a939c2a89f6c5ef947e40f0d4498e568330758a2717f16c7254cdc",
    "timestamp": "2017-01-01T13:01:02.000Z"
   },
   "retrojam6/maps/retrojam6_skacky.lit": {
-   "size": 1759283,
+   "bytes": 1759283,
+   "sha256": "aa336d4dc3c0c7c418d0fa6d23a5dc58644e4fec1c6ebd1a82dedbeedb6837ee",
    "timestamp": "2017-01-01T13:01:02.000Z"
   },
   "retrojam6/maps/sources/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-01-02T00:15:04.000Z"
   },
   "retrojam6/maps/sources/retrojam6_breezeep.map": {
-   "size": 989473,
+   "bytes": 989473,
+   "sha256": "99fb959dbe4443251a6dc1f98b227ec43a62dec801132dd0e060042e247ec9e6",
    "timestamp": "2017-01-01T15:15:42.000Z"
   },
   "retrojam6/maps/sources/retrojam6_custom.wad": {
-   "size": 1768484,
+   "bytes": 1768484,
+   "sha256": "00b80e211a1d124117cf4ae9f545cf98fb3dc3ac9e34d875bf4b656b9d606949",
    "timestamp": "2017-01-01T20:19:20.000Z"
   },
   "retrojam6/maps/sources/retrojam6_danzadan.jmf": {
-   "size": 3989008,
+   "bytes": 3989008,
+   "sha256": "74925b1722890696f9a9d19ed3d657ddf646c47664e3182a3c15aa49cd222478",
    "timestamp": "2017-01-01T15:57:36.000Z"
   },
   "retrojam6/maps/sources/retrojam6_danzadan.map": {
-   "size": 1521539,
+   "bytes": 1521539,
+   "sha256": "595de9973aee922ec21794f84f8ee6fe10432af5094c7108de965eb6e8082567",
    "timestamp": "2017-01-01T15:57:36.000Z"
   },
   "retrojam6/maps/sources/retrojam6_doomer.map": {
-   "size": 554093,
+   "bytes": 554093,
+   "sha256": "68c8e10121524d4dd6df6631a4cd13a6631f5294b10f02af4f8ef5ac159b2f16",
    "timestamp": "2017-01-01T12:56:14.000Z"
   },
   "retrojam6/maps/sources/retrojam6_dumptruck_ds_revised.map": {
-   "size": 853153,
+   "bytes": 853153,
+   "sha256": "2547c92ab416f5c5115980f161fe6765549c297b354a3d400d4262021e10fd99",
    "timestamp": "2017-01-01T13:02:42.000Z"
   },
   "retrojam6/maps/sources/retrojam6_fifth.map": {
-   "size": 859802,
+   "bytes": 859802,
+   "sha256": "1ca68172fd5228719a62de93a2f7e45b5bf1c9047213cd6e48b58ebd5a2aae21",
    "timestamp": "2017-01-01T23:19:02.000Z"
   },
   "retrojam6/maps/sources/retrojam6_ionous.jmf": {
-   "size": 1996797,
+   "bytes": 1996797,
+   "sha256": "129ca8bc9851044782a6d0bf9e1a05176bfb78e6bcf6fac8d9478f27cbc3eba2",
    "timestamp": "2017-01-01T12:58:38.000Z"
   },
   "retrojam6/maps/sources/retrojam6_ionous.map": {
-   "size": 774004,
+   "bytes": 774004,
+   "sha256": "c5ebd673933c21795500aad5bf4e494115028498b43dced45d95e6be6a883a62",
    "timestamp": "2017-01-01T12:58:38.000Z"
   },
   "retrojam6/maps/sources/retrojam6_khreathor.jmf": {
-   "size": 5272005,
+   "bytes": 5272005,
+   "sha256": "9b4cce605cb6c446a17bf845c7c5fd309ccb238bf3ca603e3d1bececa94c215b",
    "timestamp": "2017-01-01T20:19:20.000Z"
   },
   "retrojam6/maps/sources/retrojam6_khreathor.map": {
-   "size": 2063624,
+   "bytes": 2063624,
+   "sha256": "0a96798d4cdad7210d2cdfec5d0158948fc1c01e644ff89b420855bfdd0df1cb",
    "timestamp": "2017-01-01T20:19:20.000Z"
   },
   "retrojam6/maps/sources/retrojam6_lp.map": {
-   "size": 482657,
+   "bytes": 482657,
+   "sha256": "ef88b3f123a47a7e228af772633a8f161ca8177062a7f24d9898033f5d2a8c06",
    "timestamp": "2017-01-01T12:56:40.000Z"
   },
   "retrojam6/maps/sources/retrojam6_mjb.map": {
-   "size": 1955360,
+   "bytes": 1955360,
+   "sha256": "c06b920cad81d09e2f5e58221e2142d5223b5668c0e8711c2df17578d6ec202c",
    "timestamp": "2017-01-01T12:53:06.000Z"
   },
   "retrojam6/maps/sources/retrojam6_mukor.map": {
-   "size": 2513599,
+   "bytes": 2513599,
+   "sha256": "a1a8d07b56a22a58bd426bb741d95829fbf340a33904050cfaf6a510355ae5ba",
    "timestamp": "2017-01-01T18:42:46.000Z"
   },
   "retrojam6/maps/sources/retrojam6_newhouse.map": {
-   "size": 1083665,
+   "bytes": 1083665,
+   "sha256": "f122536e1b410dbead991f56e510571e4baf1e66ee1bcb09546851fbf545842b",
    "timestamp": "2017-01-01T13:04:44.000Z"
   },
   "retrojam6/maps/sources/retrojam6_oasis.map": {
-   "size": 320984,
+   "bytes": 320984,
+   "sha256": "28f542ea478097a58d11374d7b19fcc3c5296a5db91201a5d498ed609c83e718",
    "timestamp": "2017-01-01T17:57:56.000Z"
   },
   "retrojam6/maps/sources/retrojam6_otp.map": {
-   "size": 517794,
+   "bytes": 517794,
+   "sha256": "a62196aba303993eed58c103e362bc678b86debf2e2c72ff83309b47faaaab50",
    "timestamp": "2017-01-01T19:14:46.000Z"
   },
   "retrojam6/maps/sources/retrojam6_pulsar.map": {
-   "size": 1264614,
+   "bytes": 1264614,
+   "sha256": "6974aeafe3ed019f04b5a007952b4721f9f362c93cb2458dd4324e010c019397",
    "timestamp": "2017-01-01T12:54:32.000Z"
   },
   "retrojam6/maps/sources/retrojam6_skacky.map": {
-   "size": 3553851,
+   "bytes": 3553851,
+   "sha256": "1c23981babae87a561092db87518e2b2710097e3a1844dbd085672a4e796702a",
    "timestamp": "2017-01-01T13:01:08.000Z"
   },
   "retrojam6/pak0.pak": {
-   "size": 271628,
+   "bytes": 271628,
+   "files": {
+    "maps/b_batt0.bsp": {
+     "bytes": 6980,
+     "sha256": "0d481a2e2cd7a23e4ef19c19622195007bd6c9a67135ef739b0944a02d46fcd7"
+    },
+    "maps/b_batt1.bsp": {
+     "bytes": 6964,
+     "sha256": "34709c1c06ca34305a8ba1d4799d1cdc07e44ff33f3c7fa11c3d5933cb942579"
+    },
+    "maps/b_bh10.bsp": {
+     "bytes": 7124,
+     "sha256": "d3371655bed274070fa98fb32b408bab4a22fe754f5158c8c94a072749a5d24d"
+    },
+    "maps/b_bh100.bsp": {
+     "bytes": 7764,
+     "sha256": "abdfe383c13da6d5dd7a9409fa5d3db2c4bac78482eb75c2c2b42da7811ec3ca"
+    },
+    "maps/b_bh25.bsp": {
+     "bytes": 8788,
+     "sha256": "2343448faac29720e3a690650b70623852710dcae002917ae5772fa597117e17"
+    },
+    "maps/b_nail0.bsp": {
+     "bytes": 5604,
+     "sha256": "66ea23f1cdd6225afdd1b7cf1247b93d174562193e0807561b96b659429f2bf0"
+    },
+    "maps/b_nail1.bsp": {
+     "bytes": 6820,
+     "sha256": "366ece777ae71ecfebaa9f4bebafe2074b5336e7939900f46bd9521886f9f42d"
+    },
+    "maps/b_rock0.bsp": {
+     "bytes": 7092,
+     "sha256": "56a66aa3d1364a0436ff8ce880268b2a9c2c396ab02f0c6277535d5b99eae31a"
+    },
+    "maps/b_rock1.bsp": {
+     "bytes": 7636,
+     "sha256": "ddd60cec57d8e3954c1ffce616ae862edb784417a6b6622cc001d408383a6cb9"
+    },
+    "maps/b_shell0.bsp": {
+     "bytes": 5396,
+     "sha256": "fe60bd7880da73571e29fa4075968cccb06e913bd2b9475868ce31c69b1a8c19"
+    },
+    "maps/b_shell1.bsp": {
+     "bytes": 8436,
+     "sha256": "6a2c2c3fa6f88d425ae5b9568e5d8224ee901a1d8faa8363b88fff569b7d0e5f"
+    },
+    "progs/backpack.mdl": {
+     "bytes": 25812,
+     "sha256": "1ba9d3176bb2e03a0457427fd9394d8c15eb9ebae8af9462e955e9c6c6068513"
+    },
+    "progs/end3.mdl": {
+     "bytes": 19700,
+     "sha256": "445af16e28fff506ad65fac16b09dad1672e218ffe0183880aff565578b315b8"
+    },
+    "progs/end4.mdl": {
+     "bytes": 19220,
+     "sha256": "cf52525422a102760bfcabd6e8dd5c5df7c2028daea5baa2a1b1717648dd143e"
+    },
+    "progs/grenade.mdl": {
+     "bytes": 3860,
+     "sha256": "256412b0d88c020fb03efc5e914c5dd721c9dfe8d6a36ce4a7b01e7597d7e7d5"
+    },
+    "progs/invisibl.mdl": {
+     "bytes": 7108,
+     "sha256": "d4c5b6316aa02d600951c6a8ec1f4682568b9e877e988cf4cedd77c0e95cf663"
+    },
+    "progs/invulner.mdl": {
+     "bytes": 21412,
+     "sha256": "1274fcabffa89a786b29c9238cf84e95a8557369239b4a9eb813e3dbe37d35ac"
+    },
+    "progs/k_spike.mdl": {
+     "bytes": 5492,
+     "sha256": "ecf293b2e8146a33de7bc8bb3cded80bb785b931012b40dca204db3dad50e776"
+    },
+    "progs/missile.mdl": {
+     "bytes": 8372,
+     "sha256": "5c4b9d831357ad72e5f47c38e13b8e2ab04b80fb9d8ed6ddd3667a5eea9a585a"
+    },
+    "progs/quaddama.mdl": {
+     "bytes": 22052,
+     "sha256": "c5657b558522e46f0833b7827520c1a5c1f1674dffd52c12609779d5bcd75462"
+    },
+    "progs/s_spike.mdl": {
+     "bytes": 1396,
+     "sha256": "945ad552ad86e5193ef9c007dbe23686fbe89be1060063f57ea693b89e5df229"
+    },
+    "progs/spike.mdl": {
+     "bytes": 1396,
+     "sha256": "c5e6afcfbfe35ffde5bda7eaf91e2a583c3f20cf8f3175b4f4e0ad03b358983c"
+    },
+    "progs/v_spike.mdl": {
+     "bytes": 9012,
+     "sha256": "06e8f32092cbc0b5ba4d26227df9ac2d10f3a76d9a63bc7928af147b4ade12d7"
+    },
+    "progs/w_g_key.mdl": {
+     "bytes": 10196,
+     "sha256": "bf5c4ffac0c77e4e039af048ebef10cc8d68644f13956a75fac65577c840cd8e"
+    },
+    "progs/w_s_key.mdl": {
+     "bytes": 10132,
+     "sha256": "d368ad594376bfa4c3c3b77bb467b91d62296a6385c276b2d76cd44891d1a752"
+    },
+    "progs/w_spike.mdl": {
+     "bytes": 6356,
+     "sha256": "40d9d29c58df57ece6892d71d0464022eb5939aa45699e98eae22136b973c4c8"
+    },
+    "progs/zom_gib.mdl": {
+     "bytes": 19768,
+     "sha256": "2175cca881b4a73adf3742933a5d3e91116c774ddd3db9b6ac2a7f863194d4a8"
+    }
+   },
+   "sha256": "71941eabf9224d83cb7106a4c98950fff0439a6c73534e6fca8ba99e8469a277",
    "timestamp": "2017-01-01T12:44:28.000Z"
   },
   "retrojam6/readme/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-01-01T23:40:52.000Z"
   },
   "retrojam6/readme/ReadMe_nait.txt": {
-   "size": 130,
+   "bytes": 130,
+   "sha256": "4b67f64fafe57f14fa7fc4c3e6fea52c0203744b4272c8ca8308be24c50a4269",
    "timestamp": "2017-01-01T23:40:48.000Z"
   },
   "retrojam6/readme/readme_newhouse.txt": {
-   "size": 1331,
+   "bytes": 1331,
+   "sha256": "874b1e30ccc64b3e7c5e9065ced50ed6b1d3e13d4c3c939c21adcd5292e9833a",
    "timestamp": "2017-01-01T13:04:44.000Z"
   },
   "retrojam6/readme/retrojam6_doomer.txt": {
-   "size": 1766,
+   "bytes": 1766,
+   "sha256": "37a1ed2d4218c604a3839e08d3be103bea6f63a1c014ec0aeb15229aaa107a43",
    "timestamp": "2017-01-01T12:56:08.000Z"
   },
   "retrojam6/readme/retrojam6_dumptruck_ds_readme.txt": {
-   "size": 2274,
+   "bytes": 2274,
+   "sha256": "4e28a81f708c3ae85602bb61c51b9544920a9933be746493c74f48120a0b35bf",
    "timestamp": "2017-01-01T13:02:42.000Z"
   },
   "retrojam6/readme/retrojam6_lp.txt": {
-   "size": 881,
+   "bytes": 881,
+   "sha256": "8a93d09f235713cbd111780cc340b03157a1ffbb9efc68ed92ac12c767f47de1",
    "timestamp": "2017-01-01T12:56:40.000Z"
   },
   "retrojam6/readme/retrojam6_mjb.txt": {
-   "size": 6685,
+   "bytes": 6685,
+   "sha256": "c066860ddb384b24aed68fb991d63a894e6af9357e0eb8d3c4673fbed844b371",
    "timestamp": "2017-01-01T12:53:06.000Z"
   },
   "retrojam6/readme/retrojam6_mukor.txt": {
-   "size": 917,
+   "bytes": 917,
+   "sha256": "58e33f78096652e090945acebfd283219832b850c9b66b429cc1a1070e6ee356",
    "timestamp": "2017-01-01T10:38:02.000Z"
   },
   "retrojam6/readme/retrojam6_skacky.txt": {
-   "size": 1153,
+   "bytes": 1153,
+   "sha256": "9e1f421832de52ede9ff09502dc24581ed7cd4e9d090cc2c786cc9775ed3ec43",
    "timestamp": "2017-01-01T13:01:02.000Z"
   },
   "retrojam6/retrojam6_readme.txt": {
-   "size": 3245,
+   "bytes": 3245,
+   "sha256": "5f9ebdf1da6c485b577c074e03212e1dfb6bfd424afeb05d3d03793feb3cb755",
    "timestamp": "2017-01-01T23:45:20.000Z"
   }
  },
- "filesize": 52615,
  "install": {
-  "extract": "{quake}//"
+  "extract": "{base}//"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "d270bdc48ee9db7f2bc79d7c4b9c433df7cc6f64ee3d90a32c0b393c6f4d1dc7",
  "tags": [
   "author=Bloodshot",
@@ -469,14 +686,33 @@
   "author=onetruepurple",
   "author=skacky",
   "commandline=-game retrojam6",
+  "filename=retrojam6.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61391)",
-  "releasedate=2017-01-01",
+  "map_layout=maze",
+  "map_size=medium",
+  "map_size=small",
+  "nonspecific_tag=ambiance",
+  "nonspecific_tag=ancient",
+  "nonspecific_tag=atmospheric",
+  "nonspecific_tag=corridors",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=geometry",
+  "nonspecific_tag=halls",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=labyrinth",
+  "nonspecific_tag=moody",
+  "nonspecific_tag=mustplay",
+  "nonspecific_tag=obscure",
+  "nonspecific_tag=skybox",
+  "release_date=2017-01-01",
+  "source=included",
   "startmap=retrojam6_bloodshot",
   "startmap=retrojam6_breezeep",
   "startmap=retrojam6_danzadan",
   "startmap=retrojam6_doomer",
-  "startmap=retrojam6_dumptruck",
+  "startmap=retrojam6_dumptruck_revised",
   "startmap=retrojam6_fifth",
   "startmap=retrojam6_ionous",
   "startmap=retrojam6_khreathor",
@@ -489,18 +725,18 @@
   "startmap=retrojam6_otp",
   "startmap=retrojam6_pulsar",
   "startmap=retrojam6_skacky",
-  "tag=egypt",
-  "tag=egyptian",
-  "tag=medium",
-  "tag=pyramid",
-  "tag=sand",
-  "tag=skybox",
-  "tag=small",
-  "tag=source",
-  "tag=temple",
-  "tag=tomb",
-  "tag=water",
-  "title=Retro Jam 6 - Egyptian theme"
+  "theme=abstract",
+  "theme=egypt",
+  "theme=egyptian",
+  "theme=pyramid",
+  "theme=ruins",
+  "theme=sand",
+  "theme=temple",
+  "theme=tomb",
+  "theme=traps",
+  "theme=water",
+  "title=Retro Jam 6 - Egyptian theme",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam6.zip",

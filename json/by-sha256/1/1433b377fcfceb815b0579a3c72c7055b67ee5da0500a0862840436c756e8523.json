@@ -1,34 +1,36 @@
 {
- "filename": [
-  "outpost-alpha.zip"
- ],
+ "bytes": 239,
  "files": {
   "outpost-alpha.bsp": {
-   "size": 626952,
+   "bytes": 626952,
+   "sha256": "637af48febad2a230ecebdb1090e0722fe6f36a94535d911f634b41b162e8c6b",
    "timestamp": "1999-07-13T01:17:24.000Z"
   },
   "outpost-alpha.txt": {
-   "size": 2254,
+   "bytes": 2254,
+   "sha256": "f2417b6fa5bc8227c7dc80a52665657c91b875b6090ade85c2372272668c1813",
    "timestamp": "1999-07-13T01:44:56.000Z"
   }
  },
- "filesize": 239,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1433b377fcfceb815b0579a3c72c7055b67ee5da0500a0862840436c756e8523",
  "tags": [
   "author=Peter Bisseker (tiddles)",
+  "filename=outpost-alpha.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990713.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=opa)",
-  "releasedate=1999-07-13",
-  "tag=base rust",
-  "tag=planetquake-map-of-the-week",
-  "tag=quake2",
-  "tag=small",
-  "title=Outpost alpha"
+  "map_size=small",
+  "nonspecific_tag=base rust",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-07-13",
+  "theme=quake 2",
+  "title=Outpost alpha",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/outpost-alpha.zip",

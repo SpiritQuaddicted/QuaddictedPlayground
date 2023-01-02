@@ -1,35 +1,37 @@
 {
- "filename": [
-  "hive.zip"
- ],
+ "bytes": 849,
  "files": {
   "Hive.bsp": {
-   "size": 1988180,
+   "bytes": 1988180,
+   "sha256": "360fa79782704578cdc075df8a071d74386c02076d753666c8d81ef3d94f1d2e",
    "timestamp": "1997-06-16T21:47:38.000Z"
   },
   "Hive.txt": {
-   "size": 2746,
+   "bytes": 2746,
+   "sha256": "810864f539f75ad075ff8b16c5b109f7a3861a4143881c2c4f799589b9308594",
    "timestamp": "1997-06-18T08:34:06.000Z"
   }
  },
- "filesize": 849,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6d65b4105f5c2db7b43e69aaf2520fff71469ee2a87d50bcc6e068a124891eb8",
  "tags": [
   "author=Chris Mayers",
+  "filename=hive.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsh.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/g_i.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-06-18",
-  "tag=base",
-  "tag=medium",
-  "tag=wizard",
-  "title=Hive, part I"
+  "map_size=medium",
+  "release_date=1997-06-18",
+  "theme=base",
+  "theme=wizard",
+  "title=Hive, part I",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hive.zip",

@@ -1,0 +1,813 @@
+{
+ "bytes": 16486,
+ "files": {
+  "zigisp2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:55:46.000Z"
+  },
+  "zigisp2/gfx.wad": {
+   "bytes": 176868,
+   "sha256": "3ed832828694ce5df11b16225ef3a105c6aad19f270dd06254a5fd942689eb48",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:38.000Z"
+  },
+  "zigisp2/gfx/complete.lmp": {
+   "bytes": 4712,
+   "sha256": "4d751e2308e5d7a78a3d011c66677ae66f5df06b19a52c2fe4412b783da97035",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "a43f71566341e623447f95c4d0552575de4676efea0fb061292dfaecc8b9257c",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:38.000Z"
+  },
+  "zigisp2/gfx/env/vrkorabk.tga": {
+   "bytes": 4194348,
+   "sha256": "79cd08ceeb7ff674f4e18f281b9289de128ce88b8982ca47b87f5742584c5208",
+   "timestamp": "2020-02-28T20:00:02.000Z"
+  },
+  "zigisp2/gfx/env/vrkoradn.tga": {
+   "bytes": 4194348,
+   "sha256": "cb39310a9f9933295198362cad6ba3aecd28fc3609c4ff85bc4f54a0f1d941ca",
+   "timestamp": "2020-02-28T20:00:36.000Z"
+  },
+  "zigisp2/gfx/env/vrkoraft.tga": {
+   "bytes": 4194348,
+   "sha256": "7f7c796bd63021ce582cf0ff7d4e2485ebdfd40dba409faaa59479ae61247f58",
+   "timestamp": "2020-02-28T20:01:00.000Z"
+  },
+  "zigisp2/gfx/env/vrkoralf.tga": {
+   "bytes": 4194348,
+   "sha256": "ca1f2782b5b25a6f13c59326998f365217de43ed98d9ba8e3aa996618945788e",
+   "timestamp": "2020-02-28T20:01:18.000Z"
+  },
+  "zigisp2/gfx/env/vrkorart.tga": {
+   "bytes": 4194348,
+   "sha256": "326266c10e8824aeaf06254149d81dd57e21d33a60f92aee9f953418811748d4",
+   "timestamp": "2020-02-28T20:01:36.000Z"
+  },
+  "zigisp2/gfx/env/vrkoraup.tga": {
+   "bytes": 4194348,
+   "sha256": "faf1c4912a86714c037f84998e177fba8c4b59d3dd28120e1d6d3b94a524cb45",
+   "timestamp": "2020-02-28T20:01:54.000Z"
+  },
+  "zigisp2/gfx/finale.lmp": {
+   "bytes": 6920,
+   "sha256": "8e1160429fbb7be0aa5c5e5be84156ce9b74e3fcbc5a8c23ff54a51ab0f68224",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/help0.lmp": {
+   "bytes": 64008,
+   "sha256": "b1deebb2268d373683100cc9df4c9dcbf817f9bdb0e3f2cd13edde0037609b53",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/help1.lmp": {
+   "bytes": 64008,
+   "sha256": "11454a7ec41855cc66adc9b80e60b1c76b0af873656d46cc20543ea4d2a7ef8c",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/help2.lmp": {
+   "bytes": 64008,
+   "sha256": "d2a59d07042577c9c5a5ceace5ad0e3893ba3ac2d206f039f11cf282ead3945e",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/help3.lmp": {
+   "bytes": 64008,
+   "sha256": "63f869e1e553ccae238279e4b78c902463505a3d1dd7c5d21d4f4acbb56857ee",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/help4.lmp": {
+   "bytes": 64008,
+   "sha256": "6e3d8ed0cf22d78c0e05bf75837214a12f647fda33da1fa1ad1195cff3cb9681",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/help5.lmp": {
+   "bytes": 64008,
+   "sha256": "35db83f82066ac1db85f4094dc9710e313b638e019d8e4d6fb5abf0457d506af",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/loading.lmp": {
+   "bytes": 3464,
+   "sha256": "4d2891882cdba6782c02fda1e0d49a1c802a0734e35ca88a622dcbe4c334991e",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/p_load.lmp": {
+   "bytes": 4424,
+   "sha256": "ee84f65a4e9ad4eb166c1790da9fd586fa1237f5400adc08b7656fe568304404",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/p_multi.lmp": {
+   "bytes": 5096,
+   "sha256": "89477de79105b07d6a1dadc9dd422cbbecbdd220454bd441cf11f5fe192da1b0",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/p_option.lmp": {
+   "bytes": 3560,
+   "sha256": "65fd24aed5bf14ab961166cae2d00884583d624b926a46fdef83df3131fcf856",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/p_save.lmp": {
+   "bytes": 4136,
+   "sha256": "ba9faaa1c655cdabbb784cbb3381ffe28f30c601d3020de2e5cf6cfa9c49be6f",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/pause.lmp": {
+   "bytes": 3176,
+   "sha256": "0aa8e7c90081b1ba9809ec2cd30e7d90c99935fba6695ecc6016930c812e1cb5",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/qplaque.lmp": {
+   "bytes": 4616,
+   "sha256": "59bf5a3808277804b94785434ef43eadf20ab9283109fb43bb2c873223029da5",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/ranking.lmp": {
+   "bytes": 3944,
+   "sha256": "e5c4ae88295fc0fa9f383889a1982d23c3c466475a8d67bf422d20a470d25fe5",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/ttl_cstm.lmp": {
+   "bytes": 4328,
+   "sha256": "b2b6ca588b19f79bc58b41c2acf5c66e23e5c8d6fa347a2f272ad1962bed0ca9",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/ttl_main.lmp": {
+   "bytes": 4136,
+   "sha256": "a2810c03c5f1f80dfdcf2d575d479d699f8f756d9a2b5ec63694026b3ac85cc7",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/ttl_sgl.lmp": {
+   "bytes": 2984,
+   "sha256": "8362ba05650ecb9ae971f76d7d40815b563c0d67baad80f05d29c282a58989de",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/gfx/vidmodes.lmp": {
+   "bytes": 5096,
+   "sha256": "f62b7e48be71999d6ae8dc675529a30161524f3288c80e96a6c98b2536acee46",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:49:22.000Z"
+  },
+  "zigisp2/maps/b_batt0.bsp": {
+   "bytes": 6074,
+   "sha256": "ed9f5c7ea499924e02196aa9b68725d0de17c10dc2194956525397d95c6b0d19",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_batt1.bsp": {
+   "bytes": 6074,
+   "sha256": "80a4dc9ca61773cf48e71a9971e0f6fdf006a35fef652d3506dbc4e90fd3e370",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_bh10.bsp": {
+   "bytes": 6096,
+   "sha256": "e1e0409af59b435c1483b73c5b5e20018ac66c5ea49902b4643c6a98def8c95a",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_bh100.bsp": {
+   "bytes": 14948,
+   "sha256": "b35da01b7f3c123321e643d80988f0dc907e2659a594a990f09a77eeda14ce9e",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_bh25.bsp": {
+   "bytes": 10316,
+   "sha256": "cc59af1abfe2938e90f72ae6689c22f7bec2e4328e7e383be3c676a0a4d4746c",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_nail0.bsp": {
+   "bytes": 6074,
+   "sha256": "4c78fc9bfa06b04f4498c23676f4aba6d566e7f020d68045a8cc050e3bbb6b4c",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_nail1.bsp": {
+   "bytes": 6114,
+   "sha256": "2a33d438a9e6203b5405fa7b8369b7dfd6578f373390a29f508e6ffe1b9c6480",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_rock0.bsp": {
+   "bytes": 8794,
+   "sha256": "6a53f0e3ddb5e0a2da0b3f2362fef221526048263b14666276bb7e15f528d88b",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_rock1.bsp": {
+   "bytes": 8794,
+   "sha256": "317f412b80232110cab77c3618287ccc5639c38d67fa1932849560fbe1a0832a",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_shell0.bsp": {
+   "bytes": 6074,
+   "sha256": "9d146681e71d20bde0e988fec2852fac0cc9ad008eb9269f1be5082bea82d2a2",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/b_shell1.bsp": {
+   "bytes": 6074,
+   "sha256": "8a73f7a255b397defb49ef3f75ae8878674099320d23b15611c07fb55712f354",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/maps/zigisp2.bsp": {
+   "bytes": 4863296,
+   "sha256": "18b83879c6b0e5b2ceb6617f690d86bc7168105a59cdfc0f85c671fc3b8d77e9",
+   "timestamp": "2022-07-16T15:21:18.000Z"
+  },
+  "zigisp2/maps/zigisp2.lit": {
+   "bytes": 1601489,
+   "sha256": "f8bbaf429bc397d1d7372ca79b68e84624bc0af4e79ce6feb458ffe51d376afe",
+   "timestamp": "2022-07-16T15:21:18.000Z"
+  },
+  "zigisp2/maps/zigisp2.map": {
+   "bytes": 4680359,
+   "sha256": "9322c3697749131b097f12a9308a6a2c593c72cf46e7f9ef4f7fc11aae38eb30",
+   "timestamp": "2022-07-16T15:20:28.000Z"
+  },
+  "zigisp2/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:38.000Z"
+  },
+  "zigisp2/music/track03.ogg": {
+   "bytes": 3820230,
+   "sha256": "5f8aa3c3415bcc29cd21bb916e2746a610ac531e6f91840c2402bfbf525209dd",
+   "timestamp": "2022-07-11T11:04:20.000Z"
+  },
+  "zigisp2/music/track51.ogg": {
+   "bytes": 4190797,
+   "sha256": "287c9817730462b430a75a12ab5bfcf287e2c4f6c7220900e98a1df66530112f",
+   "timestamp": "2004-04-25T22:16:56.000Z"
+  },
+  "zigisp2/progs.dat": {
+   "bytes": 602370,
+   "sha256": "103656a4dc8e70a3370565a4e27a054f329103993c595757c6d87aa005cf5c28",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:38.000Z"
+  },
+  "zigisp2/progs/backpack.mdl": {
+   "bytes": 72688,
+   "sha256": "b4695368a9d346714630a3b2d51d2fbe2ac1725d80786b94054e896acd6e712d",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/bolt.mdl": {
+   "bytes": 11860,
+   "sha256": "53f30fa59ab0b943d850851a05ed3bf7c8209ac74136ec1016a1ffd0c9305e47",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/c_spike.mdl": {
+   "bytes": 1684,
+   "sha256": "be12eea5a022a7ab6debdf64e39e45cf0201d47cb7b49285025d4c81a4977104",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/candle1.mdl": {
+   "bytes": 19700,
+   "sha256": "e8c8e2d8a8901e67b68bcb63b3121e9209153cb43257b54bca4a6814ed718202",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/candle2.mdl": {
+   "bytes": 19700,
+   "sha256": "2dcf8e2c3ae1d1d361ac32d22000b1cb168398b7dfbd0e691b4519317e6708cd",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/candle3.mdl": {
+   "bytes": 19700,
+   "sha256": "97e5a4179934c6912c1414bfefc8f104ff3b2c5a4cbfeb9e8a8c2f0dd88d91c1",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/cent.mdl": {
+   "bytes": 221936,
+   "sha256": "6e8e12db297f9f70cbe00fe2087be79a0011dc31344e642d8f309947e63cad8d",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "a43f71566341e623447f95c4d0552575de4676efea0fb061292dfaecc8b9257c",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/devastator.mdl": {
+   "bytes": 591291,
+   "sha256": "fff418d31e11ab7bb6abf82ca37230015b0470a2132cb3ee26ff11c0b4affe9b",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/fish.mdl": {
+   "bytes": 81900,
+   "sha256": "f07ff4b29e37e23633243a4eaab71746f9ce0032253902c3df5bb01e122fe2b6",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/h_cent.mdl": {
+   "bytes": 11828,
+   "sha256": "8e86be042986a544325bf78e92913893c0894626fd0e50d7e22c98aa14a63c9c",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/h_devastator.mdl": {
+   "bytes": 12893,
+   "sha256": "8efbb0b744d15bd91a880cc5d7a51f17216663078f85146943a1ed912a84d72f",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/h_knight.mdl": {
+   "bytes": 22624,
+   "sha256": "bd30397e619d63f4affb8a2705db1585fa71b9fe78cbdab5d10864fad8e8067a",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/h_spectre.mdl": {
+   "bytes": 6292,
+   "sha256": "e0f85f9b51c584f30d27c48134dac9a35d25b7b6eb441df7b4b5c442c2b7e142",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/invis.mdl": {
+   "bytes": 8356,
+   "sha256": "82ee9c6c78aceee238cb14116781fc7e8cc1a43c5c66f526d46551e1360aed10",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/invul.mdl": {
+   "bytes": 24052,
+   "sha256": "74f2afc22dc19b76bb2f880f53e589074e17cdc57bfbc71fba83745e50906cb3",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/knight.mdl": {
+   "bytes": 248832,
+   "sha256": "44cbab80ebc90ca4002e557eba242c8a79b4a602b87495755080b34610c40c8c",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/lavaball.mdl": {
+   "bytes": 17312,
+   "sha256": "e210fd2f442b52446e3ed97dca82b74e99fb82b5e8e27021f227a9823af3ac8b",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_cells1.mdl": {
+   "bytes": 3252,
+   "sha256": "78360ff39323844dbe5466352285c25caa3d8280330bd7b4896cf5d9c3acd1f0",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_cells2.mdl": {
+   "bytes": 4532,
+   "sha256": "2f4df619cf3c3e55551d62caf70afd2130799cb8961a5523e4cda62de9ec0a0f",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_h100.mdl": {
+   "bytes": 17992,
+   "sha256": "b4c84d42ad06a5e86b197aeeac636443724012fa2fe2db273ee5f7dadf05e2f4",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_h15.mdl": {
+   "bytes": 3252,
+   "sha256": "9bc4debe9c585ced842bf0486c912f45dbca3175b74980f7039c6413d2756b8d",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_h25.mdl": {
+   "bytes": 14792,
+   "sha256": "013237ff349a81f05dd84da92ef2f3cc5b7535e50bf004d8bf55f0254c461b03",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_key.mdl": {
+   "bytes": 35440,
+   "sha256": "be3a6e1ab5a4adee01633d39cf52f31faef004dccf52a703d48aec0a2d30a10f",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_nails1.mdl": {
+   "bytes": 3252,
+   "sha256": "ae9a34463a8ec078b834751903807b7756b08fab9b57d7a7267b2c6686090508",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_nails2.mdl": {
+   "bytes": 4532,
+   "sha256": "818e721ccad82186459530b0390c29e9a78084b578997586dc3c93cc788a8f68",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_rock1.mdl": {
+   "bytes": 3252,
+   "sha256": "23d073419f924f063073342414d62b7047d7ecccb86e2e1406e924d514b9394c",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_rock2.mdl": {
+   "bytes": 4532,
+   "sha256": "7b4c5c14815e505ac8add0eb013aa98afd5de896fb3119883a411203910f2c7c",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_shell1.mdl": {
+   "bytes": 3252,
+   "sha256": "a69c6351bdfbdc30aff19de93e9a006dd358671902bcc86053927d30fb284949",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/m_shell2.mdl": {
+   "bytes": 4532,
+   "sha256": "ada62e18c957c319cd377dcb1c9586235b790ff8af2d22c580ea9b5c419f2868",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/misc_smoke.mdl": {
+   "bytes": 32052,
+   "sha256": "783c734d5dd05b550ef73231a618352903d8de203ced5a892ce868db18a121b4",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/nuljaska.mdl": {
+   "bytes": 239093,
+   "sha256": "2c07329a32071e66137b31355d585001da41263676df635cccda62a29cb3780c",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/quaddama.mdl": {
+   "bytes": 9364,
+   "sha256": "f3b7e52f31bbf51ceca2c594af5392b90a5b414171309a0cc11599a93dc5b7a2",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/r_key.mdl": {
+   "bytes": 133200,
+   "sha256": "773ffd83e71838e3425031c22cca6b30a4d24d7e4d6560269b2071d3f58ad870",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/rottmauler.mdl": {
+   "bytes": 700584,
+   "sha256": "451c01dd2a7d3a82660cd4d836d9fcffb275e5572547bb3fcaa71cb4272bc56f",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/s_explo2.spr": {
+   "bytes": 13980,
+   "sha256": "428ae8400e17b253335d683a685e20d0e61bf0785c79ada81471532166726c46",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/shalrath.mdl": {
+   "bytes": 87544,
+   "sha256": "a8f1fa3ce907a0439ee0500082083e0439c88e4e82d292d54106f242028fe551",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/spectre.mdl": {
+   "bytes": 463331,
+   "sha256": "ac50be404cab5c08a4510b9523883cf43aa0f67c15bd9576ed20b6c2b4a1ba85",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/spike.mdl": {
+   "bytes": 4572,
+   "sha256": "993afdf2aaa055ee7c49cc9066a6a8d09d5d309c2694ac46911386f159b63316",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/v_axe.mdl": {
+   "bytes": 70932,
+   "sha256": "feef26c08c17e6e9bce22bbe8187d345b2956b81f6a7754e389c0fa53d5b4bb6",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/v_axe2.mdl": {
+   "bytes": 70932,
+   "sha256": "feef26c08c17e6e9bce22bbe8187d345b2956b81f6a7754e389c0fa53d5b4bb6",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/progs/w_ball.mdl": {
+   "bytes": 13684,
+   "sha256": "1eb52d0049424c3180df14e0535331965f5038df6db1b6a5b41370cbea1bc3c4",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:38.000Z"
+  },
+  "zigisp2/sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/ambience/deep.wav": {
+   "bytes": 401112,
+   "sha256": "3b1c3809233d1bae1196d84db821f401c4e2432ae752a8a4bef2bd4f17e644ce",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/ambience/lava1.wav": {
+   "bytes": 837582,
+   "sha256": "dbaa7dfb1b05df1eef0961b629d8f886899b8499bf595ea001953b10606c66cd",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/ambience/machlp2.wav": {
+   "bytes": 70696,
+   "sha256": "76d173dc724fa0752a345d4d0e406cbf1a38de5675e295ca2dfc81e96e0c016d",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/ambience/underw1.wav": {
+   "bytes": 208538,
+   "sha256": "f8672e5e772aeac9bbc1030aea58088daf1b10ff0a580346ca4208b58861139e",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/ambience/wdribble.wav": {
+   "bytes": 40960,
+   "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/ambience/wpool.wav": {
+   "bytes": 301220,
+   "sha256": "51a27a6489c5e016a90405e7fe295b495d56c4129010b428ee297cd4f34fdd89",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/blob/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/blob/idle.wav": {
+   "bytes": 64986,
+   "sha256": "1849fdbfd0a68b07c52d6c21b8f97737577d99270a2eba61a9cccba071239f35",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/doors/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/doors/locked4.wav": {
+   "bytes": 15048,
+   "sha256": "c34d9d74599f077e7578e57f6a3cabc474df533067f90ba74c6ac6d8925b0d5b",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/enforcer/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/enforcer/sight1.wav": {
+   "bytes": 14026,
+   "sha256": "7a059f5c95936c1e51e96c28b9f30fbe6d66c27b1271b6f077eddd6611e15882",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/enforcer/sight2.wav": {
+   "bytes": 8192,
+   "sha256": "780230c4697dea0189ff81f731394696893d321ce7f3600370cca5ae2e81822d",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/enforcer/sight3.wav": {
+   "bytes": 10442,
+   "sha256": "cc71b100be0fb44e58b396e5e7e3d602e646545d8b368e804469ff083ed687c1",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/enforcer/sight4.wav": {
+   "bytes": 9918,
+   "sha256": "bd959168eff294104f04b5b1b736c722518fbf0d8f13fdbd8c4b695f14838aea",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/items/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/items/pack.wav": {
+   "bytes": 17740,
+   "sha256": "4f1df82518beee326068e407b6713c32c4b40fe4a99ac94b9be0ca46c107810f",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/items/patch.wav": {
+   "bytes": 19934,
+   "sha256": "4ed1112921417e18e4ceb2cb29b8f0702c945c2bc2e37403fefca19b069d8f17",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/misc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/misc/null.wav": {
+   "bytes": 2322,
+   "sha256": "7883f17ce0a86489a7abfc3319b434a60b911bfea999287aec290747952e61ec",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/misc/sav.wav": {
+   "bytes": 16616,
+   "sha256": "2a9f86b5f5497822ce5379a05a51ca1816d2471b463ed57635c57dc5702f0eca",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/misc/w_under.wav": {
+   "bytes": 39884,
+   "sha256": "e441a7c33602470db85979142cf0b90166ddeb9f51949a33fbab3998ee1e31e5",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/misc/w_under2.wav": {
+   "bytes": 72616,
+   "sha256": "46d386334de7dc588df6a1f21fc946d8cd39823355b1c59be9eec88183c5b03a",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/nuljaska/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/nuljaska/death1.wav": {
+   "bytes": 25300,
+   "sha256": "a2dbcdba562f8e381f67df95a5a6a6bfd7c53841b477bc096d1024d7121a0f3d",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/nuljaska/hit1.wav": {
+   "bytes": 9876,
+   "sha256": "fcd4c44d38ed64884f6e51d50e192aa578bbec0cb4c6fd92282ca151e9c5740a",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/nuljaska/idle.wav": {
+   "bytes": 15602,
+   "sha256": "94aa6b5d1c233f4974b0bf18847eb937786eb41271fcaf888ec0cb1e0d1498d7",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/nuljaska/land1.wav": {
+   "bytes": 8816,
+   "sha256": "4a798700888505ab05aa40623c57b96cb6d77ac04118c905155cec28b499ce62",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/nuljaska/sattack1.wav": {
+   "bytes": 8498,
+   "sha256": "a90331abd8922f04a52ae158920f429c6dc1bb70e12860b852e2232f9cecb4aa",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/nuljaska/sattck1.wav": {
+   "bytes": 8036,
+   "sha256": "efa18dec8f6d5066b8d494a232ca9c98c27a4a9130130086a9b0a27ffccb34ed",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/nuljaska/sboom.wav": {
+   "bytes": 23976,
+   "sha256": "43dee1c69ad61f81fc8733f44df3f19d922f056c1f9dc0908e7a787bad656415",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/nuljaska/sight1.wav": {
+   "bytes": 8392,
+   "sha256": "7953209ba057560eeae9c199349ed6705d0da6d4c27588512836415276053d5f",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/player/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/player/q3fall.wav": {
+   "bytes": 180380,
+   "sha256": "78ba213bc4972ab6c3f4780690831a6c1da52ca0af444be8ecfc798f45d1f347",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/player/splat1.wav": {
+   "bytes": 36960,
+   "sha256": "49cd19d55a52c31eafe58bf89fde593a6291183ed6e989078b6299c9bb0071ea",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/rottmauler/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/rottmauler/dattack1.wav": {
+   "bytes": 13692,
+   "sha256": "fc75f597814f1983efb2da44ccbb7e50a171dd2aeafa4eede6d952336e8984a0",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/rottmauler/ddeath.wav": {
+   "bytes": 29828,
+   "sha256": "b6a5646c22cd905687727d7a7cde130e4b573f7d5f2751f8a56802cec015066c",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/rottmauler/dpain1.wav": {
+   "bytes": 5994,
+   "sha256": "2d7a2a687a891711d43f23a5984683f2f565209058ca878eab1d1d8fd6434af7",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/rottmauler/dsight.wav": {
+   "bytes": 57532,
+   "sha256": "12d9bc1ad8bae3755f3277b169b6f8f864deeca575c003a195a7487499b1a859",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/rottmauler/idle.wav": {
+   "bytes": 9112,
+   "sha256": "bca0a2740df4f499586f70f8e82381b0fc872846fbd1e5f36db2bb1747c7f796",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/spectre/idle1.wav": {
+   "bytes": 51556,
+   "sha256": "e91f12463417df25badbbdfe817560362370d9e1e31712766bccb086e06d966f",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/idle2.wav": {
+   "bytes": 82792,
+   "sha256": "b843d1124acc61be2aae27a7c8a9aca8f6bd471689703b41d59f1450e70e360c",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/smash.wav": {
+   "bytes": 4052,
+   "sha256": "350f94da784df15dcdf3d005258c8ac1033819c2ef51f7377de69ecd38317c98",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/swrath1.wav": {
+   "bytes": 6028,
+   "sha256": "7d2290479c4b8fe3cbf14b8e1bddbd6a874b5e9d5f436233eec562f35ca8cfb3",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/swrath2.wav": {
+   "bytes": 4052,
+   "sha256": "7f9ae2dcb54b6e59c67705c20179a963bb8218d4c96db4323d1fedfb4ad39afb",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/watt.wav": {
+   "bytes": 22374,
+   "sha256": "0aedb709c0769e401f25637e69140ba260035b75e36ae9f22cbb94cbf28f5f81",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/wdthc.wav": {
+   "bytes": 10580,
+   "sha256": "dd94c0dd5f38cd10395f100004078901754a6993af94e68a06cd154a251a2ee3",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/wpain.wav": {
+   "bytes": 18208,
+   "sha256": "ccf99194833e0db8af5702126a62c5e011138aa6ba814be51e4207b401183220",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/spectre/wsee.wav": {
+   "bytes": 10412,
+   "sha256": "619c48897129e2352f378e6d959e60f41c1c1d4d31606b2a9577fa186eb5e804",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-07-16T15:48:58.000Z"
+  },
+  "zigisp2/sound/weapons/axhit1.wav": {
+   "bytes": 15252,
+   "sha256": "2edf0f7c93f380d1dc9e7dd75618894419379ad1da984121f031859cf24ec30d",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/weapons/axhit2.wav": {
+   "bytes": 12450,
+   "sha256": "c54f233c09f429da884256d72e19759eb28bf38818f6a2ca8192c634b04a8b9f",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/weapons/lavabal1.wav": {
+   "bytes": 26504,
+   "sha256": "a78d8242c12c89304b3a95ea17a9a5743de893e20d7f82b1a75bc08aba045abc",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/weapons/lavabal2.wav": {
+   "bytes": 26504,
+   "sha256": "5c9ed5f64d2d830f1345509ec3081d80f88dcb9e675259e6cd75cb06bc4a8984",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/weapons/lavabal3.wav": {
+   "bytes": 26504,
+   "sha256": "f879dbe8f2e3ac5efe02e8f785c7dea5d8625f96b1a0f5f68e30d0e5a6e61bb6",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/sound/weapons/lavabal4.wav": {
+   "bytes": 26504,
+   "sha256": "96c334d39b9faacf611bf069e724564ee31bfaa4e2db007baf3b024aa4f3a675",
+   "timestamp": "2022-07-11T11:04:22.000Z"
+  },
+  "zigisp2/zigisp2_readme.txt": {
+   "bytes": 2625,
+   "sha256": "752fcf0fba1c500326ec80ba582af9f280943a87044cb16ae26c85beb428375c",
+   "timestamp": "2022-07-16T20:36:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "fc0dc5fa15842d0d9959ef5c7ec6a8385f88ba9fd694321f139435b484e513df",
+ "tags": [
+  "author=zigi",
+  "commandline=-game zigisp2",
+  "filename=zigisp2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard thread](https://celephais.net/board/view_thread.php?id=62194)",
+  "map_size=large",
+  "music=custom",
+  "nonspecific_tag=chthon",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=smej",
+  "release_date=2022-07-16",
+  "source=included",
+  "startmap=zigisp2",
+  "theme=base",
+  "theme=boss",
+  "theme=doom",
+  "theme=lava",
+  "title=Disposal Of Otherworldly Monsters",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/zigisp2.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/fc0dc5fa15842d0d9959ef5c7ec6a8385f88ba9fd694321f139435b484e513df/zigisp2.zip"
+ ]
+}

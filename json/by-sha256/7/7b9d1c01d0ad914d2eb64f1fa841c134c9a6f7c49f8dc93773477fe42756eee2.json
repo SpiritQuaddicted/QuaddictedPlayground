@@ -1,35 +1,37 @@
 {
- "filename": [
-  "assassin.zip"
- ],
+ "bytes": 1043,
  "files": {
   "assassin.bsp": {
-   "size": 2484236,
+   "bytes": 2484236,
+   "sha256": "61a52de76c165115e61465861755ef7a4201b4a70ac8b1dcdd5b8702364fe9e4",
    "timestamp": "1997-08-14T15:42:24.000Z"
   },
   "assassin.txt": {
-   "size": 2380,
+   "bytes": 2380,
+   "sha256": "19bd98141b559dd52cbd8936f20a249d3df19d315a019734c72790f74c48f96c",
    "timestamp": "1997-08-14T16:00:00.000Z"
   }
  },
- "filesize": 1043,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7b9d1c01d0ad914d2eb64f1fa841c134c9a6f7c49f8dc93773477fe42756eee2",
  "tags": [
   "author=Stuart Maine",
+  "filename=assassin.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsa.htm)",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east13j.htm)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=assn)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-08-14",
-  "tag=blue",
-  "tag=medium",
-  "tag=metal",
-  "title=Assassin"
+  "map_size=medium",
+  "release_date=1997-08-14",
+  "theme=blue",
+  "theme=metal",
+  "title=Assassin",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/assassin.zip",

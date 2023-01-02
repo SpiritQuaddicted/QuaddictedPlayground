@@ -1,37 +1,40 @@
 {
- "filename": [
-  "coagula3_bone.zip"
- ],
+ "bytes": 584,
  "files": {
   "COAGULA3.bsp": {
-   "size": 1760192,
+   "bytes": 1760192,
+   "sha256": "64e09f9a6d79c6852832cda6562a8922a7d4ae7870869c41bc4a6a68b99d8d65",
    "timestamp": "2001-07-23T22:41:30.000Z"
   },
   "coagula3_bone.txt": {
-   "size": 3005,
+   "bytes": 3005,
+   "sha256": "a5c8eae29b02a6028226db2bb4919a14d08a9bf5a0aa51f28489051fa64366a4",
    "timestamp": "2001-07-23T21:34:00.000Z"
   }
  },
- "filesize": 584,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ede0df60ea791f41669a90a22d581e9c738bccc1e9cbeb2543d2c235a389888b",
  "tags": [
   "author=Tim Elek",
+  "filename=coagula3_bone.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://tertiary.planetquake.gamespy.com",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/21-aug-2001/coagula3.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev010724.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=coagula3)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
-  "releasedate=2001-07-23",
+  "map_size=small",
+  "release_date=2001-07-23",
   "startmap=coagula3",
-  "tag=blue",
-  "tag=dkt",
-  "tag=small",
-  "tag=space map",
-  "title=Coagula3: Bone"
+  "theme=blue",
+  "theme=dkt",
+  "theme=space",
+  "title=Coagula3: Bone",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/coagula3_bone.zip",

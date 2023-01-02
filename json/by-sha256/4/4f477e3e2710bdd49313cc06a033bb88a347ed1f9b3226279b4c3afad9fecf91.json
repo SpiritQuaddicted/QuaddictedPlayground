@@ -1,78 +1,91 @@
 {
- "filename": [
-  "sm201_pack.zip"
- ],
+ "bytes": 5992,
  "files": {
   "docs/sm201_greenwood.txt": {
-   "size": 814,
+   "bytes": 814,
+   "sha256": "1f68b4696c1f7f5dca9c4891f3f4b82255b1586fc046a666d8758b4bb2c92f8f",
    "timestamp": "2019-09-06T13:51:26.000Z"
   },
   "docs/sm201_nolcoz.txt": {
-   "size": 836,
+   "bytes": 836,
+   "sha256": "a00bc0bf5c790c2ead1451ca0a53607cacfdbab898c4e3e414e13c701358a911",
    "timestamp": "2019-09-06T14:40:08.000Z"
   },
   "docs/sm201_pinchy.txt": {
-   "size": 2480,
+   "bytes": 2480,
+   "sha256": "e754aa362ac6d157cda4452ec311a3f13d94fa48a5285c8236c8533bf6632d53",
    "timestamp": "2019-09-06T15:34:54.000Z"
   },
   "maps/sm201_greenwood.bsp": {
-   "size": 761260,
+   "bytes": 761260,
+   "sha256": "26eef3443d00a34440e1d4603d562388bbe6cc7f8723373382ae1d647fee3de1",
    "timestamp": "2019-09-03T04:59:52.000Z"
   },
   "maps/sm201_nolcoz.bsp": {
-   "size": 756188,
+   "bytes": 756188,
+   "sha256": "ac75ebc993cb53960a7703c4b2ac66ba001fc8a76528159034c255eb15ee1610",
    "timestamp": "2019-09-06T04:34:48.000Z"
   },
   "maps/sm201_pinchy.bsp": {
-   "size": 341184,
+   "bytes": 341184,
+   "sha256": "704abca1d8c0d1ce385e23e6948a057dc85bc1fa160101a53df62f57943d3e2e",
    "timestamp": "2019-09-03T09:37:14.000Z"
   },
   "maps/sm201_pinchy.lit": {
-   "size": 143507,
+   "bytes": 143507,
+   "sha256": "c4a03a3d1519481a1cd81213eb7ab5b7b8d9eeaa85b406a520b55c7dce48cc28",
    "timestamp": "2019-09-03T09:37:14.000Z"
   },
   "sm201-pack.txt": {
-   "size": 1250,
+   "bytes": 1250,
+   "sha256": "965fb3b8161dde61901f7515f4b4a14b52e168ea185b8ac0cb6727f79d390ca7",
    "timestamp": "2019-09-06T15:33:08.000Z"
   },
   "sm201-poster.png": {
-   "size": 2908403,
+   "bytes": 2908403,
+   "sha256": "9c0a03bce50dbcdd8046d4033b78e4b168381b19b55c3e436d776fb6ef37b2d7",
    "timestamp": "2019-09-06T15:16:08.000Z"
   },
   "source/id.wad": {
-   "size": 4948424,
+   "bytes": 4948424,
+   "sha256": "7f3676ace89ededf4b903989a00c14511893df22c1e3ed1b21853edd9aff31bf",
    "timestamp": "2007-06-25T18:00:00.000Z"
   },
   "source/sm201_greenwood.map": {
-   "size": 197532,
+   "bytes": 197532,
+   "sha256": "d929b998635613e9e0f3a5574b9f21b9f4939c372e98dd1cbab5c42b463c5ee3",
    "timestamp": "2019-09-03T04:59:12.000Z"
   },
   "source/sm201_nolcoz.map": {
-   "size": 202751,
+   "bytes": 202751,
+   "sha256": "b5301250800bc68a0edf59697f801984d9e3f000500adaadd9d9fa1d6ed4604d",
    "timestamp": "2019-09-06T13:44:56.000Z"
   },
   "source/sm201_pinchy.map": {
-   "size": 261645,
+   "bytes": 261645,
+   "sha256": "caffb90a8afc1240ff73161b7e608ea05c09385626ec10f4e36e692fd7b9f858",
    "timestamp": "2019-09-03T09:37:12.000Z"
   }
  },
- "filesize": 5992,
  "install": {
-  "extract": "{quake}/id1/"
+  "extract": "{base}/id1/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4f477e3e2710bdd49313cc06a033bb88a347ed1f9b3226279b4c3afad9fecf91",
  "tags": [
   "author=Greenwood",
   "author=Pinchy",
   "author=nolcoz",
+  "filename=sm201_pack.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61771)",
-  "releasedate=2019-09-06",
+  "release_date=2019-09-06",
   "startmap=sm201_greenwood",
   "startmap=sm201_nolcoz",
   "startmap=sm201_pinchy",
-  "title=Speedmapping pack 201 - Quake The Way Id Did 2: Id-lectric Boogaloo"
+  "title=Speedmapping pack 201 - Quake The Way Id Did 2: Id-lectric Boogaloo",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm201_pack.zip",

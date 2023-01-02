@@ -1,33 +1,38 @@
 {
- "filename": [
-  "prey2.zip"
- ],
+ "bytes": 638,
  "files": {
   "prey2.bsp": {
-   "size": 1451204,
+   "bytes": 1451204,
+   "sha256": "553926b7164e29b6f2d81073916cfa20ec6fc46aa7c3149d00bdb65b722f8569",
    "timestamp": "1997-06-05T22:10:26.000Z"
   },
   "prey2.txt": {
-   "size": 3496,
+   "bytes": 3496,
+   "sha256": "b83fe9e8221b2a9456f3c45a4c273cc4d023e5116df3e4937d8966a01c34fff2",
    "timestamp": "1997-06-04T23:07:00.000Z"
   }
  },
- "filesize": 638,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ee00dbe07603ee683d6e815e3728841f0ab5b3bb9c29e1ebfff26c86a0a7fbbc",
  "tags": [
   "author=marty",
+  "filename=prey2.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsp2.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/p_r.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1997-06-05",
-  "tag=base",
-  "tag=small",
-  "title=Prey2"
+  "map_size=small",
+  "nonspecific_tag=coop",
+  "release_date=1997-06-05",
+  "theme=base",
+  "theme=realism",
+  "title=Prey2",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/prey2.zip",

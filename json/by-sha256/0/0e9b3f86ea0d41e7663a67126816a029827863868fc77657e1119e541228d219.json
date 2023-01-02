@@ -1,35 +1,37 @@
 {
- "filename": [
-  "monfree.zip"
- ],
+ "bytes": 606,
  "files": {
   "monfree.bsp": {
-   "size": 1536848,
+   "bytes": 1536848,
+   "sha256": "e184614959159b40053957ad60ed66eeb97333e3b3fb567bd8c81a4c4c52f668",
    "timestamp": "2005-01-09T11:44:12.000Z"
   },
   "monfree.txt": {
-   "size": 2193,
+   "bytes": 2193,
+   "sha256": "74ad2ef934d4f31116efa5c4b48effe45d64aa675cbb04a9ca37bcfd24a59d71",
    "timestamp": "2005-01-09T11:52:26.000Z"
   }
  },
- "filesize": 606,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0e9b3f86ea0d41e7663a67126816a029827863868fc77657e1119e541228d219",
  "tags": [
   "author=PuLSaR",
+  "filename=monfree.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://pulsar.quaddicted.com/",
   "link=[Func](http://celephais.net/board/view_thread.php?id=28283)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev050114c.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
-  "releasedate=2005-01-09",
-  "tag=experimental",
-  "tag=no monsters",
-  "tag=rubicon",
-  "tag=traps",
-  "title=Project Monsterfree"
+  "mod=rubicon",
+  "release_date=2005-01-09",
+  "theme=rubicon",
+  "theme=traps",
+  "title=Project Monsterfree",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/monfree.zip",

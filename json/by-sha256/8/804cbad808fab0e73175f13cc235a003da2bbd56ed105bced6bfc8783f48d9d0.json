@@ -1,34 +1,37 @@
 {
- "filename": [
-  "ic.zip"
- ],
+ "bytes": 585,
  "files": {
   "IC.BSP": {
-   "size": 1457348,
+   "bytes": 1457348,
+   "sha256": "935e7e854a0f735d09de29816cafefb420519cc7345c04b541a27b0967330de4",
    "timestamp": "1998-01-15T22:59:06.000Z"
   },
   "IC.TXT": {
-   "size": 2203,
+   "bytes": 2203,
+   "sha256": "4fefedb0a32c3b6ee51c725475a763e73444739e5574f59da9c5d7aaf3de1f93",
    "timestamp": "1998-04-02T18:23:44.000Z"
   }
  },
- "filesize": 585,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "804cbad808fab0e73175f13cc235a003da2bbd56ed105bced6bfc8783f48d9d0",
  "tags": [
   "author=Jim Lowell",
+  "filename=ic.zip",
   "game=quake",
-  "releasedate=1998-04-02",
-  "tag=base",
-  "tag=industrial",
-  "tag=lava",
-  "tag=mine",
-  "tag=rubicon",
-  "tag=small",
-  "title=Industrial Combat"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "mod=rubicon",
+  "release_date=1998-04-02",
+  "theme=base",
+  "theme=industrial",
+  "theme=lava",
+  "theme=mine",
+  "theme=rubicon",
+  "title=Industrial Combat",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ic.zip",

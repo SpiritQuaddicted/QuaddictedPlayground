@@ -1,38 +1,40 @@
 {
- "filename": [
-  "ant.zip"
- ],
+ "bytes": 1608,
  "files": {
   "ant.bsp": {
-   "size": 4069900,
+   "bytes": 4069900,
+   "sha256": "3b7dab1f9a5fb77372b759677e9b42e3c376cc2b0bdea0ed6eed03f8cf1ebfef",
    "timestamp": "2005-09-02T04:15:30.000Z"
   },
   "ant.txt": {
-   "size": 1650,
+   "bytes": 1650,
+   "sha256": "6ecc1a9466824578f4e31b954ed5b0d0b41bcbcfb8bb93c302757193f8d217f7",
    "timestamp": "2005-09-02T04:09:50.000Z"
   }
  },
- "filesize": 1608,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "1f34bd4341b7a9aa548ce26ab871443127823d9bb97f65040de6ddbad97872e9",
  "tags": [
   "author=John \"metlslime\" Fitzgibbons",
+  "filename=ant.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.celephais.net",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=294)",
   "link=[Tronyn's Top 10: Runic](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a3.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev050905.html)",
   "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
-  "releasedate=2005-09-02",
-  "tag=classic",
-  "tag=e3m5",
-  "tag=metal",
-  "tag=mustplay",
-  "tag=qtwid",
-  "tag=wind tunnels",
-  "title=Antediluvian"
+  "release_date=2005-09-02",
+  "theme=classic",
+  "theme=e3m5",
+  "theme=metal",
+  "theme=quake the way id did",
+  "theme=wind tunnels",
+  "title=Antediluvian",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ant.zip",

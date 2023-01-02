@@ -1,39 +1,43 @@
 {
- "filename": [
-  "oms2_2.zip"
- ],
+ "bytes": 5876,
  "files": {
   "oms2.bsp": {
-   "size": 13061696,
+   "bytes": 13061696,
+   "sha256": "d772d18deed6221079d02d5e526cb834f38e445f5cef4dcbf38a5390de273756",
    "timestamp": "2010-08-24T11:55:18.000Z"
   },
   "oms2.txt": {
-   "size": 1538,
+   "bytes": 1538,
+   "sha256": "8f1ebfffe728e0f0001b81ffa615020e6565018fb4a2c89e59b5850eb1dd58a4",
    "timestamp": "2010-08-24T11:56:16.000Z"
   },
   "oms2.wad": {
-   "size": 1309844,
+   "bytes": 1309844,
+   "sha256": "1e166659d4f3c943c204b51d4d9465f1c3261685393d96c910c554dba095d877",
    "timestamp": "2010-08-23T15:22:00.000Z"
   }
  },
- "filesize": 5876,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "bb0b14fd27e2df6d913dc477cb8acfc4f0e00d981868d5f17ffa10a51b153441",
  "tags": [
   "author=ORL",
+  "filename=oms2_2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://qrf.mine.nu/~orl/",
   "link=[The Abandoned Workshops](http://taw.duke4.net/2010/12/quake/conflagrant-rodent/)",
-  "releasedate=2010-08-24",
+  "nonspecific_tag=hard",
+  "release_date=2010-08-24",
   "startmap=oms2",
-  "tag=hard",
-  "tag=medieval",
-  "tag=ruins",
-  "tag=temple",
-  "tag=terracotta",
-  "title=Conflagrant Rodent"
+  "theme=medieval",
+  "theme=ruins",
+  "theme=temple",
+  "theme=terracotta",
+  "title=Conflagrant Rodent",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/oms2_2.zip",

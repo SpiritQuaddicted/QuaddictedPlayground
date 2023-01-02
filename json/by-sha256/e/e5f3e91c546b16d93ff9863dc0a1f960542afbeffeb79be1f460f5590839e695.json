@@ -1,35 +1,39 @@
 {
- "filename": [
-  "ne_deadcity.zip"
- ],
+ "bytes": 596,
  "files": {
   "ne_deadcity.bsp": {
-   "size": 1693676,
+   "bytes": 1693676,
+   "sha256": "7d25b306a3c302df7c7dac418339b705856c12a15be4dfee7ea4baf2803e5a3f",
    "timestamp": "2005-10-08T14:52:48.000Z"
   },
   "ne_deadcity.txt": {
-   "size": 4637,
+   "bytes": 4637,
+   "sha256": "8e01d636db52be5ce0f0973786135da3e15d12c68f3cf7ff274bfedb6ae6fc72",
    "timestamp": "2005-11-05T14:59:22.000Z"
   }
  },
- "filesize": 596,
  "install": {
-  "extract": "{quake}/quoth/maps/"
+  "extract": "{base}/quoth/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e5f3e91c546b16d93ff9863dc0a1f960542afbeffeb79be1f460f5590839e695",
  "tags": [
   "author=necros",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "filename=ne_deadcity.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://necros.planetquake.gamespy.com",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev051216.html)",
-  "releasedate=2005-11-05",
-  "tag=doom",
-  "tag=medieval",
-  "tag=quoth",
-  "tag=zombies",
-  "title=The Rats in the Walls"
+  "mod=quoth",
+  "nonspecific_tag=zombies",
+  "release_date=2005-11-05",
+  "theme=doom",
+  "theme=medieval",
+  "theme=quoth",
+  "title=The Rats in the Walls",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ne_deadcity.zip",

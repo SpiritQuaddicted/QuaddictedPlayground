@@ -1,35 +1,38 @@
 {
- "filename": [
-  "sm153_pack.zip"
- ],
+ "bytes": 805,
  "files": {
   "sm153_drew.bsp": {
-   "size": 1689696,
+   "bytes": 1689696,
+   "sha256": "8dc4e8bbeb6b6777516cb1487ca402be8595ac61fb1f1660e9c549c319c2cb6c",
    "timestamp": "2009-06-22T18:39:14.000Z"
   },
   "sm153_zwiffle.bsp": {
-   "size": 644532,
+   "bytes": 644532,
+   "sha256": "1495ff62fb9e33c0cd05a2f5be430b67826fed655980c4235a598607c026fa8d",
    "timestamp": "2009-06-22T01:17:44.000Z"
   }
  },
- "filesize": 805,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "05d5878bc14796382d4d329d8a013061a9a027bc52e5a2b85d1e1ee418cfdb51",
  "tags": [
   "author=Drew",
   "author=Zwiffle",
   "dependency=quoth",
+  "filename=sm153_pack.zip",
   "game=quake",
-  "releasedate=2009-06-22",
+  "game_mode=singleplayer",
+  "mod=quoth",
+  "release_date=2009-06-22",
   "startmap=sm153_drew",
   "startmap=sm153_zwiffle",
-  "tag=coagula",
-  "tag=quoth",
-  "tag=void",
-  "title=Speedmapping pack 153 - Caught between slipgates"
+  "theme=coagula",
+  "theme=quoth",
+  "theme=void",
+  "title=Speedmapping pack 153 - Caught between slipgates",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm153_pack.zip",

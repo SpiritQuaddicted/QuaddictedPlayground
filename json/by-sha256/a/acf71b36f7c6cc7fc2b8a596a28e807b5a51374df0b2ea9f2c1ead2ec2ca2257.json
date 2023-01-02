@@ -1,71 +1,83 @@
 {
- "filename": [
-  "lthsp5.zip"
- ],
+ "bytes": 593,
  "files": {
   "lthsp5.txt": {
-   "size": 2596,
+   "bytes": 2596,
+   "sha256": "2bed5a4f1eccbe214a5d23ed11bcc914ebfb9dcf7a71c286af3eaa0ba1b0c263",
    "timestamp": "2001-04-12T20:19:46.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2000-12-05T17:14:52.000Z"
   },
   "maps/lthsp5.bsp": {
-   "size": 659676,
+   "bytes": 659676,
+   "sha256": "4f994b7e846fe74b0b69ab9efaead9c9d49218e7dfaa9b10db2e370d00b75956",
    "timestamp": "2001-04-12T20:21:10.000Z"
   },
   "maps/lthsp5.lit": {
-   "size": 412811,
+   "bytes": 412811,
+   "sha256": "3dc563065f4a71f198642426dbd784643b582ee1254892e36cde12b9006a84e4",
    "timestamp": "2001-04-12T20:26:22.000Z"
   },
   "progs.dat": {
-   "size": 421632,
+   "bytes": 421632,
+   "sha256": "21fa60b6479c0b724f4d5b7f0d214fdf405605c66bbcd137f484f2739094e532",
    "timestamp": "2001-03-27T19:28:44.000Z"
   },
   "progs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2000-12-05T00:18:50.000Z"
   },
   "progs/knight.mdl": {
-   "size": 342844,
+   "bytes": 342844,
+   "sha256": "7c70855270badea8e147f3ecbbdbc934745e67db0468716ae07b098394732859",
    "timestamp": "2001-03-27T15:31:30.000Z"
   },
   "qc/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2000-12-21T11:07:30.000Z"
   },
   "screenies/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-03-23T22:51:54.000Z"
   },
   "sound/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-01-08T21:46:26.000Z"
   },
   "sound/bowman/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2001-01-08T21:47:14.000Z"
   }
  },
- "filesize": 593,
  "install": {
-  "extract": "{quake}/lthsp5/"
+  "extract": "{base}/lthsp5/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "acf71b36f7c6cc7fc2b8a596a28e807b5a51374df0b2ea9f2c1ead2ec2ca2257",
  "tags": [
   "author=The Lieutenant",
   "commandline=-game lthsp5",
+  "filename=lthsp5.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.random-productions.co.uk/quake/",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/19-june-2001/exodus.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev010429.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=lthso5)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=2001-04-12",
-  "tag=blue",
-  "tag=series",
-  "title=Exodus"
+  "release_date=2001-04-12",
+  "theme=blue",
+  "theme=metal",
+  "title=Exodus",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lthsp5.zip",

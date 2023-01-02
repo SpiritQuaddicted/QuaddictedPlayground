@@ -1,35 +1,37 @@
 {
- "filename": [
-  "mekbase.zip"
- ],
+ "bytes": 378,
  "files": {
   "MekBase.txt": {
-   "size": 1378,
+   "bytes": 1378,
+   "sha256": "670988142275e9b008200824215d6a2c4a1c805b99c2711c31d73f9a36dd463a",
    "timestamp": "1997-02-09T21:45:58.000Z"
   },
   "mekbase.bsp": {
-   "size": 868908,
+   "bytes": 868908,
+   "sha256": "0518f309a8c7cc0c9fda9809e4e1401edcd7fff6338a4e2f9cb96005d7d1f2af",
    "timestamp": "1997-02-06T23:13:28.000Z"
   }
  },
- "filesize": 378,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8068b95d4eab5c3a8fb999d74c61ad5a48403d2ae4d775cc510217bfafce6cb7",
  "tags": [
   "author=Paul Roberts",
+  "filename=mekbase.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsm1.htm#mekbase)",
-  "releasedate=1997-02-09",
-  "tag=coop",
-  "tag=dm",
-  "tag=metal",
-  "tag=small",
-  "tag=traps",
-  "tag=wizard",
-  "title=MekBase"
+  "map_size=small",
+  "nonspecific_tag=coop",
+  "release_date=1997-02-09",
+  "theme=metal",
+  "theme=traps",
+  "theme=wizard",
+  "title=MekBase",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mekbase.zip",

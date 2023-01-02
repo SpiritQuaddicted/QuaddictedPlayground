@@ -1,32 +1,34 @@
 {
- "filename": [
-  "fearfall.zip"
- ],
+ "bytes": 405,
  "files": {
   "fearfall.bsp": {
-   "size": 1202592,
+   "bytes": 1202592,
+   "sha256": "7ddb1da9db759a5f8d0000bf38dafa7dc60f8f911cb073a6695952e17cc5424e",
    "timestamp": "1998-01-05T19:02:14.000Z"
   },
   "fearfall.txt": {
-   "size": 2107,
+   "bytes": 2107,
+   "sha256": "9fda0cc0bdf66844cbb357c7bdd20737c070e2be4db279ea0fc5896b3a0b5ab0",
    "timestamp": "1998-01-05T18:58:30.000Z"
   }
  },
- "filesize": 405,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0aada90896c6cc590ceb7f31c29a4ec6d827d39d417e123eced9e08fe296d1ee",
  "tags": [
   "author=Jay Vanover",
+  "filename=fearfall.zip",
   "game=quake",
-  "releasedate=1998-01-05",
-  "tag=lava",
-  "tag=medium",
-  "tag=metal",
-  "tag=wizard",
-  "title=Fear No Fall"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "release_date=1998-01-05",
+  "theme=lava",
+  "theme=metal",
+  "theme=wizard",
+  "title=Fear No Fall",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fearfall.zip",

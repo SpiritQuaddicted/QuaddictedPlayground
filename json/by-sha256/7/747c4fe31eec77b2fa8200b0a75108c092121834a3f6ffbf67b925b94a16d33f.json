@@ -1,0 +1,103 @@
+{
+ "bytes": 2653,
+ "files": {
+  "gfx/env/deepblue_up.tga": {
+   "bytes": 84377,
+   "sha256": "9b2b26fe2bbd08a3905032613cb7f982ad0c881ab654561c599f7c7c49d0da70",
+   "timestamp": "2022-11-16T18:07:06.000Z"
+  },
+  "gfx/env/gehenna_bk.tga": {
+   "bytes": 673919,
+   "sha256": "2579ebbde03e3e6d7e052cffa869980ac43f59f2245d584a9212f3bf09d91d09",
+   "timestamp": "2022-11-21T17:41:46.000Z"
+  },
+  "gfx/env/gehenna_dn.tga": {
+   "bytes": 785761,
+   "sha256": "80c1bb4234473c05f856c018659cc67289bfa001fc42e2b1f133d39609aadfa0",
+   "timestamp": "2022-11-21T17:41:46.000Z"
+  },
+  "gfx/env/gehenna_ft.tga": {
+   "bytes": 710441,
+   "sha256": "b371a504c6e1cecaba1352ac254759e23f8aee34e9516f33fcbddf2bee9e14ad",
+   "timestamp": "2022-11-21T17:41:46.000Z"
+  },
+  "gfx/env/gehenna_lf.tga": {
+   "bytes": 664379,
+   "sha256": "821a2381b1955c846a11dea45855defb6ca91bf7b93021ad4320db5523a367be",
+   "timestamp": "2022-11-21T17:41:46.000Z"
+  },
+  "gfx/env/gehenna_rt.tga": {
+   "bytes": 697661,
+   "sha256": "6903bcdbb62381122e0df50286460e2cdbad499f1e6194bfc5f12d2e975949b7",
+   "timestamp": "2022-11-21T17:41:46.000Z"
+  },
+  "gfx/env/gehenna_up.tga": {
+   "bytes": 509867,
+   "sha256": "21d744fe6dda2bcff73b713e8e3742522d161a139a8d410cd97b1f760f29ca6e",
+   "timestamp": "2022-11-21T17:41:46.000Z"
+  },
+  "gfx/scripts/skies-kothic.shader": {
+   "bytes": 17213,
+   "sha256": "00d4e7ee673549bb45492bdb9153364c2efd52ec41283ebea7f54f583cb54b3c",
+   "timestamp": "2022-11-16T18:07:06.000Z"
+  },
+  "gfx/textures/skies/gehenna.jpg": {
+   "bytes": 9884,
+   "sha256": "b081a51994a08096957fc24e82b54ac859f5d3085d2d5da2eb509e5e3971c727",
+   "timestamp": "2022-11-21T17:41:46.000Z"
+  },
+  "gfx/textures/skies/lightimages/gehennalight.jpg": {
+   "bytes": 696,
+   "sha256": "f426a1d9d73737a233d3af701e43df59623a0e703b2d57a20ab75057653f61cc",
+   "timestamp": "2022-11-21T17:41:46.000Z"
+  },
+  "maps/shipnod.bsp": {
+   "bytes": 1461880,
+   "sha256": "1bd0989de22a52bf8f81363dd225e52e0da9ff030157ca8a179868a8b786fa34",
+   "timestamp": "2022-11-30T21:43:46.000Z"
+  },
+  "maps/shipnod.lit": {
+   "bytes": 1073384,
+   "sha256": "2319abaef2cbd513518b8077dcad843d933f24e1c3ee336c107809d4339f4892",
+   "timestamp": "2022-11-30T21:43:46.000Z"
+  },
+  "maps/shipnod.map": {
+   "bytes": 371573,
+   "sha256": "9d623d6c29c5ce2e88c06e64f44b03735761f6058b2a946ace13339705bcb447",
+   "timestamp": "2022-11-30T21:43:08.000Z"
+  },
+  "shipnod_README.txt": {
+   "bytes": 1186,
+   "sha256": "c5edb17d471f8c7be4884ae71e39415150e5070a8df848a38b9501d4a009b9dc",
+   "timestamp": "2022-11-30T22:03:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "747c4fe31eec77b2fa8200b0a75108c092121834a3f6ffbf67b925b94a16d33f",
+ "tags": [
+  "author=Nodding",
+  "filename=shipnod.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Archive.org page](https://archive.org/details/shipnod)",
+  "map_size=small",
+  "nonspecific_tag=boat",
+  "nonspecific_tag=debut",
+  "nonspecific_tag=ocean",
+  "nonspecific_tag=ship",
+  "nonspecific_tag=vanilla",
+  "release_date=2022-11-30",
+  "source=included",
+  "startmap=shipnod",
+  "theme=water",
+  "title=Ship Showdown",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/shipnod.zip",
+  "https://www.quaddicted.com/files/by-sha256/7/747c4fe31eec77b2fa8200b0a75108c092121834a3f6ffbf67b925b94a16d33f/shipnod.zip"
+ ]
+}

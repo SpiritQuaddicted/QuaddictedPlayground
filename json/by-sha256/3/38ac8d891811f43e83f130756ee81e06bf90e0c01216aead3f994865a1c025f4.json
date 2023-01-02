@@ -1,51 +1,58 @@
 {
- "filename": [
-  "death.zip"
- ],
+ "bytes": 740,
  "files": {
   "DEATH.BSP": {
-   "size": 1121576,
+   "bytes": 1121576,
+   "sha256": "3e628af42f6a420edd4e12a2bdfefb0334ae9b9b64a4c7738839649de98cc38c",
    "timestamp": "1996-12-06T22:55:22.000Z"
   },
   "DEATH.DEM": {
-   "size": 794172,
+   "bytes": 794172,
+   "sha256": "174114dc99a4f46f1c538ba6525ba4f492cd83493bb25d6f88c2eddc1b57d12a",
    "timestamp": "1996-12-07T05:50:16.000Z"
   },
   "DEATH.LOG": {
-   "size": 1044,
+   "bytes": 1044,
+   "sha256": "540a676c5a0b69f7cfb9f012a727512e85b849a55c368df0991d71632246dc85",
    "timestamp": "1996-12-07T06:00:08.000Z"
   },
   "DEATH.TXT": {
-   "size": 1558,
+   "bytes": 1558,
+   "sha256": "2eff8a5f867fc4485b49167e0ad2009e51b5143ad771da687ef179d078739edd",
    "timestamp": "1996-12-07T05:58:30.000Z"
   },
   "DEATH2.DEM": {
-   "size": 272999,
+   "bytes": 272999,
+   "sha256": "57a3568893479a1d2a75a1b3e5f3b9e2bf2fce3a92e36e1b4a7bd793d7697c54",
    "timestamp": "1996-12-07T05:53:12.000Z"
   },
   "QBSP.LOG": {
-   "size": 1410,
+   "bytes": 1410,
+   "sha256": "5ef11e6b1e3c03f6c9fbbf8ad38f7deb7827f16a1e612309a614ab0c392b9ca7",
    "timestamp": "1996-12-07T06:01:56.000Z"
   }
  },
- "filesize": 740,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "38ac8d891811f43e83f130756ee81e06bf90e0c01216aead3f994865a1c025f4",
  "tags": [
   "author=Marc Roussel",
+  "filename=death.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd1.htm)",
-  "releasedate=1996-12-07",
-  "tag=demo",
-  "tag=dm",
-  "tag=elder world",
-  "tag=puzzles",
-  "tag=small",
-  "tag=wizard",
-  "title=The Wrong Way"
+  "map_size=small",
+  "release_date=1996-12-07",
+  "theme=elder world",
+  "theme=mandatory secret",
+  "theme=puzzles",
+  "theme=wizard",
+  "title=The Wrong Way",
+  "type=demo",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/death.zip",

@@ -1,70 +1,81 @@
 {
- "filename": [
-  "sm41_pack.zip"
- ],
+ "bytes": 2738,
  "files": {
   "sm41_asaki.bsp": {
-   "size": 693376,
+   "bytes": 693376,
+   "sha256": "6583ff3442dabc0ec1ec4f9aa0a8a2743a8cbfb03a14aab6be281152da79ba7b",
    "timestamp": "2003-07-12T20:56:22.000Z"
   },
   "sm41_chain.bsp": {
-   "size": 235424,
+   "bytes": 235424,
+   "sha256": "01b0b4f9b9c1520e2a647bc2580740df7ae607d40fde3b12e99eff01394ba28b",
    "timestamp": "2003-07-13T08:03:12.000Z"
   },
   "sm41_ewerd.bsp": {
-   "size": 379116,
+   "bytes": 379116,
+   "sha256": "e64cb995cac0a3ba8b36e775213791e591eaf107ac6b23b48fd94a7a6c7da732",
    "timestamp": "2003-07-13T00:21:46.000Z"
   },
   "sm41_harb.bsp": {
-   "size": 840584,
+   "bytes": 840584,
+   "sha256": "0cdf03954240c7781b5bca55c75132c2172c7df7538559f1319b9336acfb1e05",
    "timestamp": "2003-07-13T00:53:12.000Z"
   },
   "sm41_krimzon.bsp": {
-   "size": 576340,
+   "bytes": 576340,
+   "sha256": "88d14ea58cfee55f9fdb35444d9694889099a5c4edf6b3d758f357bf0402e620",
    "timestamp": "2003-07-13T00:49:38.000Z"
   },
   "sm41_necros.bsp": {
-   "size": 871528,
+   "bytes": 871528,
+   "sha256": "28df3153bc28ce5faf581cc9ddb2304cd9f59b691fbacebca6b60afb42564e01",
    "timestamp": "2003-07-12T21:51:26.000Z"
   },
   "sm41_necros.txt": {
-   "size": 2120,
+   "bytes": 2120,
+   "sha256": "fb68c0c4dfc53d8bf4a9e47733ba23dca84dac5b5c8429ce577ff1f3215eeb48",
    "timestamp": "2003-07-12T22:01:06.000Z"
   },
   "sm41_pack.txt": {
-   "size": 2777,
+   "bytes": 2777,
+   "sha256": "2ebefca081376222b346161162474cbb13259827ac2bb7bf1882fc0df90df59c",
    "timestamp": "2003-07-13T07:50:28.000Z"
   },
   "sm41_ray.bsp": {
-   "size": 595628,
+   "bytes": 595628,
+   "sha256": "3d57f7988ee6f469425999eabee9d31b23ab5ea67aa7e77988839640f89866ee",
    "timestamp": "2003-07-12T22:40:28.000Z"
   },
   "sm41_rpg.bsp": {
-   "size": 1035372,
+   "bytes": 1035372,
+   "sha256": "5e00e35acba30fb039b0f952b679bb415de598bf459ef0ebfc3999eb9841ef87",
    "timestamp": "2003-07-12T21:26:30.000Z"
   },
   "sm41_speedy.bsp": {
-   "size": 155712,
+   "bytes": 155712,
+   "sha256": "ebc56c3dbce01fc37c48ea16ea8fcc27b7e8cfd545dc37cdb4a32a00dd9a534d",
    "timestamp": "2003-07-13T05:25:54.000Z"
   },
   "sm41_speedy.txt": {
-   "size": 282,
+   "bytes": 282,
+   "sha256": "8d1335b372b2f75dc3906be5153bbdb4e9706526b8cc8aea7ad7f3a7ed9f6077",
    "timestamp": "2003-07-13T05:31:08.000Z"
   },
   "sm41_starbuck.bsp": {
-   "size": 594460,
+   "bytes": 594460,
+   "sha256": "c1f2bb0b6d305377ccf3b29a6f587de6b35db17719a11792681e52c02649e2ff",
    "timestamp": "2003-07-13T06:31:00.000Z"
   },
   "sm41_xen.bsp": {
-   "size": 1167348,
+   "bytes": 1167348,
+   "sha256": "dd2c7c822fc9d880f20ac8b779d3686dda427c3e4193013382f8f3572e3d904f",
    "timestamp": "2003-07-13T06:21:28.000Z"
   }
  },
- "filesize": 2738,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "550475db8b20cbb3d55b3ad0c7b3a17bd53148e510d56ac3517290c6375848ec",
  "tags": [
   "author=Asaki",
@@ -77,14 +88,17 @@
   "author=Starbuck",
   "author=Xen",
   "author=necros",
+  "filename=sm41_pack.zip",
   "game=quake",
-  "link=[Func](http://celephais.net/board/view_thread.php?id=5557)",
-  "releasedate=2003-07-13",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=5557)",
+  "release_date=2003-07-13",
   "startmap=sm41_asaki",
   "startmap=sm41_necros",
   "startmap=sm41_rpg",
-  "tag=spd",
-  "title=Speedmapping pack 41 - QExpo"
+  "theme=spd",
+  "title=Speedmapping pack 41 - QExpo",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm41_pack.zip",

@@ -1,34 +1,36 @@
 {
- "filename": [
-  "sos.zip"
- ],
+ "bytes": 787,
  "files": {
   "sos.bsp": {
-   "size": 1928684,
+   "bytes": 1928684,
+   "sha256": "a28f22372d844f3d856ce3cdf05ce2e7b8ab38966771a6eb438dc5d52ac0339c",
    "timestamp": "1997-05-15T03:23:04.000Z"
   },
   "sos.txt": {
-   "size": 1523,
+   "bytes": 1523,
+   "sha256": "bf65c6cfb2b9a7bf5de4a03a8be306d8dc7da4d37a6c54e5b7216bb5f656022e",
    "timestamp": "1997-05-15T19:47:40.000Z"
   }
  },
- "filesize": 787,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "30aefdbe020f1dc04f4e106b10505a9b6ff067f67199b9f2a554abf0d352360a",
  "tags": [
   "author=Derek Lawrie",
+  "filename=sos.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelss.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/s_u.htm)",
-  "releasedate=1997-05-15",
-  "tag=dark",
-  "tag=medieval",
-  "tag=medium",
-  "tag=metal",
-  "title=Spongebath Of Satan"
+  "map_size=medium",
+  "nonspecific_tag=dark",
+  "release_date=1997-05-15",
+  "theme=medieval",
+  "theme=metal",
+  "title=Spongebath Of Satan",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sos.zip",

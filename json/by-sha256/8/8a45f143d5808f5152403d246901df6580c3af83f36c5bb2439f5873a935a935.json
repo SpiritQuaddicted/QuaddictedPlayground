@@ -1,44 +1,53 @@
 {
- "filename": [
-  "sm38_temp.zip"
- ],
+ "bytes": 535,
  "files": {
   "SM38_SB.bsp": {
-   "size": 356628,
+   "bytes": 356628,
+   "sha256": "8ac8cc2384629abdec6ae6837f3590816521c478f84256d97e531b84e908ebaa",
    "timestamp": "2001-10-28T21:15:22.000Z"
   },
   "sm38_daz.bsp": {
-   "size": 486416,
+   "bytes": 486416,
+   "sha256": "a932a6bc4bc6d0356b14eb8f7b67b84bdba6ee2710367304bf9147c665107f75",
    "timestamp": "2001-10-28T20:43:58.000Z"
   },
   "sm38_gemein.bsp": {
-   "size": 330776,
+   "bytes": 330776,
+   "sha256": "f48cad8883fe0941ec58a6f6696e24d6aabc017b798ab2c41d80d00405722550",
    "timestamp": "2001-10-27T19:33:32.000Z"
   },
   "sm38_speedy.bsp": {
-   "size": 337368,
+   "bytes": 337368,
+   "sha256": "ab981d43d673ce2c6327f9eed247581c8b8ca5014b7008a628af57ac7b812201",
    "timestamp": "2001-11-29T00:07:48.000Z"
   },
   "sm38_speedy.txt": {
-   "size": 281,
+   "bytes": 281,
+   "sha256": "7cb83939308e62ef86424693003e98abeb1fca6b386b7de182488a2dae6fdcbd",
    "timestamp": "2001-11-29T00:12:50.000Z"
   }
  },
- "filesize": 535,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8a45f143d5808f5152403d246901df6580c3af83f36c5bb2439f5873a935a935",
  "tags": [
   "author=DaZ",
   "author=Speedy",
   "author=Starbuck",
   "author=gemein",
+  "filename=sm38_temp.zip",
   "game=quake",
-  "releasedate=2005-08-06",
-  "tag=spd",
-  "title=Speedmapping pack 38 - Unthemed"
+  "game_mode=singleplayer",
+  "release_date=2005-08-06",
+  "startmap=sm38_daz",
+  "startmap=sm38_gemein",
+  "startmap=sm38_sb",
+  "startmap=sm38_speedy",
+  "theme=spd",
+  "title=Speedmapping pack 38 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm38_temp.zip",

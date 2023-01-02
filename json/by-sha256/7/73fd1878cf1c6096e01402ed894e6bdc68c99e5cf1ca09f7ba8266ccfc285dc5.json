@@ -1,38 +1,42 @@
 {
- "filename": [
-  "welloflostsouls_repack.zip"
- ],
+ "bytes": 694,
  "files": {
   "WellOfLostSouls_Readme.txt": {
-   "size": 2655,
+   "bytes": 2655,
+   "sha256": "d29b1ec979cc313fe0d0f41ade18b196f057c1fc023d18ec221f4c8e87cea959",
    "timestamp": "2017-03-16T05:13:52.000Z"
   },
   "ew2.bsp": {
-   "size": 1871689,
+   "bytes": 1871689,
+   "sha256": "81bfd5c5b657050149394cd29186ab187012e6585dd63e01b544369f0af17cbe",
    "timestamp": "2017-03-16T05:06:52.000Z"
   },
   "quaddicted_repack.txt": {
-   "size": 51,
+   "bytes": 51,
+   "sha256": "0abc144fbe729a5235b9fcbf235b0e5b78eb29f021c174c8bf9f25e1cd9d0c78",
    "timestamp": "2018-03-18T10:06:58.000Z"
   }
  },
- "filesize": 694,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "73fd1878cf1c6096e01402ed894e6bdc68c99e5cf1ca09f7ba8266ccfc285dc5",
  "tags": [
   "author=Miss Bubbles",
+  "filename=welloflostsouls_repack.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61433)",
-  "releasedate=2017-03-16",
+  "map_size=medium",
+  "playstyle=tricks",
+  "release_date=2017-03-16",
   "startmap=ew2",
-  "tag=bricks",
-  "tag=medium",
-  "tag=traps",
-  "tag=tricks",
-  "title=Well of Lost Souls"
+  "theme=bricks",
+  "theme=elder world",
+  "theme=traps",
+  "title=Well of Lost Souls",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/welloflostsouls_repack.zip",

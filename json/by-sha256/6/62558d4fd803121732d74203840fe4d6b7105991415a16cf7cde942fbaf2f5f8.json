@@ -1,41 +1,46 @@
 {
- "filename": [
-  "map01.zip"
- ],
+ "bytes": 253,
  "files": {
   "FILE_ID.DIZ": {
-   "size": 320,
+   "bytes": 320,
+   "sha256": "75b5308f230e09fbfc7a108101a085c368b92391d903c1d51a252da46166e288",
    "timestamp": "1996-11-09T22:29:32.000Z"
   },
   "MAP01.BSP": {
-   "size": 561656,
+   "bytes": 561656,
+   "sha256": "3c9a9c015ff81e2401922d6240ca21d2fd1e33957d0f7432e4e785b49ef826dc",
    "timestamp": "1996-11-09T22:27:14.000Z"
   },
   "MAP01.MAP": {
-   "size": 20897,
+   "bytes": 20897,
+   "sha256": "ba666c6b39d3704c09cdf8a20ab8417b1895e0fe506e87f528138995a9e51570",
    "timestamp": "1996-11-09T19:54:58.000Z"
   },
   "MAP01.TXT": {
-   "size": 5705,
+   "bytes": 5705,
+   "sha256": "f9314e6afa4f5a823aa1fbee583a2cb084b1860377a89d68be6695b88009b433",
    "timestamp": "1996-11-09T19:36:20.000Z"
   }
  },
- "filesize": 253,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "62558d4fd803121732d74203840fe4d6b7105991415a16cf7cde942fbaf2f5f8",
  "tags": [
   "author=Matthias Worch",
+  "filename=map01.zip",
   "game=quake",
-  "releasedate=1996-11-09",
-  "tag=base",
-  "tag=doom2",
-  "tag=remake",
-  "tag=small",
-  "tag=source",
-  "title=DooM II Map01"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.worch.com",
+  "map_size=small",
+  "release_date=1996-11-09",
+  "source=included",
+  "theme=base",
+  "theme=doom 2",
+  "theme=remake",
+  "title=DooM II Map01",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/map01.zip",

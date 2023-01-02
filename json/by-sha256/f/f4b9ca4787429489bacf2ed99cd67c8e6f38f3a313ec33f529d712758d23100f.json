@@ -1,0 +1,64 @@
+{
+ "bytes": 9198,
+ "files": {
+  "Tintin_jam_nait/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-11T09:11:52.000Z"
+  },
+  "Tintin_jam_nait/Tintin_jam_nait.txt": {
+   "bytes": 1089,
+   "sha256": "21c028dc2f8a8427ab8e03df21eae7071460a2b22dd22fe9763f6fe291e84cd1",
+   "timestamp": "2020-08-11T09:28:40.000Z"
+  },
+  "Tintin_jam_nait/tintinjam_nait.bsp": {
+   "bytes": 20113952,
+   "sha256": "5039771c73e2d4ec94d0f2e4ad933bdb9f266a3b230b4308dedde94c1bc61110",
+   "timestamp": "2020-08-10T23:09:04.000Z"
+  },
+  "Tintin_jam_nait/tintinjam_nait.lit": {
+   "bytes": 5771468,
+   "sha256": "ffeea19f1cef9804c6953bf52fee4a5b110a002f3515967b4ad5336941f4cf52",
+   "timestamp": "2020-08-10T23:07:42.000Z"
+  },
+  "Tintin_jam_nait/tintinjam_nait.map": {
+   "bytes": 16163960,
+   "sha256": "a9954cc2986833c859bff7fe081635b16d089579b4558d6a3898b6e713c6b03d",
+   "timestamp": "2020-08-10T23:53:52.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/dtintin/maps/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "f4b9ca4787429489bacf2ed99cd67c8e6f38f3a313ec33f529d712758d23100f",
+ "tags": [
+  "author=Naitelveni",
+  "bsp_format=bsp2",
+  "commandline=-game dtintin",
+  "dependency=dtintin_fixed",
+  "exceeds_quake_limits=yes",
+  "filename=tintin_jam_nait.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61932)",
+  "map_size=medium",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=d3",
+  "nonspecific_tag=hell",
+  "nonspecific_tag=textures",
+  "release_date=2020-08-11",
+  "source=included",
+  "startmap=Tintin_jam_nait/tintinjam_nait",
+  "theme=arcane dimensions",
+  "theme=base",
+  "theme=doom 3",
+  "title=The Master's Tools Will Never Dismantle the Master's House",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/tintin_jam_nait.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/f4b9ca4787429489bacf2ed99cd67c8e6f38f3a313ec33f529d712758d23100f/tintin_jam_nait.zip"
+ ]
+}

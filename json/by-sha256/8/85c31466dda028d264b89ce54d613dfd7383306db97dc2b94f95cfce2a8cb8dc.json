@@ -1,43 +1,47 @@
 {
- "filename": [
-  "tofaz.zip"
- ],
+ "bytes": 4384,
  "files": {
   "tofaz/tofaz.bsp": {
-   "size": 9732768,
+   "bytes": 9732768,
+   "sha256": "8b6f39e294d9e2889f91331243a099c026a12e66a9ad383b780273bbe4324c11",
    "timestamp": "2017-10-18T12:48:44.000Z"
   },
   "tofaz/tofaz.lit": {
-   "size": 2970236,
+   "bytes": 2970236,
+   "sha256": "35b98c05dda1c26b57e17ba503785b58483469c27d249e85303ea07c58c23e3d",
    "timestamp": "2017-10-18T12:48:44.000Z"
   },
   "tofaz/tofaz.txt": {
-   "size": 3738,
+   "bytes": 3738,
+   "sha256": "23e207551ebd1018716801a35c83c2153b5d055ad94b8cca3bbe627c8d85e063",
    "timestamp": "2017-10-18T12:49:00.000Z"
   }
  },
- "filesize": 4384,
  "install": {
-  "extract": "{quake}/id1\\maps\\"
+  "extract": "{base}/id1\\maps\\"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "85c31466dda028d264b89ce54d613dfd7383306db97dc2b94f95cfce2a8cb8dc",
  "tags": [
   "author=YukiRaven",
+  "exceeds_quake_limits=yes",
+  "filename=tofaz.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://alexa.partition36.com/doom/",
   "link=[Doomworld](https://www.doomworld.com/forum/topic/97618-finished-building-my-first-quake-level-temple-of-azathoth)",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61521)",
-  "releasedate=2017-10-18",
+  "map_size=medium",
+  "nonspecific_tag=lit",
+  "release_date=2017-10-18",
   "startmap=tofaz\\tofaz",
-  "tag=fog",
-  "tag=limits",
-  "tag=lit",
-  "tag=medium",
-  "tag=metal",
-  "tag=red",
-  "tag=runic",
-  "tag=temple",
-  "title=Temple of Azathoth"
+  "theme=fog",
+  "theme=metal",
+  "theme=red",
+  "theme=runic",
+  "theme=temple",
+  "title=Temple of Azathoth",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tofaz.zip",

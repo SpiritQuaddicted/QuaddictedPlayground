@@ -1,31 +1,33 @@
 {
- "filename": [
-  "3scanyon.zip"
- ],
+ "bytes": 585,
  "files": {
   "CANYON.BSP": {
-   "size": 1333960,
+   "bytes": 1333960,
+   "sha256": "6040627efdc0e343087cb58e81c9320561bf3dfa8c93431021ef84ce5ab9ca59",
    "timestamp": "1997-12-19T05:57:08.000Z"
   },
   "CANYON.TXT": {
-   "size": 1976,
+   "bytes": 1976,
+   "sha256": "badf8071ba4406e7eee967341cd3b8fdc977ce056f018b32fed09157aa00ef5f",
    "timestamp": "1997-12-19T07:59:06.000Z"
   }
  },
- "filesize": 585,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8dbed99460e5b18d2fffdd9196dc4e13d2773ff693f9560c234186bbfd670c34",
  "tags": [
   "author=Trace Stuart",
+  "filename=3scanyon.zip",
   "game=quake",
-  "releasedate=1997-12-19",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1997-12-19",
   "startmap=canyon",
-  "tag=canyon",
-  "tag=small",
-  "title=Three's Canyon"
+  "theme=canyon",
+  "title=Three's Canyon",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/3scanyon.zip",

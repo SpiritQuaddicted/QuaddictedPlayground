@@ -1,34 +1,36 @@
 {
- "filename": [
-  "czg00.zip"
- ],
+ "bytes": 110,
  "files": {
   "czg00.bsp": {
-   "size": 283820,
+   "bytes": 283820,
+   "sha256": "e0dc9026d8efc0c685c34d440abf56ac732c835de6eae885eb1177c3c4702392",
    "timestamp": "1999-12-22T19:14:16.000Z"
   },
   "czg00.txt": {
-   "size": 2855,
+   "bytes": 2855,
+   "sha256": "486cb31723935b3ba2e3be78968d5816d09d1d702f205ccf494ed1db90c0d314",
    "timestamp": "1999-12-22T19:38:04.000Z"
   }
  },
- "filesize": 110,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7d99237ce13166614ab9299ee90e983c32a069519e5a78cb9852e3ef91096c8b",
  "tags": [
   "author=czg",
+  "filename=czg00.zip",
   "game=quake",
-  "releasedate=1999-12-22",
-  "tag=333",
-  "tag=oldskool",
-  "tag=small",
-  "tag=thred3d",
-  "tag=tower",
-  "tag=vertical",
-  "title=Tower of obscurity"
+  "game_mode=singleplayer",
+  "map_layout=vertical",
+  "map_size=small",
+  "nonspecific_tag=333",
+  "nonspecific_tag=oldskool",
+  "nonspecific_tag=thred3d",
+  "release_date=1999-12-22",
+  "theme=tower",
+  "title=Tower of Obscurity",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/czg00.zip",

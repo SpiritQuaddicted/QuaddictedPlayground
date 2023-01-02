@@ -1,0 +1,227 @@
+{
+ "bytes": 12539,
+ "files": {
+  "ad_blasphemy.txt": {
+   "bytes": 3573,
+   "sha256": "0dfbc3452482c34337a7694e78ce07004f24805f6cf1a165b81feb7b8a87f2b9",
+   "timestamp": "2022-02-16T22:52:04.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-16T22:50:54.000Z"
+  },
+  "maps/ad_blasphemy.bsp": {
+   "bytes": 29119768,
+   "sha256": "3ba83a27384f4e48cb224e0c8f4f0e33bd0d7dfcd67406126d6315032cc8f15e",
+   "timestamp": "2022-02-16T17:18:02.000Z"
+  },
+  "maps/ad_blasphemy.lit": {
+   "bytes": 7210928,
+   "sha256": "184b919b33b35e824a10ddeb677b9222273005a2ebc12cfe569cfb0e44c7e1f1",
+   "timestamp": "2022-02-16T17:18:02.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-14T17:44:40.000Z"
+  },
+  "sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-14T17:44:38.000Z"
+  },
+  "sound/ambience/machloop.wav": {
+   "bytes": 114314,
+   "sha256": "30b0390ff4fa000bab0f912d67c283621df3d34707a97d19a4864bc49d4e4c9c",
+   "timestamp": "2021-12-29T11:25:16.000Z"
+  },
+  "sound/ambience/wat_cave.wav": {
+   "bytes": 117614,
+   "sha256": "8fd860006e3d2746d6497e95d886e99e62323a38870ee57960eeda430e25e85e",
+   "timestamp": "2008-08-16T23:54:48.000Z"
+  },
+  "sound/ambience/watfall-zoth.wav": {
+   "bytes": 240964,
+   "sha256": "197a5b8be8ca0394264a763b13dcb9001818e3af2ea0a920769e697df19bc4ba",
+   "timestamp": "2021-04-16T15:06:26.000Z"
+  },
+  "sound/dguard/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-14T17:44:40.000Z"
+  },
+  "sound/dguard/death1.wav": {
+   "bytes": 30610,
+   "sha256": "af3809501261ec4d0afa6ea7301c11a5c7bbc1cc3e06b8c88172ee0214c30969",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/death2.wav": {
+   "bytes": 43636,
+   "sha256": "93a70fc0d6fee819c723a435a3954b3fd3be86e358698ce85db1062990d1575e",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/fire.wav": {
+   "bytes": 60820,
+   "sha256": "f5e5d4f6ccc0778c1396c66d327564a0b1892773f2c23d2e30590abf0c758bd2",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/hit.wav": {
+   "bytes": 39352,
+   "sha256": "a9a06043bb979aad2db216a9d00b993da33c6a5069c6e3b14338afb6e2cb632a",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/idle.wav": {
+   "bytes": 20498,
+   "sha256": "45b2f208b9796d19d7aeb0cba64e4b0e5fd2ed7c980123f7c41ca10d17785021",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/pain1.wav": {
+   "bytes": 10380,
+   "sha256": "9a367afb7cde241099c58c999e225ba939be39f21be818b16444f5a810049960",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/pain2.wav": {
+   "bytes": 14892,
+   "sha256": "827a1e4d3c9983f61fffd61de33054274c144bddd9a68460b496fd6281cf9406",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/sight1.wav": {
+   "bytes": 18124,
+   "sha256": "9cb3d960261d90ec16c9883f4326c905356b6ff4e99cdf48ab5913b098588016",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/sight2.wav": {
+   "bytes": 18022,
+   "sha256": "35ee4b7ec6715c8c9fdc24f90ad0b5d90a0ae7a4986168cf40670e87c325d5db",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/sight3.wav": {
+   "bytes": 19948,
+   "sha256": "c6818770267626dea27f4a72ce2249771f6968924022c2275a5a96abfa485044",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/sight4.wav": {
+   "bytes": 20332,
+   "sha256": "7affcdbdc62f13e492a15b54fe642fe045641f5551f570cc3c8d5f7ee29521fd",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/slash.wav": {
+   "bytes": 22942,
+   "sha256": "44b60d785ff03f033e183b6fbce69e526351187d28efdeb308f6f8bea930d450",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/slhit.wav": {
+   "bytes": 31956,
+   "sha256": "0f07a131640f21337cd89a772588ecfc707d6a729f96b54c21920b809cd620e4",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/slmiss1.wav": {
+   "bytes": 10458,
+   "sha256": "e32d5cb070a13fad979b021e84a727f71242305ade1af7bfe18c255f0f6dd548",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dguard/slmiss2.wav": {
+   "bytes": 13840,
+   "sha256": "f6b3aee08c25434d2fda7468cacf35a0912b182653a45991149b54a0fc4be537",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dlord/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-14T17:44:40.000Z"
+  },
+  "sound/dlord/death.wav": {
+   "bytes": 32022,
+   "sha256": "0188f6a3dd88686e15311f8c39c4277078e55bc0ec75497e2eb534af717abcdb",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dlord/idle.wav": {
+   "bytes": 9906,
+   "sha256": "c0ee37f80013dad1aaeb285a11a33c4d7c2ff2de0b2a94c2943d3fbe1c241bcd",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dlord/pain.wav": {
+   "bytes": 8632,
+   "sha256": "230ed5c7d024bfa90b973649aa79d9e9327eaf401b1632e4a1334fb4a9eb075c",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/dlord/sight.wav": {
+   "bytes": 28028,
+   "sha256": "d82aa0028754e826705961040e1ab27f007c572a28c63dbcaeefeb681bc3ca85",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/sentinel/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-14T17:44:40.000Z"
+  },
+  "sound/sentinel/laser.wav": {
+   "bytes": 9712,
+   "sha256": "c5f90e1823a04b48f7f24ac5b8792e1b42030a8b07970db5847dc1e74be094c2",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/sentinel/nail.wav": {
+   "bytes": 13750,
+   "sha256": "7acc3ac05b7218abc6fef2d2397771d90fce6fa39415e33824be7e771d30e288",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/sentinel/widle1.wav": {
+   "bytes": 31802,
+   "sha256": "cfe6801999bd068501ecdd07eb5c9396a24c2d264d35522e243e1b4e8066e884",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/sentinel/widle2.wav": {
+   "bytes": 31802,
+   "sha256": "cfe6801999bd068501ecdd07eb5c9396a24c2d264d35522e243e1b4e8066e884",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/sentinel/wpain.wav": {
+   "bytes": 19596,
+   "sha256": "bc7b6536a1c67aa89295eeacea2d9b36cb0bf783b5fb7cc6aaf4fa01a0edb3fd",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  },
+  "sound/sentinel/wsight.wav": {
+   "bytes": 27322,
+   "sha256": "83bca2103d60c68435e27f0660e3ecd5bffb058e796382e7bdb43efabdfb9889",
+   "timestamp": "2021-09-21T01:12:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "913a5e2ec718f668e1b39985e64a5bf9abf3a5ed1a81b39b1e92c75bd4438442",
+ "tags": [
+  "author=Zothique",
+  "bsp_format=bsp2",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "exceeds_quake_limits=yes",
+  "filename=ad_blasphemy.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=https://twitter.com/juancdeus",
+  "link=[Func_Msgboard thread](https://celephais.net/board/view_thread.php?id=62154)",
+  "link=[Quaddicted forum thread](https://www.quaddicted.com/forum/viewtopic.php?id=1201)",
+  "link=[Quaketastic download mirror](https://www.quaketastic.com/files/ad_blasphemy.zip)",
+  "link=[YouTube video trailer](https://www.youtube.com/watch?v=gBoyJ8DGcDc)",
+  "map_size=large",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=arcane",
+  "release_date=2022-02-14",
+  "startmap=ad_blasphemy",
+  "theme=arcane dimensions",
+  "theme=boss",
+  "theme=industrial",
+  "theme=runic",
+  "theme=secrets",
+  "title=Oozing Blasphemy",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_blasphemy.zip",
+  "https://www.quaddicted.com/files/by-sha256/9/913a5e2ec718f668e1b39985e64a5bf9abf3a5ed1a81b39b1e92c75bd4438442/ad_blasphemy.zip"
+ ]
+}

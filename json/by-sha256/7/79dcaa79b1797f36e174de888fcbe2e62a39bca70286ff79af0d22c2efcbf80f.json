@@ -1,31 +1,33 @@
 {
- "filename": [
-  "gr1m1.zip"
- ],
+ "bytes": 394,
  "files": {
   "gr1m1.bsp": {
-   "size": 912980,
+   "bytes": 912980,
+   "sha256": "aeebcd9fa353dae2ad0785589e814264875175be085bf5e15d7d531600a4027d",
    "timestamp": "2009-02-23T20:08:46.000Z"
   },
   "readme_gr1m1.txt": {
-   "size": 3019,
+   "bytes": 3019,
+   "sha256": "b83e182df043d3a5d0632d4caa1bd0bafb4e4e57fb7b766dfc5251e0dcc1e791",
    "timestamp": "2013-05-10T09:39:14.000Z"
   }
  },
- "filesize": 394,
  "install": {
-  "extract": "{quake}/id1/maps"
+  "extract": "{base}/id1/maps"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "79dcaa79b1797f36e174de888fcbe2e62a39bca70286ff79af0d22c2efcbf80f",
  "tags": [
   "author=Qmaster",
+  "filename=gr1m1.zip",
   "game=quake",
-  "releasedate=2013-05-10",
-  "tag=bricks",
-  "tag=small",
-  "tag=wizard",
-  "title=Cubes of Brown"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2013-05-10",
+  "theme=bricks",
+  "theme=wizard",
+  "title=Cubes of Brown",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gr1m1.zip",

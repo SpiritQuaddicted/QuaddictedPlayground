@@ -1,33 +1,35 @@
 {
- "filename": [
-  "armorgod.zip"
- ],
+ "bytes": 835,
  "files": {
   "Armorgod.bsp": {
-   "size": 1879236,
+   "bytes": 1879236,
+   "sha256": "254d468f4831615af500c650d0892a92fada98efa6b094af6f8184d3e98ae354",
    "timestamp": "1997-07-20T11:34:08.000Z"
   },
   "armorgod.txt": {
-   "size": 6378,
+   "bytes": 6378,
+   "sha256": "1a63693cd49792eb03989aa69767324f14483399ef2ff5fd631ce01efa562604",
    "timestamp": "1997-07-20T09:24:30.000Z"
   }
  },
- "filesize": 835,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "358f4ba736eb7e1badbdb5da591b44f86ef33501d7c9523cc4f30010b29d3ea7",
  "tags": [
   "author=Scott McNutt",
+  "filename=armorgod.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsa.htm)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1997-07-20",
-  "tag=medium",
-  "tag=wizard",
-  "title=Armour of God"
+  "map_size=medium",
+  "release_date=1997-07-20",
+  "theme=wizard",
+  "title=Armour of God",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/armorgod.zip",

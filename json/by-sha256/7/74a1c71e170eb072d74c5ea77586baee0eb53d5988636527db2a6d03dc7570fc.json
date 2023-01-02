@@ -1,47 +1,52 @@
 {
- "filename": [
-  "sm62_pack.zip"
- ],
+ "bytes": 939,
  "files": {
   "sm62_lev.bsp": {
-   "size": 677884,
+   "bytes": 677884,
+   "sha256": "98f0979d0780bef6159a210d7a9087928a2d8550bc935458bd8af253d508d072",
    "timestamp": "2003-12-27T19:31:34.000Z"
   },
   "sm62_pack.txt": {
-   "size": 1550,
+   "bytes": 1550,
+   "sha256": "acac61bd52e82e4e3c7ddbbdde9317dc11ee67795e10037c5bafc4a170c029c0",
    "timestamp": "2001-09-10T09:57:40.000Z"
   },
   "sm62_rpg.bsp": {
-   "size": 595624,
+   "bytes": 595624,
+   "sha256": "453dddce92d27c442e361ace2f32640671dc1653e6d71a6b8003ea577b8786e9",
    "timestamp": "2001-09-10T06:43:04.000Z"
   },
   "sm62_than.bsp": {
-   "size": 810028,
+   "bytes": 810028,
+   "sha256": "57991d22ae6e28fd70d6a7b988b7a9422ceeef37a1232ec37f89232b11c5225c",
    "timestamp": "2003-12-28T01:05:42.000Z"
   },
   "sm62_zwiffle.bsp": {
-   "size": 515216,
+   "bytes": 515216,
+   "sha256": "52d9aed3abfb0a53e9f4ba348257a69e068bd43e2f61e2126d3ed8d61ea42958",
    "timestamp": "2003-12-27T17:55:54.000Z"
   }
  },
- "filesize": 939,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "74a1c71e170eb072d74c5ea77586baee0eb53d5988636527db2a6d03dc7570fc",
  "tags": [
   "author=Leviathan",
   "author=RPG",
   "author=Than",
   "author=Zwiffle",
+  "filename=sm62_pack.zip",
   "game=quake",
-  "releasedate=2003-12-28",
+  "game_mode=singleplayer",
+  "release_date=2003-12-28",
   "startmap=sm62_lev",
   "startmap=sm62_rpg",
   "startmap=sm62_than",
   "startmap=sm62_zwiffle",
-  "title=Speedmapping pack 62 - Hybrid maps"
+  "title=Speedmapping pack 62 - Hybrid maps",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm62_pack.zip",

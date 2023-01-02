@@ -1,33 +1,35 @@
 {
- "filename": [
-  "ncroseum.zip"
- ],
+ "bytes": 377,
  "files": {
   "NCROSEUM.BSP": {
-   "size": 861612,
+   "bytes": 861612,
+   "sha256": "927cbfaad1be694feca7269e998da276140e8f340537913fdb5b4831e977d1d8",
    "timestamp": "1997-04-05T13:13:56.000Z"
   },
   "NCROSEUM.TXT": {
-   "size": 4407,
+   "bytes": 4407,
+   "sha256": "4b415c750ad41a151e83f49f0c3f45b9491a5606bd33a2a85bb68891e7ba87fd",
    "timestamp": "1997-04-05T13:34:38.000Z"
   }
  },
- "filesize": 377,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c2ceb7f15d070352735cb9408eba66442a051b0586f37fd4b92caa44fb0483a0",
  "tags": [
   "author=Noel Weer",
+  "filename=ncroseum.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsn.htm)",
-  "releasedate=1997-04-05",
-  "tag=metal",
-  "tag=mixtex",
-  "tag=orange",
-  "tag=small",
-  "title=Necroseum"
+  "map_size=small",
+  "release_date=1997-04-05",
+  "theme=metal",
+  "theme=mixtex",
+  "theme=orange",
+  "title=Necroseum",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ncroseum.zip",

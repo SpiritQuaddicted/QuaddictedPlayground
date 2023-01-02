@@ -1,35 +1,37 @@
 {
- "filename": [
-  "fire.zip"
- ],
+ "bytes": 576,
  "files": {
   "FIRE.BSP": {
-   "size": 1317196,
+   "bytes": 1317196,
+   "sha256": "ca61c7e20ee8f8fe88773ba705a1f32d7e2e6ca2241a21e63819fac301b56c9b",
    "timestamp": "1997-02-17T10:31:56.000Z"
   },
   "FIRE.TXT": {
-   "size": 1850,
+   "bytes": 1850,
+   "sha256": "8ea81e0edfdbda3fcb818d4f1e2b0673648502499675eae2e037ff392b25cd12",
    "timestamp": "1997-02-17T10:59:42.000Z"
   }
  },
- "filesize": 576,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "759eff1d73a1f9f8c497607ffdb956273cd8c593731dbbc56004621702c6cc6d",
  "tags": [
   "author=Andy \"Liger\" Patrizio",
+  "filename=fire.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsf.htm#fire)",
-  "releasedate=1997-02-17",
-  "tag=caverns",
-  "tag=lava",
-  "tag=puzzle",
-  "tag=small",
-  "tag=stone",
-  "tag=underground",
-  "title=Fireworld"
+  "map_size=small",
+  "release_date=1997-02-17",
+  "theme=caverns",
+  "theme=lava",
+  "theme=puzzle",
+  "theme=stone",
+  "theme=underground",
+  "title=Fireworld",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fire.zip",

@@ -1,35 +1,40 @@
 {
- "filename": [
-  "fort_driant-fullvis.zip"
- ],
+ "bytes": 5505,
  "files": {
   "fort_driant-fullvis.bsp": {
-   "size": 12392900,
+   "bytes": 12392900,
+   "sha256": "bacde8e00ac94866f08c1f3f221ededfd69f073ab459ab47a20b2135b38ddad3",
    "timestamp": "2009-03-05T16:52:08.000Z"
   },
   "fort_driant-fullvis.lit": {
-   "size": 2998721,
+   "bytes": 2998721,
+   "sha256": "07e1364bdd9f8a3c2987139a3ef484be8a4e76b33e27f0f473042ce73a43d17d",
    "timestamp": "2009-03-05T16:52:08.000Z"
   }
  },
- "filesize": 5505,
  "install": {
-  "extract": "{quake}/quoth/maps/"
+  "extract": "{base}/quoth/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "d4d8dc8792dcbed5b31aab9b50a9ab3cae48c09b92876fcc328e5a5b2c526726",
  "tags": [
   "author=JPL",
   "commandline=-hipnotic -game quoth",
   "dependency=fort_driant",
   "dependency=quoth",
+  "filename=fort_driant-fullvis.zip",
   "game=quake",
-  "releasedate=2009-03-06",
+  "game_mode=singleplayer",
+  "link:homepage=http://lambert.jeanphilippe.free.fr/",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=60310)",
+  "map_size=large",
+  "mod=quoth",
+  "release_date=2009-03-06",
   "startmap=fort_driant-fullvis",
-  "tag=base",
-  "tag=large",
-  "tag=quoth",
-  "title=Fort Driant"
+  "theme=base",
+  "theme=quoth",
+  "title=Fort Driant",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fort_driant-fullvis.zip",

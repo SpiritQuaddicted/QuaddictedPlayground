@@ -1,41 +1,44 @@
 {
- "filename": [
-  "cavosin_fixed.zip"
- ],
+ "bytes": 363,
  "files": {
   "cavosin.bsp": {
-   "size": 926918,
+   "bytes": 926918,
+   "sha256": "7e02c8974b1db1bca6fa65fc037bd589c661045f60e5ed8cda762f7b348db902",
    "timestamp": "1997-01-20T10:26:02.000Z"
   },
   "cavosin.txt": {
-   "size": 2422,
+   "bytes": 2422,
+   "sha256": "7e37aff72b4f940b2674e9c7c2782836391f435afff3c1d101e8243de1bb26a7",
    "timestamp": "1997-01-20T10:01:04.000Z"
   },
   "cavosin_fixed.txt": {
-   "size": 824,
+   "bytes": 824,
+   "sha256": "9cdccb4a0239fdde715dc0a63381b710b2ac7c5a2e02e96fd71c25da1f151212",
    "timestamp": "2008-08-20T16:59:00.000Z"
   }
  },
- "filesize": 363,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0477a5f71c95d7be258647ed0d2d993a954f5d0839e9215571a00a68b6aef38f",
  "tags": [
   "author=JerkOff (Mike Daugherty)",
+  "filename=cavosin_fixed.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsc.htm)",
-  "releasedate=1997-01-20",
+  "map_size=small",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=low ammo",
+  "playstyle=tricks",
+  "release_date=1997-01-20",
   "startmap=cavosin",
-  "tag=dark",
-  "tag=low ammo",
-  "tag=metal",
-  "tag=mixtex",
-  "tag=small",
-  "tag=traps",
-  "tag=tricks",
-  "title=Cavern of Sin"
+  "theme=metal",
+  "theme=mixtex",
+  "theme=traps",
+  "title=Cavern of Sin",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/cavosin_fixed.zip",

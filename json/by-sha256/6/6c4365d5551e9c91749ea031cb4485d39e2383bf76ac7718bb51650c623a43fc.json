@@ -1,35 +1,37 @@
 {
- "filename": [
-  "sadlark7.zip"
- ],
+ "bytes": 920,
  "files": {
   "sadlark7.bsp": {
-   "size": 2177540,
+   "bytes": 2177540,
+   "sha256": "90b60f10d200ca06a185b53661f37469fd0ed79767b1eb864245df5d77e33ebe",
    "timestamp": "1997-10-10T13:16:06.000Z"
   },
   "sadlark7.txt": {
-   "size": 2215,
+   "bytes": 2215,
+   "sha256": "a0ef397b318172b43d77d6ba9513dc8dbd57d819924d50ae681d625435f302d3",
    "timestamp": "1997-10-10T14:25:36.000Z"
   }
  },
- "filesize": 920,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6c4365d5551e9c91749ea031cb4485d39e2383bf76ac7718bb51650c623a43fc",
  "tags": [
   "author=Jonas N.P. Lindstrom",
+  "filename=sadlark7.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/llevl.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1997-10-10",
-  "tag=medium",
-  "tag=metal",
-  "tag=non linear",
-  "tag=planetquake-map-of-the-week",
-  "tag=traps",
-  "title=Dig me no grave"
+  "map_layout=non-linear",
+  "map_size=medium",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-10-10",
+  "theme=metal",
+  "theme=traps",
+  "title=Dig me no grave",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark7.zip",

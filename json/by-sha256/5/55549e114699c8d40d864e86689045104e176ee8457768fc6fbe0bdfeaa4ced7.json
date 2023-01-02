@@ -1,37 +1,98 @@
 {
- "filename": [
-  "badass.zip"
- ],
+ "bytes": 1030,
  "files": {
   "BADASS.TXT": {
-   "size": 3699,
+   "bytes": 3699,
+   "sha256": "80ef3bfb58f7ce0ff600fe0ffdf29a1f3e5f3f01b97b9a992935e6893b779061",
    "timestamp": "1996-06-13T14:34:52.000Z"
   },
   "PAK0.PAK": {
-   "size": 2678541,
+   "bytes": 2678541,
+   "files": {
+    "maps/start.bsp": {
+     "bytes": 1865156,
+     "sha256": "3609cbec6c6acf71f2ac5922f6a4f66ff9c8c14964851bf2c4e6aec67dd16abf"
+    },
+    "progs.dat": {
+     "bytes": 425632,
+     "sha256": "7f1d8008cc8843ebe9f5ead1f9c746f0216881a6805641a9205d9531afa4c73a"
+    },
+    "progs/cyber.mdl": {
+     "bytes": 84708,
+     "sha256": "c6461c3dcf90e4213f4eab64d89d20a27a22dd344100cded0576396a80636af9"
+    },
+    "progs/h_cyber.mdl": {
+     "bytes": 60824,
+     "sha256": "5f770e264c3854f89f3f9ffc67810ba0127629a66825337b695ba16898f5d6e9"
+    },
+    "progs/leg_gib.mdl": {
+     "bytes": 33184,
+     "sha256": "c85c8e627e9a3be2e9d3c15e3a571fb21117e8dc208fdf2fe23868ac0a6cacf5"
+    },
+    "progs/wizard.mdl": {
+     "bytes": 76811,
+     "sha256": "f3dbf9f83ccb349ff40a71d6ac398961a8afe2144009b16edf815b0dfe6f0e55"
+    },
+    "sound/cyber/boom.wav": {
+     "bytes": 15704,
+     "sha256": "ed21469ce018f341fda77a87f2334d0ff0071283c6488eb7b46dda271c0b84e7"
+    },
+    "sound/cyber/cybdie.wav": {
+     "bytes": 16638,
+     "sha256": "293562ac4b64afea8b75a3f2b9596a3d91472df999087b0473b776fbea686cee"
+    },
+    "sound/cyber/cybfire.wav": {
+     "bytes": 15540,
+     "sha256": "cedf5b3b1a05992ebe42034ea3f4a0478b574aa51ca870659380fbd4750f3d25"
+    },
+    "sound/cyber/cybhoof.wav": {
+     "bytes": 4120,
+     "sha256": "f81112d6c7f8c7b5572490bec2f6da694ac574aab84dc068289eb5d072e4c73b"
+    },
+    "sound/cyber/cybmet.wav": {
+     "bytes": 8134,
+     "sha256": "c598d983afb987948698202918c92f9fd67ab3472767dfa58ac71bce0ab9e4ca"
+    },
+    "sound/cyber/cybpain.wav": {
+     "bytes": 9568,
+     "sha256": "438c2d6025df95b8c8d5c31dfdc0dfb0916dffbd4e0cfdeb88c1114bce5073d4"
+    },
+    "sound/cyber/cybsee.wav": {
+     "bytes": 13094,
+     "sha256": "94fec00ac665adb041f000213dc525fb6e38e4047294607d312e145f6a8a6fca"
+    },
+    "sound/cyber/servo.wav": {
+     "bytes": 48520,
+     "sha256": "3e33542ea8c6edbac8ee092a38182be88acfede2ae2cb0730b7eb9af463c5f45"
+    }
+   },
+   "sha256": "8e4eef909fe81b5f9b47e2a1dca389ed5d82652f35652bbd8764ddcef50369e5",
    "timestamp": "1996-06-13T14:06:28.000Z"
   }
  },
- "filesize": 1030,
  "install": {
-  "extract": "{quake}/badass/"
+  "extract": "{base}/badass/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "55549e114699c8d40d864e86689045104e176ee8457768fc6fbe0bdfeaa4ced7",
  "tags": [
   "author=Derrick Dela Cruz",
   "commandline=-game badass",
+  "filename=badass.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
   "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1997-06-07",
+  "map_size=medium",
+  "nonspecific_tag=cyberdemon",
+  "release_date=1997-06-07",
   "startmap=start",
-  "tag=blue",
-  "tag=cyberdemon",
-  "tag=medium",
-  "tag=mixtex",
-  "title=My BADASS Level"
+  "theme=blue",
+  "theme=boss",
+  "theme=mixtex",
+  "title=My BADASS Level",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/badass.zip",

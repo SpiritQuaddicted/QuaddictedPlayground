@@ -1,30 +1,32 @@
 {
- "filename": [
-  "shafted.zip"
- ],
+ "bytes": 476,
  "files": {
   "shafted.bsp": {
-   "size": 1285484,
+   "bytes": 1285484,
+   "sha256": "dcfdbdc4d513984a8ccf08711062209eb9c6485216a950ced1aeea08233f7c60",
    "timestamp": "2002-04-23T21:33:06.000Z"
   },
   "shafted.txt": {
-   "size": 325,
+   "bytes": 325,
+   "sha256": "3a8c62cc21701d4afe38f27c25113c6b54020c24d6161d1715b646b22a547ad2",
    "timestamp": "2003-11-29T12:09:26.000Z"
   }
  },
- "filesize": 476,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7df9e97bdc89f720aa8bd5770f4f32a5535f5db80a66901a186852f85c4ffa8f",
  "tags": [
   "author=David Hocking",
+  "filename=shafted.zip",
   "game=quake",
-  "releasedate=2003-11-29",
-  "tag=small",
-  "tag=speedrun",
-  "title=Shafted"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=speedrun",
+  "release_date=2003-11-29",
+  "title=Shafted",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shafted.zip",

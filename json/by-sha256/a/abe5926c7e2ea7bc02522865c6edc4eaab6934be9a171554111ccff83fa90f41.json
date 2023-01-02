@@ -1,37 +1,40 @@
 {
- "filename": [
-  "genetix.zip"
- ],
+ "bytes": 951,
  "files": {
   "GENETIX.TXT": {
-   "size": 3963,
+   "bytes": 3963,
+   "sha256": "a7790fb7fd0ac3e5dc66034c47fb4be80d3a15ea049b4c5a99bfc2b7ad75b5ee",
    "timestamp": "1997-12-31T23:34:40.000Z"
   },
   "Genetix.DMM": {
-   "size": 265514,
+   "bytes": 265514,
+   "sha256": "96bb918cdbecfa9e4086e48101c8d1d5069bf8f946f0076818493c4a1c7058e8",
    "timestamp": "1997-12-31T13:20:34.000Z"
   },
   "genetix.bsp": {
-   "size": 1789136,
+   "bytes": 1789136,
+   "sha256": "604c70ad4dc7cc2a31d248652a08d737586314c33774e1201dc110013fe7597a",
    "timestamp": "1997-12-31T23:05:56.000Z"
   }
  },
- "filesize": 951,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "abe5926c7e2ea7bc02522865c6edc4eaab6934be9a171554111ccff83fa90f41",
  "tags": [
   "author=Astaroth (Rob Ellis II)",
+  "filename=genetix.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981122.html)",
-  "releasedate=1997-12-31",
-  "tag=base",
-  "tag=medium",
-  "tag=nonlinear",
-  "tag=source",
-  "title=Genetix Facility"
+  "map_layout=non-linear",
+  "map_size=medium",
+  "release_date=1997-12-31",
+  "source=included",
+  "theme=base",
+  "title=Genetix Facility",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/genetix.zip",

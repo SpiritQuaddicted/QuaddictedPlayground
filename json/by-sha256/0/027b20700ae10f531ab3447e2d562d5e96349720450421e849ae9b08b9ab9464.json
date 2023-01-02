@@ -1,45 +1,50 @@
 {
- "filename": [
-  "dazsp2.zip"
- ],
+ "bytes": 1192,
  "files": {
   "DAZSP2.bsp": {
-   "size": 1195276,
+   "bytes": 1195276,
+   "sha256": "225231c89e75968fdbe075b06003fd89dd0259cd299115ac2bada01546e89786",
    "timestamp": "2000-06-20T20:07:30.000Z"
   },
   "DAZSP2B.bsp": {
-   "size": 1225428,
+   "bytes": 1225428,
+   "sha256": "df2c3e1fba876d450f6209d0a82fdc82d62d59d79b832589ab2c47f25ebb89b4",
    "timestamp": "2000-06-25T19:01:26.000Z"
   },
   "dazsp2.txt": {
-   "size": 1787,
+   "bytes": 1787,
+   "sha256": "dfcd96955eab49dc2a2a0206ffd00928054d644d0603c729006718a7179dd3f7",
    "timestamp": "2000-06-25T19:42:46.000Z"
   },
   "dazsp2c.bsp": {
-   "size": 450956,
+   "bytes": 450956,
+   "sha256": "0c2413e794fce4d4311bbc2cd73e63cda2794f02803092bded1e674a603b8481",
    "timestamp": "2000-06-25T18:47:34.000Z"
   }
  },
- "filesize": 1192,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "027b20700ae10f531ab3447e2d562d5e96349720450421e849ae9b08b9ab9464",
  "tags": [
   "author=DaZ",
+  "filename=dazsp2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://dazdranz.planetquake.gamespy.com",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/09-jul-2000/dazsp2.php)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=77)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev000705.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=2000-06-25",
-  "tag=egyptian",
-  "tag=medium",
-  "tag=planetquake-map-of-the-week",
-  "tag=sand",
-  "tag=temple",
-  "title=Arabian Nights"
+  "map_size=medium",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2000-06-25",
+  "theme=egyptian",
+  "theme=sand",
+  "theme=temple",
+  "title=Arabian Nights",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dazsp2.zip",

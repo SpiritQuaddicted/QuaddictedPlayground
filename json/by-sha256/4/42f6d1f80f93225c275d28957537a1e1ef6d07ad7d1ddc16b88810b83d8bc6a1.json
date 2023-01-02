@@ -1,38 +1,44 @@
 {
- "filename": [
-  "soulcomplex.zip"
- ],
+ "bytes": 2003,
  "files": {
   "soulcomplex.bsp": {
-   "size": 3724952,
+   "bytes": 3724952,
+   "sha256": "acadcb56f9374b263a41c1ca726814a99e212b979185b98a0121df0d2dd5f270",
    "timestamp": "2019-01-08T22:18:54.000Z"
   },
   "soulcomplex.lit": {
-   "size": 893240,
+   "bytes": 893240,
+   "sha256": "3578adc3f76ff98e3eac97cb171e329df0c74e8914ccd622dec9ec6ffad23474",
    "timestamp": "2019-01-08T22:18:54.000Z"
   },
   "soulcomplex.map": {
-   "size": 1269736,
+   "bytes": 1269736,
+   "sha256": "946022e77d505d44d543f7dadfe33d76cd119a9bfa9d27f12819950beff30101",
    "timestamp": "2019-01-08T22:15:20.000Z"
   },
   "soulcomplex.txt": {
-   "size": 1535,
+   "bytes": 1535,
+   "sha256": "bcb15ea35e2b5bdeafd01b6b14f1b5498a64020d062e790d0568c55783941a4d",
    "timestamp": "2019-01-18T20:25:34.000Z"
   }
  },
- "filesize": 2003,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "42f6d1f80f93225c275d28957537a1e1ef6d07ad7d1ddc16b88810b83d8bc6a1",
  "tags": [
   "author=Sonnenblume",
+  "filename=soulcomplex.zip",
   "game=quake",
-  "releasedate=2019-01-18",
-  "tag=idbase",
-  "tag=large",
-  "title=Soul Complex"
+  "game_mode=singleplayer",
+  "map_size=large",
+  "release_date=2019-01-18",
+  "source=included",
+  "theme=base",
+  "theme=idbase",
+  "title=Soul Complex",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/soulcomplex.zip",

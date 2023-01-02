@@ -1,42 +1,46 @@
 {
- "filename": [
-  "hc2.zip"
- ],
+ "bytes": 567,
  "files": {
   "gpl-2.0.txt": {
-   "size": 18326,
+   "bytes": 18326,
+   "sha256": "9f2e250993c6206fac643824e05e5a0d7d3e0895d9e09a5ce4b12bc2610afc11",
    "timestamp": "2017-01-02T10:59:52.000Z"
   },
   "hc2.bsp": {
-   "size": 1184904,
+   "bytes": 1184904,
+   "sha256": "55a3e7790177e00f6d9cab9e6d52542ecdd4a98847e7f01afcc93caebc0ae31e",
    "timestamp": "2017-01-13T20:26:26.000Z"
   },
   "hc2.map": {
-   "size": 352356,
+   "bytes": 352356,
+   "sha256": "4e7cd7caa74e68b3d9a3389fd5d5618b60570c280472f58b286e567dd701de0b",
    "timestamp": "2017-01-13T20:22:00.000Z"
   },
   "hc2.txt": {
-   "size": 1188,
+   "bytes": 1188,
+   "sha256": "b5967f71a9ad5ce0ceebd64a115782dbfa0629c0f8dec8f6f2e1673dc894e7b7",
    "timestamp": "2017-01-13T21:12:10.000Z"
   }
  },
- "filesize": 567,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "495bed5656c80c88ccf77a9c0ec17c8058680efa5456ec13024caff7932d2829",
  "tags": [
   "author=Nicolas &quot;hexcalk&quot; Maeder",
+  "filename=hc2.zip",
   "game=quake",
-  "releasedate=2017-01-13",
-  "tag=classic",
-  "tag=horde",
-  "tag=oldschool",
-  "tag=small",
-  "tag=source",
-  "tag=wizard",
-  "title=Baneful Politic Comply"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "playstyle=horde",
+  "release_date=2017-01-13",
+  "source=included",
+  "theme=classic",
+  "theme=oldschool",
+  "theme=wizard",
+  "title=Baneful Politic Comply",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hc2.zip",

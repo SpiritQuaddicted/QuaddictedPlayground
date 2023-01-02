@@ -1,35 +1,38 @@
 {
- "filename": [
-  "lfsp2.zip"
- ],
+ "bytes": 714,
  "files": {
   "lfsp2.bsp": {
-   "size": 1852572,
+   "bytes": 1852572,
+   "sha256": "c266b67acd1f6455b8bbfeea0671a3f747571ef20551ebbc9394dbab927dcbe9",
    "timestamp": "2003-06-09T22:06:50.000Z"
   },
   "lfsp2.txt": {
-   "size": 1223,
+   "bytes": 1223,
+   "sha256": "522c1579e2cbbd19e4b5e09d1917f7564755c261e8de0775ff40dec962d9e3fc",
    "timestamp": "2003-06-06T23:24:20.000Z"
   }
  },
- "filesize": 714,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8aa1e37670cace96b8b13f4a096c6b58196f8b7fd40af2077fab5e13be5773ed",
  "tags": [
   "author=Leafface",
+  "filename=lfsp2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://hosted.planetquake.gamespy.com/bsa",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev030302.html)",
-  "releasedate=2000-01-01",
-  "tag=episode",
-  "tag=medium",
-  "tag=toilet humor",
-  "tag=traps",
-  "tag=wind tunnels",
-  "tag=wizard",
-  "title=Sneer of shit"
+  "map_size=medium",
+  "nonspecific_tag=toilet humor",
+  "release_date=2000-01-01",
+  "theme=traps",
+  "theme=wind tunnels",
+  "theme=wizard",
+  "title=Sneer of shit",
+  "type=episode",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/lfsp2.zip",

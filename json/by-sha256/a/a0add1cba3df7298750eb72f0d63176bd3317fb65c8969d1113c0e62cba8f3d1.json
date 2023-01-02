@@ -1,32 +1,34 @@
 {
- "filename": [
-  "tut.zip"
- ],
+ "bytes": 444,
  "files": {
   "Tut.txt": {
-   "size": 1851,
+   "bytes": 1851,
+   "sha256": "b4868382cd41b264970a7d5dfbdaa6f7269bb1c1cc228a639f8bea9fd9283bc7",
    "timestamp": "1998-07-18T22:21:52.000Z"
   },
   "tut.bsp": {
-   "size": 1095864,
+   "bytes": 1095864,
+   "sha256": "739bcb2416826a4293084c482b258977e496da93fb586713f712599ebf271d1d",
    "timestamp": "1998-06-08T00:26:02.000Z"
   }
  },
- "filesize": 444,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "a0add1cba3df7298750eb72f0d63176bd3317fb65c8969d1113c0e62cba8f3d1",
  "tags": [
   "author=Dilvish",
+  "filename=tut.zip",
   "game=quake",
-  "releasedate=1998-07-18",
-  "tag=egyptian",
-  "tag=medium",
-  "tag=temple",
-  "tag=traps",
-  "title=Tut (ankhamon)"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "release_date=1998-07-18",
+  "theme=egyptian",
+  "theme=temple",
+  "theme=traps",
+  "title=Tut (ankhamon)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/tut.zip",

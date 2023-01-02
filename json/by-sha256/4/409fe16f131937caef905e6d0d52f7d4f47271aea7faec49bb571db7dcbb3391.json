@@ -1,50 +1,83 @@
 {
- "filename": [
-  "koohoo.zip"
- ],
+ "bytes": 2226,
  "files": {
   "koohoo/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2003-09-10T13:07:24.000Z"
   },
   "koohoo/koohoo.txt": {
-   "size": 4907,
+   "bytes": 4907,
+   "sha256": "e6b0eaf2fa95c5786ac9034d30176c4ab64c48e074525bbd15e0e9d85bba3fb2",
    "timestamp": "2003-09-10T13:09:28.000Z"
   },
   "koohoo/pak0.pak": {
-   "size": 5243430,
+   "bytes": 5243430,
+   "files": {
+    "maps/koohend.bsp": {
+     "bytes": 506240,
+     "sha256": "03502419502d30c5af41c2329b5a5366a6609dcb4ce6cdb4f8aa0a1449c5cdf0"
+    },
+    "maps/koohoo.bsp": {
+     "bytes": 3621928,
+     "sha256": "bda3ee85cca475db793bb9e759cb853de72a05b33204ca57ba3165b2bd863d23"
+    },
+    "maps/start.bsp": {
+     "bytes": 445144,
+     "sha256": "4d89c950f2d9ae5863ed2bc005ce881fdf0f31671dffb060bd686cc7d219779e"
+    },
+    "progs.dat": {
+     "bytes": 398068,
+     "sha256": "48494b85a0d06c5f3afd90514f44a1710e46d1c84dd27b03fb1490c0e27b77f4"
+    },
+    "progs/boss.mdl": {
+     "bytes": 211836,
+     "sha256": "9f55331e74fdfdb22754b2feb6f201856d364ff628074dc84a0bbbf2613d0be3"
+    },
+    "progs/lavaball.mdl": {
+     "bytes": 8788,
+     "sha256": "6abc446260a90c3c2a0182f510f42a19a6f4da2c721f70201f4dc9a576b28e1a"
+    },
+    "sound/ambience/wind2.wav": {
+     "bytes": 50966,
+     "sha256": "4ff7c86a0634a3ffce56f3948814d006bf3ba8e5107541b75b018bf01c06497c"
+    }
+   },
+   "sha256": "71dfcda941611c42c96da8f0984de32c5a82e6f8117a30ce9a66415d7d72b121",
    "timestamp": "2001-03-24T23:50:00.000Z"
   }
  },
- "filesize": 2226,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "409fe16f131937caef905e6d0d52f7d4f47271aea7faec49bb571db7dcbb3391",
  "tags": [
   "author=Vondur",
   "commandline=-game koohoo",
+  "filename=koohoo.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://vondur.net",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/17-april-2001/koohoo.php)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=106)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev010325.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=koohoo)",
   "link=[Tronyn's Top 10: Elder World](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a4.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=2001-03-25",
+  "map_size=huge",
+  "nonspecific_tag=aztec",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2001-03-25",
   "startmap=start",
-  "tag=aztec",
-  "tag=boss",
-  "tag=green",
-  "tag=huge",
-  "tag=mustplay",
-  "tag=outdoors",
-  "tag=planetquake-map-of-the-week",
-  "tag=swamp",
-  "tag=temple",
-  "tag=underground",
-  "title=The Castle of Koohoo"
+  "theme=boss",
+  "theme=green",
+  "theme=outdoors",
+  "theme=swamp",
+  "theme=temple",
+  "theme=underground",
+  "title=The Castle of Koohoo",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/koohoo.zip",

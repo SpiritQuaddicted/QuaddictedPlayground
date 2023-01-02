@@ -1,37 +1,40 @@
 {
- "filename": [
-  "dxmf.zip"
- ],
+ "bytes": 938,
  "files": {
   "Dxmf1.dem": {
-   "size": 355711,
+   "bytes": 355711,
+   "sha256": "7d9a24cb78313ad29908486797aaad9fcd078722a1d2f685bc83db73727f80aa",
    "timestamp": "1997-09-21T10:25:12.000Z"
   },
   "dxmf.bsp": {
-   "size": 1911448,
+   "bytes": 1911448,
+   "sha256": "401f3e6c1e156917462f96c6d2aa9ec451c49283dc03bfcbd7cc136a40c27800",
    "timestamp": "1997-09-21T01:55:26.000Z"
   },
   "dxmf.txt": {
-   "size": 4543,
+   "bytes": 4543,
+   "sha256": "55e5f2e3edf639e2370efde76b379c4f97c8a450e6081db05e8db5bbe21d1ebc",
    "timestamp": "1997-09-21T10:55:18.000Z"
   }
  },
- "filesize": 938,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ad36972f94f425d1d84e4f14616d97c3b3e8849bfaa85d1414b10034930521a6",
  "tags": [
   "author=Zied Rieke",
+  "filename=dxmf.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd2.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990102.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-09-21",
-  "tag=base",
-  "tag=medium",
-  "title=Dextromethrophan"
+  "map_size=medium",
+  "release_date=1997-09-21",
+  "theme=base",
+  "title=Dextromethrophan",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dxmf.zip",

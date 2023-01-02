@@ -1,38 +1,40 @@
 {
- "filename": [
-  "sadlark9.zip"
- ],
+ "bytes": 1219,
  "files": {
   "sadlark9.bsp": {
-   "size": 2900668,
+   "bytes": 2900668,
+   "sha256": "fbe337abc3d8f30a6e94c3cf01d4c0a12817ffa4767d58725013fc0d225ccd2a",
    "timestamp": "1998-01-05T17:58:42.000Z"
   },
   "sadlark9.txt": {
-   "size": 2513,
+   "bytes": 2513,
+   "sha256": "eae19ad15d4e7a519e76a25a2382599e79a0311deb22f3ce5eb756d25a03085e",
    "timestamp": "1998-01-07T22:25:54.000Z"
   }
  },
- "filesize": 1219,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "8f17a88a4776776d98e329c9eaa457a91d08d0d9330ce6f5b8c4d8f2d907e8ff",
  "tags": [
   "author=Jonas N.P. Lindstrom",
+  "filename=sadlark9.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east14j.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990116.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1998-01-07",
-  "tag=egyptian",
-  "tag=hub",
-  "tag=mayan",
-  "tag=metal",
-  "tag=planetquake-map-of-the-week",
-  "tag=small",
-  "tag=traps",
-  "title=The four runes of Sadlark"
+  "map_size=small",
+  "nonspecific_tag=hub",
+  "nonspecific_tag=mayan",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1998-01-07",
+  "theme=egyptian",
+  "theme=metal",
+  "theme=traps",
+  "title=The four runes of Sadlark",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sadlark9.zip",

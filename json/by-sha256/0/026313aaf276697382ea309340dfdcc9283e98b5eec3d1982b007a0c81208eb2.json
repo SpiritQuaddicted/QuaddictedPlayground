@@ -1,38 +1,41 @@
 {
- "filename": [
-  "sm39_temp.zip"
- ],
+ "bytes": 711,
  "files": {
   "sm39_ap.bsp": {
-   "size": 154244,
+   "bytes": 154244,
+   "sha256": "1625b5c27e8800c379c69327e1ba698acbf3ed7b778707e313e74599fb26474f",
    "timestamp": "2001-11-24T21:54:00.000Z"
   },
   "sm39_blitz.bsp": {
-   "size": 239700,
+   "bytes": 239700,
+   "sha256": "90bc3b81e12ef3b3fd3dfb46bb2ecd93c035618e147a563eecbed21ab2e6e699",
    "timestamp": "2001-11-24T17:17:26.000Z"
   },
   "sm39_dietz.bsp": {
-   "size": 275904,
+   "bytes": 275904,
+   "sha256": "f6a593a439e55d17e77b9f3041cef04420a0ef98d57f90a6eb2d96ae0af84609",
    "timestamp": "2001-11-24T23:10:04.000Z"
   },
   "sm39_ray.bsp": {
-   "size": 367576,
+   "bytes": 367576,
+   "sha256": "cd171d902863167963c9185199292f915197e697941bf7ef43c1c78afe770fb1",
    "timestamp": "2001-11-24T22:36:16.000Z"
   },
   "sm39_scampie.bsp": {
-   "size": 411588,
+   "bytes": 411588,
+   "sha256": "86366a857b77c38a7c19b5c18d0aeea03cb15686b7d924dd1d2955cb0fbae7a8",
    "timestamp": "2001-11-24T21:56:10.000Z"
   },
   "sm39_xenon.bsp": {
-   "size": 328032,
+   "bytes": 328032,
+   "sha256": "81253b518cd181912a711791dfec082f7ac68034f9f4f0a61394b353f292e826",
    "timestamp": "2001-11-24T22:09:08.000Z"
   }
  },
- "filesize": 711,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "026313aaf276697382ea309340dfdcc9283e98b5eec3d1982b007a0c81208eb2",
  "tags": [
   "author=Blitz",
@@ -41,9 +44,18 @@
   "author=Xenon",
   "author=ap",
   "author=dietz",
+  "filename=sm39_temp.zip",
   "game=quake",
-  "releasedate=2005-08-06",
-  "title=Speedmapping pack 39 - Unthemed"
+  "game_mode=singleplayer",
+  "release_date=2005-08-06",
+  "startmap=sm39_ap",
+  "startmap=sm39_blitz",
+  "startmap=sm39_dietz",
+  "startmap=sm39_ray",
+  "startmap=sm39_scampie",
+  "startmap=sm39_xenon",
+  "title=Speedmapping pack 39 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm39_temp.zip",

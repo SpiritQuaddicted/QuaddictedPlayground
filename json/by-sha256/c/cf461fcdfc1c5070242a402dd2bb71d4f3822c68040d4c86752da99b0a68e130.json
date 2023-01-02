@@ -1,0 +1,91 @@
+{
+ "bytes": 33489,
+ "files": {
+  "gfx/env/rlyeh_bk.tga": {
+   "bytes": 536033,
+   "sha256": "04fc4a6f7d42585d3a8830fcaccf52c58789b14f1b17875b9aa55b3c94db225f",
+   "timestamp": "2003-02-18T20:00:34.000Z"
+  },
+  "gfx/env/rlyeh_dn.tga": {
+   "bytes": 786971,
+   "sha256": "f7c0415058c27ab328d7323a03386b6ef4a8350f51406f1eba5a8548cb840c2c",
+   "timestamp": "2003-02-18T20:00:18.000Z"
+  },
+  "gfx/env/rlyeh_ft.tga": {
+   "bytes": 551229,
+   "sha256": "8f064a2686ecb52d7d2f5aae2efb3395038c28bf10bf9f19a9f39eebb3098b01",
+   "timestamp": "2003-02-18T20:00:34.000Z"
+  },
+  "gfx/env/rlyeh_lf.tga": {
+   "bytes": 528928,
+   "sha256": "24e933bb48e021b12ca77b26d40434e73d3689473bb0669d5d37ec55dddc91ba",
+   "timestamp": "2003-02-18T20:00:34.000Z"
+  },
+  "gfx/env/rlyeh_rt.tga": {
+   "bytes": 535110,
+   "sha256": "22c0b7c348e7f9764f483a1b5156beec7bbafb6669535e4f5c0bfe72cedf509f",
+   "timestamp": "2003-02-18T20:00:36.000Z"
+  },
+  "gfx/env/rlyeh_up.tga": {
+   "bytes": 260352,
+   "sha256": "8026167c2d74c4c5c388e5b10996a3348f286e2743c536688cf44dcd49350b66",
+   "timestamp": "2003-02-18T20:00:40.000Z"
+  },
+  "ion03.txt": {
+   "bytes": 9107,
+   "sha256": "d0e17b60381364c05a0b88f2bda97b2933033d95aea2eff1f16bbfb53374c7ac",
+   "timestamp": "2022-12-06T20:08:26.000Z"
+  },
+  "maps/ion03.bsp": {
+   "bytes": 16505264,
+   "sha256": "7fa6e3a9f4f0704296c2d33fcbbfb1eb0aecdbc539619f0b9883f6e271be2a71",
+   "timestamp": "2022-11-17T22:37:22.000Z"
+  },
+  "maps/ion03.lit": {
+   "bytes": 16891334,
+   "sha256": "1c90ced945c01cdbed609d5044d4258b0dcb3027553bcbc14461de2a7ab0d283",
+   "timestamp": "2022-11-17T20:57:58.000Z"
+  },
+  "music/track206.mp3": {
+   "bytes": 24999809,
+   "sha256": "7477845ac023045eab9b21b0cc542e2bae662ae5d1c8ccdfc5304dd928f752bd",
+   "timestamp": "2022-12-05T20:45:38.000Z"
+  },
+  "source/ion03.map": {
+   "bytes": 5502152,
+   "sha256": "599491f875a2ae3284175e7902a37f8bc6abb4f950440b4bc88f843e011bbb63",
+   "timestamp": "2022-11-17T20:53:12.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "cf461fcdfc1c5070242a402dd2bb71d4f3822c68040d4c86752da99b0a68e130",
+ "tags": [
+  "author=Ionous",
+  "bsp_format=bsp2",
+  "commandline=-game copper",
+  "dependency=copper_v1_20",
+  "exceeds_quake_limits=yes",
+  "filename=ion03.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/fhtagn-nagh.164/)",
+  "map_size=large",
+  "mod=copper",
+  "nonspecific_tag=koohoo",
+  "release_date=2022-12-13",
+  "source=included",
+  "startmap=ion03",
+  "theme=ruins",
+  "theme=temple",
+  "theme=tower",
+  "title=Fhtagn-Nagh",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ion03.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/cf461fcdfc1c5070242a402dd2bb71d4f3822c68040d4c86752da99b0a68e130/ion03.zip"
+ ]
+}

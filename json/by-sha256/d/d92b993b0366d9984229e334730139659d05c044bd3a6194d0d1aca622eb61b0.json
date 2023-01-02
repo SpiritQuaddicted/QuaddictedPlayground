@@ -1,41 +1,133 @@
 {
- "filename": [
-  "contract.zip"
- ],
+ "bytes": 7073,
  "files": {
   "contract.html": {
-   "size": 13665,
+   "bytes": 13665,
+   "sha256": "608ad80c8ebc6357f392100736287da61065491dda3f3dc64a775d3824b9d511",
    "timestamp": "2004-08-31T19:21:26.000Z"
   },
   "pak0.pak": {
-   "size": 19416397,
+   "bytes": 19416397,
+   "files": {
+    "demo1.dem": {
+     "bytes": 710825,
+     "sha256": "0e2a43b52f9ea2c76d399e7846c858a9d8eb5582a7f328a71344d918399c18e7"
+    },
+    "kell.cfg": {
+     "bytes": 2720,
+     "sha256": "c6ecdaa1ff9ec383494048608ea44413a5e6ac4268ac34814aed131ce2ec8cfe"
+    },
+    "maps/k1m1.bsp": {
+     "bytes": 3532008,
+     "sha256": "2f2d7d7348b9514b31cafa8c7dbb7b2ab3b9594f5591c6092721664167890c4a"
+    },
+    "maps/k1m10.bsp": {
+     "bytes": 3931224,
+     "sha256": "1a1e9d5775e8f8a5a8c8eb5903c730fea18e84ef1821d02237434a3000c29100"
+    },
+    "maps/k1m2.bsp": {
+     "bytes": 3064084,
+     "sha256": "d26fa72536bc3f93d3e57a69d61f8eacd9bddf36ccf2c127a409a146561cea92"
+    },
+    "maps/k1m3.bsp": {
+     "bytes": 4172532,
+     "sha256": "024a98faca1b12bd2903cc2a992a48dc1130b2e4273b09f3c4859abd3dd7151d"
+    },
+    "maps/start.bsp": {
+     "bytes": 3079148,
+     "sha256": "9872a220c9fa4566abc06f636476a0994ee9e3166c83fd5b6390cfb3f813bae8"
+    },
+    "progs/end1.mdl": {
+     "bytes": 20820,
+     "sha256": "2155d92a5244e4ddb237e46e64e38f09bb47141fcacf4ac1a06df1553f830858"
+    },
+    "progs/end2.mdl": {
+     "bytes": 40980,
+     "sha256": "f46f9a8f6f036fb66210ade338f9e76729d286fe8f73e1ae23a065382567de9a"
+    },
+    "progs/end3.mdl": {
+     "bytes": 19924,
+     "sha256": "c35c0c65e52b5de27175137fafb68751e3132675db529a1e80707eceb5dd6aec"
+    },
+    "progs/end4.mdl": {
+     "bytes": 26932,
+     "sha256": "001a69b25785d05678348ff2edea63e125c8ee07cb379fd03fe66bd720d5962e"
+    },
+    "progs/grenade.mdl": {
+     "bytes": 2244,
+     "sha256": "343c84307bb7c3f6f0e2d23965ef797f9711c26640371c23845f91cfff58da2a"
+    },
+    "progs/quaddama.mdl": {
+     "bytes": 39992,
+     "sha256": "33aa3cb25d9dd2a40fa6082e7a8bcb3102c79fecdef2d945566b28ca6bbc3869"
+    },
+    "progs/tarbaby.mdl": {
+     "bytes": 98148,
+     "sha256": "4936d42d121421090e8353010e0eb9ed89a53871a8e440a960b7cff049f948dc"
+    },
+    "sound/ambience/buzz1.wav": {
+     "bytes": 273352,
+     "sha256": "a4e2f8a7c0ac3c5d8e7ce1485147bc820b1270e3e3f13712b4cc7d2afbeee31d"
+    },
+    "sound/ambience/fl_hum1.wav": {
+     "bytes": 220542,
+     "sha256": "c925d73ef744b0a8c56507ff6fb18888de7ab803ea1f743060f8f9782180dcc7"
+    },
+    "sound/ambience/wind2.wav": {
+     "bytes": 57040,
+     "sha256": "7641643c47254d8bc72331ff90dee511cddfcbf03aaaa43f0cc7f35a4329ecdb"
+    },
+    "sound/misc/menu1.wav": {
+     "bytes": 5570,
+     "sha256": "c404a7d2f09b9e269a9df6d19396efe57b281f8eb79457b69ea4ab88a7d0f55a"
+    },
+    "sound/misc/menu2.wav": {
+     "bytes": 33108,
+     "sha256": "1504f451e4b8e02b8080014f79b11a34bdbcaab0b8e11a0427c0c5a7572ed796"
+    },
+    "sound/misc/menu3.wav": {
+     "bytes": 16288,
+     "sha256": "1ef4281197016a2025b5471143ae5f5b8fd98c0fa8def4ebd6e89fa362753ae9"
+    },
+    "sound/misc/trigger1.wav": {
+     "bytes": 34284,
+     "sha256": "2caac27dfee5758eb293e0c76bf86baf82b0522c6f71281160e805c6ec282f96"
+    },
+    "sound/zombie/idle_w2.wav": {
+     "bytes": 33212,
+     "sha256": "24b56a0dbea4fbbd43ed1fbbeff5d946c9269569284659ec72dc665b18076a3a"
+    }
+   },
+   "sha256": "cdf65d807fa869cf8c4040a8433a5819e3fc67714a6aa7b228a2ae7c8862343e",
    "timestamp": "2002-06-15T16:47:10.000Z"
   }
  },
- "filesize": 7073,
  "install": {
-  "extract": "{quake}/contract/"
+  "extract": "{base}/contract/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "d92b993b0366d9984229e334730139659d05c044bd3a6194d0d1aca622eb61b0",
  "tags": [
   "author=Kell",
   "commandline=-game contract",
+  "filename=contract.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://kell.quaddicted.com/",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=revok)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/hofcontractrevoked.html)",
   "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
-  "releasedate=2002-06-15",
+  "map_size=medium",
+  "nonspecific_tag=chthon",
+  "nonspecific_tag=kell",
+  "nonspecific_tag=mustplay",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2002-06-15",
   "startmap=start",
-  "tag=chthon",
-  "tag=classic",
-  "tag=episode",
-  "tag=kell",
-  "tag=knave",
-  "tag=medium",
-  "tag=mustplay",
-  "tag=planetquake-map-of-the-week",
-  "title=Contract Revoked"
+  "theme=knave",
+  "title=Contract Revoked",
+  "type=episode",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/contract.zip",

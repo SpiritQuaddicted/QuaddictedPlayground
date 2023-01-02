@@ -1,40 +1,43 @@
 {
- "filename": [
-  "mire_prison_jcr.zip"
- ],
+ "bytes": 1836,
  "files": {
   "mire_prison.bsp": {
-   "size": 5033024,
+   "bytes": 5033024,
+   "sha256": "073708d2c7132a4132022c93d095302ea3b0bcc0169893764a09f163dd05442b",
    "timestamp": "2018-05-01T20:39:46.000Z"
   },
   "mire_prison.map": {
-   "size": 1640047,
+   "bytes": 1640047,
+   "sha256": "dda70098c7d69919e2f7f555ee94bdbafb5f420de2d871f95021d1ae936d03d9",
    "timestamp": "2018-05-01T20:39:24.000Z"
   },
   "mire_prison.txt": {
-   "size": 1781,
+   "bytes": 1781,
+   "sha256": "70374a8566c0cd1d23fc72211dd04d54a70dc10ffc690c0cce4d19ebb7da71fd",
    "timestamp": "2018-05-01T21:56:32.000Z"
   }
  },
- "filesize": 1836,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b1d4d285dcfc62a17aeebea3b79d27e5b0d3ffd3a7b1bc46e907ce6e9a061a2c",
  "tags": [
   "author=Jose C. Rodriguez (JCR)",
+  "filename=mire_prison_jcr.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61568)",
-  "releasedate=2018-05-01",
+  "map_size=small",
+  "release_date=2018-05-01",
+  "source=included",
   "startmap=mire_prison",
-  "tag=medieval",
-  "tag=mixtex",
-  "tag=prison",
-  "tag=small",
-  "tag=source",
-  "tag=wizard",
-  "title=Mire Prison"
+  "theme=medieval",
+  "theme=mixtex",
+  "theme=prison",
+  "theme=wizard",
+  "title=Mire Prison",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mire_prison_jcr.zip",

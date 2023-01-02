@@ -1,24 +1,25 @@
 {
- "filename": [
-  "sm83_rpg_qwd.zip"
- ],
+ "bytes": 1200,
  "files": {
   "sm83_rpg.qwd": {
-   "size": 4422100,
+   "bytes": 4422100,
+   "sha256": "57a9c41d2a76c475ea251c9a4411a7010f1580ac1c1f4b31dc70b0c95528d25e",
    "timestamp": "2004-03-02T19:55:02.000Z"
   }
  },
- "filesize": 1200,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "6942a4571b5e8d3aad9494d2bb7bae49613fccdd6af17af6fddf8ff13efdc4db",
  "tags": [
   "author=RPG",
+  "filename=sm83_rpg_qwd.zip",
   "game=quake",
-  "releasedate=2005-08-06",
-  "title=Title"
+  "game_mode=singleplayer",
+  "release_date=2005-08-06",
+  "title=Title",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm83_rpg_qwd.zip",

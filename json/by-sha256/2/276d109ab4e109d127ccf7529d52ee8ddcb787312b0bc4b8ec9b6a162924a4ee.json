@@ -1,34 +1,36 @@
 {
- "filename": [
-  "fr3nrun2.zip"
- ],
+ "bytes": 848,
  "files": {
   "fr3nrun2.bsp": {
-   "size": 2031972,
+   "bytes": 2031972,
+   "sha256": "80d039911903077a523be257ce16fccc6c306ef39db38b770a7262f316c6acea",
    "timestamp": "2007-09-29T10:05:54.000Z"
   },
   "fr3nrun2.txt": {
-   "size": 222,
+   "bytes": 222,
+   "sha256": "34aa4d9b11a235eb884e36f8c3f16009533255f3037108e63a37ae59b86a98d0",
    "timestamp": "2007-09-29T04:51:36.000Z"
   }
  },
- "filesize": 848,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "276d109ab4e109d127ccf7529d52ee8ddcb787312b0bc4b8ec9b6a162924a4ee",
  "tags": [
   "author=Fern (aka Fr3n)",
+  "filename=fr3nrun2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev071119b.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
-  "releasedate=2007-09-29",
-  "tag=egyptian",
-  "tag=small",
-  "tag=speedrunning",
-  "tag=temple",
-  "title=The Grand Guignol"
+  "map_size=small",
+  "playstyle=speedrunning",
+  "release_date=2007-09-29",
+  "theme=egyptian",
+  "theme=temple",
+  "title=The Grand Guignol",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/fr3nrun2.zip",

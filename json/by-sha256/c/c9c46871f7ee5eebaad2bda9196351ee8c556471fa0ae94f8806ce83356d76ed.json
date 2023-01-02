@@ -1,0 +1,99 @@
+{
+ "bytes": 6088,
+ "files": {
+  "cchorde1.txt": {
+   "bytes": 2542,
+   "sha256": "5fde4dd4e959224e3b4ae7fc315ebd0d0416cc7232956ee4ba2904d00cbf2656",
+   "timestamp": "2022-02-20T16:08:52.000Z"
+  },
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-20T16:15:42.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-20T16:15:42.000Z"
+  },
+  "gfx/env/mak_galaxy_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "71100c3337fba5abd653984a642eb8840645d6470c3b3264feed4ec19b0dc5d0",
+   "timestamp": "2021-07-02T22:28:40.000Z"
+  },
+  "gfx/env/mak_galaxy_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "9f8757644dc06c3869ce1d204f63a921ea75f6cc4ca21dfff9213392b3ee2e89",
+   "timestamp": "2021-07-02T22:28:38.000Z"
+  },
+  "gfx/env/mak_galaxy_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "e382ea5b65a4bb306cbbb32272b675cfba9f826f4f612bc7322953a0c88ae753",
+   "timestamp": "2021-07-02T22:28:34.000Z"
+  },
+  "gfx/env/mak_galaxy_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "1ea6fd00fb02bfddb7a0cbdbb9ce26686836f393ef6e49c3ac60fd6ca215828c",
+   "timestamp": "2021-07-02T22:28:32.000Z"
+  },
+  "gfx/env/mak_galaxy_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "ee0535f855531ac74ca62c5ca5e9c0d33aa8b22395664308874f56d0f61c2b2b",
+   "timestamp": "2021-07-02T22:28:30.000Z"
+  },
+  "gfx/env/mak_galaxy_up.tga": {
+   "bytes": 3145772,
+   "sha256": "82899f691dbfa8405680ba8017a3c0a9533291ea9b346b50b7946e14afcb0bdb",
+   "timestamp": "2021-07-02T22:28:26.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-02-20T16:52:48.000Z"
+  },
+  "maps/cchorde1.bsp": {
+   "bytes": 1369504,
+   "sha256": "0c7f624747d6af9ad9310e6d813757412981e065d1c109835f6786b2233352d5",
+   "timestamp": "2022-02-20T16:53:32.000Z"
+  },
+  "maps/cchorde1.lit": {
+   "bytes": 436547,
+   "sha256": "5579402b2a5c4da0d645577963a9bed44d3319f8fc5bdc63a29676ff46f670bf",
+   "timestamp": "2022-02-20T16:53:32.000Z"
+  },
+  "maps/cchorde1.map": {
+   "bytes": 345141,
+   "sha256": "f1d930dc7fc41c4e7c220c842c93a368651b1a56f45081c333604c9594ed41cd",
+   "timestamp": "2022-02-20T16:44:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/mg1/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "c9c46871f7ee5eebaad2bda9196351ee8c556471fa0ae94f8806ce83356d76ed",
+ "tags": [
+  "author=CommonCold",
+  "exceeds_quake_limits=yes",
+  "filename=cchorde1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=dotm",
+  "nonspecific_tag=kex",
+  "nonspecific_tag=mg1",
+  "nonspecific_tag=turok",
+  "playstyle=horde",
+  "release_date=2022-02-20",
+  "source=included",
+  "startmap=cchorde1",
+  "theme=base",
+  "theme=space",
+  "title=Adon's Quota",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/cchorde1.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c9c46871f7ee5eebaad2bda9196351ee8c556471fa0ae94f8806ce83356d76ed/cchorde1.zip"
+ ]
+}

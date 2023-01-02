@@ -1,42 +1,139 @@
 {
- "filename": [
-  "rubicon.zip"
- ],
+ "bytes": 2699,
  "files": {
   "Rubicon.txt": {
-   "size": 4717,
+   "bytes": 4717,
+   "sha256": "8eb83e17eba3ee373397e44a2db6c60d8ea47b4a5d55fb06182a9f6613cbccff",
    "timestamp": "1998-02-25T15:57:24.000Z"
   },
   "pak0.pak": {
-   "size": 6127401,
+   "bytes": 6127401,
+   "files": {
+    "entsdefs.txt": {
+     "bytes": 47486,
+     "sha256": "2402a9d9a6879d93d8abdc2ad748c7b75e1af321597f7fd9515cf117bf897a7d"
+    },
+    "gfx/conback.lmp": {
+     "bytes": 64008,
+     "sha256": "21d0d0dc88e89bde091896f50896d17625b092bc6834dd381a142800412ce5a2"
+    },
+    "maps/eagle.bsp": {
+     "bytes": 1248504,
+     "sha256": "e33ed5f1ed9bce135ba1716f9037b8afc19bfad243669c9d56f66c448cecd0ac"
+    },
+    "maps/rubicon.bsp": {
+     "bytes": 2005252,
+     "sha256": "58f552da2a1be7130c182926972b2a62d2332a852d8b74e8273dc0935e03f056"
+    },
+    "maps/start.bsp": {
+     "bytes": 528780,
+     "sha256": "d9f5127e64958cb83674f03b24789a309e9bf8dcd98ca5e01c71ae0b767be0d1"
+    },
+    "progs.dat": {
+     "bytes": 554104,
+     "sha256": "17f98436e60eda75974c493c2fa90e3fdba52d4eccd21a385f7c44a58c5d5edc"
+    },
+    "progs/rubble1.mdl": {
+     "bytes": 69839,
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866"
+    },
+    "progs/rubble2.mdl": {
+     "bytes": 200266,
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77"
+    },
+    "progs/rubble3.mdl": {
+     "bytes": 303486,
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab"
+    },
+    "sound/ambient/bubble.wav": {
+     "bytes": 179808,
+     "sha256": "f87c010d2b6cd92a47f8b4abe9bddf040f9ee25cb36f5f9b90272a040986eb7e"
+    },
+    "sound/ambient/drone.wav": {
+     "bytes": 122710,
+     "sha256": "c90e3cb41af18961023d66e800721c0a70aa0e42fe295d813668cb21e30ef9ad"
+    },
+    "sound/ambient/fan1.wav": {
+     "bytes": 53404,
+     "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808"
+    },
+    "sound/ambient/intake.wav": {
+     "bytes": 101826,
+     "sha256": "f2cdde6b9294caf576fb80f8dfceacac28e2fbfcc794ec66f002d34aa2c55773"
+    },
+    "sound/ambient/rumble.wav": {
+     "bytes": 43736,
+     "sha256": "5243d903215f7198b825a2454d5714686a2a9254f679be7a2fba4a89bb067fbb"
+    },
+    "sound/ambient/throb.wav": {
+     "bytes": 174186,
+     "sha256": "a59d888be9893df1f423dae4eea25cb5493e5aaf565d820ea2c98e19dfacdc4c"
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "bytes": 33914,
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78"
+    },
+    "sound/misc/menu1.wav": {
+     "bytes": 4060,
+     "sha256": "3bab8fca9733e6c9f045e24f52ffbac401c757b1fe9f28fff967f21357bbadbc"
+    },
+    "sound/misc/menu2.wav": {
+     "bytes": 11588,
+     "sha256": "8b9a0404fefb408219731ff264cb5490d1178a2ddd2afe02db4a5ddc6e427171"
+    },
+    "sound/misc/menu3.wav": {
+     "bytes": 11966,
+     "sha256": "af1026fd9051e2c9c84f4eeffed454d7328969a29a2d11301464e383c6c809d8"
+    },
+    "sound/misc/tesla.wav": {
+     "bytes": 22526,
+     "sha256": "05a76add480090c8b15e3e6a33487fa019ab3e579c635e84a5343c4709cefd3d"
+    },
+    "sound/zelda/maze.wav": {
+     "bytes": 201244,
+     "sha256": "c69a99d5583c32061d25d11fa139f041a3257d1be74af8f19dd996406111afef"
+    },
+    "sound/zelda/secret.wav": {
+     "bytes": 65992,
+     "sha256": "0673bbcfb4f6915f5f7754fe101db8f0f5bb0271eaa65d39760347eed7792d63"
+    },
+    "sound/zelda/triforce.wav": {
+     "bytes": 77232,
+     "sha256": "85b9a442367166ea3f935e6ae5a1e881e0c05124dec64795873c88b3fd93a6b5"
+    }
+   },
+   "sha256": "1e2700c3798b5fd34521d7d893d57c1d691849cae29f3a631e6a0ed39754eb47",
    "timestamp": "1998-02-23T21:40:48.000Z"
   }
  },
- "filesize": 2699,
  "install": {
-  "extract": "{quake}/rubicon/"
+  "extract": "{base}/rubicon/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "41c1f7282a8e90077d3b9012abc5b208b08ad892e5e4d05824d34a285f7e1f54",
  "tags": [
   "author=John \"metlslime\" Fitzgibbons",
   "commandline=-game rubicon",
+  "filename=rubicon.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.celephais.net",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=128)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990306.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
-  "releasedate=1998-02-25",
+  "map_size=large",
+  "mod=rubicon",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1998-02-25",
   "startmap=eagle",
   "startmap=rubicon",
   "startmap=start",
-  "tag=base",
-  "tag=industrial",
-  "tag=large",
-  "tag=planetquake-map-of-the-week",
-  "tag=rubicon",
-  "tag=zelda secret",
-  "title=Rubicon"
+  "theme=base",
+  "theme=industrial",
+  "theme=rubicon",
+  "title=Rubicon",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rubicon.zip",

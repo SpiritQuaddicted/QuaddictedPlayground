@@ -1,42 +1,46 @@
 {
- "filename": [
-  "smqx11_pack.zip"
- ],
+ "bytes": 3114,
  "files": {
   "smqx11_digs.bsp": {
-   "size": 1670776,
+   "bytes": 1670776,
+   "sha256": "7354f9a6f7145791c58ea9e6f4cec60e535d9688fbf79ac6d881bee6a4931736",
    "timestamp": "2011-06-18T11:28:46.000Z"
   },
   "smqx11_drew.bsp": {
-   "size": 3778388,
+   "bytes": 3778388,
+   "sha256": "98d8e0b32b0d834f4cb4fdba2ef90703d5c3e3d696eb581cb66d51c3988b8ffe",
    "timestamp": "2011-06-22T15:31:04.000Z"
   },
   "smqx11_pack.txt": {
-   "size": 1491,
+   "bytes": 1491,
+   "sha256": "79039dbdbd6a10e3f727cdfaca42ce31d0190071ccc42f018d3a950d27410941",
    "timestamp": "2011-06-25T10:10:30.000Z"
   },
   "smqx11_textfish.bsp": {
-   "size": 982624,
+   "bytes": 982624,
+   "sha256": "b935f6cb5c10840443c25ba0f46358528cbc6a3421b945e372f56ecb446bcbac",
    "timestamp": "2011-06-24T23:00:52.000Z"
   },
   "smqx11_trinca.bsp": {
-   "size": 870892,
+   "bytes": 870892,
+   "sha256": "4718247e995a34dd3cd0d2e08670c2dadfb529d11e64ae66ac841a188afcb356",
    "timestamp": "2011-06-22T00:08:26.000Z"
   },
   "smqx11_trinca.qkm": {
-   "size": 548587,
+   "bytes": 548587,
+   "sha256": "dea67023da05a792c1658fad1d333e0d3b1c00866e9cddd6a46bfc40abe9b2a1",
    "timestamp": "2011-06-22T00:08:42.000Z"
   },
   "smqx11_zqf.bsp": {
-   "size": 1228560,
+   "bytes": 1228560,
+   "sha256": "ceae6269ca9818d1ab7524dbc5b1de301b16a984eccb9416c9cfe506b672cbab",
    "timestamp": "2011-06-24T19:46:06.000Z"
   }
  },
- "filesize": 3114,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "e8be72bafc18e02b453bd2d4a07f00dfb24b88eb410d93d5616f959a735e8bb6",
  "tags": [
   "author=Drew",
@@ -44,16 +48,21 @@
   "author=Trinca",
   "author=ZealousQuakeFan",
   "author=digs",
+  "filename=smqx11_pack.zip",
   "game=quake",
-  "releasedate=2011-06-25",
+  "game_mode=singleplayer",
+  "mod=rubicon",
+  "release_date=2011-06-25",
   "startmap=smqx11_digs",
   "startmap=smqx11_drew",
   "startmap=smqx11_textfish",
   "startmap=smqx11_trinca",
   "startmap=smqx11_zqf",
-  "tag=base",
-  "tag=rubicon",
-  "title=Speedmapping pack QExpo 2011 - 15 years tribute"
+  "theme=base",
+  "theme=puzzles",
+  "theme=rubicon",
+  "title=Speedmapping pack QExpo 2011 - 15 years tribute",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqx11_pack.zip",

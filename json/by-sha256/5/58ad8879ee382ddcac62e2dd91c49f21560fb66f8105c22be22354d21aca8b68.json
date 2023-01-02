@@ -1,38 +1,41 @@
 {
- "filename": [
-  "februus.zip"
- ],
+ "bytes": 1370,
  "files": {
   "februus.bsp": {
-   "size": 3333576,
+   "bytes": 3333576,
+   "sha256": "179c50abdd4b7249a46701d74bef71839a20e0f20ff162e327655147a9178464",
    "timestamp": "2004-01-25T15:59:54.000Z"
   },
   "februus.txt": {
-   "size": 5319,
+   "bytes": 5319,
+   "sha256": "1dba5172f5215a837cfc3ef727dd61c78b57abb9db6269ded968af58011a9619",
    "timestamp": "2004-01-25T16:00:24.000Z"
   }
  },
- "filesize": 1370,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "58ad8879ee382ddcac62e2dd91c49f21560fb66f8105c22be22354d21aca8b68",
  "tags": [
   "author=czg",
+  "filename=februus.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=febru)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev040128.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
-  "releasedate=2004-01-25",
-  "tag=catacombs",
-  "tag=large",
-  "tag=mazelike",
-  "tag=medieval",
-  "tag=planetquake-map-of-the-week",
-  "tag=rock",
-  "tag=underground",
-  "title=Februus Depth"
+  "map_size=large",
+  "nonspecific_tag=catacombs",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=mazelike",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2004-01-25",
+  "theme=medieval",
+  "theme=rock",
+  "theme=underground",
+  "title=Februus Depth",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/februus.zip",

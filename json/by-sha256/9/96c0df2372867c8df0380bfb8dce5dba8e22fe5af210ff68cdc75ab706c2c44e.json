@@ -1,33 +1,35 @@
 {
- "filename": [
-  "ebony1.zip"
- ],
+ "bytes": 447,
  "files": {
   "ebony1.bsp": {
-   "size": 1178044,
+   "bytes": 1178044,
+   "sha256": "cb2078289d110083634aace75263d6952cdc4b6884100c392d7bed28ac1f3a33",
    "timestamp": "1999-02-15T18:52:20.000Z"
   },
   "ebony1.txt": {
-   "size": 2273,
+   "bytes": 2273,
+   "sha256": "c880277b67310744b3d38905f9e5de834c214c3403551fdc6171bb2bba29eb9a",
    "timestamp": "1999-02-15T18:57:26.000Z"
   }
  },
- "filesize": 447,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "96c0df2372867c8df0380bfb8dce5dba8e22fe5af210ff68cdc75ab706c2c44e",
  "tags": [
   "author=Martel DuVigneaud",
+  "filename=ebony1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990512.html)",
-  "releasedate=1999-02-15",
-  "tag=lava",
-  "tag=metal",
-  "tag=secrets",
-  "tag=small",
-  "title=Ebony"
+  "map_size=small",
+  "release_date=1999-02-15",
+  "theme=lava",
+  "theme=metal",
+  "theme=secrets",
+  "title=Ebony",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ebony1.zip",

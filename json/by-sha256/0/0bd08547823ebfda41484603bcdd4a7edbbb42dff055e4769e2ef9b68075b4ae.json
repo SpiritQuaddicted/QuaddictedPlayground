@@ -1,36 +1,40 @@
 {
- "filename": [
-  "dwmtf.zip"
- ],
+ "bytes": 666,
  "files": {
   "dwmtf.bsp": {
-   "size": 1522342,
+   "bytes": 1522342,
+   "sha256": "1807bc7023465b902809aecdbcefce980f56e2a057bedf0ccaac5028fa75c3c4",
    "timestamp": "2015-12-18T22:41:02.000Z"
   },
   "dwmtf.lit": {
-   "size": 863762,
+   "bytes": 863762,
+   "sha256": "a0d5a0089d403749f825d0810efe66f2149da71f8ccc2abe40ced276cdb2c527",
    "timestamp": "2015-12-18T22:41:02.000Z"
   },
   "dwmtf.txt": {
-   "size": 1465,
+   "bytes": 1465,
+   "sha256": "27139910f31aef1bf6afb5081dd33082bddb9122dbf240ce945d1268038f3b03",
    "timestamp": "2015-12-18T23:21:08.000Z"
   }
  },
- "filesize": 666,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0bd08547823ebfda41484603bcdd4a7edbbb42dff055e4769e2ef9b68075b4ae",
  "tags": [
   "author=DeeDoubleU",
+  "filename=dwmtf.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.dimwalker.com",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61266)",
-  "releasedate=2015-12-18",
-  "tag=office",
-  "tag=realism",
-  "tag=small",
-  "title=Monster Training Facility"
+  "map_size=small",
+  "nonspecific_tag=office",
+  "release_date=2015-12-18",
+  "theme=realism",
+  "title=Monster Training Facility",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dwmtf.zip",

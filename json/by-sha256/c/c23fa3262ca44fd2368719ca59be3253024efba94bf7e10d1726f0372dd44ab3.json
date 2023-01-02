@@ -1,35 +1,37 @@
 {
- "filename": [
-  "zsp1.zip"
- ],
+ "bytes": 767,
  "files": {
   "zsp1.bsp": {
-   "size": 2133204,
+   "bytes": 2133204,
+   "sha256": "d3f53a829739aaef2b1d7e160bb9e57cd170f7b75a06da655cd8ce1e75f471a3",
    "timestamp": "2004-04-25T13:30:36.000Z"
   },
   "zsp1.txt": {
-   "size": 1778,
+   "bytes": 1778,
+   "sha256": "bebb0be06a2fa43295f56336bc449387cb10caa4b312c5f0981be78590b0354c",
    "timestamp": "2004-04-25T13:48:08.000Z"
   }
  },
- "filesize": 767,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c23fa3262ca44fd2368719ca59be3253024efba94bf7e10d1726f0372dd44ab3",
  "tags": [
   "author=Zwiffle",
+  "filename=zsp1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev040504.html)",
-  "releasedate=2004-04-25",
-  "tag=cr8",
-  "tag=crampy",
-  "tag=dark",
-  "tag=hard",
-  "tag=industrial",
-  "tag=small",
-  "title=Perversion of Gun"
+  "map_size=small",
+  "nonspecific_tag=cr8",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=hard",
+  "release_date=2004-04-25",
+  "theme=crampy",
+  "theme=industrial",
+  "title=Perversion of Gun",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/zsp1.zip",

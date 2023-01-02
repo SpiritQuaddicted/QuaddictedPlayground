@@ -1,33 +1,35 @@
 {
- "filename": [
-  "egany.zip"
- ],
+ "bytes": 1069,
  "files": {
   "egany.bsp": {
-   "size": 2598364,
+   "bytes": 2598364,
+   "sha256": "1d0716aa62a293142806eeb1248e2319404c645843736b84c393185692c013a8",
    "timestamp": "2001-07-07T18:27:36.000Z"
   },
   "egany.txt": {
-   "size": 921,
+   "bytes": 921,
+   "sha256": "72adc3fc1647c25ade8bf3fa125c639f8a43a8a31a82a6ffa44130a9f5b9011d",
    "timestamp": "2001-07-07T23:32:08.000Z"
   }
  },
- "filesize": 1069,
  "install": {
-  "extract": "{quake}/id1/maps"
+  "extract": "{base}/id1/maps"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "46471b2b69c4351625ff150ef83f6bbee9e391349d1d957e641721bbcc06af60",
  "tags": [
   "author=Scott \"Gemein\" Perry",
+  "filename=egany.zip",
   "game=quake",
-  "releasedate=2001-07-07",
-  "tag=dark",
-  "tag=dungeon",
-  "tag=medieval",
-  "tag=medium",
-  "tag=metal",
-  "title=Egany"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "nonspecific_tag=dark",
+  "release_date=2001-07-07",
+  "theme=dungeon",
+  "theme=medieval",
+  "theme=metal",
+  "title=Egany",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/egany.zip",

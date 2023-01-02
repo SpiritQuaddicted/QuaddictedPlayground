@@ -1,44 +1,48 @@
 {
- "filename": [
-  "smqe2_pack.zip"
- ],
+ "bytes": 877,
  "files": {
   "smqe2_drew.bsp": {
-   "size": 1028592,
+   "bytes": 1028592,
+   "sha256": "af85ba5edd69dff9fd485870315a1f679891688f0aa0e7912d4ab82a2fabb40f",
    "timestamp": "2005-08-13T15:18:08.000Z"
   },
   "smqe2_generic.bsp": {
-   "size": 381820,
+   "bytes": 381820,
+   "sha256": "91bdc4c6576a378138c4ab8627294dce57be2c03e4d12dd89e9c26b3281d3b6a",
    "timestamp": "2005-08-20T18:07:42.000Z"
   },
   "smqe2_neg!ke.bsp": {
-   "size": 463856,
+   "bytes": 463856,
+   "sha256": "1dc3c8c950a935d2018001e94e5e304f6c83d287334a21b3be238e2de2029279",
    "timestamp": "2005-08-20T22:47:24.000Z"
   },
   "smqe2_zwiffle.bsp": {
-   "size": 422960,
+   "bytes": 422960,
+   "sha256": "895107197ea67701d70df127a01e85fa1aa101fae20b7da9cf487135d8614b1a",
    "timestamp": "2005-08-20T18:04:24.000Z"
   }
  },
- "filesize": 877,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "0aad744aa4e4bf8871c35a8c613543df09310997203c4c961e08d16097b6ba14",
  "tags": [
   "author=Drew",
   "author=Zwiffle",
   "author=generic",
   "author=negke",
+  "filename=smqe2_pack.zip",
   "game=quake",
-  "releasedate=2005-08-20",
+  "game_mode=singleplayer",
+  "nonspecific_tag=test",
+  "release_date=2005-08-20",
   "startmap=smqe2_drew",
   "startmap=smqe2_generic",
   "startmap=smqe2_neg!ke",
   "startmap=smqe2_zwiffle",
-  "tag=test",
-  "title=Speedmapping pack QExpo 2005 - Miyazaki"
+  "title=Speedmapping pack QExpo 2005 - Miyazaki",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/smqe2_pack.zip",

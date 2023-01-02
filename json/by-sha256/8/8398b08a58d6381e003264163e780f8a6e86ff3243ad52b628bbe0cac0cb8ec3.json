@@ -1,0 +1,109 @@
+{
+ "bytes": 18713,
+ "files": {
+  "maps/nkstrq1m1.bsp": {
+   "bytes": 19177800,
+   "sha256": "51075bce227fd61a43df2d89f22d4f5f150f006a6be1372e251142c381b84b26",
+   "timestamp": "2022-10-24T19:52:54.000Z"
+  },
+  "maps/nkstrq1m1.lit": {
+   "bytes": 4421870,
+   "sha256": "ef2195207c0eb24bcc7b12a3a5fca97d94cfff23d26ed8d28f0f5747abac7fb3",
+   "timestamp": "2022-10-24T19:52:54.000Z"
+  },
+  "maps/nkstrq1m1.map": {
+   "bytes": 19537912,
+   "sha256": "a3ca91f07a9db17416e07e1cfd2523dc8a569fe1e23f29b6bcc1d14f10a3f09c",
+   "timestamp": "2022-10-24T19:50:54.000Z"
+  },
+  "music/track120.ogg": {
+   "bytes": 6070583,
+   "sha256": "a0a4dbca96ceed4e7a32485920b99f0c3798f4cba1fccd0160ddadba1a9fbf3b",
+   "timestamp": "2022-10-14T18:11:16.000Z"
+  },
+  "nkstrq1m1.txt": {
+   "bytes": 1968,
+   "sha256": "39a31a15068bf455bf45645c5c49b9b5db568511c6bf7357690b7d387ed6baa7",
+   "timestamp": "2022-10-24T19:53:46.000Z"
+  },
+  "sound/nickster/alienbugs1_11k.wav": {
+   "bytes": 645280,
+   "sha256": "e1753fe4b245a175919e40f0bc7c1c7f4e394a99f7b1e573959de53a6124782a",
+   "timestamp": "2022-09-18T15:52:12.000Z"
+  },
+  "sound/nickster/chains1_11k.wav": {
+   "bytes": 286880,
+   "sha256": "f9a4e33ae9d315c1af4149addcde5830a7e35f67dfbded7729e4b354ddbfb8dd",
+   "timestamp": "2022-09-18T15:53:26.000Z"
+  },
+  "sound/nickster/chains2_11k.wav": {
+   "bytes": 236704,
+   "sha256": "aadc679223aceb07a1c7fcef10364e8b0d81a7de0d07445272fb14c5f7896b44",
+   "timestamp": "2022-09-18T15:54:00.000Z"
+  },
+  "sound/nickster/creepy1a_11k.wav": {
+   "bytes": 1147040,
+   "sha256": "c5ad3a82aa4cd6ed5a13d4eaba6acf5300d15fb5f04020ca5ff117e5b8fd9d6a",
+   "timestamp": "2022-10-14T15:41:30.000Z"
+  },
+  "sound/nickster/creepy1b_11k.wav": {
+   "bytes": 1147040,
+   "sha256": "4b1869585a910f69a224e63276048235dead64faeaa0074ae517605632bff8d1",
+   "timestamp": "2022-10-14T15:41:56.000Z"
+  },
+  "sound/nickster/homogenizer_11k.wav": {
+   "bytes": 286764,
+   "sha256": "6f26887a63e30610a0190d77b587dc8c935ffe16bb4c9b761b94fea8328a5908",
+   "timestamp": "2022-09-18T18:10:50.000Z"
+  },
+  "sound/nickster/mach_hum1_11k.wav": {
+   "bytes": 573600,
+   "sha256": "99d47807ab6aff53ec1ef73039d7b9269faf986e943518930bea154ba5524373",
+   "timestamp": "2022-10-14T15:42:26.000Z"
+  },
+  "sound/nickster/tingleamb1a_11k.wav": {
+   "bytes": 688288,
+   "sha256": "fe6004856a8ab45e766e6d1b614ac84503b668afb1c8b8cfad2dcce6c790e95c",
+   "timestamp": "2022-10-14T15:43:00.000Z"
+  },
+  "sound/nickster/tingleamb1b_11k.wav": {
+   "bytes": 544928,
+   "sha256": "c065ceb7a46a745ef536ff78ed0feb0fab7fe51a331136fbc1c1f93c4151732d",
+   "timestamp": "2022-10-14T15:43:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "8398b08a58d6381e003264163e780f8a6e86ff3243ad52b628bbe0cac0cb8ec3",
+ "tags": [
+  "author=nickster",
+  "commandline=-game copper",
+  "dependency=copper_v1_19",
+  "exceeds_quake_limits=yes",
+  "filename=nkstrq1m1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Author's Bandcamp page](https://jupiterskydive.bandcamp.com/)",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/smells-like-grandmas.141/)",
+  "map_size=large",
+  "map_size=medium",
+  "mod=copper",
+  "music=custom",
+  "nonspecific_tag=platforming",
+  "nonspecific_tag=sci-fi",
+  "release_date=2022-10-24",
+  "source=included",
+  "startmap=nkstrq1m1",
+  "theme=base",
+  "theme=metal",
+  "theme=quake 3",
+  "title=Smells Like Grandma's",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/nkstrq1m1.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8398b08a58d6381e003264163e780f8a6e86ff3243ad52b628bbe0cac0cb8ec3/nkstrq1m1.zip"
+ ]
+}

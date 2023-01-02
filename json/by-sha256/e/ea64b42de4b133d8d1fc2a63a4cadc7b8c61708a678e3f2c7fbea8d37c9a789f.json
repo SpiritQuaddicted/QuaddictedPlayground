@@ -1,36 +1,40 @@
 {
- "filename": [
-  "asylum_2.zip"
- ],
+ "bytes": 951,
  "files": {
   "asylum.bsp": {
-   "size": 2169308,
+   "bytes": 2169308,
+   "sha256": "cb1766aef6f4bae91a6f84b6e233b559a27982a6a911b7ad263a36e4647fa9fb",
    "timestamp": "1998-06-17T22:07:10.000Z"
   },
   "asylum.txt": {
-   "size": 3306,
+   "bytes": 3306,
+   "sha256": "14b1b10a80381e7c234dfd31ec87c7d28bcdc96bae7d137aa9abfccba4ef46ac",
    "timestamp": "1998-08-26T21:05:06.000Z"
   },
   "asylum_quaddictedrepack.txt": {
-   "size": 197,
+   "bytes": 197,
+   "sha256": "6cdbafb18ce8ba0c7d1dac9eb9733b21214afb50bda6751c0867eadb0328bd7c",
    "timestamp": "2012-04-19T22:25:26.000Z"
   }
  },
- "filesize": 951,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ea64b42de4b133d8d1fc2a63a4cadc7b8c61708a678e3f2c7fbea8d37c9a789f",
  "tags": [
   "author=Charles Daniel",
+  "filename=asylum_2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.geocities.com/SunsetStrip/Venue/4570",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=asylum)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1998-07-01",
+  "map_size=medium",
+  "release_date=1998-07-01",
   "startmap=asylum",
-  "tag=medium",
-  "title=The Asylum"
+  "title=The Asylum",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/asylum_2.zip",

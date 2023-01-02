@@ -1,44 +1,50 @@
 {
- "filename": [
-  "gl4fify6.zip"
- ],
+ "bytes": 531,
  "files": {
   "!!READ!!.BAT": {
-   "size": 19393,
+   "bytes": 19393,
+   "sha256": "0997b5c99c0e106355f3cf07bde7912f522a16bf9ddf354bd210fdf0b0a2dd3c",
    "timestamp": "1997-11-21T16:45:26.000Z"
   },
   "FIFFY6.BSP": {
-   "size": 1028520,
+   "bytes": 1028520,
+   "sha256": "4b1e9f27f2f10e0bf30cd2d1ee896a10b5c4e2b86b415b4b260bb338e4a7df86",
    "timestamp": "1997-11-26T18:31:08.000Z"
   },
   "FIFFY6.DEM": {
-   "size": 481831,
+   "bytes": 481831,
+   "sha256": "330292cfa76bda64c478b51c29676e92f632a282d0871664f1ead9eeb74a6d84",
    "timestamp": "1997-11-20T22:03:18.000Z"
   },
   "FILE_ID.DIZ": {
-   "size": 761,
+   "bytes": 761,
+   "sha256": "20d5517b66d9e2b4aa3a1b1cee7afddb5b30893450419cd27eed24bd79dcd0cf",
    "timestamp": "1997-11-21T16:47:20.000Z"
   },
   "Readme.txt": {
-   "size": 305,
+   "bytes": 305,
+   "sha256": "6a45c0c54c8fc037a8e756d58c12e7f7de0c6c01577cb4f5ee7533429f0fc89a",
    "timestamp": "1997-11-30T03:13:00.000Z"
   }
  },
- "filesize": 531,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "583a75faa6afa0d6f873915009fd8c18aa62a1391c8530817ba5a48d98370e72",
  "tags": [
   "author=George J. Fiffy II",
+  "filename=gl4fify6.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://members.aol.com/georgef551",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-11-30",
+  "map_size=medium",
+  "release_date=1997-11-30",
   "startmap=fiffy6",
-  "tag=idbase",
-  "tag=medium",
-  "title=REoL TOUGH: O-Negative! (watervised)"
+  "theme=idbase",
+  "title=REoL TOUGH: O-Negative! (watervised)",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gl4fify6.zip",

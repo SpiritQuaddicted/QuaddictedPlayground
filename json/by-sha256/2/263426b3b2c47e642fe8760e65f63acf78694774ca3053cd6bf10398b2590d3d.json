@@ -1,38 +1,41 @@
 {
- "filename": [
-  "mymap.zip"
- ],
+ "bytes": 840,
  "files": {
   "garrison.bsp": {
-   "size": 902660,
+   "bytes": 902660,
+   "sha256": "cfebe5a8445f1b43b5ab337fbeee46009919b7642063d1641fa479aa4031695f",
    "timestamp": "1998-02-24T12:25:36.000Z"
   },
   "mymap.bsp": {
-   "size": 1227348,
+   "bytes": 1227348,
+   "sha256": "b4190c1fdd90bfc1204567ef8ec0addd778138df2ae648c5aec9d6a47e3bd3b6",
    "timestamp": "1998-03-01T20:22:04.000Z"
   },
   "mymap.txt": {
-   "size": 1915,
+   "bytes": 1915,
+   "sha256": "80e22c95b5f74bf72fe57f232803c5013b46382b1ed68bf64df9e7f25f8b7a33",
    "timestamp": "1998-04-19T10:48:22.000Z"
   }
  },
- "filesize": 840,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "263426b3b2c47e642fe8760e65f63acf78694774ca3053cd6bf10398b2590d3d",
  "tags": [
   "author=Peter Bisseker (tiddles)",
+  "filename=mymap.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981205.html)",
-  "releasedate=1998-04-19",
+  "map_size=medium",
+  "release_date=1998-04-19",
   "startmap=garrison",
   "startmap=mymap",
-  "tag=medium",
-  "tag=metal",
-  "tag=traps",
-  "title=Mymap &amp; Garrison"
+  "theme=metal",
+  "theme=traps",
+  "title=Mymap &amp; Garrison",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/mymap.zip",

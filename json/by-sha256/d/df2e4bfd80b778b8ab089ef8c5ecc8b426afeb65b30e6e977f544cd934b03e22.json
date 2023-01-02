@@ -1,36 +1,38 @@
 {
- "filename": [
-  "out1.zip"
- ],
+ "bytes": 691,
  "files": {
   "out1.bsp": {
-   "size": 1555808,
+   "bytes": 1555808,
+   "sha256": "b871f8b7fc94e6d21c685e0d4536cf0e269808a2a2ecf54aaa975c8564a18405",
    "timestamp": "1997-08-21T01:35:26.000Z"
   },
   "out1.txt": {
-   "size": 3150,
+   "bytes": 3150,
+   "sha256": "84c1614fbfd77beb6c8cbe55647e907df482280545a4731c0bd05242c670b275",
    "timestamp": "1997-08-21T00:17:54.000Z"
   }
  },
- "filesize": 691,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "df2e4bfd80b778b8ab089ef8c5ecc8b426afeb65b30e6e977f544cd934b03e22",
  "tags": [
   "author=J.F.Gustafsson",
+  "filename=out1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelso.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990131.html)",
-  "releasedate=1997-08-21",
-  "tag=base",
-  "tag=medium",
-  "tag=teleporter",
-  "tag=traps",
-  "tag=underwater",
-  "tag=wizard",
-  "title=Out of time"
+  "map_size=medium",
+  "nonspecific_tag=teleporter",
+  "release_date=1997-08-21",
+  "theme=base",
+  "theme=traps",
+  "theme=underwater",
+  "theme=wizard",
+  "title=Out of time",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/out1.zip",

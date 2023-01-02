@@ -1,56 +1,63 @@
 {
- "filename": [
-  "wieder.zip"
- ],
+ "bytes": 2007,
  "files": {
   "readme.txt": {
-   "size": 4402,
+   "bytes": 4402,
+   "sha256": "460c0d9358975be8a49d32b03136df767eaf1c687e4773b4fd94f0e5857adc03",
    "timestamp": "1997-11-11T15:29:32.000Z"
   },
   "salv.bsp": {
-   "size": 1269748,
+   "bytes": 1269748,
+   "sha256": "0298eeed0011b51b8aa5b26f91a020ff84c92a02e81ad97b575fa6b2df6bc9ed",
    "timestamp": "1997-10-19T22:34:16.000Z"
   },
   "salv.dem": {
-   "size": 1616868,
+   "bytes": 1616868,
+   "sha256": "8ed56211e81cca5d792564d7450efebc979ed36b57137a7006f60eec6d1bb874",
    "timestamp": "1997-10-20T01:13:00.000Z"
   },
   "salv.txt": {
-   "size": 1355,
+   "bytes": 1355,
+   "sha256": "81b92ab8c1f708dca4ae05170d296cbe83ebdc6d7c18a66f22f3bd8bb0666cd5",
    "timestamp": "1997-11-11T15:21:08.000Z"
   },
   "timebomb.bsp": {
-   "size": 2926920,
+   "bytes": 2926920,
+   "sha256": "f0f8fde9522d03595015d0a68a76354cce66a9d60fb25b95bcdb02887c262989",
    "timestamp": "1997-10-21T11:59:44.000Z"
   },
   "timebomb.txt": {
-   "size": 2539,
+   "bytes": 2539,
+   "sha256": "12ca62b99de038bf9f2a8cf64119b1de89253e1a6d9c0f3fd6e62c45cbc5634e",
    "timestamp": "1997-11-11T15:21:14.000Z"
   }
  },
- "filesize": 2007,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "eab7baf0f3e92bddf7543cf7737d9bae0422abb26bfc9e5deeec3ec7cf13f7e0",
  "tags": [
   "author=Charlie Wiederhold",
   "commandline=-hipnotic",
+  "filename=wieder.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990224.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1997-11-11",
+  "map_size=small",
+  "nonspecific_tag=evil",
+  "nonspecific_tag=grim",
+  "release_date=1997-11-11",
   "startmap=salv",
   "startmap=timebomb",
-  "tag=base",
-  "tag=evil",
-  "tag=grim",
-  "tag=hipnotic",
-  "tag=metal",
-  "tag=small",
-  "tag=traps",
-  "title=Timebomb &amp; Salvation"
+  "theme=base",
+  "theme=dissolution of eternity",
+  "theme=metal",
+  "theme=puzzles",
+  "theme=traps",
+  "title=Timebomb &amp; Salvation",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wieder.zip",

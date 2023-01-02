@@ -1,40 +1,44 @@
 {
- "filename": [
-  "dm_crypt.zip"
- ],
+ "bytes": 927,
  "files": {
   "ARCH.MAP": {
-   "size": 14629,
+   "bytes": 14629,
+   "sha256": "9d841e01d778ed5d57caf9a17ff61631c4693aef7e520e1598e813e62ad0b424",
    "timestamp": "1997-09-13T09:58:06.000Z"
   },
   "CRYPT.BSP": {
-   "size": 1788712,
+   "bytes": 1788712,
+   "sha256": "0551b93602888bd54a95b7ecbca341b07495cfbb63ccef39730fafca69d98a77",
    "timestamp": "1997-12-07T20:41:12.000Z"
   },
   "CRYPT.TXT": {
-   "size": 4508,
+   "bytes": 4508,
+   "sha256": "2287f2a5ca1db1538abc1359df44fab614fc56b5e7c6d67d5826b26017c93429",
    "timestamp": "1997-12-07T19:37:22.000Z"
   },
   "INTRO.BSP": {
-   "size": 386368,
+   "bytes": 386368,
+   "sha256": "f042bb64bb22f544034ef52763a9a6048f6ff785a4b67bfb9edd5449e7731c8d",
    "timestamp": "1997-12-07T19:48:50.000Z"
   }
  },
- "filesize": 927,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "29a2a2251970aaacb7ea0fdbe5ec68e1795334c012952740fcf5568b99021d31",
  "tags": [
   "author=David Minor",
+  "filename=dm_crypt.zip",
   "game=quake",
-  "releasedate=1997-12-07",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "release_date=1997-12-07",
   "startmap=intro",
-  "tag=blue",
-  "tag=medium",
-  "tag=wizard",
-  "title=The Crypt"
+  "theme=blue",
+  "theme=wizard",
+  "title=The Crypt",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm_crypt.zip",

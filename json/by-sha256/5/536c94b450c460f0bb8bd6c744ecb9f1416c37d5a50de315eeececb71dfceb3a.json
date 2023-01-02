@@ -1,38 +1,41 @@
 {
- "filename": [
-  "sham.zip"
- ],
+ "bytes": 97,
  "files": {
   "SHAM.BSP": {
-   "size": 200396,
+   "bytes": 200396,
+   "sha256": "8c8e82d4f53e0154e252669d454d5d9f4ce8d40aaadf737ea4dce897883cc15d",
    "timestamp": "1995-12-22T18:43:28.000Z"
   },
   "SHAM.MAP": {
-   "size": 83141,
+   "bytes": 83141,
+   "sha256": "44b00897ccbdcea1d8f7a7968fa0062479803a5a41319b0d69db4eeaf53a742b",
    "timestamp": "1995-12-22T18:40:20.000Z"
   },
   "SHAM.TXT": {
-   "size": 2312,
+   "bytes": 2312,
+   "sha256": "74e25e3d3027053164dd94e7aed01512d6473fea9efcef6bdd298d751898b175",
    "timestamp": "1995-12-22T18:35:08.000Z"
   }
  },
- "filesize": 97,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "536c94b450c460f0bb8bd6c744ecb9f1416c37d5a50de315eeececb71dfceb3a",
  "tags": [
   "author=Chris",
+  "filename=sham.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelss.htm#sham)",
-  "releasedate=1996-12-22",
-  "tag=brick",
-  "tag=metal",
-  "tag=source",
-  "tag=tiny",
-  "tag=wizard",
-  "title=Sham"
+  "map_size=tiny",
+  "release_date=1996-12-22",
+  "source=included",
+  "theme=brick",
+  "theme=metal",
+  "theme=wizard",
+  "title=Sham",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sham.zip",

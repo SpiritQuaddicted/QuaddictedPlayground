@@ -1,26 +1,33 @@
 {
- "filename": [
-  "ikspq4.zip"
- ],
+ "bytes": 521,
  "files": {
   "IKSPQ4.BSP": {
-   "size": 1356704,
+   "bytes": 1356704,
+   "sha256": "86e8046178d768f126c04d07ee2356bab95a5a0a4f3df083a9d128bbf554f88b",
    "timestamp": "1997-06-24T00:41:12.000Z"
   },
   "IKSPQ4.TXT": {
-   "size": 6188,
+   "bytes": 6188,
+   "sha256": "4123d5acee5c2ca29496e21aa022a8d326d6fccec8ababe73306bc5312b4326a",
    "timestamp": "1997-06-24T00:41:00.000Z"
   }
  },
- "filesize": 521,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b0356a53d2a93e8c78239d26d97dcdf86224b905f62b2bad248ce0128b4c3ff6",
  "tags": [
   "author=Iikka \"Fingers\" Ker\u00e4nen",
+  "dependency=ikspq1",
+  "dependency=ikspq2",
+  "dependency=ikspq3",
+  "dependency=ikspq5",
+  "dependency=ikstart",
+  "filename=ikspq4.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://ikq.planetquake.gamespy.com",
   "link=[Crash's](http://www.quake2.com/crash/levelsi.htm)",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=98)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/g_i.htm)",
@@ -28,14 +35,15 @@
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=ik4)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1997-06-24",
-  "tag=blue",
-  "tag=ikblue",
-  "tag=mustplay",
-  "tag=planetquake-map-of-the-week",
-  "tag=series",
-  "tag=temple",
-  "title=Homecoming"
+  "nonspecific_tag=mustplay",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=series",
+  "release_date=1997-06-24",
+  "theme=blue",
+  "theme=ikblue",
+  "theme=temple",
+  "title=Homecoming",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ikspq4.zip",

@@ -1,0 +1,78 @@
+{
+ "bytes": 2425,
+ "files": {
+  "ad_muksp3.txt": {
+   "bytes": 1906,
+   "sha256": "13f4361e626c337861b98855023bd3da602a8b40f574b34590f74af2369d3b62",
+   "timestamp": "2020-01-24T22:21:18.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-25T11:44:36.000Z"
+  },
+  "maps/ad_muksp3.bsp": {
+   "bytes": 3620956,
+   "sha256": "fb1a178750b5c697b97c3a0c0f0a550af4f3f9c0b24ca6b113438a77240286f4",
+   "timestamp": "2020-01-25T11:40:04.000Z"
+  },
+  "maps/ad_muksp3.lit": {
+   "bytes": 1131614,
+   "sha256": "354dfc624fd29674124ada900255cacc49e68023dd0cd43b63251cf5acae1829",
+   "timestamp": "2020-01-25T11:40:04.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T19:29:26.000Z"
+  },
+  "progs/crossbow.mdl": {
+   "bytes": 111480,
+   "sha256": "12e1cebceb7407ef28b92e338ca446e6742b1ec566dd1b6da3d1844d5cd01f0b",
+   "timestamp": "2019-06-30T15:27:58.000Z"
+  },
+  "src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-25T11:36:30.000Z"
+  },
+  "src/ad_muksp3.map": {
+   "bytes": 4109597,
+   "sha256": "43d5f7e593c9cb999c54b99a6278122fcc2e5fa4f2b5da075e1fea158b91f7d6",
+   "timestamp": "2020-01-25T11:36:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "dbe5ff4ccbb8bdd74781b824726b2af4cf3c611bba9ca529b65445630127c4af",
+ "tags": [
+  "author=mukor",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "filename=ad_muksp3_fix.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Additional screenshots](https://imgur.com/a/CV51BSt)",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61831)",
+  "map_size=small",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "release_date=2020-01-24",
+  "source=included",
+  "startmap=ad_muksp3",
+  "theme=arcane dimensions",
+  "theme=canyon",
+  "theme=medieval",
+  "theme=secrets",
+  "theme=tower",
+  "theme=wizard",
+  "title=Duel, In Towers",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_muksp3_fix.zip",
+  "https://www.quaddicted.com/files/by-sha256/d/dbe5ff4ccbb8bdd74781b824726b2af4cf3c611bba9ca529b65445630127c4af/ad_muksp3_fix.zip"
+ ]
+}

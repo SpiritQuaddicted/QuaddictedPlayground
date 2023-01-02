@@ -1,40 +1,76 @@
 {
- "filename": [
-  "anaconda.zip"
- ],
+ "bytes": 762,
  "files": {
   "anaconda.txt": {
-   "size": 437,
+   "bytes": 437,
+   "sha256": "b8d576a002e4c3600f4ce95231788ceedef7deeb97f5bb936c5b575c104132da",
    "timestamp": "1997-04-02T17:31:44.000Z"
   },
   "pak0.pak": {
-   "size": 1784012,
+   "bytes": 1784012,
+   "files": {
+    "maps/anac.bsp": {
+     "bytes": 133584,
+     "sha256": "54692e78dd2e364a75cc116c2d31ac9a03b84ac356cb5be90896b040628736c8"
+    },
+    "maps/start.bsp": {
+     "bytes": 713688,
+     "sha256": "7295046c78584e63eddbaa8bf3fe4ccd50b093d22609e43307489e3cca06c7e7"
+    },
+    "progs.dat": {
+     "bytes": 448636,
+     "sha256": "e21d5fafb4a54f3924ec4a93b7a183d4b62818582658c0d17c241c547b747701"
+    },
+    "progs/anaconda.mdl": {
+     "bytes": 225724,
+     "sha256": "0f39b08eeec0f4cadd512939795faac5633e8a3da56401e3a3b66ccd232506c9"
+    },
+    "progs/coils.mdl": {
+     "bytes": 75324,
+     "sha256": "d617ece500e6fcc47029b2e1d807a446be5720d82ca1dbc719df5895039892b7"
+    },
+    "progs/snakeman.mdl": {
+     "bytes": 132028,
+     "sha256": "04114bd1180592f23a42d4d79efff874820f837283297e2aabf509170a527edc"
+    },
+    "progs/spike2.mdl": {
+     "bytes": 1684,
+     "sha256": "0f343afdf373071fc4a3b95bce03558dade429e26fa16eca35481757661cc620"
+    },
+    "progs/uzi.mdl": {
+     "bytes": 52820,
+     "sha256": "744af1fafaacb751cf2e5ce4bb15a0fc1fb938ae519469de6f0dccfe9f320414"
+    }
+   },
+   "sha256": "36dca6c9209ae247b1c9b427f92b1cedd2e9f55eae43fec2c711134e21fce707",
    "timestamp": "1997-04-02T17:24:38.000Z"
   }
  },
- "filesize": 762,
  "install": {
-  "extract": "{quake}/anaconda/"
+  "extract": "{base}/anaconda/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "584dd3194acb9a6eab0e969da9646af92c06b48958a687bef629551002e6aa42",
  "tags": [
   "author=Magicman",
   "commandline=-game anaconda",
+  "filename=anaconda.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsa.htm#anaconda)",
-  "releasedate=1997-04-02",
+  "map_size=small",
+  "nonspecific_tag=monster",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=snake",
+  "release_date=1997-04-02",
   "startmap=start",
-  "tag=boss",
-  "tag=cave",
-  "tag=monster",
-  "tag=monsters",
-  "tag=small",
-  "tag=snake",
-  "tag=underground",
-  "tag=water",
-  "tag=wizard",
-  "title=Anaconda"
+  "theme=boss",
+  "theme=cave",
+  "theme=underground",
+  "theme=water",
+  "theme=wizard",
+  "title=Anaconda",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/anaconda.zip",

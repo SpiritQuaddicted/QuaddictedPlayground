@@ -1,52 +1,58 @@
 {
- "filename": [
-  "sm72_pack.zip"
- ],
+ "bytes": 1035,
  "files": {
   "sm72_cardo.bsp": {
-   "size": 267896,
+   "bytes": 267896,
+   "sha256": "49f295bf53c8b8d0868d9dd8b9c597e4b4b73f7f5f9a135cb4f9fc5e06ac91c5",
    "timestamp": "2004-03-13T21:57:34.000Z"
   },
   "sm72_pack.txt": {
-   "size": 1569,
+   "bytes": 1569,
+   "sha256": "b34348c83815dbb2ed2dd270ee8a2c308f740d76eb1cc4c2b8677fde9ef10533",
    "timestamp": "2004-03-13T21:43:58.000Z"
   },
   "sm72_rpg.bsp": {
-   "size": 355124,
+   "bytes": 355124,
+   "sha256": "ee679519ee5c0b095425a9e327eabc156ca7c4edbd97e574398186c74aec1c0c",
    "timestamp": "2004-03-13T18:55:44.000Z"
   },
   "sm72_scampie.bsp": {
-   "size": 506104,
+   "bytes": 506104,
+   "sha256": "4e3310882e61176ae7711d6e6534141365d397ae764eb77d850bf88cea77ad23",
    "timestamp": "2004-03-13T21:18:56.000Z"
   },
   "sm72_zwiffle.bsp": {
-   "size": 1751728,
+   "bytes": 1751728,
+   "sha256": "c81d38547406bcdd5dc0f3bacaa03e088740c2c657798783dbed8a8d90e569c5",
    "timestamp": "2004-03-13T19:30:48.000Z"
   },
   "sm72_zwiffle2.bsp": {
-   "size": 681608,
+   "bytes": 681608,
+   "sha256": "998be86d047fbc831f51d618e0d21a366f2e754b73b1701188785fbb9bef7a8d",
    "timestamp": "2004-03-08T15:43:16.000Z"
   }
  },
- "filesize": 1035,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c3a2d4728059e80491e4dc86a15087447afbfa96ead1fdab66d80564869f9bd2",
  "tags": [
   "author=CardO",
   "author=RPG",
   "author=Scampie",
   "author=Zwiffle",
+  "filename=sm72_pack.zip",
   "game=quake",
-  "releasedate=2004-03-13",
+  "game_mode=singleplayer",
+  "release_date=2004-03-13",
   "startmap=sm72_cardo",
   "startmap=sm72_rpg",
   "startmap=sm72_scampie",
   "startmap=sm72_zwiffle",
   "startmap=sm72_zwiffle2",
-  "title=Speedmapping pack 72 - Spine map textures (A Tribute to Headshot #3)"
+  "title=Speedmapping pack 72 - Spine map textures (A Tribute to Headshot #3)",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm72_pack.zip",

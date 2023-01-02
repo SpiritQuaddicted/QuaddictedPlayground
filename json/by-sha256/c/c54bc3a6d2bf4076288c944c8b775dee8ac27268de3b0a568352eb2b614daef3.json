@@ -1,0 +1,117 @@
+{
+ "bytes": 9762,
+ "files": {
+  "quasiotter_cmrsfm/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-12-31T08:47:02.000Z"
+  },
+  "quasiotter_cmrsfm/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-12-31T00:34:30.000Z"
+  },
+  "quasiotter_cmrsfm/maps/quasiotter_cmrsfm.bsp": {
+   "bytes": 1836896,
+   "sha256": "e719317d755d151090560c0b9fd99dfdda46c2b7e42f8b7d76de099f4bb3e38c",
+   "timestamp": "2020-12-31T00:33:08.000Z"
+  },
+  "quasiotter_cmrsfm/maps/quasiotter_cmrsfm.lit": {
+   "bytes": 551474,
+   "sha256": "6ff7689c0087f26da855c17823be48b5574015efd83ffc54cef87799b18838ea",
+   "timestamp": "2020-12-31T00:33:08.000Z"
+  },
+  "quasiotter_cmrsfm/maps/quasiotter_cmrsfm.map": {
+   "bytes": 1254307,
+   "sha256": "f3a3f70f5b7fd478741d25a2c92a8158600aea6fe6dc8965961c161e869e480c",
+   "timestamp": "2020-12-31T00:32:52.000Z"
+  },
+  "quasiotter_cmrsfm/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-12-30T23:28:34.000Z"
+  },
+  "quasiotter_cmrsfm/music/track77.ogg": {
+   "bytes": 8790448,
+   "sha256": "10731035d08bd4ba18aa8ae095d3851ee5b6ced9891b1b41a31b3cce65a17348",
+   "timestamp": "2020-12-30T22:34:32.000Z"
+  },
+  "quasiotter_cmrsfm/quasiotter_cmrsfm_readme.txt": {
+   "bytes": 6262,
+   "sha256": "bf941cfc1fc2917afd17b0a5ead42c3de997539963acba8950dade60889ebeae",
+   "timestamp": "2020-12-31T10:05:06.000Z"
+  },
+  "quasiotter_cmrsfm/textures/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-12-31T00:09:42.000Z"
+  },
+  "quasiotter_cmrsfm/textures/rock.tga": {
+   "bytes": 16402,
+   "sha256": "7eeae4fc331562374e18a24f458156b1e71e5f9e1dcc25b1a59984958b30a51a",
+   "timestamp": "2020-12-28T17:19:50.000Z"
+  },
+  "quasiotter_cmrsfm/textures/sky_vivid.tga": {
+   "bytes": 131090,
+   "sha256": "a2fd8613156e38033a5968554cca53f8db9c00574eaddac3f28eff54f0a7e0da",
+   "timestamp": "2020-12-28T17:34:00.000Z"
+  },
+  "quasiotter_cmrsfm/textures/water_cute.tga": {
+   "bytes": 16402,
+   "sha256": "176fe4bda41a7c07f15799ea1583c989b443ffa5cba5c0d8be9db318099e752f",
+   "timestamp": "2020-12-28T17:17:06.000Z"
+  },
+  "quasiotter_cmrsfm/twine game/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-12-31T00:23:16.000Z"
+  },
+  "quasiotter_cmrsfm/twine game/calm mood rain sounds forest mushrooms.html": {
+   "bytes": 328021,
+   "sha256": "5e1de048dd25c230460cbbee50757a51b10397bfc3523c00f53b62bc65116de1",
+   "timestamp": "2020-12-30T13:58:10.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "c54bc3a6d2bf4076288c944c8b775dee8ac27268de3b0a568352eb2b614daef3",
+ "tags": [
+  "author=quasiotter",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "filename=quasiotter_cmrsfm.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://oliverblueberry.info",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61999)",
+  "link=[Twine game](https://quasiotter.itch.io/calm-mood-rain-sounds-forest-mushrooms)",
+  "map_size=small",
+  "mod=arcanedimensions",
+  "music=custom",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=forest",
+  "nonspecific_tag=mushroom",
+  "nonspecific_tag=narrative",
+  "nonspecific_tag=noaxestart",
+  "nonspecific_tag=pacifist",
+  "nonspecific_tag=plants",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=terrain",
+  "nonspecific_tag=walking",
+  "nonspecific_tag=walkingsim",
+  "playstyle=nomonsters",
+  "release_date=2020-12-31",
+  "source=included",
+  "theme=abstract",
+  "theme=arcane dimensions",
+  "theme=experimental",
+  "title=Calm Mood Rain Sounds Forest Mushrooms",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/quasiotter_cmrsfm.zip",
+  "https://www.quaddicted.com/files/by-sha256/c/c54bc3a6d2bf4076288c944c8b775dee8ac27268de3b0a568352eb2b614daef3/quasiotter_cmrsfm.zip"
+ ]
+}

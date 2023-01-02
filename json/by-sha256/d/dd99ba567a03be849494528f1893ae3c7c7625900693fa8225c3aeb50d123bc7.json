@@ -1,32 +1,34 @@
 {
- "filename": [
-  "thetomb.zip"
- ],
+ "bytes": 534,
  "files": {
   "TheTomb.txt": {
-   "size": 2378,
+   "bytes": 2378,
+   "sha256": "312b8c14cd918a156e59dcd2331fdbb033587b699295a3316a9f0c69671a32f2",
    "timestamp": "1997-07-30T23:04:30.000Z"
   },
   "thetomb.bsp": {
-   "size": 1210128,
+   "bytes": 1210128,
+   "sha256": "653349de00d803a4fb3676db3d4f5aa69b7c5504a58478024bb10b4d5475d4a9",
    "timestamp": "1997-07-30T22:46:26.000Z"
   }
  },
- "filesize": 534,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "dd99ba567a03be849494528f1893ae3c7c7625900693fa8225c3aeb50d123bc7",
  "tags": [
   "author=N.I.B.",
+  "filename=thetomb.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelst.htm)",
-  "releasedate=1997-07-30",
-  "tag=medium",
-  "tag=traps",
-  "tag=wizard",
-  "title=The Tomb"
+  "map_size=medium",
+  "release_date=1997-07-30",
+  "theme=traps",
+  "theme=wizard",
+  "title=The Tomb",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/thetomb.zip",

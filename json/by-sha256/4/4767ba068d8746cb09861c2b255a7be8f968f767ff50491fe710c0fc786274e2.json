@@ -1,42 +1,46 @@
 {
- "filename": [
-  "elcshp.zip"
- ],
+ "bytes": 1265,
  "files": {
   "elcshp.bsp": {
-   "size": 1147656,
+   "bytes": 1147656,
+   "sha256": "2f6acb0318fe608e29d4a2f3e82fdf3f334e48573dc44922ba76158d62f1c89e",
    "timestamp": "1996-11-07T12:10:46.000Z"
   },
   "elcshp.txt": {
-   "size": 4379,
+   "bytes": 4379,
+   "sha256": "c759b785ab332d671ae6cf3e77be9c4dd466b921f608e34daed86c438348ae0c",
    "timestamp": "1996-11-07T17:07:36.000Z"
   },
   "elcshp2.bsp": {
-   "size": 672716,
+   "bytes": 672716,
+   "sha256": "9f8d014ce54cf78b40bfbe194161d8785e68e1b8ce0e2dc2e28b2f8e98cc4fef",
    "timestamp": "1996-11-07T14:47:32.000Z"
   },
   "elcshp3.bsp": {
-   "size": 1071488,
+   "bytes": 1071488,
+   "sha256": "2aa2d449fda056cbbfcb53c0f21e2253e16c2144b6f31c7f28f2a9faa037f6f2",
    "timestamp": "1996-11-07T15:21:22.000Z"
   }
  },
- "filesize": 1265,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4767ba068d8746cb09861c2b255a7be8f968f767ff50491fe710c0fc786274e2",
  "tags": [
   "author=David Jewsbury",
+  "filename=elcshp.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelse.htm)",
-  "releasedate=1996-11-07",
-  "tag=cyberpunk",
-  "tag=medium",
-  "tag=mini episode",
-  "tag=mixtex",
-  "tag=weird",
-  "title=Electric Sheep"
+  "map_size=medium",
+  "nonspecific_tag=cyberpunk",
+  "release_date=1996-11-07",
+  "theme=mixtex",
+  "theme=weird",
+  "title=Electric Sheep",
+  "type=episode",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/elcshp.zip",

@@ -1,38 +1,42 @@
 {
- "filename": [
-  "prensp1.zip"
- ],
+ "bytes": 497,
  "files": {
   "prensp1.bsp": {
-   "size": 820908,
+   "bytes": 820908,
+   "sha256": "ead78e5a8d14a158de2273e563df23143306b66490ce6eee9d2e5a38de91d4c8",
    "timestamp": "2019-05-02T17:26:36.000Z"
   },
   "prensp1.lit": {
-   "size": 317369,
+   "bytes": 317369,
+   "sha256": "750929b32de51ca1b089ecf6b075b7204ae8f29709394ad0423d23b5489a17de",
    "timestamp": "2019-05-02T17:26:36.000Z"
   },
   "prensp1.map": {
-   "size": 393972,
+   "bytes": 393972,
+   "sha256": "430e6de17cf28a39d8c5f61fdebe4b0d0e1b724b3d6b03cf9a75637a57b84183",
    "timestamp": "2019-05-02T17:03:20.000Z"
   },
   "prensp1.txt": {
-   "size": 2554,
+   "bytes": 2554,
+   "sha256": "76b2eda66c2b8155e5883057a0eb968ec8e5890697654fc3c38bb90ee98d5928",
    "timestamp": "2019-05-02T17:32:50.000Z"
   }
  },
- "filesize": 497,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b087397bc663c9cbf0a7b23759f4cb2039b3592098b0ac8ecf3e1aa5ad563b66",
  "tags": [
   "author=prengle",
+  "filename=prensp1.zip",
   "game=quake",
-  "releasedate=2019-05-03",
-  "tag=small",
-  "tag=wizard",
-  "title=Prolonged Absurdity"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2019-05-03",
+  "theme=wizard",
+  "title=Prolonged Absurdity",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/prensp1.zip",

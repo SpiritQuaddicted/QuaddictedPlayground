@@ -1,31 +1,33 @@
 {
- "filename": [
-  "hotel.zip"
- ],
+ "bytes": 432,
  "files": {
   "hotel.bsp": {
-   "size": 1527948,
+   "bytes": 1527948,
+   "sha256": "14491c14086caaac01637546e14007a5e9077a7fe3582cbbae553125198bfce9",
    "timestamp": "1997-08-24T19:47:30.000Z"
   },
   "hotel.txt": {
-   "size": 3890,
+   "bytes": 3890,
+   "sha256": "65f89ae692f91fb2b0494ddccbb12eaeb2bbe46e093977e1b12fe5fc2b15254b",
    "timestamp": "1997-08-24T19:52:30.000Z"
   }
  },
- "filesize": 432,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7fa5c72df6693539a83be12b0de23a42f2718d412a6297d4c0aee9d51104708d",
  "tags": [
   "author=Andrew Turner",
+  "filename=hotel.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsh.htm)",
-  "releasedate=1997-08-24",
-  "tag=realism",
-  "tag=small",
-  "title=Hotel Kique-Asse"
+  "map_size=small",
+  "release_date=1997-08-24",
+  "theme=realism",
+  "title=Hotel Kique-Asse",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hotel.zip",

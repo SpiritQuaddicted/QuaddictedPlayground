@@ -1,29 +1,32 @@
 {
- "filename": [
-  "qkhouse.zip"
- ],
+ "bytes": 419,
  "files": {
   "qkhouse.bsp": {
-   "size": 1054172,
+   "bytes": 1054172,
+   "sha256": "18825c36b61dfb6547ba462df6bc281e6c668f29145c4a84fee01eb3e7940858",
    "timestamp": "1998-01-07T12:40:54.000Z"
   },
   "qkhouse.txt": {
-   "size": 2048,
+   "bytes": 2048,
+   "sha256": "9b7bd11de05831ec722c033ee99258b83aff1429baa03337bf5a818ef82872a1",
    "timestamp": "2000-01-13T18:49:06.000Z"
   }
  },
- "filesize": 419,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "38fd9d80120287328bf955b1c0aa813384dc40ec46ff6c0d58ffa8188a0993e8",
  "tags": [
   "author=DAV",
+  "filename=qkhouse.zip",
   "game=quake",
-  "releasedate=1998-01-07",
-  "tag=tower",
-  "title=House"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.planetquake.com/davlevels/",
+  "release_date=1998-01-07",
+  "theme=tower",
+  "title=House",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/qkhouse.zip",

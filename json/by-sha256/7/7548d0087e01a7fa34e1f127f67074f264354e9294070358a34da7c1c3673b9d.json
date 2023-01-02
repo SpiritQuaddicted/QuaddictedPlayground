@@ -1,29 +1,30 @@
 {
- "filename": [
-  "q1m2.zip"
- ],
+ "bytes": 491,
  "files": {
   "q1m2.bsp": {
-   "size": 1140668,
+   "bytes": 1140668,
+   "sha256": "f97ba544263888434dc32c28622d20a8829d289dd7d42a3b50d9067c15ebf872",
    "timestamp": "1997-06-21T14:36:46.000Z"
   }
  },
- "filesize": 491,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7548d0087e01a7fa34e1f127f67074f264354e9294070358a34da7c1c3673b9d",
  "tags": [
   "author=unknown",
+  "filename=q1m2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990328.html)",
-  "releasedate=1997-06-21",
-  "tag=bricks",
-  "tag=medieval",
-  "tag=small",
-  "tag=underwater",
-  "title=Q1M2"
+  "map_size=small",
+  "release_date=1997-06-21",
+  "theme=bricks",
+  "theme=medieval",
+  "theme=underwater",
+  "title=Q1M2",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/q1m2.zip",

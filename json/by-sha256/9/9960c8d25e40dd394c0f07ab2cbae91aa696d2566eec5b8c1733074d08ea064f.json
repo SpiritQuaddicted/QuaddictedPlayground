@@ -1,33 +1,35 @@
 {
- "filename": [
-  "hayduke1.zip"
- ],
+ "bytes": 483,
  "files": {
   "HAYDUKE1.BSP": {
-   "size": 1168948,
+   "bytes": 1168948,
+   "sha256": "d4fa34607a1c1fb77717cbb449f3f7e16f8bc0eb839001d0b905e81f20879c78",
    "timestamp": "1997-07-29T16:05:18.000Z"
   },
   "HAYDUKE1.TXT": {
-   "size": 3109,
+   "bytes": 3109,
+   "sha256": "91dbe4db11f4ac845d2977c400c857f733083b9d5b071a75bd8788fde536eee0",
    "timestamp": "1997-07-31T18:02:40.000Z"
   }
  },
- "filesize": 483,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "9960c8d25e40dd394c0f07ab2cbae91aa696d2566eec5b8c1733074d08ea064f",
  "tags": [
   "author=Malcolm Sailor (aka hayduke)",
+  "filename=hayduke1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsh.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
-  "releasedate=1997-07-31",
-  "tag=metal",
-  "tag=runic",
-  "tag=small",
-  "title=Ephermerality"
+  "map_size=small",
+  "release_date=1997-07-31",
+  "theme=metal",
+  "theme=runic",
+  "title=Ephermerality",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hayduke1.zip",

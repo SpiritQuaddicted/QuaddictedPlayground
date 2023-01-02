@@ -1,48 +1,53 @@
 {
- "filename": [
-  "ac.zip"
- ],
+ "bytes": 1762,
  "files": {
   "ac.bsp": {
-   "size": 4066412,
+   "bytes": 4066412,
+   "sha256": "b513196090e0dbd0ecff132332fc26a67ba723b41330dfd8f82d56f3fa88ba58",
    "timestamp": "2004-03-04T00:03:00.000Z"
   },
   "ac.txt": {
-   "size": 3919,
+   "bytes": 3919,
+   "sha256": "9dce4ec032113530357082bdb245056a0c8290c87939a7c77d4840d5ab9b64ae",
    "timestamp": "2004-03-03T21:06:40.000Z"
   },
   "acstart.bsp": {
-   "size": 491692,
+   "bytes": 491692,
+   "sha256": "67d832c9ddd3a19b6c16f2ca423b1385cedb724c7b954cf07f7440682f621143",
    "timestamp": "2004-03-02T20:33:58.000Z"
   }
  },
- "filesize": 1762,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "53bb2feb28ca9363c9a206176e7ef572a1b0e465d069974d098988b231940ca7",
  "tags": [
   "author=Vondur",
+  "filename=ac.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.vondur.net",
   "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=233)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev040309.html)",
   "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
-  "releasedate=2004-03-04",
+  "map_size=huge",
+  "map_size=large",
+  "nonspecific_tag=curves",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=multi-theme",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2004-03-04",
+  "startmap=ac",
   "startmap=acstart",
-  "tag=bricks",
-  "tag=curves",
-  "tag=hard",
-  "tag=huge",
-  "tag=large",
-  "tag=metal",
-  "tag=multi-theme",
-  "tag=planetquake-map-of-the-week",
-  "tag=sewer",
-  "tag=stone",
-  "tag=super secret",
-  "tag=underground",
-  "title=Adamantine Cruelty"
+  "theme=bricks",
+  "theme=metal",
+  "theme=sewer",
+  "theme=stone",
+  "theme=super secret",
+  "theme=underground",
+  "title=Adamantine Cruelty",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ac.zip",

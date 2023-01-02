@@ -1,46 +1,50 @@
 {
- "filename": [
-  "dm6rmx.zip"
- ],
+ "bytes": 3157,
  "files": {
   "dm6rmx.bsp": {
-   "size": 5469364,
+   "bytes": 5469364,
+   "sha256": "191c6c6e948f480c420c7a31a2c66a51ea95846f915302b1a1fced8e5cf6c4ac",
    "timestamp": "2018-10-08T15:00:08.000Z"
   },
   "dm6rmx.lit": {
-   "size": 1769966,
+   "bytes": 1769966,
+   "sha256": "38a212db048f3dfba7dc09269039f2a9735af50affdd2322fc153dca7c3a50b8",
    "timestamp": "2018-10-08T15:00:08.000Z"
   },
   "dm6rmx.map": {
-   "size": 4275710,
+   "bytes": 4275710,
+   "sha256": "69b0b674f4eb05dbf0a2643fd3476cfa39ce04a52d0d4e2234e0a0c90f54d436",
    "timestamp": "2018-10-08T15:03:50.000Z"
   },
   "dm6rmx.txt": {
-   "size": 11278,
+   "bytes": 11278,
+   "sha256": "ef9111cf20c414debf76dafa838707f1751f16c360cb675d228171c69f272ad8",
    "timestamp": "2018-10-08T15:10:12.000Z"
   }
  },
- "filesize": 3157,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "a7db025f2d3d5a8f188dc2a8cb9b06f70afd6984892373cb4475987442a65260",
  "tags": [
   "author=than",
+  "exceeds_quake_limits=yes",
+  "filename=dm6rmx.zip",
   "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61638)",
-  "releasedate=2018-10-08",
-  "tag=base",
-  "tag=dm",
-  "tag=dm6",
-  "tag=industrial",
-  "tag=large",
-  "tag=limits",
-  "tag=remake",
-  "tag=remix",
-  "tag=source",
-  "title=The Dark Portal"
+  "map_size=large",
+  "nonspecific_tag=dm6",
+  "release_date=2018-10-08",
+  "source=included",
+  "theme=base",
+  "theme=industrial",
+  "theme=remake",
+  "theme=remix",
+  "title=The Dark Portal",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dm6rmx.zip",

@@ -1,39 +1,42 @@
 {
- "filename": [
-  "damaul3.zip"
- ],
+ "bytes": 907,
  "files": {
   "DaMaul3.bsp": {
-   "size": 1398948,
+   "bytes": 1398948,
+   "sha256": "2916b827f85edab446fafa54e062b5af040937a303cedbc13906fb0db35deadc",
    "timestamp": "1999-02-06T00:09:14.000Z"
   },
   "DaMaul3.txt": {
-   "size": 3998,
+   "bytes": 3998,
+   "sha256": "08873147b4bedcb7a253b0f90dbc4ab57464e38fbc3657e255765d3229f4084f",
    "timestamp": "1999-02-10T07:20:40.000Z"
   },
   "DaMaul3b.bsp": {
-   "size": 810488,
+   "bytes": 810488,
+   "sha256": "1741ded1a127faa365a42424bbbdf40b8dfc31f794620e3211ffdbc440522f63",
    "timestamp": "1999-02-06T11:35:40.000Z"
   }
  },
- "filesize": 907,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "fd7338f5962a37b81c0bce35ee36306a6907ae833501569f494744219c52e125",
  "tags": [
   "author=John \"DaMaul\" McCann",
+  "filename=damaul3.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990209.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=1999-02-10",
-  "tag=boss",
-  "tag=castle fortress",
-  "tag=medium",
-  "tag=planetquake-map-of-the-week",
-  "tag=wizard",
-  "title=Suicide Nation"
+  "map_size=medium",
+  "nonspecific_tag=castle fortress",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-02-10",
+  "theme=boss",
+  "theme=wizard",
+  "title=Suicide Nation",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/damaul3.zip",

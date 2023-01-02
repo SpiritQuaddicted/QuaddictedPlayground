@@ -1,31 +1,33 @@
 {
- "filename": [
-  "civil.zip"
- ],
+ "bytes": 688,
  "files": {
   "CIVIL.BSP": {
-   "size": 1641984,
+   "bytes": 1641984,
+   "sha256": "beaf0fde358373ada422ffa4ac0286edfc4498fb87d5e64ed4e08223f688279b",
    "timestamp": "1997-09-25T17:54:00.000Z"
   },
   "CIVIL.TXT": {
-   "size": 1219,
+   "bytes": 1219,
+   "sha256": "a54c32bf8097678c4972ff31c62e5231c85bc39aea883575f3e084a7395c718f",
    "timestamp": "1997-08-30T12:13:14.000Z"
   }
  },
- "filesize": 688,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "efd17699b20c942e447b8326d8dbff141ff2432db8cba62ffe70a596683be487",
  "tags": [
   "author=Pete Jones",
+  "filename=civil.zip",
   "game=quake",
-  "releasedate=1997-09-25",
-  "tag=medieval",
-  "tag=mixtex",
-  "tag=small",
-  "title=Secret Civilization"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1997-09-25",
+  "theme=medieval",
+  "theme=mixtex",
+  "title=Secret Civilization",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/civil.zip",

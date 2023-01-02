@@ -1,40 +1,45 @@
 {
- "filename": [
-  "snaut-acidtrip_rezipped.zip"
- ],
+ "bytes": 4366,
  "files": {
   "snaut-acidtrip.bsp": {
-   "size": 13527928,
+   "bytes": 13527928,
+   "sha256": "1751aa320aa225b8d11935da933355ac6cdf8b529f39f4c22e955c10d5846df1",
    "timestamp": "2017-12-11T03:07:56.000Z"
   },
   "snaut-acidtrip.lit": {
-   "size": 2336273,
+   "bytes": 2336273,
+   "sha256": "286e3d3ae7cc120ffbfcb79f630057ba0ce976df5ba83e4ac066ed590ab9cf05",
    "timestamp": "2017-12-11T03:07:56.000Z"
   },
   "snaut-acidtrip.txt": {
-   "size": 3498,
+   "bytes": 3498,
+   "sha256": "1d919a83af77700ad141d754744cdc58d0f967a8a4d2d8479e4196fb11297f2a",
    "timestamp": "2017-12-11T03:48:30.000Z"
   }
  },
- "filesize": 4366,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "5ece38f3c650f7cb91852d8378d1dd7b31dab47dc7a98d56f47cf1ce7f13b532",
  "tags": [
   "author=Shamblernaut",
+  "exceeds_quake_limits=yes",
+  "filename=snaut-acidtrip_rezipped.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61530)",
-  "releasedate=2017-12-11",
+  "map_size=medium",
+  "nonspecific_tag=cr8",
+  "nonspecific_tag=multiple exits",
+  "release_date=2017-12-11",
   "startmap=snaut-acidtrip",
-  "tag=base",
-  "tag=industrial",
-  "tag=limits",
-  "tag=medium",
-  "tag=sewer",
-  "tag=slime",
-  "title=Organic Dissociation"
+  "theme=base",
+  "theme=industrial",
+  "theme=sewer",
+  "theme=slime",
+  "title=Organic Dissociation",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/snaut-acidtrip_rezipped.zip",

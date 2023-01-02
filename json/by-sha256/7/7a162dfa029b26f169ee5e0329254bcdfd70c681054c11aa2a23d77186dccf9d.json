@@ -1,33 +1,36 @@
 {
- "filename": [
-  "hellvill.zip"
- ],
+ "bytes": 886,
  "files": {
   "hellvill.bsp": {
-   "size": 2399040,
+   "bytes": 2399040,
+   "sha256": "e3bea6a0d1a88f5e21f23aee0e3d651d333073f2e11460d60d3a893d183b5974",
    "timestamp": "2006-04-09T21:42:50.000Z"
   },
   "hellvill.txt": {
-   "size": 1414,
+   "bytes": 1414,
+   "sha256": "6de123a3165e63ecc88e51d40b565d54efbd589207966187c07f477c49db23f4",
    "timestamp": "2006-04-10T00:30:20.000Z"
   }
  },
- "filesize": 886,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "7a162dfa029b26f169ee5e0329254bcdfd70c681054c11aa2a23d77186dccf9d",
  "tags": [
   "author=Elvis",
+  "filename=hellvill.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.multi.fi/~elvis/quakemap/",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev060426.html)",
-  "releasedate=2006-04-10",
-  "tag=medieval",
-  "tag=small",
-  "tag=village",
-  "tag=wizard",
-  "title=Hell's Village"
+  "map_size=small",
+  "release_date=2006-04-10",
+  "theme=medieval",
+  "theme=village",
+  "theme=wizard",
+  "title=Hell's Village",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/hellvill.zip",

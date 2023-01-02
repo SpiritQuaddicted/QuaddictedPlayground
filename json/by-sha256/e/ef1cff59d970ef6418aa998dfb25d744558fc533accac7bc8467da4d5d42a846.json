@@ -1,47 +1,52 @@
 {
- "filename": [
-  "c2000.zip"
- ],
+ "bytes": 1503,
  "files": {
   "C2000.txt": {
-   "size": 3753,
+   "bytes": 3753,
+   "sha256": "f46aee7baeb3a97d3a3607cfe2c0b6cb47f8d40f1dc4b23fdc6bee10e6f96881",
    "timestamp": "2010-11-25T22:35:24.000Z"
   },
   "C2000A.bsp": {
-   "size": 1469480,
+   "bytes": 1469480,
+   "sha256": "679b57212fb94cc5ef009e11f12655bcd3dee4accbf3740a333944c5068b0158",
    "timestamp": "2010-11-25T22:51:04.000Z"
   },
   "C2000B.bsp": {
-   "size": 1156752,
+   "bytes": 1156752,
+   "sha256": "816098d8cb991dd7b17dd913720ace9db5e002faadef4157a20bd1b434990782",
    "timestamp": "2010-12-10T22:41:42.000Z"
   },
   "C2000C.bsp": {
-   "size": 1072272,
+   "bytes": 1072272,
+   "sha256": "183a64e454c1c1f30828e991f99568da27f71955330710c58cb42672a6237e3b",
    "timestamp": "2010-12-10T22:29:32.000Z"
   },
   "quaddicted_repack.txt": {
-   "size": 150,
+   "bytes": 150,
+   "sha256": "dc25911ab1cb30b648b38b3fc778a9b572384cb88ad01a3392f5151bb6fde8ec",
    "timestamp": "2014-11-30T21:06:56.000Z"
   }
  },
- "filesize": 1503,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ef1cff59d970ef6418aa998dfb25d744558fc533accac7bc8467da4d5d42a846",
  "tags": [
   "author=Perro Seco",
+  "filename=c2000.zip",
   "game=quake",
-  "releasedate=2010-11-25",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2010-11-25",
   "startmap=c2000a",
   "startmap=c2000b",
   "startmap=c2000c",
-  "tag=city",
-  "tag=episode",
-  "tag=realism",
-  "tag=small",
-  "title=City 2000"
+  "theme=city",
+  "theme=realism",
+  "title=City 2000",
+  "type=episode",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/c2000.zip",

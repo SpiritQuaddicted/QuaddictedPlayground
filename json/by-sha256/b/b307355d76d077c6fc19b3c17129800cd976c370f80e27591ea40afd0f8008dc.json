@@ -1,128 +1,151 @@
 {
- "filename": [
-  "retrojam3dlc.zip"
- ],
+ "bytes": 13262,
  "files": {
   "docs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2015-07-26T12:10:16.000Z"
   },
   "docs/retrojam3dlc_ionous.txt": {
-   "size": 2724,
+   "bytes": 2724,
+   "sha256": "6374027a1acdb45e3b7ed80fa4715bb977efe96616027d32d866f8f0dde960cf",
    "timestamp": "2015-07-21T02:56:16.000Z"
   },
   "docs/retrojam3dlc_negke.txt": {
-   "size": 2422,
+   "bytes": 2422,
+   "sha256": "e17172a56ee43c8eb51b7da7a3e40d8d403a38b6b95a55986a0206d654912dd0",
    "timestamp": "2015-07-26T12:08:46.000Z"
   },
   "docs/retrojam3dlc_skacky.txt": {
-   "size": 1284,
+   "bytes": 1284,
+   "sha256": "1e3e0646e72b2bd6b3d324d1efbf8cf8e8393ffd79f498ac645c065445f4bf39",
    "timestamp": "2015-07-26T12:07:46.000Z"
   },
   "gfx/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2015-07-26T12:07:22.000Z"
   },
   "gfx/env/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2015-07-26T12:07:22.000Z"
   },
   "gfx/env/voidsmoke_bk.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "d274189cd63786e9d86fbd3cafda0cbfd054ccd527e30aeec921a8d6f10866a7",
    "timestamp": "2015-05-06T20:42:46.000Z"
   },
   "gfx/env/voidsmoke_dn.tga": {
-   "size": 3139628,
+   "bytes": 3139628,
+   "sha256": "674a16272873d4b26bbf3e085a35d73f8300f20c444f69aa6f2870f43e5da8f8",
    "timestamp": "2015-05-06T20:46:32.000Z"
   },
   "gfx/env/voidsmoke_ft.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "ced1991fffdc46e2bf156e1d89e06e1362e0e394808b74bc7aa40e6d90fde55d",
    "timestamp": "2015-05-06T20:43:28.000Z"
   },
   "gfx/env/voidsmoke_lf.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "4d1b843a9fc61c4125262a9a95fc084cea61eb4b125288f7a7cd0c2f2e53f4ab",
    "timestamp": "2015-05-06T20:43:48.000Z"
   },
   "gfx/env/voidsmoke_rt.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "389ae84f29901e349a266d707f62beab9de3eb607b901bcb4245028b8edaa3b1",
    "timestamp": "2015-05-06T20:43:08.000Z"
   },
   "gfx/env/voidsmoke_up.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "6d9b33f83ccf56f92abdf2b1197ce5fa8a3979f8b40793a73219618b8f46c33d",
    "timestamp": "2005-08-26T20:05:22.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2015-07-26T12:10:48.000Z"
   },
   "maps/retrojam3dlc_ionous.bsp": {
-   "size": 11472148,
+   "bytes": 11472148,
+   "sha256": "2b0392741b2c80dc96d57b28e6b6aa188bac16b794172f0aa3033b6f8c9832dc",
    "timestamp": "2015-07-23T05:22:04.000Z"
   },
   "maps/retrojam3dlc_ionous.lit": {
-   "size": 2739059,
+   "bytes": 2739059,
+   "sha256": "1c4a7ebcef94681afef6845aab5cbcf8012ed18f684218486914c21eb873befa",
    "timestamp": "2015-07-23T03:33:32.000Z"
   },
   "maps/retrojam3dlc_negke.bsp": {
-   "size": 2940864,
+   "bytes": 2940864,
+   "sha256": "0dd0ce3ba7a34996f65a543eee78c98aa80261507d542e43c8c29e76a9f047f7",
    "timestamp": "2015-07-26T12:08:02.000Z"
   },
   "maps/retrojam3dlc_skacky.bsp": {
-   "size": 6232025,
+   "bytes": 6232025,
+   "sha256": "671daa78b281b7015bbf3f129eae1cf79b1c5ce77e4ade550ff510bd6048fe71",
    "timestamp": "2015-05-07T16:52:22.000Z"
   },
   "maps/retrojam3dlc_skacky.lit": {
-   "size": 2382545,
+   "bytes": 2382545,
+   "sha256": "9edc3dcfaee573c759c83bd3f277c327a3f8d22d195804f515e6750c93329661",
    "timestamp": "2015-05-07T16:52:22.000Z"
   },
   "retrojam3dlc_readme.txt": {
-   "size": 2350,
+   "bytes": 2350,
+   "sha256": "8089a1fcba1966dffce1ccab645ccfda69fc9a99017cbb7ef83b29d4cbf7b492",
    "timestamp": "2015-07-26T12:13:06.000Z"
   },
   "source/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2015-07-26T12:10:28.000Z"
   },
   "source/retrojam3dlc_ionous.map": {
-   "size": 11734186,
+   "bytes": 11734186,
+   "sha256": "e13b7889fd771474eb69e5f7e5aef00e8004ac1cf6cba4c6aba02a45360e6e0d",
    "timestamp": "2015-07-23T03:21:48.000Z"
   },
   "source/retrojam3dlc_negke.map": {
-   "size": 1995458,
+   "bytes": 1995458,
+   "sha256": "2ef13d52e7e575b68fc200ed71344384359a56f1677cdfe67dd65f1867e8fd93",
    "timestamp": "2015-07-26T12:08:36.000Z"
   },
   "source/retrojam3dlc_skacky.map": {
-   "size": 3519789,
+   "bytes": 3519789,
+   "sha256": "73031c2161b2bbaf59d20fb1b67e4560df26c8ed2eedf268dfec7c7fbcfdb4c5",
    "timestamp": "2015-05-07T02:37:24.000Z"
   }
  },
- "filesize": 13262,
  "install": {
-  "extract": "{quake}/retrojam3dlc"
+  "extract": "{base}/retrojam3dlc"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b307355d76d077c6fc19b3c17129800cd976c370f80e27591ea40afd0f8008dc",
  "tags": [
   "author=ionous",
   "author=negke",
   "author=skacky",
+  "bsp_format=bsp2",
   "commandline=-heapsize 64000 -game retrojam3dlc",
+  "exceeds_quake_limits=yes",
+  "filename=retrojam3dlc.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61216)",
-  "releasedate=2015-07-26",
+  "map_layout=maze",
+  "map_layout=vertical",
+  "map_size=medium",
+  "release_date=2015-07-26",
+  "source=included",
   "startmap=retrojam3dlc_ionous",
   "startmap=retrojam3dlc_negke",
   "startmap=retrojam3dlc_skacky",
-  "tag=bsp2",
-  "tag=limits",
-  "tag=mapjam",
-  "tag=maze",
-  "tag=medium",
-  "tag=metal",
-  "tag=runic",
-  "tag=source",
-  "tag=vertical",
-  "title=Retro Jam 3 DLC"
+  "theme=metal",
+  "theme=runic",
+  "title=Retro Jam 3 DLC",
+  "type=mapjam",
+  "type=mod"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam3dlc.zip",

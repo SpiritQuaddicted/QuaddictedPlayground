@@ -1,42 +1,46 @@
 {
- "filename": [
-  "sm30_pack.zip"
- ],
+ "bytes": 869,
  "files": {
   "sm30_pack.txt": {
-   "size": 2177,
+   "bytes": 2177,
+   "sha256": "38a6f63e41c43b272ec2ad9cbfa240695e12c9cce818512b09cdd8708ea5789b",
    "timestamp": "2001-08-14T20:20:50.000Z"
   },
   "sm30_ray.bsp": {
-   "size": 363824,
+   "bytes": 363824,
+   "sha256": "4a597707b88c8b452f1be75cb339daa0530478788e0f1e2f2ec81a304c2a7c27",
    "timestamp": "2001-08-08T17:25:12.000Z"
   },
   "sm30_sb1.bsp": {
-   "size": 718488,
+   "bytes": 718488,
+   "sha256": "be4c925e9c826bc22932626e14d79c5b3ff91183ee8754d96b5bddb755141d88",
    "timestamp": "2001-08-08T20:18:56.000Z"
   },
   "sm30_sb2.bsp": {
-   "size": 347204,
+   "bytes": 347204,
+   "sha256": "623554144ba322a20998fe74a2270b0d1d664c6b70d8e9154d8389f054bbd8d8",
    "timestamp": "2001-08-08T22:13:50.000Z"
   },
   "sm30_scampie.bsp": {
-   "size": 242640,
+   "bytes": 242640,
+   "sha256": "05f593eb8e7857b20b5ef6729de46fca37b2cad9ceca872993a5096a4d62c869",
    "timestamp": "2001-08-08T22:13:40.000Z"
   },
   "sm30_speedy.bsp": {
-   "size": 228240,
+   "bytes": 228240,
+   "sha256": "d02f451ee13642cbd3f9712cbe4cb0b42ee28dfbaaf71e8e41509d214aafec56",
    "timestamp": "2001-08-09T01:15:30.000Z"
   },
   "sm30_than.bsp": {
-   "size": 737496,
+   "bytes": 737496,
+   "sha256": "adc5f5675584df2af82b9c3b86b5d7dc3cda94d41120758a63b630abe59b381c",
    "timestamp": "2001-08-08T22:45:48.000Z"
   }
  },
- "filesize": 869,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ca8ad7a03f1227166258eefac660d697c89871bed51a8ae91a3f4f66cb528776",
  "tags": [
   "author=Notorious Ray",
@@ -44,16 +48,19 @@
   "author=Speedy",
   "author=Starbuck",
   "author=than",
+  "filename=sm30_pack.zip",
   "game=quake",
-  "releasedate=2001-08-14",
+  "game_mode=singleplayer",
+  "release_date=2001-08-14",
   "startmap=sm30_ray",
   "startmap=sm30_sb1",
   "startmap=sm30_sb2",
   "startmap=sm30_scampie",
   "startmap=sm30_speedy",
   "startmap=sm30_than",
-  "tag=spd",
-  "title=Speedmapping pack 30 - Unthemed"
+  "theme=spd",
+  "title=Speedmapping pack 30 - Unthemed",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm30_pack.zip",

@@ -1,51 +1,55 @@
 {
- "filename": [
-  "rpgsmse.zip"
- ],
+ "bytes": 1324,
  "files": {
   "rpgsmse.txt": {
-   "size": 5276,
+   "bytes": 5276,
+   "sha256": "1b9c175f8f39060c2d4cfc64c1e2458f840965b2c65a8414a380cdc065a16f98",
    "timestamp": "2004-01-02T18:58:26.000Z"
   },
   "rpgsmse1.bsp": {
-   "size": 761688,
+   "bytes": 761688,
+   "sha256": "8985aa959f8d4fa2614feccf6cdf73a138420568a055a5c8791e1c2e199d8909",
    "timestamp": "2004-01-02T09:58:18.000Z"
   },
   "rpgsmse2.bsp": {
-   "size": 734312,
+   "bytes": 734312,
+   "sha256": "96afc24d063068d4c3d96db83d436c38b1fe21d8337bd274973882abe5478383",
    "timestamp": "2004-01-02T12:05:38.000Z"
   },
   "rpgsmse3.bsp": {
-   "size": 706520,
+   "bytes": 706520,
+   "sha256": "74a303c81190017943908cc11ce4f069ac87257898a4505bccc1ca1c65e27688",
    "timestamp": "2004-01-02T12:59:14.000Z"
   },
   "rpgsmse4.bsp": {
-   "size": 582728,
+   "bytes": 582728,
+   "sha256": "750f985e439f988cf88be8c49ce6c84f4012c7d021907ae17d6f407ee01cef39",
    "timestamp": "2004-01-02T13:05:54.000Z"
   },
   "rpgsmse5.bsp": {
-   "size": 617388,
+   "bytes": 617388,
+   "sha256": "e53b7414ffab378edbd5c47206f9654941439246b6bb03b5c63a953267756b81",
    "timestamp": "2004-01-01T20:40:12.000Z"
   }
  },
- "filesize": 1324,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b31756520c72dccd3cee4017bbdde177774fc642650c15361e971ddd80147a69",
  "tags": [
   "author=R.P.G.",
+  "filename=rpgsmse.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev040213.html)",
   "link=[erc's SM Pick](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=278)",
-  "releasedate=2004-01-02",
+  "release_date=2004-01-02",
   "startmap=rpgsmse1",
-  "tag=episode",
-  "tag=qtwid",
-  "tag=small",
-  "tag=speedmapping",
-  "title=Quake Condensed"
+  "theme=quake the way id did",
+  "title=Quake Condensed",
+  "type=episode",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/rpgsmse.zip",

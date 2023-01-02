@@ -1,58 +1,74 @@
 {
- "filename": [
-  "ad_grendel1h.zip"
- ],
+ "bytes": 6685,
  "files": {
   "ad_grendel1h_readme.txt": {
-   "size": 6852,
+   "bytes": 6852,
+   "sha256": "c313b235b192917fdeac45b92585e921087844c9c9729aa75cf87a7a33412d81",
    "timestamp": "2018-05-28T20:55:20.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-05-28T20:52:48.000Z"
   },
   "maps/ad_grendel.bsp": {
-   "size": 11775232,
+   "bytes": 11775232,
+   "sha256": "fd3ee62350709485b8364309871b7a752233f900128b8fc054e04a5c427696a5",
    "timestamp": "2018-05-28T19:16:14.000Z"
   },
   "maps/ad_grendel.lit": {
-   "size": 2942042,
+   "bytes": 2942042,
+   "sha256": "91fdc2301dbfb2e84ea4d1d920c3d89e9f86bc31beed0bcd317bdbb666e3fea3",
    "timestamp": "2018-05-28T19:16:14.000Z"
   },
   "maps/ad_grendel.map": {
-   "size": 9175688,
+   "bytes": 9175688,
+   "sha256": "284a5cadec75cfb679392d4049f78509a505905ced881d24df9d4230dca5d641",
    "timestamp": "2018-05-28T20:51:48.000Z"
   },
   "progs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2018-05-14T19:38:42.000Z"
   },
   "progs/misc_flame_med.mdl": {
-   "size": 175400,
+   "bytes": 175400,
+   "sha256": "31c94bc48e6c6d6bc31bd14b8e257c4e74d45aaec3a4d5d5bf83587a08ac7c00",
    "timestamp": "2018-05-12T17:33:20.000Z"
   }
  },
- "filesize": 6685,
  "install": {
-  "extract": "{quake}/ad/"
+  "extract": "{base}/ad/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "99c59ce449f17a00dc3b1b05c9ba561cbff38a7c9969bfdd43d51c12fb485deb",
  "tags": [
   "author=sock",
   "commandline=-game ad",
   "dependency=ad_v1_70final",
   "dependency=ad_v1_70patch1",
+  "exceeds_quake_limits=yes",
+  "filename=ad_grendel1h.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.simonoc.com",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61595)",
-  "releasedate=2018-05-28",
+  "map_layout=vertical",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=hub",
+  "nonspecific_tag=runes",
+  "release_date=2018-05-28",
   "startmap=ad_grendel",
-  "tag=arcanedimensions",
-  "tag=dm4",
-  "tag=metal",
-  "tag=runic",
-  "tag=vertical",
-  "title=Grendel's Blade"
+  "theme=arcane dimensions",
+  "theme=dm4",
+  "theme=lava",
+  "theme=metal",
+  "theme=runic",
+  "theme=secrets",
+  "theme=super secret",
+  "title=Grendel's Blade",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/ad_grendel1h.zip",

@@ -1,41 +1,46 @@
 {
- "filename": [
-  "monastry.zip"
- ],
+ "bytes": 637,
  "files": {
   "Monastry.bsp": {
-   "size": 1534608,
+   "bytes": 1534608,
+   "sha256": "178c409b9dc8e50cde30a9dfa09dece5ad1731eb09e90694f6bccebe0fd918de",
    "timestamp": "1997-03-28T03:16:38.000Z"
   },
   "Monastry.txt": {
-   "size": 4042,
+   "bytes": 4042,
+   "sha256": "0180a218f222bfc9ab161910d46eda16ef8f627c02b47ef54d1c192bfb37db59",
    "timestamp": "1997-08-27T00:33:34.000Z"
   },
   "Monhints.txt": {
-   "size": 5020,
+   "bytes": 5020,
+   "sha256": "ef3dd26c32a66b275c9100119981aa57ba588aea42ce967454aef3e5d4e4b05f",
    "timestamp": "1997-03-30T05:51:36.000Z"
   }
  },
- "filesize": 637,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "46cf4ed6cf8a36ecd4feb09141874431ad3e9e776df49a899d0b4bf22a214d3b",
  "tags": [
   "author=Neil Manke",
+  "filename=monastry.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsm2.htm#monastry)",
+  "link=[Fixed version](https://www.quaddicted.com/filebase/monastry_fix.zip)",
   "link=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
   "link=[quakis](http://taw.duke4.net/2011/02/quake/monastry/)",
-  "releasedate=1997-08-27",
-  "tag=medieval",
-  "tag=medium",
-  "tag=nonlinear",
-  "tag=town",
-  "tag=traps",
-  "title=Monastry"
+  "map_layout=non-linear",
+  "map_size=medium",
+  "release_date=1997-08-27",
+  "theme=exploration",
+  "theme=medieval",
+  "theme=town",
+  "theme=traps",
+  "title=Monastry",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/monastry.zip",

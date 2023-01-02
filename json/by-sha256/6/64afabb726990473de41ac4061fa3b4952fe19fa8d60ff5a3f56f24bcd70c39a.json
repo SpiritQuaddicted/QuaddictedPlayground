@@ -1,35 +1,37 @@
 {
- "filename": [
-  "temple_e1.zip"
- ],
+ "bytes": 699,
  "files": {
   "e1.bsp": {
-   "size": 1853044,
+   "bytes": 1853044,
+   "sha256": "be7b835b0ca8675b6b4f12552e8910b21f15bae6a6c439511bb2d9b056a77f3c",
    "timestamp": "1998-08-22T20:15:06.000Z"
   },
   "e1.txt": {
-   "size": 1117,
+   "bytes": 1117,
+   "sha256": "16dc05d4a0d14ce18f274dfe511b396f958f20573a575d0790a38f868920b769",
    "timestamp": "1999-01-03T12:22:44.000Z"
   }
  },
- "filesize": 699,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "64afabb726990473de41ac4061fa3b4952fe19fa8d60ff5a3f56f24bcd70c39a",
  "tags": [
   "author=Mr Ed",
+  "filename=temple_e1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990318.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
-  "releasedate=1999-01-03",
+  "map_size=medium",
+  "nonspecific_tag=hexen2",
+  "release_date=1999-01-03",
   "startmap=e1",
-  "tag=hexen2",
-  "tag=maya",
-  "tag=medium",
-  "tag=temple",
-  "title=The Temple"
+  "theme=maya",
+  "theme=temple",
+  "title=The Temple",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/temple_e1.zip",

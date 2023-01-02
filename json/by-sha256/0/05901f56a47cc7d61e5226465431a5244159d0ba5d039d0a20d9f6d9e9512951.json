@@ -1,35 +1,37 @@
 {
- "filename": [
-  "dranzsp1.zip"
- ],
+ "bytes": 560,
  "files": {
   "DRANZSP1.bsp": {
-   "size": 1379644,
+   "bytes": 1379644,
+   "sha256": "bd42e63efdaf1ad6ffcc2fb3d2cb61c6b8a0213d1e2394c674a86a1a0ad3f532",
    "timestamp": "2000-05-13T12:20:34.000Z"
   },
   "Dranzsp1.txt": {
-   "size": 1993,
+   "bytes": 1993,
+   "sha256": "ab977f488135aa77990504938ede97cf2637f3c275057c0c77899a9739c01803",
    "timestamp": "2000-05-13T12:44:30.000Z"
   }
  },
- "filesize": 560,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "05901f56a47cc7d61e5226465431a5244159d0ba5d039d0a20d9f6d9e9512951",
  "tags": [
   "author=Chris \"Drannerz\" Dransfield",
+  "filename=dranzsp1.zip",
   "game=quake",
-  "releasedate=2000-05-13",
-  "tag=base",
-  "tag=daz",
-  "tag=hard",
-  "tag=medium",
-  "tag=metal",
-  "tag=traps",
-  "tag=zer",
-  "title=Death waits"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "nonspecific_tag=daz",
+  "nonspecific_tag=hard",
+  "release_date=2000-05-13",
+  "theme=base",
+  "theme=metal",
+  "theme=traps",
+  "theme=zerst\u00f6rer",
+  "title=Death waits",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dranzsp1.zip",

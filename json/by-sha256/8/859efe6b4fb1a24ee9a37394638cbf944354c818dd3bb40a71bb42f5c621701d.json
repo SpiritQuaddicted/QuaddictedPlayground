@@ -1,49 +1,55 @@
 {
- "filename": [
-  "shesp1.zip"
- ],
+ "bytes": 1641,
  "files": {
   "shesp1.bsp": {
-   "size": 5174392,
+   "bytes": 5174392,
+   "sha256": "88e855253e4d404036d1faf0a539dd216f588d490a8a4c81a967f309b83a298d",
    "timestamp": "2008-07-10T23:08:58.000Z"
   },
   "shesp1.txt": {
-   "size": 4988,
+   "bytes": 4988,
+   "sha256": "b26e6643ac510d88f690d3355215f1466ba5914cd512f86f23462aedb4a93f3a",
    "timestamp": "2008-08-03T13:12:20.000Z"
   },
   "shesp1_crystal_1.bsp": {
-   "size": 3124,
+   "bytes": 3124,
+   "sha256": "c5d6843b8df2e1fc054e8a4b53c85f3018e225f4e8ee7cc6a0ec8e2a05a82480",
    "timestamp": "2008-04-01T00:23:52.000Z"
   },
   "shesp1_crystal_2.bsp": {
-   "size": 3124,
+   "bytes": 3124,
+   "sha256": "167978b5ed4e117c4d153e7395a4048c7a108cb4c4a0564c0d4e1df2dd409df0",
    "timestamp": "2008-03-31T23:58:14.000Z"
   },
   "shesp1_crystal_3.bsp": {
-   "size": 3124,
+   "bytes": 3124,
+   "sha256": "d60e524b93310787e1dec1528f67810fe9a6ee40bf4daefff66791384d903368",
    "timestamp": "2008-04-01T00:22:50.000Z"
   }
  },
- "filesize": 1641,
  "install": {
-  "extract": "{quake}/quoth/maps/"
+  "extract": "{base}/quoth/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "859efe6b4fb1a24ee9a37394638cbf944354c818dd3bb40a71bb42f5c621701d",
  "tags": [
   "author=Sidhe",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "filename=shesp1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080906.html)",
-  "releasedate=2008-08-03",
-  "tag=boss",
-  "tag=ikwhite",
-  "tag=medium",
-  "tag=quoth",
-  "tag=temple",
-  "tag=white",
-  "title=Dorghael Arhlannen"
+  "map_size=medium",
+  "mod=quoth",
+  "nonspecific_tag=white",
+  "release_date=2008-08-03",
+  "theme=boss",
+  "theme=ikwhite",
+  "theme=quoth",
+  "theme=temple",
+  "title=Dorghael Arhlannen",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/shesp1.zip",

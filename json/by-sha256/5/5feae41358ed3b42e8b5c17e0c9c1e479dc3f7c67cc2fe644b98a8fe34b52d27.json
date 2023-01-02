@@ -1,44 +1,47 @@
 {
- "filename": [
-  "retrojam4dlc_pulsar.zip"
- ],
+ "bytes": 3460,
  "files": {
   "retrojam4dlc_pulsar.bsp": {
-   "size": 7863880,
+   "bytes": 7863880,
+   "sha256": "634663c48cdf499d53821e5ba1cff169a067f7230fdd01533222f766f009f9d0",
    "timestamp": "2016-02-14T15:58:20.000Z"
   },
   "retrojam4dlc_pulsar.lit": {
-   "size": 3071948,
+   "bytes": 3071948,
+   "sha256": "f78289449aac10ac2aa04794bbc703118c6be7fd95b133654a13586e9f6a7101",
    "timestamp": "2016-02-14T15:54:30.000Z"
   },
   "retrojam4dlc_pulsar.txt": {
-   "size": 7950,
+   "bytes": 7950,
+   "sha256": "5a1c32369f0402090f2e87e8449472db53caff58969757fdcf89110979b6f1ca",
    "timestamp": "2016-02-14T09:36:54.000Z"
   }
  },
- "filesize": 3460,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "5feae41358ed3b42e8b5c17e0c9c1e479dc3f7c67cc2fe644b98a8fe34b52d27",
  "tags": [
   "author=PuLSaR",
+  "filename=retrojam4dlc_pulsar.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://pulsar.quaddicted.com",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61288)",
-  "releasedate=2016-02-14",
-  "tag=dark",
-  "tag=e4",
-  "tag=hard",
-  "tag=medieval",
-  "tag=medium",
-  "tag=multiple exits",
-  "tag=remake",
-  "tag=remix",
-  "tag=secrets",
-  "tag=spanws",
-  "tag=spawn",
-  "title=The Elder Reality"
+  "map_size=medium",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=e4",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=multiple exits",
+  "nonspecific_tag=spawn",
+  "release_date=2016-02-14",
+  "theme=medieval",
+  "theme=remake",
+  "theme=remix",
+  "theme=secrets",
+  "title=The Elder Reality",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/retrojam4dlc_pulsar.zip",

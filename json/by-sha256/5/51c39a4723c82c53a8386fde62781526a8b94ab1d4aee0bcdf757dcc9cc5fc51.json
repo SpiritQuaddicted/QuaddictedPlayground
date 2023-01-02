@@ -1,34 +1,102 @@
 {
- "filename": [
-  "nightjourney_v2.zip"
- ],
+ "bytes": 6902,
  "files": {
   "nightjourney/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2005-09-30T01:04:08.000Z"
   },
   "nightjourney/PAK0.PAK": {
-   "size": 16429600,
+   "bytes": 16429600,
+   "files": {
+    "maps/nj1.bsp": {
+     "bytes": 3341672,
+     "sha256": "9f809d798282a462326a2a95593e71bd42756d25886b5a4c102891574339aaae"
+    },
+    "maps/nj1b.bsp": {
+     "bytes": 2379788,
+     "sha256": "d43206aaeb4a629aed09e29c9ad16c09bc248f341172dabdd0919fc07d667523"
+    },
+    "maps/nj2.bsp": {
+     "bytes": 2740900,
+     "sha256": "e2fdab92da62138069f39edba5e3ca515226ec4e949407d680dbfd0c7ef9f500"
+    },
+    "maps/nj2b.bsp": {
+     "bytes": 1286608,
+     "sha256": "d0ec0413988607656c09214450479412c94b87d92d5e451db1bd1ec284201c63"
+    },
+    "maps/nj3.bsp": {
+     "bytes": 2214032,
+     "sha256": "3ace6c47fb5b76b85f4c58e86634471e5a29e63ee070a8b5b026596334d8442c"
+    },
+    "maps/nj3b.bsp": {
+     "bytes": 1894976,
+     "sha256": "e85039f220c1b9fb0bf8401e8c437f21e80dee559b865af3f77de142af0abc2c"
+    },
+    "maps/njstart.bsp": {
+     "bytes": 1846716,
+     "sha256": "2a8350a3dc03b3f34fce0a09f4a2aa71ada2ffa9ca4bed89ee85c18a3e7fabdf"
+    },
+    "progs/demon.mdl": {
+     "bytes": 178528,
+     "sha256": "47f1abf21e3ebb7359e3a92048187fad43a2de5f9f683684ecf424fd1174d696"
+    },
+    "progs/h_demon.mdl": {
+     "bytes": 68088,
+     "sha256": "f9bf2a5f976ae4862716be2b09cb0e06107f533bbc710ecb040fef9ca2d3a818"
+    },
+    "progs/h_shal.mdl": {
+     "bytes": 53640,
+     "sha256": "b701623c795388b378b40f7f57ad3c44cd9b8b4c7134ba88b61e1af31f1ce93a"
+    },
+    "progs/h_shams.mdl": {
+     "bytes": 37060,
+     "sha256": "a5fe96718d348b02299fcf04d1e02e0bb973df1519a493b8ee50eda297bf536b"
+    },
+    "progs/h_wizard.mdl": {
+     "bytes": 28936,
+     "sha256": "98f907d2f498a501e2451b0cc04ac36c23d9c1e590e04d719332708b33f6247a"
+    },
+    "progs/h_zombie.mdl": {
+     "bytes": 4484,
+     "sha256": "d53ae9fa2b43f4150756734011e85639a5d428a2539f7a3e39f01c6353445f7d"
+    },
+    "progs/shalrath.mdl": {
+     "bytes": 137952,
+     "sha256": "2f50f314e9839d074e052bff06c28a329bd8147818d16067fba1105d9ab480ca"
+    },
+    "progs/shambler.mdl": {
+     "bytes": 98556,
+     "sha256": "2a7ba1a647d15522eccfbc7586ad20128d250eb63055854bbfbf817496c0d25a"
+    },
+    "progs/wizard.mdl": {
+     "bytes": 116628,
+     "sha256": "d4df2e4328f1f88b3f6e9416fb981cd4c4eb434c881f382d75fc51993bb79c14"
+    }
+   },
+   "sha256": "9ecb1649077d9595bd9b27e5010ba4e50c454877604a65e7db8c838b3f2e0e3f",
    "timestamp": "2005-09-29T17:29:28.000Z"
   },
   "nightjourney/Readme1st.txt": {
-   "size": 3770,
+   "bytes": 3770,
+   "sha256": "db34489af2a99469fe0cc24e9b653cc1ec4e484e73a282294ec70bc4a6b9e380",
    "timestamp": "2005-09-28T12:09:54.000Z"
   },
   "nightjourney/progs.dat": {
-   "size": 722344,
+   "bytes": 722344,
+   "sha256": "4f643727454520f76ca33c36e65aea7253c23cbfdc8134d70312537d74d95255",
    "timestamp": "2005-09-07T13:54:06.000Z"
   },
   "nightjourney/the night journey readme.txt": {
-   "size": 17063,
+   "bytes": 17063,
+   "sha256": "a2792a1e1ea2f233d83259dc9c521f80a9abdbe6888ff3ff765fa4875e5f9a52",
    "timestamp": "2002-04-18T14:52:08.000Z"
   }
  },
- "filesize": 6902,
  "install": {
-  "extract": "{quake}/"
+  "extract": "{base}/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "51c39a4723c82c53a8386fde62781526a8b94ab1d4aee0bcdf757dcc9cc5fc51",
  "tags": [
   "author=Daz",
@@ -36,20 +104,22 @@
   "author=aguirRe",
   "commandline=-rogue -game nightjourney",
   "dependency=rogue",
+  "filename=nightjourney_v2.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://tronyn.planetquake.gamespy.com",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev051101c.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
-  "releasedate=2005-09-30",
+  "nonspecific_tag=start",
+  "release_date=2005-09-30",
   "startmap=njstart",
-  "tag=doe",
-  "tag=egyptian",
-  "tag=episode",
-  "tag=mustplay",
-  "tag=rogue",
-  "tag=start",
-  "tag=temple",
-  "tag=unfinished",
-  "title=The Night Journey"
+  "theme=dissolution of eternity",
+  "theme=egyptian",
+  "theme=temple",
+  "title=The Night Journey",
+  "type=episode",
+  "type=mod",
+  "type=unfinished"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/nightjourney_v2.zip",

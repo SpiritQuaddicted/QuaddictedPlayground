@@ -1,38 +1,41 @@
 {
- "filename": [
-  "kellmet1.zip"
- ],
+ "bytes": 1197,
  "files": {
   "kellmet1.bsp": {
-   "size": 3066356,
+   "bytes": 3066356,
+   "sha256": "b499c8a88c4c6d3d37924d97bd72241bc1a47c9f2bb5158097311ba008055010",
    "timestamp": "2008-01-01T04:07:42.000Z"
   },
   "kellmet1.txt": {
-   "size": 3047,
+   "bytes": 3047,
+   "sha256": "209fe432238f1b9d45e4e8da007c18ce6592992c71a3ad82cf6001972ae8b80c",
    "timestamp": "2008-01-01T16:47:08.000Z"
   }
  },
- "filesize": 1197,
  "install": {
-  "extract": "{quake}/quoth/maps/"
+  "extract": "{base}/quoth/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "ee8ccf16883f8102b4e94e3f40fe71a09860ea54a52900b71fa2e45594fb6773",
  "tags": [
   "author=Kell",
   "commandline=-hipnotic -game quoth",
   "dependency=quoth",
+  "filename=kellmet1.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://kell.quaddicted.com/",
   "link=[Tronyn's Top 10: Runic](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a3.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080106b.html#2ndreview)",
-  "releasedate=2008-01-01",
-  "tag=lava",
-  "tag=medium",
-  "tag=metal",
-  "tag=mustplay",
-  "tag=quoth",
-  "tag=runic",
-  "title=I Pity Thee Not"
+  "map_size=medium",
+  "mod=quoth",
+  "release_date=2008-01-01",
+  "theme=lava",
+  "theme=metal",
+  "theme=quoth",
+  "theme=runic",
+  "title=I Pity Thee Not",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/kellmet1.zip",

@@ -1,35 +1,38 @@
 {
- "filename": [
-  "jjspq1.zip"
- ],
+ "bytes": 480,
  "files": {
   "JJSPQ1.bsp": {
-   "size": 1147928,
+   "bytes": 1147928,
+   "sha256": "e47b1f284c6a45b0344b685069ea954780147bcf0e9be004d3c02c6d25b0302a",
    "timestamp": "1999-08-30T00:17:04.000Z"
   },
   "jjspq1.txt": {
-   "size": 6663,
+   "bytes": 6663,
+   "sha256": "7dbd166e68fa119e2701df247998bbcc81b4f3f8a733c35c214c7a8448789417",
    "timestamp": "1999-08-30T07:29:22.000Z"
   }
  },
- "filesize": 480,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "eb8678ee935d495acd7bccc2da350d8e3cc5faadd4df1a2dca9d16a628022d49",
  "tags": [
   "author=Vigil",
+  "filename=jjspq1.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990902.html)",
   "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=votn)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1999-08-30",
-  "tag=planetquake-map-of-the-week",
-  "tag=small",
-  "tag=wizard",
-  "title=Vigil of the Night"
+  "map_size=small",
+  "nonspecific_tag=buggy",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1999-08-30",
+  "theme=wizard",
+  "title=Vigil of the Night",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/jjspq1.zip",

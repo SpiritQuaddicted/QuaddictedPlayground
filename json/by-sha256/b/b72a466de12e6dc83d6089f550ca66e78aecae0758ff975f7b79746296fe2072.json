@@ -1,32 +1,34 @@
 {
- "filename": [
-  "wolf3d.zip"
- ],
+ "bytes": 839,
  "files": {
   "WOLF3D.bsp": {
-   "size": 2232048,
+   "bytes": 2232048,
+   "sha256": "6b781619b0179f919b1c28945ec04f72946bfeacc0246c2738a930ef61f382cd",
    "timestamp": "1997-10-12T05:50:56.000Z"
   },
   "wolf.txt": {
-   "size": 2131,
+   "bytes": 2131,
+   "sha256": "091ef25a40c73bcec1f468652ba63d185022b3cb7a5a3b0d7024e5beadc1dc98",
    "timestamp": "1997-10-12T08:23:22.000Z"
   }
  },
- "filesize": 839,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b72a466de12e6dc83d6089f550ca66e78aecae0758ff975f7b79746296fe2072",
  "tags": [
   "author=Daryl Deep",
+  "filename=wolf3d.zip",
   "game=quake",
-  "releasedate=1997-10-12",
-  "tag=hipnotic",
-  "tag=small",
-  "tag=soa",
-  "tag=wolfenstein",
-  "title=Wolf3D"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=wolfenstein",
+  "release_date=1997-10-12",
+  "theme=dissolution of eternity",
+  "theme=scourge of armagon",
+  "title=Wolf3D",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wolf3d.zip",

@@ -1,33 +1,35 @@
 {
- "filename": [
-  "gwynt.zip"
- ],
+ "bytes": 606,
  "files": {
   "gwynt.bsp": {
-   "size": 1448184,
+   "bytes": 1448184,
+   "sha256": "0d03832a21c9a457fa0e151d3dc29c017e9b48844e1f39db75b5a8d9b419e4c8",
    "timestamp": "2000-01-31T10:32:58.000Z"
   },
   "gwynt.txt": {
-   "size": 3322,
+   "bytes": 3322,
+   "sha256": "b329b3727153c0f54c9f066f9395a7fcce317f57aaa42b5b32fa15b7367e3b19",
    "timestamp": "2000-01-31T21:51:42.000Z"
   }
  },
- "filesize": 606,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "f341f5f78153d607d9efdaa555dcc17cbc6cf93118b36416ead7bd683d579308",
  "tags": [
   "author=Tom Cleghorn",
+  "filename=gwynt.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev000510.html)",
-  "releasedate=2000-01-31",
-  "tag=castle",
-  "tag=medieval",
-  "tag=medium",
-  "tag=oldschool",
-  "title=Castell Y Gwynt"
+  "map_size=medium",
+  "release_date=2000-01-31",
+  "theme=castle",
+  "theme=medieval",
+  "theme=oldschool",
+  "title=Castell Y Gwynt",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/gwynt.zip",

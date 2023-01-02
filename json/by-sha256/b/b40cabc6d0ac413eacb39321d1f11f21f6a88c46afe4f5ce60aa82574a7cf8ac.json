@@ -1,37 +1,39 @@
 {
- "filename": [
-  "castled.zip"
- ],
+ "bytes": 590,
  "files": {
   "castled!.bsp": {
-   "size": 1325496,
+   "bytes": 1325496,
+   "sha256": "1cece4fbb4a19cea04b4f2214167339035759ff76cd6e545d1de214f2f50f4cf",
    "timestamp": "1997-03-05T22:13:48.000Z"
   },
   "castled!.txt": {
-   "size": 1919,
+   "bytes": 1919,
+   "sha256": "94684687b5aacf74d44f6a523dd3ea0ec29835bf7379e0c14e6db12f2472f92c",
    "timestamp": "1997-03-06T10:38:10.000Z"
   }
  },
- "filesize": 590,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "b40cabc6d0ac413eacb39321d1f11f21f6a88c46afe4f5ce60aa82574a7cf8ac",
  "tags": [
   "author=Steve Rescoe",
+  "filename=castled.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsc.htm#castled)",
   "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/a_c.htm)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=1997-03-06",
+  "map_size=small",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-03-06",
   "startmap=castled!",
-  "tag=castle",
-  "tag=medieval",
-  "tag=planetquake-map-of-the-week",
-  "tag=small",
-  "title=Castled!"
+  "theme=castle",
+  "theme=medieval",
+  "title=Castled!",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/castled.zip",

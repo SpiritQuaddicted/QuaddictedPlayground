@@ -1,27 +1,28 @@
 {
- "filename": [
-  "dnspq1.zip"
- ],
+ "bytes": 291,
  "files": {
   "dnspq1.bsp": {
-   "size": 717328,
+   "bytes": 717328,
+   "sha256": "aa5953e388cf4b7758174e6dd5e1daa41a00852224d8ef982e9e557c188e4b2a",
    "timestamp": "1998-03-19T19:53:20.000Z"
   }
  },
- "filesize": 291,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "851814184a5eec5bbfbb0ad78e8bdc60f305dff602515c096bb4c9fe2b745843",
  "tags": [
   "author=Unknown",
+  "filename=dnspq1.zip",
   "game=quake",
-  "releasedate=1998-03-19",
-  "tag=ikblue",
-  "tag=small",
-  "tag=water",
-  "title=Dark, Blue, Scary"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=1998-03-19",
+  "theme=ikblue",
+  "theme=water",
+  "title=Dark, Blue, Scary",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/dnspq1.zip",

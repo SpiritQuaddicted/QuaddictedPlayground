@@ -1,41 +1,45 @@
 {
- "filename": [
-  "sm133_pack.zip"
- ],
+ "bytes": 1029,
  "files": {
   "sm133_efdat.bsp": {
-   "size": 1107840,
+   "bytes": 1107840,
+   "sha256": "8e0a706ce6027ca4474c875330e7eecdd02ddd71113aba48f75db60886e50b21",
    "timestamp": "2007-04-09T22:58:42.000Z"
   },
   "sm133_neg!ke.bsp": {
-   "size": 1267192,
+   "bytes": 1267192,
+   "sha256": "59cb3e95c03df40ecc702cde0f6a7fba4c25392a7d4966fcddf52e0aa7c12b31",
    "timestamp": "2007-04-10T14:06:52.000Z"
   },
   "sm133_pack.txt": {
-   "size": 1305,
+   "bytes": 1305,
+   "sha256": "633f4a3cf48249543f37ebb7039dc746ad8c7085f7ffda1ac28ef809a4f91106",
    "timestamp": "2007-04-11T11:24:10.000Z"
   },
   "sm133_spirit.bsp": {
-   "size": 382640,
+   "bytes": 382640,
+   "sha256": "989670ddd5aa4601c19bc66ff0a4ea33cb9600163b53eae6ed77d51f92b9857e",
    "timestamp": "2007-04-09T14:33:20.000Z"
   }
  },
- "filesize": 1029,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4a663d6c7d704732afc075d53ab33911e30c4edd0c4a64f965e087ec28d19b0c",
  "tags": [
   "author=Spirit",
   "author=efdat",
   "author=negke",
+  "filename=sm133_pack.zip",
   "game=quake",
-  "releasedate=2007-04-11",
+  "game_mode=singleplayer",
+  "release_date=2007-04-11",
   "startmap=sm133_efdat",
   "startmap=sm133_neg!ke",
   "startmap=sm133_spirit",
-  "title=Speedmapping pack 133 - Machinery"
+  "title=Speedmapping pack 133 - Machinery",
+  "type=speedmap"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/sm133_pack.zip",

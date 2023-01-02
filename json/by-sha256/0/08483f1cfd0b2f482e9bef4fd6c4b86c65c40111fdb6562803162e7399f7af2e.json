@@ -1,40 +1,43 @@
 {
- "filename": [
-  "drakopf.zip"
- ],
+ "bytes": 797,
  "files": {
   "Drakopf.txt": {
-   "size": 3212,
+   "bytes": 3212,
+   "sha256": "30710d9e3976db1116dcb39827ebe4fdb53a112ea24c9f0a0c2779910f4cda8b",
    "timestamp": "1996-10-25T12:08:18.000Z"
   },
   "drakopf.bsp": {
-   "size": 448336,
+   "bytes": 448336,
+   "sha256": "30a55d85c2e2fd0a93318253ee77c20d7e3cf8aaefaa75d12238b905f84afb80",
    "timestamp": "1996-10-19T13:13:46.000Z"
   },
   "drakopf2.bsp": {
-   "size": 1403048,
+   "bytes": 1403048,
+   "sha256": "c7906a444b4f4d81edbf6008a16a6281cffec055e0784287d9afba34f0799664",
    "timestamp": "1996-10-25T07:49:58.000Z"
   }
  },
- "filesize": 797,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "08483f1cfd0b2f482e9bef4fd6c4b86c65c40111fdb6562803162e7399f7af2e",
  "tags": [
   "author=Steve Rescoe",
+  "filename=drakopf.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Crash's](http://www.quake2.com/crash/levelsd2.htm#drakopf)",
   "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/12-oct-2000/drakopf.php)",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
-  "releasedate=1996-10-25",
-  "tag=castle",
-  "tag=dark",
-  "tag=medium",
-  "tag=small",
-  "title=Drakopf"
+  "map_size=medium",
+  "map_size=small",
+  "nonspecific_tag=dark",
+  "release_date=1996-10-25",
+  "theme=castle",
+  "title=Drakopf",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/drakopf.zip",

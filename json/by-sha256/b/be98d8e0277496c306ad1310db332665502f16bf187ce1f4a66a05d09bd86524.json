@@ -1,32 +1,34 @@
 {
- "filename": [
-  "wolfie3d.zip"
- ],
+ "bytes": 220,
  "files": {
   "wolfie3d.bsp": {
-   "size": 559692,
+   "bytes": 559692,
+   "sha256": "de5bf0ab58c4f1510d18a77c87b604b9e8f46d0db412a17a29db73f380b3f653",
    "timestamp": "1997-12-27T23:42:02.000Z"
   },
   "wolfie3d.txt": {
-   "size": 2743,
+   "bytes": 2743,
+   "sha256": "4f1e41c612e3cc8406971e4256d7e4f9e35e14e9ba45328856ada3f6a5c03df1",
    "timestamp": "1997-12-28T00:05:08.000Z"
   }
  },
- "filesize": 220,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "be98d8e0277496c306ad1310db332665502f16bf187ce1f4a66a05d09bd86524",
  "tags": [
   "author=Rutabaga",
+  "filename=wolfie3d.zip",
   "game=quake",
-  "releasedate=1997-12-28",
-  "tag=medium",
-  "tag=mixtex",
-  "tag=no exit",
-  "tag=wolfenstein3d",
-  "title=Wolfenstein3D e1m1"
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "nonspecific_tag=wolfenstein3d",
+  "release_date=1997-12-28",
+  "theme=mixtex",
+  "theme=no exit",
+  "title=Wolfenstein3D e1m1",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/wolfie3d.zip",

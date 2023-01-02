@@ -1,41 +1,43 @@
 {
- "filename": [
-  "morbid_2.zip"
- ],
+ "bytes": 757,
  "files": {
   "Morbid_2.txt": {
-   "size": 5734,
+   "bytes": 5734,
+   "sha256": "92a9091f8f92d6d3b59fcc728b421b4c5f61840451db49e471d427982bd6da5a",
    "timestamp": "1997-10-31T20:58:38.000Z"
   },
   "morbid_2.bsp": {
-   "size": 1851676,
+   "bytes": 1851676,
+   "sha256": "e9eceec7147d2f51b2d2c6f9ad184f364b276b6166378fc4e2ea995dfbf6402a",
    "timestamp": "1997-10-08T08:34:30.000Z"
   }
  },
- "filesize": 757,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "33363beb8ac4bc668761da6f56d0d1b00c1dcd07e5e8d0e65fc55ae30d9f1d10",
  "tags": [
   "author=Daniel Vogt (MoRbId)",
+  "filename=morbid_2.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981128.html)",
   "link=[Tronyn's Top 10: Runic](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a3.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1997-10-31",
-  "tag=base",
-  "tag=hard",
-  "tag=medium",
-  "tag=metal",
-  "tag=oldschool",
-  "tag=planetquake-map-of-the-week",
-  "tag=puzzles",
-  "tag=traps",
-  "tag=underground",
-  "title=Morbidity: 2"
+  "map_size=medium",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-10-31",
+  "theme=base",
+  "theme=metal",
+  "theme=oldschool",
+  "theme=puzzles",
+  "theme=traps",
+  "theme=underground",
+  "title=Morbidity: 2",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/morbid_2.zip",

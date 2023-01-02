@@ -1,542 +1,671 @@
 {
- "filename": [
-  "func_xmasjam2017.zip"
- ],
+ "bytes": 49735,
  "files": {
   "func_xmasjam2017.txt": {
-   "size": 2899,
+   "bytes": 2899,
+   "sha256": "8785a666cc7bb3d4a9d26a85500d85590c4823b3b0f4f69b3d9318a31a882f27",
    "timestamp": "2017-12-27T17:24:10.000Z"
   },
   "gfx/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:47:26.000Z"
   },
   "gfx/env/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:50:06.000Z"
   },
   "gfx/env/bal_swampn_bk.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "a5eb427bf70d51495243e7dea75207dc4582956a8fd13c10810a1ed7b7796bf1",
    "timestamp": "2017-11-01T10:41:52.000Z"
   },
   "gfx/env/bal_swampn_dn.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "138e9386728cdd98935a0c484d5693db2e60375d8d770ad754fe6616906591a1",
    "timestamp": "2017-11-01T10:41:56.000Z"
   },
   "gfx/env/bal_swampn_ft.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "99af648cd39bdf19e5310c7a911df9629910f1aee65d5ea9b4f533d926a49888",
    "timestamp": "2017-11-01T10:41:52.000Z"
   },
   "gfx/env/bal_swampn_lf.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "a09934caeb75cace7cc61577b56f99dbae08a252a01ab298265643b6739214da",
    "timestamp": "2017-11-01T10:41:46.000Z"
   },
   "gfx/env/bal_swampn_rt.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "a875527980d3e9db957dab9889e9fb0637cd606b9af850154361fb39e8c46a26",
    "timestamp": "2017-11-01T10:41:48.000Z"
   },
   "gfx/env/bal_swampn_up.tga": {
-   "size": 3146269,
+   "bytes": 3146269,
+   "sha256": "aa5c65d4c106b17e695629023db1e6b304ec5b4f15e646a1a94b38c47ef9017e",
    "timestamp": "2015-02-05T17:41:18.000Z"
   },
   "gfx/env/cottoncandy_bk.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "9b80b0713fac83f7084689a6aba5a6fa6ed9c7b4de9eb95ec8cf8d7fd6d246da",
    "timestamp": "2017-10-21T13:18:40.000Z"
   },
   "gfx/env/cottoncandy_dn.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "0a42f0d20e989c60ea89994776fa00e2db81106e2a585badc0159d990ed1e7bf",
    "timestamp": "2017-10-21T13:18:40.000Z"
   },
   "gfx/env/cottoncandy_ft.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "5a3d51dcd380e16687c6299f90cb2676fc496d60a360a0766f3383a289b57d15",
    "timestamp": "2017-10-21T13:18:40.000Z"
   },
   "gfx/env/cottoncandy_lf.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "8f93559f1ac1d402bd6f82300d5074dc46a23a5ea55a30d0cccad4ce01309301",
    "timestamp": "2017-10-21T13:18:40.000Z"
   },
   "gfx/env/cottoncandy_rt.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "39a8cfdcaa314646674d745e0ed83cef2c5e84aeba6d4195d86691f707b58770",
    "timestamp": "2017-10-21T13:18:38.000Z"
   },
   "gfx/env/cottoncandy_up.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "ec79a28ef17460d6958b01ab8b9349a2f95556c061179964505692c01318e33d",
    "timestamp": "2017-10-21T13:18:38.000Z"
   },
   "gfx/env/grimmnight_bk.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "59be3026e6030ebcb4f301dc27569da94866569bd264990d5b68c0c0470be470",
    "timestamp": "2005-08-26T20:05:22.000Z"
   },
   "gfx/env/grimmnight_dn.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "6d9b33f83ccf56f92abdf2b1197ce5fa8a3979f8b40793a73219618b8f46c33d",
    "timestamp": "2005-08-26T20:05:24.000Z"
   },
   "gfx/env/grimmnight_ft.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "0e1892d4675a0630cde9a1a1453fb936b5fd4f62c97a91fde60778d94bced01f",
    "timestamp": "2005-08-26T20:17:48.000Z"
   },
   "gfx/env/grimmnight_lf.tga": {
-   "size": 3145746,
+   "bytes": 3145746,
+   "sha256": "c69dca07d21151d7ea43527494687f3951715d692ed616af3a059f01481204cc",
    "timestamp": "2005-08-26T20:05:22.000Z"
   },
   "gfx/env/grimmnight_rt.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "bf2c9897af366d36efc11de39c051f3345ceeb6d38845be71b712c9403d726e7",
    "timestamp": "2005-08-26T20:28:14.000Z"
   },
   "gfx/env/grimmnight_up.tga": {
-   "size": 3145772,
+   "bytes": 3145772,
+   "sha256": "e4e35e286d93770157119d60889ff0d2df08fa13ccafa32ea26884e31a1344bc",
    "timestamp": "2005-08-26T20:06:52.000Z"
   },
   "gfx/env/pritchard_clear_bk.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "9bdba460b8b7305c5473efe695800fd65b98d60461eaae28beaff78a4d844ad8",
    "timestamp": "2017-12-11T02:39:40.000Z"
   },
   "gfx/env/pritchard_clear_dn.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "960d4c521d50dcd29731d1e628ffef85370e900c637819940c0fc47d3796d723",
    "timestamp": "2017-12-11T02:39:42.000Z"
   },
   "gfx/env/pritchard_clear_ft.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "bfdad7a23e95a5e7a42cb55c6d676720c493beff7b36e154cc70c92879549e1b",
    "timestamp": "2017-12-11T02:39:44.000Z"
   },
   "gfx/env/pritchard_clear_lf.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "dcf502ec3456fa52cf136acf717a05c625433058d5a13258c19ed7c8dadcaa46",
    "timestamp": "2017-12-11T02:39:44.000Z"
   },
   "gfx/env/pritchard_clear_rt.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "1f09afea75ab0c933a1cae1e062e253fb4752d1a10027fd50739217f901ecc30",
    "timestamp": "2017-12-11T02:39:46.000Z"
   },
   "gfx/env/pritchard_clear_up.tga": {
-   "size": 786450,
+   "bytes": 786450,
+   "sha256": "8b19c8138964a732ce261179e61ec882e7a4696a2532c9bb85f9529c1113a586",
    "timestamp": "2017-12-11T02:43:50.000Z"
   },
   "gfx/env/verdanis-cool_bk.tga": {
-   "size": 703996,
+   "bytes": 703996,
+   "sha256": "75ba98f3383cf2e69ee1455a0bee76f5f0f323fb8620705c22ca676af82ac754",
    "timestamp": "2003-08-20T16:33:22.000Z"
   },
   "gfx/env/verdanis-cool_dn.tga": {
-   "size": 789011,
+   "bytes": 789011,
+   "sha256": "8e84e3e20020d4a625f7360debf122191c96069ceba1e9d1c416d09926a0de6a",
    "timestamp": "2003-08-20T16:33:44.000Z"
   },
   "gfx/env/verdanis-cool_ft.tga": {
-   "size": 689720,
+   "bytes": 689720,
+   "sha256": "950d50aa1b173b993aaf225fd29fd793252f972fc05d989eae62ce9e6f333046",
    "timestamp": "2003-08-20T16:33:04.000Z"
   },
   "gfx/env/verdanis-cool_lf.tga": {
-   "size": 676818,
+   "bytes": 676818,
+   "sha256": "ff6f1e5746a8e710114af2a477211315ee910b09654b13639b09d9a91b0c7d8e",
    "timestamp": "2003-08-20T16:33:12.000Z"
   },
   "gfx/env/verdanis-cool_rt.tga": {
-   "size": 698920,
+   "bytes": 698920,
+   "sha256": "eb8495fa7d818849c290e8df52f9fca9091ebdc39dcb0615c8c67271ababb776",
    "timestamp": "2003-08-20T16:33:28.000Z"
   },
   "gfx/env/verdanis-cool_up.tga": {
-   "size": 503354,
+   "bytes": 503354,
+   "sha256": "a1ccac6bd3b1cce725542ff8157da29eb5b0f3119f2e55bef3150e6458359f0d",
    "timestamp": "2003-08-20T16:33:36.000Z"
   },
   "maps/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-27T09:00:54.000Z"
   },
   "maps/bmodels/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:32.000Z"
   },
   "maps/bmodels/xmasjam/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:32.000Z"
   },
   "maps/bmodels/xmasjam/carrot.bsp": {
-   "size": 11472,
+   "bytes": 11472,
+   "sha256": "4f37c5c5150fa713eb569652e10255acb38d58e013a51bb20336841508adc9cb",
    "timestamp": "2017-11-02T21:56:28.000Z"
   },
   "maps/medieval_brk/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:32.000Z"
   },
   "maps/medieval_brk/xmasjam/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:32.000Z"
   },
   "maps/medieval_brk/xmasjam/rficeblue_brk.bsp": {
-   "size": 89060,
+   "bytes": 89060,
+   "sha256": "318293aa9aa95961815fdc2174c778abcfe5f46f44253483d238a0f898404a5c",
    "timestamp": "2017-11-09T19:28:04.000Z"
   },
   "maps/medieval_brk/xmasjam/rficewht_brk.bsp": {
-   "size": 89064,
+   "bytes": 89064,
+   "sha256": "4cbf93609b7ea1ac2ea5fedb55e8f2cfdc2c64ab26ed08ebf7b13f3aa4c26b50",
    "timestamp": "2017-11-04T14:43:36.000Z"
   },
   "maps/medieval_brk/xmasjam/rfsnowrock_brk.bsp": {
-   "size": 351036,
+   "bytes": 351036,
+   "sha256": "21c434fef658fd53cb1e10149593572af884eb5dc44853c41db4b481e0973a21",
    "timestamp": "2017-10-26T21:56:46.000Z"
   },
   "maps/muk_brk/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:36.000Z"
   },
   "maps/muk_brk/plank_brk1.bsp": {
-   "size": 7952,
+   "bytes": 7952,
+   "sha256": "72bf9ed1c60ca8b703d685d951ffca775ec76ac4cb4136b3df887dde5cbd3309",
    "timestamp": "2017-10-07T05:09:42.000Z"
   },
   "maps/muk_brk/plank_brk2.bsp": {
-   "size": 7844,
+   "bytes": 7844,
+   "sha256": "5547f8a15a886ae2b14fa75f972f08af36a3bfd196e3813291079644dd3382e4",
    "timestamp": "2017-10-07T05:09:22.000Z"
   },
   "maps/muk_brk/plank_brk3.bsp": {
-   "size": 8204,
+   "bytes": 8204,
+   "sha256": "c5885b9b90265e646da82e42c39527a599e38f99a6767d3d0b8d4d576c99e057",
    "timestamp": "2017-10-07T05:10:12.000Z"
   },
   "maps/xmasjam_5th.bsp": {
-   "size": 1664612,
+   "bytes": 1664612,
+   "sha256": "dd81cc80187b04ba41f6e7c15139224ccb887db9f830aeb41518995f7be2cc5d",
    "timestamp": "2017-12-26T16:48:40.000Z"
   },
   "maps/xmasjam_5th.lit": {
-   "size": 355229,
+   "bytes": 355229,
+   "sha256": "2fb8c6afa214e1fa68e05a5fe4f0d155240729906dfb2fd489fca038cb71a0ee",
    "timestamp": "2017-12-26T16:48:40.000Z"
   },
   "maps/xmasjam_bal.bsp": {
-   "size": 12874308,
+   "bytes": 12874308,
+   "sha256": "1dbf0b552f983d6c4432e3ee27828ab64fd3c1145417319e916c8a74406ea32e",
    "timestamp": "2017-12-21T20:39:04.000Z"
   },
   "maps/xmasjam_bal.lit": {
-   "size": 2314466,
+   "bytes": 2314466,
+   "sha256": "29c768362031ab5c928815b2bc7350f60c1c14ee0a772bf0fe9c683f625772b4",
    "timestamp": "2017-12-21T20:39:04.000Z"
   },
   "maps/xmasjam_breezeep.bsp": {
-   "size": 3408712,
+   "bytes": 3408712,
+   "sha256": "b204c9344d28bf8f075ae0ba6877645d136353513287e328f2a35248fc781486",
    "timestamp": "2017-12-24T00:51:38.000Z"
   },
   "maps/xmasjam_breezeep.lit": {
-   "size": 785720,
+   "bytes": 785720,
+   "sha256": "daa8db5cbffd39ed6036e26f43ab303632940d4bc57ebefd94e75887f3fa937d",
    "timestamp": "2017-12-24T00:51:38.000Z"
   },
   "maps/xmasjam_dumptruck.bsp": {
-   "size": 2461956,
+   "bytes": 2461956,
+   "sha256": "cefe7466526f746b647b195b4a9c5adb6e4bcad8f22efd5f6a38b97774468e0e",
    "timestamp": "2017-12-21T21:33:36.000Z"
   },
   "maps/xmasjam_dumptruck.lit": {
-   "size": 831116,
+   "bytes": 831116,
+   "sha256": "ac626687bc6d9bea1b7b3306dbd6c1ed180b31fb922ff97e4629d57bc47f313d",
    "timestamp": "2017-12-21T21:33:36.000Z"
   },
   "maps/xmasjam_icequeen.bsp": {
-   "size": 7249512,
+   "bytes": 7249512,
+   "sha256": "9b3925a7a157b0be729fed40b0951a9d7aa0f0d88347f08ac8929c41a9b08215",
    "timestamp": "2017-12-21T23:33:44.000Z"
   },
   "maps/xmasjam_icequeen.lit": {
-   "size": 1451624,
+   "bytes": 1451624,
+   "sha256": "f39ec0e5b0354544d8637bdb0705a026a325b43f5190eeea37a99332963f901e",
    "timestamp": "2017-12-21T23:33:44.000Z"
   },
   "maps/xmasjam_ionous.bsp": {
-   "size": 4652072,
+   "bytes": 4652072,
+   "sha256": "37f43eb532d4af883db0db95bbdf4fab969c63bfb0506a76c444497295d4fe22",
    "timestamp": "2017-12-25T11:57:24.000Z"
   },
   "maps/xmasjam_ionous.lit": {
-   "size": 805688,
+   "bytes": 805688,
+   "sha256": "9c659c8ed0325837eaede6428d7e89a1baaa6392af8a3647a8b40215de86e9b1",
    "timestamp": "2017-12-21T07:52:00.000Z"
   },
   "maps/xmasjam_mukor.bsp": {
-   "size": 3815400,
+   "bytes": 3815400,
+   "sha256": "8ec50969ac4506cc8a2bbb4ab113cd317b33d16d7ba7f168c8426018ac7ac39a",
    "timestamp": "2017-12-24T14:13:24.000Z"
   },
   "maps/xmasjam_mukor.lit": {
-   "size": 659051,
+   "bytes": 659051,
+   "sha256": "3766c17892a221af9deb924957da385db0a764088c0fcdf5d1d3595b6e0560ce",
    "timestamp": "2017-12-22T08:59:08.000Z"
   },
   "maps/xmasjam_naitelveni.bsp": {
-   "size": 1840692,
+   "bytes": 1840692,
+   "sha256": "e33d9d42715a19f9d385607746312645485b673e882066d7b900306cd1d6db23",
    "timestamp": "2017-12-22T07:00:48.000Z"
   },
   "maps/xmasjam_naitelveni.lit": {
-   "size": 307409,
+   "bytes": 307409,
+   "sha256": "a0f1f2463022cd816a8bfa4a716412d65eee8ee857b7fe7d838c68e6c7741b38",
    "timestamp": "2017-12-22T07:00:48.000Z"
   },
   "maps/xmasjam_negke.bsp": {
-   "size": 1966396,
+   "bytes": 1966396,
+   "sha256": "c313aaed235c9d50b61076dd654bfb18a59aff650c857fb01749d0567e6342d9",
    "timestamp": "2017-12-24T18:52:08.000Z"
   },
   "maps/xmasjam_pritchard.bsp": {
-   "size": 17688232,
+   "bytes": 17688232,
+   "sha256": "f834d6c1db98e110240a5fe788e30d33d6870b424c84e85f7a3a8289f0782c70",
    "timestamp": "2017-12-24T14:13:12.000Z"
   },
   "maps/xmasjam_pritchard.lit": {
-   "size": 4375634,
+   "bytes": 4375634,
+   "sha256": "346940b3a7e3234a938d95b0d8e6af1dd1e796fad2109985ccd7f0cf246051f9",
    "timestamp": "2017-12-20T07:59:16.000Z"
   },
   "maps/xmasjam_tens.bsp": {
-   "size": 4471756,
+   "bytes": 4471756,
+   "sha256": "ce3dfd978c070a274c2c889b3a994bfd71fa478fb3af12072852b84f67caa4c3",
    "timestamp": "2017-12-22T17:44:36.000Z"
   },
   "maps/xmasjam_tens.lit": {
-   "size": 1519925,
+   "bytes": 1519925,
+   "sha256": "c9f3258238b7c87a1f4bd80cc8d8f53474d2c34c7f8683a68aa03218590ee3a8",
    "timestamp": "2017-12-22T17:44:36.000Z"
   },
   "music/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:32.000Z"
   },
   "music/track101.mp3": {
-   "size": 4927417,
+   "bytes": 4927417,
+   "sha256": "7cba6543a7e4141d38158105163f461c9214199327ca5e025fbd864de0f0800a",
    "timestamp": "2017-12-19T02:46:26.000Z"
   },
   "music/track101.ogg": {
-   "size": 1113299,
+   "bytes": 1113299,
+   "sha256": "9eb396c87cf56dfb1caa2bd074d62abb64b480e3e78d32cfb7d976b56f3e9b44",
    "timestamp": "2017-12-19T02:51:08.000Z"
   },
   "particles/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:26.000Z"
   },
   "particles/map_xmasjam_tens.cfg": {
-   "size": 245,
+   "bytes": 245,
+   "sha256": "d6f3d0af5fdfa68f962f4c5ff8040d3ba4e61dbb8f86c10c0051516c443d6267",
    "timestamp": "2017-09-10T16:25:36.000Z"
   },
   "progs/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:36.000Z"
   },
   "progs/h_eel.mdl": {
-   "size": 156904,
+   "bytes": 156904,
+   "sha256": "a859ee09044d9afcd05ee2af3f1ea8c7b4ae3abc01273922dbebd5aa67b12d74",
    "timestamp": "2017-06-29T17:52:04.000Z"
   },
   "progs/mon_eel.mdl": {
-   "size": 177368,
+   "bytes": 177368,
+   "sha256": "6acb4804e51e7de33404a4519d7f12b2413c921f61e33107345cb111ff156f96",
    "timestamp": "2016-05-05T13:42:38.000Z"
   },
   "progs/muk_mdl/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:36.000Z"
   },
   "progs/muk_mdl/gear.mdl": {
-   "size": 5428,
+   "bytes": 5428,
+   "sha256": "0521f1a1b0689e89136f972750a09c4782007cd8c8d347ddec2c08b2e22f6852",
    "timestamp": "2017-12-13T04:07:46.000Z"
   },
   "progs/muk_mdl/mon_knight_nosword.mdl": {
-   "size": 414796,
+   "bytes": 414796,
+   "sha256": "3a8216720c8268dbb1456528f285abe070b1687d0490a1080c800e44f47c26c8",
    "timestamp": "2017-12-18T18:24:16.000Z"
   },
   "progs/muk_mdl/statue_venus.mdl": {
-   "size": 285060,
+   "bytes": 285060,
+   "sha256": "6e4942898d6b5353cd8c4cfbae124b114298d4d4e67fad305c6c8276ef389ccf",
    "timestamp": "2017-12-21T18:41:40.000Z"
   },
   "progs/xmasjam/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:04.000Z"
   },
   "progs/xmasjam/balxj_tree_a.mdl": {
-   "size": 479516,
+   "bytes": 479516,
+   "sha256": "59a89b398caa908ff6dd777cb42d0d7dfde930ac5569fdab4bc4f10dd8137584",
    "timestamp": "2017-12-09T16:53:06.000Z"
   },
   "progs/xmasjam/pritchard_chair.mdl": {
-   "size": 81316,
+   "bytes": 81316,
+   "sha256": "3ee0b690213e2508dbd3e7445a9761eea439140e566e7779956be62bdb6a943c",
    "timestamp": "2017-12-07T14:32:40.000Z"
   },
   "sound/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T14:10:38.000Z"
   },
   "sound/eel/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:20.000Z"
   },
   "sound/eel/attack1.wav": {
-   "size": 27740,
+   "bytes": 27740,
+   "sha256": "8c84b2a5e7fd0754dca3611a8300a8cc9656295ea73617ff0c85d167b28459df",
    "timestamp": "2016-05-04T13:10:58.000Z"
   },
   "sound/eel/death1.wav": {
-   "size": 34264,
+   "bytes": 34264,
+   "sha256": "a0f8eab92db10e8fa9342f725743297fd8384e2aca1decc1189109196f3b960e",
    "timestamp": "2016-05-04T13:12:36.000Z"
   },
   "sound/eel/idle1.wav": {
-   "size": 53110,
+   "bytes": 53110,
+   "sha256": "c059a4f2bee33543b377803f2af1fc7e2ee205cd02d987859af18087246ae46c",
    "timestamp": "2016-05-04T13:09:24.000Z"
   },
   "sound/eel/impact1.wav": {
-   "size": 70632,
+   "bytes": 70632,
+   "sha256": "13cea2f7d66f40511add17d846ab6142345497ddd7cff5ebfc5e2e70a7eb1fbe",
    "timestamp": "2016-05-04T15:30:42.000Z"
   },
   "sound/eel/pain1.wav": {
-   "size": 13316,
+   "bytes": 13316,
+   "sha256": "569a6bf9383820e90e431db5c0b82cd0201e10fd2081d228f81a0c76a0e88d1b",
    "timestamp": "2016-05-04T13:13:48.000Z"
   },
   "sound/eel/sight1.wav": {
-   "size": 32074,
+   "bytes": 32074,
+   "sha256": "90786a043f5ec1bd0b761c5c8378dc2783e3b1d8e3ac95a9312f55a7c5b3baea",
    "timestamp": "2016-05-04T13:15:44.000Z"
   },
   "sound/xmasjam/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T14:10:28.000Z"
   },
   "sound/xmasjam/baby1b_22k.wav": {
-   "size": 1573824,
+   "bytes": 1573824,
+   "sha256": "a7e23bae2b5bb68211f68c792c0ff62aa4abb45a44d6899835e48c5cf753d115",
    "timestamp": "2017-12-21T20:10:34.000Z"
   },
   "sound/xmasjam/baby2a_22k.wav": {
-   "size": 1134876,
+   "bytes": 1134876,
+   "sha256": "9450e3a06134e1bd665650602cf91a797babd3952d9cfa066ee8458d20f05f2e",
    "timestamp": "2017-12-21T20:11:10.000Z"
   },
   "sound/xmasjam/baby3a_22k.wav": {
-   "size": 1019396,
+   "bytes": 1019396,
+   "sha256": "fb252972a73c84b071f7508728a2d8b313dbfd80f4ece9bd5f2e87818ea636a5",
    "timestamp": "2017-12-21T20:11:28.000Z"
   },
   "sound/xmasjam/fart1.wav": {
-   "size": 154300,
+   "bytes": 154300,
+   "sha256": "009c515153d838a7050c784c3a3c4ddecc624d628f06a95cdf4e5b8e40e29584",
    "timestamp": "2016-08-18T18:56:28.000Z"
   },
   "sound/xmasjam/xmasjam_rfmagic.wav": {
-   "size": 186662,
+   "bytes": 186662,
+   "sha256": "328b24b1a833ab5fa99b991ded5971403152f1d72c457a49a8215fdbc3937060",
    "timestamp": "2017-11-06T02:59:14.000Z"
   },
   "sound/xmasjam/xmasjam_rfpop.wav": {
-   "size": 42538,
+   "bytes": 42538,
+   "sha256": "a9f5a8713965ba8e69fc81f5782eae9c737211ed116f9031185b9b8f0347ff0a",
    "timestamp": "2017-12-19T01:29:10.000Z"
   },
   "sound/xmasjam/xmasjam_rfsparkles.wav": {
-   "size": 893996,
+   "bytes": 893996,
+   "sha256": "d6f7b6d9c130f3bc0fab183cbf86801c9e4bbcc81946810e3fe1cea61da36ff1",
    "timestamp": "2017-11-06T03:03:12.000Z"
   },
   "src/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-25T11:56:16.000Z"
   },
   "src/xmasjam_bal.map": {
-   "size": 4529001,
+   "bytes": 4529001,
+   "sha256": "c198bd207b795ae9dfab2688a4a8aff1fd65d7d28e0cfc1954bbf54cb5f883ec",
    "timestamp": "2017-12-21T21:52:16.000Z"
   },
   "src/xmasjam_breezeep.map": {
-   "size": 2078388,
+   "bytes": 2078388,
+   "sha256": "0b42c09acfd532549c2e8ebcdc031c97e2707c51b6f51f2df895c94edb75539e",
    "timestamp": "2017-12-24T00:51:02.000Z"
   },
   "src/xmasjam_dumptruck.map": {
-   "size": 1258067,
+   "bytes": 1258067,
+   "sha256": "8885938bfcab1b7f927c10211e387c9297597e71269abf9dd56c417995b6da19",
    "timestamp": "2017-12-21T22:12:14.000Z"
   },
   "src/xmasjam_icequeen.map": {
-   "size": 1871019,
+   "bytes": 1871019,
+   "sha256": "5d34b43fc09b9a3147802c44dbdb26a57c19ddb505c296513f718cc91e367f25",
    "timestamp": "2017-12-21T23:27:42.000Z"
   },
   "src/xmasjam_ionous - Kopie.map": {
-   "size": 3949745,
+   "bytes": 3949745,
+   "sha256": "c5faf5ea3f6391ef020e8e5fbef902ef4e0a5fd504cb6aa57e077b511e68cd71",
    "timestamp": "2017-12-21T07:50:00.000Z"
   },
   "src/xmasjam_ionous.jmf": {
-   "size": 10098564,
+   "bytes": 10098564,
+   "sha256": "b96ece723b0a858870fe2311b068bd43c4f44f8fd00565e3a3188ec0c76d2f67",
    "timestamp": "2017-12-21T07:49:54.000Z"
   },
   "src/xmasjam_ionous.map": {
-   "size": 3949744,
+   "bytes": 3949744,
+   "sha256": "a04452d4af8a3ccb7a5b54689215d09c255c8883ffb0a668dafe6803432f4a69",
    "timestamp": "2017-12-25T11:56:16.000Z"
   },
   "src/xmasjam_ionous.map.bak": {
-   "size": 3949745,
+   "bytes": 3949745,
+   "sha256": "c5faf5ea3f6391ef020e8e5fbef902ef4e0a5fd504cb6aa57e077b511e68cd71",
    "timestamp": "2017-12-21T07:50:00.000Z"
   },
   "src/xmasjam_mukor.map": {
-   "size": 1815636,
+   "bytes": 1815636,
+   "sha256": "61a4839c65c4594a5e3b7fedb2e0a5a5fd1115ed2ebde0779725496c15dbc617",
    "timestamp": "2017-12-24T14:11:46.000Z"
   },
   "src/xmasjam_negke.map": {
-   "size": 1300871,
+   "bytes": 1300871,
+   "sha256": "ab8060ed5af7c879d6e57d97ce0aa0f38ce67db3c48b0e076438a70779218f36",
    "timestamp": "2017-12-24T18:44:14.000Z"
   },
   "src/xmasjam_pritchard.map": {
-   "size": 18052211,
+   "bytes": 18052211,
+   "sha256": "2b7e29790d628345056e54af4f1b69d74e57c01627ce34a4e2ce66634b88bd38",
    "timestamp": "2017-12-24T14:11:16.000Z"
   },
   "src/xmasjam_tens.map": {
-   "size": 2478878,
+   "bytes": 2478878,
+   "sha256": "61b02094861043bac8ef2cb42d8e2a097703250cf1b65e12480f5456b5d908b5",
    "timestamp": "2017-12-22T17:41:50.000Z"
   },
   "textures/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:32.000Z"
   },
   "textures/xmasjam/": {
-   "size": 0,
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
    "timestamp": "2017-12-24T13:48:26.000Z"
   },
   "textures/xmasjam/tens_cross-5x5.tga": {
-   "size": 79,
+   "bytes": 79,
+   "sha256": "f7f49a937e04b280a8b83b05ce75029a1d5b1c68176910ada1a3c8586b259f6d",
    "timestamp": "2017-09-06T20:22:48.000Z"
   },
   "textures/{bal_puddle01.tga": {
-   "size": 65580,
+   "bytes": 65580,
+   "sha256": "a6812584546c2fe72d9b4136a7ec92e42b778ced9273bd52fa3c163ebf5572db",
    "timestamp": "2017-12-19T22:49:12.000Z"
   },
   "textures/{elsa.tga": {
-   "size": 32812,
+   "bytes": 32812,
+   "sha256": "02d235b702c58a72ad8dd574e47fb2aed8918ea02de2ada3b14ee3ae29aeed8c",
    "timestamp": "2017-12-19T16:07:48.000Z"
   },
   "textures/{ftreea.tga": {
-   "size": 65580,
+   "bytes": 65580,
+   "sha256": "e1e2e630c1b8a8e31f17b32889cb1481fd32bebcf322f8c9a3d7e38156cb5cf0",
    "timestamp": "2017-12-19T16:11:08.000Z"
   },
   "textures/{ftreelrg.tga": {
-   "size": 81964,
+   "bytes": 81964,
+   "sha256": "664f5e94f79b2609f328706753e94cab9914346ac080f6c407691a36c8620bc1",
    "timestamp": "2017-12-19T16:12:48.000Z"
   },
   "textures/{ftreelrgs.tga": {
-   "size": 81964,
+   "bytes": 81964,
+   "sha256": "11738e0cb30cab461606a3a29663087f36f10d7863309c9bef0aac8724035455",
    "timestamp": "2017-12-19T16:14:04.000Z"
   },
   "textures/{ftrees.tga": {
-   "size": 65580,
+   "bytes": 65580,
+   "sha256": "92f6346e5438340dc64e9d77ad68e7f8141c2ef4a1041ee205ebb681f8c0a3fe",
    "timestamp": "2017-12-19T16:15:30.000Z"
   },
   "textures/{ftreesb.tga": {
-   "size": 65580,
+   "bytes": 65580,
+   "sha256": "0072ac805837b0a570d9477c7e7d2b364c627e2e06f0dc4b0dd3e4e66a2c3c39",
    "timestamp": "2017-12-19T16:17:16.000Z"
   },
   "textures/{sflake_light.tga": {
-   "size": 16428,
+   "bytes": 16428,
+   "sha256": "de0f12127498a5215c1a042c6047990b3e4c2c8a44b8ee62799a4fa8a9936073",
    "timestamp": "2017-12-19T16:18:22.000Z"
   },
   "textures/{sflake_off.tga": {
-   "size": 16428,
+   "bytes": 16428,
+   "sha256": "8f6928e3125bcf96752f777a7c5d30217ed248abb83881c427077e58eeb5cc2f",
    "timestamp": "2017-12-19T16:19:12.000Z"
   },
   "xmasjam_bal.txt": {
-   "size": 2516,
+   "bytes": 2516,
+   "sha256": "90e34791dbcd1eee82d552df617d092dac968482cd246b18aa145e7df950165b",
    "timestamp": "2017-12-21T22:10:56.000Z"
   },
   "xmasjam_dumptruck_readme.txt": {
-   "size": 3048,
+   "bytes": 3048,
+   "sha256": "af5c25aac485061b9faf6244470db141f0a969a83203e8c0c59b1e0e9aee9883",
    "timestamp": "2017-12-21T22:26:56.000Z"
   },
   "xmasjam_icequeenREADME.txt": {
-   "size": 5711,
+   "bytes": 5711,
+   "sha256": "bae37bdcdc1519fd33425b38aed7445715ee702453ab63502b392c92ebbfc087",
    "timestamp": "2017-12-21T23:17:34.000Z"
   },
   "xmasjam_ionous.txt": {
-   "size": 11776,
+   "bytes": 11776,
+   "sha256": "9ae5de69a8758cb836bb1d3988054840e8ae8e6cb6680f3862fd925696180254",
    "timestamp": "2017-12-22T04:26:20.000Z"
   },
   "xmasjam_mukor_readme.txt": {
-   "size": 3001,
+   "bytes": 3001,
+   "sha256": "a08adde2adbfd94a0f91965113583239857212369bcbd86e77d5b57a8e01e611",
    "timestamp": "2017-12-22T04:55:46.000Z"
   },
   "xmasjam_naitelveni_readme.txt": {
-   "size": 310,
+   "bytes": 310,
+   "sha256": "d0bed7bb5fd9209921cc9bf05e0abf037ebb5ee490c04904daf00267802b877c",
    "timestamp": "2017-12-22T07:33:08.000Z"
   },
   "xmasjam_negke.txt": {
-   "size": 2772,
+   "bytes": 2772,
+   "sha256": "8b2b31da4a3bd82b3b1fbed99e1847f1dea024cdf82f4e940e17142db5b2d517",
    "timestamp": "2017-12-24T18:56:06.000Z"
   },
   "xmasjam_pritchard.txt": {
-   "size": 2354,
+   "bytes": 2354,
+   "sha256": "f0d092acc3f03d417f694085bfbf6b4ccc89449813d046b7be5546644cf8f17b",
    "timestamp": "2017-12-20T08:24:22.000Z"
   },
   "xmasjam_tens.txt": {
-   "size": 1366,
+   "bytes": 1366,
+   "sha256": "bf99e45e7faddf3c4b767825d3adb0f94bb07e6369da1b7a4723730481f350a4",
    "timestamp": "2017-12-22T17:45:30.000Z"
   }
  },
- "filesize": 49735,
  "install": {
-  "extract": "{quake}/ad/"
+  "extract": "{base}/ad/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "464c657a16bb121e90944acc6ce616111c31d766cf515293f0076daefd0d70ef",
  "tags": [
   "author=Bal",
@@ -552,10 +681,22 @@
   "author=negke",
   "commandline=-heapsize 128000 -game ad",
   "dependency=ad_v1_70final",
+  "exceeds_quake_limits=yes",
+  "filename=func_xmasjam2017.zip",
   "game=quake",
+  "game_mode=singleplayer",
   "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61539)",
   "link=[Hotfix for Pritchard's map](http://quaketastic.com/files/single_player/maps/xmasjam_pritchard_fix.zip)",
-  "releasedate=2017-12-27",
+  "map_size=small",
+  "mod=arcanedimensions",
+  "nonspecific_tag=1024",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=ice",
+  "nonspecific_tag=quake_awards_2018_winner",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=sounds",
+  "release_date=2017-12-27",
+  "source=included",
   "startmap=xmasjam_5th",
   "startmap=xmasjam_bal",
   "startmap=xmasjam_breezeep",
@@ -565,26 +706,18 @@
   "startmap=xmasjam_naitelveni",
   "startmap=xmasjam_negke",
   "startmap=xmasjam_pritchard",
-  "tag=1024",
-  "tag=ad",
-  "tag=arcanedimensions",
-  "tag=bricks",
-  "tag=cavern",
-  "tag=ice",
-  "tag=ikwhite",
-  "tag=knave",
-  "tag=limits",
-  "tag=maya",
-  "tag=medieval",
-  "tag=quake_awards_2018_winner",
-  "tag=realism",
-  "tag=skybox",
-  "tag=small",
-  "tag=sounds",
-  "tag=source",
-  "tag=speedbase",
-  "tag=temple",
-  "title=Xmas Jam 2017 - 1024\u00b3 theme"
+  "theme=arcane dimensions",
+  "theme=bricks",
+  "theme=cavern",
+  "theme=ikwhite",
+  "theme=knave",
+  "theme=maya",
+  "theme=medieval",
+  "theme=realism",
+  "theme=speedbase",
+  "theme=temple",
+  "title=Xmas Jam 2017 - 1024\u00b3 theme",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/func_xmasjam2017.zip",

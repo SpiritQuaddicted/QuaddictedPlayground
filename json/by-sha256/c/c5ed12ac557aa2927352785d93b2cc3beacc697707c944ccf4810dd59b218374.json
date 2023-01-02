@@ -1,36 +1,39 @@
 {
- "filename": [
-  "chaos.zip"
- ],
+ "bytes": 622,
  "files": {
   "chaos.bsp": {
-   "size": 1508316,
+   "bytes": 1508316,
+   "sha256": "cddd0add7d4d81f0836df757e3e3998a438b40944b5ed034dbc958f127d270d3",
    "timestamp": "1997-12-03T18:14:54.000Z"
   },
   "chaos.txt": {
-   "size": 4553,
+   "bytes": 4553,
+   "sha256": "3a27a1c9c4d9be8decc52613b67be609f712bb6fb059e5ab3f7f03eea32ae3df",
    "timestamp": "1998-02-19T17:04:22.000Z"
   }
  },
- "filesize": 622,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "c5ed12ac557aa2927352785d93b2cc3beacc697707c944ccf4810dd59b218374",
  "tags": [
   "author=John \"metlslime\" Fitzgibbons",
+  "filename=chaos.zip",
   "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.celephais.net",
   "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990303.html)",
   "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
   "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=277)",
-  "releasedate=1998-02-19",
-  "tag=medium",
-  "tag=metal",
-  "tag=planetquake-map-of-the-week",
-  "tag=slime",
-  "tag=windtunnels",
-  "title=The Crawling Chaos"
+  "map_size=medium",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=windtunnels",
+  "release_date=1998-02-19",
+  "theme=metal",
+  "theme=slime",
+  "title=The Crawling Chaos",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/chaos.zip",

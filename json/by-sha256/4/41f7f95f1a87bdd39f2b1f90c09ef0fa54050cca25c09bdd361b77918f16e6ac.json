@@ -1,30 +1,33 @@
 {
- "filename": [
-  "borax3.zip"
- ],
+ "bytes": 1061,
  "files": {
   "BORAX3.TXT": {
-   "size": 5916,
+   "bytes": 5916,
+   "sha256": "b0d2bfad4eb04149d8f9c524e8a927e1c292dec7720b6ee46c1c7d675986e9d6",
    "timestamp": "1998-12-31T11:46:44.000Z"
   },
   "Borax3.bsp": {
-   "size": 2477600,
+   "bytes": 2477600,
+   "sha256": "efdf133031d18d9cb45e87a27d032f1e365f2b74a08a79c9c67132eec2f23ced",
    "timestamp": "1998-12-24T17:44:42.000Z"
   }
  },
- "filesize": 1061,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "41f7f95f1a87bdd39f2b1f90c09ef0fa54050cca25c09bdd361b77918f16e6ac",
  "tags": [
   "author=Dennis Katsonis",
+  "filename=borax3.zip",
   "game=quake",
-  "releasedate=1998-12-31",
-  "tag=large",
-  "tag=wizard",
-  "title=Borax 3"
+  "game_mode=singleplayer",
+  "link:homepage=http://www.geocities.com/TimesSquare/Ring/5078",
+  "map_size=large",
+  "release_date=1998-12-31",
+  "theme=wizard",
+  "title=Borax 3",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/borax3.zip",

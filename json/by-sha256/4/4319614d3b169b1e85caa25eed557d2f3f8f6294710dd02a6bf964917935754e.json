@@ -1,32 +1,34 @@
 {
- "filename": [
-  "doom2_01.zip"
- ],
+ "bytes": 362,
  "files": {
   "doom2_01.bsp": {
-   "size": 1087656,
+   "bytes": 1087656,
+   "sha256": "032a18e014f4e249407f76908afd664ae85f273c3e1a6fdbd358112814893e9e",
    "timestamp": "1997-11-16T14:06:50.000Z"
   },
   "doom2_01.txt": {
-   "size": 4605,
+   "bytes": 4605,
+   "sha256": "ffe0b44dd487d4969eb4e79a5b4c76e8b0ab2c5707e34b905dd73b15c503c307",
    "timestamp": "1997-11-16T15:05:28.000Z"
   }
  },
- "filesize": 362,
  "install": {
-  "extract": "{quake}/id1/maps/"
+  "extract": "{base}/id1/maps/"
  },
- "json_version": "2019.12.24-13.03",
+ "json_version": "2023.01.02-22.55",
  "sha256": "4319614d3b169b1e85caa25eed557d2f3f8f6294710dd02a6bf964917935754e",
  "tags": [
   "author=Peter Lomax",
+  "filename=doom2_01.zip",
   "game=quake",
-  "releasedate=1997-11-16",
-  "tag=base",
-  "tag=doom2",
-  "tag=small",
-  "tag=textures",
-  "title=Doom2 Map01 - Entryway"
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=textures",
+  "release_date=1997-11-16",
+  "theme=base",
+  "theme=doom 2",
+  "title=Doom2 Map01 - Entryway",
+  "type=map"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/doom2_01.zip",
