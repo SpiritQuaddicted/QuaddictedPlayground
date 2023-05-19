@@ -1923,7 +1923,10 @@
   "theme=quoth",
   "theme=remix",
   "title=Quoth",
-  "type=mod"
+  "type=mod",
+  "version=2.1",
+  "patch=no",
+  "provides='quoth=2.1'"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth.zip",

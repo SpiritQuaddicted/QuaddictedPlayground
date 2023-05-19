@@ -214,7 +214,11 @@
   "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61017)",
   "release_date=2014-05-04",
   "title=[NUKED]",
-  "type=mod"
+  "type=mod",
+  "version=2.2",
+  "patch=yes",
+  "depends=('quoth>=2.0', 'quoth<2.2')",
+  "provides='quoth=2.2'"
  ],
  "urls": [
   "https://www.quaddicted.com/filebase/quoth2pt2patch.zip",
