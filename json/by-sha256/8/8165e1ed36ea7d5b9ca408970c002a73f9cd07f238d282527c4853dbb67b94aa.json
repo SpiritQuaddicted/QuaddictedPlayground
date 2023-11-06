@@ -1,0 +1,127 @@
+{
+ "bytes": 34033,
+ "files": {
+  "tcj_alexunder/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-01-08T22:01:04.000Z"
+  },
+  "tcj_alexunder/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-01-04T00:35:18.000Z"
+  },
+  "tcj_alexunder/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-01-04T00:35:34.000Z"
+  },
+  "tcj_alexunder/gfx/env/mak_aurora5_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "dff94f3e540df02d22c038a7e7c9886fe51362b98f6d860db2c904e5909000fa",
+   "timestamp": "2022-10-22T07:21:16.000Z"
+  },
+  "tcj_alexunder/gfx/env/mak_aurora5_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "6a1bf29cd5714b1dd30453e2d4ae64621468f7ab3b0102aaf923c9bb9a40e8a5",
+   "timestamp": "2022-10-22T07:21:18.000Z"
+  },
+  "tcj_alexunder/gfx/env/mak_aurora5_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "619b5998918083597caeeea383b1a9343e6f796f908852d1da24b3a248786783",
+   "timestamp": "2022-10-22T07:21:20.000Z"
+  },
+  "tcj_alexunder/gfx/env/mak_aurora5_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "be1e4996d553b98ed6fb700cee14801d5dedefad5bb3fe2e6577d247ec72cf6b",
+   "timestamp": "2022-10-22T07:21:22.000Z"
+  },
+  "tcj_alexunder/gfx/env/mak_aurora5_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "88923de17579c8184cfd137434e660432292138d62652d76c2201c6bd1f644ec",
+   "timestamp": "2022-10-22T07:21:22.000Z"
+  },
+  "tcj_alexunder/gfx/env/mak_aurora5_up.tga": {
+   "bytes": 3145772,
+   "sha256": "4b29b63c93e364817f4d85c685727392268c061016c1e149552f80d5de76d806",
+   "timestamp": "2022-10-22T07:21:24.000Z"
+  },
+  "tcj_alexunder/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-01-04T00:35:44.000Z"
+  },
+  "tcj_alexunder/maps/tcj_alexunder.bsp": {
+   "bytes": 53452248,
+   "sha256": "6258f63c68e3dd453067081daed79292231788933b72f2d1e7f6cbe2470ac443",
+   "timestamp": "2023-01-08T21:57:48.000Z"
+  },
+  "tcj_alexunder/maps/tcj_alexunder.lit": {
+   "bytes": 6948932,
+   "sha256": "d1cb3a12c34a930b88c667f65827624680514bab3a0a5f89ee7f6e46e67de8cb",
+   "timestamp": "2023-01-08T21:57:48.000Z"
+  },
+  "tcj_alexunder/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-01-04T00:35:50.000Z"
+  },
+  "tcj_alexunder/music/track66.ogg": {
+   "bytes": 4407200,
+   "sha256": "b77670858c5a573bcb27e77024266accd62a4b9336df9ed3224883769ea8738e",
+   "timestamp": "2023-01-03T16:56:54.000Z"
+  },
+  "tcj_alexunder/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-01-04T00:37:22.000Z"
+  },
+  "tcj_alexunder/source/tcj_alexunder.map": {
+   "bytes": 17206587,
+   "sha256": "2295459d3d1aaaf440eda29f5bd49987330d7e5dc4880039b1f37b60ab6bd0be",
+   "timestamp": "2023-01-08T21:53:58.000Z"
+  },
+  "tcj_alexunder/tcj_alexunder.txt": {
+   "bytes": 1527,
+   "sha256": "1091def4edbd95877f45a9a5bf45b9890dc3181ec95beca186de985e08302e5c",
+   "timestamp": "2023-01-06T19:31:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "8165e1ed36ea7d5b9ca408970c002a73f9cd07f238d282527c4853dbb67b94aa",
+ "tags": [
+  "author=alexUnder Ros",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "exceeds_quake_limits=yes",
+  "filename=tcj_alexunder.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/thirteen-tombs-of-the-brilliant-dynasty.177/)",
+  "map_size=large",
+  "mod=arcanedimensions",
+  "music=custom",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=makkon",
+  "nonspecific_tag=xmas",
+  "release_date=2023-01-09",
+  "source=included",
+  "startmap=tcj_alexunder",
+  "theme=arcane dimensions",
+  "theme=castle",
+  "theme=medieval",
+  "theme=secrets",
+  "theme=snow",
+  "theme=winter",
+  "theme=wizard",
+  "title=Thirteen Tombs of the Brilliant Dynasty v1.04",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/tcj_alexunder.zip",
+  "https://www.quaddicted.com/files/by-sha256/8/8165e1ed36ea7d5b9ca408970c002a73f9cd07f238d282527c4853dbb67b94aa/tcj_alexunder.zip"
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "bytes": 6433,
+ "files": {
+  "ttb/pak0.pak": {
+   "bytes": 15520105,
+   "files": {
+    "maps/start.bsp": {
+     "bytes": 1456752,
+     "sha256": "a9a577c707c0877a9f5cee2532dda95a6cc0cb1519a89b1f86139a792105c459"
+    },
+    "maps/ttb1.bsp": {
+     "bytes": 2451204,
+     "sha256": "c07a5c4399172b34b167487873c6dde2a6e487252bb2c212696587cc5e20649d"
+    },
+    "maps/ttb2.bsp": {
+     "bytes": 3881992,
+     "sha256": "fc3a38aca913b51a4096c6fdd0f19078db6cb2ca2044922e0069eec2b06b8fbf"
+    },
+    "maps/ttb3.bsp": {
+     "bytes": 1849516,
+     "sha256": "8bddc00f83451c0411845bbbbe2b7a34afec362859c411479890e7f094ed6d70"
+    },
+    "maps/ttb4.bsp": {
+     "bytes": 2010200,
+     "sha256": "4a71b689c4a4a7166a58515b28f78e2d356cbfeb98645e9d85cac8e2aaee9631"
+    },
+    "maps/ttbend.bsp": {
+     "bytes": 2736432,
+     "sha256": "5d11eab21cf617a1de2087775ec08d4a6e9dcc76f71989dfe88224b54a52bd92"
+    },
+    "progs.dat": {
+     "bytes": 425100,
+     "sha256": "056052ba93a1623563a341b3bcfecf52300cdbb36a967c7b8a3d9b52ff7485d9"
+    },
+    "progs/gib4.mdl": {
+     "bytes": 59539,
+     "sha256": "c66cc4f2c8aee10b9b9dfde86a12819eea6df55880763bf6e0e0fc312cde016b"
+    },
+    "sound/ambience/equake.wav": {
+     "bytes": 47148,
+     "sha256": "dcc45d2ef0703ecaa022c83cd66ae4992021ac379c11fc9da4401e184a191c93"
+    },
+    "sound/ambience/fb_fly.wav": {
+     "bytes": 5062,
+     "sha256": "5895619395d371d48387fdef8c71eb82a07b10ad201cbfa4152cd61ee1a1bb83"
+    },
+    "sound/ambience/quake.wav": {
+     "bytes": 34286,
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266"
+    },
+    "sound/ambience/quakeend.wav": {
+     "bytes": 8160,
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01"
+    },
+    "sound/ambience/zend1.wav": {
+     "bytes": 123618,
+     "sha256": "2df6c267197b2e82241e47ce4985b04d14e1ce3cff46cebf3177369057302bb6"
+    },
+    "sound/ambience/zend6.wav": {
+     "bytes": 252626,
+     "sha256": "3f3c412e55bc7534c423c0d1bec2d817e3aea06338b4d6c3f78c4b80e55d509f"
+    },
+    "sound/ambience/zend8.wav": {
+     "bytes": 112122,
+     "sha256": "27cef28aa3d6c3ea86f0c54168db07055abfc7af284bc5a35bf53a0e53f8d677"
+    },
+    "sound/gibfnt/gf_plop.wav": {
+     "bytes": 6988,
+     "sha256": "0cae50de463e00ec97e20f6155b5954326230a76315cc922f81935c894701685"
+    },
+    "sound/gibfnt/gf_sbig.wav": {
+     "bytes": 37932,
+     "sha256": "eea4f135fbaef31c99f9c3a837b6135b910af64bedcc2ff5ea42a65a16041d3a"
+    },
+    "sound/gibfnt/gf_sprt1.wav": {
+     "bytes": 7212,
+     "sha256": "12a321a008a89c4a336315aa695f9c345fac0ed820e876e648fc8d41b1cdcbd1"
+    },
+    "sound/gibfnt/gf_sprt2.wav": {
+     "bytes": 12988,
+     "sha256": "477997e36b69effe54190d95aaf0f66de5b92608ef0ac50454ee667aca025ffb"
+    }
+   },
+   "sha256": "4a3175dd9325db8d8b19c8f68c5809b333745cad3337f1dcf669ecad4fc38d48",
+   "timestamp": "2023-05-03T22:22:10.000Z"
+  },
+  "ttb/ttb.txt": {
+   "bytes": 6215,
+   "sha256": "cefe99164abef5415c7646cad224683acdaf713f9540bc759b6139751a63f562",
+   "timestamp": "2023-05-03T22:26:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "ffc58e47d9475ba9896988c33c3ab0bb0dc352a2513deed51922fba544a8da78",
+ "tags": [
+  "author=rj",
+  "commandline=-game ttb",
+  "filename=ttb101.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Screenshot page @ Quaketastic](https://www.quaketastic.com/files/single_player/maps/ttb/ttb.html)",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/time-to-belong.216/)",
+  "map_size=medium",
+  "nonspecific_tag=elder",
+  "release_date=2023-05-04",
+  "startmap=start",
+  "theme=base",
+  "theme=runic",
+  "theme=wizard",
+  "theme=zerst\u00f6rer",
+  "title=Time to Belong",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ttb101.zip",
+  "https://www.quaddicted.com/files/by-sha256/f/ffc58e47d9475ba9896988c33c3ab0bb0dc352a2513deed51922fba544a8da78/ttb101.zip"
+ ]
+}

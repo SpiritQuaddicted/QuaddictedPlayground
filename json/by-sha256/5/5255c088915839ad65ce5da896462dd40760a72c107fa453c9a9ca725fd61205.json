@@ -1,0 +1,77 @@
+{
+ "bytes": 4462,
+ "files": {
+  "ancient_readme.txt": {
+   "bytes": 1475,
+   "sha256": "04378c65839e75fa615a980ab4719a783eee505585314cadd8fdff519d3de1ab",
+   "timestamp": "2023-04-27T23:43:30.000Z"
+  },
+  "maps/ancient.bsp": {
+   "bytes": 2939312,
+   "sha256": "3e328c9371059dcf21d4c17bc69d1b7de73d8e7ff71acdd8ec9b0087aacaa400",
+   "timestamp": "2023-04-27T23:39:30.000Z"
+  },
+  "maps/ancient.lit": {
+   "bytes": 941063,
+   "sha256": "2e9c93777f4203164e58bb2d2052aa3b64c59608fa7fca6d148c99587dbf5a7a",
+   "timestamp": "2023-04-27T23:39:30.000Z"
+  },
+  "music/track200.ogg": {
+   "bytes": 2290360,
+   "sha256": "11a45a41a65a0dcb60a123e351c3116a1034554cfa10546f1b4d94fa54f28f51",
+   "timestamp": "2023-04-26T18:29:40.000Z"
+  },
+  "progs/pd_rune_key.mdl": {
+   "bytes": 46335,
+   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
+   "timestamp": "2021-01-18T14:48:04.000Z"
+  },
+  "sound/ambience/farambient_l.wav": {
+   "bytes": 330958,
+   "sha256": "4c65d4dd9c8111a0b13d625a86a30f1a6ff97b0acfb03423009fc57100981547",
+   "timestamp": "2022-12-11T15:01:42.000Z"
+  },
+  "sound/ambience/runwater.wav": {
+   "bytes": 64764,
+   "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a",
+   "timestamp": "2020-01-03T01:28:36.000Z"
+  },
+  "source/e3_mh.map": {
+   "bytes": 1460257,
+   "sha256": "7bf3ae14bfa509fb935e1aa651ae14dbc9543fcf323eb9d4cf7ed3f681cfb5b4",
+   "timestamp": "2023-04-27T23:40:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "5255c088915839ad65ce5da896462dd40760a72c107fa453c9a9ca725fd61205",
+ "tags": [
+  "author=Mista Heita",
+  "commandline=-game copper",
+  "dependency=copper_v1_20",
+  "filename=ancient1.1.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/ancient.214/)",
+  "map_size=small",
+  "mod=copper",
+  "nonspecific_tag=aztec",
+  "nonspecific_tag=interconnectivity",
+  "nonspecific_tag=koohoo",
+  "release_date=2023-04-27",
+  "source=included",
+  "startmap=ancient",
+  "theme=cave",
+  "theme=underground",
+  "title=Ancient (v1.1)",
+  "type=map",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ancient1.1.zip",
+  "https://www.quaddicted.com/files/by-sha256/5/5255c088915839ad65ce5da896462dd40760a72c107fa453c9a9ca725fd61205/ancient1.1.zip"
+ ]
+}

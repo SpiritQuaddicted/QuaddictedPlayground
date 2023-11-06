@@ -1,0 +1,118 @@
+{
+ "bytes": 11410,
+ "files": {
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-05-13T15:17:36.000Z"
+  },
+  "maps/suzyctmt.bsp": {
+   "bytes": 7225060,
+   "sha256": "1b7c5da9ed04585360249dd59814ade6af4e06df8e82f5c7ccc6d90f69f0049d",
+   "timestamp": "2023-05-13T15:20:22.000Z"
+  },
+  "maps/suzyctmt.lit": {
+   "bytes": 2914064,
+   "sha256": "314cd930970fd3252d5641150e62aaa009e35bf1739b31295182a21571df0903",
+   "timestamp": "2023-05-13T15:20:22.000Z"
+  },
+  "maps/suzyctmt.txt": {
+   "bytes": 2846,
+   "sha256": "7e61a73862ada0d49684daf72c3871764d004c01301677215c40901dcff64ff4",
+   "timestamp": "2023-05-13T15:17:22.000Z"
+  },
+  "music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-05-13T15:18:06.000Z"
+  },
+  "music/track201.ogg": {
+   "bytes": 5709507,
+   "sha256": "b8e26936984cd55cb06836dae66de694d0791cb26743ef4c25b42c67bf03e846",
+   "timestamp": "2020-09-15T00:01:40.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-05-13T15:17:48.000Z"
+  },
+  "progs/suzyctmt/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-05-13T15:23:52.000Z"
+  },
+  "progs/suzyctmt/flm2gr.bmp": {
+   "bytes": 59278,
+   "sha256": "951f9620724ad8ca5d9319fd24084d250c8f5e4669ddff57c32bacc3654baeaf",
+   "timestamp": "2023-05-09T22:01:06.000Z"
+  },
+  "progs/suzyctmt/flm2gr.mdl": {
+   "bytes": 64572,
+   "sha256": "ef46fc70d759dbc496e8d2032b17ebbe8050fd05561ef877e8907fe1b69ac199",
+   "timestamp": "2023-05-09T22:01:50.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-05-13T15:17:54.000Z"
+  },
+  "sound/suzyctmt/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-05-13T15:20:26.000Z"
+  },
+  "sound/suzyctmt/manaclebreak1.wav": {
+   "bytes": 320480,
+   "sha256": "1475f7e076069a01dfa4499fe1dde2c696f5bf44b48ee09c766bd7632b90b419",
+   "timestamp": "2022-10-30T11:01:08.000Z"
+  },
+  "sound/suzyctmt/manaclestrain1.wav": {
+   "bytes": 269764,
+   "sha256": "55b524b19fe60331de0bf16af7ba0e3606ef1ccf98b33adb6abab06677cf1872",
+   "timestamp": "2022-10-30T11:01:30.000Z"
+  },
+  "sound/suzyctmt/null.wav": {
+   "bytes": 8882,
+   "sha256": "49d6d5da19916c942ea174407a621b96b357b876dbefcd148e70d5f0bf9f1ece",
+   "timestamp": "2022-10-30T11:09:40.000Z"
+  },
+  "sound/suzyctmt/portalwind1.wav": {
+   "bytes": 110196,
+   "sha256": "1995409444121074993b7ba8ee10d18cdaaa9dfa2f1570362163a84d45f172b7",
+   "timestamp": "2023-05-13T14:59:18.000Z"
+  },
+  "source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-05-13T15:21:46.000Z"
+  },
+  "source/suzyctmt.map": {
+   "bytes": 11430331,
+   "sha256": "652f53537140327a3d93e7148f42220a5a150544dcf2be9aabd0b45ee4e279d3",
+   "timestamp": "2023-05-13T15:18:46.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/"
+ },
+ "json_version": "2023.01.02-22.55",
+ "sha256": "e2084b9acd3ad249a5d6c0eca9d18443a3ef2dd9daed072a242dbc50b0de9eb7",
+ "tags": [
+  "author=Suzanne 'Trashbang' Will",
+  "commandline=-game copper",
+  "dependency=copper_v1_20",
+  "filename=suzyctmt.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://binarypartitioned.space/",
+  "link=[Slipseer mirror](https://www.slipseer.com/index.php?resources/only-you-can-prevent-containment-breaches.221/)",
+  "release_date=2023-05-13",
+  "startmap=suzyctmt",
+  "title=Only You Can Prevent Containment Breaches",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/suzyctmt.zip",
+  "https://www.quaddicted.com/files/by-sha256/e/e2084b9acd3ad249a5d6c0eca9d18443a3ef2dd9daed072a242dbc50b0de9eb7/suzyctmt.zip"
+ ]
+}
