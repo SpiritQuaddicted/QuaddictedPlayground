@@ -1,0 +1,62 @@
+{
+ "bytes": 1223,
+ "files": {
+  "sm21_gibbie.bsp": {
+   "bytes": 1500652,
+   "sha256": "906bf98e73df93e9b0f258d88a83832bb821edd1a9b0cd26a57b9ba4848971ff",
+   "timestamp": "2001-06-17T12:59:56.000Z"
+  },
+  "sm21_misyu.bsp": {
+   "bytes": 819572,
+   "sha256": "a334d14a41e849ea61e836477a9a99da56be254bbf40a8459feb0d9367e6732c",
+   "timestamp": "2001-06-16T23:46:48.000Z"
+  },
+  "sm21_nane.bsp": {
+   "bytes": 470424,
+   "sha256": "367edbb2d9d407db66ca9127ea5a9b00dc058c68b80488e532684a2915c0eec9",
+   "timestamp": "2001-06-16T23:16:36.000Z"
+  },
+  "sm21_pack.txt": {
+   "bytes": 2344,
+   "sha256": "d961eea4d179b02c567bdad72bc7894a58ece818612456a0c7c9276051acde63",
+   "timestamp": "2001-06-17T14:53:20.000Z"
+  },
+  "sm21_tron.bsp": {
+   "bytes": 564952,
+   "sha256": "f6f7b383c640bfdbf91d8deeb7e09e708b31b8da36562f301afcb2f1f895c350",
+   "timestamp": "2001-06-12T02:00:04.000Z"
+  },
+  "sm21_vig.bsp": {
+   "bytes": 309760,
+   "sha256": "47ae54350020a18188deb00afd80a525ce1e9bef381d93e91510f8f189dfca26",
+   "timestamp": "2001-06-17T01:15:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa",
+ "tags": [
+  "author=Gibbie",
+  "author=Misyu",
+  "author=NaNe",
+  "author=Tron",
+  "author=Vigil",
+  "filename=sm21_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2001-06-17",
+  "startmap=sm21_gibbie",
+  "startmap=sm21_misyu",
+  "startmap=sm21_nane",
+  "startmap=sm21_tron",
+  "startmap=sm21_vig",
+  "title=Speedmapping pack 21 - Wood and stone, containing at least 1 bridge",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm21_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/41/417acf5714c258e4177a45bf49319449dc294f75f6117d51d87e4c2b9cdc76fa/sm21_pack.zip"
+ ]
+}

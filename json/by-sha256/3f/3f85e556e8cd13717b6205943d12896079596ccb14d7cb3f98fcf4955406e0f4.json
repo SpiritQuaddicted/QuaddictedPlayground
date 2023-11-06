@@ -1,0 +1,43 @@
+{
+ "bytes": 546,
+ "files": {
+  "ba1.bsp": {
+   "bytes": 1035568,
+   "sha256": "17bc0ed1bddf0b5877d2f84265d17bf554e970f7302a1acef5bb4dc4f297ad54",
+   "timestamp": "2022-01-18T18:09:50.000Z"
+  },
+  "ba1.map": {
+   "bytes": 685692,
+   "sha256": "25c7f4061bff7675ee8b8ccbe2305021c58012a7d639688a730919acf8075f43",
+   "timestamp": "2022-01-18T18:09:14.000Z"
+  },
+  "ba1.txt": {
+   "bytes": 1568,
+   "sha256": "19f1d073ac9fb8106980ce72d561cb7464a16c92037a59a32e4f166acff0ee81",
+   "timestamp": "2022-01-17T22:06:22.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "3f85e556e8cd13717b6205943d12896079596ccb14d7cb3f98fcf4955406e0f4",
+ "tags": [
+  "author=c0j",
+  "filename=ba1_qmap.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "release_date=2022-01-18",
+  "source=included",
+  "startmap=ba1",
+  "theme=bricks",
+  "theme=castle",
+  "title=Alena Kingdom",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ba1_qmap.zip",
+  "https://www.quaddicted.com/files/by-sha256/3f/3f85e556e8cd13717b6205943d12896079596ccb14d7cb3f98fcf4955406e0f4/ba1_qmap.zip"
+ ]
+}

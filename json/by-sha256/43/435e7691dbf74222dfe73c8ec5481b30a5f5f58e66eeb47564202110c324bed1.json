@@ -1,0 +1,72 @@
+{
+ "bytes": 1347,
+ "files": {
+  "first_maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-07-15T15:11:28.000Z"
+  },
+  "first_maps/begining.bsp": {
+   "bytes": 637136,
+   "sha256": "3b9bd2b1a3facbb2969df5b02ed5e15c2697bdc203d5ee340e60808f789de11f",
+   "timestamp": "2021-07-13T19:38:24.000Z"
+  },
+  "first_maps/begining.map": {
+   "bytes": 225712,
+   "sha256": "d80d6b1e301bdbadfd3158569069f4df9a3a483aa928bb51b66a3e81f7e30be1",
+   "timestamp": "2021-07-13T19:40:46.000Z"
+  },
+  "first_maps/maps_readme.txt": {
+   "bytes": 1090,
+   "sha256": "460f23d1beffbfa1924f010b8c4e8bf8a8faa179547d5dc7f39958557d954b77",
+   "timestamp": "2021-07-15T19:39:20.000Z"
+  },
+  "first_maps/mini.bsp": {
+   "bytes": 905040,
+   "sha256": "f667cad003e881134af123e9fd56dac572950395ee8cedfc94228c02c2198e96",
+   "timestamp": "2021-07-15T14:57:08.000Z"
+  },
+  "first_maps/mini.map": {
+   "bytes": 380126,
+   "sha256": "7e4146a642f1b66f50940e22e7dd895e1b4d0e6fd98cc7e0e36c2835088b54c4",
+   "timestamp": "2021-07-15T14:57:06.000Z"
+  },
+  "first_maps/temple.bsp": {
+   "bytes": 1323408,
+   "sha256": "16f3a23853488b3325f9db1a8433ee240314eead287dd1c70bbf4b977a1256b9",
+   "timestamp": "2021-07-14T14:10:44.000Z"
+  },
+  "first_maps/temple.map": {
+   "bytes": 366595,
+   "sha256": "f7ff95ef866a24934dc9cfecafb094ccb20eb4d8ba0e29fa5c69b8736757a3bd",
+   "timestamp": "2021-07-13T20:06:44.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "435e7691dbf74222dfe73c8ec5481b30a5f5f58e66eeb47564202110c324bed1",
+ "tags": [
+  "author=Ondrejoda",
+  "filename=first_maps.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=62076)",
+  "map_size=small",
+  "release_date=2021-07-15",
+  "source=included",
+  "startmap=begining",
+  "startmap=mini",
+  "startmap=temple",
+  "theme=base",
+  "theme=medieval",
+  "theme=wizard",
+  "title=Begining, The MiniBase, The Temple",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/first_maps.zip",
+  "https://www.quaddicted.com/files/by-sha256/43/435e7691dbf74222dfe73c8ec5481b30a5f5f58e66eeb47564202110c324bed1/first_maps.zip"
+ ]
+}

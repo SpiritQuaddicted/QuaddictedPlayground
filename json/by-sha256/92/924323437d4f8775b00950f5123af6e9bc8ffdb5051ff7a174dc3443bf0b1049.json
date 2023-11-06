@@ -1,0 +1,382 @@
+{
+ "bytes": 37237,
+ "files": {
+  "sm213/SM213_POSTER.jpg": {
+   "bytes": 174386,
+   "sha256": "036198afd3687087d094f4e6b38418c9352eaa2835e4ccee72f5ff950103a1d7",
+   "timestamp": "2021-08-16T10:22:18.000Z"
+  },
+  "sm213/docs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-08-16T11:31:16.000Z"
+  },
+  "sm213/docs/sm213_allcaps_readme.txt": {
+   "bytes": 2499,
+   "sha256": "64550f4a9fefb397b9e5c2c50883a1d5092507e4c8132d2af6757ec7c626009f",
+   "timestamp": "2021-08-16T11:31:08.000Z"
+  },
+  "sm213/docs/sm213_gnemeth.txt": {
+   "bytes": 2886,
+   "sha256": "b2d5ba3f4ac570a849c0f30a19b38d13aff97b5e036fbc541c4b86c653c39c73",
+   "timestamp": "2021-08-15T09:34:00.000Z"
+  },
+  "sm213/docs/sm213_greenwood.txt": {
+   "bytes": 1343,
+   "sha256": "e1ead05318e09bee10253443e9098353c7c856677cd64e40de3dee44b1d706b9",
+   "timestamp": "2021-08-15T09:46:28.000Z"
+  },
+  "sm213/docs/sm213_h4724.txt": {
+   "bytes": 3295,
+   "sha256": "6d0140e757a236b81786db6e34ae20315cb7a3593c800891322ff4e63cd7de6e",
+   "timestamp": "2021-08-15T09:16:06.000Z"
+  },
+  "sm213/docs/sm213_hcm.txt": {
+   "bytes": 2109,
+   "sha256": "84c480104596eafdc792cbbae0ce5f20055cd5c102e3ea46943f03860e8dff3d",
+   "timestamp": "2021-08-14T20:45:00.000Z"
+  },
+  "sm213/docs/smp213_alexUnder_readme.txt": {
+   "bytes": 564,
+   "sha256": "e1b305a692facc62a5d65858f659bf527d0f73712fd24edbd0615593dc797506",
+   "timestamp": "2021-08-14T20:48:30.000Z"
+  },
+  "sm213/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-08-13T22:58:26.000Z"
+  },
+  "sm213/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-08-15T15:50:42.000Z"
+  },
+  "sm213/gfx/env/bigplanet_bk.tga": {
+   "bytes": 786450,
+   "sha256": "7ebe91c3b421e478c3228a2cb9bb2da8c91866c6f8703cea851c387266e2828d",
+   "timestamp": "2021-08-15T09:48:54.000Z"
+  },
+  "sm213/gfx/env/bigplanet_dn.tga": {
+   "bytes": 786450,
+   "sha256": "94f69c27a34c90686c1fd14b9b8c30df49012a081811235503e92bd850947627",
+   "timestamp": "2021-08-15T09:48:54.000Z"
+  },
+  "sm213/gfx/env/bigplanet_ft.tga": {
+   "bytes": 786476,
+   "sha256": "ae2a0d607d3c0f110bafd7c139cba7c23ad88b3a03493b1b4bef4138e7455660",
+   "timestamp": "2021-08-15T09:48:54.000Z"
+  },
+  "sm213/gfx/env/bigplanet_lf.tga": {
+   "bytes": 786450,
+   "sha256": "e9c59c4f9899b98067b74dd9ece2de9cac7387cc8943f301d4923475bf9bd086",
+   "timestamp": "2021-08-15T09:48:54.000Z"
+  },
+  "sm213/gfx/env/bigplanet_rt.tga": {
+   "bytes": 786450,
+   "sha256": "43a09dcc4ba500ee2f271bc8d2f3b64d287e10b685bf1790c7e02dabc71c414c",
+   "timestamp": "2021-08-15T09:48:54.000Z"
+  },
+  "sm213/gfx/env/bigplanet_up.tga": {
+   "bytes": 786450,
+   "sha256": "56bea787128a56439becea05dff1ccf5125ecc8274b982735707fb4db01aaf5e",
+   "timestamp": "2021-08-15T09:48:54.000Z"
+  },
+  "sm213/gfx/env/intheclouds_bk.tga": {
+   "bytes": 575025,
+   "sha256": "46728836729b8e692e03f573be06036599d7135e27cd320432757ded61c77f20",
+   "timestamp": "2021-08-14T20:45:40.000Z"
+  },
+  "sm213/gfx/env/intheclouds_dn.tga": {
+   "bytes": 436519,
+   "sha256": "f698a2be0effd53ad399d707de850f89993a709d685f4ba808808538ef7ee806",
+   "timestamp": "2021-08-14T20:45:40.000Z"
+  },
+  "sm213/gfx/env/intheclouds_ft.tga": {
+   "bytes": 534713,
+   "sha256": "63b5ef18c0c1f38e832a5b8c9cc75081fcce2776182d21383f58c6753e8075f9",
+   "timestamp": "2021-08-14T20:45:40.000Z"
+  },
+  "sm213/gfx/env/intheclouds_lf.tga": {
+   "bytes": 508530,
+   "sha256": "63421b48964a2fc0347b42b6cc2a9f7bdeb017719d462793f752549d4054eebe",
+   "timestamp": "2021-08-14T20:45:40.000Z"
+  },
+  "sm213/gfx/env/intheclouds_rt.tga": {
+   "bytes": 575213,
+   "sha256": "2ab0360278823ad34074fae40d064951f70785448218fe578aa124fa0f5a3f89",
+   "timestamp": "2021-08-14T20:45:40.000Z"
+  },
+  "sm213/gfx/env/intheclouds_up.tga": {
+   "bytes": 215489,
+   "sha256": "2837d0ae6f86c6914cb6f4b30b232a1c67b52343202d95b83d2dee54c8257731",
+   "timestamp": "2021-08-14T20:45:40.000Z"
+  },
+  "sm213/gfx/env/mak_nebularteal2_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "3deb3f912877ede9b2008db1ac1e957082cd60788b7fb8b2b03ab9593afc152d",
+   "timestamp": "2021-08-13T22:58:28.000Z"
+  },
+  "sm213/gfx/env/mak_nebularteal2_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "52b8fa69606bc4a6cafe63ebeacd8108748ddca25645a19416966c68bb9a2b21",
+   "timestamp": "2021-08-13T22:58:28.000Z"
+  },
+  "sm213/gfx/env/mak_nebularteal2_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "aa38a6ddbdbe5cb69bd43b614b0da32236b07b925c83600269b4a2de92d5014b",
+   "timestamp": "2021-08-13T22:58:28.000Z"
+  },
+  "sm213/gfx/env/mak_nebularteal2_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "e1bd41c54e31c37e40cf3124ce99bcecfe22a9d5f19a192c7aa2e7ad89f23ea8",
+   "timestamp": "2021-08-13T22:58:28.000Z"
+  },
+  "sm213/gfx/env/mak_nebularteal2_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "f7957288cf7972b4403cbd68c8f8fc8754af61c3d3a18194073adf9323b9a55f",
+   "timestamp": "2021-08-13T22:58:28.000Z"
+  },
+  "sm213/gfx/env/mak_nebularteal2_up.tga": {
+   "bytes": 3145772,
+   "sha256": "b46d51f3ca3e272f75dc16140a6648bd8965f35f00a156e26442b476764d5fde",
+   "timestamp": "2021-08-13T22:58:28.000Z"
+  },
+  "sm213/gfx/env/smp213_under_bk.tga": {
+   "bytes": 786450,
+   "sha256": "3793ad69ccb32429e181d7a867120be1299c98798122e3a7d01a4805e6c5cf03",
+   "timestamp": "2021-08-15T15:50:32.000Z"
+  },
+  "sm213/gfx/env/smp213_under_dn.tga": {
+   "bytes": 786450,
+   "sha256": "d9c695e7a7103f2b25b5bfdac381b119c0283e2f7a1a25cc1874532fb98d0e27",
+   "timestamp": "2021-08-15T15:50:32.000Z"
+  },
+  "sm213/gfx/env/smp213_under_ft.tga": {
+   "bytes": 786450,
+   "sha256": "89c6d0a6d0101858554185400a471b2f11a28cc64228ed7854b96be8ff4c27bb",
+   "timestamp": "2021-08-15T15:50:32.000Z"
+  },
+  "sm213/gfx/env/smp213_under_lf.tga": {
+   "bytes": 786450,
+   "sha256": "12217bc7b9320c0a549af7cf62a1b108a329bf8b8bab104bdc3372a2788aba83",
+   "timestamp": "2021-08-15T15:50:32.000Z"
+  },
+  "sm213/gfx/env/smp213_under_rt.tga": {
+   "bytes": 786450,
+   "sha256": "af567f0a1eba86b5b32f3a4d298414ab029f08c31d3a2fba3faab206f19c8150",
+   "timestamp": "2021-08-15T15:50:32.000Z"
+  },
+  "sm213/gfx/env/smp213_under_up.tga": {
+   "bytes": 786450,
+   "sha256": "93a8cf090a22eae811b8a7ff744cea8ea24e8d4e259a7348af33799e4aef95f4",
+   "timestamp": "2021-08-15T15:50:32.000Z"
+  },
+  "sm213/map src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-08-15T15:01:30.000Z"
+  },
+  "sm213/map src/sm213_alexunder.map": {
+   "bytes": 2118448,
+   "sha256": "54529582c0e3669ead423b581a795b92be57bbab3ece1dba761b4c6f559a281e",
+   "timestamp": "2021-08-14T20:48:36.000Z"
+  },
+  "sm213/map src/sm213_allcaps.map": {
+   "bytes": 243211,
+   "sha256": "892a45ebb81c0962009fb05c761e9a3295b585e80ced0cda99aeed4d758e0387",
+   "timestamp": "2021-08-14T20:43:02.000Z"
+  },
+  "sm213/map src/sm213_h4724.map": {
+   "bytes": 255225,
+   "sha256": "77f10954ce9bc45b593dbf03324fc6a92ce1d2b1c598d6a7eaa52ac0c83c9938",
+   "timestamp": "2021-08-15T09:16:02.000Z"
+  },
+  "sm213/map src/sm213_hcm.map": {
+   "bytes": 2254967,
+   "sha256": "c6ebb47d0f76bee2b7145511880db6b6dae3b84030ecdb93bb8b6ad99ce53c8b",
+   "timestamp": "2021-08-14T20:44:56.000Z"
+  },
+  "sm213/map src/sm213_maxx.map": {
+   "bytes": 823209,
+   "sha256": "b18667033264076024339ffc5807f0d0170c2a88a40ba15c7821244bb4f1d8c5",
+   "timestamp": "2021-08-14T20:45:54.000Z"
+  },
+  "sm213/map src/start.map": {
+   "bytes": 917423,
+   "sha256": "d2d8b3a55998f66499daa2fdea407e964888f8381aba2011f3c31c1dc19d1e2f",
+   "timestamp": "2021-08-15T14:00:14.000Z"
+  },
+  "sm213/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-08-16T11:31:02.000Z"
+  },
+  "sm213/maps/sm213_alexunder.bsp": {
+   "bytes": 8354344,
+   "sha256": "75c0e1a3c18112bcf95103d939042b3a5db53eb751f478f87498e4dbf6c3ea5a",
+   "timestamp": "2021-08-15T12:53:46.000Z"
+  },
+  "sm213/maps/sm213_alexunder.lit": {
+   "bytes": 1062800,
+   "sha256": "cbcc12fcc0ee97068b32503142aa77d8e6f62e7de87d19808c995224991a425c",
+   "timestamp": "2021-08-15T12:53:40.000Z"
+  },
+  "sm213/maps/sm213_allcaps.bsp": {
+   "bytes": 405584,
+   "sha256": "0e82ce28d7e1c33211b4176da62228b56cafeff7350b0b6ba69dc63ea1d32194",
+   "timestamp": "2021-08-16T11:31:02.000Z"
+  },
+  "sm213/maps/sm213_allcaps.map": {
+   "bytes": 251939,
+   "sha256": "850649b3731ff1d2886fbcbc31249f8efa3284cdc60917db716ebe1cf019e68e",
+   "timestamp": "2021-08-16T11:31:02.000Z"
+  },
+  "sm213/maps/sm213_bmfbr.bsp": {
+   "bytes": 1232964,
+   "sha256": "1b95c21407d572bf22e929ac7e553df769a3fb7019184063933fc0dff3d7b78b",
+   "timestamp": "2021-08-16T10:13:36.000Z"
+  },
+  "sm213/maps/sm213_bmfbr.lit": {
+   "bytes": 897860,
+   "sha256": "909aa882fe62feaa4180fb10a756f0ab91af71d370f81c72b3f5b060d30e3c2e",
+   "timestamp": "2021-08-16T10:13:36.000Z"
+  },
+  "sm213/maps/sm213_gnemeth.bsp": {
+   "bytes": 21005264,
+   "sha256": "8a180e71a6dd217576164dc707ccc79812723cab4c41301a61822e451f85ec0e",
+   "timestamp": "2021-08-16T10:13:28.000Z"
+  },
+  "sm213/maps/sm213_gnemeth.lit": {
+   "bytes": 18151451,
+   "sha256": "c810d660fbfb96cf66df035d0f3b897633840dcc650faee538c00adb5f03d5a3",
+   "timestamp": "2021-08-16T10:13:28.000Z"
+  },
+  "sm213/maps/sm213_greenwood.bsp": {
+   "bytes": 2819308,
+   "sha256": "ed7e188041ba4f4864975419f61e18abcbd7235357f4f0cdf7863961fac84c52",
+   "timestamp": "2021-08-15T09:48:52.000Z"
+  },
+  "sm213/maps/sm213_greenwood.lit": {
+   "bytes": 2524550,
+   "sha256": "bd2ef8def5fb22531611b6b750fc4bb3ae7ee4e5cc79f16bdc0981372f3f700a",
+   "timestamp": "2021-08-15T09:48:52.000Z"
+  },
+  "sm213/maps/sm213_h4724.bsp": {
+   "bytes": 895188,
+   "sha256": "1003b6367283e238d5661ac80ea0df8744dbc4dde8f6c2232647a0d6212fc2e6",
+   "timestamp": "2021-08-15T09:15:54.000Z"
+  },
+  "sm213/maps/sm213_h4724.lit": {
+   "bytes": 211631,
+   "sha256": "94c27b6c1b59c604bcae943f01e0b7a89c53ee2791f42ca2d176f04e21f58c91",
+   "timestamp": "2021-08-15T09:15:54.000Z"
+  },
+  "sm213/maps/sm213_hcm.bsp": {
+   "bytes": 3694728,
+   "sha256": "ecd0921ddbfaa3684bbb846dec83da881d24728097c9f66e9a0f7690feb048fb",
+   "timestamp": "2021-08-14T20:44:50.000Z"
+  },
+  "sm213/maps/sm213_hcm.lit": {
+   "bytes": 1741256,
+   "sha256": "9c95e3cdef269c521961f94b546ccb293b1f382951e385383351e7e74c8587ac",
+   "timestamp": "2021-08-14T20:44:50.000Z"
+  },
+  "sm213/maps/sm213_maxx.bsp": {
+   "bytes": 6944780,
+   "sha256": "a4d21c61dc1d01ab592cbea56966f26ec669f28b471788713a9764f76f11e78e",
+   "timestamp": "2021-08-14T20:45:50.000Z"
+  },
+  "sm213/maps/sm213_maxx.lit": {
+   "bytes": 1870769,
+   "sha256": "9f436fd3bed596026caa19ba1472f2dfb68b01e06f859dcbd94faa998a4fcab7",
+   "timestamp": "2021-08-14T20:45:50.000Z"
+  },
+  "sm213/maps/sm213_nyo.bsp": {
+   "bytes": 1519944,
+   "sha256": "c2e1db6d5e0edf8cc469431b6122575726d0f6a95ac6677774115de2c8851f71",
+   "timestamp": "2021-08-16T10:13:14.000Z"
+  },
+  "sm213/maps/sm213_nyo.lit": {
+   "bytes": 761510,
+   "sha256": "12ca81e6287cfe982add9c4f26cf4230edab6a569d91435cc9f9ce42dda01522",
+   "timestamp": "2021-08-16T10:13:14.000Z"
+  },
+  "sm213/maps/sm213_zigi.bsp": {
+   "bytes": 2212144,
+   "sha256": "f52d919dc0066c970195a5df307f88ad5a5c08195d8fb3959d30f788c8cf1609",
+   "timestamp": "2021-08-16T09:39:56.000Z"
+  },
+  "sm213/maps/start.bsp": {
+   "bytes": 2340448,
+   "sha256": "2824e14d00da442b54a38e49a65e0afba046dc2b352528c8f86ccb7047510320",
+   "timestamp": "2021-08-15T14:53:52.000Z"
+  },
+  "sm213/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-08-14T21:24:46.000Z"
+  },
+  "sm213/music/track128.ogg": {
+   "bytes": 7089542,
+   "sha256": "6377fc591678095634c9971768fbf0b0cce2caf72b95d19c181203044b93fa23",
+   "timestamp": "2021-08-14T21:24:46.000Z"
+  },
+  "sm213/progs.dat": {
+   "bytes": 334130,
+   "sha256": "8d70aac5d32b7585c0a1075a9ca32c4e56a35d685354213b06a882c2d35db9a8",
+   "timestamp": "2021-08-13T13:14:22.000Z"
+  },
+  "sm213/sm213_low_gravity_readme.txt": {
+   "bytes": 2456,
+   "sha256": "4d546c45a554568b72938a90cdcc1749f4d433bcfcfe5ed4a40d2eefac802ba2",
+   "timestamp": "2021-08-16T10:16:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "924323437d4f8775b00950f5123af6e9bc8ffdb5051ff7a174dc3443bf0b1049",
+ "tags": [
+  "author=Greenwood",
+  "author=Mazu",
+  "author=MortalMaxx",
+  "author=Nyoei",
+  "author=alexUnder",
+  "author=allcaps",
+  "author=bmFbr",
+  "author=dumptruck_ds",
+  "author=gnemeth",
+  "author=h4724",
+  "author=zigi",
+  "commandline=-game sm213",
+  "filename=sm213.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=62087)",
+  "link=[Updated version](https://archive.org/download/sm213/sm213.zip)",
+  "map_size=medium",
+  "map_size=small",
+  "nonspecific_tag=gravity",
+  "nonspecific_tag=smp",
+  "release_date=2021-08-16",
+  "startmap=sm213_alexunder",
+  "startmap=sm213_allcaps",
+  "startmap=sm213_bmfbr",
+  "startmap=sm213_gnemeth",
+  "startmap=sm213_greenwood",
+  "startmap=sm213_h4724",
+  "startmap=sm213_hcm",
+  "startmap=sm213_maxx",
+  "startmap=sm213_nyo",
+  "startmap=sm213_zigi",
+  "startmap=start",
+  "theme=void",
+  "title=Speedmapping pack 213 - Low Gravity",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm213.zip",
+  "https://www.quaddicted.com/files/by-sha256/92/924323437d4f8775b00950f5123af6e9bc8ffdb5051ff7a174dc3443bf0b1049/sm213.zip"
+ ]
+}

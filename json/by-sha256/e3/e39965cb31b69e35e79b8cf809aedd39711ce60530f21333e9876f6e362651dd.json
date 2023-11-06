@@ -1,0 +1,73 @@
+{
+ "bytes": 2191,
+ "files": {
+  "progs.dat": {
+   "bytes": 413096,
+   "sha256": "0f51529cfa28ff2ac5e2cff6e24c3ecad619921a0f858df608534131ab31aa0f",
+   "timestamp": "2003-09-21T23:57:34.000Z"
+  },
+  "sm50_asaki.bsp": {
+   "bytes": 408088,
+   "sha256": "253a17c947372fc60bf9fb79bc071def09c7b76ec5f46135a9fc704236361f99",
+   "timestamp": "2003-09-20T20:28:32.000Z"
+  },
+  "sm50_moz.bsp": {
+   "bytes": 348632,
+   "sha256": "f171224903a6f9090bfc87d0b5aa40ec4f0fe12150900fc5b7e4e18e7fb7cf40",
+   "timestamp": "2003-09-21T00:12:30.000Z"
+  },
+  "sm50_pack.txt": {
+   "bytes": 2325,
+   "sha256": "4dfe83c040028bdfcfff803e1f38b0c897db39ada7a0994e7354c84e1e4b5c6b",
+   "timestamp": "2003-09-22T00:12:16.000Z"
+  },
+  "sm50_scampie.bsp": {
+   "bytes": 509744,
+   "sha256": "0df9755be30a394b48b11e0d9745c1734fdf78dc50431b4da4908b43f2bf348d",
+   "timestamp": "2001-09-02T20:05:00.000Z"
+  },
+  "sm50_starbuck.bsp": {
+   "bytes": 930812,
+   "sha256": "43a6e6fc97bba700b8b915f6794505b60d7191621bc96aae20af6e8a9b3f59b2",
+   "timestamp": "2003-09-21T23:56:06.000Z"
+  },
+  "sm50_xen.bsp": {
+   "bytes": 1811468,
+   "sha256": "b73e9e24e2341b24376de93cf202128b54959b67fbda48a4b6dc0772275cedf0",
+   "timestamp": "2003-09-21T19:03:20.000Z"
+  },
+  "sm50_xen2.bsp": {
+   "bytes": 1737224,
+   "sha256": "3046d7f5b1945490fe08a4d07b3677150621e3882877675b21f88662cc7b8496",
+   "timestamp": "2003-09-21T23:12:08.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "e39965cb31b69e35e79b8cf809aedd39711ce60530f21333e9876f6e362651dd",
+ "tags": [
+  "author=Asaki",
+  "author=Moz",
+  "author=Scampie",
+  "author=Starbuck",
+  "author=Xen",
+  "filename=sm50_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2003-09-22",
+  "startmap=sm50_asaki",
+  "startmap=sm50_moz",
+  "startmap=sm50_scampie",
+  "startmap=sm50_starbuck",
+  "startmap=sm50_xen",
+  "startmap=sm50_xen2",
+  "title=Speedmapping pack 50 - Water",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm50_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/e3/e39965cb31b69e35e79b8cf809aedd39711ce60530f21333e9876f6e362651dd/sm50_pack.zip"
+ ]
+}

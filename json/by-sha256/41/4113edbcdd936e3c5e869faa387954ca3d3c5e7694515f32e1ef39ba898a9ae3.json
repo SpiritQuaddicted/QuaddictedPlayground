@@ -1,0 +1,195 @@
+{
+ "bytes": 2782,
+ "files": {
+  "TPHOB2.bsp": {
+   "bytes": 1336368,
+   "sha256": "e77f3cfc255ab50023e71c6384b961380d22d8eddc38a9a9297d918385acc23b",
+   "timestamp": "2001-08-13T20:53:52.000Z"
+  },
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-08-13T18:54:24.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-08-13T19:02:06.000Z"
+  },
+  "glquake/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-10-20T17:48:56.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-08-05T02:57:18.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-08-04T18:51:58.000Z"
+  },
+  "progs/demon.mdl": {
+   "bytes": 102120,
+   "sha256": "2635e03bd1e78e3e6d3f9f78c2dd4dda7614a3eb4dabd750a772ed80565ebdb2",
+   "timestamp": "2001-08-11T12:31:18.000Z"
+  },
+  "progs/enforcer.mdl": {
+   "bytes": 160688,
+   "sha256": "310aefdbb1f1285a375654dc198e08c2a318746cc36e29141ea373deb0a7b9bf",
+   "timestamp": "2001-08-10T15:52:12.000Z"
+  },
+  "progs/h_demon.mdl": {
+   "bytes": 34884,
+   "sha256": "a5215daf42ffb15e2d7ce4d102a25f840f66b278411d2221e2d679058d9c6509",
+   "timestamp": "2001-08-05T01:35:42.000Z"
+  },
+  "progs/h_shal.mdl": {
+   "bytes": 28036,
+   "sha256": "28733faa6d1c19a2f49eb6ad75c8c0eef64a07cb6e793e2c362454cacade8ce6",
+   "timestamp": "2001-08-05T01:21:50.000Z"
+  },
+  "progs/hknight.mdl": {
+   "bytes": 228400,
+   "sha256": "86add905729928733d866857d90cc9a196336d645444ad8672a648d5bcc27142",
+   "timestamp": "2001-08-11T12:42:32.000Z"
+  },
+  "progs/k_spike.mdl": {
+   "bytes": 16756,
+   "sha256": "797b034760694c5e4b14bab5c97234ff5d043179f290e9f8d5660ef7578a2303",
+   "timestamp": "2001-08-10T13:35:40.000Z"
+  },
+  "progs/ogre.mdl": {
+   "bytes": 162036,
+   "sha256": "d73a5e560b0aefefee033ff6755364cd576e3adb5834c78ba290808c8d3c9bc5",
+   "timestamp": "2001-08-10T14:17:22.000Z"
+  },
+  "progs/shalrath.mdl": {
+   "bytes": 80648,
+   "sha256": "f9dd6b636ad0e95dd63c3b27c428425fc69db4841ed161259c9781c528f6f455",
+   "timestamp": "2001-08-10T15:17:04.000Z"
+  },
+  "progs/shambler.mdl": {
+   "bytes": 98556,
+   "sha256": "497fa6d11e56e2edf7906e90a60e87b54d6f99e8910968fb90e4754d7250b407",
+   "timestamp": "2001-08-05T13:36:46.000Z"
+  },
+  "progs/soldier.mdl": {
+   "bytes": 146288,
+   "sha256": "70e847a5763e03656538ffabd1ad8b04f5105cc638b265c54db2465d990fbb16",
+   "timestamp": "2001-08-10T16:19:28.000Z"
+  },
+  "progs/zombie.mdl": {
+   "bytes": 186084,
+   "sha256": "6054c5bb990b35092be6d70d74ba171d8326aa37c0ff5096155f5742eb69bb2e",
+   "timestamp": "2001-08-11T00:30:08.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-08-04T21:23:30.000Z"
+  },
+  "sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-08-04T21:28:08.000Z"
+  },
+  "sound/ambience/swamp2.wav": {
+   "bytes": 371838,
+   "sha256": "ba9139241abf152b1e1eb5e9096b0e063bbc7925acfb9c3232ab15e29117e7c9",
+   "timestamp": "2001-08-10T16:49:40.000Z"
+  },
+  "sound/shambler/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-08-04T21:23:30.000Z"
+  },
+  "sound/shambler/melee1.wav": {
+   "bytes": 4718,
+   "sha256": "7d0dfef30c95a0ef313e696a62a46b022914b65539d2def70bc0b9f28f2b3096",
+   "timestamp": "2001-08-04T21:17:56.000Z"
+  },
+  "sound/shambler/melee2.wav": {
+   "bytes": 5966,
+   "sha256": "3bd6de9dbaa32184589c39e6148a13d9e938e0ba462057e09e574e6f15af912e",
+   "timestamp": "2001-08-04T21:17:52.000Z"
+  },
+  "sound/shambler/sattck1.wav": {
+   "bytes": 8036,
+   "sha256": "78fcc21a4dab542c7bf51dc6cdc94c235b516227651aa6f4fb5f18c78880e902",
+   "timestamp": "2001-08-04T21:21:44.000Z"
+  },
+  "sound/shambler/sboom.wav": {
+   "bytes": 11672,
+   "sha256": "2ea8df38c88e22973ebf68f1cc647b7116dabc099d2202612f42769ec72ff926",
+   "timestamp": "2001-08-04T21:17:50.000Z"
+  },
+  "sound/shambler/sdeath.wav": {
+   "bytes": 21106,
+   "sha256": "158bc14cce417763dda0c9e79af5a60ccbc265d8a53cea21cb1a11e12c39da7c",
+   "timestamp": "2001-08-04T21:17:46.000Z"
+  },
+  "sound/shambler/shurt2.wav": {
+   "bytes": 4302,
+   "sha256": "3bacdee51cf781dcacb1c7e91e5aad66bc5539383d2571571875397c93b1cf4c",
+   "timestamp": "2001-08-04T21:17:42.000Z"
+  },
+  "sound/shambler/sidle.wav": {
+   "bytes": 5646,
+   "sha256": "3c868025de348fbd13b67b8bdc05276d6fc3a14335f3d2dd848bd30004a3fa22",
+   "timestamp": "2001-08-04T21:17:38.000Z"
+  },
+  "sound/shambler/smack.wav": {
+   "bytes": 5300,
+   "sha256": "083fda886af5e0315e26a2f1c52914adbdd7589d9d40ee7d03082f87f1566e54",
+   "timestamp": "2001-08-04T21:17:34.000Z"
+  },
+  "sound/shambler/ssight.wav": {
+   "bytes": 15420,
+   "sha256": "e3db42e17ae28720fad11c61e3546ed5bfe0743fa904d1e5399c1050c6088116",
+   "timestamp": "2001-08-04T21:18:04.000Z"
+  },
+  "tchphob.bsp": {
+   "bytes": 3052788,
+   "sha256": "a768117a09063ab3c19b983771788c940b869b339dbaf5203e21beb3b1d26f93",
+   "timestamp": "2001-12-15T10:58:40.000Z"
+  },
+  "technophobia.txt": {
+   "bytes": 1996,
+   "sha256": "69b91069ff4b8519a076b65298234134e4c7812d9c96638b311f4080d0e223df",
+   "timestamp": "2001-12-15T11:28:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/techphob/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4113edbcdd936e3c5e869faa387954ca3d3c5e7694515f32e1ef39ba898a9ae3",
+ "tags": [
+  "author=Tim Elek",
+  "commandline=-game techphob",
+  "filename=techphob.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=www.planetquake.com/tertiary",
+  "map_size=small",
+  "nonspecific_tag=skins",
+  "nonspecific_tag=sounds",
+  "nonspecific_tag=textures",
+  "release_date=2001-12-15",
+  "startmap=tcphob",
+  "startmap=tphob2",
+  "theme=base",
+  "theme=industrial",
+  "theme=space",
+  "title=Technophobia: Unfinished maps",
+  "type=mod",
+  "type=unfinished"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/techphob.zip",
+  "https://www.quaddicted.com/files/by-sha256/41/4113edbcdd936e3c5e869faa387954ca3d3c5e7694515f32e1ef39ba898a9ae3/techphob.zip"
+ ]
+}

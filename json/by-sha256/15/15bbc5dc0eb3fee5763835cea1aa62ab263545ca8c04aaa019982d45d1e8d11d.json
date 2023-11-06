@@ -1,0 +1,2841 @@
+{
+ "bytes": 375615,
+ "files": {
+  "README_changelist.txt": {
+   "bytes": 7549,
+   "sha256": "239db692b0adbe6edf2c208a17ecbbbd18c71173752ed091b3426b69bcb86733",
+   "timestamp": "2023-02-12T13:32:40.000Z"
+  },
+  "README_dwellv2p2.txt": {
+   "bytes": 2807,
+   "sha256": "089586be4f4c14a062f214fecd2499a66ce91ac6b62b403d5931352e52af9fea",
+   "timestamp": "2023-02-11T14:36:18.000Z"
+  },
+  "dwellv2p2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-12T13:35:30.000Z"
+  },
+  "dwellv2p2/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:22.000Z"
+  },
+  "dwellv2p2/gfx/conback.lmp": {
+   "bytes": 409928,
+   "sha256": "13153df5f8c5111d4404ca5c7596b7a178bdb7374654699ff1f71c05dec8fe0b",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:22.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/ame_nebula.shader": {
+   "bytes": 237,
+   "sha256": "fef9260f1580ffaa8ca599a044efad091e4cde64b726cbc0516a5927e26db156",
+   "timestamp": "2009-01-15T13:05:58.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/ame_nebula_bk.tga": {
+   "bytes": 786450,
+   "sha256": "f45476734de7c5e61b7ba56faef3d783bcce6b2b763d442245a5c9452eb5bf7e",
+   "timestamp": "2002-03-13T12:37:06.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/ame_nebula_dn.tga": {
+   "bytes": 786450,
+   "sha256": "1d5f447bb110db9f8172bc21d2c57cc22f671eae5e442b9cc2f1573501796d0b",
+   "timestamp": "2002-03-13T12:37:06.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/ame_nebula_ft.tga": {
+   "bytes": 786450,
+   "sha256": "41846d5fae246c2237464e938b17f86e6f7433142f1cea13fed0de51edffdf80",
+   "timestamp": "2002-03-13T12:37:06.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/ame_nebula_lf.tga": {
+   "bytes": 786450,
+   "sha256": "43735743a495f7f15c6ca1fc03138bb5997715fb9c30a714e228b2a4e62b69d3",
+   "timestamp": "2002-03-13T12:37:06.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/ame_nebula_rt.tga": {
+   "bytes": 786450,
+   "sha256": "06b57dca0f08b9fb0f1de19937682693dbbd8a970374f8df362fbb5e30801eb1",
+   "timestamp": "2002-03-13T12:37:06.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/ame_nebula_up.tga": {
+   "bytes": 786450,
+   "sha256": "21398178680b2a83d7ca79bcfac60d17381cba73f1a8519eb4590075af20e839",
+   "timestamp": "2002-03-13T12:37:06.000Z"
+  },
+  "dwellv2p2/gfx/env/ame_nebula/readme": {
+   "bytes": 187,
+   "sha256": "e7e1b57df0354f256aecca279f7b0ffecc0460c5830d430af0a9d1d9776343a4",
+   "timestamp": "2009-01-14T12:23:14.000Z"
+  },
+  "dwellv2p2/gfx/env/bald2end__up.tga": {
+   "bytes": 3145772,
+   "sha256": "734d2601eb2f44057ae9eadd7d9271956560753f7d18b00ebb6d9f87e3cf15a5",
+   "timestamp": "2023-01-30T01:28:18.000Z"
+  },
+  "dwellv2p2/gfx/env/bald2end_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "9a8e017f78cb6b45e86e064e58861801fe78f78867dbd885c06f1cd2e5cba86d",
+   "timestamp": "2023-01-30T01:28:18.000Z"
+  },
+  "dwellv2p2/gfx/env/bald2end_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "6ec617f4430ccb77951e6433fec7fa7606df2a87bee71df57705db580fe5289c",
+   "timestamp": "2023-01-30T01:28:18.000Z"
+  },
+  "dwellv2p2/gfx/env/bald2end_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "15f8373e7731948d3200ccd21c9d81f95e2858b0e9041a2374d8330b2872a515",
+   "timestamp": "2023-01-30T01:28:18.000Z"
+  },
+  "dwellv2p2/gfx/env/bald2end_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "dfba67a52594dbdcb7f278362519ea5eb1fb17b914a2b4dd6ad6178225569f2a",
+   "timestamp": "2023-01-30T01:28:18.000Z"
+  },
+  "dwellv2p2/gfx/env/bald2end_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "868bebe57d02c61164be2eebdbec74c277d5441134b9d4215c9d895c473a84ce",
+   "timestamp": "2023-01-30T01:28:18.000Z"
+  },
+  "dwellv2p2/gfx/env/bald2end_up.tga": {
+   "bytes": 3145772,
+   "sha256": "4f7a0d1ff69382b9d3642a34a847a94eaa7db12e81c3d440cd9dc4303ae0f72e",
+   "timestamp": "2023-01-30T01:28:18.000Z"
+  },
+  "dwellv2p2/gfx/env/baldss_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "9ab07458def537f1ffba6244f10d332419cfa32f102a31cbd562d91db9be27da",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/baldss_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "7226d7c60e2b2f434e3ab079e46af802709f7b1144a5a3a0cd58465e62a52eba",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/baldss_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "0e6db332b957b8e5f627cc47a07fde958138ecf330dbfca665882de93f3093ab",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/baldss_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "f5829ca9ab26f72d88b75c88d3dab6114faa47bdab1372a75c517f4b5091326f",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/baldss_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "dd51b18643c55ba61e002e49945c1392420361ec07e0ceff5291b887db5dc861",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/baldss_up.tga": {
+   "bytes": 3145772,
+   "sha256": "874e1d6b1cafb80a15033d043b2c4f21da72ebfb385f57513819768e3a9a56f8",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/balesun_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "545b99fcbf14a1458d6d37f6599307e2e567b3a06d6408b05397b51be00f6645",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/balesun_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "2894f7549e89e906991d945adbb52a1078374d89ed3c0b118520f08a75686bf5",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/balesun_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "60f1fad873c1ba0769ff07ebfa34bc825ef2926db3515e089220cec21478afad",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/balesun_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "3cb55116bd0de19af9be4efcd1213c101a6b4fddd00ab2dabce47fac421f17c1",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/balesun_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "8009f98a01179da52ea70c0f099a59be500e85ee194ac88d6f9e7b2e32e80951",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/balesun_up.tga": {
+   "bytes": 3145772,
+   "sha256": "650e133924e7741056ca4e6131bb7127c75aa7b533c7a169975a939cbd0a0456",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/black_bk.tga": {
+   "bytes": 12332,
+   "sha256": "3f7683c6fee6a8c1687db7b73a7c6e53fb864d4e5ceb410fbf748a219ff2395d",
+   "timestamp": "2012-10-07T00:53:02.000Z"
+  },
+  "dwellv2p2/gfx/env/black_dn.tga": {
+   "bytes": 12332,
+   "sha256": "3f7683c6fee6a8c1687db7b73a7c6e53fb864d4e5ceb410fbf748a219ff2395d",
+   "timestamp": "2012-10-07T00:53:02.000Z"
+  },
+  "dwellv2p2/gfx/env/black_ft.tga": {
+   "bytes": 12332,
+   "sha256": "3f7683c6fee6a8c1687db7b73a7c6e53fb864d4e5ceb410fbf748a219ff2395d",
+   "timestamp": "2012-10-07T00:53:02.000Z"
+  },
+  "dwellv2p2/gfx/env/black_lf.tga": {
+   "bytes": 12332,
+   "sha256": "3f7683c6fee6a8c1687db7b73a7c6e53fb864d4e5ceb410fbf748a219ff2395d",
+   "timestamp": "2012-10-07T00:53:02.000Z"
+  },
+  "dwellv2p2/gfx/env/black_rt.tga": {
+   "bytes": 12332,
+   "sha256": "3f7683c6fee6a8c1687db7b73a7c6e53fb864d4e5ceb410fbf748a219ff2395d",
+   "timestamp": "2012-10-07T00:53:02.000Z"
+  },
+  "dwellv2p2/gfx/env/black_up.tga": {
+   "bytes": 12332,
+   "sha256": "3f7683c6fee6a8c1687db7b73a7c6e53fb864d4e5ceb410fbf748a219ff2395d",
+   "timestamp": "2012-10-07T00:53:02.000Z"
+  },
+  "dwellv2p2/gfx/env/emeraldfog_bk.tga": {
+   "bytes": 786450,
+   "sha256": "b7ba70927c05de01b348b626ff23196402343e754adc9383a9a20f4b0e6457b6",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/emeraldfog_dn.tga": {
+   "bytes": 786450,
+   "sha256": "88e920f65d945e19848f382e394842b74afb71cfc4d4f0e8460d8e3423126f24",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/emeraldfog_ft.tga": {
+   "bytes": 786450,
+   "sha256": "5473d693c6aca772a937003564bc889c8c5fb4ca0883bf36ceee38672857c461",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/emeraldfog_lf.tga": {
+   "bytes": 786450,
+   "sha256": "c75b4ba0402ba8d5e483476f41a81c5d55cd92174a4af165fb6fbe7d449d0e1a",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/emeraldfog_rt.tga": {
+   "bytes": 786450,
+   "sha256": "294c74bc020fad591a3e441cf1949eb1b1c1390b22f4e19e2b73e14dcd4ef818",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/emeraldfog_up.tga": {
+   "bytes": 786450,
+   "sha256": "d99438cd155333beba91e0b0c739fed16fbd4c89e3d4334a1b171c9ee04b1961",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/med-tramonto_bk.tga": {
+   "bytes": 640140,
+   "sha256": "e7478aa0deab77b93ea6642e525932ede3088ca875442ccd25d44cbe87d1893a",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/med-tramonto_dn.tga": {
+   "bytes": 783088,
+   "sha256": "88e33878ee6100e1e4bac752c099a79f4bc0227c62303d91fe050741e0e05410",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/med-tramonto_ft.tga": {
+   "bytes": 710845,
+   "sha256": "55b3c37de07bb6ba1f854678ca7d3bc9852cdc0f7b3230cc1efbcaa2bf3b30ab",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/med-tramonto_lf.tga": {
+   "bytes": 701996,
+   "sha256": "315d06acd66c60cc06a8033be07328e5e0d13e3b00c7ed4e90f3b82879a98054",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/med-tramonto_rt.tga": {
+   "bytes": 721740,
+   "sha256": "b742ef4e4d35085e04bb94e051e4ebca69961d48885f0e9afd2650b69013db58",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/med-tramonto_up.tga": {
+   "bytes": 649528,
+   "sha256": "4e33284abc24c9418e9144a41d33c8360c9d6a0d4788b957682b9d1280b950ed",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonhigh_bk.tga": {
+   "bytes": 1048620,
+   "sha256": "5f361bf5a352c1df5a6caef9cf42bd35fed8406c6949af480b0425c193c18b3a",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonhigh_dn.tga": {
+   "bytes": 1048620,
+   "sha256": "02e2b36863c1181a85aa675c53fc14a301f38dc6e0c6735098bb6d8723af02b3",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonhigh_ft.tga": {
+   "bytes": 1048620,
+   "sha256": "3158735bdd6f4f467a5b29639aa4f622d1136ea463967684b739b0002bec6526",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonhigh_lf.tga": {
+   "bytes": 1048620,
+   "sha256": "5cdaabd99655152689e40832643690d7b1c5f8e414f3126a7c0c9224f2250704",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonhigh_rt.tga": {
+   "bytes": 1048620,
+   "sha256": "e08a374ac19c8b8cffa6c939515cde9570b44bbc044c12d06b0c5d94aa7469bc",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonhigh_up.tga": {
+   "bytes": 1048620,
+   "sha256": "c0465fd6a0b069e5ff78f3e561084bf3e23b796cac9b5214a6cd4045310d36fe",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonrise_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "3b4e85116e3999d5cded25ca0a5d6fb9c297b3d69749a63daf5af6c37fe21959",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/gfx/env/moonrise_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "a7be41496d25bc9e505b959b08a950c1bb61acc6c8c44ec4e1dd428faeac4ccd",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonrise_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "7381c46aa4f5c916f3bc8f82a442a4582834563c0bb0127580053bb274609180",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonrise_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "871df5eed200970b8c3246ca10a039f5915c95e8f48bf0692fc22f2f7e5450cd",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonrise_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "2cc00bb935ee2f4019f4d99170d38ef3f51c72ff80150cd74911b1038a0cb269",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/moonrise_up.tga": {
+   "bytes": 3145772,
+   "sha256": "0296084074d726170fdc85d2c1176ee64845b6805c174c08aaa63f514fd9cb65",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/env/ozymandias_bk.tga": {
+   "bytes": 786971,
+   "sha256": "05b092662bed6b02fc122ca43be907ac87461e7cd9116661f962b8dfac1328c9",
+   "timestamp": "2020-07-06T11:43:48.000Z"
+  },
+  "dwellv2p2/gfx/env/ozymandias_dn.tga": {
+   "bytes": 786971,
+   "sha256": "2354852349f537cc4eb1567f1e7c71b8b5891bbfa03d4350708296cab505abc2",
+   "timestamp": "2020-07-06T11:43:48.000Z"
+  },
+  "dwellv2p2/gfx/env/ozymandias_ft.tga": {
+   "bytes": 786971,
+   "sha256": "ee011c4f2f619b6a1dd5868608ed79407ead9d6665d219e1020d0c5dd7b070d0",
+   "timestamp": "2020-07-06T11:43:48.000Z"
+  },
+  "dwellv2p2/gfx/env/ozymandias_lf.tga": {
+   "bytes": 786971,
+   "sha256": "05af28566a788dbe40fa0a0470fc27fd45477c29be9c5f4ba114cee88f3622fc",
+   "timestamp": "2020-07-06T11:43:48.000Z"
+  },
+  "dwellv2p2/gfx/env/ozymandias_rt.tga": {
+   "bytes": 786971,
+   "sha256": "923b4df98f15b40aad478b8b8cf340ca2b33e17053dc134d9ff6cd688ddef956",
+   "timestamp": "2020-07-06T11:43:48.000Z"
+  },
+  "dwellv2p2/gfx/env/ozymandias_up.tga": {
+   "bytes": 786971,
+   "sha256": "88a59bff68e1ba4cd29e66ff25c88d3cfbbcf2f5089fb82e9addae1edf2c5566",
+   "timestamp": "2020-07-06T11:43:48.000Z"
+  },
+  "dwellv2p2/gfx/env/sahara_bk.tga": {
+   "bytes": 590189,
+   "sha256": "4c3accb8bde4e74fdb7f08b7a86ee642aa2989c454623530342cff70930e22a5",
+   "timestamp": "2017-11-11T11:47:16.000Z"
+  },
+  "dwellv2p2/gfx/env/sahara_dn.tga": {
+   "bytes": 753253,
+   "sha256": "50d7543db4671b59180a7064439b7fd89b2e044b329b74667c4e8ae461417907",
+   "timestamp": "2017-11-11T11:47:16.000Z"
+  },
+  "dwellv2p2/gfx/env/sahara_ft.tga": {
+   "bytes": 628088,
+   "sha256": "f57f9c07ec890c896bbccb350a1a866127dbfa9c9e7f557eb7aecf74788cc425",
+   "timestamp": "2017-11-11T11:47:16.000Z"
+  },
+  "dwellv2p2/gfx/env/sahara_lf.tga": {
+   "bytes": 630483,
+   "sha256": "f1252dd08cac631843b16f6ad818c9127426978b00e8e29d61d5b8d624b0e362",
+   "timestamp": "2017-11-11T11:47:16.000Z"
+  },
+  "dwellv2p2/gfx/env/sahara_rt.tga": {
+   "bytes": 604375,
+   "sha256": "18be099fa8a5ed63c0c6d3c82a974235f152c75e264b38640cbe32e57d769e04",
+   "timestamp": "2017-11-11T11:47:16.000Z"
+  },
+  "dwellv2p2/gfx/env/sahara_up.tga": {
+   "bytes": 369312,
+   "sha256": "27d39fcd1a7a5c14910957faf20f7569b03d759883561ff18fabae08ec0ea7e4",
+   "timestamp": "2017-11-11T11:47:16.000Z"
+  },
+  "dwellv2p2/gfx/env/voidsmoke_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "d274189cd63786e9d86fbd3cafda0cbfd054ccd527e30aeec921a8d6f10866a7",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/gfx/env/voidsmoke_dn.tga": {
+   "bytes": 3139628,
+   "sha256": "674a16272873d4b26bbf3e085a35d73f8300f20c444f69aa6f2870f43e5da8f8",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/gfx/env/voidsmoke_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "ced1991fffdc46e2bf156e1d89e06e1362e0e394808b74bc7aa40e6d90fde55d",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/gfx/env/voidsmoke_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "4d1b843a9fc61c4125262a9a95fc084cea61eb4b125288f7a7cd0c2f2e53f4ab",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/gfx/env/voidsmoke_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "389ae84f29901e349a266d707f62beab9de3eb607b901bcb4245028b8edaa3b1",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/gfx/env/voidsmoke_up.tga": {
+   "bytes": 3145746,
+   "sha256": "6d9b33f83ccf56f92abdf2b1197ce5fa8a3979f8b40793a73219618b8f46c33d",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/gfx/env/yellowcloud_bk.tga": {
+   "bytes": 3145746,
+   "sha256": "c2cf87b5d3c33d26e692c462275c3a57332ed3aff8a14963187723b40f9a49aa",
+   "timestamp": "2023-01-30T21:21:28.000Z"
+  },
+  "dwellv2p2/gfx/env/yellowcloud_dn.tga": {
+   "bytes": 3145746,
+   "sha256": "be9e825cc92bd36612ea22b510de44f00890776867e9a1ab474f29c83c426e86",
+   "timestamp": "2023-01-30T21:21:30.000Z"
+  },
+  "dwellv2p2/gfx/env/yellowcloud_ft.tga": {
+   "bytes": 3145746,
+   "sha256": "92da270ff9b8bae81303747a9037143f2b98b47b0cdd28c29709d3c8453d56a3",
+   "timestamp": "2023-01-30T21:21:30.000Z"
+  },
+  "dwellv2p2/gfx/env/yellowcloud_lf.tga": {
+   "bytes": 3145746,
+   "sha256": "5490269172d7ec9a0ee20e8eced6c8ef77ee72643cc4fad4fcac85f9b2f2eb88",
+   "timestamp": "2023-01-30T21:21:30.000Z"
+  },
+  "dwellv2p2/gfx/env/yellowcloud_rt.tga": {
+   "bytes": 3145746,
+   "sha256": "651142272091bc5d4e0b56663b91d4fff9b3469a20431c04986bd3b88f05c6d9",
+   "timestamp": "2023-01-30T21:21:30.000Z"
+  },
+  "dwellv2p2/gfx/env/yellowcloud_up.tga": {
+   "bytes": 3145746,
+   "sha256": "455dfc2bb8d5d7f888ce5a4b007ec6cb85c70b98adc861b314885cac61bf9f77",
+   "timestamp": "2023-01-30T21:21:30.000Z"
+  },
+  "dwellv2p2/gfx/mainmenu2.lmp": {
+   "bytes": 26888,
+   "sha256": "896f592664a78faba1a307c963f5942be98110dd177e6c95722d4a85106d67ea",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/gfx/menumods2.lmp": {
+   "bytes": 1688,
+   "sha256": "f08579557ace0d3b64aff6cb1bb37ec10ed0e8f050306f1634937c001ea9ccdf",
+   "timestamp": "2023-01-29T23:31:24.000Z"
+  },
+  "dwellv2p2/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-12T13:35:04.000Z"
+  },
+  "dwellv2p2/maps/d1end.bsp": {
+   "bytes": 14408288,
+   "sha256": "30647dcd96dba612b007ca56c7d0c2b168ea0cfe8da188d7eb82d4cf9b0df1c8",
+   "timestamp": "2023-02-06T02:30:38.000Z"
+  },
+  "dwellv2p2/maps/d1end.lit": {
+   "bytes": 5405384,
+   "sha256": "b42517acf231d7d9e0e599947b5ee16a003dd1e963fdaffec6fb9aab6cd8feeb",
+   "timestamp": "2023-02-06T02:30:38.000Z"
+  },
+  "dwellv2p2/maps/d1m1.bsp": {
+   "bytes": 9058276,
+   "sha256": "363a4342b12d096fcf6ef9dfe6a71db0d0ac09b0cf1c6bc2d89c9ea3568315bc",
+   "timestamp": "2023-02-11T14:05:48.000Z"
+  },
+  "dwellv2p2/maps/d1m1.lit": {
+   "bytes": 3877544,
+   "sha256": "603e51283320f04a791ba0e62c8126c1bba0e18210e329ad7ec2a271306a2402",
+   "timestamp": "2023-02-11T14:05:48.000Z"
+  },
+  "dwellv2p2/maps/d1m2.bsp": {
+   "bytes": 9377512,
+   "sha256": "6624541cde909fac12b7afc3590e53432d9d4ad95bcb7da368e0d2ab449c23ad",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/maps/d1m2.lit": {
+   "bytes": 2370581,
+   "sha256": "1dacf5530d0ef6bccc84cfbccf18aa3774dd953e039cdec232520206eaf82047",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/maps/d1m3.bsp": {
+   "bytes": 18605456,
+   "sha256": "d25ae34ae72520dc42b3da18f42a08a384e09386f41a7cd0457cb427ce68c2f6",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/maps/d1m3.lit": {
+   "bytes": 5049692,
+   "sha256": "778853cdc381a41ea422b4b3e3d627c5ac209818f43d58928c9efa580927183b",
+   "timestamp": "2023-01-29T23:31:30.000Z"
+  },
+  "dwellv2p2/maps/d1m4.bsp": {
+   "bytes": 4471056,
+   "sha256": "066925b710083ca6d5b422b20b2ba670fc98d010224c2438eb084fbe244697e1",
+   "timestamp": "2023-02-05T19:52:26.000Z"
+  },
+  "dwellv2p2/maps/d1m4.lit": {
+   "bytes": 2615504,
+   "sha256": "9fe034d5bc2dbb6d3dadebcdf779c4c7b40def1729a316634113389b7ffb49ce",
+   "timestamp": "2023-02-05T19:52:26.000Z"
+  },
+  "dwellv2p2/maps/d1m5.bsp": {
+   "bytes": 3500076,
+   "sha256": "8757cebd72baba34f2d9826f1696dc14aa6380a0588f52bd257138015fddb8ee",
+   "timestamp": "2023-01-29T23:31:30.000Z"
+  },
+  "dwellv2p2/maps/d1m5.lit": {
+   "bytes": 1590644,
+   "sha256": "63073bb229ffe8521749245c1668c820c36046b26235670aca9c7b78d3ee299f",
+   "timestamp": "2023-01-29T23:31:28.000Z"
+  },
+  "dwellv2p2/maps/d1m6.bsp": {
+   "bytes": 8051244,
+   "sha256": "24794eb4bc019b1785c10fe8a3dfae384325a9e3dd3b1f11cf7795bc1591e4b3",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/maps/d1m6.lit": {
+   "bytes": 2846300,
+   "sha256": "008e593d5fc622479f4383ab9c80dc0e830a72e59b7870699a0e3c40fe98846b",
+   "timestamp": "2023-01-29T23:31:30.000Z"
+  },
+  "dwellv2p2/maps/d1m7.bsp": {
+   "bytes": 11932880,
+   "sha256": "643146098040f23edfa1b4cab5a7d5feb584b6b19f5e80609de1ffbaef0e6bef",
+   "timestamp": "2023-02-07T11:43:02.000Z"
+  },
+  "dwellv2p2/maps/d1m7.lit": {
+   "bytes": 4484648,
+   "sha256": "2e6b21265200bdc61031b34777ba7772532e35f9825d616f37942c3e8ef88d2e",
+   "timestamp": "2023-02-07T11:43:02.000Z"
+  },
+  "dwellv2p2/maps/d1m8.bsp": {
+   "bytes": 9485860,
+   "sha256": "49313798f9b821977936c7425dcf64de71779bd07feb833a1e7f1e839ccd793e",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/maps/d1m8.lit": {
+   "bytes": 4190654,
+   "sha256": "a8f7471e2ad002b907fe369d1b0c8ca37f10c59aaa5d78d7e537b937d75a3a52",
+   "timestamp": "2023-01-29T23:31:30.000Z"
+  },
+  "dwellv2p2/maps/d1m9.bsp": {
+   "bytes": 31540344,
+   "sha256": "0f003321dca41a06fcc2be28de1db3cf98a96bbc6a58b57976fe894867b85e1c",
+   "timestamp": "2023-02-01T02:56:00.000Z"
+  },
+  "dwellv2p2/maps/d1m9.lit": {
+   "bytes": 6462428,
+   "sha256": "0a523edba2df61a90f7f32826ba9a8ee65fd77d234d7eb6a4a3c3d8a52e3de3a",
+   "timestamp": "2023-02-01T02:56:00.000Z"
+  },
+  "dwellv2p2/maps/d2end.bsp": {
+   "bytes": 14910420,
+   "sha256": "631da64f177190c6a7f6cbc8bcbf6dd60fd28ae40398284f538262fe6a7a8cdd",
+   "timestamp": "2023-02-11T14:05:48.000Z"
+  },
+  "dwellv2p2/maps/d2end.lit": {
+   "bytes": 5463212,
+   "sha256": "07fe092440d43f94f72b3c3616b666bef805648210fdd86654336d7bd0a72935",
+   "timestamp": "2023-02-09T11:30:06.000Z"
+  },
+  "dwellv2p2/maps/d2m1.bsp": {
+   "bytes": 13426800,
+   "sha256": "0483239819064ac83516094879d3a22b40b5b9d1fdc5588e2f0d4d7cc9e80441",
+   "timestamp": "2023-02-09T11:38:42.000Z"
+  },
+  "dwellv2p2/maps/d2m1.lit": {
+   "bytes": 4855640,
+   "sha256": "193868340885738fb72b3ed8b3b0661e0a53b67b2669d84f946630b1a64213cd",
+   "timestamp": "2023-02-09T11:38:42.000Z"
+  },
+  "dwellv2p2/maps/d2m2.bsp": {
+   "bytes": 7992164,
+   "sha256": "afa4ae52a60d09ea6c2860c6654bbc7da1dcd4154a29266c5d4a08a95d80eb5e",
+   "timestamp": "2023-02-11T15:14:06.000Z"
+  },
+  "dwellv2p2/maps/d2m2.lit": {
+   "bytes": 2482304,
+   "sha256": "d1b6c92d05635fda9e5b0d9c6a37739c844ef52fd25cc3401e43f943b680ca4e",
+   "timestamp": "2023-02-11T15:14:06.000Z"
+  },
+  "dwellv2p2/maps/d2m3.bsp": {
+   "bytes": 16159156,
+   "sha256": "1e02ecb7fa03b8fd6e969e59fae82c157d970f9c01e0c34bbf3761d6024f3a3f",
+   "timestamp": "2023-02-12T13:27:44.000Z"
+  },
+  "dwellv2p2/maps/d2m3.lit": {
+   "bytes": 4904060,
+   "sha256": "60e18f192b38da9640aa04fef560baac7cebd94733464e32861a8807a30cefd5",
+   "timestamp": "2023-02-12T13:27:44.000Z"
+  },
+  "dwellv2p2/maps/d2m4.bsp": {
+   "bytes": 25352300,
+   "sha256": "c9e31fbe9bec34e71324f011e94445ab52c6e5661ae77103c55bebe616ca1d28",
+   "timestamp": "2023-02-09T00:13:20.000Z"
+  },
+  "dwellv2p2/maps/d2m4.lit": {
+   "bytes": 10913036,
+   "sha256": "e535efd9338a84252a3e8862f0e07c137c172ec82b6c7f6ac03a45f2438c90e0",
+   "timestamp": "2023-02-09T00:13:34.000Z"
+  },
+  "dwellv2p2/maps/d2m5.bsp": {
+   "bytes": 11195036,
+   "sha256": "1e074edfa9ab07c9da6abbea83e28777ccffd160edd855024f17e36ad839b609",
+   "timestamp": "2023-02-11T00:02:06.000Z"
+  },
+  "dwellv2p2/maps/d2m5.lit": {
+   "bytes": 2453228,
+   "sha256": "282e23a080b79fb62ddf67b20f7359cec70417adc8b051c58ff5ff34f5bcf42f",
+   "timestamp": "2023-02-11T00:02:04.000Z"
+  },
+  "dwellv2p2/maps/d2m6.bsp": {
+   "bytes": 27013376,
+   "sha256": "095deb7c4a1425fe580c8fa8a243da1bd1cc6df0827f318a1f3034bd5f7f7f9f",
+   "timestamp": "2023-02-12T11:41:24.000Z"
+  },
+  "dwellv2p2/maps/d2m6.lit": {
+   "bytes": 12081968,
+   "sha256": "94c3404a4eaf63bbacf2ff50a024bf9d505bc2e328edb5c6693406468e9d2211",
+   "timestamp": "2023-02-12T11:41:24.000Z"
+  },
+  "dwellv2p2/maps/d2m7.bsp": {
+   "bytes": 15686792,
+   "sha256": "d911cf2cba77e0b718752274d2f947262c5b82965ff0dd2b24c0e7c379efbe14",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/maps/d2m7.lit": {
+   "bytes": 4822280,
+   "sha256": "4bc10a691393ac83b6cf7883f4ebcff938efd7d69fb149b0d200d11243f4e5b6",
+   "timestamp": "2023-01-29T23:31:28.000Z"
+  },
+  "dwellv2p2/maps/d2m8.bsp": {
+   "bytes": 22830152,
+   "sha256": "79db803226ebf29736215b8a3d51be50bc2387248de8155c183652dc9e8407ea",
+   "timestamp": "2023-01-30T22:59:40.000Z"
+  },
+  "dwellv2p2/maps/d2m8.lit": {
+   "bytes": 9567896,
+   "sha256": "ca254f32893013d7620ee875513eae22dce7e944275579ac56a9fdd4fe7d70ed",
+   "timestamp": "2023-01-30T22:59:40.000Z"
+  },
+  "dwellv2p2/maps/d2m9.bsp": {
+   "bytes": 9471688,
+   "sha256": "eca5ab0209b982589a1dbc1a715528220f4c56161c91995f92acaa7caec20bb2",
+   "timestamp": "2023-01-30T15:12:58.000Z"
+  },
+  "dwellv2p2/maps/d2m9.lit": {
+   "bytes": 6915824,
+   "sha256": "12a3350860dbe25540b3526736cb052658b07d261b6023f656b8478925e9d0b3",
+   "timestamp": "2023-01-30T15:12:58.000Z"
+  },
+  "dwellv2p2/maps/dwelldm2.bsp": {
+   "bytes": 1846500,
+   "sha256": "f827881e3516b5a79fa6c1a891e3f9c8e3502331de860f33de196e456e499e37",
+   "timestamp": "2023-01-29T23:31:30.000Z"
+  },
+  "dwellv2p2/maps/dwelldm2.lit": {
+   "bytes": 466784,
+   "sha256": "81934d55a2c87c7a884f945531652b230b0893ce397812e5b0c29768ce10ae76",
+   "timestamp": "2023-01-29T23:31:28.000Z"
+  },
+  "dwellv2p2/maps/dwelldm3.bsp": {
+   "bytes": 2180212,
+   "sha256": "95febe3b17fcebcf8a0b83ddc516f6585e79d595efadaaba2f63c837166a4021",
+   "timestamp": "2023-01-29T23:31:30.000Z"
+  },
+  "dwellv2p2/maps/dwelldm3.lit": {
+   "bytes": 1084559,
+   "sha256": "8f942a5730ea4a987c9da273563c799e442f87d5f7f92028c2093a9ebf63a836",
+   "timestamp": "2023-01-29T23:31:28.000Z"
+  },
+  "dwellv2p2/maps/dwelldm7.bsp": {
+   "bytes": 2113916,
+   "sha256": "7539596c9eb5ae6d5168d6f7d974a7b320c6f166013b5263aa39fd8ccc1f250c",
+   "timestamp": "2023-01-29T23:31:30.000Z"
+  },
+  "dwellv2p2/maps/dwelldm7.lit": {
+   "bytes": 727643,
+   "sha256": "cabf99856f636360ec33730ecc2411d7c8ddcb889133f2a424682d8eab11a7df",
+   "timestamp": "2023-01-29T23:31:30.000Z"
+  },
+  "dwellv2p2/maps/start.bsp": {
+   "bytes": 20366716,
+   "sha256": "2783220e2fae18c838a27e6d913230f27748f7d5db475a71d201bb87cdb20f20",
+   "timestamp": "2023-02-07T23:51:10.000Z"
+  },
+  "dwellv2p2/maps/start.lit": {
+   "bytes": 4737404,
+   "sha256": "7996584e3a14369c916a521f055d0e3076caeaea0dbcc4a2fdaa6bca0266e3d3",
+   "timestamp": "2023-02-07T23:51:10.000Z"
+  },
+  "dwellv2p2/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/music/Track107.ogg": {
+   "bytes": 6032426,
+   "sha256": "8efd5a9a337e982d3312558c33bbbf807210dc429ead9e58d91665a35e0bb294",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track02.ogg": {
+   "bytes": 1526063,
+   "sha256": "1917102407713b7d67407068015f171892ca0cca97eada67f0b76b25d3ff3f8a",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track03.mp3": {
+   "bytes": 2689193,
+   "sha256": "6b4c3ad8f4a17d2c0b1e4d8890ad4dd1c1678258217d5e2e92111c4360b1eb08",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track04.ogg": {
+   "bytes": 1978093,
+   "sha256": "d1dc9926069a4815ec3282f79cf4d21e16a5507071289744d8536e4109e2bb4c",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track05.ogg": {
+   "bytes": 2251831,
+   "sha256": "bcfd7dd98515e341ab018ffa47980a24648b8dba77b237c7d383d1d1cb11e665",
+   "timestamp": "2023-01-30T01:25:16.000Z"
+  },
+  "dwellv2p2/music/track100.ogg": {
+   "bytes": 2849809,
+   "sha256": "972a96ca8757f1c99d3efd5fb3de46e1c84d62ce3f4d3e638fb9730b086b1db1",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track101.ogg": {
+   "bytes": 7082109,
+   "sha256": "169db586b250c3f60b548ab34f3f326ac6cf1f5f9eca6491fa456e7b8c2781bf",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track102.ogg": {
+   "bytes": 5237550,
+   "sha256": "7b2f81615e3e802a851ce901787d49041a43587f44623bb5bd3343a4f03a394b",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track103.ogg": {
+   "bytes": 6034663,
+   "sha256": "a170d1451829a369ade6447134aefdaadaf049c9e29abc0dbc2a69e4269a1ca2",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track104.ogg": {
+   "bytes": 5499462,
+   "sha256": "8f20abe4d6c7d12b2cc2fe589944bb9b4e6ab8851b9acae3256d9488767bbddd",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track105.ogg": {
+   "bytes": 5709507,
+   "sha256": "b8e26936984cd55cb06836dae66de694d0791cb26743ef4c25b42c67bf03e846",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track108.ogg": {
+   "bytes": 6096303,
+   "sha256": "da1a9fdaf12dac2f278b30eea0fe91018cea2cef3b7d1976e02e39cfa22d7253",
+   "timestamp": "2023-01-29T23:31:28.000Z"
+  },
+  "dwellv2p2/music/track109.ogg": {
+   "bytes": 5168802,
+   "sha256": "30ebc7c0c5d66ea8ed16778d150feabd477375e1fcd925e11a35b4eded179453",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track110.mp3": {
+   "bytes": 2689193,
+   "sha256": "6b4c3ad8f4a17d2c0b1e4d8890ad4dd1c1678258217d5e2e92111c4360b1eb08",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track111.mp3": {
+   "bytes": 6703691,
+   "sha256": "288126ec502122d9d350ace281eac4f43c984784fd0feba18b70af31b660f1c3",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track112.mp3": {
+   "bytes": 5377088,
+   "sha256": "cbfd2da4f6ade5251645e6648422f7c6024600ef92d747de323332f47771d6b3",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track113.mp3": {
+   "bytes": 8170309,
+   "sha256": "ffac2b66119806417f5cfdb9f3fba260e56cd8f672feb945c9be248c20b2c48b",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track115.mp3": {
+   "bytes": 5541764,
+   "sha256": "d59e85bfe4136d3815808d4e25b19fab16fe0a21cff76bb7925ae152a0df8df6",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track192.ogg": {
+   "bytes": 2254915,
+   "sha256": "cf5fb2870690f4751c7fc353b230eebd0bc65c55410ce64ad17cec82f3a2a041",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track201.ogg": {
+   "bytes": 15217855,
+   "sha256": "e3414d095ae7e4a9008d06df40bf5d4d1728cbae4cde2d16114271dfc02f42a8",
+   "timestamp": "2023-01-30T01:31:30.000Z"
+  },
+  "dwellv2p2/music/track207.mp3": {
+   "bytes": 7681297,
+   "sha256": "75c674fd72ffec5214bc5d78ed7472ee35dcb1c13b653935cf4858cc6076eade",
+   "timestamp": "2023-01-30T15:03:24.000Z"
+  },
+  "dwellv2p2/music/track208.mp3": {
+   "bytes": 8266230,
+   "sha256": "cbae28f27092041d0f8d0f82e232a429140826494a319815831b5879998191a0",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track222.mp3": {
+   "bytes": 7729572,
+   "sha256": "a77bc7339048f1e4d4ffc486972fd02dbc496e88d0d5b52f017d039ec7615a1c",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track225.mp3": {
+   "bytes": 8257453,
+   "sha256": "f0d6201712065a530b528a47b448fc394b1ce7571d1edebd12b60b7177ea5790",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track229.mp3": {
+   "bytes": 8015455,
+   "sha256": "c768e0987d2f99fb06e9677d91cfeb425520bcabe55fc3feca932a37f08e3e5c",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track249.mp3": {
+   "bytes": 7417356,
+   "sha256": "76c3413339be5ad357ccca99cddb5d8d66651d6c79efea5990c539a181bf1305",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track254.mp3": {
+   "bytes": 4609297,
+   "sha256": "54b0b9bb87f0025df3ae8fabfb4b7053bc5476430df23e478d67ba6f6d7fc16e",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track255.mp3": {
+   "bytes": 7297610,
+   "sha256": "5b211c3eecf78b91b4665bc82922813658adb67bb0842412c6e71c49f8f99d57",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track66.mp3": {
+   "bytes": 8170309,
+   "sha256": "ffac2b66119806417f5cfdb9f3fba260e56cd8f672feb945c9be248c20b2c48b",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/music/track69.mp3": {
+   "bytes": 7297610,
+   "sha256": "5b211c3eecf78b91b4665bc82922813658adb67bb0842412c6e71c49f8f99d57",
+   "timestamp": "2023-01-29T23:31:26.000Z"
+  },
+  "dwellv2p2/pak0.pak": {
+   "bytes": 4329592,
+   "files": {
+    "gfx.wad": {
+     "bytes": 121132,
+     "sha256": "482ed0a636d66e8f3acc54feadd5b297b7f70e29365474429866024bd94328e0"
+    },
+    "gfx/complete.lmp": {
+     "bytes": 4712,
+     "sha256": "4d751e2308e5d7a78a3d011c66677ae66f5df06b19a52c2fe4412b783da97035"
+    },
+    "gfx/finale.lmp": {
+     "bytes": 6920,
+     "sha256": "8e1160429fbb7be0aa5c5e5be84156ce9b74e3fcbc5a8c23ff54a51ab0f68224"
+    },
+    "gfx/help0.lmp": {
+     "bytes": 64008,
+     "sha256": "898d694265db0f933feecfd2a843557a6954a5f2aea05ecf9a852314119dab61"
+    },
+    "gfx/help1.lmp": {
+     "bytes": 64008,
+     "sha256": "6687bc516bc880e47e8f1e8d049848b2e7dd66575b82a94408ef342e5ef4612a"
+    },
+    "gfx/help2.lmp": {
+     "bytes": 64008,
+     "sha256": "eb873e85eef5f19707a84a520f0c57b52959ba0e4ec0cd8d5dd7d1d25bab222c"
+    },
+    "gfx/help3.lmp": {
+     "bytes": 64008,
+     "sha256": "a08a25e6162f73b30f9cd5f196d97666d98844db588c11c32fa5664d4b4118a9"
+    },
+    "gfx/help4.lmp": {
+     "bytes": 64008,
+     "sha256": "8425b25acaefd68eac70243cc0994ad02ec4cc78433bdc5f0d205432aa7718a5"
+    },
+    "gfx/help5.lmp": {
+     "bytes": 64008,
+     "sha256": "03e0973ee5d434c037699f9568228ab80be0df882ca77c88a9835b2d2edf0649"
+    },
+    "gfx/loading.lmp": {
+     "bytes": 3464,
+     "sha256": "4d2891882cdba6782c02fda1e0d49a1c802a0734e35ca88a622dcbe4c334991e"
+    },
+    "gfx/mainmenu.lmp": {
+     "bytes": 26888,
+     "sha256": "e41486d3a09da5fd4aed2d208d75e24fbf41d97d9342da9ed666d26a72483224"
+    },
+    "gfx/menumods.lmp": {
+     "bytes": 1688,
+     "sha256": "f08579557ace0d3b64aff6cb1bb37ec10ed0e8f050306f1634937c001ea9ccdf"
+    },
+    "gfx/p_load.lmp": {
+     "bytes": 4424,
+     "sha256": "ee84f65a4e9ad4eb166c1790da9fd586fa1237f5400adc08b7656fe568304404"
+    },
+    "gfx/p_multi.lmp": {
+     "bytes": 5096,
+     "sha256": "89477de79105b07d6a1dadc9dd422cbbecbdd220454bd441cf11f5fe192da1b0"
+    },
+    "gfx/p_option.lmp": {
+     "bytes": 3560,
+     "sha256": "65fd24aed5bf14ab961166cae2d00884583d624b926a46fdef83df3131fcf856"
+    },
+    "gfx/p_save.lmp": {
+     "bytes": 4136,
+     "sha256": "ba9faaa1c655cdabbb784cbb3381ffe28f30c601d3020de2e5cf6cfa9c49be6f"
+    },
+    "gfx/pause.lmp": {
+     "bytes": 3176,
+     "sha256": "0aa8e7c90081b1ba9809ec2cd30e7d90c99935fba6695ecc6016930c812e1cb5"
+    },
+    "gfx/qplaque.lmp": {
+     "bytes": 4616,
+     "sha256": "59bf5a3808277804b94785434ef43eadf20ab9283109fb43bb2c873223029da5"
+    },
+    "gfx/ranking.lmp": {
+     "bytes": 3944,
+     "sha256": "e5c4ae88295fc0fa9f383889a1982d23c3c466475a8d67bf422d20a470d25fe5"
+    },
+    "gfx/ttl_cstm.lmp": {
+     "bytes": 4328,
+     "sha256": "b2b6ca588b19f79bc58b41c2acf5c66e23e5c8d6fa347a2f272ad1962bed0ca9"
+    },
+    "gfx/ttl_main.lmp": {
+     "bytes": 4136,
+     "sha256": "a2810c03c5f1f80dfdcf2d575d479d699f8f756d9a2b5ec63694026b3ac85cc7"
+    },
+    "gfx/ttl_sgl.lmp": {
+     "bytes": 2984,
+     "sha256": "8362ba05650ecb9ae971f76d7d40815b563c0d67baad80f05d29c282a58989de"
+    },
+    "gfx/vidmodes.lmp": {
+     "bytes": 5096,
+     "sha256": "f62b7e48be71999d6ae8dc675529a30161524f3288c80e96a6c98b2536acee46"
+    },
+    "maps/b_batt0.bsp": {
+     "bytes": 6074,
+     "sha256": "ed9f5c7ea499924e02196aa9b68725d0de17c10dc2194956525397d95c6b0d19"
+    },
+    "maps/b_batt1.bsp": {
+     "bytes": 6074,
+     "sha256": "80a4dc9ca61773cf48e71a9971e0f6fdf006a35fef652d3506dbc4e90fd3e370"
+    },
+    "maps/b_bh10.bsp": {
+     "bytes": 6096,
+     "sha256": "e1e0409af59b435c1483b73c5b5e20018ac66c5ea49902b4643c6a98def8c95a"
+    },
+    "maps/b_bh100.bsp": {
+     "bytes": 14948,
+     "sha256": "b35da01b7f3c123321e643d80988f0dc907e2659a594a990f09a77eeda14ce9e"
+    },
+    "maps/b_bh25.bsp": {
+     "bytes": 10316,
+     "sha256": "cc59af1abfe2938e90f72ae6689c22f7bec2e4328e7e383be3c676a0a4d4746c"
+    },
+    "maps/b_nail0.bsp": {
+     "bytes": 6074,
+     "sha256": "4c78fc9bfa06b04f4498c23676f4aba6d566e7f020d68045a8cc050e3bbb6b4c"
+    },
+    "maps/b_nail1.bsp": {
+     "bytes": 6114,
+     "sha256": "2a33d438a9e6203b5405fa7b8369b7dfd6578f373390a29f508e6ffe1b9c6480"
+    },
+    "maps/b_rock0.bsp": {
+     "bytes": 8794,
+     "sha256": "6a53f0e3ddb5e0a2da0b3f2362fef221526048263b14666276bb7e15f528d88b"
+    },
+    "maps/b_rock1.bsp": {
+     "bytes": 8794,
+     "sha256": "317f412b80232110cab77c3618287ccc5639c38d67fa1932849560fbe1a0832a"
+    },
+    "maps/b_shell0.bsp": {
+     "bytes": 6074,
+     "sha256": "9d146681e71d20bde0e988fec2852fac0cc9ad008eb9269f1be5082bea82d2a2"
+    },
+    "maps/b_shell1.bsp": {
+     "bytes": 6074,
+     "sha256": "8a73f7a255b397defb49ef3f75ae8878674099320d23b15611c07fb55712f354"
+    },
+    "progs/backpack.mdl": {
+     "bytes": 72688,
+     "sha256": "b4695368a9d346714630a3b2d51d2fbe2ac1725d80786b94054e896acd6e712d"
+    },
+    "progs/bolt.mdl": {
+     "bytes": 11860,
+     "sha256": "53f30fa59ab0b943d850851a05ed3bf7c8209ac74136ec1016a1ffd0c9305e47"
+    },
+    "progs/candle1.mdl": {
+     "bytes": 38652,
+     "sha256": "031b4a2e2dc636190b3c21baf3e273fd61363ba9d1722189ecb34b01ae8f4f5a"
+    },
+    "progs/candle2.mdl": {
+     "bytes": 34764,
+     "sha256": "e888cd4c3bc3dc2d73262715df5a1ae95f5802dca17ecb92cee8954cf47685b9"
+    },
+    "progs/candle3.mdl": {
+     "bytes": 30876,
+     "sha256": "629a661b9ccce457fa31ed2c6a2c085386324846f8b36fa16196bc108405a236"
+    },
+    "progs/fish.mdl": {
+     "bytes": 81900,
+     "sha256": "f07ff4b29e37e23633243a4eaab71746f9ce0032253902c3df5bb01e122fe2b6"
+    },
+    "progs/g_shotgn.mdl": {
+     "bytes": 24580,
+     "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1"
+    },
+    "progs/h_knight.mdl": {
+     "bytes": 22624,
+     "sha256": "bd30397e619d63f4affb8a2705db1585fa71b9fe78cbdab5d10864fad8e8067a"
+    },
+    "progs/invis.mdl": {
+     "bytes": 8356,
+     "sha256": "82ee9c6c78aceee238cb14116781fc7e8cc1a43c5c66f526d46551e1360aed10"
+    },
+    "progs/invul.mdl": {
+     "bytes": 24052,
+     "sha256": "74f2afc22dc19b76bb2f880f53e589074e17cdc57bfbc71fba83745e50906cb3"
+    },
+    "progs/knight.mdl": {
+     "bytes": 248832,
+     "sha256": "44cbab80ebc90ca4002e557eba242c8a79b4a602b87495755080b34610c40c8c"
+    },
+    "progs/lavaball.mdl": {
+     "bytes": 17312,
+     "sha256": "e210fd2f442b52446e3ed97dca82b74e99fb82b5e8e27021f227a9823af3ac8b"
+    },
+    "progs/m_cells1.mdl": {
+     "bytes": 3252,
+     "sha256": "78360ff39323844dbe5466352285c25caa3d8280330bd7b4896cf5d9c3acd1f0"
+    },
+    "progs/m_cells2.mdl": {
+     "bytes": 4532,
+     "sha256": "2f4df619cf3c3e55551d62caf70afd2130799cb8961a5523e4cda62de9ec0a0f"
+    },
+    "progs/m_h100.mdl": {
+     "bytes": 17992,
+     "sha256": "b4c84d42ad06a5e86b197aeeac636443724012fa2fe2db273ee5f7dadf05e2f4"
+    },
+    "progs/m_h15.mdl": {
+     "bytes": 3252,
+     "sha256": "9bc4debe9c585ced842bf0486c912f45dbca3175b74980f7039c6413d2756b8d"
+    },
+    "progs/m_h25.mdl": {
+     "bytes": 14792,
+     "sha256": "013237ff349a81f05dd84da92ef2f3cc5b7535e50bf004d8bf55f0254c461b03"
+    },
+    "progs/m_key.mdl": {
+     "bytes": 35440,
+     "sha256": "be3a6e1ab5a4adee01633d39cf52f31faef004dccf52a703d48aec0a2d30a10f"
+    },
+    "progs/m_nails1.mdl": {
+     "bytes": 3252,
+     "sha256": "ae9a34463a8ec078b834751903807b7756b08fab9b57d7a7267b2c6686090508"
+    },
+    "progs/m_nails2.mdl": {
+     "bytes": 4532,
+     "sha256": "818e721ccad82186459530b0390c29e9a78084b578997586dc3c93cc788a8f68"
+    },
+    "progs/m_rock1.mdl": {
+     "bytes": 3252,
+     "sha256": "23d073419f924f063073342414d62b7047d7ecccb86e2e1406e924d514b9394c"
+    },
+    "progs/m_rock2.mdl": {
+     "bytes": 4532,
+     "sha256": "7b4c5c14815e505ac8add0eb013aa98afd5de896fb3119883a411203910f2c7c"
+    },
+    "progs/m_shell1.mdl": {
+     "bytes": 3252,
+     "sha256": "a69c6351bdfbdc30aff19de93e9a006dd358671902bcc86053927d30fb284949"
+    },
+    "progs/m_shell2.mdl": {
+     "bytes": 4532,
+     "sha256": "ada62e18c957c319cd377dcb1c9586235b790ff8af2d22c580ea9b5c419f2868"
+    },
+    "progs/quaddama.mdl": {
+     "bytes": 9364,
+     "sha256": "f3b7e52f31bbf51ceca2c594af5392b90a5b414171309a0cc11599a93dc5b7a2"
+    },
+    "progs/r_key.mdl": {
+     "bytes": 133200,
+     "sha256": "773ffd83e71838e3425031c22cca6b30a4d24d7e4d6560269b2071d3f58ad870"
+    },
+    "progs/s_explo2.spr": {
+     "bytes": 13980,
+     "sha256": "428ae8400e17b253335d683a685e20d0e61bf0785c79ada81471532166726c46"
+    },
+    "progs/spike.mdl": {
+     "bytes": 4572,
+     "sha256": "993afdf2aaa055ee7c49cc9066a6a8d09d5d309c2694ac46911386f159b63316"
+    },
+    "progs/v_axe2.mdl": {
+     "bytes": 70932,
+     "sha256": "feef26c08c17e6e9bce22bbe8187d345b2956b81f6a7754e389c0fa53d5b4bb6"
+    },
+    "sound/ambience/deep.wav": {
+     "bytes": 401112,
+     "sha256": "3b1c3809233d1bae1196d84db821f401c4e2432ae752a8a4bef2bd4f17e644ce"
+    },
+    "sound/ambience/lava1.wav": {
+     "bytes": 837582,
+     "sha256": "dbaa7dfb1b05df1eef0961b629d8f886899b8499bf595ea001953b10606c66cd"
+    },
+    "sound/ambience/machlp2.wav": {
+     "bytes": 70696,
+     "sha256": "76d173dc724fa0752a345d4d0e406cbf1a38de5675e295ca2dfc81e96e0c016d"
+    },
+    "sound/ambience/underw1.wav": {
+     "bytes": 208538,
+     "sha256": "f8672e5e772aeac9bbc1030aea58088daf1b10ff0a580346ca4208b58861139e"
+    },
+    "sound/ambience/wdribble.wav": {
+     "bytes": 40960,
+     "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2"
+    },
+    "sound/ambience/wpool.wav": {
+     "bytes": 301220,
+     "sha256": "51a27a6489c5e016a90405e7fe295b495d56c4129010b428ee297cd4f34fdd89"
+    },
+    "sound/blob/idle.wav": {
+     "bytes": 64986,
+     "sha256": "1849fdbfd0a68b07c52d6c21b8f97737577d99270a2eba61a9cccba071239f35"
+    },
+    "sound/boss2/sight.wav": {
+     "bytes": 144484,
+     "sha256": "197e2d357ffe1a4c885b67af9335982fc7795e07ad6052d966d328ae5848c37f"
+    },
+    "sound/doors/locked4.wav": {
+     "bytes": 15048,
+     "sha256": "c34d9d74599f077e7578e57f6a3cabc474df533067f90ba74c6ac6d8925b0d5b"
+    },
+    "sound/doors/locked5.wav": {
+     "bytes": 88280,
+     "sha256": "53c39154bd15246b0dba8f901c79d525a84d45dcccc26e59e23450f2c5c0ed20"
+    },
+    "sound/items/pack.wav": {
+     "bytes": 17740,
+     "sha256": "4f1df82518beee326068e407b6713c32c4b40fe4a99ac94b9be0ca46c107810f"
+    },
+    "sound/items/patch.wav": {
+     "bytes": 19934,
+     "sha256": "4ed1112921417e18e4ceb2cb29b8f0702c945c2bc2e37403fefca19b069d8f17"
+    },
+    "sound/misc/null.wav": {
+     "bytes": 2322,
+     "sha256": "7883f17ce0a86489a7abfc3319b434a60b911bfea999287aec290747952e61ec"
+    },
+    "sound/misc/sav.wav": {
+     "bytes": 16616,
+     "sha256": "2a9f86b5f5497822ce5379a05a51ca1816d2471b463ed57635c57dc5702f0eca"
+    },
+    "sound/misc/w_under.wav": {
+     "bytes": 39884,
+     "sha256": "e441a7c33602470db85979142cf0b90166ddeb9f51949a33fbab3998ee1e31e5"
+    },
+    "sound/misc/w_under2.wav": {
+     "bytes": 72616,
+     "sha256": "46d386334de7dc588df6a1f21fc946d8cd39823355b1c59be9eec88183c5b03a"
+    },
+    "sound/player/q3fall.wav": {
+     "bytes": 180380,
+     "sha256": "78ba213bc4972ab6c3f4780690831a6c1da52ca0af444be8ecfc798f45d1f347"
+    },
+    "sound/player/splat1.wav": {
+     "bytes": 36960,
+     "sha256": "49cd19d55a52c31eafe58bf89fde593a6291183ed6e989078b6299c9bb0071ea"
+    },
+    "sound/weapons/axhit1.wav": {
+     "bytes": 15252,
+     "sha256": "2edf0f7c93f380d1dc9e7dd75618894419379ad1da984121f031859cf24ec30d"
+    },
+    "sound/weapons/axhit2.wav": {
+     "bytes": 12450,
+     "sha256": "c54f233c09f429da884256d72e19759eb28bf38818f6a2ca8192c634b04a8b9f"
+    },
+    "sound/weapons/lavabal1.wav": {
+     "bytes": 26504,
+     "sha256": "a78d8242c12c89304b3a95ea17a9a5743de893e20d7f82b1a75bc08aba045abc"
+    },
+    "sound/weapons/lavabal2.wav": {
+     "bytes": 26504,
+     "sha256": "5c9ed5f64d2d830f1345509ec3081d80f88dcb9e675259e6cd75cb06bc4a8984"
+    },
+    "sound/weapons/lavabal3.wav": {
+     "bytes": 26504,
+     "sha256": "f879dbe8f2e3ac5efe02e8f785c7dea5d8625f96b1a0f5f68e30d0e5a6e61bb6"
+    },
+    "sound/weapons/lavabal4.wav": {
+     "bytes": 26504,
+     "sha256": "96c334d39b9faacf611bf069e724564ee31bfaa4e2db007baf3b024aa4f3a675"
+    }
+   },
+   "sha256": "294c8e954889546f1b39bdb3815affbdee6d5a20f97df5bfe7d944cb0047efd0",
+   "timestamp": "2023-02-04T01:14:38.000Z"
+  },
+  "dwellv2p2/progs.dat": {
+   "bytes": 820938,
+   "sha256": "fe7d21d4bdfd1a5e6672d1606efd774cb730d7f5b68941d82175596f22e719fd",
+   "timestamp": "2023-02-09T11:26:20.000Z"
+  },
+  "dwellv2p2/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/progs/dead_tree.mdl": {
+   "bytes": 269220,
+   "sha256": "823fd2a58eca0a6a085871934081b37dfc487b59527c32cc5d1789d4579d6d90",
+   "timestamp": "2020-07-08T16:43:34.000Z"
+  },
+  "dwellv2p2/progs/dwellorb_phase01.mdl": {
+   "bytes": 582152,
+   "sha256": "33234c501aad012fc1b33fba928702be66d59ac3f3eaea39e0f5858837b50624",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/dwellorb_phase02.mdl": {
+   "bytes": 582152,
+   "sha256": "1491562ef8f4b22bd548ce6a42df8ea2eedd2e921b33d593f92f3913ebe2510a",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/dwellorb_phase03.mdl": {
+   "bytes": 582152,
+   "sha256": "b31abbfd3072f2156abf1a6e5ef8ed6c931f49e9153b2d890a04621790fd17a2",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/dwellorb_phase04.mdl": {
+   "bytes": 582152,
+   "sha256": "ee935b37c99f851d39f8f4bdd741bd103b9ed09a02ed4b74e88ab21acef918c4",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/dwellorb_phase05.mdl": {
+   "bytes": 582152,
+   "sha256": "2591be1836c2042cb03bf6250b789cbfd1d439b95a58aa97f2aabd839b50630c",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/dwellorb_phase06.mdl": {
+   "bytes": 582152,
+   "sha256": "178e46f917fa3a17f103b160dd82b63e727d100e6fe3aeae3e214964ad4a35fe",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/e1/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/progs/e1/item_ankh.mdl": {
+   "bytes": 29876,
+   "sha256": "58eb94e4ee7fe80c7c205d897b6badc4f77989fa204275e74f7e3eb1010acb9d",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e1/item_berserk.mdl": {
+   "bytes": 29124,
+   "sha256": "dda889f7f353f319b73f2686742a9cfca20f0da1b29ac38b6ced2c3de41daa1d",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e1/key_scarab.mdl": {
+   "bytes": 42936,
+   "sha256": "430a1f0f2ba76eb5bb16fad9d8a971c8bec7bb775bc66b30b280265ad441d95a",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e1/mon_kami.mdl": {
+   "bytes": 238284,
+   "sha256": "abec313ce0397c1a9726445e65f658e79aae33de5ea39a26b60b52da5f1439c5",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/ammonite_01.mdl": {
+   "bytes": 168308,
+   "sha256": "70f56bb10ad812114911564d2bf64296c201f5a1aa7b067d806a3f9a4575bccb",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/bigleaf1.mdl": {
+   "bytes": 17732,
+   "sha256": "bd33ac1f592bb83aa963253ea19e5d39bfd1ce852450c1886683065f745c2c58",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/bigleaf2.mdl": {
+   "bytes": 17732,
+   "sha256": "b56e170567ed40a6db81f6a63f3e68c5e9b69d18275e5073c51ca6dd010bdbbc",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/bigleaf3.mdl": {
+   "bytes": 17956,
+   "sha256": "735a8e66ee10cbbe3e202910dd09e006529c3234f1efd4dddaaea9ca0360adb2",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/bigleaf4.mdl": {
+   "bytes": 17732,
+   "sha256": "2fb8c495fe0ca95723141fd97bfab5827b717e8e9d69195d30ef8bb2f69e74ad",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/kelp_group1.mdl": {
+   "bytes": 87316,
+   "sha256": "f3f4bae5e840d223b63b3f29a906c7669426a82d725e837a3ec5e94e9d95dbef",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/kelp_large.mdl": {
+   "bytes": 59884,
+   "sha256": "c398d30888d7d913fcd2e1907a3ae86cace82517ff4ba0fa9d0d3c071e735946",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/bal/kelp_small.mdl": {
+   "bytes": 37956,
+   "sha256": "79bfcbb0b1c6cfa2266afdd7c2cce8f234bd5a8073eb74f8f8af8601f7ebab9b",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_chonk1.bsp": {
+   "bytes": 366856,
+   "sha256": "e88927c34c6af36f3f0c4775cae6cd702c2a66d5c4932e4680732ffd3e4be5eb",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_chonk1.lit": {
+   "bytes": 5096,
+   "sha256": "574a378540efdcb7892af041c391cf3e67f544546896a5fcc8710e2d64a2330d",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_chonk1.map": {
+   "bytes": 186836,
+   "sha256": "6498c1b5fc8ecf716c2c1bc77ad87bc2f83d812dee71b8d52106336e47eb6a3c",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_med1.bsp": {
+   "bytes": 364792,
+   "sha256": "6927525760c5edb580cc3dc45ecbdde8f615a98c6323add7cd85c8774434e1b5",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_med1.lit": {
+   "bytes": 4256,
+   "sha256": "7742231fa1ff55bf55eb896d0fa41cc311052066a4b560ec3f69635e83236fbc",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_med1.map": {
+   "bytes": 186836,
+   "sha256": "1ee032037de7c4f2cf1821e402bf0e263bbfc53d9e0f9da67819406d0fcf34f2",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_med2.bsp": {
+   "bytes": 363300,
+   "sha256": "7221082263e582d7f793546df40eac5fdbe57f3e456de261bbcaa531d263a6dd",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_med2.lit": {
+   "bytes": 4064,
+   "sha256": "a47caf4000de9a378de983a3ca766d96d3b8da50c43fcaf1b61774f7428b2266",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_med2.map": {
+   "bytes": 186836,
+   "sha256": "e5ebedd20f61aa17b57f9ff65f53839c6e18c7f94a7b143dece23313426f8652",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_medclust1.bsp": {
+   "bytes": 414404,
+   "sha256": "575429872d730e4702202a28148a152ddc25d9c9707dd5ee03e571de77ff1d7d",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_medclust1.lit": {
+   "bytes": 10016,
+   "sha256": "8adbdefcd2223b9f04e3e7f827f98f46fc0c7d32f3325403d9055f8643289ecd",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_medclust1.map": {
+   "bytes": 186836,
+   "sha256": "10f1806c5731b30eafb402df00a01fd961eb394bf9ef7bfc2984077d04021af7",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_medclust2.bsp": {
+   "bytes": 425500,
+   "sha256": "69ed27e6e7d7a2e9d23c7ad5ab00c4dc71446b6f4fa92870f358e4c34134d85c",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_medclust2.lit": {
+   "bytes": 15116,
+   "sha256": "359e8c1172068025ea99536305c5a2fa8fbb6c5569ffa030d52f08c7d93909dd",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_medclust2.map": {
+   "bytes": 186836,
+   "sha256": "6cf6fe03636b5407f13ad5c5a5a70ef177729e95c2835298702a428cc21773b2",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_small1.bsp": {
+   "bytes": 359864,
+   "sha256": "b258bdeac566a58026e6e6328d10cb936aec2356238ff7ffdbb4d3683b425d94",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_small1.lit": {
+   "bytes": 1760,
+   "sha256": "0bf5a6d3908387b6a4638a4b7c162f23976383940995cfff3d14f9d2945c5b42",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_small1.map": {
+   "bytes": 186836,
+   "sha256": "87b2af18ca644bfd08f5022c113685de8ebc862ee18d113349bca814635532e4",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_small2.bsp": {
+   "bytes": 363500,
+   "sha256": "8d88b0e44bad68cd594f2ed751091c2a9e0d4a2380e392e5436e961acfa8ca30",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_small2.lit": {
+   "bytes": 2672,
+   "sha256": "8a9aa001d164c1c2888925b0dda0c406b4454b3de48f3e845a9515af5f2f5678",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_small2.map": {
+   "bytes": 186836,
+   "sha256": "7604dd68d0d557c38736c600a4a9e55d513c305da9889e0301e205ffbfc6727b",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_smallclust1.bsp": {
+   "bytes": 411988,
+   "sha256": "d85328aaddddc2c699b1a46275caeda28e8df64fb7d568653988b79780ffecca",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_smallclust1.lit": {
+   "bytes": 9608,
+   "sha256": "1e394c7a0265e0488c28e5a002f017eac11b940f3a5100a324f4e949efd129e1",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/crystals/crystal_smallclust1.map": {
+   "bytes": 186836,
+   "sha256": "5b31e4c7ed0bf814ec37a1740a7e1ea974a4a2dff5b6f9ac336b5966b7005e54",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/gib_excavatora.mdl": {
+   "bytes": 33268,
+   "sha256": "ae649bdaddce01c854edc9c085b2de8ccb534e647297e18ae24c847cb2db41c1",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/gib_excavatorb.mdl": {
+   "bytes": 34644,
+   "sha256": "3cf0cefdf25d5a2faf7141eb15277381e5dd25213b61dfe16f5fdf13120de746",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/gib_excavatorc.mdl": {
+   "bytes": 33268,
+   "sha256": "9723a0e49586b3fc5cf336d217da0132325f145011ad9f4afb51fbafae75bf00",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/gib_excavatord.mdl": {
+   "bytes": 33460,
+   "sha256": "8eb909e30192e977963e75a63c1da5e65534e062dfcaa1f936c0f2293428c703",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/h_brute.mdl": {
+   "bytes": 182968,
+   "sha256": "e28f8727d88931178521f188e748f79c286e45d1f56cc33e6f36d6543736608d",
+   "timestamp": "2023-01-31T10:35:32.000Z"
+  },
+  "dwellv2p2/progs/e2/hell_bullet.mdl": {
+   "bytes": 11748,
+   "sha256": "71ac9481fab1fc1860e4b2c08c80ed47cb189a866b1777fff77a65388e2d2e27",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/hell_rocket.mdl": {
+   "bytes": 10836,
+   "sha256": "657a6989ea2c912441d41e434b0265e119ac67d4c17192ba03814e8f1a87e603",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/item_haste.mdl": {
+   "bytes": 11124,
+   "sha256": "6169c52cef6e548760fa7d549a19f562785a9e2f7e47f63ddf88c7b4ca207cb1",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/key_crystal.mdl": {
+   "bytes": 39160,
+   "sha256": "98b2332f28e0282a9f425e38dcfffa0f13b4846d471e95cbfc1ac724f935b1a4",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/key_crystal_norot.mdl": {
+   "bytes": 39160,
+   "sha256": "b3c06a550bee140cf760aed61056b183dc72b741ef7816fa27fcf41250881897",
+   "timestamp": "2023-02-04T03:30:58.000Z"
+  },
+  "dwellv2p2/progs/e2/key_hexen.mdl": {
+   "bytes": 37096,
+   "sha256": "c26a46f50a5bac8f9d0fd4685895d23e289dbf14113b34d80e562dbb9c8776dc",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/marker.mdl": {
+   "bytes": 23096,
+   "sha256": "86af425e3320440a967e64e8f878b71c45346a8095cd3d510193301d8d0d8abc",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/mon_brute.mdl": {
+   "bytes": 991068,
+   "sha256": "6d4642ad73cdf22362e17ba24002f92f9436c06491214b0af5e5777222225615",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/mon_excavator.mdl": {
+   "bytes": 173192,
+   "sha256": "7f3d8d006b47390c70cdf110fb8d8326fa1f95afe406b495e414ffc72bf1237b",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/olmec128.mdl": {
+   "bytes": 396200,
+   "sha256": "32099feab4627ffa91fa2da9cc3f7265d941bbeeefc611b63b0b005d4fcca065",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/olmec192.mdl": {
+   "bytes": 396200,
+   "sha256": "0e3045fd4ddfaf2e6dca4b53d0fd3a5dea090880c72dcd01af53a0abea3e294e",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/olmec64.mdl": {
+   "bytes": 396200,
+   "sha256": "c1c59f6cce8ee9cfe8b7b299d07b9ddfbce4e781f57c9f892de33bab9c1c4a63",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/proj_crystal.mdl": {
+   "bytes": 33268,
+   "sha256": "774413f48e956228d54aeeb025cd419bb42147c747790fa002f1072bd5b00340",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/proj_rail.mdl": {
+   "bytes": 30324,
+   "sha256": "514c7bdbe2721c55219717965e5004cc28afcb6e596f63e482f9ef6cecc68b54",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/e2/wallhead64.mdl": {
+   "bytes": 355180,
+   "sha256": "ee11749c09547328bbf9394e766d78c3285f5e32c88ac69a456ca6322ea2ee60",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/end1.mdl": {
+   "bytes": 29876,
+   "sha256": "58eb94e4ee7fe80c7c205d897b6badc4f77989fa204275e74f7e3eb1010acb9d",
+   "timestamp": "2020-09-20T10:46:42.000Z"
+  },
+  "dwellv2p2/progs/end2.mdl": {
+   "bytes": 415560,
+   "sha256": "4f0925b629073861d97831e04196609c4efc35dd6c8042661605c5446fe9df19",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/fwhead.mdl": {
+   "bytes": 380804,
+   "sha256": "a605f4eb0a96d77de03ed19c268125cc3aa92b1a5686460979bdc471dcc72eda",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/g_rail.mdl": {
+   "bytes": 83828,
+   "sha256": "0d94376b181d553ed3622b0639dfcdadaeeb929e1152db5b6ecd647f11ee8563",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/g_rock2.mdl": {
+   "bytes": 22020,
+   "sha256": "038272689a9c63090a71badde3d05aeb5d1ec89fbab6923db1180b67b4309f18",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/g_shot3.mdl": {
+   "bytes": 84916,
+   "sha256": "30137048433aa82f07a97a114135847dd81c5397abc5b7bcfe709be2de34aaa4",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bosscrystala.mdl": {
+   "bytes": 262660,
+   "sha256": "5dc45d36cc4584f58eb69d0e346cc47304e3810a12cc78c57542ac5789051138",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bosscrystalb.mdl": {
+   "bytes": 262628,
+   "sha256": "fa67de267c4b76a9006887b5383863099dfde24159d5d6695ef447629f9f6952",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bosscrystalc.mdl": {
+   "bytes": 262596,
+   "sha256": "131d110f987af33b9c544cd72c41002e6c26be9bccc2a4c20c721be646e654ac",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bosseyea.mdl": {
+   "bytes": 268820,
+   "sha256": "2784b2faffc2f478c11168a50e3bb0576ff5125927a1574362c4cb8607c1d7c4",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bossstonea.mdl": {
+   "bytes": 263236,
+   "sha256": "40fb0bd3fa486842a3cb814521aff3ac4fd4fdd89779adb8a7192a205718534e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bossstoneb.mdl": {
+   "bytes": 262964,
+   "sha256": "912ad12b8f806d63ddc6f98dd099d04084442f7933f41edee562857b751d553a",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bossstonec.mdl": {
+   "bytes": 262820,
+   "sha256": "a1b9c557e9cb95550a0596f28131557690f6adbd48726344338f11296d9c7465",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bossstoned.mdl": {
+   "bytes": 262884,
+   "sha256": "91e6cf1610909ff86ff91ba684c47c8644d510f742bf48531cd304f12382f5c3",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/gib_d2bossstonee.mdl": {
+   "bytes": 262884,
+   "sha256": "59c9c792e8fdcd5305b633f77db9c541396d2f42e05e89cac8070524aeb571e9",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/h_zombie.mdl": {
+   "bytes": 7864,
+   "sha256": "7aac80707369f425f3ddd9b4a8f463c069ff51d468f0842fce59391ea848e72c",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/item_berserk.mdl": {
+   "bytes": 29124,
+   "sha256": "dda889f7f353f319b73f2686742a9cfca20f0da1b29ac38b6ced2c3de41daa1d",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/item_diving.mdl": {
+   "bytes": 33796,
+   "sha256": "89d424d6dc81c21ab40bb53df5e2c6ca28c6d46d76037460dad4afbddecf6fa0",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/item_wetsuit.mdl": {
+   "bytes": 270156,
+   "sha256": "d622235f118424bb9033b0046bd27935641a53832d0154b30c1c6722e57160bf",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/m_cells3.mdl": {
+   "bytes": 113712,
+   "sha256": "cab77ee0b892c87de68ffdc811f7a088cf6563d68cf7a072560b685ef669e62a",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/misc_amonstatue.mdl": {
+   "bytes": 90308,
+   "sha256": "2c5f477b294113f6967b6589b811ef63d3100a233d82d77494f39a00a7ebe175",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/misc_amonstatue_void.mdl": {
+   "bytes": 90308,
+   "sha256": "a5929191097568bcf166a0033f5b82ed7dc001b98026e4842e8b1d1ea347cf23",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/misc_horusbird.mdl": {
+   "bytes": 70388,
+   "sha256": "b0ccdca07f3746375b94c8ab6580c2edf44892dd80a583b9ab20aec6ed781a00",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/misc_mushroom.mdl": {
+   "bytes": 10804,
+   "sha256": "5570faa6e7828e4e12f568656226b0756a87d633cbdc461af472e0982a88a549",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/misc_player.mdl": {
+   "bytes": 562960,
+   "sha256": "83bbcf4cb5858aa9ac03323b461b3e3b09a28f56e212645472219d7d0b0979d8",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/misc_seaweed.mdl": {
+   "bytes": 16100,
+   "sha256": "dfbd38a439d392870c7c4c7ebea4475827b716004ca47bfa7f13b47daf07d774",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/misc_smoke.mdl": {
+   "bytes": 32052,
+   "sha256": "783c734d5dd05b550ef73231a618352903d8de203ced5a892ce868db18a121b4",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/misc_textbook.mdl": {
+   "bytes": 74212,
+   "sha256": "e17e39efdf252a3da8c0574fdf272a800095671f42e71a17a3733673202dbfab",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/misc_tutstatue.mdl": {
+   "bytes": 178480,
+   "sha256": "d178ba96d99b02113fe70d32f1672c1490d5f570aecf11d168e58f1bb7e8c17e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/misc_tutstatue_void.mdl": {
+   "bytes": 53188,
+   "sha256": "9e822d5f084a5624b6d1be9d0b9754939907acb73a023fcf38ee7b20cc5dc0e3",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/mon_d1boss.mdl": {
+   "bytes": 657956,
+   "sha256": "2cd57bf3173f02495a928233265699e770d32b8829175734bfc6eb337908803c",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/mon_d2boss.mdl": {
+   "bytes": 318968,
+   "sha256": "a05bb1460883784b5b8166a14ceb307dbac61cdfd891c1ccec88106e09d2692d",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/mon_d2bossb.mdl": {
+   "bytes": 519380,
+   "sha256": "1a868cc6ed37fcf70592160deb7933e0a5f9f17616ec7e22c9a64bc15b388a77",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/mon_d2bossc.mdl": {
+   "bytes": 458420,
+   "sha256": "7f84fe185eb03f2112503ad6c48d4674b9edc9e97edcc389fc463fecce79def5",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/mon_d2bossf.mdl": {
+   "bytes": 69568,
+   "sha256": "d5ec786844f364a64964907445394842d1e722c72092a19d35d8de855bdf1d42",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/mon_enforcer.mdl": {
+   "bytes": 325696,
+   "sha256": "3521f44fba8fefa8e1358e692d477f06d21b3041116546040b9be718e850541c",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/mon_gargoyle.mdl": {
+   "bytes": 388132,
+   "sha256": "fe8134f2305858519445eb513b22f1f3382a1a6f334cf9549ddf1efe0b88435c",
+   "timestamp": "2019-11-20T18:53:40.000Z"
+  },
+  "dwellv2p2/progs/mon_grunt.mdl": {
+   "bytes": 302944,
+   "sha256": "aaed9381bed62cafbc01dc054353f749712a4ec4a5ff0268f9f465e69b8c3cff",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/mon_hknight.mdl": {
+   "bytes": 419940,
+   "sha256": "3728034188318f6a28c84251a3cf547caeab76e1e6838076e172c75ef5f1921b",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/mon_knight.mdl": {
+   "bytes": 208028,
+   "sha256": "c2bd3fbd2c18694257c41675c335606cda6e938549356d433b25e699a9c3703e",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/mon_tarbaby.mdl": {
+   "bytes": 511008,
+   "sha256": "a9b9b6a49090bbf7d7d3a23618c3c21b2123e007488702d96b80531c563cdd4c",
+   "timestamp": "2019-11-20T18:53:42.000Z"
+  },
+  "dwellv2p2/progs/mon_zombie.mdl": {
+   "bytes": 289432,
+   "sha256": "af22d55c1386b68474b4c28dcc58575cb9827243b4907050d60641235b09654c",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/olmec192.mdl": {
+   "bytes": 396200,
+   "sha256": "0e3045fd4ddfaf2e6dca4b53d0fd3a5dea090880c72dcd01af53a0abea3e294e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/proj_d1boss.mdl": {
+   "bytes": 6644,
+   "sha256": "b09adf95b3cba9cc50e734165ef012a878bfa524a5cb00d27c7873c50e3affe3",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/proj_grenade.mdl": {
+   "bytes": 55812,
+   "sha256": "164b8c8bdcad5cea41d00a7c6b8235d1f22e4997e7a8a44bf88fb78036d4bf51",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/rune1.mdl": {
+   "bytes": 20820,
+   "sha256": "15f7c27268a9ca70e58a65baea998fe8cdcdc722bec715604d4630a44fbbb09d",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/rune2.mdl": {
+   "bytes": 40980,
+   "sha256": "0dfd986c6db95a7f1e97472d2f85dc1f8ce1c621575f238da3c833bb1d6d660e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/rune3.mdl": {
+   "bytes": 19924,
+   "sha256": "02d00c022ede5c33a04511c4521d603b114339dd30137bffe20cee85ce92d249",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/rune3broken.mdl": {
+   "bytes": 20372,
+   "sha256": "bc839e7260698733f8849f7ee3410f5ce98d8d8e58fea562658b5c27047b4355",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/rune4.mdl": {
+   "bytes": 26932,
+   "sha256": "6ac10dd81fb7ca0552fefb24d544e02a00b81ab839db85d85f685ac6853f8ca9",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/rune4broken.mdl": {
+   "bytes": 27492,
+   "sha256": "db606f2ef28a91f3a7988cdb9d8de359ae33cad781f10b838ba25645e32739d8",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/s_spike.mdl": {
+   "bytes": 2820,
+   "sha256": "1b0494b274aee493b2f60161f27a6d795800d55eef99996816385fde019af271",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/scarab_key.mdl": {
+   "bytes": 42936,
+   "sha256": "430a1f0f2ba76eb5bb16fad9d8a971c8bec7bb775bc66b30b280265ad441d95a",
+   "timestamp": "2020-09-20T10:46:42.000Z"
+  },
+  "dwellv2p2/progs/skelefuck.mdl": {
+   "bytes": 451108,
+   "sha256": "754dc8237be5674d3755d368508d0a8721e6e0441fb785e6a4023f71ad1b6302",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/skelefuck128.mdl": {
+   "bytes": 451108,
+   "sha256": "754dc8237be5674d3755d368508d0a8721e6e0441fb785e6a4023f71ad1b6302",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/snek64.mdl": {
+   "bytes": 511468,
+   "sha256": "f92ccd0c957471f6994bcc4b3eec1e2d44b804007a69af686dd01d6eea206f80",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/totem128.mdl": {
+   "bytes": 388032,
+   "sha256": "2cb7141716effcc3c0dba53e075c02a3a82360f602294a3b010e9fd47056e34f",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/totem192.mdl": {
+   "bytes": 388032,
+   "sha256": "8f03c0b25b9c33e20caeda177cb209407ecaffc2e790b80058c70266b56399bf",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/totem64.mdl": {
+   "bytes": 388032,
+   "sha256": "f8369aa13dde2afcf367b6989bdd6691532e94fb666d4fa884becc93539285bd",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_axeb.mdl": {
+   "bytes": 106284,
+   "sha256": "824ec85132422301761c74e28d9a2d99fc60dcbaff656260ba8d9361ea4bf1e8",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_light.mdl": {
+   "bytes": 22212,
+   "sha256": "7d5708699359a37f9dec8742ecb91fe382764ec338a0d94917ca7f2101cd45fc",
+   "timestamp": "2020-10-01T21:26:40.000Z"
+  },
+  "dwellv2p2/progs/v_nail.mdl": {
+   "bytes": 47140,
+   "sha256": "60fcfb73839519938b8176dda6ec4920d8700ef87df9e3a6cfdcfd7f96ed48a6",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_nail2.mdl": {
+   "bytes": 124944,
+   "sha256": "19045e9a5154299b68377744ad946fc3e7f2bd290497c8291a2247ed8cc572ad",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_nail3.mdl": {
+   "bytes": 124944,
+   "sha256": "19045e9a5154299b68377744ad946fc3e7f2bd290497c8291a2247ed8cc572ad",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_rail.mdl": {
+   "bytes": 133292,
+   "sha256": "34c62223f964a7571124b677bd6f9c867e307001ac281d8b820a28fc24e250b1",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_rifle.mdl": {
+   "bytes": 39668,
+   "sha256": "68e38e54cf4aad130c6b3ad2d8ce12ba20e4ffcd4c5a866aae85b69e56ce50c3",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/v_rock.mdl": {
+   "bytes": 37420,
+   "sha256": "99125057c1ca5cbbe1dbb5e9978baaa9f4f60a6eb976d9eb06d97497e7b7d7be",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_rock2.mdl": {
+   "bytes": 39668,
+   "sha256": "78fc36ddbd33fb77192ef100547f1a1a0f70a38fdaac7094df67f2df33ca9237",
+   "timestamp": "2021-02-11T21:18:20.000Z"
+  },
+  "dwellv2p2/progs/v_shot.mdl": {
+   "bytes": 22260,
+   "sha256": "bf79b703708665b9e65556bf68c0fe9d177097b2b96b11563d7b8bf84485a81b",
+   "timestamp": "2021-02-11T21:18:20.000Z"
+  },
+  "dwellv2p2/progs/v_shot2.mdl": {
+   "bytes": 21804,
+   "sha256": "06a1f7cef5d1d3f8c377addc4026523b656b8f77986495f96048a1a6ea94549c",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_shot3.mdl": {
+   "bytes": 152352,
+   "sha256": "2c405838c0c86d8818ae61d636b4a714f79fff0e51bbfe460711e89ae43ef63c",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/v_trsh.mdl": {
+   "bytes": 133060,
+   "sha256": "9afca60a7650577208e73ef3aa08a0bd3f829e552f773b552e83ee39a8e9cb77",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/wallhead128.mdl": {
+   "bytes": 355180,
+   "sha256": "2c6c19be81c0f3fc3d54a233d5f005d22c3b7af66c8d6d319a164df2384391b3",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/wallhead64.mdl": {
+   "bytes": 355180,
+   "sha256": "ee11749c09547328bbf9394e766d78c3285f5e32c88ac69a456ca6322ea2ee60",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/wallhead8.mdl": {
+   "bytes": 355180,
+   "sha256": "2c6c19be81c0f3fc3d54a233d5f005d22c3b7af66c8d6d319a164df2384391b3",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/progs/wallsnek128.mdl": {
+   "bytes": 354324,
+   "sha256": "35fd4a8c932f3a0fa8732fcb3b18825f65149af8e103426e02d9ade30dbbe81b",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/wallsnek64.mdl": {
+   "bytes": 354324,
+   "sha256": "0e64ff20ad19eaa062cd47d3a30f28bc1eb31414135d2bea3d935ec5e561eacb",
+   "timestamp": "2023-01-29T23:31:36.000Z"
+  },
+  "dwellv2p2/progs/zombie.mdl": {
+   "bytes": 289432,
+   "sha256": "58fab02f2c531cda35fe8e975a0cbfd27a40084583e70902be338d38a45ff82c",
+   "timestamp": "2020-09-25T12:54:26.000Z"
+  },
+  "dwellv2p2/quake.rc": {
+   "bytes": 1411,
+   "sha256": "46582e9c31b69d9a82fbac9cb1b1800e2217fd9c64356b5f45673f2d1b93e45f",
+   "timestamp": "2023-02-11T14:35:44.000Z"
+  },
+  "dwellv2p2/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/ambience/dronerumble1.wav": {
+   "bytes": 228790,
+   "sha256": "d97972b25a006dbd54c1de9750b838ab52fff7c8aec70fb58115ad831b7efee8",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/dronerumble1.wav": {
+   "bytes": 228790,
+   "sha256": "d97972b25a006dbd54c1de9750b838ab52fff7c8aec70fb58115ad831b7efee8",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/dronewind1.wav": {
+   "bytes": 110328,
+   "sha256": "f65fd70b6c398e1a17975eff7d92bde89ac17bc8d5cf0e9c6dcb17934311e3a6",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/energypulse1.wav": {
+   "bytes": 99268,
+   "sha256": "15e211e9d3ab30d2a5cdb5e1f5ad2699f5c9de6efc8b896bc6d77164cf9733da",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/trickle01.wav": {
+   "bytes": 154566,
+   "sha256": "77ac16e46900ecb6258e83ffd55d3a4a1183934871b0454d50bca5f9f241daa7",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/waterfall.wav": {
+   "bytes": 137846,
+   "sha256": "51dcfb96c94678cbb01e0c985240e853a01c6fc3c4f2376de177c0be59bfcfe6",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/waterocean1.wav": {
+   "bytes": 621096,
+   "sha256": "9a49f00fd806a583a6bbd404cc4d7b3342f069c4a510b13f8aa2dc63cbe4d58e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/waves01.wav": {
+   "bytes": 2749776,
+   "sha256": "459ebacaa3552f410785e08cb7bcce466fd618d672a634eb6dd2b84f3bc084d3",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/bal/waves02.wav": {
+   "bytes": 2027778,
+   "sha256": "12be209e0ae036f0bc7de90376e590bf3e09875cb7ae18fb3be975b466296667",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/juz/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/ambience/e2/juz/waterriver1.wav": {
+   "bytes": 184988,
+   "sha256": "531555d16a8c9ab8d273cf20c10c90a353c2a91a82e7a22db26b0f9f3fbc5c9d",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/electric1.wav": {
+   "bytes": 147616,
+   "sha256": "134ba90f4a6573cf8bee8797d1023836c11f5bdc628627fb5145354e8b09a18b",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/engineroom1.wav": {
+   "bytes": 223016,
+   "sha256": "1eddbae4469e69f277444851adaf082b60e47f07a945fbb8bf8fab807751cf31",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/ambience/heartb2.wav": {
+   "bytes": 65656,
+   "sha256": "dc7eeb85ded91dc86f77402788a79c8543b2e5c6b9aafb1060e9ab75b1f5884a",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/brute/death1.wav": {
+   "bytes": 22144,
+   "sha256": "45f001ffe6357e1600b5e7041ce7f29ae4c55c0e6c27a6bad566c4c284f21119",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/death2.wav": {
+   "bytes": 18028,
+   "sha256": "2263b9499a1d7f419fcb1a028db1d34cb4d0b1db257707847730b7f975051fb6",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/deaththump.wav": {
+   "bytes": 34994,
+   "sha256": "e704d883d0b4618ff721922b5bcc72c10cb5c22069823e18ee76d3a0047498e6",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/idle1.wav": {
+   "bytes": 46670,
+   "sha256": "778afa05b143e3a1035bab1718c166bcce27f863d2d45ef9b1bb817e363e836b",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/idle2.wav": {
+   "bytes": 44366,
+   "sha256": "e79e103fd3923e549569e55c2dc5348218fe9cc793e86d3d24e692db031be4f7",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/injure1.wav": {
+   "bytes": 11152,
+   "sha256": "97b3535ee21f8ebb54585a19a544d43aea45e3c56fa05b8b88a75281b347d38b",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/injure2.wav": {
+   "bytes": 7814,
+   "sha256": "b7bb89734f0dadd928522ad97209b311dcb872f47f9ed46dfed09ea548c46c06",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/meleeswing.wav": {
+   "bytes": 6400,
+   "sha256": "e8e571aadac62cb75b88099954fcb9d277cb60a6f9d160930d99ad81548e92b9",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/shoot.wav": {
+   "bytes": 48128,
+   "sha256": "9d1918ad3ff81f85f7ff4bd1f92a5163d1461785e495002f0e272f13a25383a8",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/sight1.wav": {
+   "bytes": 18378,
+   "sha256": "48e8d359ae63446b935dfa240cc8fa82ddaa152212ec939721e71266791ae3d5",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/sight2.wav": {
+   "bytes": 21830,
+   "sha256": "86ad465863325659873300ed964474b00e8b69924c0c97097804ee848718844e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/walk1.wav": {
+   "bytes": 11984,
+   "sha256": "4a27fc4ce1c1663c124fd4b2aa440850f75a1848d096ef535095d790f1f6383b",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/brute/walk2.wav": {
+   "bytes": 12160,
+   "sha256": "6d67b13902fe615cef6d2851a18b795dc8941456f2f6d882ec8faf8ccd12853f",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/cguard/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/cguard/death1.wav": {
+   "bytes": 25194,
+   "sha256": "2c5df0c7ace0ccef9e9595844276832639dc7be8ff5df92a51b6aa6dff12e33e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/cguard/death2.wav": {
+   "bytes": 27256,
+   "sha256": "3d30bc18880bbba3a38650cfe294f326079acc641475e0002e3d266536e21988",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/cguard/idle.wav": {
+   "bytes": 50474,
+   "sha256": "044a848d041909b1dd3946d144b14428bc1153f53bf0c8041223ffa6a4e6976e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/cguard/injure1.wav": {
+   "bytes": 14986,
+   "sha256": "1d60e86528f9d14e10347381cd37d0bb47c418c8f253fed17483c52c894a2672",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/cguard/injure2.wav": {
+   "bytes": 6686,
+   "sha256": "f5edab238fce63003e4c7e9409717a6da5a19922a7e943195bdf47f59fc8776a",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/cguard/laser.wav": {
+   "bytes": 18170,
+   "sha256": "1324fb4eb84c06e5d19efe49e9f2abe53ded1f8fbe83e6a1ea3b37af975ca99e",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/cguard/laserhit.wav": {
+   "bytes": 21104,
+   "sha256": "a615ea75ff4b25a875d81a12febe5ca3091d50e4bf1a762555082bf020861b50",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/cguard/melee1.wav": {
+   "bytes": 5096,
+   "sha256": "5ca6f7988a38d2c10cd2926087e28eb627328b45cdcc7a0ba180c033651e3fcb",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/cguard/meleeswing.wav": {
+   "bytes": 4678,
+   "sha256": "d360c1625acc737a1b32dd59ef6cf3036164c3b1661d33f3557c00c4e44433c3",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/cguard/sight1.wav": {
+   "bytes": 16874,
+   "sha256": "ccd6f3789efe004e9726a5e4f858435a65981f93e6883496575eb1fa6f682b15",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/cguard/sight2.wav": {
+   "bytes": 9666,
+   "sha256": "b9147a7e7e56d7877fc7594519f30568a66b005d6d1f4d697549fb12b106e592",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/cguard/sight3.wav": {
+   "bytes": 11926,
+   "sha256": "7d0deef60a835c77121474c7041b7573820ae90c6f1d98ddb7e2fd6d3f5bff82",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/cguard/sight4.wav": {
+   "bytes": 8122,
+   "sha256": "f60024c0bb5c22616581af176805449b2b6f9579b4831a75a35e7b37f5909fa5",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/d1boss/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/d1boss/aggro.wav": {
+   "bytes": 77252,
+   "sha256": "f0bdcc21bb9abaf431cc3e1fe093bb9136c64eeca566ec0718af0040a80445ea",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/d1boss/atk.wav": {
+   "bytes": 19372,
+   "sha256": "f70cb6dbe8d6737e69251c9eb74bcc33149e7795c9a7ce12d9f7946ffe7b7117",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/d1boss/pain1.wav": {
+   "bytes": 27788,
+   "sha256": "d9d37c0872e334dd004c93af1b1ed34e0119575aac5cfbefab6729c16ba5993a",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/d1boss/pain2.wav": {
+   "bytes": 28778,
+   "sha256": "72bd4872ef42527040e6ae5b9a49c7b7f07c6549f36f133665d2ecb35b0751ca",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/d1boss/phasechange.wav": {
+   "bytes": 132380,
+   "sha256": "9a50c8ea4b0bf75bc5d3985b0ad82810b2ba328ae9432d906be7641a8b9dbc41",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/d1boss/proj.wav": {
+   "bytes": 91448,
+   "sha256": "577941bc3125b5b40c03021b16932fa20f01e434d3ef8115d26a7f1d0ade8986",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/d2boss/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/d2boss/beam1.wav": {
+   "bytes": 178006,
+   "sha256": "8f2ae348aaec2883b7e22bf19cf618f6f0c46e83e20ea0b7104c651f0e7bf2da",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/d2boss/beam2.wav": {
+   "bytes": 199106,
+   "sha256": "6ab9cdc06b0b1768e2a62a3f0733f5778a302cff9bf0ad92bef23086b16f191b",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/d2boss/bulletsequence1.wav": {
+   "bytes": 1785590,
+   "sha256": "fc44d1a0171c5153caf5b5e3d67ed8b828f33cfcf29a057c755364c363888b5e",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/d2boss/burst1.wav": {
+   "bytes": 20282,
+   "sha256": "a762500d94240fc91038a4cbf1f9dd5e1d29f5f28b0c7b96bdff5257d8c30217",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/d2boss/crystalout1.wav": {
+   "bytes": 147494,
+   "sha256": "71a345272263aea24f7f277dd9e96646b5a2349b2a555508e1c1a1f33cabf1ae",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/d2boss/death.wav": {
+   "bytes": 466928,
+   "sha256": "2d2d3662cb3523f31607048569aae545d561476feabdfaa77ee552a9c2e01b66",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/d2boss/shield_down.wav": {
+   "bytes": 36256,
+   "sha256": "6bfe4af9e34f86ffc12b01473076f544dbb009dc14085f86d6d0ca731993f0dc",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/d2boss/teleport.wav": {
+   "bytes": 120742,
+   "sha256": "6fb650cf3041128bc4fe4c2f0a6515e78a711a22f5134dc28df9b5dbf662ee5c",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/doors/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/doors/egypttry.wav": {
+   "bytes": 20000,
+   "sha256": "aeccf57685efaa1f52f6f4de62fe242f7f67a84eef87bfb8fca51ee65c976304",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/doors/egyptuse.wav": {
+   "bytes": 22520,
+   "sha256": "57bbf0f8127c9a5268688b99041f689f17b068744d51110bfb6ba0988c47f5f2",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/exca/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/exca/ex_alert1.wav": {
+   "bytes": 62316,
+   "sha256": "ab4b09a7f5b5f8aba102af55a468eb9654074a32a6b563a959da5e3c2e660b65",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/exca/ex_alert2.wav": {
+   "bytes": 71742,
+   "sha256": "7bd75696bdc5172d78d874e955c9364b6f610bd3da8f10841c4ec21f34ef8b0c",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/exca/ex_fire.wav": {
+   "bytes": 33154,
+   "sha256": "d8c1ecd16461e1479371fe76aac1207cfe4bd8293a98370ae732e5307b4e1df9",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/exca/ex_kami.wav": {
+   "bytes": 102510,
+   "sha256": "c46c97af82a4e6fd16665e40f21e2568a94736bf70bf0bb8015e694de65a8047",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/exca/ex_pain1.wav": {
+   "bytes": 20942,
+   "sha256": "1fcd83aa2beae7a5e6240a57dd0657f94ddce743547818987b074f4dacf7b868",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/exca/ex_pain2.wav": {
+   "bytes": 22276,
+   "sha256": "37371a77e686b3fa8e674d1e071bec92577909950acd1b4adb7848ea2a097a82",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/guard/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/guard/death.wav": {
+   "bytes": 132344,
+   "sha256": "9247347179344c541a627bc8ff74e5ce43744e47f5f3a02181402791257b675a",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/guard/pain1.wav": {
+   "bytes": 33120,
+   "sha256": "9fbfa3f46a27f850615fb4ea4cd760f6ee5817ddad856b44ec51a84138ec91dc",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/guard/see1.wav": {
+   "bytes": 54336,
+   "sha256": "1e6a0c92fa9902238e01b4e8a1ff5b9fbe1a37d71cdff7e31f97c0f630d76a20",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:24.000Z"
+  },
+  "dwellv2p2/sound/items/axe_powerup.wav": {
+   "bytes": 33155,
+   "sha256": "653ed1774ad3c3654cf2e42b91f9ebf26e25f5b38c1866e08d32f4e9e4136f1d",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/axe_powerup2.wav": {
+   "bytes": 33155,
+   "sha256": "c50bf05900fbb32238937e7dd3e8b7d5ac13bf0153e270b66396a49d87d36c88",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/axe_powerup3.wav": {
+   "bytes": 11105,
+   "sha256": "e0a42e1546ba28714a761e21207ff22e97e38af0bd5fea782b824e4263d8cd57",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/haste1.wav": {
+   "bytes": 44166,
+   "sha256": "376837e3ef5bd579d1df1b14cb32fb6367ad441aabb7af714360b0eb2b174b4d",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/haste2.wav": {
+   "bytes": 38667,
+   "sha256": "32dad333b8b64135529789d726ea45749e8f13196815a0a0e9b4ffac2bea32d0",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/wetsuit.wav": {
+   "bytes": 55204,
+   "sha256": "e5b60d296ff7c95f2e05e398dac57f0c86bf56fa2c7e72d148083ab10d29f110",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/wetsuit2.wav": {
+   "bytes": 77254,
+   "sha256": "c3adf07f3928fc1cf937394038ce167429017c699e5608ee0f3753db8ef419de",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/wetsuit3.wav": {
+   "bytes": 88310,
+   "sha256": "85d4c5ada38e7a43192a436e8f4dd59ed6d2a86434cf9071a7f3661e26f54e6d",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/items/wetsuit3out.wav": {
+   "bytes": 176494,
+   "sha256": "672a866c27c64f7eda1e05775cea6b4373c289c39fd423a519d39198d10a9c89",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/bigbreak1.wav": {
+   "bytes": 436070,
+   "sha256": "fb9eb0044310aeae591962db4cac156554545527417756d386b4d9a981a5df4d",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/biggestreveal.wav": {
+   "bytes": 135030,
+   "sha256": "5ac4f17981cef8c202685b95b2f55edd9a37bc1b4be00d0baa18df5bb8b607c4",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/bigsplash1.wav": {
+   "bytes": 604622,
+   "sha256": "5d58ece81199ef5769b7d9dca7643514357ff883fb3803ee252a101458836bf6",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/breath1.wav": {
+   "bytes": 221904,
+   "sha256": "ec72e7006a016b1349217d3ef738101bf49c3f37d4458adf1c9a8deae68395d2",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/coconut.wav": {
+   "bytes": 228448,
+   "sha256": "aa4c974f9cc604a42a55c041b20c0eb888b1b01c12728526fe50065e41d3d58f",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/death.wav": {
+   "bytes": 27600,
+   "sha256": "f7a1f037de7ab0e4e9c990534f2114b0f4e7ea5a9dd6fc6b3a2dbdf8dca264f9",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/dpain1.wav": {
+   "bytes": 6282,
+   "sha256": "8f8ecc4a17b11f4704bdd700aa5428c62b860b6ba0d4e86ef1eaf4838656f3a8",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/finalscream.wav": {
+   "bytes": 145740,
+   "sha256": "9466b2a4f4401e7a901e38ee4eca4223401564c71434fa6a6a5f9471eb820bf4",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/flow1.wav": {
+   "bytes": 53120,
+   "sha256": "29647478f308e1d11fadc42f7d14ea7df1603bb048e7b413202bdf20674232b8",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/flow2.wav": {
+   "bytes": 311394,
+   "sha256": "7df07008441c5cdd70d9e1745c5051d54decda237d35397c447548dea89152ea",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/gibbust1.wav": {
+   "bytes": 22554,
+   "sha256": "9a9f92539f9e56234e32ed1bc41c33112cbad5542b5cd9dc0d26128458840f19",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/heartbeat.wav": {
+   "bytes": 70640,
+   "sha256": "a68fd895a3212f967a4686e94df2749fa3f58392ab2228aa880697e25b548147",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/monsterbubble.wav": {
+   "bytes": 1598886,
+   "sha256": "70439bd1dee930e373b832f33aa0af73206e1a5271e5022e9d8dd5f62b77c837",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/monstergrunt1.wav": {
+   "bytes": 128488,
+   "sha256": "6a406f527e6f2776fbc10599a104614338ea400d615b08e0ba8dc82afd62d0ef",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/monstergurgle.wav": {
+   "bytes": 436618,
+   "sha256": "80204df4728b96639205c2c04b3b6b21b4c8670991b3c2456382c128d2ef81dc",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/monsterscream1.wav": {
+   "bytes": 77848,
+   "sha256": "f8149d7a81f9ec0cf094bb846665213714e8f7f9b190a67b5378d6e0ef361696",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/omino.wav": {
+   "bytes": 68304,
+   "sha256": "e07f997b137c09b3eba772c0b3da50410ec03438a107050e832b941400aa61cf",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/oomph.wav": {
+   "bytes": 16650,
+   "sha256": "151285f5207c9836fb4acd919afde5ca7688446c99d3c2d7631e9865d84c4092",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/poop.wav": {
+   "bytes": 22098,
+   "sha256": "a748a2ce2155b367100ff0deaafdc270fb984ac643509865331aa3fcf089a178",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/rock_impact.wav": {
+   "bytes": 92140,
+   "sha256": "648c62715a1fc7547f566d0e4c3c2bfe71a63f5248da5a0ea5c8a863f7374c7a",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/rumble.wav": {
+   "bytes": 105990,
+   "sha256": "46728daf18b142575d50049188030a153c0e3e994dc83ea375c43ba6da171b3c",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/sight.wav": {
+   "bytes": 26510,
+   "sha256": "d17939e780428163ffffb67c60d56f3187a8045a47b0c12aeae0880edc887c0e",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/song.wav": {
+   "bytes": 300402,
+   "sha256": "f677e4351971c0b299362ba3aa20b2d851d86976c369160eeeed43e580793caa",
+   "timestamp": "2023-02-11T14:01:36.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/ssight.wav": {
+   "bytes": 15420,
+   "sha256": "9aff3b6cdac49976a4fe97b88ca14bc928ef55a14929fc796ae2b23148422f3b",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/stick.wav": {
+   "bytes": 75772,
+   "sha256": "6d082093eba3a126717318b1cdf08fef1f20d3c230a3299ad7792b0613314003",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/uwpush.wav": {
+   "bytes": 237240,
+   "sha256": "18a8a644cb0ea77e7caa4faeb62209b9d99a2ec31ce1efded809360cfa18bed2",
+   "timestamp": "2023-02-11T14:01:20.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/windoutdoor.wav": {
+   "bytes": 210410,
+   "sha256": "90f2ba34c858036f2a7329a292c3db6fe05b14282d59eab9b5399b957dbffe2c",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/jcrsounds/woodbreak1.wav": {
+   "bytes": 84742,
+   "sha256": "12cb1f72bd55e19c175b23cbf6ae2f39e539b46c8199963e8d49abac35d91ca8",
+   "timestamp": "2023-02-11T14:03:04.000Z"
+  },
+  "dwellv2p2/sound/kamikaze/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/kamikaze/kami_idle.wav": {
+   "bytes": 21136,
+   "sha256": "8ca5845b11bda02dc4d09ecabd8e583daf059bc31fc5303ef64c9ab19963be51",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/kamikaze/kami_pain.wav": {
+   "bytes": 17730,
+   "sha256": "2ad09494cb034d990bb3da4743d29f8d399b8fa17fc5f7ef4f4d751cba6ebf2d",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/kamikaze/kami_scream.wav": {
+   "bytes": 17768,
+   "sha256": "0361527057d4d807d7da94fe90fbf8ba3c07562bfd059b3ef28c5788cb406e4a",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/lain/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/lain/baah.wav": {
+   "bytes": 66794,
+   "sha256": "5da2b4f07c308aef0d6fcaad4fcfb16c0a783238911e0a7d5343b3272d053d24",
+   "timestamp": "2023-02-03T20:27:12.000Z"
+  },
+  "dwellv2p2/sound/lain/buzz1.wav": {
+   "bytes": 275394,
+   "sha256": "8c38ef74814d488a351c496eaa21695062607bff893b94a53a833fe6ce30f4fb",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/lain/darkchoir.wav": {
+   "bytes": 34284,
+   "sha256": "2caac27dfee5758eb293e0c76bf86baf82b0522c6f71281160e805c6ec282f96",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/lain/fl_hum1.wav": {
+   "bytes": 220542,
+   "sha256": "c925d73ef744b0a8c56507ff6fb18888de7ab803ea1f743060f8f9782180dcc7",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/lain/wind2.wav": {
+   "bytes": 57040,
+   "sha256": "7641643c47254d8bc72331ff90dee511cddfcbf03aaaa43f0cc7f35a4329ecdb",
+   "timestamp": "2023-01-29T23:31:32.000Z"
+  },
+  "dwellv2p2/sound/markie/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/markie/exca/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/markie/exca/ex_alert1.wav": {
+   "bytes": 62316,
+   "sha256": "ab4b09a7f5b5f8aba102af55a468eb9654074a32a6b563a959da5e3c2e660b65",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/exca/ex_alert2.wav": {
+   "bytes": 71742,
+   "sha256": "7bd75696bdc5172d78d874e955c9364b6f610bd3da8f10841c4ec21f34ef8b0c",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/exca/ex_fire.wav": {
+   "bytes": 33154,
+   "sha256": "d8c1ecd16461e1479371fe76aac1207cfe4bd8293a98370ae732e5307b4e1df9",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/exca/ex_kami.wav": {
+   "bytes": 102510,
+   "sha256": "c46c97af82a4e6fd16665e40f21e2568a94736bf70bf0bb8015e694de65a8047",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/exca/ex_pain1.wav": {
+   "bytes": 20942,
+   "sha256": "1fcd83aa2beae7a5e6240a57dd0657f94ddce743547818987b074f4dacf7b868",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/exca/ex_pain2.wav": {
+   "bytes": 22276,
+   "sha256": "37371a77e686b3fa8e674d1e071bec92577909950acd1b4adb7848ea2a097a82",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/metalscreech3.wav": {
+   "bytes": 118598,
+   "sha256": "29b5f8e1aea057683e7944c331a861038e1f86b96dee6099d3b75439c5fdbfcc",
+   "timestamp": "2023-01-31T19:06:36.000Z"
+  },
+  "dwellv2p2/sound/markie/roar1.wav": {
+   "bytes": 132380,
+   "sha256": "9a50c8ea4b0bf75bc5d3985b0ad82810b2ba328ae9432d906be7641a8b9dbc41",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/roar2.wav": {
+   "bytes": 77252,
+   "sha256": "f0bdcc21bb9abaf431cc3e1fe093bb9136c64eeca566ec0718af0040a80445ea",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/roar3.wav": {
+   "bytes": 110330,
+   "sha256": "a37df057eb7b5e1e0ae32c45370ca3e2e2c32fa1076f2337f20b927980ae738c",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/markie/rumbe.wav": {
+   "bytes": 105990,
+   "sha256": "46728daf18b142575d50049188030a153c0e3e994dc83ea375c43ba6da171b3c",
+   "timestamp": "2023-02-11T14:01:46.000Z"
+  },
+  "dwellv2p2/sound/markie/rumble.wav": {
+   "bytes": 105990,
+   "sha256": "46728daf18b142575d50049188030a153c0e3e994dc83ea375c43ba6da171b3c",
+   "timestamp": "2023-02-11T14:01:46.000Z"
+  },
+  "dwellv2p2/sound/misc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/misc/coin.wav": {
+   "bytes": 216990,
+   "sha256": "e2cfa250f3683ff73d16b7f46050f393948a151f1a2dbff2cb35706b071b8e87",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/misc/crykey.wav": {
+   "bytes": 63506,
+   "sha256": "c2552f0cfa20f8c81ad3c458b45f018bd7d8e67cd33337f5da27833382c1c275",
+   "timestamp": "2022-06-26T21:13:58.000Z"
+  },
+  "dwellv2p2/sound/misc/hexkey.wav": {
+   "bytes": 71244,
+   "sha256": "18d8be40c0edd137dd349b13ccbd6b182de6eba954c2ac172a4606c04ec22591",
+   "timestamp": "2022-06-26T20:39:22.000Z"
+  },
+  "dwellv2p2/sound/misc/laser_on.wav": {
+   "bytes": 41762,
+   "sha256": "e1a72d5a5aaec9230348910976eb723ad5e7cd24ebd11ad296b0bc5c09de1eac",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/misc/laseroff.wav": {
+   "bytes": 67100,
+   "sha256": "a15f76266e830249d5cfc6ffc020833f84be1d66e25d25d657d0313be64656fb",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/misc/menu1.wav": {
+   "bytes": 7570,
+   "sha256": "42293aefd9b676c47f41aca49f84998aa8748cf9efde6e3c43da0b96a98ff263",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/misc/menu2.wav": {
+   "bytes": 13861,
+   "sha256": "f3af447800e09fa7cd75a3029b18def44a24ed000c433cdbd1290767004d088a",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/misc/scarabkey.wav": {
+   "bytes": 31198,
+   "sha256": "e85ca1745785c04c72495b701d780fb0fb0237abeb19984eef58b4ed751fe005",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/misc/w_under.wav": {
+   "bytes": 39884,
+   "sha256": "e441a7c33602470db85979142cf0b90166ddeb9f51949a33fbab3998ee1e31e5",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/misc/w_under2.wav": {
+   "bytes": 72616,
+   "sha256": "46d386334de7dc588df6a1f21fc946d8cd39823355b1c59be9eec88183c5b03a",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/pbq/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/pbq/coin.wav": {
+   "bytes": 216990,
+   "sha256": "e2cfa250f3683ff73d16b7f46050f393948a151f1a2dbff2cb35706b071b8e87",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/sound/lain/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/sound/lain/buzz1.wav": {
+   "bytes": 275394,
+   "sha256": "8c38ef74814d488a351c496eaa21695062607bff893b94a53a833fe6ce30f4fb",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-02-11T14:26:26.000Z"
+  },
+  "dwellv2p2/sound/weapons/rail.wav": {
+   "bytes": 110330,
+   "sha256": "c444b991525b02b34427d853e1a1d9967c5748676a1743c3ccbc05fa73a973b4",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/weapons/rifle.wav": {
+   "bytes": 57334,
+   "sha256": "5c1b1df4e815164a884cb14741203f6be8607313179a044fb1259b8755300e1a",
+   "timestamp": "2023-01-30T15:14:30.000Z"
+  },
+  "dwellv2p2/sound/weapons/shotgn3.wav": {
+   "bytes": 103668,
+   "sha256": "eab5689ac7d35c4361fe999dbba5b58c3bf1a01c2830e988f65c59fdf05d9fb8",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/weapons/spindn.wav": {
+   "bytes": 17898,
+   "sha256": "1e062dbca69898cd32c688ee214648ba1ce0fa4bced73ad076698ba1d0cf2987",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/weapons/spindn_click.wav": {
+   "bytes": 9986,
+   "sha256": "b84866cddb7e61eea9ca49208d427c2289d63e6e3e2f59d4d51e302573079bc7",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  },
+  "dwellv2p2/sound/weapons/trshcnn.wav": {
+   "bytes": 13417,
+   "sha256": "f273eb88a41d7ef303ec8666aa66f0818f28fee74a8b9ee9a067c45f5fb4c75a",
+   "timestamp": "2023-01-29T23:31:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "15bbc5dc0eb3fee5763835cea1aa62ab263545ca8c04aaa019982d45d1e8d11d",
+ "tags": [
+  "author=Alekswithak",
+  "author=Bal",
+  "author=Danz",
+  "author=Fairweather",
+  "author=Greenwood",
+  "author=JCR",
+  "author=Juzley",
+  "author=Khreathor",
+  "author=Makkon",
+  "author=Markie",
+  "author=Mazu",
+  "author=Pinchy",
+  "author=PoolboyQ",
+  "author=Shamblernaut",
+  "author=VoidForce",
+  "author=bmFbr",
+  "author=h4724",
+  "author=ptoing",
+  "commandline=-game dwellv2p2",
+  "filename=dwellv2p2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=https://www.slipseer.com/index.php?resources/dwell.21/",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/dwell.21/)",
+  "link=[YouTube trailer](https://www.youtube.com/watch?v=dpTfgODVMHw)",
+  "map_size=large",
+  "mod=copper",
+  "music=custom",
+  "nonspecific_tag=campaign",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=cr8",
+  "nonspecific_tag=elder",
+  "nonspecific_tag=flesh",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=koohoo",
+  "nonspecific_tag=models",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=textures",
+  "release_date=2023-02-12",
+  "source=included",
+  "startmap=d1end",
+  "startmap=d1m1",
+  "startmap=d1m2",
+  "startmap=d1m3",
+  "startmap=d1m4",
+  "startmap=d1m5",
+  "startmap=d1m6",
+  "startmap=d1m7",
+  "startmap=d1m8",
+  "startmap=d1m9",
+  "startmap=d2end",
+  "startmap=d2m1",
+  "startmap=d2m2",
+  "startmap=d2m3",
+  "startmap=d2m4",
+  "startmap=d2m5",
+  "startmap=d2m6",
+  "startmap=d2m7",
+  "startmap=d2m8",
+  "startmap=d2m9",
+  "startmap=start",
+  "theme=base",
+  "theme=blood",
+  "theme=egypt",
+  "theme=exploration",
+  "theme=secrets",
+  "theme=void",
+  "title=Dwell v2.2",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/dwellv2p2.zip",
+  "https://www.quaddicted.com/files/by-sha256/15/15bbc5dc0eb3fee5763835cea1aa62ab263545ca8c04aaa019982d45d1e8d11d/dwellv2p2.zip"
+ ]
+}

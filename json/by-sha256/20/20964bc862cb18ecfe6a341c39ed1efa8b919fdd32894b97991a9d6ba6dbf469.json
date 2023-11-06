@@ -1,0 +1,62 @@
+{
+ "bytes": 2473,
+ "files": {
+  "fmb100.bat": {
+   "bytes": 72,
+   "sha256": "9d2f3c5bfc5e32aef9e498eb48fec3ba2a7bef74065ed10a20d48a3d53b0ec00",
+   "timestamp": "2004-10-09T13:47:44.000Z"
+  },
+  "fmb100/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2004-10-14T18:33:50.000Z"
+  },
+  "fmb100/pak0.pak": {
+   "bytes": 6163984,
+   "files": {
+    "maps/fmb100.bsp": {
+     "bytes": 5747944,
+     "sha256": "94af7eed16f438cbc90aec39f21687a085d3ff16f82eafa0683d37858c6f8636"
+    },
+    "progs.dat": {
+     "bytes": 415900,
+     "sha256": "2176d4d1abc10be59625a195a57848cfb1196c1a8e1e986c3460589c57a6e377"
+    }
+   },
+   "sha256": "ac369f0f58a62ab10bfda47b02d11ecf280ddfd89b957f4d70e52f406135c4ec",
+   "timestamp": "2004-10-14T18:32:06.000Z"
+  },
+  "wildebeest.txt": {
+   "bytes": 9200,
+   "sha256": "4cf0572ebdcc26277a696fce564ecc8d1392512c18fd91e6641d2821d0a29652",
+   "timestamp": "2004-10-11T17:00:30.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "20964bc862cb18ecfe6a341c39ed1efa8b919fdd32894b97991a9d6ba6dbf469",
+ "tags": [
+  "author=Mike Woodham &amp; Tronyn",
+  "commandline=-game fmb100",
+  "filename=fmb100.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.mikewoodham.com",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev041219.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "map_size=large",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2004-10-14",
+  "theme=egyptian",
+  "theme=medieval",
+  "theme=temple",
+  "title=A Roaming Wildebeest In Spain",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/fmb100.zip",
+  "https://www.quaddicted.com/files/by-sha256/20/20964bc862cb18ecfe6a341c39ed1efa8b919fdd32894b97991a9d6ba6dbf469/fmb100.zip"
+ ]
+}

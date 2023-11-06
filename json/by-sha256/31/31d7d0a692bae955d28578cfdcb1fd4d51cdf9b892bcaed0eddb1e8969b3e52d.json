@@ -1,0 +1,88 @@
+{
+ "bytes": 27044,
+ "files": {
+  "RMQEngine_0.85.3.zip": {
+   "bytes": 391535,
+   "files": {
+    "RMQEngine-Win32.exe": {
+     "bytes": 510464,
+     "sha256": "f9935ea5bc390b3d7162ce6d5377a810c3df9aa430cdea6ee85230245a0e89cc",
+     "timestamp": "2011-12-28T15:52:20.000Z"
+    },
+    "SDL.dll": {
+     "bytes": 323691,
+     "sha256": "9b149543f3d63d40a4b92d2313af5f3e8af55bb37f2e247e9ba9f54b1864ef77",
+     "timestamp": "2011-03-01T21:36:48.000Z"
+    },
+    "SDL_net.dll": {
+     "bytes": 13312,
+     "sha256": "ab2747959774add5d6676f5a570b0cf74a43deb1e6e2af8413007796c6af1030",
+     "timestamp": "2010-08-24T13:13:22.000Z"
+    }
+   },
+   "sha256": "74c755661a3acd71b661a987aaa7da2c514266fcc32c402797745f450cd74a55",
+   "timestamp": "2013-11-14T10:39:40.000Z"
+  },
+  "oms3.bsp": {
+   "bytes": 27300532,
+   "sha256": "a9861bcb4c07250ede4508b93dffaec5891ecd8de020308efb9972e61db45aff",
+   "timestamp": "2016-01-20T18:32:50.000Z"
+  },
+  "oms3.map": {
+   "bytes": 9966543,
+   "sha256": "537ae42bf8cd08ca6400870787fdfd4de209a67bea062242ab119157ee2ddf21",
+   "timestamp": "2016-01-20T18:19:16.000Z"
+  },
+  "oms3.wad": {
+   "bytes": 2633668,
+   "sha256": "b01b7ae1182099aaa80fb54f66e6257f6ee94f1e2bbaa6e4ca1ddaf664dfbf96",
+   "timestamp": "2015-12-26T13:23:22.000Z"
+  },
+  "oms3_2.bsp": {
+   "bytes": 81746552,
+   "sha256": "acb244d97c72f59a26fbdcbb8fe73bd6e9d8d05ac064d7bc2bb866110db5a6fb",
+   "timestamp": "2016-01-19T17:48:58.000Z"
+  },
+  "oms3_2.map": {
+   "bytes": 19057122,
+   "sha256": "6b68f7f034de4ef4a74e62f1928849ad90678b899bb10b04a7fed0f99f8b45d6",
+   "timestamp": "2016-01-19T17:11:34.000Z"
+  },
+  "readme.txt": {
+   "bytes": 1447,
+   "sha256": "f4c5dc3926a2a50502005437713c47dc461762de7485d930b96f7c9ef2616e37",
+   "timestamp": "2016-01-20T19:47:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "31d7d0a692bae955d28578cfdcb1fd4d51cdf9b892bcaed0eddb1e8969b3e52d",
+ "tags": [
+  "author=ORL",
+  "commandline=+sv_protocol 999",
+  "exceeds_quake_limits=yes",
+  "filename=oms3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://qrf.servequake.com/~orl/",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61280)",
+  "map_size=large",
+  "nonspecific_tag=giger",
+  "nonspecific_tag=unique",
+  "release_date=2016-01-21",
+  "source=included",
+  "startmap=oms3",
+  "startmap=oms3_2",
+  "theme=abstract",
+  "theme=base",
+  "theme=traps",
+  "title=Cataractnacon / Zeangala",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/oms3.zip",
+  "https://www.quaddicted.com/files/by-sha256/31/31d7d0a692bae955d28578cfdcb1fd4d51cdf9b892bcaed0eddb1e8969b3e52d/oms3.zip"
+ ]
+}

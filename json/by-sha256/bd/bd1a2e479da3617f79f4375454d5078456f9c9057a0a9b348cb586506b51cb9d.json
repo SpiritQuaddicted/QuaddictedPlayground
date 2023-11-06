@@ -1,0 +1,71 @@
+{
+ "bytes": 10570,
+ "files": {
+  "ad_juz2.txt": {
+   "bytes": 4426,
+   "sha256": "54a8c83ab16b308b92c6523307e264287873cd5cdf5bea7f033f1f8013fc6bad",
+   "timestamp": "2020-06-28T13:51:26.000Z"
+  },
+  "maps/ad_juz2.bsp": {
+   "bytes": 20643972,
+   "sha256": "2a825cb912dba621c77651d35b707d769f0399fbf5515592ae6bbd8f2247de1f",
+   "timestamp": "2020-06-28T13:52:04.000Z"
+  },
+  "maps/ad_juz2.lit": {
+   "bytes": 1741334,
+   "sha256": "d55622537b2f2726086d7a5ae8b7a704bd0dcf75b17093d27197cc36fcadb210",
+   "timestamp": "2020-06-28T13:52:04.000Z"
+  },
+  "maps/ad_juz2.map": {
+   "bytes": 4299864,
+   "sha256": "456cd9e5c2e924c9cffcf6d99856111eba7acc58b983f396a4af9859e62b1998",
+   "timestamp": "2020-06-28T13:51:16.000Z"
+  },
+  "mapsrc/ad_juz2.map": {
+   "bytes": 4299864,
+   "sha256": "456cd9e5c2e924c9cffcf6d99856111eba7acc58b983f396a4af9859e62b1998",
+   "timestamp": "2020-06-28T13:51:16.000Z"
+  },
+  "music/track93.ogg": {
+   "bytes": 1145454,
+   "sha256": "33239c5a655982a68b83fbc260c6fd7e2d3e68aa2e4a83653b5e4b099ae4ce38",
+   "timestamp": "2020-06-28T12:47:46.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "bd1a2e479da3617f79f4375454d5078456f9c9057a0a9b348cb586506b51cb9d",
+ "tags": [
+  "author=Juzley",
+  "bsp_format=bsp2",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "dependency=ad_v1_70patch1",
+  "exceeds_quake_limits=yes",
+  "filename=ad_juz2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61908)",
+  "map_size=medium",
+  "mod=arcanedimensions",
+  "music=custom",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=makkon",
+  "nonspecific_tag=textures",
+  "release_date=2020-06-28",
+  "source=included",
+  "theme=arcane dimensions",
+  "theme=medieval",
+  "theme=quake 3",
+  "theme=remake",
+  "theme=remix",
+  "title=Retribution Revisited",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_juz2.zip",
+  "https://www.quaddicted.com/files/by-sha256/bd/bd1a2e479da3617f79f4375454d5078456f9c9057a0a9b348cb586506b51cb9d/ad_juz2.zip"
+ ]
+}

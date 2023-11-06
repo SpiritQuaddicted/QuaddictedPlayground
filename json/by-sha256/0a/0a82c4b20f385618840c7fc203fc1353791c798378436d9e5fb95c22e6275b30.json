@@ -1,0 +1,80 @@
+{
+ "bytes": 866,
+ "files": {
+  "sul01/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-03-28T22:34:52.000Z"
+  },
+  "sul01/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-03-28T22:34:48.000Z"
+  },
+  "sul01/maps/sul0.bsp": {
+   "bytes": 630188,
+   "sha256": "069fe4d313b7c7523c1f21755673aba6dfd56f4416ddca15288a8653d9b485ca",
+   "timestamp": "1980-06-25T16:39:48.000Z"
+  },
+  "sul01/maps/sul1.bsp": {
+   "bytes": 1149208,
+   "sha256": "21d32ec8f97e1aaea347375766266e0891ddddd50b632dc0cafd49ad89a58159",
+   "timestamp": "1996-11-29T15:34:26.000Z"
+  },
+  "sul01/progs.dat": {
+   "bytes": 414376,
+   "sha256": "c73e3a8c01e218dbf62b9f547c5d9c84a51b9320c462671565ee320ad99a7e36",
+   "timestamp": "1996-11-20T18:14:40.000Z"
+  },
+  "sul01/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-03-28T22:34:52.000Z"
+  },
+  "sul01/progs/g_laser.mdl": {
+   "bytes": 50276,
+   "sha256": "993e9a4c9e7e101056ca8056bb47982ea184790dc5b40deadfee5bde422b2ae0",
+   "timestamp": "1996-07-26T22:24:08.000Z"
+  },
+  "sul01/sul1.txt": {
+   "bytes": 1839,
+   "sha256": "64d2bc2530cb8907dfc2fac22048eb03997b3736b8e023e0cde4a8afe972bfe6",
+   "timestamp": "1996-11-30T00:34:30.000Z"
+  },
+  "sul01_quaddictedrepack.txt": {
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "timestamp": "2009-04-28T16:14:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30",
+ "tags": [
+  "author=Sul",
+  "commandline=-game sul01",
+  "filename=sul01.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_layout=non-linear",
+  "map_size=medium",
+  "nonspecific_tag=start map",
+  "release_date=1996-11-30",
+  "startmap=sul0",
+  "startmap=sul1",
+  "theme=egyptian",
+  "theme=exploration",
+  "theme=puzzle",
+  "theme=pyramid",
+  "theme=stone",
+  "theme=traps",
+  "title=Sul's Dark Tower &amp; Pit of Damnation",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sul01.zip",
+  "https://www.quaddicted.com/files/by-sha256/0a/0a82c4b20f385618840c7fc203fc1353791c798378436d9e5fb95c22e6275b30/sul01.zip"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "bytes": 3085,
+ "files": {
+  "Masquereadme.txt": {
+   "bytes": 4263,
+   "sha256": "6d134a8e65a13a839e3411ab1b54c036adaa76c50c663fdd454b9d4de1478d38",
+   "timestamp": "2005-10-12T22:10:22.000Z"
+  },
+  "Pak0.PAK": {
+   "bytes": 7744945,
+   "files": {
+    "maps/masque.bsp": {
+     "bytes": 6188816,
+     "sha256": "813e0b81a4d865ed5ef285d7371defe3faba0ca851a0290c582c5dda4420444d"
+    },
+    "maps/masquestart.bsp": {
+     "bytes": 1484352,
+     "sha256": "70b9b10c53fb8613bfc90d630ad97175dc162e50468bbad22dbcb6e3aa8a8877"
+    },
+    "sound/laugh.wav": {
+     "bytes": 71573,
+     "sha256": "cb8e1381c70240a93233b8571d792e21950d00b1285f867cbc0ed1237dac1df7"
+    }
+   },
+   "sha256": "f7835700639386cc5fefe7f15d00b815cab7b1a5462f4864d078e2a8217d8194",
+   "timestamp": "2005-10-11T21:10:58.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/masque/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff",
+ "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
+  "commandline=-hipnotic -game masque",
+  "dependency=hipnotic",
+  "exceeds_quake_limits=yes",
+  "filename=masque.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://tronyn.planetquake.gamespy.com",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev051101a.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "map_size=large",
+  "nonspecific_tag=old version",
+  "release_date=2005-10-12",
+  "startmap=masque",
+  "startmap=masquestart",
+  "theme=canyon",
+  "theme=dissolution of eternity",
+  "theme=medieval",
+  "theme=scourge of armagon",
+  "title=The Masque of Red Death",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/masque.zip",
+  "https://www.quaddicted.com/files/by-sha256/6f/6f720dde5e6156b36631955ec369845d0eef25e5a96732ba5026f7a1204d7aff/masque.zip"
+ ]
+}

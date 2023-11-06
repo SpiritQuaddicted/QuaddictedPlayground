@@ -1,0 +1,310 @@
+{
+ "bytes": 3669,
+ "files": {
+  "sthangar/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-05-02T14:52:40.000Z"
+  },
+  "sthangar/gnu.txt": {
+   "bytes": 14969,
+   "sha256": "2f4d8811d21f8a6e1ba2353644e93a973cf3ef326776a06ff755b9357f4ca248",
+   "timestamp": "1999-12-21T19:01:14.000Z"
+  },
+  "sthangar/pak0.pak": {
+   "bytes": 8389617,
+   "files": {
+    "maps/sthangar.bsp": {
+     "bytes": 5982536,
+     "sha256": "be773edc96e7b6a68d7050cc4adab0e0b1ae6abad518b02be94956bcabdbad35"
+    },
+    "maps/sthangar.lit": {
+     "bytes": 1766558,
+     "sha256": "c1bbe8b7d7dc5b74a08bd2aa627258ae281c3d49a20cfbeabdf199c3be267d52"
+    },
+    "progs.dat": {
+     "bytes": 331582,
+     "sha256": "5331a32015c0e392c76ff07eee78db868192daac050008cc8aa951e2aa2ee05c"
+    },
+    "progs/bigcranea.mdl": {
+     "bytes": 92792,
+     "sha256": "3e8c70c79bd0844dd40e0538104779ffdf59510f68be90ddffb447c9b4ea5410"
+    },
+    "progs/bigcraneb.mdl": {
+     "bytes": 21940,
+     "sha256": "6a88f3586991d8ce5eabb5c9e05a4d21d3c0b9e121d95cb6606b534a40e28a88"
+    },
+    "progs/bigheli.mdl": {
+     "bytes": 44904,
+     "sha256": "0a202b1859508adf995ce87f982e21c68f38c52f622ac33ec7f9e8e07c66e92b"
+    },
+    "progs/bighelijet.mdl": {
+     "bytes": 102656,
+     "sha256": "00326ed3cc0f70a0967999322c31257d7522662b559af2de413325f99632c9f6"
+    },
+    "progs/bumpmap.pcx": {
+     "bytes": 1842,
+     "sha256": "675c8072315d0a1d49c036027c584b271df4850953c5ddf69a9c3ac229cdd3b6"
+    },
+    "progs/console.mdl": {
+     "bytes": 41912,
+     "sha256": "1ee5f0fc5f4e676a3b9169b06ea91925257c509125f3daeb115853717ed509af"
+    },
+    "progs/console.py": {
+     "bytes": 2243,
+     "sha256": "c5cc4e1881691124f6bf0e9ba065f7e347449481a3eb51dc6257b8c9964f4647"
+    }
+   },
+   "sha256": "8e10e0d322ffad4f9aa492aac516c827752a1aa1406b683c83dc1b4996211eed",
+   "timestamp": "2018-05-02T13:40:30.000Z"
+  },
+  "sthangar/quake+miscmodels.fgd": {
+   "bytes": 18515,
+   "sha256": "a73f23f110d93dd35adaa625d1cf01deb243b3bc3e891383dbf0e5c1f5d138f2",
+   "timestamp": "2017-11-11T15:48:38.000Z"
+  },
+  "sthangar/sthangar.TXT": {
+   "bytes": 11408,
+   "sha256": "d9d0da6be6ddfdbe79a310968dc8cffad7485fbac69cdad11b21987d1af155f0",
+   "timestamp": "2018-05-02T14:27:38.000Z"
+  },
+  "sthangar/sthangar.map": {
+   "bytes": 3716039,
+   "sha256": "70a47cc915a6de7ec0e12fba91b7fd07cd8a87655697c1775eca91930f10583c",
+   "timestamp": "2018-05-02T13:37:08.000Z"
+  },
+  "sthangar/sthangarqc.zip": {
+   "bytes": 107073,
+   "files": {
+    "sthangarqc/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2018-05-02T14:13:16.000Z"
+    },
+    "sthangarqc/ai.qc": {
+     "bytes": 14521,
+     "sha256": "54a6329a086391d2f1296fd30afd5db9ca676f7f15911c703b15e440b4e5778c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/amtest.qc": {
+     "bytes": 1697,
+     "sha256": "8dd158020b8c0be6988b0f1fbe03990372fb769442dbaf85248ef8c0e18645ee",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/boss.qc": {
+     "bytes": 12411,
+     "sha256": "674893303bff9280f134066f168b06dd2dd1d58591c42acc2c70c6e2a4b9ba82",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/buttons.qc": {
+     "bytes": 2910,
+     "sha256": "4a3075cd783cdb788948dd1dc79abb63cfb30a016cb3f1a5979814f457dd9f6c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/client.qc": {
+     "bytes": 33404,
+     "sha256": "dba49e1f5207b631fd7fc061580979925aa90062076180264f879eb40a83f4e7",
+     "timestamp": "2018-04-23T10:36:02.000Z"
+    },
+    "sthangarqc/combat.qc": {
+     "bytes": 6130,
+     "sha256": "9e55bcbbb486d6c396ba9ee797de982be4cc79a94ffe2c40fba89bf3f72a5c4c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/defs.qc": {
+     "bytes": 17423,
+     "sha256": "04cb32ac80aba9f2092dea14e811603422bc5aefa830c818cbdbae8440852c10",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/demon.qc": {
+     "bytes": 9904,
+     "sha256": "b20d0e3664ff9ff9e55222ad73507016a832b15a4cb28f93b86e90fa35ea445c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/dog.qc": {
+     "bytes": 9542,
+     "sha256": "7dd3980dc2f284046f0e516b39d8b7391ac4a87b758b2f89aeb682feab2cc2bc",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/doors.qc": {
+     "bytes": 17028,
+     "sha256": "125ecc6795edfa031b44082217a4f004a630e44e438b9dcb3e374f9d56b6ed9c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/enforcer.qc": {
+     "bytes": 10727,
+     "sha256": "01b86eed9379c58b6028480ab180b8dd7be433c4c143ca361ca149609961c379",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/fight.qc": {
+     "bytes": 7208,
+     "sha256": "c68c3310e794200ef61c79ed9665490b3e893ff7d2d6243e5f6aeda7d9885925",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/fish.qc": {
+     "bytes": 7747,
+     "sha256": "d42dc2975ddc8a606959661ae26b95156aa90fcef0c25de7b47934b2ef509c94",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/flag.qc": {
+     "bytes": 141,
+     "sha256": "143f0b896c7515dcdaaf5b436d130fe1ffb6fa67cad2a34ad4639724201b3445",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/hknight.qc": {
+     "bytes": 18298,
+     "sha256": "302a397cbd1fc639b70767a01a6d8e3696699165e2c4a00d1a33231102408682",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/items.qc": {
+     "bytes": 30000,
+     "sha256": "d3e9e5fb26ac51f9fffcb282f2b98b3f7130f5531b157aa1812a0e578b245e19",
+     "timestamp": "2018-04-23T10:35:16.000Z"
+    },
+    "sthangarqc/jctest.qc": {
+     "bytes": 222,
+     "sha256": "0b356238bdae38139e36fb7f9ed5a72e65accee92b48f25035b79ec315a7da06",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/knight.qc": {
+     "bytes": 9684,
+     "sha256": "53202927092c04d472a311e5ec8732cdb2ed9224c6520fbe4d126e152b5cee87",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "sthangarqc/misc.qc": {
+     "bytes": 16771,
+     "sha256": "d929a42f43075702687d4caa6048ba995bf310a9847b4cca336c4139991a2f7c",
+     "timestamp": "2018-03-01T21:02:32.000Z"
+    },
+    "sthangarqc/models.qc": {
+     "bytes": 8996,
+     "sha256": "d11fd0939293244962c5a40766e1dce246bde98eb0d42c87eb530a58d6eca64d",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/monsters.qc": {
+     "bytes": 4798,
+     "sha256": "cd29084e3f58192819848c3030c6717487d2641d848d118da433e1348ee59c8e",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/ogre.qc": {
+     "bytes": 14657,
+     "sha256": "193565dc8f263640e62c476c885c432d774076dac8c99bca7105eadff0ebed85",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/oldone.qc": {
+     "bytes": 9537,
+     "sha256": "3ebf15cec4adf547d8859cb54772e9c1c331fd30cb3c82bccb328bb945e5f834",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/plats.qc": {
+     "bytes": 7693,
+     "sha256": "a5338b5e69814d193d06685e9c24a417fe1b94d46e996f87c7788218791901b1",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/player.qc": {
+     "bytes": 17554,
+     "sha256": "659665c41b4cc226055e037fc9d2b89f9ad3836a2c9a7517e1655ad18338b380",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/progdefs.h": {
+     "bytes": 2598,
+     "sha256": "99e562ac15081804245e7c7018956f2241cffa00a024a954c97183248bd00ea4",
+     "timestamp": "2000-11-04T16:03:40.000Z"
+    },
+    "sthangarqc/progs.src": {
+     "bytes": 1216,
+     "sha256": "2548097b705b06c1749088b3276305d08d39f49dce2826e4df23a2bb392e01f8",
+     "timestamp": "2018-03-01T21:14:20.000Z"
+    },
+    "sthangarqc/shalrath.qc": {
+     "bytes": 7880,
+     "sha256": "4c53306f4412184ba7bc26b93acbcd5504d922d1056beaca11484665efcff1b7",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/shambler.qc": {
+     "bytes": 12725,
+     "sha256": "0c50557b8757d8be3a0876564cfa125e4e8389cae1c55c844871aff5f844c342",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/soldier.qc": {
+     "bytes": 9825,
+     "sha256": "f66da2d85ad5ac42dfe13fd434018e64ca8eddba1e7b3abb747b4577ba072d01",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/sprites.qc": {
+     "bytes": 450,
+     "sha256": "c00564e7ca0ab70d7891931ff333461ff90aa6052f46e8ebb02f59de6e03787d",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/subs.qc": {
+     "bytes": 6062,
+     "sha256": "8fa013564dcf7be1df26888fbc304159b29be25ed43c4599333c9d8de809b356",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/tarbaby.qc": {
+     "bytes": 7116,
+     "sha256": "4968e4ee45f401c5a703a9c687cddbdb2acd80f3ca2bf95c71f4260a977aae71",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/triggers.qc": {
+     "bytes": 14121,
+     "sha256": "2d35e4bfc2d5450401d2a27580a09abd69cdc8b125b0de29086e65275bb8dd51",
+     "timestamp": "2018-04-23T09:43:14.000Z"
+    },
+    "sthangarqc/weapons.qc": {
+     "bytes": 25227,
+     "sha256": "7f3d2541500506fe8d6d9155f3893667d1c58ff5ac9e8cfd81aa183a6a5fd01c",
+     "timestamp": "1996-09-30T03:08:08.000Z"
+    },
+    "sthangarqc/wizard.qc": {
+     "bytes": 10663,
+     "sha256": "250aa24a63df4d02949abe2cbeee24f9f959d1ecf468c6b3108d0384c7db6d32",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/world.qc": {
+     "bytes": 11058,
+     "sha256": "85e5fc17f9eb4cbcc702183a148d543b035604471bb83422f1bb1b40639de58f",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "sthangarqc/zombie.qc": {
+     "bytes": 20108,
+     "sha256": "027ec53b0caa6c1c46c1f6156a854c886ab6fcd9c628707ebea1d3ca1c185519",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    }
+   },
+   "sha256": "f9e9ecd61b7c026f54ca85cb058d3984f7911624fe5949877e44b87a9bc0607e",
+   "timestamp": "2018-05-02T14:14:16.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "8fe3d61a0e046478541287ed19c5704d20a5926f1ec904c154b98f28e1b01243",
+ "tags": [
+  "author=Esrael",
+  "commandline=-game sthangar",
+  "exceeds_quake_limits=yes",
+  "filename=sthangar.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61569)",
+  "map_layout=maze",
+  "map_size=small",
+  "nonspecific_tag=models",
+  "nonspecific_tag=multiple exits",
+  "nonspecific_tag=routes",
+  "release_date=2018-05-02",
+  "source=included",
+  "theme=base",
+  "theme=realism",
+  "theme=slime",
+  "title=The Subterrestrial Hangar",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sthangar.zip",
+  "https://www.quaddicted.com/files/by-sha256/8f/8fe3d61a0e046478541287ed19c5704d20a5926f1ec904c154b98f28e1b01243/sthangar.zip"
+ ]
+}

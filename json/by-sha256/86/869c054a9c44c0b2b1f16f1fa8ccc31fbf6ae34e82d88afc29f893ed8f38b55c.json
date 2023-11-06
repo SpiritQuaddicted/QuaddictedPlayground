@@ -1,0 +1,64 @@
+{
+ "bytes": 12735,
+ "files": {
+  "DisjointedRealms/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-07-29T21:26:22.000Z"
+  },
+  "DisjointedRealms/disjointedrealms.bsp": {
+   "bytes": 28501280,
+   "sha256": "267f085792d32c49fda21030cbc4d3ab2793cf377787a5720d0e5083c32c10c4",
+   "timestamp": "2018-07-29T02:02:38.000Z"
+  },
+  "DisjointedRealms/disjointedrealms.lit": {
+   "bytes": 7349057,
+   "sha256": "d334ea99265e82ad067dfd775d3c354ddcf2304113301d98a6195697c94852ed",
+   "timestamp": "2018-07-29T02:02:38.000Z"
+  },
+  "DisjointedRealms/disjointedrealms.map": {
+   "bytes": 12733591,
+   "sha256": "c48f711eaefaec9b4629dc542349ca66f6f7920ee2a890f6b3e8d8dde41b884b",
+   "timestamp": "2018-07-29T12:49:42.000Z"
+  },
+  "DisjointedRealms/disjointedrealms.txt": {
+   "bytes": 2720,
+   "sha256": "9fa7e9408701b3fdcee31f2470d5402af7549d9314ea5d4b079c2601b086c648",
+   "timestamp": "2018-07-28T13:44:58.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "869c054a9c44c0b2b1f16f1fa8ccc31fbf6ae34e82d88afc29f893ed8f38b55c",
+ "tags": [
+  "author=reslario",
+  "commandline=-game ad",
+  "exceeds_quake_limits=yes",
+  "filename=disjointedrealms.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61605)",
+  "map_size=large",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=textures",
+  "release_date=2018-07-29",
+  "source=included",
+  "startmap=disjointedrealms/disjointedrealms",
+  "theme=arcane dimensions",
+  "theme=bricks",
+  "theme=castle",
+  "theme=fog",
+  "theme=medieval",
+  "theme=space",
+  "title=Disjointed Realms",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/disjointedrealms.zip",
+  "https://www.quaddicted.com/files/by-sha256/86/869c054a9c44c0b2b1f16f1fa8ccc31fbf6ae34e82d88afc29f893ed8f38b55c/disjointedrealms.zip"
+ ]
+}

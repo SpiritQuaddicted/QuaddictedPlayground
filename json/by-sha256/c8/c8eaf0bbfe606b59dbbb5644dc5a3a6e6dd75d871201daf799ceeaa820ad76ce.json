@@ -1,0 +1,111 @@
+{
+ "bytes": 4899,
+ "files": {
+  "README!.txt": {
+   "bytes": 2425,
+   "sha256": "ec9e3ca8214921e4674e1cb7d2adc64e2f765aff99558e85e6a07cf1ef8f4bfc",
+   "timestamp": "2021-06-08T17:00:16.000Z"
+  },
+  "id1/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-06-08T14:33:42.000Z"
+  },
+  "id1/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-06-08T14:33:32.000Z"
+  },
+  "id1/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-06-08T14:33:32.000Z"
+  },
+  "id1/gfx/env/trueblue_bk.tga": {
+   "bytes": 786476,
+   "sha256": "ed97c6fbdce8853269c568c8198277c22b32fe1f04215fc1d9f8957edc18b954",
+   "timestamp": "2001-05-19T01:39:58.000Z"
+  },
+  "id1/gfx/env/trueblue_dn.tga": {
+   "bytes": 786476,
+   "sha256": "104eca48573512289d5c1704aa5689d3b308b644bf6e0c38f1ee293cd2b07ae9",
+   "timestamp": "2001-05-19T01:40:12.000Z"
+  },
+  "id1/gfx/env/trueblue_ft.tga": {
+   "bytes": 786476,
+   "sha256": "646264e49ea9d66af4caa4d24a1b80e17debdd03db057ac5a6414396fd9d1d2b",
+   "timestamp": "2001-05-19T01:43:04.000Z"
+  },
+  "id1/gfx/env/trueblue_lf.tga": {
+   "bytes": 786476,
+   "sha256": "418ed8bfc039157b299a061a890af09c6409ecb938919bfe1ed87e906dd70201",
+   "timestamp": "2001-05-19T01:39:14.000Z"
+  },
+  "id1/gfx/env/trueblue_rt.tga": {
+   "bytes": 786476,
+   "sha256": "f2c162ab64bf501c2d57000d87ce7cb4e2de5afe1f6c273d60e6579d9946f4fd",
+   "timestamp": "2001-05-19T01:40:22.000Z"
+  },
+  "id1/gfx/env/trueblue_up.tga": {
+   "bytes": 786476,
+   "sha256": "7554854adc3015208bb1fa8dc01684c0c7c1a3c8fe2f2df5011e14de6d352c24",
+   "timestamp": "2001-05-19T01:39:42.000Z"
+  },
+  "id1/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-06-08T16:52:08.000Z"
+  },
+  "id1/maps/subq1sp.bsp": {
+   "bytes": 5528728,
+   "sha256": "411aa54663f2835fd596562856e9ed707b04b0327d9f8bfcacd6f44c79b7ce45",
+   "timestamp": "2021-06-01T07:35:50.000Z"
+  },
+  "id1/maps/subq1sp.lit": {
+   "bytes": 1943420,
+   "sha256": "38c09324f591801113d70f923f7cbfc5bc567a584cc9e60e3a58d24e2d06399a",
+   "timestamp": "2021-06-01T07:35:50.000Z"
+  },
+  "installation.txt": {
+   "bytes": 74,
+   "sha256": "b45375a7d2aeafa17e4ef577e4de22b32532245b343d0b93d97979bc4798c039",
+   "timestamp": "2021-06-08T16:05:56.000Z"
+  },
+  "knave.txt": {
+   "bytes": 1953,
+   "sha256": "496ee0788f85735e421c577d3e4c3ac1aaeb8ed980c2ca659e7d08d2cb3992e2",
+   "timestamp": "2005-12-17T22:43:52.000Z"
+  },
+  "subq1sp.map": {
+   "bytes": 1348190,
+   "sha256": "e8706234398cc66eeecb1f3e9e4be1579ab03a7c0b2b4e0f1fcc3d1ead2550dc",
+   "timestamp": "2021-05-29T22:13:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "c8eaf0bbfe606b59dbbb5644dc5a3a6e6dd75d871201daf799ceeaa820ad76ce",
+ "tags": [
+  "author=Andr04x",
+  "filename=subq1sp.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "nonspecific_tag=courtyard",
+  "nonspecific_tag=skybox",
+  "release_date=2021-06-08",
+  "source=included",
+  "theme=base",
+  "theme=bricks",
+  "theme=church",
+  "theme=knave",
+  "title=Sub Base",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/subq1sp.zip",
+  "https://www.quaddicted.com/files/by-sha256/c8/c8eaf0bbfe606b59dbbb5644dc5a3a6e6dd75d871201daf799ceeaa820ad76ce/subq1sp.zip"
+ ]
+}

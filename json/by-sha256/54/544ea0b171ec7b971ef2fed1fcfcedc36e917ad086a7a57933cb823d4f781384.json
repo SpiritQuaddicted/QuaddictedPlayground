@@ -1,0 +1,1026 @@
+{
+ "bytes": 57293,
+ "files": {
+  "sac/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T18:18:36.000Z"
+  },
+  "sac/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:42.000Z"
+  },
+  "sac/gfx/conback.jpg": {
+   "bytes": 21269,
+   "sha256": "2ed937e360956e6c76d7935173ba5b25c745de884057a0b28f1ddf0a759fbf07",
+   "timestamp": "2022-08-31T18:57:34.000Z"
+  },
+  "sac/gfx/conback.lmp": {
+   "bytes": 64008,
+   "sha256": "947c14963767de40db4cd7fb88e0aa6fd266db3abc3f2efa9ce81d7886eb33ed",
+   "timestamp": "2022-08-31T18:58:24.000Z"
+  },
+  "sac/gfx/conback.png": {
+   "bytes": 92681,
+   "sha256": "baf151fca98be6c8fb43491fcf114062af4926c7a710e6070bc0df462cf0aeee",
+   "timestamp": "2022-08-31T18:57:48.000Z"
+  },
+  "sac/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:42.000Z"
+  },
+  "sac/gfx/env/bluebone_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "e162aa226757d52a8c8deb5cd100bee33730d341f5ea082ba64c7efd1e60e941",
+   "timestamp": "2020-11-30T18:40:22.000Z"
+  },
+  "sac/gfx/env/bluebone_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "4a3b0381d3fbc3518b4473cf7bc3f0e45ef8541bc041ac1fdd2159ddc9f83134",
+   "timestamp": "2020-11-30T18:40:26.000Z"
+  },
+  "sac/gfx/env/bluebone_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "6c959bb4511710313b0b77976ac77f1e4a48c48a955557c1d7f77c9d7bc5d57a",
+   "timestamp": "2020-11-30T18:40:28.000Z"
+  },
+  "sac/gfx/env/bluebone_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "1d538fd56a06604598191a8217527a2bb343b390bb2f564704c689b8e52f93d5",
+   "timestamp": "2020-11-30T18:40:38.000Z"
+  },
+  "sac/gfx/env/bluebone_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "9c072a267963864d535348d30d8d34ba572fb13243af366fd5f06f8436a6fd16",
+   "timestamp": "2020-11-30T18:40:36.000Z"
+  },
+  "sac/gfx/env/bluebone_up.tga": {
+   "bytes": 3145772,
+   "sha256": "644c052515279a292448ce39fa8f5a585c4ae241dac131850dd4839a83015090",
+   "timestamp": "2020-11-30T18:40:32.000Z"
+  },
+  "sac/gfx/env/redbone_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "9ee50a1c9af3f949dbab9c7e7fb0d8f45c1e949814ff74b84fcdaa06918cae43",
+   "timestamp": "2020-03-13T19:39:02.000Z"
+  },
+  "sac/gfx/env/redbone_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "a835eea3289dc3d531f2a9b10d910a2d21b3c2d1defefc761a41acdc9235c5cb",
+   "timestamp": "2020-03-13T19:38:20.000Z"
+  },
+  "sac/gfx/env/redbone_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "816fd0eb3887a7572375a8a7506268d424274796e8375a31441de0f6aa16ec5f",
+   "timestamp": "2020-03-13T19:39:22.000Z"
+  },
+  "sac/gfx/env/redbone_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "8fd1b611b46f59b544ffd46a4b2226490c9229aa210fdc452792c180ec171c4c",
+   "timestamp": "2020-03-13T19:39:50.000Z"
+  },
+  "sac/gfx/env/redbone_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "2f499786d8ce588f38a4c62630dc8d20f7eeba5b357d52c8810395ea5c9dfa54",
+   "timestamp": "2020-03-13T19:37:40.000Z"
+  },
+  "sac/gfx/env/redbone_up.tga": {
+   "bytes": 3145772,
+   "sha256": "ac41a247bc045ac07918b8b95acaa91c7c67ed54de6fcf6ff06919aa7aadfb0a",
+   "timestamp": "2020-03-13T19:38:06.000Z"
+  },
+  "sac/gfx/palette.lmp": {
+   "bytes": 768,
+   "sha256": "789432c6d67bda73b666d6a6fab645f0528306a0d99ccf6e48628490808abc75",
+   "timestamp": "2019-11-08T14:14:00.000Z"
+  },
+  "sac/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T17:05:02.000Z"
+  },
+  "sac/maps/sac1.bsp": {
+   "bytes": 4347308,
+   "sha256": "8ce7752ba8f1e4668b74487d0781a8386d0fd8cd0e25af77805a761c27c63778",
+   "timestamp": "2022-09-08T14:00:00.000Z"
+  },
+  "sac/maps/sac1.lit": {
+   "bytes": 691136,
+   "sha256": "4e45de18eb6877cbca2f017f01169e160f62a78d65ec9e25bd2790d09834ee6d",
+   "timestamp": "2022-09-08T14:00:00.000Z"
+  },
+  "sac/maps/sac2.bsp": {
+   "bytes": 5256708,
+   "sha256": "815b2f03872f10e4b67ebced31f747af1d1dbd6fb84bbd5e5b699809b81f0869",
+   "timestamp": "2022-09-08T16:45:22.000Z"
+  },
+  "sac/maps/sac2.lit": {
+   "bytes": 787340,
+   "sha256": "11bca236482e6bdd8e5bfdbbfc8c60bd076d63f9070bb00172678d0948ed5d98",
+   "timestamp": "2022-09-08T16:45:22.000Z"
+  },
+  "sac/maps/sac3.bsp": {
+   "bytes": 3769020,
+   "sha256": "f2fa191f6be66e8f2af41ca577e507fc14bf7b9e41f4c8032e17f7c3f86b6711",
+   "timestamp": "2022-09-08T15:02:48.000Z"
+  },
+  "sac/maps/sac3.lit": {
+   "bytes": 601568,
+   "sha256": "9e87614c12e7c97fe2389fd736030fd51465314dbda2779f0657dc44cbdd1f23",
+   "timestamp": "2022-09-08T15:02:48.000Z"
+  },
+  "sac/maps/start.bsp": {
+   "bytes": 1354748,
+   "sha256": "4740c3aaaec6022e45556042eb65976ac0cce18c62e69b98992905f8a94e7ef6",
+   "timestamp": "2022-09-08T13:36:12.000Z"
+  },
+  "sac/maps/start.lit": {
+   "bytes": 269411,
+   "sha256": "02901b3728493f684bb40a235288022c6e9fbfe327d7b3de5e8e2e6747976e3a",
+   "timestamp": "2022-09-08T13:36:12.000Z"
+  },
+  "sac/models/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:42.000Z"
+  },
+  "sac/models/ammo/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:42.000Z"
+  },
+  "sac/models/ammo/4shells.mdl": {
+   "bytes": 5460,
+   "sha256": "d77469c88770a42407ba7924d08accff3f532899e37dfdab55b8a99229c45f14",
+   "timestamp": "2022-08-28T14:38:32.000Z"
+  },
+  "sac/models/break/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:42.000Z"
+  },
+  "sac/models/break/stainYelGrnFB.mdl": {
+   "bytes": 50004,
+   "sha256": "7833f6e2abdb1805611f2e8f9e957d2df53f588d2a92168bfea54aba53bf7fad",
+   "timestamp": "2022-08-28T15:24:50.000Z"
+  },
+  "sac/models/monsters/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:50:24.000Z"
+  },
+  "sac/models/monsters/dguardlt.mdl": {
+   "bytes": 176648,
+   "sha256": "b0609c134534ad3ab615a583a53550cd5462229f5f6beee2e444bb79f1b1665e",
+   "timestamp": "2022-06-19T09:09:28.000Z"
+  },
+  "sac/models/monsters/enforce3.mdl": {
+   "bytes": 278028,
+   "sha256": "e867fd04bf2063e71f300fde2393ccad3d7c330dcf08c1bf61b231f53ab45f89",
+   "timestamp": "2022-08-29T18:14:48.000Z"
+  },
+  "sac/models/monsters/gremgrn.mdl": {
+   "bytes": 110576,
+   "sha256": "e52537c58a50d64fc02c80a6c57f55eb662b762ed50f565b61d8c0f5778bfd50",
+   "timestamp": "2022-08-28T13:46:04.000Z"
+  },
+  "sac/models/monsters/h_grem.mdl": {
+   "bytes": 15380,
+   "sha256": "b6b3713105cedd0f6cef824ebf2bb994503bc2769c4b4177994393f88bb2bae5",
+   "timestamp": "2022-08-28T00:14:42.000Z"
+  },
+  "sac/models/monsters/lavaman.mdl": {
+   "bytes": 502856,
+   "sha256": "471695d9ddfa5a28d3ffabbcfa9096165869ab77255492b668b1a8655b6528a5",
+   "timestamp": "2022-08-31T20:28:24.000Z"
+  },
+  "sac/models/monsters/lavarockblu.mdl": {
+   "bytes": 8788,
+   "sha256": "f8ed5878d916a30fc8c6ac864355a7f367d58dc6571a12c16c62d390236a7cae",
+   "timestamp": "2022-08-30T21:23:04.000Z"
+  },
+  "sac/models/monsters/lavarockgrn.mdl": {
+   "bytes": 8788,
+   "sha256": "22940fd828b55a616af671a1a228cd70cdaf81873b37c96e32800a48142bad7f",
+   "timestamp": "2022-09-01T22:14:36.000Z"
+  },
+  "sac/models/monsters/maxwell.mdl": {
+   "bytes": 406452,
+   "sha256": "4290e95e194a6ff76af5fed10127be3069984510c72df31cf61aac7f1ccba364",
+   "timestamp": "2022-09-04T13:10:52.000Z"
+  },
+  "sac/models/monsters/techogrea.mdl": {
+   "bytes": 162036,
+   "sha256": "5792430724562eaf1df08f8d18db34a6e62b27b1836931f2269febe17caa9e52",
+   "timestamp": "2021-02-12T08:08:24.000Z"
+  },
+  "sac/models/nature/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:51:36.000Z"
+  },
+  "sac/models/nature/grass1.mdl": {
+   "bytes": 24220,
+   "sha256": "3c864b178c6b8a5b9e26b495f5c747d2a762e43633d5e8e486431cc7f13f0741",
+   "timestamp": "2022-05-26T01:31:56.000Z"
+  },
+  "sac/models/nature/grass2.mdl": {
+   "bytes": 24220,
+   "sha256": "8f66d552e08838960f8c9adce3da85bc757cbd913b1ce117a0b7b1c93e3ddb2f",
+   "timestamp": "2022-05-26T01:31:56.000Z"
+  },
+  "sac/models/nature/mostera.mdl": {
+   "bytes": 134529,
+   "sha256": "10eb0898a4c6c901037c3fc36bd24b787bc43c6b8e5e8c57981af86d3c1d16a0",
+   "timestamp": "2022-05-26T01:31:56.000Z"
+  },
+  "sac/models/nature/tree_twisted.mdl": {
+   "bytes": 135796,
+   "sha256": "16a19a45feaede0876a7cc287699d9f58d84492c12f5c58df7ad35bab6ddac65",
+   "timestamp": "2022-05-26T01:31:56.000Z"
+  },
+  "sac/models/props/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:52:00.000Z"
+  },
+  "sac/models/props/longtrch.mdl": {
+   "bytes": 257355,
+   "sha256": "0577c1092d4482f749dc250b25b25bc8e1a58f45888548c556cb013cb2d0fcfe",
+   "timestamp": "2022-06-19T08:16:18.000Z"
+  },
+  "sac/models/props/pentfloor.mdl": {
+   "bytes": 21172,
+   "sha256": "11314c93bc08249b885c55a27db5e61e4adce296e2fb0c4dda1211978172e04a",
+   "timestamp": "2022-09-04T16:34:54.000Z"
+  },
+  "sac/models/props/plantvase1.mdl": {
+   "bytes": 21492,
+   "sha256": "c3f2db47ab21fdb3c806c4632532d90196e16caf04d7344b1fa4666b3b0f18d5",
+   "timestamp": "2021-05-14T20:07:20.000Z"
+  },
+  "sac/models/props/plantvase2.mdl": {
+   "bytes": 52140,
+   "sha256": "e55655eaec848ec7ff998f07b18c399e9483cf305c358d8dc1bcbe7840506ccb",
+   "timestamp": "2021-07-10T16:30:42.000Z"
+  },
+  "sac/models/props/statue_dcomm1.mdl": {
+   "bytes": 98196,
+   "sha256": "c648c9b4b40114ed3eeb7db8f604b2b9143269323325faed89554db39d11cc21",
+   "timestamp": "2016-09-07T23:57:56.000Z"
+  },
+  "sac/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:55:48.000Z"
+  },
+  "sac/music/track02.ogg": {
+   "bytes": 3584045,
+   "sha256": "12d4ce89d26d0da975e3190d14917601fd12b4f3ea5f32ee2c196f7e2b379f37",
+   "timestamp": "2021-08-19T18:40:46.000Z"
+  },
+  "sac/music/track03.ogg": {
+   "bytes": 3261158,
+   "sha256": "2d88ecc1629bb307e655809b0dcae7282dec4bbecea957549ba899d784c0d08e",
+   "timestamp": "2021-08-19T18:40:46.000Z"
+  },
+  "sac/music/track04.ogg": {
+   "bytes": 3778171,
+   "sha256": "01c1953f74cb511cdb9422018068bec1219d4cce3d3340fc1634b7a54bb8d5f2",
+   "timestamp": "2021-08-19T18:40:46.000Z"
+  },
+  "sac/music/track06.ogg": {
+   "bytes": 3807391,
+   "sha256": "2a9b18d9e887986dfc5d6d1f0b18fea06e75844ef7c628d607b7237587a3ef63",
+   "timestamp": "2021-08-19T18:40:46.000Z"
+  },
+  "sac/music/track07.ogg": {
+   "bytes": 3550815,
+   "sha256": "5f2f305406ceb9878137ca61c65b94ae01a0baca11fdf77d67f5ca87a19c9985",
+   "timestamp": "2021-08-19T18:40:46.000Z"
+  },
+  "sac/progs.dat": {
+   "bytes": 749638,
+   "sha256": "3bed7acb95cddad3c5d2448d1e93d59234280e7cde813d2fa2bde990f5a124c1",
+   "timestamp": "2022-09-01T18:57:14.000Z"
+  },
+  "sac/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/progs/a_mdls/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/progs/a_mdls/m_cells1.mdl": {
+   "bytes": 3252,
+   "sha256": "1cdfc2b54dd883efe9215499603e341bfa72e800740a2e874e9bcf3b0afc68ba",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/a_mdls/m_cells2.mdl": {
+   "bytes": 4532,
+   "sha256": "8cb54159eeaa410b98478e9190bd2d33340d3a2e98a61d32ce1afaf4e99031a0",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/a_mdls/m_nails1.mdl": {
+   "bytes": 3252,
+   "sha256": "ac361970fb1cbbb87ad4593afecd6d8973a65ea4f14e5f7b565c8f38c181fa9d",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/a_mdls/m_nails2.mdl": {
+   "bytes": 4532,
+   "sha256": "0870b633f95bda895074e8d423631ee8805c3923f36a1c7f09938710783e8f99",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/a_mdls/m_rock1.mdl": {
+   "bytes": 3252,
+   "sha256": "146955794f29c02f6570eed83e1d4b0013b0b4341897bcbc91cc9ffea6957ff4",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/a_mdls/m_rock2.mdl": {
+   "bytes": 4532,
+   "sha256": "59988afc3603b83ccfadf0a9af423a113bf15ed969d4a62db9073e3061bc0fdc",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/a_mdls/m_shell1.mdl": {
+   "bytes": 3252,
+   "sha256": "696594c11dd6dbd2e60ac6923d82a55f8f5b16e93b93f7914abe5fd4df74299f",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/a_mdls/m_shell2.mdl": {
+   "bytes": 4532,
+   "sha256": "b558ee2dfd0078c7e3075079fb40368f53e7dfb162aaefcd20e53f562e405b1b",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/armshr.mdl": {
+   "bytes": 20012,
+   "sha256": "1873523424395b404ffafeb447383185e033826e33bf0a001efc34604ece95da",
+   "timestamp": "2022-08-27T08:17:44.000Z"
+  },
+  "sac/progs/candle.mdl": {
+   "bytes": 24135,
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "sac/progs/debris.mdl": {
+   "bytes": 263072,
+   "sha256": "2b60cba9cbb454e3524d174edc0e1a540f2b2e91fa0b35fc2ab20ccb7fabd8d1",
+   "timestamp": "2022-07-16T10:39:22.000Z"
+  },
+  "sac/progs/enforcer.mdl": {
+   "bytes": 472208,
+   "sha256": "3345599ba081d346c163f5c239815bd65b134ccf342601f42a31e60a45044f39",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "sac/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2022-06-18T11:49:32.000Z"
+  },
+  "sac/progs/g_shotgu.mdl": {
+   "bytes": 29076,
+   "sha256": "4a8866ab410a93522a3d3221e0f3b45889a488b54c0551329f09493273e09840",
+   "timestamp": "2022-07-14T22:01:26.000Z"
+  },
+  "sac/progs/g_shotty.mdl": {
+   "bytes": 23380,
+   "sha256": "b919bbcba3f7f03fb8b82fa6d3b1464ca41e81cf29417cfea0de09658c698cfb",
+   "timestamp": "2022-06-18T11:49:32.000Z"
+  },
+  "sac/progs/gking.mdl": {
+   "bytes": 228400,
+   "sha256": "1a76b43c273dea3f53777e92bc4e4f4869b230f6d6c85e128d55a142c1f2a800",
+   "timestamp": "2022-05-26T01:31:56.000Z"
+  },
+  "sac/progs/greenfireball.mdl": {
+   "bytes": 25112,
+   "sha256": "d29368557dde476f14f053c4e88808f6431af1a7269767bc6b46e9653621337b",
+   "timestamp": "2022-09-04T15:59:24.000Z"
+  },
+  "sac/progs/greenspike.mdl": {
+   "bytes": 25112,
+   "sha256": "3f4f54208259371dc58ff98a209b8e9937c2de611b6e31fd66336253989eba84",
+   "timestamp": "2022-09-04T15:58:54.000Z"
+  },
+  "sac/progs/grem.mdl": {
+   "bytes": 150616,
+   "sha256": "bdc4443c3a0d0bb30b4302bb7b1d9759344690c6148bea08a747436191325763",
+   "timestamp": "2016-10-04T20:06:46.000Z"
+  },
+  "sac/progs/h_boss.mdl": {
+   "bytes": 24028,
+   "sha256": "b41e2302e15d7cb47bf1eb4ee1df29e7e8d773a3dfc6059f5b1f8ce18685bba6",
+   "timestamp": "2022-07-16T10:39:40.000Z"
+  },
+  "sac/progs/h_grem.mdl": {
+   "bytes": 15380,
+   "sha256": "b6b3713105cedd0f6cef824ebf2bb994503bc2769c4b4177994393f88bb2bae5",
+   "timestamp": "2016-10-04T20:06:46.000Z"
+  },
+  "sac/progs/h_mdls/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/progs/h_mdls/m_h100.mdl": {
+   "bytes": 17992,
+   "sha256": "2e7fac7418838a721d80e80370000f3e400b21248b22c8d3555588d4f8437a5b",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/h_mdls/m_h15.mdl": {
+   "bytes": 3252,
+   "sha256": "1f4b0791be3156763c15521fbf2e747744ce3355d90d630b01c2227770314771",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/h_mdls/m_h25.mdl": {
+   "bytes": 14792,
+   "sha256": "6f792b9a80f34e31bceb4258e1d2c8f22d405a7ae1198b31bb285f502c720cfe",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/h_mdls/pd_vial.mdl": {
+   "bytes": 8292,
+   "sha256": "035673048c98991e790abe484c2403b56dfe5ea1f5fb185c1b7a657d918668e8",
+   "timestamp": "2022-07-31T08:06:18.000Z"
+  },
+  "sac/progs/h_ogre.mdl": {
+   "bytes": 42048,
+   "sha256": "52760ce1f6e8f657e782846571baf9fde80859f5342d07a684fa8218f96f68db",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "sac/progs/h_scourge.mdl": {
+   "bytes": 27796,
+   "sha256": "36f7e656c04f19c91c30977bd4c64d81e0aa1a8b942c93a6a2103f74f86b9c92",
+   "timestamp": "2018-07-01T08:57:54.000Z"
+  },
+  "sac/progs/k_spike2.mdl": {
+   "bytes": 444704,
+   "sha256": "13b7d64be351b53821d7f41d607a34f7978a60c75913212129bbed7d2ed76c96",
+   "timestamp": "2022-07-14T22:01:08.000Z"
+  },
+  "sac/progs/key_medieval.mdl": {
+   "bytes": 58532,
+   "sha256": "0810c558e40c5833c19283eb849ba80ac5dd3499e0f077b724057c51730ee097",
+   "timestamp": "2016-01-09T18:45:12.000Z"
+  },
+  "sac/progs/key_rune.mdl": {
+   "bytes": 133200,
+   "sha256": "773ffd83e71838e3425031c22cca6b30a4d24d7e4d6560269b2071d3f58ad870",
+   "timestamp": "2022-05-26T01:31:56.000Z"
+  },
+  "sac/progs/lspike.mdl": {
+   "bytes": 1684,
+   "sha256": "59264317258f19955b967177f0dbc5be1733e4ca07c4c7b3cc333bb88bc0c46e",
+   "timestamp": "2022-06-25T07:52:12.000Z"
+  },
+  "sac/progs/mervup.mdl": {
+   "bytes": 32948,
+   "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/mon_hknight.mdl": {
+   "bytes": 939940,
+   "sha256": "ccc7c08545eb77bc1b17baa31bbcbcc71ca876eec2cc1af35444ad72beba8eb3",
+   "timestamp": "2022-05-22T20:05:14.000Z"
+  },
+  "sac/progs/ogre.mdl": {
+   "bytes": 315696,
+   "sha256": "bbfc76137aa7beb3d16231499e041d51e156ef619607c660efa46438cce45891",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/pd_armor_sh.mdl": {
+   "bytes": 31508,
+   "sha256": "46b9de8235f07190e18d67e147ed00be6dc322cd112ccde33bf4fc1f9a77e074",
+   "timestamp": "2022-06-18T11:49:32.000Z"
+  },
+  "sac/progs/pd_b_key.mdl": {
+   "bytes": 128440,
+   "sha256": "c5aff23b766037ab550636516d7fe0235dacf566ddb966541d640092bcb62349",
+   "timestamp": "2022-08-15T07:16:34.000Z"
+  },
+  "sac/progs/pd_base_key.mdl": {
+   "bytes": 21219,
+   "sha256": "320ec52018f501f8fe428dd46f44693787e545289be883a49f3bd6476974cf46",
+   "timestamp": "2022-06-18T11:49:32.000Z"
+  },
+  "sac/progs/pd_bpack.mdl": {
+   "bytes": 216724,
+   "sha256": "1839c92899197344935eca44d7b4c70e903af84ab633259786f8c12c39905149",
+   "timestamp": "2022-08-22T21:49:22.000Z"
+  },
+  "sac/progs/pd_r_key.mdl": {
+   "bytes": 269528,
+   "sha256": "7ef6894b955c4ca34bf3e2ebdc6288f55cc3b1285478444a81ca769866e1a119",
+   "timestamp": "2022-07-14T22:01:20.000Z"
+  },
+  "sac/progs/pd_rune_key.mdl": {
+   "bytes": 46335,
+   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/progs/pd_w_key.mdl": {
+   "bytes": 170680,
+   "sha256": "73f06fc10a53c93db25d67f20bad7672bc5f4e14bf3a6b5115d68f00696b536a",
+   "timestamp": "2022-08-17T08:55:00.000Z"
+  },
+  "sac/progs/pd_wiz_key.mdl": {
+   "bytes": 21907,
+   "sha256": "36b50211f687813b85648a46bd32a1d543a8f2af84e9d4223f8b5843f885e1bc",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/progs/s_flame.spr": {
+   "bytes": 47856,
+   "sha256": "99fc3f91856aa6df2f25494a945e17b64b59ddc3faed424a6fcd73062a677fcc",
+   "timestamp": "2022-07-16T13:45:16.000Z"
+  },
+  "sac/progs/s_null.spr": {
+   "bytes": 1080,
+   "sha256": "e306ec0fbf0f5e4306c6683f7c7b87674bb0a168ef32a2b1118dcffb083deeff",
+   "timestamp": "2022-05-16T10:59:28.000Z"
+  },
+  "sac/progs/scourge.mdl": {
+   "bytes": 180644,
+   "sha256": "b59f1f3531cea23356e0385913ac162f81ed2d0ac5e8eb908eed5ae0f24d026d",
+   "timestamp": "2022-05-22T20:20:02.000Z"
+  },
+  "sac/progs/soldier.mdl": {
+   "bytes": 320900,
+   "sha256": "e3321220ed34292da63fac94af63360c6544c055edd1eceed35d75eb26685e9b",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/spark.mdl": {
+   "bytes": 2544,
+   "sha256": "77d081c51af9bd6c82d2d51dcb955a2fca5189cda4eb09a138bfa2e2b521fb05",
+   "timestamp": "2022-07-14T22:01:30.000Z"
+  },
+  "sac/progs/spike.mdl": {
+   "bytes": 4416,
+   "sha256": "8c70353304b2d111260102565745a5504144568f932787906eaf50de742aa62c",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/progs/superwrath.mdl": {
+   "bytes": 332072,
+   "sha256": "1eb9434bc5766185bef85ae728a4c7583922e36f667b57f0ffb3636e3204c384",
+   "timestamp": "2022-04-04T20:40:50.000Z"
+  },
+  "sac/progs/teleport.mdl": {
+   "bytes": 1058800,
+   "sha256": "98eeb63a1ded2d7a1d3788562478aff891af1be4ef1c552bcdb913cb338387b6",
+   "timestamp": "2022-07-31T08:06:04.000Z"
+  },
+  "sac/progs/v_spike.mdl": {
+   "bytes": 1058816,
+   "sha256": "ac4d47130af263cb6fd861d70ac09ebf758ab1a76da0b697e268382c65ae1a16",
+   "timestamp": "2022-08-07T12:30:54.000Z"
+  },
+  "sac/progs/wrath.mdl": {
+   "bytes": 237856,
+   "sha256": "a83254fec37ea5f062a401756758b232061b1303305226ee3eb271a76099c9e2",
+   "timestamp": "2022-04-04T18:05:26.000Z"
+  },
+  "sac/progs/wrthgib1.mdl": {
+   "bytes": 5300,
+   "sha256": "be341d54e1fe39bfd9239f1a708bb32548902067c80c5643479da30647087229",
+   "timestamp": "2018-06-23T12:48:40.000Z"
+  },
+  "sac/progs/wrthgib2.mdl": {
+   "bytes": 6292,
+   "sha256": "e0f85f9b51c584f30d27c48134dac9a35d25b7b6eb441df7b4b5c442c2b7e142",
+   "timestamp": "2018-06-23T12:48:40.000Z"
+  },
+  "sac/progs/wrthgib3.mdl": {
+   "bytes": 2516,
+   "sha256": "18550030f73726841d57f557d8791d5f2721bd7d7235e08636a960af3765c4e3",
+   "timestamp": "2018-06-23T12:48:40.000Z"
+  },
+  "sac/sac.ico": {
+   "bytes": 14942,
+   "sha256": "1dd76ae18ea1c9550856f8a005fb4d8b8e542e1f5319985e49a13b61e89bc255",
+   "timestamp": "2022-06-14T20:01:18.000Z"
+  },
+  "sac/sac.png": {
+   "bytes": 4760,
+   "sha256": "011b24bdfbf3dcbc489cfb646ef4c8c1be8b2cc58249b08b9ac13413ea528dd7",
+   "timestamp": "2022-06-14T19:59:26.000Z"
+  },
+  "sac/sacPromo.png": {
+   "bytes": 2698629,
+   "sha256": "7ccc945f151994292fbe24503ac02b76b5690f1092b5a975640bbd4e00883cd7",
+   "timestamp": "2022-09-04T16:49:00.000Z"
+  },
+  "sac/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/ambience/chimes.wav": {
+   "bytes": 250476,
+   "sha256": "d1060cd75d8a520b748047790d33c9a4ab5fd626330ebf1242d318d308c165db",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/ambience/moo.wav": {
+   "bytes": 265502,
+   "sha256": "35b7924115bc4cdf94e9cbb274a4d9ca251d6878817834bec08aaa176f2ddc9b",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/break/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/break/bricks1.wav": {
+   "bytes": 49956,
+   "sha256": "302547c290609bc311098f9f63643199bee0164e907edf0e2b9289ccbce2a4e2",
+   "timestamp": "2022-06-23T13:14:32.000Z"
+  },
+  "sac/sound/break/glass_impact.wav": {
+   "bytes": 98832,
+   "sha256": "32f51f7e8cb89c6b9a83c12603c4903a77370d9d16f8d3496e7ef22fb7b04a13",
+   "timestamp": "2019-09-20T21:19:32.000Z"
+  },
+  "sac/sound/break/glass_impactSoft.wav": {
+   "bytes": 70828,
+   "sha256": "b9a90a5c6d2f5a64eb95738b67870c90067bc8935670f5e2af2ea7860e11f57c",
+   "timestamp": "2019-09-20T21:19:32.000Z"
+  },
+  "sac/sound/break/metal1.wav": {
+   "bytes": 70054,
+   "sha256": "c178f8f52631b1ff353fbeb3557e04e8bd574646ed47f78a3003350b67540979",
+   "timestamp": "2022-07-07T11:21:52.000Z"
+  },
+  "sac/sound/break/metal2.wav": {
+   "bytes": 65948,
+   "sha256": "7438b112d81fb92c285a507ebfbde5b15dbddcd90a85f51ecaae2df3ef83480c",
+   "timestamp": "2022-07-08T15:27:48.000Z"
+  },
+  "sac/sound/break/pd_bricks1.wav": {
+   "bytes": 61786,
+   "sha256": "3829842a9cb395f99d07546be38263eaf0ee5bbed71841aa8c93864d55a7fb94",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/break/pd_metal1.wav": {
+   "bytes": 44146,
+   "sha256": "c0111b94231bc3870cbb95ec03f13b2b44ac407a5d18b35668ccf231303cc8aa",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/break/pd_metal2.wav": {
+   "bytes": 70722,
+   "sha256": "ce8250482e831c270cc3c8e9211b74a627b3e29159c2c8ee720dd11cafd365c1",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/break/pd_stones1.wav": {
+   "bytes": 75150,
+   "sha256": "632d15db23ff70c23c199595b41a153ded67f664de46b7d0cbfa0228f071156e",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/break/pd_wood1.wav": {
+   "bytes": 34526,
+   "sha256": "621865f52fc27fb10108027ce3eea18aaf17181751a3ba1ceee0c9c99da9f375",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/break/pd_wood2.wav": {
+   "bytes": 33342,
+   "sha256": "77282f2c533b9aec72b232aace9078534db3f255f418efafdf769c7361a28e05",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/break/stnmov.wav": {
+   "bytes": 22058,
+   "sha256": "43f61540bd6f010b504987c7af8fd3f4d688e7adae6cc74a0c8f846b7882f107",
+   "timestamp": "2022-09-08T16:13:16.000Z"
+  },
+  "sac/sound/break/stones1.wav": {
+   "bytes": 69380,
+   "sha256": "1b58b722e55c4e2d25f65e820e279699a7b236a02685fbc6a41a40e573df1928",
+   "timestamp": "2022-06-28T15:03:26.000Z"
+  },
+  "sac/sound/break/wood1.wav": {
+   "bytes": 53720,
+   "sha256": "026e35d7108347603453765f66311fec99097ff9f82e2d2703f69b7d80ae07c9",
+   "timestamp": "2022-07-06T17:41:44.000Z"
+  },
+  "sac/sound/break/wood2.wav": {
+   "bytes": 59252,
+   "sha256": "4488c91dc44e526beb95d33ad200e07e484a6f2fea59578784f3417a00df81f7",
+   "timestamp": "2022-07-06T17:41:12.000Z"
+  },
+  "sac/sound/dguard/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/dguard/death1.wav": {
+   "bytes": 30610,
+   "sha256": "af3809501261ec4d0afa6ea7301c11a5c7bbc1cc3e06b8c88172ee0214c30969",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/death2.wav": {
+   "bytes": 43636,
+   "sha256": "93a70fc0d6fee819c723a435a3954b3fd3be86e358698ce85db1062990d1575e",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/fire.wav": {
+   "bytes": 60820,
+   "sha256": "f5e5d4f6ccc0778c1396c66d327564a0b1892773f2c23d2e30590abf0c758bd2",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/hit.wav": {
+   "bytes": 39352,
+   "sha256": "a9a06043bb979aad2db216a9d00b993da33c6a5069c6e3b14338afb6e2cb632a",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/idle.wav": {
+   "bytes": 20498,
+   "sha256": "45b2f208b9796d19d7aeb0cba64e4b0e5fd2ed7c980123f7c41ca10d17785021",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/pain1.wav": {
+   "bytes": 10380,
+   "sha256": "9a367afb7cde241099c58c999e225ba939be39f21be818b16444f5a810049960",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/pain2.wav": {
+   "bytes": 14892,
+   "sha256": "827a1e4d3c9983f61fffd61de33054274c144bddd9a68460b496fd6281cf9406",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/sight1.wav": {
+   "bytes": 18124,
+   "sha256": "9cb3d960261d90ec16c9883f4326c905356b6ff4e99cdf48ab5913b098588016",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/sight2.wav": {
+   "bytes": 18022,
+   "sha256": "35ee4b7ec6715c8c9fdc24f90ad0b5d90a0ae7a4986168cf40670e87c325d5db",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/sight3.wav": {
+   "bytes": 19948,
+   "sha256": "c6818770267626dea27f4a72ce2249771f6968924022c2275a5a96abfa485044",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/sight4.wav": {
+   "bytes": 20332,
+   "sha256": "7affcdbdc62f13e492a15b54fe642fe045641f5551f570cc3c8d5f7ee29521fd",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/slash.wav": {
+   "bytes": 22942,
+   "sha256": "44b60d785ff03f033e183b6fbce69e526351187d28efdeb308f6f8bea930d450",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/slhit.wav": {
+   "bytes": 31956,
+   "sha256": "0f07a131640f21337cd89a772588ecfc707d6a729f96b54c21920b809cd620e4",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/slmiss1.wav": {
+   "bytes": 10458,
+   "sha256": "e32d5cb070a13fad979b021e84a727f71242305ade1af7bfe18c255f0f6dd548",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dguard/slmiss2.wav": {
+   "bytes": 13840,
+   "sha256": "f6b3aee08c25434d2fda7468cacf35a0912b182653a45991149b54a0fc4be537",
+   "timestamp": "2022-06-19T09:12:20.000Z"
+  },
+  "sac/sound/dump/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/dump/armsh1.wav": {
+   "bytes": 22610,
+   "sha256": "46801976a87d548c2cb7b1548f12dfd0b3f1d246aa9d86944574fa3216c6d6d1",
+   "timestamp": "2022-07-05T11:00:52.000Z"
+  },
+  "sac/sound/dump/elec22k.wav": {
+   "bytes": 178736,
+   "sha256": "d56ff98d1d41511833c35b5a8b5311f00b7e13932591eee53f9e2adf788569e1",
+   "timestamp": "2022-07-05T11:23:22.000Z"
+  },
+  "sac/sound/dump/magic_01.wav": {
+   "bytes": 125944,
+   "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/sound/dump/pd_armor1_sh.wav": {
+   "bytes": 12410,
+   "sha256": "3b80fc8000fe624ffbe4f119faf41a77406b83bd350020c7782bc03fd51a1799",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/dump/pd_magic_01.wav": {
+   "bytes": 125944,
+   "sha256": "3ea2bab80feccbe0f0b518ec613f45093aa76b0128752f454e239c75175cb4e0",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/dump/pd_quake_end.wav": {
+   "bytes": 37248,
+   "sha256": "3ecb621fbf5a3f2ab090ebc0f3036069292181b11ab366689b3dfa0f19dd372a",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/dump/pd_quake_full.wav": {
+   "bytes": 156278,
+   "sha256": "872e0b0847fd366c59341d672cba9da0faaf85a881f8d4d5471a664923c8440e",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/dump/pd_quake_loop1.wav": {
+   "bytes": 159956,
+   "sha256": "52a330a12c35191347008f4c546b1c83b4e387f3f33c9b60c3a5e8e545b0517e",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/dump/pd_water.wav": {
+   "bytes": 92708,
+   "sha256": "0402b1fb2501dafb33bd43fa9c49c0f6a3fff615a200693cb7953852305c49f4",
+   "timestamp": "2022-06-27T21:25:30.000Z"
+  },
+  "sac/sound/dump/rumble.wav": {
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/sound/dump/spark.wav": {
+   "bytes": 14684,
+   "sha256": "55ba43047ffc794bc65b1002b351b3a13bc271346cb060e01c093f56dd960e7f",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/dump/water_59_02.wav": {
+   "bytes": 40038,
+   "sha256": "25aa667940a737e46da0a829d9cb94922972b9b19726664d1a1133a666dc1439",
+   "timestamp": "2022-06-18T11:49:34.000Z"
+  },
+  "sac/sound/gremlin/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/gremlin/attack.wav": {
+   "bytes": 4326,
+   "sha256": "4bc0f357667de80b3562455b04f9b73399082ec0d04200b2c7b8792de78e24a3",
+   "timestamp": "2022-08-28T00:15:48.000Z"
+  },
+  "sac/sound/gremlin/death.wav": {
+   "bytes": 15470,
+   "sha256": "198003ef0624e9cf184c16eb96a715ccdb741100bfa4ace4f70dbe7eb4d91247",
+   "timestamp": "2022-08-28T00:15:48.000Z"
+  },
+  "sac/sound/gremlin/idle.wav": {
+   "bytes": 11622,
+   "sha256": "ea7aec1e3e3d18c22848624b1afc24a58f8e4df60a039a96b18a4de0579634d4",
+   "timestamp": "2022-08-28T00:15:48.000Z"
+  },
+  "sac/sound/gremlin/pain1.wav": {
+   "bytes": 3078,
+   "sha256": "1d909972c66b8e67f50867c141cbbb55796cfcda7314811b40e18f725e39256d",
+   "timestamp": "2022-08-28T00:15:48.000Z"
+  },
+  "sac/sound/gremlin/pain2.wav": {
+   "bytes": 4068,
+   "sha256": "ddb2935dcb951f8d3c381657a04e26c4df742cb0cb8e08a39e94ec7c402d0323",
+   "timestamp": "2022-08-28T00:15:48.000Z"
+  },
+  "sac/sound/gremlin/pain3.wav": {
+   "bytes": 3318,
+   "sha256": "88cb89b31186d7183a09867cc4ab244519c7f9184e391cb39edb6d10e021f2ac",
+   "timestamp": "2022-08-28T00:15:48.000Z"
+  },
+  "sac/sound/gremlin/sight1.wav": {
+   "bytes": 12606,
+   "sha256": "c20f1f90cbb72dfa80bef8d845a76c2772b55235970bc7d801af57ad34351877",
+   "timestamp": "2022-08-28T00:15:48.000Z"
+  },
+  "sac/sound/hrath_snds/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/hrath_snds/hrath_attk1.wav": {
+   "bytes": 38272,
+   "sha256": "3c9df49dfa0ba55d80b24f3a6a50b1812d737e12a55e82d8034b17b939d257c2",
+   "timestamp": "2020-11-15T08:47:50.000Z"
+  },
+  "sac/sound/hrath_snds/hrath_death1.wav": {
+   "bytes": 32572,
+   "sha256": "9b2cc6985c813487ed4a74ee1fbca62f34a3b8ea966821b3b610814d99188445",
+   "timestamp": "2020-11-15T09:32:42.000Z"
+  },
+  "sac/sound/hrath_snds/hrath_idle1.wav": {
+   "bytes": 32480,
+   "sha256": "04b58ae29ab0473ba95c4f1d3430968ccee88751593fbc5eab50388a06f40faa",
+   "timestamp": "2020-11-15T09:16:52.000Z"
+  },
+  "sac/sound/hrath_snds/hrath_pain1.wav": {
+   "bytes": 17574,
+   "sha256": "446f4884ec2257b87d3594475846357bfa62de574d131e80e902595e5d382f3a",
+   "timestamp": "2020-11-15T09:06:52.000Z"
+  },
+  "sac/sound/hrath_snds/hrath_sight1.wav": {
+   "bytes": 50710,
+   "sha256": "5d00b97405aa83356ee3402112dc20f50c2cbe740620480c4a5e3ee9911c015b",
+   "timestamp": "2020-11-15T09:23:16.000Z"
+  },
+  "sac/sound/oldone2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/oldone2/pd_pop2.wav": {
+   "bytes": 42108,
+   "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
+   "timestamp": "2022-06-25T07:52:14.000Z"
+  },
+  "sac/sound/wrath/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/sound/wrath/watt.wav": {
+   "bytes": 22374,
+   "sha256": "0aedb709c0769e401f25637e69140ba260035b75e36ae9f22cbb94cbf28f5f81",
+   "timestamp": "2013-05-18T18:01:52.000Z"
+  },
+  "sac/sound/wrath/wdthc.wav": {
+   "bytes": 10580,
+   "sha256": "dd94c0dd5f38cd10395f100004078901754a6993af94e68a06cd154a251a2ee3",
+   "timestamp": "2013-05-18T18:01:52.000Z"
+  },
+  "sac/sound/wrath/wpain.wav": {
+   "bytes": 18208,
+   "sha256": "ccf99194833e0db8af5702126a62c5e011138aa6ba814be51e4207b401183220",
+   "timestamp": "2013-05-18T18:01:52.000Z"
+  },
+  "sac/sound/wrath/wsee.wav": {
+   "bytes": 10412,
+   "sha256": "619c48897129e2352f378e6d959e60f41c1c1d4d31606b2a9577fa186eb5e804",
+   "timestamp": "2013-05-18T18:01:52.000Z"
+  },
+  "sac/textures/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/textures/levelshots/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-08T16:47:44.000Z"
+  },
+  "sac/textures/levelshots/sac1.png": {
+   "bytes": 1750102,
+   "sha256": "97a05a4f69f9d589e3b8ea64703c254dd5d15b9083899c123163b37eb2bbd6d3",
+   "timestamp": "2022-09-04T16:21:10.000Z"
+  },
+  "sac/textures/levelshots/sac2.png": {
+   "bytes": 1773133,
+   "sha256": "a3fe8eaa77b1dc1069acbeb027b9d23bf345e1a1d26a213cb545885356a08ff8",
+   "timestamp": "2022-09-04T16:21:30.000Z"
+  },
+  "sac/textures/levelshots/sac3.png": {
+   "bytes": 2791871,
+   "sha256": "6fe8f21fa8e94b6f4075c44bec2c07d8cae993c0d1e13d33317fabf950be37e0",
+   "timestamp": "2022-09-04T16:22:14.000Z"
+  },
+  "sac/textures/levelshots/start.png": {
+   "bytes": 2038192,
+   "sha256": "974dae0b004ba88062e4ad129c41c60108d680d65fefff975a1dde35f08cd63e",
+   "timestamp": "2022-09-04T16:46:16.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "544ea0b171ec7b971ef2fed1fcfcedc36e917ad086a7a57933cb823d4f781384",
+ "tags": [
+  "author=Shadesmaster",
+  "commandline=-game sac",
+  "exceeds_quake_limits=yes",
+  "filename=sac.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/sacrilege.125/)",
+  "map_size=medium",
+  "nonspecific_tag=pd",
+  "nonspecific_tag=progs_dump",
+  "release_date=2022-09-09",
+  "startmap=start",
+  "theme=base",
+  "theme=lava",
+  "theme=medieval",
+  "theme=runic",
+  "title=Sacrilege (Demo)",
+  "type=demo",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sac.zip",
+  "https://www.quaddicted.com/files/by-sha256/54/544ea0b171ec7b971ef2fed1fcfcedc36e917ad086a7a57933cb823d4f781384/sac.zip"
+ ]
+}

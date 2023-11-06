@@ -1,0 +1,57 @@
+{
+ "bytes": 728,
+ "files": {
+  "FirstCoolMapRelease/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-03-22T16:56:44.000Z"
+  },
+  "FirstCoolMapRelease/README.txt": {
+   "bytes": 332,
+   "sha256": "dfdf8c98bcb6975414933832cce25103c260bc08a9d60a567a7123e36793025a",
+   "timestamp": "2021-03-22T17:08:20.000Z"
+  },
+  "FirstCoolMapRelease/fcm.bsp": {
+   "bytes": 1760200,
+   "sha256": "b424ab6581482e9bfef8334d270f983d3d42346b7301d920074a331135bc8001",
+   "timestamp": "2021-03-22T16:40:26.000Z"
+  },
+  "FirstCoolMapRelease/fcm.lit": {
+   "bytes": 196760,
+   "sha256": "91eb3d39b1f37ebd8a468c4f6c4c2aaef16bb23753f64f124abe914f6ebdd8a4",
+   "timestamp": "2021-03-22T16:40:26.000Z"
+  },
+  "FirstCoolMapRelease/fcm.map": {
+   "bytes": 327196,
+   "sha256": "3f599d47300b70e7cf2f102f93ed1864b1aaff72f82afe36d55da93d2aff5582",
+   "timestamp": "2021-03-22T16:55:26.000Z"
+  },
+  "FirstCoolMapRelease/fcm.pts": {
+   "bytes": 17045,
+   "sha256": "2b6fc993a08c23d0855d280cc42358266de36b2ba900b3b0f39d782e7cffa62f",
+   "timestamp": "2021-03-22T16:40:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "1bf4d16e6b8868218b61dc77fd7f4676791ce2575383e049dbb1ad248c42cff1",
+ "tags": [
+  "author=Lilith/raven33",
+  "filename=firstcoolmaprelease.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2021-03-22",
+  "source=included",
+  "startmap=FirstCoolMapRelease/fcm",
+  "theme=base",
+  "title=FirstCoolMap",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/firstcoolmaprelease.zip",
+  "https://www.quaddicted.com/files/by-sha256/1b/1bf4d16e6b8868218b61dc77fd7f4676791ce2575383e049dbb1ad248c42cff1/firstcoolmaprelease.zip"
+ ]
+}

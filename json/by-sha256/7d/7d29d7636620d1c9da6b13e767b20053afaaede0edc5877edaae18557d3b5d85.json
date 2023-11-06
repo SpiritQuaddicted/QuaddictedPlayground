@@ -1,0 +1,63 @@
+{
+ "bytes": 3499,
+ "files": {
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2016-12-18T23:59:40.000Z"
+  },
+  "maps/ad_e1m3.bsp": {
+   "bytes": 7400676,
+   "sha256": "f5284bd1cba84a2cf47e3244f2ba1557ef926f458aae9a0627416f4b0d7b8e2d",
+   "timestamp": "2016-04-08T22:19:14.000Z"
+  },
+  "maps/ad_e1m3.lit": {
+   "bytes": 2250671,
+   "sha256": "b4a16d427320af97d4388b5c794bd3bdc8c5980adf4d00c764328394e7200df0",
+   "timestamp": "2016-04-08T22:19:14.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2016-04-08T23:35:42.000Z"
+  },
+  "sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2016-04-08T23:34:12.000Z"
+  },
+  "sound/ambience/darkchoir.wav": {
+   "bytes": 504086,
+   "sha256": "ba8538b5da6e6ec9b64953c49ee6e04c1cc016439fb36500b842de1189dc185d",
+   "timestamp": "2015-04-02T08:49:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "7d29d7636620d1c9da6b13e767b20053afaaede0edc5877edaae18557d3b5d85",
+ "tags": [
+  "author=Giftmacher",
+  "commandline=-game ad",
+  "dependency=ad_v1_80p1final",
+  "exceeds_quake_limits=yes",
+  "filename=ad_e1m3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard post (2016)](https://celephais.net/board/view_thread.php?id=3&start=13508&end=13508#13508)",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=e1m3",
+  "release_date=2016-04-09",
+  "startmap=ad_e1m3",
+  "theme=brick",
+  "theme=medieval",
+  "theme=remix",
+  "title=Forgotten Sepulcher - Beta",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_e1m3.zip",
+  "https://www.quaddicted.com/files/by-sha256/7d/7d29d7636620d1c9da6b13e767b20053afaaede0edc5877edaae18557d3b5d85/ad_e1m3.zip"
+ ]
+}

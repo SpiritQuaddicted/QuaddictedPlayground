@@ -1,0 +1,77 @@
+{
+ "bytes": 3575,
+ "files": {
+  "copper/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-08-10T16:10:38.000Z"
+  },
+  "copper/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-08-10T16:04:32.000Z"
+  },
+  "copper/maps/frogsbog.bsp": {
+   "bytes": 4714012,
+   "sha256": "9107d137cdc32573982b1eb8a7925e3967001554884f1e22682dbf022fb4e02e",
+   "timestamp": "2023-08-10T16:03:18.000Z"
+  },
+  "copper/maps/frogsbog.lit": {
+   "bytes": 3228230,
+   "sha256": "f67ac36f362b1db0e5420609c172f24c4cbaab29b3fe6a216926a6c3a418237a",
+   "timestamp": "2023-08-10T16:03:18.000Z"
+  },
+  "copper/maps/frogsbog.map": {
+   "bytes": 3286758,
+   "sha256": "35347d5ec076b38b921e28f0225806c22c65140a51300c20fdb98bff1d9698ad",
+   "timestamp": "2023-08-10T16:02:00.000Z"
+  },
+  "copper/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-08-09T18:17:02.000Z"
+  },
+  "copper/sound/frogs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2023-08-09T18:17:02.000Z"
+  },
+  "copper/sound/frogs/bigfatradioloop.wav": {
+   "bytes": 83630,
+   "sha256": "a8c95cfe8fd14f34b75e4a1456d1ad4ce6680028ce5f7078d70833fa1dc918be",
+   "timestamp": "2023-08-09T11:27:44.000Z"
+  },
+  "frogsbog.txt": {
+   "bytes": 751,
+   "sha256": "1a415c29a17d94fbb25599d2f53777350a770f18cfcd00fed6b00ed2e79ab6d6",
+   "timestamp": "2023-08-10T16:02:44.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "65f3fe0c5324076ac09fa28a9a5c2865e179c7b85b6ed3e9546594e0a85616d4",
+ "tags": [
+  "author=Chris \"1600frogs\" Brady",
+  "commandline=-game copper",
+  "dependency=copper",
+  "filename=frogsbog_v1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Slipseer](https://www.slipseer.com/index.php?resources/bog-man-has-had-enough.257/)",
+  "map_size=medium",
+  "mod=copper",
+  "nonspecific_tag=map",
+  "nonspecific_tag=mg1",
+  "nonspecific_tag=singleplayer",
+  "release_date=2023-08-10",
+  "startmap=frogsbog",
+  "title=Bog Man Has Had Enough",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/frogsbog_v1.zip",
+  "https://www.quaddicted.com/files/by-sha256/65/65f3fe0c5324076ac09fa28a9a5c2865e179c7b85b6ed3e9546594e0a85616d4/frogsbog_v1.zip"
+ ]
+}

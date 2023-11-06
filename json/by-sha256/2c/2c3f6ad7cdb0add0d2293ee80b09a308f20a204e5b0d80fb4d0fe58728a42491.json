@@ -1,0 +1,148 @@
+{
+ "bytes": 5225,
+ "files": {
+  "torro/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2012-09-16T10:28:40.000Z"
+  },
+  "torro/pak0.pak": {
+   "bytes": 14076624,
+   "files": {
+    "gfx/env/satbk.tga": {
+     "bytes": 786971,
+     "sha256": "0b4a792847376df7350fada08c9788fd7e345f176b79a725b0128ec913bd4e09"
+    },
+    "gfx/env/satdn.tga": {
+     "bytes": 786450,
+     "sha256": "096cc0e7bcbef18e3aedcb637aec067831d37372a1e7efc00a007e9e5a22c38a"
+    },
+    "gfx/env/satft.tga": {
+     "bytes": 786971,
+     "sha256": "b46edeb1ebd3173f82c87af6a115395bb00a132bca1217de1d70d67b7ff65c05"
+    },
+    "gfx/env/satlf.tga": {
+     "bytes": 786971,
+     "sha256": "d6156589706bf2448dbdcf10820aaed11b8f3b63ef82f98a843a40a2f8e89bb1"
+    },
+    "gfx/env/satrt.tga": {
+     "bytes": 786971,
+     "sha256": "d1063a365100d9e0502c7044bf9fe5e69e3b21590d4c4c1103229cc2926fa70e"
+    },
+    "gfx/env/satup.tga": {
+     "bytes": 786971,
+     "sha256": "1e8c52ff8687dc4524adfecea4928cbc410693c70c54acf7ff9449c5bcf17b19"
+    },
+    "maps/tormentarium.bsp": {
+     "bytes": 5034492,
+     "sha256": "09fc061774cb4e57529af84c74359d3c186cadc56a793d5de528135ca06e735f"
+    },
+    "maps/tormentarium.lit": {
+     "bytes": 1702151,
+     "sha256": "1875660311020ea61eb6c5bc78b2b4c34f3a1ba7fc49a07efde4a63383ec4069"
+    },
+    "progs/cable.mdl": {
+     "bytes": 103672,
+     "sha256": "e6c6290a5933ff42b0dd6619ce04c7971012c9d100676add881d0aceaa633616"
+    },
+    "progs/coil.mdl": {
+     "bytes": 407561,
+     "sha256": "032c4e0c2f5e7356a4b314d884e2f74f6696b6d7c9cf7a06f8683227161f3f9d"
+    },
+    "progs/crow.mdl": {
+     "bytes": 189444,
+     "sha256": "49221bc5c74cfe9761a093ceca304423403d0cb38a577ee332fe9d0e2bfac58b"
+    },
+    "progs/gener.mdl": {
+     "bytes": 96589,
+     "sha256": "f6395ba76a8d30a3865d2512d5bd7114520b10113f637bb119c0fdb6b2332768"
+    },
+    "progs/huit.mdl": {
+     "bytes": 135222,
+     "sha256": "23ee0ee6bc0dc5827531ebb692f2f48e7ccf97cacd24d6f8858fabd8974509e0"
+    },
+    "progs/phak.mdl": {
+     "bytes": 63389,
+     "sha256": "58f66a24f66695850dadd711c86c0902fe02151050a78e83f6358442467f8cfc"
+    },
+    "progs/phak0.mdl": {
+     "bytes": 63389,
+     "sha256": "91ae9c00c02d864c07614b3bca37d36b1fb9aab6bc94a9aea958cfbcb89f72c8"
+    },
+    "progs/pipe.mdl": {
+     "bytes": 15977,
+     "sha256": "5fd9a632b538e2885eb5c4d2ac800ab4e83d725ea58b84919a4bb9b074aceb3d"
+    },
+    "progs/plug.mdl": {
+     "bytes": 622896,
+     "sha256": "dff221a3f6c61d36d6d49ec176f5a616587ad6e8b5f01cb6f220e62d854d2bb9"
+    },
+    "progs/rota.mdl": {
+     "bytes": 478313,
+     "sha256": "539fe7c7b03e31ad0f624f1e5bde852a3f0e55f97dbe8b3202174f31869230e2"
+    },
+    "progs/tank.mdl": {
+     "bytes": 90205,
+     "sha256": "5a1602b225c14b0354d2c809961929d83739ead60d6b914bff04ccfd4f04cd70"
+    },
+    "progs/tanks.mdl": {
+     "bytes": 60547,
+     "sha256": "19915f6418a177cc25c05ba5507d72a0d750405a6c408fb10e74398561b00933"
+    },
+    "progs/tessla.mdl": {
+     "bytes": 282784,
+     "sha256": "ea5a3092be2b82aaa851101df86505a40e8458e7868985cf51ff8de84cbe7e4e"
+    },
+    "sound/misc/electric.wav": {
+     "bytes": 7234,
+     "sha256": "b8f41a9919eb354177c352198a37c9d4ef3aa42b897898bb92a5ea015a2ffbc4"
+    }
+   },
+   "sha256": "7e3ca720f6a47d937dfb1669352fa00c6b07142ea7b38e38d82f1ec1bc627f53",
+   "timestamp": "2012-09-16T10:10:06.000Z"
+  },
+  "torro/progs.dat": {
+   "bytes": 427788,
+   "sha256": "4bf05817fbb9f55a5133af954840c67fcb6e32a397ad51cb78fc5c65e2781772",
+   "timestamp": "2012-08-13T22:01:16.000Z"
+  },
+  "torro/tormentarium.txt": {
+   "bytes": 2913,
+   "sha256": "b41083c771bc0b407911476462018c8c079818b29e5d67c0eb8dca25e1f52a7c",
+   "timestamp": "2012-09-16T10:08:46.000Z"
+  },
+  "torro/witzraz.tga": {
+   "bytes": 322679,
+   "sha256": "4486962768e1e587378da3641ac50dcdda9a6ba52c23d67d90f764f563ed3adc",
+   "timestamp": "2012-07-16T02:05:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491",
+ "tags": [
+  "author=Madfox",
+  "commandline=-game torro",
+  "filename=torment.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://members.home.nl/gimli/",
+  "map_size=large",
+  "nonspecific_tag=machines",
+  "nonspecific_tag=models",
+  "nonspecific_tag=pipes",
+  "release_date=2012-09-02",
+  "startmap=tormentarium",
+  "theme=industrial",
+  "theme=metal",
+  "theme=sewer",
+  "title=Tormentarium",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/torment.zip",
+  "https://www.quaddicted.com/files/by-sha256/2c/2c3f6ad7cdb0add0d2293ee80b09a308f20a204e5b0d80fb4d0fe58728a42491/torment.zip"
+ ]
+}

@@ -1,0 +1,890 @@
+{
+ "bytes": 120384,
+ "files": {
+  "jumpmod/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-14T22:01:26.000Z"
+  },
+  "jumpmod/READ_ME.txt": {
+   "bytes": 4488,
+   "sha256": "d2f1301434f6a7ae504d8e614fbad2bddb3e83e4e13a5586c34af5aeb1c200a5",
+   "timestamp": "2019-11-14T22:04:38.000Z"
+  },
+  "jumpmod/autoexec.cfg": {
+   "bytes": 17,
+   "sha256": "5dece79bbead02a8b22ef67a09a45111fedfbd6c48d8e93acfa27e9f9786fdea",
+   "timestamp": "2019-10-24T17:18:44.000Z"
+  },
+  "jumpmod/bmodels/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-09-07T12:26:44.000Z"
+  },
+  "jumpmod/bmodels/tree1.map": {
+   "bytes": 545259,
+   "sha256": "d53a121a7719df5e8e4734a06b3ddf1ea2275179b8d1a48b2cbbc43acb200f86",
+   "timestamp": "2019-11-14T14:28:00.000Z"
+  },
+  "jumpmod/bmodels/tree1.obj": {
+   "bytes": 71436,
+   "sha256": "0c013baf3774fe70fe694b0ae5db9c225b018b8ea85bfc1387e87cd5b26f9e36",
+   "timestamp": "2019-09-07T11:25:50.000Z"
+  },
+  "jumpmod/developer stuff/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-13T17:34:34.000Z"
+  },
+  "jumpmod/developer stuff/Q1+JM.fgd": {
+   "bytes": 19286,
+   "sha256": "1baeb0ffb650e5e81128a03fd65033cbce70e21688ee17bcd0b81c86e6e4ab5a",
+   "timestamp": "2019-11-09T17:29:24.000Z"
+  },
+  "jumpmod/developer stuff/Rubi2+JM.def": {
+   "bytes": 37359,
+   "sha256": "1331b8c93d10248752c2b149a1828cf8c7e4e957f410331152b59713c32013ef",
+   "timestamp": "2019-11-13T17:18:14.000Z"
+  },
+  "jumpmod/developer stuff/devstuff.txt": {
+   "bytes": 1952,
+   "sha256": "99b195827333d7ab05b85eaca6ca667208ebd3bed8551d1f554d1e6d9be59781",
+   "timestamp": "2019-11-13T17:38:38.000Z"
+  },
+  "jumpmod/developer stuff/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-13T17:35:00.000Z"
+  },
+  "jumpmod/developer stuff/source/map source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-14T22:02:12.000Z"
+  },
+  "jumpmod/developer stuff/source/map source/jcr_jbdemo1.map": {
+   "bytes": 1917169,
+   "sha256": "95fa23e4e7332f1a0732eabcacab67aa8a65a2dd702c92b618f28258a27471df",
+   "timestamp": "2019-11-14T20:53:42.000Z"
+  },
+  "jumpmod/developer stuff/source/map source/jcr_jbdemo2.map": {
+   "bytes": 1196427,
+   "sha256": "61ebe00dc35fef80a9ffc780778d3c5d63db31c72e2a22eec157f0f276d1be77",
+   "timestamp": "2019-11-14T20:56:14.000Z"
+  },
+  "jumpmod/developer stuff/source/map source/jcr_triune1.map": {
+   "bytes": 2866407,
+   "sha256": "1798f05ef05cc2cada16f952a1fc8209c594c7e5c0bf58591995fc72dc04cd45",
+   "timestamp": "2019-11-14T21:08:54.000Z"
+  },
+  "jumpmod/developer stuff/source/map source/jcr_triune2.map": {
+   "bytes": 5566118,
+   "sha256": "8764efdba11cd776c4b989c087b40675640c896aa5bacf0e12f1618264686eeb",
+   "timestamp": "2019-11-14T21:19:48.000Z"
+  },
+  "jumpmod/developer stuff/source/map source/jcr_triune3.map": {
+   "bytes": 4100350,
+   "sha256": "4f376c188f95835a16f8598be2ff8e45ad2dc598f1bb8c22c95b158667382442",
+   "timestamp": "2019-11-14T21:38:36.000Z"
+  },
+  "jumpmod/developer stuff/source/map source/start.map": {
+   "bytes": 1574604,
+   "sha256": "bc702f7786d215065715335e89c694f411490c12c722a0ef48c6924a75285ae2",
+   "timestamp": "2019-11-14T20:31:12.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-08-29T20:54:30.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/ai.qc": {
+   "bytes": 16055,
+   "sha256": "19acb67cb590eafe7af5ca28aa23ec1dbdde90e88bf9a9d9d44d89fb50607a3e",
+   "timestamp": "2010-02-28T23:24:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/amtest.qc": {
+   "bytes": 1697,
+   "sha256": "8dd158020b8c0be6988b0f1fbe03990372fb769442dbaf85248ef8c0e18645ee",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/boss.qc": {
+   "bytes": 12411,
+   "sha256": "674893303bff9280f134066f168b06dd2dd1d58591c42acc2c70c6e2a4b9ba82",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/buttons.qc": {
+   "bytes": 3075,
+   "sha256": "98a8010fa977ee61155944989dbf0ba61824ee7edae853f518e81c2c3d4283af",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/centurion.qc": {
+   "bytes": 14601,
+   "sha256": "d3ec17f3f59d695facc4e5d16c6f69ff785ee69a0ae4dedb0b8aa3817de599e4",
+   "timestamp": "2011-02-11T01:26:44.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/client.qc": {
+   "bytes": 41572,
+   "sha256": "36c631439860daa0941036a183373996513c642028e3f877b88f0796fbb474a4",
+   "timestamp": "2019-11-13T16:59:10.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/combat.qc": {
+   "bytes": 7830,
+   "sha256": "6aaaef8ab32847dffa247e4af13dcb48737b938f023642ffd5d09230971bffd2",
+   "timestamp": "2011-01-12T23:45:40.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/defs.qc": {
+   "bytes": 18491,
+   "sha256": "ff9e517fa17c7e12b135dc2f24b5e22cbffea38890e1e77574926c47dda9ab4e",
+   "timestamp": "2019-11-13T16:10:34.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/demon.qc": {
+   "bytes": 9904,
+   "sha256": "b20d0e3664ff9ff9e55222ad73507016a832b15a4cb28f93b86e90fa35ea445c",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/dog.qc": {
+   "bytes": 9542,
+   "sha256": "7dd3980dc2f284046f0e516b39d8b7391ac4a87b758b2f89aeb682feab2cc2bc",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/doors.qc": {
+   "bytes": 17335,
+   "sha256": "5eefb9c963efc5e7e5f92a5e8528d93e29dcc223ffa23adbae411aeea3a8f860",
+   "timestamp": "2010-02-14T01:36:34.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/dread.qc": {
+   "bytes": 11196,
+   "sha256": "b078b67f946815152226a501d0e9fe8cfced6c40142a1f5bc86c2a1e1c70273c",
+   "timestamp": "2011-01-11T01:27:00.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/enforcer.qc": {
+   "bytes": 10730,
+   "sha256": "aba49f94f635c6ae7b9211bfcfe3a217c0d48ef69e126889808c2f79c51333a9",
+   "timestamp": "2009-09-21T00:58:58.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/fight.qc": {
+   "bytes": 7210,
+   "sha256": "a95970982ec1343f10bffb26812e26fa682d961f78167359f7dde89d142e2af8",
+   "timestamp": "2009-05-21T23:50:10.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/fish.qc": {
+   "bytes": 7849,
+   "sha256": "e264d1609c994c8ebbe90d9eb4c0664b145a4c7f228fb449abdbfb202a7ae375",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/flag.qc": {
+   "bytes": 141,
+   "sha256": "143f0b896c7515dcdaaf5b436d130fe1ffb6fa67cad2a34ad4639724201b3445",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/floyd.qc": {
+   "bytes": 17029,
+   "sha256": "0410bcd892a48cb3f86138a39530bd948d5139e07a35545a2a2b4b64b39e90d5",
+   "timestamp": "2011-01-11T01:26:36.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/hiprot.qc": {
+   "bytes": 28227,
+   "sha256": "d4b13d54baee78fd4108e3718f7a33457c6aa5940f3b46aac93bb35a49ae3a61",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/hknight.qc": {
+   "bytes": 18298,
+   "sha256": "302a397cbd1fc639b70767a01a6d8e3696699165e2c4a00d1a33231102408682",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/items.qc": {
+   "bytes": 32729,
+   "sha256": "072a9695fec93c27fdedc4289502358f29e2a697b05fb76d5b54b824ed0aa26f",
+   "timestamp": "2019-11-13T17:24:30.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/jctest.qc": {
+   "bytes": 222,
+   "sha256": "0b356238bdae38139e36fb7f9ed5a72e65accee92b48f25035b79ec315a7da06",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/knight.qc": {
+   "bytes": 9684,
+   "sha256": "53202927092c04d472a311e5ec8732cdb2ed9224c6520fbe4d126e152b5cee87",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/misc.qc": {
+   "bytes": 16038,
+   "sha256": "e4de6dc31bc7613ba348d97c29024a8bd0c0be246dc2702fbf5a5f05b1603852",
+   "timestamp": "2010-11-09T00:07:48.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/models.qc": {
+   "bytes": 8996,
+   "sha256": "d11fd0939293244962c5a40766e1dce246bde98eb0d42c87eb530a58d6eca64d",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/monsters.qc": {
+   "bytes": 6881,
+   "sha256": "c929a4f538b7654f47098f5a2e6eeb7f4a476346fb314ee4739d85e741be5c81",
+   "timestamp": "2010-03-26T23:02:28.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/ogre.qc": {
+   "bytes": 14658,
+   "sha256": "c4b5a8c319279c2040640bc9fda8ebc24a439b2eacf0b055c34d561fb59b9057",
+   "timestamp": "2009-05-22T00:17:46.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/oldone.qc": {
+   "bytes": 9537,
+   "sha256": "3ebf15cec4adf547d8859cb54772e9c1c331fd30cb3c82bccb328bb945e5f834",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/plats.qc": {
+   "bytes": 9007,
+   "sha256": "3d095892a7bc76517992d13541b67cf374f729596ed282802de22bead5acdadf",
+   "timestamp": "2010-03-13T15:26:12.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/player.qc": {
+   "bytes": 17909,
+   "sha256": "fb0baa2da62a26c479b3467172cb58f526a2715379ee214c865d4fc10d40e965",
+   "timestamp": "2010-11-21T18:23:24.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/progs.src": {
+   "bytes": 548,
+   "sha256": "76bce5fa7da427bafbd8751b7f73fed22c0c6f042f39d5a5cc3eb4e9428a9ffa",
+   "timestamp": "2010-11-09T00:38:40.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/rubicon2.qc": {
+   "bytes": 22016,
+   "sha256": "1d78c81b8e319aef2dc0b936b6143e7daa7d9a517532bd1984c36806124bee67",
+   "timestamp": "2011-02-11T01:24:06.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/rubicon2_quakec_src.txt": {
+   "bytes": 1234,
+   "sha256": "9c88586a2ad4e8c84267083b759162d84492da34f5687dbb14d72387e2cf1e00",
+   "timestamp": "2011-03-02T23:46:54.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/shalrath.qc": {
+   "bytes": 7880,
+   "sha256": "4c53306f4412184ba7bc26b93acbcd5504d922d1056beaca11484665efcff1b7",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/shambler.qc": {
+   "bytes": 12725,
+   "sha256": "0c50557b8757d8be3a0876564cfa125e4e8389cae1c55c844871aff5f844c342",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/soldier.qc": {
+   "bytes": 9825,
+   "sha256": "f66da2d85ad5ac42dfe13fd434018e64ca8eddba1e7b3abb747b4577ba072d01",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/sprites.qc": {
+   "bytes": 450,
+   "sha256": "c00564e7ca0ab70d7891931ff333461ff90aa6052f46e8ebb02f59de6e03787d",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/subs.qc": {
+   "bytes": 6181,
+   "sha256": "db68e0c095b8b4fa16e7e4c58ed57b79221b66d2b512b1dc82622eac9a52b087",
+   "timestamp": "2010-04-25T22:53:14.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/tarbaby.qc": {
+   "bytes": 7116,
+   "sha256": "4968e4ee45f401c5a703a9c687cddbdb2acd80f3ca2bf95c71f4260a977aae71",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/triggers.qc": {
+   "bytes": 14503,
+   "sha256": "386d38b7bde40dd06e16ab960bcd805f70f095c94ca5404aeb701538322ab2bf",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/turret.qc": {
+   "bytes": 7502,
+   "sha256": "ee78f6b9b4f8845fbd916e3e0d0ebf7f5f0ffd05b767fb996c341e3aef497945",
+   "timestamp": "2010-05-23T19:54:50.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/weapons.qc": {
+   "bytes": 27551,
+   "sha256": "2c5913ef5558bea474d40cf5e36dcc7038b25906b0a064710511a3e5a2b53735",
+   "timestamp": "2019-11-13T15:55:02.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/wizard.qc": {
+   "bytes": 10662,
+   "sha256": "3c2c7a632a84980d42c508de7a51e422621c49fda74fd01c0f798cecd9a58877",
+   "timestamp": "2009-05-22T00:20:40.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/world.qc": {
+   "bytes": 13937,
+   "sha256": "0d5e09441c0ac64639c3867bdbc3551de50372b15ed1c210c8fa2a5480a5311f",
+   "timestamp": "2019-11-09T17:20:26.000Z"
+  },
+  "jumpmod/developer stuff/source/qc source/zombie.qc": {
+   "bytes": 20108,
+   "sha256": "027ec53b0caa6c1c46c1f6156a854c886ab6fcd9c628707ebea1d3ca1c185519",
+   "timestamp": "2008-02-04T01:25:02.000Z"
+  },
+  "jumpmod/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-13T17:35:16.000Z"
+  },
+  "jumpmod/gfx/conback.lmp": {
+   "bytes": 76808,
+   "sha256": "3841e9bebb974d1291d666529b9078b6dce4400d82b3a15909e2d49d75f74c1f",
+   "timestamp": "2019-11-03T20:39:28.000Z"
+  },
+  "jumpmod/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-08-07T19:29:58.000Z"
+  },
+  "jumpmod/gfx/env/moonhigh_bk.tga": {
+   "bytes": 1048620,
+   "sha256": "5f361bf5a352c1df5a6caef9cf42bd35fed8406c6949af480b0425c193c18b3a",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jumpmod/gfx/env/moonhigh_dn.tga": {
+   "bytes": 1048620,
+   "sha256": "02e2b36863c1181a85aa675c53fc14a301f38dc6e0c6735098bb6d8723af02b3",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jumpmod/gfx/env/moonhigh_ft.tga": {
+   "bytes": 1048620,
+   "sha256": "3158735bdd6f4f467a5b29639aa4f622d1136ea463967684b739b0002bec6526",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jumpmod/gfx/env/moonhigh_lf.tga": {
+   "bytes": 1048620,
+   "sha256": "5cdaabd99655152689e40832643690d7b1c5f8e414f3126a7c0c9224f2250704",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jumpmod/gfx/env/moonhigh_rt.tga": {
+   "bytes": 1048620,
+   "sha256": "e08a374ac19c8b8cffa6c939515cde9570b44bbc044c12d06b0c5d94aa7469bc",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jumpmod/gfx/env/moonhigh_up.tga": {
+   "bytes": 1048620,
+   "sha256": "c0465fd6a0b069e5ff78f3e561084bf3e23b796cac9b5214a6cd4045310d36fe",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jumpmod/gfx/env/problem-child_bk.tga": {
+   "bytes": 786450,
+   "sha256": "a5ae7cad5cb83f779a820e7db4f357048a93852b3395afd58fcacbe445995a45",
+   "timestamp": "2003-04-12T01:10:06.000Z"
+  },
+  "jumpmod/gfx/env/problem-child_dn.tga": {
+   "bytes": 786450,
+   "sha256": "9aeca652b2bafe830225aeefaea47f885a8b4a1c7d1e9e80599129c05c20e7ff",
+   "timestamp": "2003-04-12T01:41:24.000Z"
+  },
+  "jumpmod/gfx/env/problem-child_ft.tga": {
+   "bytes": 786450,
+   "sha256": "51cc6a623b39d01d2c524990c88fbe3e9fadef4fcd8320188e95898cb8ed5558",
+   "timestamp": "2003-04-12T00:15:56.000Z"
+  },
+  "jumpmod/gfx/env/problem-child_lf.tga": {
+   "bytes": 786450,
+   "sha256": "3b78e1ca4de3283674538917cecd531e022eb07b92c6c6ef44e962fdb63c4cb4",
+   "timestamp": "2003-04-12T00:37:32.000Z"
+  },
+  "jumpmod/gfx/env/problem-child_rt.tga": {
+   "bytes": 786450,
+   "sha256": "ea024f1e555b5ab5e8f9147ebe451cbb30db82cd9da72ff59445e452be139d01",
+   "timestamp": "2003-04-12T00:02:28.000Z"
+  },
+  "jumpmod/gfx/env/problem-child_up.tga": {
+   "bytes": 786450,
+   "sha256": "17e8953db0db2ef8dd22224902cc2927c32e8bee0507aa01dd2cea91ab28640e",
+   "timestamp": "2003-04-12T01:25:22.000Z"
+  },
+  "jumpmod/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-13T17:32:20.000Z"
+  },
+  "jumpmod/maps/jcr_jbdemo1.bsp": {
+   "bytes": 6277692,
+   "sha256": "da2d1ad8249109a767fd0e636d30b15ea9f3edca1c325db1bc7c56907ba1a70c",
+   "timestamp": "2019-11-14T20:55:16.000Z"
+  },
+  "jumpmod/maps/jcr_jbdemo1.lit": {
+   "bytes": 6395327,
+   "sha256": "a7806bf1bae733d57a291417ee02651bb72cfb6ec40e899df5a6a593a9ec5ba7",
+   "timestamp": "2019-11-14T20:55:16.000Z"
+  },
+  "jumpmod/maps/jcr_jbdemo2.bsp": {
+   "bytes": 4021564,
+   "sha256": "ccc5893079389bcb0fee3a7d421ecbc7e8ea3333e5e2562535044f56845fff6e",
+   "timestamp": "2019-11-14T20:58:42.000Z"
+  },
+  "jumpmod/maps/jcr_jbdemo2.lit": {
+   "bytes": 2130224,
+   "sha256": "e672c486b9bf5178e3be73593454602ad4041c210d8a7a125dea23c310e4c2a0",
+   "timestamp": "2019-11-14T20:58:42.000Z"
+  },
+  "jumpmod/maps/jcr_triune1.bsp": {
+   "bytes": 7239832,
+   "sha256": "d196d3a6f4a9f114a45edc892a1ff8b59b185797ca437d743399b2614e7a94f1",
+   "timestamp": "2019-11-14T21:13:32.000Z"
+  },
+  "jumpmod/maps/jcr_triune1.lit": {
+   "bytes": 3647708,
+   "sha256": "8dd4d836ae65e4dbb59f0a6e7a7e7d5eb9e963256e8840d0d3db41c99c8ac7db",
+   "timestamp": "2019-11-14T21:13:32.000Z"
+  },
+  "jumpmod/maps/jcr_triune2.bsp": {
+   "bytes": 16279232,
+   "sha256": "fe25eb8edeff55ed304a608d0e55bd919648b715c4aac4d670582d8874a562be",
+   "timestamp": "2019-11-14T21:32:00.000Z"
+  },
+  "jumpmod/maps/jcr_triune2.lit": {
+   "bytes": 4874648,
+   "sha256": "9400d2d8bf45009a03759e3d333a3da21ad4c9deae0274ae959163cb9f32a1f3",
+   "timestamp": "2019-11-14T21:32:00.000Z"
+  },
+  "jumpmod/maps/jcr_triune3.bsp": {
+   "bytes": 9017552,
+   "sha256": "43350e8c625c8a45f4f14722128eb98ae87709a184e86b136d41e327def893e1",
+   "timestamp": "2019-11-14T21:42:28.000Z"
+  },
+  "jumpmod/maps/jcr_triune3.lit": {
+   "bytes": 3655196,
+   "sha256": "7912f9faa489d8c2316a646342a1a1cad411a40d07c715b827cf50739c65a820",
+   "timestamp": "2019-11-14T21:42:28.000Z"
+  },
+  "jumpmod/maps/start.bsp": {
+   "bytes": 4114608,
+   "sha256": "392928c10f561951b54744a6fd6ecaea79dca9a926418e04cf8b167b925a2cc6",
+   "timestamp": "2019-11-14T20:32:00.000Z"
+  },
+  "jumpmod/maps/start.lit": {
+   "bytes": 1599722,
+   "sha256": "210ea69f6cff9b06b030b8056406691f25fe4326e345af38d51edb646996050a",
+   "timestamp": "2019-11-14T20:32:00.000Z"
+  },
+  "jumpmod/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-13T17:03:58.000Z"
+  },
+  "jumpmod/music/track03.mp3": {
+   "bytes": 3457680,
+   "sha256": "34f5c81f6027401cd71ecb41d6ec6d4768c4184acc51e74fd76af4c5c733c375",
+   "timestamp": "2019-02-06T06:42:56.000Z"
+  },
+  "jumpmod/music/track223.mp3": {
+   "bytes": 17064498,
+   "sha256": "ef75bd8b95f5c63e229472aea4ea0719eb29af1ae222c596d62b68c0f5ffd452",
+   "timestamp": "2019-11-05T20:00:10.000Z"
+  },
+  "jumpmod/music/track224.mp3": {
+   "bytes": 17561833,
+   "sha256": "af70567d3fb2f24d6bad56faa1aa80e4902620c5ff5c7ec16413e2ef5336203d",
+   "timestamp": "2019-11-05T19:59:34.000Z"
+  },
+  "jumpmod/music/track225.mp3": {
+   "bytes": 19086862,
+   "sha256": "1987ac3d27c7135f73773cf217bc79094f7aeee02a43386b872321582c8e537b",
+   "timestamp": "2018-05-21T04:55:54.000Z"
+  },
+  "jumpmod/music/track226.mp3": {
+   "bytes": 18067369,
+   "sha256": "75d76347803a208e1256a8080768b84fd54ccf3612e3b3c0470a870f28e596f4",
+   "timestamp": "2018-05-21T04:55:54.000Z"
+  },
+  "jumpmod/music/track227.mp3": {
+   "bytes": 7105397,
+   "sha256": "91cb3b4dfe446f2632f3bf44d368dd24c7859a9e70ec5a57e00d453b98499b17",
+   "timestamp": "2019-11-09T18:44:52.000Z"
+  },
+  "jumpmod/music/track228.mp3": {
+   "bytes": 10004012,
+   "sha256": "46aa31659d9256d29593d1fcd5c5a84546b19c921750235c4e276d9f480ce780",
+   "timestamp": "2019-04-19T16:29:46.000Z"
+  },
+  "jumpmod/progs.dat": {
+   "bytes": 409642,
+   "sha256": "d5c58229d8adcf907c215635e639915c4536a11a37f107ae67ceee6d1d15eef8",
+   "timestamp": "2019-11-13T17:24:44.000Z"
+  },
+  "jumpmod/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-09T17:17:54.000Z"
+  },
+  "jumpmod/progs/beacon.mdl": {
+   "bytes": 43404,
+   "sha256": "e2c7d307b30bcd2342110f446942944455255834b148a8d00db78055680f8633",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/c_spike.mdl": {
+   "bytes": 1684,
+   "sha256": "be12eea5a022a7ab6debdf64e39e45cf0201d47cb7b49285025d4c81a4977104",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/cent.mdl": {
+   "bytes": 221936,
+   "sha256": "6e8e12db297f9f70cbe00fe2087be79a0011dc31344e642d8f309947e63cad8d",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/debris.mdl": {
+   "bytes": 26470,
+   "sha256": "0e504dbadf09296b3e7f7e85dc42b1d141a7b4d0d79d8c4027024c50914059a0",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/dread.mdl": {
+   "bytes": 183400,
+   "sha256": "efb1827edaced94142bb040b179cff11de98c097aab7fe13c80efadadc742314",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/fgib1.mdl": {
+   "bytes": 9252,
+   "sha256": "35cab9ee2e9af79f9ddf2a3549aa405b7533829b3c9e62279d614accafed3f39",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/fixture1.mdl": {
+   "bytes": 5848,
+   "sha256": "2e4d2f4fa2d0b62c636cc00fcec1d7408645af015c0d38526d08d6cd606be2dc",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/flag.mdl": {
+   "bytes": 77512,
+   "sha256": "146532c961f0892bd0dea0e74b66f6336d8305f01308cca1f368aabe684beb2d",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/flaser.mdl": {
+   "bytes": 11348,
+   "sha256": "2d2b3c26ddac8c790b3a9220e02affe06bd654a7cac4290a7a0b724895d94455",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/floyd.mdl": {
+   "bytes": 345512,
+   "sha256": "4e58c272389ba05734d3acda3f2606f54a6f951b3b3695aa2bb865965af1a241",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/fromitz.mdl": {
+   "bytes": 6964,
+   "sha256": "f9faa3414644b1e829870fcc02eb73fbd9199b4db17579008c7336c9d26471a8",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/g_axe.mdl": {
+   "bytes": 35488,
+   "sha256": "4a04aaea3b65ef8be1e9ae5e2448bf5fcb530492241a739b689f7380ba509de5",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/h_cent.mdl": {
+   "bytes": 11828,
+   "sha256": "8e86be042986a544325bf78e92913893c0894626fd0e50d7e22c98aa14a63c9c",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/h_dread.mdl": {
+   "bytes": 11828,
+   "sha256": "4606d8d99742354d59b0f222d3d589a8c2982837ae6fc32637e03e6c76ca8592",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/h_floyd.mdl": {
+   "bytes": 60072,
+   "sha256": "58bb5251428075b2607a6a8e00fbf7491fac379cfcb3732d357c7944e6079d78",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/jboots.mdl": {
+   "bytes": 48980,
+   "sha256": "7177b54de6b80c30b7aab2e58d63e2378806ac9de5f8744265c85eef9b522a8c",
+   "timestamp": "2019-11-09T17:37:08.000Z"
+  },
+  "jumpmod/progs/jboots_timed.mdl": {
+   "bytes": 48980,
+   "sha256": "16d3825005301cc90b70b74ae1ac9df96fd24c99767d5c51c2b439d240eefee8",
+   "timestamp": "2019-11-09T17:15:36.000Z"
+  },
+  "jumpmod/progs/s_flame.spr": {
+   "bytes": 25284,
+   "sha256": "1d7d679bad0e253d592e84a4e3aead63a722d3dff6e8cdb2d7b8007cb95f4c70",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/s_grate.spr": {
+   "bytes": 24732,
+   "sha256": "ccd119fa3025aa1b1a05ad0bf63d242fa85058945bd8111a3f9d69928c86d1c2",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/s_smoke.spr": {
+   "bytes": 22128,
+   "sha256": "509fa58c47e873d48d3508a78a8f69a122c4dcbb05f39a0f85cbe1d32f88d3ab",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/s_spark.spr": {
+   "bytes": 297,
+   "sha256": "92a9187b59bc29fb62abd8860b58cbcae53711a79add5d9f42292a3303b0b7b4",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/progs/spark.mdl": {
+   "bytes": 9588,
+   "sha256": "74dc6734e0ce30447942a10e9ec78c7cf43eafb86f290cc772b2a8874702b858",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/chatter.wav": {
+   "bytes": 190760,
+   "sha256": "59197f823b479c66c41163d82fed6dc13a715aef429b5e551ba80ca6f7c229fb",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/comp.wav": {
+   "bytes": 12164,
+   "sha256": "ab8e3b13981bb432cca44ad4b7467734f52d01927018e72c99e7c4d052dc7874",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/crickets.wav": {
+   "bytes": 12236,
+   "sha256": "d5cf6e56884a8e43469408d4788ec6e573167901586df259a938cd088c998ef9",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/drone.wav": {
+   "bytes": 30902,
+   "sha256": "81993d96ab337f78c2778cecffe4767605fed210e0ac2303a46ac898979eea13",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/fan1.wav": {
+   "bytes": 53404,
+   "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/hum02.wav": {
+   "bytes": 37836,
+   "sha256": "8b2ee1b91fa663b6111de9251011142475831ece70ee091022b800b715f1bfa2",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/intake.wav": {
+   "bytes": 25682,
+   "sha256": "e6d13169ce4680dd83903473897fd6e7ce1e51fab00c6df2127ea993321c05b0",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/lonoise.wav": {
+   "bytes": 32876,
+   "sha256": "1e0f99ffadead8460a7a4bed1c6b2c16cddd70050e1524e9cdaf6724a9dc81b5",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/motor1.wav": {
+   "bytes": 52340,
+   "sha256": "c48511a37143e9ed50ae7c1d1f28235b007762949d3d18549fc545cc670c0a24",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/motor2.wav": {
+   "bytes": 52014,
+   "sha256": "7f36cda5c01aea4e6b356ae4d0b31b68ca15d7606eefd30f4739a64fc4e86e6c",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/rain.wav": {
+   "bytes": 40960,
+   "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/ambient/runwater.wav": {
+   "bytes": 64764,
+   "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/dread/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/dread/flameoff.wav": {
+   "bytes": 8962,
+   "sha256": "436505ff3ed5a8dc84a98bbaa0adf130e8df8267c813f81b3f22476d0bffdbc2",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/dread/flameon.wav": {
+   "bytes": 29410,
+   "sha256": "4de5e523c27642dbd873e64fbd509798657e130b5b83e35c5f5774a67d29dcd4",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/floyd/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/floyd/death.wav": {
+   "bytes": 14334,
+   "sha256": "c1df00893edb581adda43cc1d608bed644e09143958ce8febfd3148a5c44c47e",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/floyd/fire.wav": {
+   "bytes": 23268,
+   "sha256": "f4c60bf6e9eb09829bfbfdc5f0abe9d306c14a55ec0112e44010148bcb541093",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/floyd/idle.wav": {
+   "bytes": 4872,
+   "sha256": "705e26e709ad72331225e6c0486968d37f260afe502e163694faf977519a2b29",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/floyd/pain.wav": {
+   "bytes": 4872,
+   "sha256": "705e26e709ad72331225e6c0486968d37f260afe502e163694faf977519a2b29",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/floyd/sight.wav": {
+   "bytes": 4872,
+   "sha256": "705e26e709ad72331225e6c0486968d37f260afe502e163694faf977519a2b29",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/items/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-10-31T18:47:24.000Z"
+  },
+  "jumpmod/sound/items/jboots_dry.wav": {
+   "bytes": 14842,
+   "sha256": "47ab9b51e521912a95ac75213c92d72551d65d3274e3f95fabdf3af96e3801e7",
+   "timestamp": "2019-05-02T19:28:34.000Z"
+  },
+  "jumpmod/sound/items/jboots_got.wav": {
+   "bytes": 21176,
+   "sha256": "4d04c60240de4e0a5683606ca478fbdc30b6d178d0b01cedf6ab1145bfc36be2",
+   "timestamp": "2019-01-16T20:31:20.000Z"
+  },
+  "jumpmod/sound/items/jboots_got_timed.wav": {
+   "bytes": 41300,
+   "sha256": "cde18c42852e96166e9af0218ab9c2166574a3ca8e20f748f9f4e009acf3dc41",
+   "timestamp": "2019-08-07T19:36:22.000Z"
+  },
+  "jumpmod/sound/items/jboots_plyrjmp0.wav": {
+   "bytes": 5400,
+   "sha256": "fbbaf3f8f99d490252adf6022543640bf6b00ee27078ee1e13f5069114b2b635",
+   "timestamp": "2019-02-08T19:16:18.000Z"
+  },
+  "jumpmod/sound/items/jboots_plyrjmp1.wav": {
+   "bytes": 19938,
+   "sha256": "fe6bb2a66fc7fea1771783ccf4797477d5a54425f6472ea5654c680c1363ba7f",
+   "timestamp": "2019-07-26T20:10:54.000Z"
+  },
+  "jumpmod/sound/items/jboots_timed.wav": {
+   "bytes": 313682,
+   "sha256": "a05f8116e13fe5b0c4726e829e381a1737fd987a35e39c982014a8abd1445394",
+   "timestamp": "2019-10-31T18:47:24.000Z"
+  },
+  "jumpmod/sound/misc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-11-07T19:57:10.000Z"
+  },
+  "jumpmod/sound/misc/airhiss.wav": {
+   "bytes": 11252,
+   "sha256": "03b9ca5c5a8246fee721f648d2402374477dd65da13a949593c44fd7b2065abe",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/airhiss2.wav": {
+   "bytes": 5652,
+   "sha256": "9a23a61a6a3a28f269ad5a63a93c258858765ad7142ca9edee408f59ede2a384",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/burning.wav": {
+   "bytes": 24062,
+   "sha256": "b86f4c917be3c1af29dd2c8efb4d065022ecef84a3fd762a49ace87da3da7eee",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/burning2.wav": {
+   "bytes": 11087,
+   "sha256": "85abb1cf3b40311b8240eaad56bdc363d06888763067d47150cd94f0c1a2b235",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/comp1.wav": {
+   "bytes": 23404,
+   "sha256": "797df3a959272bb5cc9119565a38ade894fdb9c4fbafac96b71150a51d11e795",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/comp2.wav": {
+   "bytes": 20636,
+   "sha256": "f5f2381aac666a185d56fd560424be8f06fbd5ae4a6b93f146f3868dbdaadfe0",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/flow1.wav": {
+   "bytes": 53120,
+   "sha256": "29647478f308e1d11fadc42f7d14ea7df1603bb048e7b413202bdf20674232b8",
+   "timestamp": "2018-07-16T19:19:36.000Z"
+  },
+  "jumpmod/sound/misc/flow2.wav": {
+   "bytes": 311394,
+   "sha256": "7df07008441c5cdd70d9e1745c5051d54decda237d35397c447548dea89152ea",
+   "timestamp": "2018-08-04T19:14:10.000Z"
+  },
+  "jumpmod/sound/misc/laser_on.wav": {
+   "bytes": 41762,
+   "sha256": "e1a72d5a5aaec9230348910976eb723ad5e7cd24ebd11ad296b0bc5c09de1eac",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/laseroff.wav": {
+   "bytes": 67100,
+   "sha256": "a15f76266e830249d5cfc6ffc020833f84be1d66e25d25d657d0313be64656fb",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/song_reverse.wav": {
+   "bytes": 410796,
+   "sha256": "e1385effd94ec745b3c81bf7d4f2106159a34d69f81eee1dc5a3d294869bff29",
+   "timestamp": "2018-10-26T20:35:54.000Z"
+  },
+  "jumpmod/sound/misc/spark.wav": {
+   "bytes": 14684,
+   "sha256": "55ba43047ffc794bc65b1002b351b3a13bc271346cb060e01c093f56dd960e7f",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/uwater.wav": {
+   "bytes": 39438,
+   "sha256": "b6bd29c4576d83d6149fb4dc1a67dc20046339427745e5b5f3c2c46593c0e553",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jumpmod/sound/misc/wind.wav": {
+   "bytes": 268052,
+   "sha256": "cc547a7eb33e99e76eb8fbe61909c86ce5521fb4155d517462cdde951aaaa6e3",
+   "timestamp": "2019-11-07T19:57:08.000Z"
+  },
+  "jumpmod/sound/misc/wood.wav": {
+   "bytes": 483954,
+   "sha256": "35404ee5c6de187e5e2590fff81ca6906c41c29f4a680863de3ba852ade210e4",
+   "timestamp": "2019-11-07T19:56:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "6e28e7330430642bec0afb35c55c7866a29ecd03c20691812f1648a055bd747f",
+ "tags": [
+  "author=JCR",
+  "commandline=-game jumpmod",
+  "filename=jumpmod2+td_complete.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61791)",
+  "mod=rubicon",
+  "nonspecific_tag=jump boots",
+  "nonspecific_tag=koohoo",
+  "nonspecific_tag=mod",
+  "nonspecific_tag=movement",
+  "release_date=2019-11-15",
+  "startmap=jcr_jbdemo1",
+  "startmap=jcr_jbdemo2",
+  "startmap=jcr_triune1",
+  "startmap=jcr_triune2",
+  "startmap=jcr_triune3",
+  "startmap=start",
+  "theme=base",
+  "theme=exploration",
+  "theme=maya",
+  "theme=rubicon",
+  "title=Jumpmod 2 + Triune Discovery",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/jumpmod2+td_complete.zip",
+  "https://www.quaddicted.com/files/by-sha256/6e/6e28e7330430642bec0afb35c55c7866a29ecd03c20691812f1648a055bd747f/jumpmod2+td_complete.zip"
+ ]
+}

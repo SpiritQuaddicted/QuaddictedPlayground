@@ -1,0 +1,40 @@
+{
+ "bytes": 254,
+ "files": {
+  "TOL.BSP": {
+   "bytes": 626060,
+   "sha256": "8930806b66d74cff3f6fe27463732f968b2648e97e69c367476891275cdb04fc",
+   "timestamp": "1997-07-02T16:32:46.000Z"
+  },
+  "TOL.TXT": {
+   "bytes": 2156,
+   "sha256": "2d3564057b7a4be4a591c00f73b8f1ab1ea769e4189f669885f172b2968cc54e",
+   "timestamp": "1997-07-02T16:41:32.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/hipnotic/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb",
+ "tags": [
+  "author=John Parr",
+  "commandline=-hipnotic",
+  "dependency=hipnotic",
+  "filename=tol.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelst.htm)",
+  "map_size=small",
+  "release_date=1997-06-03",
+  "theme=dissolution of eternity",
+  "theme=scourge of armagon",
+  "theme=stone",
+  "title=Temple of Lightning",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/tol.zip",
+  "https://www.quaddicted.com/files/by-sha256/cf/cf9081d59f33d378c4cd5f109a5a31db0ca605701ab21fbe855806f0b69dd2cb/tol.zip"
+ ]
+}

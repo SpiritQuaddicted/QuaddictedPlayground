@@ -1,0 +1,63 @@
+{
+ "bytes": 1586,
+ "files": {
+  "ad_v1_42P2_readme.txt": {
+   "bytes": 142037,
+   "sha256": "ca6fb115455c567bd2dc21904d2a9e62ae0802e049f264ec2fa1f640e08ee8b5",
+   "timestamp": "2016-02-17T16:35:34.000Z"
+  },
+  "mjb_horse.bsp": {
+   "bytes": 2589944,
+   "sha256": "ff32bfec82fcd5b196809ecc755e5229a08a3507030c9c2947cd1d3582d15d67",
+   "timestamp": "2016-03-27T14:52:42.000Z"
+  },
+  "mjb_horse.lit": {
+   "bytes": 1335080,
+   "sha256": "f41706287101fcf3fdfcf9ec636b059f386c47ce367ceaa700581fa73574b73f",
+   "timestamp": "2016-03-27T14:52:42.000Z"
+  },
+  "mjb_horse.map": {
+   "bytes": 1036936,
+   "sha256": "1a1e6f38ded9768e4d64f90dfff58d6b19a2fde23b28192de99c43d55d6e28e3",
+   "timestamp": "2016-03-24T16:15:26.000Z"
+  },
+  "mjb_horse.txt": {
+   "bytes": 14756,
+   "sha256": "12aad2f23a450521c9b75a9d1d6ff7907bfeceaead62981b8c4919100f217591",
+   "timestamp": "2016-03-27T17:54:48.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad\\maps\\"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "e857424986e03e4031b60f27963a63ee5417880bf2ba1220756ddd9915e2e239",
+ "tags": [
+  "author=Bloughsburgh",
+  "dependency=ad_v1_42final",
+  "filename=mjb_horse.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://youtube.com/blattymeow",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61306)",
+  "map_layout=vertical",
+  "map_size=small",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=courtyard",
+  "nonspecific_tag=night",
+  "nonspecific_tag=skybox",
+  "playstyle=jumping",
+  "release_date=2016-03-27",
+  "source=included",
+  "theme=arcane dimensions",
+  "theme=bricks",
+  "theme=medieval",
+  "title=A Horse Named Quake",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/mjb_horse.zip",
+  "https://www.quaddicted.com/files/by-sha256/e8/e857424986e03e4031b60f27963a63ee5417880bf2ba1220756ddd9915e2e239/mjb_horse.zip"
+ ]
+}

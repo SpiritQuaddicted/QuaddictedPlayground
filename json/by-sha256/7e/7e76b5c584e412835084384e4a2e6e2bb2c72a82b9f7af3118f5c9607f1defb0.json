@@ -1,0 +1,93 @@
+{
+ "bytes": 556,
+ "files": {
+  "FF.TXT": {
+   "bytes": 7673,
+   "sha256": "c681118c52fdc15d9a160c583aeb502e0bf7361db258c342e571147d498982e1",
+   "timestamp": "1997-03-22T09:13:22.000Z"
+  },
+  "MAPS/ff.bsp": {
+   "bytes": 741120,
+   "sha256": "69739038c739da95acef3b23a78b3d7a9239a959933907b37f5d875cb0dda1d2",
+   "timestamp": "1997-03-21T21:15:26.000Z"
+  },
+  "PROGS.DAT": {
+   "bytes": 419132,
+   "sha256": "f84db44ffdfbbee42483aec5ef6804789cb020b90c865d09f3fb28a178a9595c",
+   "timestamp": "1997-03-22T09:00:36.000Z"
+  },
+  "PROGS/SPIDER.MDL": {
+   "bytes": 94492,
+   "sha256": "df40e58bdf6465e68e5ef33cbcb77c42cc99e50c9dd842c8c3906c2fd04bfc8f",
+   "timestamp": "1996-10-09T05:42:36.000Z"
+  },
+  "SPIDER.TXT": {
+   "bytes": 2668,
+   "sha256": "301839bb1a80a876484402805a1226848859a197e67ad912266d6c48646595f9",
+   "timestamp": "1997-03-21T21:54:12.000Z"
+  },
+  "sound/spider/attack.wav": {
+   "bytes": 19224,
+   "sha256": "203bd4b9fdc58b8c442ca7894716642220ed9ba34c81d1f5a7a4a13089e08925",
+   "timestamp": "1997-03-21T19:47:06.000Z"
+  },
+  "sound/spider/attack2.wav": {
+   "bytes": 15930,
+   "sha256": "af1b8e8969afb3b1b7274308594bdab859e4e617975ca06f297dd56e004b1e6b",
+   "timestamp": "1997-03-21T19:47:26.000Z"
+  },
+  "sound/spider/death.wav": {
+   "bytes": 13306,
+   "sha256": "254f3bce0c108309e1821ef5317fd554bef1ffc3ad00f7193eb95a59cdf063e5",
+   "timestamp": "1997-03-21T17:17:52.000Z"
+  },
+  "sound/spider/idle.wav": {
+   "bytes": 40134,
+   "sha256": "904f05fcd8e0c76911f6f6b09cb078bdb99ec72f8cd8891573b763a3477d031b",
+   "timestamp": "1997-03-21T19:47:52.000Z"
+  },
+  "sound/spider/idle2.wav": {
+   "bytes": 15492,
+   "sha256": "223f294d312630f9de0cfb54b8c69ea15f158d47a755e93984936ac7e4d1f58d",
+   "timestamp": "1997-03-21T19:48:18.000Z"
+  },
+  "sound/spider/pain.wav": {
+   "bytes": 3894,
+   "sha256": "477f8a09387679cf219bb280c771aa5adb1f3332e3fb079deea974edb0439283",
+   "timestamp": "1997-03-21T17:19:30.000Z"
+  },
+  "sound/spider/sight.wav": {
+   "bytes": 17400,
+   "sha256": "d367c86a5d431eee1bbba1028f2b5137fd0f05d0ab59217e679a8f054bf8ed9b",
+   "timestamp": "1997-03-21T19:48:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/wishwell/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "7e76b5c584e412835084384e4a2e6e2bb2c72a82b9f7af3118f5c9607f1defb0",
+ "tags": [
+  "author=Tom Cleghorn aka Murgatroyd",
+  "commandline=-game wishwell",
+  "filename=wishwell.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelsv-z.htm)",
+  "map_size=small",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=rectangular",
+  "nonspecific_tag=textures",
+  "release_date=1997-03-22",
+  "startmap=ff",
+  "theme=mixtex",
+  "theme=wizard",
+  "title=The Wishing Well",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/wishwell.zip",
+  "https://www.quaddicted.com/files/by-sha256/7e/7e76b5c584e412835084384e4a2e6e2bb2c72a82b9f7af3118f5c9607f1defb0/wishwell.zip"
+ ]
+}

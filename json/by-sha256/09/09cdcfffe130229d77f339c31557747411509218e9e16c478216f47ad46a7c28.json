@@ -1,0 +1,169 @@
+{
+ "bytes": 2533,
+ "files": {
+  "pak0.pak": {
+   "bytes": 5596480,
+   "files": {
+    "maps/tefad.bsp": {
+     "bytes": 1767040,
+     "sha256": "0a86c8a2bfa97709013eab417448cdc0aec86442577b73881457766b1480aae3"
+    },
+    "maps/tefhoa.bsp": {
+     "bytes": 1286600,
+     "sha256": "697eb2985a40b51c0c55e49a238d7805d6be15e1bb8097e7f72440c797a016c7"
+    },
+    "progs.dat": {
+     "bytes": 602236,
+     "sha256": "c173f9b34e9e7b4ec2461c7b6542680fffea757852669762b041270df3b30d05"
+    },
+    "progs/lavaman.mdl": {
+     "bytes": 190588,
+     "sha256": "b81bb7f5cebb2889cfd2f431f743200f672d0195b05fe3faa98b50163fed7fb1"
+    },
+    "progs/mervup.mdl": {
+     "bytes": 32948,
+     "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899"
+    },
+    "progs/morph_az.mdl": {
+     "bytes": 300592,
+     "sha256": "98d86ad428b5ab5643e12921f3f41572eb84c2025a8f05c7b882ccce6bdc4a5f"
+    },
+    "progs/morph_eg.mdl": {
+     "bytes": 300592,
+     "sha256": "14468fccffaa1508c03610dd58fb51cd9058ca3bab036bca18f7a41cb37c195b"
+    },
+    "progs/morph_gr.mdl": {
+     "bytes": 300592,
+     "sha256": "662aa03785b4a6d2689670bebc5a9d081c36541347e324fac3957f599eab3be8"
+    },
+    "progs/redback.mdl": {
+     "bytes": 82664,
+     "sha256": "0d142a1f84016078c0053d5e6a4d483cd371203aa24f4c06c2f19224dcf5a46b"
+    },
+    "progs/s_blood1.spr": {
+     "bytes": 3192,
+     "sha256": "edd95bb75f7461862fd1f9e5876b66f3dc778548fb2b8db53cd903b55d3b95bf"
+    },
+    "progs/s_bullet.spr": {
+     "bytes": 120,
+     "sha256": "bce3194039dc74c5545e6255f771494824e01f24b23dd386f2e1333d52ba7f5d"
+    },
+    "progs/s_wrath.mdl": {
+     "bytes": 200848,
+     "sha256": "4c0653e3adba99be4d581c92a928fd6e8c27b0a2159a97f7ec5e885478249b8d"
+    },
+    "progs/s_wrtgb1.mdl": {
+     "bytes": 62108,
+     "sha256": "b003640a72968d716284188b2666be4ecf6d895002483b395e1e43da5f24d54b"
+    },
+    "progs/s_wrtgb2.mdl": {
+     "bytes": 34872,
+     "sha256": "0b02115fff578f14c84eef3bf63f899b0eae4e2819824d2fdace5d684a62fd58"
+    },
+    "progs/s_wrtgb3.mdl": {
+     "bytes": 32260,
+     "sha256": "9857c167aced5c8aeeb28e828fd86f1209cf7471350f90bedac9401877f5981b"
+    },
+    "progs/shield.mdl": {
+     "bytes": 54612,
+     "sha256": "6cebe03621614d8508ce3e8203ad151ad4b3ea5da9003650165e896b032545fd"
+    },
+    "progs/w_ball.mdl": {
+     "bytes": 13684,
+     "sha256": "ba9f52e66ac380306d443e07ee4f1fac92793cba55394c01590c3dd088042e78"
+    },
+    "progs/wrath.mdl": {
+     "bytes": 133676,
+     "sha256": "0a57ee912df3142c5e17183d5f6bd461021b141d53f7534014d59eda97e6bfa6"
+    },
+    "progs/wrthgib1.mdl": {
+     "bytes": 5300,
+     "sha256": "be341d54e1fe39bfd9239f1a708bb32548902067c80c5643479da30647087229"
+    },
+    "progs/wrthgib2.mdl": {
+     "bytes": 6292,
+     "sha256": "e0f85f9b51c584f30d27c48134dac9a35d25b7b6eb441df7b4b5c442c2b7e142"
+    },
+    "progs/wrthgib3.mdl": {
+     "bytes": 2516,
+     "sha256": "18550030f73726841d57f557d8791d5f2721bd7d7235e08636a960af3765c4e3"
+    },
+    "sound/guard/death.wav": {
+     "bytes": 47176,
+     "sha256": "87f013eb50cb30a967a183f0cfa41b4848f9269afd13dbe1ab5053458bfc5f0e"
+    },
+    "sound/guard/pain1.wav": {
+     "bytes": 10768,
+     "sha256": "c48f2415db3a5067dfbd99ad580e3f4809532743d653eafe2fdb924fb0bb832e"
+    },
+    "sound/guard/see1.wav": {
+     "bytes": 47502,
+     "sha256": "a0c0bd639af614c7714388009c9388f6db9a694e7ecd8fac38653609d6958f61"
+    },
+    "sound/s_wrath/smash.wav": {
+     "bytes": 4052,
+     "sha256": "350f94da784df15dcdf3d005258c8ac1033819c2ef51f7377de69ecd38317c98"
+    },
+    "sound/s_wrath/swrath1.wav": {
+     "bytes": 6028,
+     "sha256": "7d2290479c4b8fe3cbf14b8e1bddbd6a874b5e9d5f436233eec562f35ca8cfb3"
+    },
+    "sound/s_wrath/swrath2.wav": {
+     "bytes": 4052,
+     "sha256": "7f9ae2dcb54b6e59c67705c20179a963bb8218d4c96db4323d1fedfb4ad39afb"
+    },
+    "sound/wrath/watt.wav": {
+     "bytes": 22374,
+     "sha256": "0aedb709c0769e401f25637e69140ba260035b75e36ae9f22cbb94cbf28f5f81"
+    },
+    "sound/wrath/wdthc.wav": {
+     "bytes": 10580,
+     "sha256": "dd94c0dd5f38cd10395f100004078901754a6993af94e68a06cd154a251a2ee3"
+    },
+    "sound/wrath/wpain.wav": {
+     "bytes": 18208,
+     "sha256": "ccf99194833e0db8af5702126a62c5e011138aa6ba814be51e4207b401183220"
+    },
+    "sound/wrath/wsee.wav": {
+     "bytes": 10412,
+     "sha256": "619c48897129e2352f378e6d959e60f41c1c1d4d31606b2a9577fa186eb5e804"
+    }
+   },
+   "sha256": "69ced02204a0c86178c68282d36d65c606ae0271f88500063a34e8f266705f5a",
+   "timestamp": "1997-10-31T00:49:46.000Z"
+  },
+  "tefdbl3.txt": {
+   "bytes": 6930,
+   "sha256": "f6efba17d07960e8603f6169f594fdb5d3bf7b6bf69318704d6796b05c9d2501",
+   "timestamp": "1997-10-31T09:14:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/tefdbl3/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "09cdcfffe130229d77f339c31557747411509218e9e16c478216f47ad46a7c28",
+ "tags": [
+  "author=T.H. Johansen (TJ)",
+  "commandline=-game tefdbl3",
+  "filename=tefdbl3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990224.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "map_size=medium",
+  "nonspecific_tag=bosses",
+  "nonspecific_tag=monsters",
+  "release_date=1997-10-31",
+  "startmap=tefhoa",
+  "theme=dissolution of eternity",
+  "theme=lava",
+  "theme=metal",
+  "title=Halls of Artemis / Apollo's Domain",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/tefdbl3.zip",
+  "https://www.quaddicted.com/files/by-sha256/09/09cdcfffe130229d77f339c31557747411509218e9e16c478216f47ad46a7c28/tefdbl3.zip"
+ ]
+}

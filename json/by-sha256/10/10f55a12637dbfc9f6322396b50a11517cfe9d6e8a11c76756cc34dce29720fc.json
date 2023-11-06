@@ -1,0 +1,84 @@
+{
+ "bytes": 4606,
+ "files": {
+  "apsp3/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2012-10-31T00:58:40.000Z"
+  },
+  "apsp3/apsp3.map": {
+   "bytes": 6749335,
+   "sha256": "0229aea76ed5bd6587f3f9485056089c0297a2cc84fb80b3482fb3fab8464cc5",
+   "timestamp": "2012-10-31T00:33:44.000Z"
+  },
+  "apsp3/apsp3.rmf": {
+   "bytes": 28245814,
+   "sha256": "7b3700f1fbffd6ee458c7239a0c7a9abed521cbce2fa2765fbb0853e52e3d153",
+   "timestamp": "2012-10-31T00:56:36.000Z"
+  },
+  "apsp3/apsp3.txt": {
+   "bytes": 9867,
+   "sha256": "6ba19236a54c6c96e38ae3fc6e850e30448f0ed79e7537d106719562649252dd",
+   "timestamp": "2012-10-31T01:01:40.000Z"
+  },
+  "apsp3/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2012-10-31T00:58:30.000Z"
+  },
+  "apsp3/maps/apsp3.bsp": {
+   "bytes": 6819616,
+   "sha256": "163ed03597af811e4898e97501f8b8f6ac797233a53d9e88a596660345187616",
+   "timestamp": "2012-10-31T00:50:54.000Z"
+  },
+  "apsp3/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2012-10-30T01:06:22.000Z"
+  },
+  "apsp3/sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2012-10-30T01:06:22.000Z"
+  },
+  "apsp3/sound/ambience/blood.wav": {
+   "bytes": 240964,
+   "sha256": "197a5b8be8ca0394264a763b13dcb9001818e3af2ea0a920769e697df19bc4ba",
+   "timestamp": "2012-03-17T20:43:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc",
+ "tags": [
+  "author=Andrew 'than' Palmer",
+  "commandline=-quoth -game apsp3",
+  "dependency=quoth",
+  "filename=apsp3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "mod=quoth",
+  "nonspecific_tag=interconnectivity",
+  "nonspecific_tag=library",
+  "nonspecific_tag=runes",
+  "release_date=2012-10-30",
+  "source=included",
+  "theme=blood",
+  "theme=cave",
+  "theme=knave",
+  "theme=medieval",
+  "theme=quoth",
+  "theme=ruins",
+  "theme=secrets",
+  "theme=underground",
+  "title=Subterranean Library",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/apsp3.zip",
+  "https://www.quaddicted.com/files/by-sha256/10/10f55a12637dbfc9f6322396b50a11517cfe9d6e8a11c76756cc34dce29720fc/apsp3.zip"
+ ]
+}

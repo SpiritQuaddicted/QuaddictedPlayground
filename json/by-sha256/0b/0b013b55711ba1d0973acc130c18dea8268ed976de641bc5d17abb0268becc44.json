@@ -1,0 +1,125 @@
+{
+ "bytes": 3484,
+ "files": {
+  "SM179_Pack.txt": {
+   "bytes": 287,
+   "sha256": "890b8eaf80a8c38789c809b6c63e62553efeb20f93296b53a3b121b903449f9b",
+   "timestamp": "2017-08-19T22:34:24.000Z"
+  },
+  "sm179_danzadan.bsp": {
+   "bytes": 803712,
+   "sha256": "69f0bea396f3beb4b5586fd80c70a25cf8c6679a2f867ae6dcaa243bbf607def",
+   "timestamp": "2017-08-19T21:17:16.000Z"
+  },
+  "sm179_danzadan.txt": {
+   "bytes": 546,
+   "sha256": "a767ac13a00f9d03fb0346f1c2585f6d4d4297245382bdd068bcde9d156aa595",
+   "timestamp": "2017-08-19T21:41:38.000Z"
+  },
+  "sm179_dumptruck_ds.bsp": {
+   "bytes": 1372164,
+   "sha256": "ffe3e6d050cb2a2dee9f55c1b63b2051427e9cc6ffb005a213eb2fc3652ef51d",
+   "timestamp": "2017-08-19T20:44:40.000Z"
+  },
+  "sm179_dumptruck_ds_readme.txt": {
+   "bytes": 2843,
+   "sha256": "08b38a6fd679ac2f937097a9944d24f7eff3db99c25f528b6bf190ced413e7eb",
+   "timestamp": "2017-08-19T20:43:00.000Z"
+  },
+  "sm179_mukor.bsp": {
+   "bytes": 736252,
+   "sha256": "813100bdbdada95636005db8f4a12871e7209a22a360dc8c8b7043df811decda",
+   "timestamp": "2017-08-19T21:47:54.000Z"
+  },
+  "sm179_mukor.lit": {
+   "bytes": 475196,
+   "sha256": "e94e03ad14e5f777d63cf7c6d49ef5c9ee0a010902195a5688f04d7bf38e777b",
+   "timestamp": "2017-08-19T21:47:58.000Z"
+  },
+  "sm179_naitelveni.bsp": {
+   "bytes": 2144220,
+   "sha256": "cb1d2b90950b161d91f2e56073eae622b2da9bd5095f75ef0f5810c113451f26",
+   "timestamp": "2017-08-19T21:10:36.000Z"
+  },
+  "sm179_otp.bsp": {
+   "bytes": 1876548,
+   "sha256": "d2047ddf07e6b18764168f0138c23a77bbe503d427ac1713843344b759f75b94",
+   "timestamp": "2017-08-20T02:59:08.000Z"
+  },
+  "source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2017-08-19T21:48:18.000Z"
+  },
+  "source/sm179_danzadan.map": {
+   "bytes": 360368,
+   "sha256": "8436e9f93074bf599c2efea7e06abaa9f0c8abdd27cbeaee12b73fc0c0641450",
+   "timestamp": "2017-08-19T21:12:50.000Z"
+  },
+  "source/sm179_dumptruck_ds.map": {
+   "bytes": 417402,
+   "sha256": "660d7bc4e88c940ba3a969b7221de5d7c7a5158c023fba7fca4174d2074fe285",
+   "timestamp": "2017-08-19T20:44:12.000Z"
+  },
+  "source/sm179_mukor.map": {
+   "bytes": 267745,
+   "sha256": "4ac605fe605591041da50a3a9fb936960e331ba5a33b2065a61c1066f2dedee5",
+   "timestamp": "2017-08-19T21:47:58.000Z"
+  },
+  "source/sm179_naitelveni.lit": {
+   "bytes": 971999,
+   "sha256": "db1cbca0aa0f3d76ae4c9a92af3fcb7939ba466c611a34f688cf71db1c5fbfa0",
+   "timestamp": "2017-08-19T21:10:36.000Z"
+  },
+  "source/sm179_otp.map": {
+   "bytes": 1327260,
+   "sha256": "11c6d3e2e1f1f396c6d02a4b8085ef38d6145ca2ea5d3923a0953038f06d0407",
+   "timestamp": "2017-08-20T02:56:24.000Z"
+  },
+  "textures/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2017-08-20T03:02:06.000Z"
+  },
+  "textures/#vino.tga": {
+   "bytes": 7516,
+   "sha256": "69c3fe83738de3ccea188502d120c9cd45399cf413cea1527252481b5e152578",
+   "timestamp": "2017-08-19T12:01:26.000Z"
+  },
+  "textures/pkw_pinkdoor.tga": {
+   "bytes": 12608,
+   "sha256": "8f1eefd32a6054097702bccb7c2c243fbfd5789e23ac4b3b89f0829e76d0ec3d",
+   "timestamp": "2017-08-19T11:44:42.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "0b013b55711ba1d0973acc130c18dea8268ed976de641bc5d17abb0268becc44",
+ "tags": [
+  "author=Danzadan",
+  "author=Naitelveni",
+  "author=dumptruck_ds",
+  "author=mukor",
+  "author=onetruepurple",
+  "filename=sm179_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "nonspecific_tag=external textures",
+  "nonspecific_tag=hacks",
+  "release_date=2017-08-20",
+  "startmap=sm179_danzadan",
+  "startmap=sm179_dumptruck_ds",
+  "startmap=sm179_mukor",
+  "startmap=sm179_naitelveni",
+  "startmap=sm179_otp",
+  "theme=wizard",
+  "title=Speedmapping pack 179 - Wizard",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm179_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0b/0b013b55711ba1d0973acc130c18dea8268ed976de641bc5d17abb0268becc44/sm179_pack.zip"
+ ]
+}

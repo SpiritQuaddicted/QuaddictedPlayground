@@ -1,0 +1,107 @@
+{
+ "bytes": 957,
+ "files": {
+  "shoot/pak0.pak": {
+   "bytes": 2560581,
+   "files": {
+    "demo1.dem": {
+     "bytes": 736852,
+     "sha256": "ea1c7cee1ddf70d0ddcb0ce22ca064513a23fa4da8622ad72f16bf476deaa875"
+    },
+    "demo2.dem": {
+     "bytes": 426899,
+     "sha256": "be9973a4ee619688af4d11827735afc5208dbab4d9e254df3fd851d54db68257"
+    },
+    "demo3.dem": {
+     "bytes": 484518,
+     "sha256": "cd036d91a5a91d656858d073d183e60c2d1b41ab516bc6e165faa2bd4a21437e"
+    },
+    "maps/shoot.bsp": {
+     "bytes": 680028,
+     "sha256": "e0e562106f8dace25f8baa29afaa94bc1d58caac65decb5523c27bd27ba5425a"
+    },
+    "maps/start.bsp": {
+     "bytes": 231952,
+     "sha256": "f1ed5e701c329227ceb5fd84f313c58bbe5e33abc47335a9a0a647a390d659f8"
+    }
+   },
+   "sha256": "8d80727766eb0fd8c2447cc459a52174e22db1af66f74ccad7fde4fd2bca0421",
+   "timestamp": "1997-12-28T16:58:58.000Z"
+  },
+  "shoot/shoot.bat": {
+   "bytes": 34,
+   "sha256": "42b3a95648fc19770f651a50a210a3e23f5c2e0164a3c2428d2ed32155f3af3a",
+   "timestamp": "1997-12-27T13:00:56.000Z"
+  },
+  "shoot/shoot.txt": {
+   "bytes": 1632,
+   "sha256": "b9f3a70eeb85e0ba69b41066f351533c258ae0424a021607660f51191ca97e2c",
+   "timestamp": "1998-01-05T14:37:44.000Z"
+  },
+  "shoot/source.zip": {
+   "bytes": 253248,
+   "files": {
+    "shoot.map": {
+     "bytes": 205578,
+     "sha256": "2f3922207a28a8cb88c2fe6924d23a68051542e8126b8b078e3c88f7bfa7b6c5",
+     "timestamp": "1998-01-05T14:40:54.000Z"
+    },
+    "shoot.qle": {
+     "bytes": 395539,
+     "sha256": "f18c0edb9a1542549a0ec51087416ff1a01814e719a74294db2f96594b97b5f1",
+     "timestamp": "1997-12-26T17:59:00.000Z"
+    },
+    "shoot.wad": {
+     "bytes": 361584,
+     "sha256": "6d9e4b3da0511da0903c33f8bfa5d454f562adddb34d6f2c96c28585834186ab",
+     "timestamp": "1998-01-05T14:40:56.000Z"
+    },
+    "start.map": {
+     "bytes": 62904,
+     "sha256": "63b245213dc64f374d55c3713383f15ff9722fbd29d9047726da7bb056b334b9",
+     "timestamp": "1998-01-05T14:41:50.000Z"
+    },
+    "start.qle": {
+     "bytes": 118028,
+     "sha256": "85fa4a4988fabad8f4fcd39b92bf6a36a34de46df875b2ae71e2b7c45ee7c22f",
+     "timestamp": "1998-01-05T14:41:36.000Z"
+    },
+    "start.wad": {
+     "bytes": 66160,
+     "sha256": "1a391cade1118a9a47755a94327f8e9d284d09f0e5f90fc27176e3a13e967368",
+     "timestamp": "1998-01-05T14:41:52.000Z"
+    }
+   },
+   "sha256": "929bfcc6971fc1b130ad39ee42e3056a1caf2e89632d95d61a8c0ca8d47a99d9",
+   "timestamp": "1998-01-05T14:45:06.000Z"
+  },
+  "shoot/winshoot.bat": {
+   "bytes": 37,
+   "sha256": "57480e67a9de5150d9e4f86fc2cbb724ccb61e1b549a263fb8433eee8eaaaf45",
+   "timestamp": "1997-12-27T13:01:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1",
+ "tags": [
+  "author=\u00c9tienne (Blood Man) B\u00e9gin",
+  "commandline=-game shoot",
+  "filename=shoot.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=tiny",
+  "release_date=1998-01-05",
+  "source=included",
+  "startmap=start",
+  "theme=medieval",
+  "title=Shoot",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/shoot.zip",
+  "https://www.quaddicted.com/files/by-sha256/d4/d45ec45b52d113d5d50c596b6d14eac4c5f840dc4cfbdfd987b76feb5b373ea1/shoot.zip"
+ ]
+}

@@ -1,0 +1,426 @@
+{
+ "bytes": 39913,
+ "files": {
+  "SM210_Overgrown/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-09-01T12:17:40.000Z"
+  },
+  "SM210_Overgrown/SM210_quasiotter_readme.txt": {
+   "bytes": 2266,
+   "sha256": "e14b45e68fa4b0cd7d005e8a7d41da10cee554d30dafddaa8e71fb60109b6b95",
+   "timestamp": "2020-08-31T23:51:38.000Z"
+  },
+  "SM210_Overgrown/Source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T23:56:26.000Z"
+  },
+  "SM210_Overgrown/Source/SM210_quasiotter.map": {
+   "bytes": 251926,
+   "sha256": "57cffa144a226f6d1f4262525e96e5ded611a919fa7b35566692ad63495c10f9",
+   "timestamp": "2020-08-31T23:51:36.000Z"
+  },
+  "SM210_Overgrown/Source/sm210_burnham.map": {
+   "bytes": 260822,
+   "sha256": "8e0f1eff1fbf661321c4974a5a885de9b68dda44422d778b20501b799379ca21",
+   "timestamp": "2020-08-31T23:50:10.000Z"
+  },
+  "SM210_Overgrown/Source/sm210_chrisholden.map": {
+   "bytes": 817226,
+   "sha256": "eb8ff1114b71be603f06c708115a00815b1f3ca823523c0f300479cabf09f46f",
+   "timestamp": "2020-08-31T23:52:08.000Z"
+  },
+  "SM210_Overgrown/Source/sm210_doom_pope.map": {
+   "bytes": 906821,
+   "sha256": "e8b520b282bb32a0078924713eda0220b0822ea1321a79ae6123c48611c005d3",
+   "timestamp": "2020-08-31T03:12:30.000Z"
+  },
+  "SM210_Overgrown/Source/sm210_entsoy.map": {
+   "bytes": 3246744,
+   "sha256": "7aad87039ca3cb8103835d804e250afd2e98dbdec96911253170843f583a38ca",
+   "timestamp": "2020-08-31T16:52:52.000Z"
+  },
+  "SM210_Overgrown/Source/sm210_markie.map": {
+   "bytes": 3968972,
+   "sha256": "804a697c3c58428e00dbba890efa48cbb3aec8e64ffa46bb9cd6ac31616a7c7e",
+   "timestamp": "2020-08-31T23:51:22.000Z"
+  },
+  "SM210_Overgrown/Source/sm210_naitelveni.map": {
+   "bytes": 5401868,
+   "sha256": "5df2e2a915d250230eb8699c99750aafe4315098613c581122fb8ad7babb65c4",
+   "timestamp": "2020-08-31T23:56:26.000Z"
+  },
+  "SM210_Overgrown/Source/sm210_radiatoryang.map": {
+   "bytes": 594922,
+   "sha256": "08e8ca7ec67b089fe21e8c767e31f9c99d0ed2c75c02441bfe3b6fb25c142625",
+   "timestamp": "2020-08-31T23:50:52.000Z"
+  },
+  "SM210_Overgrown/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T23:49:32.000Z"
+  },
+  "SM210_Overgrown/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T23:55:44.000Z"
+  },
+  "SM210_Overgrown/gfx/env/brightblue_bk.tga": {
+   "bytes": 540890,
+   "sha256": "d48929548ee88e106a7c6c7d92a12eed9feff830a95de1cf429857ac96937e9f",
+   "timestamp": "2020-08-31T23:50:34.000Z"
+  },
+  "SM210_Overgrown/gfx/env/brightblue_dn.tga": {
+   "bytes": 781195,
+   "sha256": "72651fd62cda00374817234793efb2dcd7d2c6711f6aba8530a6e5773d460bee",
+   "timestamp": "2020-08-31T23:50:34.000Z"
+  },
+  "SM210_Overgrown/gfx/env/brightblue_ft.tga": {
+   "bytes": 537939,
+   "sha256": "9031b389c7b1a2c91f3bf7c83063173c7fc7c8b7d10e92eb99d8b4e9a60d9cdd",
+   "timestamp": "2020-08-31T23:50:34.000Z"
+  },
+  "SM210_Overgrown/gfx/env/brightblue_lf.tga": {
+   "bytes": 542431,
+   "sha256": "45f1117935e07603beeb77cde6cea4f7f341609e781ba74f4c0a67a430de3423",
+   "timestamp": "2020-08-31T23:50:34.000Z"
+  },
+  "SM210_Overgrown/gfx/env/brightblue_rt.tga": {
+   "bytes": 570972,
+   "sha256": "a76fb6123ce147bb59fc43d37028a03553d095d911d75ff622da21b0e1961187",
+   "timestamp": "2020-08-31T23:50:34.000Z"
+  },
+  "SM210_Overgrown/gfx/env/brightblue_up.tga": {
+   "bytes": 282168,
+   "sha256": "9fd1f9b64a7febc5222060e1cffc2a2a53de38bcd0431aa979217c9bc152db3e",
+   "timestamp": "2020-08-31T23:50:34.000Z"
+  },
+  "SM210_Overgrown/gfx/env/duske_bk.tga": {
+   "bytes": 606420,
+   "sha256": "06796e1fc73783f1dccb748b4a05703e3454623439727168c47f370e358b0656",
+   "timestamp": "2020-08-31T23:49:32.000Z"
+  },
+  "SM210_Overgrown/gfx/env/duske_dn.tga": {
+   "bytes": 787184,
+   "sha256": "9794d0b1b7bf571ff247baeebae5897be3cc0c6bf3428edbcf2782c1f34610c2",
+   "timestamp": "2020-08-31T23:49:32.000Z"
+  },
+  "SM210_Overgrown/gfx/env/duske_ft.tga": {
+   "bytes": 594909,
+   "sha256": "e3967e5143dfc8ffaba3dc0fe0c83d0da8d56174de9da0ea09d450a0d62e6742",
+   "timestamp": "2020-08-31T23:49:32.000Z"
+  },
+  "SM210_Overgrown/gfx/env/duske_lf.tga": {
+   "bytes": 585541,
+   "sha256": "0b7331135116c4e184df4d9e4824dbf5b435d045718db20a81b0d30ce91cb64a",
+   "timestamp": "2020-08-31T23:49:32.000Z"
+  },
+  "SM210_Overgrown/gfx/env/duske_rt.tga": {
+   "bytes": 688109,
+   "sha256": "20d94245588988fb390440c531d787c25c2f4b97151bfbd1526fdc3c90e1320a",
+   "timestamp": "2020-08-31T23:49:32.000Z"
+  },
+  "SM210_Overgrown/gfx/env/duske_up.tga": {
+   "bytes": 470425,
+   "sha256": "eba18d5e259e973c649bf16495a34ada1c523faa14ef6462b723476e820d8766",
+   "timestamp": "2020-08-31T23:49:32.000Z"
+  },
+  "SM210_Overgrown/gfx/env/l_swampn_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "3b83c2aeccb2ec2b6a7e7de05e4eb1f120437c575769b93533708093be6d7acb",
+   "timestamp": "2020-08-31T23:51:52.000Z"
+  },
+  "SM210_Overgrown/gfx/env/l_swampn_dn.tga": {
+   "bytes": 3146268,
+   "sha256": "64ea5b085c2758138760da154c77e3c90eb0831c68e75bac4c03cd03ae2e28c1",
+   "timestamp": "2020-08-31T23:51:52.000Z"
+  },
+  "SM210_Overgrown/gfx/env/l_swampn_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "f8149a22f17e241f3cc50ddc2587b3d8d6e72bb26f7a47d5045b08ed436863af",
+   "timestamp": "2020-08-31T23:51:52.000Z"
+  },
+  "SM210_Overgrown/gfx/env/l_swampn_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "fdf2a49932e8ee9c06b9a50fa6dcff3d29bdde55aa209d1658346cf236ca1dd8",
+   "timestamp": "2020-08-31T23:51:52.000Z"
+  },
+  "SM210_Overgrown/gfx/env/l_swampn_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "a2c65a9eafab955cfe898aa28e3563714354a08725068df84f390eebfc6ca20d",
+   "timestamp": "2020-08-31T23:51:52.000Z"
+  },
+  "SM210_Overgrown/gfx/env/l_swampn_up.tga": {
+   "bytes": 3146269,
+   "sha256": "aa5c65d4c106b17e695629023db1e6b304ec5b4f15e646a1a94b38c47ef9017e",
+   "timestamp": "2020-08-31T23:51:52.000Z"
+  },
+  "SM210_Overgrown/gfx/env/urdak_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "014d2ba62993a3ea55b539fbdccb2f9d360604d9fff5cac70b62d7107d41c399",
+   "timestamp": "2020-08-31T23:55:44.000Z"
+  },
+  "SM210_Overgrown/gfx/env/urdak_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "0b9131c21cb313a445eaa3aa609f60b32cc910ff0e9b73e1dbecfb372dacba73",
+   "timestamp": "2020-08-31T23:55:44.000Z"
+  },
+  "SM210_Overgrown/gfx/env/urdak_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "e7fa9e724c73048466379e382c65f67a288963ce15cdd7f69c609038dad05240",
+   "timestamp": "2020-08-31T23:55:44.000Z"
+  },
+  "SM210_Overgrown/gfx/env/urdak_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "3101d2d5669bf599d6746c32009a7327e32f37936f5ce266f67ef3f0535ac112",
+   "timestamp": "2020-08-31T23:55:44.000Z"
+  },
+  "SM210_Overgrown/gfx/env/urdak_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "efc812dfbd9ad110492a4384c51d25f7490bf36da16ab6f6f53b545e37799b79",
+   "timestamp": "2020-08-31T23:55:44.000Z"
+  },
+  "SM210_Overgrown/gfx/env/urdak_up.tga": {
+   "bytes": 3145772,
+   "sha256": "84cea2701da52065851774cfaa255444947f40f664d00de57b15414fede76ed5",
+   "timestamp": "2020-08-31T23:55:44.000Z"
+  },
+  "SM210_Overgrown/gfx/env/verdanis-cool_bk.tga": {
+   "bytes": 703996,
+   "sha256": "75ba98f3383cf2e69ee1455a0bee76f5f0f323fb8620705c22ca676af82ac754",
+   "timestamp": "2020-08-31T23:53:16.000Z"
+  },
+  "SM210_Overgrown/gfx/env/verdanis-cool_dn.tga": {
+   "bytes": 789011,
+   "sha256": "8e84e3e20020d4a625f7360debf122191c96069ceba1e9d1c416d09926a0de6a",
+   "timestamp": "2020-08-31T23:53:16.000Z"
+  },
+  "SM210_Overgrown/gfx/env/verdanis-cool_ft.tga": {
+   "bytes": 689720,
+   "sha256": "950d50aa1b173b993aaf225fd29fd793252f972fc05d989eae62ce9e6f333046",
+   "timestamp": "2020-08-31T23:53:16.000Z"
+  },
+  "SM210_Overgrown/gfx/env/verdanis-cool_lf.tga": {
+   "bytes": 676818,
+   "sha256": "ff6f1e5746a8e710114af2a477211315ee910b09654b13639b09d9a91b0c7d8e",
+   "timestamp": "2020-08-31T23:53:16.000Z"
+  },
+  "SM210_Overgrown/gfx/env/verdanis-cool_rt.tga": {
+   "bytes": 698920,
+   "sha256": "eb8495fa7d818849c290e8df52f9fca9091ebdc39dcb0615c8c67271ababb776",
+   "timestamp": "2020-08-31T23:53:16.000Z"
+  },
+  "SM210_Overgrown/gfx/env/verdanis-cool_up.tga": {
+   "bytes": 503354,
+   "sha256": "a1ccac6bd3b1cce725542ff8157da29eb5b0f3119f2e55bef3150e6458359f0d",
+   "timestamp": "2020-08-31T23:53:16.000Z"
+  },
+  "SM210_Overgrown/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-09-01T11:46:48.000Z"
+  },
+  "SM210_Overgrown/maps/SM210_quasiotter.bsp": {
+   "bytes": 551276,
+   "sha256": "197085823c854471b2e3561be66bcf98c5224eb8139a9329d5d90f20cda91632",
+   "timestamp": "2020-08-31T23:51:32.000Z"
+  },
+  "SM210_Overgrown/maps/SM210_quasiotter.lit": {
+   "bytes": 136031,
+   "sha256": "1dcd333d345013010e29710a9f27c7c1ba6f6c26e57b9f15bc694a57eae465e2",
+   "timestamp": "2020-08-31T23:51:32.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_burnham.bsp": {
+   "bytes": 905468,
+   "sha256": "491360ecc3a7a11fbf710c7284b53edbde8f57d0b92f38b1a59957ab6dfaa497",
+   "timestamp": "2020-08-31T23:50:06.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_chrisholden.bsp": {
+   "bytes": 2818916,
+   "sha256": "cfedcbcbac1a2971da12a6ee6da998a94ef682c6d5fc8286272ee9868054b94f",
+   "timestamp": "2020-08-31T23:52:02.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_chrisholden.lit": {
+   "bytes": 1556072,
+   "sha256": "c4547e1c6d5e9e61d0bad331047f526101bb4bcdf1302af9e66237de6e710678",
+   "timestamp": "2020-08-31T23:52:02.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_doom_pope.bsp": {
+   "bytes": 1998068,
+   "sha256": "f299824637a99101ca266c533c3a60a05a6fc00ee63498d5adca26bc1afb8f30",
+   "timestamp": "2020-08-31T03:02:32.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_entsoy.bsp": {
+   "bytes": 6434604,
+   "sha256": "a071e839df17163389c4c2d0555dbdffd22a534ea20284e1ecea3346a8435458",
+   "timestamp": "2020-08-31T16:53:50.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_entsoy.lit": {
+   "bytes": 1705862,
+   "sha256": "b755f3ade70939f2624ff563be6c347ae8cbe8f8d2007d8b0cdb721ac97f66df",
+   "timestamp": "2020-08-31T16:53:50.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_gnemeth.bsp": {
+   "bytes": 1355308,
+   "sha256": "934f0d601b88e90e054ac76ffdd2728bf167a9b95c5d84d7e2ba100c1eda66ae",
+   "timestamp": "2020-09-01T11:46:48.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_greenwood.bsp": {
+   "bytes": 4838532,
+   "sha256": "75f174ea9162a22f7165ef6cf80914a5e34a4f7179e90aa2319258756b7d33bc",
+   "timestamp": "2020-08-31T23:53:24.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_greenwood.lit": {
+   "bytes": 1819244,
+   "sha256": "1b6cc2f5e9cdeeabbb774e2cd302aad4c9e700c8742b5e43aebe450b643526df",
+   "timestamp": "2020-08-31T23:53:24.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_markie.bsp": {
+   "bytes": 3338760,
+   "sha256": "53d64924f150a13411be53763e25d1711f8cbde7f8a9a676950398f633cc23c3",
+   "timestamp": "2020-08-31T23:51:16.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_markie.lit": {
+   "bytes": 1628192,
+   "sha256": "2d14fcfa056f2dcbeb3e4f8b8805adcabd1294661820c88f96ce3c4d01139a84",
+   "timestamp": "2020-08-31T23:51:16.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_naitelveni.bsp": {
+   "bytes": 10515784,
+   "sha256": "d22a20d29a47ca4f06610c48ab8f3b55144f00d7152e469e39d42ebd8da4fbbd",
+   "timestamp": "2020-08-31T23:48:08.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_naitelveni.lit": {
+   "bytes": 1522163,
+   "sha256": "49f1225b3522fa65c01e19ca0b0bfa0ec7241721f720ed09ea2f735b422251c6",
+   "timestamp": "2020-08-31T23:48:08.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_radiatoryang.bsp": {
+   "bytes": 2991632,
+   "sha256": "4436daf95c5db4c5630fca9b1093f7e2a4d806f52390e539cf07f0daa12d6251",
+   "timestamp": "2020-08-31T23:50:48.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_radiatoryang.lit": {
+   "bytes": 834668,
+   "sha256": "c930c8af72f0582e5cddf3fa5a2f493b4688318875659fb463de99b395b7575e",
+   "timestamp": "2020-08-31T23:50:48.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_shades.bsp": {
+   "bytes": 3516896,
+   "sha256": "3a5f98085b851cb2ea27c82ec5fe1c978c85152758d740f5e0a14ea0eb8df1f8",
+   "timestamp": "2020-08-31T23:55:56.000Z"
+  },
+  "SM210_Overgrown/maps/sm210_shades.lit": {
+   "bytes": 3083387,
+   "sha256": "b7ea55dea5ffaf5f832369b753f83b0c47e75022b83334b61e20f4ae08fa5ed3",
+   "timestamp": "2020-08-31T23:55:56.000Z"
+  },
+  "SM210_Overgrown/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-31T23:55:30.000Z"
+  },
+  "SM210_Overgrown/music/track21.mp3": {
+   "bytes": 6274540,
+   "sha256": "93300862cddfd5b9fc7579ca92543d04578def96be735586184700c6c6ae295d",
+   "timestamp": "2020-08-31T23:55:30.000Z"
+  },
+  "SM210_Overgrown/sm210_burnham_readme.txt": {
+   "bytes": 2083,
+   "sha256": "d6069eea7c394252f9c335a6b7e9aee72b18db1afcb313c99a44abc9453e9334",
+   "timestamp": "2020-08-31T23:50:12.000Z"
+  },
+  "SM210_Overgrown/sm210_chrisholden.txt": {
+   "bytes": 1739,
+   "sha256": "4b45e28f76c7366550098ccd165a1cfd20ce31d404244ad3bc54ade7affa11b5",
+   "timestamp": "2020-08-31T23:52:06.000Z"
+  },
+  "SM210_Overgrown/sm210_doom_pope_Readme.txt": {
+   "bytes": 201,
+   "sha256": "8a70158fd10d16d97c6b91cda90e93d4a4fe57d48f6cec738d385a7e07eb4dc0",
+   "timestamp": "2020-08-31T03:19:54.000Z"
+  },
+  "SM210_Overgrown/sm210_entsoy.txt": {
+   "bytes": 639,
+   "sha256": "2cfd05103aa6e8b7212596313a6818aaca012ddb56980b276ae6f39729cbfae2",
+   "timestamp": "2020-08-31T17:06:08.000Z"
+  },
+  "SM210_Overgrown/sm210_gnemeth.txt.txt": {
+   "bytes": 2640,
+   "sha256": "b010900f6cb74a9eced8b148676a0307067c7d20575bdc8a17c337d162207353",
+   "timestamp": "2020-09-01T11:46:52.000Z"
+  },
+  "SM210_Overgrown/sm210_greenwood.txt": {
+   "bytes": 1406,
+   "sha256": "a0fbdd3397ac8e9efa1bc3749a59f50c89079b376e3dd7aaa176922a9dead25b",
+   "timestamp": "2020-08-31T23:53:28.000Z"
+  },
+  "SM210_Overgrown/sm210_markie.txt": {
+   "bytes": 1351,
+   "sha256": "f50128d3711cebdd858acd79e32c74bd090c2b1c1b5b965b0304efa46b669725",
+   "timestamp": "2020-08-31T23:51:24.000Z"
+  },
+  "SM210_Overgrown/sm210_poster.jpg": {
+   "bytes": 1125248,
+   "sha256": "65e6b4d709190d20bde903a7709b8e82cac4043427f1cc4745ba2874e0ca071c",
+   "timestamp": "2020-09-01T12:17:40.000Z"
+  },
+  "SM210_Overgrown/sm210_radiatoryang_readme.txt": {
+   "bytes": 1932,
+   "sha256": "bf97aa73cea85e4d7e64eeb493088f32a743314c65fa5184aa36751b7aecce51",
+   "timestamp": "2020-08-31T23:50:40.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "83529556f837f0db683a87604db87b727dc25d1e246513e251d5d177d7793761",
+ "tags": [
+  "author=Burnham",
+  "author=Chris Holden",
+  "author=Doom Pope",
+  "author=Entsoy",
+  "author=Gnemeth",
+  "author=Greenwood",
+  "author=Markie Music",
+  "author=Naitelveni",
+  "author=Radiator Yang",
+  "author=Shadesmaster",
+  "author=quasiotter",
+  "bsp_format=bsp2",
+  "commandline=-game copper",
+  "dependency=copper_v1_15",
+  "exceeds_quake_limits=yes",
+  "filename=sm210_overgrown.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61943)",
+  "mod=copper",
+  "nonspecific_tag=nature",
+  "nonspecific_tag=skybox",
+  "release_date=2020-09-02",
+  "source=included",
+  "startmap=SM210_quasiotter",
+  "startmap=sm210_burnham",
+  "startmap=sm210_chrisholden",
+  "startmap=sm210_doom_pope",
+  "startmap=sm210_entsoy",
+  "startmap=sm210_gnemeth",
+  "startmap=sm210_greenwood",
+  "startmap=sm210_markie",
+  "startmap=sm210_naitelveni",
+  "startmap=sm210_radiatorYang",
+  "startmap=sm210_shades",
+  "theme=base",
+  "theme=egypt",
+  "theme=ruins",
+  "title=Speedmapping pack 210 - Overgrown",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm210_overgrown.zip",
+  "https://www.quaddicted.com/files/by-sha256/83/83529556f837f0db683a87604db87b727dc25d1e246513e251d5d177d7793761/sm210_overgrown.zip"
+ ]
+}

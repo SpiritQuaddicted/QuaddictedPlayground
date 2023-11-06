@@ -1,0 +1,53 @@
+{
+ "bytes": 1089,
+ "files": {
+  "LOSTTEC.bsp": {
+   "bytes": 1526888,
+   "sha256": "5a06ab71a37c761e521becade0b49dfdb348724b7fffe74e8be4c0a9568bd9ad",
+   "timestamp": "1997-11-29T21:24:48.000Z"
+  },
+  "TECSKILL.bsp": {
+   "bytes": 393180,
+   "sha256": "87380569bfb8d8ecb3f2be5da5eb97936ab3b60326359727cc3ec09e25943e85",
+   "timestamp": "1997-11-26T23:26:44.000Z"
+  },
+  "losttec.dmm": {
+   "bytes": 416808,
+   "sha256": "42927e7935e5b9bf4e7b66c02c75398bab65043d1f81def6ca71f0fdf8433741",
+   "timestamp": "1997-11-29T20:35:44.000Z"
+  },
+  "losttec.txt": {
+   "bytes": 3736,
+   "sha256": "01a665e43e6023c4ec2441653aab49b155530537bcaa61d6c42e484e9f7e9851",
+   "timestamp": "1997-11-29T02:57:20.000Z"
+  },
+  "tecskill.dmm": {
+   "bytes": 66280,
+   "sha256": "2f04e0d461bb61c81b63402aaa178cdd76d59f9a2a7df1970aae6573188f514e",
+   "timestamp": "1997-11-26T23:25:40.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "ef846660cf6b692990e4c87be9a711a2f6ae2dd050201df3da293538e206e5ee",
+ "tags": [
+  "author=Richard Neff",
+  "filename=losttec.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.net-tech-group.com/quake2/quake1.htm",
+  "map_size=small",
+  "release_date=1997-11-29",
+  "startmap=tecskill",
+  "theme=base",
+  "theme=plain",
+  "title=The Lost Tech Center",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/losttec.zip",
+  "https://www.quaddicted.com/files/by-sha256/ef/ef846660cf6b692990e4c87be9a711a2f6ae2dd050201df3da293538e206e5ee/losttec.zip"
+ ]
+}

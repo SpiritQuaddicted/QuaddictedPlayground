@@ -1,0 +1,58 @@
+{
+ "bytes": 1370,
+ "files": {
+  "sm162_gb.bsp": {
+   "bytes": 1069188,
+   "sha256": "83f2623c1193da1db63d275b6b6a858194a466a4aabdda88c52471815de2b58d",
+   "timestamp": "2011-04-04T17:38:42.000Z"
+  },
+  "sm162_gb.map": {
+   "bytes": 191351,
+   "sha256": "465d654837e8ac0fb9db5b230c479132300d493ceb5700aafdf7786df5b62aed",
+   "timestamp": "2011-04-04T17:38:42.000Z"
+  },
+  "sm162_gb.txt": {
+   "bytes": 117,
+   "sha256": "4606ed6567a129040ac3ed794cd0093830163282ca9ed41d9c2763b8c55df3f2",
+   "timestamp": "2011-04-04T17:40:38.000Z"
+  },
+  "sm162_negke.bsp": {
+   "bytes": 1545068,
+   "sha256": "570fa9f64df8190a683dad71c6da73f3b2911bd1a72b9572f873e9465162ce98",
+   "timestamp": "2011-04-03T19:49:52.000Z"
+  },
+  "sm162_pack.txt": {
+   "bytes": 1277,
+   "sha256": "38a73f6b8096130d9632ba4476c24a9b86aeab71ec1eca5a093cf4ac5cd3fb87",
+   "timestamp": "2011-04-04T14:44:48.000Z"
+  },
+  "sm162_zwiffle.bsp": {
+   "bytes": 1233048,
+   "sha256": "83e003df2d4a8649340e03cdfdd7e2019f1259281b0c184a7c7a3f8257bc4757",
+   "timestamp": "2011-04-03T14:16:32.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "0ef75a42b1b183f5c2ae80bb9bc6fa70cfd1685461cdd906cecc36e6fadf96a0",
+ "tags": [
+  "author=Zwiffle",
+  "author=gb",
+  "author=negke",
+  "filename=sm162_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2011-04-04",
+  "startmap=sm162_gb",
+  "startmap=sm162_negke",
+  "startmap=sm162_zwiffle",
+  "title=Speedmapping pack 162 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm162_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/0e/0ef75a42b1b183f5c2ae80bb9bc6fa70cfd1685461cdd906cecc36e6fadf96a0/sm162_pack.zip"
+ ]
+}

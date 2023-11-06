@@ -1,0 +1,48 @@
+{
+ "bytes": 4009,
+ "files": {
+  "nightshift.bsp": {
+   "bytes": 7186728,
+   "sha256": "84ccab13f8ed6b9a596f0ee0f35af75d01865deb071e4966957c3f816760e9f8",
+   "timestamp": "2020-12-11T11:36:22.000Z"
+  },
+  "nightshift.lit": {
+   "bytes": 2382206,
+   "sha256": "a954f198b380ca6c58f498eca7be4152f5b3d511d5887685ead729cbae5bd657",
+   "timestamp": "2020-12-11T11:36:22.000Z"
+  },
+  "nightshift.map": {
+   "bytes": 3772381,
+   "sha256": "cf72f29e487c2f91d937c78f2624c0ab6d9ec1d577cda5fa73279fa1681412be",
+   "timestamp": "2020-12-11T11:49:40.000Z"
+  },
+  "nightshift.txt": {
+   "bytes": 61,
+   "sha256": "e2ce925faeba2b12003fe4481a8058d8614a944eb3ac0b4c8f72470ca884c53c",
+   "timestamp": "2020-12-11T11:55:32.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "ce385bb0ae9facd90e181e04ac18450805a26a896f10ded43e31513c5fa71f81",
+ "tags": [
+  "author=Bonn",
+  "exceeds_quake_limits=yes",
+  "filename=nightshift.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "release_date=2020-12-11",
+  "source=included",
+  "theme=base",
+  "theme=crates",
+  "title=Nightshift",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/nightshift.zip",
+  "https://www.quaddicted.com/files/by-sha256/ce/ce385bb0ae9facd90e181e04ac18450805a26a896f10ded43e31513c5fa71f81/nightshift.zip"
+ ]
+}

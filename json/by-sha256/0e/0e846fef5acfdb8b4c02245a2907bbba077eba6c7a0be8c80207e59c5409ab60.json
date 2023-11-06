@@ -1,0 +1,57 @@
+{
+ "bytes": 632,
+ "files": {
+  "768_5th.bsp": {
+   "bytes": 1277971,
+   "sha256": "66f64b9acb5ab017969df1964eef141c6c0fee09cb03e2322acb35333c2f16ab",
+   "timestamp": "2014-06-01T22:08:24.000Z"
+  },
+  "768_5th.lit": {
+   "bytes": 301961,
+   "sha256": "3585c69215dae7de7fc219df6d8a9b0889b059bd88810e3fbbd43e43b9dbc26d",
+   "timestamp": "2014-06-01T22:08:24.000Z"
+  },
+  "768_5th.map": {
+   "bytes": 361999,
+   "sha256": "fda21edd74fc07524fde326dc5b95bc6a538203c5e63c21f2a418e3e7d348417",
+   "timestamp": "2014-06-01T22:07:42.000Z"
+  },
+  "768_5th.txt": {
+   "bytes": 473,
+   "sha256": "0c4cafebbc3fde429a0231b041a7b0079ae4f99e856165dd24ad2bf0e49839b7",
+   "timestamp": "2014-06-01T22:22:32.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "0e846fef5acfdb8b4c02245a2907bbba077eba6c7a0be8c80207e59c5409ab60",
+ "tags": [
+  "author=FifthElephant",
+  "commandline=-game quoth -quoth",
+  "dependency=quoth2pt2full_2",
+  "filename=768_5th.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61038)",
+  "map_layout=vertical",
+  "map_size=small",
+  "mod=quoth",
+  "nonspecific_tag=textures",
+  "playstyle=jumping",
+  "release_date=2014-06-01",
+  "source=included",
+  "theme=base",
+  "theme=crates",
+  "theme=metal",
+  "theme=quoth",
+  "theme=runic",
+  "title=Squad 768",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/768_5th.zip",
+  "https://www.quaddicted.com/files/by-sha256/0e/0e846fef5acfdb8b4c02245a2907bbba077eba6c7a0be8c80207e59c5409ab60/768_5th.zip"
+ ]
+}

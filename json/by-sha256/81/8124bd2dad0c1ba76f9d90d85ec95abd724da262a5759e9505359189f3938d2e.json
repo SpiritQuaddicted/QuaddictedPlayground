@@ -1,0 +1,49 @@
+{
+ "bytes": 2045,
+ "files": {
+  "tsotm.bsp": {
+   "bytes": 3600508,
+   "sha256": "6ed381346183f3c407c1c80983915551f8f63f1d3b23f0f87c4bbb0dbd313da7",
+   "timestamp": "2018-12-13T16:45:22.000Z"
+  },
+  "tsotm.lit": {
+   "bytes": 1348037,
+   "sha256": "ab9578c719be5a462eaad6a03f8dfc964917d097091fa08e71420b6fee114c77",
+   "timestamp": "2018-12-13T16:45:22.000Z"
+  },
+  "tsotm.map": {
+   "bytes": 1923593,
+   "sha256": "231182b0a4bd04d4e3f6f0a6cdeb378d49b586832ec3b4f5f1e76e2934013e1a",
+   "timestamp": "2018-12-13T16:55:48.000Z"
+  },
+  "tsotm.txt": {
+   "bytes": 1902,
+   "sha256": "c4d44b17cfd1c22d4a7d5bb5049a44f7929ed34765e552cd6dc5e9b38f9a067d",
+   "timestamp": "2018-12-13T21:31:40.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "8124bd2dad0c1ba76f9d90d85ec95abd724da262a5759e9505359189f3938d2e",
+ "tags": [
+  "author=nolcoz",
+  "filename=tsotm.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_layout=non-linear",
+  "map_size=medium",
+  "nonspecific_tag=textures",
+  "release_date=2018-12-26",
+  "source=included",
+  "theme=base",
+  "theme=medieval",
+  "title=The Secrets of The Mansion",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/tsotm.zip",
+  "https://www.quaddicted.com/files/by-sha256/81/8124bd2dad0c1ba76f9d90d85ec95abd724da262a5759e9505359189f3938d2e/tsotm.zip"
+ ]
+}

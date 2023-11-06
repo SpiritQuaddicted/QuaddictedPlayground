@@ -1,0 +1,86 @@
+{
+ "bytes": 9132,
+ "files": {
+  "ad_dm2rmx_sham.bsp": {
+   "bytes": 5074448,
+   "sha256": "e49c6185f99e4a2876db8c4305c6110b51bf774fd44714dce65237e9b84f8f4e",
+   "timestamp": "2018-10-16T08:34:34.000Z"
+  },
+  "ad_dm2rmx_sham.lit": {
+   "bytes": 1275269,
+   "sha256": "f16293742f7358d42fdf2f15fecb48be76cee09ca351a52b611b356f2bd869cb",
+   "timestamp": "2018-10-16T08:34:34.000Z"
+  },
+  "ad_dm2rmx_sham.txt": {
+   "bytes": 1298,
+   "sha256": "9779981af03a7ddc7b5ac2f79fee8d77873e0296c8eee6364f7dc4bd43950280",
+   "timestamp": "2018-10-15T22:03:16.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-10-15T22:00:16.000Z"
+  },
+  "gfx/env/interstellar_bk.tga": {
+   "bytes": 3145746,
+   "sha256": "861352b7f4dc030af28b483d09ad88b4cbb7b8e23e5cd3cf512d2feae9640b22",
+   "timestamp": "2018-01-01T14:09:36.000Z"
+  },
+  "gfx/env/interstellar_dn.tga": {
+   "bytes": 3145746,
+   "sha256": "b16b2e272b7e74513f6a1961d68270dd82fa0667d6ea267a2d22c45a2bdc2fcc",
+   "timestamp": "2018-01-01T14:09:36.000Z"
+  },
+  "gfx/env/interstellar_ft.tga": {
+   "bytes": 3145746,
+   "sha256": "11730f0982cbadc7691ea38e57510b2b7e77484e108d591aece8f970cfdca08f",
+   "timestamp": "2018-01-01T14:09:36.000Z"
+  },
+  "gfx/env/interstellar_lf.tga": {
+   "bytes": 3145746,
+   "sha256": "5bf0a5999e7ea85e68291ab7b36d7f6be5104f8932a2fe46d257484e84dab4fc",
+   "timestamp": "2018-01-01T14:09:36.000Z"
+  },
+  "gfx/env/interstellar_rt.tga": {
+   "bytes": 3145746,
+   "sha256": "051204c9fb8a430c17fb337d84132e0d7058b88f070e457278be99d78a73e5c2",
+   "timestamp": "2018-01-01T14:09:36.000Z"
+  },
+  "gfx/env/interstellar_up.tga": {
+   "bytes": 3145772,
+   "sha256": "d8b19a66cb5dad2f34c9059860ac24a8632ba5575ac06ca3076d57a70c47b5b0",
+   "timestamp": "2018-01-01T14:09:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d5d2e7d632ee24b8a1ec86f4ada78b5c2b481957440bcf3e1661ae5d4e512b8e",
+ "tags": [
+  "author=Shambler",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "exceeds_quake_limits=yes",
+  "filename=ad_dm2rmx_sham.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61643)",
+  "map_size=medium",
+  "mod=arcanedimensions",
+  "mod=copper",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=dm2",
+  "nonspecific_tag=skybox",
+  "release_date=2018-10-16",
+  "theme=arcane dimensions",
+  "theme=metal",
+  "theme=remix",
+  "title=Acidophilus",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_dm2rmx_sham.zip",
+  "https://www.quaddicted.com/files/by-sha256/d5/d5d2e7d632ee24b8a1ec86f4ada78b5c2b481957440bcf3e1661ae5d4e512b8e/ad_dm2rmx_sham.zip"
+ ]
+}

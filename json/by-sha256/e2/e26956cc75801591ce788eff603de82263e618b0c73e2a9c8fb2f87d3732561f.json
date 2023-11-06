@@ -1,0 +1,68 @@
+{
+ "bytes": 1864,
+ "files": {
+  "dm1sp.bsp": {
+   "bytes": 577492,
+   "sha256": "30669e7959cba5ae949d83fd7f3ce784d40adafc50ec011fe33637b4efabe708",
+   "timestamp": "2003-06-07T07:43:54.000Z"
+  },
+  "dm2sp.bsp": {
+   "bytes": 1057716,
+   "sha256": "0cb8d1c2b883bbb1b434c4372fdc2b5e45af96efde43acd0035508c95025e58a",
+   "timestamp": "2002-05-12T22:22:12.000Z"
+  },
+  "dm3sp.bsp": {
+   "bytes": 1216232,
+   "sha256": "682c7da6b354024a60cbf7ec5e820d2596224b2dc602421c111347d52e138f51",
+   "timestamp": "2003-08-05T19:09:20.000Z"
+  },
+  "dm4sp.bsp": {
+   "bytes": 380008,
+   "sha256": "7ad7cbb599e052467a77479996a1e355749ac5df2a9186c3f456e2b8d58b8cd2",
+   "timestamp": "2003-07-01T00:17:52.000Z"
+  },
+  "dm5sp.bsp": {
+   "bytes": 496844,
+   "sha256": "de990ba536d657d62d61d100fcc29d165815aacd47b4013ef780f28f890e5747",
+   "timestamp": "1980-07-22T03:15:12.000Z"
+  },
+  "dm6sp.bsp": {
+   "bytes": 671340,
+   "sha256": "9837b2306860c3ff8b22b6ad29386c03864fa345bce9bec5c19e4edfb023ca18",
+   "timestamp": "2003-09-20T02:31:00.000Z"
+  },
+  "dmxsp.txt": {
+   "bytes": 2550,
+   "sha256": "3c5235d2c9c0d0f455e36a8a7fd38fc9b28cfee08b3ec5beb9ee3dcf70a92e96",
+   "timestamp": "2003-11-13T11:01:48.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "e26956cc75801591ce788eff603de82263e618b0c73e2a9c8fb2f87d3732561f",
+ "tags": [
+  "author=Basil de Vries",
+  "filename=dm1-6sp.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "nonspecific_tag=dm1",
+  "nonspecific_tag=dm2",
+  "nonspecific_tag=dm3",
+  "nonspecific_tag=dm5",
+  "nonspecific_tag=dm6",
+  "nonspecific_tag=dmsp",
+  "release_date=2003-11-13",
+  "startmap=dm1sp",
+  "theme=dm4",
+  "title=DMxSP - The Deathmatch Experience",
+  "type=episode",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/dm1-6sp.zip",
+  "https://www.quaddicted.com/files/by-sha256/e2/e26956cc75801591ce788eff603de82263e618b0c73e2a9c8fb2f87d3732561f/dm1-6sp.zip"
+ ]
+}

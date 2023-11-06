@@ -1,0 +1,68 @@
+{
+ "bytes": 1063,
+ "files": {
+  "sm109/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2005-10-30T22:35:34.000Z"
+  },
+  "sm109/sm107_generic.bsp": {
+   "bytes": 327556,
+   "sha256": "d73cf141c8417eefb337cc77b4af91159502268ac542c1238e79ebd5b9c9c1ac",
+   "timestamp": "2005-10-30T18:42:10.000Z"
+  },
+  "sm109/sm109_drew.bsp": {
+   "bytes": 633928,
+   "sha256": "4a1b664b2dcab22beb269ef74fde480a48050d0e1bd37a4505a8faa4bf6ef5e8",
+   "timestamp": "2005-10-30T19:06:24.000Z"
+  },
+  "sm109/sm109_generic.bsp": {
+   "bytes": 448932,
+   "sha256": "5ae645a20c505a1c4535045cd1e0e1d9c534427e9adbd695bc4bc54f9ec25a73",
+   "timestamp": "2005-10-30T18:38:42.000Z"
+  },
+  "sm109/sm109_ht.bsp": {
+   "bytes": 1439512,
+   "sha256": "fae6d948dbbcfcadba81d483f4de07468b1bf51af169fca97f7e429997868fc1",
+   "timestamp": "2005-10-30T19:18:48.000Z"
+  },
+  "sm109/sm109_trinca.bsp": {
+   "bytes": 265104,
+   "sha256": "299c76d981bd19008c14b677e1e870f8d4d09c53849679d1eb435dafcf30ef94",
+   "timestamp": "2005-10-27T14:36:08.000Z"
+  },
+  "sm109/sm109_zwiffle.bsp": {
+   "bytes": 276600,
+   "sha256": "7b10adc6e6d2803a1030d51a6ec215af65846a097172f2a1316608773aa0b50f",
+   "timestamp": "2005-10-30T18:49:40.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4",
+ "tags": [
+  "author=Drew",
+  "author=HeadThump",
+  "author=Trinca",
+  "author=Zwiffle",
+  "author=generic",
+  "filename=sm109.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2005-10-30",
+  "startmap=sm109/sm107_generic",
+  "startmap=sm109/sm109_drew",
+  "startmap=sm109/sm109_generic",
+  "startmap=sm109/sm109_ht",
+  "startmap=sm109_trinca",
+  "startmap=sm109_zwiffle",
+  "title=Speedmapping pack 109 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm109.zip",
+  "https://www.quaddicted.com/files/by-sha256/a1/a1d4b8240729c57faddf0736cb0853153993ac1fdc1f47edf8b6d2d4cabd2bd4/sm109.zip"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "bytes": 401,
+ "files": {
+  "sm71_pack.txt": {
+   "bytes": 1307,
+   "sha256": "0851a319a7847cdb8409bcc01dee2a167ed6b76e1f847b40fc6e4ee6ae6f77b7",
+   "timestamp": "2004-03-07T22:56:04.000Z"
+  },
+  "sm71_preach.bsp": {
+   "bytes": 695240,
+   "sha256": "d6f30fbe42e233e92a6c9ddfd671a4ce339f802e89f494eccdc59b44baf67cab",
+   "timestamp": "2004-03-07T00:57:02.000Z"
+  },
+  "sm71_scampie.bsp": {
+   "bytes": 445612,
+   "sha256": "263a62ef6f2114a961e0b8b4d85ceeecaa4a2891d0f53fb5e4a9805c07b28b60",
+   "timestamp": "2004-03-06T22:52:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "22e4aaf90ae314e89a0035dc8e8543dc072d273e76af46a333a91ed23a9f4eee",
+ "tags": [
+  "author=Preach",
+  "author=Scampie",
+  "filename=sm71_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2004-03-07",
+  "startmap=sm71_preach",
+  "startmap=sm71_scampie",
+  "title=Speedmapping pack 71 -  DaPak (A Tribute to Headshot #2)",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm71_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/22/22e4aaf90ae314e89a0035dc8e8543dc072d273e76af46a333a91ed23a9f4eee/sm71_pack.zip"
+ ]
+}

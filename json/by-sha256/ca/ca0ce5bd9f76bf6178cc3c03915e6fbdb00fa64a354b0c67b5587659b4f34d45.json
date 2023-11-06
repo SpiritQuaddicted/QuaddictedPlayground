@@ -1,0 +1,53 @@
+{
+ "bytes": 1147,
+ "files": {
+  "sm137_drew.bsp": {
+   "bytes": 1637504,
+   "sha256": "f7b327b12aacb1b6ba4b3241d00136611027df48017a142ded4c81bf757788be",
+   "timestamp": "2007-10-19T10:11:32.000Z"
+  },
+  "sm137_pack.txt": {
+   "bytes": 1214,
+   "sha256": "361b697780e90574cf1a0ed2d703b28833f5047a11f8210769f2df1d1f02a26d",
+   "timestamp": "2007-10-23T08:41:06.000Z"
+  },
+  "sm137_trinca.bsp": {
+   "bytes": 1299756,
+   "sha256": "1d0b93f2143c8bb0f010b44c3eb54c5295c85b24afb0112d395c4f2ad405b6de",
+   "timestamp": "2007-10-20T00:18:32.000Z"
+  },
+  "sm137_trinca.map": {
+   "bytes": 913664,
+   "sha256": "2197ced2c1764b28e712a1e2ff411a0c4e6c8a5d81a4a2fe6186f66ea0ba6cd6",
+   "timestamp": "2007-10-18T16:20:46.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "ca0ce5bd9f76bf6178cc3c03915e6fbdb00fa64a354b0c67b5587659b4f34d45",
+ "tags": [
+  "author=Drew",
+  "author=Trinca",
+  "dependency=quoth",
+  "filename=sm137_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "mod=quoth",
+  "release_date=2007-10-23",
+  "startmap=sm137_drew",
+  "startmap=sm137_trinca",
+  "theme=base",
+  "theme=blue",
+  "theme=knave",
+  "theme=quoth",
+  "theme=snow",
+  "title=Speedmapping pack 137 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm137_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/ca/ca0ce5bd9f76bf6178cc3c03915e6fbdb00fa64a354b0c67b5587659b4f34d45/sm137_pack.zip"
+ ]
+}

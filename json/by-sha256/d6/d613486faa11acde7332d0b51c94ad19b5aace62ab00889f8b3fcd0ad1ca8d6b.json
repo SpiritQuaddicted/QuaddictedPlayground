@@ -1,0 +1,67 @@
+{
+ "bytes": 2553,
+ "files": {
+  "ad_scastle1d_readme.txt": {
+   "bytes": 3427,
+   "sha256": "51acc7d8309a50b2a847103fd139d2703f08cf3aeec1319c5f88f1872210a81d",
+   "timestamp": "2017-01-11T00:06:50.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2017-01-11T01:06:36.000Z"
+  },
+  "maps/ad_scastle.bsp": {
+   "bytes": 3789328,
+   "sha256": "a4cc1f6024c7034d129a90b41a3b4a9a0a752c8ac50af73451d1d31f8fdcb6b2",
+   "timestamp": "2017-01-11T01:05:16.000Z"
+  },
+  "maps/ad_scastle.lit": {
+   "bytes": 1478615,
+   "sha256": "34ca9ebcef5dc6595424aca8570904235d9f0d7b4663fcb1e974a02650811fd5",
+   "timestamp": "2017-01-11T01:05:16.000Z"
+  },
+  "maps/ad_scastle.map": {
+   "bytes": 3049357,
+   "sha256": "cc5ecac0823b872bcaa9a72f3caecb86501a83869c5312079679975ad86330b2",
+   "timestamp": "2017-01-11T01:06:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b",
+ "tags": [
+  "author=sock",
+  "commandline=-heapsize 128000 -game ad",
+  "dependency=ad_v1_50final",
+  "exceeds_quake_limits=yes",
+  "filename=ad_scastle1d.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.simonoc.com",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61398)",
+  "map_size=large",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=waterfall",
+  "release_date=2017-01-11",
+  "source=included",
+  "startmap=ad_scastle",
+  "theme=arcane dimensions",
+  "theme=bricks",
+  "theme=egyptian",
+  "theme=fog",
+  "theme=sand",
+  "theme=secrets",
+  "theme=temple",
+  "theme=tomb",
+  "title=Nyarlathotep's Sand Castle",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_scastle1d.zip",
+  "https://www.quaddicted.com/files/by-sha256/d6/d613486faa11acde7332d0b51c94ad19b5aace62ab00889f8b3fcd0ad1ca8d6b/ad_scastle1d.zip"
+ ]
+}

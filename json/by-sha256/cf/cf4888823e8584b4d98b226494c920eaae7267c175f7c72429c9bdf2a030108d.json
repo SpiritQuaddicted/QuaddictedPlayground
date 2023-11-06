@@ -1,0 +1,57 @@
+{
+ "bytes": 838,
+ "files": {
+  "horrors.bsp": {
+   "bytes": 869432,
+   "sha256": "660acb5743cd2d65265794d6e39a19db89bc13ac75f271e2fb67fb173bcf76c4",
+   "timestamp": "1997-11-06T03:40:16.000Z"
+  },
+  "horrors.dmm": {
+   "bytes": 427242,
+   "sha256": "ee8792a201e888b5f500fecfc553bad1fddccd72abec562d1ec90a7287adcb66",
+   "timestamp": "1997-11-06T14:39:20.000Z"
+  },
+  "horrors.txt": {
+   "bytes": 2345,
+   "sha256": "34ba78f9d24a821f00a73cff329a2dd1b6d7e576107cbd61eefb5e9da118e314",
+   "timestamp": "1997-07-04T15:39:12.000Z"
+  },
+  "setskill.bsp": {
+   "bytes": 393180,
+   "sha256": "50efc316d36cac77ad594010a279f4090b54fc1088b5299523bf6ed3c728b6c5",
+   "timestamp": "1997-11-05T17:19:40.000Z"
+  },
+  "setskill.dmm": {
+   "bytes": 66266,
+   "sha256": "6b0b2951cae5028c50230f333baf2c441d575873f7155509abcbea4f1c2d00f0",
+   "timestamp": "1997-07-05T22:44:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d",
+ "tags": [
+  "author=Richard Neff",
+  "filename=horrors.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.net-tech-group.com/quake2/quake1.htm",
+  "map_size=small",
+  "nonspecific_tag=textures",
+  "release_date=1997-07-02",
+  "startmap=horrors",
+  "startmap=setskill",
+  "theme=castle",
+  "theme=graveyard",
+  "theme=medieval",
+  "title=Halls of Horrors",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/horrors.zip",
+  "https://www.quaddicted.com/files/by-sha256/cf/cf4888823e8584b4d98b226494c920eaae7267c175f7c72429c9bdf2a030108d/horrors.zip"
+ ]
+}

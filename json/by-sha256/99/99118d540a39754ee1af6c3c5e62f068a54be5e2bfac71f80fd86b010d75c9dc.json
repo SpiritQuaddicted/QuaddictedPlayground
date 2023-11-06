@@ -1,0 +1,96 @@
+{
+ "bytes": 1708,
+ "files": {
+  "before you play.txt": {
+   "bytes": 3773,
+   "sha256": "0ec470bd714beef9f2b3744005966ea408203db84188e50b9488f8ff9e8fa8e8",
+   "timestamp": "2019-04-20T13:46:58.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-04-20T13:37:50.000Z"
+  },
+  "maps/start.bsp": {
+   "bytes": 562688,
+   "sha256": "db19bc3bca3fe940de8024740e9fb75b37202402f61e0b884066c9b41d5cb536",
+   "timestamp": "2019-04-20T13:10:50.000Z"
+  },
+  "maps/start.lit": {
+   "bytes": 185543,
+   "sha256": "5dc108230283aaae4cdb00370c6a5b8f0823e483f6bae2d8ef29bbca104180c4",
+   "timestamp": "2019-04-20T13:10:50.000Z"
+  },
+  "maps/toybox1.bsp": {
+   "bytes": 1202872,
+   "sha256": "82241afccb16df8e8d117b37dffddaefbcafa891f26da4b231f8bf9cb90f8418",
+   "timestamp": "2019-04-20T12:45:02.000Z"
+  },
+  "maps/toybox1.lit": {
+   "bytes": 433472,
+   "sha256": "9490e831bdd35187a67491d687d1d2bba40c5f5742f1486b509a6dba28f7a631",
+   "timestamp": "2019-04-20T12:45:02.000Z"
+  },
+  "maps/toybox2.bsp": {
+   "bytes": 1061424,
+   "sha256": "f7eca2813999b465fa08d936ff72454accf214586c191a44236ce322fb39f588",
+   "timestamp": "2019-04-20T12:22:10.000Z"
+  },
+  "maps/toybox2.lit": {
+   "bytes": 406739,
+   "sha256": "97d44e476556e135f67641fd9d7eb4286422e2747a33bc6db413d407431f0774",
+   "timestamp": "2019-04-20T12:22:10.000Z"
+  },
+  "progs.dat": {
+   "bytes": 445622,
+   "sha256": "cefbc05bd5a7ec7408d47a636ad2e95d91cff6f2a95999994ce50e924ab477d0",
+   "timestamp": "2019-04-19T17:33:20.000Z"
+  },
+  "source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-04-20T13:38:24.000Z"
+  },
+  "source/start.map": {
+   "bytes": 166540,
+   "sha256": "82ac578754077cd46e57749d566af2474756dbcc0304ed04efade087d28c264b",
+   "timestamp": "2019-04-20T12:42:10.000Z"
+  },
+  "source/toybox1.map": {
+   "bytes": 537386,
+   "sha256": "39b11b6cce5dd54e66d5c339280d685fcccead7379cdbcdee36b7f37ea0943ab",
+   "timestamp": "2019-04-20T12:41:44.000Z"
+  },
+  "source/toybox2.map": {
+   "bytes": 522328,
+   "sha256": "8fdb8fd9aa16584ea14062047f73ed3c45998053398f1795ce43d4d8f7b51851",
+   "timestamp": "2019-04-20T12:21:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/toybox/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "99118d540a39754ee1af6c3c5e62f068a54be5e2bfac71f80fd86b010d75c9dc",
+ "tags": [
+  "author=Andrew Yoder",
+  "commandline=-game toybox",
+  "filename=toybox_v1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61711)",
+  "link=[Video playthrough](https://www.youtube.com/watch?v=UYVzVuWxnCI)",
+  "nonspecific_tag=prototype",
+  "release_date=2019-04-20",
+  "startmap=start",
+  "startmap=toybox1",
+  "startmap=toybox2",
+  "theme=puzzles",
+  "title=Toybox",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/toybox_v1.zip",
+  "https://www.quaddicted.com/files/by-sha256/99/99118d540a39754ee1af6c3c5e62f068a54be5e2bfac71f80fd86b010d75c9dc/toybox_v1.zip"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "bytes": 16603,
+ "files": {
+  "Read_Me.txt": {
+   "bytes": 2109,
+   "sha256": "ab46dff8d4e777ea03ff23989ebe5812f861a13205c127890afb15b468df13ec",
+   "timestamp": "2020-03-18T18:21:56.000Z"
+  },
+  "gfx/env/doom2016_boneyard_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "9ee50a1c9af3f949dbab9c7e7fb0d8f45c1e949814ff74b84fcdaa06918cae43",
+   "timestamp": "2020-03-13T19:39:02.000Z"
+  },
+  "gfx/env/doom2016_boneyard_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "a835eea3289dc3d531f2a9b10d910a2d21b3c2d1defefc761a41acdc9235c5cb",
+   "timestamp": "2020-03-13T19:38:20.000Z"
+  },
+  "gfx/env/doom2016_boneyard_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "816fd0eb3887a7572375a8a7506268d424274796e8375a31441de0f6aa16ec5f",
+   "timestamp": "2020-03-13T19:39:22.000Z"
+  },
+  "gfx/env/doom2016_boneyard_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "8fd1b611b46f59b544ffd46a4b2226490c9229aa210fdc452792c180ec171c4c",
+   "timestamp": "2020-03-13T19:39:50.000Z"
+  },
+  "gfx/env/doom2016_boneyard_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "2f499786d8ce588f38a4c62630dc8d20f7eeba5b357d52c8810395ea5c9dfa54",
+   "timestamp": "2020-03-13T19:37:40.000Z"
+  },
+  "gfx/env/doom2016_boneyard_up.tga": {
+   "bytes": 3145772,
+   "sha256": "ac41a247bc045ac07918b8b95acaa91c7c67ed54de6fcf6ff06919aa7aadfb0a",
+   "timestamp": "2020-03-13T19:38:06.000Z"
+  },
+  "maps/castlez.bsp": {
+   "bytes": 13307780,
+   "sha256": "91d50bde9a53220cdce45cb48c7bf484d8e22ec33d2ec3e7fc2200da8e43aa23",
+   "timestamp": "2020-03-18T17:59:28.000Z"
+  },
+  "zanthu_poster.png": {
+   "bytes": 3280929,
+   "sha256": "729b1c4c463d7cccb1b2f8c1119fbc7d232486333174d44fb676b24b098dd9bb",
+   "timestamp": "2020-03-18T15:25:48.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/zanthu/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "8330a06bffa55ad1ca4a3798a00311c3ec1f939d65c74f0b2c20637e567f8104",
+ "tags": [
+  "author=Greenwood",
+  "commandline=-game zanthu",
+  "exceeds_quake_limits=yes",
+  "filename=zanthu.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61854)",
+  "map_size=medium",
+  "nonspecific_tag=skybox",
+  "release_date=2020-03-18",
+  "startmap=castlez",
+  "theme=castle",
+  "theme=dkt",
+  "theme=lava",
+  "title=Castle Zanthu",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/zanthu.zip",
+  "https://www.quaddicted.com/files/by-sha256/83/8330a06bffa55ad1ca4a3798a00311c3ec1f939d65c74f0b2c20637e567f8104/zanthu.zip"
+ ]
+}

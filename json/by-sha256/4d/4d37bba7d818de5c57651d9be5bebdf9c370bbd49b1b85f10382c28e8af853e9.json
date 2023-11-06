@@ -1,0 +1,59 @@
+{
+ "bytes": 457,
+ "files": {
+  "QVER.EXE": {
+   "bytes": 8946,
+   "sha256": "dfff40b29eb3114cadce0026feb572c6cfbc132b4beca294953cfbd58c52dc7e",
+   "timestamp": "1996-07-27T15:14:14.000Z"
+  },
+  "QVER.TXT": {
+   "bytes": 252,
+   "sha256": "351b4ebbc2021865fc5246981ba3734c983fda2c581063651a8f8be7b6c66a5b",
+   "timestamp": "1996-07-27T15:20:12.000Z"
+  },
+  "level.bsp": {
+   "bytes": 1600560,
+   "sha256": "2938faff071add5ee2417b66fda4fe0c0ff0bb9291ade9f5d3b758f961519f20",
+   "timestamp": "1996-08-30T15:58:54.000Z"
+  },
+  "level.map": {
+   "bytes": 101193,
+   "sha256": "9c8ffcfa9d5f1a0a96b91f34fe01dc15b61c90dd58afd120e3137b5698c000dc",
+   "timestamp": "1996-08-30T14:56:38.000Z"
+  },
+  "level.tnk": {
+   "bytes": 61335,
+   "sha256": "03528d5d6b1b96b23afb37d25cc57f143e41ad7d0d0e24e4ecda818cc6a98c95",
+   "timestamp": "1996-08-29T19:39:46.000Z"
+  },
+  "level.txt": {
+   "bytes": 2681,
+   "sha256": "e37156dca67d8713604a17a37eedfee554f304830a273b7d3fedd3c740af301f",
+   "timestamp": "1996-08-30T16:14:30.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9",
+ "tags": [
+  "author=Kevin Rohling",
+  "filename=rohling.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=dark",
+  "release_date=1996-10-10",
+  "source=included",
+  "startmap=level",
+  "theme=lava",
+  "theme=mixtex",
+  "title=Hello",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/rohling.zip",
+  "https://www.quaddicted.com/files/by-sha256/4d/4d37bba7d818de5c57651d9be5bebdf9c370bbd49b1b85f10382c28e8af853e9/rohling.zip"
+ ]
+}

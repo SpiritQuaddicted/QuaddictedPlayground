@@ -1,0 +1,50 @@
+{
+ "bytes": 229,
+ "files": {
+  "sm1_bear.bsp": {
+   "bytes": 153912,
+   "sha256": "7ec7c9248393779214e50effd940241af345cb910da209a22620a5172311155c",
+   "timestamp": "2001-03-19T01:33:36.000Z"
+  },
+  "sm1_pack.txt": {
+   "bytes": 1993,
+   "sha256": "1291d7765911a3fb4cb9ece4d99afdfe97dd9d9f9174f232dbc0827ff62098f0",
+   "timestamp": "2001-03-23T22:21:22.000Z"
+  },
+  "sm1_rpg.bsp": {
+   "bytes": 303328,
+   "sha256": "bbcbb288dcf2c1a329bcbdb86f41a89a911d1f220b290bf86f17b6a8b219116e",
+   "timestamp": "2001-03-18T19:47:52.000Z"
+  },
+  "sm1_scampie.bsp": {
+   "bytes": 168936,
+   "sha256": "fd60db885d6a31d5a13fa52b6999060cef356119c94de33992b8fd38c5b8d711",
+   "timestamp": "2001-03-19T00:14:08.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af",
+ "tags": [
+  "author=RPG",
+  "author=Scampie",
+  "author=bear",
+  "filename=sm1_pack.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "playstyle=nomonsters",
+  "release_date=2001-03-23",
+  "startmap=sm1_bear",
+  "startmap=sm1_rpg",
+  "startmap=sm1_scampie",
+  "title=Speedmapping pack 1",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm1_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3c/3c29fe73ded78a2bcdf35971299335495cde30bdf3eda81e9b30f910357e32af/sm1_pack.zip"
+ ]
+}

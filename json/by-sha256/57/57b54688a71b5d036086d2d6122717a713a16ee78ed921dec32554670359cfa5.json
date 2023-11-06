@@ -1,0 +1,57 @@
+{
+ "bytes": 3285,
+ "files": {
+  "endofsolace.bsp": {
+   "bytes": 4422716,
+   "sha256": "786fa316b9d3dd2095857f3160b4beaf97c39b4902baf3349d2ecdb98f1d699a",
+   "timestamp": "2017-10-09T22:05:52.000Z"
+  },
+  "endofsolace.lit": {
+   "bytes": 1887293,
+   "sha256": "80a8b1c7e3596ccf486f5091531c51916c19a201bbbaa7cf9e6b6668afc61ce3",
+   "timestamp": "2017-10-09T22:05:52.000Z"
+  },
+  "endofsolace.map": {
+   "bytes": 2268987,
+   "sha256": "d4c6e69fe82b12af83eddd7153e60425f62f4d4d816094f9cc7d1e68a929fc1f",
+   "timestamp": "2017-10-09T21:48:16.000Z"
+  },
+  "endofsolace_readme.txt": {
+   "bytes": 3064,
+   "sha256": "6fd37b5ea2e701e43764c6591d92fc437b5b87d347793e63d2a79f374a2928fd",
+   "timestamp": "2017-10-09T23:58:04.000Z"
+  },
+  "endofsolace_screenshot.jpg": {
+   "bytes": 486097,
+   "sha256": "09e19b0967d5dfefcdb9a53f9a6e94348142b170e7963046ffec01a7081e4df1",
+   "timestamp": "2017-10-09T22:46:32.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5",
+ "tags": [
+  "author=dumptruck_ds",
+  "commandline=+r_wateralpha 0.65",
+  "exceeds_quake_limits=yes",
+  "filename=endofsolace.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=https://secretlevelsite.wordpress.com",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61517)",
+  "map_size=large",
+  "release_date=2017-10-09",
+  "source=included",
+  "theme=blood",
+  "theme=bricks",
+  "theme=medieval",
+  "title=The End of Solace",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/endofsolace.zip",
+  "https://www.quaddicted.com/files/by-sha256/57/57b54688a71b5d036086d2d6122717a713a16ee78ed921dec32554670359cfa5/endofsolace.zip"
+ ]
+}

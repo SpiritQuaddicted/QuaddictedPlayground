@@ -1,0 +1,92 @@
+{
+ "bytes": 5524,
+ "files": {
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2007-12-16T22:16:30.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2007-12-16T22:16:30.000Z"
+  },
+  "gfx/env/tramontobk.tga": {
+   "bytes": 640140,
+   "sha256": "e7478aa0deab77b93ea6642e525932ede3088ca875442ccd25d44cbe87d1893a",
+   "timestamp": "2003-02-13T00:55:34.000Z"
+  },
+  "gfx/env/tramontodn.tga": {
+   "bytes": 783088,
+   "sha256": "88e33878ee6100e1e4bac752c099a79f4bc0227c62303d91fe050741e0e05410",
+   "timestamp": "2003-02-13T00:56:22.000Z"
+  },
+  "gfx/env/tramontoft.tga": {
+   "bytes": 710845,
+   "sha256": "55b3c37de07bb6ba1f854678ca7d3bc9852cdc0f7b3230cc1efbcaa2bf3b30ab",
+   "timestamp": "2003-02-12T22:16:14.000Z"
+  },
+  "gfx/env/tramontolf.tga": {
+   "bytes": 701996,
+   "sha256": "315d06acd66c60cc06a8033be07328e5e0d13e3b00c7ed4e90f3b82879a98054",
+   "timestamp": "2003-02-13T00:55:08.000Z"
+  },
+  "gfx/env/tramontort.tga": {
+   "bytes": 721740,
+   "sha256": "b742ef4e4d35085e04bb94e051e4ebca69961d48885f0e9afd2650b69013db58",
+   "timestamp": "2003-02-13T00:56:06.000Z"
+  },
+  "gfx/env/tramontoup.tga": {
+   "bytes": 649528,
+   "sha256": "4e33284abc24c9418e9144a41d33c8360c9d6a0d4788b957682b9d1280b950ed",
+   "timestamp": "2003-02-13T00:55:46.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2007-12-16T22:16:30.000Z"
+  },
+  "maps/thehand.bsp": {
+   "bytes": 7333140,
+   "sha256": "7bd4f8fc107a21e36e4f85ee48f860ac3c449c45b5ad54512002269e1683a6ae",
+   "timestamp": "2007-12-16T19:52:14.000Z"
+  },
+  "maps/thehand.lit": {
+   "bytes": 2896496,
+   "sha256": "2cee7e8eca0dbd42bcf1b77172314d314630f50e84ff9767196a11cff123ce7e",
+   "timestamp": "2007-12-16T19:52:14.000Z"
+  },
+  "thehand.txt": {
+   "bytes": 5403,
+   "sha256": "4b1bedbd715ce5d270d6040b1d8316e40cb934af54b03faf42cbc5f6f6762464",
+   "timestamp": "2007-12-16T21:49:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "39c5a8001bc3a057584632b666f17cd71ea0fe410bb52aa5fec251ef372dad5c",
+ "tags": [
+  "author=RickyT23",
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "filename=thehand.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080106b.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "map_size=huge",
+  "mod=quoth",
+  "release_date=2007-12-16",
+  "theme=base",
+  "theme=idbase",
+  "theme=quoth",
+  "title=The Hand That Feeds You",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/thehand.zip",
+  "https://www.quaddicted.com/files/by-sha256/39/39c5a8001bc3a057584632b666f17cd71ea0fe410bb52aa5fec251ef372dad5c/thehand.zip"
+ ]
+}

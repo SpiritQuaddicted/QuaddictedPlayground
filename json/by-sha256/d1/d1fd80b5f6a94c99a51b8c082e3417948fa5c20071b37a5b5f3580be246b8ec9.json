@@ -1,0 +1,85 @@
+{
+ "bytes": 5639,
+ "files": {
+  "nyarlathotep.txt": {
+   "bytes": 1134,
+   "sha256": "614a767ec2a27730e91f14a486724e69b9b68c23bc8bbd48693c2791f05f676e",
+   "timestamp": "2013-12-08T17:29:42.000Z"
+  },
+  "pak4.pak": {
+   "bytes": 15716108,
+   "files": {
+    "gfx/env/etacarinaebk.tga": {
+     "bytes": 515841,
+     "sha256": "bde74478ee581f801c3cedd5d1d8e410333e5629175535d742a5c2695053cdcb"
+    },
+    "gfx/env/etacarinaedn.tga": {
+     "bytes": 395751,
+     "sha256": "2d2e6e06776f815fdf6b0e0996291bfb086d07b97ef348f537d5d871700fa972"
+    },
+    "gfx/env/etacarinaeft.tga": {
+     "bytes": 424392,
+     "sha256": "76e21d15c829fec00541ae106ebc76c32154a3fb9cdf216540abe166ef764551"
+    },
+    "gfx/env/etacarinaelf.tga": {
+     "bytes": 123060,
+     "sha256": "36f2e842c2af0fdcd8e9181d140dfd1ff34dbd4142145bfb395c07cbc0666a1a"
+    },
+    "gfx/env/etacarinaert.tga": {
+     "bytes": 556503,
+     "sha256": "95f662389f25cb3cf69b85646e02131e515488d5536033abc1fa1954e7553521"
+    },
+    "gfx/env/etacarinaeup.tga": {
+     "bytes": 133121,
+     "sha256": "98199dee3afbfef51dd01ca859552a1f4f290ae73462edec0dc2ef3b40c2eb24"
+    },
+    "maps/nyar.bsp": {
+     "bytes": 5267388,
+     "sha256": "0092dfa2c7bb7e270893a2a33032c3e949dd898ef77ccdfd684092942c87b686"
+    },
+    "maps/nyar2.bsp": {
+     "bytes": 8299528,
+     "sha256": "99de000316dc11a7e290cb7d487afdc3194aa274292d5b0adb1284f50e442dd1"
+    }
+   },
+   "sha256": "81b67f79a40713d296e27a2e9f9c89418cc345cfb88ac74c9c8174f24e7e1d76",
+   "timestamp": "2013-12-08T17:28:46.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/wicked/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d1fd80b5f6a94c99a51b8c082e3417948fa5c20071b37a5b5f3580be246b8ec9",
+ "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
+  "bsp_format=bsp2",
+  "commandline=-game wicked",
+  "dependency=something_wicked",
+  "exceeds_quake_limits=yes",
+  "filename=nyarlathotep.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_layout=vertical",
+  "map_size=medium",
+  "nonspecific_tag=drake",
+  "nonspecific_tag=flesh",
+  "nonspecific_tag=gravity",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=unique",
+  "release_date=2013-12-11",
+  "startmap=nyar",
+  "startmap=nyar2",
+  "theme=blood",
+  "theme=egyptian",
+  "theme=experimental",
+  "theme=knave",
+  "theme=temple",
+  "title=Nyarlathotep",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/nyarlathotep.zip",
+  "https://www.quaddicted.com/files/by-sha256/d1/d1fd80b5f6a94c99a51b8c082e3417948fa5c20071b37a5b5f3580be246b8ec9/nyarlathotep.zip"
+ ]
+}

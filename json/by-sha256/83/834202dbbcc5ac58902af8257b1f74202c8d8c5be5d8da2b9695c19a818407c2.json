@@ -1,0 +1,64 @@
+{
+ "bytes": 1104,
+ "files": {
+  "SM51_FAT.bsp": {
+   "bytes": 465368,
+   "sha256": "f8d2b4f6c6dc51d3ab53b28e9d15895231647d5591779488a50a182a04c67972",
+   "timestamp": "2003-09-28T14:40:38.000Z"
+  },
+  "sm51_czg.bsp": {
+   "bytes": 888044,
+   "sha256": "06c949f06b9c12d56c0a9d1b06f25e51a918ee539812399aa0438413da1466db",
+   "timestamp": "2003-09-29T00:17:40.000Z"
+  },
+  "sm51_fat.txt": {
+   "bytes": 793,
+   "sha256": "5ffab5a5513f6e5caafc854ce3222f8ed940b45c47055501330ceededd149647",
+   "timestamp": "2003-09-28T14:41:20.000Z"
+  },
+  "sm51_pack.txt": {
+   "bytes": 1823,
+   "sha256": "ce547f64ce0f6248f0f75490af383bf3607b2ed32e6c2f1861ed53dcd01f0e7e",
+   "timestamp": "2001-09-10T19:51:44.000Z"
+  },
+  "sm51_scampie.bsp": {
+   "bytes": 400384,
+   "sha256": "559d7a0a85dc37f7d62776778dc29543a26faf1854eefd12c4f0f11cdbd530b1",
+   "timestamp": "2001-09-10T18:45:50.000Z"
+  },
+  "sm51_xen.bsp": {
+   "bytes": 1185781,
+   "sha256": "31669a8a140161ea13f98e3cc79479b35a3e88fe1f8eb926e1d9836f00700558",
+   "timestamp": "2003-09-29T00:17:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "834202dbbcc5ac58902af8257b1f74202c8d8c5be5d8da2b9695c19a818407c2",
+ "tags": [
+  "author=Fat Controller",
+  "author=Scampie",
+  "author=Xen",
+  "author=czg",
+  "filename=sm51_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "nonspecific_tag=e1m1",
+  "nonspecific_tag=e1m3",
+  "nonspecific_tag=end",
+  "release_date=2003-09-29",
+  "startmap=sm51_czg",
+  "startmap=sm51_fat",
+  "startmap=sm51_scampie",
+  "startmap=sm51_xen",
+  "theme=remix",
+  "title=Speedmapping pack 51 - ~ish maps",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm51_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/83/834202dbbcc5ac58902af8257b1f74202c8d8c5be5d8da2b9695c19a818407c2/sm51_pack.zip"
+ ]
+}

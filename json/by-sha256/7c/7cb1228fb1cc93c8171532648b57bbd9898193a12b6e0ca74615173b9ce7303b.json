@@ -1,0 +1,53 @@
+{
+ "bytes": 884,
+ "files": {
+  "SM106_TextFish.bsp": {
+   "bytes": 521040,
+   "sha256": "6748953ad5566f79348ee3eb293a6d5e6365807d335551f16650ac3a50584d7e",
+   "timestamp": "2005-10-02T15:50:22.000Z"
+  },
+  "sm106_generic.bsp": {
+   "bytes": 529944,
+   "sha256": "7a783e9c75b2dd0b90b8269f7054b5f8e461a3c338fbd784ad311b8cece7e3b5",
+   "timestamp": "2004-03-07T22:28:04.000Z"
+  },
+  "sm106_pack.txt": {
+   "bytes": 1380,
+   "sha256": "dd5f62c1825baef4231e79b26bd44e44c3d199d41c78ec11b78c07792ce1db13",
+   "timestamp": "2004-03-08T19:37:28.000Z"
+  },
+  "sm106_pulsar.bsp": {
+   "bytes": 1016264,
+   "sha256": "81066fa57cef1abb649f24bdcab762beb34c5b37f456850302ef69e60a52d8e8",
+   "timestamp": "2005-10-01T01:06:54.000Z"
+  },
+  "sm106_textfish.txt": {
+   "bytes": 304,
+   "sha256": "01ad173eee0f14e9faafe58833308dacc804c317ed4b1597a56ca0956a678212",
+   "timestamp": "2005-10-02T16:13:22.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b",
+ "tags": [
+  "author=Pulsar",
+  "author=TextFish",
+  "author=generic",
+  "filename=sm106_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2005-10-02",
+  "startmap=SM106_TextFish",
+  "startmap=sm106_generic",
+  "startmap=sm106_pulsar",
+  "title=Speedmapping pack 106 - Partially submerged",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm106_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/7c/7cb1228fb1cc93c8171532648b57bbd9898193a12b6e0ca74615173b9ce7303b/sm106_pack.zip"
+ ]
+}

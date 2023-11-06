@@ -1,0 +1,51 @@
+{
+ "bytes": 1804,
+ "files": {
+  "throughthegates.txt": {
+   "bytes": 1435,
+   "sha256": "4b3c82beb568fe326aba6a58505dd9f2622de5da040f8bf6be78c6da3ca49fc8",
+   "timestamp": "2020-09-16T18:06:44.000Z"
+  },
+  "ttg.bsp": {
+   "bytes": 3983996,
+   "sha256": "88fa0eb96f1ac9ef33fa428fdf099a3e2c520df0e56d2ed8792e61f900a0c510",
+   "timestamp": "2020-09-18T19:08:32.000Z"
+  },
+  "ttg.lit": {
+   "bytes": 1065332,
+   "sha256": "cab8603d75027230da0ae8198ceb5e28bdb28c5273da70a2e3b45259b88bfa25",
+   "timestamp": "2020-09-18T19:08:32.000Z"
+  },
+  "ttg.map": {
+   "bytes": 2289609,
+   "sha256": "2194f6981c69f16741b0453e398ff8a965d4a6ba171ead2664b76c114161fb40",
+   "timestamp": "2020-09-18T19:08:20.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "274b1411393602b1ae997f979d943589ad47e9381da59571537908ce70dc71c0",
+ "tags": [
+  "author=Mike_C",
+  "exceeds_quake_limits=yes",
+  "filename=throughthegatesv3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61947)",
+  "map_size=medium",
+  "release_date=2020-09-18",
+  "source=included",
+  "startmap=ttg",
+  "theme=bricks",
+  "theme=dungeon",
+  "theme=medieval",
+  "title=Through the Gates of the Silver Key",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/throughthegatesv3.zip",
+  "https://www.quaddicted.com/files/by-sha256/27/274b1411393602b1ae997f979d943589ad47e9381da59571537908ce70dc71c0/throughthegatesv3.zip"
+ ]
+}

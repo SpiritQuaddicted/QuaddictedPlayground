@@ -1,0 +1,93 @@
+{
+ "bytes": 5008,
+ "files": {
+  "E2M5.map": {
+   "bytes": 2684096,
+   "sha256": "5c4d6d204da1f1e6befd500c06910198109182d22877de8010f8361578b8983d",
+   "timestamp": "2008-07-01T00:29:20.000Z"
+  },
+  "e2m5rmx.txt": {
+   "bytes": 5911,
+   "sha256": "d043c48063c23b929008bc7de9de2f34a36b37e23236bef6c9afe9ba7ab2099b",
+   "timestamp": "2008-07-01T09:31:26.000Z"
+  },
+  "gnu.txt": {
+   "bytes": 14969,
+   "sha256": "2f4d8811d21f8a6e1ba2353644e93a973cf3ef326776a06ff755b9357f4ca248",
+   "timestamp": "1999-12-21T19:01:14.000Z"
+  },
+  "pak0.PAK": {
+   "bytes": 9722508,
+   "files": {
+    "gfx/env/dragonheart_bk.tga": {
+     "bytes": 637657,
+     "sha256": "3e59851504695b76177984e70ac5486c6d73e79e12aa5c6d1541186ddfb64e35"
+    },
+    "gfx/env/dragonheart_dn.tga": {
+     "bytes": 788950,
+     "sha256": "06bf487a9aea1259912f723e8ca6424039403515bad5ef0335297f000b70fb46"
+    },
+    "gfx/env/dragonheart_ft.tga": {
+     "bytes": 734137,
+     "sha256": "6accd2b017d77be2202a5a0076eb59b6bf92277e73c340f03ec82a74e5ee62ce"
+    },
+    "gfx/env/dragonheart_lf.tga": {
+     "bytes": 642705,
+     "sha256": "b722bf077a38460b05113b378dc7bf927d2100cac45692e8fa0b1644f51a465c"
+    },
+    "gfx/env/dragonheart_rt.tga": {
+     "bytes": 677781,
+     "sha256": "01092ba73021ef5ebf75d4287ee791f577faed09f2cbbdd5bc4b0bf5278c3c65"
+    },
+    "gfx/env/dragonheart_up.tga": {
+     "bytes": 349636,
+     "sha256": "4869b405ad06d8721e75dc9ec2b2035fa6d5ee7b3c53718d48b3cc3cbe5f4261"
+    },
+    "maps/e2m5rmx.bsp": {
+     "bytes": 5031272,
+     "sha256": "ca4432d8eaf746744661e6a53c9cafa377bf6c2806f597599411287b16e25a58"
+    },
+    "progs.dat": {
+     "bytes": 416660,
+     "sha256": "966219afd9f7021b2f3839562fc10d170c35af5ff8a8bf79fb6095f14e745f0d"
+    },
+    "sound/ambience/evilwind_2b.wav": {
+     "bytes": 71232,
+     "sha256": "fc0f5ca2fe935e3f053123bc3b773c3aea0ef0fd7a8ce5834ccbe77340a1c9c7"
+    },
+    "sound/ambience/maydn2.wav": {
+     "bytes": 371826,
+     "sha256": "5ee52baf8266d29d648722d405cee8f029b057749bd7d67b8e3f35fe3925432e"
+    }
+   },
+   "sha256": "b79ef3035c34ec7394618ab50e15faa1f3411c1049144eb0771d4a9e86d7f6a4",
+   "timestamp": "2008-07-01T02:24:10.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/e2m5rmx/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "1fc580568b0d3de845e2c43961ba659dd8a32ff8c7b0606ad5e56280f80e2fb1",
+ "tags": [
+  "author=rj",
+  "commandline=-game e2m5rmx",
+  "filename=e2m5rmx.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev080817.html#2ndreview)",
+  "map_size=large",
+  "nonspecific_tag=e2m5",
+  "nonspecific_tag=q3 gothic",
+  "nonspecific_tag=skybox",
+  "release_date=2008-07-01",
+  "theme=blood",
+  "theme=remix",
+  "title=The Lizard's Trance",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/e2m5rmx.zip",
+  "https://www.quaddicted.com/files/by-sha256/1f/1fc580568b0d3de845e2c43961ba659dd8a32ff8c7b0606ad5e56280f80e2fb1/e2m5rmx.zip"
+ ]
+}

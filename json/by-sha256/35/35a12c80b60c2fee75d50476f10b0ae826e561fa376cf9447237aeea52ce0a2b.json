@@ -1,0 +1,46 @@
+{
+ "bytes": 2328,
+ "files": {
+  "grim.bsp": {
+   "bytes": 5671244,
+   "sha256": "32ff9878c380452647b4b45d55f636919e7639c7f516f0f547aade9d47c2613e",
+   "timestamp": "2018-02-09T01:54:32.000Z"
+  },
+  "grim.jpg": {
+   "bytes": 399621,
+   "sha256": "2963e8cbb259c4a7873d73c9a3f4e89bc1f99df3c4179e3f80ce93d349a934fc",
+   "timestamp": "2018-02-09T02:20:16.000Z"
+  },
+  "grim.txt": {
+   "bytes": 2444,
+   "sha256": "59fb520c1fcd9d0ee92b622c336f4fb0729b75bde7dc766d5e5dd774d0536010",
+   "timestamp": "2018-02-09T02:31:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b",
+ "tags": [
+  "author=Andrew Smith",
+  "bsp_format=bsp2",
+  "exceeds_quake_limits=yes",
+  "filename=grim_rezipped.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "release_date=2018-02-09",
+  "startmap=grim",
+  "theme=castle",
+  "theme=fortress",
+  "theme=id1",
+  "theme=wizard",
+  "title=The Grim Outpost",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/grim_rezipped.zip",
+  "https://www.quaddicted.com/files/by-sha256/35/35a12c80b60c2fee75d50476f10b0ae826e561fa376cf9447237aeea52ce0a2b/grim_rezipped.zip"
+ ]
+}

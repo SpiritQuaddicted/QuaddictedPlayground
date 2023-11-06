@@ -1,0 +1,109 @@
+{
+ "bytes": 4195,
+ "files": {
+  "pak0.pak": {
+   "bytes": 14053002,
+   "files": {
+    "docs/retrojam3_fifth.txt": {
+     "bytes": 3002,
+     "sha256": "6803d0aba0ddb5770632a578b878c60a1d872af277b41b141fa2169da638f1c6"
+    },
+    "docs/retrojam3_skacky.txt": {
+     "bytes": 1080,
+     "sha256": "0d2fc0062eb8c9d2f68a8a845e036cdc262fb712e78b164fb87291cee688e707"
+    },
+    "gfx/env/shol_bk.tga": {
+     "bytes": 286426,
+     "sha256": "afc656e21fdba58ec0df854cd4f0a8681257a993bec6b5185b24821b9b3e73be"
+    },
+    "gfx/env/shol_dn.tga": {
+     "bytes": 139320,
+     "sha256": "aa4b3cf9005975c47096fbacd3041439ab0492025c0756df7d5098192043d53e"
+    },
+    "gfx/env/shol_ft.tga": {
+     "bytes": 280100,
+     "sha256": "9334cced4dfe72e3be40a86f830c6d39444d4bd4aa1df0f26b4fbf359f369520"
+    },
+    "gfx/env/shol_lf.tga": {
+     "bytes": 305263,
+     "sha256": "84e81f9c3d29722d40b2dc3f9bc934d610a1bc7a05903265546e33d3c201383a"
+    },
+    "gfx/env/shol_rt.tga": {
+     "bytes": 303582,
+     "sha256": "b407a22b61b77bd86e1eecdfbb2a64c25acc004b25020318e67e9a179d07c533"
+    },
+    "gfx/env/shol_up.tga": {
+     "bytes": 344881,
+     "sha256": "3eff1076ea76b963355452aefddb7afcee5d75a41a65d1560a375f24f9715660"
+    },
+    "maps/retrojam3_fifth.bsp": {
+     "bytes": 1785020,
+     "sha256": "de16b9d19a41623d8347dff13b8c0bc7d4e2db1b584a46cb90964d9ef0d24e21"
+    },
+    "maps/retrojam3_fifth.lit": {
+     "bytes": 889952,
+     "sha256": "8dd709ccf46beb2187bce86448e10cc0aea417fb38b5bae97bfbaf1ddd6289c2"
+    },
+    "maps/retrojam3_skacky.bsp": {
+     "bytes": 4447738,
+     "sha256": "2706962c995eb59b6bb8611b4bec5a5ed14c989abe6cc2cd1c3ad3f293c6893c"
+    },
+    "maps/retrojam3_skacky.lit": {
+     "bytes": 1648715,
+     "sha256": "7285f2427f07d43e8caccca82e080ff4904ed83690002ff182c4c4501595cec6"
+    },
+    "source/retrojam3_fifth.map": {
+     "bytes": 766240,
+     "sha256": "7a4a6f04ad90adaa6fce32383b3e17841a804a54f173772f090b818b8c1a319e"
+    },
+    "source/retrojam3_skacky.map": {
+     "bytes": 2850775,
+     "sha256": "2d108652bf09b5815988734051d29f625f8742e47b85120c61f622804359b316"
+    }
+   },
+   "sha256": "f6ee255db3df15b812f1760bbecf8cb4c23f0e260b53a60516ee13d2b6898a43",
+   "timestamp": "2015-04-29T17:15:34.000Z"
+  },
+  "quake.rc": {
+   "bytes": 1319,
+   "sha256": "23d89f55c4aeec778b24e215ce38088b1ad23525c006f09a18ea433d93a03380",
+   "timestamp": "2015-04-28T23:24:14.000Z"
+  },
+  "retrojam3_readme.txt": {
+   "bytes": 2306,
+   "sha256": "62342dfca493a9aede057aad208ae606f2167fdd9868ab5ded845121ef5febc1",
+   "timestamp": "2015-04-29T17:22:08.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/retrojam3"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818",
+ "tags": [
+  "author=FifthElephant",
+  "author=skacky",
+  "commandline=-game retrojam3",
+  "filename=retrojam3.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61203)",
+  "map_layout=vertical",
+  "map_size=medium",
+  "map_size=small",
+  "nonspecific_tag=skybox",
+  "release_date=2015-04-29",
+  "source=included",
+  "startmap=retrojam3_fifth",
+  "startmap=retrojam3_skacky",
+  "theme=metal",
+  "theme=runic",
+  "title=Retro Jam 3 - Vertical Metal/Runic Theme",
+  "type=mapjam",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/retrojam3.zip",
+  "https://www.quaddicted.com/files/by-sha256/7f/7f05c31e8c45532a1c5cc67ccec1c239082cb03a75ab61db96de746f0d338818/retrojam3.zip"
+ ]
+}

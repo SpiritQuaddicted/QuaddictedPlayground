@@ -1,0 +1,52 @@
+{
+ "bytes": 804,
+ "files": {
+  "sm171_cocerello.bsp": {
+   "bytes": 841996,
+   "sha256": "24eee322dc44ca622cd6eaf9c91f9b17a8774e6dd12590fa800a0607ea9d8d22",
+   "timestamp": "2013-06-03T15:07:00.000Z"
+  },
+  "sm171_cocerello.txt": {
+   "bytes": 3979,
+   "sha256": "dfbacbe8c5d4f66dd6ad6f8b72efe7334ee60ba31a6bb6a084637037511e79ce",
+   "timestamp": "2013-06-03T14:53:44.000Z"
+  },
+  "sm171_digs.bsp": {
+   "bytes": 958464,
+   "sha256": "3a94db686c7a4811d7164537bc85fb538d73b2a02086ba69fca42948c1435124",
+   "timestamp": "2013-06-02T14:01:52.000Z"
+  },
+  "sm171_scampie.bsp": {
+   "bytes": 464311,
+   "sha256": "5c057f493c9f929d093ce66e56dc4a432e4eca849d57d072a1db6c7082d63666",
+   "timestamp": "2013-06-03T15:30:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d284ae2ca353090e9ebef4825a145c7e094742a6de8aa3133f4670bd1a255fed",
+ "tags": [
+  "author=Cocerello",
+  "author=Scampie",
+  "author=digs",
+  "dependency=quoth",
+  "filename=sm171_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "mod=quoth",
+  "release_date=2013-06-03",
+  "startmap=sm171_cocerello",
+  "startmap=sm171_digs",
+  "startmap=sm171_scampie",
+  "theme=quoth",
+  "title=Speedmapping pack 171 - Bricks",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm171_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d2/d284ae2ca353090e9ebef4825a145c7e094742a6de8aa3133f4670bd1a255fed/sm171_pack.zip"
+ ]
+}

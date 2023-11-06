@@ -1,0 +1,41 @@
+{
+ "bytes": 299,
+ "files": {
+  "sm132_generic.bsp": {
+   "bytes": 256016,
+   "sha256": "3f659b9d0a237ad9cd930df92bb117b43fccb309241e62909d481f9502415631",
+   "timestamp": "2007-01-28T17:37:36.000Z"
+  },
+  "sm132_omus.bsp": {
+   "bytes": 783446,
+   "sha256": "9f6134ae9a1942ee2a1f7288dd6c1f845e797d13c597fd650b4bd6542ee28216",
+   "timestamp": "2007-01-26T04:42:14.000Z"
+  },
+  "sm132_pack.txt": {
+   "bytes": 1222,
+   "sha256": "5ec3e1860f60b9e71399e241b62f9ef471889e9882b314297608e2933b3ca24a",
+   "timestamp": "2007-01-29T08:49:06.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "3628ad8aa18573fb8421d34dbf075bce606585796d0f63e06f9eb08bcb549fb2",
+ "tags": [
+  "author=Omus",
+  "author=generic",
+  "filename=sm132_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2007-01-29",
+  "startmap=sm132_generic",
+  "startmap=sm132_omus",
+  "title=Speedmapping pack 132 - Inverted Castle",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm132_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/36/3628ad8aa18573fb8421d34dbf075bce606585796d0f63e06f9eb08bcb549fb2/sm132_pack.zip"
+ ]
+}

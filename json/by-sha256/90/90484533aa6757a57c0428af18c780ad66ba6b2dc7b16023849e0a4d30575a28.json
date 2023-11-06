@@ -1,0 +1,53 @@
+{
+ "bytes": 5352,
+ "files": {
+  "sludge factory.txt": {
+   "bytes": 1150,
+   "sha256": "0362f9d653ef0cfe44b958e74dbabc9c4610b1ff6f299de56c9f7d6526b8334c",
+   "timestamp": "2011-03-18T04:03:30.000Z"
+  },
+  "sludge1.bsp": {
+   "bytes": 6884176,
+   "sha256": "c49556ad732f0af03db14342422c6fc0ef864e1e91a50b6c9493774375734ac0",
+   "timestamp": "2011-03-18T03:37:16.000Z"
+  },
+  "sludge2.bsp": {
+   "bytes": 7796380,
+   "sha256": "5ff54286b3fa143fcd90ccfb94a8706f7297fe4fd45da4db6e3e48595b29d1a9",
+   "timestamp": "2011-03-17T21:06:18.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/drake/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "90484533aa6757a57c0428af18c780ad66ba6b2dc7b16023849e0a4d30575a28",
+ "tags": [
+  "author=Dustin \"Tronyn\" Geeraert",
+  "commandline=-game drake",
+  "dependency=drake",
+  "filename=sludgefactory.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "nonspecific_tag=drake",
+  "nonspecific_tag=factory",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=oil rig",
+  "nonspecific_tag=open",
+  "nonspecific_tag=textures",
+  "playstyle=hordes",
+  "release_date=2011-03-18",
+  "startmap=sludge1",
+  "startmap=sludge2",
+  "theme=base",
+  "theme=industrial",
+  "theme=slime",
+  "title=Sludge Factory",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sludgefactory.zip",
+  "https://www.quaddicted.com/files/by-sha256/90/90484533aa6757a57c0428af18c780ad66ba6b2dc7b16023849e0a4d30575a28/sludgefactory.zip"
+ ]
+}

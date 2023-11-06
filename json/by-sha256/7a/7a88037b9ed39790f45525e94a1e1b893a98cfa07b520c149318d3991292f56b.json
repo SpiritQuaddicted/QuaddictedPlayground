@@ -1,0 +1,69 @@
+{
+ "bytes": 4439,
+ "files": {
+  "xl2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-06-17T20:45:58.000Z"
+  },
+  "xl2/xl2.bsp": {
+   "bytes": 719372,
+   "sha256": "4f57d8b2842e81dc947c6c5807c5e9a7c79fdc7d436aefca00c0e2e5d279858c",
+   "timestamp": "2017-11-28T18:56:54.000Z"
+  },
+  "xl2/xl2.lit": {
+   "bytes": 181823,
+   "sha256": "bafadcb8916625b16c2e4ceb94a556f2ddb2ef3a7bcac34f1646879500046ae7",
+   "timestamp": "2017-11-28T18:56:54.000Z"
+  },
+  "xl2/xl2_readme.txt": {
+   "bytes": 1691,
+   "sha256": "30c9804f53c93d7dbc0570fcce1b49e94baa0c831216072c457715ba452f806f",
+   "timestamp": "2017-12-01T20:12:38.000Z"
+  },
+  "xl2/xl2m1 legend EN RU.txt": {
+   "bytes": 6194,
+   "sha256": "7eee946f5744b8bfb668c2cbe3b5841c8bac6591be2c6ff381ef435d24425d31",
+   "timestamp": "2017-12-01T20:11:36.000Z"
+  },
+  "xl2/xl2m1.bsp": {
+   "bytes": 7098304,
+   "sha256": "f3e1c3156e3be8252b6c4e71f50623e786ff6f6ed786e64ce9f86963179be056",
+   "timestamp": "2017-12-02T00:42:10.000Z"
+  },
+  "xl2/xl2m1.lit": {
+   "bytes": 3708812,
+   "sha256": "548240218bb4b990fd8c00557b04a6ecaa419e0ead7bf54f7c8acec66b27e074",
+   "timestamp": "2017-12-02T00:42:10.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b",
+ "tags": [
+  "author=xlarve",
+  "exceeds_quake_limits=yes",
+  "filename=xl2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61527)",
+  "map_size=large",
+  "nonspecific_tag=citadel",
+  "nonspecific_tag=start",
+  "release_date=2017-12-01",
+  "startmap=xl2",
+  "startmap=xl2m1",
+  "theme=fortress",
+  "theme=medieval",
+  "theme=metal",
+  "theme=mixtex",
+  "title=The Citadel of Sinners",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/xl2.zip",
+  "https://www.quaddicted.com/files/by-sha256/7a/7a88037b9ed39790f45525e94a1e1b893a98cfa07b520c149318d3991292f56b/xl2.zip"
+ ]
+}

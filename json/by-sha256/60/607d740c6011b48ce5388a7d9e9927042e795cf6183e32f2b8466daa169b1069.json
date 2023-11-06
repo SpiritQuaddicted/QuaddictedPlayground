@@ -1,0 +1,54 @@
+{
+ "bytes": 726,
+ "files": {
+  "sm53_moz.bsp": {
+   "bytes": 700872,
+   "sha256": "91900e9e24c5918b8f2b73110ab384d93d582461e5aa9c7ae2acc8c5d64fcf66",
+   "timestamp": "2001-09-11T18:56:30.000Z"
+  },
+  "sm53_pack.txt": {
+   "bytes": 1723,
+   "sha256": "6e681501b5d533a584640d10445dd2e2dcfbec935d071f3f3a92d16032f1b5d4",
+   "timestamp": "2001-09-11T19:23:32.000Z"
+  },
+  "sm53_rpg.bsp": {
+   "bytes": 365880,
+   "sha256": "105d53acba41ccd749a61320d8ece50f486a7012ddd3d38afe3b227c01c33193",
+   "timestamp": "2001-09-11T15:16:08.000Z"
+  },
+  "sm53_scampie.bsp": {
+   "bytes": 422892,
+   "sha256": "98be976f203a5db6b79934fefaac3bb56ae3a8313d4c67e2e11d5e95cbf3d7fe",
+   "timestamp": "2001-09-11T19:01:58.000Z"
+  },
+  "sm53_starbuck.bsp": {
+   "bytes": 515524,
+   "sha256": "c66af5d888e374dea32c921f9be456c2e2af272b5e3f6c30c5681199d408f05c",
+   "timestamp": "2001-09-11T19:17:56.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "607d740c6011b48ce5388a7d9e9927042e795cf6183e32f2b8466daa169b1069",
+ "tags": [
+  "author=Moz",
+  "author=RPG",
+  "author=Scampie",
+  "author=Starbuck",
+  "filename=sm53_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2001-09-11",
+  "startmap=sm53_moz",
+  "startmap=sm53_scampie",
+  "startmap=sm53_starbuck",
+  "title=Speedmapping pack 53 - Cube maps",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm53_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/60/607d740c6011b48ce5388a7d9e9927042e795cf6183e32f2b8466daa169b1069/sm53_pack.zip"
+ ]
+}

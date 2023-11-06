@@ -1,0 +1,72 @@
+{
+ "bytes": 23738,
+ "files": {
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-16T19:26:28.000Z"
+  },
+  "maps/nmth_machinery.bsp": {
+   "bytes": 3874004,
+   "sha256": "e11f8987c91fe6b9ba3c788ceca98ed73b96e5d4d050c909c600a184faf467e8",
+   "timestamp": "2020-08-16T20:09:58.000Z"
+  },
+  "maps/nmth_machinery.lit": {
+   "bytes": 2973887,
+   "sha256": "3c774bed17f502c079406d721d782861e01aa1ddea2295f9c1eff359a24b726d",
+   "timestamp": "2020-08-16T20:09:58.000Z"
+  },
+  "maps/nmth_machinery.map": {
+   "bytes": 3155922,
+   "sha256": "14d6be7a088e1a769807d283063049e77a44aeed395452a2e597b94584f2e653",
+   "timestamp": "2020-08-16T20:09:18.000Z"
+  },
+  "music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-08-16T19:25:14.000Z"
+  },
+  "music/track49.mp3": {
+   "bytes": 12680725,
+   "sha256": "13fce412f0f5f8db246015f067b667a2b2cb27a155213fff737ccae3a45fe393",
+   "timestamp": "2020-08-16T19:05:46.000Z"
+  },
+  "music/track49.ogg": {
+   "bytes": 9262116,
+   "sha256": "bfc5157779f3ef9be32ebe420232c8724246ab2bd90c6e13e7f7d73f9d112664",
+   "timestamp": "2020-08-16T19:01:10.000Z"
+  },
+  "nmth_machinery.txt": {
+   "bytes": 6269,
+   "sha256": "59dd60f40a9985add976f578d18c6f9f0e7707d4c4f747a73d9b62e4a12a0e82",
+   "timestamp": "2020-08-16T19:30:12.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/nmth_machinery"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "6165726da0d276d595f9d370b6cd464f21ed0d46d19802ef13f2e77ac89c2c94",
+ "tags": [
+  "author=Guilherme Nemeth",
+  "commandline=-game nmth_machinery",
+  "exceeds_quake_limits=yes",
+  "filename=nmth_machinery_fix.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61933)",
+  "map_size=large",
+  "music=custom",
+  "release_date=2020-08-16",
+  "source=included",
+  "theme=base",
+  "theme=ikbase",
+  "theme=industrial",
+  "title=The Machinery",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/nmth_machinery_fix.zip",
+  "https://www.quaddicted.com/files/by-sha256/61/6165726da0d276d595f9d370b6cd464f21ed0d46d19802ef13f2e77ac89c2c94/nmth_machinery_fix.zip"
+ ]
+}

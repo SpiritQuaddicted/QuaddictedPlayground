@@ -1,0 +1,148 @@
+{
+ "bytes": 1757,
+ "files": {
+  "Borg.txt": {
+   "bytes": 2472,
+   "sha256": "865bbe25e2c90339508a3f4f2a35cd149b89abaaabd73ba39d2a63150095b762",
+   "timestamp": "1997-05-29T22:53:52.000Z"
+  },
+  "Pak0.pak": {
+   "bytes": 2890715,
+   "files": {
+    "config.cfg": {
+     "bytes": 2157,
+     "sha256": "671d0c87bed390c6472429e2fcd16e33a2f731598e73924fea336a3dd5ca3bf5"
+    },
+    "maps.zip": {
+     "bytes": 386980,
+     "sha256": "c3ab4c7a4a1d0513fbd5bfbc5ced521fff16c7a6b87830985fc2f70560b64f6a"
+    },
+    "maps/borg.bsp": {
+     "bytes": 950292,
+     "sha256": "73e27aefa594b4504277c4720e2bdcb8c9b4a455c07f002432277dda5db3320c"
+    },
+    "progs.zip": {
+     "bytes": 290486,
+     "sha256": "215685a92f84e66a0ca0bc1571cccfa064d9f8bfb396428f2b24cfa3500f79af"
+    },
+    "progs/enforcer.mdl": {
+     "bytes": 160688,
+     "sha256": "51344e15b4f31af1abc9883ab3a094f8fac7551f68e6caafeebddbd0607c0a7f"
+    },
+    "progs/player.mdl": {
+     "bytes": 191852,
+     "sha256": "be5dc5498f67842bbfd52aee8fff37539a73ff634e1b99a452d4826cc6264128"
+    },
+    "progs/soldier.mdl": {
+     "bytes": 146288,
+     "sha256": "5e00c959c231513f55ee7ca2a7cfa9726cab71e0d14f0b020d71d50f6f8357c2"
+    },
+    "sound.zip": {
+     "bytes": 19992,
+     "sha256": "fbafa41ed9f5ac9cfda4cd69ca377435dfd18c146dea6a79ade2eb39fad24e22"
+    },
+    "sound/ambience/2010.wav": {
+     "bytes": 29948,
+     "sha256": "dd3308495ba8e4a6b1bd94e9cc59040a524d046988a101647fb6fb9ed9034e9e"
+    },
+    "sound/ambience/swamp1.wav": {
+     "bytes": 253748,
+     "sha256": "ff6f7ae79a9f28d0b60bd4fbb8f965fff145174a9c827c678202b4d4180e4fee"
+    },
+    "sound/ambience/swamp2.wav": {
+     "bytes": 135268,
+     "sha256": "7f0a6bfb374a80527b0b1593101b2bb820cdf4a135c4d89149768a3fb359a381"
+    },
+    "sound/enforcer/death1.wav": {
+     "bytes": 9290,
+     "sha256": "f62aad2ae903808a0caecfc6bdfe13e5fdebb1df14d330c6ac4eda9b577b25bf"
+    },
+    "sound/enforcer/enfstop.wav": {
+     "bytes": 8642,
+     "sha256": "3f967a5e85b705e1bff8c91e34e3d6263aa3fdb96d7db9df9891b7774d7b779c"
+    },
+    "sound/enforcer/sight1.wav": {
+     "bytes": 5870,
+     "sha256": "92dc64154602e29e95d40aa68d3544fe21cb21ce24192f1e8ffefc6b5d31b8cc"
+    },
+    "sound/enforcer/sight2.wav": {
+     "bytes": 15188,
+     "sha256": "923b1306fa0e4bfa837c79d6b3ba522f60da2ec3c14ad56ffc361b420000dfca"
+    },
+    "sound/enforcer/sight3.wav": {
+     "bytes": 16746,
+     "sha256": "8e7b85016feb13a32c426c42679fd4afe84c474ef8a4adf3a5dfc46199b3a36d"
+    },
+    "sound/enforcer/sight4.wav": {
+     "bytes": 5166,
+     "sha256": "815e05c3b14858209fee01316848c117ad89af9f0aab190fc0ca0239367373ac"
+    },
+    "sound/extra/borg07.wav": {
+     "bytes": 24176,
+     "sha256": "a4f16f6615a0a371513825545c95cdc87aaa8a7557a8a34b2be086eeaac762cf"
+    },
+    "sound/extra/death2.wav": {
+     "bytes": 16010,
+     "sha256": "c0647da55a224bbca4429b80d2c707c4095869b7ec0eaf54b4291560f4f2028a"
+    },
+    "sound/extra/obey2.wav": {
+     "bytes": 55810,
+     "sha256": "47f766a6e76cdcba2a3c160697f1695c26a25042fbd5aaccb5c3b5fb53c66e08"
+    },
+    "sound/extra/sight4.wav": {
+     "bytes": 15106,
+     "sha256": "6e6759de79e8b263a32fe48560c24d5e684e694504afd3e38b8d6d978940590b"
+    },
+    "sound/misc/r_tele1.wav": {
+     "bytes": 34215,
+     "sha256": "790cb1c4f8d48310f62b4fa8e316bd437fe6536514e42a755f3aa4faae309da7"
+    },
+    "sound/misc/r_tele2.wav": {
+     "bytes": 15120,
+     "sha256": "3d9fae26422150cb7114b84a397988d2b318a89f20d5a5d4a6428c5b36d8c0f1"
+    },
+    "sound/misc/r_tele3.wav": {
+     "bytes": 21027,
+     "sha256": "0dcf033325869e889d5426ccd0fb3beecdbdd054d20b377b6c31ffb137ced8a9"
+    },
+    "sound/misc/water1.wav": {
+     "bytes": 66258,
+     "sha256": "4ab83731ca2cd47606681f5da5af283136af88d829c49b7e890734519df57a0c"
+    },
+    "sound/soldier/sight1.wav": {
+     "bytes": 12716,
+     "sha256": "d897e69d6669fed4ecd6bfd24a05fba80b450ec4da1cfca157d7916da3a6f8e0"
+    }
+   },
+   "sha256": "e0e7d8fb574b50d03455830a3a743b7707cce8e9cd270152ff6d18d14ce7b939",
+   "timestamp": "1997-05-29T22:21:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/borg/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "0f305a53a6c386bd472157921e169d7f07f517fef65a83448b1a324095533c2f",
+ "tags": [
+  "author=GreenHornet aka.",
+  "author=Steven Anderson",
+  "commandline=-game borg",
+  "filename=borg.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelsb.htm)",
+  "map_layout=maze",
+  "map_size=medium",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=star trek",
+  "nonspecific_tag=textures",
+  "release_date=1997-05-29",
+  "title=The Borg",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/borg.zip",
+  "https://www.quaddicted.com/files/by-sha256/0f/0f305a53a6c386bd472157921e169d7f07f517fef65a83448b1a324095533c2f/borg.zip"
+ ]
+}

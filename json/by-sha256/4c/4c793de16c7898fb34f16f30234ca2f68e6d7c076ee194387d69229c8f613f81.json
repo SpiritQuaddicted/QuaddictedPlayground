@@ -1,0 +1,117 @@
+{
+ "bytes": 13280,
+ "files": {
+  "ad_beep1m1.txt": {
+   "bytes": 2638,
+   "sha256": "f7a8ce684342527c428c6655ba1eed999cc79a8b772837bdc420ab8921870901",
+   "timestamp": "2020-01-13T20:55:18.000Z"
+  },
+  "gfx/env/violent_beep_bk.tga": {
+   "bytes": 3145746,
+   "sha256": "85eef9a88a26c808f9136415123836c1708ae7781d71164354f408e728e24729",
+   "timestamp": "2020-01-11T19:30:36.000Z"
+  },
+  "gfx/env/violent_beep_dn.tga": {
+   "bytes": 3145746,
+   "sha256": "217256f485ff78f76509b765907effc15af79ad77b163686317b32e2314cec87",
+   "timestamp": "2020-01-11T19:30:36.000Z"
+  },
+  "gfx/env/violent_beep_ft.tga": {
+   "bytes": 3145746,
+   "sha256": "0d62096350299dbf4cfc825bf3d614c6ea95daf6a17b022f615428b71ff4681d",
+   "timestamp": "2020-01-11T19:30:36.000Z"
+  },
+  "gfx/env/violent_beep_lf.tga": {
+   "bytes": 3145746,
+   "sha256": "d1134081deb1c5dbad6c2c5dc6cb4d1e9b63cbb87ebeb8683d8e7aa755e4112a",
+   "timestamp": "2020-01-11T19:30:36.000Z"
+  },
+  "gfx/env/violent_beep_rt.tga": {
+   "bytes": 3145746,
+   "sha256": "bfe3f260e2bec34ee8e74504bcff2e0eda83a41258add2aa7afc72a42002337b",
+   "timestamp": "2020-01-11T19:30:36.000Z"
+  },
+  "gfx/env/violent_beep_up.tga": {
+   "bytes": 3145746,
+   "sha256": "6d6731f805acae5e09ee5a08209b8b8c082a1fc67631e820c8683235f716b463",
+   "timestamp": "2020-01-11T19:30:36.000Z"
+  },
+  "maps/ad_beep1m1.bsp": {
+   "bytes": 8788032,
+   "sha256": "d91b9c4f1fa493a7cfc161e4b37f1910553d01a5b7ae96ebcfe32faa4b506b37",
+   "timestamp": "2020-01-13T20:38:18.000Z"
+  },
+  "maps/ad_beep1m1.lit": {
+   "bytes": 1410314,
+   "sha256": "3cf4c9f3c2d96d58e6bf5e887e9a44cbe3ad789e0832f84b7460e5efcb14b0b9",
+   "timestamp": "2020-01-13T20:37:54.000Z"
+  },
+  "music/track202.ogg": {
+   "bytes": 5641530,
+   "sha256": "fce5204e493937378c3c57fc7e2cdeafe8a30a5816f03a9d58077f0ed25dca32",
+   "timestamp": "2019-12-26T11:24:50.000Z"
+  },
+  "sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-13T16:50:36.000Z"
+  },
+  "sound/ambience/gen_buzz.wav": {
+   "bytes": 177266,
+   "sha256": "eeb7f07b2637c201d19f5d1f47672f345ce3ce5360b5dcd22b23b3eed8a2d933",
+   "timestamp": "2019-12-31T22:17:40.000Z"
+  },
+  "textures/bz2_15.tga": {
+   "bytes": 3090,
+   "sha256": "7c29a0c225762e8351c11278a42a8ef212f776b4fd18a1fbe221c8f82e255070",
+   "timestamp": "2020-01-13T16:33:00.000Z"
+  },
+  "textures/speedbz_l32yel.tga": {
+   "bytes": 3090,
+   "sha256": "08a26eca0c564ce5c60f402d1e587cfefb77f5ed08bd238d3ce7064c7a2801b4",
+   "timestamp": "2020-01-13T16:33:00.000Z"
+  },
+  "textures/speedbz_mtriml6.tga": {
+   "bytes": 12306,
+   "sha256": "2f1a71e69240d2431ea3bb9a2ac27b7c8c55e822e190e01eb59a8c4acd569de2",
+   "timestamp": "2020-01-13T16:33:00.000Z"
+  },
+  "textures/speedbz_mtrimly.tga": {
+   "bytes": 24594,
+   "sha256": "8d69800ced9b448e4a1dee9364b47f468416b70360b07e9d57a7e970ae141c11",
+   "timestamp": "2020-01-13T16:33:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4c793de16c7898fb34f16f30234ca2f68e6d7c076ee194387d69229c8f613f81",
+ "tags": [
+  "author=Comrade Beep",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "dependency=ad_v1_70patch1",
+  "exceeds_quake_limits=yes",
+  "filename=ad_beep1m1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61821)",
+  "map_size=small",
+  "mod=arcanedimensions",
+  "music=custom",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=bsp",
+  "nonspecific_tag=skybox",
+  "release_date=2020-01-13",
+  "theme=arcane dimensions",
+  "theme=base",
+  "theme=speedbase",
+  "title=Deep Research",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_beep1m1.zip",
+  "https://www.quaddicted.com/files/by-sha256/4c/4c793de16c7898fb34f16f30234ca2f68e6d7c076ee194387d69229c8f613f81/ad_beep1m1.zip"
+ ]
+}

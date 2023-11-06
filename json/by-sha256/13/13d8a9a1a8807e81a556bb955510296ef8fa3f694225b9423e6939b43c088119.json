@@ -1,0 +1,136 @@
+{
+ "bytes": 57889,
+ "files": {
+  "id1/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-08-27T16:03:30.000Z"
+  },
+  "id1/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-08-27T16:03:30.000Z"
+  },
+  "id1/gfx/env/browncloud_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "98adf00b81fc607c5e22d44ef361118fe215ec9164f45d9d705d6949d74229db",
+   "timestamp": "2020-11-21T20:27:18.000Z"
+  },
+  "id1/gfx/env/browncloud_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "203d0c7fdf16efc9b978f9d444ea3cacae5bca6d8039f61cb2a9d5e0c27a4cbf",
+   "timestamp": "2020-11-21T20:27:10.000Z"
+  },
+  "id1/gfx/env/browncloud_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "911dc79383a89822615c68d2f4adeb14ac85eddbc219635aff3cb5a53b472aea",
+   "timestamp": "2020-11-21T20:27:02.000Z"
+  },
+  "id1/gfx/env/browncloud_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "d6a5c358be8e8a436d6acc10126fbd7041df4f3509d420cf08cd73af3d0723dc",
+   "timestamp": "2020-11-21T20:26:56.000Z"
+  },
+  "id1/gfx/env/browncloud_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "e0231b48cc10d2b15d02045ca2420f623ff1d6ee6058a9aae13ecae625a85ee0",
+   "timestamp": "2020-11-21T20:26:52.000Z"
+  },
+  "id1/gfx/env/browncloud_up.tga": {
+   "bytes": 3145772,
+   "sha256": "d3239d18ac828f30dc2c4f8d3264101304b451c350bec4eb3886a13c0eebe200",
+   "timestamp": "2020-11-21T20:26:46.000Z"
+  },
+  "id1/gfx/env/tablemt2_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "745900e4b4e7080f3c5188627b6138fc66246be4e16d8fb9d3f93e00c04e5717",
+   "timestamp": "2019-12-17T01:53:16.000Z"
+  },
+  "id1/gfx/env/tablemt2_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "8351747a58a41417a7e0f23d58f7f030b0a84183bf9862eb049ac47a95700b5a",
+   "timestamp": "2019-12-17T01:53:16.000Z"
+  },
+  "id1/gfx/env/tablemt2_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "1c4bc1276ce1025acccf6cc4f4933dfeeac1378fed1bca8430e9dec672cb814e",
+   "timestamp": "2019-12-17T01:53:16.000Z"
+  },
+  "id1/gfx/env/tablemt2_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "cb46e7ab16e66e334a286808c5fdc603c0bb176a6dc1a069d624869031f7e26b",
+   "timestamp": "2019-12-17T01:53:16.000Z"
+  },
+  "id1/gfx/env/tablemt2_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "70f6b1cf575d97e1f03352926385f825ff9ca260e0365f1c29e4114155682754",
+   "timestamp": "2019-12-17T01:53:16.000Z"
+  },
+  "id1/gfx/env/tablemt2_up.tga": {
+   "bytes": 3145772,
+   "sha256": "55c33debe1fa9476065affbc1be7bc2e967c462c17c2111574fda07fcac9574b",
+   "timestamp": "2019-12-17T01:53:16.000Z"
+  },
+  "id1/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2022-09-04T15:04:40.000Z"
+  },
+  "id1/maps/prisonofhope.bsp": {
+   "bytes": 88851804,
+   "sha256": "2df5b5044e21a86ee1c0592644190fcdf0344c093992b9f587c390517a6f9679",
+   "timestamp": "2022-09-04T14:54:42.000Z"
+  },
+  "id1/maps/prisonofhope.lit": {
+   "bytes": 4555112,
+   "sha256": "5b95b62592448396a2183d1fd2108ea607bdb71a9d82d922f24cee72682ad939",
+   "timestamp": "2022-09-04T14:54:42.000Z"
+  },
+  "id1/maps/prisonofhope.map": {
+   "bytes": 9535009,
+   "sha256": "5c0b92c3db05a2fbcd655cecb44052b3f41c049b8ca49006eb728780f7d89707",
+   "timestamp": "2022-09-04T13:50:54.000Z"
+  },
+  "id1/maps/prisonofhope_readme.txt": {
+   "bytes": 2549,
+   "sha256": "8685b22962edefa87434e41217170e98b8886171deb8ff647a72f203ffa63629",
+   "timestamp": "2022-09-04T14:43:08.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "13d8a9a1a8807e81a556bb955510296ef8fa3f694225b9423e6939b43c088119",
+ "tags": [
+  "author=GrazzasOnlyFan",
+  "exceeds_quake_limits=yes",
+  "filename=prisonofhope.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=https://twitter.com/GSdigitalbrain",
+  "link=[Download via Archive.org](https://archive.org/download/prisonofhope/prisonofhope.zip)",
+  "link=[Func_Msgboard thread](https://celephais.net/board/view_thread.php?id=62205)",
+  "link=[Slipseer page](https://www.slipseer.com/index.php?resources/prison-of-hope.119/)",
+  "map_size=large",
+  "nonspecific_tag=jail",
+  "nonspecific_tag=makkon",
+  "nonspecific_tag=mountain",
+  "nonspecific_tag=sci-fi",
+  "nonspecific_tag=souls",
+  "nonspecific_tag=vanilla",
+  "release_date=2022-09-04",
+  "source=included",
+  "startmap=prisonofhope",
+  "theme=base",
+  "theme=cave",
+  "theme=classic",
+  "theme=prison",
+  "title=Prison of Hope",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/prisonofhope.zip",
+  "https://www.quaddicted.com/files/by-sha256/13/13d8a9a1a8807e81a556bb955510296ef8fa3f694225b9423e6939b43c088119/prisonofhope.zip"
+ ]
+}

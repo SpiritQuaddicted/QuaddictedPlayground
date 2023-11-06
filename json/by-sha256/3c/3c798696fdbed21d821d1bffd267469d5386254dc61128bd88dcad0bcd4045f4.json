@@ -1,0 +1,41 @@
+{
+ "bytes": 353,
+ "files": {
+  "sm96_pack.txt": {
+   "bytes": 1218,
+   "sha256": "863923a15873ce9cb68d75fe6a5dbc3c4faff4e703f33689bd16366f60a1f954",
+   "timestamp": "2005-06-19T10:26:16.000Z"
+  },
+  "sm96_tron.bsp": {
+   "bytes": 430104,
+   "sha256": "8f1c40c1c4c9f4b4958ce0f2b9ac3d1696f6d856a6617941e28742fb2659c580",
+   "timestamp": "2005-06-19T01:21:50.000Z"
+  },
+  "sm96_zwiffle.bsp": {
+   "bytes": 328208,
+   "sha256": "0f62863684a792623be027cb33d3cfcff51b4e457e16d752bc3ce62325938da9",
+   "timestamp": "2005-06-18T14:36:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "3c798696fdbed21d821d1bffd267469d5386254dc61128bd88dcad0bcd4045f4",
+ "tags": [
+  "author=Tr0n",
+  "author=Zwiffle",
+  "filename=sm96_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2005-06-19",
+  "startmap=sm96_tron",
+  "startmap=sm96_zwiffle",
+  "title=Speedmapping pack 96 - The Room",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm96_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3c/3c798696fdbed21d821d1bffd267469d5386254dc61128bd88dcad0bcd4045f4/sm96_pack.zip"
+ ]
+}

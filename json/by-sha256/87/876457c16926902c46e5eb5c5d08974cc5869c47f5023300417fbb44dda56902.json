@@ -1,0 +1,44 @@
+{
+ "bytes": 220,
+ "files": {
+  "UNDRHALL.BSP": {
+   "bytes": 485604,
+   "sha256": "e3ea72f16a72543d73c1bcf3d791a7bc0664efb5194c866930f30ed14dba4748",
+   "timestamp": "1980-01-01T09:24:06.000Z"
+  },
+  "UNDRHALL.MAP": {
+   "bytes": 274446,
+   "sha256": "ee52e0ed5dfb4686d6191eb363358ce03477c075d814742b880f0ba9ce1ca7d0",
+   "timestamp": "1980-01-01T09:23:46.000Z"
+  },
+  "UNDRHALL.TXT": {
+   "bytes": 1935,
+   "sha256": "74815d637ad4e40bb853b72fb9d6774134dcc873b332cd768ef2420e7c3786e8",
+   "timestamp": "1997-06-30T02:39:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "876457c16926902c46e5eb5c5d08974cc5869c47f5023300417fbb44dda56902",
+ "tags": [
+  "author=Dylan Barber",
+  "filename=undrhall.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelsu.htm)",
+  "map_size=small",
+  "release_date=1997-06-30",
+  "source=included",
+  "theme=base",
+  "theme=doom 2",
+  "theme=remake",
+  "title=Underhalls",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/undrhall.zip",
+  "https://www.quaddicted.com/files/by-sha256/87/876457c16926902c46e5eb5c5d08974cc5869c47f5023300417fbb44dda56902/undrhall.zip"
+ ]
+}

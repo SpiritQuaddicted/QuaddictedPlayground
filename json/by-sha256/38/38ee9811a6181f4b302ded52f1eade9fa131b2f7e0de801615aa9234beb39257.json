@@ -1,0 +1,305 @@
+{
+ "bytes": 6629,
+ "files": {
+  "autoexec.cfg": {
+   "bytes": 120,
+   "sha256": "e4cabaf2e70f14dd80b83297abb14a3977de873cbcaf7c21de045b060834c79d",
+   "timestamp": "2000-12-30T12:58:56.000Z"
+  },
+  "czg07.txt": {
+   "bytes": 8657,
+   "sha256": "3c47de6ac6b0b8f2207d52df52eeb2aa64a2f66f4245e123daea0ed77494debc",
+   "timestamp": "2001-01-01T19:23:52.000Z"
+  },
+  "pak0.pak": {
+   "bytes": 14526472,
+   "files": {
+    "maps/czg07.bsp": {
+     "bytes": 2119692,
+     "sha256": "f1819f7a9c73d104e54ce81cb7e8c69802496e71591970158fe8c436398ebe49"
+    },
+    "maps/czg07a.bsp": {
+     "bytes": 3465792,
+     "sha256": "5912ee104468c2ebbdf8a7a0dd0f6bab6320c7667f92b99e59c1099f35e66d8c"
+    },
+    "maps/czg07b.bsp": {
+     "bytes": 3955100,
+     "sha256": "889f2e969b77b7294835d3cb10acb5c9d28deabd8b7b5a8c5bf5a84ed262148e"
+    },
+    "maps/czg07c.bsp": {
+     "bytes": 4021876,
+     "sha256": "c15e0990ab103fa221f3fde7da6a9cda67781abd57a0229383f79946f33f6c4f"
+    },
+    "sound/ambience/blood.wav": {
+     "bytes": 240964,
+     "sha256": "197a5b8be8ca0394264a763b13dcb9001818e3af2ea0a920769e697df19bc4ba"
+    },
+    "sound/ambience/growl1.wav": {
+     "bytes": 108260,
+     "sha256": "e6cfa2d088c806a2700eeccf0d39352a5bf0bafc49b285e66572ad96a4865a5a"
+    },
+    "sound/ambience/growl2.wav": {
+     "bytes": 329402,
+     "sha256": "9402a62b0453ad5096714f60913de471e5dce484832ce8fc53c18ec808e978b0"
+    },
+    "sound/ambience/wind2.wav": {
+     "bytes": 284862,
+     "sha256": "ed83d4b3474202822a64d4266a9e6273925d336aed71dd6b9e3e039253abc4f1"
+    }
+   },
+   "sha256": "d0dd560035cc43c707c9d1bdb76668b8232ea893b4441d3ac3a0b2c139606267",
+   "timestamp": "2001-01-01T19:10:20.000Z"
+  },
+  "progs.dat": {
+   "bytes": 371420,
+   "sha256": "6cae3ed5852d70ca36a0c083d85eed016489beded4447ddd278270d18189d4e1",
+   "timestamp": "2000-12-30T22:36:18.000Z"
+  },
+  "source.zip": {
+   "bytes": 186522,
+   "files": {
+    "source/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2000-12-30T21:49:04.000Z"
+    },
+    "source/Cwsdpmi.exe": {
+     "bytes": 25920,
+     "sha256": "0a890815df6cbdc052915a856c16944cedec825267e7b6e453c351a0cdc695f2",
+     "timestamp": "1996-07-12T17:31:50.000Z"
+    },
+    "source/Hipmisc.qc": {
+     "bytes": 4393,
+     "sha256": "514c126a33f3cd2bdf092051ae8bb6cc459f7fc6595eb0aab74ff26002f269d6",
+     "timestamp": "1996-01-01T13:34:36.000Z"
+    },
+    "source/Proqc160.txt": {
+     "bytes": 9703,
+     "sha256": "ec9e30e83c67a7d8f1176859947137a070c11e57f8882f9434eee0d0c8c4cc10",
+     "timestamp": "1997-06-18T15:39:50.000Z"
+    },
+    "source/Proqcc.exe": {
+     "bytes": 128516,
+     "sha256": "2e06f5304f83e96b1c9aca46cbd1691e21c9a6d946fb6352957043a18448e11e",
+     "timestamp": "1997-06-18T15:32:26.000Z"
+    },
+    "source/ai.qc": {
+     "bytes": 14521,
+     "sha256": "54a6329a086391d2f1296fd30afd5db9ca676f7f15911c703b15e440b4e5778c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/amtest.qc": {
+     "bytes": 1697,
+     "sha256": "8dd158020b8c0be6988b0f1fbe03990372fb769442dbaf85248ef8c0e18645ee",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/buttons.qc": {
+     "bytes": 3033,
+     "sha256": "84893d4f5388d1d32f911030b5af96eff897c7df3aab27b480b92edb903f51db",
+     "timestamp": "2000-10-13T22:31:48.000Z"
+    },
+    "source/client.qc": {
+     "bytes": 30937,
+     "sha256": "8b53eb9cc87f8ecc30ed20ba436486f7ef344f26467e42be1bfdbe06b927ba37",
+     "timestamp": "2000-12-30T22:36:14.000Z"
+    },
+    "source/combat.qc": {
+     "bytes": 6130,
+     "sha256": "9e55bcbbb486d6c396ba9ee797de982be4cc79a94ffe2c40fba89bf3f72a5c4c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/defs.qc": {
+     "bytes": 18039,
+     "sha256": "d203303b7356ca040059e926ffb1306f6215b2b145b4d10513641dec31939f77",
+     "timestamp": "2000-12-10T13:58:28.000Z"
+    },
+    "source/demon.qc": {
+     "bytes": 9904,
+     "sha256": "b20d0e3664ff9ff9e55222ad73507016a832b15a4cb28f93b86e90fa35ea445c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/dog.qc": {
+     "bytes": 9542,
+     "sha256": "7dd3980dc2f284046f0e516b39d8b7391ac4a87b758b2f89aeb682feab2cc2bc",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/doors.qc": {
+     "bytes": 17063,
+     "sha256": "6bfe293c3eee577112cc0941993a0a601b3fde710be8359579bcebf0c0f81082",
+     "timestamp": "2000-08-20T17:42:20.000Z"
+    },
+    "source/enforcer.qc": {
+     "bytes": 10727,
+     "sha256": "01b86eed9379c58b6028480ab180b8dd7be433c4c143ca361ca149609961c379",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/fight.qc": {
+     "bytes": 7208,
+     "sha256": "c68c3310e794200ef61c79ed9665490b3e893ff7d2d6243e5f6aeda7d9885925",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/flag.qc": {
+     "bytes": 141,
+     "sha256": "143f0b896c7515dcdaaf5b436d130fe1ffb6fa67cad2a34ad4639724201b3445",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/hknight.qc": {
+     "bytes": 18298,
+     "sha256": "302a397cbd1fc639b70767a01a6d8e3696699165e2c4a00d1a33231102408682",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/items.qc": {
+     "bytes": 29870,
+     "sha256": "2bd44d5ebaf3041424781937f53a6c2208806460ca870d3746e5617f8303a489",
+     "timestamp": "2000-12-10T16:44:38.000Z"
+    },
+    "source/jctest.qc": {
+     "bytes": 222,
+     "sha256": "0b356238bdae38139e36fb7f9ed5a72e65accee92b48f25035b79ec315a7da06",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/knight.qc": {
+     "bytes": 9684,
+     "sha256": "53202927092c04d472a311e5ec8732cdb2ed9224c6520fbe4d126e152b5cee87",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "source/misc.qc": {
+     "bytes": 15593,
+     "sha256": "ce43da2491342b82b30dcb7477ddf2127889d5d818c170bdf3e1642e4c8d8973",
+     "timestamp": "2000-12-16T16:09:18.000Z"
+    },
+    "source/models.qc": {
+     "bytes": 8996,
+     "sha256": "d11fd0939293244962c5a40766e1dce246bde98eb0d42c87eb530a58d6eca64d",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/monsters.qc": {
+     "bytes": 4798,
+     "sha256": "cd29084e3f58192819848c3030c6717487d2641d848d118da433e1348ee59c8e",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/ogre.qc": {
+     "bytes": 14657,
+     "sha256": "193565dc8f263640e62c476c885c432d774076dac8c99bca7105eadff0ebed85",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/plats.qc": {
+     "bytes": 8080,
+     "sha256": "598b1485ac329b39b8cf0c5cd9d9682adbf59d7b90d6109e24f9421372ceb6b1",
+     "timestamp": "2000-08-20T17:00:08.000Z"
+    },
+    "source/player.qc": {
+     "bytes": 17554,
+     "sha256": "659665c41b4cc226055e037fc9d2b89f9ad3836a2c9a7517e1655ad18338b380",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/progdefs.h": {
+     "bytes": 2598,
+     "sha256": "99e562ac15081804245e7c7018956f2241cffa00a024a954c97183248bd00ea4",
+     "timestamp": "2000-12-30T22:36:18.000Z"
+    },
+    "source/progs.src": {
+     "bytes": 339,
+     "sha256": "0ec8ab304a1e8e92d8d73cc6307d84513c78c68bd5473c9ab0882068eac7fe01",
+     "timestamp": "2000-12-21T23:28:18.000Z"
+    },
+    "source/shalrath.qc": {
+     "bytes": 7880,
+     "sha256": "4c53306f4412184ba7bc26b93acbcd5504d922d1056beaca11484665efcff1b7",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/shambler.qc": {
+     "bytes": 12725,
+     "sha256": "0c50557b8757d8be3a0876564cfa125e4e8389cae1c55c844871aff5f844c342",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/soldier.qc": {
+     "bytes": 9825,
+     "sha256": "f66da2d85ad5ac42dfe13fd434018e64ca8eddba1e7b3abb747b4577ba072d01",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/sprites.qc": {
+     "bytes": 450,
+     "sha256": "c00564e7ca0ab70d7891931ff333461ff90aa6052f46e8ebb02f59de6e03787d",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/subs.qc": {
+     "bytes": 6062,
+     "sha256": "8fa013564dcf7be1df26888fbc304159b29be25ed43c4599333c9d8de809b356",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/triggers.qc": {
+     "bytes": 14259,
+     "sha256": "cb9ce7900bd9b1c1fb0ce968ed6b4d0f14be4552f6a0fae6acff6954135ca4da",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/weapons.qc": {
+     "bytes": 25227,
+     "sha256": "7f3d2541500506fe8d6d9155f3893667d1c58ff5ac9e8cfd81aa183a6a5fd01c",
+     "timestamp": "1996-09-30T03:08:08.000Z"
+    },
+    "source/wizard.qc": {
+     "bytes": 10663,
+     "sha256": "250aa24a63df4d02949abe2cbeee24f9f959d1ecf468c6b3108d0384c7db6d32",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "source/world.qc": {
+     "bytes": 11162,
+     "sha256": "a72e7eab7d9eefe4419e1e011f421d0c56f906029048c4fe8557743655e5406b",
+     "timestamp": "2000-08-20T16:02:02.000Z"
+    },
+    "source/zombie.qc": {
+     "bytes": 20108,
+     "sha256": "027ec53b0caa6c1c46c1f6156a854c886ab6fcd9c628707ebea1d3ca1c185519",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    }
+   },
+   "sha256": "2877c050afe49963739fca05bdf2310950e8e25038afb75d05df3bc64c912ace",
+   "timestamp": "2001-01-01T19:08:38.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/czg07/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257",
+ "tags": [
+  "author=czg",
+  "commandline=-game czg07",
+  "filename=czg07.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/15-jan-2001/insomnia.php)",
+  "link=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=72)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev010103.html)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=czg07)",
+  "link=[Tronyn's Top 10: Elder World](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a4.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "map_size=huge",
+  "map_size=large",
+  "nonspecific_tag=coop",
+  "nonspecific_tag=design",
+  "nonspecific_tag=epic",
+  "nonspecific_tag=mustplay",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=start map",
+  "nonspecific_tag=yellow",
+  "release_date=2000-05-25",
+  "theme=base",
+  "theme=blood",
+  "theme=cave",
+  "theme=classic",
+  "theme=gothic",
+  "theme=industrial",
+  "theme=quake 2",
+  "title=Insomnia",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/czg07.zip",
+  "https://www.quaddicted.com/files/by-sha256/38/38ee9811a6181f4b302ded52f1eade9fa131b2f7e0de801615aa9234beb39257/czg07.zip"
+ ]
+}

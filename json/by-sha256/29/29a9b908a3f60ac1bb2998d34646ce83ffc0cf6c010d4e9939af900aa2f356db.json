@@ -1,0 +1,47 @@
+{
+ "bytes": 502,
+ "files": {
+  "bellesh.bsp": {
+   "bytes": 582732,
+   "sha256": "f79f48b13a0d85c8603c5d7b007650947026b6cf01cb203f443624012f0da081",
+   "timestamp": "2007-02-08T21:04:12.000Z"
+  },
+  "bellesh.quaddicted_repack.txt": {
+   "bytes": 152,
+   "sha256": "30feed4087e17738b2f0e16af6359a72a3bfaf66e16f2a48beef0ffea94257cd",
+   "timestamp": "2014-12-02T19:06:10.000Z"
+  },
+  "bellesh.txt": {
+   "bytes": 3357,
+   "sha256": "372df821dc8c078e3fedc8b9faede1435ec0332176582cf440c500eb646d446b",
+   "timestamp": "2007-02-16T15:50:28.000Z"
+  },
+  "ebellesh.bsp": {
+   "bytes": 627452,
+   "sha256": "c77bb3dd51933f79558b644689c434ef904870c81dbaf6a7ab5fa52a90bc1514",
+   "timestamp": "2007-01-30T14:25:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db",
+ "tags": [
+  "author=Cristian Martinez",
+  "filename=bellesh.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "release_date=2007-02-16",
+  "startmap=bellesh",
+  "startmap=ebellesh",
+  "theme=base",
+  "title=The Bellesh Base",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/bellesh.zip",
+  "https://www.quaddicted.com/files/by-sha256/29/29a9b908a3f60ac1bb2998d34646ce83ffc0cf6c010d4e9939af900aa2f356db/bellesh.zip"
+ ]
+}

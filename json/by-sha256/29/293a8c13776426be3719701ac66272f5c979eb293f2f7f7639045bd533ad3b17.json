@@ -1,0 +1,41 @@
+{
+ "bytes": 274,
+ "files": {
+  "sm14_bear.bsp": {
+   "bytes": 402104,
+   "sha256": "30886e1bd26c00c2b67c2b3e39f85dbc713fbb611d73d472e386b979ba319c8f",
+   "timestamp": "2001-05-12T23:04:28.000Z"
+  },
+  "sm14_inane.bsp": {
+   "bytes": 490568,
+   "sha256": "e32b9c66c6388115bb8d3de4428e86ffd919204070136f80cc540371b499fe39",
+   "timestamp": "2001-05-12T22:15:16.000Z"
+  },
+  "sm14_pack.txt": {
+   "bytes": 1806,
+   "sha256": "fe14e671e91850b01a30a4eeca49e3dc8492482cc590ca3ae630e852a47420de",
+   "timestamp": "2001-05-13T10:13:56.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "293a8c13776426be3719701ac66272f5c979eb293f2f7f7639045bd533ad3b17",
+ "tags": [
+  "author=Cybear",
+  "author=iNaNe",
+  "filename=sm14_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2001-05-13",
+  "startmap=sm14_bear",
+  "startmap=sm14_inane",
+  "title=Speedmapping pack 14 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm14_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/29/293a8c13776426be3719701ac66272f5c979eb293f2f7f7639045bd533ad3b17/sm14_pack.zip"
+ ]
+}

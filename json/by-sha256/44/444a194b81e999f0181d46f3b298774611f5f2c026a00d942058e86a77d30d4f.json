@@ -1,0 +1,214 @@
+{
+ "bytes": 1311,
+ "files": {
+  "Gadgets.BAT": {
+   "bytes": 39,
+   "sha256": "0af288b13ae2695efc0299019b5b202217c2866bb587ec27f2c7d75a6f1f099e",
+   "timestamp": "1997-05-03T00:57:12.000Z"
+  },
+  "file_id.DIZ": {
+   "bytes": 231,
+   "sha256": "d8fa34a4ee70831f8c2c57845297617af55b26faba61a9c3d93826a98dc798a0",
+   "timestamp": "1997-05-03T01:29:34.000Z"
+  },
+  "gadgets/auximine.txt": {
+   "bytes": 4443,
+   "sha256": "919c146b744e4cdc29082a27f21a5d577f23d17f99b34c97366a2a32d7c30df6",
+   "timestamp": "1997-05-03T04:02:12.000Z"
+  },
+  "gadgets/pak0.pak": {
+   "bytes": 3476336,
+   "files": {
+    "finale.txt": {
+     "bytes": 611,
+     "sha256": "b4a44ff483ba4c7189937553e340165d14ecaeea3e31fe0f7cc4aaf53192819b"
+    },
+    "gfx/conback.lmp": {
+     "bytes": 64008,
+     "sha256": "3eaee6856ff965bf818fab79c07791e8dd0bb5a3da6ff226c3b00261d57b7ae9"
+    },
+    "maps/auximine.bsp": {
+     "bytes": 1377768,
+     "sha256": "f66344543bddb343ab7194bc922c8eece888c723d714b712ccbc24899c5bdd2d"
+    },
+    "progs.dat": {
+     "bytes": 580832,
+     "sha256": "09ad7a9f0f836d4eda7019ef40ffdfcc89cc9e655c0b5ee4cf2f9fdb2e0c0ba7"
+    },
+    "progs/dragon.mdl": {
+     "bytes": 56204,
+     "sha256": "0bc003d99a05e6a17a3c17e78ec708712419860a96bd7ae003e28efa90f95b87"
+    },
+    "progs/h_boss.mdl": {
+     "bytes": 61060,
+     "sha256": "30bf06acfcb3b32bf8f940187e712e87355fc7d8cc5ba8f36c128774cf20846d"
+    },
+    "progs/kenobi.mdl": {
+     "bytes": 69731,
+     "sha256": "68b5695fd7972bccd7d2c602c5daa392eb2fc4d1025e26264d2d7107b4c6d314"
+    },
+    "progs/rogue.mdl": {
+     "bytes": 113763,
+     "sha256": "ed95cf6488b645563d50fe0c41bbff2fd54b3b2cd23130ab0288e13f34f41fca"
+    },
+    "progs/rubble1.mdl": {
+     "bytes": 69839,
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866"
+    },
+    "progs/rubble2.mdl": {
+     "bytes": 200266,
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77"
+    },
+    "progs/rubble3.mdl": {
+     "bytes": 303486,
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab"
+    },
+    "progs/s_null.spr": {
+     "bytes": 56,
+     "sha256": "29e9c18546413f0abc9c6f507c61952f33afa6507b52d1c2197b57e3be7870a9"
+    },
+    "progs/t_drag.mdl": {
+     "bytes": 12736,
+     "sha256": "daa3fb42ac8bca1ea5d46b1be4422b895715021d9efd6e53420f154e864cbf7e"
+    },
+    "progs/w_drag.mdl": {
+     "bytes": 36636,
+     "sha256": "785216ead72dc301b2e6c09b91ff3a399f58400d08523d4078cd47190ce74315"
+    },
+    "sound/dragon/attack.wav": {
+     "bytes": 4920,
+     "sha256": "6a5697e1dd9eca555bfda713101cdda800065e201f00ca333796f1bd4e7217ae"
+    },
+    "sound/dragon/death.wav": {
+     "bytes": 23228,
+     "sha256": "2e11e1f4d01f4e4730a70a3149523768377ce5d718982ad9ca2678bdbdce36f2"
+    },
+    "sound/dragon/hit.wav": {
+     "bytes": 4566,
+     "sha256": "b36e7581fe973d854b6f59947c5fe30b7118c94e7973f93b54a0c17423ce3fdc"
+    },
+    "sound/dragon/idlefly.wav": {
+     "bytes": 5596,
+     "sha256": "f4b73e9887a6920bb9247bc4c121d369d4cf4881ae2a21f5176f289b430081e9"
+    },
+    "sound/dragon/pain.wav": {
+     "bytes": 11342,
+     "sha256": "982f24d1ef9414e3ea280d591e5500328dd491b4a880c41cbe54b5c591096f66"
+    },
+    "sound/dragon/sight.wav": {
+     "bytes": 44744,
+     "sha256": "037799aa0d798d955287d1c901ab566f470a364ae2f9d163fafe12b7d2600868"
+    },
+    "sound/end1.wav": {
+     "bytes": 7564,
+     "sha256": "f568d3c269e101c3d1ebf5bea0fc41790140c8e4b5f1ae201059349730b5bb4a"
+    },
+    "sound/end2.wav": {
+     "bytes": 103668,
+     "sha256": "e026bcc135da7dcccc07c1173dabb8d8313b4a9790c3029201976e8f7265274e"
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "bytes": 33914,
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78"
+    },
+    "sound/john.wav": {
+     "bytes": 68366,
+     "sha256": "f34d69dcb14164f0e1d9577a180ba8ac02cb5d5736c1e10028a9530b31085ed7"
+    },
+    "sound/kenobi.wav": {
+     "bytes": 25168,
+     "sha256": "bfac7bc768ebf9af1f81a0edf52ddbc1edecdc61ccde924626b99b49f5176b8a"
+    },
+    "sound/misc/foot1.wav": {
+     "bytes": 2474,
+     "sha256": "5913e6df75b7b0e598ac4c231d91a16834229024f009cfa590eb87139324756a"
+    },
+    "sound/misc/foot2.wav": {
+     "bytes": 1790,
+     "sha256": "e2994f408d83837c121d67c8dbf290da11b77e43124b32f8e378a28df05591c7"
+    },
+    "sound/misc/foot3.wav": {
+     "bytes": 2050,
+     "sha256": "ebb0ef6792df57affc57440361759b15fa115b3d0a4f331ce9dba2cb49a47963"
+    },
+    "sound/misc/foot4.wav": {
+     "bytes": 1764,
+     "sha256": "af9824d979fe1fe3cad5c562b6cc348e8e9b7824c88f45c67ad92b28b4b15b62"
+    },
+    "sound/misc/foot5.wav": {
+     "bytes": 3158,
+     "sha256": "e8d6e6eb65cda313dc28eafcc3ebb798de2de1162cbe24a53e33d0703c10806b"
+    },
+    "sound/misc/foot6.wav": {
+     "bytes": 2858,
+     "sha256": "a9d67538c5c3987ab294357d59a8796b201e5f4213ffc59bddc2e0b2bdddb79e"
+    },
+    "sound/misc/foot7.wav": {
+     "bytes": 2020,
+     "sha256": "25a6d796316804be397aaabb41b7199298f2cf3283f5fc9e44981301db5c8a13"
+    },
+    "sound/misc/longexpl.wav": {
+     "bytes": 42430,
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890"
+    },
+    "sound/misc/quake.wav": {
+     "bytes": 34286,
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266"
+    },
+    "sound/misc/quakeend.wav": {
+     "bytes": 8160,
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01"
+    },
+    "sound/misc/shortexp.wav": {
+     "bytes": 27562,
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc"
+    },
+    "sound/misc/tesla.wav": {
+     "bytes": 22526,
+     "sha256": "05a76add480090c8b15e3e6a33487fa019ab3e579c635e84a5343c4709cefd3d"
+    },
+    "sound/subdive.wav": {
+     "bytes": 23348,
+     "sha256": "6ab3b82c7d9f12468a84877232a4b4fa999065efff1b7076e369d9b8f012bcc8"
+    },
+    "sound/waterfal.wav": {
+     "bytes": 19330,
+     "sha256": "6dba30c793b844acf1b1f8a7496009b966eef8c89659802302e3432a8e5da601"
+    }
+   },
+   "sha256": "f0ff4601de6c126cfc3bf3723a9c4bb40679d0bdf0d25c0ac9c6b929b32a0d80",
+   "timestamp": "1997-05-03T02:48:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "444a194b81e999f0181d46f3b298774611f5f2c026a00d942058e86a77d30d4f",
+ "tags": [
+  "author=David Kelvin",
+  "commandline=-game gadgets",
+  "filename=auximine.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "map_size=small",
+  "nonspecific_tag=chthon",
+  "nonspecific_tag=cutscenes",
+  "nonspecific_tag=funny",
+  "nonspecific_tag=showcase",
+  "nonspecific_tag=textures",
+  "release_date=1997-05-03",
+  "theme=boss",
+  "theme=dissolution of eternity",
+  "theme=elder world",
+  "theme=metal",
+  "theme=wizard",
+  "title=More Furious Madness from the Massed Gadgets of Auximenies",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/auximine.zip",
+  "https://www.quaddicted.com/files/by-sha256/44/444a194b81e999f0181d46f3b298774611f5f2c026a00d942058e86a77d30d4f/auximine.zip"
+ ]
+}

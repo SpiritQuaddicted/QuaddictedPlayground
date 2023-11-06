@@ -1,0 +1,49 @@
+{
+ "bytes": 1321,
+ "files": {
+  "MUNGO.BSP": {
+   "bytes": 2529420,
+   "sha256": "4172846f8f8d0de15e6b9f0e46e883cd032314310623d3cefd680c6f63069e80",
+   "timestamp": "1997-08-23T15:36:16.000Z"
+  },
+  "MUNGO.DEM": {
+   "bytes": 2225672,
+   "sha256": "1d0d2f712c47817a0d6d4635a4bdbb7b410bace07e9773e75b94acb24a669960",
+   "timestamp": "1997-08-23T16:10:10.000Z"
+  },
+  "MUNGO.TXT": {
+   "bytes": 1505,
+   "sha256": "d957db4c27c7a78b23e3e7713ccc85f6b02f7a39d77ad4fd6bdbc1ea4f1c3a5f",
+   "timestamp": "1997-08-23T16:22:10.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/hipnotic/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "cf3072498ee371b48b2c3ebf088e998fe2341a2c58d87a1d8a6c0a208afb8d70",
+ "tags": [
+  "author=Bryan L. aka Mungo",
+  "commandline=-hipnotic",
+  "dependency=hipnotic",
+  "filename=mungo.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelsm2.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "map_size=medium",
+  "nonspecific_tag=mp1",
+  "release_date=1997-08-23",
+  "theme=base",
+  "theme=dissolution of eternity",
+  "theme=scourge of armagon",
+  "title=Power Plant",
+  "type=demo",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/mungo.zip",
+  "https://www.quaddicted.com/files/by-sha256/cf/cf3072498ee371b48b2c3ebf088e998fe2341a2c58d87a1d8a6c0a208afb8d70/mungo.zip"
+ ]
+}

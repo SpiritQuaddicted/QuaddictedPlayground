@@ -1,0 +1,133 @@
+{
+ "bytes": 1527,
+ "files": {
+  "apsp1.bat": {
+   "bytes": 1595,
+   "sha256": "da257fba45c8bf67a22d52df6ebaedff784da8a25da043aa3f7d08ac0933cc42",
+   "timestamp": "2000-08-30T10:23:56.000Z"
+  },
+  "apsp1.txt": {
+   "bytes": 5749,
+   "sha256": "6fc8e0d500640327e18643ad9655706f6cfd0622d55e28133a10ae7eeb23f091",
+   "timestamp": "2000-08-30T10:54:50.000Z"
+  },
+  "pak0.pak": {
+   "bytes": 3306020,
+   "files": {
+    "apsp1.txt": {
+     "bytes": 5749,
+     "sha256": "6fc8e0d500640327e18643ad9655706f6cfd0622d55e28133a10ae7eeb23f091"
+    },
+    "maps/apsp1.bsp": {
+     "bytes": 2901492,
+     "sha256": "64b016ef9de9004bfb570425010b95b3faf7f164d2f1309e0fae846d7d6e5b38"
+    },
+    "progs/enforce2.mdl": {
+     "bytes": 224812,
+     "sha256": "af9095cffbc74edc9d98d4e4e341736e304404df52983be33616da84d6463c87"
+    },
+    "progs/h_me.mdl": {
+     "bytes": 12416,
+     "sha256": "2fff2f36173080827a298870a956fb11ad30f34aa0342ba5ca2c8bd6509edf57"
+    },
+    "progs/memissil.mdl": {
+     "bytes": 59078,
+     "sha256": "6a7022fa8210771be206034a2b0ebeb59f6fc79719d499ac01811a4ff32eb08a"
+    },
+    "sound/me/me_fire1.wav": {
+     "bytes": 3016,
+     "sha256": "2603e46e656da75b80f597a5916ecd62dbd396c3f0036d25b0a5143485076071"
+    },
+    "sound/me/me_fire2.wav": {
+     "bytes": 7674,
+     "sha256": "7e4418c880edcd96c84069d668fe00cd70444b9af2a555611b16a6a98680422c"
+    },
+    "sound/me/me_soff.wav": {
+     "bytes": 5500,
+     "sha256": "4c8e041824c0aacf803b6eb22f0800bdd06ea1ea3290ce1871c2bbc191b64fc2"
+    },
+    "sound/me/me_son.wav": {
+     "bytes": 5308,
+     "sha256": "16ad7f7f93b9814a65317e63090f9873c2209579d9d57bc19b7fdfb52d526d67"
+    },
+    "sound/me/medeath1.wav": {
+     "bytes": 11712,
+     "sha256": "c86be6c64d6a3515c225ccd734322694c1e152027d9375cd26cac5b8c6f8c3af"
+    },
+    "sound/me/medeath2.wav": {
+     "bytes": 20808,
+     "sha256": "fde0b948b861230be1d91859a4d061987bb10fe3c7054595a54a5a872b474560"
+    },
+    "sound/me/meidle.wav": {
+     "bytes": 3908,
+     "sha256": "8170e75a6f424e3d507ca6950a57105aa5216d6a20e493464394d57f593d3bc7"
+    },
+    "sound/me/mepain1.wav": {
+     "bytes": 3300,
+     "sha256": "5f1aad60a8e0acfb81880822412eafeb7cf738f8333e86f240fb9c2ecbcdcb52"
+    },
+    "sound/me/mepain2.wav": {
+     "bytes": 4874,
+     "sha256": "ada3bc3b902924be0bf5f2ed275022d3b86bbc66a6b269af9ca9e614d467efef"
+    },
+    "sound/me/mepain3.wav": {
+     "bytes": 6082,
+     "sha256": "d3cc84b75606ea8ec7311fcceff3cb68c18d220b6c1e362d91ecc695deb5b65e"
+    },
+    "sound/me/mesight1.wav": {
+     "bytes": 8128,
+     "sha256": "a1f1bf4f2e742e755b0ae676278df1bbe7ba9db8918133c4e40b94525b47485d"
+    },
+    "sound/me/mesight2.wav": {
+     "bytes": 8526,
+     "sha256": "69fd72d533823d71cd21af3d97be148b5f2b0f6ae6b57a6c585ff807f81ce63e"
+    },
+    "sound/me/mesight3.wav": {
+     "bytes": 8666,
+     "sha256": "27c6ad5ba5f0e76e071b27918c6c5735e0cbf38bfed85040cc8c1044e32b7ee9"
+    },
+    "than.cfg": {
+     "bytes": 3743,
+     "sha256": "1fb57476fc72b045b3a366983aafeecf3b74ccfd9dc2da74b6e2934beca96b08"
+    }
+   },
+   "sha256": "2362da596813dc4abb8480dc385f288f91fd499bb9b6e563209a511dfce6f8b2",
+   "timestamp": "2000-08-30T10:55:20.000Z"
+  },
+  "progs.dat": {
+   "bytes": 431260,
+   "sha256": "6e23a2ff79555455383260634d0a7523464b80a2e50d24cae1e1b77703a866c1",
+   "timestamp": "2000-08-18T18:03:20.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/apsp1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "5fb88470e8e3e625d7861ba10066938b387efe3a4d0c4b8e6a3333677422abc5",
+ "tags": [
+  "author=Andrew 'than' Palmer",
+  "commandline=-game apsp1",
+  "filename=apsp1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://than.quaddicted.com/",
+  "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/10-aug-2000/apsp1.php)",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=64)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev000901.html)",
+  "link=[Tronyn's Top 10: Base](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a1.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2000-08-30",
+  "theme=base",
+  "theme=ikbase",
+  "title=The Final Threat",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/apsp1.zip",
+  "https://www.quaddicted.com/files/by-sha256/5f/5fb88470e8e3e625d7861ba10066938b387efe3a4d0c4b8e6a3333677422abc5/apsp1.zip"
+ ]
+}

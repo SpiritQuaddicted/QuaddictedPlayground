@@ -1,0 +1,49 @@
+{
+ "bytes": 13989,
+ "files": {
+  "arttis01.txt": {
+   "bytes": 1715,
+   "sha256": "40d3fc3fbb13eb49f26a943c71c80d25307987d1771cb2c61969b3870c5ec2f1",
+   "timestamp": "2022-09-29T16:21:30.000Z"
+  },
+  "maps/arttis01.bsp": {
+   "bytes": 31923540,
+   "sha256": "7121728b254b7928013237ea7ab8ac3993d1825c494b7b5dbcb8966d0800ddf9",
+   "timestamp": "2022-09-26T09:37:16.000Z"
+  },
+  "maps/arttis01.lit": {
+   "bytes": 1279316,
+   "sha256": "e5ae9613f1d8df699c7e46e3880ffdd5599631471bdf559a0d5963f953f50e8d",
+   "timestamp": "2022-09-26T09:37:16.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "ac3ad0bd777dc445ad1582acfd8c1b20a918c4bac3d1d3572b023f1b3aed568a",
+ "tags": [
+  "author=Arttis",
+  "commandline=-game copper",
+  "dependency=copper_v1_19",
+  "filename=arttis01_01.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "mod=copper",
+  "nonspecific_tag=debut",
+  "nonspecific_tag=makkon",
+  "release_date=2022-09-29",
+  "startmap=arttis01",
+  "theme=castle",
+  "theme=knave",
+  "theme=medieval",
+  "theme=sewer",
+  "title=Feindlich Sewers v1.0",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/arttis01_01.zip",
+  "https://www.quaddicted.com/files/by-sha256/ac/ac3ad0bd777dc445ad1582acfd8c1b20a918c4bac3d1d3572b023f1b3aed568a/arttis01_01.zip"
+ ]
+}

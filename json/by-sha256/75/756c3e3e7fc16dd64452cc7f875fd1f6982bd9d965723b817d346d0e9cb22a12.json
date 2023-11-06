@@ -1,0 +1,44 @@
+{
+ "bytes": 188,
+ "files": {
+  "Dungeon.bsp": {
+   "bytes": 450464,
+   "sha256": "384e8fb16df88bcd389ca60de6c6fd377b4d26e1b59293c78ee6f6a1489536c7",
+   "timestamp": "1997-02-16T13:09:06.000Z"
+  },
+  "JDungeon.txt": {
+   "bytes": 939,
+   "sha256": "a6077cc21d7e187ff3fa8a98d1a7bbf8e629eeec4ffd23b8d05c92a6749847d6",
+   "timestamp": "1997-02-16T13:23:14.000Z"
+  },
+  "jdungeon_quaddictedrepack.txt": {
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "timestamp": "2009-04-28T16:51:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12",
+ "tags": [
+  "author=James Garrett",
+  "filename=jdungeon.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelsj.htm#jdungeon)",
+  "map_size=small",
+  "map_size=tiny",
+  "release_date=1997-02-16",
+  "startmap=dungeon",
+  "theme=wizard",
+  "title=Jim's Dungeon",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/jdungeon.zip",
+  "https://www.quaddicted.com/files/by-sha256/75/756c3e3e7fc16dd64452cc7f875fd1f6982bd9d965723b817d346d0e9cb22a12/jdungeon.zip"
+ ]
+}

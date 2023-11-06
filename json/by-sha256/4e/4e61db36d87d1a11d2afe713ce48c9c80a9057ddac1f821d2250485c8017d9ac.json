@@ -1,0 +1,489 @@
+{
+ "bytes": 44204,
+ "files": {
+  "docs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-08-01T14:18:20.000Z"
+  },
+  "docs/jam2_cocerello.txt": {
+   "bytes": 4543,
+   "sha256": "2df4ca37954bc821e343594b0be0cb82e2fc8f649da3b26543545f49b158c2ef",
+   "timestamp": "2014-08-01T14:02:12.000Z"
+  },
+  "docs/jam2_fifth.txt": {
+   "bytes": 3289,
+   "sha256": "f6386183ddd68c03c119d3326e6138b365906928f142c881664cbb52c9a28a2f",
+   "timestamp": "2014-07-30T16:51:44.000Z"
+  },
+  "docs/jam2_mfx.txt": {
+   "bytes": 2669,
+   "sha256": "e24f30de67640d30dee41d018b445c9f8a58c60ca2213b44b0d01020c5ceb6d8",
+   "timestamp": "2014-08-01T12:43:30.000Z"
+  },
+  "docs/jam2_scampie.txt": {
+   "bytes": 4684,
+   "sha256": "b4fd3bc26d20dccd2dd57cb1b016b0d01c5e7956b1b05b2471199b56fde315a4",
+   "timestamp": "2014-07-30T12:15:06.000Z"
+  },
+  "docs/jam2_skacky.txt": {
+   "bytes": 1736,
+   "sha256": "548fdd583db4c9696d134d7db9a3164782ccc4b8100abe360d6155c0b1d79070",
+   "timestamp": "2014-07-16T11:39:26.000Z"
+  },
+  "docs/jam2_sock.txt": {
+   "bytes": 2579,
+   "sha256": "86da58d5f68af0979d23a20b2479da859c2f2f71ea1fcd99cfb98bb2608b65c2",
+   "timestamp": "2014-08-01T15:22:06.000Z"
+  },
+  "docs/jam2_tronyn.txt": {
+   "bytes": 863,
+   "sha256": "e139be5a3750bf9925773214e8ee7aee45e67565e4a15e35fc2f9621a11819a1",
+   "timestamp": "2014-08-01T12:04:50.000Z"
+  },
+  "func_mapjam2_readme.txt": {
+   "bytes": 2701,
+   "sha256": "f2c740b3891ac1a5cf7767a14fb9f3b55d65be8016ed298c39fafd3cdd721324",
+   "timestamp": "2014-07-30T13:52:48.000Z"
+  },
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-07-30T07:03:44.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-08-01T07:51:40.000Z"
+  },
+  "gfx/env/bluedays_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "10b816e9b056ba7a5d96be73db31259be206e8e574a72821315cc06770827a68",
+   "timestamp": "2014-07-16T23:56:30.000Z"
+  },
+  "gfx/env/bluedays_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "67f906fbd7bac242e23566d4f3e0e14d858eae1c44520bdf09546c713ff5b128",
+   "timestamp": "2014-07-29T23:58:52.000Z"
+  },
+  "gfx/env/bluedays_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "2a10cc0187221aecb30e703937594d4b7d6255c484235f07dee9b6aedd100048",
+   "timestamp": "2014-07-16T23:57:06.000Z"
+  },
+  "gfx/env/bluedays_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "b7ec93661fc3375667e1307125453328a4a07923a47d69efa14028fdf20b941d",
+   "timestamp": "2014-07-16T23:56:08.000Z"
+  },
+  "gfx/env/bluedays_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "fffedb036cf3b554c6e12f9336d2139688a418032f93954110c714358793fc01",
+   "timestamp": "2014-07-16T23:56:46.000Z"
+  },
+  "gfx/env/bluedays_up.tga": {
+   "bytes": 3145772,
+   "sha256": "835c5a17f5d1a0de984a9485d5126f1797acd5a598fe00667c62bde0bffb0519",
+   "timestamp": "2014-07-29T23:59:16.000Z"
+  },
+  "gfx/env/duskebk.tga": {
+   "bytes": 606420,
+   "sha256": "06796e1fc73783f1dccb748b4a05703e3454623439727168c47f370e358b0656",
+   "timestamp": "2014-02-24T23:24:12.000Z"
+  },
+  "gfx/env/duskedn.tga": {
+   "bytes": 787184,
+   "sha256": "9794d0b1b7bf571ff247baeebae5897be3cc0c6bf3428edbcf2782c1f34610c2",
+   "timestamp": "2014-02-24T23:24:12.000Z"
+  },
+  "gfx/env/duskeft.tga": {
+   "bytes": 594909,
+   "sha256": "e3967e5143dfc8ffaba3dc0fe0c83d0da8d56174de9da0ea09d450a0d62e6742",
+   "timestamp": "2014-02-24T23:24:12.000Z"
+  },
+  "gfx/env/duskelf.tga": {
+   "bytes": 585541,
+   "sha256": "0b7331135116c4e184df4d9e4824dbf5b435d045718db20a81b0d30ce91cb64a",
+   "timestamp": "2014-02-24T23:24:12.000Z"
+  },
+  "gfx/env/duskert.tga": {
+   "bytes": 688109,
+   "sha256": "20d94245588988fb390440c531d787c25c2f4b97151bfbd1526fdc3c90e1320a",
+   "timestamp": "2014-02-24T23:24:12.000Z"
+  },
+  "gfx/env/duskeup.tga": {
+   "bytes": 470425,
+   "sha256": "eba18d5e259e973c649bf16495a34ada1c523faa14ef6462b723476e820d8766",
+   "timestamp": "2014-02-24T23:24:12.000Z"
+  },
+  "gfx/env/graynightbk.tga": {
+   "bytes": 786971,
+   "sha256": "3cd8f98206a4267c0cbd7a8028dd55a2869e4a0840a45c89e4a03d1300d970bf",
+   "timestamp": "2013-09-07T18:21:06.000Z"
+  },
+  "gfx/env/graynightdn.tga": {
+   "bytes": 786971,
+   "sha256": "2d2e929246612062e871629464e8508a0dc9fe35680015e90a441c6c20e1a936",
+   "timestamp": "2013-09-07T18:21:06.000Z"
+  },
+  "gfx/env/graynightft.tga": {
+   "bytes": 786971,
+   "sha256": "387759c32fdce1b459b7fad63f47ca35c5755794aa960c8486b2e4de24c59949",
+   "timestamp": "2013-09-07T18:21:06.000Z"
+  },
+  "gfx/env/graynightlf.tga": {
+   "bytes": 786971,
+   "sha256": "16654901eabc2f4da7ac602c240932acd73cc5831e29afc4dafc51cd2daaa9b4",
+   "timestamp": "2013-09-07T18:21:08.000Z"
+  },
+  "gfx/env/graynightrt.tga": {
+   "bytes": 786971,
+   "sha256": "4f13113e77b85644febb7baff162c19cc353f4257322826389974e516ffd77a6",
+   "timestamp": "2013-09-07T18:21:08.000Z"
+  },
+  "gfx/env/graynightup.tga": {
+   "bytes": 786971,
+   "sha256": "178c815e62bb236b75d967e502ed4a93eba64cd12818081f6f41591860b3d4da",
+   "timestamp": "2013-09-07T18:21:08.000Z"
+  },
+  "gfx/env/snowmoon_bk.tga": {
+   "bytes": 707878,
+   "sha256": "f4c61c3a622a2dabfc2aa2748c3bba9ab52bf018c5c24b5aac6bd682b6d938de",
+   "timestamp": "2002-12-17T20:01:32.000Z"
+  },
+  "gfx/env/snowmoon_dn.tga": {
+   "bytes": 754863,
+   "sha256": "a6f29123dc3da6df244c6878d1a355b9ba7c093b9a38b94e8f9253d317de846c",
+   "timestamp": "2002-12-17T20:12:24.000Z"
+  },
+  "gfx/env/snowmoon_ft.tga": {
+   "bytes": 630095,
+   "sha256": "c10f65b43cff087a7044946f8105d24072bbcb33668bb485f501fc0bdcb7e293",
+   "timestamp": "2002-12-17T20:01:10.000Z"
+  },
+  "gfx/env/snowmoon_lf.tga": {
+   "bytes": 671066,
+   "sha256": "8025d6d72582a374583dc4c80d15de546b1ebea3f378cc55b084483778d8f985",
+   "timestamp": "2002-12-17T20:01:18.000Z"
+  },
+  "gfx/env/snowmoon_rt.tga": {
+   "bytes": 636559,
+   "sha256": "339a1a1a36ffafa6bb49ae5bffcb73c81d4304f0f6d40d5fe470654c0db56037",
+   "timestamp": "2002-12-17T20:01:42.000Z"
+  },
+  "gfx/env/snowmoon_up.tga": {
+   "bytes": 410341,
+   "sha256": "f08c76ef2c7c2338b64615543ffa1217edab3ca41bc79cb74b20bc42d329e82c",
+   "timestamp": "2002-12-17T20:01:52.000Z"
+  },
+  "gfx/env/stormydays_bk.tga": {
+   "bytes": 3145746,
+   "sha256": "d898c7641be8fbb8eff1e3b32a8a4e6f02e13154ed7a88cc90ceabedae1fa235",
+   "timestamp": "2005-08-26T10:15:04.000Z"
+  },
+  "gfx/env/stormydays_dn.tga": {
+   "bytes": 3145746,
+   "sha256": "70fe4ba19d17e46d62b70582916924e7c20229ecfc5c1bf700bcb6ccb9c563d4",
+   "timestamp": "2005-08-26T10:15:06.000Z"
+  },
+  "gfx/env/stormydays_ft.tga": {
+   "bytes": 3145746,
+   "sha256": "4d68b33f5da78b7fa5c4d4eb61d41b8520a24ce5a70de85f5edb909e52f65bf4",
+   "timestamp": "2005-08-26T10:15:04.000Z"
+  },
+  "gfx/env/stormydays_lf.tga": {
+   "bytes": 3145746,
+   "sha256": "20bb6daf7a6d309cb5e66dcb2c8e8ebf2fe78dd64c0c1cdced5349580e35c6e5",
+   "timestamp": "2005-08-26T10:15:04.000Z"
+  },
+  "gfx/env/stormydays_rt.tga": {
+   "bytes": 3145746,
+   "sha256": "c81e6989c52170220598f5d0ff276d2486ebdca67daa257755371ca2765343f5",
+   "timestamp": "2005-08-26T10:15:06.000Z"
+  },
+  "gfx/env/stormydays_up.tga": {
+   "bytes": 3145746,
+   "sha256": "672d5c37dcfcd47604a4be21c748b6927e89b3e8fc6571653d5c38475e1572d1",
+   "timestamp": "2005-08-26T10:15:06.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-08-01T14:17:40.000Z"
+  },
+  "maps/jam2_cocerello.bsp": {
+   "bytes": 6266540,
+   "sha256": "923f6e6e5796d0c5a07787f21a9763a37c740a78e47414a5d84f7a6032e3e0aa",
+   "timestamp": "2014-08-01T13:45:34.000Z"
+  },
+  "maps/jam2_cocerello.lit": {
+   "bytes": 5073053,
+   "sha256": "a78a7b12436b444197b00560abc82ada3e11f3b3d213897d949f9259aad98b8e",
+   "timestamp": "2014-08-01T13:45:34.000Z"
+  },
+  "maps/jam2_fifth.bsp": {
+   "bytes": 5385129,
+   "sha256": "2bac1139fc206fc725ad7e08ebc775bd68449bedf1687ae30cbaf8b20397a08e",
+   "timestamp": "2014-07-31T12:27:36.000Z"
+  },
+  "maps/jam2_fifth.lit": {
+   "bytes": 1865984,
+   "sha256": "a944a1735e4defebc0983c6defe24940f32222ba8c00e0ff9dfa7e3a1fa0d371",
+   "timestamp": "2014-07-31T12:27:36.000Z"
+  },
+  "maps/jam2_lunaran.bsp": {
+   "bytes": 2627573,
+   "sha256": "5d7750a98bf6665432c6f19cfa735797ee43ea02be59eb845c816378d45b6c47",
+   "timestamp": "2014-07-31T15:25:10.000Z"
+  },
+  "maps/jam2_lunaran.lit": {
+   "bytes": 712844,
+   "sha256": "f8f3dcdd39459ff862d7b7b23335ab23c2fd209a04234db67012e26eb0742916",
+   "timestamp": "2014-07-31T15:25:10.000Z"
+  },
+  "maps/jam2_mfx.bsp": {
+   "bytes": 11398312,
+   "sha256": "79323ff8c2cef163e89551bdd47089f87cd6b76b194eca06a80c44cacae9a6ad",
+   "timestamp": "2014-08-01T12:00:38.000Z"
+  },
+  "maps/jam2_mfx.lit": {
+   "bytes": 3186566,
+   "sha256": "e4bd7acef37e01171c2149361b4bd57836ed2cef0733dd05458bd2bbb0f882d0",
+   "timestamp": "2014-08-01T12:00:38.000Z"
+  },
+  "maps/jam2_scampie.bsp": {
+   "bytes": 2703054,
+   "sha256": "96ef2ae276bf461916a0f2c35e04106611c87182eb7368fa8a05c88c4221aa6d",
+   "timestamp": "2014-07-30T12:06:34.000Z"
+  },
+  "maps/jam2_scampie.lit": {
+   "bytes": 1323386,
+   "sha256": "d9dfea73a80ece4ce2c23cdbd8dd348ffbb2d92be19655f38360b76c80f9631d",
+   "timestamp": "2014-07-30T12:06:34.000Z"
+  },
+  "maps/jam2_skacky.bsp": {
+   "bytes": 7461992,
+   "sha256": "150349dd6754d7fc27c9f04c2ce1920bbce3d8d3fbc5b28de5787596ec007496",
+   "timestamp": "2014-07-16T11:30:52.000Z"
+  },
+  "maps/jam2_skacky.lit": {
+   "bytes": 2159303,
+   "sha256": "aed7937f948ba05a8f3a60ff24608575edf2427e9f917bc32ea5a19673a09682",
+   "timestamp": "2014-07-16T11:30:52.000Z"
+  },
+  "maps/jam2_sock.bsp": {
+   "bytes": 5750104,
+   "sha256": "849fcb9a7252474c801e616e791fdb6497623fbeec9649a0b099578f25480edd",
+   "timestamp": "2014-08-01T15:45:04.000Z"
+  },
+  "maps/jam2_sock.lit": {
+   "bytes": 1416521,
+   "sha256": "85788a44500493f45dee811244487c8024c9a4bd509affeae47228c55281b126",
+   "timestamp": "2014-08-01T15:45:04.000Z"
+  },
+  "maps/jam2_tronyn.bsp": {
+   "bytes": 22014869,
+   "sha256": "d56b1532684050542612d953a4a5985cdc63e5e651e9846b29e173dda32ca22b",
+   "timestamp": "2014-08-01T11:50:10.000Z"
+  },
+  "maps/jam2_tronyn.lit": {
+   "bytes": 4127612,
+   "sha256": "dbfdb0faddf44da473ea3a60a0478fd72075eaa4b5de3dc6f5171c9cc99e482b",
+   "timestamp": "2014-08-01T11:51:08.000Z"
+  },
+  "maps/jam2_tronyn.prt": {
+   "bytes": 1958698,
+   "sha256": "1b941b600fefa8c8574d15ea43115663b5f6c7ba31abe923ff1868e947e78a25",
+   "timestamp": "2014-07-29T14:51:52.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-07-30T00:19:30.000Z"
+  },
+  "progs/backpack.mdl": {
+   "bytes": 25812,
+   "sha256": "1ba9d3176bb2e03a0457427fd9394d8c15eb9ebae8af9462e955e9c6c6068513",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/flame2.mdl": {
+   "bytes": 74548,
+   "sha256": "e7e43f79a05fa23bfddb23e26234f15622bcce9a1966df2e165d90d0dffca6e5",
+   "timestamp": "2014-01-09T11:41:52.000Z"
+  },
+  "progs/grenade.mdl": {
+   "bytes": 3860,
+   "sha256": "256412b0d88c020fb03efc5e914c5dd721c9dfe8d6a36ce4a7b01e7597d7e7d5",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/invulner.mdl": {
+   "bytes": 21412,
+   "sha256": "1274fcabffa89a786b29c9238cf84e95a8557369239b4a9eb813e3dbe37d35ac",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/k_spike.mdl": {
+   "bytes": 5492,
+   "sha256": "ecf293b2e8146a33de7bc8bb3cded80bb785b931012b40dca204db3dad50e776",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/missile.mdl": {
+   "bytes": 8372,
+   "sha256": "5c4b9d831357ad72e5f47c38e13b8e2ab04b80fb9d8ed6ddd3667a5eea9a585a",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/quaddama.mdl": {
+   "bytes": 22052,
+   "sha256": "c5657b558522e46f0833b7827520c1a5c1f1674dffd52c12609779d5bcd75462",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/s_spike.mdl": {
+   "bytes": 1396,
+   "sha256": "945ad552ad86e5193ef9c007dbe23686fbe89be1060063f57ea693b89e5df229",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/spike.mdl": {
+   "bytes": 1396,
+   "sha256": "c5e6afcfbfe35ffde5bda7eaf91e2a583c3f20cf8f3175b4f4e0ad03b358983c",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/v_spike.mdl": {
+   "bytes": 9012,
+   "sha256": "06e8f32092cbc0b5ba4d26227df9ac2d10f3a76d9a63bc7928af147b4ade12d7",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/w_g_key.mdl": {
+   "bytes": 10196,
+   "sha256": "bf5c4ffac0c77e4e039af048ebef10cc8d68644f13956a75fac65577c840cd8e",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/w_s_key.mdl": {
+   "bytes": 10132,
+   "sha256": "d368ad594376bfa4c3c3b77bb467b91d62296a6385c276b2d76cd44891d1a752",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/w_spike.mdl": {
+   "bytes": 6356,
+   "sha256": "40d9d29c58df57ece6892d71d0464022eb5939aa45699e98eae22136b973c4c8",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/zom_gib.mdl": {
+   "bytes": 19768,
+   "sha256": "2175cca881b4a73adf3742933a5d3e91116c774ddd3db9b6ac2a7f863194d4a8",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "quake.rc": {
+   "bytes": 1180,
+   "sha256": "2e22233a0df943e1ee9791a1e9a81912c203dc977432410af01fa4f6b4c60057",
+   "timestamp": "2014-08-01T14:07:46.000Z"
+  },
+  "source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-08-01T14:18:16.000Z"
+  },
+  "source/jam2_cocerello.map": {
+   "bytes": 3252024,
+   "sha256": "fab7c37cbfbcc1912396583516fa72b9a01b13d15dda31e0d05d43f98a16573b",
+   "timestamp": "2014-08-01T08:18:44.000Z"
+  },
+  "source/jam2_ericw.map": {
+   "bytes": 280834,
+   "sha256": "283a12c5d1b022311078f83ec9d3c9b88508a9ac05d890c1b20fb8c70543de7a",
+   "timestamp": "2014-07-27T17:00:38.000Z"
+  },
+  "source/jam2_fifth.map": {
+   "bytes": 2598616,
+   "sha256": "5439e04691f6f6ad1a9cd39214d0c3e51673a0dcf148f2c0b867e5b318b64116",
+   "timestamp": "2014-07-31T12:25:36.000Z"
+  },
+  "source/jam2_lunaran.map": {
+   "bytes": 923580,
+   "sha256": "73262a146cab8cd67c0164ea4b62cae6411eccaa44f48841c3fdc5795c472908",
+   "timestamp": "2014-07-31T15:19:00.000Z"
+  },
+  "source/jam2_mfx.map": {
+   "bytes": 5230454,
+   "sha256": "e379e83e96c64226517aaffc675bb6590e06ba1f53c0619735569b78f75a8691",
+   "timestamp": "2014-08-01T11:56:14.000Z"
+  },
+  "source/jam2_otp.map": {
+   "bytes": 263619,
+   "sha256": "c60fb5ede9a5bfd197bde2ec14d70f99b4a9b4e5c2352e105155ba08b1e29355",
+   "timestamp": "2014-07-22T16:20:10.000Z"
+  },
+  "source/jam2_scampie.map": {
+   "bytes": 2387057,
+   "sha256": "285556f1524facd5f09a4006928891ea1c7cf13d185498a7b07a9ee80e84a40b",
+   "timestamp": "2014-07-30T12:05:30.000Z"
+  },
+  "source/jam2_skacky.map": {
+   "bytes": 8109436,
+   "sha256": "3c3bba3549e13b9ebd2c488e1af5126270027f924c87bf64f2f6fc9c207cc6c4",
+   "timestamp": "2014-07-16T11:22:22.000Z"
+  },
+  "source/jam2_sock.map": {
+   "bytes": 4136166,
+   "sha256": "4543c6ad4218fe4dd76bfc27e2dc31f2abcaf116ebd87e289913f531a5e1e855",
+   "timestamp": "2014-08-01T15:40:04.000Z"
+  },
+  "source/jam2_tronyn.map": {
+   "bytes": 5170059,
+   "sha256": "bcc8b3eab1e7f466da121b078e40f659e771efdc670e2a0c75bc9c325b24b9c1",
+   "timestamp": "2014-07-31T12:57:12.000Z"
+  },
+  "source/jam2_tronyn.rmf": {
+   "bytes": 17927392,
+   "sha256": "4c199990bd0d4eb28aff4ef34870050c3947f3b5ce9eeea5d53a32fbbbe7e815",
+   "timestamp": "2014-07-29T08:23:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/func_mapjam2/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac",
+ "tags": [
+  "author=Cocerello",
+  "author=Lunaran",
+  "author=Scampie",
+  "author=Tronyn",
+  "author=ericw / FifthElephant",
+  "author=mfx",
+  "author=skacky",
+  "author=sock",
+  "commandline=-game func_mapjam2",
+  "exceeds_quake_limits=yes",
+  "filename=func_mapjam2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61061)",
+  "map_size=large",
+  "map_size=medium",
+  "nonspecific_tag=arabian",
+  "nonspecific_tag=persian",
+  "nonspecific_tag=skybox",
+  "release_date=2014-08-01",
+  "source=included",
+  "startmap=jam2_cocerello",
+  "startmap=jam2_fifth",
+  "startmap=jam2_lunaran",
+  "startmap=jam2_mfx",
+  "startmap=jam2_scampie",
+  "startmap=jam2_skacky",
+  "startmap=jam2_sock",
+  "startmap=jam2_tronyn",
+  "theme=exploration",
+  "theme=ikblue",
+  "theme=ikwhite",
+  "theme=outdoor",
+  "theme=snow",
+  "theme=temple",
+  "title=Func Map Jam 2 - IKblue/IKwhite Theme",
+  "type=mapjam",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam2.zip",
+  "https://www.quaddicted.com/files/by-sha256/4e/4e61db36d87d1a11d2afe713ce48c9c80a9057ddac1f821d2250485c8017d9ac/func_mapjam2.zip"
+ ]
+}

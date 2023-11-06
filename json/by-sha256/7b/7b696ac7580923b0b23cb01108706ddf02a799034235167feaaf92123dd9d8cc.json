@@ -1,0 +1,56 @@
+{
+ "bytes": 3341,
+ "files": {
+  "CDA.txt": {
+   "bytes": 4712,
+   "sha256": "224f5956b39c81b56dc0ff5bd3138c1d3066249354cbf5ae7d6d83ae5c07615a",
+   "timestamp": "2005-10-22T18:51:04.000Z"
+  },
+  "PAK0.pak": {
+   "bytes": 10131152,
+   "files": {
+    "maps/cda.bsp": {
+     "bytes": 7204696,
+     "sha256": "74b652f09953c116a8d1921f42e2d168add317483b4b2bc500faef64d653c673"
+    },
+    "maps/cda.lit": {
+     "bytes": 2506796,
+     "sha256": "9ed5fb538d3c51a52a86726fbb47924b7de83e946dc004c42d9967b0976f3aa8"
+    },
+    "progs.dat": {
+     "bytes": 419456,
+     "sha256": "d776573027f19c587f8bec0bd703b3f67117659022fb00b32880994ed2920ec5"
+    }
+   },
+   "sha256": "3fc6d45349e61065724b48aec53c599d8f830ff81c7dd8a824a2ee730d0f1a6b",
+   "timestamp": "2005-10-22T09:21:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/cda/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc",
+ "tags": [
+  "author=JPL",
+  "commandline=-game cda",
+  "filename=cda.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://lambert.jeanphilippe.free.fr",
+  "link=[Tronyn's Top 10: Medieval](/webarchive/underworld.planetquake.gamespy.com/tronynqexpo08a2.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev051101b.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=283)",
+  "map_size=huge",
+  "release_date=2005-10-22",
+  "theme=castle",
+  "theme=dkt",
+  "theme=gothic",
+  "title=Castle of The Dark Ages",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/cda.zip",
+  "https://www.quaddicted.com/files/by-sha256/7b/7b696ac7580923b0b23cb01108706ddf02a799034235167feaaf92123dd9d8cc/cda.zip"
+ ]
+}

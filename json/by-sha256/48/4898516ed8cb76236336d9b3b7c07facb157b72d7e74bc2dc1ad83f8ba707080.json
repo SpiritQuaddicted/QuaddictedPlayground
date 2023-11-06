@@ -1,0 +1,69 @@
+{
+ "bytes": 1045,
+ "files": {
+  "Pak0.pak": {
+   "bytes": 2501096,
+   "files": {
+    "gfx/conback.lmp": {
+     "bytes": 64008,
+     "sha256": "7be59b5215e4fb29572a319a3acfe323f14d1e4d785c56b1e0ff8afd8541e583"
+    },
+    "gfx/qplaque.lmp": {
+     "bytes": 4616,
+     "sha256": "03bb2ac9f945bec9dd0f2f79aaef4a6738565eab0d13aa350831b09ce3b9c915"
+    },
+    "maps/med1.bsp": {
+     "bytes": 1451320,
+     "sha256": "a7aeb7c16e6c9f4d7a9e4d2a8c029ccc0da13c4537f325dae1b86c82094440e4"
+    },
+    "maps/start.bsp": {
+     "bytes": 803016,
+     "sha256": "fdbd943b89d2de34300ac091b9e8282b98f49df984f61e5d905a3f7e2bcba484"
+    },
+    "progs/g_nail2.mdl": {
+     "bytes": 150466,
+     "sha256": "2cd1457acabf59d1ac395652f47399ac86997e7067b557a694bb59b2da6444d2"
+    },
+    "progs/v_nail2.mdl": {
+     "bytes": 27274,
+     "sha256": "a9143a833b02b2e2927fbcce24334a4bf0d29bb872a0038e385a541884baa476"
+    }
+   },
+   "sha256": "e1975c2e6077cbfadb57ce5baea8db6f6c382124b1c142c5ba37494daf40f506",
+   "timestamp": "1996-05-06T17:20:50.000Z"
+  },
+  "lmed1.txt": {
+   "bytes": 1644,
+   "sha256": "d84912cf9fb589dde7a7873d0203c6a2524d897568967341c0287172f2c1766d",
+   "timestamp": "1996-05-06T18:51:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/lmed1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080",
+ "tags": [
+  "author=Derek 'Lombard' Barr",
+  "commandline=-game lmed1",
+  "filename=lmed1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Crash's review](http://www.quake2.com/crash/levelsl.htm)",
+  "link=[[Kona]'s rating](http://www.electricescape.com/etherealhell/index.php/10-ratings?limitstart=0)",
+  "map_size=medium",
+  "nonspecific_tag=start map",
+  "nonspecific_tag=textures",
+  "release_date=1996-09-05",
+  "startmap=med1",
+  "startmap=start",
+  "theme=castle",
+  "theme=wizard",
+  "title=The Ancient Fortress",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/lmed1.zip",
+  "https://www.quaddicted.com/files/by-sha256/48/4898516ed8cb76236336d9b3b7c07facb157b72d7e74bc2dc1ad83f8ba707080/lmed1.zip"
+ ]
+}

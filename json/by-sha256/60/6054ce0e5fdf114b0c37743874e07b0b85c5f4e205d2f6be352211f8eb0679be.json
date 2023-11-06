@@ -1,0 +1,324 @@
+{
+ "bytes": 1992,
+ "files": {
+  "Gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:20.000Z"
+  },
+  "Pak0.pak": {
+   "bytes": 6654431,
+   "files": {
+    "gfx/help0.lmp": {
+     "bytes": 64008,
+     "sha256": "90cffe39abfbcb9fc12bbc8701496c0c8a613542eb45ea4b3c9ea0e3069c8b16"
+    },
+    "gfx/help1.lmp": {
+     "bytes": 64008,
+     "sha256": "4366d477e5d2333750a0f334c1813ad2a3718cd7b7cc092d551e7aebd7c20507"
+    },
+    "gfx/help2.lmp": {
+     "bytes": 64008,
+     "sha256": "88c004ec602b14590c9337a77e0e7a084b6c791bf09fb51a051fc5b84bb75961"
+    },
+    "gfx/help3.lmp": {
+     "bytes": 64008,
+     "sha256": "085a10c65c95ab593dae27d1cc54ecaca42f11bb76b31398125c336378b9fc72"
+    },
+    "gfx/help4.lmp": {
+     "bytes": 64008,
+     "sha256": "2136f7cac69bd364eceb670cc42efcd1df226dfab06b0ef99b5c62c5707bcdec"
+    },
+    "gfx/help5.lmp": {
+     "bytes": 64008,
+     "sha256": "60c5ca60b7f59e7fc5995fa93ab78ab471154909cc2778a274d79b6a149944dc"
+    },
+    "maps/casspq1.bsp": {
+     "bytes": 2645072,
+     "sha256": "7a916e41ad6e185063c911f27073e1d874f7a0b2b0e7ed6ab133748d50b66452"
+    },
+    "maps/start.bsp": {
+     "bytes": 662356,
+     "sha256": "7247efd688d5dff844a5a91f7b28da6f5c9138d4f096564a0ed8523b442abf71"
+    },
+    "progs.dat": {
+     "bytes": 748392,
+     "sha256": "bdac5749f1536dd206066d775ab5bdd071f99d68a9ea79f6e8f8309478339273"
+    },
+    "progs/beam.mdl": {
+     "bytes": 10608,
+     "sha256": "2165a66ba1d40fa378df735835b014791e769cb8bc56e06977aefdf134bb61d5"
+    },
+    "progs/beamhit.spr": {
+     "bytes": 5320,
+     "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54"
+    },
+    "progs/bolt.mdl": {
+     "bytes": 1364,
+     "sha256": "eb7ed9439d34fcdc6c8a04a0bf57d344a75d208d65b8e3ab455ddda5965bf0b9"
+    },
+    "progs/bs_light.mdl": {
+     "bytes": 28707,
+     "sha256": "6c646ab4291d12aecdad5d9af4c44f4d68fc207c730dbf3ac04e07103cdd2c12"
+    },
+    "progs/camera.mdl": {
+     "bytes": 33528,
+     "sha256": "afbb9ddbbb0d9a7509a555289d2517bb94991f6a0c4d8f2b5cf508794485c82c"
+    },
+    "progs/csm_cpit.mdl": {
+     "bytes": 4424,
+     "sha256": "17c3aefc3c13035e45aec9befe0bf6722d163637aa56f18c3bec23c838dd5978"
+    },
+    "progs/dring.spr": {
+     "bytes": 387832,
+     "sha256": "94adc8ada163983eae9ccb924bd4ef4d8ebb2613bd23705d2e8a7bb73e7657d1"
+    },
+    "progs/expl.spr": {
+     "bytes": 127672,
+     "sha256": "553b80901ee3d765c147ecce187a53989ded3991532e02f53c5b0cbb42aad5d4"
+    },
+    "progs/frame.mdl": {
+     "bytes": 24293,
+     "sha256": "c033f1d4dabaa36e34b58884d4b45d3a74c587893debaa362c83b286ff7d2c62"
+    },
+    "progs/g_beam.mdl": {
+     "bytes": 68996,
+     "sha256": "db2566d26863472c6176c91b2256c12b5fdd28b5e1ba0a3ff2aa9e122ed0cacb"
+    },
+    "progs/rubble1.mdl": {
+     "bytes": 69839,
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866"
+    },
+    "progs/rubble2.mdl": {
+     "bytes": 200266,
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77"
+    },
+    "progs/rubble3.mdl": {
+     "bytes": 303486,
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab"
+    },
+    "progs/s_null.spr": {
+     "bytes": 1080,
+     "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4"
+    },
+    "progs/v_beam.mdl": {
+     "bytes": 75588,
+     "sha256": "c00fe7872cb2c88626e63d99c3cc00b83f9968803344cd2021e8fc26bd25ccba"
+    },
+    "progs/v_beam2.mdl": {
+     "bytes": 75588,
+     "sha256": "95b3a260450ca784bda0885da994a5a857cf9948581ed1e68c4b202c51dae670"
+    },
+    "sound/ambience/wind2.wav": {
+     "bytes": 1241,
+     "sha256": "de4c458fd48a1d3c8e9516b11024cfc8dc330f3d072dd4cb682d00554800daab"
+    },
+    "sound/comp/10_snd.wav": {
+     "bytes": 119046,
+     "sha256": "dda8d99243ab70f26a275a61275cbb3a8468bf1a98b420f6d29dd93a57ef5f4e"
+    },
+    "sound/comp/20_snd.wav": {
+     "bytes": 47964,
+     "sha256": "45dc0bc82110be5b522176f30ebfd1e03b31276eba6095b1c35e404e50141091"
+    },
+    "sound/comp/30_snd.wav": {
+     "bytes": 44432,
+     "sha256": "705413d486df860333668b4e1c5cbdd1a1edbfabf938c91c5a9d697931cc9f20"
+    },
+    "sound/comp/ens1.wav": {
+     "bytes": 38264,
+     "sha256": "f818d6d848785ca0c4471630ddb2e9dfaef58662a71272f47830fb586e9c728b"
+    },
+    "sound/comp/ens2.wav": {
+     "bytes": 73068,
+     "sha256": "bd78258755860af316e4fa919fd4f02cc990f19fbbbf58042f174f6141c67138"
+    },
+    "sound/comp/hgrav.wav": {
+     "bytes": 38986,
+     "sha256": "c0f58afc02b16a11e9a5a5a203ca2ea405fa1bfb46b0de4569cb63c3dffb3378"
+    },
+    "sound/comp/tol2.wav": {
+     "bytes": 30372,
+     "sha256": "31781816e9ee2cc56ba64177107635d319b5841c1ffa4da96bb12ecfb778e6cd"
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "bytes": 33914,
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78"
+    },
+    "sound/misc/alarm.wav": {
+     "bytes": 52904,
+     "sha256": "0ec6c6403123a3168f6564add8bc21686b7475a59faa5939a1f96cb92b4cb2c3"
+    },
+    "sound/misc/elev.wav": {
+     "bytes": 41876,
+     "sha256": "6edef89d58a29e7c69d8c2fab14ab15ce33c0412c7e3a79a68168576ef98664a"
+    },
+    "sound/misc/longexpl.wav": {
+     "bytes": 42430,
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890"
+    },
+    "sound/misc/null.wav": {
+     "bytes": 1147,
+     "sha256": "886f149bdaa8a6e1b6d81cb4d4cd6a339012239a0aaaa85a5ad48a269c4ca69a"
+    },
+    "sound/misc/quake.wav": {
+     "bytes": 34286,
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266"
+    },
+    "sound/misc/quakeend.wav": {
+     "bytes": 8160,
+     "sha256": "5818c531f9c729413b1afcb14475f16b7bad955c17c54b56d709a6a3bf34cd01"
+    },
+    "sound/misc/r_tele1.wav": {
+     "bytes": 1147,
+     "sha256": "886f149bdaa8a6e1b6d81cb4d4cd6a339012239a0aaaa85a5ad48a269c4ca69a"
+    },
+    "sound/misc/r_tele2.wav": {
+     "bytes": 1147,
+     "sha256": "886f149bdaa8a6e1b6d81cb4d4cd6a339012239a0aaaa85a5ad48a269c4ca69a"
+    },
+    "sound/misc/r_tele3.wav": {
+     "bytes": 1147,
+     "sha256": "886f149bdaa8a6e1b6d81cb4d4cd6a339012239a0aaaa85a5ad48a269c4ca69a"
+    },
+    "sound/misc/r_tele4.wav": {
+     "bytes": 1147,
+     "sha256": "886f149bdaa8a6e1b6d81cb4d4cd6a339012239a0aaaa85a5ad48a269c4ca69a"
+    },
+    "sound/misc/r_tele5.wav": {
+     "bytes": 1147,
+     "sha256": "886f149bdaa8a6e1b6d81cb4d4cd6a339012239a0aaaa85a5ad48a269c4ca69a"
+    },
+    "sound/misc/ship.wav": {
+     "bytes": 53148,
+     "sha256": "e157fcd6d5ab91b242ace54dd87580217ad0c2055e02a55380dcbf0630e064d7"
+    },
+    "sound/misc/shortexp.wav": {
+     "bytes": 27562,
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc"
+    },
+    "sound/misc/shuttle.wav": {
+     "bytes": 61818,
+     "sha256": "19b8fed04a8565aa9e6e551a9162b13fdc746f7d3d364558de689e52514009e3"
+    },
+    "sound/misc/tesla.wav": {
+     "bytes": 22526,
+     "sha256": "05a76add480090c8b15e3e6a33487fa019ab3e579c635e84a5343c4709cefd3d"
+    },
+    "sound/steps/lowecho.wav": {
+     "bytes": 1147,
+     "sha256": "886f149bdaa8a6e1b6d81cb4d4cd6a339012239a0aaaa85a5ad48a269c4ca69a"
+    },
+    "sound/turret/beamchrg.wav": {
+     "bytes": 3962,
+     "sha256": "d02bd7d2c4754fe3159fac83b4f0898f8b2e1f8996ce7e6cfdaa4a9d75a24fb1"
+    },
+    "sound/turret/beamhit.wav": {
+     "bytes": 8644,
+     "sha256": "35e5e5f28a3695ed27c2b0887a1bf118643d769c457d3642016e887248fa8ca9"
+    }
+   },
+   "sha256": "d49db62ae198a11140c672210a44bf1ae9b578e51a02c248d8b7c91b00b71ce0",
+   "timestamp": "1998-06-23T00:59:10.000Z"
+  },
+  "autoexec.cfg": {
+   "bytes": 142,
+   "sha256": "824506d8d4539aa289ecbb24e4e137e171507ffef9e3338dfbfe89fc97003c95",
+   "timestamp": "1998-06-22T20:41:10.000Z"
+  },
+  "casspq1.txt": {
+   "bytes": 9972,
+   "sha256": "cfd6acf4849db0ffaffd1fe7542402d15c3dd9a30b6ab330b7aac2d3a5db1b4e",
+   "timestamp": "1998-06-22T20:55:12.000Z"
+  },
+  "dosquake.bat": {
+   "bytes": 50,
+   "sha256": "43ad7a9bfb7d3273161e7524b07be0ba93cf51a4dae33592fef82dcf47efff3d",
+   "timestamp": "1998-06-22T20:56:46.000Z"
+  },
+  "glquake.bat": {
+   "bytes": 41,
+   "sha256": "5666a2bb1caefa6e053eccbc227a55359d6731586fc857107168a123183871fc",
+   "timestamp": "1998-06-22T20:57:08.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:40.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:16.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:18.000Z"
+  },
+  "sound/MISC/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:18.000Z"
+  },
+  "sound/ambience/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:20.000Z"
+  },
+  "sound/comp/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:20.000Z"
+  },
+  "sound/hipweap/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:18.000Z"
+  },
+  "sound/steps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:20.000Z"
+  },
+  "sound/turret/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1998-06-23T00:56:18.000Z"
+  },
+  "winquake.bat": {
+   "bytes": 42,
+   "sha256": "57a17d670247c3f635841484f0420c8621dd3608937f23531bd9c76deaff83a0",
+   "timestamp": "1998-06-22T20:56:58.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/casspq1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be",
+ "tags": [
+  "author=Michael Casaday",
+  "commandline=-game casspq1",
+  "filename=casspq1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev981122.html)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=casspq1)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=unique",
+  "release_date=1998-06-23",
+  "startmap=start",
+  "theme=base",
+  "theme=horror",
+  "theme=ikbase",
+  "theme=space",
+  "title=Hell in a Can",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/casspq1.zip",
+  "https://www.quaddicted.com/files/by-sha256/60/6054ce0e5fdf114b0c37743874e07b0b85c5f4e205d2f6be352211f8eb0679be/casspq1.zip"
+ ]
+}

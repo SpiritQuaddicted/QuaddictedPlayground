@@ -1,0 +1,106 @@
+{
+ "bytes": 1060,
+ "files": {
+  "PAK0.PAK": {
+   "bytes": 2888018,
+   "files": {
+    "autoexec.cfg": {
+     "bytes": 9,
+     "sha256": "c8f4e445ad48c34b6244f392a8d050e0d01c9c0a2d09c1abb86e3aca7cc7dd63"
+    },
+    "maps/vigil.bsp": {
+     "bytes": 1781332,
+     "sha256": "ec93f54a0a2bcf2f194779dc6eb6728d2ec374ed20acef4989846a02501cb482"
+    },
+    "progs.dat": {
+     "bytes": 446900,
+     "sha256": "aa097e7519001dbbfe8374f50c0cb2c8200c996a2dff6b9c790cbff9e2170868"
+    },
+    "progs/rubble1.mdl": {
+     "bytes": 69839,
+     "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866"
+    },
+    "progs/rubble2.mdl": {
+     "bytes": 200266,
+     "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77"
+    },
+    "progs/rubble3.mdl": {
+     "bytes": 303486,
+     "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab"
+    },
+    "sound/misc/h2ohit1.wav": {
+     "bytes": 1244,
+     "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8"
+    },
+    "sound/misc/longexpl.wav": {
+     "bytes": 42430,
+     "sha256": "01bfbb4c07e81e97c91e5a85d9a141a376edd0e633d6b47cd16316c00e5ef890"
+    },
+    "sound/misc/r_tele1.wav": {
+     "bytes": 1244,
+     "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8"
+    },
+    "sound/misc/r_tele2.wav": {
+     "bytes": 1244,
+     "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8"
+    },
+    "sound/misc/r_tele3.wav": {
+     "bytes": 1244,
+     "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8"
+    },
+    "sound/misc/r_tele4.wav": {
+     "bytes": 1244,
+     "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8"
+    },
+    "sound/misc/r_tele5.wav": {
+     "bytes": 1244,
+     "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8"
+    },
+    "sound/misc/talk.wav": {
+     "bytes": 34076,
+     "sha256": "0469ef43391ab7908ec2102579c4893be9f3e1620530c2eb377fbc396aabfe36"
+    },
+    "sound/misc/trigger1.wav": {
+     "bytes": 1244,
+     "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8"
+    }
+   },
+   "sha256": "114e06d61c7ed58d1758ae8667fa6a344752cfef5f9c2640aec235d335927e9e",
+   "timestamp": "1997-05-16T22:25:18.000Z"
+  },
+  "vigil.txt": {
+   "bytes": 4004,
+   "sha256": "3dcbee3c11b823fcf9497678ebd3d720a251e29e44f07e4ff6448d1e66a335e9",
+   "timestamp": "1997-05-16T22:16:16.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/vigil/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c",
+ "tags": [
+  "author=Wright Bagwell",
+  "commandline=-game vigil",
+  "filename=vigil.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelsv-z.htm)",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=133)",
+  "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/v_z.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
+  "map_layout=arena",
+  "map_size=small",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-05-16",
+  "startmap=start",
+  "theme=medieval",
+  "title=The Vigil",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/vigil.zip",
+  "https://www.quaddicted.com/files/by-sha256/50/50713ed56bd6df1a125e3c1ce66f8c8ead21c2b14c32d846ff5306161e55c94c/vigil.zip"
+ ]
+}

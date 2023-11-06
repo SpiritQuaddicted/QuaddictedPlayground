@@ -1,0 +1,45 @@
+{
+ "bytes": 1058,
+ "files": {
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-11-23T18:27:52.000Z"
+  },
+  "maps/retrojam1_skacky_b.bsp": {
+   "bytes": 2137588,
+   "sha256": "f0a9dd7606d1e29e2b345e0958d125bd1b5d31ef291467421c9f0fd94a9882b7",
+   "timestamp": "2014-11-25T12:21:22.000Z"
+  },
+  "maps/retrojam1_skacky_b.lit": {
+   "bytes": 615875,
+   "sha256": "8036aba2e7bc83aaaf47155b72ede2ecb93a91612e0bdfd3cf77bc67ae9ef9e2",
+   "timestamp": "2014-11-25T12:21:22.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/retrojam1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "1c0e7ef2a335f6654e8a227209e4e8bbcedfba123da209850072f197c837f20a",
+ "tags": [
+  "author=Skacky",
+  "commandline=-game retrojam1",
+  "dependency=retrojam1",
+  "filename=retrojam1_skacky_b.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61125)",
+  "link=[QuakeOne](http://quakeone.com/news/site-news/11263-map-jam-4-retro-jam-1-a.html)",
+  "map_size=small",
+  "nonspecific_tag=retrojam",
+  "release_date=2014-11-25",
+  "theme=medieval",
+  "title=Dysnystaxis (...A Chance Meeting With Somnus)",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/retrojam1_skacky_b.zip",
+  "https://www.quaddicted.com/files/by-sha256/1c/1c0e7ef2a335f6654e8a227209e4e8bbcedfba123da209850072f197c837f20a/retrojam1_skacky_b.zip"
+ ]
+}

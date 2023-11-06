@@ -1,0 +1,52 @@
+{
+ "bytes": 2113,
+ "files": {
+  "bbelief2008.bsp": {
+   "bytes": 4617288,
+   "sha256": "0c7dc0acab868ad18db3760ba5e9256c9334fe723bc45391a34ffacd3d3534f6",
+   "timestamp": "2013-08-04T22:21:10.000Z"
+  },
+  "bbelief2008.map": {
+   "bytes": 1752475,
+   "sha256": "a5d50f9746c888504f5108924fa4102606d3fdda4880251ff0bd51c395374078",
+   "timestamp": "2013-08-04T22:21:26.000Z"
+  },
+  "bbelief2008.txt": {
+   "bytes": 2832,
+   "sha256": "d630fcb0fc6b2f1ac071ce5b7882b2fb7df42526c765e8c36cf48516f13381d4",
+   "timestamp": "2013-08-04T22:23:44.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "caeb802bc551420c02251dd6192286b90a1ba37aa5570cb30a8f51ead7ff95da",
+ "tags": [
+  "author=Matthias Worch",
+  "commandline=-game bbelief",
+  "dependency=bbelief",
+  "filename=bbelief2008.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.worch.com",
+  "map_layout=arena",
+  "map_size=medium",
+  "nonspecific_tag=chthon",
+  "nonspecific_tag=rocks",
+  "release_date=2013-08-04",
+  "source=included",
+  "theme=boss",
+  "theme=castle",
+  "theme=cave",
+  "theme=church",
+  "theme=lava",
+  "theme=medieval",
+  "title=A Past and Future Secret",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/bbelief2008.zip",
+  "https://www.quaddicted.com/files/by-sha256/ca/caeb802bc551420c02251dd6192286b90a1ba37aa5570cb30a8f51ead7ff95da/bbelief2008.zip"
+ ]
+}

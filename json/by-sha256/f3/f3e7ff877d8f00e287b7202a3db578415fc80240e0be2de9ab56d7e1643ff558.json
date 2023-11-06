@@ -1,0 +1,42 @@
+{
+ "bytes": 1459,
+ "files": {
+  "nar_cat.bsp": {
+   "bytes": 3673060,
+   "sha256": "b145b2becb1441c5cf542107fe0948929cb87746e7bb788bfa568823030d50b2",
+   "timestamp": "2015-12-05T20:59:34.000Z"
+  },
+  "nar_cat.lit": {
+   "bytes": 942194,
+   "sha256": "1cd4095a46d2a09e1bbf48d8fb48e5736578d683c5539344faa2a013ab701919",
+   "timestamp": "2015-12-05T20:59:34.000Z"
+  },
+  "nar_cat.txt": {
+   "bytes": 3209,
+   "sha256": "25653fb12b05de5b75aee5234f3ac4a7f1dbc9290591f277af399fa19d8b33bd",
+   "timestamp": "2015-12-05T21:30:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "f3e7ff877d8f00e287b7202a3db578415fc80240e0be2de9ab56d7e1643ff558",
+ "tags": [
+  "author=nadzia (narnar)",
+  "filename=nar_cat.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_layout=vertical",
+  "nonspecific_tag=bw",
+  "nonspecific_tag=grey",
+  "nonspecific_tag=textures",
+  "release_date=2015-12-05",
+  "title=Katedra",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/nar_cat.zip",
+  "https://www.quaddicted.com/files/by-sha256/f3/f3e7ff877d8f00e287b7202a3db578415fc80240e0be2de9ab56d7e1643ff558/nar_cat.zip"
+ ]
+}

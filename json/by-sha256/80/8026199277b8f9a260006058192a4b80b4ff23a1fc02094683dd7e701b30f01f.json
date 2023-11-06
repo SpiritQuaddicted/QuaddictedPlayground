@@ -1,0 +1,516 @@
+{
+ "bytes": 19464,
+ "files": {
+  "bmfbr/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-29T08:17:28.000Z"
+  },
+  "bmfbr/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-26T17:02:46.000Z"
+  },
+  "bmfbr/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-26T17:02:48.000Z"
+  },
+  "bmfbr/gfx/env/maskonaive2rot_bk.tga": {
+   "bytes": 2900149,
+   "sha256": "6c68487899a78bce552cfce80ed819cfbf44af28a42262becb4c0e2388f88cc7",
+   "timestamp": "2020-09-02T07:24:50.000Z"
+  },
+  "bmfbr/gfx/env/maskonaive2rot_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "d959e3320ad8845422dd62533be215e27e884bc4ee94183e05808790cb1f7059",
+   "timestamp": "2020-09-02T09:17:00.000Z"
+  },
+  "bmfbr/gfx/env/maskonaive2rot_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "9dce6d9479c36acc8450241953a5c108906b27075cb5dec56b78d680ed21a79a",
+   "timestamp": "2020-09-02T07:23:22.000Z"
+  },
+  "bmfbr/gfx/env/maskonaive2rot_lf.tga": {
+   "bytes": 3039291,
+   "sha256": "87c9561cbc02da60b110b5ba5c42b93d0976e7e55c25d4baba819e7c883a4458",
+   "timestamp": "2020-09-02T07:24:12.000Z"
+  },
+  "bmfbr/gfx/env/maskonaive2rot_rt.tga": {
+   "bytes": 3075841,
+   "sha256": "2a5aa6298ee21851e9bb4a7399aa44196203b4aa51b64a9697af00c5e3ead5af",
+   "timestamp": "2020-09-02T07:25:26.000Z"
+  },
+  "bmfbr/gfx/env/maskonaive2rot_up.tga": {
+   "bytes": 3145772,
+   "sha256": "976777e5ca286bba39429c6f1ec6079f476897fc0cecbc49b0805ade1cde3def",
+   "timestamp": "2020-09-02T09:17:16.000Z"
+  },
+  "bmfbr/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-29T12:40:14.000Z"
+  },
+  "bmfbr/maps/bmfbrsp2.bsp": {
+   "bytes": 9446432,
+   "sha256": "23c6b64f2f12805e748ac0ff5f66ac1949487e50f752bdd4d25d7aee49225e2b",
+   "timestamp": "2020-11-29T12:26:34.000Z"
+  },
+  "bmfbr/maps/bmfbrsp2.lit": {
+   "bytes": 3257372,
+   "sha256": "a774de3d3eba7178c4a482b4cc0f4f3795767f09c9790f464a58df54be56d5ea",
+   "timestamp": "2020-11-29T10:40:26.000Z"
+  },
+  "bmfbr/maps/bmfbrsp2.map": {
+   "bytes": 6140555,
+   "sha256": "bef5cdc6f695792b41be279261eaa14107511492be968ab04801764b232061c1",
+   "timestamp": "2020-11-29T12:40:50.000Z"
+  },
+  "bmfbr/progs.dat": {
+   "bytes": 527070,
+   "sha256": "ddbc803f63f82f923e5bd9f5b34fbae53add169330c5d19bcdba2306bba0b794",
+   "timestamp": "2020-11-28T12:55:40.000Z"
+  },
+  "bmfbr/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-26T17:05:58.000Z"
+  },
+  "bmfbr/progs/candle.mdl": {
+   "bytes": 24135,
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2018-10-10T19:27:08.000Z"
+  },
+  "bmfbr/progs/debris.mdl": {
+   "bytes": 270552,
+   "sha256": "714b4fc3ce6675f0f4edc6ed7022e817f3922cde1877eb5418e4ddf60d798724",
+   "timestamp": "2019-11-06T20:33:52.000Z"
+  },
+  "bmfbr/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2019-05-17T10:20:46.000Z"
+  },
+  "bmfbr/progs/g_shotty.mdl": {
+   "bytes": 23380,
+   "sha256": "b919bbcba3f7f03fb8b82fa6d3b1464ca41e81cf29417cfea0de09658c698cfb",
+   "timestamp": "2019-05-17T11:07:18.000Z"
+  },
+  "bmfbr/progs/h_boss.mdl": {
+   "bytes": 63532,
+   "sha256": "320aff68d374f002ed468bf17ddeca4d95f59ef68c7dd3a17287fef2da1f0b46",
+   "timestamp": "2020-02-02T13:43:06.000Z"
+  },
+  "bmfbr/progs/lspike.mdl": {
+   "bytes": 1684,
+   "sha256": "75a3f036a04bf5843488758f90fc2416d8a96ed5493460444c4fe2e6ce9956e4",
+   "timestamp": "2020-09-14T08:58:38.000Z"
+  },
+  "bmfbr/progs/mervup.mdl": {
+   "bytes": 32948,
+   "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899",
+   "timestamp": "2020-06-06T23:04:40.000Z"
+  },
+  "bmfbr/progs/pd_base_key.mdl": {
+   "bytes": 21219,
+   "sha256": "320ec52018f501f8fe428dd46f44693787e545289be883a49f3bd6476974cf46",
+   "timestamp": "2019-11-15T19:29:12.000Z"
+  },
+  "bmfbr/progs/pd_rune_key.mdl": {
+   "bytes": 46335,
+   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
+   "timestamp": "2019-11-15T19:40:24.000Z"
+  },
+  "bmfbr/progs/pd_wiz_key.mdl": {
+   "bytes": 21907,
+   "sha256": "36b50211f687813b85648a46bd32a1d543a8f2af84e9d4223f8b5843f885e1bc",
+   "timestamp": "2019-11-15T19:33:36.000Z"
+  },
+  "bmfbr/progs/s_flame.spr": {
+   "bytes": 29224,
+   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
+   "timestamp": "2018-10-01T21:43:54.000Z"
+  },
+  "bmfbr/progs/s_null.spr": {
+   "bytes": 1080,
+   "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+   "timestamp": "2019-10-03T22:17:30.000Z"
+  },
+  "bmfbr/progs/spark.mdl": {
+   "bytes": 9588,
+   "sha256": "74dc6734e0ce30447942a10e9ec78c7cf43eafb86f290cc772b2a8874702b858",
+   "timestamp": "2019-06-03T20:21:02.000Z"
+  },
+  "bmfbr/quakec src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-21T14:26:10.000Z"
+  },
+  "bmfbr/quakec src/LICENSE": {
+   "bytes": 18431,
+   "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "bmfbr/quakec src/README.md": {
+   "bytes": 239,
+   "sha256": "2be824d72bdef25ec9f90b9b55b63a24334282d53d83ec79ac273249821bc79c",
+   "timestamp": "2020-08-13T08:17:06.000Z"
+  },
+  "bmfbr/quakec src/ai.qc": {
+   "bytes": 16108,
+   "sha256": "2bc5fc6b92ebecd8790dbdf0c2a9dd1b8b8812a5b2732f2ff9a8483eaa3ee44d",
+   "timestamp": "2020-11-27T12:58:06.000Z"
+  },
+  "bmfbr/quakec src/boss.qc": {
+   "bytes": 13622,
+   "sha256": "f3a9aa39d57adda1b897908fd26c28e0151eaaa2920ed6a082b18b46b94a33e3",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/boss2.qc": {
+   "bytes": 15987,
+   "sha256": "4aa8179663b52698079673aa46f263f9e2769e3d657a725897023bfc414c331b",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/buttons.qc": {
+   "bytes": 3249,
+   "sha256": "1a814605af733bb3fc6ae250d7af5cb0b2d40bd3b37f5522b6d928126dd6eac9",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/changelog.txt": {
+   "bytes": 9019,
+   "sha256": "a3f7ce9577a7583e42614f49743f00e7fc78d944a23a1e1c8dc4aedd70c45320",
+   "timestamp": "2020-11-08T14:20:28.000Z"
+  },
+  "bmfbr/quakec src/client.qc": {
+   "bytes": 42633,
+   "sha256": "d0ecb904610a814c60e20194b1fc42287f36e9ad23ff04f2ad60a332a6e005b4",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/combat.qc": {
+   "bytes": 7192,
+   "sha256": "c1b5774a0b11c50cf5e6508e11349aa38c6bc8b468fad60fe7c0a4a1d30c9cc0",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/copy-paste.txt": {
+   "bytes": 3764,
+   "sha256": "027a477eb1bc6869c0a730dfc70717c72714bcbb4bfcb0e722b35230b72fc3b0",
+   "timestamp": "2020-11-11T18:24:20.000Z"
+  },
+  "bmfbr/quakec src/custom_mdls.qc": {
+   "bytes": 2167,
+   "sha256": "3798f019c4c7151be89ccbebb560120101e69357a1da645a497b90fcb9bbbba3",
+   "timestamp": "2020-09-18T16:20:28.000Z"
+  },
+  "bmfbr/quakec src/customsounds.qc": {
+   "bytes": 5564,
+   "sha256": "26bce1b876f3a8a709a2b61298d1f65de5f568f24ac66db713e8585afc694f5d",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/cutscene.qc": {
+   "bytes": 30669,
+   "sha256": "b9ec452e62de479c53c05ac56a943c79d89ac7d6ee3d3bb3c68fb203656ac5cd",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/defs.qc": {
+   "bytes": 25365,
+   "sha256": "28a11e3a2533d4056cc2d9fb94ead39009c319b9d60f33cc6c3e2dc45a82df3a",
+   "timestamp": "2020-11-28T12:43:44.000Z"
+  },
+  "bmfbr/quakec src/demon.qc": {
+   "bytes": 14522,
+   "sha256": "30e86a30ce46b42a244d95d5708954fbba4c7ade86c63b5546f1793880dfc27d",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/doelightning.qc": {
+   "bytes": 4955,
+   "sha256": "4b6233156f3792d7529d714de7f992c066a927d5f9109d9947caa2a7a2341c57",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/doeplats.qc": {
+   "bytes": 14879,
+   "sha256": "dcca85f99b803fbbafea7ecd0b12ae8cf02e9dc48422a28e6d70335f749eafe3",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/dog.qc": {
+   "bytes": 14074,
+   "sha256": "56be125ef20df7e6547f5647a3f42f035d2e62162895d8b7386d0e0b04b0c34d",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/doors.qc": {
+   "bytes": 18038,
+   "sha256": "d970609f915fdbbe198f8013131982edaca96d32cf449caac5d04e1512575b1a",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/dtmisc.qc": {
+   "bytes": 29515,
+   "sha256": "2bb816b877c7d4a3c919ecdfddaab63b8f39730593396128ec259470e6369d14",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/dtquake.qc": {
+   "bytes": 2654,
+   "sha256": "170b5464e0092f6a2f261910108381fd93fdb7fb5dd7bc047863f7bcc462dd9a",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/elevatr.qc": {
+   "bytes": 3624,
+   "sha256": "eb6a260d53ca8f7b69f20a8cc42341c597d5e06ea18bca86e6aabff71bbc892b",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/enforcer.qc": {
+   "bytes": 24661,
+   "sha256": "37f102cf75720a8dc30004c71bc6e05ec96929465e2f8a53c9e875393a92ee1d",
+   "timestamp": "2020-11-08T08:48:54.000Z"
+  },
+  "bmfbr/quakec src/fgd_def/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-11-21T14:26:10.000Z"
+  },
+  "bmfbr/quakec src/fgd_def/progs_dump_120.def": {
+   "bytes": 136605,
+   "sha256": "4c8aec6cdef9bf1c8f0454588293b47af9a0bd7dd9f18aedcd7f8e498392c007",
+   "timestamp": "2020-11-08T15:33:38.000Z"
+  },
+  "bmfbr/quakec src/fgd_def/progs_dump_120_JACK.fgd": {
+   "bytes": 105666,
+   "sha256": "fb1379b0da7f54e97cd7c4299f45311b4388c680a1e67c608ee37c2a32b61a57",
+   "timestamp": "2020-11-11T18:32:32.000Z"
+  },
+  "bmfbr/quakec src/fgd_def/progs_dump_120_TB.fgd": {
+   "bytes": 109825,
+   "sha256": "40fb9fafaa6a41a67cf9f95c2ab51882c52960122582415ac3166771dfd254b0",
+   "timestamp": "2020-11-27T10:55:02.000Z"
+  },
+  "bmfbr/quakec src/fgd_def/progs_dump_120_TB_Custom_mdl.fgd": {
+   "bytes": 112669,
+   "sha256": "693775b9aa46b3d304f5124a3ccedf17e514ecf14617c01d741d8af2c3604223",
+   "timestamp": "2020-11-11T18:37:22.000Z"
+  },
+  "bmfbr/quakec src/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "bmfbr/quakec src/fish.qc": {
+   "bytes": 11487,
+   "sha256": "bdb3843c010905bfca74229fcf1310c5bb39cb1254f80789cc1b63ba574c44b3",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/func_bob.qc": {
+   "bytes": 5676,
+   "sha256": "5fe11638fd89f509759c83748c519b98dc5fe5856b09fab1f6247518b9836143",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/func_fall2.qc": {
+   "bytes": 5632,
+   "sha256": "11cb67e867005f519f2df4e382f6330aa2218f3c10a612911caa22cf6d69ae99",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/hipcount.qc": {
+   "bytes": 5217,
+   "sha256": "da5c096495966fa9ef5315ba00b315987349a817c889b974d8a91f506e6aee1d",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/hippart.qc": {
+   "bytes": 7983,
+   "sha256": "730ed584b4de9dd49283502419a8bcafb99e2f1a3d146e05afee0ab2547751c3",
+   "timestamp": "2020-11-28T07:39:00.000Z"
+  },
+  "bmfbr/quakec src/hiptrig.qc": {
+   "bytes": 6260,
+   "sha256": "e0292ef23ab7c669257e30525897fa1ae64e3c0870002863e5fa98e8de95aca1",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/hknight.qc": {
+   "bytes": 23948,
+   "sha256": "483dc7052e70849820d3abeea59461ac64b52b666f05be16f3b2706f39d88fe4",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/items.qc": {
+   "bytes": 53565,
+   "sha256": "d471abf8167d60767cbc795dd84934160759567c3ff07e18c553ba53952d6f0f",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/keydata.qc": {
+   "bytes": 5639,
+   "sha256": "5902993c9755a2851ef424e48572a9806d20d3aae67a8f9d01446c4aad09a91a",
+   "timestamp": "2020-08-13T08:17:06.000Z"
+  },
+  "bmfbr/quakec src/keylock.qc": {
+   "bytes": 5884,
+   "sha256": "26751c63554a6e73da84138ee45871f501d3bb5250cbfa137a524087bc204e39",
+   "timestamp": "2020-08-13T08:17:06.000Z"
+  },
+  "bmfbr/quakec src/knight.qc": {
+   "bytes": 14604,
+   "sha256": "f5026038eeb7a4f4dc4c88e1ed3aed55c3cacd5d55325482b9aa0e3e414eb61c",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/lights.qc": {
+   "bytes": 15788,
+   "sha256": "bc3b1c74010a3471bb33522e79f755da11982515e0de36c526c682bed3c42236",
+   "timestamp": "2020-11-27T14:41:12.000Z"
+  },
+  "bmfbr/quakec src/math.qc": {
+   "bytes": 1813,
+   "sha256": "9d5303c03ed58760bedbeb3f017ddebd5bc0c27de43a1e62ea3b5ae8bab2b927",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "bmfbr/quakec src/misc.qc": {
+   "bytes": 41238,
+   "sha256": "f70d0ca3f65159c9645f6702682a7183a8ee0b8a05b679c9f3d3226801566b2e",
+   "timestamp": "2020-11-28T12:55:34.000Z"
+  },
+  "bmfbr/quakec src/misc_model.qc": {
+   "bytes": 2586,
+   "sha256": "b4bc2c25bf2d7b1bd7fbe73397a84ccaecde8575e33081f4013ec1ca2fd165f5",
+   "timestamp": "2020-11-27T12:10:46.000Z"
+  },
+  "bmfbr/quakec src/mobot.qc": {
+   "bytes": 13483,
+   "sha256": "b2d69ba2bbfdc8de2a3c55e2daa298fe4f8e2b7d8b3f4f79bb7aea764fab5b82",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/monsters.qc": {
+   "bytes": 10018,
+   "sha256": "335d8da10275b61aa57b939a022eb8995d3a745609ef83d321bf52731e94ef11",
+   "timestamp": "2020-10-17T10:57:24.000Z"
+  },
+  "bmfbr/quakec src/newflags.qc": {
+   "bytes": 5870,
+   "sha256": "192bf31eb0f13e6e55342801a42608caf797bfdfbdf27750c78ae67b1c1c5568",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "bmfbr/quakec src/ogre.qc": {
+   "bytes": 39855,
+   "sha256": "7fad71c3d97341668eb81edd78f75dd19c1d6bbf4bef3990bc3a0ab11e7a4521",
+   "timestamp": "2020-11-08T14:25:44.000Z"
+  },
+  "bmfbr/quakec src/oldone.qc": {
+   "bytes": 10263,
+   "sha256": "71f269418437ca5dc5cdb1ebe917a1a7252fde104ca92011c0079fa7769aa740",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/oldone2.qc": {
+   "bytes": 14736,
+   "sha256": "6a3cb7559241c34c69ca053780b8d2e156eef260e0e54a2d575ca3a690aaf357",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/plats.qc": {
+   "bytes": 14266,
+   "sha256": "545511c895c06cc2676cfa33f953415b4ee33ad72f2292c7d0b70026fa77d3ac",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/player.qc": {
+   "bytes": 20579,
+   "sha256": "5612eef978278acf038f2a24b9050f237ea966a79a02fe79e78f4687b527c541",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/progs.src": {
+   "bytes": 1907,
+   "sha256": "9f39f79f6601938cb94f93831f5dbf7e14b974a25f7d86554cc417aba66f20d9",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/rotate.qc": {
+   "bytes": 31330,
+   "sha256": "63103ad2bb9f6cf0479863d22188bfef46acc674d27ec00863b9c7f098d3c6af",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/rubicon2.qc": {
+   "bytes": 28496,
+   "sha256": "78fa5fad05b952b430a7da1f8b6144d786c7b8f311f600e99c9dfe39cae0271b",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/shalrath.qc": {
+   "bytes": 13080,
+   "sha256": "12f8b8216a11a5604fe209d16db3125f420a777bea4c458d395415ad24b14494",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/shambler.qc": {
+   "bytes": 18117,
+   "sha256": "edd8fa44edc49798042d7ec79dc7a3394dea451e4c6a8b32fafea1a3711a8bc2",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/soldier.qc": {
+   "bytes": 18679,
+   "sha256": "e7d2534eacd7d3e51a2461882e8c9a0c80ed2ab536cb91f27dea0290332ee697",
+   "timestamp": "2020-11-08T13:32:36.000Z"
+  },
+  "bmfbr/quakec src/subs.qc": {
+   "bytes": 14185,
+   "sha256": "d0e5649ffd317bf70b4c85d686d7f7035ce68a7c616733039788746974a9554c",
+   "timestamp": "2020-10-17T10:57:24.000Z"
+  },
+  "bmfbr/quakec src/tarbaby.qc": {
+   "bytes": 9838,
+   "sha256": "606be3949a8626614cabec5b44b48e601b8d0897e92700c0914ec66ab0abca77",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/triggers.qc": {
+   "bytes": 41760,
+   "sha256": "e369d784b52fe72b250253f43ff5399cbafa4ebcbd276d086c91c28d3e1ba6c7",
+   "timestamp": "2020-11-27T15:53:50.000Z"
+  },
+  "bmfbr/quakec src/weapons.qc": {
+   "bytes": 37753,
+   "sha256": "53d5290b66f3f179990f3d9e51e8f962beefa9b2a769ecdf16181979f97e77f0",
+   "timestamp": "2020-11-08T13:32:08.000Z"
+  },
+  "bmfbr/quakec src/wizard.qc": {
+   "bytes": 15583,
+   "sha256": "fb498af6929dfd6211cad92799846e9a382b6c5b7c4475b9a583218d5152a43e",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/world.qc": {
+   "bytes": 19788,
+   "sha256": "fa1133f3b0ecb46f167db0359297079b8b3dce380a846f1d06d2b977f5de45a3",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbr/quakec src/zombie.qc": {
+   "bytes": 33380,
+   "sha256": "c6440d767a659b01ea3e95da2d3955fb42ff2245ed66643e2fecfe9896aa60d9",
+   "timestamp": "2020-11-07T20:36:26.000Z"
+  },
+  "bmfbrsp2.txt": {
+   "bytes": 3458,
+   "sha256": "a46697dbeb900e8e66239d5825b48996c5780cdf1eb979df451aa3ef8f85d0ce",
+   "timestamp": "2020-11-29T12:46:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "8026199277b8f9a260006058192a4b80b4ff23a1fc02094683dd7e701b30f01f",
+ "tags": [
+  "author=bmFbr",
+  "commandline=-game bmfbr",
+  "exceeds_quake_limits=yes",
+  "filename=bmfbrsp2_v1.2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61983)",
+  "map_size=large",
+  "nonspecific_tag=difficult",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=insane",
+  "nonspecific_tag=models",
+  "nonspecific_tag=progs_dump",
+  "nonspecific_tag=skybox",
+  "release_date=2020-11-29",
+  "source=included",
+  "startmap=bmfbrsp2",
+  "theme=base",
+  "theme=canyon",
+  "theme=coagula",
+  "theme=metal",
+  "theme=runic",
+  "theme=traps",
+  "title=The Mountains of Insanity",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/bmfbrsp2_v1.2.zip",
+  "https://www.quaddicted.com/files/by-sha256/80/8026199277b8f9a260006058192a4b80b4ff23a1fc02094683dd7e701b30f01f/bmfbrsp2_v1.2.zip"
+ ]
+}

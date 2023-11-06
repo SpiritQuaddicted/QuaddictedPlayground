@@ -1,0 +1,76 @@
+{
+ "bytes": 14912,
+ "files": {
+  "fv.bsp": {
+   "bytes": 180420,
+   "sha256": "03b47bf69f9bf33c433d589a605845f9aafb493001716e3aa40bbda86c8bae42",
+   "timestamp": "2019-01-28T17:51:28.000Z"
+  },
+  "fv.lit": {
+   "bytes": 9803,
+   "sha256": "3357e30014b708839a960ff28efa9252d9f9167b21a05bcfaac5bd2143f5804d",
+   "timestamp": "2019-01-28T17:51:28.000Z"
+  },
+  "fv.map": {
+   "bytes": 44760,
+   "sha256": "88be74847f20d3a67d17960c7573bfa4fbab9cb58dcc6fe5a66bd1293f783fe6",
+   "timestamp": "2019-01-28T17:51:24.000Z"
+  },
+  "fv.txt": {
+   "bytes": 2139,
+   "sha256": "993ba6ebd67fe62f534a7e6bbcca1839f65c44ef2b8b8e2ebe573e0386fce64a",
+   "timestamp": "2019-02-07T15:23:00.000Z"
+  },
+  "lostv.bsp": {
+   "bytes": 2457352,
+   "sha256": "0a2b1fbf8695f4d95d11cd47c1aa19b5308f1ba5a7d1024cb886205a50efc8fe",
+   "timestamp": "2019-02-07T15:04:08.000Z"
+  },
+  "lostv.lit": {
+   "bytes": 705374,
+   "sha256": "6df05cc1c0c44ffd024d31fcf872ff23a1ee18f126efc76841891ecadb88406d",
+   "timestamp": "2019-02-07T15:04:08.000Z"
+  },
+  "lostv.map": {
+   "bytes": 836426,
+   "sha256": "bd7ab157d4c99ccf638b005b4b38ef89152e6af3af97f11619d402b368df5b01",
+   "timestamp": "2019-02-07T15:02:42.000Z"
+  },
+  "music/track81.ogg": {
+   "bytes": 14004025,
+   "sha256": "6fb10e1a29c5f4062ab9cc808fe6b61c5dee786304e1654ad844c1728749b1ff",
+   "timestamp": "2017-12-24T15:56:16.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6",
+ "tags": [
+  "author=nolcoz",
+  "commandline=-game quoth -quoth",
+  "dependency=quoth2pt2full_2",
+  "filename=fv.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "mod=quoth",
+  "music=custom",
+  "nonspecific_tag=jungle",
+  "nonspecific_tag=mayan",
+  "nonspecific_tag=textures",
+  "nonspecific_tag=turok",
+  "release_date=2019-02-07",
+  "startmap=fv",
+  "startmap=lostv",
+  "theme=outdoor",
+  "theme=quoth",
+  "title=Forgotten Valley",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/fv.zip",
+  "https://www.quaddicted.com/files/by-sha256/c7/c727fc5484346a9d4699554fb13b7121407a4696e5a0a8ef12362395fa14ada6/fv.zip"
+ ]
+}

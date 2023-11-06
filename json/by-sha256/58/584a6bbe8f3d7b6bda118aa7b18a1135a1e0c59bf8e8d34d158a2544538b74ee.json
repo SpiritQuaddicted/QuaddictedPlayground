@@ -1,0 +1,208 @@
+{
+ "bytes": 6980,
+ "files": {
+  "kaiser/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2010-01-17T22:00:30.000Z"
+  },
+  "kaiser/pak0.pak": {
+   "bytes": 26667123,
+   "files": {
+    "glquake/h_hlhnd.ms2": {
+     "bytes": 1824,
+     "sha256": "7423196516a04d789e99328d7e2d1ac7dda9d432d98f8e7fd5ce2f2b16a5d511"
+    },
+    "glquake/hellhnd.ms2": {
+     "bytes": 8848,
+     "sha256": "5948350fc3a40e8686b31e2edb207bb93ca2631504e49dc8fd1ad1c4427e17f5"
+    },
+    "glquake/tarbaby.ms2": {
+     "bytes": 5100,
+     "sha256": "c7c9601f91c31ac301350684a0ce52a9b17874b2a7bf4f965203a1adee243498"
+    },
+    "glquake/tardaddy.ms2": {
+     "bytes": 5100,
+     "sha256": "c7c9601f91c31ac301350684a0ce52a9b17874b2a7bf4f965203a1adee243498"
+    },
+    "maps/kq01.bsp": {
+     "bytes": 2103560,
+     "sha256": "0deacee4e9e6c98507803da116dbf6caa54ace17e8f1673ace3d755f4a3050b5"
+    },
+    "maps/kq01.lit": {
+     "bytes": 743153,
+     "sha256": "cb2f4b7c1b010f3fad223d63381ce6c3dc5dadb87af788a6114c37bca3a7eafa"
+    },
+    "maps/kq02.bsp": {
+     "bytes": 2244968,
+     "sha256": "3383c83d3aa8e643a0973fc94bc581c9c7557846d9e27847b51fc22a8393ca7f"
+    },
+    "maps/kq02.lit": {
+     "bytes": 853313,
+     "sha256": "f0dab93e485db590e32229e16570bb6fdd148fbffe37c136cb3b9bc354495624"
+    },
+    "maps/kq03.bsp": {
+     "bytes": 3059256,
+     "sha256": "4763de069b36e2bd8b3111e7a71b96da0702a87d816a629608655d98f71cd435"
+    },
+    "maps/kq03.lit": {
+     "bytes": 1120589,
+     "sha256": "199ff541bce4132264670f73479da2220d3798de332ce49924e9e00c3ca25cde"
+    },
+    "maps/props/p_bexp.bsp": {
+     "bytes": 21960,
+     "sha256": "6954914fa8e37b914b14b6ba900e86743342399c736c3764c4ca2113ff4d3f5b"
+    },
+    "maps/props/p_olpost.bsp": {
+     "bytes": 28924,
+     "sha256": "53a71171e85f5be05b9805ba96e6c89da0c4cf4e1371846d5fff1a9927c0c2d1"
+    },
+    "maps/start.bsp": {
+     "bytes": 1310620,
+     "sha256": "96343d4ed9206bf66c08030641e1c920e39113cd15ebcd83bdbdde78bf1d4f16"
+    },
+    "maps/start.lit": {
+     "bytes": 421946,
+     "sha256": "2670678a12f816b344286b93c28c5b80fc6c31afbd042102a34b6a57b07694c3"
+    },
+    "maps/t_daddy.bsp": {
+     "bytes": 71524,
+     "sha256": "78a69385a863e0922ed558648f885a0a5b10cdf34fb1727aa3c92144ecbe0db1"
+    },
+    "maps/t_daddy.lit": {
+     "bytes": 36839,
+     "sha256": "5baf66a4d28b30d99d4fb832131368b7486fb18da89748e34bd1fcae156c11e7"
+    },
+    "maps/t_hide.bsp": {
+     "bytes": 115700,
+     "sha256": "e9d75ee278ce714b559a34bbbfbc58ae298a75e64f3ca52a14949bcdac9c6af5"
+    },
+    "maps/t_hound.bsp": {
+     "bytes": 139260,
+     "sha256": "4f154eaa6516b805c66ed920c5a8a549f6fedc890309a2de512c2d117e7bc6de"
+    },
+    "maps/t_hound.lit": {
+     "bytes": 84590,
+     "sha256": "18b58215e4c581972d5d3fb82d426d40e177424f3ca3147995483caacbe79a0f"
+    },
+    "maps/t_mjump.bsp": {
+     "bytes": 119036,
+     "sha256": "4d98cec30315afa02b00fc7468bb4e225ab246b55a974ee7d8d85c6cf5b4379b"
+    },
+    "maps/t_orgo.bsp": {
+     "bytes": 409596,
+     "sha256": "68db903d9cac1b0ff00c82bbc7e3d874ba639a468e23b66c1ce3593dbc81b401"
+    },
+    "maps/t_quake.bsp": {
+     "bytes": 77232,
+     "sha256": "321937b5e75dc9f9795a3aff72f89d431892729c58c2db108c94f07f33ffd193"
+    },
+    "maps/t_quake.lit": {
+     "bytes": 5210,
+     "sha256": "5345f3090172d9489bd4758d61022080f5c76265f138dd8739519dad06fc90dc"
+    },
+    "maps/t_rotate.bsp": {
+     "bytes": 140100,
+     "sha256": "054f950caec03446d9e7d624f9571a6d4046c207c4b090e86cc05c549760916b"
+    },
+    "maps/t_rotate.lit": {
+     "bytes": 19868,
+     "sha256": "e43d3010d0e0335f9c21dd6c8553929315b41d1484494ac2e549e7f817b48bc8"
+    },
+    "progs.dat": {
+     "bytes": 485128,
+     "sha256": "3abb172cd8465b8fdb6fd5e95263fca6e412c734b9c3b1e79b5dfc433f84e1e7"
+    },
+    "progs/drip.spr": {
+     "bytes": 60,
+     "sha256": "318b639393297fda1f569a1997ae685385fbcf2ec67793b1a6a05ef04cf5f6c4"
+    },
+    "progs/h_hlhnd.mdl": {
+     "bytes": 25824,
+     "sha256": "30e197c9ac83f00abfa6a70354e75b823ad128ede95a829ef08a5112cacb545d"
+    },
+    "progs/hellhnd.mdl": {
+     "bytes": 595105,
+     "sha256": "164ce9d4c8408e0056f9afd26497a468ddaca0d386a172a5368764c661d40b7f"
+    },
+    "progs/splash.spr": {
+     "bytes": 870,
+     "sha256": "860ad378d89ca0a9748cdc14b3a57f26efe4c0368b2fbbe4020a9d21239a405d"
+    },
+    "progs/tardaddy.mdl": {
+     "bytes": 154388,
+     "sha256": "c8eaa62bf88ec7ace431c69c62b5780b82bb0d0277cdb3048ecbbf8ca20800ed"
+    },
+    "sound/env/quake.wav": {
+     "bytes": 17710,
+     "sha256": "de937920afb3dd3e1d13de3c6efd6211485a4cc2eebe25d93b723dd4bd474c7b"
+    },
+    "sound/env/rain.wav": {
+     "bytes": 40960,
+     "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2"
+    },
+    "sound/env/thunder1.wav": {
+     "bytes": 34152,
+     "sha256": "5d2eb6c0cb51587bfe1457d8fb63237256d9f511ccaba067cb5fef2887b0d1b3"
+    },
+    "sound/env/thunder2.wav": {
+     "bytes": 30378,
+     "sha256": "965fc66decd42dabb7b1bda96b4599dca16626aa303fbd55354a9350bfcda03c"
+    },
+    "sound/hellhnd/hhbite.wav": {
+     "bytes": 10094,
+     "sha256": "c63f035d7fdac82fa3355e5ee0f4b01faa0d2f897471fca448dc17cb7c7bfc11"
+    },
+    "sound/hellhnd/hhdeath.wav": {
+     "bytes": 14736,
+     "sha256": "531c122adcd01186de0d26b92b35fd1357aeb846aa8b30ba54acd57121580393"
+    },
+    "sound/hellhnd/hhidle.wav": {
+     "bytes": 19800,
+     "sha256": "26f3c157fc0e280dc8f0891be27bb6577576519f93a4f72f4a354db5f6c2eed2"
+    },
+    "sound/hellhnd/hhpain.wav": {
+     "bytes": 7778,
+     "sha256": "d765796fd6fa72a63e51f3606f98a38db9209303519dea11631fbc32a7283ce6"
+    }
+   },
+   "sha256": "2dafe2eb74304290ba7ef6491da1f3bc3ae2a878daf00d252033eee25bb84b7f",
+   "timestamp": "2010-01-10T21:39:14.000Z"
+  },
+  "kq_readme.txt": {
+   "bytes": 2527,
+   "sha256": "dda1d8472993ee1f458bd69da6ec1ec848dcadeb9d055e53310ba83972e091c8",
+   "timestamp": "2010-01-17T22:01:12.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee",
+ "tags": [
+  "author=Samuel 'Kaiser' Villarreal",
+  "commandline=-game kaiser",
+  "filename=kq.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://villsa.wordpress.com/level-portfolio/quake/",
+  "link=[Doomworld](http://www.doomworld.com/vb/everything-else/49410-quake-hoc-demo-now-available/)",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=60573)",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=ogro",
+  "release_date=2010-01-17",
+  "startmap=start",
+  "theme=base",
+  "theme=traps",
+  "theme=zerst\u00f6rer",
+  "title=Quake: Harvester of Chaos (Demo)",
+  "type=episode",
+  "type=mod",
+  "type=unfinished"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/kq.zip",
+  "https://www.quaddicted.com/files/by-sha256/58/584a6bbe8f3d7b6bda118aa7b18a1135a1e0c59bf8e8d34d158a2544538b74ee/kq.zip"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "bytes": 369,
+ "files": {
+  "CONFIG.CFG": {
+   "bytes": 2797,
+   "sha256": "da4efdb90a187417eef3686e0e22448846099eca1b06ceb848b6a05f229cb243",
+   "timestamp": "1997-03-17T17:53:46.000Z"
+  },
+  "PROGS.DAT": {
+   "bytes": 409104,
+   "sha256": "6289faf9fef66aa507df7b1fd332f3c06761277d8240659d1165e07cadc43021",
+   "timestamp": "1997-03-16T17:52:14.000Z"
+  },
+  "maps/fdtd.bsp": {
+   "bytes": 101344,
+   "sha256": "c0042e27ca7e6edb0c777465446cefcf8e97915a29d4529d10b073f2bbee21af",
+   "timestamp": "1997-03-17T17:26:18.000Z"
+  },
+  "maps/fdtd2.bsp": {
+   "bytes": 145168,
+   "sha256": "3dec28b6f638dd7ff9d31f623b652102686c06649ab7326c394549a9f7bb200e",
+   "timestamp": "1997-03-17T17:24:50.000Z"
+  },
+  "progs/demon.mdl": {
+   "bytes": 186084,
+   "sha256": "76430f4aebfb39e918f524d81d5012051e49d0749f6f9a692ae7445a15cc8dfe",
+   "timestamp": "1997-03-15T18:15:06.000Z"
+  },
+  "progs/grenade.mdl": {
+   "bytes": 2244,
+   "sha256": "cc367dfcd94ac0c2c8b2075bc583a14a8edfcd0cd060c17381ab6836f76dfe74",
+   "timestamp": "1997-01-21T13:15:06.000Z"
+  },
+  "progs/h_demon.MDL": {
+   "bytes": 4484,
+   "sha256": "90f40b2289af7c39ddce145cc214091066e108631fd0811d4d0bfa3a7f5f80c0",
+   "timestamp": "1997-03-16T16:29:26.000Z"
+  },
+  "sound/demon/idle1.wav": {
+   "bytes": 13078,
+   "sha256": "9e3fe73cd06485d8cd209e396fca54d99168dd1ab23aae8a85b56dd2b332719e",
+   "timestamp": "1997-03-15T18:14:56.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/fdtd/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "f0ee456ed8d0fa9a68fbdbe5c1d8f027dfd4a59267e7c3aafcae9a774b470c2e",
+ "tags": [
+  "author=Iceman",
+  "commandline=-game fdtd",
+  "filename=fdtd.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "map_size=tiny",
+  "nonspecific_tag=wood",
+  "release_date=1997-03-17",
+  "theme=experimental",
+  "title=From Dark to Dune",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/fdtd.zip",
+  "https://www.quaddicted.com/files/by-sha256/f0/f0ee456ed8d0fa9a68fbdbe5c1d8f027dfd4a59267e7c3aafcae9a774b470c2e/fdtd.zip"
+ ]
+}

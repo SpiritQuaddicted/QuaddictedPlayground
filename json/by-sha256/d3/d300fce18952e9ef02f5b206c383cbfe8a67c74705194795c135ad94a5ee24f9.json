@@ -1,0 +1,94 @@
+{
+ "bytes": 10444,
+ "files": {
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-07-25T17:18:48.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-13T20:52:44.000Z"
+  },
+  "gfx/env/doom2016_vortex_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "19a8a874a8fb36355fd416978ca59411dc4e385578f93b5546e26b1731d3f817",
+   "timestamp": "2020-03-30T22:20:18.000Z"
+  },
+  "gfx/env/doom2016_vortex_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "bba53159355ec692e6c718551dd9f9fd1012560a9c36054251ef9c3fdd05fb6d",
+   "timestamp": "2020-03-30T22:21:36.000Z"
+  },
+  "gfx/env/doom2016_vortex_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "62e0a7680e3973562058dc90af2b7f8d9ca4542e20d2dc906dcac935be441065",
+   "timestamp": "2020-03-30T22:20:36.000Z"
+  },
+  "gfx/env/doom2016_vortex_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "f769cb254a255b91178199aed9347c61df66d0bc912b224870a846636cbdc20e",
+   "timestamp": "2020-03-30T22:20:48.000Z"
+  },
+  "gfx/env/doom2016_vortex_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "3a8f5f8932456576b16d9d31eef6273e5c3ab8e5cd52e21ee6da1dea819d7141",
+   "timestamp": "2020-03-30T22:20:02.000Z"
+  },
+  "gfx/env/doom2016_vortex_up.tga": {
+   "bytes": 3145772,
+   "sha256": "9a4d6917506dc3de59fbbb06c3208de4eba56fc39a4a9185cd3cef6194a4642f",
+   "timestamp": "2020-03-30T22:21:04.000Z"
+  },
+  "kelluva.txt": {
+   "bytes": 1713,
+   "sha256": "9d6bc88b94eaa14f5075eddda0b8bf48bf25485e213730892d7b240e387145f4",
+   "timestamp": "2020-07-25T17:07:36.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-07-25T17:28:24.000Z"
+  },
+  "maps/kelluva.bsp": {
+   "bytes": 5589016,
+   "sha256": "54c38cc28819bcb9122699efd83c5457b32c1e1e5c587fdb21305eb7142bd6cf",
+   "timestamp": "2020-07-25T17:04:00.000Z"
+  },
+  "maps/kelluva.lit": {
+   "bytes": 2652386,
+   "sha256": "55e1f6fbcffb0f5c082f66e83420e647ed30f4e1af162253dfe38c8c6a6205cf",
+   "timestamp": "2020-07-25T17:08:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d300fce18952e9ef02f5b206c383cbfe8a67c74705194795c135ad94a5ee24f9",
+ "tags": [
+  "author=Bal &amp; Greenwood",
+  "exceeds_quake_limits=yes",
+  "filename=kelluva_linna.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.born-robotic.com",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61921)",
+  "map_size=large",
+  "nonspecific_tag=skybox",
+  "release_date=2020-07-25",
+  "startmap=kelluva",
+  "theme=bricks",
+  "theme=castle",
+  "theme=dkt",
+  "theme=lava",
+  "theme=space",
+  "title=Kelluva Linna",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/kelluva_linna.zip",
+  "https://www.quaddicted.com/files/by-sha256/d3/d300fce18952e9ef02f5b206c383cbfe8a67c74705194795c135ad94a5ee24f9/kelluva_linna.zip"
+ ]
+}

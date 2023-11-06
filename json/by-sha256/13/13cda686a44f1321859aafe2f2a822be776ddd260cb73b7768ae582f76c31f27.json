@@ -1,0 +1,71 @@
+{
+ "bytes": 2930,
+ "files": {
+  "MJB2HUB.bsp": {
+   "bytes": 328350,
+   "sha256": "099eb831d69548544312ae87c558d3d3cdb7d5738392a2c13c8c4157add0f87e",
+   "timestamp": "2016-02-06T17:13:08.000Z"
+  },
+  "MJB2M1.bsp": {
+   "bytes": 2072956,
+   "sha256": "fca7b89bb4d5a9a67a34e27ee5bcda2f5dc138ccca9a2e4a9ab2b4f6054250a5",
+   "timestamp": "2016-02-07T17:44:32.000Z"
+  },
+  "MJB2M1.lit": {
+   "bytes": 972305,
+   "sha256": "f413e1514f0b39db459538a25df334f480910a2ae7dff784bf043ba03cb0e622",
+   "timestamp": "2016-02-07T17:44:32.000Z"
+  },
+  "MJB2M2.bsp": {
+   "bytes": 2308974,
+   "sha256": "d5df67c1a009b78a4f2b798848583824feb36a8e01714b5baeef6cff329cd3ef",
+   "timestamp": "2016-02-06T17:15:34.000Z"
+  },
+  "MJB2M2.lit": {
+   "bytes": 653336,
+   "sha256": "8d70afa11c649c4fbc239f91fe27b70ba28c95ff9b905c9d9ed715d8cb21d41b",
+   "timestamp": "2016-02-06T17:15:34.000Z"
+  },
+  "MJB2M3.bsp": {
+   "bytes": 636085,
+   "sha256": "91773f5681ffbb794fe117b5ffe4d49df7a1b822a4b79512e779d765b1bdfce1",
+   "timestamp": "2016-02-06T17:50:46.000Z"
+  },
+  "MJB2M3.lit": {
+   "bytes": 164450,
+   "sha256": "e094187235fabf924076c26c6a569020fa38321c08a7d347d620238965ab7527",
+   "timestamp": "2016-02-06T17:50:46.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "13cda686a44f1321859aafe2f2a822be776ddd260cb73b7768ae582f76c31f27",
+ "tags": [
+  "author=Bloughsburgh",
+  "commandline=-quoth -game quoth",
+  "dependency=quoth",
+  "filename=runeofblood.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61444)",
+  "map_size=small",
+  "mod=quoth",
+  "release_date=2016-02-07",
+  "startmap=mjb2b2",
+  "startmap=mjb2hub",
+  "startmap=mjb2m1",
+  "startmap=mjb2m3",
+  "theme=base",
+  "theme=quoth",
+  "theme=wizard",
+  "title=Rune of Blood",
+  "type=episode",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/runeofblood.zip",
+  "https://www.quaddicted.com/files/by-sha256/13/13cda686a44f1321859aafe2f2a822be776ddd260cb73b7768ae582f76c31f27/runeofblood.zip"
+ ]
+}

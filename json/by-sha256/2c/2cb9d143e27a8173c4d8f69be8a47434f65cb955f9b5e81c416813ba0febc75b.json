@@ -1,0 +1,45 @@
+{
+ "bytes": 2802,
+ "files": {
+  "aerovit.bsp": {
+   "bytes": 6604920,
+   "sha256": "f62c5a79a1357378b1a0eef03cf86669300e99a86e310739d78ecad62d9c1573",
+   "timestamp": "2020-05-04T17:42:06.000Z"
+  },
+  "aerovit.txt": {
+   "bytes": 1691,
+   "sha256": "4c12f8f05de230fd994634652513b6da65a40cceeab2d66a9eef43287280585f",
+   "timestamp": "2020-05-03T10:59:20.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "2cb9d143e27a8173c4d8f69be8a47434f65cb955f9b5e81c416813ba0febc75b",
+ "tags": [
+  "author=czg &amp; Greenwood",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "dependency=ad_v1_70patch1",
+  "exceeds_quake_limits=yes",
+  "filename=aerovit.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61885)",
+  "map_size=large",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=textures",
+  "release_date=2020-05-04",
+  "theme=arcane dimensions",
+  "theme=base",
+  "theme=doom",
+  "title=Aerospace Vitriol",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/aerovit.zip",
+  "https://www.quaddicted.com/files/by-sha256/2c/2cb9d143e27a8173c4d8f69be8a47434f65cb955f9b5e81c416813ba0febc75b/aerovit.zip"
+ ]
+}

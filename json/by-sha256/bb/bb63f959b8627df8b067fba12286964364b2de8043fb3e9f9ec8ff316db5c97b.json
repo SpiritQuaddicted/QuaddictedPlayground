@@ -1,0 +1,212 @@
+{
+ "bytes": 3692,
+ "files": {
+  "strom.bat": {
+   "bytes": 19,
+   "sha256": "a9f74910a118d9b5cf2de6e61181fbf8cee29e0e3085af94f85832121e7eef9d",
+   "timestamp": "1997-04-09T16:02:20.000Z"
+  },
+  "strom/Pak0.pak": {
+   "bytes": 8455713,
+   "files": {
+    "demo1.dem": {
+     "bytes": 161736,
+     "sha256": "074426491e5474a674eb68141e0efa22e2ddba06d161c4fec822daf7483d0dcc"
+    },
+    "demo2.dem": {
+     "bytes": 133247,
+     "sha256": "55bfe9c1fab1d0712f083305ca6ab85024cfc724a5e6f8d4a306ae79f75cbc17"
+    },
+    "gfx/bigbox.lmp": {
+     "bytes": 5192,
+     "sha256": "49dad8797031fd004ebfdd73ea4c5de8914deaef0c785db369f4f3c8b2a57afc"
+    },
+    "gfx/box_bl.lmp": {
+     "bytes": 72,
+     "sha256": "95c3d55a4fe93234228cf3537f55755ba2beebad24fd03fd831ef64aed9d06c5"
+    },
+    "gfx/box_bm.lmp": {
+     "bytes": 136,
+     "sha256": "899fdea2a84727771e90d16db5d6a96d1e1a499612f6b45ef89aa02ae3b29304"
+    },
+    "gfx/box_br.lmp": {
+     "bytes": 72,
+     "sha256": "d04c7b7755f7ff059c05c86c13c183f3291b0d267026a0761a23afefac2955d1"
+    },
+    "gfx/box_ml.lmp": {
+     "bytes": 72,
+     "sha256": "7ccd9c7a1548f6204df3b6d67620a8985e98ab67413b68ea7b4dfa2453fd25c2"
+    },
+    "gfx/box_mm.lmp": {
+     "bytes": 136,
+     "sha256": "785e0beeb5f0118f4faf803ee480c9a8ca240c0040043c6ae15cf1f8a6782002"
+    },
+    "gfx/box_mm2.lmp": {
+     "bytes": 136,
+     "sha256": "e35f5f8e1223c6bcc02355b7c99dc1c5d7eaf074d24a99d1b353fc108deda0b8"
+    },
+    "gfx/box_mr.lmp": {
+     "bytes": 72,
+     "sha256": "786cc2017da3f821b326827babf76885eb2a8b33aae37126001a24885e12419b"
+    },
+    "gfx/box_tl.lmp": {
+     "bytes": 72,
+     "sha256": "0de49268b138a00c4b709802647a184280b3799302c465f1dbba135f0488e018"
+    },
+    "gfx/box_tm.lmp": {
+     "bytes": 136,
+     "sha256": "4897c4665b810a1d0848d5fe1f343ba732fdae80d023b8649449c543fd2b0422"
+    },
+    "gfx/box_tr.lmp": {
+     "bytes": 72,
+     "sha256": "26b160a6a1176542e0a6b26a3feca456d58a239c1a45587511072f6095bd9e1a"
+    },
+    "gfx/conback.lmp": {
+     "bytes": 64008,
+     "sha256": "376fd81edc040513931eda6846f148fdff324b1a53c2f57225c54ac50d8e9c0f"
+    },
+    "gfx/finale.lmp": {
+     "bytes": 6920,
+     "sha256": "fe7bdadd0d164f40b5197e5027771e9e494d9434a81f6b5c14d5674929d6535f"
+    },
+    "gfx/qplaque.lmp": {
+     "bytes": 4616,
+     "sha256": "35192a076c437f44ff7b3c8df2bd75f3380f6fe2b4a5382df2c169b473817578"
+    },
+    "maps/cats.bsp": {
+     "bytes": 761424,
+     "sha256": "aba7f441fff466c62ac158003004120ad98a1c5090eb0ab0d79a7ea8646d039d"
+    },
+    "maps/fish.bsp": {
+     "bytes": 134308,
+     "sha256": "b722831d91ea0332ba63328e1bd4089aa7168faebcbdaf3da331119fcc53a11c"
+    },
+    "maps/love.bsp": {
+     "bytes": 588344,
+     "sha256": "95d07ed868d5d0fdc8728a95233444bf8df99d9a36e9b41df64602f5dd52b16b"
+    },
+    "maps/owls.bsp": {
+     "bytes": 1006720,
+     "sha256": "11201de4a9238758dd502a264364608b7fdb98529e7efb0fa3feeaaaa930ef1b"
+    },
+    "maps/penis.bsp": {
+     "bytes": 1548252,
+     "sha256": "185629353fe609e068929ec0bbfdd1c271cb5fab07dd6b69a0dfd6f610a8aee9"
+    },
+    "maps/rats.bsp": {
+     "bytes": 1368832,
+     "sha256": "776237f0fd5d8769989469198cff030ddc2bd3632c999cf9bea04c292797d84e"
+    },
+    "maps/reds.bsp": {
+     "bytes": 573276,
+     "sha256": "2cbcd2d868d2aeec7b83c490ecec201092692a491157880133ade91030412312"
+    },
+    "maps/slugs.bsp": {
+     "bytes": 461292,
+     "sha256": "ff0bf198fb06bf26aa51bb49171aed27adcbf5c180a9463fb5f9556d59ea7e0b"
+    },
+    "maps/start.bsp": {
+     "bytes": 576156,
+     "sha256": "107b97543c7433b036ab4e2b9708d19ccfa6cb7feb015b2bb6504bf2ce6ad5cf"
+    },
+    "progs.dat": {
+     "bytes": 425320,
+     "sha256": "d19a631c24287dfc5cc60b16959424f3b195a81b6b33d011cb4eb97e208d6751"
+    },
+    "progs/bit.mdl": {
+     "bytes": 1044,
+     "sha256": "280ccc27482f5eb5f19a2f283a54d0602ffafa3c4ca697b451f4a054a6fc939f"
+    },
+    "progs/ogre2.mdl": {
+     "bytes": 162036,
+     "sha256": "6b7d2a9011bce6df6ee28dae5b1ff684afd53b273eae6619f3d67addfc2456d1"
+    },
+    "progs/s_rain.spr": {
+     "bytes": 37196,
+     "sha256": "cc6facb55b73827c89b9459665a1969468119a9e4465debc741da1c892373a4b"
+    },
+    "progs/soldier.mdl": {
+     "bytes": 146288,
+     "sha256": "7f7aa6bda2197d6bb73d62ca886e55e91ba9df083c68d9b041cee2b90efe1829"
+    },
+    "progs/star.mdl": {
+     "bytes": 37876,
+     "sha256": "4ccf452b5ca324bdd3ecac2b7578402085874ada7940765a298810d597aa0763"
+    },
+    "progs/v_star.mdl": {
+     "bytes": 56996,
+     "sha256": "1fe995359a8da40ac1df2f25fcc5d99092594607d5bcf0e7a7b54482f9c9c0de"
+    },
+    "quake.rc": {
+     "bytes": 298,
+     "sha256": "a33d6bc621bbf8a9350e5bbed78ed3d9a9ab471c38ebbfd9f926ec4ef5b7101a"
+    },
+    "sound/ambience/rain.wav": {
+     "bytes": 91202,
+     "sha256": "a196a2fc8a052368f9e8f7efe853391d1a99dfb1f6afae4fc7038222f2eb6fda"
+    },
+    "sound/ambience/z_song.wav": {
+     "bytes": 61546,
+     "sha256": "0cf2c771199f4a2e283177b88e65d5258fe8e74947e1b94fa199383635c3b6af"
+    },
+    "sound/soldier/d_grunt.wav": {
+     "bytes": 9910,
+     "sha256": "0d502b41dac6081a357a0d8922f39f323ce4d5202aaafe755c575e29e4a6ea9e"
+    },
+    "sound/weapons/bounce2.wav": {
+     "bytes": 7960,
+     "sha256": "d2da688ec5fc64f24b798b645eb80b8cdd60c6e7d44cb68a7e05e2264e1e69d5"
+    },
+    "sound/weapons/chain1.wav": {
+     "bytes": 3368,
+     "sha256": "2b62c292f87665f9b6dbbc716c24875e67d4206c548440b79443a14fa9ee7ba8"
+    },
+    "sound/weapons/chain2.wav": {
+     "bytes": 3192,
+     "sha256": "e0991b1a92351720cf85030db91bb1a896c5aa3f7ed01bcb73c7534ca798b32e"
+    },
+    "sound/weapons/chain3.wav": {
+     "bytes": 6172,
+     "sha256": "cc1bdca575e0dd0fe1986fe590b85f6c27dca84a3de89e20306e61c4677686fd"
+    },
+    "sound/weapons/gotcha.wav": {
+     "bytes": 7374,
+     "sha256": "e17abe393fd473c69b202286c2ae3079a32f90504a5292bc5e9e38888ed07cc1"
+    }
+   },
+   "sha256": "012ad5f0be8e757d7a14700475578c3144061e6042ed0f162527f9d36d11c639",
+   "timestamp": "1997-04-12T10:27:00.000Z"
+  },
+  "strom/strom.txt": {
+   "bytes": 11177,
+   "sha256": "42865849e23e85305def2b2523e25aa2d49058875c725f3e0db1b380ee325b4d",
+   "timestamp": "1997-05-08T13:19:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b",
+ "tags": [
+  "author=Tigger-On",
+  "commandline=-game strom",
+  "filename=strom.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "nonspecific_tag=chthon",
+  "nonspecific_tag=skins",
+  "release_date=1997-05-08",
+  "startmap=start",
+  "theme=boss",
+  "theme=traps",
+  "title=Strom",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/strom.zip",
+  "https://www.quaddicted.com/files/by-sha256/bb/bb63f959b8627df8b067fba12286964364b2de8043fb3e9f9ec8ff316db5c97b/strom.zip"
+ ]
+}

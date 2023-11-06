@@ -1,0 +1,284 @@
+{
+ "bytes": 2036,
+ "files": {
+  "GPL.txt": {
+   "bytes": 14969,
+   "sha256": "2f4d8811d21f8a6e1ba2353644e93a973cf3ef326776a06ff755b9357f4ca248",
+   "timestamp": "1999-12-21T19:01:14.000Z"
+  },
+  "e1m1red-src.zip": {
+   "bytes": 343675,
+   "files": {
+    "e1m1red-src.txt": {
+     "bytes": 3317,
+     "sha256": "c689dd261d55c404c092991a09484f701e5f808fb2a6d70af4859bd6b1eb039c",
+     "timestamp": "2008-09-12T06:38:12.000Z"
+    },
+    "e1m1red.map": {
+     "bytes": 1690154,
+     "sha256": "10faae3f20ad2b847d21da26a802d682f0b556e792c89338949b742e88fad04c",
+     "timestamp": "2008-09-11T23:52:18.000Z"
+    },
+    "qc/": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+     "timestamp": "2008-09-12T04:17:14.000Z"
+    },
+    "qc/ai.qc": {
+     "bytes": 14521,
+     "sha256": "54a6329a086391d2f1296fd30afd5db9ca676f7f15911c703b15e440b4e5778c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "qc/amtest.qc": {
+     "bytes": 1697,
+     "sha256": "8dd158020b8c0be6988b0f1fbe03990372fb769442dbaf85248ef8c0e18645ee",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "qc/boss.qc": {
+     "bytes": 12411,
+     "sha256": "674893303bff9280f134066f168b06dd2dd1d58591c42acc2c70c6e2a4b9ba82",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "qc/buttons.qc": {
+     "bytes": 6557,
+     "sha256": "8245790668278d8db700177e025e38cfe12df982f41abeddbb211ae6e03e89b9",
+     "timestamp": "2008-09-12T03:18:04.000Z"
+    },
+    "qc/client.qc": {
+     "bytes": 32354,
+     "sha256": "892fd14c0aa34f10328e04074c7dab3092ddb4e30991280a56a7c0398bdfb763",
+     "timestamp": "1996-09-29T23:29:00.000Z"
+    },
+    "qc/combat.qc": {
+     "bytes": 6130,
+     "sha256": "9e55bcbbb486d6c396ba9ee797de982be4cc79a94ffe2c40fba89bf3f72a5c4c",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "qc/defs.qc": {
+     "bytes": 17965,
+     "sha256": "6fb1b2b443e5cff10ad84c58523738398972bdaf93cf580fa4a7673a490e98a5",
+     "timestamp": "2008-09-12T02:54:42.000Z"
+    },
+    "qc/demon.qc": {
+     "bytes": 10027,
+     "sha256": "52c8816aade95e7d01139c6f1ce3047c365b818cda01609acbe26a647a24738f",
+     "timestamp": "2008-09-09T21:23:46.000Z"
+    },
+    "qc/dog.qc": {
+     "bytes": 9661,
+     "sha256": "ebe16c5e6b856102fd5d30b0519ba5c00402e31f98899714d412142f45a707d1",
+     "timestamp": "2008-09-10T06:20:46.000Z"
+    },
+    "qc/doors.qc": {
+     "bytes": 16965,
+     "sha256": "74353d68a738f7694e6f92b8ec8801de64efbf0408863aaecae4de70506a79a0",
+     "timestamp": "2008-09-12T03:18:04.000Z"
+    },
+    "qc/enforcer.qc": {
+     "bytes": 10954,
+     "sha256": "7564094ca81c56684440abd32a0efc6cb7d6447e53c215b201afa2acd2bc5b36",
+     "timestamp": "2008-09-10T04:24:54.000Z"
+    },
+    "qc/fight.qc": {
+     "bytes": 7208,
+     "sha256": "c68c3310e794200ef61c79ed9665490b3e893ff7d2d6243e5f6aeda7d9885925",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "qc/fish.qc": {
+     "bytes": 8125,
+     "sha256": "72333d58ebac7eb6be78e457e4f0d546f14efd71283332e1133d281372b04f3f",
+     "timestamp": "2008-09-09T21:23:48.000Z"
+    },
+    "qc/flag.qc": {
+     "bytes": 141,
+     "sha256": "143f0b896c7515dcdaaf5b436d130fe1ffb6fa67cad2a34ad4639724201b3445",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "qc/hknight.qc": {
+     "bytes": 18418,
+     "sha256": "a250f923c896251aa30ea242babbf97420e9770a3c109e6786192df26b977248",
+     "timestamp": "2008-09-09T21:23:48.000Z"
+    },
+    "qc/items.qc": {
+     "bytes": 30274,
+     "sha256": "bf8494ff4140430f278611c2dbcace3863afb3a20313cad7c804784038e4b7f9",
+     "timestamp": "2008-09-12T03:47:02.000Z"
+    },
+    "qc/jctest.qc": {
+     "bytes": 222,
+     "sha256": "0b356238bdae38139e36fb7f9ed5a72e65accee92b48f25035b79ec315a7da06",
+     "timestamp": "1996-09-26T11:15:38.000Z"
+    },
+    "qc/knight.qc": {
+     "bytes": 9806,
+     "sha256": "aee2e639ad5e3532f29b7c6e84cba33e001cdbd9341883496d741f0910206831",
+     "timestamp": "2008-09-09T21:23:48.000Z"
+    },
+    "qc/misc.qc": {
+     "bytes": 15382,
+     "sha256": "98c8a9ece1ea352eecc2536e6901642e3eb8abcc1ea113d69e76dec7faf25c46",
+     "timestamp": "2008-09-10T05:05:04.000Z"
+    },
+    "qc/models.qc": {
+     "bytes": 8996,
+     "sha256": "d11fd0939293244962c5a40766e1dce246bde98eb0d42c87eb530a58d6eca64d",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "qc/monsters.qc": {
+     "bytes": 5416,
+     "sha256": "fe74b4d507f77be6635ecd4b59aed9323259632cc266be607b8b0f063cf419ec",
+     "timestamp": "2008-09-09T04:16:20.000Z"
+    },
+    "qc/ogre.qc": {
+     "bytes": 14883,
+     "sha256": "52d73c13b53441d86866068203f2fbfcf69239dcbd6df863debfa8605f41db11",
+     "timestamp": "2008-09-10T04:44:42.000Z"
+    },
+    "qc/oldone.qc": {
+     "bytes": 9537,
+     "sha256": "3ebf15cec4adf547d8859cb54772e9c1c331fd30cb3c82bccb328bb945e5f834",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "qc/plats.qc": {
+     "bytes": 7693,
+     "sha256": "a5338b5e69814d193d06685e9c24a417fe1b94d46e996f87c7788218791901b1",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "qc/player.qc": {
+     "bytes": 17554,
+     "sha256": "659665c41b4cc226055e037fc9d2b89f9ad3836a2c9a7517e1655ad18338b380",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "qc/progs.src": {
+     "bytes": 406,
+     "sha256": "e09745b7291991022ec2bb82f6bb7e6688e88ee0738db66d26a5695c4be95879",
+     "timestamp": "2008-09-09T05:34:38.000Z"
+    },
+    "qc/shalrath.qc": {
+     "bytes": 8001,
+     "sha256": "1a5dbd0ed205e6d728924f5f5c3e91e57ed19c253414ebd41c4eee8963a8212d",
+     "timestamp": "2008-09-09T21:23:48.000Z"
+    },
+    "qc/shambler.qc": {
+     "bytes": 12849,
+     "sha256": "69bab66091848fa1257399b48214ac087d3912a60ab58c914ca00a13f4f81bcd",
+     "timestamp": "2008-09-09T21:23:48.000Z"
+    },
+    "qc/soldier.qc": {
+     "bytes": 10030,
+     "sha256": "91851ce38712c684fba0a5b89867c8bf02a1cd06259341a2efb62ca09097be25",
+     "timestamp": "2008-09-10T04:27:50.000Z"
+    },
+    "qc/sprites.qc": {
+     "bytes": 450,
+     "sha256": "c00564e7ca0ab70d7891931ff333461ff90aa6052f46e8ebb02f59de6e03787d",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "qc/subs.qc": {
+     "bytes": 6062,
+     "sha256": "8fa013564dcf7be1df26888fbc304159b29be25ed43c4599333c9d8de809b356",
+     "timestamp": "1996-09-26T11:15:40.000Z"
+    },
+    "qc/tarbaby.qc": {
+     "bytes": 7238,
+     "sha256": "816e0658408f3575dc934ca9ea27384dc43a48457a3351a382c9cbff09c938ae",
+     "timestamp": "2008-09-09T21:23:48.000Z"
+    },
+    "qc/triggers.qc": {
+     "bytes": 23832,
+     "sha256": "5db916e68584ebe37a1fae1ba7470b3aaa9b477ef916430695fc3e17c2077cb2",
+     "timestamp": "2008-09-12T03:47:58.000Z"
+    },
+    "qc/weapons.qc": {
+     "bytes": 26275,
+     "sha256": "202bd7d4a4ecdce058469134fc5c78c5a5d8284e1c3681bbedc629c693358033",
+     "timestamp": "2008-09-12T03:46:40.000Z"
+    },
+    "qc/wizard.qc": {
+     "bytes": 10785,
+     "sha256": "5e3bec77f84d719a57b32c930cd9d181014749dd34a42a4c14e6547e3b86919d",
+     "timestamp": "2008-09-09T21:23:46.000Z"
+    },
+    "qc/world.qc": {
+     "bytes": 11994,
+     "sha256": "568b78f4b1fafe16225d49e879e834b1f62a6b7bb4975dcc03e8a678cefc5fe3",
+     "timestamp": "2008-09-12T02:45:20.000Z"
+    },
+    "qc/zombie.qc": {
+     "bytes": 20790,
+     "sha256": "4ed7e3915f0c23c94365930923012516f27e3be1609fd9b8eec2c3913ccdf8c3",
+     "timestamp": "2008-09-09T21:23:46.000Z"
+    }
+   },
+   "sha256": "8a8527857251a5be5f6089d106cb8c613ff9853c15ea48238a57defeaf740d40",
+   "timestamp": "2008-09-12T06:38:28.000Z"
+  },
+  "e1m1red.txt": {
+   "bytes": 7636,
+   "sha256": "77d419016f814e66cca4e8341e850582abf76c278f414ec78f7f424e8abdb389",
+   "timestamp": "2008-09-12T07:44:16.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2008-09-08T05:12:48.000Z"
+  },
+  "maps/e1m1red.bsp": {
+   "bytes": 4010420,
+   "sha256": "27ff6847b8d9b7612f042abd11aa2b78355f522c6778784af9856de10893ded9",
+   "timestamp": "2008-09-12T01:21:06.000Z"
+  },
+  "progs.dat": {
+   "bytes": 395264,
+   "sha256": "d388dbfcafb442650933eca187bac66c302cbf225a53ea29708eec88104a02dc",
+   "timestamp": "2008-09-12T03:48:04.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2008-09-08T05:12:42.000Z"
+  },
+  "progs/keybase.mdl": {
+   "bytes": 15516,
+   "sha256": "8b2dad561dfcc63547c7fc6d55c43738e4db8d4996c79a8fff85d51cb89436af",
+   "timestamp": "2008-03-06T14:13:38.000Z"
+  },
+  "progs/keymed.mdl": {
+   "bytes": 15900,
+   "sha256": "d0294a738c01f07c7b0613d0914380c24bd972df1416a258aa712e9b8529331d",
+   "timestamp": "2008-08-03T06:16:54.000Z"
+  },
+  "progs/keyrune.mdl": {
+   "bytes": 33500,
+   "sha256": "735625f114613963255d036c142e6b229263d34cbf3bf77d98299ae2e7d087e3",
+   "timestamp": "2008-08-03T14:05:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/e1m1red/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65",
+ "tags": [
+  "author=Lardarse (czg",
+  "author=Vondur)",
+  "commandline=-game e1m1red",
+  "filename=e1m1red.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_layout=non-linear",
+  "map_size=medium",
+  "nonspecific_tag=unique",
+  "release_date=2008-09-12",
+  "source=included",
+  "theme=base",
+  "theme=exploration",
+  "theme=puzzles",
+  "title=Bloody Slipgates",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/e1m1red.zip",
+  "https://www.quaddicted.com/files/by-sha256/03/0389e3ae4a9fd2b6f7d8e58800546bb28d805069b7d38f4a1947b05a0a10ed65/e1m1red.zip"
+ ]
+}

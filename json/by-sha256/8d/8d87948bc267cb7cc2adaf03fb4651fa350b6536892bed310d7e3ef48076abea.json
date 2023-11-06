@@ -1,0 +1,238 @@
+{
+ "bytes": 24313,
+ "files": {
+  "du2_readme.txt": {
+   "bytes": 1489,
+   "sha256": "cea85cfc0b58d7f98a4d987a0542acb7b6d5d9ec33182fe4c3b1227f2a388f20",
+   "timestamp": "2020-10-19T21:39:58.000Z"
+  },
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-19T21:33:30.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-19T21:33:30.000Z"
+  },
+  "gfx/env/eaglesdare_bk.tga": {
+   "bytes": 582559,
+   "sha256": "465c118bc3269b9447f653f95f81627017a5054ffd6a380dcb950e4abf20db16",
+   "timestamp": "2020-10-19T18:49:56.000Z"
+  },
+  "gfx/env/eaglesdare_dn.tga": {
+   "bytes": 763111,
+   "sha256": "40b814edab74c2f8474dcbcb726a283fdcda6f1e3fffcb64e6b962a723b231df",
+   "timestamp": "2020-10-19T18:49:56.000Z"
+  },
+  "gfx/env/eaglesdare_ft.tga": {
+   "bytes": 647836,
+   "sha256": "1520026a5688a76bae55cc818b62c1d1f3edf236dccb86cc2e17a048d765ce30",
+   "timestamp": "2020-10-19T18:49:56.000Z"
+  },
+  "gfx/env/eaglesdare_lf.tga": {
+   "bytes": 539838,
+   "sha256": "76424519bfe1c1fd0bd1e8f19329eb01e53aa8e175b7696e6afbf11de44bab8e",
+   "timestamp": "2020-10-19T18:49:56.000Z"
+  },
+  "gfx/env/eaglesdare_rt.tga": {
+   "bytes": 614578,
+   "sha256": "58423ed24a324b1c377381501d78cec2e0527434925675fed34c53dd1bbea324",
+   "timestamp": "2020-10-19T18:49:56.000Z"
+  },
+  "gfx/env/eaglesdare_up.tga": {
+   "bytes": 233432,
+   "sha256": "14590c4d78aced7a550a1563bf9e8288db5bf43562887b983465ca9a9e0ce419",
+   "timestamp": "2020-10-19T18:49:56.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-19T21:34:06.000Z"
+  },
+  "maps/du2_grawert.bsp": {
+   "bytes": 21369392,
+   "sha256": "07d4761d19dcfc3f632c2ba5bcf9610262b160cbb22b9c9b8ae5fdf1799d2b7f",
+   "timestamp": "2020-10-19T18:49:58.000Z"
+  },
+  "maps/du2_grawert.lit": {
+   "bytes": 4924127,
+   "sha256": "e1551861ad072c35be7b408fbb8b391476023e887f431ec693e8329cb8519f77",
+   "timestamp": "2020-10-19T18:49:58.000Z"
+  },
+  "maps/du2_infinite.bsp": {
+   "bytes": 8684880,
+   "sha256": "cf2602f435c449ecfacb254401c3ae483f11d3e9aa5ff8d5455d6de9923b2360",
+   "timestamp": "2020-10-19T18:49:58.000Z"
+  },
+  "maps/du2_infinite.lit": {
+   "bytes": 1090514,
+   "sha256": "9c063ec842938908d4fecfaec15004b6a6b1d88a83c90e670ec4c6ad0cbc6cf3",
+   "timestamp": "2020-10-19T18:49:58.000Z"
+  },
+  "maps/du2_og.bsp": {
+   "bytes": 6097912,
+   "sha256": "f6c8b4cb55370eb9f07cf2d1ccb227486953e6964daa31707403b6c092777ec2",
+   "timestamp": "2020-10-19T21:11:54.000Z"
+  },
+  "maps/du2_og.lit": {
+   "bytes": 3595394,
+   "sha256": "7f96241389f20949e25c6b49f2b851f313724f772ac8fb0a92ef10bc5ddddc79",
+   "timestamp": "2020-10-19T21:11:54.000Z"
+  },
+  "maps/du2_yoder.bsp": {
+   "bytes": 3804560,
+   "sha256": "aa68468b2c263e9ec3a2ae1ffb27c18db581a6630ec2ddff7442a92716726741",
+   "timestamp": "2020-10-19T20:01:50.000Z"
+  },
+  "maps/du2_yoder.lit": {
+   "bytes": 1197035,
+   "sha256": "541fe8ceda629af4b853cbd883217a34770c99c62dd770b51cf32d980f5a0ac8",
+   "timestamp": "2020-10-19T20:01:50.000Z"
+  },
+  "maps/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-19T21:33:58.000Z"
+  },
+  "maps/source/du2_grawert.map": {
+   "bytes": 4943434,
+   "sha256": "7a111632b25bad38aa2b198db6afe59ffd16eb524b79d3ffee8428c5ca265ddf",
+   "timestamp": "2020-10-19T18:49:58.000Z"
+  },
+  "maps/source/du2_infinite.map": {
+   "bytes": 621555,
+   "sha256": "2fa2358839b07037aebcf158890ab63cb86bbc4690b63744cf96d293f5464272",
+   "timestamp": "2020-10-19T18:49:58.000Z"
+  },
+  "maps/source/du2_og.map": {
+   "bytes": 1194688,
+   "sha256": "1e1bab0e24a425d938a0f136b8026ee7a2a39df1a2f4accb344ae579aab3dd71",
+   "timestamp": "2020-10-19T21:11:54.000Z"
+  },
+  "maps/source/du2_yoder.map": {
+   "bytes": 2213078,
+   "sha256": "174066d8498756f01bf4d07a0f52e991af21fa81ccd6a45b63de43dc7c925458",
+   "timestamp": "2020-10-19T19:35:20.000Z"
+  },
+  "progs.dat": {
+   "bytes": 396258,
+   "sha256": "4062604b1d69c59d2bf57852d41e9c4a2d61b67662085fb8124e9e38b89cd1f1",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-19T21:33:30.000Z"
+  },
+  "sound/level/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-19T21:33:30.000Z"
+  },
+  "sound/level/brkglas.wav": {
+   "bytes": 73058,
+   "sha256": "727c7f83c698b24e8b8910dbfd062e9cf5ea354d9846e4b36dcaf1a0f1d8b271",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "sound/level/death.wav": {
+   "bytes": 75426,
+   "sha256": "1e713fd7fa700ded621506b705adca4812c7abc78e23a27315bf5a9fced07132",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "textures/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-19T21:33:30.000Z"
+  },
+  "textures/du2_grawert/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-10-19T21:33:30.000Z"
+  },
+  "textures/du2_grawert/{customer0.tga": {
+   "bytes": 4194348,
+   "sha256": "2b35fbdc6b31ab5fbbcd14a66cac0e168684c3ee37733751bf9a4583650ef977",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "textures/du2_grawert/{customer1.tga": {
+   "bytes": 1048620,
+   "sha256": "a8906ac29b3c0bfc4e5ab20e74933f24a9aab94162d6dd45b921c883b24faf07",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "textures/du2_grawert/{customer2.tga": {
+   "bytes": 4194348,
+   "sha256": "201232c95311b629267f99a8befe7f62962a0cc795f2246f19bf0670e9c1b5f8",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "textures/du2_grawert/{customer3.tga": {
+   "bytes": 4194348,
+   "sha256": "bda2059fbab2f9581114826e0f3c1327af6a6fa6cf90cf1ac5328ccd71bc87c8",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "textures/du2_grawert/{customer4.tga": {
+   "bytes": 524332,
+   "sha256": "911e40b354bf69c9bb8b35945cd3c19a20ca53dc2c9382d81c0ec31e26fb3b39",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "textures/du2_grawert/{customer5.tga": {
+   "bytes": 2097196,
+   "sha256": "456be55670f96a14592e3b690d0bfd1abc0930922b7998ef2bf2b3b49e446ac2",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "textures/du2_grawert/{karen.tga": {
+   "bytes": 4194348,
+   "sha256": "1f67a2e66be64c7d2cf82af6a53fae8da9467fde616019b9724b3208d541f0ce",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  },
+  "textures/du2_grawert/{manager.tga": {
+   "bytes": 2097196,
+   "sha256": "9482ae926db79dcd2369703da8c813a59e652e263c88f14c213b1c6c570e11d5",
+   "timestamp": "2020-10-19T18:50:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/du2/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "8d87948bc267cb7cc2adaf03fb4651fa350b6536892bed310d7e3ef48076abea",
+ "tags": [
+  "author=OG",
+  "author=Yoder",
+  "author=czg",
+  "bsp_format=bsp2",
+  "commandline=-game du2",
+  "exceeds_quake_limits=yes",
+  "filename=du2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=61966)",
+  "link=[Poster](http://www.quaketastic.com/files/single_player/du2_poster.png)",
+  "map_layout=arena",
+  "map_size=medium",
+  "nonspecific_tag=arctic",
+  "nonspecific_tag=mining",
+  "nonspecific_tag=pumpkins",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=sounds",
+  "release_date=2020-10-19",
+  "source=included",
+  "startmap=du2_grawert",
+  "startmap=du2_infinite",
+  "startmap=du2_og",
+  "startmap=du2_yoder",
+  "theme=base",
+  "theme=halloween",
+  "theme=quake 2",
+  "theme=realism",
+  "theme=snow",
+  "theme=winter",
+  "title=Disconcerting Unease 2",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/du2.zip",
+  "https://www.quaddicted.com/files/by-sha256/8d/8d87948bc267cb7cc2adaf03fb4651fa350b6536892bed310d7e3ef48076abea/du2.zip"
+ ]
+}

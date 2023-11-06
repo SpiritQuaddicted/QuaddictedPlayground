@@ -1,0 +1,471 @@
+{
+ "bytes": 33471,
+ "files": {
+  "sm214/README.md": {
+   "bytes": 1801,
+   "sha256": "db6f53e698c783c509dd53bf14184e527fcb19a1d4518b4df2d34053b8c8a513",
+   "timestamp": "2021-09-06T16:07:52.000Z"
+  },
+  "sm214/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-09-06T18:20:34.000Z"
+  },
+  "sm214/maps/autosave/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-09-06T17:44:42.000Z"
+  },
+  "sm214/maps/autosave/sm214_mememind.1.map": {
+   "bytes": 664197,
+   "sha256": "485127334b0c5a7bdcf9ac347cdeaf1d88fa38b4d0b8641ab11cc6cbae4d04c5",
+   "timestamp": "2021-09-06T17:44:42.000Z"
+  },
+  "sm214/maps/sm214_alexunder.bsp": {
+   "bytes": 911632,
+   "sha256": "4cf975bfb58acd15cf88ea6925598b97090d159a4c5a5e91883acb3de031adb7",
+   "timestamp": "2021-09-06T16:10:08.000Z"
+  },
+  "sm214/maps/sm214_alexunder.lit": {
+   "bytes": 607736,
+   "sha256": "bf50742fa5b98ecdc8cb0ec504e9c9d14fa9e9bb3f88cc93db7902f93f5f6275",
+   "timestamp": "2021-09-06T16:10:08.000Z"
+  },
+  "sm214/maps/sm214_alexunder.txt": {
+   "bytes": 773,
+   "sha256": "cbf8b9a3ca60359f14ee71628d3d2a31d5ea89db166949e5febe19b2a8fe6d18",
+   "timestamp": "2021-09-06T16:10:08.000Z"
+  },
+  "sm214/maps/sm214_breezeep.bsp": {
+   "bytes": 2809076,
+   "sha256": "5f1acb46b4fac90edac6d740437fb06793c5367d92e5ecf1c60000d24aba8961",
+   "timestamp": "2021-09-06T16:13:22.000Z"
+  },
+  "sm214/maps/sm214_breezeep.lit": {
+   "bytes": 1183622,
+   "sha256": "44a665a5fa6c4c0007ecbeee07bc7616c6c65ef4d790b7413ebdd8fe098b89ff",
+   "timestamp": "2021-09-06T16:13:22.000Z"
+  },
+  "sm214/maps/sm214_breezeep.map": {
+   "bytes": 2805308,
+   "sha256": "972f3bd3847141f5242778b5cb65cdb65b20e081b622a8124a54a5cfc8a0c682",
+   "timestamp": "2021-09-06T16:13:22.000Z"
+  },
+  "sm214/maps/sm214_burnham.bsp": {
+   "bytes": 1557784,
+   "sha256": "f3acf1d92df27e6867b9a945362ac5b0e3d3ed1d86300d36ef1d0d4ff1f30e73",
+   "timestamp": "2021-09-06T16:14:04.000Z"
+  },
+  "sm214/maps/sm214_burnham.map": {
+   "bytes": 467925,
+   "sha256": "3e38a825e16396a19f92a3466dc057b17ed941ddc96e46855b692e42ed816873",
+   "timestamp": "2021-09-06T16:14:04.000Z"
+  },
+  "sm214/maps/sm214_burnham.txt": {
+   "bytes": 2024,
+   "sha256": "aaa5b9a2e2c3393b5503089474d0c7ea3f89d32939ab2ab10730cd88b7ad2ed4",
+   "timestamp": "2021-09-06T16:14:04.000Z"
+  },
+  "sm214/maps/sm214_chrisholden.bsp": {
+   "bytes": 3867176,
+   "sha256": "164341e163f22f13f06684c4fbde943f97d8afff43f5be08e724099ecf4aff7b",
+   "timestamp": "2021-09-06T16:31:14.000Z"
+  },
+  "sm214/maps/sm214_chrisholden.lit": {
+   "bytes": 2696039,
+   "sha256": "72bb1915c342e47147507a70ea4e0cd6f65b4a4927b583447a228f49c3c607a5",
+   "timestamp": "2021-09-06T16:31:14.000Z"
+  },
+  "sm214/maps/sm214_chrisholden.map": {
+   "bytes": 2279651,
+   "sha256": "71de06691d818d15b64ff33a90afcf4bc65d8a682cc2325e1c85dc02e28ef130",
+   "timestamp": "2021-09-06T16:24:50.000Z"
+  },
+  "sm214/maps/sm214_chrisholden.txt": {
+   "bytes": 1574,
+   "sha256": "d5cb7b0c764ca5922e45cebf7308762a93b4750af2c3de9354312b3e84de369c",
+   "timestamp": "2021-09-06T18:23:00.000Z"
+  },
+  "sm214/maps/sm214_dante.bsp": {
+   "bytes": 2067552,
+   "sha256": "8515e797bb61615f13b6c9d90bb0bafaa5b569891b55374109df429208982a9f",
+   "timestamp": "2021-09-06T16:09:42.000Z"
+  },
+  "sm214/maps/sm214_dante.lit": {
+   "bytes": 1687631,
+   "sha256": "c15da4ab84d79d125288f296327c3de6bd028feb39b6fe2ead918ecdd04b9b95",
+   "timestamp": "2021-09-06T16:09:42.000Z"
+  },
+  "sm214/maps/sm214_dante.map": {
+   "bytes": 683923,
+   "sha256": "795f3b12a1d3ba39df1866b9a4e591df067e50cf32feaa7c7afa0a964367fae5",
+   "timestamp": "2021-09-06T16:09:42.000Z"
+  },
+  "sm214/maps/sm214_dfl.bsp": {
+   "bytes": 1180196,
+   "sha256": "fc44ba06f1acf8bf0e0edee04985419fc730a8840e3f35782603be98d2dcd3e9",
+   "timestamp": "2021-09-06T16:17:28.000Z"
+  },
+  "sm214/maps/sm214_dfl.txt": {
+   "bytes": 1143,
+   "sha256": "e30c1290e27dce26d0f9b28b30e50ece0e358f02d522d28505d540d4aedd1698",
+   "timestamp": "2021-09-06T16:17:28.000Z"
+  },
+  "sm214/maps/sm214_draqu.bsp": {
+   "bytes": 2671560,
+   "sha256": "ed8821237cf0b8297ec951f8c6bd33520b56d7fa5a0783398ca7d0a1919be579",
+   "timestamp": "2021-09-06T16:17:50.000Z"
+  },
+  "sm214/maps/sm214_draqu.lit": {
+   "bytes": 1454267,
+   "sha256": "74c1fc57ab3da6a77f8c7c8e2f820d15371ce0fbb86fccb5a85e26c886b4deb5",
+   "timestamp": "2021-09-06T16:17:50.000Z"
+  },
+  "sm214/maps/sm214_eduardosanchezbarrios.bsp": {
+   "bytes": 1210052,
+   "sha256": "f4cdc1fb8174e37d5ba85731c2434f617e827116764364575ae44167661451b6",
+   "timestamp": "2021-09-06T16:10:36.000Z"
+  },
+  "sm214/maps/sm214_eduardosanchezbarrios.lit": {
+   "bytes": 884096,
+   "sha256": "4f6d50d3420787ed757428d1ee20b2e8278d72b29b7351f78810b46f8f6f300d",
+   "timestamp": "2021-09-06T16:10:36.000Z"
+  },
+  "sm214/maps/sm214_eduardosanchezbarrios.txt": {
+   "bytes": 1614,
+   "sha256": "9fcfc80b26dedca5c885813f216f8621ba948b6c9300085ad5bd9dba25802a12",
+   "timestamp": "2021-09-06T16:10:42.000Z"
+  },
+  "sm214/maps/sm214_greenwood.bsp": {
+   "bytes": 940880,
+   "sha256": "9d4e03663c726934d8bd27d192cc86ad963fc4215a7065cae8d96c5e3db2db00",
+   "timestamp": "2021-09-06T16:14:48.000Z"
+  },
+  "sm214/maps/sm214_greenwood.lit": {
+   "bytes": 532589,
+   "sha256": "c8b3e3d4880f78146a4f0c13059ff5ba71605e148a0941904e74c0affaaa8487",
+   "timestamp": "2021-09-06T16:14:48.000Z"
+  },
+  "sm214/maps/sm214_greenwood.txt": {
+   "bytes": 1259,
+   "sha256": "21029ead0fc321d513762c5d655720c3f8c2d658a338abea97fa888f45f31f80",
+   "timestamp": "2021-09-06T16:14:48.000Z"
+  },
+  "sm214/maps/sm214_hcm.bsp": {
+   "bytes": 3481256,
+   "sha256": "7344ab0a554ac7c227df622806ef0b1f0b764123b2add7ed786b4b50e279aa17",
+   "timestamp": "2021-09-06T16:09:52.000Z"
+  },
+  "sm214/maps/sm214_hcm.lit": {
+   "bytes": 1984079,
+   "sha256": "6359dfd43de74c8c9159a5bc9beead2ad3107a27efac50434538823ba5949df2",
+   "timestamp": "2021-09-06T16:09:52.000Z"
+  },
+  "sm214/maps/sm214_hcm.map": {
+   "bytes": 2395991,
+   "sha256": "f17ab1a3625531c251252af8112f543df3134070ea56f9e68638ab70703a1ba6",
+   "timestamp": "2021-09-06T16:09:52.000Z"
+  },
+  "sm214/maps/sm214_hcm.txt": {
+   "bytes": 2264,
+   "sha256": "66e5a364c6d6f6938db3001112578138962e4a438489bd00b76268dccadde60c",
+   "timestamp": "2021-09-06T16:09:52.000Z"
+  },
+  "sm214/maps/sm214_ilike80srock.bsp": {
+   "bytes": 666224,
+   "sha256": "a3801431ada00bd00e8a44b396eb9702b3ecb21a8f2f2d52cd143242bdc81ba2",
+   "timestamp": "2021-09-06T16:16:52.000Z"
+  },
+  "sm214/maps/sm214_ilike80srock.map": {
+   "bytes": 739967,
+   "sha256": "8b4174acba60ce5860badec7492583fcee8c91b1f5e6b3d9fc4ab3ee94b03bdd",
+   "timestamp": "2021-09-06T16:16:52.000Z"
+  },
+  "sm214/maps/sm214_ilike80srock.txt": {
+   "bytes": 1580,
+   "sha256": "108f8d2dd64bc593321bda1a34f9bab60d301e7dd9a107f97b7eb12a103428ed",
+   "timestamp": "2021-09-06T16:16:52.000Z"
+  },
+  "sm214/maps/sm214_jaycie.bsp": {
+   "bytes": 616760,
+   "sha256": "8c95dbe22d7cb56fb959d9cc0325877f91ef0ffe017afa876bcad4386da2e80d",
+   "timestamp": "2021-09-05T10:25:34.000Z"
+  },
+  "sm214/maps/sm214_jaycie.lit": {
+   "bytes": 361139,
+   "sha256": "42de7149632cbebe183907300e62cc5f4b07e8ce6ad51ffb7d271e548c63014a",
+   "timestamp": "2021-09-05T10:25:34.000Z"
+  },
+  "sm214/maps/sm214_jaycie.map": {
+   "bytes": 689143,
+   "sha256": "5dd728e549e0b6c3f409457b9f55cc6a7af9d945cd12b2ed077a29bc6453dea3",
+   "timestamp": "2021-09-05T10:25:32.000Z"
+  },
+  "sm214/maps/sm214_jaycie.txt": {
+   "bytes": 2429,
+   "sha256": "12834dc626db806b46a8c31e3cbf51081753f3a62f33456b237987f5c96aa36c",
+   "timestamp": "2021-09-05T20:25:48.000Z"
+  },
+  "sm214/maps/sm214_konig.bsp": {
+   "bytes": 1777608,
+   "sha256": "4918cd33fd66d8d2c2c9af3e0439ffc8f4039242e63370661660573f45e84ed9",
+   "timestamp": "2021-09-06T18:04:20.000Z"
+  },
+  "sm214/maps/sm214_konig.map": {
+   "bytes": 1309774,
+   "sha256": "497d9fd41a2eef924722d0d74432760e3d56d64c12e4124fdb1aad38de142703",
+   "timestamp": "2021-09-06T18:04:20.000Z"
+  },
+  "sm214/maps/sm214_konig.txt": {
+   "bytes": 1783,
+   "sha256": "105a0ce7ed2f5f89f30db93cab06afe6e3016c787e2b98436aa9308072688dc9",
+   "timestamp": "2021-09-06T18:04:20.000Z"
+  },
+  "sm214/maps/sm214_kovic.bsp": {
+   "bytes": 707312,
+   "sha256": "cd1f2f6e2f4319504cf99ced5e1e448c320379c8432707a2683f248f1a671a13",
+   "timestamp": "2021-09-06T16:11:14.000Z"
+  },
+  "sm214/maps/sm214_kovic.map": {
+   "bytes": 392219,
+   "sha256": "74bf24f3a6d97d8a94d404ff58caad2ea22e2612626a7b5e7a58c8397e710861",
+   "timestamp": "2021-09-06T16:11:14.000Z"
+  },
+  "sm214/maps/sm214_kovic.txt": {
+   "bytes": 1311,
+   "sha256": "7494c7c7279b09186ac9b1d8b95818ef22975700f617a74d1591426db7ce0de3",
+   "timestamp": "2021-09-06T16:11:14.000Z"
+  },
+  "sm214/maps/sm214_marimk5.bsp": {
+   "bytes": 1358320,
+   "sha256": "38f3f83d226bd9d20b28fbfaeb650daa6b1e3b021e0d2aebebf6ddbafa7939b7",
+   "timestamp": "2021-09-06T15:23:48.000Z"
+  },
+  "sm214/maps/sm214_mememind.bsp": {
+   "bytes": 1396536,
+   "sha256": "1bbe4cb221816410baa7482eca2831852e2ce5ab98d77c225e940100e542904e",
+   "timestamp": "2021-09-06T17:45:32.000Z"
+  },
+  "sm214/maps/sm214_mememind.map": {
+   "bytes": 664210,
+   "sha256": "deb3c36fd414a7dbf36f78d7128a7f07882aae78f591b8fbdb130b4509f74a3c",
+   "timestamp": "2021-09-06T17:45:20.000Z"
+  },
+  "sm214/maps/sm214_mememind.txt": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-09-06T16:09:20.000Z"
+  },
+  "sm214/maps/sm214_moesh.bsp": {
+   "bytes": 2070692,
+   "sha256": "5cc7f5097ea65072e160fcd994fee5cf8bd0ad3f872d090e0a007b5c45a1a7c6",
+   "timestamp": "2021-09-06T16:17:58.000Z"
+  },
+  "sm214/maps/sm214_moesh.map": {
+   "bytes": 2352112,
+   "sha256": "30ce7319617df91d36aba860dc4b7deb07aeb1c49008e105b0c06411c13742a3",
+   "timestamp": "2021-09-06T16:17:58.000Z"
+  },
+  "sm214/maps/sm214_moesh.txt": {
+   "bytes": 1200,
+   "sha256": "f71e47a33aba5b947dccab4fdf218eaa4c998bc8f9d653f6bd5029a90dd7051a",
+   "timestamp": "2021-09-06T16:17:58.000Z"
+  },
+  "sm214/maps/sm214_mrtaufner.bsp": {
+   "bytes": 1595812,
+   "sha256": "a92d4155f16d31f67e61ac07e9bd8f532733c17204e0e69853c86227229b20da",
+   "timestamp": "2021-09-06T09:43:40.000Z"
+  },
+  "sm214/maps/sm214_mrtaufner.lit": {
+   "bytes": 770534,
+   "sha256": "1abb0ae4ce1fff57f6677e6c198f98717ca3df0be0950c5b4b8f12bedaee9b64",
+   "timestamp": "2021-09-06T09:43:40.000Z"
+  },
+  "sm214/maps/sm214_omni.bsp": {
+   "bytes": 1311608,
+   "sha256": "bf31a59ef1469bebc62c22a426b3aadfb61891e57e51cda1a0f3bf8849ea9f72",
+   "timestamp": "2021-09-06T10:27:00.000Z"
+  },
+  "sm214/maps/sm214_omni.lit": {
+   "bytes": 943505,
+   "sha256": "ffe6f70ec93b58cf5f557c667b428f930b7b2aba2d046a28c7392e261d6becc0",
+   "timestamp": "2021-09-06T10:27:00.000Z"
+  },
+  "sm214/maps/sm214_omni.map": {
+   "bytes": 1236240,
+   "sha256": "f7ef7152f5d5757c143f00ed2aba46f4062b72bb1ea28fdf5391cd3e12a01ef3",
+   "timestamp": "2021-09-06T10:32:58.000Z"
+  },
+  "sm214/maps/sm214_omni.txt": {
+   "bytes": 191,
+   "sha256": "aa20684a2d2b88f86bcbfba4625873607cb65d06645edeaa405fc1f677a411b1",
+   "timestamp": "2021-09-06T10:30:50.000Z"
+  },
+  "sm214/maps/sm214_pinchy.bsp": {
+   "bytes": 3126828,
+   "sha256": "7c1a6f2bf539d96679c9c72abf5d52576434c3f127a7cf3c04ba1386b1844d36",
+   "timestamp": "2021-09-06T16:16:44.000Z"
+  },
+  "sm214/maps/sm214_pinchy.lit": {
+   "bytes": 1718357,
+   "sha256": "999dd90a14aac597891c8c3ce1f4c94ee04e759a97818a9bb9324456bc3acfd4",
+   "timestamp": "2021-09-06T16:16:44.000Z"
+  },
+  "sm214/maps/sm214_pinchy.map": {
+   "bytes": 4123639,
+   "sha256": "599911ed6f512dd389f89f91509ca8957429e8ee427181f885402ba8d9a3b164",
+   "timestamp": "2021-09-06T16:16:40.000Z"
+  },
+  "sm214/maps/sm214_pinchy.txt": {
+   "bytes": 2552,
+   "sha256": "342ceec43e6a55d6ff148b0e8c5ff24c77a66d7b6904e2e21511309d1341306e",
+   "timestamp": "2021-09-06T16:16:36.000Z"
+  },
+  "sm214/maps/sm214_pqp.bsp": {
+   "bytes": 6946524,
+   "sha256": "32ccf23f73fd567689bd51d2b351d4986030e74fdae257f55fffa70ba2855aa6",
+   "timestamp": "2021-09-06T01:40:48.000Z"
+  },
+  "sm214/maps/sm214_pqp.map": {
+   "bytes": 5758140,
+   "sha256": "f0eb80dbaf0f6855695d2dfb81a1585d1694d6cd07f58fd81452e7a18aa4c7c1",
+   "timestamp": "2021-09-06T01:37:44.000Z"
+  },
+  "sm214/maps/sm214_pqp.txt": {
+   "bytes": 1883,
+   "sha256": "6bcede438f3cf612a0b97066a2ab8b298513db7e730d1fea53b85ef45a44cd70",
+   "timestamp": "2021-09-06T01:46:12.000Z"
+  },
+  "sm214/maps/sm214_riktoi.bsp": {
+   "bytes": 918456,
+   "sha256": "d9ca33ca156d5926e5a6efed1072789079b3d79924a851be25df9c7f967b28e5",
+   "timestamp": "2021-09-06T16:08:52.000Z"
+  },
+  "sm214/maps/sm214_riktoi.map": {
+   "bytes": 313570,
+   "sha256": "f0e165ae7c82e20d1dda12dc01d7baa4b4ae6bce937180c329918742418dac1e",
+   "timestamp": "2021-09-06T16:08:52.000Z"
+  },
+  "sm214/maps/sm214_riktoi.txt": {
+   "bytes": 256,
+   "sha256": "1321ed2152b56a76ea505b30b8fd9d2f9923df63d06e41cf7f8ba8570794e472",
+   "timestamp": "2021-09-06T16:08:52.000Z"
+  },
+  "sm214/maps/sm214_zigi.bsp": {
+   "bytes": 3092704,
+   "sha256": "f31e65f3597319b0738496e24f21d5db34ee9466afcdcf6545dd374bb985d990",
+   "timestamp": "2021-09-06T16:11:54.000Z"
+  },
+  "sm214/maps/sm214_zigi.lit": {
+   "bytes": 3648623,
+   "sha256": "eeeec1f87e4ade499d7af84f8f5adb4cdb51228bb9c6cd5677a10dc7447eff6f",
+   "timestamp": "2021-09-06T16:11:54.000Z"
+  },
+  "sm214/maps/sm214_zigi.txt": {
+   "bytes": 2403,
+   "sha256": "11cddc62a7c27fde20adb62537b1e396a3ac68cda839fac022474948175733e3",
+   "timestamp": "2021-09-06T16:12:00.000Z"
+  },
+  "sm214/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2021-09-06T16:12:30.000Z"
+  },
+  "sm214/music/track41.ogg": {
+   "bytes": 5395130,
+   "sha256": "baea5170cc5801e225c65ee9ee4f2542303cd2e6c1d8ab1bd6ef1b91930070c2",
+   "timestamp": "2021-09-06T16:12:30.000Z"
+  },
+  "sm214/progs.dat": {
+   "bytes": 334130,
+   "sha256": "8d70aac5d32b7585c0a1075a9ca32c4e56a35d685354213b06a882c2d35db9a8",
+   "timestamp": "2021-09-06T16:07:52.000Z"
+  },
+  "sm214/sm214-prototypes-2.txt": {
+   "bytes": 867,
+   "sha256": "df2bb8468800d33d068c7fba54fd7f635cc7bf4392d61c07ab54f0dde64978ec",
+   "timestamp": "2021-09-06T18:36:48.000Z"
+  },
+  "sm214/sm214.jpg": {
+   "bytes": 1325629,
+   "sha256": "d3468d311371858526ae5aa74c82ec83a22e648e83502f624b4de9a2b6902493",
+   "timestamp": "2021-09-06T18:13:10.000Z"
+  },
+  "sm214/smp.fgd": {
+   "bytes": 20072,
+   "sha256": "85129854da771afb701788507e79b1d97f9090c13be34a5f2aa200a6f08bb058",
+   "timestamp": "2021-09-06T16:07:52.000Z"
+  },
+  "sm214/smp_readme.txt": {
+   "bytes": 3272,
+   "sha256": "0d89d1421c1e651d366c151f6ea6908b650342962c6da79d3375e0ee438fefee",
+   "timestamp": "2021-09-06T16:07:52.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "e6178214db8dc303202b6faa42f666664df3ca39a86dfeab29284bcf787a294c",
+ "tags": [
+  "author=AlexUnder",
+  "author=Breezeep",
+  "author=ChrisHolden",
+  "author=DanteScanline",
+  "author=DraQu",
+  "author=DragonsForLunch",
+  "author=EduardoDeadPixel",
+  "author=Greenwood",
+  "author=JaycieErysdren",
+  "author=Konig",
+  "author=Mari Mk.V,",
+  "author=Mazu",
+  "author=Mememind",
+  "author=Moesh",
+  "author=Mrtaufner",
+  "author=Nostalgick (burnham)",
+  "author=Omni",
+  "author=Pinchy",
+  "author=Riktoi",
+  "author=The_kovic",
+  "author=iLike80sRock",
+  "author=pqp",
+  "author=zigi",
+  "commandline=-game sm214",
+  "filename=sm214_protoypes-2.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](https://celephais.net/board/view_thread.php?id=62099)",
+  "nonspecific_tag=smp",
+  "release_date=2021-09-07",
+  "startmap=sm214_alexunder",
+  "startmap=sm214_breezeep",
+  "startmap=sm214_burnham",
+  "startmap=sm214_chrisholden",
+  "startmap=sm214_dante",
+  "startmap=sm214_dfl",
+  "startmap=sm214_draqu",
+  "startmap=sm214_eduardosanchezbarrios",
+  "startmap=sm214_greenwood",
+  "startmap=sm214_hcm",
+  "startmap=sm214_ilike80srock",
+  "startmap=sm214_jaycie",
+  "startmap=sm214_konig",
+  "startmap=sm214_kovic",
+  "startmap=sm214_marimk5",
+  "startmap=sm214_mememind",
+  "startmap=sm214_moesh",
+  "startmap=sm214_mrtaufner",
+  "startmap=sm214_omni",
+  "startmap=sm214_pinchy",
+  "startmap=sm214_pqp",
+  "startmap=sm214_riktoi",
+  "startmap=sm214_zigi",
+  "title=Speedmapping pack 214 - Prototype textures II",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm214_protoypes-2.zip",
+  "https://www.quaddicted.com/files/by-sha256/e6/e6178214db8dc303202b6faa42f666664df3ca39a86dfeab29284bcf787a294c/sm214_protoypes-2.zip"
+ ]
+}

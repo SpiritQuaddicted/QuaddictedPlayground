@@ -1,0 +1,58 @@
+{
+ "bytes": 956,
+ "files": {
+  "gnu.txt": {
+   "bytes": 14882,
+   "sha256": "70402dc11b4b91b2e2b4821592ff9cb31ff2f4c6f3dedae15efde5395c7ee170",
+   "timestamp": "2008-05-18T17:57:14.000Z"
+  },
+  "mapsource/sm141_gb.map": {
+   "bytes": 271806,
+   "sha256": "e25e246961770c1b552d7ac9016a76f5779ddf2e65a95577c96f1cf6d5683bd5",
+   "timestamp": "2008-05-18T17:56:28.000Z"
+  },
+  "mapsource/sm141_rt23.map": {
+   "bytes": 484591,
+   "sha256": "104886f40785242075bad40aa874fed699dd30c4c338d80534cd4d16490a74c6",
+   "timestamp": "2008-05-17T17:51:42.000Z"
+  },
+  "sm141_gb.bsp": {
+   "bytes": 1206248,
+   "sha256": "d1d9bde2174839bb9945d62d6a614a8e6b5a09aaf3f9929e6e43454e5c13cd17",
+   "timestamp": "2008-05-18T13:30:02.000Z"
+  },
+  "sm141_pack.txt": {
+   "bytes": 2108,
+   "sha256": "6b24d979bc1119f0f67793149f6048a6f1b52d19e9be714c7d445924b30aba1f",
+   "timestamp": "2008-05-18T18:04:02.000Z"
+  },
+  "sm141_rt23.bsp": {
+   "bytes": 1235763,
+   "sha256": "f74085c2aae13faafa94c78256e5f21befcda17bdc8155792fa8b2d60db48e33",
+   "timestamp": "2008-05-17T17:52:00.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "445b5c481735e8831b8a3e41c411d4a4ceca35ed80df3509ced7950eea16ed6e",
+ "tags": [
+  "author=RickyT23",
+  "author=golden_boy",
+  "filename=sm141_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "mod=quoth",
+  "release_date=2008-05-18",
+  "startmap=sm141_gb",
+  "startmap=sm141_rt23",
+  "theme=quoth",
+  "title=Speedmapping pack 141 - Hate",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm141_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/44/445b5c481735e8831b8a3e41c411d4a4ceca35ed80df3509ced7950eea16ed6e/sm141_pack.zip"
+ ]
+}

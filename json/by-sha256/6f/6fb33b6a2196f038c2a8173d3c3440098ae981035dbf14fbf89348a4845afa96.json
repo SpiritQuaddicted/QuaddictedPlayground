@@ -1,0 +1,449 @@
+{
+ "bytes": 42957,
+ "files": {
+  "docs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-03-07T01:25:34.000Z"
+  },
+  "docs/sm193_bal.txt": {
+   "bytes": 3345,
+   "sha256": "85507de030a18600281a09a2a5fae4e3b8e2701b4bbbd636c5f69fc1e48fb0c0",
+   "timestamp": "2019-03-06T18:31:44.000Z"
+  },
+  "docs/sm193_ish_readme.txt": {
+   "bytes": 3683,
+   "sha256": "58e485ec59df1520382dc97cd8a0795e324d5d1fb42497634435e2bb3eea5cc5",
+   "timestamp": "2019-03-05T07:17:22.000Z"
+  },
+  "docs/sm193_jcr.txt": {
+   "bytes": 1344,
+   "sha256": "c489241600aa8e3f7fca4e5622bb2032af744a9ffb3d18bae7f7955a9394c6a2",
+   "timestamp": "2019-03-05T23:48:08.000Z"
+  },
+  "docs/sm193_pinchy.txt": {
+   "bytes": 2729,
+   "sha256": "4b15bab47ad25e12f2de95d9548eabf9eb7f5b79c48154e8d712351376d5d819",
+   "timestamp": "2019-03-06T22:35:12.000Z"
+  },
+  "docs/sm193_sham.txt": {
+   "bytes": 674,
+   "sha256": "d4d1c41757711db561966b9b2f0e7a65918fe725a1f215a505b3b25173385164",
+   "timestamp": "2019-03-05T19:17:56.000Z"
+  },
+  "docs/sm193_ukko.txt": {
+   "bytes": 2536,
+   "sha256": "56ef52d9f250e4f1cf00e3b4096096eab36e202f168d29a3e02e7653cd111b76",
+   "timestamp": "2019-03-07T00:38:42.000Z"
+  },
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-03-07T01:13:30.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-03-07T01:13:32.000Z"
+  },
+  "gfx/env/ely_hills/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-03-07T02:01:22.000Z"
+  },
+  "gfx/env/ely_hills/hills_bk.tga": {
+   "bytes": 786971,
+   "sha256": "5c1eb2114b2b462e5cc9174117c7f8a068905f13755d7777f62fbc0512fcabff",
+   "timestamp": "2008-12-07T11:08:30.000Z"
+  },
+  "gfx/env/ely_hills/hills_dn.tga": {
+   "bytes": 10779,
+   "sha256": "221050d42cc967c8a805a8c00a2bc65c16e7cb33becdf0eeebb57599e9c84e65",
+   "timestamp": "2008-12-07T12:11:26.000Z"
+  },
+  "gfx/env/ely_hills/hills_ft.tga": {
+   "bytes": 786971,
+   "sha256": "0008623ff5f7d404c600b70d3376c761d31ee54777a4f523d29123a0b16fb26c",
+   "timestamp": "2008-12-07T11:08:26.000Z"
+  },
+  "gfx/env/ely_hills/hills_lf.tga": {
+   "bytes": 786971,
+   "sha256": "d55d49767b7bb1a960f5635f9677817099c6c3813a525050fd0a293c1a959e93",
+   "timestamp": "2008-12-07T11:08:38.000Z"
+  },
+  "gfx/env/ely_hills/hills_rt.tga": {
+   "bytes": 786971,
+   "sha256": "332c74c03c423e5279058e7a095c41f65d14d34b5f6fee7c29dcd4026be4185b",
+   "timestamp": "2008-12-07T11:08:34.000Z"
+  },
+  "gfx/env/ely_hills/hills_up.tga": {
+   "bytes": 786971,
+   "sha256": "c9bbea534c6f5bbcfdae0dad23e93815f063ffb4fc4833b14285b76fc1b487b8",
+   "timestamp": "2008-12-07T11:08:42.000Z"
+  },
+  "gfx/env/ely_hills/readme.txt": {
+   "bytes": 722,
+   "sha256": "417e0261af3cb0ab748dd6ed250bc84eb6467f922d5a8b6d99053da82cd022ff",
+   "timestamp": "2008-12-07T12:33:30.000Z"
+  },
+  "gfx/env/grimmnight_bk.tga": {
+   "bytes": 786971,
+   "sha256": "069de6ebc9d85589f5019315703deb2c5a023437dffa5cec5be993dc6a5bae1d",
+   "timestamp": "2008-12-25T14:00:06.000Z"
+  },
+  "gfx/env/grimmnight_dn.tga": {
+   "bytes": 786971,
+   "sha256": "f6a789aab2da2d4d8f9d4ce8595951da863be154be6fd09fc276bba1e5637439",
+   "timestamp": "2008-12-25T14:00:06.000Z"
+  },
+  "gfx/env/grimmnight_ft.tga": {
+   "bytes": 786971,
+   "sha256": "cf792a9d525aadbde972041e47e7455f92dcb1d428b9cf7ecd047e36d964896f",
+   "timestamp": "2008-12-25T14:00:08.000Z"
+  },
+  "gfx/env/grimmnight_lf.tga": {
+   "bytes": 786971,
+   "sha256": "fadfae110fef359b53d1bda12df6143dcfe1ecfdf08f3c008cb1df302fd4715f",
+   "timestamp": "2008-12-25T14:00:08.000Z"
+  },
+  "gfx/env/grimmnight_rt.tga": {
+   "bytes": 786971,
+   "sha256": "c82c90878ec91f2e8eb94eed9e98f985d9d9803a7e6107974a2a211492b55496",
+   "timestamp": "2008-12-25T14:00:10.000Z"
+  },
+  "gfx/env/grimmnight_up.tga": {
+   "bytes": 786971,
+   "sha256": "217417cff6ca265d3e87be8814ea89cc01b12658545f44d32148c8d6464ce10f",
+   "timestamp": "2008-12-25T14:00:04.000Z"
+  },
+  "gfx/env/moonhigh_bk.tga": {
+   "bytes": 1048620,
+   "sha256": "5f361bf5a352c1df5a6caef9cf42bd35fed8406c6949af480b0425c193c18b3a",
+   "timestamp": "2014-03-19T08:38:56.000Z"
+  },
+  "gfx/env/moonhigh_dn.tga": {
+   "bytes": 1048620,
+   "sha256": "02e2b36863c1181a85aa675c53fc14a301f38dc6e0c6735098bb6d8723af02b3",
+   "timestamp": "2014-03-19T08:36:50.000Z"
+  },
+  "gfx/env/moonhigh_ft.tga": {
+   "bytes": 1048620,
+   "sha256": "3158735bdd6f4f467a5b29639aa4f622d1136ea463967684b739b0002bec6526",
+   "timestamp": "2014-03-19T08:38:36.000Z"
+  },
+  "gfx/env/moonhigh_lf.tga": {
+   "bytes": 1048620,
+   "sha256": "5cdaabd99655152689e40832643690d7b1c5f8e414f3126a7c0c9224f2250704",
+   "timestamp": "2014-03-19T08:58:06.000Z"
+  },
+  "gfx/env/moonhigh_rt.tga": {
+   "bytes": 1048620,
+   "sha256": "e08a374ac19c8b8cffa6c939515cde9570b44bbc044c12d06b0c5d94aa7469bc",
+   "timestamp": "2014-03-19T08:58:26.000Z"
+  },
+  "gfx/env/moonhigh_up.tga": {
+   "bytes": 1048620,
+   "sha256": "c0465fd6a0b069e5ff78f3e561084bf3e23b796cac9b5214a6cd4045310d36fe",
+   "timestamp": "2015-10-28T18:08:10.000Z"
+  },
+  "gfx/env/shadowpeak_bk.tga": {
+   "bytes": 786450,
+   "sha256": "8896094a6b013d2705f9edd9616a819146e710f58fef9af194a8bf180dc625d1",
+   "timestamp": "2019-03-02T20:55:22.000Z"
+  },
+  "gfx/env/shadowpeak_dn.tga": {
+   "bytes": 786450,
+   "sha256": "c09de424fa8f358003070ecd4e33422b6a344e7ccf9634b6462dad4b6227ede0",
+   "timestamp": "2019-03-02T20:55:24.000Z"
+  },
+  "gfx/env/shadowpeak_ft.tga": {
+   "bytes": 786450,
+   "sha256": "29109889295bce95a4137acec1330f24008ada3b172ebf4087336566f25951fd",
+   "timestamp": "2019-03-02T20:55:24.000Z"
+  },
+  "gfx/env/shadowpeak_lf.tga": {
+   "bytes": 786450,
+   "sha256": "5078bd6fdf31f5e9243ebc83e428f5bc68ffb23b6e0b0cb0d9b4ac0a52b2c531",
+   "timestamp": "2019-03-02T20:55:22.000Z"
+  },
+  "gfx/env/shadowpeak_rt.tga": {
+   "bytes": 786450,
+   "sha256": "f53b18d53b6639ca6766df1c35b44cb3446d37de291d1a0d20d396978fbc0113",
+   "timestamp": "2019-03-02T20:55:22.000Z"
+  },
+  "gfx/env/shadowpeak_up.tga": {
+   "bytes": 786450,
+   "sha256": "ae16264c12d90d6ae1d739e5f6bbb6c15cd0d1673f7f2643605f3bdf9b430f4a",
+   "timestamp": "2019-03-02T20:55:22.000Z"
+  },
+  "gfx/env/sm193_bal_bk.tga": {
+   "bytes": 3145772,
+   "sha256": "99d7000def5ce597898ea76bb0b762175a6aef87566a0719b0b423e4b9f890f4",
+   "timestamp": "2019-03-04T14:03:12.000Z"
+  },
+  "gfx/env/sm193_bal_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "138e9386728cdd98935a0c484d5693db2e60375d8d770ad754fe6616906591a1",
+   "timestamp": "2019-03-04T14:03:12.000Z"
+  },
+  "gfx/env/sm193_bal_ft.tga": {
+   "bytes": 3145772,
+   "sha256": "5c0ca0bca63ac5f2e820a2c305749cfe8d98af606987e4dbe0599a0818a8ae87",
+   "timestamp": "2019-03-04T14:03:10.000Z"
+  },
+  "gfx/env/sm193_bal_lf.tga": {
+   "bytes": 3145772,
+   "sha256": "80fe96a6b4ce135b9960f08af94bb4edd1d488f435e57ccdff91a4eb296ec1f8",
+   "timestamp": "2019-03-04T14:03:12.000Z"
+  },
+  "gfx/env/sm193_bal_rt.tga": {
+   "bytes": 3145772,
+   "sha256": "569b80b21f6e05d6378bec856b85dfb670d74d1834107cfa5a19281f6fead740",
+   "timestamp": "2019-03-04T14:03:12.000Z"
+  },
+  "gfx/env/sm193_bal_up.tga": {
+   "bytes": 3145772,
+   "sha256": "e651fa6dab80e18c955f30c55e27a9ac2e1274f0c62c4c68772f5dfdaeb6d0e0",
+   "timestamp": "2019-03-04T14:03:12.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-03-07T01:17:10.000Z"
+  },
+  "maps/sm193_bal.bsp": {
+   "bytes": 13683732,
+   "sha256": "4d1b596b45587b9d74244ebb59611907d56ee6210edefd65e7cfe9bb0cf1e4d2",
+   "timestamp": "2019-03-06T23:19:02.000Z"
+  },
+  "maps/sm193_bal.lit": {
+   "bytes": 4425821,
+   "sha256": "b9c15dcf046ae0f9ae94d8393159cc3ca8c8af85c058f71d2c593f8a7f061b7b",
+   "timestamp": "2019-03-06T22:59:12.000Z"
+  },
+  "maps/sm193_danz.bsp": {
+   "bytes": 1708488,
+   "sha256": "2e1a55354e60963ecac7ff2ce0fca024afd52876e453d55a5ee3cb6305d1708a",
+   "timestamp": "2019-03-07T01:12:10.000Z"
+  },
+  "maps/sm193_danz.lit": {
+   "bytes": 266795,
+   "sha256": "f52928b92fc97dd29fc5c2929cd191866c6737772010ebc2d5c5a842e94bee61",
+   "timestamp": "2019-03-07T01:12:10.000Z"
+  },
+  "maps/sm193_fairweather.bsp": {
+   "bytes": 5110812,
+   "sha256": "632a9109c5c9e7c805a4d822f01a193e84dffbe67ad6279c8761abd5e3903445",
+   "timestamp": "2019-03-07T08:23:50.000Z"
+  },
+  "maps/sm193_fairweather.lit": {
+   "bytes": 1736783,
+   "sha256": "49ed8e5fa0484ba84a7ce4c9610cc74f3115610b2673ba21b4a92d08d45aac00",
+   "timestamp": "2019-03-07T08:23:50.000Z"
+  },
+  "maps/sm193_ing.bsp": {
+   "bytes": 8282320,
+   "sha256": "31dddec63ed16fc0bca65dd85e9b918d684fed8abf4d84d8595fa409959ca5e6",
+   "timestamp": "2019-03-05T22:07:26.000Z"
+  },
+  "maps/sm193_ionous.bsp": {
+   "bytes": 2033644,
+   "sha256": "6e6f93f9964fb68426735b53099d789411c0befab81236ec08bb5b824a03b68c",
+   "timestamp": "2019-03-05T09:37:24.000Z"
+  },
+  "maps/sm193_ish.bsp": {
+   "bytes": 5571188,
+   "sha256": "f3dc50bffa0b76be91cbafc0986eaa175e77e17333ac9fb34aa528e17fee240f",
+   "timestamp": "2019-03-05T06:25:56.000Z"
+  },
+  "maps/sm193_ish.lit": {
+   "bytes": 2256410,
+   "sha256": "7a18c6bef2f7516913d9f73f23e5429a0cbee481fd105627c0996bcd5e26616b",
+   "timestamp": "2019-03-05T06:25:56.000Z"
+  },
+  "maps/sm193_jcr.bsp": {
+   "bytes": 3099200,
+   "sha256": "c5c7ec3662128ec49613ce035cf471407f944e97e9bca89665dd3e0cb98ff786",
+   "timestamp": "2019-03-05T23:43:26.000Z"
+  },
+  "maps/sm193_kamp.bsp": {
+   "bytes": 2218236,
+   "sha256": "93085194d5840bdbbe7a95900629b423e1833cbec9fd93e7b6d18b138bb74b12",
+   "timestamp": "2019-03-06T23:55:06.000Z"
+  },
+  "maps/sm193_kamp.lit": {
+   "bytes": 1519676,
+   "sha256": "9db20bb29d533c021b9e706a0a61067d70528f6791fbe1884262a68f8631f809",
+   "timestamp": "2019-03-06T23:55:06.000Z"
+  },
+  "maps/sm193_marandal.bsp": {
+   "bytes": 678716,
+   "sha256": "7a7eb4aa71a02c7a8226d7336851de72777a0eb648c5edf63afa0f85caacaa16",
+   "timestamp": "2019-03-04T12:30:52.000Z"
+  },
+  "maps/sm193_naitelveni.bsp": {
+   "bytes": 6020840,
+   "sha256": "e19021dd74bdc250f71c1e03201da803850d2ff701539008585383ba29a8b3cf",
+   "timestamp": "2019-03-04T22:48:24.000Z"
+  },
+  "maps/sm193_naitelveni.lit": {
+   "bytes": 816404,
+   "sha256": "852e848feefc5fea8325781f4ed5105d8576cbe567726149f7362fc85c6ba421",
+   "timestamp": "2019-03-04T22:48:30.000Z"
+  },
+  "maps/sm193_newhouse.bsp": {
+   "bytes": 1929696,
+   "sha256": "28b1c9286b8af2276f8e4c9b548c279a67fad96b639dad304b289315d388dd30",
+   "timestamp": "2019-03-06T22:37:40.000Z"
+  },
+  "maps/sm193_newhouse.lit": {
+   "bytes": 654776,
+   "sha256": "d1108a68c4df5fc9d83fe3a5afb940ab970ee4ac47330b40a60fc4a398b63587",
+   "timestamp": "2019-03-06T22:37:48.000Z"
+  },
+  "maps/sm193_otp.bsp": {
+   "bytes": 2373608,
+   "sha256": "1889aa77993665fe618fcb45efb21f6f7b8017c6b1472d47082e94609a05af54",
+   "timestamp": "2019-03-06T23:26:52.000Z"
+  },
+  "maps/sm193_pinchy.bsp": {
+   "bytes": 2777780,
+   "sha256": "731c618ca6355f56c41801fe59200b44388e2f01540de3c053c3173ae27660bc",
+   "timestamp": "2019-03-06T22:48:44.000Z"
+  },
+  "maps/sm193_sham.bsp": {
+   "bytes": 3386676,
+   "sha256": "7efbbb9a0643ce212d1b21666255997f0a85970cc0a65235577123ebcab7ff3b",
+   "timestamp": "2019-03-05T19:23:58.000Z"
+  },
+  "maps/sm193_sham.lit": {
+   "bytes": 3980408,
+   "sha256": "99fad490a010d8239d74f5fa22a4c27b93ae6241fd2a6dc6742d1f4250cd9d41",
+   "timestamp": "2019-03-05T19:23:58.000Z"
+  },
+  "maps/sm193_ukko.bsp": {
+   "bytes": 7699908,
+   "sha256": "24de278c07db72595cabb008ae182739ebec56f7051211345f2f3263a8b7f046",
+   "timestamp": "2019-03-07T00:00:38.000Z"
+  },
+  "maps/sm193_ukko.lit": {
+   "bytes": 1316306,
+   "sha256": "53b58fa5620d31025d77e0e0fe2d224a692ff4aea6d2ed68aa689694565b1462",
+   "timestamp": "2019-03-07T00:00:38.000Z"
+  },
+  "music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-03-06T11:31:56.000Z"
+  },
+  "music/track98.ogg": {
+   "bytes": 2961682,
+   "sha256": "3d4e84d5b29fffea8209454490c00a4ff6d458eadf391b3cd01fe1237cd66f51",
+   "timestamp": "2019-03-03T15:00:40.000Z"
+  },
+  "sm193_pack.txt": {
+   "bytes": 1285,
+   "sha256": "35e9ed4c07d53cb026ecec3cf948fd567598f39a17d1b4f7477dde6d0b9e5a64",
+   "timestamp": "2019-03-07T02:03:56.000Z"
+  },
+  "source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2019-03-07T01:25:32.000Z"
+  },
+  "source/sm193_bal.map": {
+   "bytes": 8746626,
+   "sha256": "0ee730be1fd80ff8f44532409f93d72b8af0a54d7efd143122e3ac8d2e3138b2",
+   "timestamp": "2019-03-06T23:21:04.000Z"
+  },
+  "source/sm193_danz.map": {
+   "bytes": 187157,
+   "sha256": "9aff73ad50f49021b3597b2d796d0636ea53451cf041238af72a9a247187b7b4",
+   "timestamp": "2019-03-07T01:12:04.000Z"
+  },
+  "source/sm193_ing.map": {
+   "bytes": 3752822,
+   "sha256": "5e97b9be301b6f31e3bebd0ed4bddf800ac0e7eed5f24ead1ed914ea2d8011ef",
+   "timestamp": "2019-03-05T22:06:56.000Z"
+  },
+  "source/sm193_ionous.map": {
+   "bytes": 1513406,
+   "sha256": "3520fc9a218ff14e28f276c693b5caaacf0672163f64f303a99d83035244e383",
+   "timestamp": "2019-03-04T10:06:38.000Z"
+  },
+  "source/sm193_ish.map": {
+   "bytes": 2697894,
+   "sha256": "b5c6ee942313a06ef5a81a6895e62c43b6353b1ed8fda1d9468fe4c1f2c5b709",
+   "timestamp": "2019-03-05T06:24:56.000Z"
+  },
+  "source/sm193_jcr.map": {
+   "bytes": 1564104,
+   "sha256": "71a62f654e2943077886deb830ff3617aa2e31ead6573ac3e7081acc53055736",
+   "timestamp": "2019-03-05T23:42:30.000Z"
+  },
+  "source/sm193_kamp.map": {
+   "bytes": 797213,
+   "sha256": "ec4115a1b41bf6c75ec087fa1dd111a4f5191d906bbc13333c45dfda18f76a70",
+   "timestamp": "2019-03-06T23:53:06.000Z"
+  },
+  "source/sm193_otp.map": {
+   "bytes": 607881,
+   "sha256": "9880e070349ae3840d4f64282389a0d4e6896de3fd42e196e45c324a4198febc",
+   "timestamp": "2019-03-06T23:25:18.000Z"
+  },
+  "source/sm193_pinchy.map": {
+   "bytes": 2027517,
+   "sha256": "e76671350fb40a574cb31574c55af02209b7d2964243382c0f3635aa9576f2bc",
+   "timestamp": "2019-03-06T22:47:30.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96",
+ "tags": [
+  "author=Bal",
+  "author=Danzadan",
+  "author=Fairweather",
+  "author=Ing-ing",
+  "author=JCR",
+  "author=Marandal",
+  "author=Naitelveni",
+  "author=Newhouse",
+  "author=Pinchy",
+  "author=Shambler",
+  "author=Ukko",
+  "author=ionous",
+  "author=ish",
+  "author=kamp",
+  "author=onetruepurple",
+  "filename=sm193_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61697)",
+  "release_date=2019-03-07",
+  "startmap=sm193_bal",
+  "startmap=sm193_danz",
+  "startmap=sm193_fairweather",
+  "startmap=sm193_ing",
+  "startmap=sm193_ionous",
+  "startmap=sm193_ish",
+  "startmap=sm193_jcr",
+  "startmap=sm193_kamp",
+  "startmap=sm193_marandal",
+  "startmap=sm193_naitelveni",
+  "startmap=sm193_newhouse",
+  "startmap=sm193_otp",
+  "startmap=sm193_pinchy",
+  "startmap=sm193_sham",
+  "startmap=sm193_ukko",
+  "theme=ikwhite",
+  "title=Speedmapping pack 193 - Quakeguy Goes to White Castle",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm193_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/6f/6fb33b6a2196f038c2a8173d3c3440098ae981035dbf14fbf89348a4845afa96/sm193_pack.zip"
+ ]
+}

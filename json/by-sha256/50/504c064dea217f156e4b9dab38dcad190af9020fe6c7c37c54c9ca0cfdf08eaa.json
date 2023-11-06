@@ -1,0 +1,133 @@
+{
+ "bytes": 8902,
+ "files": {
+  "gfx/env/hellsky2bk.tga": {
+   "bytes": 787493,
+   "sha256": "8b15bd485926d6e2e1c0b2c944ca955506594a1edee24cb7ce69351baa6712b2",
+   "timestamp": "2006-12-03T16:17:08.000Z"
+  },
+  "gfx/env/hellsky2dn.tga": {
+   "bytes": 787493,
+   "sha256": "e711da529ae2a760e168ad41385f7016fb55b30b1f5d5d44202da41a9c9953ba",
+   "timestamp": "2006-12-03T16:24:48.000Z"
+  },
+  "gfx/env/hellsky2ft.tga": {
+   "bytes": 787493,
+   "sha256": "ad27c959ae0d9ebc6c4ab5e6fc2226e43baf3d4ece05fb1df0bc341d4d4c9c98",
+   "timestamp": "2006-12-03T16:16:56.000Z"
+  },
+  "gfx/env/hellsky2lf.tga": {
+   "bytes": 787493,
+   "sha256": "6cf5a4c79eb1858134baee84ff4c157f6f451080c9667626f828fa36155514b5",
+   "timestamp": "2006-12-03T16:16:52.000Z"
+  },
+  "gfx/env/hellsky2rt.tga": {
+   "bytes": 787493,
+   "sha256": "610d18aa52786a0f1d3e3ca3452e44dd026d7585474de24cd41d9f505cf01b6a",
+   "timestamp": "2006-12-03T16:16:44.000Z"
+  },
+  "gfx/env/hellsky2up.tga": {
+   "bytes": 787493,
+   "sha256": "38bd582da29c8e89f0598d5e0a0e077091fbf7c962da211965b4a228ffdda2ac",
+   "timestamp": "2010-10-14T21:12:56.000Z"
+  },
+  "maps/gatetohell.bsp": {
+   "bytes": 6140788,
+   "sha256": "c9de12e9a9ff6a9265658b4e62e9d90562dd02700470395727ed364a7e10f118",
+   "timestamp": "2010-11-10T21:53:06.000Z"
+  },
+  "maps/gatetohell.lit": {
+   "bytes": 2382677,
+   "sha256": "b59f4eca63b69ed2b55a9cbb727fc40d28ce1237e6cfbebcd2883e55cd880ba2",
+   "timestamp": "2010-11-10T21:53:06.000Z"
+  },
+  "maps/gatetohell.txt": {
+   "bytes": 5828,
+   "sha256": "f3fce769fba78a781a269e1c3e44556de57617095790b38bfda47fd609a4b80c",
+   "timestamp": "2010-11-10T22:44:54.000Z"
+  },
+  "sound/ambience/jpl/darkdropplet.wav": {
+   "bytes": 383616,
+   "sha256": "7b2c381a4c7eebb100c5034985ac285c3705e38eadd77ca473f5afc8fab2b645",
+   "timestamp": "2010-11-04T22:10:24.000Z"
+  },
+  "sound/ambience/jpl/evil_breath_loop1.wav": {
+   "bytes": 1252658,
+   "sha256": "024c600baa083e397305cdc5b9e084915b9aa0f340e3b7474b9e7849ec4f3613",
+   "timestamp": "2009-03-15T11:20:34.000Z"
+  },
+  "sound/ambience/jpl/lava_rubble_loop.wav": {
+   "bytes": 191988,
+   "sha256": "ba2a55372e3f283eb033242021bc7bb699b5a31b332b936a6afafad3e8e8a971",
+   "timestamp": "2008-12-06T14:33:10.000Z"
+  },
+  "sound/ambience/jpl/monster_sound.wav": {
+   "bytes": 384222,
+   "sha256": "6d00b66220872afa4b6a020497eb54d14ac973b9c97e1afe98f11009280b8304",
+   "timestamp": "2009-03-14T21:10:18.000Z"
+  },
+  "sound/ambience/jpl/satanic2_loop.wav": {
+   "bytes": 791838,
+   "sha256": "05ddb5e226d0a39afdfc7feda4d315355f23d4b8ca94a068ee4e760cccf600e4",
+   "timestamp": "2009-03-22T14:27:28.000Z"
+  },
+  "sound/ambience/jpl/satanic5_loop.wav": {
+   "bytes": 1018124,
+   "sha256": "17861329b3cac075036e11aa72baec6be45e71af245f9adcaceb24f1296b114b",
+   "timestamp": "2009-03-22T14:53:22.000Z"
+  },
+  "sound/ambience/jpl/satanic7_loop.wav": {
+   "bytes": 793868,
+   "sha256": "1936c91b6c1c776d0037f55504bc9b2b552f4dc06af1f41bf34da226a37000b3",
+   "timestamp": "2009-03-22T16:30:16.000Z"
+  },
+  "sound/ambience/jpl/stone_fall3.wav": {
+   "bytes": 86910,
+   "sha256": "a8211ca03e98b39ea7f49d03d6676a480d7b4ce9763fda691983d02f675d2df9",
+   "timestamp": "2008-12-06T14:31:16.000Z"
+  },
+  "sound/ambience/jpl/telesound_loop.wav": {
+   "bytes": 226990,
+   "sha256": "5dfc3a11d721cce0596ece9e635951c068d9510cf25acd551220e65f33cc75c4",
+   "timestamp": "2008-12-06T14:31:02.000Z"
+  },
+  "sound/ambience/jpl/waste.wav": {
+   "bytes": 1060910,
+   "sha256": "2e1a33c275189e7d12d67e929533fe664bd1a30f9dd5c56efbfa800a82f64976",
+   "timestamp": "2009-03-14T21:06:56.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa",
+ "tags": [
+  "author=JPL",
+  "commandline=-hipnotic -game quoth",
+  "dependency=quoth",
+  "exceeds_quake_limits=yes",
+  "filename=gth.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://lambert.jeanphilippe.free.fr",
+  "map_size=medium",
+  "mod=quoth",
+  "nonspecific_tag=ambiance",
+  "nonspecific_tag=brimstone",
+  "nonspecific_tag=hell",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=sounds",
+  "release_date=2010-11-10",
+  "startmap=gatetohell",
+  "theme=dkt",
+  "theme=doom 3",
+  "theme=quoth",
+  "title=The Gateway to Hell",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/gth.zip",
+  "https://www.quaddicted.com/files/by-sha256/50/504c064dea217f156e4b9dab38dcad190af9020fe6c7c37c54c9ca0cfdf08eaa/gth.zip"
+ ]
+}

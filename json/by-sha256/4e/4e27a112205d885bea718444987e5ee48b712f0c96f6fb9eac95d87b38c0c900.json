@@ -1,0 +1,113 @@
+{
+ "bytes": 12391,
+ "files": {
+  "gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-30T01:02:52.000Z"
+  },
+  "gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-30T01:02:52.000Z"
+  },
+  "gfx/env/mars_bk.tga": {
+   "bytes": 786450,
+   "sha256": "c89b8882101cea7dce890e1afb75048ce6f525de3d05e8edffee264c894b14c0",
+   "timestamp": "2019-06-21T11:12:34.000Z"
+  },
+  "gfx/env/mars_dn.tga": {
+   "bytes": 786450,
+   "sha256": "79be864fb91098e7e162938b56608557e4767852ee1a0c7212f58714242137c0",
+   "timestamp": "2019-06-21T11:12:34.000Z"
+  },
+  "gfx/env/mars_ft.tga": {
+   "bytes": 786450,
+   "sha256": "d328319bc92b57cb74934dc6ec29c773994603ada8c0d7663407c0539f53a516",
+   "timestamp": "2019-06-21T11:12:34.000Z"
+  },
+  "gfx/env/mars_lf.tga": {
+   "bytes": 786450,
+   "sha256": "81e0331ef5883d70ba9588cee8f52e0984b6a403491242ba4268e207e86d74cb",
+   "timestamp": "2019-06-21T11:12:34.000Z"
+  },
+  "gfx/env/mars_rt.tga": {
+   "bytes": 786450,
+   "sha256": "11ed1e93813b4faf407631709e257c3a551ab868e37aca9ab34ba6e4b81f32db",
+   "timestamp": "2019-06-21T11:12:34.000Z"
+  },
+  "gfx/env/mars_up.tga": {
+   "bytes": 786450,
+   "sha256": "6c50889b41d1760827c2871952fa9944c99499c1d9a9f6ba735cea5ef5f89087",
+   "timestamp": "2019-06-21T11:12:34.000Z"
+  },
+  "gfx/env/sock_license.txt": {
+   "bytes": 142,
+   "sha256": "d0c00c6bb0004475069d7013a95975b8249ad964db5767bdda88ec775687b03b",
+   "timestamp": "2019-06-21T11:12:34.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-30T14:23:06.000Z"
+  },
+  "maps/rhoqdoom_mbei.bsp": {
+   "bytes": 4232212,
+   "sha256": "83603cc81ae6d89438c3f7e2d9a32f57abc3db4a2d2a388ee54ed3d221c6f5b0",
+   "timestamp": "2020-03-30T14:11:42.000Z"
+  },
+  "maps/rhoqdoom_mbei.lit": {
+   "bytes": 2179571,
+   "sha256": "4438da2c589402c6b885b45c755414122d2a06d9d99c7432961988ee745e3cb4",
+   "timestamp": "2020-03-30T14:11:42.000Z"
+  },
+  "music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-03-30T00:49:34.000Z"
+  },
+  "music/Track11.mp3": {
+   "bytes": 8304980,
+   "sha256": "0a86fd92cc166452084f582ccbd94509f71a0a4713fe6a4760a4f2254ec9f5c0",
+   "timestamp": "2016-07-21T23:40:42.000Z"
+  },
+  "progs.dat": {
+   "bytes": 331546,
+   "sha256": "86706c325a9348e5cdf62cf974de9a47c05f3c9b83ab90caa79633b9357a8ffe",
+   "timestamp": "2020-03-29T15:11:24.000Z"
+  },
+  "rhoqdoom_mbei.txt": {
+   "bytes": 2613,
+   "sha256": "aed7d4445e89433c79308c5ed5cdffcdaa96c72fbddb8e86c9c90d29cd7bf331",
+   "timestamp": "2020-03-30T14:26:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/rhoq_mbei/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4e27a112205d885bea718444987e5ee48b712f0c96f6fb9eac95d87b38c0c900",
+ "tags": [
+  "author=Rhoq",
+  "commandline=-game rhoq_mbei",
+  "exceeds_quake_limits=yes",
+  "filename=rhoqdoom_mbei.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61860)",
+  "map_size=large",
+  "music=custom",
+  "nonspecific_tag=marble",
+  "nonspecific_tag=skybox",
+  "release_date=2020-03-30",
+  "theme=base",
+  "theme=doom",
+  "theme=remake",
+  "title=Mars Base Excavation Incident",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/rhoqdoom_mbei.zip",
+  "https://www.quaddicted.com/files/by-sha256/4e/4e27a112205d885bea718444987e5ee48b712f0c96f6fb9eac95d87b38c0c900/rhoqdoom_mbei.zip"
+ ]
+}

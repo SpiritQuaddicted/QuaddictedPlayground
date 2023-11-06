@@ -1,0 +1,48 @@
+{
+ "bytes": 682,
+ "files": {
+  "sm166_negke.bsp": {
+   "bytes": 603776,
+   "sha256": "3c68b96cc5455910011881214ec13b876e58531da14f6c0e46e34f5037ead1be",
+   "timestamp": "2012-02-26T17:45:40.000Z"
+  },
+  "sm166_negke2.bsp": {
+   "bytes": 750404,
+   "sha256": "276d8aa1667b17736fbb1c41816a6e48c2b0131be4d5b879a873875dafc9c535",
+   "timestamp": "2012-02-26T17:40:20.000Z"
+  },
+  "sm166_pack.txt": {
+   "bytes": 1285,
+   "sha256": "c6fcde002fad3f6ebf224417a97cd05d4ad8241b9398919ba16c2722cb22c00a",
+   "timestamp": "2012-02-28T10:17:26.000Z"
+  },
+  "sm166_zwiffle.bsp": {
+   "bytes": 647876,
+   "sha256": "18885e6d3eda10176f768c2464fc7ad6b95b65d8348b835d53a0b6eb62645d3a",
+   "timestamp": "2012-02-28T10:03:48.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d12df19ced721197b37d70ca0e1380d491037a88f3355abfe0b3f42f5fb93e43",
+ "tags": [
+  "author=Zwiffle",
+  "author=negke",
+  "filename=sm166_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2012-02-28",
+  "startmap=sm166_negke",
+  "startmap=sm166_negke2",
+  "startmap=sm166_zwiffle",
+  "theme=doom",
+  "title=Speedmapping Pack 166 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm166_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/d1/d12df19ced721197b37d70ca0e1380d491037a88f3355abfe0b3f42f5fb93e43/sm166_pack.zip"
+ ]
+}

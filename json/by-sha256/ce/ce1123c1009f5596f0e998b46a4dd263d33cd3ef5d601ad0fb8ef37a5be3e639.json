@@ -1,0 +1,48 @@
+{
+ "bytes": 2298,
+ "files": {
+  "SBE.txt": {
+   "bytes": 11060,
+   "sha256": "17fcc34a2999f5bb5ee22c7037c7025bf390b3f90d3becd16e95c133f7c096a9",
+   "timestamp": "2000-05-06T20:41:44.000Z"
+  },
+  "sbe.bsp": {
+   "bytes": 4071248,
+   "sha256": "87e567cbba2b37bc47824dfcc9e963da6ebc6eb14ce164ff414f2188cab069e4",
+   "timestamp": "2000-04-23T15:40:34.000Z"
+  },
+  "sbe_end.bsp": {
+   "bytes": 546648,
+   "sha256": "a43098dcbc74e1392a00536053b00a488441bc91f90a8b467774f1b341595a24",
+   "timestamp": "2000-05-04T23:44:12.000Z"
+  },
+  "sbe_strt.bsp": {
+   "bytes": 1215792,
+   "sha256": "d035eb44c4a6c9454224c5e8658d3b3fb78ee526720c31f0f7139e3e1d3857be",
+   "timestamp": "2000-04-20T17:29:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "ce1123c1009f5596f0e998b46a4dd263d33cd3ef5d601ad0fb8ef37a5be3e639",
+ "tags": [
+  "author=Scragbait",
+  "filename=sbe.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/08-may-2000/scragestate.php)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev000510.html)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=sbe)",
+  "map_layout=maze",
+  "release_date=2000-05-06",
+  "startmap=sbe_strt",
+  "title=Scragbait's Estate",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sbe.zip",
+  "https://www.quaddicted.com/files/by-sha256/ce/ce1123c1009f5596f0e998b46a4dd263d33cd3ef5d601ad0fb8ef37a5be3e639/sbe.zip"
+ ]
+}

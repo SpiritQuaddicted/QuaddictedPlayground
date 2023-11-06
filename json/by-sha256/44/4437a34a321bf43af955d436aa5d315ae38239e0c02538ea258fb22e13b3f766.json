@@ -1,0 +1,66 @@
+{
+ "bytes": 1969,
+ "files": {
+  "dreadbase/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-04-03T20:12:08.000Z"
+  },
+  "dreadbase/CREDITS-freedoom-content.txt": {
+   "bytes": 10000,
+   "sha256": "90037efb8dade6d272bbaaa0f59a190aaa4abee86fd05015a1a12209b945978b",
+   "timestamp": "2018-04-03T19:31:44.000Z"
+  },
+  "dreadbase/README.txt": {
+   "bytes": 496,
+   "sha256": "1dfb3afdac6b96cd09baece33ae36bc3e8370d6f53d5323101adef87fca845c5",
+   "timestamp": "2018-04-03T20:12:08.000Z"
+  },
+  "dreadbase/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-04-07T13:59:26.000Z"
+  },
+  "dreadbase/maps/dreadbase_fix1.bsp": {
+   "bytes": 2796140,
+   "sha256": "e20b81b49ed00176b4d3874bdc8bf29a7d75636a87de6ca722b9ef15cc9dec31",
+   "timestamp": "2018-04-07T13:59:00.000Z"
+  },
+  "dreadbase/maps/dreadbase_fix1.lit": {
+   "bytes": 1392686,
+   "sha256": "e609336bebcc06902a52a9c4b5bd158ffa11314329a87fa0599d02038eee293d",
+   "timestamp": "2018-04-07T13:59:04.000Z"
+  },
+  "dreadbase/maps/dreadbase_fix1.map": {
+   "bytes": 1609557,
+   "sha256": "24aec1dbcf6b321b4783c862952583efeb32edd24fe595e3a92bb339ff50a103",
+   "timestamp": "2018-04-07T13:59:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766",
+ "tags": [
+  "author=SavageX",
+  "commandline=-game dreadbase",
+  "filename=dreadbase.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61560)",
+  "map_size=medium",
+  "nonspecific_tag=textures",
+  "release_date=2018-04-07",
+  "source=included",
+  "startmap=dreadbase_fix1",
+  "theme=base",
+  "theme=doom",
+  "title=The Dreaded Dreadbase of Dread",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/dreadbase.zip",
+  "https://www.quaddicted.com/files/by-sha256/44/4437a34a321bf43af955d436aa5d315ae38239e0c02538ea258fb22e13b3f766/dreadbase.zip"
+ ]
+}

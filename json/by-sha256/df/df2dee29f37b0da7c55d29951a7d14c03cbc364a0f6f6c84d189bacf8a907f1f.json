@@ -1,0 +1,49 @@
+{
+ "bytes": 2903,
+ "files": {
+  "digs06.bsp": {
+   "bytes": 7937108,
+   "sha256": "03f834c820b3fd407c2ae5148ebeb621953e244b24c0d731eb6427e56f879396",
+   "timestamp": "2011-07-02T13:35:34.000Z"
+  },
+  "digs06.txt": {
+   "bytes": 2038,
+   "sha256": "494f27222af0888ddd2664c3fd5d512d6400023d415c9e637da0b85644b6cb33",
+   "timestamp": "2011-07-01T08:05:12.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "df2dee29f37b0da7c55d29951a7d14c03cbc364a0f6f6c84d189bacf8a907f1f",
+ "tags": [
+  "author=Digs",
+  "commandline=-heapsize 64000 +max_edicts 2048 +r_wateralpha 0.3",
+  "exceeds_quake_limits=yes",
+  "filename=digs06.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://digspt.ru/quake/",
+  "link=[The Abandoned Workshop](http://taw.duke4.net/2011/07/quake/the-anomaly-2-water/)",
+  "map_layout=non-linear",
+  "map_size=large",
+  "nonspecific_tag=chthon",
+  "release_date=2011-07-01",
+  "theme=abstract",
+  "theme=boss",
+  "theme=bricks",
+  "theme=experimental",
+  "theme=exploration",
+  "theme=metal",
+  "theme=puzzles",
+  "theme=water",
+  "theme=wizard",
+  "title=The Anomaly 2: Water",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/digs06.zip",
+  "https://www.quaddicted.com/files/by-sha256/df/df2dee29f37b0da7c55d29951a7d14c03cbc364a0f6f6c84d189bacf8a907f1f/digs06.zip"
+ ]
+}

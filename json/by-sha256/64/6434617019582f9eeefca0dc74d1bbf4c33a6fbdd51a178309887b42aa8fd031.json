@@ -1,0 +1,363 @@
+{
+ "bytes": 22609,
+ "files": {
+  "docs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-07-06T15:50:54.000Z"
+  },
+  "docs/jam1_arrrcee.txt": {
+   "bytes": 1309,
+   "sha256": "b0c60975a0832e9bf142d3a61a91c38187d8ee4a7bed6ca9c2684db1c122529e",
+   "timestamp": "2014-07-01T23:36:02.000Z"
+  },
+  "docs/jam1_doomer.txt": {
+   "bytes": 1893,
+   "sha256": "5a1e51c53e9406bf22df8503f1d6f3ea08e6f443f8e0004ac0b8075bef226284",
+   "timestamp": "2014-07-03T12:58:18.000Z"
+  },
+  "docs/jam1_fifth.txt": {
+   "bytes": 2643,
+   "sha256": "4556b84135826ce61316b88e523b9283705309b66e2c9a6af88a678a2090d588",
+   "timestamp": "2014-06-30T00:46:14.000Z"
+  },
+  "docs/jam1_ionous.txt": {
+   "bytes": 3442,
+   "sha256": "fe9a6b77b1f575ed12d4305a7a0c397b514416b9af367bb5bcc37c2725ba24c2",
+   "timestamp": "2014-07-03T07:29:02.000Z"
+  },
+  "docs/jam1_ionous_d.txt": {
+   "bytes": 3700,
+   "sha256": "46140652cf541dea3ed11f9c46307b1ea49de04edd8e6237a7d1e028d21453b3",
+   "timestamp": "2014-07-06T01:05:40.000Z"
+  },
+  "docs/jam1_skacky.txt": {
+   "bytes": 1390,
+   "sha256": "48cce86f01e157cb4140e35d74eacfc5e4d1e84d3618308470d5166746c8b17e",
+   "timestamp": "2014-06-25T16:18:38.000Z"
+  },
+  "docs/jam1_sock.txt": {
+   "bytes": 2464,
+   "sha256": "5ac717da2c686bbc6321f5919a19c40bd08938c50d5ddfef3248e705ebd55654",
+   "timestamp": "2014-07-06T15:58:34.000Z"
+  },
+  "func_mapjam1_readme.txt": {
+   "bytes": 2802,
+   "sha256": "9c8b2d78cb7d08816ec0379f08bd25bb90876c9987d3417dcb7954e24580b972",
+   "timestamp": "2014-07-06T17:40:00.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-07-06T15:58:58.000Z"
+  },
+  "maps/jam1_arrrcee.bsp": {
+   "bytes": 3508548,
+   "sha256": "392535effa2706f0d386d69532d2e5bbeff5ac76aa2fbd0e8b801f4590c16d8c",
+   "timestamp": "2014-07-01T23:28:34.000Z"
+  },
+  "maps/jam1_arrrcee.lit": {
+   "bytes": 1162925,
+   "sha256": "cfc0448a972c0f7b87a1e4bc8663f8b526d29b0994431648a64b8a21a3a0f7d7",
+   "timestamp": "2014-07-01T23:28:34.000Z"
+  },
+  "maps/jam1_digs.bsp": {
+   "bytes": 4201204,
+   "sha256": "bbb6813a86d84e4ef6d500e510fe820c0bcf6a212f931afa5522099129815a9a",
+   "timestamp": "2014-07-02T00:31:56.000Z"
+  },
+  "maps/jam1_doomer.bsp": {
+   "bytes": 2662200,
+   "sha256": "aaedfa091ba31ede2462293fb436c6ded7bac37beaed419906bd08c22e86ac3b",
+   "timestamp": "2014-07-03T13:09:26.000Z"
+  },
+  "maps/jam1_ericw.bsp": {
+   "bytes": 2086400,
+   "sha256": "9ade1c97e4a12533f10963064c4864a1e5b4377383de1d960cc8f45084e836a0",
+   "timestamp": "2014-06-30T20:19:04.000Z"
+  },
+  "maps/jam1_fifth.bsp": {
+   "bytes": 2774387,
+   "sha256": "dfcef94aafcf09df87f1ebae256ca936a9cce3a1bd0d5a23f1aa4d7118197dd6",
+   "timestamp": "2014-06-30T00:29:52.000Z"
+  },
+  "maps/jam1_ionous.bsp": {
+   "bytes": 4600720,
+   "sha256": "a8b8c357c6dcd06e09d1a03663a8bcb7d78612f9f252394e41a4ddea161a4c31",
+   "timestamp": "2014-07-05T17:35:50.000Z"
+  },
+  "maps/jam1_ionous.lit": {
+   "bytes": 1266206,
+   "sha256": "0e3a442635841972160fc1ea8a3eb3fe60d1a2c41ac63c2653d3d4b82355b136",
+   "timestamp": "2014-07-05T17:35:12.000Z"
+  },
+  "maps/jam1_mechtech.bsp": {
+   "bytes": 2223443,
+   "sha256": "565991245134a95e6da41f388fecb19fcab5f2a4afabb75abcba04d5367d3ede",
+   "timestamp": "2014-07-02T20:44:02.000Z"
+  },
+  "maps/jam1_mechtech.lit": {
+   "bytes": 526499,
+   "sha256": "106499c4d92848915a6cafc27271e6b6550b90062a84448a7483be07bb46b420",
+   "timestamp": "2014-07-02T20:44:02.000Z"
+  },
+  "maps/jam1_otp.bsp": {
+   "bytes": 3385076,
+   "sha256": "2b5561c8f61231d96cc356eab0c4e9e75f136caa764ce98efaaf3d27d7cb419f",
+   "timestamp": "2014-07-01T14:31:38.000Z"
+  },
+  "maps/jam1_rickyt23.bsp": {
+   "bytes": 2275656,
+   "sha256": "2e00f8c279e3db1de78ff176f7e745777337117411ef7a4ca61550a0828db6bd",
+   "timestamp": "2014-07-02T00:02:28.000Z"
+  },
+  "maps/jam1_scampie.bsp": {
+   "bytes": 5698828,
+   "sha256": "24f15e8330e85ecd6ff6f0de72eb61fde03cd7f37390e74e892799f9026fa489",
+   "timestamp": "2014-06-30T13:43:42.000Z"
+  },
+  "maps/jam1_scampie.lit": {
+   "bytes": 3838970,
+   "sha256": "57b4ad2abe9257a9955c4ff7240c0ef8c30ff6a6f2ce31464f6083c98c1be8a3",
+   "timestamp": "2014-06-30T13:43:42.000Z"
+  },
+  "maps/jam1_skacky.bsp": {
+   "bytes": 8878138,
+   "sha256": "800b075d32830d56160fc0c0e6e6fdef7dac6c2cdb25c854b9ce2cd82fc0e6cd",
+   "timestamp": "2014-06-25T14:47:08.000Z"
+  },
+  "maps/jam1_sock.bsp": {
+   "bytes": 4797160,
+   "sha256": "b042882db89b6e49c128adb5a86c0b197950ce22bd22c8b64a6adf8c4db00405",
+   "timestamp": "2014-07-06T15:51:14.000Z"
+  },
+  "maps/jam1_sock.lit": {
+   "bytes": 1464473,
+   "sha256": "2f59c25a5f1a94fc078462753568936a8e34048c0540cf36eaef32f7451ebcff",
+   "timestamp": "2014-07-06T15:51:14.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-07-06T16:00:00.000Z"
+  },
+  "progs/backpack.mdl": {
+   "bytes": 25812,
+   "sha256": "1ba9d3176bb2e03a0457427fd9394d8c15eb9ebae8af9462e955e9c6c6068513",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/end3.mdl": {
+   "bytes": 19700,
+   "sha256": "445af16e28fff506ad65fac16b09dad1672e218ffe0183880aff565578b315b8",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/end4.mdl": {
+   "bytes": 19220,
+   "sha256": "cf52525422a102760bfcabd6e8dd5c5df7c2028daea5baa2a1b1717648dd143e",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/flame2.mdl": {
+   "bytes": 74548,
+   "sha256": "e7e43f79a05fa23bfddb23e26234f15622bcce9a1966df2e165d90d0dffca6e5",
+   "timestamp": "2014-01-09T11:41:52.000Z"
+  },
+  "progs/grenade.mdl": {
+   "bytes": 3860,
+   "sha256": "256412b0d88c020fb03efc5e914c5dd721c9dfe8d6a36ce4a7b01e7597d7e7d5",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/invulner.mdl": {
+   "bytes": 21412,
+   "sha256": "1274fcabffa89a786b29c9238cf84e95a8557369239b4a9eb813e3dbe37d35ac",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/k_spike.mdl": {
+   "bytes": 5492,
+   "sha256": "ecf293b2e8146a33de7bc8bb3cded80bb785b931012b40dca204db3dad50e776",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/missile.mdl": {
+   "bytes": 8372,
+   "sha256": "5c4b9d831357ad72e5f47c38e13b8e2ab04b80fb9d8ed6ddd3667a5eea9a585a",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/quaddama.mdl": {
+   "bytes": 22052,
+   "sha256": "c5657b558522e46f0833b7827520c1a5c1f1674dffd52c12609779d5bcd75462",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/s_spike.mdl": {
+   "bytes": 1396,
+   "sha256": "945ad552ad86e5193ef9c007dbe23686fbe89be1060063f57ea693b89e5df229",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/spike.mdl": {
+   "bytes": 1396,
+   "sha256": "c5e6afcfbfe35ffde5bda7eaf91e2a583c3f20cf8f3175b4f4e0ad03b358983c",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/v_spike.mdl": {
+   "bytes": 9012,
+   "sha256": "06e8f32092cbc0b5ba4d26227df9ac2d10f3a76d9a63bc7928af147b4ade12d7",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/w_g_key.mdl": {
+   "bytes": 10196,
+   "sha256": "bf5c4ffac0c77e4e039af048ebef10cc8d68644f13956a75fac65577c840cd8e",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/w_s_key.mdl": {
+   "bytes": 10132,
+   "sha256": "d368ad594376bfa4c3c3b77bb467b91d62296a6385c276b2d76cd44891d1a752",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/w_spike.mdl": {
+   "bytes": 6356,
+   "sha256": "40d9d29c58df57ece6892d71d0464022eb5939aa45699e98eae22136b973c4c8",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "progs/zom_gib.mdl": {
+   "bytes": 19768,
+   "sha256": "2175cca881b4a73adf3742933a5d3e91116c774ddd3db9b6ac2a7f863194d4a8",
+   "timestamp": "2014-07-05T08:18:40.000Z"
+  },
+  "quake.rc": {
+   "bytes": 1193,
+   "sha256": "3f1a5178a91209894f400082bd5143ef5e009bf8f73c9e07283ea1b3e190158e",
+   "timestamp": "2014-07-06T16:02:42.000Z"
+  },
+  "source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2014-07-06T15:59:38.000Z"
+  },
+  "source/jam1_arrrcee.map": {
+   "bytes": 341211,
+   "sha256": "b25d783de4c0508da4897245086a65a163631b99f35bad7b76c5e37e2ac1f7ff",
+   "timestamp": "2014-07-01T23:26:48.000Z"
+  },
+  "source/jam1_digs.map": {
+   "bytes": 1515617,
+   "sha256": "ecfc3ed29478c90ac4f8e0cee6818b1b48cfbbd9b4222346a9614d1fde353412",
+   "timestamp": "2014-07-02T00:02:16.000Z"
+  },
+  "source/jam1_doomer.map": {
+   "bytes": 873180,
+   "sha256": "43edad346d9f4bc556f556694e70636346cc869252e28e0a1bd43837a651daa8",
+   "timestamp": "2014-07-03T13:08:44.000Z"
+  },
+  "source/jam1_ericw.map": {
+   "bytes": 2219924,
+   "sha256": "85da6933968cd3e74b5ea85ad8c02839a6341b962550ae204373b4379dc0e7c9",
+   "timestamp": "2014-06-30T20:18:46.000Z"
+  },
+  "source/jam1_fifth.map": {
+   "bytes": 1171553,
+   "sha256": "343867ad3f7082f3db70e9484e7413308d36a13717ef92492e70543732e8cdf4",
+   "timestamp": "2014-06-30T00:29:06.000Z"
+  },
+  "source/jam1_ionous.map": {
+   "bytes": 2578613,
+   "sha256": "2d3c936972f4c502134564de86bb654c439c6e83bb3e00705d6f7962fd1f8852",
+   "timestamp": "2014-07-05T17:45:36.000Z"
+  },
+  "source/jam1_mechtech.map": {
+   "bytes": 1215127,
+   "sha256": "86de8ce15f62c05240b9341f49359142c332a0658d30eb97489fbc22d797cc5b",
+   "timestamp": "2014-07-02T20:43:18.000Z"
+  },
+  "source/jam1_mechtech.rmf": {
+   "bytes": 5070053,
+   "sha256": "5d790c0ec02c43e69786e9181b4173b3d1e1b6dd1c983e119e7af71f86de82c8",
+   "timestamp": "2014-07-02T20:50:02.000Z"
+  },
+  "source/jam1_otp.map": {
+   "bytes": 688695,
+   "sha256": "f2438b3be3fa7d37919e418b684d88f38353456d6d9b478e381164ccdbc45fc0",
+   "timestamp": "2014-07-01T14:31:28.000Z"
+  },
+  "source/jam1_rickyt23.map": {
+   "bytes": 869731,
+   "sha256": "45d827375f89598785eca31b27a1dbdec76075b4bd6086a5fab26ca46eff06b5",
+   "timestamp": "2014-07-01T23:56:10.000Z"
+  },
+  "source/jam1_rickyt23.rmf": {
+   "bytes": 3240874,
+   "sha256": "f34f9253f66a6188f44d99110ce8d11aae0b76e2492ad41592497603019c07dc",
+   "timestamp": "2014-07-01T23:56:00.000Z"
+  },
+  "source/jam1_scampie.map": {
+   "bytes": 1869546,
+   "sha256": "9b0dc0853953a1dbe44f619cfdbb3e2279bea17a7ca3fc02a72762da351947a4",
+   "timestamp": "2014-06-30T13:41:32.000Z"
+  },
+  "source/jam1_skacky.map": {
+   "bytes": 5816456,
+   "sha256": "ff1d15b4ed19efaf0568e0a9431554ded365e897ef9dd44d2e7cdb944c69713c",
+   "timestamp": "2014-06-25T14:39:06.000Z"
+  },
+  "source/jam1_sock.map": {
+   "bytes": 3000570,
+   "sha256": "e3910da4a9791c60ea863b4c1839c3d9c138c04085fd624f256888cfd8a3de37",
+   "timestamp": "2014-07-06T15:49:06.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/func_mapjam1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031",
+ "tags": [
+  "author=ArrrCee",
+  "author=DOOMer",
+  "author=FifthElephant",
+  "author=RickyT23",
+  "author=Scampie",
+  "author=digs",
+  "author=ericw",
+  "author=ionous/mfx",
+  "author=mechtech",
+  "author=onetruepurple",
+  "author=skacky",
+  "author=sock",
+  "commandline=-game func_mapjam1",
+  "filename=func_mapjam1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61043)",
+  "map_size=large",
+  "map_size=medium",
+  "map_size=small",
+  "nonspecific_tag=chains",
+  "nonspecific_tag=halls",
+  "nonspecific_tag=honey",
+  "nonspecific_tag=mfx",
+  "nonspecific_tag=mist",
+  "release_date=2014-07-06",
+  "source=included",
+  "startmap=jam1_arrrcee",
+  "startmap=jam1_digs",
+  "startmap=jam1_doomer",
+  "startmap=jam1_ericw",
+  "startmap=jam1_fifth",
+  "startmap=jam1_ionous",
+  "startmap=jam1_mechtech",
+  "startmap=jam1_otp",
+  "startmap=jam1_rickyt23",
+  "startmap=jam1_scampie",
+  "startmap=jam1_skacky",
+  "startmap=jam1_sock",
+  "theme=bricks",
+  "theme=cistern",
+  "theme=dungeon",
+  "theme=fog",
+  "theme=medieval",
+  "title=Func Map Jam 1 - Honey Theme",
+  "type=mapjam",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/func_mapjam1.zip",
+  "https://www.quaddicted.com/files/by-sha256/64/6434617019582f9eeefca0dc74d1bbf4c33a6fbdd51a178309887b42aa8fd031/func_mapjam1.zip"
+ ]
+}

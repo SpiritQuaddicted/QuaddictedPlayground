@@ -1,0 +1,55 @@
+{
+ "bytes": 846,
+ "files": {
+  "sm35_ap.bsp": {
+   "bytes": 267540,
+   "sha256": "2a768ac35219a6a5630a698b29ba86eb02eebd012587924aed68743300399127",
+   "timestamp": "2001-09-23T23:10:08.000Z"
+  },
+  "sm35_bear.bsp": {
+   "bytes": 258544,
+   "sha256": "da11f9528fb9948a9233dc2fd92a7e6bdfc25d01049bf7f4f9562c54a70084f7",
+   "timestamp": "2001-09-24T00:19:10.000Z"
+  },
+  "sm35_necros.bsp": {
+   "bytes": 819624,
+   "sha256": "7361c67e1c7dd66158f6b6d5f1f51781b6fe4067848add7182b5440745b5387f",
+   "timestamp": "2001-09-23T17:29:08.000Z"
+  },
+  "sm35_nekroe.bsp": {
+   "bytes": 744512,
+   "sha256": "d19fcb7b118e15fa8f59ec7f2c2ed4bda9782f58321e440ae446154d2a8913e4",
+   "timestamp": "2001-09-24T02:44:38.000Z"
+  },
+  "sm35_pack.txt": {
+   "bytes": 2270,
+   "sha256": "e1533947d9a8235c919da252233535df0fd3a0172038b315ceec8577ab029f95",
+   "timestamp": "2001-09-24T18:28:50.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93",
+ "tags": [
+  "author=Apollo",
+  "author=Cybear",
+  "author=necros",
+  "author=nekroe",
+  "filename=sm35_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2001-09-24",
+  "startmap=sm35_ap",
+  "startmap=sm35_bear",
+  "startmap=sm35_necros",
+  "startmap=sm35_nekroe",
+  "title=Speedmapping pack 35 - Use the Egypt texture set created by sock as converted by Fren",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm35_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3a/3adea231f27a7ea7173c9e9e36444d54bc2ea536772e9e69d9b02b440df16b93/sm35_pack.zip"
+ ]
+}

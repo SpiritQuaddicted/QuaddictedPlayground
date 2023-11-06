@@ -1,0 +1,55 @@
+{
+ "bytes": 1084,
+ "files": {
+  "alb1.bsp": {
+   "bytes": 1422500,
+   "sha256": "b04f53d189a5261599167899a88fb4ce214d882038375db2d6537c1ea3d2899b",
+   "timestamp": "2000-02-25T17:15:14.000Z"
+  },
+  "alb1v1a.bsp": {
+   "bytes": 951288,
+   "sha256": "8530b1159833ea561cbc7b9143876c47445b45ebee33e342c7ddfa856f6e9b81",
+   "timestamp": "2014-04-08T21:38:12.000Z"
+  },
+  "alb1v1a.jpg": {
+   "bytes": 145461,
+   "sha256": "3c55f470a3cf03704d1d23e420f9c49d8070f3da130fc709e777047f3205cc9d",
+   "timestamp": "2014-04-09T00:21:32.000Z"
+  },
+  "alb1v1a.map": {
+   "bytes": 382809,
+   "sha256": "d38b4d18455dc4f713ab98b1e8a6378029997185054c3e91e68e256827dceb3f",
+   "timestamp": "2014-04-08T21:37:58.000Z"
+  },
+  "alb1v1a.txt": {
+   "bytes": 3475,
+   "sha256": "9fee24bf793b1d7c4eed1c80852716670a4264ed5c1bd0ffbb94037c2f423310",
+   "timestamp": "2014-04-09T00:27:04.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "ce1c190eec984de308a27951a0c91f8743dba1754244c6ebd4fd172ce31a0fce",
+ "tags": [
+  "author=Cocerello",
+  "filename=alb1v1a.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=1997",
+  "release_date=2014-04-08",
+  "source=included",
+  "startmap=alb1",
+  "startmap=alb1v1a",
+  "theme=base",
+  "theme=idbase",
+  "title=Pleasant murder",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/alb1v1a.zip",
+  "https://www.quaddicted.com/files/by-sha256/ce/ce1c190eec984de308a27951a0c91f8743dba1754244c6ebd4fd172ce31a0fce/alb1v1a.zip"
+ ]
+}

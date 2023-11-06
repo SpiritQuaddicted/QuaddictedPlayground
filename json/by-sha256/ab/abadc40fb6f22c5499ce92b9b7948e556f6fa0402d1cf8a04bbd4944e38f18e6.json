@@ -1,0 +1,356 @@
+{
+ "bytes": 5043,
+ "files": {
+  "terracity/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2013-05-12T10:56:28.000Z"
+  },
+  "terracity/pak0.pak": {
+   "bytes": 9024953,
+   "files": {
+    "maps/terracity.bsp": {
+     "bytes": 5411332,
+     "sha256": "61b2d5d5a86a1a64b0eacb46ed1b452dba8c9f5a59102135ab846772a9573219"
+    },
+    "progs.dat": {
+     "bytes": 631612,
+     "sha256": "85b217f85f441f20c5759cb727f7965b3ddd9fc0542b08af8881590b40493b82"
+    },
+    "progs/armabody.mdl": {
+     "bytes": 133520,
+     "sha256": "e827535032c8e83609fedf07c9989c504e7eaa6772ce0d5cf73788e00980f151"
+    },
+    "progs/armalegs.mdl": {
+     "bytes": 106288,
+     "sha256": "b33a8f7e4cd3fca9b8c9427d8002a5470da44ce919648e1a0045f3f131f73deb"
+    },
+    "progs/armor.mdl": {
+     "bytes": 44076,
+     "sha256": "c7c0c6fea1a1d8b575388f3045b7dded09953d13ec070c8182e9b28b0506408d"
+    },
+    "progs/backpack.mdl": {
+     "bytes": 19348,
+     "sha256": "4aaef7b8d28caa52dc230bed11cdea22f55c00b9b90aae400e1c19f7bf3dbbb6"
+    },
+    "progs/candle.mdl": {
+     "bytes": 21476,
+     "sha256": "f3193191ab17b7186f623ef26d1a1bc66c3db35ed7cc63cbce6f910ec1a601b5"
+    },
+    "progs/fogspr1.spr": {
+     "bytes": 3192,
+     "sha256": "15be3c9f6f1d68efa821ff8d4f29a2e969b0c2944e3c71cc36626c4b471a991b"
+    },
+    "progs/foliage_bush1.spr": {
+     "bytes": 4152,
+     "sha256": "673e2a4f5ada41dbdba72191b7a82f89148279091643d41e3a7db50771b355cf"
+    },
+    "progs/grem.mdl": {
+     "bytes": 150616,
+     "sha256": "bdc4443c3a0d0bb30b4302bb7b1d9759344690c6148bea08a747436191325763"
+    },
+    "progs/h_grem.mdl": {
+     "bytes": 15380,
+     "sha256": "b6b3713105cedd0f6cef824ebf2bb994503bc2769c4b4177994393f88bb2bae5"
+    },
+    "progs/h_guard.mdl": {
+     "bytes": 5428,
+     "sha256": "a664e3b12255b48a07ac7191f99126fd038e7c93784731608ac9bcfc3182bf90"
+    },
+    "progs/h_scourg.mdl": {
+     "bytes": 27796,
+     "sha256": "36f7e656c04f19c91c30977bd4c64d81e0aa1a8b942c93a6a2103f74f86b9c92"
+    },
+    "progs/horn.mdl": {
+     "bytes": 589640,
+     "sha256": "37e201448c56afc84da453d653ec0661d7e2c656533665cbb6c74dd7c30c7746"
+    },
+    "progs/lasrspik.mdl": {
+     "bytes": 11348,
+     "sha256": "26991bd856edc7384e70ce19ccea146a134742d07ee05261cd32d56c72275ace"
+    },
+    "progs/lavaman.mdl": {
+     "bytes": 190588,
+     "sha256": "b81bb7f5cebb2889cfd2f431f743200f672d0195b05fe3faa98b50163fed7fb1"
+    },
+    "progs/mervup.mdl": {
+     "bytes": 32948,
+     "sha256": "3208053440304d6bf1ff0a15dd4f3c23f7f2301a6254045cd12d70ada4cfc899"
+    },
+    "progs/s_light.mdl": {
+     "bytes": 27596,
+     "sha256": "88e4f9751b4c6b5baf80cbd5343753fb7b99c183755d3c8ed82b682513d42d4b"
+    },
+    "progs/s_light.spr": {
+     "bytes": 6300,
+     "sha256": "fa7101abc901511d99a045b45567524aa25b079115e86efee4adf0327c69af87"
+    },
+    "progs/s_light2.spr": {
+     "bytes": 1080,
+     "sha256": "4b9c1ff3b30b5900b512548c089513eae872e5b2256aeb4c14596c5aa837bfe2"
+    },
+    "progs/s_light3.spr": {
+     "bytes": 1080,
+     "sha256": "0cb6c5d37ea58d988b5aa068240482e06336446f0a3b9e94ed66d06ee155c735"
+    },
+    "progs/s_light4.spr": {
+     "bytes": 1080,
+     "sha256": "fab888789e06b7253dc00fcab3cf0bff67366136df32a6d33d5c382d8469de8a"
+    },
+    "progs/s_light5.spr": {
+     "bytes": 1080,
+     "sha256": "e5444684412840aa0be2c454e5cb238e6f20ada7a79f9da8016a392465a5ab96"
+    },
+    "progs/s_light6.spr": {
+     "bytes": 1080,
+     "sha256": "dbd4c3e1a777997fb3f67c0abb5fc3670ab77686e83600e41737c3628eb3b1a8"
+    },
+    "progs/s_spike.mdl": {
+     "bytes": 1684,
+     "sha256": "ce6c16618f236e72f00965a69a8284395b3157788ca988ba5c7b258cdaf2b929"
+    },
+    "progs/scor.mdl": {
+     "bytes": 97396,
+     "sha256": "13f3baa6760b38c1a7ba30eea9b581754dd87eeb1875248ce6feb1d1efb3582f"
+    },
+    "progs/suit.mdl": {
+     "bytes": 51236,
+     "sha256": "17d57805138e93283f133d1d4f42ffe5b61bedb946b62bb96cce6f5c1a7f9acf"
+    },
+    "progs/sword.mdl": {
+     "bytes": 37060,
+     "sha256": "a72818767602e676cb08aa19db1780df9ee71b1f5c650f24c4f7ad2f761360d2"
+    },
+    "progs/zombie.mdl": {
+     "bytes": 186084,
+     "sha256": "76430f4aebfb39e918f524d81d5012051e49d0749f6f9a692ae7445a15cc8dfe"
+    },
+    "sound/ambient/runwater.wav": {
+     "bytes": 64764,
+     "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a"
+    },
+    "sound/ambient/wat_amb.wav": {
+     "bytes": 301220,
+     "sha256": "51a27a6489c5e016a90405e7fe295b495d56c4129010b428ee297cd4f34fdd89"
+    },
+    "sound/ambient/wind1.wav": {
+     "bytes": 308910,
+     "sha256": "aa1c42b3a8ca30b9e9a459e96db5200137eba5df44dada9362425fa7c1d1fc16"
+    },
+    "sound/armagon/death.wav": {
+     "bytes": 44744,
+     "sha256": "037799aa0d798d955287d1c901ab566f470a364ae2f9d163fafe12b7d2600868"
+    },
+    "sound/armagon/footfall.wav": {
+     "bytes": 9264,
+     "sha256": "9d85976c868c20fa76f1aae3598c0cf996d5ca422ff38e3dbbc6a03adb808b23"
+    },
+    "sound/armagon/idle.wav": {
+     "bytes": 7959,
+     "sha256": "c2125e999c1f97b54245fab23e0a2a92580e3c545f1c339bb8fef765d078e7cf"
+    },
+    "sound/armagon/idle1.wav": {
+     "bytes": 9534,
+     "sha256": "caa2e97d05212cf54d7f97652e7a91265165f7498802d33f6cc003fc5f567d89"
+    },
+    "sound/armagon/idle2.wav": {
+     "bytes": 13230,
+     "sha256": "19e6b320700e5620fab10acf97271e222b0867865c8985a47c6d3abf2f2c6767"
+    },
+    "sound/armagon/idle3.wav": {
+     "bytes": 10574,
+     "sha256": "d169b6e88544b24cccbd6cdb057276c6a52e7258179b25483d337a26636e6b02"
+    },
+    "sound/armagon/idle4.wav": {
+     "bytes": 13038,
+     "sha256": "c1a512aed5c670b275fb7ed7c1ce9b3b54188f46b0c428cbfdbc4b79eb0120be"
+    },
+    "sound/armagon/pain.wav": {
+     "bytes": 11342,
+     "sha256": "982f24d1ef9414e3ea280d591e5500328dd491b4a880c41cbe54b5c591096f66"
+    },
+    "sound/armagon/repel.wav": {
+     "bytes": 18914,
+     "sha256": "7b6681adfb9fb1d1a9d34ebe3237c220166f7de29b00c63bfe0a0a12084c7d36"
+    },
+    "sound/armagon/servo.wav": {
+     "bytes": 4158,
+     "sha256": "e558fdee1d311db180c318a492feef946330560ba4fe664dc0a9ed1f64d4e3c6"
+    },
+    "sound/armagon/sight.wav": {
+     "bytes": 16506,
+     "sha256": "ed618d100d982b347a334f26c4b8c276ad6b90504816829d47b6ca1df3f31f3d"
+    },
+    "sound/armagon/sight2.wav": {
+     "bytes": 23228,
+     "sha256": "2e11e1f4d01f4e4730a70a3149523768377ce5d718982ad9ca2678bdbdce36f2"
+    },
+    "sound/equake/rumble.wav": {
+     "bytes": 53068,
+     "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a"
+    },
+    "sound/grem/attack.wav": {
+     "bytes": 4326,
+     "sha256": "4bc0f357667de80b3562455b04f9b73399082ec0d04200b2c7b8792de78e24a3"
+    },
+    "sound/grem/death.wav": {
+     "bytes": 15470,
+     "sha256": "198003ef0624e9cf184c16eb96a715ccdb741100bfa4ace4f70dbe7eb4d91247"
+    },
+    "sound/grem/idle.wav": {
+     "bytes": 11622,
+     "sha256": "ea7aec1e3e3d18c22848624b1afc24a58f8e4df60a039a96b18a4de0579634d4"
+    },
+    "sound/grem/pain1.wav": {
+     "bytes": 3078,
+     "sha256": "1d909972c66b8e67f50867c141cbbb55796cfcda7314811b40e18f725e39256d"
+    },
+    "sound/grem/pain2.wav": {
+     "bytes": 4068,
+     "sha256": "ddb2935dcb951f8d3c381657a04e26c4df742cb0cb8e08a39e94ec7c402d0323"
+    },
+    "sound/grem/pain3.wav": {
+     "bytes": 3318,
+     "sha256": "88cb89b31186d7183a09867cc4ab244519c7f9184e391cb39edb6d10e021f2ac"
+    },
+    "sound/grem/sight1.wav": {
+     "bytes": 12606,
+     "sha256": "c20f1f90cbb72dfa80bef8d845a76c2772b55235970bc7d801af57ad34351877"
+    },
+    "sound/hipitems/empathy.wav": {
+     "bytes": 13182,
+     "sha256": "07db6fc05ca0012647d22a2121bf43afdbfb18a85d0e87fefcbf82f73070aef6"
+    },
+    "sound/hipitems/empathy2.wav": {
+     "bytes": 5836,
+     "sha256": "bd3af2d911dd44edd6503143fb2b8413faa0e78df4437fc6c7c69812948cd50f"
+    },
+    "sound/hipitems/horn.wav": {
+     "bytes": 18016,
+     "sha256": "36d64e1d661b6c9fe5c7a27aabbe240c97ea23eade4359a5e854276219bf898b"
+    },
+    "sound/hipitems/spikmine.wav": {
+     "bytes": 15566,
+     "sha256": "7ef31a2d349875eca1f1abb538fc2ae305441d4eb957fbc88f5b8ea55120fc8e"
+    },
+    "sound/hipweap/laserg.wav": {
+     "bytes": 9646,
+     "sha256": "0b72f74cfb7e751eb121a36c5cb3430d9fc3cd27221c1755ea6435f5c4a76dfa"
+    },
+    "sound/hipweap/laserric.wav": {
+     "bytes": 13340,
+     "sha256": "599e01aa9667eedc5554d47bb569d16dc510871f23800a7b8022f4cc1cbc326c"
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "bytes": 33914,
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78"
+    },
+    "sound/hipweap/mjolslap.wav": {
+     "bytes": 2926,
+     "sha256": "37316ccf0d6cfb85734bb4533450926808673f2bcdca1b6164c62f96b25cc379"
+    },
+    "sound/hipweap/mjoltap.wav": {
+     "bytes": 11430,
+     "sha256": "707673644ea7993483588ade01ef41679c96aee3e0ef700a09a758a921eba1ef"
+    },
+    "sound/hipweap/mjoltink.wav": {
+     "bytes": 3050,
+     "sha256": "aaead2e80ab122ac8835b41966317bcf995faf7a136e6bee1202fa3bf253ece4"
+    },
+    "sound/hipweap/mjolwam.wav": {
+     "bytes": 3050,
+     "sha256": "aaead2e80ab122ac8835b41966317bcf995faf7a136e6bee1202fa3bf253ece4"
+    },
+    "sound/hipweap/proxbomb.wav": {
+     "bytes": 8378,
+     "sha256": "8cef0010289f42172232ea09f6cb4818f23e5ba26f276282d7b703df8f403ae3"
+    },
+    "sound/hipweap/proxwarn.wav": {
+     "bytes": 2182,
+     "sha256": "aecfce7f424ba2a5b257b2e69b593eb2c2bcd355d55a0392b670273cb6612362"
+    },
+    "sound/hknight/hit.wav": {
+     "bytes": 6260,
+     "sha256": "5d71ec8489d54c6cc0814c1216054e0e7e22f67ab8d0eb5c73edcb792123748c"
+    },
+    "sound/scourge/idle.wav": {
+     "bytes": 20838,
+     "sha256": "799076dbfa60e5cbb2f8ab91d351c7a72eed939d5a931dd4e8f5ec926281a284"
+    },
+    "sound/scourge/pain.wav": {
+     "bytes": 7080,
+     "sha256": "a6034d165bd50f406436f4c79cebdb1962e384c4bd48ffe1dd58798649f5589b"
+    },
+    "sound/scourge/pain2.wav": {
+     "bytes": 11584,
+     "sha256": "f5f59b4961d7269aae1ed66ffc6e2156e9fd49bb06eccfc39fc46b2a92d438ec"
+    },
+    "sound/scourge/sight.wav": {
+     "bytes": 35254,
+     "sha256": "e6cea7512fe2035c23f1ad26eebdb40563d8e1d78c71f45ba09bdcf328e1411d"
+    },
+    "sound/scourge/tailswng.wav": {
+     "bytes": 2786,
+     "sha256": "36a0de298b02529fcc5c010baa6b6c222926f59ae8f924311a904898ab9c4c04"
+    },
+    "sound/scourge/walk.wav": {
+     "bytes": 19578,
+     "sha256": "a7dbbbea2b12c661677ad5e8b345356fe731dd36b0f11379fab939f1af3a2dec"
+    }
+   },
+   "sha256": "a5bc44cc7244f5d016eb87c62e09c0a209f60291c116ebac024b282ca060e26b",
+   "timestamp": "2013-05-11T22:29:44.000Z"
+  },
+  "terracity/source/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2013-05-12T10:55:32.000Z"
+  },
+  "terracity/source/terracity.map": {
+   "bytes": 4167020,
+   "sha256": "8705b60b698f1d9bc9b8d444072aed0c3ce1daba39564d4070ee66d4f7a0335a",
+   "timestamp": "2013-05-11T20:23:32.000Z"
+  },
+  "terracity/source/terracity.rmf": {
+   "bytes": 16174474,
+   "sha256": "305a25d1e3b2d62a77c81ba3fb267dc4225b46f4a03b6d7b5d4e1c36d5ec0770",
+   "timestamp": "2013-05-11T20:23:22.000Z"
+  },
+  "terracity/terracity.txt": {
+   "bytes": 4182,
+   "sha256": "1327c60da8a289d3d057cec0f56bf46a8968fb7476c7e01f85f935c7c5e1f0d4",
+   "timestamp": "2013-05-11T20:33:10.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6",
+ "tags": [
+  "author=Qmaster",
+  "commandline=-game terracity",
+  "exceeds_quake_limits=yes",
+  "filename=terracity.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "nonspecific_tag=coop",
+  "playstyle=horde",
+  "release_date=2013-05-12",
+  "source=included",
+  "startmap=terracity",
+  "theme=city",
+  "theme=classic",
+  "theme=medieval",
+  "theme=oldschool",
+  "theme=red",
+  "theme=terracotta",
+  "title=Terracity",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/terracity.zip",
+  "https://www.quaddicted.com/files/by-sha256/ab/abadc40fb6f22c5499ce92b9b7948e556f6fa0402d1cf8a04bbd4944e38f18e6/terracity.zip"
+ ]
+}

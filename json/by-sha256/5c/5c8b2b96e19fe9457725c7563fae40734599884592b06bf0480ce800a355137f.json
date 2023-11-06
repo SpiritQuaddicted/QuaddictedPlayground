@@ -1,0 +1,95 @@
+{
+ "bytes": 3287,
+ "files": {
+  "alk10/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2001-08-10T18:40:20.000Z"
+  },
+  "alk10/alk10.html": {
+   "bytes": 20251,
+   "sha256": "bdff411a07a1bdef8cb3be1dc9233711b671246148f8991abedc5372c0fa3f32",
+   "timestamp": "2001-08-09T19:24:44.000Z"
+  },
+  "alk10/alk10.jpg": {
+   "bytes": 63971,
+   "sha256": "2caa680f51da08deb5ea912db4a95285715cd5d8e5a3778d8212f3d5100b9ce1",
+   "timestamp": "2001-06-18T20:06:26.000Z"
+  },
+  "alk10/alk10.txt": {
+   "bytes": 3474,
+   "sha256": "66172060544129c052cde3209de94516265a8435afae9c9be2e0535566d519cc",
+   "timestamp": "2001-08-09T20:41:16.000Z"
+  },
+  "alk10/pak0.pak": {
+   "bytes": 7092014,
+   "files": {
+    "maps/alk10a.bsp": {
+     "bytes": 1650932,
+     "sha256": "418c1d69f939609d40d71bb3ec66336b4c478f374bbb117d81a1a2a5c74ec791"
+    },
+    "maps/alk10b.bsp": {
+     "bytes": 1055804,
+     "sha256": "ada9b1b0e3e91e524c3d0356b0468fc5b0f2989a3901bc18fcd65a39c7462fff"
+    },
+    "maps/alk10c.bsp": {
+     "bytes": 1366852,
+     "sha256": "4a94bcc4420db17b7b91535e41ae5f86856802939cd82559d3f8bfa9630e2c34"
+    },
+    "maps/alk10d.bsp": {
+     "bytes": 584840,
+     "sha256": "f66a3fbe6b6a57200a6aff5e8d473b7276373eefc682aeb8d522bd08634b5be2"
+    },
+    "mods/alk10a.xm": {
+     "bytes": 383080,
+     "sha256": "183b9d9a472b927a6e1be021b10f8502ed95cc6fed8d83f63978ee78844df33a"
+    },
+    "mods/alk10b.s3m": {
+     "bytes": 389680,
+     "sha256": "1dcde863f58377fbc050dd0a52767fbb7577f0a5f3def5dbf02be7a2680ddee8"
+    },
+    "mods/alk10c.xm": {
+     "bytes": 638666,
+     "sha256": "dc281be0a4ba848fb77e5e094d15925f912702cf161d04e46b446c9eb763e64e"
+    },
+    "progs.dat": {
+     "bytes": 1021636,
+     "sha256": "822e6337e3ad97646db4998e15ddf5923bf3a4bfb7bb467b7cfdc0bd53ce144e"
+    }
+   },
+   "sha256": "935cb7852ae1253c70cb6902bb70c0124bcfcc6da3713a4b0c3e5e82a7358d94",
+   "timestamp": "2001-08-05T00:10:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f",
+ "tags": [
+  "author=Shaun [Kona] Ross",
+  "commandline=-nehahra -game alk10",
+  "dependency=nehahra",
+  "filename=alk10.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.electricescape.com/etherealhell/",
+  "link=[RetroQuake](http://retroquake.planetquake.gamespy.com/blog/?p=168)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev010814.html)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=alk10)",
+  "map_size=medium",
+  "nonspecific_tag=neharah",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=2001-08-10",
+  "startmap=alk10a",
+  "theme=metal",
+  "theme=nehahra",
+  "title=Permutations of the Rotten",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/alk10.zip",
+  "https://www.quaddicted.com/files/by-sha256/5c/5c8b2b96e19fe9457725c7563fae40734599884592b06bf0480ce800a355137f/alk10.zip"
+ ]
+}

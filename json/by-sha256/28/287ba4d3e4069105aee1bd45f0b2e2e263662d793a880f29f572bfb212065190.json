@@ -1,0 +1,45 @@
+{
+ "bytes": 613,
+ "files": {
+  "sm100_generic.bsp": {
+   "bytes": 498776,
+   "sha256": "c8800d8a3894bc3cfd7c2e91fbd2d5efedd9ab4260589dba08425a365676de31",
+   "timestamp": "2005-07-17T14:11:22.000Z"
+  },
+  "sm100_pulsar.bsp": {
+   "bytes": 1105004,
+   "sha256": "70b77cdd1cd8e5a3198ac743b6543e81bc58993a73e6decc65b311be627a9eea",
+   "timestamp": "2005-07-12T23:37:46.000Z"
+  },
+  "sm100_zwiffle.bsp": {
+   "bytes": 141964,
+   "sha256": "363e0d00f120fb8f653d29cfc04a9764c38d795b24e537da30eea9c721b9ff1f",
+   "timestamp": "2005-07-16T15:56:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190",
+ "tags": [
+  "author=Pulsar",
+  "author=Zwiffle",
+  "author=generic",
+  "filename=sm100_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "nonspecific_tag=generic",
+  "nonspecific_tag=simple",
+  "release_date=2005-07-17",
+  "startmap=sm100_generic",
+  "startmap=sm100_pulsar",
+  "startmap=sm100_zwiffle",
+  "title=Speedmapping pack 100 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm100_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/28/287ba4d3e4069105aee1bd45f0b2e2e263662d793a880f29f572bfb212065190/sm100_pack.zip"
+ ]
+}

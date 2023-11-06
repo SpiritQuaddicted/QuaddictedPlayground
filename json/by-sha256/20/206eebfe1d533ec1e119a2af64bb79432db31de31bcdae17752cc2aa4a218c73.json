@@ -1,0 +1,108 @@
+{
+ "bytes": 4487,
+ "files": {
+  "coagula_readme.txt": {
+   "bytes": 12798,
+   "sha256": "8ac3c2f1a0e2d14ce4971787cad14281551124efc1ef33e06482f9f043c8da29",
+   "timestamp": "2002-01-05T13:50:58.000Z"
+  },
+  "pak0.pak": {
+   "bytes": 13717976,
+   "files": {
+    "maps/coagula.bsp": {
+     "bytes": 956912,
+     "sha256": "82466c6cbb7b452172e1c210028bcd690aa8ddd7532c5e090d04542b53b4076b"
+    },
+    "maps/coagula2.bsp": {
+     "bytes": 933028,
+     "sha256": "1bdbc039a48c5230f7aa84cf60de6c2f5461b934b4d8af3e8cd04de4a6500337"
+    },
+    "maps/coagula3.bsp": {
+     "bytes": 1763840,
+     "sha256": "59c9ab420456cdf5190c4ddd75399595d13722ba65542fc63ce0ea76b34ab02c"
+    },
+    "maps/cogstart(2).bsp": {
+     "bytes": 1021380,
+     "sha256": "02eccde7276d3e4902c5665499db9c2b62ab158acc5be2182d1d3eaf3a0c1202"
+    },
+    "maps/cogstart.bsp": {
+     "bytes": 1021120,
+     "sha256": "a8789034bd1286db08339190681fb2d0be83fbc3132f9189aa3e0dd457731697"
+    },
+    "maps/dilcoa.bsp": {
+     "bytes": 913160,
+     "sha256": "642ec01148fdcdf1339a0c7e4b09a4e23bd0942e8431212660ada5bf18acc0c2"
+    },
+    "maps/fc_coag.bsp": {
+     "bytes": 722692,
+     "sha256": "3b4a5cf33ba9db8242c10b75cdca06048a581663bbdc275c2e5c4851dbd5629b"
+    },
+    "maps/ne_empty.bsp": {
+     "bytes": 2973436,
+     "sha256": "4309b9566b384a50cd4f9cb9a88042fb3bcefe82d51daf85e312c902b9ba771a"
+    },
+    "maps/scream.bsp": {
+     "bytes": 905796,
+     "sha256": "7d30a5a049cd21675967f088b03383b82373e8e5a0f9719db7594dc6a9a9071c"
+    },
+    "maps/terror.bsp": {
+     "bytes": 2009572,
+     "sha256": "04283256bb024ba6a09204c0b818592180b1ca0876b134c2d23355b6e739b006"
+    },
+    "progs.dat": {
+     "bytes": 416464,
+     "sha256": "a7a768e63bbab6943896727666a99312d0e8ff6963888d9071a4f7be7e166709"
+    },
+    "sound/trains/lock.wav": {
+     "bytes": 30522,
+     "sha256": "87b4dc7084ed54d67da50b13571567ffc5ee707ebcbd83d82f09abad5b77aeb8"
+    },
+    "sound/trains/release.wav": {
+     "bytes": 49210,
+     "sha256": "1339b779920c9c8f3393b591b339c9b90bb61499c31f4ef66541170f59b87605"
+    }
+   },
+   "sha256": "7d525badc159dd529407f31026ecf0a37a1b5340b2408fbff913b7b45c9bb90a",
+   "timestamp": "2002-01-22T20:42:20.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/coagulacontest"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "206eebfe1d533ec1e119a2af64bb79432db31de31bcdae17752cc2aa4a218c73",
+ "tags": [
+  "author=Dilvish",
+  "author=Fat Controller",
+  "author=Tim Elek",
+  "author=Tronyn",
+  "author=necros",
+  "commandline=-game coagulacontest",
+  "filename=coagulacontest.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://tronyn.planetquake.gamespy.com/cogcontest/",
+  "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/25-jan-2002/coagulacon.php)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990523.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "link=[erc's Excellence](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=275)",
+  "map_size=small",
+  "release_date=2002-01-22",
+  "startmap=cogstart",
+  "startmap=dilcoa",
+  "startmap=fc_coag",
+  "startmap=ne_empty",
+  "startmap=scream",
+  "startmap=terror",
+  "theme=coagula",
+  "theme=space",
+  "theme=void",
+  "title=The Coagula Contest",
+  "type=contest",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/coagulacontest.zip",
+  "https://www.quaddicted.com/files/by-sha256/20/206eebfe1d533ec1e119a2af64bb79432db31de31bcdae17752cc2aa4a218c73/coagulacontest.zip"
+ ]
+}

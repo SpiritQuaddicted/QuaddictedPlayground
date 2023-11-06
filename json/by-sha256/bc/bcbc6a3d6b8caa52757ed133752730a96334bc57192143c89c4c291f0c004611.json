@@ -1,0 +1,106 @@
+{
+ "bytes": 1315,
+ "files": {
+  "MEXX8.TXT": {
+   "bytes": 15084,
+   "sha256": "43dc128f4002ab4cef874693c83bad925cc3ee3b7d33d579cfc1968a1514eda2",
+   "timestamp": "1997-04-25T15:11:02.000Z"
+  },
+  "PAK0.PAK": {
+   "bytes": 3051350,
+   "files": {
+    "maps/mexx8.bsp": {
+     "bytes": 1573292,
+     "sha256": "6f4286b269cd9ae847b1f12ef5a770615d9c8ed0210b5b8f75638c36e9e3e283"
+    },
+    "maps/mexx8b.bsp": {
+     "bytes": 588164,
+     "sha256": "2f7760e8b914a9290772ecb3362214f239539dbe0036ca44ec09e00f26be23ca"
+    },
+    "progs.dat": {
+     "bytes": 452884,
+     "sha256": "8f39d1652ac7c227ef843de3d535123fc088ba9a6fcfce0bc8588c3de20bbd4b"
+    },
+    "sound/misc/aeh1.wav": {
+     "bytes": 31949,
+     "sha256": "63f367f7d63f2347986e623aaa0349ea556ca5d2708b7ce792694d23e5f3a17b"
+    },
+    "sound/misc/aeh2.wav": {
+     "bytes": 31706,
+     "sha256": "abcb49f79b747f992ef45c40779eac3e8b69598f3c1fc6456a010ab8a98f670e"
+    },
+    "sound/misc/aeh3.wav": {
+     "bytes": 30593,
+     "sha256": "57e950f98bad8bf32d14b01b4a4b9a8aa2b667f07ab77222a5db28f2cded7999"
+    },
+    "sound/misc/aeh4.wav": {
+     "bytes": 44052,
+     "sha256": "508f20081986d5c8c0847f51f566e53da4bf53ffd39ac895b0d1067dfc2e4b9e"
+    },
+    "sound/misc/callmord.wav": {
+     "bytes": 46671,
+     "sha256": "fa1a189a0433213afcc62cf1ad9f83de8abee4c34ee0b21d6eb15e3a5fb0b6c8"
+    },
+    "sound/misc/enterga.wav": {
+     "bytes": 55981,
+     "sha256": "7cf9eab172580fbb5e28dffab609f2dd66aaf7c8eb023e2ab25d347b3235bbfc"
+    },
+    "sound/misc/failedme.wav": {
+     "bytes": 33579,
+     "sha256": "3546f80387fd85a0fb01a2d06d9935f3496447dc39718a0e3b996bdb860a9537"
+    },
+    "sound/misc/lavafall.wav": {
+     "bytes": 20435,
+     "sha256": "461fc51c3e9de2096bb46c9daf16c9a5345f42ac6cbcb86e506a5303bf1078b0"
+    },
+    "sound/misc/mexxbell.wav": {
+     "bytes": 94183,
+     "sha256": "abbaeaf9096d6bcfc470559e80d9d5c4344f68969e3c4e7d2d725a10a6cbf378"
+    },
+    "sound/misc/morddie.wav": {
+     "bytes": 24490,
+     "sha256": "b43756212a160f4419f807beb6675faeeb65bef8d48b0f120c4b9f005a818300"
+    },
+    "sound/misc/rot.wav": {
+     "bytes": 22463,
+     "sha256": "866b836874ba611d70675e5e3b83eac059c927bef0e0d1396f2183ea01bcc203"
+    }
+   },
+   "sha256": "45babc9860050c25436ebabcabf8c854115f159505aa9582051c799c7eed0d62",
+   "timestamp": "1997-04-25T16:24:46.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/mexx8/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "bcbc6a3d6b8caa52757ed133752730a96334bc57192143c89c4c291f0c004611",
+ "tags": [
+  "author=Marcus Dromowicz",
+  "commandline=-game mexx8",
+  "filename=mexx8.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelsm1.htm#mexx8)",
+  "link=[Geniac's Playlist](http://www.geniac.net/quake.htm)",
+  "link=[SPQ Level Heaven](/webarchive/hosted.planetquake.gamespy.com/spq2/quake1/p_r.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/qclassics.html)",
+  "map_size=large",
+  "nonspecific_tag=cutscenes",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "release_date=1997-04-25",
+  "theme=boss",
+  "theme=exploration",
+  "theme=medieval",
+  "theme=metal",
+  "theme=wizard",
+  "title=Prelude to Apocalypse &amp; Mordrigor's Demise",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/mexx8.zip",
+  "https://www.quaddicted.com/files/by-sha256/bc/bcbc6a3d6b8caa52757ed133752730a96334bc57192143c89c4c291f0c004611/mexx8.zip"
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "bytes": 153,
+ "files": {
+  "PAK1.PAK": {
+   "bytes": 509691,
+   "files": {
+    "progs.dat": {
+     "bytes": 509596,
+     "sha256": "815ab1c79f59947006b07f2473bb7c0fad4a75a94e526a6a063bcbe4ddd3ce16"
+    }
+   },
+   "sha256": "72930aa770d91b37742800a6ef266e42111c089ba27a289be2d84ec6d08a7c43",
+   "timestamp": "2000-03-30T21:16:16.000Z"
+  },
+  "RDESTATS.TXT": {
+   "bytes": 2174,
+   "sha256": "a93364474d3a28d93cba0cb43955da68e27f63738f115ef5452911b28c856970",
+   "timestamp": "2000-03-30T21:22:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/rde/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d2489b4b26e65b81676112dcbed4eac2eb87f017f0f3de18b871e357da3b0bad",
+ "tags": [
+  "author=Jesse van Dijk",
+  "filename=rdestats161.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://planetquake.com/rde",
+  "release_date=2000-03-30",
+  "title=Runner's Delight (BUGFIX)",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/rdestats161.zip",
+  "https://www.quaddicted.com/files/by-sha256/d2/d2489b4b26e65b81676112dcbed4eac2eb87f017f0f3de18b871e357da3b0bad/rdestats161.zip"
+ ]
+}

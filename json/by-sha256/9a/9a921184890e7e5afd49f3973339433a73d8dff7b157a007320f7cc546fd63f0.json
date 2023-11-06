@@ -1,0 +1,181 @@
+{
+ "bytes": 1594,
+ "files": {
+  "ZOOM9/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "1997-12-18T23:54:38.000Z"
+  },
+  "ZOOM9/PAK0.PAK": {
+   "bytes": 3659146,
+   "files": {
+    "maps/zoom9.bsp": {
+     "bytes": 2043552,
+     "sha256": "744389a04c47c93208fe236b202108017415502ea8e7ddfde5fa2c1b2f66792d"
+    },
+    "progs.dat": {
+     "bytes": 646428,
+     "sha256": "10ca8a9764090681cba226b3a8b10b194eee26cd6d231dc08face6b579fdbfbe"
+    },
+    "progs/bomb.mdl": {
+     "bytes": 12724,
+     "sha256": "6846ac5cbbcd831063c541ec6accb9706a8be42ae4a58e723d90e8b4469d93ea"
+    },
+    "progs/boss.mdl": {
+     "bytes": 211836,
+     "sha256": "8bd7bfc5ee55d6c5c0cc3670176f264eeae8d88a2f0d505bba286968ebe48ab0"
+    },
+    "progs/dead2.mdl": {
+     "bytes": 64252,
+     "sha256": "4ccffc5b8aebcbdada3798700a3241379e6910117dfa6d65ca24b0adf83e74b6"
+    },
+    "progs/enforcer.mdl": {
+     "bytes": 160688,
+     "sha256": "64b61cc500edbd713c2ae3514bc28c7236f90e701021e4e1888baab2fffb7628"
+    },
+    "progs/laser.mdl": {
+     "bytes": 11348,
+     "sha256": "e313842710824e0952bd91876d65cf206688f32199926d1af15f657a3f6165cd"
+    },
+    "progs/lavaball.mdl": {
+     "bytes": 8788,
+     "sha256": "9777909b5cca5f1f92a61b5d4523b14bc70da81e3193c8b23065bf006e20d232"
+    },
+    "progs/soldier.mdl": {
+     "bytes": 204492,
+     "sha256": "f417b20f750bfa1ba73e044d8d4c84af2aa91bc00148a45970c98ad59742a857"
+    },
+    "quake.rc": {
+     "bytes": 388,
+     "sha256": "2516c50bb7da57d5560d097509c0ed4377bd9030d606c9883cd3d0296c921cd7"
+    },
+    "quark.cfg": {
+     "bytes": 2,
+     "sha256": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+    },
+    "sound/click.wav": {
+     "bytes": 9758,
+     "sha256": "aa2d2373ed91aef05f9a95be15e9ee599dcd051d355fcc6b7fe64269859c20bc"
+    },
+    "sound/count11.wav": {
+     "bytes": 12220,
+     "sha256": "fa52530f524913ab4386e37709e29d0a5d91afc021c09ccd5c8c151167ba3d95"
+    },
+    "sound/drawbrig.wav": {
+     "bytes": 19892,
+     "sha256": "f16bed62b508695bd892660f081c8ca278fe0f98b98d56ecc16abb25fe702229"
+    },
+    "sound/enforcer/death1.wav": {
+     "bytes": 12326,
+     "sha256": "c899fe19a1758e106544686ae1ce3856c1c6af966ec1c412a415406297fb6a76"
+    },
+    "sound/enforcer/death2.wav": {
+     "bytes": 18214,
+     "sha256": "ec4856f0bbea6f57b630d309584e952b4001930f989793229f05c4f65daec2a5"
+    },
+    "sound/enforcer/death3.wav": {
+     "bytes": 14790,
+     "sha256": "a829872b22e998d81f1c069d14056cb1d0c0fc01b1fd7da82e88f7bb19a887da"
+    },
+    "sound/enforcer/enfire.wav": {
+     "bytes": 10642,
+     "sha256": "bcedd360f09ac6a05807c0e6f646641a2173350e45bd98d7eff7d3db21804ebe"
+    },
+    "sound/enforcer/enfstop.wav": {
+     "bytes": 4325,
+     "sha256": "d3792af1a9141119589d57ef00b95ea32d4127f9590c3d2e82d3689407610cf9"
+    },
+    "sound/enforcer/idle1.wav": {
+     "bytes": 12768,
+     "sha256": "34d27f604bfb9ccd0c17e89883b5cfac68df1c30c06e6597bf1b868c44d62263"
+    },
+    "sound/enforcer/pain1.wav": {
+     "bytes": 4989,
+     "sha256": "459faa98a2b1a8e40b9dbe6a8bf1e232f403e8c40105723576bf4a74555b2c08"
+    },
+    "sound/enforcer/pain2.wav": {
+     "bytes": 9318,
+     "sha256": "db7bb2315b1852e3480af81c02bb5215b7ff730b342557fbdbc9a315db9289d3"
+    },
+    "sound/enforcer/sight1.wav": {
+     "bytes": 16966,
+     "sha256": "8eb25dbd33fc23878aad58c970456eecf52406bc4a10663afb9640273bd9fc34"
+    },
+    "sound/enforcer/sight2.wav": {
+     "bytes": 21734,
+     "sha256": "c8db3fbc2095bfbf6edf4943fe90bb575609b25310099ee3164015b2e1aaebd5"
+    },
+    "sound/enforcer/sight3.wav": {
+     "bytes": 12998,
+     "sha256": "b85255bf4a62cc21e0c14cec7a8909889037c176b7e251fc9e70343941d0230a"
+    },
+    "sound/enforcer/sight4.wav": {
+     "bytes": 18054,
+     "sha256": "b78dd977c95441a871a950eb29c34589ea7a79225e2d8587f43e4fc32dd04d7c"
+    },
+    "sound/fnoise.wav": {
+     "bytes": 22094,
+     "sha256": "94157d9e7132b80e3c209654eaefc7eb19345e86c214296a5f29aecc2479b033"
+    },
+    "sound/hit.wav": {
+     "bytes": 6026,
+     "sha256": "920bf2c124ddc1b58ef12176332a9909974341c5040ccbcc2ac17b0d675a361d"
+    },
+    "sound/ice.wav": {
+     "bytes": 18514,
+     "sha256": "66715334fbe3c23a7e39766dec3e446a9626e6dceb5fad0833c0c967b63fe372"
+    },
+    "sound/laserg.wav": {
+     "bytes": 9646,
+     "sha256": "0b72f74cfb7e751eb121a36c5cb3430d9fc3cd27221c1755ea6435f5c4a76dfa"
+    },
+    "sound/misc/talk.wav": {
+     "bytes": 13182,
+     "sha256": "f3e7843d052f8f1508f2372f73d29c363245f5645ed592510f387223c132f2f4"
+    },
+    "sound/swing.wav": {
+     "bytes": 12960,
+     "sha256": "68da54f9541808bdaa1f070218bd53ffce0cfccee46b460fd9181a366440952a"
+    },
+    "sound/techopen.wav": {
+     "bytes": 11108,
+     "sha256": "799f9b74eae7872dc1051f1dfb77a5b19c5e656fa4d8d84b30db23d04f611828"
+    }
+   },
+   "sha256": "487ebd04282410bff8aa6526005da50c9ae6e1829a346512a7b0cf2ccd193372",
+   "timestamp": "1997-12-18T08:31:32.000Z"
+  },
+  "ZOOM9/README.RUS": {
+   "bytes": 2046,
+   "sha256": "0da7cdd68a268f5a1e49943321d5ce0e909d5a9d98df335e7c55f6c00f9ca838",
+   "timestamp": "1997-12-19T00:45:50.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "9a921184890e7e5afd49f3973339433a73d8dff7b157a007320f7cc546fd63f0",
+ "tags": [
+  "author=Andrew Aksenov",
+  "commandline=-game zoom9",
+  "filename=zoom9.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=chthon",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=sounds",
+  "release_date=1997-12-19",
+  "startmap=zoom9",
+  "theme=base",
+  "theme=ikbase",
+  "theme=industrial",
+  "title=ZOOM9",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/zoom9.zip",
+  "https://www.quaddicted.com/files/by-sha256/9a/9a921184890e7e5afd49f3973339433a73d8dff7b157a007320f7cc546fd63f0/zoom9.zip"
+ ]
+}

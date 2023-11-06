@@ -1,0 +1,123 @@
+{
+ "bytes": 2560,
+ "files": {
+  "nihilore/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2002-03-10T16:27:04.000Z"
+  },
+  "nihilore/nihilore.txt": {
+   "bytes": 2276,
+   "sha256": "f3cd55beea2c68efa93013798b49d8c4ae3d247c50a820edd736516f5776e2a7",
+   "timestamp": "2002-06-09T17:31:52.000Z"
+  },
+  "nihilore/pak0.pak": {
+   "bytes": 6204172,
+   "files": {
+    "maps/nihilore.bsp": {
+     "bytes": 1909264,
+     "sha256": "4daf11641097d07970bbeb86e37f39259f4bcdb935f832bf7cb7f8fed5d57b7b"
+    },
+    "maps/nihilore2.bsp": {
+     "bytes": 1972244,
+     "sha256": "3d522d0e926dc11c2866f873a3369a3162691826c46d365881e1debe8fccc877"
+    },
+    "progs.dat": {
+     "bytes": 748384,
+     "sha256": "1128f420513db0961b46c345a901398ec411ca093734b8da9df1133415220773"
+    },
+    "progs/armor.mdl": {
+     "bytes": 44076,
+     "sha256": "0e16c3f0ba370dbb172af676540ce2f4a58b151d8a6dd10c1c353748257c82d3"
+    },
+    "progs/beam.mdl": {
+     "bytes": 10608,
+     "sha256": "2165a66ba1d40fa378df735835b014791e769cb8bc56e06977aefdf134bb61d5"
+    },
+    "progs/beamhit.spr": {
+     "bytes": 5320,
+     "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54"
+    },
+    "progs/dring.spr": {
+     "bytes": 387832,
+     "sha256": "94adc8ada163983eae9ccb924bd4ef4d8ebb2613bd23705d2e8a7bb73e7657d1"
+    },
+    "progs/enforcer.mdl": {
+     "bytes": 218412,
+     "sha256": "8c376eb7c9ff2ef3698105178b57d2d157cbb6790312d560864ae1a00766b05d"
+    },
+    "progs/expl.spr": {
+     "bytes": 127672,
+     "sha256": "553b80901ee3d765c147ecce187a53989ded3991532e02f53c5b0cbb42aad5d4"
+    },
+    "progs/h_guard.mdl": {
+     "bytes": 18400,
+     "sha256": "d050647124b27e773ba04aff2ec1e2ff3865099124b7f113d414b4189ecee776"
+    },
+    "progs/h_mega.mdl": {
+     "bytes": 22168,
+     "sha256": "d3440a84d4f62b19a9b7635ba50fafd047fb5c8360898531e80628dafc3010a1"
+    },
+    "progs/ogre.mdl": {
+     "bytes": 218888,
+     "sha256": "15008aeb2f80eee0ba4bf113d230f5b115fa2157724d9727b5f3988cf9430983"
+    },
+    "progs/s_null.spr": {
+     "bytes": 1080,
+     "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4"
+    },
+    "progs/soldier.mdl": {
+     "bytes": 320900,
+     "sha256": "03564bf6702e4a228fab341f9ac649a294b61bfc86a377c4c85e7bd7e94260f1"
+    },
+    "progs/v_beam.mdl": {
+     "bytes": 75588,
+     "sha256": "c00fe7872cb2c88626e63d99c3cc00b83f9968803344cd2021e8fc26bd25ccba"
+    },
+    "progs/v_beam2.mdl": {
+     "bytes": 75588,
+     "sha256": "95b3a260450ca784bda0885da994a5a857cf9948581ed1e68c4b202c51dae670"
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "bytes": 33914,
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78"
+    },
+    "sound/turret/beamchrg.wav": {
+     "bytes": 3962,
+     "sha256": "d02bd7d2c4754fe3159fac83b4f0898f8b2e1f8996ce7e6cfdaa4a9d75a24fb1"
+    },
+    "sound/turret/beamhit.wav": {
+     "bytes": 8644,
+     "sha256": "35e5e5f28a3695ed27c2b0887a1bf118643d769c457d3642016e887248fa8ca9"
+    }
+   },
+   "sha256": "3c6e83eda9221ef6c749376fb61f0e8a1515398120e039adce931fad3d6c3e94",
+   "timestamp": "2002-05-31T18:38:58.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "f67acde1d256af2f04deeb467e7f7c505dfb74caffdea40836f2445d67eee132",
+ "tags": [
+  "author=Shaun [Kona] Ross",
+  "commandline=-game nihilore",
+  "filename=nihilore.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.electricescape.com/etherealhell/",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=117)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=nihilore)",
+  "nonspecific_tag=monsters",
+  "release_date=2002-06-09",
+  "theme=base",
+  "theme=industrial",
+  "title=Nihilore: The Mechanical Empire",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/nihilore.zip",
+  "https://www.quaddicted.com/files/by-sha256/f6/f67acde1d256af2f04deeb467e7f7c505dfb74caffdea40836f2445d67eee132/nihilore.zip"
+ ]
+}

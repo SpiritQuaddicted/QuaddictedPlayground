@@ -1,0 +1,78 @@
+{
+ "bytes": 1064,
+ "files": {
+  "alba02.txt": {
+   "bytes": 5111,
+   "sha256": "bf50258a7fc8bfe6b2d60ae9d5c7efbfb9980306d68bb46277d0dd0fdb7fb2ce",
+   "timestamp": "1997-07-16T23:39:18.000Z"
+  },
+  "pak0.pak": {
+   "bytes": 2524294,
+   "files": {
+    "maps/alba02.bsp": {
+     "bytes": 1430836,
+     "sha256": "fa6f1fd9b46e9cbb6ca32a88e08b365be97683af75a40d3c62613b23379d7a69"
+    },
+    "progs.dat": {
+     "bytes": 671664,
+     "sha256": "17bd79fcd4cc0715f2c596f15ce17710a433855b81e26d6cfa5284c99c52b06e"
+    },
+    "progs/zombie.mdl": {
+     "bytes": 186084,
+     "sha256": "6fb69a1f5a5a177f370c12af89a018a67c4d6afff392c26635c8d067d4e80285"
+    },
+    "sound/ambience/buzz1.wav": {
+     "bytes": 40354,
+     "sha256": "3627176107ac11de4b0c08332ac3d95650fcfcdc0c2432b25646c6e5b19f40f2"
+    },
+    "sound/ambience/comp1.wav": {
+     "bytes": 159396,
+     "sha256": "9c64cac96e19351634cb8d612756970a6c9aac87062c7fcd16368e5fffa60925"
+    },
+    "sound/ambience/thunder1.wav": {
+     "bytes": 35564,
+     "sha256": "0bfbb1629a5002958926f057c8361effbe83f8f2cd5350a17e0f21d091231de9"
+    }
+   },
+   "sha256": "94b37c4e7ed96fd001308874b1dffa7783bdcb22a1517a6d24127cf5a8533e4b",
+   "timestamp": "1997-07-16T19:53:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/alba02/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf",
+ "tags": [
+  "author=Einar Saukas (QC)",
+  "author=Neil Manke",
+  "commandline=-game alba02",
+  "filename=alba02.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://manke.planethalflife.gamespy.com/",
+  "link=[Crash's](http://www.quake2.com/crash/levelsa.htm)",
+  "link=[Ethereal Hell](http://www.electricescape.com/etherealhell/reviews/12-oct-2000/alba.php)",
+  "link=[Quake Map Hotel](/webarchive/hotel.planetquake.gamespy.com/east13c.htm)",
+  "link=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/list.html)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=alba)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/q1sprecommended.html)",
+  "map_size=medium",
+  "nonspecific_tag=cemetary",
+  "nonspecific_tag=dark",
+  "nonspecific_tag=planetquake-map-of-the-week",
+  "nonspecific_tag=skins",
+  "release_date=1997-07-11",
+  "theme=medieval",
+  "theme=story",
+  "theme=town",
+  "theme=village",
+  "title=Inverurie",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/alba02.zip",
+  "https://www.quaddicted.com/files/by-sha256/0b/0b05cec439031b2debb2c85d3535b493239a7b76e1eed8731b2bcdcb042f6bcf/alba02.zip"
+ ]
+}

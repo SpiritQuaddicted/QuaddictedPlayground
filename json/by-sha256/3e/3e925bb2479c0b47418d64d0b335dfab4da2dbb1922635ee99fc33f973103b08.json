@@ -1,0 +1,156 @@
+{
+ "bytes": 509,
+ "files": {
+  "VR/CONFIG.CFG": {
+   "bytes": 2251,
+   "sha256": "3caf8ecf1f7d525b54dbcfcb11be1f2eebde95d2853bafd2e57f15a271ef131a",
+   "timestamp": "1999-12-01T20:15:42.000Z"
+  },
+  "VR/Maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-04-22T17:32:20.000Z"
+  },
+  "VR/Maps/VR.bsp": {
+   "bytes": 234060,
+   "sha256": "b9822176b2c8dadf5653448db5751a3c34433107fe587128d46b5a5d0151f20a",
+   "timestamp": "1999-01-09T15:06:52.000Z"
+  },
+  "VR/Maps/VR2.bsp": {
+   "bytes": 233760,
+   "sha256": "210fcc0a48f2a69fdc2ce1fc7ead80ffc91d4776cb2721c31e0a63a9c2099dc5",
+   "timestamp": "1999-01-09T15:22:42.000Z"
+  },
+  "VR/Sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-04-22T17:32:18.000Z"
+  },
+  "VR/Sound/ENFORCER/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-04-22T17:32:20.000Z"
+  },
+  "VR/Sound/ENFORCER/PAIN1.WAV": {
+   "bytes": 10040,
+   "sha256": "94abd8ef61b1abbe2b33d0d00ed5aaf0a72c4afd8d4184647f35547c06b86f24",
+   "timestamp": "1999-12-02T22:12:36.000Z"
+  },
+  "VR/Sound/ENFORCER/PAIN2.WAV": {
+   "bytes": 10108,
+   "sha256": "7f62962f122ba22e13b4aa8dd53509f99442d24dba51e7b6cd056ac94edaae0c",
+   "timestamp": "1999-12-02T22:19:14.000Z"
+  },
+  "VR/Sound/ENFORCER/SIGHT2.WAV": {
+   "bytes": 9620,
+   "sha256": "7ecf7e308e3256b1dcb1e7a7d3a3d40ba4d7144c1843189813e096ae724219cc",
+   "timestamp": "1999-12-02T22:38:38.000Z"
+  },
+  "VR/Sound/ENFORCER/SIGHT3.WAV": {
+   "bytes": 11708,
+   "sha256": "1a5108475ae7a4653e361a8fc96ab316167c5c6a9bbf402864d52171fab4c130",
+   "timestamp": "1999-12-02T22:38:16.000Z"
+  },
+  "VR/Sound/soldier/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-04-22T17:32:20.000Z"
+  },
+  "VR/Sound/soldier/pain1.wav": {
+   "bytes": 8444,
+   "sha256": "3b938806a7092e0b17103c01ba06f65fba8954b10f0e276036b6f87e66e3dbb9",
+   "timestamp": "1999-12-02T22:16:58.000Z"
+  },
+  "VR/Sound/soldier/sight1.wav": {
+   "bytes": 8864,
+   "sha256": "e3f63dc1b91cfde4fe52c5952fff216ca8c5f1a6fe36e613763050b42704fb9a",
+   "timestamp": "1999-12-02T22:21:46.000Z"
+  },
+  "VR/Sound/weapons/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-04-22T17:32:20.000Z"
+  },
+  "VR/Sound/weapons/shotgn2.wav": {
+   "bytes": 3788,
+   "sha256": "7c2a1d77c82ab066519809cbba6b14d5c933d99327ef601f4bd2958a48ab339b",
+   "timestamp": "1999-12-02T22:21:32.000Z"
+  },
+  "VR/progs.dat": {
+   "bytes": 419864,
+   "sha256": "aa1bdc2116435837b28741e7d98f7ccce88bf6a9ae49cfd5c5b53650b00f79e1",
+   "timestamp": "1999-01-04T22:10:12.000Z"
+  },
+  "VR/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-04-22T17:32:20.000Z"
+  },
+  "VR/progs/Enforcer.mdl": {
+   "bytes": 160688,
+   "sha256": "961118704166a33533ee0543605bfc61c753d1cf44f92f55618cfe3fd15cb42c",
+   "timestamp": "1998-12-31T01:58:48.000Z"
+  },
+  "VR/progs/G_shot.mdl": {
+   "bytes": 457449,
+   "sha256": "60382bf7a97ce38318cd1bc5ae86969058b4a370ab55ceeecaecb33525dd84d1",
+   "timestamp": "1998-12-17T21:09:56.000Z"
+  },
+  "VR/progs/V_shot2.mdl": {
+   "bytes": 162890,
+   "sha256": "b2fa16ca8620a7bcf09363727db43c98dd69e056ceeecb656ecf47a8f874343f",
+   "timestamp": "1998-12-17T21:10:12.000Z"
+  },
+  "VR/progs/backpack.mdl": {
+   "bytes": 5620,
+   "sha256": "d2702a602aaa372c1e10f48381820e0ac474f30c6bd0036cdab23899280fce3c",
+   "timestamp": "1999-01-04T22:25:12.000Z"
+  },
+  "VR/progs/soldier.mdl": {
+   "bytes": 146288,
+   "sha256": "bba55ec45f47a30b76e5f7eba645c2fe9d32ed7246b4312b3b706e1eafcf1958",
+   "timestamp": "1998-12-30T19:21:44.000Z"
+  },
+  "VR/progs/v_axe.mdl": {
+   "bytes": 49352,
+   "sha256": "7ea563d78d72e43dea6bdda4d7b0042d2d5a9e938abc040d0245eb39d40fe13b",
+   "timestamp": "1998-06-09T10:25:38.000Z"
+  },
+  "VR/progs/v_shot.mdl": {
+   "bytes": 49352,
+   "sha256": "7ea563d78d72e43dea6bdda4d7b0042d2d5a9e938abc040d0245eb39d40fe13b",
+   "timestamp": "1998-06-09T10:25:38.000Z"
+  },
+  "VR/vr.txt": {
+   "bytes": 722,
+   "sha256": "18bf964de528a27865c3290a746e411093ccd78041c5562e16ae72e301b5ee3e",
+   "timestamp": "1999-12-02T18:20:04.000Z"
+  },
+  "vr_quaddictedrepack.txt": {
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "timestamp": "2009-04-28T16:51:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "3e925bb2479c0b47418d64d0b335dfab4da2dbb1922635ee99fc33f973103b08",
+ "tags": [
+  "author=George Grotans",
+  "commandline=-game vr",
+  "filename=vr.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://innergroove33.8m.com",
+  "playstyle=stealth",
+  "release_date=1999-12-02",
+  "title=Virtual Reality Quake",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/vr.zip",
+  "https://www.quaddicted.com/files/by-sha256/3e/3e925bb2479c0b47418d64d0b335dfab4da2dbb1922635ee99fc33f973103b08/vr.zip"
+ ]
+}

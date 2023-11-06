@@ -1,0 +1,514 @@
+{
+ "bytes": 8598,
+ "files": {
+  "e2m4remix/e2m4remix.txt": {
+   "bytes": 3055,
+   "sha256": "7d22ffe3d708b9c9f6e97ab95f8e1c7a100211c0f29ed50f5007eb724ff1eea0",
+   "timestamp": "2020-06-22T10:04:54.000Z"
+  },
+  "e2m4remix/map src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:12:14.000Z"
+  },
+  "e2m4remix/map src/e2m4rmx.map": {
+   "bytes": 721857,
+   "sha256": "1225996f132d8720f8dde81c9efd5267bd7d99d4f8ed24f7fbd44984e4490fab",
+   "timestamp": "2020-06-22T09:17:58.000Z"
+  },
+  "e2m4remix/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:11:54.000Z"
+  },
+  "e2m4remix/maps/debris/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:10:44.000Z"
+  },
+  "e2m4remix/maps/debris/brick01.bsp": {
+   "bytes": 7912,
+   "sha256": "c11880924b195ed38908cbf50f9cd16f071918df0a94a19c7254b93dddb1e62d",
+   "timestamp": "2019-01-11T23:18:38.000Z"
+  },
+  "e2m4remix/maps/debris/wood1.bsp": {
+   "bytes": 7584,
+   "sha256": "c39390e3757553352941fcc255da6498be4c25a87575871e360a0166fac592bc",
+   "timestamp": "2019-03-11T19:37:26.000Z"
+  },
+  "e2m4remix/maps/e2m4rmx.bsp": {
+   "bytes": 1718180,
+   "sha256": "a8884eae59685eeebf44dd39035de22752707cfdedd822779faca44a88fdc3a1",
+   "timestamp": "2020-06-22T09:19:40.000Z"
+  },
+  "e2m4remix/maps/e2m4rmx.lit": {
+   "bytes": 829721,
+   "sha256": "6910123ec837a9c20ecacd058e7b794ea43b5c57bc1083deba1dfe14c806e80a",
+   "timestamp": "2020-06-22T00:57:06.000Z"
+  },
+  "e2m4remix/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:11:24.000Z"
+  },
+  "e2m4remix/music/track05.mp3": {
+   "bytes": 5362766,
+   "sha256": "c8d28cd8ed57ecc9b0a23b7e0cac96c5595d207fe6eab73f743928092d511b28",
+   "timestamp": "2020-06-21T12:18:46.000Z"
+  },
+  "e2m4remix/music/track05.ogg": {
+   "bytes": 2313482,
+   "sha256": "aaf4b5f97610f3ff18377da29ede496daad463c63af57ec401b2a307afe29c61",
+   "timestamp": "2019-09-28T22:25:44.000Z"
+  },
+  "e2m4remix/progs.dat": {
+   "bytes": 551622,
+   "sha256": "36f9a212c1bd4bad87d3849a1b904730f48b49bb366a7b9c45bf7e731e84d62e",
+   "timestamp": "2020-06-20T19:51:16.000Z"
+  },
+  "e2m4remix/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:11:26.000Z"
+  },
+  "e2m4remix/progs/candle.mdl": {
+   "bytes": 24135,
+   "sha256": "5027f8712c36de87b3967e4e623fbc64d4e99644f5b805f7e21ec38b1532cc74",
+   "timestamp": "2018-10-10T20:27:08.000Z"
+  },
+  "e2m4remix/progs/debris.mdl": {
+   "bytes": 270552,
+   "sha256": "714b4fc3ce6675f0f4edc6ed7022e817f3922cde1877eb5418e4ddf60d798724",
+   "timestamp": "2019-11-06T21:33:52.000Z"
+  },
+  "e2m4remix/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2019-05-17T11:20:46.000Z"
+  },
+  "e2m4remix/progs/g_shotty.mdl": {
+   "bytes": 23380,
+   "sha256": "b919bbcba3f7f03fb8b82fa6d3b1464ca41e81cf29417cfea0de09658c698cfb",
+   "timestamp": "2019-05-17T12:07:18.000Z"
+  },
+  "e2m4remix/progs/h_boss.mdl": {
+   "bytes": 63532,
+   "sha256": "320aff68d374f002ed468bf17ddeca4d95f59ef68c7dd3a17287fef2da1f0b46",
+   "timestamp": "2020-02-02T14:43:06.000Z"
+  },
+  "e2m4remix/progs/pd_base_key.mdl": {
+   "bytes": 21219,
+   "sha256": "320ec52018f501f8fe428dd46f44693787e545289be883a49f3bd6476974cf46",
+   "timestamp": "2019-11-15T20:29:12.000Z"
+  },
+  "e2m4remix/progs/pd_rune_key.mdl": {
+   "bytes": 46335,
+   "sha256": "c4fe9bd66394231ace3127635f057987ecbf4b13b00d84501127caacb5db03fc",
+   "timestamp": "2019-11-15T20:40:24.000Z"
+  },
+  "e2m4remix/progs/pd_wiz_key.mdl": {
+   "bytes": 21907,
+   "sha256": "36b50211f687813b85648a46bd32a1d543a8f2af84e9d4223f8b5843f885e1bc",
+   "timestamp": "2019-11-15T20:33:36.000Z"
+  },
+  "e2m4remix/progs/s_flame.spr": {
+   "bytes": 29224,
+   "sha256": "a9c150fb5c19e6e0bf7ead5dcf6ae87d8e9745f4a439779266d0a258e16b6890",
+   "timestamp": "2018-10-01T22:43:54.000Z"
+  },
+  "e2m4remix/progs/s_null.spr": {
+   "bytes": 1080,
+   "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4",
+   "timestamp": "2019-10-03T23:17:30.000Z"
+  },
+  "e2m4remix/progs/spark.mdl": {
+   "bytes": 9588,
+   "sha256": "74dc6734e0ce30447942a10e9ec78c7cf43eafb86f290cc772b2a8874702b858",
+   "timestamp": "2019-06-03T21:21:02.000Z"
+  },
+  "e2m4remix/progs_dump-mod-template-readme.txt": {
+   "bytes": 3405,
+   "sha256": "b6a5ae74b312db229c624b2e40d29e1cecb849ac274b8c4fa7165ff9373c7bac",
+   "timestamp": "2020-06-21T23:22:12.000Z"
+  },
+  "e2m4remix/quakec src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:11:30.000Z"
+  },
+  "e2m4remix/quakec src/LICENSE": {
+   "bytes": 18431,
+   "sha256": "189b1af95d661151e054cea10c91b3d754e4de4d3fecfb074c1fb29476f7167b",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "e2m4remix/quakec src/ai.qc": {
+   "bytes": 15473,
+   "sha256": "01a1e690cde9197880bedad59c92e4930cf842b7b7640920307770bc35dc7613",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/boss.qc": {
+   "bytes": 12952,
+   "sha256": "f880a0610dc71e4eb940be9e4968f9bfee78b36c9099867f0b28c953fff691a1",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/boss2.qc": {
+   "bytes": 14545,
+   "sha256": "bf4a294cef14904de41a53a13ca67a9e45bef9812bf6a10bf9b1c09b4f63249d",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/buttons.qc": {
+   "bytes": 3098,
+   "sha256": "2d619b0e3ebf7fe99e6aee21080b6034d5e15dfc477d12650332469a2b97d549",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "e2m4remix/quakec src/changelog.txt": {
+   "bytes": 6658,
+   "sha256": "c43d72f6d9561d764b0d9948ab265ecd48c1595b85394c76853ec4ff59b7f18a",
+   "timestamp": "2020-02-17T09:09:04.000Z"
+  },
+  "e2m4remix/quakec src/client.qc": {
+   "bytes": 38957,
+   "sha256": "8b47db3fadf1e0dc923ed208095e463eb436954c3c8f25b4bdf05c0b9f540e59",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/quakec src/combat.qc": {
+   "bytes": 6933,
+   "sha256": "e6310568824d031f29539846b1602beda7bb4746273bf4a931fc6ad7e293e1f5",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/quakec src/defs.qc": {
+   "bytes": 22832,
+   "sha256": "97fabe663476cb554ad510c7621d8b823e21e58f0d85112b1e687ff4c4d3a363",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/quakec src/demon.qc": {
+   "bytes": 11062,
+   "sha256": "006fa7afb77bb10241163fb7ccbfb23e520cdc63bbae01a49eeb46cf0894bebe",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/doelightning.qc": {
+   "bytes": 4474,
+   "sha256": "fd89193644310cdc266883238d875771dc92080c9d4107778eb674b053f83e6b",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "e2m4remix/quakec src/doeplats.qc": {
+   "bytes": 14826,
+   "sha256": "cd5f4b59d4a83be51dcf5699568f99ab970180ce70057d1c4bffeab1e71ca891",
+   "timestamp": "2019-09-21T18:26:12.000Z"
+  },
+  "e2m4remix/quakec src/dog.qc": {
+   "bytes": 10720,
+   "sha256": "d68841d06133f36a1ea4652df58120dc0cfb727ce40635007af7a3c1e66e4e42",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/doors.qc": {
+   "bytes": 17341,
+   "sha256": "e91ca03d631d973b121c6ba152fd4e7c14b9a6b1fa2ea7c9769cb73f5cc5239b",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/dtmisc.qc": {
+   "bytes": 23075,
+   "sha256": "5420d3d2587b3918cb6b0624574a30ceefd6f55ecfc3e4ed997c8c085bb7bfd6",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/quakec src/dtquake.qc": {
+   "bytes": 2517,
+   "sha256": "662b64eecd07c98a53256478d8660f4c5056bb96924a559f0a4f470c36d478c5",
+   "timestamp": "2019-09-21T18:26:12.000Z"
+  },
+  "e2m4remix/quakec src/elevatr.qc": {
+   "bytes": 3475,
+   "sha256": "a3c7ce63e511cf293078a3e1c9f2604c848f42d83615260e515737bfb2b89319",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "e2m4remix/quakec src/enforcer.qc": {
+   "bytes": 12197,
+   "sha256": "2914889acc30b7be14ca7a8a6e7f58edbc6c03f4063f9ce76724fca57d5b2937",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/fight.qc": {
+   "bytes": 7568,
+   "sha256": "301de69f7dad8a34fb361ab90e2a907c62b4633c7dde410b9e4bd6b81c017500",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "e2m4remix/quakec src/fish.qc": {
+   "bytes": 8478,
+   "sha256": "4218a15a7a17da11fcd7647a9f5f803dbf88126817ef625027cc0f0f90d846fd",
+   "timestamp": "2020-02-16T16:39:30.000Z"
+  },
+  "e2m4remix/quakec src/func_bob.qc": {
+   "bytes": 5167,
+   "sha256": "be9e296336957287ddd1f5ee02463114abbbb0b2d4d0dbd13f2288b807505fd4",
+   "timestamp": "2019-09-21T18:26:12.000Z"
+  },
+  "e2m4remix/quakec src/func_fall2.qc": {
+   "bytes": 4595,
+   "sha256": "ff57d06ced52a333fd5b3f871d88a2bbd4d9201a166f3afbecb4eca1bd85abf9",
+   "timestamp": "2020-01-03T14:25:44.000Z"
+  },
+  "e2m4remix/quakec src/hipcount.qc": {
+   "bytes": 5073,
+   "sha256": "e3786751ed3ad44cfde990655746281bb17c67c88a42fbc9eda2f736851913c0",
+   "timestamp": "2019-09-21T18:26:12.000Z"
+  },
+  "e2m4remix/quakec src/hippart.qc": {
+   "bytes": 7673,
+   "sha256": "65cba84bc1e656e58e0edd14e6d8dbbe7aa9cefa3d09fb416d0485329f348e56",
+   "timestamp": "2019-09-21T18:26:12.000Z"
+  },
+  "e2m4remix/quakec src/hiptrig.qc": {
+   "bytes": 5362,
+   "sha256": "b0768bcaa95b96df3a086ca38ac9c554c29a51ea16245c1f2d20da6296cc29bb",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/hknight.qc": {
+   "bytes": 19838,
+   "sha256": "029cd72d88715b797566df76ae94012bc247f376c353ddfe770be7f46a879eeb",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/items.qc": {
+   "bytes": 43038,
+   "sha256": "3cfb8895254438505b1c498614590fa3d9154d4f41957fb8fdd4a9501414f559",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/keydata.qc": {
+   "bytes": 5639,
+   "sha256": "5902993c9755a2851ef424e48572a9806d20d3aae67a8f9d01446c4aad09a91a",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/keylock.qc": {
+   "bytes": 5884,
+   "sha256": "26751c63554a6e73da84138ee45871f501d3bb5250cbfa137a524087bc204e39",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/knight.qc": {
+   "bytes": 11063,
+   "sha256": "8cc44716cf9af943f15c5006e4c2a020a2f81acf2537cf64d06e64cacfcb47d7",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/lights.qc": {
+   "bytes": 13406,
+   "sha256": "70f87a362eff0fc7eedebd42f2faee03ee0968e9f833c86edf14c8f613e89f36",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "e2m4remix/quakec src/math.qc": {
+   "bytes": 1813,
+   "sha256": "9d5303c03ed58760bedbeb3f017ddebd5bc0c27de43a1e62ea3b5ae8bab2b927",
+   "timestamp": "2019-01-12T09:20:30.000Z"
+  },
+  "e2m4remix/quakec src/misc.qc": {
+   "bytes": 30064,
+   "sha256": "b6f718741a4f46ff2dab8ae7f64b6b24a6c6f10d37f2b82f7dda947dc9e7b903",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/misc_model.qc": {
+   "bytes": 1474,
+   "sha256": "1f8de07dfb117fc379c10667251302e713f4238f3655e5260caa5b94894309c8",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "e2m4remix/quakec src/monsters.qc": {
+   "bytes": 9929,
+   "sha256": "255af98d9c9b9781e84acab4729788d0ee7af4174e3a306e4545372ee83c4a19",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/newflags.qc": {
+   "bytes": 5870,
+   "sha256": "192bf31eb0f13e6e55342801a42608caf797bfdfbdf27750c78ae67b1c1c5568",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "e2m4remix/quakec src/ogre.qc": {
+   "bytes": 16438,
+   "sha256": "f99d13126f9a4234f60664b20a128c1abfbcf91f253d89669067e431eb91f293",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/oldone.qc": {
+   "bytes": 9899,
+   "sha256": "523129af564f45022cf68cf9f409b0bebba21f6d167dbcb098ca0a6bf9e51209",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/oldone2.qc": {
+   "bytes": 13391,
+   "sha256": "8abbb7336351f09ebb834b6bdc7f42bc6458a35a864215ed1b7ae09fe3d5289c",
+   "timestamp": "2020-02-15T18:55:16.000Z"
+  },
+  "e2m4remix/quakec src/plats.qc": {
+   "bytes": 12564,
+   "sha256": "b8d3964e9dfb1d73b320b35218ab7a03296315a8da125e18e03f0bff6d63d090",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/quakec src/player.qc": {
+   "bytes": 19792,
+   "sha256": "9fb6b3933bc7b5445d3d38af88aab0dd17c45a24ea6f2f04e9e208ad2afaac0f",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "e2m4remix/quakec src/progs.src": {
+   "bytes": 1678,
+   "sha256": "b27795673b9127caf18bb5acb453a02623322968b02e72c74cd2945fc3a480bb",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/rotate.qc": {
+   "bytes": 30386,
+   "sha256": "84c13ea7c81abd8e808b6f63b6054be08f85220e19826472f35dcb2bb3fe107f",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/quakec src/rubicon2.qc": {
+   "bytes": 23647,
+   "sha256": "e4ce7d8966287b6f554e984322acd4cdea41e3d1077d63fa3090e48e078cd138",
+   "timestamp": "2020-01-03T16:49:40.000Z"
+  },
+  "e2m4remix/quakec src/shalrath.qc": {
+   "bytes": 9128,
+   "sha256": "6c7059b1d4a73001f9417bd9b4211c07bf260194b64c5489b151c137b19c0991",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/shambler.qc": {
+   "bytes": 14300,
+   "sha256": "81e244e71d91da23453e910df10dff56f98ade320bf23b4c753c7b7ce7914545",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/quakec src/soldier.qc": {
+   "bytes": 11240,
+   "sha256": "be5a0b63097240020ce102b3c491a9e07d75037b4ec5a880e589acf398640136",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/subs.qc": {
+   "bytes": 12817,
+   "sha256": "b76159e124c9c643c7e2421d6d0abea2d5b342cda9b208baaf77076d53c53114",
+   "timestamp": "2019-09-29T13:40:58.000Z"
+  },
+  "e2m4remix/quakec src/tarbaby.qc": {
+   "bytes": 7463,
+   "sha256": "bd38f8bf9a44d5a7b39728084e49647eb9ed2fdcac3ee7f74bcab1e6a5b6cd5d",
+   "timestamp": "2019-09-16T17:38:18.000Z"
+  },
+  "e2m4remix/quakec src/triggers.qc": {
+   "bytes": 24126,
+   "sha256": "764ccfeef859d845be0ea8cfe2d9647de18b319a44cd8a5956bed4dd09eff712",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/weapons.qc": {
+   "bytes": 28833,
+   "sha256": "135fbe8d744369e3d24b9b19a7990f0dea69ed3794bd96f9c99f66fccb7c16fb",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/wizard.qc": {
+   "bytes": 11879,
+   "sha256": "4ed8ed7f157a32bbb09cc6a9141d67368064fd2e50a2b763f3250154c320ab87",
+   "timestamp": "2020-02-13T23:17:52.000Z"
+  },
+  "e2m4remix/quakec src/world.qc": {
+   "bytes": 14008,
+   "sha256": "c847f6f8c3780e104714e4ca56bb68fa62edb420ee0a9bbe85d372ba044f81f5",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/quakec src/zombie.qc": {
+   "bytes": 28695,
+   "sha256": "0f7d8f455afee582fda80ea6331c9e622ea06cb33843fc99a34fa15f8140d311",
+   "timestamp": "2020-02-17T09:14:46.000Z"
+  },
+  "e2m4remix/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:11:32.000Z"
+  },
+  "e2m4remix/sound/break/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:11:32.000Z"
+  },
+  "e2m4remix/sound/break/pd_bricks1.wav": {
+   "bytes": 61786,
+   "sha256": "3829842a9cb395f99d07546be38263eaf0ee5bbed71841aa8c93864d55a7fb94",
+   "timestamp": "2019-03-27T14:52:22.000Z"
+  },
+  "e2m4remix/sound/break/pd_metal1.wav": {
+   "bytes": 44146,
+   "sha256": "c0111b94231bc3870cbb95ec03f13b2b44ac407a5d18b35668ccf231303cc8aa",
+   "timestamp": "2019-03-27T17:05:02.000Z"
+  },
+  "e2m4remix/sound/break/pd_metal2.wav": {
+   "bytes": 70722,
+   "sha256": "ce8250482e831c270cc3c8e9211b74a627b3e29159c2c8ee720dd11cafd365c1",
+   "timestamp": "2019-03-27T17:47:12.000Z"
+  },
+  "e2m4remix/sound/break/pd_stones1.wav": {
+   "bytes": 75150,
+   "sha256": "632d15db23ff70c23c199595b41a153ded67f664de46b7d0cbfa0228f071156e",
+   "timestamp": "2019-03-27T16:43:52.000Z"
+  },
+  "e2m4remix/sound/break/pd_wood1.wav": {
+   "bytes": 34526,
+   "sha256": "621865f52fc27fb10108027ce3eea18aaf17181751a3ba1ceee0c9c99da9f375",
+   "timestamp": "2019-03-27T14:49:08.000Z"
+  },
+  "e2m4remix/sound/break/pd_wood2.wav": {
+   "bytes": 33342,
+   "sha256": "77282f2c533b9aec72b232aace9078534db3f255f418efafdf769c7361a28e05",
+   "timestamp": "2019-03-27T14:47:40.000Z"
+  },
+  "e2m4remix/sound/dump/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:11:32.000Z"
+  },
+  "e2m4remix/sound/dump/elec22k.wav": {
+   "bytes": 82784,
+   "sha256": "dd63a8517e33bbe7a75cd0d6ccb16835b73f83af8d31c0ae0277b7304f7d502b",
+   "timestamp": "2019-05-28T01:37:32.000Z"
+  },
+  "e2m4remix/sound/dump/pd_magic_01.wav": {
+   "bytes": 36610,
+   "sha256": "20c1c499ad81ed413652a3f7eb4d76573b2a65762eb56e3961ebc8d9dbfdb384",
+   "timestamp": "2020-06-21T20:17:26.000Z"
+  },
+  "e2m4remix/sound/dump/rumble.wav": {
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+   "timestamp": "2019-05-31T19:51:26.000Z"
+  },
+  "e2m4remix/sound/dump/spark.wav": {
+   "bytes": 14684,
+   "sha256": "55ba43047ffc794bc65b1002b351b3a13bc271346cb060e01c093f56dd960e7f",
+   "timestamp": "2019-06-03T21:21:06.000Z"
+  },
+  "e2m4remix/sound/dump/water_59_02.wav": {
+   "bytes": 47588,
+   "sha256": "497d1f4ed49567058da6e2618097a06c947f8131a8205f2c9c09219296780cad",
+   "timestamp": "2018-10-01T22:43:54.000Z"
+  },
+  "e2m4remix/sound/oldone2/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-06-22T10:11:32.000Z"
+  },
+  "e2m4remix/sound/oldone2/pd_pop2.wav": {
+   "bytes": 42108,
+   "sha256": "1eec3103cd2eb70fa8ba63ce8ce721842a64a99e9c373f5a8abe5508273ce285",
+   "timestamp": "2020-01-02T15:39:36.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "2ec44cc2c4b831c134e13fde2918031a380b1fc9dc2a619269bbb465241b3379",
+ "tags": [
+  "author=dumptruck_ds &amp; id Software",
+  "commandline=-game e2m4remix",
+  "filename=e2m4remix.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61907)",
+  "nonspecific_tag=progs_dump",
+  "release_date=2020-06-22",
+  "startmap=e2m4rmx",
+  "theme=remake",
+  "theme=remix",
+  "title=Ebon Fortress Remix",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/e2m4remix.zip",
+  "https://www.quaddicted.com/files/by-sha256/2e/2ec44cc2c4b831c134e13fde2918031a380b1fc9dc2a619269bbb465241b3379/e2m4remix.zip"
+ ]
+}

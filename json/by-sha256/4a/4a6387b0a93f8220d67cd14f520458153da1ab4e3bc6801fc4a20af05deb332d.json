@@ -1,0 +1,63 @@
+{
+ "bytes": 1423,
+ "files": {
+  "sm80_metl.bsp": {
+   "bytes": 341616,
+   "sha256": "9cb7cfafafa944dad4ad70f32a4191187f352936531565fe8cb185ac95d8afa4",
+   "timestamp": "2004-05-29T21:25:12.000Z"
+  },
+  "sm80_pack.txt": {
+   "bytes": 1528,
+   "sha256": "66211c9c18912de4cacf0f55ae4b7c0a05e0941e5ec9606e62989d8f98c8fa98",
+   "timestamp": "2004-03-14T10:06:06.000Z"
+  },
+  "sm80_pulsar.bsp": {
+   "bytes": 565084,
+   "sha256": "620e1c3f01b91f8f75562eb1ccbe3ae50ebae952bd4ec98f6ad4187f006782dd",
+   "timestamp": "1997-11-16T22:59:24.000Z"
+  },
+  "sm80_scampie.bsp": {
+   "bytes": 1400876,
+   "sha256": "84be32b438d3169e9ceb2645e2126dcdc047e349da3eec59d48f4c88718bb2bf",
+   "timestamp": "2004-03-13T19:48:50.000Z"
+  },
+  "sm80_speedy.bsp": {
+   "bytes": 1179696,
+   "sha256": "e7c496f7c7990e431e5cf7102e2c398d3a3d5ec662ef23e39a85530037238bef",
+   "timestamp": "2004-05-30T07:01:36.000Z"
+  },
+  "sm80_zwiffle.bsp": {
+   "bytes": 679084,
+   "sha256": "e5faa82615ad61d66a42c4c1c1a2ee6bdc8f318347baf5a233d36bd95e31c7ce",
+   "timestamp": "2004-05-29T18:14:10.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "4a6387b0a93f8220d67cd14f520458153da1ab4e3bc6801fc4a20af05deb332d",
+ "tags": [
+  "author=PuLSaR",
+  "author=Scampie",
+  "author=Speedy",
+  "author=Zwiffle",
+  "author=metlslime",
+  "filename=sm80_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2004-05-30",
+  "startmap=sm80_metl",
+  "startmap=sm80_pulsar",
+  "startmap=sm80_scampie",
+  "startmap=sm80_speedy",
+  "startmap=sm80_zwiffle",
+  "theme=spd",
+  "title=Speedmapping pack 80 - Vertical Swamps",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm80_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/4a/4a6387b0a93f8220d67cd14f520458153da1ab4e3bc6801fc4a20af05deb332d/sm80_pack.zip"
+ ]
+}

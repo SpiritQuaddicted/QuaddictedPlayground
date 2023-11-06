@@ -1,0 +1,162 @@
+{
+ "bytes": 2838,
+ "files": {
+  "guncotton/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2003-06-10T19:59:16.000Z"
+  },
+  "guncotton/guncotton.txt": {
+   "bytes": 2274,
+   "sha256": "534416621253d9302255c94809b270d4cd04a071b44db74be40f55a9d0297ed2",
+   "timestamp": "2003-06-10T19:59:08.000Z"
+  },
+  "guncotton/pak0.pak": {
+   "bytes": 6876462,
+   "files": {
+    "maps/gun.bsp": {
+     "bytes": 1357660,
+     "sha256": "d457c2271eb11acce97d16d5fbd8423d797f4259f3a3ce89172112e249f541b5"
+    },
+    "maps/gun2.bsp": {
+     "bytes": 2001836,
+     "sha256": "6bd0c6b6ffaee87be74fff62077550fc166bf7247b188178730d7412e8226791"
+    },
+    "maps/start.bsp": {
+     "bytes": 417512,
+     "sha256": "17bb6010cb39b9ea63377d9056f599d5349f8b09230760fac8577947d8953fd4"
+    },
+    "progs.dat": {
+     "bytes": 755048,
+     "sha256": "b6f7947ac0f7dbd9888ad5d10f6d21785f5fd6e9e835dcce7a8517811f20eaff"
+    },
+    "progs/armor.mdl": {
+     "bytes": 44076,
+     "sha256": "0e16c3f0ba370dbb172af676540ce2f4a58b151d8a6dd10c1c353748257c82d3"
+    },
+    "progs/beam.mdl": {
+     "bytes": 10608,
+     "sha256": "2165a66ba1d40fa378df735835b014791e769cb8bc56e06977aefdf134bb61d5"
+    },
+    "progs/beamhit.spr": {
+     "bytes": 5320,
+     "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54"
+    },
+    "progs/dring.spr": {
+     "bytes": 387832,
+     "sha256": "94adc8ada163983eae9ccb924bd4ef4d8ebb2613bd23705d2e8a7bb73e7657d1"
+    },
+    "progs/enforcer.mdl": {
+     "bytes": 218412,
+     "sha256": "8c376eb7c9ff2ef3698105178b57d2d157cbb6790312d560864ae1a00766b05d"
+    },
+    "progs/expl.spr": {
+     "bytes": 127672,
+     "sha256": "553b80901ee3d765c147ecce187a53989ded3991532e02f53c5b0cbb42aad5d4"
+    },
+    "progs/h_guard.mdl": {
+     "bytes": 18400,
+     "sha256": "d050647124b27e773ba04aff2ec1e2ff3865099124b7f113d414b4189ecee776"
+    },
+    "progs/h_mega.mdl": {
+     "bytes": 22168,
+     "sha256": "d3440a84d4f62b19a9b7635ba50fafd047fb5c8360898531e80628dafc3010a1"
+    },
+    "progs/ogre.mdl": {
+     "bytes": 218888,
+     "sha256": "15008aeb2f80eee0ba4bf113d230f5b115fa2157724d9727b5f3988cf9430983"
+    },
+    "progs/s_null.spr": {
+     "bytes": 1080,
+     "sha256": "f953c35ad78b3d16f9f11281d40349c6b1699d78ba123eb13add4c4262eb64c4"
+    },
+    "progs/soldier.mdl": {
+     "bytes": 320900,
+     "sha256": "03564bf6702e4a228fab341f9ac649a294b61bfc86a377c4c85e7bd7e94260f1"
+    },
+    "progs/v_beam.mdl": {
+     "bytes": 75588,
+     "sha256": "c00fe7872cb2c88626e63d99c3cc00b83f9968803344cd2021e8fc26bd25ccba"
+    },
+    "progs/v_beam2.mdl": {
+     "bytes": 75588,
+     "sha256": "95b3a260450ca784bda0885da994a5a857cf9948581ed1e68c4b202c51dae670"
+    },
+    "sound/alkamb/demonwind01.wav": {
+     "bytes": 89228,
+     "sha256": "1a44a8cf17be9fe6e8aaecfc9c65ec0ef761eb27ea6df77e016cebf01cf62216"
+    },
+    "sound/alkamb/drips.wav": {
+     "bytes": 80712,
+     "sha256": "96f7890d2fea2f1f6443d0e75bb6084f39931e7c5399a6e75787dec4eaba5033"
+    },
+    "sound/alkamb/fan4.wav": {
+     "bytes": 71762,
+     "sha256": "b64616ef550e919c0a4a4d16a6841fc05fa2db07914130e7ec16f83313201bb4"
+    },
+    "sound/alkamb/moans2.wav": {
+     "bytes": 275802,
+     "sha256": "279a5b7190aa28d598930d7cfef6f5fd611dac51fb5297058b7714e1f6fdd0e9"
+    },
+    "sound/alkamb/moans3.wav": {
+     "bytes": 162450,
+     "sha256": "6b46ddb6560b63b16a7493abeea49c7bff4afe430830a7115959e8db89a91bdb"
+    },
+    "sound/alkamb/suck1.wav": {
+     "bytes": 51436,
+     "sha256": "3d99d5630e91c603fef397453136634562f7877f42379ae744ffe57570d3eb42"
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "bytes": 33914,
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78"
+    },
+    "sound/misc/shortexp.wav": {
+     "bytes": 27562,
+     "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc"
+    },
+    "sound/steps/lowecho.wav": {
+     "bytes": 10598,
+     "sha256": "fdbfe2cbca53ab8e8bd173e1bc96e1c98d0cdff361b56771453be56adc11d7d4"
+    },
+    "sound/turret/beamchrg.wav": {
+     "bytes": 3962,
+     "sha256": "d02bd7d2c4754fe3159fac83b4f0898f8b2e1f8996ce7e6cfdaa4a9d75a24fb1"
+    },
+    "sound/turret/beamhit.wav": {
+     "bytes": 8644,
+     "sha256": "35e5e5f28a3695ed27c2b0887a1bf118643d769c457d3642016e887248fa8ca9"
+    }
+   },
+   "sha256": "8085ee848661a8440a908318f23bb29b34cccab9c7f8a3b599b7566a0d245c49",
+   "timestamp": "2002-07-17T17:43:30.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "c7d37c19b532a211eb973565133e6fcdcb41ee283119cd7e8100340dc175a7cc",
+ "tags": [
+  "author=Shaun [Kona] Ross",
+  "commandline=-game guncotton",
+  "filename=guncotton.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.electricescape.com/etherealhell/",
+  "link=[Retroquake](http://retroquake.planetquake.gamespy.com/blog/?p=92)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=gun)",
+  "link=[Underworldfan's](/webarchive/underworld.planetquake.gamespy.com/quakerev030615.html)",
+  "nonspecific_tag=custom",
+  "nonspecific_tag=textures",
+  "release_date=2003-06-10",
+  "startmap=start",
+  "theme=base",
+  "theme=quake 2",
+  "title=Guncotton",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/guncotton.zip",
+  "https://www.quaddicted.com/files/by-sha256/c7/c7d37c19b532a211eb973565133e6fcdcb41ee283119cd7e8100340dc175a7cc/guncotton.zip"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "bytes": 587,
+ "files": {
+  "README.md": {
+   "bytes": 1801,
+   "sha256": "db6f53e698c783c509dd53bf14184e527fcb19a1d4518b4df2d34053b8c8a513",
+   "timestamp": "2021-12-05T21:01:40.000Z"
+  },
+  "maps/pam1.bsp": {
+   "bytes": 942948,
+   "sha256": "72c633067551a97c28db6baa69481525c87f78e128befc76445750578291aec7",
+   "timestamp": "2021-12-10T15:46:50.000Z"
+  },
+  "maps/pam1.map": {
+   "bytes": 518676,
+   "sha256": "9ba328a83583df1e9ca151c46fd6e063f54f4944f391f0f8696c8a42c0ccd022",
+   "timestamp": "2021-12-10T15:47:28.000Z"
+  },
+  "maps/pam1.txt": {
+   "bytes": 1692,
+   "sha256": "1920540ebc7b5e0a5eb0ae2a69be24dfb970dfce0b8900c68f06658d6f403b8c",
+   "timestamp": "2021-12-09T23:52:14.000Z"
+  },
+  "progs.dat": {
+   "bytes": 334130,
+   "sha256": "8d70aac5d32b7585c0a1075a9ca32c4e56a35d685354213b06a882c2d35db9a8",
+   "timestamp": "2021-12-05T21:01:40.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/pam1/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "e090ab622f6120a806ef67e0c7bc47367f20266e68b517f66e107aeae3427a59",
+ "tags": [
+  "author=c0j",
+  "commandline=-game pam1",
+  "filename=pam1_qmap.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "nonspecific_tag=shub",
+  "nonspecific_tag=smp",
+  "release_date=2021-12-09",
+  "source=included",
+  "startmap=pam1",
+  "theme=bricks",
+  "theme=cave",
+  "theme=cavern",
+  "theme=wizard",
+  "title=Mayhem Pantera",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/pam1_qmap.zip",
+  "https://www.quaddicted.com/files/by-sha256/e0/e090ab622f6120a806ef67e0c7bc47367f20266e68b517f66e107aeae3427a59/pam1_qmap.zip"
+ ]
+}

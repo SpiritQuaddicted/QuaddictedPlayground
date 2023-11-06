@@ -1,0 +1,70 @@
+{
+ "bytes": 3760,
+ "files": {
+  "03.jpg": {
+   "bytes": 232320,
+   "sha256": "df4a61f93fbd51ba3ee32769e3b63cee092a0df66235c51463aec9e69a99610a",
+   "timestamp": "2021-09-06T14:23:18.000Z"
+  },
+  "06.jpg": {
+   "bytes": 172428,
+   "sha256": "b1e36b65c3c9a64afd32991f61a005fe72088e7e00cbbb16f777a13bfa83820c",
+   "timestamp": "2021-09-06T14:12:08.000Z"
+  },
+  "07.jpg": {
+   "bytes": 159071,
+   "sha256": "856380b6ed43531ba007c638c474aa3cad33ae1b01f731f78bffab69751aca0d",
+   "timestamp": "2021-09-06T14:10:08.000Z"
+  },
+  "10.jpg": {
+   "bytes": 150358,
+   "sha256": "bef92990a67b5ca5255a82eefa9644d60a0e24f88766112f8c866e813d245822",
+   "timestamp": "2021-09-06T13:39:20.000Z"
+  },
+  "17.jpg": {
+   "bytes": 193650,
+   "sha256": "74e42ada8571e9e9c55978b7d3f7842d2fa3e464aff5adaac08a0acffc6f3979",
+   "timestamp": "2021-09-06T13:50:36.000Z"
+  },
+  "the_journey.bsp": {
+   "bytes": 6661348,
+   "sha256": "5f1d6b6eb476494978ba4b64b6639afe7f99fd2321e7640f2e9fe80fee8e3cec",
+   "timestamp": "2021-09-14T11:40:34.000Z"
+  },
+  "the_journey.map": {
+   "bytes": 2645474,
+   "sha256": "5e0a40420e25c453055e0544dc61717f0af3a6b4c10fee6759337455c723b44f",
+   "timestamp": "2021-09-14T00:40:24.000Z"
+  },
+  "the_journey.txt": {
+   "bytes": 1737,
+   "sha256": "69baf96d5cb2fc0938233a7511704924e444d6aa8550742ac56292f19ae57be1",
+   "timestamp": "2021-09-14T12:44:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "b4fd7d52cf664527692dfdfb8f761a846699a23f9d9a33edac4c3f9de49cddd6",
+ "tags": [
+  "author=Paul Keefner",
+  "filename=the_journey.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=large",
+  "release_date=2021-09-14",
+  "source=included",
+  "startmap=the_journey",
+  "theme=base",
+  "theme=castle",
+  "theme=lava",
+  "theme=medieval",
+  "title=The Journey",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/the_journey.zip",
+  "https://www.quaddicted.com/files/by-sha256/b4/b4fd7d52cf664527692dfdfb8f761a846699a23f9d9a33edac4c3f9de49cddd6/the_journey.zip"
+ ]
+}

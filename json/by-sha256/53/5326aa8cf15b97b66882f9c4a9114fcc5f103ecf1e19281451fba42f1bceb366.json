@@ -1,0 +1,53 @@
+{
+ "bytes": 903,
+ "files": {
+  "sm135_ankh.bsp": {
+   "bytes": 840784,
+   "sha256": "abf28e976f763b67df9b49805c9631a69c0586ca6491582359beb20ca93077c2",
+   "timestamp": "2007-09-14T21:29:20.000Z"
+  },
+  "sm135_generic.bsp": {
+   "bytes": 821636,
+   "sha256": "0ccf7d96b256c9ded5ca35c4f10a49a2eb828e72444eb830587a2acedca510cc",
+   "timestamp": "2007-09-15T15:04:56.000Z"
+  },
+  "sm135_generic.map": {
+   "bytes": 373172,
+   "sha256": "6fbfd11e83ba50b429f3e21be58c73aaccc36193299fe04d69b8ea74c57d5396",
+   "timestamp": "2007-09-15T15:04:56.000Z"
+  },
+  "sm135_lurker.bsp": {
+   "bytes": 521764,
+   "sha256": "013d8666195ee3d6aea9a6f6015a3fe1a388bc92cf389956f9bfa145ae0f01ea",
+   "timestamp": "2007-09-16T15:34:42.000Z"
+  },
+  "sm135_pack.txt": {
+   "bytes": 1293,
+   "sha256": "5c19c7f104a91816aa07d68777ddab64637733791cc4c494a3e26eb1de2ed080",
+   "timestamp": "2007-09-17T08:07:08.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "5326aa8cf15b97b66882f9c4a9114fcc5f103ecf1e19281451fba42f1bceb366",
+ "tags": [
+  "author=Ankh",
+  "author=generic",
+  "author=lurker",
+  "filename=sm135_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2007-09-17",
+  "startmap=sm135_ankh",
+  "startmap=sm135_generic",
+  "startmap=sm135_lurker",
+  "title=Speedmapping pack 135 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm135_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/53/5326aa8cf15b97b66882f9c4a9114fcc5f103ecf1e19281451fba42f1bceb366/sm135_pack.zip"
+ ]
+}

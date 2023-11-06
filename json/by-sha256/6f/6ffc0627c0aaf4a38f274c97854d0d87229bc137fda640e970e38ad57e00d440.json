@@ -1,0 +1,74 @@
+{
+ "bytes": 4126,
+ "files": {
+  "ad_juz1.txt": {
+   "bytes": 3166,
+   "sha256": "6c836d0f7dbff3fd22eefd8f00008c8b03a78ab66ca557e61d061dc6149a0f3e",
+   "timestamp": "2020-05-07T19:06:24.000Z"
+  },
+  "maps/ad_juz1.bsp": {
+   "bytes": 5131440,
+   "sha256": "5e5afd5c1f59497e8f4d74e8e0f105fdb227e4c00a9cd2fba880223af0181b3e",
+   "timestamp": "2020-05-07T19:24:20.000Z"
+  },
+  "maps/ad_juz1.lit": {
+   "bytes": 1633118,
+   "sha256": "05145cd485ff57bf4cd62997709256d332bd1e724466b7d75759efa2ca4b8320",
+   "timestamp": "2020-05-07T19:24:20.000Z"
+  },
+  "mapsrc/ad_juz1.map": {
+   "bytes": 3698613,
+   "sha256": "23a4f047bb921872214a2a09af80e3786ab9b3e7088406b3ce9971f221a0a62b",
+   "timestamp": "2020-05-07T19:23:08.000Z"
+  },
+  "sound/ad_juz1/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-04-13T18:01:46.000Z"
+  },
+  "sound/ad_juz1/modem.wav": {
+   "bytes": 1015264,
+   "sha256": "65aa65b2b2c3363a4c518ea37e92cc00bcf55209c3906ec2a26ba77d748d7310",
+   "timestamp": "2020-04-13T18:13:00.000Z"
+  },
+  "sound/ambience/tornadosiren.wav": {
+   "bytes": 409132,
+   "sha256": "793bb573cfa13890fed938c1e8259b2218480f2e4769c56e9060010d5d5c4270",
+   "timestamp": "2020-05-07T10:41:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "6ffc0627c0aaf4a38f274c97854d0d87229bc137fda640e970e38ad57e00d440",
+ "tags": [
+  "author=Juzley",
+  "bsp_format=bsp2",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "dependency=ad_v1_70patch1",
+  "exceeds_quake_limits=yes",
+  "filename=ad_juz1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61886)",
+  "map_size=medium",
+  "map_size=small",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=sounds",
+  "nonspecific_tag=textures",
+  "release_date=2020-05-07",
+  "source=included",
+  "theme=arcane dimensions",
+  "theme=base",
+  "theme=industrial",
+  "title=Network Unreachable",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_juz1.zip",
+  "https://www.quaddicted.com/files/by-sha256/6f/6ffc0627c0aaf4a38f274c97854d0d87229bc137fda640e970e38ad57e00d440/ad_juz1.zip"
+ ]
+}

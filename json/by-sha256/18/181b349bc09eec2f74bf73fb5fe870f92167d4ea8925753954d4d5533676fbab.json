@@ -1,0 +1,926 @@
+{
+ "bytes": 82841,
+ "files": {
+  "jan_jump_jam_2020/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-26T20:13:46.000Z"
+  },
+  "jan_jump_jam_2020/READ_ME.txt": {
+   "bytes": 2096,
+   "sha256": "aa8484848fd6e7568a095df061043d68f3b92e2d58d8a353c35c461f3367b876",
+   "timestamp": "2020-01-26T19:15:08.000Z"
+  },
+  "jan_jump_jam_2020/docs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-26T18:36:50.000Z"
+  },
+  "jan_jump_jam_2020/docs/jjj_greenwood1.txt": {
+   "bytes": 992,
+   "sha256": "41eef39619331e2d83061744ba96cc60f69e6a295d664dae36df143c44d60b35",
+   "timestamp": "2020-01-26T13:05:26.000Z"
+  },
+  "jan_jump_jam_2020/docs/jjj_greenwood2.txt": {
+   "bytes": 873,
+   "sha256": "a89c5573e1736cc9b16441010b940183ba67aca69866d87ea23375da2e879231",
+   "timestamp": "2020-01-26T13:12:54.000Z"
+  },
+  "jan_jump_jam_2020/docs/jjj_hcm.txt": {
+   "bytes": 2168,
+   "sha256": "b3a9afa1818d415d5b051ee09bd54b027565d6c6dd49f5dd2c598424e3725451",
+   "timestamp": "2020-01-26T07:31:42.000Z"
+  },
+  "jan_jump_jam_2020/docs/jjj_here.txt": {
+   "bytes": 1347,
+   "sha256": "5f6f66119f34144a84038213fd350213ca2e5b1c931c717c8f269dd1fa6bfd64",
+   "timestamp": "2020-01-16T02:28:02.000Z"
+  },
+  "jan_jump_jam_2020/docs/jjj_jcr.txt": {
+   "bytes": 1749,
+   "sha256": "a476ea3835fb98cba983965755249f179ac6ef4bf3d23ead53a26f2d6800a2c9",
+   "timestamp": "2020-01-24T17:15:26.000Z"
+  },
+  "jan_jump_jam_2020/docs/jjj_pinchy.txt": {
+   "bytes": 2643,
+   "sha256": "d7af42349cd00676eb4213e215d0a7b020abfdfbe70e70283a43b226ba89c8d3",
+   "timestamp": "2020-01-26T18:31:02.000Z"
+  },
+  "jan_jump_jam_2020/docs/jjj_smilecythe.txt": {
+   "bytes": 1539,
+   "sha256": "792b5dd72b9f8387c08ed95099af4c740fab59766a36244f49cda5aee048a6fa",
+   "timestamp": "2020-01-26T11:38:58.000Z"
+  },
+  "jan_jump_jam_2020/docs/jjj_vrk.txt": {
+   "bytes": 1528,
+   "sha256": "acf6d6fcd7cf621a677a9cb49c8625b3d4c416a5cd2a177de734badde48be426",
+   "timestamp": "2020-01-13T04:24:02.000Z"
+  },
+  "jan_jump_jam_2020/gfx/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:26.000Z"
+  },
+  "jan_jump_jam_2020/gfx/conback.lmp": {
+   "bytes": 76808,
+   "sha256": "3841e9bebb974d1291d666529b9078b6dce4400d82b3a15909e2d49d75f74c1f",
+   "timestamp": "2019-11-03T20:39:28.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-26T18:36:40.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/adgreensky_bk.tga": {
+   "bytes": 1520289,
+   "sha256": "6a7fa2cdc97237658a3f2c73a8a5d879feadf4a31e84fb8585aeba96f3f8fb61",
+   "timestamp": "2015-11-28T09:58:08.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/adgreensky_dn.tga": {
+   "bytes": 1565620,
+   "sha256": "d4fabe617a431169df1bbc37e48404fc34718a1bbf5a1ee45d5b3a0ddda5cc6c",
+   "timestamp": "2015-11-28T10:03:08.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/adgreensky_ft.tga": {
+   "bytes": 1704063,
+   "sha256": "c6cfbbd8b09846eaea719a5e65744cdd4fddced0c277f4584c743f2639882d50",
+   "timestamp": "2015-11-28T09:58:34.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/adgreensky_lf.tga": {
+   "bytes": 1576943,
+   "sha256": "c83f24917ccb67af83602236d03e57096f73b36b7fc64da6206afe989944b4a4",
+   "timestamp": "2015-12-20T07:10:44.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/adgreensky_rt.tga": {
+   "bytes": 1706213,
+   "sha256": "7b85287d2ce5e4d3a9ce63a560183086e812ceca9232d07eb61f63a24d678e10",
+   "timestamp": "2015-11-28T09:59:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/adgreensky_up.tga": {
+   "bytes": 1798684,
+   "sha256": "703e4449b5b9ff967610dbc81d7e27c089788927d82fdb31267490cfb30ed0e3",
+   "timestamp": "2015-12-20T07:36:06.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/gehenna_bk.tga": {
+   "bytes": 673919,
+   "sha256": "2579ebbde03e3e6d7e052cffa869980ac43f59f2245d584a9212f3bf09d91d09",
+   "timestamp": "2004-08-25T12:08:20.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/gehenna_dn.tga": {
+   "bytes": 785761,
+   "sha256": "80c1bb4234473c05f856c018659cc67289bfa001fc42e2b1f133d39609aadfa0",
+   "timestamp": "2004-08-25T12:08:44.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/gehenna_ft.tga": {
+   "bytes": 710441,
+   "sha256": "b371a504c6e1cecaba1352ac254759e23f8aee34e9516f33fcbddf2bee9e14ad",
+   "timestamp": "2004-08-25T12:08:04.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/gehenna_lf.tga": {
+   "bytes": 664379,
+   "sha256": "821a2381b1955c846a11dea45855defb6ca91bf7b93021ad4320db5523a367be",
+   "timestamp": "2004-08-25T12:08:12.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/gehenna_rt.tga": {
+   "bytes": 697661,
+   "sha256": "6903bcdbb62381122e0df50286460e2cdbad499f1e6194bfc5f12d2e975949b7",
+   "timestamp": "2004-08-25T12:08:28.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/gehenna_up.tga": {
+   "bytes": 509867,
+   "sha256": "21d744fe6dda2bcff73b713e8e3742522d161a139a8d410cd97b1f760f29ca6e",
+   "timestamp": "2004-08-25T12:08:36.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/interstellar_bk.tga": {
+   "bytes": 3145746,
+   "sha256": "861352b7f4dc030af28b483d09ad88b4cbb7b8e23e5cd3cf512d2feae9640b22",
+   "timestamp": "2005-08-28T15:45:26.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/interstellar_dn.tga": {
+   "bytes": 3145746,
+   "sha256": "b16b2e272b7e74513f6a1961d68270dd82fa0667d6ea267a2d22c45a2bdc2fcc",
+   "timestamp": "2005-08-28T15:45:28.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/interstellar_ft.tga": {
+   "bytes": 3145746,
+   "sha256": "11730f0982cbadc7691ea38e57510b2b7e77484e108d591aece8f970cfdca08f",
+   "timestamp": "2005-08-28T15:45:26.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/interstellar_lf.tga": {
+   "bytes": 3145746,
+   "sha256": "5bf0a5999e7ea85e68291ab7b36d7f6be5104f8932a2fe46d257484e84dab4fc",
+   "timestamp": "2005-08-28T15:45:26.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/interstellar_rt.tga": {
+   "bytes": 3145746,
+   "sha256": "051204c9fb8a430c17fb337d84132e0d7058b88f070e457278be99d78a73e5c2",
+   "timestamp": "2005-08-28T15:45:26.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/interstellar_up.tga": {
+   "bytes": 3145772,
+   "sha256": "d8b19a66cb5dad2f34c9059860ac24a8632ba5575ac06ca3076d57a70c47b5b0",
+   "timestamp": "2005-08-28T15:46:40.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/moonhigh_bk.tga": {
+   "bytes": 1048620,
+   "sha256": "5f361bf5a352c1df5a6caef9cf42bd35fed8406c6949af480b0425c193c18b3a",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/moonhigh_dn.tga": {
+   "bytes": 1048620,
+   "sha256": "02e2b36863c1181a85aa675c53fc14a301f38dc6e0c6735098bb6d8723af02b3",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/moonhigh_ft.tga": {
+   "bytes": 1048620,
+   "sha256": "3158735bdd6f4f467a5b29639aa4f622d1136ea463967684b739b0002bec6526",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/moonhigh_lf.tga": {
+   "bytes": 1048620,
+   "sha256": "5cdaabd99655152689e40832643690d7b1c5f8e414f3126a7c0c9224f2250704",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/moonhigh_rt.tga": {
+   "bytes": 1048620,
+   "sha256": "e08a374ac19c8b8cffa6c939515cde9570b44bbc044c12d06b0c5d94aa7469bc",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/moonhigh_up.tga": {
+   "bytes": 1048620,
+   "sha256": "c0465fd6a0b069e5ff78f3e561084bf3e23b796cac9b5214a6cd4045310d36fe",
+   "timestamp": "2018-01-01T09:42:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/problem-child_bk.tga": {
+   "bytes": 786450,
+   "sha256": "a5ae7cad5cb83f779a820e7db4f357048a93852b3395afd58fcacbe445995a45",
+   "timestamp": "2003-04-12T01:10:06.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/problem-child_dn.tga": {
+   "bytes": 786450,
+   "sha256": "9aeca652b2bafe830225aeefaea47f885a8b4a1c7d1e9e80599129c05c20e7ff",
+   "timestamp": "2003-04-12T01:41:24.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/problem-child_ft.tga": {
+   "bytes": 786450,
+   "sha256": "51cc6a623b39d01d2c524990c88fbe3e9fadef4fcd8320188e95898cb8ed5558",
+   "timestamp": "2003-04-12T00:15:56.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/problem-child_lf.tga": {
+   "bytes": 786450,
+   "sha256": "3b78e1ca4de3283674538917cecd531e022eb07b92c6c6ef44e962fdb63c4cb4",
+   "timestamp": "2003-04-12T00:37:32.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/problem-child_rt.tga": {
+   "bytes": 786450,
+   "sha256": "ea024f1e555b5ab5e8f9147ebe451cbb30db82cd9da72ff59445e452be139d01",
+   "timestamp": "2003-04-12T00:02:28.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/problem-child_up.tga": {
+   "bytes": 786450,
+   "sha256": "17e8953db0db2ef8dd22224902cc2927c32e8bee0507aa01dd2cea91ab28640e",
+   "timestamp": "2003-04-12T01:25:22.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-26T13:42:52.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/readme.txt": {
+   "bytes": 1269,
+   "sha256": "c26fb88910e6cb97a87da538843b37e52217000f4430ec2e14ac1fa3c8b3da3f",
+   "timestamp": "2020-01-26T17:34:30.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/sea_bk.tga": {
+   "bytes": 638948,
+   "sha256": "170e42c30f1f8e2deaed683473d3c67bf0e885edeb8ec9b00ff6769320d57502",
+   "timestamp": "2020-01-14T02:02:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/sea_dn.tga": {
+   "bytes": 532743,
+   "sha256": "4637e458d2d91cb7c5802816a01b4669efa49a2d97a58bcb98a0c9e3d9c1de61",
+   "timestamp": "2020-01-14T02:02:10.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/sea_ft.tga": {
+   "bytes": 525586,
+   "sha256": "fb3c3d3004ad5a56c744aee3de8bff6439786a3b0a168ccdf4fab38a3e13bec5",
+   "timestamp": "2020-01-14T02:02:28.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/sea_lf.tga": {
+   "bytes": 532231,
+   "sha256": "a5f9b8137797aa04d488c23892e35585c460cd002658e0ae4127b9223d2ec6c1",
+   "timestamp": "2020-01-14T02:02:34.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/sea_rt.tga": {
+   "bytes": 550838,
+   "sha256": "c2ca54b53cad775da7e63bacae2fc281333609148faa90ee60608d8eb201d5f2",
+   "timestamp": "2020-01-14T02:02:44.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/sea_up.tga": {
+   "bytes": 564066,
+   "sha256": "800926692ec9480339ff1dabe529dabab91f982ec3ed5a2f46731be6cf701497",
+   "timestamp": "2020-01-14T02:02:50.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/sor_sea/sor_sea.shader": {
+   "bytes": 328,
+   "sha256": "9bb25e623501b4afa8aa627c7eff041e043a728be7fb6beebb2a277f40578645",
+   "timestamp": "2008-12-16T17:23:36.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/voidsmoke_bk.tga": {
+   "bytes": 3145746,
+   "sha256": "47dbf483f2d48bcdf9ff938cdfbbdc34ec5d1d9e80f85acff1c59c8773cb51c4",
+   "timestamp": "2020-01-20T12:36:22.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/voidsmoke_dn.tga": {
+   "bytes": 3145772,
+   "sha256": "138e9386728cdd98935a0c484d5693db2e60375d8d770ad754fe6616906591a1",
+   "timestamp": "2015-10-28T15:14:50.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/voidsmoke_ft.tga": {
+   "bytes": 3145746,
+   "sha256": "3b8e7f1d013d14abee15dbaaa86dfe2e2b61bf0567be71f353e00cf713a97235",
+   "timestamp": "2020-01-20T12:36:44.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/voidsmoke_lf.tga": {
+   "bytes": 3145746,
+   "sha256": "dc998585a7cfe18ce9eceff232290ac5716718d366401b67fe014c939c548eeb",
+   "timestamp": "2020-01-20T12:37:00.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/voidsmoke_rt.tga": {
+   "bytes": 3145746,
+   "sha256": "715c5de8ae30574062f53572bc87d4eee6cf1e99e11b1f2942ad8ebd71416ef4",
+   "timestamp": "2020-01-20T12:39:40.000Z"
+  },
+  "jan_jump_jam_2020/gfx/env/voidsmoke_up.tga": {
+   "bytes": 3145746,
+   "sha256": "185cccc9f4e065a7931170ed07773bec03d2e346398deeca1bd6ec2960cf070a",
+   "timestamp": "2020-01-20T12:52:08.000Z"
+  },
+  "jan_jump_jam_2020/jjj_poster.jpg": {
+   "bytes": 4707013,
+   "sha256": "ca4f805bcbf780da39898ae3377fdf479961d16d3f62d8a8e7eb8b1a71f0148f",
+   "timestamp": "2020-01-26T19:30:52.000Z"
+  },
+  "jan_jump_jam_2020/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-26T20:13:02.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_greenwood1.bsp": {
+   "bytes": 3184500,
+   "sha256": "5ac3ef1659664f52b2a81d866da71f2d5c7c0a8505a44e9d7c9a05cfd20d67b0",
+   "timestamp": "2020-01-26T17:43:10.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_greenwood2.bsp": {
+   "bytes": 1559800,
+   "sha256": "df8fd938871899f045723ba9a442dca5772aeed5b0e0bec4d18d090cb70f0889",
+   "timestamp": "2020-01-26T15:13:36.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_hcm.bsp": {
+   "bytes": 8986508,
+   "sha256": "b51323e587f0154da1e67704700598c415b9fd9919e984a5778518d7b530f6d2",
+   "timestamp": "2020-01-26T07:24:26.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_hcm.lit": {
+   "bytes": 3252581,
+   "sha256": "caa4429e33cd55900f792b63114ae3ab9a6b3195024757fc424eaef3cc36298c",
+   "timestamp": "2020-01-26T07:24:26.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_here.bsp": {
+   "bytes": 13665064,
+   "sha256": "a76cbb2b972589980c3c19220a4382c9edabf113cd5ac0bbc1c3ad956f618281",
+   "timestamp": "2020-01-19T10:21:20.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_here.lit": {
+   "bytes": 2936120,
+   "sha256": "ed881fb7df17db32676c0a5a28d4400ad734c27917e6c531066f794bbe2d45eb",
+   "timestamp": "2020-01-19T10:21:20.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_jcr.bsp": {
+   "bytes": 6217592,
+   "sha256": "902c13d2d755615646847a0eed3f779380d8672398ffd870bb2c2d115e1413c4",
+   "timestamp": "2020-01-26T19:13:22.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_jcr.lit": {
+   "bytes": 3195764,
+   "sha256": "b08bad8bc1ef5b8d4e97bfe1540552687bda7732c7a1edd15adca1aa4da6f140",
+   "timestamp": "2020-01-26T19:13:22.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_pinchy.bsp": {
+   "bytes": 3179072,
+   "sha256": "7926bde0c770d9dd12b19fa611056e4f48c137d6112bfa3477ba4323fa297806",
+   "timestamp": "2020-01-26T18:39:24.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_pinchy.lit": {
+   "bytes": 955808,
+   "sha256": "40465bb50a45c602115fcef125668c3d79bc62192796e38d03238d458fb7bb6a",
+   "timestamp": "2020-01-26T18:39:24.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_shades.bsp": {
+   "bytes": 1175656,
+   "sha256": "68e45f24b0b517baa36afd0f5314f64d37617d8c5ea8da486bd3b668ad0b6a5b",
+   "timestamp": "2020-01-17T22:13:36.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_shades.lit": {
+   "bytes": 704735,
+   "sha256": "c7b94d7bb13ec3bc6433b575ca30e60f623656c01cd6dc1442b13ec52525f37e",
+   "timestamp": "2020-01-17T22:13:36.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_smilecythe.bsp": {
+   "bytes": 14419988,
+   "sha256": "43858215f0092a4efc134aad273a987314e87280f8963f58b4744721aeb73f3d",
+   "timestamp": "2020-01-26T14:51:34.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_smilecythe.lit": {
+   "bytes": 3644276,
+   "sha256": "5904bcd05758d2d76af5e1fc6db3bda1850a1721c5cb1f8da16eb810ba8921a4",
+   "timestamp": "2020-01-26T14:51:34.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_vrk.bsp": {
+   "bytes": 3048760,
+   "sha256": "1d08097bf88565434c71c3231528db38443e9855ba98e3fd4d3bb74e520f4d12",
+   "timestamp": "2020-01-14T07:53:16.000Z"
+  },
+  "jan_jump_jam_2020/maps/jjj_vrk.lit": {
+   "bytes": 715805,
+   "sha256": "cecadf9179fa0d1980ecfd8ced9d92d83f3872044a223dd5d20e5a2fb0cc1822",
+   "timestamp": "2020-01-14T07:53:16.000Z"
+  },
+  "jan_jump_jam_2020/maps/start.bsp": {
+   "bytes": 3915932,
+   "sha256": "2ba9cc4fac2d1361af6a52dfeca719a6e0bd334c7d52af1fe909004a02806fee",
+   "timestamp": "2020-01-26T20:09:08.000Z"
+  },
+  "jan_jump_jam_2020/maps/start.lit": {
+   "bytes": 2478152,
+   "sha256": "c14cd0860aea7e67634bc87b6e8723dc73e9a845a221f8d6e7750db713353c35",
+   "timestamp": "2020-01-26T20:09:08.000Z"
+  },
+  "jan_jump_jam_2020/music/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-26T18:31:46.000Z"
+  },
+  "jan_jump_jam_2020/music/Track187.ogg": {
+   "bytes": 3223426,
+   "sha256": "acea2a2073c88f1bea8f35c90cfe3f68cb52a0a79d940dae89148a64352733d1",
+   "timestamp": "2019-03-22T17:00:22.000Z"
+  },
+  "jan_jump_jam_2020/music/track116.ogg": {
+   "bytes": 988024,
+   "sha256": "3e56ca42cc2863fecdcb42c026b8661f953ed45794a517d82d9b186bb87911e3",
+   "timestamp": "2019-05-01T16:33:16.000Z"
+  },
+  "jan_jump_jam_2020/music/track155.ogg": {
+   "bytes": 7785842,
+   "sha256": "887a011e102c144b15ed3171862c515b814f28987e0343ed399711432c767cac",
+   "timestamp": "2020-01-25T11:43:52.000Z"
+  },
+  "jan_jump_jam_2020/music/track228.mp3": {
+   "bytes": 10004012,
+   "sha256": "46aa31659d9256d29593d1fcd5c5a84546b19c921750235c4e276d9f480ce780",
+   "timestamp": "2019-04-19T16:29:46.000Z"
+  },
+  "jan_jump_jam_2020/music/track29.ogg": {
+   "bytes": 2452180,
+   "sha256": "27d0e2b80355726163c971abdfd6408cc8e4eb13109169a446809c9264c42919",
+   "timestamp": "2020-01-12T15:31:26.000Z"
+  },
+  "jan_jump_jam_2020/progs.dat": {
+   "bytes": 452206,
+   "sha256": "f9de433367b6b2b8ef76cab21d6277e43d389163ca72528992f398a8ede82fb7",
+   "timestamp": "2020-01-26T19:33:44.000Z"
+  },
+  "jan_jump_jam_2020/progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:50.000Z"
+  },
+  "jan_jump_jam_2020/progs/beacon.mdl": {
+   "bytes": 43404,
+   "sha256": "e2c7d307b30bcd2342110f446942944455255834b148a8d00db78055680f8633",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/c_spike.mdl": {
+   "bytes": 1684,
+   "sha256": "be12eea5a022a7ab6debdf64e39e45cf0201d47cb7b49285025d4c81a4977104",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/cent.mdl": {
+   "bytes": 221936,
+   "sha256": "6e8e12db297f9f70cbe00fe2087be79a0011dc31344e642d8f309947e63cad8d",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/debris.mdl": {
+   "bytes": 26470,
+   "sha256": "0e504dbadf09296b3e7f7e85dc42b1d141a7b4d0d79d8c4027024c50914059a0",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/dread.mdl": {
+   "bytes": 183400,
+   "sha256": "efb1827edaced94142bb040b179cff11de98c097aab7fe13c80efadadc742314",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/fgib1.mdl": {
+   "bytes": 9252,
+   "sha256": "35cab9ee2e9af79f9ddf2a3549aa405b7533829b3c9e62279d614accafed3f39",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/fixture1.mdl": {
+   "bytes": 5848,
+   "sha256": "2e4d2f4fa2d0b62c636cc00fcec1d7408645af015c0d38526d08d6cd606be2dc",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/flag.mdl": {
+   "bytes": 77512,
+   "sha256": "146532c961f0892bd0dea0e74b66f6336d8305f01308cca1f368aabe684beb2d",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/flaser.mdl": {
+   "bytes": 11348,
+   "sha256": "2d2b3c26ddac8c790b3a9220e02affe06bd654a7cac4290a7a0b724895d94455",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/floyd.mdl": {
+   "bytes": 345512,
+   "sha256": "4e58c272389ba05734d3acda3f2606f54a6f951b3b3695aa2bb865965af1a241",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/fromitz.mdl": {
+   "bytes": 6964,
+   "sha256": "f9faa3414644b1e829870fcc02eb73fbd9199b4db17579008c7336c9d26471a8",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/g_axe.mdl": {
+   "bytes": 35488,
+   "sha256": "4a04aaea3b65ef8be1e9ae5e2448bf5fcb530492241a739b689f7380ba509de5",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/g_shotgn.mdl": {
+   "bytes": 24580,
+   "sha256": "da07d432363ddd8cd709b4ab92e72b22f9b47fe756079fd6627e2c49c36fa0c1",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/h_cent.mdl": {
+   "bytes": 11828,
+   "sha256": "8e86be042986a544325bf78e92913893c0894626fd0e50d7e22c98aa14a63c9c",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/h_dread.mdl": {
+   "bytes": 11828,
+   "sha256": "4606d8d99742354d59b0f222d3d589a8c2982837ae6fc32637e03e6c76ca8592",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/h_floyd.mdl": {
+   "bytes": 60072,
+   "sha256": "58bb5251428075b2607a6a8e00fbf7491fac379cfcb3732d357c7944e6079d78",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/jboots.mdl": {
+   "bytes": 48980,
+   "sha256": "7177b54de6b80c30b7aab2e58d63e2378806ac9de5f8744265c85eef9b522a8c",
+   "timestamp": "2019-11-09T17:37:08.000Z"
+  },
+  "jan_jump_jam_2020/progs/jboots_timed.mdl": {
+   "bytes": 48980,
+   "sha256": "16d3825005301cc90b70b74ae1ac9df96fd24c99767d5c51c2b439d240eefee8",
+   "timestamp": "2019-11-09T17:15:36.000Z"
+  },
+  "jan_jump_jam_2020/progs/s_flame.spr": {
+   "bytes": 25284,
+   "sha256": "1d7d679bad0e253d592e84a4e3aead63a722d3dff6e8cdb2d7b8007cb95f4c70",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/s_grate.spr": {
+   "bytes": 24732,
+   "sha256": "ccd119fa3025aa1b1a05ad0bf63d242fa85058945bd8111a3f9d69928c86d1c2",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/s_smoke.spr": {
+   "bytes": 22128,
+   "sha256": "509fa58c47e873d48d3508a78a8f69a122c4dcbb05f39a0f85cbe1d32f88d3ab",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/s_spark.spr": {
+   "bytes": 297,
+   "sha256": "92a9187b59bc29fb62abd8860b58cbcae53711a79add5d9f42292a3303b0b7b4",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/progs/spark.mdl": {
+   "bytes": 9588,
+   "sha256": "74dc6734e0ce30447942a10e9ec78c7cf43eafb86f290cc772b2a8874702b858",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:50.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:50.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/breath1.wav": {
+   "bytes": 222136,
+   "sha256": "979f58c1f9c04e93a48c355a3a3ac0b6e453959feebaef30f605315863ee04fe",
+   "timestamp": "2019-04-28T20:45:56.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/chatter.wav": {
+   "bytes": 190760,
+   "sha256": "59197f823b479c66c41163d82fed6dc13a715aef429b5e551ba80ca6f7c229fb",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/comp.wav": {
+   "bytes": 12164,
+   "sha256": "ab8e3b13981bb432cca44ad4b7467734f52d01927018e72c99e7c4d052dc7874",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/crickets.wav": {
+   "bytes": 12236,
+   "sha256": "d5cf6e56884a8e43469408d4788ec6e573167901586df259a938cd088c998ef9",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/drone.wav": {
+   "bytes": 30902,
+   "sha256": "81993d96ab337f78c2778cecffe4767605fed210e0ac2303a46ac898979eea13",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/fan1.wav": {
+   "bytes": 53404,
+   "sha256": "97627e69c307e0befb93deff9175a17a8d43138c80ee91be3bb03aafd7785808",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/flow1.wav": {
+   "bytes": 53120,
+   "sha256": "29647478f308e1d11fadc42f7d14ea7df1603bb048e7b413202bdf20674232b8",
+   "timestamp": "2018-07-16T19:19:36.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/flow2.wav": {
+   "bytes": 311394,
+   "sha256": "7df07008441c5cdd70d9e1745c5051d54decda237d35397c447548dea89152ea",
+   "timestamp": "2018-08-04T19:14:10.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/heartbeat.wav": {
+   "bytes": 70872,
+   "sha256": "78650f1335b82bf08bbed72532abfd10ce6d20a0bace9881e0fc8bb6b08d9068",
+   "timestamp": "2019-04-28T20:46:38.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/hum02.wav": {
+   "bytes": 37836,
+   "sha256": "8b2ee1b91fa663b6111de9251011142475831ece70ee091022b800b715f1bfa2",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/intake.wav": {
+   "bytes": 25682,
+   "sha256": "e6d13169ce4680dd83903473897fd6e7ce1e51fab00c6df2127ea993321c05b0",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/lonoise.wav": {
+   "bytes": 32876,
+   "sha256": "1e0f99ffadead8460a7a4bed1c6b2c16cddd70050e1524e9cdaf6724a9dc81b5",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/motor1.wav": {
+   "bytes": 52340,
+   "sha256": "c48511a37143e9ed50ae7c1d1f28235b007762949d3d18549fc545cc670c0a24",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/motor2.wav": {
+   "bytes": 52014,
+   "sha256": "7f36cda5c01aea4e6b356ae4d0b31b68ca15d7606eefd30f4739a64fc4e86e6c",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/rain.wav": {
+   "bytes": 40960,
+   "sha256": "78a0e3a9620e32eea4f6883f1c3bd0ec547007adfaabd93bc1a1e0dd947daec2",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/ambient/runwater.wav": {
+   "bytes": 64764,
+   "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/dread/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:50.000Z"
+  },
+  "jan_jump_jam_2020/sound/dread/flameoff.wav": {
+   "bytes": 8962,
+   "sha256": "436505ff3ed5a8dc84a98bbaa0adf130e8df8267c813f81b3f22476d0bffdbc2",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/dread/flameon.wav": {
+   "bytes": 29410,
+   "sha256": "4de5e523c27642dbd873e64fbd509798657e130b5b83e35c5f5774a67d29dcd4",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/floyd/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:50.000Z"
+  },
+  "jan_jump_jam_2020/sound/floyd/death.wav": {
+   "bytes": 14334,
+   "sha256": "c1df00893edb581adda43cc1d608bed644e09143958ce8febfd3148a5c44c47e",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/floyd/fire.wav": {
+   "bytes": 23268,
+   "sha256": "f4c60bf6e9eb09829bfbfdc5f0abe9d306c14a55ec0112e44010148bcb541093",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/floyd/idle.wav": {
+   "bytes": 4872,
+   "sha256": "705e26e709ad72331225e6c0486968d37f260afe502e163694faf977519a2b29",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/floyd/pain.wav": {
+   "bytes": 4872,
+   "sha256": "705e26e709ad72331225e6c0486968d37f260afe502e163694faf977519a2b29",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/floyd/sight.wav": {
+   "bytes": 4872,
+   "sha256": "705e26e709ad72331225e6c0486968d37f260afe502e163694faf977519a2b29",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/items/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:50.000Z"
+  },
+  "jan_jump_jam_2020/sound/items/jboots_dry.wav": {
+   "bytes": 14842,
+   "sha256": "47ab9b51e521912a95ac75213c92d72551d65d3274e3f95fabdf3af96e3801e7",
+   "timestamp": "2019-05-02T19:28:34.000Z"
+  },
+  "jan_jump_jam_2020/sound/items/jboots_got.wav": {
+   "bytes": 21176,
+   "sha256": "4d04c60240de4e0a5683606ca478fbdc30b6d178d0b01cedf6ab1145bfc36be2",
+   "timestamp": "2019-01-16T20:31:20.000Z"
+  },
+  "jan_jump_jam_2020/sound/items/jboots_got_timed.wav": {
+   "bytes": 41300,
+   "sha256": "cde18c42852e96166e9af0218ab9c2166574a3ca8e20f748f9f4e009acf3dc41",
+   "timestamp": "2019-08-07T19:36:22.000Z"
+  },
+  "jan_jump_jam_2020/sound/items/jboots_plyrjmp0.wav": {
+   "bytes": 5400,
+   "sha256": "fbbaf3f8f99d490252adf6022543640bf6b00ee27078ee1e13f5069114b2b635",
+   "timestamp": "2019-02-08T19:16:18.000Z"
+  },
+  "jan_jump_jam_2020/sound/items/jboots_plyrjmp1.wav": {
+   "bytes": 19938,
+   "sha256": "fe6bb2a66fc7fea1771783ccf4797477d5a54425f6472ea5654c680c1363ba7f",
+   "timestamp": "2019-07-26T20:10:54.000Z"
+  },
+  "jan_jump_jam_2020/sound/items/jboots_timed.wav": {
+   "bytes": 313682,
+   "sha256": "a05f8116e13fe5b0c4726e829e381a1737fd987a35e39c982014a8abd1445394",
+   "timestamp": "2019-10-31T18:47:24.000Z"
+  },
+  "jan_jump_jam_2020/sound/ladder/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:50.000Z"
+  },
+  "jan_jump_jam_2020/sound/ladder/metal1.wav": {
+   "bytes": 48088,
+   "sha256": "7271136b6398602c7b4bdbd610a37b5a82a66195842030a21de08a89808b4026",
+   "timestamp": "2018-01-01T09:42:18.000Z"
+  },
+  "jan_jump_jam_2020/sound/ladder/metal2.wav": {
+   "bytes": 48086,
+   "sha256": "3b7580b31dee8a86e636c5fd17d92566d147417f98764d51097ad53ff0d19d29",
+   "timestamp": "2018-01-01T09:42:18.000Z"
+  },
+  "jan_jump_jam_2020/sound/ladder/metal3.wav": {
+   "bytes": 48086,
+   "sha256": "bb687ec2183f460ac4240acfcd2f3da2f8bd9da043ba705f6e32c3439e4845b9",
+   "timestamp": "2018-01-01T09:42:18.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-24T16:58:50.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/airhiss.wav": {
+   "bytes": 11252,
+   "sha256": "03b9ca5c5a8246fee721f648d2402374477dd65da13a949593c44fd7b2065abe",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/airhiss2.wav": {
+   "bytes": 5652,
+   "sha256": "9a23a61a6a3a28f269ad5a63a93c258858765ad7142ca9edee408f59ede2a384",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/burning.wav": {
+   "bytes": 24062,
+   "sha256": "b86f4c917be3c1af29dd2c8efb4d065022ecef84a3fd762a49ace87da3da7eee",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/burning2.wav": {
+   "bytes": 11087,
+   "sha256": "85abb1cf3b40311b8240eaad56bdc363d06888763067d47150cd94f0c1a2b235",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/comp1.wav": {
+   "bytes": 23404,
+   "sha256": "797df3a959272bb5cc9119565a38ade894fdb9c4fbafac96b71150a51d11e795",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/comp2.wav": {
+   "bytes": 20636,
+   "sha256": "f5f2381aac666a185d56fd560424be8f06fbd5ae4a6b93f146f3868dbdaadfe0",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/flow1.wav": {
+   "bytes": 53120,
+   "sha256": "29647478f308e1d11fadc42f7d14ea7df1603bb048e7b413202bdf20674232b8",
+   "timestamp": "2018-07-16T19:19:36.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/flow2.wav": {
+   "bytes": 311394,
+   "sha256": "7df07008441c5cdd70d9e1745c5051d54decda237d35397c447548dea89152ea",
+   "timestamp": "2018-08-04T19:14:10.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/laser_on.wav": {
+   "bytes": 41762,
+   "sha256": "e1a72d5a5aaec9230348910976eb723ad5e7cd24ebd11ad296b0bc5c09de1eac",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/laseroff.wav": {
+   "bytes": 67100,
+   "sha256": "a15f76266e830249d5cfc6ffc020833f84be1d66e25d25d657d0313be64656fb",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/null.wav": {
+   "bytes": 1244,
+   "sha256": "5271b9aa2961809f47fadecb693be2eebde2dbed62fbc4f5f4889fcd8c4a65f8",
+   "timestamp": "2019-12-29T13:15:32.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/song_reverse.wav": {
+   "bytes": 410796,
+   "sha256": "e1385effd94ec745b3c81bf7d4f2106159a34d69f81eee1dc5a3d294869bff29",
+   "timestamp": "2018-10-26T20:35:54.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/spark.wav": {
+   "bytes": 14684,
+   "sha256": "55ba43047ffc794bc65b1002b351b3a13bc271346cb060e01c093f56dd960e7f",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/uwater.wav": {
+   "bytes": 39438,
+   "sha256": "b6bd29c4576d83d6149fb4dc1a67dc20046339427745e5b5f3c2c46593c0e553",
+   "timestamp": "2019-08-29T19:24:52.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/wind.wav": {
+   "bytes": 268052,
+   "sha256": "cc547a7eb33e99e76eb8fbe61909c86ce5521fb4155d517462cdde951aaaa6e3",
+   "timestamp": "2019-11-07T19:57:08.000Z"
+  },
+  "jan_jump_jam_2020/sound/misc/wood.wav": {
+   "bytes": 483954,
+   "sha256": "35404ee5c6de187e5e2590fff81ca6906c41c29f4a680863de3ba852ade210e4",
+   "timestamp": "2019-11-07T19:56:36.000Z"
+  },
+  "jan_jump_jam_2020/src/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2020-01-26T20:13:08.000Z"
+  },
+  "jan_jump_jam_2020/src/jjj_hcm.map": {
+   "bytes": 5029365,
+   "sha256": "649a637ffe49f48b32e5fbe94b1a57900c43ee5463432e53b00397341b915e27",
+   "timestamp": "2020-01-26T07:23:34.000Z"
+  },
+  "jan_jump_jam_2020/src/jjj_here.map": {
+   "bytes": 11887170,
+   "sha256": "2ca72c582371debec55c712fee79bcdb88607c0f49b12f192c8b7a4f7cd6b565",
+   "timestamp": "2020-01-19T10:17:04.000Z"
+  },
+  "jan_jump_jam_2020/src/jjj_jcr.map": {
+   "bytes": 3437520,
+   "sha256": "33d00d825f4305b5b857a6ddaf8902af9b629d92d733b1e42dce62db103360f0",
+   "timestamp": "2020-01-26T19:09:38.000Z"
+  },
+  "jan_jump_jam_2020/src/jjj_pinchy.map": {
+   "bytes": 3568879,
+   "sha256": "45780795ec42bcf6762ac69b64974569c248f317279fb455806f2ec9eb5197f9",
+   "timestamp": "2020-01-26T18:38:54.000Z"
+  },
+  "jan_jump_jam_2020/src/jjj_shades.map": {
+   "bytes": 255167,
+   "sha256": "e770228c19ce404f84f83e3b7cae81e8dae94737ea230918079a89f195440765",
+   "timestamp": "2020-01-17T22:11:58.000Z"
+  },
+  "jan_jump_jam_2020/src/jjj_smilecythe.map": {
+   "bytes": 11318193,
+   "sha256": "16877294bff61cfd6ea294d5f08660f63726169591b7aa66dc6df09aecf9b5ba",
+   "timestamp": "2020-01-26T14:48:20.000Z"
+  },
+  "jan_jump_jam_2020/src/jjj_testmap.map": {
+   "bytes": 104208,
+   "sha256": "b067bf8b2e1b6ea324dbcca5612c3991661dbf90aa419752ce1727e2f7b6ac5d",
+   "timestamp": "2020-01-04T15:19:40.000Z"
+  },
+  "jan_jump_jam_2020/src/jjj_vrk.map": {
+   "bytes": 1462286,
+   "sha256": "c291c480051c3a7af0ffe6f2ca5d42c2d1561b040fb84a4bb8d7dc7d3a851835",
+   "timestamp": "2020-01-14T07:51:40.000Z"
+  },
+  "jan_jump_jam_2020/src/start.map": {
+   "bytes": 1569352,
+   "sha256": "025ca57526f3a9291128680e055de62aae42f189bc6501e1d272cf56eac47a0f",
+   "timestamp": "2020-01-26T20:08:10.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}//"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "181b349bc09eec2f74bf73fb5fe870f92167d4ea8925753954d4d5533676fbab",
+ "tags": [
+  "author=Greenwood",
+  "author=Hardcore Mazu",
+  "author=Heresy",
+  "author=JCR",
+  "author=Pinchy",
+  "author=Shadesmaster",
+  "author=Smilecythe",
+  "author=Vurkka",
+  "commandline=-game jan_jump_jam_2020",
+  "exceeds_quake_limits=yes",
+  "filename=jan_jump_jam_2020.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61832)",
+  "nonspecific_tag=hard",
+  "nonspecific_tag=jump",
+  "nonspecific_tag=jump boots",
+  "nonspecific_tag=multiple exits",
+  "nonspecific_tag=skybox",
+  "nonspecific_tag=textures",
+  "release_date=2020-01-27",
+  "source=included",
+  "startmap=jjj_greenwood1",
+  "startmap=jjj_greenwood2",
+  "startmap=jjj_hcm",
+  "startmap=jjj_here",
+  "startmap=jjj_jcr",
+  "startmap=jjj_pinchy",
+  "startmap=jjj_shades",
+  "startmap=jjj_smilecythe",
+  "startmap=jjj_vrk",
+  "theme=exploration",
+  "theme=puzzles",
+  "title=January Jump Jam",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/jan_jump_jam_2020.zip",
+  "https://www.quaddicted.com/files/by-sha256/18/181b349bc09eec2f74bf73fb5fe870f92167d4ea8925753954d4d5533676fbab/jan_jump_jam_2020.zip"
+ ]
+}

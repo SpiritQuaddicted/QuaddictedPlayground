@@ -1,0 +1,52 @@
+{
+ "bytes": 2467,
+ "files": {
+  "READ ME escape.txt": {
+   "bytes": 5529,
+   "sha256": "3b1544467e116056bc21166d0979e8ec81a2108d831c1700aceee1f201a4298d",
+   "timestamp": "2015-07-11T01:21:18.000Z"
+  },
+  "escape.bsp": {
+   "bytes": 2275988,
+   "sha256": "9a23dc111521ac74b0e466300a8384017b554c91f33b63e9cabb84256af61382",
+   "timestamp": "2015-07-25T01:47:34.000Z"
+  },
+  "escape.lit": {
+   "bytes": 767138,
+   "sha256": "af6610d61cdc8d4d4956417ded13e87f701c3c1274e709c3777a452c86775ff8",
+   "timestamp": "2015-07-25T01:47:34.000Z"
+  },
+  "escapescreen.png": {
+   "bytes": 1401322,
+   "sha256": "117ea0591044f083c5e31cb74b800e7301cd31940ad17efe163b7fc8704e3fd4",
+   "timestamp": "2015-07-05T15:56:56.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/maps"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "1f734adf8cf290a8260216ef4d49df4aef4b6159a977eef9c90bd5cfc433aa23",
+ "tags": [
+  "author=Daya",
+  "commandline=-game quoth -quoth",
+  "dependency=quoth2pt2full_2",
+  "filename=quothescape.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://www.celephais.net/board/view_thread.php?id=61232)",
+  "map_size=small",
+  "mod=quoth",
+  "release_date=2015-09-07",
+  "startmap=escape",
+  "theme=base",
+  "theme=prison",
+  "theme=quoth",
+  "title=Escape From Your Cell",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/quothescape.zip",
+  "https://www.quaddicted.com/files/by-sha256/1f/1f734adf8cf290a8260216ef4d49df4aef4b6159a977eef9c90bd5cfc433aa23/quothescape.zip"
+ ]
+}

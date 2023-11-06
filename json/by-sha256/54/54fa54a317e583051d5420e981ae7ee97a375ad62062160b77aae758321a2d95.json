@@ -1,0 +1,135 @@
+{
+ "bytes": 5833,
+ "files": {
+  "sm169_drew.bsp": {
+   "bytes": 2857860,
+   "sha256": "c5e9f8eaf849c8b9ea0be76d0b6b76355ae086803aa8109a6ce2df15054866a0",
+   "timestamp": "2013-04-22T02:58:26.000Z"
+  },
+  "sm169_fifthelephant.bsp": {
+   "bytes": 2078742,
+   "sha256": "14669438ff6b6d04be672b8676f1d302da562eb1df12923d40696db1b0ce03e2",
+   "timestamp": "2013-04-21T13:02:56.000Z"
+  },
+  "sm169_fifthelephant.map": {
+   "bytes": 688872,
+   "sha256": "995e934ec688cdb9a818e24806f5402d2a0142801eaca566d928adf4e6a1b2d3",
+   "timestamp": "2013-04-21T13:02:16.000Z"
+  },
+  "sm169_ijed.bsp": {
+   "bytes": 1952376,
+   "sha256": "6c37f43ff2f8d192ca027130997c61a56e231a74c43bf3da1acd368175357495",
+   "timestamp": "2013-04-22T09:50:38.000Z"
+  },
+  "sm169_ijed.lit": {
+   "bytes": 823232,
+   "sha256": "86d7070b909fa39fc45d8b96505a4f9005144ccc5ca66f482f0ccdbfb0d2259a",
+   "timestamp": "2013-04-22T09:50:38.000Z"
+  },
+  "sm169_ijed.map": {
+   "bytes": 808884,
+   "sha256": "acf857ef426512d3f717265313a4d5a10ed00a3990e6d17c43e5c4fdbd916512",
+   "timestamp": "2013-04-22T09:49:54.000Z"
+  },
+  "sm169_ijed2.bsp": {
+   "bytes": 1811252,
+   "sha256": "b9e56061830c22a3400a65a62e1742770ff921d24127b40cb0ba0353a44a487f",
+   "timestamp": "2013-04-23T10:32:36.000Z"
+  },
+  "sm169_jackfapoff.bsp": {
+   "bytes": 2069320,
+   "sha256": "794c7b45e86e7e50fc02db77b7dbe3bbc24596939d53453812690d8bc2c09899",
+   "timestamp": "2013-04-22T08:18:54.000Z"
+  },
+  "sm169_jackfapoff.txt": {
+   "bytes": 796,
+   "sha256": "6a16b6da445c67f7c825a4e68a64b77a64e137e096955b4d851d296f8042ab44",
+   "timestamp": "2013-04-22T09:05:28.000Z"
+  },
+  "sm169_negke.bsp": {
+   "bytes": 672608,
+   "sha256": "86560c9ce2492e154f6d16fb17b229bff8c07d54b0f33e9d2a5d493e35a38c09",
+   "timestamp": "2013-04-23T20:58:30.000Z"
+  },
+  "sm169_orbs.txt": {
+   "bytes": 938,
+   "sha256": "539dca3249910f8bb670f67066e54d97c016c1927053e6b1b5df3650c393e08a",
+   "timestamp": "2013-04-21T20:26:44.000Z"
+  },
+  "sm169_orbs1.bsp": {
+   "bytes": 647684,
+   "sha256": "99a661057480cfe989002501191afb17727966046b0485921bb1105ba3811207",
+   "timestamp": "2013-04-21T19:51:14.000Z"
+  },
+  "sm169_orbs2.bsp": {
+   "bytes": 833828,
+   "sha256": "6f55aa6673f24ab47309a06c25b7c616c8e03230e39e988a3b9cf7e4f4046595",
+   "timestamp": "2013-04-21T20:11:22.000Z"
+  },
+  "sm169_pack.txt": {
+   "bytes": 1958,
+   "sha256": "d64e4d5456ac0ee092f30011c5ec1b682128f5e923ddfb71053b5a964f54a3f9",
+   "timestamp": "2013-04-27T22:32:02.000Z"
+  },
+  "sm169_rickyt23.bsp": {
+   "bytes": 589140,
+   "sha256": "eece72721dd64a979f56b8b92e946fd5ad63b4606db1ac02db4f0b9ce1275531",
+   "timestamp": "2013-04-22T18:37:42.000Z"
+  },
+  "sm169_scampie.bsp": {
+   "bytes": 536937,
+   "sha256": "bd18d990ebfcb67a697af465274e4b47ad1f4f894b7157be861e6c0c2a4bbbef",
+   "timestamp": "2013-04-21T21:28:48.000Z"
+  },
+  "sm169_scampie.map": {
+   "bytes": 226518,
+   "sha256": "b065a8de4300e11626918d342d77cf5a1fe5e8ef3ee1ea59b9c5058063c4d53f",
+   "timestamp": "2013-04-21T21:28:38.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95",
+ "tags": [
+  "author=Drew",
+  "author=FifthElephant",
+  "author=Jackfapoff",
+  "author=Orbs",
+  "author=RickyT23",
+  "author=Scampie",
+  "author=ijed",
+  "author=negke",
+  "bsp_format=bsp2",
+  "filename=sm169_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "mod=quoth",
+  "mod=rubicon",
+  "nonspecific_tag=ancient",
+  "nonspecific_tag=colosseum",
+  "nonspecific_tag=hard",
+  "release_date=2013-04-22",
+  "startmap=sm169_drew",
+  "startmap=sm169_fifthelephant",
+  "startmap=sm169_ijed2",
+  "startmap=sm169_jackfapoff",
+  "startmap=sm169_negke",
+  "startmap=sm169_orbs1",
+  "startmap=sm169_orbs2",
+  "startmap=sm169_rickyt23",
+  "startmap=sm169_scampie",
+  "theme=base",
+  "theme=industrial",
+  "theme=quoth",
+  "theme=rubicon",
+  "title=Speedmapping Pack 169 - Rubicon2 with a Quad",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm169_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/54/54fa54a317e583051d5420e981ae7ee97a375ad62062160b77aae758321a2d95/sm169_pack.zip"
+ ]
+}

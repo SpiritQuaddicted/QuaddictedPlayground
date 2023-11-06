@@ -1,0 +1,62 @@
+{
+ "bytes": 1106,
+ "files": {
+  "sm45_daz.bsp": {
+   "bytes": 676988,
+   "sha256": "85d6db781641bd2aeac5e4d2c985a9ba9061d3617722ff6700ab5764ae8ad416",
+   "timestamp": "2003-08-17T00:49:54.000Z"
+  },
+  "sm45_pack.txt": {
+   "bytes": 1824,
+   "sha256": "fca5cb71a83bbd30461a2c86f47c93f244b05179ef50c2321e0e8457bbe2f834",
+   "timestamp": "2003-08-17T04:05:04.000Z"
+  },
+  "sm45_raptore.bsp": {
+   "bytes": 559916,
+   "sha256": "11d2df2cbadb6d30f552e599d27daad373ace6d9d4d563b137ee838411806a98",
+   "timestamp": "2003-08-16T20:35:30.000Z"
+  },
+  "sm45_ray.bsp": {
+   "bytes": 674176,
+   "sha256": "517d943f8bf5ee7c05eba783c875c105afc53bc0e196a79ec662a28a14467402",
+   "timestamp": "2003-08-16T22:52:16.000Z"
+  },
+  "sm45_sb.bsp": {
+   "bytes": 807616,
+   "sha256": "9d40fac8046e882b2a22d561a8eb9c1243b0096012b9ba924f40a0f341825380",
+   "timestamp": "2003-08-17T02:59:06.000Z"
+  },
+  "sm45_scampie.bsp": {
+   "bytes": 853220,
+   "sha256": "83760a431a94684eb63d63b30582a430e64b8eda60758e60bd4608d12e0e9d94",
+   "timestamp": "2001-09-16T21:38:24.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d9acdf17dc59b8450e68c5ab0d0e7956576cf33e52f49eaf36e42920113741af",
+ "tags": [
+  "author=DaZ",
+  "author=NotoriousRay",
+  "author=Raptore",
+  "author=Scampie",
+  "author=Starbuck",
+  "filename=sm45.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2003-08-17",
+  "startmap=sm45_daz",
+  "startmap=sm45_raptore",
+  "startmap=sm45_ray",
+  "startmap=sm45_sb",
+  "startmap=sm45_scampie",
+  "title=Speedmapping pack 45 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm45.zip",
+  "https://www.quaddicted.com/files/by-sha256/d9/d9acdf17dc59b8450e68c5ab0d0e7956576cf33e52f49eaf36e42920113741af/sm45.zip"
+ ]
+}

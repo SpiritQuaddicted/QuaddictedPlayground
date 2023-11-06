@@ -1,0 +1,70 @@
+{
+ "bytes": 11690,
+ "files": {
+  "cgl_q.txt": {
+   "bytes": 3626,
+   "sha256": "b1393ceba5f619740fcad2a9c580314f0954fe4f296477286835814c978a459a",
+   "timestamp": "2020-01-09T14:04:14.000Z"
+  },
+  "maps/cgl_q.bsp": {
+   "bytes": 372372,
+   "sha256": "630549c18a8d054577cea763a065360abb9413b45638485baa657d12c83be420",
+   "timestamp": "2020-01-09T13:08:48.000Z"
+  },
+  "maps/cgl_q.lit": {
+   "bytes": 81833,
+   "sha256": "55c1355277c191b482d5d512b77219de7f53c17f011ac736ce38030bfbefb1a4",
+   "timestamp": "2020-01-09T13:08:48.000Z"
+  },
+  "maps/cgl_q.map": {
+   "bytes": 78873,
+   "sha256": "0658d996b61bd2827892c6c2d133441006abddb1fb42f6123d900c56c21ebf9a",
+   "timestamp": "2020-01-09T13:08:40.000Z"
+  },
+  "maps/its_in_bois.bsp": {
+   "bytes": 2847636,
+   "sha256": "98bc7a5b6f8afc2b8d47d4fb0a13722d29ed2945a7d2828f2ce6cde8c07437db",
+   "timestamp": "2020-01-09T12:35:12.000Z"
+  },
+  "maps/its_in_bois.map": {
+   "bytes": 630728,
+   "sha256": "0af9ed3141bb1a810649e821f2ea4dcaf12efc85468028e3839759d08392d0e4",
+   "timestamp": "2020-01-09T12:35:04.000Z"
+  },
+  "music/track69.mp3": {
+   "bytes": 11163776,
+   "sha256": "22cc5f30c8d681bb7fbaa5d316f0332ca0a73ab3dd6ab90302219e6ffa1141a3",
+   "timestamp": "2019-04-19T22:01:54.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "918b1009f498372e203709e61d3b97f4eac3bd32dd4a0b16d1821fe3fa50a238",
+ "tags": [
+  "author=nolcoz",
+  "commandline=-game quoth -quoth",
+  "dependency=quoth2pt2full_2",
+  "filename=cgl_q.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_layout=arena",
+  "map_size=small",
+  "mod=quoth",
+  "music=custom",
+  "nonspecific_tag=birds",
+  "nonspecific_tag=joke",
+  "release_date=2020-01-09",
+  "source=included",
+  "startmap=cgl_q",
+  "startmap=its_in_bois",
+  "theme=quoth",
+  "title=The C.G.L Project",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/cgl_q.zip",
+  "https://www.quaddicted.com/files/by-sha256/91/918b1009f498372e203709e61d3b97f4eac3bd32dd4a0b16d1821fe3fa50a238/cgl_q.zip"
+ ]
+}

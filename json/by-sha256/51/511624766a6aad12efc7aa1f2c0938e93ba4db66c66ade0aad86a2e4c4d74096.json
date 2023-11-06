@@ -1,0 +1,48 @@
+{
+ "bytes": 557,
+ "files": {
+  "sm77_pack.txt": {
+   "bytes": 1362,
+   "sha256": "105f08910f42fb1f5ce08a63eacff7d1c2611586e41c1055aeab3c666e8f9e98",
+   "timestamp": "2004-03-01T20:34:18.000Z"
+  },
+  "sm77_rpg.bsp": {
+   "bytes": 402528,
+   "sha256": "aea594d43e652716062a5d995bc8e9f62bb96830a8730eb015b73443d49c75b1",
+   "timestamp": "2004-05-01T19:40:50.000Z"
+  },
+  "sm77_scampie.bsp": {
+   "bytes": 613268,
+   "sha256": "25584f5b3313686d1221aa6ae1e7a45e81aa58fa86f7990110afb88986beed72",
+   "timestamp": "2004-05-01T20:03:26.000Z"
+  },
+  "sm77_zwiffle.bsp": {
+   "bytes": 415420,
+   "sha256": "4840a028c747b9001dccbb1acbdc4dde95ef3defdc2bcfde4a456b3d24f384a7",
+   "timestamp": "2004-05-01T19:01:18.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "511624766a6aad12efc7aa1f2c0938e93ba4db66c66ade0aad86a2e4c4d74096",
+ "tags": [
+  "author=RPG",
+  "author=Scampie",
+  "author=Zwiffle",
+  "filename=sm77_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2004-05-01",
+  "startmap=sm77_rpg",
+  "startmap=sm77_scampie",
+  "startmap=sm77_zwiffle",
+  "title=Speedmapping pack 77 - A new end map for Quake",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm77_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/51/511624766a6aad12efc7aa1f2c0938e93ba4db66c66ade0aad86a2e4c4d74096/sm77_pack.zip"
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "bytes": 360,
+ "files": {
+  "lunar.bsp": {
+   "bytes": 1114136,
+   "sha256": "73ec4ef86f8773706cb9f9423e75074c85786628c1872b88427a0873c27fe1b6",
+   "timestamp": "1997-02-22T15:21:20.000Z"
+  },
+  "lunar.txt": {
+   "bytes": 3064,
+   "sha256": "39e6d687f8f2bd8e690fa2b8f6618f2e75fbe952ab51bbb6353a9836f3180346",
+   "timestamp": "1997-02-23T16:51:50.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "62681e968ffbbe705bbdaf7429a286725baf7123d18ed34aa38141de4cf4e8e5",
+ "tags": [
+  "author=Brian Hess a.k.a. Wendigo",
+  "filename=lunar.zip",
+  "game=quake",
+  "game_mode=deathmatch",
+  "game_mode=singleplayer",
+  "map_size=small",
+  "nonspecific_tag=moon",
+  "nonspecific_tag=textures",
+  "release_date=1997-02-23",
+  "theme=base",
+  "theme=doom",
+  "theme=realism",
+  "theme=space",
+  "title=Lunar Base",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/lunar.zip",
+  "https://www.quaddicted.com/files/by-sha256/62/62681e968ffbbe705bbdaf7429a286725baf7123d18ed34aa38141de4cf4e8e5/lunar.zip"
+ ]
+}

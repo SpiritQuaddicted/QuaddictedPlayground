@@ -1,0 +1,55 @@
+{
+ "bytes": 1741,
+ "files": {
+  "sm111_generic.bsp": {
+   "bytes": 1177608,
+   "sha256": "86b1fa2e1f56cdd4348da0016d77443fa9e63e886e4e3a783d157f0664160320",
+   "timestamp": "2005-11-28T09:26:38.000Z"
+  },
+  "sm112_neg!ke.bsp": {
+   "bytes": 1389884,
+   "sha256": "7b523ce567802c693005fad51fcedd6e262ffe08280c319175ec7eac28a80664",
+   "timestamp": "2005-11-27T17:56:38.000Z"
+  },
+  "sm112_pack.txt": {
+   "bytes": 1547,
+   "sha256": "72fe739603d558a369237178f482c9dd137d2499fb34c3c5627d3ff9f655cea1",
+   "timestamp": "2005-11-28T12:00:48.000Z"
+  },
+  "sm112_trinca.bsp": {
+   "bytes": 1203172,
+   "sha256": "86058192aebee9f14db00fbc4237d2d7041aeab45dc2006d94e95cbffac0a9ac",
+   "timestamp": "2005-11-26T14:34:16.000Z"
+  },
+  "sm112_zwiffle.bsp": {
+   "bytes": 314964,
+   "sha256": "76f6a9f44c420b4b946832045caa3bba02b965f25ae6b062647750019076ad00",
+   "timestamp": "2005-11-28T09:26:30.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005",
+ "tags": [
+  "author=Trinca",
+  "author=Zwiffle",
+  "author=generic",
+  "author=negke",
+  "filename=sm112_pack.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "release_date=2005-11-28",
+  "startmap=sm111_generic",
+  "startmap=sm112_neg!ke",
+  "startmap=sm112_trinca",
+  "startmap=sm112_zwiffle",
+  "title=Speedmapping pack 112 - Unthemed",
+  "type=speedmap"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sm112_pack.zip",
+  "https://www.quaddicted.com/files/by-sha256/3b/3b17d142a47182d20d7d75bdd37592e4d26f21dd3a9f00e97ff8f8bcaece0005/sm112_pack.zip"
+ ]
+}

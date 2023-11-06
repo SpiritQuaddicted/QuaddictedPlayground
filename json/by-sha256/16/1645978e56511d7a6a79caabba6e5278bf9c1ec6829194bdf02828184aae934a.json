@@ -1,0 +1,114 @@
+{
+ "bytes": 3627,
+ "files": {
+  "dom3m1.txt": {
+   "bytes": 6905,
+   "sha256": "f25b35668c9d0ed91fb01b3564c6013292ea290205298f589785e5781b91a2b5",
+   "timestamp": "2012-11-22T20:54:06.000Z"
+  },
+  "maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2012-11-22T19:56:00.000Z"
+  },
+  "maps/dom3m1.bsp": {
+   "bytes": 7921588,
+   "sha256": "e7db27388a87cfe8fae1b0653bb734726a322bdbc40a61ca952281660ea3b41a",
+   "timestamp": "2012-11-24T19:34:08.000Z"
+  },
+  "progs/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2012-11-22T19:56:04.000Z"
+  },
+  "progs/dom3m1xa.bsp": {
+   "bytes": 18448,
+   "sha256": "c5f44929ead1c4e83c1df904af6d7c0e01db7a34d241aa039fa69229b91154d4",
+   "timestamp": "2012-11-18T10:37:26.000Z"
+  },
+  "progs/dom3m1xb.bsp": {
+   "bytes": 58088,
+   "sha256": "16b8f55ecd773c6c5650213862b3b5df097c16b7c2df79aab67e58b985e5b9d7",
+   "timestamp": "2012-11-18T13:20:08.000Z"
+  },
+  "progs/dom3m1xc.bsp": {
+   "bytes": 35408,
+   "sha256": "bf6e88a6c5e9653fe8916ff0d730be8f3f3492e1a00687a88b3e4eef56d2c34d",
+   "timestamp": "2012-11-18T13:26:34.000Z"
+  },
+  "progs/dom3m1xd.bsp": {
+   "bytes": 74160,
+   "sha256": "72a7f39ae466d34e2b235dd5de018386097e49bd0e85bc842cdc548ffa892ddf",
+   "timestamp": "2012-11-20T00:01:14.000Z"
+  },
+  "progs/dom3m1xe.bsp": {
+   "bytes": 124812,
+   "sha256": "56d3a4a27c34892af32b0acea8c7022427ae857f011d5548e8a972b0f7d03f9f",
+   "timestamp": "2012-11-19T22:17:20.000Z"
+  },
+  "progs/dom3m1xf.bsp": {
+   "bytes": 124736,
+   "sha256": "535cb8748c1474fc5a121145e3c6a5083c2b50c0c0b62788522db6b3e27ba867",
+   "timestamp": "2012-11-19T22:19:58.000Z"
+  },
+  "progs/dom3m1xg.bsp": {
+   "bytes": 302908,
+   "sha256": "41dd43a2941e3f70cf6d18a86b5dd5e4bb280c2a85925df0eed80e6c33d63d07",
+   "timestamp": "2012-11-19T23:06:02.000Z"
+  },
+  "progs/dom3m1xh.bsp": {
+   "bytes": 194324,
+   "sha256": "3e4585115a25b685e5e2f63d0d620c5047bc312c119d875de40fdae4f34c5af5",
+   "timestamp": "2012-11-19T23:34:38.000Z"
+  },
+  "progs/dom3m1xi.bsp": {
+   "bytes": 379400,
+   "sha256": "f3bb026f1d9f4422194c74838c77b45e71a9c8661d2e6e8379be0d7ffbd48f6f",
+   "timestamp": "2012-11-20T20:06:52.000Z"
+  },
+  "progs/dom3m1xj.bsp": {
+   "bytes": 366128,
+   "sha256": "0fd28a266b624057bd6e03985f4565a9eb33449cad466bca1ee12ac145008ccb",
+   "timestamp": "2012-11-24T19:37:46.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2012-11-22T19:56:18.000Z"
+  },
+  "sound/nonull.wav": {
+   "bytes": 28716,
+   "sha256": "6c09801196face40592eff614d26a38dfbc86dccb37ea537c59f7eadc3eddd15",
+   "timestamp": "2012-11-20T22:47:30.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/quoth/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "1645978e56511d7a6a79caabba6e5278bf9c1ec6829194bdf02828184aae934a",
+ "tags": [
+  "author=Fern (aka Fr3n)",
+  "commandline=-quoth -game quoth",
+  "dependency=quoth",
+  "exceeds_quake_limits=yes",
+  "filename=dom3m1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "mod=quoth",
+  "nonspecific_tag=persian",
+  "nonspecific_tag=textures",
+  "release_date=2012-11-23",
+  "theme=caverns",
+  "theme=quoth",
+  "theme=temple",
+  "theme=underground",
+  "title=10,000 Feet Below",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/dom3m1.zip",
+  "https://www.quaddicted.com/files/by-sha256/16/1645978e56511d7a6a79caabba6e5278bf9c1ec6829194bdf02828184aae934a/dom3m1.zip"
+ ]
+}

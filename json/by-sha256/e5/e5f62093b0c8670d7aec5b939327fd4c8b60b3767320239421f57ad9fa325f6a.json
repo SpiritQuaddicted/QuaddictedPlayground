@@ -1,0 +1,64 @@
+{
+ "bytes": 1002,
+ "files": {
+  "whiteroom/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-03-28T22:05:12.000Z"
+  },
+  "whiteroom/WhiteRoom.txt": {
+   "bytes": 3845,
+   "sha256": "bff91382566a25a98a8f2630c2345cd0b175ce7d0f786f7ac4f5abf59a115c54",
+   "timestamp": "2008-11-10T12:29:10.000Z"
+  },
+  "whiteroom/maps/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2009-03-28T22:05:14.000Z"
+  },
+  "whiteroom/maps/WhiteRoom.bsp": {
+   "bytes": 3302736,
+   "sha256": "494081f12771cff0735ce8c182d6a24816d8b5d56271cab9731391b9f4986538",
+   "timestamp": "2008-11-10T11:52:04.000Z"
+  },
+  "whiteroom/progs.dat": {
+   "bytes": 436688,
+   "sha256": "6bb2e1e99ab7643f21c7459c5416b094924826a04c51266447fbf6b5805ca2c6",
+   "timestamp": "2008-10-25T18:37:48.000Z"
+  },
+  "whiteroom_quaddictedrepack.txt": {
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "timestamp": "2009-04-28T16:14:26.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "e5f62093b0c8670d7aec5b939327fd4c8b60b3767320239421f57ad9fa325f6a",
+ "tags": [
+  "author=Willem (Warren Marshall)",
+  "commandline=-game whiteroom",
+  "filename=whiteroom.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.wantonhubris.com/",
+  "nonspecific_tag=looks over play",
+  "nonspecific_tag=minimalist",
+  "nonspecific_tag=multiple exits",
+  "nonspecific_tag=prototype",
+  "nonspecific_tag=textures",
+  "nonspecific_tag=unique",
+  "nonspecific_tag=white",
+  "release_date=2008-11-10",
+  "theme=abstract",
+  "theme=base",
+  "title=White Room",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/whiteroom.zip",
+  "https://www.quaddicted.com/files/by-sha256/e5/e5f62093b0c8670d7aec5b939327fd4c8b60b3767320239421f57ad9fa325f6a/whiteroom.zip"
+ ]
+}

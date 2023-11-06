@@ -1,0 +1,46 @@
+{
+ "bytes": 1217,
+ "files": {
+  "lc_cop16.bsp": {
+   "bytes": 2478020,
+   "sha256": "1479140c5add92c6665b0a44243bac9c114d3a91e1d303ef3de169d588513ef8",
+   "timestamp": "2021-07-28T12:52:18.000Z"
+  },
+  "lc_cop16.map": {
+   "bytes": 1954629,
+   "sha256": "794da8f0ee394e45e8f784ffb2623796f89a692047e21f4230cb6df16faa1a3e",
+   "timestamp": "2021-07-28T12:55:54.000Z"
+  },
+  "lc_cop16.txt": {
+   "bytes": 3761,
+   "sha256": "61550c24445739480abc803c61f6f0b5db8faca808fd103769879e5304f50a78",
+   "timestamp": "2021-07-28T14:08:34.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/copper/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "1fb3c3aeab1f9b1b8155f75f34dbfd052ecf710db3092f3a9bc776da0ab130da",
+ "tags": [
+  "author=The Solipsist",
+  "commandline=-game copper",
+  "dependency=copper_v1_16",
+  "exceeds_quake_limits=yes",
+  "filename=lc_cop16.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "map_size=medium",
+  "mod=copper",
+  "release_date=2021-07-25",
+  "source=included",
+  "theme=base",
+  "theme=crates",
+  "title=Logistics Central",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/lc_cop16.zip",
+  "https://www.quaddicted.com/files/by-sha256/1f/1fb3c3aeab1f9b1b8155f75f34dbfd052ecf710db3092f3a9bc776da0ab130da/lc_cop16.zip"
+ ]
+}

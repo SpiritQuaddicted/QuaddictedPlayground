@@ -1,0 +1,67 @@
+{
+ "bytes": 1064,
+ "files": {
+  "S1L1.BSP": {
+   "bytes": 546024,
+   "sha256": "faa02607945ad53fe1080b1932bd106fd20f87696c335798e9465cb507de735b",
+   "timestamp": "1996-12-17T07:24:50.000Z"
+  },
+  "S1L2.BSP": {
+   "bytes": 429772,
+   "sha256": "37d408ec6039ac693c16c85f82d5e3accf5bf81555a3fe624a4c9e4539b0a5b6",
+   "timestamp": "1996-12-17T19:04:32.000Z"
+  },
+  "S1L3.BSP": {
+   "bytes": 354472,
+   "sha256": "bd3c95c8f03e4b62046aefd2dde267b9f87bc52de3aed98ffd4fc863fa952c4d",
+   "timestamp": "1996-12-17T18:26:28.000Z"
+  },
+  "S1L4.BSP": {
+   "bytes": 623584,
+   "sha256": "6dfe13aee8f863c23a170c01c06bf19c6737d76eb1a81ce9e50a597fd9c2daec",
+   "timestamp": "1996-12-23T18:52:12.000Z"
+  },
+  "S1L5.BSP": {
+   "bytes": 290820,
+   "sha256": "e9fd57685167ddb2e6a8349b8d687582d7731e4eba478d2dc5c982ec702a00d0",
+   "timestamp": "1996-12-28T13:08:38.000Z"
+  },
+  "S1L6.BSP": {
+   "bytes": 467148,
+   "sha256": "0666e262098c22d7418cd148ec75d7c859cdab47c2d8ffb8c4803d1ac9a59897",
+   "timestamp": "1996-12-30T06:39:34.000Z"
+  },
+  "SERIES1.TXT": {
+   "bytes": 401,
+   "sha256": "e5dca81c3238420b98c12f6953d6a909bd1d0e3eed1dde3af5ae1ba1ded70db3",
+   "timestamp": "1996-12-30T06:59:46.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/id1/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4",
+ "tags": [
+  "author=Inforatt (?)",
+  "filename=series1.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Crash's](http://www.quake2.com/crash/levelss.htm)",
+  "map_layout=non-linear",
+  "map_layout=vertical",
+  "map_size=medium",
+  "playstyle=tricks",
+  "release_date=1996-12-30",
+  "startmap=s1l1",
+  "theme=mixtex",
+  "theme=traps",
+  "title=Series 1",
+  "type=episode",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/series1.zip",
+  "https://www.quaddicted.com/files/by-sha256/1a/1a2708418a93f4d6f0b510d83bc091a8d4cfeaadee0aa318dfc7aee604cfa5a4/series1.zip"
+ ]
+}

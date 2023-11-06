@@ -1,0 +1,65 @@
+{
+ "bytes": 14018,
+ "files": {
+  "ad_dwoffice.bsp": {
+   "bytes": 8384916,
+   "sha256": "27ee8a4bc3e4217d53e8dc7d4fec777a6f7bfb0ba343bb06214e3f2fc5f0bcc0",
+   "timestamp": "2018-03-19T22:52:20.000Z"
+  },
+  "ad_dwoffice.txt": {
+   "bytes": 4498,
+   "sha256": "e3a6989cbc994ec310bb0b96b4d2a4b57f309b7a0c8b0777ba0e44447d0aad0f",
+   "timestamp": "2018-03-19T14:37:10.000Z"
+  },
+  "sound/": {
+   "bytes": 0,
+   "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+   "timestamp": "2018-03-17T00:46:28.000Z"
+  },
+  "sound/fire.wav": {
+   "bytes": 1115002,
+   "sha256": "b1c2c193c8b6332d6ee08e09ff62a60418225776fe413acc288bfa6626fbb2fa",
+   "timestamp": "2018-02-23T23:01:18.000Z"
+  },
+  "sound/sprinkler.wav": {
+   "bytes": 11428112,
+   "sha256": "675917256dc5132b657cb104340c47cabfba0a9b7c4e36331c9b18d2ddb5abdc",
+   "timestamp": "2018-02-23T22:08:12.000Z"
+  },
+  "sound/truck.wav": {
+   "bytes": 557764,
+   "sha256": "a84eeab83f084c8914f016821a65fb7c711652c68e871235d0bccb0a68177729",
+   "timestamp": "2018-03-17T00:23:16.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/ad/maps/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "d4811ca56e1bf27a07de4e40683f2203dcc5e12a2791596a4febae446e8911c6",
+ "tags": [
+  "author=Doug Wheeler aka Bullseye8841",
+  "commandline=-game ad",
+  "dependency=ad_v1_70final",
+  "exceeds_quake_limits=yes",
+  "filename=ad_dwoffice.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[Func_Msgboard](http://celephais.net/board/view_thread.php?id=61553)",
+  "map_size=medium",
+  "mod=arcanedimensions",
+  "nonspecific_tag=ad",
+  "nonspecific_tag=cars",
+  "nonspecific_tag=kingpin",
+  "release_date=2018-03-19",
+  "theme=arcane dimensions",
+  "theme=realism",
+  "theme=secrets",
+  "title=Office Offense",
+  "type=map"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/ad_dwoffice.zip",
+  "https://www.quaddicted.com/files/by-sha256/d4/d4811ca56e1bf27a07de4e40683f2203dcc5e12a2791596a4febae446e8911c6/ad_dwoffice.zip"
+ ]
+}

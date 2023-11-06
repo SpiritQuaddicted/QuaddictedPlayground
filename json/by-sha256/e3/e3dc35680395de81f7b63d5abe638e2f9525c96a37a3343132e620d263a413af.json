@@ -1,0 +1,347 @@
+{
+ "bytes": 6111,
+ "files": {
+  "sop/Config.cfg": {
+   "bytes": 2159,
+   "sha256": "9ba7c7890969faed688c573dd5b6ec696c6d6cabd94a6b26d5fc14f917abc548",
+   "timestamp": "1999-08-01T17:28:06.000Z"
+  },
+  "sop/IMPORTANT!.txt": {
+   "bytes": 985,
+   "sha256": "591811e772693642fa3767da98107f9fd6508224fed20da29b73cf6fcd09aa21",
+   "timestamp": "1999-08-01T17:36:44.000Z"
+  },
+  "sop/SOPv1.TXT": {
+   "bytes": 3960,
+   "sha256": "689001d84e982beb34fbad7a1f793ad8f5d6bb56067593775e79ddc4ef82fe42",
+   "timestamp": "1997-12-17T10:48:18.000Z"
+  },
+  "sop/pak0.pak": {
+   "bytes": 15580537,
+   "files": {
+    "autoexec.cfg": {
+     "bytes": 1018,
+     "sha256": "6b267090cb6b1777be2720faf3786d92a04f7f096d528cd1a42ea3aeffe7622c"
+    },
+    "gfx.wad": {
+     "bytes": 112828,
+     "sha256": "ebef3ea1999d057a8e7c463f2f7a447ec8f4d782b5dd1da86c32e1bb2e1fd702"
+    },
+    "gfx/conback.lmp": {
+     "bytes": 64648,
+     "sha256": "44a2a86c39bfc80785df59290e26eeed3ce8159970377b86f5eb1344cef23fbd"
+    },
+    "gfx/help0.lmp": {
+     "bytes": 64512,
+     "sha256": "9a3757b58f26b80135b041182f64430d4ec76c1c6b4b868282173af3a57a2fd7"
+    },
+    "gfx/help1.lmp": {
+     "bytes": 64512,
+     "sha256": "bb5e88e97cb2ff8f1978495191fb060bcf98dd19074170ee17a70cfd07bfeacd"
+    },
+    "gfx/help2.lmp": {
+     "bytes": 64512,
+     "sha256": "f9e77faa48bf851842b75fe7bd39be46467deac8b3b1e729426d78da22d0e35a"
+    },
+    "gfx/help3.lmp": {
+     "bytes": 64648,
+     "sha256": "e95aa0452cf479fdb0aa8ad841ecc92c148172ce4bf5f5cedd95be5506832a50"
+    },
+    "gfx/help4.lmp": {
+     "bytes": 64512,
+     "sha256": "2d976713fc08bd79c0d60f2d66453cf66f4dd6fedfa7c94f2fb156b22c2fe329"
+    },
+    "gfx/help5.lmp": {
+     "bytes": 64512,
+     "sha256": "ca4495c64100840fa4901193817a9db49723a44f8837484f86e6077dd639d9cd"
+    },
+    "gfx/temp.tmp": {
+     "bytes": 0,
+     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "intro.dem": {
+     "bytes": 770087,
+     "sha256": "b59f425c22eccf1280c2a4961c955bf775053dbb2b784dbc8b406e55dfbc4761"
+    },
+    "maps/demo.bsp": {
+     "bytes": 649788,
+     "sha256": "6126b9803420e13415be960f3a7cf1db80d5df6064cc1fe050b715fed0ed576f"
+    },
+    "maps/sop1.bsp": {
+     "bytes": 1919348,
+     "sha256": "beb3b3440ca5a5bdc6a8591a08be4fc1c9e2a603e9266dac02da1206aaf1b7b7"
+    },
+    "maps/sop2.bsp": {
+     "bytes": 2558020,
+     "sha256": "57d209ab8fb53873f6678db485072d99c26d9ff87f270a0536531d4ecb29b193"
+    },
+    "maps/sop3.bsp": {
+     "bytes": 2626796,
+     "sha256": "ee29cb912276f9c1dd56636f3b652cfe39266751a2c484a58b3e059038eca33c"
+    },
+    "maps/start.bsp": {
+     "bytes": 1010952,
+     "sha256": "04dd42c5893dae3284a6815d891876a201d2812bf901a2dac5650f184abb26ad"
+    },
+    "progs.dat": {
+     "bytes": 748392,
+     "sha256": "bdac5749f1536dd206066d775ab5bdd071f99d68a9ea79f6e8f8309478339273"
+    },
+    "sound/1minmy~1.wav": {
+     "bytes": 667102,
+     "sha256": "d9546ef5ceb098df0733f2a7035d0abf97e70e2f294aea9dbf466b355593104a"
+    },
+    "sound/ambient/runwater.wav": {
+     "bytes": 64764,
+     "sha256": "a1c4985a92c0edf589e824e2fd161177da99b404c308c2f68cb1997ac7cf832a"
+    },
+    "sound/dwrinto.wav": {
+     "bytes": 1324314,
+     "sha256": "767016a2da943abedacf9ae6578dd8736ebdfe8ebaa4139051d6861e648ff7f5"
+    },
+    "sound/dwrrep.wav": {
+     "bytes": 1160404,
+     "sha256": "8f52017194a4ad7caadaabbec28be43ca8bb68fd845b5005540a36e100ceddb2"
+    },
+    "sound/fanblow.wav": {
+     "bytes": 12890,
+     "sha256": "b242140bfc7b92006433bf5efcca88efb7dbf838b14f0beedcb14bcc914f05b9"
+    },
+    "sound/hipweap/mjolhit.wav": {
+     "bytes": 33914,
+     "sha256": "90fe4d76505558e612d0d66ec1d4d54a89ac0a35cf298b48e4446b1b41d02a78"
+    },
+    "sound/mech/mechstep.wav": {
+     "bytes": 11310,
+     "sha256": "253862ad17886c0c0467f2600f185e11fdb49156500919258c7bdf1f51f5bb98"
+    },
+    "sound/mech/metal.wav": {
+     "bytes": 5442,
+     "sha256": "12f478674e401a0e8b3fa696dc87239bd25c75d543eab4cdc7dcb846cd62731f"
+    },
+    "sound/mech/pow_dn.wav": {
+     "bytes": 42904,
+     "sha256": "bcbbdf2a6c196dd3d21cb552e00cd903bde38b94d79860804b5d00f88dc05c3b"
+    },
+    "sound/mech/pow_up.wav": {
+     "bytes": 32670,
+     "sha256": "e0b232135f7db271c3f6e5f6f49eae7d948cfa3afc20d372d5cccb4fa7481663"
+    },
+    "sound/midintro.wav": {
+     "bytes": 662214,
+     "sha256": "4ea7d01836fe4d1c6c390235ad0790d5bceceb8c05774899d9799fc8aaf14a9e"
+    },
+    "sound/midrep.wav": {
+     "bytes": 352926,
+     "sha256": "daa244911559c8526c085df8a71d53da48284e61fa148119f9bdcf14b17db896"
+    },
+    "sound/misc/quake.wav": {
+     "bytes": 34286,
+     "sha256": "3c984d6a11dac8cf9307c008abcaa480c94228e08c2201e1028ce821a246e266"
+    },
+    "sound/rockthud.wav": {
+     "bytes": 9742,
+     "sha256": "0aec00acdb3614875914dfd04ed77ef99b4b967d6253bb14df54b348e892030f"
+    },
+    "sound/thud.wav": {
+     "bytes": 12814,
+     "sha256": "3339425267d81adf2186e4dbca724804e918d1e3b12f462497a2f8f0aa07c9d8"
+    },
+    "sound/turret/beamchrg.wav": {
+     "bytes": 3962,
+     "sha256": "d02bd7d2c4754fe3159fac83b4f0898f8b2e1f8996ce7e6cfdaa4a9d75a24fb1"
+    },
+    "sound/turret/beamhit.wav": {
+     "bytes": 8644,
+     "sha256": "35e5e5f28a3695ed27c2b0887a1bf118643d769c457d3642016e887248fa8ca9"
+    },
+    "sound/voice1.wav": {
+     "bytes": 73110,
+     "sha256": "71a421c069e6db60393ad676d0ca29844f2ed2fc84c6d2498438f80a53d75089"
+    },
+    "sound/wall/wall.wav": {
+     "bytes": 26008,
+     "sha256": "96766396572574531fb0c12b890d0956aa9c5f9605f0de6bca5e0be2cfdd710f"
+    },
+    "sound/wave1.wav": {
+     "bytes": 183008,
+     "sha256": "0928e73f02e678a3d10f3e25e32c5f8104f64f089fe01fd3a5ad5ba34e1546c4"
+    },
+    "sound/weapons/arrowhit.wav": {
+     "bytes": 3644,
+     "sha256": "7348632798578416b240951489cf027abcaa04ac7f1190a22581349c8b06ede3"
+    },
+    "sound/weapons/lncharow.wav": {
+     "bytes": 2872,
+     "sha256": "546ef60ffa1d6f311f24093af551514ef4f4b9832d4481e4ae78fd0bf6e273b2"
+    }
+   },
+   "sha256": "1ab9fb99424c00d851720ec99000fc8e094d47b2380d0e40bf60e851aac967ce",
+   "timestamp": "1999-08-01T17:22:48.000Z"
+  },
+  "sop/progs.dat": {
+   "bytes": 567260,
+   "sha256": "176fa7dabedcd0b22a8922768b8088c1697fc434679849fa27c488448639a04a",
+   "timestamp": "1999-08-01T17:08:44.000Z"
+  },
+  "sop/progs/arrow.mdl": {
+   "bytes": 12161,
+   "sha256": "41339f3222ee6fc0cd85a58a7b2a6c4330e284ea39ecb7002d97927244c5250a",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/babysham.mdl": {
+   "bytes": 98556,
+   "sha256": "8e86cddcb2f52107ed6d39f7b16ef8c4d9cd90184387e078af2dea8a1f9439d2",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/beam.mdl": {
+   "bytes": 10608,
+   "sha256": "2165a66ba1d40fa378df735835b014791e769cb8bc56e06977aefdf134bb61d5",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/beamhit.spr": {
+   "bytes": 5320,
+   "sha256": "bdfe3464c0bea904c3d35135b6d242f486298447ea45c3f96cce7ac6b71a3e54",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/bs_light.mdl": {
+   "bytes": 28707,
+   "sha256": "6c646ab4291d12aecdad5d9af4c44f4d68fc207c730dbf3ac04e07103cdd2c12",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/candle.mdl": {
+   "bytes": 21476,
+   "sha256": "f3193191ab17b7186f623ef26d1a1bc66c3db35ed7cc63cbce6f910ec1a601b5",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/dring.spr": {
+   "bytes": 387832,
+   "sha256": "94adc8ada163983eae9ccb924bd4ef4d8ebb2613bd23705d2e8a7bb73e7657d1",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/expl.spr": {
+   "bytes": 127672,
+   "sha256": "553b80901ee3d765c147ecce187a53989ded3991532e02f53c5b0cbb42aad5d4",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/g_beam.mdl": {
+   "bytes": 68996,
+   "sha256": "db2566d26863472c6176c91b2256c12b5fdd28b5e1ba0a3ff2aa9e122ed0cacb",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/h_bsham.mdl": {
+   "bytes": 37447,
+   "sha256": "28f210b7a891c8a430c39932700ae116331cb673f68a9f8963c663932bf583d5",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/h_servo.mdl": {
+   "bytes": 159656,
+   "sha256": "f6e00f1d618c3586d96984737a6175688b1b8943f0e5c6a0be4cfb59ccbdca3c",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/player.mdl": {
+   "bytes": 191852,
+   "sha256": "10cecfe08d312ff17c63529e280b976c50018f683f541cb03b2048c7a681ebf9",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/rubble1.mdl": {
+   "bytes": 69839,
+   "sha256": "48951b0bf15ef846c8e657446ec100d69d49f8d15eb62c0837105c6e5171e866",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/rubble2.mdl": {
+   "bytes": 200266,
+   "sha256": "3191f808a5b5fb9f4a712a5486348e49e1c1dc2f81e72a74928be4e857c45a77",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/rubble3.mdl": {
+   "bytes": 303486,
+   "sha256": "742e55e055dbb61acf51d5f41d8b605cffee4dabc3d93357df8dc1dd9e7ad2ab",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/s_null.spr": {
+   "bytes": 56,
+   "sha256": "29e9c18546413f0abc9c6f507c61952f33afa6507b52d1c2197b57e3be7870a9",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/servobod.mdl": {
+   "bytes": 219324,
+   "sha256": "e791ca46d9ea19e870a530e808f6c9d7e472882a4f0fe8103277316de9f09bad",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/servodie.mdl": {
+   "bytes": 444399,
+   "sha256": "4f1c146002f4efaa3cd064167be022286066344a6106ea7d11c7320267211676",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/servoleg.mdl": {
+   "bytes": 178044,
+   "sha256": "27b588b8c7ca9e56fb3d71c62d3886d7aaa0f3e9d9e757f855d2d762dd192efc",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/v_beam.mdl": {
+   "bytes": 75588,
+   "sha256": "c00fe7872cb2c88626e63d99c3cc00b83f9968803344cd2021e8fc26bd25ccba",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/progs/v_beam2.mdl": {
+   "bytes": 75588,
+   "sha256": "95b3a260450ca784bda0885da994a5a857cf9948581ed1e68c4b202c51dae670",
+   "timestamp": "1999-08-01T17:22:16.000Z"
+  },
+  "sop/progs/weather.spr": {
+   "bytes": 66164,
+   "sha256": "6364500483ce0b25486611c3fd48c239414a094a1a5ba3fd29acdf85fe8eb419",
+   "timestamp": "1999-08-01T17:22:18.000Z"
+  },
+  "sop/sopv2.txt": {
+   "bytes": 11192,
+   "sha256": "894d48fabf6e65ab76e34dc4157018aabac7ac2a534aa0d418a295d07126d51c",
+   "timestamp": "1999-08-01T15:28:24.000Z"
+  },
+  "sop/sopv3.txt": {
+   "bytes": 4575,
+   "sha256": "34e43ac50f81d9b0c443b83c83a9f043b1807a14a469afb51baafd51da76caa5",
+   "timestamp": "1999-08-01T16:09:34.000Z"
+  },
+  "sop/sound/MISC/Shortexp.wav": {
+   "bytes": 27562,
+   "sha256": "cf90bda77238ba9633aee88edfd22306128fe5515f2e854c19afdeab733cc2cc",
+   "timestamp": "1996-01-01T21:24:28.000Z"
+  },
+  "sop/sound/MISC/rumble.wav": {
+   "bytes": 53068,
+   "sha256": "1b0bea88a28404b9082a6b311dd43e1e96c0dd1acb1ac757fbf77c78d7114e6a",
+   "timestamp": "1996-01-01T14:53:12.000Z"
+  },
+  "sop123_quaddictedrepack.txt": {
+   "bytes": 319,
+   "sha256": "51a4928d70ea967937dab7645cdd80c93a5f009e2b869b3df39890a52ed86a98",
+   "timestamp": "2009-04-28T16:51:02.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af",
+ "tags": [
+  "author=Graham Davis (OrbItaL)",
+  "commandline=-game sop",
+  "filename=sop123.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link=[TEAMShambler](/webarchive/teamshambler.planetquake.gamespy.com/rev990804.html)",
+  "link=[erc's Quality](http://qexpo.tastyspleen.net/booth.php?id=155&amp;page=282)",
+  "nonspecific_tag=monsters",
+  "release_date=1999-08-01",
+  "startmap=start",
+  "title=The Source of Power",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/sop123.zip",
+  "https://www.quaddicted.com/files/by-sha256/e3/e3dc35680395de81f7b63d5abe638e2f9525c96a37a3343132e620d263a413af/sop123.zip"
+ ]
+}

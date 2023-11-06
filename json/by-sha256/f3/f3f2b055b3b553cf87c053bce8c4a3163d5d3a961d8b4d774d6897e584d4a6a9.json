@@ -1,0 +1,196 @@
+{
+ "bytes": 3019,
+ "files": {
+  "demo1.dem": {
+   "bytes": 143640,
+   "sha256": "3fa0abb3d03b45c6abc54147b3beb70a8cf68a46e9b7498efe87240e1ee8e8e3",
+   "timestamp": "2001-04-27T20:31:36.000Z"
+  },
+  "demo2.dem": {
+   "bytes": 68990,
+   "sha256": "cdba587d285c7b41e65ca08f6e9c07f73ddbc9a4faa317320f27f9d33166f093",
+   "timestamp": "2001-04-13T10:56:52.000Z"
+  },
+  "demo3.dem": {
+   "bytes": 157636,
+   "sha256": "c1618e641c94b67dcf3dc2e8bb4e996ffcaa2980c87174a9e345cc9e1a0c4b39",
+   "timestamp": "2001-04-27T20:36:24.000Z"
+  },
+  "pak0.pak": {
+   "bytes": 6846065,
+   "files": {
+    "gfx/complete.lmp": {
+     "bytes": 4616,
+     "sha256": "4ce01b9677b264e87b8cdc215ece73145be8145c55f4a5c77d652bded977ff94"
+    },
+    "gfx/conback.lmp": {
+     "bytes": 64008,
+     "sha256": "13a9c6fcb6ba14ea402ef29c351477d9f86b195a2c0fdf1696392abe091288ec"
+    },
+    "gfx/finale.lmp": {
+     "bytes": 6920,
+     "sha256": "b3626155d68916ff35faea09f0a55d6b79745aaa52d35488fa30f86235c89abc"
+    },
+    "gfx/loading.lmp": {
+     "bytes": 3464,
+     "sha256": "8a2347b6b9ce45fea24933e6bb5785d14bcaf048c8ccf5cfccea01f1f7c286fe"
+    },
+    "gfx/mainmenu.lmp": {
+     "bytes": 26888,
+     "sha256": "602618634f726a25dec05fe0403fe87f1eebd7d41523b8d6a25f0523c103a4be"
+    },
+    "gfx/paused.lmp": {
+     "bytes": 3080,
+     "sha256": "ede8fb11ba31852212de75538e72aae3355d5fbe190303298b65219605f4e432"
+    },
+    "gfx/qplaque.lmp": {
+     "bytes": 4616,
+     "sha256": "8ca8a297dec6a9f7b9449d7ccb78e5706cd08e5651f095c6696fd29759ae5354"
+    },
+    "gfx/sp_menu.lmp": {
+     "bytes": 14856,
+     "sha256": "2d86e45bd797db46f28b60b152203450391a03f821580c909edc6dd7ea0f2d89"
+    },
+    "gfx/ttl_main.lmp": {
+     "bytes": 2312,
+     "sha256": "74186fdf17cc6e929a40671ca927d0bb4429c40dccfc8305031e3bfc2f1d6b68"
+    },
+    "gfx/ttl_sgl.lmp": {
+     "bytes": 3080,
+     "sha256": "7f9e59a7be278b6d1a3551419e7d0d063c1666c2341900607bd54f184343f989"
+    },
+    "maps/e1m1.bsp": {
+     "bytes": 623348,
+     "sha256": "1461944902200bde182c8057123e3d21c98731451a6857734be0792f7ea3573b"
+    },
+    "maps/e1m2.bsp": {
+     "bytes": 628364,
+     "sha256": "4f8febea9efbfb581c017acb4e5b719886a9eaa36335ad5ddc76bcee79015d8f"
+    },
+    "maps/e1m3.bsp": {
+     "bytes": 883232,
+     "sha256": "ddf27ddacb7d30bf6a3de135844d5a4acc3fda7362cb47720bd1c03b400f6046"
+    },
+    "maps/e1m4.bsp": {
+     "bytes": 753224,
+     "sha256": "825773db46b9576d08c818fc45ae956baf1907080c3b012cce07a3df56396c1d"
+    },
+    "maps/e1m5.bsp": {
+     "bytes": 286476,
+     "sha256": "f6898ec01fbc90eaad1a112dd58b0165c5a69ec86339d1a2c485dfe27a2a3e8e"
+    },
+    "maps/e1m6.bsp": {
+     "bytes": 1145584,
+     "sha256": "c91b738ecac1a3195600cc488d6e2e1142f1d23093460765b845831b37fc6ef8"
+    },
+    "maps/start.bsp": {
+     "bytes": 661484,
+     "sha256": "dac53f8d9f390a47350bb4fa17d598a55350095429ef0428a56dc8cd6320a462"
+    },
+    "progs.dat": {
+     "bytes": 418520,
+     "sha256": "950e44558a7f2ae2527c8ac9067de187eafbf78eee813e408635bc42c8a982e5"
+    },
+    "progs/Gib1.mdl": {
+     "bytes": 22483,
+     "sha256": "11553315aeedcb61c5196922e59c22dbcdaa997d8513042bb477001ee7f5a3af"
+    },
+    "progs/Gib3.mdl": {
+     "bytes": 22228,
+     "sha256": "91e4a4a8024d2e5316a0a41b4623a58dd401257124a0da6a6770ab79507f20ea"
+    },
+    "progs/backpack.mdl": {
+     "bytes": 22292,
+     "sha256": "de3fd4403a49fe98e9f9d10726e74a4683f43a272103d89383e77e5328cf2292"
+    },
+    "progs/demon.mdl": {
+     "bytes": 180708,
+     "sha256": "1bd49ac9c67608d29059467db6ea0b37b3dce7049eda32e3c3959232c743518b"
+    },
+    "progs/h_demon.mdl": {
+     "bytes": 44553,
+     "sha256": "175ee0e2e28ebb3a004d1783af2eaad4880a3572fb38c1d24b6281a9ebb4023f"
+    },
+    "progs/knight.mdl": {
+     "bytes": 241188,
+     "sha256": "acce69944694da0ee77427187c327caf67fe6e2314a51b086b448560e09dbfb7"
+    },
+    "progs/soldier.mdl": {
+     "bytes": 146288,
+     "sha256": "84135f3cacc9e00385a56ded56c66b80483bf845f940029bad30754143f2284d"
+    },
+    "progs/v_axe.mdl": {
+     "bytes": 207049,
+     "sha256": "36bda51198aa9ddcebb6d3eb9e3d4a4d60630e3859a6a52af832c25faa9e3090"
+    },
+    "progs/v_rock2.mdl": {
+     "bytes": 155864,
+     "sha256": "16c503fb042bbcec8ba228ee748208698c88a552adcaab8ee6bee4b505acb5f5"
+    },
+    "progs/v_shot.mdl": {
+     "bytes": 145704,
+     "sha256": "efe63d3890e0f7cc86ff8e685cdddc55a4985f4ba5b81a64eeb13aa6b7ec72ab"
+    },
+    "sound/demon/ddeath.wav": {
+     "bytes": 24916,
+     "sha256": "d051c976822a8a7bfb3613d5e67aeaa514ac9baa7a460047b49a7b95a5f3a006"
+    },
+    "sound/demon/dhit.wav": {
+     "bytes": 11716,
+     "sha256": "a7e30308a8ad2505cadc647301f2283d19450528f01b5b7e345db97d27050b08"
+    },
+    "sound/demon/djump.wav": {
+     "bytes": 22202,
+     "sha256": "e4c0d9a121f35afaf68f2607b4df2b4f8de606805e3b67e825f6d09960215ee1"
+    },
+    "sound/demon/dpain.wav": {
+     "bytes": 12798,
+     "sha256": "93feac5142cda6fc4596bdcbc0fa3e784a24d6ebc5d4279860d1e67e221a1739"
+    },
+    "sound/demon/idle1.wav": {
+     "bytes": 11174,
+     "sha256": "a09e00aef702e4d538da805bb39d35f11c2fcd058f89a0bb453a57daad45310c"
+    },
+    "sound/demon/sight2.wav": {
+     "bytes": 38642,
+     "sha256": "7f6fd555f897cef6cdc53dd5a60af74af5b3dba315f86903d4814773934f0b19"
+    }
+   },
+   "sha256": "fa42544a7470d78441bb03fda022aae99a2f12e9f054bd5cf3095b2bef8a7c02",
+   "timestamp": "2001-05-06T19:29:12.000Z"
+  },
+  "readme.txt": {
+   "bytes": 2436,
+   "sha256": "132c4360b5232c97649b211d30f3e4d514e511c68cf1920ed218908bb2f7b041",
+   "timestamp": "2001-05-06T19:52:28.000Z"
+  }
+ },
+ "install": {
+  "extract": "{base}/raptors/"
+ },
+ "json_version": "2023.11.06-23.20",
+ "sha256": "f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9",
+ "tags": [
+  "author=Andy \"ajay\" Simpson",
+  "commandline=-game raptors",
+  "filename=rapv20.zip",
+  "game=quake",
+  "game_mode=singleplayer",
+  "link:homepage=http://www.ajaysquakesite.co.uk",
+  "link=[Quake Terminus](http://www.quaketerminus.com/addon.htm)",
+  "link=[Ten Four](http://tenfourmaps.telefragged.com/php/review.php?gameid=q1&amp;levid=raptors)",
+  "nonspecific_tag=dinosaurs",
+  "nonspecific_tag=monsters",
+  "nonspecific_tag=weapons",
+  "release_date=2001-05-06",
+  "startmap=start",
+  "theme=realism",
+  "title=Raptors!",
+  "type=episode",
+  "type=mod"
+ ],
+ "urls": [
+  "https://www.quaddicted.com/filebase/rapv20.zip",
+  "https://www.quaddicted.com/files/by-sha256/f3/f3f2b055b3b553cf87c053bce8c4a3163d5d3a961d8b4d774d6897e584d4a6a9/rapv20.zip"
+ ]
+}
